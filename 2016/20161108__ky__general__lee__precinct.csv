@@ -1,0 +1,157 @@
+county,precinct,office,district,party,candidate,absentee_paper,absentee_machine,votes
+Lee,Absentee,Ballots Cast,,,,84,105,189
+Lee,Beattyville 1,Ballots Cast,,,,,,188
+Lee,Beattyville 2,Ballots Cast,,,,,,179
+Lee,Beattyville 3,Ballots Cast,,,,,,299
+Lee,St. Helens,Ballots Cast,,,,,,296
+Lee,Ivy Patch,Ballots Cast,,,,,,251
+Lee,Beattyville 4,Ballots Cast,,,,,,174
+Lee,Leeco,Ballots Cast,,,,,,217
+Lee,Sand Field,Ballots Cast,,,,,,298
+Lee,Heidelberg,Ballots Cast,,,,,,198
+Lee,Proctor,Ballots Cast,,,,,,443
+Lee,Total,Ballots Cast,,,,,,2732
+Lee,Absentee,President,,REP,Donald J. Trump,52,84,136
+Lee,Beattyville 1,President,,REP,Donald J. Trump,,,135
+Lee,Beattyville 2,President,,REP,Donald J. Trump,,,133
+Lee,Beattyville 3,President,,REP,Donald J. Trump,,,237
+Lee,St. Helens,President,,REP,Donald J. Trump,,,247
+Lee,Ivy Patch,President,,REP,Donald J. Trump,,,206
+Lee,Beattyville 4,President,,REP,Donald J. Trump,,,134
+Lee,Leeco,President,,REP,Donald J. Trump,,,174
+Lee,Sand Field,President,,REP,Donald J. Trump,,,244
+Lee,Heidelberg,President,,REP,Donald J. Trump,,,156
+Lee,Proctor,President,,REP,Donald J. Trump,,,349
+Lee,Total,President,,REP,Donald J. Trump,,,2151
+Lee,Absentee,President,,DEM,Hillary Clinton,23,16,39
+Lee,Beattyville 1,President,,DEM,Hillary Clinton,,,34
+Lee,Beattyville 2,President,,DEM,Hillary Clinton,,,36
+Lee,Beattyville 3,President,,DEM,Hillary Clinton,,,49
+Lee,St. Helens,President,,DEM,Hillary Clinton,,,41
+Lee,Ivy Patch,President,,DEM,Hillary Clinton,,,39
+Lee,Beattyville 4,President,,DEM,Hillary Clinton,,,30
+Lee,Leeco,President,,DEM,Hillary Clinton,,,30
+Lee,Sand Field,President,,DEM,Hillary Clinton,,,40
+Lee,Heidelberg,President,,DEM,Hillary Clinton,,,32
+Lee,Proctor,President,,DEM,Hillary Clinton,,,74
+Lee,Total,President,,DEM,Hillary Clinton,,,444
+Lee,Absentee,President,,LIB,Gary Johnson,1,2,3
+Lee,Beattyville 1,President,,LIB,Gary Johnson,,,2
+Lee,Beattyville 2,President,,LIB,Gary Johnson,,,5
+Lee,Beattyville 3,President,,LIB,Gary Johnson,,,5
+Lee,St. Helens,President,,LIB,Gary Johnson,,,1
+Lee,Ivy Patch,President,,LIB,Gary Johnson,,,1
+Lee,Beattyville 4,President,,LIB,Gary Johnson,,,6
+Lee,Leeco,President,,LIB,Gary Johnson,,,3
+Lee,Sand Field,President,,LIB,Gary Johnson,,,7
+Lee,Heidelberg,President,,LIB,Gary Johnson,,,2
+Lee,Proctor,President,,LIB,Gary Johnson,,,7
+Lee,Total,President,,LIB,Gary Johnson,,,42
+Lee,Absentee,President,,ADP,Rocky De La Fuente,0,0,0
+Lee,Beattyville 1,President,,ADP,Rocky De La Fuente,,,0
+Lee,Beattyville 2,President,,ADP,Rocky De La Fuente,,,1
+Lee,Beattyville 3,President,,ADP,Rocky De La Fuente,,,0
+Lee,St. Helens,President,,ADP,Rocky De La Fuente,,,0
+Lee,Ivy Patch,President,,ADP,Rocky De La Fuente,,,0
+Lee,Beattyville 4,President,,ADP,Rocky De La Fuente,,,0
+Lee,Leeco,President,,ADP,Rocky De La Fuente,,,0
+Lee,Sand Field,President,,ADP,Rocky De La Fuente,,,0
+Lee,Heidelberg,President,,ADP,Rocky De La Fuente,,,1
+Lee,Proctor,President,,ADP,Rocky De La Fuente,,,2
+Lee,Total,President,,ADP,Rocky De La Fuente,,,4
+Lee,Absentee,President,,GRN,Jill Stein,0,0,0
+Lee,Beattyville 1,President,,GRN,Jill Stein,,,2
+Lee,Beattyville 2,President,,GRN,Jill Stein,,,0
+Lee,Beattyville 3,President,,GRN,Jill Stein,,,2
+Lee,St. Helens,President,,GRN,Jill Stein,,,0
+Lee,Ivy Patch,President,,GRN,Jill Stein,,,1
+Lee,Beattyville 4,President,,GRN,Jill Stein,,,0
+Lee,Leeco,President,,GRN,Jill Stein,,,1
+Lee,Sand Field,President,,GRN,Jill Stein,,,0
+Lee,Heidelberg,President,,GRN,Jill Stein,,,0
+Lee,Proctor,President,,GRN,Jill Stein,,,1
+Lee,Total,President,,GRN,Jill Stein,,,7
+Lee,Absentee,President,,,Evan McMullin,0,0,0
+Lee,Beattyville 1,President,,,Evan McMullin,,,1
+Lee,Beattyville 2,President,,,Evan McMullin,,,0
+Lee,Beattyville 3,President,,,Evan McMullin,,,2
+Lee,St. Helens,President,,,Evan McMullin,,,1
+Lee,Ivy Patch,President,,,Evan McMullin,,,3
+Lee,Beattyville 4,President,,,Evan McMullin,,,1
+Lee,Leeco,President,,,Evan McMullin,,,5
+Lee,Sand Field,President,,,Evan McMullin,,,1
+Lee,Heidelberg,President,,,Evan McMullin,,,1
+Lee,Proctor,President,,,Evan McMullin,,,4
+Lee,Total,President,,,Evan McMullin,,,19
+Lee,Absentee,U.S. Senate,,REP,Rand Paul,45,74,119
+Lee,Beattyville 1,U.S. Senate,,REP,Rand Paul,,,98
+Lee,Beattyville 2,U.S. Senate,,REP,Rand Paul,,,100
+Lee,Beattyville 3,U.S. Senate,,REP,Rand Paul,,,179
+Lee,St. Helens,U.S. Senate,,REP,Rand Paul,,,201
+Lee,Ivy Patch,U.S. Senate,,REP,Rand Paul,,,164
+Lee,Beattyville 4,U.S. Senate,,REP,Rand Paul,,,104
+Lee,Leeco,U.S. Senate,,REP,Rand Paul,,,132
+Lee,Sand Field,U.S. Senate,,REP,Rand Paul,,,193
+Lee,Heidelberg,U.S. Senate,,REP,Rand Paul,,,114
+Lee,Proctor,U.S. Senate,,REP,Rand Paul,,,284
+Lee,Total,U.S. Senate,,REP,Rand Paul,,,1688
+Lee,Absentee,U.S. Senate,,DEM,Jim Gray,25,27,52
+Lee,Beattyville 1,U.S. Senate,,DEM,Jim Gray,,,69
+Lee,Beattyville 2,U.S. Senate,,DEM,Jim Gray,,,73
+Lee,Beattyville 3,U.S. Senate,,DEM,Jim Gray,,,102
+Lee,St. Helens,U.S. Senate,,DEM,Jim Gray,,,85
+Lee,Ivy Patch,U.S. Senate,,DEM,Jim Gray,,,73
+Lee,Beattyville 4,U.S. Senate,,DEM,Jim Gray,,,61
+Lee,Leeco,U.S. Senate,,DEM,Jim Gray,,,77
+Lee,Sand Field,U.S. Senate,,DEM,Jim Gray,,,95
+Lee,Heidelberg,U.S. Senate,,DEM,Jim Gray,,,72
+Lee,Proctor,U.S. Senate,,DEM,Jim Gray,,,139
+Lee,Total,U.S. Senate,,DEM,Jim Gray,,,898
+Lee,Absentee,U.S. House,5,REP,"Harold ""Hal"" Rogers",60,82,142
+Lee,Beattyville 1,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,152
+Lee,Beattyville 2,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,139
+Lee,Beattyville 3,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,228
+Lee,St. Helens,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,229
+Lee,Ivy Patch,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,192
+Lee,Beattyville 4,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,131
+Lee,Leeco,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,180
+Lee,Sand Field,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,233
+Lee,Heidelberg,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,151
+Lee,Proctor,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,362
+Lee,Total,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,2139
+Lee,Absentee,State Senate,25,REP,Robert Stivers,56,84,140
+Lee,Beattyville 1,State Senate,25,REP,Robert Stivers,,,140
+Lee,Beattyville 2,State Senate,25,REP,Robert Stivers,,,140
+Lee,Beattyville 3,State Senate,25,REP,Robert Stivers,,,218
+Lee,St. Helens,State Senate,25,REP,Robert Stivers,,,221
+Lee,Ivy Patch,State Senate,25,REP,Robert Stivers,,,176
+Lee,Beattyville 4,State Senate,25,REP,Robert Stivers,,,119
+Lee,Leeco,State Senate,25,REP,Robert Stivers,,,158
+Lee,Sand Field,State Senate,25,REP,Robert Stivers,,,221
+Lee,Heidelberg,State Senate,25,REP,Robert Stivers,,,135
+Lee,Proctor,State Senate,25,REP,Robert Stivers,,,351
+Lee,Total,State Senate,25,REP,Robert Stivers,,,2019
+Lee,Absentee,State House,91,REP,"Gary ""Toby"" Herald",47,73,120
+Lee,Beattyville 1,State House,91,REP,"Gary ""Toby"" Herald",,,105
+Lee,Beattyville 2,State House,91,REP,"Gary ""Toby"" Herald",,,108
+Lee,Beattyville 3,State House,91,REP,"Gary ""Toby"" Herald",,,195
+Lee,St. Helens,State House,91,REP,"Gary ""Toby"" Herald",,,206
+Lee,Ivy Patch,State House,91,REP,"Gary ""Toby"" Herald",,,155
+Lee,Beattyville 4,State House,91,REP,"Gary ""Toby"" Herald",,,124
+Lee,Leeco,State House,91,REP,"Gary ""Toby"" Herald",,,138
+Lee,Sand Field,State House,91,REP,"Gary ""Toby"" Herald",,,191
+Lee,Heidelberg,State House,91,REP,"Gary ""Toby"" Herald",,,126
+Lee,Proctor,State House,91,REP,"Gary ""Toby"" Herald",,,292
+Lee,Total,State House,91,REP,"Gary ""Toby"" Herald",,,1760
+Lee,Absentee,State House,91,DEM,Cluster Howard,24,25,49
+Lee,Beattyville 1,State House,91,DEM,Cluster Howard,,,72
+Lee,Beattyville 2,State House,91,DEM,Cluster Howard,,,65
+Lee,Beattyville 3,State House,91,DEM,Cluster Howard,,,88
+Lee,St. Helens,State House,91,DEM,Cluster Howard,,,77
+Lee,Ivy Patch,State House,91,DEM,Cluster Howard,,,81
+Lee,Beattyville 4,State House,91,DEM,Cluster Howard,,,44
+Lee,Leeco,State House,91,DEM,Cluster Howard,,,69
+Lee,Sand Field,State House,91,DEM,Cluster Howard,,,92
+Lee,Heidelberg,State House,91,DEM,Cluster Howard,,,65
+Lee,Proctor,State House,91,DEM,Cluster Howard,,,134
+Lee,Total,State House,91,DEM,Cluster Howard,,,836
