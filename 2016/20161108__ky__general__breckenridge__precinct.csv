@@ -32,17 +32,17 @@ Breckenridge,Garfield,President,,LIB,Gary Johnson,,,6,16,22
 Breckenridge,Irvington 1,President,,LIB,Gary Johnson,,,2,10,12
 Breckenridge,Irvington 2,President,,LIB,Gary Johnson,,,3,7,10
 Breckenridge,Bewleyville,President,,LIB,Gary Johnson,,,4,4,8
-Breckenridge,Absentee,President,,,Rocky De La Fuente,0,0,,,0
-Breckenridge,Hardinsburg 1,President,,,Rocky De La Fuente,,,1,1,2
-Breckenridge,Hardinsburg 2,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Cloverport 1,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Cloverport 2,President,,,Rocky De La Fuente,,,0,1,1
-Breckenridge,McQuady,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Union Star,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Garfield,President,,,Rocky De La Fuente,,,0,1,1
-Breckenridge,Irvington 1,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Irvington 2,President,,,Rocky De La Fuente,,,0,0,0
-Breckenridge,Bewleyville,President,,,Rocky De La Fuente,,,0,0,0
+Breckenridge,Absentee,President,,ADP,Rocky De La Fuente,0,0,,,0
+Breckenridge,Hardinsburg 1,President,,ADP,Rocky De La Fuente,,,1,1,2
+Breckenridge,Hardinsburg 2,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Cloverport 1,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Cloverport 2,President,,ADP,Rocky De La Fuente,,,0,1,1
+Breckenridge,McQuady,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Union Star,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Garfield,President,,ADP,Rocky De La Fuente,,,0,1,1
+Breckenridge,Irvington 1,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Irvington 2,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Bewleyville,President,,ADP,Rocky De La Fuente,,,0,0,0
 Breckenridge,Absentee,President,,GRN,Jill Stein,0,4,,,4
 Breckenridge,Hardinsburg 1,President,,GRN,Jill Stein,,,1,3,4
 Breckenridge,Hardinsburg 2,President,,GRN,Jill Stein,,,0,1,1
@@ -142,3 +142,94 @@ Breckenridge,Garfield,State House,10,DEM,Dean Schamore,,,96,297,393
 Breckenridge,Irvington 1,State House,10,DEM,Dean Schamore,,,81,281,362
 Breckenridge,Irvington 2,State House,10,DEM,Dean Schamore,,,56,211,267
 Breckenridge,Bewleyville,State House,10,DEM,Dean Schamore,,,61,78,139
+Breckenridge,Hudson,President,,REP,Donald J. Trump,,,3,326,329
+Breckenridge,Custer,President,,REP,Donald J. Trump,,,86,288,374
+Breckenridge,Harned,President,,REP,Donald J. Trump,,,65,219,284
+Breckenridge,McDaniels,President,,REP,Donald J. Trump,,,3,700,703
+Breckenridge,Glen Dean,President,,REP,Donald J. Trump,,,68,128,196
+Breckenridge,Westview,President,,REP,Donald J. Trump,,,68,150,218
+Breckenridge,Totals,President,,REP,Donald J. Trump,,,,,6484
+Breckenridge,Hudson,President,,DEM,Hillary Clinton,,,2,54,56
+Breckenridge,Custer,President,,DEM,Hillary Clinton,,,18,64,82
+Breckenridge,Harned,President,,DEM,Hillary Clinton,,,16,62,78
+Breckenridge,McDaniels,President,,DEM,Hillary Clinton,,,2,218,220
+Breckenridge,Glen Dean,President,,DEM,Hillary Clinton,,,12,28,40
+Breckenridge,Westview,President,,DEM,Hillary Clinton,,,21,32,53
+Breckenridge,Totals,President,,DEM,Hillary Clinton,,,,,1960
+Breckenridge,Hudson,President,,LIB,Gary Johnson,,,0,5,5
+Breckenridge,Custer,President,,LIB,Gary Johnson,,,4,12,16
+Breckenridge,Harned,President,,LIB,Gary Johnson,,,2,5,7
+Breckenridge,McDaniels,President,,LIB,Gary Johnson,,,0,14,14
+Breckenridge,Glen Dean,President,,LIB,Gary Johnson,,,4,2,6
+Breckenridge,Westview,President,,LIB,Gary Johnson,,,7,1,8
+Breckenridge,Totals,President,,LIB,Gary Johnson,,,,,194
+Breckenridge,Hudson,President,,ADP,Rocky De La Fuente,,,0,1,1
+Breckenridge,Custer,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Harned,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,McDaniels,President,,ADP,Rocky De La Fuente,,,0,1,1
+Breckenridge,Glen Dean,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Westview,President,,ADP,Rocky De La Fuente,,,0,0,0
+Breckenridge,Totals,President,,ADP,Rocky De La Fuente,,,,,6
+Breckenridge,Hudson,President,,GRN,Jill Stein,,,0,3,3
+Breckenridge,Custer,President,,GRN,Jill Stein,,,0,6,6
+Breckenridge,Harned,President,,GRN,Jill Stein,,,0,0,0
+Breckenridge,McDaniels,President,,GRN,Jill Stein,,,0,2,2
+Breckenridge,Glen Dean,President,,GRN,Jill Stein,,,0,2,2
+Breckenridge,Westview,President,,GRN,Jill Stein,,,0,1,1
+Breckenridge,Totals,President,,GRN,Jill Stein,,,,,47
+Breckenridge,Hudson,President,,,Evan McMullin,,,0,1,1
+Breckenridge,Custer,President,,,Evan McMullin,,,1,3,4
+Breckenridge,Harned,President,,,Evan McMullin,,,0,0,0
+Breckenridge,McDaniels,President,,,Evan McMullin,,,0,2,2
+Breckenridge,Glen Dean,President,,,Evan McMullin,,,2,0,2
+Breckenridge,Westview,President,,,Evan McMullin,,,1,0,1
+Breckenridge,Totals,President,,,Evan McMullin,,,,,80
+Breckenridge,Hudson,U.S. Senate,,REP,Rand Paul,,,3,266,269
+Breckenridge,Custer,U.S. Senate,,REP,Rand Paul,,,63,241,304
+Breckenridge,Harned,U.S. Senate,,REP,Rand Paul,,,59,173,232
+Breckenridge,McDaniels,U.S. Senate,,REP,Rand Paul,,,1,598,599
+Breckenridge,Glen Dean,U.S. Senate,,REP,Rand Paul,,,55,112,167
+Breckenridge,Westview,U.S. Senate,,REP,Rand Paul,,,63,124,187
+Breckenridge,Totals,U.S. Senate,,REP,Rand Paul,,,,,5413
+Breckenridge,Hudson,U.S. Senate,,DEM,Jim Gray,,,2,113,115
+Breckenridge,Custer,U.S. Senate,,DEM,Jim Gray,,,42,126,168
+Breckenridge,Harned,U.S. Senate,,DEM,Jim Gray,,,21,104,125
+Breckenridge,McDaniels,U.S. Senate,,DEM,Jim Gray,,,4,329,333
+Breckenridge,Glen Dean,U.S. Senate,,DEM,Jim Gray,,,29,47,76
+Breckenridge,Westview,U.S. Senate,,DEM,Jim Gray,,,33,58,91
+Breckenridge,Totals,U.S. Senate,,DEM,Jim Gray,,,,,3233
+Breckenridge,Hudson,U.S. House,2,REP,S. Brett Guthrie,,,3,302,305
+Breckenridge,Custer,U.S. House,2,REP,S. Brett Guthrie,,,88,295,383
+Breckenridge,Harned,U.S. House,2,REP,S. Brett Guthrie,,,70,214,284
+Breckenridge,McDaniels,U.S. House,2,REP,S. Brett Guthrie,,,3,735,738
+Breckenridge,Glen Dean,U.S. House,2,REP,S. Brett Guthrie,,,70,137,207
+Breckenridge,Westview,U.S. House,2,REP,S. Brett Guthrie,,,77,144,221
+Breckenridge,Totals,U.S. House,2,REP,S. Brett Guthrie,,,,,6820
+Breckenridge,Hudson,State Senate,5,REP,Stephen L. Meredith,,,2,245,247
+Breckenridge,Custer,State Senate,5,REP,Stephen L. Meredith,,,58,205,263
+Breckenridge,Harned,State Senate,5,REP,Stephen L. Meredith,,,41,154,195
+Breckenridge,McDaniels,State Senate,5,REP,Stephen L. Meredith,,,3,574,577
+Breckenridge,Glen Dean,State Senate,5,REP,Stephen L. Meredith,,,56,103,159
+Breckenridge,Westview,State Senate,5,REP,Stephen L. Meredith,,,53,97,150
+Breckenridge,Totals,State Senate,5,REP,Stephen L. Meredith,,,,,4740
+Breckenridge,Hudson,State Senate,5,DEM,Leslie J. Stith,,,3,135,138
+Breckenridge,Custer,State Senate,5,DEM,Leslie J. Stith,,,49,161,210
+Breckenridge,Harned,State Senate,5,DEM,Leslie J. Stith,,,40,124,164
+Breckenridge,McDaniels,State Senate,5,DEM,Leslie J. Stith,,,2,340,342
+Breckenridge,Glen Dean,State Senate,5,DEM,Leslie J. Stith,,,29,58,87
+Breckenridge,Westview,State Senate,5,DEM,Leslie J. Stith,,,43,81,124
+Breckenridge,Totals,State Senate,5,DEM,Leslie J. Stith,,,,,3809
+Breckenridge,Hudson,State House,10,REP,T.W. Shortt,,,2,187,189
+Breckenridge,Custer,State House,10,REP,T.W. Shortt,,,41,163,204
+Breckenridge,Harned,State House,10,REP,T.W. Shortt,,,24,90,114
+Breckenridge,McDaniels,State House,10,REP,T.W. Shortt,,,3,429,432
+Breckenridge,Glen Dean,State House,10,REP,T.W. Shortt,,,40,65,105
+Breckenridge,Westview,State House,10,REP,T.W. Shortt,,,22,60,82
+Breckenridge,Totals,State House,10,REP,T.W. Shortt,,,,,3404
+Breckenridge,Hudson,State House,10,DEM,Dean Schamore,,,3,196,199
+Breckenridge,Custer,State House,10,DEM,Dean Schamore,,,68,205,273
+Breckenridge,Harned,State House,10,DEM,Dean Schamore,,,60,194,254
+Breckenridge,McDaniels,State House,10,DEM,Dean Schamore,,,2,497,499
+Breckenridge,Glen Dean,State House,10,DEM,Dean Schamore,,,46,94,140
+Breckenridge,Westview,State House,10,DEM,Dean Schamore,,,77,125,202
+Breckenridge,Totals,State House,10,DEM,Dean Schamore,,,,,5288

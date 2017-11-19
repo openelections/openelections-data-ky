@@ -131,3 +131,91 @@ Mercer,Duncan,State House,55,DEM,Tobie C. Brown,,,0,35,35
 Mercer,McAfee,State House,55,DEM,Tobie C. Brown,,,6,182,188
 Mercer,Stringtown,State House,55,DEM,Tobie C. Brown,,,0,128,128
 Mercer,Total,State House,55,DEM,Tobie C. Brown,,,50,1120,1311
+Mercer,Robinson-House,President,,REP,Donald J. Trump,,,105,179,284
+Mercer,North Burgin,President,,REP,Donald J. Trump,,,125,685,810
+Mercer,South Burgin,President,,REP,Donald J. Trump,,,20,438,458
+Mercer,Courthouse,President,,REP,Donald J. Trump,,,14,322,336
+Mercer,Chambers House,President,,REP,Donald J. Trump,,,15,430,445
+Mercer,Passmore House,President,,REP,Donald J. Trump,,,29,521,550
+Mercer,Opera House,President,,REP,Donald J. Trump,,,58,338,396
+Mercer,Total,President,,REP,Donald J. Trump,,,,,7740
+Mercer,Robinson-House,President,,DEM,Hillary Clinton,,,26,60,86
+Mercer,North Burgin,President,,DEM,Hillary Clinton,,,44,197,241
+Mercer,South Burgin,President,,DEM,Hillary Clinton,,,5,156,161
+Mercer,Courthouse,President,,DEM,Hillary Clinton,,,14,160,174
+Mercer,Chambers House,President,,DEM,Hillary Clinton,,,5,196,201
+Mercer,Passmore House,President,,DEM,Hillary Clinton,,,16,213,229
+Mercer,Opera House,President,,DEM,Hillary Clinton,,,37,196,233
+Mercer,Total,President,,DEM,Hillary Clinton,,,,,2395
+Mercer,Robinson-House,President,,LIB,Gary Johnson,,,1,5,6
+Mercer,North Burgin,President,,LIB,Gary Johnson,,,5,25,30
+Mercer,South Burgin,President,,LIB,Gary Johnson,,,0,17,17
+Mercer,Courthouse,President,,LIB,Gary Johnson,,,5,18,23
+Mercer,Chambers House,President,,LIB,Gary Johnson,,,0,16,16
+Mercer,Passmore House,President,,LIB,Gary Johnson,,,2,27,29
+Mercer,Opera House,President,,LIB,Gary Johnson,,,3,15,18
+Mercer,Total,President,,LIB,Gary Johnson,,,,,275
+Mercer,Robinson-House,President,,ADP,Rocky De La Fuente,,,0,0,0
+Mercer,North Burgin,President,,ADP,Rocky De La Fuente,,,0,1,1
+Mercer,South Burgin,President,,ADP,Rocky De La Fuente,,,0,0,0
+Mercer,Courthouse,President,,ADP,Rocky De La Fuente,,,0,2,2
+Mercer,Chambers House,President,,ADP,Rocky De La Fuente,,,0,0,0
+Mercer,Passmore House,President,,ADP,Rocky De La Fuente,,,0,0,0
+Mercer,Opera House,President,,ADP,Rocky De La Fuente,,,1,0,1
+Mercer,Total,President,,ADP,Rocky De La Fuente,,,,,5
+Mercer,Robinson-House,President,,GRN,Jill Stein,,,0,3,3
+Mercer,North Burgin,President,,GRN,Jill Stein,,,2,5,7
+Mercer,South Burgin,President,,GRN,Jill Stein,,,0,5,5
+Mercer,Courthouse,President,,GRN,Jill Stein,,,0,3,3
+Mercer,Chambers House,President,,GRN,Jill Stein,,,0,5,5
+Mercer,Passmore House,President,,GRN,Jill Stein,,,0,4,4
+Mercer,Opera House,President,,GRN,Jill Stein,,,0,5,5
+Mercer,Total,President,,GRN,Jill Stein,,,,,68
+Mercer,Robinson-House,President,,,Evan McMullin,,,1,2,3
+Mercer,North Burgin,President,,,Evan McMullin,,,2,12,14
+Mercer,South Burgin,President,,,Evan McMullin,,,0,5,5
+Mercer,Courthouse,President,,,Evan McMullin,,,0,2,2
+Mercer,Chambers House,President,,,Evan McMullin,,,0,3,3
+Mercer,Passmore House,President,,,Evan McMullin,,,0,7,7
+Mercer,Opera House,President,,,Evan McMullin,,,0,4,4
+Mercer,Total,President,,,Evan McMullin,,,,,101
+Mercer,Robinson-House,U.S. Senate,,REP,Rand Paul,,,87,146,233
+Mercer,North Burgin,U.S. Senate,,REP,Rand Paul,,,102,575,677
+Mercer,South Burgin,U.S. Senate,,REP,Rand Paul,,,14,353,367
+Mercer,Courthouse,U.S. Senate,,REP,Rand Paul,,,12,245,257
+Mercer,Chambers House,U.S. Senate,,REP,Rand Paul,,,12,339,351
+Mercer,Passmore House,U.S. Senate,,REP,Rand Paul,,,22,408,430
+Mercer,Opera House,U.S. Senate,,REP,Rand Paul,,,53,282,335
+Mercer,Total,U.S. Senate,,REP,Rand Paul,,,,,6366
+Mercer,Robinson-House,U.S. Senate,,DEM,Jim Gray,,,45,104,149
+Mercer,North Burgin,U.S. Senate,,DEM,Jim Gray,,,75,338,413
+Mercer,South Burgin,U.S. Senate,,DEM,Jim Gray,,,9,263,272
+Mercer,Courthouse,U.S. Senate,,DEM,Jim Gray,,,19,257,276
+Mercer,Chambers House,U.S. Senate,,DEM,Jim Gray,,,8,294,302
+Mercer,Passmore House,U.S. Senate,,DEM,Jim Gray,,,24,366,390
+Mercer,Opera House,U.S. Senate,,DEM,Jim Gray,,,48,278,326
+Mercer,Total,U.S. Senate,,DEM,Jim Gray,,,,,4113
+Mercer,Robinson-House,U.S. House,2,REP,S. Brett Guthrie,,,104,166,270
+Mercer,North Burgin,U.S. House,2,REP,S. Brett Guthrie,,,128,688,816
+Mercer,South Burgin,U.S. House,2,REP,S. Brett Guthrie,,,17,446,463
+Mercer,Courthouse,U.S. House,2,REP,S. Brett Guthrie,,,21,358,379
+Mercer,Chambers House,U.S. House,2,REP,S. Brett Guthrie,,,16,445,461
+Mercer,Passmore House,U.S. House,2,REP,S. Brett Guthrie,,,33,533,566
+Mercer,Opera House,U.S. House,2,REP,S. Brett Guthrie,,,68,372,440
+Mercer,Total,U.S. House,2,REP,S. Brett Guthrie,,,,,7742
+Mercer,Robinson-House,State House,55,REP,Kim King,,,104,179,283
+Mercer,North Burgin,State House,55,REP,Kim King,,,127,688,815
+Mercer,South Burgin,State House,55,REP,Kim King,,,20,440,460
+Mercer,Courthouse,State House,55,REP,Kim King,,,19,316,335
+Mercer,Chambers House,State House,55,REP,Kim King,,,15,434,449
+Mercer,Passmore House,State House,55,REP,Kim King,,,33,541,574
+Mercer,Opera House,State House,55,REP,Kim King,,,62,369,431
+Mercer,Total,State House,55,REP,Kim King,,,,,7749
+Mercer,Robinson-House,State House,55,DEM,Tobie C. Brown,,,29,70,99
+Mercer,North Burgin,State House,55,DEM,Tobie C. Brown,,,49,221,270
+Mercer,South Burgin,State House,55,DEM,Tobie C. Brown,,,5,176,181
+Mercer,Courthouse,State House,55,DEM,Tobie C. Brown,,,13,181,194
+Mercer,Chambers House,State House,55,DEM,Tobie C. Brown,,,5,207,212
+Mercer,Passmore House,State House,55,DEM,Tobie C. Brown,,,15,227,242
+Mercer,Opera House,State House,55,DEM,Tobie C. Brown,,,38,185,223
+Mercer,Total,State House,55,DEM,Tobie C. Brown,,,,,2732
