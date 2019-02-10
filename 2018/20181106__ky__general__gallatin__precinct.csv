@@ -1,0 +1,81 @@
+county,precinct,office,district,candidate,party,votes
+Gallatin,Precinct AB,Ballots Cast,,,,234
+Gallatin,Precinct A101,Ballots Cast,,,,401
+Gallatin,Precinct A102,Ballots Cast,,,,293
+Gallatin,Precinct B101,Ballots Cast,,,,322
+Gallatin,Precinct B102,Ballots Cast,,,,336
+Gallatin,Precinct C101,Ballots Cast,,,,346
+Gallatin,Precinct C102,Ballots Cast,,,,386
+Gallatin,Precinct D101,Ballots Cast,,,,388
+Gallatin,Precinct D102,Ballots Cast,,,,404
+Gallatin,Total,Ballots Cast,,,,3110
+Gallatin,Precinct AB,Straight Party,,Republican Party,,35
+Gallatin,Precinct A101,Straight Party,,Republican Party,,36
+Gallatin,Precinct A102,Straight Party,,Republican Party,,40
+Gallatin,Precinct B101,Straight Party,,Republican Party,,65
+Gallatin,Precinct B102,Straight Party,,Republican Party,,101
+Gallatin,Precinct C101,Straight Party,,Republican Party,,70
+Gallatin,Precinct C102,Straight Party,,Republican Party,,94
+Gallatin,Precinct D101,Straight Party,,Republican Party,,72
+Gallatin,Precinct D102,Straight Party,,Republican Party,,49
+Gallatin,Total,Straight Party,,Republican Party,,562
+Gallatin,Precinct AB,Straight Party,,Democratic Party,,34
+Gallatin,Precinct A101,Straight Party,,Democratic Party,,77
+Gallatin,Precinct A102,Straight Party,,Democratic Party,,55
+Gallatin,Precinct B101,Straight Party,,Democratic Party,,37
+Gallatin,Precinct B102,Straight Party,,Democratic Party,,53
+Gallatin,Precinct C101,Straight Party,,Democratic Party,,42
+Gallatin,Precinct C102,Straight Party,,Democratic Party,,70
+Gallatin,Precinct D101,Straight Party,,Democratic Party,,53
+Gallatin,Precinct D102,Straight Party,,Democratic Party,,45
+Gallatin,Total,Straight Party,,Democratic Party,,466
+Gallatin,Precinct AB,U.S. House,4,Thomas MASSIE,,142
+Gallatin,Precinct A101,U.S. House,4,Thomas MASSIE,,175
+Gallatin,Precinct A102,U.S. House,4,Thomas MASSIE,,143
+Gallatin,Precinct B101,U.S. House,4,Thomas MASSIE,,209
+Gallatin,Precinct B102,U.S. House,4,Thomas MASSIE,,227
+Gallatin,Precinct C101,U.S. House,4,Thomas MASSIE,,232
+Gallatin,Precinct C102,U.S. House,4,Thomas MASSIE,,240
+Gallatin,Precinct D101,U.S. House,4,Thomas MASSIE,,254
+Gallatin,Precinct D102,U.S. House,4,Thomas MASSIE,,254
+Gallatin,Total,U.S. House,4,Thomas MASSIE,,1876
+Gallatin,Precinct AB,U.S. House,4,Seth HALL,,60
+Gallatin,Precinct A101,U.S. House,4,Seth HALL,,162
+Gallatin,Precinct A102,U.S. House,4,Seth HALL,,108
+Gallatin,Precinct B101,U.S. House,4,Seth HALL,,78
+Gallatin,Precinct B102,U.S. House,4,Seth HALL,,93
+Gallatin,Precinct C101,U.S. House,4,Seth HALL,,80
+Gallatin,Precinct C102,U.S. House,4,Seth HALL,,109
+Gallatin,Precinct D101,U.S. House,4,Seth HALL,,98
+Gallatin,Precinct D102,U.S. House,4,Seth HALL,,110
+Gallatin,Total,U.S. House,4,Seth HALL,,898
+Gallatin,Precinct AB,U.S. House,4,Mike MOFFETT,,9
+Gallatin,Precinct A101,U.S. House,4,Mike MOFFETT,,22
+Gallatin,Precinct A102,U.S. House,4,Mike MOFFETT,,11
+Gallatin,Precinct B101,U.S. House,4,Mike MOFFETT,,18
+Gallatin,Precinct B102,U.S. House,4,Mike MOFFETT,,12
+Gallatin,Precinct C101,U.S. House,4,Mike MOFFETT,,14
+Gallatin,Precinct C102,U.S. House,4,Mike MOFFETT,,21
+Gallatin,Precinct D101,U.S. House,4,Mike MOFFETT,,17
+Gallatin,Precinct D102,U.S. House,4,Mike MOFFETT,,15
+Gallatin,Total,U.S. House,4,Mike MOFFETT,,139
+Gallatin,Precinct AB,State Representative,47,Mark A. GILKISON,,100
+Gallatin,Precinct A101,State Representative,47,Mark A. GILKISON,,125
+Gallatin,Precinct A102,State Representative,47,Mark A. GILKISON,,104
+Gallatin,Precinct B101,State Representative,47,Mark A. GILKISON,,184
+Gallatin,Precinct B102,State Representative,47,Mark A. GILKISON,,199
+Gallatin,Precinct C101,State Representative,47,Mark A. GILKISON,,181
+Gallatin,Precinct C102,State Representative,47,Mark A. GILKISON,,205
+Gallatin,Precinct D101,State Representative,47,Mark A. GILKISON,,191
+Gallatin,Precinct D102,State Representative,47,Mark A. GILKISON,,183
+Gallatin,Total,State Representative,47,Mark A. GILKISON,,1472
+Gallatin,Precinct AB,State Representative,47,Rick W. RAND,,117
+Gallatin,Precinct A101,State Representative,47,Rick W. RAND,,250
+Gallatin,Precinct A102,State Representative,47,Rick W. RAND,,163
+Gallatin,Precinct B101,State Representative,47,Rick W. RAND,,122
+Gallatin,Precinct B102,State Representative,47,Rick W. RAND,,128
+Gallatin,Precinct C101,State Representative,47,Rick W. RAND,,144
+Gallatin,Precinct C102,State Representative,47,Rick W. RAND,,170
+Gallatin,Precinct D101,State Representative,47,Rick W. RAND,,187
+Gallatin,Precinct D102,State Representative,47,Rick W. RAND,,207
+Gallatin,Total,State Representative,47,Rick W. RAND,,1488
