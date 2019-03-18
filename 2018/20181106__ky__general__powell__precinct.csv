@@ -1,0 +1,488 @@
+county,precinct,office,district,party,candidate,votes
+Powell,A101,U.S. House,6,REP,Andy BARR,269
+Powell,A102,U.S. House,6,REP,Andy BARR,362
+Powell,B101,U.S. House,6,REP,Andy BARR,192
+Powell,B102,U.S. House,6,REP,Andy BARR,382
+Powell,C101,U.S. House,6,REP,Andy BARR,213
+Powell,C102,U.S. House,6,REP,Andy BARR,259
+Powell,D101,U.S. House,6,REP,Andy BARR,336
+Powell,D102,U.S. House,6,REP,Andy BARR,120
+Powell,D103,U.S. House,6,REP,Andy BARR,73
+Powell,E101,U.S. House,6,REP,Andy BARR,347
+Powell,E102,U.S. House,6,REP,Andy BARR,328
+Powell,ABSENTEE MACHINE,U.S. House,6,REP,Andy BARR,223
+Powell,ABSENTEE PAPER,U.S. House,6,REP,Andy BARR,75
+Powell,A101,U.S. House,6,DEM,Amy McGRATH,140
+Powell,A102,U.S. House,6,DEM,Amy McGRATH,163
+Powell,B101,U.S. House,6,DEM,Amy McGRATH,99
+Powell,B102,U.S. House,6,DEM,Amy McGRATH,149
+Powell,C101,U.S. House,6,DEM,Amy McGRATH,131
+Powell,C102,U.S. House,6,DEM,Amy McGRATH,160
+Powell,D101,U.S. House,6,DEM,Amy McGRATH,185
+Powell,D102,U.S. House,6,DEM,Amy McGRATH,103
+Powell,D103,U.S. House,6,DEM,Amy McGRATH,43
+Powell,E101,U.S. House,6,DEM,Amy McGRATH,146
+Powell,E102,U.S. House,6,DEM,Amy McGRATH,147
+Powell,ABSENTEE MACHINE,U.S. House,6,DEM,Amy McGRATH,124
+Powell,ABSENTEE PAPER,U.S. House,6,DEM,Amy McGRATH,81
+Powell,A101,U.S. House,6,LIB,Frank HARRIS,7
+Powell,A102,U.S. House,6,LIB,Frank HARRIS,4
+Powell,B101,U.S. House,6,LIB,Frank HARRIS,5
+Powell,B102,U.S. House,6,LIB,Frank HARRIS,3
+Powell,C101,U.S. House,6,LIB,Frank HARRIS,6
+Powell,C102,U.S. House,6,LIB,Frank HARRIS,3
+Powell,D101,U.S. House,6,LIB,Frank HARRIS,4
+Powell,D102,U.S. House,6,LIB,Frank HARRIS,2
+Powell,D103,U.S. House,6,LIB,Frank HARRIS,2
+Powell,E101,U.S. House,6,LIB,Frank HARRIS,7
+Powell,E102,U.S. House,6,LIB,Frank HARRIS,2
+Powell,ABSENTEE MACHINE,U.S. House,6,LIB,Frank HARRIS,5
+Powell,ABSENTEE PAPER,U.S. House,6,LIB,Frank HARRIS,2
+Powell,A101,U.S. House,6,IND,Rikka L. WALLIN,2
+Powell,A102,U.S. House,6,IND,Rikka L. WALLIN,2
+Powell,B101,U.S. House,6,IND,Rikka L. WALLIN,2
+Powell,B102,U.S. House,6,IND,Rikka L. WALLIN,4
+Powell,C101,U.S. House,6,IND,Rikka L. WALLIN,2
+Powell,C102,U.S. House,6,IND,Rikka L. WALLIN,1
+Powell,D101,U.S. House,6,IND,Rikka L. WALLIN,0
+Powell,D102,U.S. House,6,IND,Rikka L. WALLIN,2
+Powell,D103,U.S. House,6,IND,Rikka L. WALLIN,0
+Powell,E101,U.S. House,6,IND,Rikka L. WALLIN,3
+Powell,E102,U.S. House,6,IND,Rikka L. WALLIN,3
+Powell,ABSENTEE MACHINE,U.S. House,6,IND,Rikka L. WALLIN,1
+Powell,ABSENTEE PAPER,U.S. House,6,IND,Rikka L. WALLIN,0
+Powell,A101,U.S. House,6,IND,James GERMALIC,5
+Powell,A102,U.S. House,6,IND,James GERMALIC,0
+Powell,B101,U.S. House,6,IND,James GERMALIC,1
+Powell,B102,U.S. House,6,IND,James GERMALIC,2
+Powell,C101,U.S. House,6,IND,James GERMALIC,0
+Powell,C102,U.S. House,6,IND,James GERMALIC,3
+Powell,D101,U.S. House,6,IND,James GERMALIC,0
+Powell,D102,U.S. House,6,IND,James GERMALIC,0
+Powell,D103,U.S. House,6,IND,James GERMALIC,1
+Powell,E101,U.S. House,6,IND,James GERMALIC,3
+Powell,E102,U.S. House,6,IND,James GERMALIC,1
+Powell,ABSENTEE MACHINE,U.S. House,6,IND,James GERMALIC,0
+Powell,ABSENTEE PAPER,U.S. House,6,IND,James GERMALIC,0
+Powell,A101,State Representative,74,REP,David HALE,222
+Powell,A102,State Representative,74,REP,David HALE,274
+Powell,B101,State Representative,74,REP,David HALE,140
+Powell,B102,State Representative,74,REP,David HALE,290
+Powell,C101,State Representative,74,REP,David HALE,158
+Powell,C102,State Representative,74,REP,David HALE,196
+Powell,D101,State Representative,74,REP,David HALE,236
+Powell,D102,State Representative,74,REP,David HALE,102
+Powell,D103,State Representative,74,REP,David HALE,67
+Powell,E101,State Representative,74,REP,David HALE,271
+Powell,E102,State Representative,74,REP,David HALE,230
+Powell,ABSENTEE MACHINE,State Representative,74,REP,David HALE,171
+Powell,ABSENTEE PAPER,State Representative,74,REP,David HALE,76
+Powell,A101,State Representative,74,DEM,James E. DAVIS,198
+Powell,A102,State Representative,74,DEM,James E. DAVIS,249
+Powell,B101,State Representative,74,DEM,James E. DAVIS,145
+Powell,B102,State Representative,74,DEM,James E. DAVIS,238
+Powell,C101,State Representative,74,DEM,James E. DAVIS,189
+Powell,C102,State Representative,74,DEM,James E. DAVIS,225
+Powell,D101,State Representative,74,DEM,James E. DAVIS,283
+Powell,D102,State Representative,74,DEM,James E. DAVIS,121
+Powell,D103,State Representative,74,DEM,James E. DAVIS,45
+Powell,E101,State Representative,74,DEM,James E. DAVIS,231
+Powell,E102,State Representative,74,DEM,James E. DAVIS,246
+Powell,ABSENTEE MACHINE,State Representative,74,DEM,James E. DAVIS,171
+Powell,ABSENTEE PAPER,State Representative,74,DEM,James E. DAVIS,80
+Powell,A101,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,281
+Powell,A102,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,314
+Powell,B101,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,183
+Powell,B102,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,343
+Powell,C101,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,242
+Powell,C102,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,299
+Powell,D101,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,349
+Powell,D102,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,124
+Powell,D103,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,64
+Powell,E101,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,356
+Powell,E102,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,319
+Powell,ABSENTEE MACHINE,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,229
+Powell,ABSENTEE PAPER,Commonwealth's Attorney, 39th Judicial Circuit,,Miranda Stevens KING,116
+Powell,A101,Circuit Clerk,,,Jessica Farmer YARBER,191
+Powell,A102,Circuit Clerk,,,Jessica Farmer YARBER,235
+Powell,B101,Circuit Clerk,,,Jessica Farmer YARBER,103
+Powell,B102,Circuit Clerk,,,Jessica Farmer YARBER,204
+Powell,C101,Circuit Clerk,,,Jessica Farmer YARBER,148
+Powell,C102,Circuit Clerk,,,Jessica Farmer YARBER,163
+Powell,D101,Circuit Clerk,,,Jessica Farmer YARBER,264
+Powell,D102,Circuit Clerk,,,Jessica Farmer YARBER,112
+Powell,D103,Circuit Clerk,,,Jessica Farmer YARBER,56
+Powell,E101,Circuit Clerk,,,Jessica Farmer YARBER,227
+Powell,E102,Circuit Clerk,,,Jessica Farmer YARBER,206
+Powell,ABSENTEE MACHINE,Circuit Clerk,,,Jessica Farmer YARBER,147
+Powell,ABSENTEE PAPER,Circuit Clerk,,,Jessica Farmer YARBER,55
+Powell,A101,Circuit Clerk,,,Brian KING,221
+Powell,A102,Circuit Clerk,,,Brian KING,280
+Powell,B101,Circuit Clerk,,,Brian KING,181
+Powell,B102,Circuit Clerk,,,Brian KING,314
+Powell,C101,Circuit Clerk,,,Brian KING,199
+Powell,C102,Circuit Clerk,,,Brian KING,255
+Powell,D101,Circuit Clerk,,,Brian KING,254
+Powell,D102,Circuit Clerk,,,Brian KING,112
+Powell,D103,Circuit Clerk,,,Brian KING,59
+Powell,E101,Circuit Clerk,,,Brian KING,271
+Powell,E102,Circuit Clerk,,,Brian KING,271
+Powell,ABSENTEE MACHINE,Circuit Clerk,,,Brian KING,192
+Powell,ABSENTEE PAPER,Circuit Clerk,,,Brian KING,103
+Powell,A101,PVA,,,Dustin BILLINGS,301
+Powell,A102,PVA,,,Dustin BILLINGS,352
+Powell,B101,PVA,,,Dustin BILLINGS,187
+Powell,B102,PVA,,,Dustin BILLINGS,365
+Powell,C101,PVA,,,Dustin BILLINGS,254
+Powell,C102,PVA,,,Dustin BILLINGS,319
+Powell,D101,PVA,,,Dustin BILLINGS,394
+Powell,D102,PVA,,,Dustin BILLINGS,143
+Powell,D103,PVA,,,Dustin BILLINGS,77
+Powell,E101,PVA,,,Dustin BILLINGS,374
+Powell,E102,PVA,,,Dustin BILLINGS,354
+Powell,ABSENTEE MACHINE,PVA,,,Dustin BILLINGS,253
+Powell,ABSENTEE PAPER,PVA,,,Dustin BILLINGS,122
+Powell,A101,County Judge Executive,,,Charles FAULKNER,227
+Powell,A102,County Judge Executive,,,Charles FAULKNER,255
+Powell,B101,County Judge Executive,,,Charles FAULKNER,155
+Powell,B102,County Judge Executive,,,Charles FAULKNER,300
+Powell,C101,County Judge Executive,,,Charles FAULKNER,157
+Powell,C102,County Judge Executive,,,Charles FAULKNER,193
+Powell,D101,County Judge Executive,,,Charles FAULKNER,219
+Powell,D102,County Judge Executive,,,Charles FAULKNER,99
+Powell,D103,County Judge Executive,,,Charles FAULKNER,65
+Powell,E101,County Judge Executive,,,Charles FAULKNER,187
+Powell,E102,County Judge Executive,,,Charles FAULKNER,229
+Powell,ABSENTEE MACHINE,County Judge Executive,,,Charles FAULKNER,137
+Powell,ABSENTEE PAPER,County Judge Executive,,,Charles FAULKNER,75
+Powell,A101,County Judge Executive,,,James D. ANDERSON JR.,184
+Powell,A102,County Judge Executive,,,James D. ANDERSON JR.,266
+Powell,B101,County Judge Executive,,,James D. ANDERSON JR.,139
+Powell,B102,County Judge Executive,,,James D. ANDERSON JR.,235
+Powell,C101,County Judge Executive,,,James D. ANDERSON JR.,193
+Powell,C102,County Judge Executive,,,James D. ANDERSON JR.,220
+Powell,D101,County Judge Executive,,,James D. ANDERSON JR.,306
+Powell,D102,County Judge Executive,,,James D. ANDERSON JR.,129
+Powell,D103,County Judge Executive,,,James D. ANDERSON JR.,52
+Powell,E101,County Judge Executive,,,James D. ANDERSON JR.,306
+Powell,E102,County Judge Executive,,,James D. ANDERSON JR.,254
+Powell,ABSENTEE MACHINE,County Judge Executive,,,James D. ANDERSON JR.,212
+Powell,ABSENTEE PAPER,County Judge Executive,,,James D. ANDERSON JR.,80
+Powell,A101,County Attorney,,,Robert Graham KING,307
+Powell,A102,County Attorney,,,Robert Graham KING,353
+Powell,B101,County Attorney,,,Robert Graham KING,197
+Powell,B102,County Attorney,,,Robert Graham KING,366
+Powell,C101,County Attorney,,,Robert Graham KING,259
+Powell,C102,County Attorney,,,Robert Graham KING,322
+Powell,D101,County Attorney,,,Robert Graham KING,377
+Powell,D102,County Attorney,,,Robert Graham KING,141
+Powell,D103,County Attorney,,,Robert Graham KING,70
+Powell,E101,County Attorney,,,Robert Graham KING,375
+Powell,E102,County Attorney,,,Robert Graham KING,341
+Powell,ABSENTEE MACHINE,County Attorney,,,Robert Graham KING,253
+Powell,ABSENTEE PAPER,County Attorney,,,Robert Graham KING,124
+Powell,A101,County Clerk,,,Megan Daniels WELLS,145
+Powell,A102,County Clerk,,,Megan Daniels WELLS,180
+Powell,B101,County Clerk,,,Megan Daniels WELLS,104
+Powell,B102,County Clerk,,,Megan Daniels WELLS,163
+Powell,C101,County Clerk,,,Megan Daniels WELLS,112
+Powell,C102,County Clerk,,,Megan Daniels WELLS,141
+Powell,D101,County Clerk,,,Megan Daniels WELLS,199
+Powell,D102,County Clerk,,,Megan Daniels WELLS,115
+Powell,D103,County Clerk,,,Megan Daniels WELLS,60
+Powell,E101,County Clerk,,,Megan Daniels WELLS,163
+Powell,E102,County Clerk,,,Megan Daniels WELLS,162
+Powell,ABSENTEE MACHINE,County Clerk,,,Megan Daniels WELLS,94
+Powell,ABSENTEE PAPER,County Clerk,,,Megan Daniels WELLS,47
+Powell,A101,County Clerk,,,Jackie Boone EVERMAN,272
+Powell,A102,County Clerk,,,Jackie Boone EVERMAN,344
+Powell,B101,County Clerk,,,Jackie Boone EVERMAN,190
+Powell,B102,County Clerk,,,Jackie Boone EVERMAN,372
+Powell,C101,County Clerk,,,Jackie Boone EVERMAN,239
+Powell,C102,County Clerk,,,Jackie Boone EVERMAN,276
+Powell,D101,County Clerk,,,Jackie Boone EVERMAN,322
+Powell,D102,County Clerk,,,Jackie Boone EVERMAN,110
+Powell,D103,County Clerk,,,Jackie Boone EVERMAN,56
+Powell,E101,County Clerk,,,Jackie Boone EVERMAN,344
+Powell,E102,County Clerk,,,Jackie Boone EVERMAN,321
+Powell,ABSENTEE MACHINE,County Clerk,,,Jackie Boone EVERMAN,256
+Powell,ABSENTEE PAPER,County Clerk,,,Jackie Boone EVERMAN,107
+Powell,A101,Sheriff,,,Danny ROGERS,261
+Powell,A102,Sheriff,,,Danny ROGERS,325
+Powell,B101,Sheriff,,,Danny ROGERS,191
+Powell,B102,Sheriff,,,Danny ROGERS,373
+Powell,C101,Sheriff,,,Danny ROGERS,230
+Powell,C102,Sheriff,,,Danny ROGERS,291
+Powell,D101,Sheriff,,,Danny ROGERS,332
+Powell,D102,Sheriff,,,Danny ROGERS,124
+Powell,D103,Sheriff,,,Danny ROGERS,78
+Powell,E101,Sheriff,,,Danny ROGERS,351
+Powell,E102,Sheriff,,,Danny ROGERS,336
+Powell,ABSENTEE MACHINE,Sheriff,,,Danny ROGERS,232
+Powell,ABSENTEE PAPER,Sheriff,,,Danny ROGERS,102
+Powell,A101,Sheriff,,,H. K. GOODWIN,153
+Powell,A102,Sheriff,,,H. K. GOODWIN,197
+Powell,B101,Sheriff,,,H. K. GOODWIN,106
+Powell,B102,Sheriff,,,H. K. GOODWIN,160
+Powell,C101,Sheriff,,,H. K. GOODWIN,120
+Powell,C102,Sheriff,,,H. K. GOODWIN,126
+Powell,D101,Sheriff,,,H. K. GOODWIN,183
+Powell,D102,Sheriff,,,H. K. GOODWIN,95
+Powell,D103,Sheriff,,,H. K. GOODWIN,39
+Powell,E101,Sheriff,,,H. K. GOODWIN,148
+Powell,E102,Sheriff,,,H. K. GOODWIN,146
+Powell,ABSENTEE MACHINE,Sheriff,,,H. K. GOODWIN,115
+Powell,ABSENTEE PAPER,Sheriff,,,H. K. GOODWIN,55
+Powell,A101,Jailer,,,Travis CRABTREE,317
+Powell,A102,Jailer,,,Travis CRABTREE,376
+Powell,B101,Jailer,,,Travis CRABTREE,218
+Powell,B102,Jailer,,,Travis CRABTREE,401
+Powell,C101,Jailer,,,Travis CRABTREE,280
+Powell,C102,Jailer,,,Travis CRABTREE,352
+Powell,D101,Jailer,,,Travis CRABTREE,398
+Powell,D102,Jailer,,,Travis CRABTREE,165
+Powell,D103,Jailer,,,Travis CRABTREE,85
+Powell,E101,Jailer,,,Travis CRABTREE,400
+Powell,E102,Jailer,,,Travis CRABTREE,360
+Powell,ABSENTEE MACHINE,Jailer,,,Travis CRABTREE,262
+Powell,ABSENTEE PAPER,Jailer,,,Travis CRABTREE,119
+Powell,A101,Coroner,,,Megan Wells DAVIS,317
+Powell,A102,Coroner,,,Megan Wells DAVIS,370
+Powell,B101,Coroner,,,Megan Wells DAVIS,212
+Powell,B102,Coroner,,,Megan Wells DAVIS,397
+Powell,C101,Coroner,,,Megan Wells DAVIS,269
+Powell,C102,Coroner,,,Megan Wells DAVIS,345
+Powell,D101,Coroner,,,Megan Wells DAVIS,397
+Powell,D102,Coroner,,,Megan Wells DAVIS,148
+Powell,D103,Coroner,,,Megan Wells DAVIS,88
+Powell,E101,Coroner,,,Megan Wells DAVIS,397
+Powell,E102,Coroner,,,Megan Wells DAVIS,365
+Powell,ABSENTEE MACHINE,Coroner,,,Megan Wells DAVIS,275
+Powell,ABSENTEE PAPER,Coroner,,,Megan Wells DAVIS,125
+Powell,A101,County Surveyor,,,Kevin N. DAVIS,285
+Powell,A102,County Surveyor,,,Kevin N. DAVIS,334
+Powell,B101,County Surveyor,,,Kevin N. DAVIS,192
+Powell,B102,County Surveyor,,,Kevin N. DAVIS,339
+Powell,C101,County Surveyor,,,Kevin N. DAVIS,236
+Powell,C102,County Surveyor,,,Kevin N. DAVIS,303
+Powell,D101,County Surveyor,,,Kevin N. DAVIS,362
+Powell,D102,County Surveyor,,,Kevin N. DAVIS,129
+Powell,D103,County Surveyor,,,Kevin N. DAVIS,75
+Powell,E101,County Surveyor,,,Kevin N. DAVIS,354
+Powell,E102,County Surveyor,,,Kevin N. DAVIS,321
+Powell,ABSENTEE MACHINE,County Surveyor,,,Kevin N. DAVIS,224
+Powell,ABSENTEE PAPER,County Surveyor,,,Kevin N. DAVIS,114
+Powell,A101,Magistrate District 1,,,Keith HALL,198
+Powell,A102,Magistrate District 1,,,Keith HALL,249
+Powell,ABSENTEE MACHINE,Magistrate District 1,,,Keith HALL,25
+Powell,ABSENTEE PAPER,Magistrate District 1,,,Keith HALL,6
+Powell,A101,Magistrate District 1,,,Chad PATTON,214
+Powell,A102,Magistrate District 1,,,Chad PATTON,276
+Powell,ABSENTEE MACHINE,Magistrate District 1,,,Chad PATTON,31
+Powell,ABSENTEE PAPER,Magistrate District 1,,,Chad PATTON,9
+Powell,A101,Constable District 1,,,Anthony FAULKNER,264
+Powell,A102,Constable District 1,,,Anthony FAULKNER,315
+Powell,ABSENTEE MACHINE,Constable District 1,,,Anthony FAULKNER,33
+Powell,ABSENTEE PAPER,Constable District 1,,,Anthony FAULKNER,9
+Powell,A101,Constable District 1,,IND,Darrick Quinton ALSEPT,56
+Powell,A102,Constable District 1,,IND,Darrick Quinton ALSEPT,77
+Powell,ABSENTEE MACHINE,Constable District 1,,IND,Darrick Quinton ALSEPT,7
+Powell,ABSENTEE PAPER,Constable District 1,,IND,Darrick Quinton ALSEPT,3
+Powell,B101,Magistrate District 2,,,Dennis Lee COMBS,124
+Powell,B102,Magistrate District 2,,,Dennis Lee COMBS,309
+Powell,ABSENTEE MACHINE,Magistrate District 2,,,Dennis Lee COMBS,27
+Powell,ABSENTEE PAPER,Magistrate District 2,,,Dennis Lee COMBS,16
+Powell,B101,Magistrate District 2,,,"Kenneth ""Goat"" RICE",169
+Powell,B102,Magistrate District 2,,,"Kenneth ""Goat"" RICE",222
+Powell,ABSENTEE MACHINE,Magistrate District 2,,,"Kenneth ""Goat"" RICE",28
+Powell,ABSENTEE PAPER,Magistrate District 2,,,"Kenneth ""Goat"" RICE",12
+Powell,B101,Constable District 2,,,Jayme HOSKINS,173
+Powell,B102,Constable District 2,,,Jayme HOSKINS,353
+Powell,ABSENTEE MACHINE,Constable District 2,,,Jayme HOSKINS,38
+Powell,ABSENTEE PAPER,Constable District 2,,,Jayme HOSKINS,15
+Powell,C101,Magistrate District 3,,,Mike LOCKARD,170
+Powell,C102,Magistrate District 3,,,Mike LOCKARD,221
+Powell,ABSENTEE MACHINE,Magistrate District 3,,,Mike LOCKARD,26
+Powell,ABSENTEE PAPER,Magistrate District 3,,,Mike LOCKARD,29
+Powell,C101,Magistrate District 3,,IND,Allen MARTIN,143
+Powell,C102,Magistrate District 3,,IND,Allen MARTIN,166
+Powell,ABSENTEE MACHINE,Magistrate District 3,,IND,Allen MARTIN,33
+Powell,ABSENTEE PAPER,Magistrate District 3,,IND,Allen MARTIN,14
+Powell,C101,Constable District 3,,,James BAILEY JR.,168
+Powell,C102,Constable District 3,,,James BAILEY JR.,181
+Powell,ABSENTEE MACHINE,Constable District 3,,,James BAILEY JR.,35
+Powell,ABSENTEE PAPER,Constable District 3,,,James BAILEY JR.,15
+Powell,C101,Constable District 3,,,Ricky ALLEN,159
+Powell,C102,Constable District 3,,,Ricky ALLEN,201
+Powell,ABSENTEE MACHINE,Constable District 3,,,Ricky ALLEN,26
+Powell,ABSENTEE PAPER,Constable District 3,,,Ricky ALLEN,24
+Powell,D101,Magistrate District 4,,,Ronnie SPENCER,177
+Powell,D102,Magistrate District 4,,,Ronnie SPENCER,83
+Powell,D103,Magistrate District 4,,,Ronnie SPENCER,53
+Powell,ABSENTEE MACHINE,Magistrate District 4,,,Ronnie SPENCER,16
+Powell,ABSENTEE PAPER,Magistrate District 4,,,Ronnie SPENCER,6
+Powell,D101,Magistrate District 4,,,Timmy TIPTON,329
+Powell,D102,Magistrate District 4,,,Timmy TIPTON,124
+Powell,D103,Magistrate District 4,,,Timmy TIPTON,63
+Powell,ABSENTEE MACHINE,Magistrate District 4,,,Timmy TIPTON,46
+Powell,ABSENTEE PAPER,Magistrate District 4,,,Timmy TIPTON,20
+Powell,D101,Constable District 4,,,J. L. BOWEN,373
+Powell,D102,Constable District 4,,,J. L. BOWEN,157
+Powell,D103,Constable District 4,,,J. L. BOWEN,79
+Powell,ABSENTEE MACHINE,Constable District 4,,,J. L. BOWEN,49
+Powell,ABSENTEE PAPER,Constable District 4,,,J. L. BOWEN,24
+Powell,E101,Magistrate District 5,,,Joshua CONGLETON,206
+Powell,E102,Magistrate District 5,,,Joshua CONGLETON,203
+Powell,ABSENTEE MACHINE,Magistrate District 5,,,Joshua CONGLETON,28
+Powell,ABSENTEE PAPER,Magistrate District 5,,,Joshua CONGLETON,6
+Powell,E101,Magistrate District 5,,,Donna GABBARD,268
+Powell,E102,Magistrate District 5,,,Donna GABBARD,270
+Powell,ABSENTEE MACHINE,Magistrate District 5,,,Donna GABBARD,66
+Powell,ABSENTEE PAPER,Magistrate District 5,,,Donna GABBARD,34
+Powell,E101,Constable District 5,,,Richard ROGERS,361
+Powell,E102,Constable District 5,,,Richard ROGERS,324
+Powell,ABSENTEE MACHINE,Constable District 5,,,Richard ROGERS,52
+Powell,ABSENTEE PAPER,Constable District 5,,,Richard ROGERS,19
+Powell,A101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,150
+Powell,A102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,156
+Powell,B101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,97
+Powell,B102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,200
+Powell,C101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,123
+Powell,C102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,152
+Powell,D101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,177
+Powell,D102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,52
+Powell,D103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,28
+Powell,E101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,171
+Powell,E102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,151
+Powell,ABSENTEE MACHINE,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,90
+Powell,ABSENTEE PAPER,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,42
+Powell,A101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,176
+Powell,A102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,180
+Powell,B101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,107
+Powell,B102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,193
+Powell,C101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,138
+Powell,C102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,165
+Powell,D101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,223
+Powell,D102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,91
+Powell,D103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,46
+Powell,E101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,191
+Powell,E102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,198
+Powell,ABSENTEE MACHINE,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,143
+Powell,ABSENTEE PAPER,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,60
+Powell,A101,District Judge, 39th Judicial District,,Billy L. OLIVER,195
+Powell,A102,District Judge, 39th Judicial District,,Billy L. OLIVER,220
+Powell,B101,District Judge, 39th Judicial District,,Billy L. OLIVER,130
+Powell,B102,District Judge, 39th Judicial District,,Billy L. OLIVER,252
+Powell,C101,District Judge, 39th Judicial District,,Billy L. OLIVER,165
+Powell,C102,District Judge, 39th Judicial District,,Billy L. OLIVER,225
+Powell,D101,District Judge, 39th Judicial District,,Billy L. OLIVER,258
+Powell,D102,District Judge, 39th Judicial District,,Billy L. OLIVER,95
+Powell,D103,District Judge, 39th Judicial District,,Billy L. OLIVER,50
+Powell,E101,District Judge, 39th Judicial District,,Billy L. OLIVER,241
+Powell,E102,District Judge, 39th Judicial District,,Billy L. OLIVER,255
+Powell,ABSENTEE MACHINE,District Judge, 39th Judicial District,,Billy L. OLIVER,181
+Powell,ABSENTEE PAPER,District Judge, 39th Judicial District,,Billy L. OLIVER,66
+Powell,A101,District Judge, 39th Judicial District,,Gary SALYERS,154
+Powell,A102,District Judge, 39th Judicial District,,Gary SALYERS,180
+Powell,B101,District Judge, 39th Judicial District,,Gary SALYERS,112
+Powell,B102,District Judge, 39th Judicial District,,Gary SALYERS,211
+Powell,C101,District Judge, 39th Judicial District,,Gary SALYERS,138
+Powell,C102,District Judge, 39th Judicial District,,Gary SALYERS,141
+Powell,D101,District Judge, 39th Judicial District,,Gary SALYERS,192
+Powell,D102,District Judge, 39th Judicial District,,Gary SALYERS,88
+Powell,D103,District Judge, 39th Judicial District,,Gary SALYERS,42
+Powell,E101,District Judge, 39th Judicial District,,Gary SALYERS,182
+Powell,E102,District Judge, 39th Judicial District,,Gary SALYERS,159
+Powell,ABSENTEE MACHINE,District Judge, 39th Judicial District,,Gary SALYERS,115
+Powell,ABSENTEE PAPER,District Judge, 39th Judicial District,,Gary SALYERS,56
+Powell,A102,School Board District 2,,,Diann MEADOWS,368
+Powell,B101,School Board District 2,,,Diann MEADOWS,201
+Powell,B102,School Board District 2,,,Diann MEADOWS,1
+Powell,ABSENTEE MACHINE,School Board District 2,,,Diann MEADOWS,33
+Powell,ABSENTEE PAPER,School Board District 2,,,Diann MEADOWS,20
+Powell,B102,School Board District 3,,,Mendel TIPTON,1
+Powell,C102,School Board District 3,,,Mendel TIPTON,137
+Powell,E101,School Board District 3,,,Mendel TIPTON,359
+Powell,E102,School Board District 3,,,Mendel TIPTON,5
+Powell,ABSENTEE MACHINE,School Board District 3,,,Mendel TIPTON,51
+Powell,ABSENTEE PAPER,School Board District 3,,,Mendel TIPTON,26
+Powell,C101,Stanton Mayor,,,Dale ALLEN,247
+Powell,C102,Stanton Mayor,,,Dale ALLEN,315
+Powell,E101,Stanton Mayor,,,Dale ALLEN,101
+Powell,ABSENTEE MACHINE,Stanton Mayor,,,Dale ALLEN,55
+Powell,ABSENTEE PAPER,Stanton Mayor,,,Dale ALLEN,42
+Powell,C101,Stanton City Council,,,Pamela McIntosh TIPTON,189
+Powell,C102,Stanton City Council,,,Pamela McIntosh TIPTON,219
+Powell,E101,Stanton City Council,,,Pamela McIntosh TIPTON,80
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Pamela McIntosh TIPTON,44
+Powell,ABSENTEE PAPER,Stanton City Council,,,Pamela McIntosh TIPTON,39
+Powell,C101,Stanton City Council,,,Dixie LOCKARD,200
+Powell,C102,Stanton City Council,,,Dixie LOCKARD,238
+Powell,E101,Stanton City Council,,,Dixie LOCKARD,79
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Dixie LOCKARD,47
+Powell,ABSENTEE PAPER,Stanton City Council,,,Dixie LOCKARD,38
+Powell,C101,Stanton City Council,,,Paul MALLORY,176
+Powell,C102,Stanton City Council,,,Paul MALLORY,235
+Powell,E101,Stanton City Council,,,Paul MALLORY,81
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Paul MALLORY,48
+Powell,ABSENTEE PAPER,Stanton City Council,,,Paul MALLORY,37
+Powell,C101,Stanton City Council,,,Tommy MAYS,199
+Powell,C102,Stanton City Council,,,Tommy MAYS,248
+Powell,E101,Stanton City Council,,,Tommy MAYS,77
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Tommy MAYS,49
+Powell,ABSENTEE PAPER,Stanton City Council,,,Tommy MAYS,34
+Powell,C101,Stanton City Council,,,Margarita ARNETT,182
+Powell,C102,Stanton City Council,,,Margarita ARNETT,194
+Powell,E101,Stanton City Council,,,Margarita ARNETT,63
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Margarita ARNETT,39
+Powell,ABSENTEE PAPER,Stanton City Council,,,Margarita ARNETT,40
+Powell,C101,Stanton City Council,,,Jenell BREWER,197
+Powell,C102,Stanton City Council,,,Jenell BREWER,238
+Powell,E101,Stanton City Council,,,Jenell BREWER,77
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Jenell BREWER,47
+Powell,ABSENTEE PAPER,Stanton City Council,,,Jenell BREWER,26
+Powell,C101,Stanton City Council,,,Rhonda ROE,176
+Powell,C102,Stanton City Council,,,Rhonda ROE,224
+Powell,E101,Stanton City Council,,,Rhonda ROE,64
+Powell,ABSENTEE MACHINE,Stanton City Council,,,Rhonda ROE,35
+Powell,ABSENTEE PAPER,Stanton City Council,,,Rhonda ROE,26
+Powell,B101,Clay City Mayor,,,Shawna Combs SMITH,67
+Powell,B102,Clay City Mayor,,,Shawna Combs SMITH,4
+Powell,ABSENTEE MACHINE,Clay City Mayor,,,Shawna Combs SMITH,2
+Powell,ABSENTEE PAPER,Clay City Mayor,,,Shawna Combs SMITH,3
+Powell,B101,Clay City Mayor,,,Kenny RICE,154
+Powell,B102,Clay City Mayor,,,Kenny RICE,10
+Powell,ABSENTEE MACHINE,Clay City Mayor,,,Kenny RICE,4
+Powell,ABSENTEE PAPER,Clay City Mayor,,,Kenny RICE,11
+Powell,B101,Clay City Mayor,,,Charissa KNOX,66
+Powell,B102,Clay City Mayor,,,Charissa KNOX,1
+Powell,ABSENTEE MACHINE,Clay City Mayor,,,Charissa KNOX,5
+Powell,ABSENTEE PAPER,Clay City Mayor,,,Charissa KNOX,4
+Powell,B101,Clay City Council,,,Christina BALLARD,155
+Powell,B102,Clay City Council,,,Christina BALLARD,9
+Powell,ABSENTEE MACHINE,Clay City Council,,,Christina BALLARD,3
+Powell,ABSENTEE PAPER,Clay City Council,,,Christina BALLARD,11
+Powell,B101,Clay City Council,,,Chiquitha CRAWFORD,119
+Powell,B102,Clay City Council,,,Chiquitha CRAWFORD,5
+Powell,ABSENTEE MACHINE,Clay City Council,,,Chiquitha CRAWFORD,4
+Powell,ABSENTEE PAPER,Clay City Council,,,Chiquitha CRAWFORD,9
+Powell,B101,Clay City Council,,,Al CAMPBELL,117
+Powell,B102,Clay City Council,,,Al CAMPBELL,5
+Powell,ABSENTEE MACHINE,Clay City Council,,,Al CAMPBELL,6
+Powell,ABSENTEE PAPER,Clay City Council,,,Al CAMPBELL,13
+Powell,B101,Clay City Council,,,Billy R. TODD,141
+Powell,B102,Clay City Council,,,Billy R. TODD,10
+Powell,ABSENTEE MACHINE,Clay City Council,,,Billy R. TODD,5
+Powell,ABSENTEE PAPER,Clay City Council,,,Billy R. TODD,10
+Powell,B101,Clay City Council,,,Roslynn Little HURT,147
+Powell,B102,Clay City Council,,,Roslynn Little HURT,7
+Powell,ABSENTEE MACHINE,Clay City Council,,,Roslynn Little HURT,6
+Powell,ABSENTEE PAPER,Clay City Council,,,Roslynn Little HURT,13
+Powell,B101,Clay City Council,,,Ryan SMITH,138
+Powell,B102,Clay City Council,,,Ryan SMITH,4
+Powell,ABSENTEE MACHINE,Clay City Council,,,Ryan SMITH,6
+Powell,ABSENTEE PAPER,Clay City Council,,,Ryan SMITH,9
+Powell,B101,Clay City Council,,,Robert CARMICHAEL,150
+Powell,B102,Clay City Council,,,Robert CARMICHAEL,10
+Powell,ABSENTEE MACHINE,Clay City Council,,,Robert CARMICHAEL,6
+Powell,ABSENTEE PAPER,Clay City Council,,,Robert CARMICHAEL,14

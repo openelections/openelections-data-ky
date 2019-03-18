@@ -1,0 +1,649 @@
+county,precinct,office,district,party,candidate,votes
+Magoffin,A101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",261
+Magoffin,A102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",283
+Magoffin,A103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",206
+Magoffin,A104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",365
+Magoffin,B101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",292
+Magoffin,B102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",254
+Magoffin,B103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",148
+Magoffin,B104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",216
+Magoffin,B105,U.S. House,5,REP,"Harold ""Hal"" ROGERS",142
+Magoffin,C101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",212
+Magoffin,C102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",179
+Magoffin,C103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",233
+Magoffin,C104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",255
+Magoffin,C105,U.S. House,5,REP,"Harold ""Hal"" ROGERS",267
+Magoffin,ABSENTEE MACHINE,U.S. House,5,REP,"Harold ""Hal"" ROGERS",357
+Magoffin,ABSENTEE PAPER,U.S. House,5,REP,"Harold ""Hal"" ROGERS",189
+Magoffin,A101,U.S. House,5,DEM,Kenneth S. STEPP,107
+Magoffin,A102,U.S. House,5,DEM,Kenneth S. STEPP,126
+Magoffin,A103,U.S. House,5,DEM,Kenneth S. STEPP,64
+Magoffin,A104,U.S. House,5,DEM,Kenneth S. STEPP,130
+Magoffin,B101,U.S. House,5,DEM,Kenneth S. STEPP,132
+Magoffin,B102,U.S. House,5,DEM,Kenneth S. STEPP,93
+Magoffin,B103,U.S. House,5,DEM,Kenneth S. STEPP,26
+Magoffin,B104,U.S. House,5,DEM,Kenneth S. STEPP,72
+Magoffin,B105,U.S. House,5,DEM,Kenneth S. STEPP,60
+Magoffin,C101,U.S. House,5,DEM,Kenneth S. STEPP,79
+Magoffin,C102,U.S. House,5,DEM,Kenneth S. STEPP,56
+Magoffin,C103,U.S. House,5,DEM,Kenneth S. STEPP,59
+Magoffin,C104,U.S. House,5,DEM,Kenneth S. STEPP,82
+Magoffin,C105,U.S. House,5,DEM,Kenneth S. STEPP,75
+Magoffin,ABSENTEE MACHINE,U.S. House,5,DEM,Kenneth S. STEPP,177
+Magoffin,ABSENTEE PAPER,U.S. House,5,DEM,Kenneth S. STEPP,84
+Magoffin,A101,State Senator,30,REP,Brandon SMITH,225
+Magoffin,A102,State Senator,30,REP,Brandon SMITH,238
+Magoffin,A103,State Senator,30,REP,Brandon SMITH,181
+Magoffin,A104,State Senator,30,REP,Brandon SMITH,307
+Magoffin,B101,State Senator,30,REP,Brandon SMITH,235
+Magoffin,B102,State Senator,30,REP,Brandon SMITH,211
+Magoffin,B103,State Senator,30,REP,Brandon SMITH,142
+Magoffin,B104,State Senator,30,REP,Brandon SMITH,182
+Magoffin,B105,State Senator,30,REP,Brandon SMITH,118
+Magoffin,C101,State Senator,30,REP,Brandon SMITH,184
+Magoffin,C102,State Senator,30,REP,Brandon SMITH,155
+Magoffin,C103,State Senator,30,REP,Brandon SMITH,182
+Magoffin,C104,State Senator,30,REP,Brandon SMITH,197
+Magoffin,C105,State Senator,30,REP,Brandon SMITH,244
+Magoffin,ABSENTEE MACHINE,State Senator,30,REP,Brandon SMITH,309
+Magoffin,ABSENTEE PAPER,State Senator,30,REP,Brandon SMITH,161
+Magoffin,A101,State Senator,30,DEM,Paula CLEMONS-COMBS,133
+Magoffin,A102,State Senator,30,DEM,Paula CLEMONS-COMBS,154
+Magoffin,A103,State Senator,30,DEM,Paula CLEMONS-COMBS,76
+Magoffin,A104,State Senator,30,DEM,Paula CLEMONS-COMBS,176
+Magoffin,B101,State Senator,30,DEM,Paula CLEMONS-COMBS,159
+Magoffin,B102,State Senator,30,DEM,Paula CLEMONS-COMBS,118
+Magoffin,B103,State Senator,30,DEM,Paula CLEMONS-COMBS,27
+Magoffin,B104,State Senator,30,DEM,Paula CLEMONS-COMBS,91
+Magoffin,B105,State Senator,30,DEM,Paula CLEMONS-COMBS,76
+Magoffin,C101,State Senator,30,DEM,Paula CLEMONS-COMBS,103
+Magoffin,C102,State Senator,30,DEM,Paula CLEMONS-COMBS,70
+Magoffin,C103,State Senator,30,DEM,Paula CLEMONS-COMBS,99
+Magoffin,C104,State Senator,30,DEM,Paula CLEMONS-COMBS,116
+Magoffin,C105,State Senator,30,DEM,Paula CLEMONS-COMBS,89
+Magoffin,ABSENTEE MACHINE,State Senator,30,DEM,Paula CLEMONS-COMBS,222
+Magoffin,ABSENTEE PAPER,State Senator,30,DEM,Paula CLEMONS-COMBS,115
+Magoffin,A101,State Representative,92,REP,John C. BLANTON,269
+Magoffin,A102,State Representative,92,REP,John C. BLANTON,295
+Magoffin,A103,State Representative,92,REP,John C. BLANTON,217
+Magoffin,A104,State Representative,92,REP,John C. BLANTON,350
+Magoffin,B101,State Representative,92,REP,John C. BLANTON,305
+Magoffin,B102,State Representative,92,REP,John C. BLANTON,286
+Magoffin,B103,State Representative,92,REP,John C. BLANTON,153
+Magoffin,B104,State Representative,92,REP,John C. BLANTON,227
+Magoffin,B105,State Representative,92,REP,John C. BLANTON,154
+Magoffin,C101,State Representative,92,REP,John C. BLANTON,218
+Magoffin,C102,State Representative,92,REP,John C. BLANTON,171
+Magoffin,C103,State Representative,92,REP,John C. BLANTON,232
+Magoffin,C104,State Representative,92,REP,John C. BLANTON,232
+Magoffin,C105,State Representative,92,REP,John C. BLANTON,275
+Magoffin,ABSENTEE MACHINE,State Representative,92,REP,John C. BLANTON,359
+Magoffin,ABSENTEE PAPER,State Representative,92,REP,John C. BLANTON,186
+Magoffin,A101,State Representative,92,DEM,Ryan D. MOSLEY,111
+Magoffin,A102,State Representative,92,DEM,Ryan D. MOSLEY,126
+Magoffin,A103,State Representative,92,DEM,Ryan D. MOSLEY,64
+Magoffin,A104,State Representative,92,DEM,Ryan D. MOSLEY,167
+Magoffin,B101,State Representative,92,DEM,Ryan D. MOSLEY,132
+Magoffin,B102,State Representative,92,DEM,Ryan D. MOSLEY,77
+Magoffin,B103,State Representative,92,DEM,Ryan D. MOSLEY,30
+Magoffin,B104,State Representative,92,DEM,Ryan D. MOSLEY,78
+Magoffin,B105,State Representative,92,DEM,Ryan D. MOSLEY,52
+Magoffin,C101,State Representative,92,DEM,Ryan D. MOSLEY,85
+Magoffin,C102,State Representative,92,DEM,Ryan D. MOSLEY,64
+Magoffin,C103,State Representative,92,DEM,Ryan D. MOSLEY,69
+Magoffin,C104,State Representative,92,DEM,Ryan D. MOSLEY,98
+Magoffin,C105,State Representative,92,DEM,Ryan D. MOSLEY,81
+Magoffin,ABSENTEE MACHINE,State Representative,92,DEM,Ryan D. MOSLEY,191
+Magoffin,ABSENTEE PAPER,State Representative,92,DEM,Ryan D. MOSLEY,87
+Magoffin,A101,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,237
+Magoffin,A102,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,268
+Magoffin,A103,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,166
+Magoffin,A104,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,290
+Magoffin,B101,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,260
+Magoffin,B102,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,227
+Magoffin,B103,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,102
+Magoffin,B104,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,163
+Magoffin,B105,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,141
+Magoffin,C101,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,197
+Magoffin,C102,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,138
+Magoffin,C103,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,175
+Magoffin,C104,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,193
+Magoffin,C105,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,217
+Magoffin,ABSENTEE MACHINE,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,363
+Magoffin,ABSENTEE PAPER,Commonwealth's Attorney, 36th Judicial Circuit,,Todd MARTIN,198
+Magoffin,A101,Circuit Clerk,,,Christi Jo MONTGOMERY,100
+Magoffin,A102,Circuit Clerk,,,Christi Jo MONTGOMERY,121
+Magoffin,A103,Circuit Clerk,,,Christi Jo MONTGOMERY,90
+Magoffin,A104,Circuit Clerk,,,Christi Jo MONTGOMERY,145
+Magoffin,B101,Circuit Clerk,,,Christi Jo MONTGOMERY,94
+Magoffin,B102,Circuit Clerk,,,Christi Jo MONTGOMERY,67
+Magoffin,B103,Circuit Clerk,,,Christi Jo MONTGOMERY,45
+Magoffin,B104,Circuit Clerk,,,Christi Jo MONTGOMERY,88
+Magoffin,B105,Circuit Clerk,,,Christi Jo MONTGOMERY,36
+Magoffin,C101,Circuit Clerk,,,Christi Jo MONTGOMERY,67
+Magoffin,C102,Circuit Clerk,,,Christi Jo MONTGOMERY,55
+Magoffin,C103,Circuit Clerk,,,Christi Jo MONTGOMERY,86
+Magoffin,C104,Circuit Clerk,,,Christi Jo MONTGOMERY,84
+Magoffin,C105,Circuit Clerk,,,Christi Jo MONTGOMERY,95
+Magoffin,ABSENTEE MACHINE,Circuit Clerk,,,Christi Jo MONTGOMERY,152
+Magoffin,ABSENTEE PAPER,Circuit Clerk,,,Christi Jo MONTGOMERY,76
+Magoffin,A101,Circuit Clerk,,,Tonya Arnett WARD,294
+Magoffin,A102,Circuit Clerk,,,Tonya Arnett WARD,300
+Magoffin,A103,Circuit Clerk,,,Tonya Arnett WARD,198
+Magoffin,A104,Circuit Clerk,,,Tonya Arnett WARD,379
+Magoffin,B101,Circuit Clerk,,,Tonya Arnett WARD,351
+Magoffin,B102,Circuit Clerk,,,Tonya Arnett WARD,300
+Magoffin,B103,Circuit Clerk,,,Tonya Arnett WARD,135
+Magoffin,B104,Circuit Clerk,,,Tonya Arnett WARD,213
+Magoffin,B105,Circuit Clerk,,,Tonya Arnett WARD,179
+Magoffin,C101,Circuit Clerk,,,Tonya Arnett WARD,250
+Magoffin,C102,Circuit Clerk,,,Tonya Arnett WARD,194
+Magoffin,C103,Circuit Clerk,,,Tonya Arnett WARD,215
+Magoffin,C104,Circuit Clerk,,,Tonya Arnett WARD,274
+Magoffin,C105,Circuit Clerk,,,Tonya Arnett WARD,273
+Magoffin,ABSENTEE MACHINE,Circuit Clerk,,,Tonya Arnett WARD,412
+Magoffin,ABSENTEE PAPER,Circuit Clerk,,,Tonya Arnett WARD,205
+Magoffin,A101,PVA,,,"Rebecca ""Becky"" ALLEN",193
+Magoffin,A102,PVA,,,"Rebecca ""Becky"" ALLEN",279
+Magoffin,A103,PVA,,,"Rebecca ""Becky"" ALLEN",160
+Magoffin,A104,PVA,,,"Rebecca ""Becky"" ALLEN",293
+Magoffin,B101,PVA,,,"Rebecca ""Becky"" ALLEN",210
+Magoffin,B102,PVA,,,"Rebecca ""Becky"" ALLEN",192
+Magoffin,B103,PVA,,,"Rebecca ""Becky"" ALLEN",90
+Magoffin,B104,PVA,,,"Rebecca ""Becky"" ALLEN",193
+Magoffin,B105,PVA,,,"Rebecca ""Becky"" ALLEN",133
+Magoffin,C101,PVA,,,"Rebecca ""Becky"" ALLEN",153
+Magoffin,C102,PVA,,,"Rebecca ""Becky"" ALLEN",97
+Magoffin,C103,PVA,,,"Rebecca ""Becky"" ALLEN",180
+Magoffin,C104,PVA,,,"Rebecca ""Becky"" ALLEN",189
+Magoffin,C105,PVA,,,"Rebecca ""Becky"" ALLEN",206
+Magoffin,ABSENTEE MACHINE,PVA,,,"Rebecca ""Becky"" ALLEN",293
+Magoffin,ABSENTEE PAPER,PVA,,,"Rebecca ""Becky"" ALLEN",145
+Magoffin,A101,PVA,,,Dexter ALLEN,189
+Magoffin,A102,PVA,,,Dexter ALLEN,145
+Magoffin,A103,PVA,,,Dexter ALLEN,128
+Magoffin,A104,PVA,,,Dexter ALLEN,222
+Magoffin,B101,PVA,,,Dexter ALLEN,220
+Magoffin,B102,PVA,,,Dexter ALLEN,171
+Magoffin,B103,PVA,,,Dexter ALLEN,88
+Magoffin,B104,PVA,,,Dexter ALLEN,98
+Magoffin,B105,PVA,,,Dexter ALLEN,77
+Magoffin,C101,PVA,,,Dexter ALLEN,161
+Magoffin,C102,PVA,,,Dexter ALLEN,154
+Magoffin,C103,PVA,,,Dexter ALLEN,113
+Magoffin,C104,PVA,,,Dexter ALLEN,161
+Magoffin,C105,PVA,,,Dexter ALLEN,157
+Magoffin,ABSENTEE MACHINE,PVA,,,Dexter ALLEN,270
+Magoffin,ABSENTEE PAPER,PVA,,,Dexter ALLEN,130
+Magoffin,A101,County Judge Executive,,,Carter WHITAKER,152
+Magoffin,A102,County Judge Executive,,,Carter WHITAKER,266
+Magoffin,A103,County Judge Executive,,,Carter WHITAKER,163
+Magoffin,A104,County Judge Executive,,,Carter WHITAKER,207
+Magoffin,B101,County Judge Executive,,,Carter WHITAKER,174
+Magoffin,B102,County Judge Executive,,,Carter WHITAKER,119
+Magoffin,B103,County Judge Executive,,,Carter WHITAKER,82
+Magoffin,B104,County Judge Executive,,,Carter WHITAKER,159
+Magoffin,B105,County Judge Executive,,,Carter WHITAKER,93
+Magoffin,C101,County Judge Executive,,,Carter WHITAKER,97
+Magoffin,C102,County Judge Executive,,,Carter WHITAKER,129
+Magoffin,C103,County Judge Executive,,,Carter WHITAKER,131
+Magoffin,C104,County Judge Executive,,,Carter WHITAKER,210
+Magoffin,C105,County Judge Executive,,,Carter WHITAKER,155
+Magoffin,ABSENTEE MACHINE,County Judge Executive,,,Carter WHITAKER,295
+Magoffin,ABSENTEE PAPER,County Judge Executive,,,Carter WHITAKER,137
+Magoffin,A101,County Judge Executive,,,Matthew Chalmer WIREMAN,243
+Magoffin,A102,County Judge Executive,,,Matthew Chalmer WIREMAN,165
+Magoffin,A103,County Judge Executive,,,Matthew Chalmer WIREMAN,123
+Magoffin,A104,County Judge Executive,,,Matthew Chalmer WIREMAN,319
+Magoffin,B101,County Judge Executive,,,Matthew Chalmer WIREMAN,263
+Magoffin,B102,County Judge Executive,,,Matthew Chalmer WIREMAN,253
+Magoffin,B103,County Judge Executive,,,Matthew Chalmer WIREMAN,96
+Magoffin,B104,County Judge Executive,,,Matthew Chalmer WIREMAN,145
+Magoffin,B105,County Judge Executive,,,Matthew Chalmer WIREMAN,121
+Magoffin,C101,County Judge Executive,,,Matthew Chalmer WIREMAN,219
+Magoffin,C102,County Judge Executive,,,Matthew Chalmer WIREMAN,126
+Magoffin,C103,County Judge Executive,,,Matthew Chalmer WIREMAN,171
+Magoffin,C104,County Judge Executive,,,Matthew Chalmer WIREMAN,154
+Magoffin,C105,County Judge Executive,,,Matthew Chalmer WIREMAN,212
+Magoffin,ABSENTEE MACHINE,County Judge Executive,,,Matthew Chalmer WIREMAN,277
+Magoffin,ABSENTEE PAPER,County Judge Executive,,,Matthew Chalmer WIREMAN,137
+Magoffin,A101,County Attorney,,,Greg ALLEN,291
+Magoffin,A102,County Attorney,,,Greg ALLEN,320
+Magoffin,A103,County Attorney,,,Greg ALLEN,206
+Magoffin,A104,County Attorney,,,Greg ALLEN,375
+Magoffin,B101,County Attorney,,,Greg ALLEN,321
+Magoffin,B102,County Attorney,,,Greg ALLEN,281
+Magoffin,B103,County Attorney,,,Greg ALLEN,138
+Magoffin,B104,County Attorney,,,Greg ALLEN,205
+Magoffin,B105,County Attorney,,,Greg ALLEN,173
+Magoffin,C101,County Attorney,,,Greg ALLEN,249
+Magoffin,C102,County Attorney,,,Greg ALLEN,190
+Magoffin,C103,County Attorney,,,Greg ALLEN,224
+Magoffin,C104,County Attorney,,,Greg ALLEN,259
+Magoffin,C105,County Attorney,,,Greg ALLEN,263
+Magoffin,ABSENTEE MACHINE,County Attorney,,,Greg ALLEN,439
+Magoffin,ABSENTEE PAPER,County Attorney,,,Greg ALLEN,215
+Magoffin,A101,County Clerk,,,Josie Wireman BAILEY,165
+Magoffin,A102,County Clerk,,,Josie Wireman BAILEY,149
+Magoffin,A103,County Clerk,,,Josie Wireman BAILEY,117
+Magoffin,A104,County Clerk,,,Josie Wireman BAILEY,250
+Magoffin,B101,County Clerk,,,Josie Wireman BAILEY,179
+Magoffin,B102,County Clerk,,,Josie Wireman BAILEY,181
+Magoffin,B103,County Clerk,,,Josie Wireman BAILEY,84
+Magoffin,B104,County Clerk,,,Josie Wireman BAILEY,121
+Magoffin,B105,County Clerk,,,Josie Wireman BAILEY,83
+Magoffin,C101,County Clerk,,,Josie Wireman BAILEY,163
+Magoffin,C102,County Clerk,,,Josie Wireman BAILEY,114
+Magoffin,C103,County Clerk,,,Josie Wireman BAILEY,167
+Magoffin,C104,County Clerk,,,Josie Wireman BAILEY,180
+Magoffin,C105,County Clerk,,,Josie Wireman BAILEY,180
+Magoffin,ABSENTEE MACHINE,County Clerk,,,Josie Wireman BAILEY,181
+Magoffin,ABSENTEE PAPER,County Clerk,,,Josie Wireman BAILEY,80
+Magoffin,A101,County Clerk,,,Renee ARNETT-SHEPHERD,226
+Magoffin,A102,County Clerk,,,Renee ARNETT-SHEPHERD,284
+Magoffin,A103,County Clerk,,,Renee ARNETT-SHEPHERD,174
+Magoffin,A104,County Clerk,,,Renee ARNETT-SHEPHERD,277
+Magoffin,B101,County Clerk,,,Renee ARNETT-SHEPHERD,266
+Magoffin,B102,County Clerk,,,Renee ARNETT-SHEPHERD,188
+Magoffin,B103,County Clerk,,,Renee ARNETT-SHEPHERD,96
+Magoffin,B104,County Clerk,,,Renee ARNETT-SHEPHERD,183
+Magoffin,B105,County Clerk,,,Renee ARNETT-SHEPHERD,130
+Magoffin,C101,County Clerk,,,Renee ARNETT-SHEPHERD,149
+Magoffin,C102,County Clerk,,,Renee ARNETT-SHEPHERD,138
+Magoffin,C103,County Clerk,,,Renee ARNETT-SHEPHERD,132
+Magoffin,C104,County Clerk,,,Renee ARNETT-SHEPHERD,180
+Magoffin,C105,County Clerk,,,Renee ARNETT-SHEPHERD,186
+Magoffin,ABSENTEE MACHINE,County Clerk,,,Renee ARNETT-SHEPHERD,390
+Magoffin,ABSENTEE PAPER,County Clerk,,,Renee ARNETT-SHEPHERD,204
+Magoffin,A101,Sheriff,,,Carson MONTGOMERY,162
+Magoffin,A102,Sheriff,,,Carson MONTGOMERY,240
+Magoffin,A103,Sheriff,,,Carson MONTGOMERY,125
+Magoffin,A104,Sheriff,,,Carson MONTGOMERY,232
+Magoffin,B101,Sheriff,,,Carson MONTGOMERY,204
+Magoffin,B102,Sheriff,,,Carson MONTGOMERY,119
+Magoffin,B103,Sheriff,,,Carson MONTGOMERY,59
+Magoffin,B104,Sheriff,,,Carson MONTGOMERY,151
+Magoffin,B105,Sheriff,,,Carson MONTGOMERY,83
+Magoffin,C101,Sheriff,,,Carson MONTGOMERY,100
+Magoffin,C102,Sheriff,,,Carson MONTGOMERY,110
+Magoffin,C103,Sheriff,,,Carson MONTGOMERY,112
+Magoffin,C104,Sheriff,,,Carson MONTGOMERY,138
+Magoffin,C105,Sheriff,,,Carson MONTGOMERY,155
+Magoffin,ABSENTEE MACHINE,Sheriff,,,Carson MONTGOMERY,253
+Magoffin,ABSENTEE PAPER,Sheriff,,,Carson MONTGOMERY,112
+Magoffin,A101,Sheriff,,,David Neil HOWARD,182
+Magoffin,A102,Sheriff,,,David Neil HOWARD,152
+Magoffin,A103,Sheriff,,,David Neil HOWARD,126
+Magoffin,A104,Sheriff,,,David Neil HOWARD,236
+Magoffin,B101,Sheriff,,,David Neil HOWARD,180
+Magoffin,B102,Sheriff,,,David Neil HOWARD,190
+Magoffin,B103,Sheriff,,,David Neil HOWARD,91
+Magoffin,B104,Sheriff,,,David Neil HOWARD,109
+Magoffin,B105,Sheriff,,,David Neil HOWARD,99
+Magoffin,C101,Sheriff,,,David Neil HOWARD,111
+Magoffin,C102,Sheriff,,,David Neil HOWARD,106
+Magoffin,C103,Sheriff,,,David Neil HOWARD,97
+Magoffin,C104,Sheriff,,,David Neil HOWARD,159
+Magoffin,C105,Sheriff,,,David Neil HOWARD,159
+Magoffin,ABSENTEE MACHINE,Sheriff,,,David Neil HOWARD,231
+Magoffin,ABSENTEE PAPER,Sheriff,,,David Neil HOWARD,111
+Magoffin,A101,Sheriff,,IND,Rick JORDAN,10
+Magoffin,A102,Sheriff,,IND,Rick JORDAN,5
+Magoffin,A103,Sheriff,,IND,Rick JORDAN,10
+Magoffin,A104,Sheriff,,IND,Rick JORDAN,10
+Magoffin,B101,Sheriff,,IND,Rick JORDAN,8
+Magoffin,B102,Sheriff,,IND,Rick JORDAN,8
+Magoffin,B103,Sheriff,,IND,Rick JORDAN,1
+Magoffin,B104,Sheriff,,IND,Rick JORDAN,3
+Magoffin,B105,Sheriff,,IND,Rick JORDAN,5
+Magoffin,C101,Sheriff,,IND,Rick JORDAN,6
+Magoffin,C102,Sheriff,,IND,Rick JORDAN,8
+Magoffin,C103,Sheriff,,IND,Rick JORDAN,4
+Magoffin,C104,Sheriff,,IND,Rick JORDAN,11
+Magoffin,C105,Sheriff,,IND,Rick JORDAN,2
+Magoffin,ABSENTEE MACHINE,Sheriff,,IND,Rick JORDAN,12
+Magoffin,ABSENTEE PAPER,Sheriff,,IND,Rick JORDAN,5
+Magoffin,A101,Jailer,,,Greg MINIX,86
+Magoffin,A102,Jailer,,,Greg MINIX,135
+Magoffin,A103,Jailer,,,Greg MINIX,64
+Magoffin,A104,Jailer,,,Greg MINIX,90
+Magoffin,B101,Jailer,,,Greg MINIX,99
+Magoffin,B102,Jailer,,,Greg MINIX,121
+Magoffin,B103,Jailer,,,Greg MINIX,57
+Magoffin,B104,Jailer,,,Greg MINIX,120
+Magoffin,B105,Jailer,,,Greg MINIX,57
+Magoffin,C101,Jailer,,,Greg MINIX,85
+Magoffin,C102,Jailer,,,Greg MINIX,87
+Magoffin,C103,Jailer,,,Greg MINIX,103
+Magoffin,C104,Jailer,,,Greg MINIX,77
+Magoffin,C105,Jailer,,,Greg MINIX,111
+Magoffin,ABSENTEE MACHINE,Jailer,,,Greg MINIX,170
+Magoffin,ABSENTEE PAPER,Jailer,,,Greg MINIX,79
+Magoffin,A101,Jailer,,,Bryan MONTGOMERY,300
+Magoffin,A102,Jailer,,,Bryan MONTGOMERY,284
+Magoffin,A103,Jailer,,,Bryan MONTGOMERY,225
+Magoffin,A104,Jailer,,,Bryan MONTGOMERY,431
+Magoffin,B101,Jailer,,,Bryan MONTGOMERY,336
+Magoffin,B102,Jailer,,,Bryan MONTGOMERY,242
+Magoffin,B103,Jailer,,,Bryan MONTGOMERY,124
+Magoffin,B104,Jailer,,,Bryan MONTGOMERY,181
+Magoffin,B105,Jailer,,,Bryan MONTGOMERY,153
+Magoffin,C101,Jailer,,,Bryan MONTGOMERY,226
+Magoffin,C102,Jailer,,,Bryan MONTGOMERY,154
+Magoffin,C103,Jailer,,,Bryan MONTGOMERY,192
+Magoffin,C104,Jailer,,,Bryan MONTGOMERY,267
+Magoffin,C105,Jailer,,,Bryan MONTGOMERY,251
+Magoffin,ABSENTEE MACHINE,Jailer,,,Bryan MONTGOMERY,394
+Magoffin,ABSENTEE PAPER,Jailer,,,Bryan MONTGOMERY,201
+Magoffin,A101,Coroner,,,Mark JENKINS,300
+Magoffin,A102,Coroner,,,Mark JENKINS,327
+Magoffin,A103,Coroner,,,Mark JENKINS,211
+Magoffin,A104,Coroner,,,Mark JENKINS,372
+Magoffin,B101,Coroner,,,Mark JENKINS,349
+Magoffin,B102,Coroner,,,Mark JENKINS,304
+Magoffin,B103,Coroner,,,Mark JENKINS,146
+Magoffin,B104,Coroner,,,Mark JENKINS,251
+Magoffin,B105,Coroner,,,Mark JENKINS,176
+Magoffin,C101,Coroner,,,Mark JENKINS,238
+Magoffin,C102,Coroner,,,Mark JENKINS,183
+Magoffin,C103,Coroner,,,Mark JENKINS,218
+Magoffin,C104,Coroner,,,Mark JENKINS,260
+Magoffin,C105,Coroner,,,Mark JENKINS,270
+Magoffin,ABSENTEE MACHINE,Coroner,,,Mark JENKINS,450
+Magoffin,ABSENTEE PAPER,Coroner,,,Mark JENKINS,223
+Magoffin,A101,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,A102,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,A103,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,A104,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,B101,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,B102,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,B103,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,B104,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,B105,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,C101,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,C102,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,C103,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,C104,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,C105,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,ABSENTEE MACHINE,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,ABSENTEE PAPER,County Surveyor,,,NO CANDIDATE FILED,0
+Magoffin,A101,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",176
+Magoffin,A102,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",135
+Magoffin,A103,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",93
+Magoffin,A104,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",208
+Magoffin,B101,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",196
+Magoffin,B102,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",158
+Magoffin,B103,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",65
+Magoffin,B104,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",139
+Magoffin,B105,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",81
+Magoffin,C101,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",143
+Magoffin,C102,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",102
+Magoffin,C103,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",110
+Magoffin,C104,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",149
+Magoffin,C105,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",119
+Magoffin,ABSENTEE MACHINE,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",218
+Magoffin,ABSENTEE PAPER,Soil & Water Supervisors,,,"Kenneth ""Poor Boy"" WILLIAMS",135
+Magoffin,A101,Soil & Water Supervisors,,,Calvin JOHNSON,109
+Magoffin,A102,Soil & Water Supervisors,,,Calvin JOHNSON,258
+Magoffin,A103,Soil & Water Supervisors,,,Calvin JOHNSON,118
+Magoffin,A104,Soil & Water Supervisors,,,Calvin JOHNSON,126
+Magoffin,B101,Soil & Water Supervisors,,,Calvin JOHNSON,168
+Magoffin,B102,Soil & Water Supervisors,,,Calvin JOHNSON,128
+Magoffin,B103,Soil & Water Supervisors,,,Calvin JOHNSON,55
+Magoffin,B104,Soil & Water Supervisors,,,Calvin JOHNSON,83
+Magoffin,B105,Soil & Water Supervisors,,,Calvin JOHNSON,100
+Magoffin,C101,Soil & Water Supervisors,,,Calvin JOHNSON,61
+Magoffin,C102,Soil & Water Supervisors,,,Calvin JOHNSON,32
+Magoffin,C103,Soil & Water Supervisors,,,Calvin JOHNSON,58
+Magoffin,C104,Soil & Water Supervisors,,,Calvin JOHNSON,66
+Magoffin,C105,Soil & Water Supervisors,,,Calvin JOHNSON,112
+Magoffin,ABSENTEE MACHINE,Soil & Water Supervisors,,,Calvin JOHNSON,215
+Magoffin,ABSENTEE PAPER,Soil & Water Supervisors,,,Calvin JOHNSON,113
+Magoffin,A101,Soil & Water Supervisors,,,Nicholas STEPHENS,90
+Magoffin,A102,Soil & Water Supervisors,,,Nicholas STEPHENS,76
+Magoffin,A103,Soil & Water Supervisors,,,Nicholas STEPHENS,44
+Magoffin,A104,Soil & Water Supervisors,,,Nicholas STEPHENS,94
+Magoffin,B101,Soil & Water Supervisors,,,Nicholas STEPHENS,117
+Magoffin,B102,Soil & Water Supervisors,,,Nicholas STEPHENS,101
+Magoffin,B103,Soil & Water Supervisors,,,Nicholas STEPHENS,46
+Magoffin,B104,Soil & Water Supervisors,,,Nicholas STEPHENS,62
+Magoffin,B105,Soil & Water Supervisors,,,Nicholas STEPHENS,48
+Magoffin,C101,Soil & Water Supervisors,,,Nicholas STEPHENS,85
+Magoffin,C102,Soil & Water Supervisors,,,Nicholas STEPHENS,92
+Magoffin,C103,Soil & Water Supervisors,,,Nicholas STEPHENS,100
+Magoffin,C104,Soil & Water Supervisors,,,Nicholas STEPHENS,125
+Magoffin,C105,Soil & Water Supervisors,,,Nicholas STEPHENS,100
+Magoffin,ABSENTEE MACHINE,Soil & Water Supervisors,,,Nicholas STEPHENS,149
+Magoffin,ABSENTEE PAPER,Soil & Water Supervisors,,,Nicholas STEPHENS,71
+Magoffin,A101,Soil & Water Supervisors,,,Dallas PATRICK,145
+Magoffin,A102,Soil & Water Supervisors,,,Dallas PATRICK,149
+Magoffin,A103,Soil & Water Supervisors,,,Dallas PATRICK,140
+Magoffin,A104,Soil & Water Supervisors,,,Dallas PATRICK,287
+Magoffin,B101,Soil & Water Supervisors,,,Dallas PATRICK,160
+Magoffin,B102,Soil & Water Supervisors,,,Dallas PATRICK,121
+Magoffin,B103,Soil & Water Supervisors,,,Dallas PATRICK,87
+Magoffin,B104,Soil & Water Supervisors,,,Dallas PATRICK,73
+Magoffin,B105,Soil & Water Supervisors,,,Dallas PATRICK,64
+Magoffin,C101,Soil & Water Supervisors,,,Dallas PATRICK,101
+Magoffin,C102,Soil & Water Supervisors,,,Dallas PATRICK,40
+Magoffin,C103,Soil & Water Supervisors,,,Dallas PATRICK,84
+Magoffin,C104,Soil & Water Supervisors,,,Dallas PATRICK,137
+Magoffin,C105,Soil & Water Supervisors,,,Dallas PATRICK,144
+Magoffin,ABSENTEE MACHINE,Soil & Water Supervisors,,,Dallas PATRICK,219
+Magoffin,ABSENTEE PAPER,Soil & Water Supervisors,,,Dallas PATRICK,120
+Magoffin,A101,Soil & Water Supervisors,,,Avavan Arnett DEATON,157
+Magoffin,A102,Soil & Water Supervisors,,,Avavan Arnett DEATON,99
+Magoffin,A103,Soil & Water Supervisors,,,Avavan Arnett DEATON,107
+Magoffin,A104,Soil & Water Supervisors,,,Avavan Arnett DEATON,229
+Magoffin,B101,Soil & Water Supervisors,,,Avavan Arnett DEATON,162
+Magoffin,B102,Soil & Water Supervisors,,,Avavan Arnett DEATON,133
+Magoffin,B103,Soil & Water Supervisors,,,Avavan Arnett DEATON,60
+Magoffin,B104,Soil & Water Supervisors,,,Avavan Arnett DEATON,69
+Magoffin,B105,Soil & Water Supervisors,,,Avavan Arnett DEATON,74
+Magoffin,C101,Soil & Water Supervisors,,,Avavan Arnett DEATON,137
+Magoffin,C102,Soil & Water Supervisors,,,Avavan Arnett DEATON,48
+Magoffin,C103,Soil & Water Supervisors,,,Avavan Arnett DEATON,117
+Magoffin,C104,Soil & Water Supervisors,,,Avavan Arnett DEATON,144
+Magoffin,C105,Soil & Water Supervisors,,,Avavan Arnett DEATON,132
+Magoffin,ABSENTEE MACHINE,Soil & Water Supervisors,,,Avavan Arnett DEATON,194
+Magoffin,ABSENTEE PAPER,Soil & Water Supervisors,,,Avavan Arnett DEATON,124
+Magoffin,A101,Magistrate District 1,,,Darrel Ray HOWARD,198
+Magoffin,A102,Magistrate District 1,,,Darrel Ray HOWARD,362
+Magoffin,A103,Magistrate District 1,,,Darrel Ray HOWARD,208
+Magoffin,A104,Magistrate District 1,,,Darrel Ray HOWARD,234
+Magoffin,ABSENTEE MACHINE,Magistrate District 1,,,Darrel Ray HOWARD,127
+Magoffin,ABSENTEE PAPER,Magistrate District 1,,,Darrel Ray HOWARD,65
+Magoffin,A101,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",181
+Magoffin,A102,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",63
+Magoffin,A103,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",83
+Magoffin,A104,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",278
+Magoffin,ABSENTEE MACHINE,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",90
+Magoffin,ABSENTEE PAPER,Magistrate District 1,,,"Harlen ""Sarge"" ROWE",39
+Magoffin,A101,Constable District 1,,,James RUDD,241
+Magoffin,A102,Constable District 1,,,James RUDD,216
+Magoffin,A103,Constable District 1,,,James RUDD,195
+Magoffin,A104,Constable District 1,,,James RUDD,342
+Magoffin,ABSENTEE MACHINE,Constable District 1,,,James RUDD,129
+Magoffin,ABSENTEE PAPER,Constable District 1,,,James RUDD,60
+Magoffin,A101,Constable District 1,,,Billy Joe HOWARD,118
+Magoffin,A102,Constable District 1,,,Billy Joe HOWARD,185
+Magoffin,A103,Constable District 1,,,Billy Joe HOWARD,70
+Magoffin,A104,Constable District 1,,,Billy Joe HOWARD,142
+Magoffin,ABSENTEE MACHINE,Constable District 1,,,Billy Joe HOWARD,72
+Magoffin,ABSENTEE PAPER,Constable District 1,,,Billy Joe HOWARD,43
+Magoffin,B101,Magistrate District 2,,,Eddie JENKINS,183
+Magoffin,B102,Magistrate District 2,,,Eddie JENKINS,151
+Magoffin,B103,Magistrate District 2,,,Eddie JENKINS,110
+Magoffin,B104,Magistrate District 2,,,Eddie JENKINS,184
+Magoffin,B105,Magistrate District 2,,,Eddie JENKINS,121
+Magoffin,ABSENTEE MACHINE,Magistrate District 2,,,Eddie JENKINS,90
+Magoffin,ABSENTEE PAPER,Magistrate District 2,,,Eddie JENKINS,54
+Magoffin,B101,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",257
+Magoffin,B102,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",221
+Magoffin,B103,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",71
+Magoffin,B104,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",121
+Magoffin,B105,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",88
+Magoffin,ABSENTEE MACHINE,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",114
+Magoffin,ABSENTEE PAPER,Magistrate District 2,,,"Pernell ""Buck"" LEMASTER",41
+Magoffin,B101,Constable District 2,,,Wade L. COLLINSWORTH,191
+Magoffin,B102,Constable District 2,,,Wade L. COLLINSWORTH,180
+Magoffin,B103,Constable District 2,,,Wade L. COLLINSWORTH,154
+Magoffin,B104,Constable District 2,,,Wade L. COLLINSWORTH,127
+Magoffin,B105,Constable District 2,,,Wade L. COLLINSWORTH,85
+Magoffin,ABSENTEE MACHINE,Constable District 2,,,Wade L. COLLINSWORTH,97
+Magoffin,ABSENTEE PAPER,Constable District 2,,,Wade L. COLLINSWORTH,53
+Magoffin,B101,Constable District 2,,,Ronnie HOWARD,199
+Magoffin,B102,Constable District 2,,,Ronnie HOWARD,166
+Magoffin,B103,Constable District 2,,,Ronnie HOWARD,24
+Magoffin,B104,Constable District 2,,,Ronnie HOWARD,156
+Magoffin,B105,Constable District 2,,,Ronnie HOWARD,113
+Magoffin,ABSENTEE MACHINE,Constable District 2,,,Ronnie HOWARD,97
+Magoffin,ABSENTEE PAPER,Constable District 2,,,Ronnie HOWARD,37
+Magoffin,C101,Magistrate District 3,,,James E. HOLLIDAY,135
+Magoffin,C102,Magistrate District 3,,,James E. HOLLIDAY,65
+Magoffin,C103,Magistrate District 3,,,James E. HOLLIDAY,161
+Magoffin,C104,Magistrate District 3,,,James E. HOLLIDAY,147
+Magoffin,C105,Magistrate District 3,,,James E. HOLLIDAY,186
+Magoffin,ABSENTEE MACHINE,Magistrate District 3,,,James E. HOLLIDAY,67
+Magoffin,ABSENTEE PAPER,Magistrate District 3,,,James E. HOLLIDAY,33
+Magoffin,C101,Magistrate District 3,,,Joe BAILEY,177
+Magoffin,C102,Magistrate District 3,,,Joe BAILEY,186
+Magoffin,C103,Magistrate District 3,,,Joe BAILEY,129
+Magoffin,C104,Magistrate District 3,,,Joe BAILEY,212
+Magoffin,C105,Magistrate District 3,,,Joe BAILEY,169
+Magoffin,ABSENTEE MACHINE,Magistrate District 3,,,Joe BAILEY,71
+Magoffin,ABSENTEE PAPER,Magistrate District 3,,,Joe BAILEY,43
+Magoffin,C101,Constable District 3,,,Roger Darin GULLETT,69
+Magoffin,C102,Constable District 3,,,Roger Darin GULLETT,86
+Magoffin,C103,Constable District 3,,,Roger Darin GULLETT,127
+Magoffin,C104,Constable District 3,,,Roger Darin GULLETT,83
+Magoffin,C105,Constable District 3,,,Roger Darin GULLETT,151
+Magoffin,ABSENTEE MACHINE,Constable District 3,,,Roger Darin GULLETT,54
+Magoffin,ABSENTEE PAPER,Constable District 3,,,Roger Darin GULLETT,24
+Magoffin,C101,Constable District 3,,,Richard Rex LOVE,221
+Magoffin,C102,Constable District 3,,,Richard Rex LOVE,142
+Magoffin,C103,Constable District 3,,,Richard Rex LOVE,156
+Magoffin,C104,Constable District 3,,,Richard Rex LOVE,245
+Magoffin,C105,Constable District 3,,,Richard Rex LOVE,155
+Magoffin,ABSENTEE MACHINE,Constable District 3,,,Richard Rex LOVE,77
+Magoffin,ABSENTEE PAPER,Constable District 3,,,Richard Rex LOVE,45
+Magoffin,A101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,134
+Magoffin,A102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,162
+Magoffin,A103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,96
+Magoffin,A104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,148
+Magoffin,B101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,123
+Magoffin,B102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,106
+Magoffin,B103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,57
+Magoffin,B104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,96
+Magoffin,B105,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,63
+Magoffin,C101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,108
+Magoffin,C102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,86
+Magoffin,C103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,98
+Magoffin,C104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,106
+Magoffin,C105,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,105
+Magoffin,ABSENTEE MACHINE,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,179
+Magoffin,ABSENTEE PAPER,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,67
+Magoffin,A101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,155
+Magoffin,A102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,140
+Magoffin,A103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,103
+Magoffin,A104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,220
+Magoffin,B101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,195
+Magoffin,B102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,167
+Magoffin,B103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,84
+Magoffin,B104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,102
+Magoffin,B105,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,89
+Magoffin,C101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,128
+Magoffin,C102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,106
+Magoffin,C103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,121
+Magoffin,C104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,160
+Magoffin,C105,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,150
+Magoffin,ABSENTEE MACHINE,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,228
+Magoffin,ABSENTEE PAPER,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,136
+Magoffin,A101,District Judge, 36th Judicial District,,Dennis PRATER,283
+Magoffin,A102,District Judge, 36th Judicial District,,Dennis PRATER,297
+Magoffin,A103,District Judge, 36th Judicial District,,Dennis PRATER,218
+Magoffin,A104,District Judge, 36th Judicial District,,Dennis PRATER,385
+Magoffin,B101,District Judge, 36th Judicial District,,Dennis PRATER,330
+Magoffin,B102,District Judge, 36th Judicial District,,Dennis PRATER,289
+Magoffin,B103,District Judge, 36th Judicial District,,Dennis PRATER,134
+Magoffin,B104,District Judge, 36th Judicial District,,Dennis PRATER,192
+Magoffin,B105,District Judge, 36th Judicial District,,Dennis PRATER,169
+Magoffin,C101,District Judge, 36th Judicial District,,Dennis PRATER,240
+Magoffin,C102,District Judge, 36th Judicial District,,Dennis PRATER,179
+Magoffin,C103,District Judge, 36th Judicial District,,Dennis PRATER,225
+Magoffin,C104,District Judge, 36th Judicial District,,Dennis PRATER,258
+Magoffin,C105,District Judge, 36th Judicial District,,Dennis PRATER,273
+Magoffin,ABSENTEE MACHINE,District Judge, 36th Judicial District,,Dennis PRATER,435
+Magoffin,ABSENTEE PAPER,District Judge, 36th Judicial District,,Dennis PRATER,200
+Magoffin,A101,School Board District 1,,,Rodney WARD,246
+Magoffin,B101,School Board District 1,,,Rodney WARD,194
+Magoffin,B104,School Board District 1,,,Rodney WARD,192
+Magoffin,B105,School Board District 1,,,Rodney WARD,163
+Magoffin,ABSENTEE MACHINE,School Board District 1,,,Rodney WARD,115
+Magoffin,ABSENTEE PAPER,School Board District 1,,,Rodney WARD,57
+Magoffin,A104,School Board District 4,,,Jesse RUDD II.,383
+Magoffin,C101,School Board District 4,,,Jesse RUDD II.,238
+Magoffin,C103,School Board District 4,,,Jesse RUDD II.,110
+Magoffin,ABSENTEE MACHINE,School Board District 4,,,Jesse RUDD II.,62
+Magoffin,ABSENTEE PAPER,School Board District 4,,,Jesse RUDD II.,27
+Magoffin,A102,School Board District 5,,,Doug COLLINSWORTH,278
+Magoffin,A103,School Board District 5,,,Doug COLLINSWORTH,198
+Magoffin,B101,School Board District 5,,,Doug COLLINSWORTH,108
+Magoffin,ABSENTEE MACHINE,School Board District 5,,,Doug COLLINSWORTH,78
+Magoffin,ABSENTEE PAPER,School Board District 5,,,Doug COLLINSWORTH,39
+Magoffin,A101,Salyersville Mayor,,,Stanley HOWARD,152
+Magoffin,B101,Salyersville Mayor,,,Stanley HOWARD,95
+Magoffin,ABSENTEE MACHINE,Salyersville Mayor,,,Stanley HOWARD,36
+Magoffin,ABSENTEE PAPER,Salyersville Mayor,,,Stanley HOWARD,22
+Magoffin,A101,Salyersville Mayor,,,Rick HOWARD,22
+Magoffin,B101,Salyersville Mayor,,,Rick HOWARD,18
+Magoffin,ABSENTEE MACHINE,Salyersville Mayor,,,Rick HOWARD,16
+Magoffin,ABSENTEE PAPER,Salyersville Mayor,,,Rick HOWARD,6
+Magoffin,A101,Salyersville Mayor,,,James Pete SHEPHERD,161
+Magoffin,B101,Salyersville Mayor,,,James Pete SHEPHERD,94
+Magoffin,ABSENTEE MACHINE,Salyersville Mayor,,,James Pete SHEPHERD,52
+Magoffin,ABSENTEE PAPER,Salyersville Mayor,,,James Pete SHEPHERD,18
+Magoffin,A101,Salyersville Mayor,,,Louis PATRICK,29
+Magoffin,B101,Salyersville Mayor,,,Louis PATRICK,16
+Magoffin,ABSENTEE MACHINE,Salyersville Mayor,,,Louis PATRICK,4
+Magoffin,ABSENTEE PAPER,Salyersville Mayor,,,Louis PATRICK,9
+Magoffin,A101,Salyersville City Council,,,Mary F. ROWE,75
+Magoffin,B101,Salyersville City Council,,,Mary F. ROWE,53
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Mary F. ROWE,19
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Mary F. ROWE,19
+Magoffin,A101,Salyersville City Council,,,David D. BASHAM,112
+Magoffin,B101,Salyersville City Council,,,David D. BASHAM,53
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,David D. BASHAM,19
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,David D. BASHAM,10
+Magoffin,A101,Salyersville City Council,,,Patricia A. FRAZIER,164
+Magoffin,B101,Salyersville City Council,,,Patricia A. FRAZIER,97
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Patricia A. FRAZIER,48
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Patricia A. FRAZIER,35
+Magoffin,A101,Salyersville City Council,,,Paul MONTGOMERY,190
+Magoffin,B101,Salyersville City Council,,,Paul MONTGOMERY,118
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Paul MONTGOMERY,57
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Paul MONTGOMERY,25
+Magoffin,A101,Salyersville City Council,,,Margaret I. ARNETT,88
+Magoffin,B101,Salyersville City Council,,,Margaret I. ARNETT,53
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Margaret I. ARNETT,23
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Margaret I. ARNETT,18
+Magoffin,A101,Salyersville City Council,,,Tommy BAILEY,129
+Magoffin,B101,Salyersville City Council,,,Tommy BAILEY,71
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Tommy BAILEY,22
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Tommy BAILEY,22
+Magoffin,A101,Salyersville City Council,,,Tex HOLBROOK,173
+Magoffin,B101,Salyersville City Council,,,Tex HOLBROOK,84
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Tex HOLBROOK,45
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Tex HOLBROOK,30
+Magoffin,A101,Salyersville City Council,,,Jarrod HOWARD,153
+Magoffin,B101,Salyersville City Council,,,Jarrod HOWARD,93
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Jarrod HOWARD,41
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Jarrod HOWARD,21
+Magoffin,A101,Salyersville City Council,,,Michael CONNELLEY,114
+Magoffin,B101,Salyersville City Council,,,Michael CONNELLEY,85
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Michael CONNELLEY,39
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Michael CONNELLEY,23
+Magoffin,A101,Salyersville City Council,,,Terry BROWN,53
+Magoffin,B101,Salyersville City Council,,,Terry BROWN,44
+Magoffin,ABSENTEE MACHINE,Salyersville City Council,,,Terry BROWN,16
+Magoffin,ABSENTEE PAPER,Salyersville City Council,,,Terry BROWN,11

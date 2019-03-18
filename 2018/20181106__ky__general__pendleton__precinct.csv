@@ -1,0 +1,514 @@
+county,precinct,office,district,party,candidate,votes
+Pendleton,A101,U.S. House,4,REP,Thomas MASSIE,161
+Pendleton,A102,U.S. House,4,REP,Thomas MASSIE,287
+Pendleton,A103,U.S. House,4,REP,Thomas MASSIE,206
+Pendleton,B101,U.S. House,4,REP,Thomas MASSIE,342
+Pendleton,B102,U.S. House,4,REP,Thomas MASSIE,324
+Pendleton,B103,U.S. House,4,REP,Thomas MASSIE,248
+Pendleton,C101,U.S. House,4,REP,Thomas MASSIE,235
+Pendleton,C102,U.S. House,4,REP,Thomas MASSIE,245
+Pendleton,C103,U.S. House,4,REP,Thomas MASSIE,181
+Pendleton,D101,U.S. House,4,REP,Thomas MASSIE,326
+Pendleton,D102,U.S. House,4,REP,Thomas MASSIE,214
+Pendleton,D103,U.S. House,4,REP,Thomas MASSIE,242
+Pendleton,ABSENTEE MACHINE,U.S. House,4,REP,Thomas MASSIE,168
+Pendleton,ABSENTEE PAPER,U.S. House,4,REP,Thomas MASSIE,63
+Pendleton,A101,U.S. House,4,DEM,Seth HALL,28
+Pendleton,A102,U.S. House,4,DEM,Seth HALL,121
+Pendleton,A103,U.S. House,4,DEM,Seth HALL,61
+Pendleton,B101,U.S. House,4,DEM,Seth HALL,142
+Pendleton,B102,U.S. House,4,DEM,Seth HALL,96
+Pendleton,B103,U.S. House,4,DEM,Seth HALL,110
+Pendleton,C101,U.S. House,4,DEM,Seth HALL,68
+Pendleton,C102,U.S. House,4,DEM,Seth HALL,105
+Pendleton,C103,U.S. House,4,DEM,Seth HALL,43
+Pendleton,D101,U.S. House,4,DEM,Seth HALL,146
+Pendleton,D102,U.S. House,4,DEM,Seth HALL,77
+Pendleton,D103,U.S. House,4,DEM,Seth HALL,95
+Pendleton,ABSENTEE MACHINE,U.S. House,4,DEM,Seth HALL,52
+Pendleton,ABSENTEE PAPER,U.S. House,4,DEM,Seth HALL,49
+Pendleton,A101,U.S. House,4,IND,Mike MOFFETT,3
+Pendleton,A102,U.S. House,4,IND,Mike MOFFETT,20
+Pendleton,A103,U.S. House,4,IND,Mike MOFFETT,9
+Pendleton,B101,U.S. House,4,IND,Mike MOFFETT,13
+Pendleton,B102,U.S. House,4,IND,Mike MOFFETT,10
+Pendleton,B103,U.S. House,4,IND,Mike MOFFETT,13
+Pendleton,C101,U.S. House,4,IND,Mike MOFFETT,7
+Pendleton,C102,U.S. House,4,IND,Mike MOFFETT,10
+Pendleton,C103,U.S. House,4,IND,Mike MOFFETT,5
+Pendleton,D101,U.S. House,4,IND,Mike MOFFETT,19
+Pendleton,D102,U.S. House,4,IND,Mike MOFFETT,7
+Pendleton,D103,U.S. House,4,IND,Mike MOFFETT,16
+Pendleton,ABSENTEE MACHINE,U.S. House,4,IND,Mike MOFFETT,7
+Pendleton,ABSENTEE PAPER,U.S. House,4,IND,Mike MOFFETT,1
+Pendleton,A101,State Senator,24,REP,Wil SCHRODER,154
+Pendleton,A102,State Senator,24,REP,Wil SCHRODER,296
+Pendleton,A103,State Senator,24,REP,Wil SCHRODER,203
+Pendleton,B101,State Senator,24,REP,Wil SCHRODER,346
+Pendleton,B102,State Senator,24,REP,Wil SCHRODER,314
+Pendleton,B103,State Senator,24,REP,Wil SCHRODER,259
+Pendleton,C101,State Senator,24,REP,Wil SCHRODER,237
+Pendleton,C102,State Senator,24,REP,Wil SCHRODER,239
+Pendleton,C103,State Senator,24,REP,Wil SCHRODER,177
+Pendleton,D101,State Senator,24,REP,Wil SCHRODER,325
+Pendleton,D102,State Senator,24,REP,Wil SCHRODER,221
+Pendleton,D103,State Senator,24,REP,Wil SCHRODER,246
+Pendleton,ABSENTEE MACHINE,State Senator,24,REP,Wil SCHRODER,168
+Pendleton,ABSENTEE PAPER,State Senator,24,REP,Wil SCHRODER,66
+Pendleton,A101,State Senator,24,DEM,Rachel ROBERTS,36
+Pendleton,A102,State Senator,24,DEM,Rachel ROBERTS,133
+Pendleton,A103,State Senator,24,DEM,Rachel ROBERTS,72
+Pendleton,B101,State Senator,24,DEM,Rachel ROBERTS,153
+Pendleton,B102,State Senator,24,DEM,Rachel ROBERTS,122
+Pendleton,B103,State Senator,24,DEM,Rachel ROBERTS,121
+Pendleton,C101,State Senator,24,DEM,Rachel ROBERTS,75
+Pendleton,C102,State Senator,24,DEM,Rachel ROBERTS,122
+Pendleton,C103,State Senator,24,DEM,Rachel ROBERTS,54
+Pendleton,D101,State Senator,24,DEM,Rachel ROBERTS,174
+Pendleton,D102,State Senator,24,DEM,Rachel ROBERTS,86
+Pendleton,D103,State Senator,24,DEM,Rachel ROBERTS,108
+Pendleton,ABSENTEE MACHINE,State Senator,24,DEM,Rachel ROBERTS,65
+Pendleton,ABSENTEE PAPER,State Senator,24,DEM,Rachel ROBERTS,48
+Pendleton,A101,State Representative,78,REP,Mark HART,149
+Pendleton,A102,State Representative,78,REP,Mark HART,300
+Pendleton,A103,State Representative,78,REP,Mark HART,210
+Pendleton,B101,State Representative,78,REP,Mark HART,321
+Pendleton,B102,State Representative,78,REP,Mark HART,308
+Pendleton,B103,State Representative,78,REP,Mark HART,245
+Pendleton,C101,State Representative,78,REP,Mark HART,228
+Pendleton,C102,State Representative,78,REP,Mark HART,242
+Pendleton,C103,State Representative,78,REP,Mark HART,170
+Pendleton,D101,State Representative,78,REP,Mark HART,339
+Pendleton,D102,State Representative,78,REP,Mark HART,214
+Pendleton,D103,State Representative,78,REP,Mark HART,231
+Pendleton,ABSENTEE MACHINE,State Representative,78,REP,Mark HART,169
+Pendleton,ABSENTEE PAPER,State Representative,78,REP,Mark HART,67
+Pendleton,A101,State Representative,78,DEM,Gregory E. J. COULSON,45
+Pendleton,A102,State Representative,78,DEM,Gregory E. J. COULSON,139
+Pendleton,A103,State Representative,78,DEM,Gregory E. J. COULSON,72
+Pendleton,B101,State Representative,78,DEM,Gregory E. J. COULSON,183
+Pendleton,B102,State Representative,78,DEM,Gregory E. J. COULSON,131
+Pendleton,B103,State Representative,78,DEM,Gregory E. J. COULSON,143
+Pendleton,C101,State Representative,78,DEM,Gregory E. J. COULSON,90
+Pendleton,C102,State Representative,78,DEM,Gregory E. J. COULSON,138
+Pendleton,C103,State Representative,78,DEM,Gregory E. J. COULSON,63
+Pendleton,D101,State Representative,78,DEM,Gregory E. J. COULSON,180
+Pendleton,D102,State Representative,78,DEM,Gregory E. J. COULSON,105
+Pendleton,D103,State Representative,78,DEM,Gregory E. J. COULSON,130
+Pendleton,ABSENTEE MACHINE,State Representative,78,DEM,Gregory E. J. COULSON,68
+Pendleton,ABSENTEE PAPER,State Representative,78,DEM,Gregory E. J. COULSON,51
+Pendleton,A101,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,90
+Pendleton,A102,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,278
+Pendleton,A103,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,151
+Pendleton,B101,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,319
+Pendleton,B102,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,231
+Pendleton,B103,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,242
+Pendleton,C101,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,176
+Pendleton,C102,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,248
+Pendleton,C103,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,118
+Pendleton,D101,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,377
+Pendleton,D102,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,203
+Pendleton,D103,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,230
+Pendleton,ABSENTEE MACHINE,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,149
+Pendleton,ABSENTEE PAPER,Commonwealth's Attorney, 18th Judicial Circuit,,Douglas MILLER,78
+Pendleton,A101,Circuit Clerk,,,Michael D. REDDEN,112
+Pendleton,A102,Circuit Clerk,,,Michael D. REDDEN,317
+Pendleton,A103,Circuit Clerk,,,Michael D. REDDEN,167
+Pendleton,B101,Circuit Clerk,,,Michael D. REDDEN,361
+Pendleton,B102,Circuit Clerk,,,Michael D. REDDEN,273
+Pendleton,B103,Circuit Clerk,,,Michael D. REDDEN,285
+Pendleton,C101,Circuit Clerk,,,Michael D. REDDEN,203
+Pendleton,C102,Circuit Clerk,,,Michael D. REDDEN,287
+Pendleton,C103,Circuit Clerk,,,Michael D. REDDEN,136
+Pendleton,D101,Circuit Clerk,,,Michael D. REDDEN,435
+Pendleton,D102,Circuit Clerk,,,Michael D. REDDEN,237
+Pendleton,D103,Circuit Clerk,,,Michael D. REDDEN,259
+Pendleton,ABSENTEE MACHINE,Circuit Clerk,,,Michael D. REDDEN,175
+Pendleton,ABSENTEE PAPER,Circuit Clerk,,,Michael D. REDDEN,90
+Pendleton,A101,PVA,,,John E. STEELE,114
+Pendleton,A102,PVA,,,John E. STEELE,322
+Pendleton,A103,PVA,,,John E. STEELE,177
+Pendleton,B101,PVA,,,John E. STEELE,368
+Pendleton,B102,PVA,,,John E. STEELE,285
+Pendleton,B103,PVA,,,John E. STEELE,282
+Pendleton,C101,PVA,,,John E. STEELE,208
+Pendleton,C102,PVA,,,John E. STEELE,289
+Pendleton,C103,PVA,,,John E. STEELE,141
+Pendleton,D101,PVA,,,John E. STEELE,437
+Pendleton,D102,PVA,,,John E. STEELE,233
+Pendleton,D103,PVA,,,John E. STEELE,266
+Pendleton,ABSENTEE MACHINE,PVA,,,John E. STEELE,177
+Pendleton,ABSENTEE PAPER,PVA,,,John E. STEELE,90
+Pendleton,A101,County Judge / Executive,,,David S. FIELDS,141
+Pendleton,A102,County Judge / Executive,,,David S. FIELDS,279
+Pendleton,A103,County Judge / Executive,,,David S. FIELDS,201
+Pendleton,B101,County Judge / Executive,,,David S. FIELDS,321
+Pendleton,B102,County Judge / Executive,,,David S. FIELDS,266
+Pendleton,B103,County Judge / Executive,,,David S. FIELDS,256
+Pendleton,C101,County Judge / Executive,,,David S. FIELDS,207
+Pendleton,C102,County Judge / Executive,,,David S. FIELDS,267
+Pendleton,C103,County Judge / Executive,,,David S. FIELDS,171
+Pendleton,D101,County Judge / Executive,,,David S. FIELDS,358
+Pendleton,D102,County Judge / Executive,,,David S. FIELDS,248
+Pendleton,D103,County Judge / Executive,,,David S. FIELDS,246
+Pendleton,ABSENTEE MACHINE,County Judge / Executive,,,David S. FIELDS,172
+Pendleton,ABSENTEE PAPER,County Judge / Executive,,,David S. FIELDS,62
+Pendleton,A101,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",53
+Pendleton,A102,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",158
+Pendleton,A103,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",82
+Pendleton,B101,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",182
+Pendleton,B102,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",176
+Pendleton,B103,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",134
+Pendleton,C101,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",111
+Pendleton,C102,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",112
+Pendleton,C103,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",66
+Pendleton,D101,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",162
+Pendleton,D102,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",73
+Pendleton,D103,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",117
+Pendleton,ABSENTEE MACHINE,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",67
+Pendleton,ABSENTEE PAPER,County Judge / Executive,,,"Charles W. ""Craig"" PEOPLES",52
+Pendleton,A101,County Attorney,,,Stacey S. SANNING,136
+Pendleton,A102,County Attorney,,,Stacey S. SANNING,255
+Pendleton,A103,County Attorney,,,Stacey S. SANNING,172
+Pendleton,B101,County Attorney,,,Stacey S. SANNING,269
+Pendleton,B102,County Attorney,,,Stacey S. SANNING,260
+Pendleton,B103,County Attorney,,,Stacey S. SANNING,199
+Pendleton,C101,County Attorney,,,Stacey S. SANNING,192
+Pendleton,C102,County Attorney,,,Stacey S. SANNING,170
+Pendleton,C103,County Attorney,,,Stacey S. SANNING,137
+Pendleton,D101,County Attorney,,,Stacey S. SANNING,220
+Pendleton,D102,County Attorney,,,Stacey S. SANNING,157
+Pendleton,D103,County Attorney,,,Stacey S. SANNING,174
+Pendleton,ABSENTEE MACHINE,County Attorney,,,Stacey S. SANNING,120
+Pendleton,ABSENTEE PAPER,County Attorney,,,Stacey S. SANNING,44
+Pendleton,A101,County Attorney,,,Jeffery B. DEAN,55
+Pendleton,A102,County Attorney,,,Jeffery B. DEAN,179
+Pendleton,A103,County Attorney,,,Jeffery B. DEAN,107
+Pendleton,B101,County Attorney,,,Jeffery B. DEAN,231
+Pendleton,B102,County Attorney,,,Jeffery B. DEAN,176
+Pendleton,B103,County Attorney,,,Jeffery B. DEAN,185
+Pendleton,C101,County Attorney,,,Jeffery B. DEAN,118
+Pendleton,C102,County Attorney,,,Jeffery B. DEAN,206
+Pendleton,C103,County Attorney,,,Jeffery B. DEAN,96
+Pendleton,D101,County Attorney,,,Jeffery B. DEAN,299
+Pendleton,D102,County Attorney,,,Jeffery B. DEAN,158
+Pendleton,D103,County Attorney,,,Jeffery B. DEAN,184
+Pendleton,ABSENTEE MACHINE,County Attorney,,,Jeffery B. DEAN,113
+Pendleton,ABSENTEE PAPER,County Attorney,,,Jeffery B. DEAN,71
+Pendleton,A101,County Clerk,,,Rita M. SPENCER,123
+Pendleton,A102,County Clerk,,,Rita M. SPENCER,343
+Pendleton,A103,County Clerk,,,Rita M. SPENCER,191
+Pendleton,B101,County Clerk,,,Rita M. SPENCER,382
+Pendleton,B102,County Clerk,,,Rita M. SPENCER,310
+Pendleton,B103,County Clerk,,,Rita M. SPENCER,300
+Pendleton,C101,County Clerk,,,Rita M. SPENCER,226
+Pendleton,C102,County Clerk,,,Rita M. SPENCER,296
+Pendleton,C103,County Clerk,,,Rita M. SPENCER,158
+Pendleton,D101,County Clerk,,,Rita M. SPENCER,446
+Pendleton,D102,County Clerk,,,Rita M. SPENCER,247
+Pendleton,D103,County Clerk,,,Rita M. SPENCER,272
+Pendleton,ABSENTEE MACHINE,County Clerk,,,Rita M. SPENCER,190
+Pendleton,ABSENTEE PAPER,County Clerk,,,Rita M. SPENCER,92
+Pendleton,A101,Sheriff,,,Edwin QUINN,120
+Pendleton,A102,Sheriff,,,Edwin QUINN,228
+Pendleton,A103,Sheriff,,,Edwin QUINN,143
+Pendleton,B101,Sheriff,,,Edwin QUINN,244
+Pendleton,B102,Sheriff,,,Edwin QUINN,238
+Pendleton,B103,Sheriff,,,Edwin QUINN,172
+Pendleton,C101,Sheriff,,,Edwin QUINN,170
+Pendleton,C102,Sheriff,,,Edwin QUINN,188
+Pendleton,C103,Sheriff,,,Edwin QUINN,128
+Pendleton,D101,Sheriff,,,Edwin QUINN,222
+Pendleton,D102,Sheriff,,,Edwin QUINN,154
+Pendleton,D103,Sheriff,,,Edwin QUINN,167
+Pendleton,ABSENTEE MACHINE,Sheriff,,,Edwin QUINN,125
+Pendleton,ABSENTEE PAPER,Sheriff,,,Edwin QUINN,41
+Pendleton,A101,Sheriff,,,Billy Todd DENNIE,70
+Pendleton,A102,Sheriff,,,Billy Todd DENNIE,202
+Pendleton,A103,Sheriff,,,Billy Todd DENNIE,136
+Pendleton,B101,Sheriff,,,Billy Todd DENNIE,253
+Pendleton,B102,Sheriff,,,Billy Todd DENNIE,189
+Pendleton,B103,Sheriff,,,Billy Todd DENNIE,208
+Pendleton,C101,Sheriff,,,Billy Todd DENNIE,142
+Pendleton,C102,Sheriff,,,Billy Todd DENNIE,179
+Pendleton,C103,Sheriff,,,Billy Todd DENNIE,106
+Pendleton,D101,Sheriff,,,Billy Todd DENNIE,273
+Pendleton,D102,Sheriff,,,Billy Todd DENNIE,158
+Pendleton,D103,Sheriff,,,Billy Todd DENNIE,185
+Pendleton,ABSENTEE MACHINE,Sheriff,,,Billy Todd DENNIE,105
+Pendleton,ABSENTEE PAPER,Sheriff,,,Billy Todd DENNIE,73
+Pendleton,A101,Sheriff,,IND,Brian K. McCANN,2
+Pendleton,A102,Sheriff,,IND,Brian K. McCANN,10
+Pendleton,A103,Sheriff,,IND,Brian K. McCANN,4
+Pendleton,B101,Sheriff,,IND,Brian K. McCANN,7
+Pendleton,B102,Sheriff,,IND,Brian K. McCANN,16
+Pendleton,B103,Sheriff,,IND,Brian K. McCANN,11
+Pendleton,C101,Sheriff,,IND,Brian K. McCANN,7
+Pendleton,C102,Sheriff,,IND,Brian K. McCANN,17
+Pendleton,C103,Sheriff,,IND,Brian K. McCANN,5
+Pendleton,D101,Sheriff,,IND,Brian K. McCANN,25
+Pendleton,D102,Sheriff,,IND,Brian K. McCANN,9
+Pendleton,D103,Sheriff,,IND,Brian K. McCANN,12
+Pendleton,ABSENTEE MACHINE,Sheriff,,IND,Brian K. McCANN,7
+Pendleton,ABSENTEE PAPER,Sheriff,,IND,Brian K. McCANN,4
+Pendleton,A101,Jailer,,,Ken KELLS,107
+Pendleton,A102,Jailer,,,Ken KELLS,312
+Pendleton,A103,Jailer,,,Ken KELLS,170
+Pendleton,B101,Jailer,,,Ken KELLS,357
+Pendleton,B102,Jailer,,,Ken KELLS,290
+Pendleton,B103,Jailer,,,Ken KELLS,279
+Pendleton,C101,Jailer,,,Ken KELLS,203
+Pendleton,C102,Jailer,,,Ken KELLS,278
+Pendleton,C103,Jailer,,,Ken KELLS,142
+Pendleton,D101,Jailer,,,Ken KELLS,419
+Pendleton,D102,Jailer,,,Ken KELLS,237
+Pendleton,D103,Jailer,,,Ken KELLS,260
+Pendleton,ABSENTEE MACHINE,Jailer,,,Ken KELLS,172
+Pendleton,ABSENTEE PAPER,Jailer,,,Ken KELLS,87
+Pendleton,A101,Coroner,,,Jonathon N. PEOPLES,116
+Pendleton,A102,Coroner,,,Jonathon N. PEOPLES,335
+Pendleton,A103,Coroner,,,Jonathon N. PEOPLES,184
+Pendleton,B101,Coroner,,,Jonathon N. PEOPLES,389
+Pendleton,B102,Coroner,,,Jonathon N. PEOPLES,297
+Pendleton,B103,Coroner,,,Jonathon N. PEOPLES,289
+Pendleton,C101,Coroner,,,Jonathon N. PEOPLES,217
+Pendleton,C102,Coroner,,,Jonathon N. PEOPLES,299
+Pendleton,C103,Coroner,,,Jonathon N. PEOPLES,141
+Pendleton,D101,Coroner,,,Jonathon N. PEOPLES,446
+Pendleton,D102,Coroner,,,Jonathon N. PEOPLES,251
+Pendleton,D103,Coroner,,,Jonathon N. PEOPLES,276
+Pendleton,ABSENTEE MACHINE,Coroner,,,Jonathon N. PEOPLES,182
+Pendleton,ABSENTEE PAPER,Coroner,,,Jonathon N. PEOPLES,91
+Pendleton,A101,County Surveyor,,,Howard M. JOHNSTON,165
+Pendleton,A102,County Surveyor,,,Howard M. JOHNSTON,363
+Pendleton,A103,County Surveyor,,,Howard M. JOHNSTON,238
+Pendleton,B101,County Surveyor,,,Howard M. JOHNSTON,423
+Pendleton,B102,County Surveyor,,,Howard M. JOHNSTON,351
+Pendleton,B103,County Surveyor,,,Howard M. JOHNSTON,309
+Pendleton,C101,County Surveyor,,,Howard M. JOHNSTON,259
+Pendleton,C102,County Surveyor,,,Howard M. JOHNSTON,295
+Pendleton,C103,County Surveyor,,,Howard M. JOHNSTON,189
+Pendleton,D101,County Surveyor,,,Howard M. JOHNSTON,406
+Pendleton,D102,County Surveyor,,,Howard M. JOHNSTON,247
+Pendleton,D103,County Surveyor,,,Howard M. JOHNSTON,291
+Pendleton,ABSENTEE MACHINE,County Surveyor,,,Howard M. JOHNSTON,195
+Pendleton,ABSENTEE PAPER,County Surveyor,,,Howard M. JOHNSTON,79
+Pendleton,A101,Magistrate District 1,,,Alan WHALEY,172
+Pendleton,A102,Magistrate District 1,,,Alan WHALEY,357
+Pendleton,A103,Magistrate District 1,,,Alan WHALEY,246
+Pendleton,ABSENTEE MACHINE,Magistrate District 1,,,Alan WHALEY,46
+Pendleton,ABSENTEE PAPER,Magistrate District 1,,,Alan WHALEY,23
+Pendleton,A101,Constable District 1,,,Gregory A. LITTLETON,141
+Pendleton,A102,Constable District 1,,,Gregory A. LITTLETON,252
+Pendleton,A103,Constable District 1,,,Gregory A. LITTLETON,181
+Pendleton,ABSENTEE MACHINE,Constable District 1,,,Gregory A. LITTLETON,39
+Pendleton,ABSENTEE PAPER,Constable District 1,,,Gregory A. LITTLETON,16
+Pendleton,A101,Constable District 1,,,Scott SHEPPERD,49
+Pendleton,A102,Constable District 1,,,Scott SHEPPERD,174
+Pendleton,A103,Constable District 1,,,Scott SHEPPERD,95
+Pendleton,ABSENTEE MACHINE,Constable District 1,,,Scott SHEPPERD,17
+Pendleton,ABSENTEE PAPER,Constable District 1,,,Scott SHEPPERD,19
+Pendleton,B101,Magistrate District 2,,,Joshua Keith PLUMMER,287
+Pendleton,B102,Magistrate District 2,,,Joshua Keith PLUMMER,305
+Pendleton,B103,Magistrate District 2,,,Joshua Keith PLUMMER,196
+Pendleton,ABSENTEE MACHINE,Magistrate District 2,,,Joshua Keith PLUMMER,33
+Pendleton,ABSENTEE PAPER,Magistrate District 2,,,Joshua Keith PLUMMER,17
+Pendleton,B101,Magistrate District 2,,,Dennis A. GOSNEY,211
+Pendleton,B102,Magistrate District 2,,,Dennis A. GOSNEY,135
+Pendleton,B103,Magistrate District 2,,,Dennis A. GOSNEY,192
+Pendleton,ABSENTEE MACHINE,Magistrate District 2,,,Dennis A. GOSNEY,34
+Pendleton,ABSENTEE PAPER,Magistrate District 2,,,Dennis A. GOSNEY,24
+Pendleton,B101,Constable District 2,,,Michael Ray FLEHARTY,404
+Pendleton,B102,Constable District 2,,,Michael Ray FLEHARTY,327
+Pendleton,B103,Constable District 2,,,Michael Ray FLEHARTY,282
+Pendleton,ABSENTEE MACHINE,Constable District 2,,,Michael Ray FLEHARTY,53
+Pendleton,ABSENTEE PAPER,Constable District 2,,,Michael Ray FLEHARTY,23
+Pendleton,C101,Magistrate District 3,,,Darrin W. GREGG,218
+Pendleton,C102,Magistrate District 3,,,Darrin W. GREGG,178
+Pendleton,C103,Magistrate District 3,,,Darrin W. GREGG,131
+Pendleton,ABSENTEE MACHINE,Magistrate District 3,,,Darrin W. GREGG,26
+Pendleton,ABSENTEE PAPER,Magistrate District 3,,,Darrin W. GREGG,7
+Pendleton,C101,Magistrate District 3,,,Bobby FOGLE,98
+Pendleton,C102,Magistrate District 3,,,Bobby FOGLE,199
+Pendleton,C103,Magistrate District 3,,,Bobby FOGLE,103
+Pendleton,ABSENTEE MACHINE,Magistrate District 3,,,Bobby FOGLE,27
+Pendleton,ABSENTEE PAPER,Magistrate District 3,,,Bobby FOGLE,7
+Pendleton,C101,Constable District 3,,,Louis McCORD,249
+Pendleton,C102,Constable District 3,,,Louis McCORD,269
+Pendleton,C103,Constable District 3,,,Louis McCORD,184
+Pendleton,ABSENTEE MACHINE,Constable District 3,,,Louis McCORD,45
+Pendleton,ABSENTEE PAPER,Constable District 3,,,Louis McCORD,8
+Pendleton,D101,Magistrate District 4,,,Steven D. FOSTER,172
+Pendleton,D102,Magistrate District 4,,,Steven D. FOSTER,123
+Pendleton,D103,Magistrate District 4,,,Steven D. FOSTER,165
+Pendleton,ABSENTEE MACHINE,Magistrate District 4,,,Steven D. FOSTER,22
+Pendleton,ABSENTEE PAPER,Magistrate District 4,,,Steven D. FOSTER,3
+Pendleton,D101,Magistrate District 4,,,Rick MINEER,339
+Pendleton,D102,Magistrate District 4,,,Rick MINEER,191
+Pendleton,D103,Magistrate District 4,,,Rick MINEER,191
+Pendleton,ABSENTEE MACHINE,Magistrate District 4,,,Rick MINEER,37
+Pendleton,ABSENTEE PAPER,Magistrate District 4,,,Rick MINEER,23
+Pendleton,D101,Constable District 4,,,Michael DOUGHERTY SR.,352
+Pendleton,D102,Constable District 4,,,Michael DOUGHERTY SR.,225
+Pendleton,D103,Constable District 4,,,Michael DOUGHERTY SR.,281
+Pendleton,ABSENTEE MACHINE,Constable District 4,,,Michael DOUGHERTY SR.,37
+Pendleton,ABSENTEE PAPER,Constable District 4,,,Michael DOUGHERTY SR.,9
+Pendleton,A101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,98
+Pendleton,A102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,290
+Pendleton,A103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,156
+Pendleton,B101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,350
+Pendleton,B102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,218
+Pendleton,B103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,247
+Pendleton,C101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,183
+Pendleton,C102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,254
+Pendleton,C103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,124
+Pendleton,D101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,349
+Pendleton,D102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,200
+Pendleton,D103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,247
+Pendleton,ABSENTEE MACHINE,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,153
+Pendleton,ABSENTEE PAPER,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,68
+Pendleton,D101,School Board Division 2,,,"Jolieen ""Jodi"" BERTRAM",180
+Pendleton,D103,School Board Division 2,,,"Jolieen ""Jodi"" BERTRAM",149
+Pendleton,ABSENTEE MACHINE,School Board Division 2,,,"Jolieen ""Jodi"" BERTRAM",17
+Pendleton,ABSENTEE PAPER,School Board Division 2,,,"Jolieen ""Jodi"" BERTRAM",3
+Pendleton,D101,School Board Division 2,,,Kevin BARNARD,268
+Pendleton,D103,School Board Division 2,,,Kevin BARNARD,151
+Pendleton,ABSENTEE MACHINE,School Board Division 2,,,Kevin BARNARD,20
+Pendleton,ABSENTEE PAPER,School Board Division 2,,,Kevin BARNARD,17
+Pendleton,B102,School Board Division 3,,,Amber J. BEEBE,248
+Pendleton,B103,School Board Division 3,,,Amber J. BEEBE,263
+Pendleton,ABSENTEE MACHINE,School Board Division 3,,,Amber J. BEEBE,28
+Pendleton,ABSENTEE PAPER,School Board Division 3,,,Amber J. BEEBE,20
+Pendleton,A102,School Board Division 5,,,Laura S. SCHACK,303
+Pendleton,B101,School Board Division 5,,,Laura S. SCHACK,362
+Pendleton,ABSENTEE MACHINE,School Board Division 5,,,Laura S. SCHACK,32
+Pendleton,ABSENTEE PAPER,School Board Division 5,,,Laura S. SCHACK,12
+Pendleton,C102,Falmouth Mayor,,,Ron STINSON,70
+Pendleton,D101,Falmouth Mayor,,,Ron STINSON,209
+Pendleton,D102,Falmouth Mayor,,,Ron STINSON,24
+Pendleton,D103,Falmouth Mayor,,,Ron STINSON,1
+Pendleton,ABSENTEE MACHINE,Falmouth Mayor,,,Ron STINSON,13
+Pendleton,ABSENTEE PAPER,Falmouth Mayor,,,Ron STINSON,10
+Pendleton,C102,Falmouth Mayor,,,Elonda HINSON,12
+Pendleton,D101,Falmouth Mayor,,,Elonda HINSON,55
+Pendleton,D102,Falmouth Mayor,,,Elonda HINSON,4
+Pendleton,D103,Falmouth Mayor,,,Elonda HINSON,0
+Pendleton,ABSENTEE MACHINE,Falmouth Mayor,,,Elonda HINSON,4
+Pendleton,ABSENTEE PAPER,Falmouth Mayor,,,Elonda HINSON,4
+Pendleton,C102,Falmouth Mayor,,,Sebastian J. ERNST,59
+Pendleton,D101,Falmouth Mayor,,,Sebastian J. ERNST,101
+Pendleton,D102,Falmouth Mayor,,,Sebastian J. ERNST,9
+Pendleton,D103,Falmouth Mayor,,,Sebastian J. ERNST,0
+Pendleton,ABSENTEE MACHINE,Falmouth Mayor,,,Sebastian J. ERNST,7
+Pendleton,ABSENTEE PAPER,Falmouth Mayor,,,Sebastian J. ERNST,5
+Pendleton,C102,Falmouth City Council,,,Amy L. HITCH,99
+Pendleton,D101,Falmouth City Council,,,Amy L. HITCH,241
+Pendleton,D102,Falmouth City Council,,,Amy L. HITCH,23
+Pendleton,D103,Falmouth City Council,,,Amy L. HITCH,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Amy L. HITCH,12
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Amy L. HITCH,8
+Pendleton,C102,Falmouth City Council,,,Amy Beckett HURST,108
+Pendleton,D101,Falmouth City Council,,,Amy Beckett HURST,263
+Pendleton,D102,Falmouth City Council,,,Amy Beckett HURST,26
+Pendleton,D103,Falmouth City Council,,,Amy Beckett HURST,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Amy Beckett HURST,16
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Amy Beckett HURST,9
+Pendleton,C102,Falmouth City Council,,,David F. KLABER,94
+Pendleton,D101,Falmouth City Council,,,David F. KLABER,235
+Pendleton,D102,Falmouth City Council,,,David F. KLABER,19
+Pendleton,D103,Falmouth City Council,,,David F. KLABER,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,David F. KLABER,16
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,David F. KLABER,11
+Pendleton,C102,Falmouth City Council,,,Philis WAIT,55
+Pendleton,D101,Falmouth City Council,,,Philis WAIT,127
+Pendleton,D102,Falmouth City Council,,,Philis WAIT,6
+Pendleton,D103,Falmouth City Council,,,Philis WAIT,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Philis WAIT,6
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Philis WAIT,2
+Pendleton,C102,Falmouth City Council,,,Travis E. REIS,62
+Pendleton,D101,Falmouth City Council,,,Travis E. REIS,137
+Pendleton,D102,Falmouth City Council,,,Travis E. REIS,15
+Pendleton,D103,Falmouth City Council,,,Travis E. REIS,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Travis E. REIS,10
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Travis E. REIS,10
+Pendleton,C102,Falmouth City Council,,,Stanley W. LOVE,76
+Pendleton,D101,Falmouth City Council,,,Stanley W. LOVE,211
+Pendleton,D102,Falmouth City Council,,,Stanley W. LOVE,20
+Pendleton,D103,Falmouth City Council,,,Stanley W. LOVE,2
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Stanley W. LOVE,9
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Stanley W. LOVE,11
+Pendleton,C102,Falmouth City Council,,,Shannon R. JOHNSON,82
+Pendleton,D101,Falmouth City Council,,,Shannon R. JOHNSON,165
+Pendleton,D102,Falmouth City Council,,,Shannon R. JOHNSON,17
+Pendleton,D103,Falmouth City Council,,,Shannon R. JOHNSON,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Shannon R. JOHNSON,9
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Shannon R. JOHNSON,6
+Pendleton,C102,Falmouth City Council,,,Joyce CARSON,104
+Pendleton,D101,Falmouth City Council,,,Joyce CARSON,279
+Pendleton,D102,Falmouth City Council,,,Joyce CARSON,26
+Pendleton,D103,Falmouth City Council,,,Joyce CARSON,0
+Pendleton,ABSENTEE MACHINE,Falmouth City Council,,,Joyce CARSON,16
+Pendleton,ABSENTEE PAPER,Falmouth City Council,,,Joyce CARSON,10
+Pendleton,A102,Butler Mayor,,,Greg McELFRESH,77
+Pendleton,ABSENTEE MACHINE,Butler Mayor,,,Greg McELFRESH,3
+Pendleton,ABSENTEE PAPER,Butler Mayor,,,Greg McELFRESH,1
+Pendleton,A102,Butler Mayor,,,Alice SMITH,38
+Pendleton,ABSENTEE MACHINE,Butler Mayor,,,Alice SMITH,0
+Pendleton,ABSENTEE PAPER,Butler Mayor,,,Alice SMITH,0
+Pendleton,A102,Butler City Council,,,E-S Bonita BONAR,78
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,E-S Bonita BONAR,2
+Pendleton,ABSENTEE PAPER,Butler City Council,,,E-S Bonita BONAR,2
+Pendleton,A102,Butler City Council,,,Terry Murrell BUSH,80
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,Terry Murrell BUSH,1
+Pendleton,ABSENTEE PAPER,Butler City Council,,,Terry Murrell BUSH,0
+Pendleton,A102,Butler City Council,,,Gerald L. McELFRESH,83
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,Gerald L. McELFRESH,2
+Pendleton,ABSENTEE PAPER,Butler City Council,,,Gerald L. McELFRESH,2
+Pendleton,A102,Butler City Council,,,Mason D. TAYLOR,74
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,Mason D. TAYLOR,0
+Pendleton,ABSENTEE PAPER,Butler City Council,,,Mason D. TAYLOR,1
+Pendleton,A102,Butler City Council,,,Pat TAYLOR,73
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,Pat TAYLOR,1
+Pendleton,ABSENTEE PAPER,Butler City Council,,,Pat TAYLOR,1
+Pendleton,A102,Butler City Council,,,Teresa ANTROBUS,74
+Pendleton,ABSENTEE MACHINE,Butler City Council,,,Teresa ANTROBUS,0
+Pendleton,ABSENTEE PAPER,Butler City Council,,,Teresa ANTROBUS,0
+Pendleton,A103,Williamstown Mayor,,,Rick SKINNER,0
+Pendleton,ABSENTEE MACHINE,Williamstown Mayor,,,Rick SKINNER,0
+Pendleton,ABSENTEE PAPER,Williamstown Mayor,,,Rick SKINNER,0
+Pendleton,A103,Williamstown Mayor,,,"Brenda ""Bren"" MURPHY",0
+Pendleton,ABSENTEE MACHINE,Williamstown Mayor,,,"Brenda ""Bren"" MURPHY",0
+Pendleton,ABSENTEE PAPER,Williamstown Mayor,,,"Brenda ""Bren"" MURPHY",0
+Pendleton,A103,Williamstown City Council,,,Robert W. PERRY,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Robert W. PERRY,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Robert W. PERRY,0
+Pendleton,A103,Williamstown City Council,,,Matthew Timothy SMITH,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Matthew Timothy SMITH,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Matthew Timothy SMITH,0
+Pendleton,A103,Williamstown City Council,,,Ronnie MAINES,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Ronnie MAINES,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Ronnie MAINES,0
+Pendleton,A103,Williamstown City Council,,,Kim A. CRUPPER,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Kim A. CRUPPER,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Kim A. CRUPPER,0
+Pendleton,A103,Williamstown City Council,,,Donnie YOUNG,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Donnie YOUNG,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Donnie YOUNG,0
+Pendleton,A103,Williamstown City Council,,,Amanda Howell WINTERS,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Amanda Howell WINTERS,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Amanda Howell WINTERS,0
+Pendleton,A103,Williamstown City Council,,,Eric LANDRUM,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Eric LANDRUM,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Eric LANDRUM,0
+Pendleton,A103,Williamstown City Council,,,Greg L. ATHA,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Greg L. ATHA,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Greg L. ATHA,0
+Pendleton,A103,Williamstown City Council,,,Ronnie WEST,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Ronnie WEST,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Ronnie WEST,0
+Pendleton,A103,Williamstown City Council,,,Georgia W. DAHLBERG,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Georgia W. DAHLBERG,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Georgia W. DAHLBERG,0
+Pendleton,A103,Williamstown City Council,,,Greg MIDDLETON,0
+Pendleton,ABSENTEE MACHINE,Williamstown City Council,,,Greg MIDDLETON,0
+Pendleton,ABSENTEE PAPER,Williamstown City Council,,,Greg MIDDLETON,0
