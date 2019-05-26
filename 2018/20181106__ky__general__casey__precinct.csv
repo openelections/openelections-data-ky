@@ -1,0 +1,475 @@
+county,precinct,office,district,party,candidate,votes
+Casey,AB,U.S. House,1,REP,James R. COMER,280
+Casey,A101,U.S. House,1,REP,James R. COMER,322
+Casey,A102,U.S. House,1,REP,James R. COMER,190
+Casey,A103,U.S. House,1,REP,James R. COMER,299
+Casey,A104,U.S. House,1,REP,James R. COMER,152
+Casey,B101,U.S. House,1,REP,James R. COMER,232
+Casey,B102,U.S. House,1,REP,James R. COMER,523
+Casey,B103,U.S. House,1,REP,James R. COMER,150
+Casey,C101,U.S. House,1,REP,James R. COMER,231
+Casey,C102,U.S. House,1,REP,James R. COMER,412
+Casey,C103,U.S. House,1,REP,James R. COMER,201
+Casey,C104,U.S. House,1,REP,James R. COMER,176
+Casey,D101,U.S. House,1,REP,James R. COMER,367
+Casey,D102,U.S. House,1,REP,James R. COMER,180
+Casey,D103,U.S. House,1,REP,James R. COMER,317
+Casey,D104,U.S. House,1,REP,James R. COMER,109
+Casey,AB,U.S. House,1,DEM,Paul WALKER,43
+Casey,A101,U.S. House,1,DEM,Paul WALKER,40
+Casey,A102,U.S. House,1,DEM,Paul WALKER,25
+Casey,A103,U.S. House,1,DEM,Paul WALKER,39
+Casey,A104,U.S. House,1,DEM,Paul WALKER,14
+Casey,B101,U.S. House,1,DEM,Paul WALKER,48
+Casey,B102,U.S. House,1,DEM,Paul WALKER,57
+Casey,B103,U.S. House,1,DEM,Paul WALKER,59
+Casey,C101,U.S. House,1,DEM,Paul WALKER,68
+Casey,C102,U.S. House,1,DEM,Paul WALKER,51
+Casey,C103,U.S. House,1,DEM,Paul WALKER,8
+Casey,C104,U.S. House,1,DEM,Paul WALKER,46
+Casey,D101,U.S. House,1,DEM,Paul WALKER,40
+Casey,D102,U.S. House,1,DEM,Paul WALKER,30
+Casey,D103,U.S. House,1,DEM,Paul WALKER,42
+Casey,D104,U.S. House,1,DEM,Paul WALKER,20
+Casey,AB,State Senate,14,REP,Jimmy HIGDON,271
+Casey,A101,State Senate,14,REP,Jimmy HIGDON,309
+Casey,A102,State Senate,14,REP,Jimmy HIGDON,191
+Casey,A103,State Senate,14,REP,Jimmy HIGDON,306
+Casey,A104,State Senate,14,REP,Jimmy HIGDON,148
+Casey,B101,State Senate,14,REP,Jimmy HIGDON,248
+Casey,B102,State Senate,14,REP,Jimmy HIGDON,533
+Casey,B103,State Senate,14,REP,Jimmy HIGDON,149
+Casey,C101,State Senate,14,REP,Jimmy HIGDON,227
+Casey,C102,State Senate,14,REP,Jimmy HIGDON,408
+Casey,C103,State Senate,14,REP,Jimmy HIGDON,194
+Casey,C104,State Senate,14,REP,Jimmy HIGDON,186
+Casey,D101,State Senate,14,REP,Jimmy HIGDON,361
+Casey,D102,State Senate,14,REP,Jimmy HIGDON,174
+Casey,D103,State Senate,14,REP,Jimmy HIGDON,322
+Casey,D104,State Senate,14,REP,Jimmy HIGDON,102
+Casey,AB,State Senate,14,DEM,Stephanie COMPTON,48
+Casey,A101,State Senate,14,DEM,Stephanie COMPTON,54
+Casey,A102,State Senate,14,DEM,Stephanie COMPTON,27
+Casey,A103,State Senate,14,DEM,Stephanie COMPTON,37
+Casey,A104,State Senate,14,DEM,Stephanie COMPTON,20
+Casey,B101,State Senate,14,DEM,Stephanie COMPTON,38
+Casey,B102,State Senate,14,DEM,Stephanie COMPTON,58
+Casey,B103,State Senate,14,DEM,Stephanie COMPTON,65
+Casey,C101,State Senate,14,DEM,Stephanie COMPTON,68
+Casey,C102,State Senate,14,DEM,Stephanie COMPTON,58
+Casey,C103,State Senate,14,DEM,Stephanie COMPTON,17
+Casey,C104,State Senate,14,DEM,Stephanie COMPTON,43
+Casey,D101,State Senate,14,DEM,Stephanie COMPTON,52
+Casey,D102,State Senate,14,DEM,Stephanie COMPTON,39
+Casey,D103,State Senate,14,DEM,Stephanie COMPTON,48
+Casey,D104,State Senate,14,DEM,Stephanie COMPTON,25
+Casey,AB,State Representative,54,REP,Daniel B. ELLIOTT,246
+Casey,A101,State Representative,54,REP,Daniel B. ELLIOTT,281
+Casey,A102,State Representative,54,REP,Daniel B. ELLIOTT,157
+Casey,A103,State Representative,54,REP,Daniel B. ELLIOTT,252
+Casey,A104,State Representative,54,REP,Daniel B. ELLIOTT,107
+Casey,B101,State Representative,54,REP,Daniel B. ELLIOTT,190
+Casey,B102,State Representative,54,REP,Daniel B. ELLIOTT,443
+Casey,B103,State Representative,54,REP,Daniel B. ELLIOTT,135
+Casey,C101,State Representative,54,REP,Daniel B. ELLIOTT,174
+Casey,C102,State Representative,54,REP,Daniel B. ELLIOTT,332
+Casey,C103,State Representative,54,REP,Daniel B. ELLIOTT,171
+Casey,C104,State Representative,54,REP,Daniel B. ELLIOTT,130
+Casey,D101,State Representative,54,REP,Daniel B. ELLIOTT,307
+Casey,D102,State Representative,54,REP,Daniel B. ELLIOTT,135
+Casey,D103,State Representative,54,REP,Daniel B. ELLIOTT,245
+Casey,D104,State Representative,54,REP,Daniel B. ELLIOTT,66
+Casey,AB,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,298
+Casey,A101,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,318
+Casey,A102,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,202
+Casey,A103,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,300
+Casey,A104,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,162
+Casey,B101,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,252
+Casey,B102,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,530
+Casey,B103,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,166
+Casey,C101,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,257
+Casey,C102,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,429
+Casey,C103,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,191
+Casey,C104,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,204
+Casey,D101,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,378
+Casey,D102,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,194
+Casey,D103,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,307
+Casey,D104,Commonwealth's Attorney, 29th Judicial Circuit,REP,Brian WRIGHT,120
+Casey,AB,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,296
+Casey,A101,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,318
+Casey,A102,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,208
+Casey,A103,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,305
+Casey,A104,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,159
+Casey,B101,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,247
+Casey,B102,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,531
+Casey,B103,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,176
+Casey,C101,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,259
+Casey,C102,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,443
+Casey,C103,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,199
+Casey,C104,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,205
+Casey,D101,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,378
+Casey,D102,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,192
+Casey,D103,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,319
+Casey,D104,CIRCUIT CLERK,,REP,Craig L. OVERSTREET,122
+Casey,AB,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,300
+Casey,A101,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,319
+Casey,A102,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,202
+Casey,A103,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,304
+Casey,A104,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,161
+Casey,B101,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,256
+Casey,B102,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,527
+Casey,B103,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,166
+Casey,C101,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,262
+Casey,C102,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,438
+Casey,C103,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,193
+Casey,C104,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,203
+Casey,D101,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,377
+Casey,D102,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,192
+Casey,D103,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,311
+Casey,D104,PROPERTY VALUATION ADMINISTRATOR,,REP,Eric D. BROWN,124
+Casey,AB,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,294
+Casey,A101,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,307
+Casey,A102,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,202
+Casey,A103,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,290
+Casey,A104,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,150
+Casey,B101,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,246
+Casey,B102,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,512
+Casey,B103,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,165
+Casey,C101,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,251
+Casey,C102,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,432
+Casey,C103,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,188
+Casey,C104,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,196
+Casey,D101,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,375
+Casey,D102,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,186
+Casey,D103,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,317
+Casey,D104,COUNTY JUDGE/EXECUTIVE,,REP,Randy DIAL,117
+Casey,AB,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,290
+Casey,A101,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,311
+Casey,A102,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,206
+Casey,A103,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,283
+Casey,A104,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,155
+Casey,B101,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,244
+Casey,B102,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,508
+Casey,B103,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,172
+Casey,C101,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,257
+Casey,C102,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,419
+Casey,C103,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,189
+Casey,C104,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,198
+Casey,D101,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,366
+Casey,D102,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,190
+Casey,D103,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,312
+Casey,D104,COUNTY ATTORNEY,,REP,Thomas M. WEDDLE JR.,117
+Casey,AB,COUNTY CLERK,,REP,Casey DAVIS,294
+Casey,A101,COUNTY CLERK,,REP,Casey DAVIS,312
+Casey,A102,COUNTY CLERK,,REP,Casey DAVIS,200
+Casey,A103,COUNTY CLERK,,REP,Casey DAVIS,289
+Casey,A104,COUNTY CLERK,,REP,Casey DAVIS,149
+Casey,B101,COUNTY CLERK,,REP,Casey DAVIS,244
+Casey,B102,COUNTY CLERK,,REP,Casey DAVIS,527
+Casey,B103,COUNTY CLERK,,REP,Casey DAVIS,172
+Casey,C101,COUNTY CLERK,,REP,Casey DAVIS,236
+Casey,C102,COUNTY CLERK,,REP,Casey DAVIS,430
+Casey,C103,COUNTY CLERK,,REP,Casey DAVIS,188
+Casey,C104,COUNTY CLERK,,REP,Casey DAVIS,184
+Casey,D101,COUNTY CLERK,,REP,Casey DAVIS,377
+Casey,D102,COUNTY CLERK,,REP,Casey DAVIS,195
+Casey,D103,COUNTY CLERK,,REP,Casey DAVIS,320
+Casey,D104,COUNTY CLERK,,REP,Casey DAVIS,112
+Casey,AB,SHERIFF,,REP,Chad WEDDLE,289
+Casey,A101,SHERIFF,,REP,Chad WEDDLE,307
+Casey,A102,SHERIFF,,REP,Chad WEDDLE,203
+Casey,A103,SHERIFF,,REP,Chad WEDDLE,291
+Casey,A104,SHERIFF,,REP,Chad WEDDLE,153
+Casey,B101,SHERIFF,,REP,Chad WEDDLE,252
+Casey,B102,SHERIFF,,REP,Chad WEDDLE,529
+Casey,B103,SHERIFF,,REP,Chad WEDDLE,173
+Casey,C101,SHERIFF,,REP,Chad WEDDLE,255
+Casey,C102,SHERIFF,,REP,Chad WEDDLE,419
+Casey,C103,SHERIFF,,REP,Chad WEDDLE,194
+Casey,C104,SHERIFF,,REP,Chad WEDDLE,196
+Casey,D101,SHERIFF,,REP,Chad WEDDLE,380
+Casey,D102,SHERIFF,,REP,Chad WEDDLE,195
+Casey,D103,SHERIFF,,REP,Chad WEDDLE,325
+Casey,D104,SHERIFF,,REP,Chad WEDDLE,122
+Casey,AB,JAILER,,REP,Tommy MILLER,275
+Casey,A101,JAILER,,REP,Tommy MILLER,301
+Casey,A102,JAILER,,REP,Tommy MILLER,193
+Casey,A103,JAILER,,REP,Tommy MILLER,281
+Casey,A104,JAILER,,REP,Tommy MILLER,151
+Casey,B101,JAILER,,REP,Tommy MILLER,234
+Casey,B102,JAILER,,REP,Tommy MILLER,500
+Casey,B103,JAILER,,REP,Tommy MILLER,168
+Casey,C101,JAILER,,REP,Tommy MILLER,240
+Casey,C102,JAILER,,REP,Tommy MILLER,411
+Casey,C103,JAILER,,REP,Tommy MILLER,189
+Casey,C104,JAILER,,REP,Tommy MILLER,184
+Casey,D101,JAILER,,REP,Tommy MILLER,369
+Casey,D102,JAILER,,REP,Tommy MILLER,182
+Casey,D103,JAILER,,REP,Tommy MILLER,296
+Casey,D104,JAILER,,REP,Tommy MILLER,107
+Casey,AB,CORONER,,REP,Curt DEMROW,285
+Casey,A101,CORONER,,REP,Curt DEMROW,305
+Casey,A102,CORONER,,REP,Curt DEMROW,197
+Casey,A103,CORONER,,REP,Curt DEMROW,282
+Casey,A104,CORONER,,REP,Curt DEMROW,151
+Casey,B101,CORONER,,REP,Curt DEMROW,241
+Casey,B102,CORONER,,REP,Curt DEMROW,504
+Casey,B103,CORONER,,REP,Curt DEMROW,160
+Casey,C101,CORONER,,REP,Curt DEMROW,252
+Casey,C102,CORONER,,REP,Curt DEMROW,413
+Casey,C103,CORONER,,REP,Curt DEMROW,192
+Casey,C104,CORONER,,REP,Curt DEMROW,189
+Casey,D101,CORONER,,REP,Curt DEMROW,368
+Casey,D102,CORONER,,REP,Curt DEMROW,176
+Casey,D103,CORONER,,REP,Curt DEMROW,309
+Casey,D104,CORONER,,REP,Curt DEMROW,116
+Casey,AB,COUNTY SURVEYOR,,REP,Brandon BROWN,283
+Casey,A101,COUNTY SURVEYOR,,REP,Brandon BROWN,296
+Casey,A102,COUNTY SURVEYOR,,REP,Brandon BROWN,187
+Casey,A103,COUNTY SURVEYOR,,REP,Brandon BROWN,284
+Casey,A104,COUNTY SURVEYOR,,REP,Brandon BROWN,151
+Casey,B101,COUNTY SURVEYOR,,REP,Brandon BROWN,236
+Casey,B102,COUNTY SURVEYOR,,REP,Brandon BROWN,503
+Casey,B103,COUNTY SURVEYOR,,REP,Brandon BROWN,162
+Casey,C101,COUNTY SURVEYOR,,REP,Brandon BROWN,242
+Casey,C102,COUNTY SURVEYOR,,REP,Brandon BROWN,410
+Casey,C103,COUNTY SURVEYOR,,REP,Brandon BROWN,183
+Casey,C104,COUNTY SURVEYOR,,REP,Brandon BROWN,182
+Casey,D101,COUNTY SURVEYOR,,REP,Brandon BROWN,358
+Casey,D102,COUNTY SURVEYOR,,REP,Brandon BROWN,183
+Casey,D103,COUNTY SURVEYOR,,REP,Brandon BROWN,299
+Casey,D104,COUNTY SURVEYOR,,REP,Brandon BROWN,107
+Casey,AB,MAGISTRATE 1st Magisterial District,,REP,Cecil ROY,67
+Casey,A101,MAGISTRATE 1st Magisterial District,,REP,Cecil ROY,315
+Casey,A102,MAGISTRATE 1st Magisterial District,,REP,Cecil ROY,197
+Casey,A103,MAGISTRATE 1st Magisterial District,,REP,Cecil ROY,285
+Casey,A104,MAGISTRATE 1st Magisterial District,,REP,Cecil ROY,139
+Casey,AB,CONSTABLE 1st Magisterial District,,REP,Roger GARRETT,64
+Casey,A101,CONSTABLE 1st Magisterial District,,REP,Roger GARRETT,291
+Casey,A102,CONSTABLE 1st Magisterial District,,REP,Roger GARRETT,193
+Casey,A103,CONSTABLE 1st Magisterial District,,REP,Roger GARRETT,284
+Casey,A104,CONSTABLE 1st Magisterial District,,REP,Roger GARRETT,137
+Casey,AB,MAGISTRATE 2nd Magisterial District,,REP,Bart WOODRUM,71
+Casey,B101,MAGISTRATE 2nd Magisterial District,,REP,Bart WOODRUM,247
+Casey,B102,MAGISTRATE 2nd Magisterial District,,REP,Bart WOODRUM,536
+Casey,B103,MAGISTRATE 2nd Magisterial District,,REP,Bart WOODRUM,168
+Casey,AB,CONSTABLE 2nd Magisterial District,,REP,Ralph MONDIE,66
+Casey,B101,CONSTABLE 2nd Magisterial District,,REP,Ralph MONDIE,233
+Casey,B102,CONSTABLE 2nd Magisterial District,,REP,Ralph MONDIE,500
+Casey,B103,CONSTABLE 2nd Magisterial District,,REP,Ralph MONDIE,160
+Casey,AB,MAGISTRATE 3rd Magisterial District,,REP,Robby MURPHY,72
+Casey,C101,MAGISTRATE 3rd Magisterial District,,REP,Robby MURPHY,252
+Casey,C102,MAGISTRATE 3rd Magisterial District,,REP,Robby MURPHY,428
+Casey,C103,MAGISTRATE 3rd Magisterial District,,REP,Robby MURPHY,187
+Casey,C104,MAGISTRATE 3rd Magisterial District,,REP,Robby MURPHY,193
+Casey,AB,CONSTABLE 3rd Magisterial District,,REP,Ron HATTER,62
+Casey,C101,CONSTABLE 3rd Magisterial District,,REP,Ron HATTER,225
+Casey,C102,CONSTABLE 3rd Magisterial District,,REP,Ron HATTER,377
+Casey,C103,CONSTABLE 3rd Magisterial District,,REP,Ron HATTER,184
+Casey,C104,CONSTABLE 3rd Magisterial District,,REP,Ron HATTER,171
+Casey,AB,MAGISTRATE 4th Magisterial District,,REP,Steve MARTIN,61
+Casey,D101,MAGISTRATE 4th Magisterial District,,REP,Steve MARTIN,348
+Casey,D102,MAGISTRATE 4th Magisterial District,,REP,Steve MARTIN,175
+Casey,D103,MAGISTRATE 4th Magisterial District,,REP,Steve MARTIN,238
+Casey,D104,MAGISTRATE 4th Magisterial District,,REP,Steve MARTIN,97
+Casey,AB,MAGISTRATE 4th Magisterial District,,DEM,James Michael McQUEARY,27
+Casey,D101,MAGISTRATE 4th Magisterial District,,DEM,James Michael McQUEARY,67
+Casey,D102,MAGISTRATE 4th Magisterial District,,DEM,James Michael McQUEARY,52
+Casey,D103,MAGISTRATE 4th Magisterial District,,DEM,James Michael McQUEARY,137
+Casey,D104,MAGISTRATE 4th Magisterial District,,DEM,James Michael McQUEARY,30
+Casey,AB,CONSTABLE 4th Magisterial District,,REP,Darrin L. WESLEY,82
+Casey,D101,CONSTABLE 4th Magisterial District,,REP,Darrin L. WESLEY,368
+Casey,D102,CONSTABLE 4th Magisterial District,,REP,Darrin L. WESLEY,186
+Casey,D103,CONSTABLE 4th Magisterial District,,REP,Darrin L. WESLEY,312
+Casey,D104,CONSTABLE 4th Magisterial District,,REP,Darrin L. WESLEY,116
+Casey,AB,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,139
+Casey,A101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,177
+Casey,A102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,104
+Casey,A103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,154
+Casey,A104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,90
+Casey,B101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,130
+Casey,B102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,306
+Casey,B103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,115
+Casey,C101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,159
+Casey,C102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,257
+Casey,C103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,106
+Casey,C104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,109
+Casey,D101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,182
+Casey,D102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,113
+Casey,D103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,180
+Casey,D104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,79
+Casey,AB,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,118
+Casey,A101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,79
+Casey,A102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,55
+Casey,A103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,94
+Casey,A104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,42
+Casey,B101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,73
+Casey,B102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,132
+Casey,B103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,28
+Casey,C101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,72
+Casey,C102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,106
+Casey,C103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,46
+Casey,C104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,49
+Casey,D101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,123
+Casey,D102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,64
+Casey,D103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,80
+Casey,D104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,28
+Casey,AB,District Judge, 29th Judicial District,,Michael LOY,218
+Casey,A101,District Judge, 29th Judicial District,,Michael LOY,207
+Casey,A102,District Judge, 29th Judicial District,,Michael LOY,149
+Casey,A103,District Judge, 29th Judicial District,,Michael LOY,225
+Casey,A104,District Judge, 29th Judicial District,,Michael LOY,125
+Casey,B101,District Judge, 29th Judicial District,,Michael LOY,183
+Casey,B102,District Judge, 29th Judicial District,,Michael LOY,408
+Casey,B103,District Judge, 29th Judicial District,,Michael LOY,121
+Casey,C101,District Judge, 29th Judicial District,,Michael LOY,204
+Casey,C102,District Judge, 29th Judicial District,,Michael LOY,320
+Casey,C103,District Judge, 29th Judicial District,,Michael LOY,151
+Casey,C104,District Judge, 29th Judicial District,,Michael LOY,148
+Casey,D101,District Judge, 29th Judicial District,,Michael LOY,270
+Casey,D102,District Judge, 29th Judicial District,,Michael LOY,161
+Casey,D103,District Judge, 29th Judicial District,,Michael LOY,231
+Casey,D104,District Judge, 29th Judicial District,,Michael LOY,100
+Casey,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,171
+Casey,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,168
+Casey,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,124
+Casey,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,206
+Casey,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,101
+Casey,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,149
+Casey,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,311
+Casey,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,98
+Casey,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,173
+Casey,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,231
+Casey,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,110
+Casey,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,125
+Casey,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,199
+Casey,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,113
+Casey,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,198
+Casey,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roger G. WEDDLE,74
+Casey,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,121
+Casey,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,119
+Casey,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,57
+Casey,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,111
+Casey,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,89
+Casey,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,117
+Casey,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,264
+Casey,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,77
+Casey,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,137
+Casey,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,150
+Casey,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,53
+Casey,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,96
+Casey,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,126
+Casey,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,80
+Casey,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,135
+Casey,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Shirley TAPSCOTT,59
+Casey,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,143
+Casey,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,146
+Casey,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,74
+Casey,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,118
+Casey,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,70
+Casey,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,92
+Casey,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,184
+Casey,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,61
+Casey,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,116
+Casey,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,208
+Casey,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,101
+Casey,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,89
+Casey,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,175
+Casey,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,84
+Casey,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,128
+Casey,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Lonnie MULLINS,32
+Casey,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,137
+Casey,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,133
+Casey,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,75
+Casey,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,142
+Casey,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,74
+Casey,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,94
+Casey,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,231
+Casey,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,61
+Casey,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,147
+Casey,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,232
+Casey,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,90
+Casey,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,118
+Casey,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,148
+Casey,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,104
+Casey,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,161
+Casey,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Donny GRIDER,63
+Casey,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Darrell BARLOW,37
+Casey,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Darrell BARLOW,99
+Casey,B102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Darrell BARLOW,386
+Casey,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Joey TUCKER,16
+Casey,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Joey TUCKER,69
+Casey,B102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Joey TUCKER,151
+Casey,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Michael L. TURNER,55
+Casey,A103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Michael L. TURNER,216
+Casey,C104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Michael L. TURNER,155
+Casey,D103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Michael L. TURNER,225
+Casey,D104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Michael L. TURNER,92
+Casey,AB,MAYOR City of Liberty,,,Doug JOHNSON,23
+Casey,A104,MAYOR City of Liberty,,,Doug JOHNSON,82
+Casey,C104,MAYOR City of Liberty,,,Doug JOHNSON,89
+Casey,D104,MAYOR City of Liberty,,,Doug JOHNSON,54
+Casey,AB,MAYOR City of Liberty,,,Steven BROWN,24
+Casey,A104,MAYOR City of Liberty,,,Steven BROWN,85
+Casey,C104,MAYOR City of Liberty,,,Steven BROWN,138
+Casey,D104,MAYOR City of Liberty,,,Steven BROWN,75
+Casey,AB,CITY COUNCIL City of Liberty,,,Andy LAWHORN,30
+Casey,A104,CITY COUNCIL City of Liberty,,,Andy LAWHORN,106
+Casey,C104,CITY COUNCIL City of Liberty,,,Andy LAWHORN,124
+Casey,D104,CITY COUNCIL City of Liberty,,,Andy LAWHORN,85
+Casey,AB,CITY COUNCIL City of Liberty,,,Larry F. BOWMER,32
+Casey,A104,CITY COUNCIL City of Liberty,,,Larry F. BOWMER,102
+Casey,C104,CITY COUNCIL City of Liberty,,,Larry F. BOWMER,131
+Casey,D104,CITY COUNCIL City of Liberty,,,Larry F. BOWMER,69
+Casey,AB,CITY COUNCIL City of Liberty,,,Richard Allan MONTGOMERY,28
+Casey,A104,CITY COUNCIL City of Liberty,,,Richard Allan MONTGOMERY,77
+Casey,C104,CITY COUNCIL City of Liberty,,,Richard Allan MONTGOMERY,118
+Casey,D104,CITY COUNCIL City of Liberty,,,Richard Allan MONTGOMERY,59
+Casey,AB,CITY COUNCIL City of Liberty,,,Carla WESLEY-TURNER,35
+Casey,A104,CITY COUNCIL City of Liberty,,,Carla WESLEY-TURNER,102
+Casey,C104,CITY COUNCIL City of Liberty,,,Carla WESLEY-TURNER,132
+Casey,D104,CITY COUNCIL City of Liberty,,,Carla WESLEY-TURNER,91
+Casey,AB,CITY COUNCIL City of Liberty,,,Micah MEECE,34
+Casey,A104,CITY COUNCIL City of Liberty,,,Micah MEECE,106
+Casey,C104,CITY COUNCIL City of Liberty,,,Micah MEECE,133
+Casey,D104,CITY COUNCIL City of Liberty,,,Micah MEECE,88
+Casey,AB,CITY COUNCIL City of Liberty,,,Brian BEELER,28
+Casey,A104,CITY COUNCIL City of Liberty,,,Brian BEELER,94
+Casey,C104,CITY COUNCIL City of Liberty,,,Brian BEELER,135
+Casey,D104,CITY COUNCIL City of Liberty,,,Brian BEELER,80
+Casey,AB,CITY COUNCIL City of Liberty,,,Chuck DORMAN,19
+Casey,A104,CITY COUNCIL City of Liberty,,,Chuck DORMAN,87
+Casey,C104,CITY COUNCIL City of Liberty,,,Chuck DORMAN,100
+Casey,D104,CITY COUNCIL City of Liberty,,,Chuck DORMAN,68
+Casey,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,227
+Casey,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,116
+Casey,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,74
+Casey,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,132
+Casey,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,61
+Casey,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,117
+Casey,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,219
+Casey,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,123
+Casey,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,146
+Casey,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,210
+Casey,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,77
+Casey,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,98
+Casey,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,154
+Casey,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,87
+Casey,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,125
+Casey,D104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,44
+Casey,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,45
+Casey,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,184
+Casey,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,103
+Casey,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,153
+Casey,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,81
+Casey,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,123
+Casey,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,291
+Casey,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,55
+Casey,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,128
+Casey,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,201
+Casey,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,106
+Casey,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,96
+Casey,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,195
+Casey,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,105
+Casey,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,173
+Casey,D104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,71
