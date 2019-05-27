@@ -1,0 +1,983 @@
+county,precinct,office,district,party,candidate,votes
+Boyle,AB,U.S. House,2,REP,S. Brett GUTHRIE,369
+Boyle,A101,U.S. House,2,REP,S. Brett GUTHRIE,317
+Boyle,A102,U.S. House,2,REP,S. Brett GUTHRIE,373
+Boyle,A103,U.S. House,2,REP,S. Brett GUTHRIE,181
+Boyle,A104,U.S. House,2,REP,S. Brett GUTHRIE,346
+Boyle,A105,U.S. House,2,REP,S. Brett GUTHRIE,99
+Boyle,B101,U.S. House,2,REP,S. Brett GUTHRIE,137
+Boyle,B102,U.S. House,2,REP,S. Brett GUTHRIE,266
+Boyle,B103,U.S. House,2,REP,S. Brett GUTHRIE,431
+Boyle,B104,U.S. House,2,REP,S. Brett GUTHRIE,301
+Boyle,C101,U.S. House,2,REP,S. Brett GUTHRIE,246
+Boyle,C102,U.S. House,2,REP,S. Brett GUTHRIE,272
+Boyle,C103,U.S. House,2,REP,S. Brett GUTHRIE,114
+Boyle,C104,U.S. House,2,REP,S. Brett GUTHRIE,114
+Boyle,D101,U.S. House,2,REP,S. Brett GUTHRIE,355
+Boyle,D102,U.S. House,2,REP,S. Brett GUTHRIE,431
+Boyle,D103,U.S. House,2,REP,S. Brett GUTHRIE,431
+Boyle,E101,U.S. House,2,REP,S. Brett GUTHRIE,216
+Boyle,E102,U.S. House,2,REP,S. Brett GUTHRIE,217
+Boyle,E103,U.S. House,2,REP,S. Brett GUTHRIE,83
+Boyle,E104,U.S. House,2,REP,S. Brett GUTHRIE,85
+Boyle,F101,U.S. House,2,REP,S. Brett GUTHRIE,146
+Boyle,F102,U.S. House,2,REP,S. Brett GUTHRIE,248
+Boyle,F103,U.S. House,2,REP,S. Brett GUTHRIE,331
+Boyle,F104,U.S. House,2,REP,S. Brett GUTHRIE,230
+Boyle,F105,U.S. House,2,REP,S. Brett GUTHRIE,140
+Boyle,AB,U.S. House,2,DEM,Hank LINDERMAN,243
+Boyle,A101,U.S. House,2,DEM,Hank LINDERMAN,120
+Boyle,A102,U.S. House,2,DEM,Hank LINDERMAN,138
+Boyle,A103,U.S. House,2,DEM,Hank LINDERMAN,68
+Boyle,A104,U.S. House,2,DEM,Hank LINDERMAN,89
+Boyle,A105,U.S. House,2,DEM,Hank LINDERMAN,36
+Boyle,B101,U.S. House,2,DEM,Hank LINDERMAN,32
+Boyle,B102,U.S. House,2,DEM,Hank LINDERMAN,105
+Boyle,B103,U.S. House,2,DEM,Hank LINDERMAN,176
+Boyle,B104,U.S. House,2,DEM,Hank LINDERMAN,127
+Boyle,C101,U.S. House,2,DEM,Hank LINDERMAN,197
+Boyle,C102,U.S. House,2,DEM,Hank LINDERMAN,189
+Boyle,C103,U.S. House,2,DEM,Hank LINDERMAN,81
+Boyle,C104,U.S. House,2,DEM,Hank LINDERMAN,165
+Boyle,D101,U.S. House,2,DEM,Hank LINDERMAN,246
+Boyle,D102,U.S. House,2,DEM,Hank LINDERMAN,205
+Boyle,D103,U.S. House,2,DEM,Hank LINDERMAN,177
+Boyle,E101,U.S. House,2,DEM,Hank LINDERMAN,189
+Boyle,E102,U.S. House,2,DEM,Hank LINDERMAN,191
+Boyle,E103,U.S. House,2,DEM,Hank LINDERMAN,142
+Boyle,E104,U.S. House,2,DEM,Hank LINDERMAN,159
+Boyle,F101,U.S. House,2,DEM,Hank LINDERMAN,148
+Boyle,F102,U.S. House,2,DEM,Hank LINDERMAN,154
+Boyle,F103,U.S. House,2,DEM,Hank LINDERMAN,181
+Boyle,F104,U.S. House,2,DEM,Hank LINDERMAN,135
+Boyle,F105,U.S. House,2,DEM,Hank LINDERMAN,135
+Boyle,AB,U.S. House,2,IND,Thomas A. LOECKEN,11
+Boyle,A101,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,A102,U.S. House,2,IND,Thomas A. LOECKEN,9
+Boyle,A103,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,A104,U.S. House,2,IND,Thomas A. LOECKEN,9
+Boyle,A105,U.S. House,2,IND,Thomas A. LOECKEN,2
+Boyle,B101,U.S. House,2,IND,Thomas A. LOECKEN,2
+Boyle,B102,U.S. House,2,IND,Thomas A. LOECKEN,6
+Boyle,B103,U.S. House,2,IND,Thomas A. LOECKEN,24
+Boyle,B104,U.S. House,2,IND,Thomas A. LOECKEN,18
+Boyle,C101,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,C102,U.S. House,2,IND,Thomas A. LOECKEN,15
+Boyle,C103,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,C104,U.S. House,2,IND,Thomas A. LOECKEN,8
+Boyle,D101,U.S. House,2,IND,Thomas A. LOECKEN,10
+Boyle,D102,U.S. House,2,IND,Thomas A. LOECKEN,7
+Boyle,D103,U.S. House,2,IND,Thomas A. LOECKEN,18
+Boyle,E101,U.S. House,2,IND,Thomas A. LOECKEN,12
+Boyle,E102,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,E103,U.S. House,2,IND,Thomas A. LOECKEN,4
+Boyle,E104,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,F101,U.S. House,2,IND,Thomas A. LOECKEN,5
+Boyle,F102,U.S. House,2,IND,Thomas A. LOECKEN,8
+Boyle,F103,U.S. House,2,IND,Thomas A. LOECKEN,9
+Boyle,F104,U.S. House,2,IND,Thomas A. LOECKEN,8
+Boyle,F105,U.S. House,2,IND,Thomas A. LOECKEN,8
+Boyle,AB,State Representative,54,REP,Daniel B. ELLIOTT,415
+Boyle,A101,State Representative,54,REP,Daniel B. ELLIOTT,319
+Boyle,A102,State Representative,54,REP,Daniel B. ELLIOTT,381
+Boyle,A103,State Representative,54,REP,Daniel B. ELLIOTT,206
+Boyle,A104,State Representative,54,REP,Daniel B. ELLIOTT,346
+Boyle,A105,State Representative,54,REP,Daniel B. ELLIOTT,98
+Boyle,B101,State Representative,54,REP,Daniel B. ELLIOTT,140
+Boyle,B102,State Representative,54,REP,Daniel B. ELLIOTT,292
+Boyle,B103,State Representative,54,REP,Daniel B. ELLIOTT,476
+Boyle,B104,State Representative,54,REP,Daniel B. ELLIOTT,351
+Boyle,C101,State Representative,54,REP,Daniel B. ELLIOTT,267
+Boyle,C102,State Representative,54,REP,Daniel B. ELLIOTT,313
+Boyle,C103,State Representative,54,REP,Daniel B. ELLIOTT,135
+Boyle,C104,State Representative,54,REP,Daniel B. ELLIOTT,151
+Boyle,D101,State Representative,54,REP,Daniel B. ELLIOTT,393
+Boyle,D102,State Representative,54,REP,Daniel B. ELLIOTT,451
+Boyle,D103,State Representative,54,REP,Daniel B. ELLIOTT,427
+Boyle,E101,State Representative,54,REP,Daniel B. ELLIOTT,223
+Boyle,E102,State Representative,54,REP,Daniel B. ELLIOTT,231
+Boyle,E103,State Representative,54,REP,Daniel B. ELLIOTT,113
+Boyle,E104,State Representative,54,REP,Daniel B. ELLIOTT,98
+Boyle,F101,State Representative,54,REP,Daniel B. ELLIOTT,161
+Boyle,F102,State Representative,54,REP,Daniel B. ELLIOTT,261
+Boyle,F103,State Representative,54,REP,Daniel B. ELLIOTT,335
+Boyle,F104,State Representative,54,REP,Daniel B. ELLIOTT,250
+Boyle,F105,State Representative,54,REP,Daniel B. ELLIOTT,156
+Boyle,AB,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",461
+Boyle,A101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",348
+Boyle,A102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",399
+Boyle,A103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",171
+Boyle,A104,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",302
+Boyle,A105,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",98
+Boyle,B101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",118
+Boyle,B102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",265
+Boyle,B103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",457
+Boyle,B104,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",326
+Boyle,C101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",324
+Boyle,C102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",358
+Boyle,C103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",149
+Boyle,C104,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",243
+Boyle,D101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",426
+Boyle,D102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",396
+Boyle,D103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",417
+Boyle,E101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",301
+Boyle,E102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",316
+Boyle,E103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",178
+Boyle,E104,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",207
+Boyle,F101,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",230
+Boyle,F102,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",295
+Boyle,F103,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",374
+Boyle,F104,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",261
+Boyle,F105,Commonwealth's Attorney, 50th Judicial Circuit,DEM,"Richard ""Richie"" BOTTOMS",222
+Boyle,AB,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,448
+Boyle,A101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,341
+Boyle,A102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,405
+Boyle,A103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,174
+Boyle,A104,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,310
+Boyle,A105,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,94
+Boyle,B101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,120
+Boyle,B102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,265
+Boyle,B103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,436
+Boyle,B104,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,313
+Boyle,C101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,316
+Boyle,C102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,351
+Boyle,C103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,145
+Boyle,C104,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,234
+Boyle,D101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,400
+Boyle,D102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,396
+Boyle,D103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,396
+Boyle,E101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,302
+Boyle,E102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,304
+Boyle,E103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,176
+Boyle,E104,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,199
+Boyle,F101,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,230
+Boyle,F102,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,288
+Boyle,F103,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,366
+Boyle,F104,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,248
+Boyle,F105,CIRCUIT CLERK,,DEM,Cortney SHEWMAKER,217
+Boyle,AB,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,277
+Boyle,A101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,178
+Boyle,A102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,212
+Boyle,A103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,129
+Boyle,A104,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,227
+Boyle,A105,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,63
+Boyle,B101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,109
+Boyle,B102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,194
+Boyle,B103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,320
+Boyle,B104,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,244
+Boyle,C101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,193
+Boyle,C102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,214
+Boyle,C103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,94
+Boyle,C104,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,97
+Boyle,D101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,288
+Boyle,D102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,343
+Boyle,D103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,317
+Boyle,E101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,173
+Boyle,E102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,176
+Boyle,E103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,79
+Boyle,E104,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,77
+Boyle,F101,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,114
+Boyle,F102,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,198
+Boyle,F103,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,249
+Boyle,F104,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,193
+Boyle,F105,PROPERTY VALUATION ADMINISTRATOR,,REP,Brian DARNELL,124
+Boyle,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",351
+Boyle,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",266
+Boyle,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",328
+Boyle,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",131
+Boyle,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",224
+Boyle,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",76
+Boyle,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",63
+Boyle,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",182
+Boyle,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",315
+Boyle,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",204
+Boyle,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",254
+Boyle,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",263
+Boyle,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",109
+Boyle,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",190
+Boyle,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",323
+Boyle,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",309
+Boyle,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",324
+Boyle,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",252
+Boyle,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",236
+Boyle,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",147
+Boyle,E104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",174
+Boyle,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",186
+Boyle,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",216
+Boyle,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",276
+Boyle,F104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",186
+Boyle,F105,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Lacresha ""My"" GIBSON",160
+Boyle,AB,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,313
+Boyle,A101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,250
+Boyle,A102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,316
+Boyle,A103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,158
+Boyle,A104,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,294
+Boyle,A105,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,79
+Boyle,B101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,109
+Boyle,B102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,223
+Boyle,B103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,389
+Boyle,B104,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,250
+Boyle,C101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,199
+Boyle,C102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,216
+Boyle,C103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,96
+Boyle,C104,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,105
+Boyle,D101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,292
+Boyle,D102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,354
+Boyle,D103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,346
+Boyle,E101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,174
+Boyle,E102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,186
+Boyle,E103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,68
+Boyle,E104,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,63
+Boyle,F101,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,124
+Boyle,F102,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,211
+Boyle,F103,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,264
+Boyle,F104,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,178
+Boyle,F105,COUNTY JUDGE/EXECUTIVE,,REP,Howard HUNT,131
+Boyle,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,330
+Boyle,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,200
+Boyle,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,234
+Boyle,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,98
+Boyle,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,159
+Boyle,A105,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,60
+Boyle,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,69
+Boyle,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,163
+Boyle,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,257
+Boyle,B104,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,208
+Boyle,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,254
+Boyle,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,267
+Boyle,C103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,106
+Boyle,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,188
+Boyle,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,321
+Boyle,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,304
+Boyle,D103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,296
+Boyle,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,254
+Boyle,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,238
+Boyle,E103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,159
+Boyle,E104,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,189
+Boyle,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,182
+Boyle,F102,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,207
+Boyle,F103,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,269
+Boyle,F104,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,202
+Boyle,F105,COUNTY JUDGE/EXECUTIVE,,DEM,Gary W. CHIDESTER,157
+Boyle,AB,COUNTY ATTORNEY,,REP,Christopher K. HERRON,357
+Boyle,A101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,255
+Boyle,A102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,305
+Boyle,A103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,157
+Boyle,A104,COUNTY ATTORNEY,,REP,Christopher K. HERRON,297
+Boyle,A105,COUNTY ATTORNEY,,REP,Christopher K. HERRON,75
+Boyle,B101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,113
+Boyle,B102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,250
+Boyle,B103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,388
+Boyle,B104,COUNTY ATTORNEY,,REP,Christopher K. HERRON,284
+Boyle,C101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,233
+Boyle,C102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,245
+Boyle,C103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,106
+Boyle,C104,COUNTY ATTORNEY,,REP,Christopher K. HERRON,110
+Boyle,D101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,342
+Boyle,D102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,402
+Boyle,D103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,407
+Boyle,E101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,218
+Boyle,E102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,226
+Boyle,E103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,88
+Boyle,E104,COUNTY ATTORNEY,,REP,Christopher K. HERRON,75
+Boyle,F101,COUNTY ATTORNEY,,REP,Christopher K. HERRON,129
+Boyle,F102,COUNTY ATTORNEY,,REP,Christopher K. HERRON,236
+Boyle,F103,COUNTY ATTORNEY,,REP,Christopher K. HERRON,318
+Boyle,F104,COUNTY ATTORNEY,,REP,Christopher K. HERRON,213
+Boyle,F105,COUNTY ATTORNEY,,REP,Christopher K. HERRON,154
+Boyle,AB,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,278
+Boyle,A101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,189
+Boyle,A102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,235
+Boyle,A103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,101
+Boyle,A104,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,148
+Boyle,A105,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,60
+Boyle,B101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,61
+Boyle,B102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,132
+Boyle,B103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,252
+Boyle,B104,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,174
+Boyle,C101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,210
+Boyle,C102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,234
+Boyle,C103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,94
+Boyle,C104,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,179
+Boyle,D101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,268
+Boyle,D102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,251
+Boyle,D103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,227
+Boyle,E101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,207
+Boyle,E102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,194
+Boyle,E103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,139
+Boyle,E104,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,175
+Boyle,F101,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,171
+Boyle,F102,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,176
+Boyle,F103,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,208
+Boyle,F104,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,163
+Boyle,F105,COUNTY ATTORNEY,,DEM,Lynne Pierce DEAN,133
+Boyle,AB,COUNTY CLERK,,REP,George R. COOMER,219
+Boyle,A101,COUNTY CLERK,,REP,George R. COOMER,140
+Boyle,A102,COUNTY CLERK,,REP,George R. COOMER,178
+Boyle,A103,COUNTY CLERK,,REP,George R. COOMER,100
+Boyle,A104,COUNTY CLERK,,REP,George R. COOMER,173
+Boyle,A105,COUNTY CLERK,,REP,George R. COOMER,51
+Boyle,B101,COUNTY CLERK,,REP,George R. COOMER,79
+Boyle,B102,COUNTY CLERK,,REP,George R. COOMER,132
+Boyle,B103,COUNTY CLERK,,REP,George R. COOMER,260
+Boyle,B104,COUNTY CLERK,,REP,George R. COOMER,164
+Boyle,C101,COUNTY CLERK,,REP,George R. COOMER,179
+Boyle,C102,COUNTY CLERK,,REP,George R. COOMER,168
+Boyle,C103,COUNTY CLERK,,REP,George R. COOMER,68
+Boyle,C104,COUNTY CLERK,,REP,George R. COOMER,71
+Boyle,D101,COUNTY CLERK,,REP,George R. COOMER,258
+Boyle,D102,COUNTY CLERK,,REP,George R. COOMER,292
+Boyle,D103,COUNTY CLERK,,REP,George R. COOMER,261
+Boyle,E101,COUNTY CLERK,,REP,George R. COOMER,157
+Boyle,E102,COUNTY CLERK,,REP,George R. COOMER,157
+Boyle,E103,COUNTY CLERK,,REP,George R. COOMER,68
+Boyle,E104,COUNTY CLERK,,REP,George R. COOMER,67
+Boyle,F101,COUNTY CLERK,,REP,George R. COOMER,102
+Boyle,F102,COUNTY CLERK,,REP,George R. COOMER,159
+Boyle,F103,COUNTY CLERK,,REP,George R. COOMER,200
+Boyle,F104,COUNTY CLERK,,REP,George R. COOMER,149
+Boyle,F105,COUNTY CLERK,,REP,George R. COOMER,95
+Boyle,AB,COUNTY CLERK,,DEM,Trille L. BOTTOM,432
+Boyle,A101,COUNTY CLERK,,DEM,Trille L. BOTTOM,310
+Boyle,A102,COUNTY CLERK,,DEM,Trille L. BOTTOM,373
+Boyle,A103,COUNTY CLERK,,DEM,Trille L. BOTTOM,161
+Boyle,A104,COUNTY CLERK,,DEM,Trille L. BOTTOM,285
+Boyle,A105,COUNTY CLERK,,DEM,Trille L. BOTTOM,88
+Boyle,B101,COUNTY CLERK,,DEM,Trille L. BOTTOM,97
+Boyle,B102,COUNTY CLERK,,DEM,Trille L. BOTTOM,254
+Boyle,B103,COUNTY CLERK,,DEM,Trille L. BOTTOM,396
+Boyle,B104,COUNTY CLERK,,DEM,Trille L. BOTTOM,298
+Boyle,C101,COUNTY CLERK,,DEM,Trille L. BOTTOM,272
+Boyle,C102,COUNTY CLERK,,DEM,Trille L. BOTTOM,316
+Boyle,C103,COUNTY CLERK,,DEM,Trille L. BOTTOM,135
+Boyle,C104,COUNTY CLERK,,DEM,Trille L. BOTTOM,222
+Boyle,D101,COUNTY CLERK,,DEM,Trille L. BOTTOM,352
+Boyle,D102,COUNTY CLERK,,DEM,Trille L. BOTTOM,366
+Boyle,D103,COUNTY CLERK,,DEM,Trille L. BOTTOM,384
+Boyle,E101,COUNTY CLERK,,DEM,Trille L. BOTTOM,277
+Boyle,E102,COUNTY CLERK,,DEM,Trille L. BOTTOM,262
+Boyle,E103,COUNTY CLERK,,DEM,Trille L. BOTTOM,161
+Boyle,E104,COUNTY CLERK,,DEM,Trille L. BOTTOM,189
+Boyle,F101,COUNTY CLERK,,DEM,Trille L. BOTTOM,204
+Boyle,F102,COUNTY CLERK,,DEM,Trille L. BOTTOM,261
+Boyle,F103,COUNTY CLERK,,DEM,Trille L. BOTTOM,325
+Boyle,F104,COUNTY CLERK,,DEM,Trille L. BOTTOM,229
+Boyle,F105,COUNTY CLERK,,DEM,Trille L. BOTTOM,191
+Boyle,AB,SHERIFF,,DEM,Derek ROBBINS,482
+Boyle,A101,SHERIFF,,DEM,Derek ROBBINS,340
+Boyle,A102,SHERIFF,,DEM,Derek ROBBINS,389
+Boyle,A103,SHERIFF,,DEM,Derek ROBBINS,173
+Boyle,A104,SHERIFF,,DEM,Derek ROBBINS,304
+Boyle,A105,SHERIFF,,DEM,Derek ROBBINS,101
+Boyle,B101,SHERIFF,,DEM,Derek ROBBINS,119
+Boyle,B102,SHERIFF,,DEM,Derek ROBBINS,275
+Boyle,B103,SHERIFF,,DEM,Derek ROBBINS,444
+Boyle,B104,SHERIFF,,DEM,Derek ROBBINS,323
+Boyle,C101,SHERIFF,,DEM,Derek ROBBINS,326
+Boyle,C102,SHERIFF,,DEM,Derek ROBBINS,352
+Boyle,C103,SHERIFF,,DEM,Derek ROBBINS,142
+Boyle,C104,SHERIFF,,DEM,Derek ROBBINS,238
+Boyle,D101,SHERIFF,,DEM,Derek ROBBINS,413
+Boyle,D102,SHERIFF,,DEM,Derek ROBBINS,410
+Boyle,D103,SHERIFF,,DEM,Derek ROBBINS,434
+Boyle,E101,SHERIFF,,DEM,Derek ROBBINS,307
+Boyle,E102,SHERIFF,,DEM,Derek ROBBINS,304
+Boyle,E103,SHERIFF,,DEM,Derek ROBBINS,181
+Boyle,E104,SHERIFF,,DEM,Derek ROBBINS,203
+Boyle,F101,SHERIFF,,DEM,Derek ROBBINS,229
+Boyle,F102,SHERIFF,,DEM,Derek ROBBINS,294
+Boyle,F103,SHERIFF,,DEM,Derek ROBBINS,379
+Boyle,F104,SHERIFF,,DEM,Derek ROBBINS,253
+Boyle,F105,SHERIFF,,DEM,Derek ROBBINS,221
+Boyle,AB,JAILER,,REP,LeeRoy HARDIN,295
+Boyle,A101,JAILER,,REP,LeeRoy HARDIN,203
+Boyle,A102,JAILER,,REP,LeeRoy HARDIN,253
+Boyle,A103,JAILER,,REP,LeeRoy HARDIN,135
+Boyle,A104,JAILER,,REP,LeeRoy HARDIN,235
+Boyle,A105,JAILER,,REP,LeeRoy HARDIN,68
+Boyle,B101,JAILER,,REP,LeeRoy HARDIN,110
+Boyle,B102,JAILER,,REP,LeeRoy HARDIN,237
+Boyle,B103,JAILER,,REP,LeeRoy HARDIN,402
+Boyle,B104,JAILER,,REP,LeeRoy HARDIN,335
+Boyle,C101,JAILER,,REP,LeeRoy HARDIN,205
+Boyle,C102,JAILER,,REP,LeeRoy HARDIN,239
+Boyle,C103,JAILER,,REP,LeeRoy HARDIN,92
+Boyle,C104,JAILER,,REP,LeeRoy HARDIN,131
+Boyle,D101,JAILER,,REP,LeeRoy HARDIN,279
+Boyle,D102,JAILER,,REP,LeeRoy HARDIN,347
+Boyle,D103,JAILER,,REP,LeeRoy HARDIN,370
+Boyle,E101,JAILER,,REP,LeeRoy HARDIN,181
+Boyle,E102,JAILER,,REP,LeeRoy HARDIN,192
+Boyle,E103,JAILER,,REP,LeeRoy HARDIN,84
+Boyle,E104,JAILER,,REP,LeeRoy HARDIN,72
+Boyle,F101,JAILER,,REP,LeeRoy HARDIN,130
+Boyle,F102,JAILER,,REP,LeeRoy HARDIN,178
+Boyle,F103,JAILER,,REP,LeeRoy HARDIN,252
+Boyle,F104,JAILER,,REP,LeeRoy HARDIN,180
+Boyle,F105,JAILER,,REP,LeeRoy HARDIN,117
+Boyle,AB,JAILER,,DEM,Brian WOFFORD,340
+Boyle,A101,JAILER,,DEM,Brian WOFFORD,247
+Boyle,A102,JAILER,,DEM,Brian WOFFORD,288
+Boyle,A103,JAILER,,DEM,Brian WOFFORD,125
+Boyle,A104,JAILER,,DEM,Brian WOFFORD,216
+Boyle,A105,JAILER,,DEM,Brian WOFFORD,69
+Boyle,B101,JAILER,,DEM,Brian WOFFORD,64
+Boyle,B102,JAILER,,DEM,Brian WOFFORD,152
+Boyle,B103,JAILER,,DEM,Brian WOFFORD,252
+Boyle,B104,JAILER,,DEM,Brian WOFFORD,126
+Boyle,C101,JAILER,,DEM,Brian WOFFORD,242
+Boyle,C102,JAILER,,DEM,Brian WOFFORD,242
+Boyle,C103,JAILER,,DEM,Brian WOFFORD,109
+Boyle,C104,JAILER,,DEM,Brian WOFFORD,159
+Boyle,D101,JAILER,,DEM,Brian WOFFORD,327
+Boyle,D102,JAILER,,DEM,Brian WOFFORD,300
+Boyle,D103,JAILER,,DEM,Brian WOFFORD,268
+Boyle,E101,JAILER,,DEM,Brian WOFFORD,246
+Boyle,E102,JAILER,,DEM,Brian WOFFORD,221
+Boyle,E103,JAILER,,DEM,Brian WOFFORD,144
+Boyle,E104,JAILER,,DEM,Brian WOFFORD,177
+Boyle,F101,JAILER,,DEM,Brian WOFFORD,173
+Boyle,F102,JAILER,,DEM,Brian WOFFORD,238
+Boyle,F103,JAILER,,DEM,Brian WOFFORD,266
+Boyle,F104,JAILER,,DEM,Brian WOFFORD,192
+Boyle,F105,JAILER,,DEM,Brian WOFFORD,165
+Boyle,AB,CORONER,,REP,Don HAMNER,497
+Boyle,A101,CORONER,,REP,Don HAMNER,366
+Boyle,A102,CORONER,,REP,Don HAMNER,443
+Boyle,A103,CORONER,,REP,Don HAMNER,229
+Boyle,A104,CORONER,,REP,Don HAMNER,382
+Boyle,A105,CORONER,,REP,Don HAMNER,110
+Boyle,B101,CORONER,,REP,Don HAMNER,158
+Boyle,B102,CORONER,,REP,Don HAMNER,327
+Boyle,B103,CORONER,,REP,Don HAMNER,539
+Boyle,B104,CORONER,,REP,Don HAMNER,375
+Boyle,C101,CORONER,,REP,Don HAMNER,328
+Boyle,C102,CORONER,,REP,Don HAMNER,362
+Boyle,C103,CORONER,,REP,Don HAMNER,157
+Boyle,C104,CORONER,,REP,Don HAMNER,190
+Boyle,D101,CORONER,,REP,Don HAMNER,462
+Boyle,D102,CORONER,,REP,Don HAMNER,514
+Boyle,D103,CORONER,,REP,Don HAMNER,510
+Boyle,E101,CORONER,,REP,Don HAMNER,320
+Boyle,E102,CORONER,,REP,Don HAMNER,327
+Boyle,E103,CORONER,,REP,Don HAMNER,152
+Boyle,E104,CORONER,,REP,Don HAMNER,166
+Boyle,F101,CORONER,,REP,Don HAMNER,238
+Boyle,F102,CORONER,,REP,Don HAMNER,326
+Boyle,F103,CORONER,,REP,Don HAMNER,415
+Boyle,F104,CORONER,,REP,Don HAMNER,299
+Boyle,F105,CORONER,,REP,Don HAMNER,212
+Boyle,AB,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,48
+Boyle,A101,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,212
+Boyle,A102,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,268
+Boyle,A103,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,141
+Boyle,A104,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,239
+Boyle,A105,MAGISTRATE 1st Magisterial District,,REP,Tom V. ELLIS,57
+Boyle,AB,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",50
+Boyle,A101,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",230
+Boyle,A102,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",268
+Boyle,A103,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",106
+Boyle,A104,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",203
+Boyle,A105,MAGISTRATE 1st Magisterial District,,DEM,"Richard ""Dickie"" MAYES",78
+Boyle,AB,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,2
+Boyle,A101,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,10
+Boyle,A102,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,9
+Boyle,A103,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,16
+Boyle,A104,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,10
+Boyle,A105,MAGISTRATE 1st Magisterial District,,IND,Steve DIVINE,4
+Boyle,AB,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",75
+Boyle,A101,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",280
+Boyle,A102,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",343
+Boyle,A103,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",165
+Boyle,A104,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",278
+Boyle,A105,CONSTABLE 1st Magisterial District,,DEM,"Don ""Buck"" SAWYER",79
+Boyle,AB,MAGISTRATE 2nd Magisterial District,,REP,Ronnie SHORT,27
+Boyle,B101,MAGISTRATE 2nd Magisterial District,,REP,Ronnie SHORT,103
+Boyle,B102,MAGISTRATE 2nd Magisterial District,,REP,Ronnie SHORT,210
+Boyle,B103,MAGISTRATE 2nd Magisterial District,,REP,Ronnie SHORT,305
+Boyle,B104,MAGISTRATE 2nd Magisterial District,,REP,Ronnie SHORT,207
+Boyle,AB,MAGISTRATE 2nd Magisterial District,,DEM,Donnie COFFMAN,26
+Boyle,B101,MAGISTRATE 2nd Magisterial District,,DEM,Donnie COFFMAN,47
+Boyle,B102,MAGISTRATE 2nd Magisterial District,,DEM,Donnie COFFMAN,130
+Boyle,B103,MAGISTRATE 2nd Magisterial District,,DEM,Donnie COFFMAN,224
+Boyle,B104,MAGISTRATE 2nd Magisterial District,,DEM,Donnie COFFMAN,171
+Boyle,AB,MAGISTRATE 2nd Magisterial District,,IND,Pete KENDRICK,11
+Boyle,B101,MAGISTRATE 2nd Magisterial District,,IND,Pete KENDRICK,25
+Boyle,B102,MAGISTRATE 2nd Magisterial District,,IND,Pete KENDRICK,49
+Boyle,B103,MAGISTRATE 2nd Magisterial District,,IND,Pete KENDRICK,116
+Boyle,B104,MAGISTRATE 2nd Magisterial District,,IND,Pete KENDRICK,86
+Boyle,AB,CONSTABLE 2nd Magisterial District,,DEM,Dennis CURTSINGER,42
+Boyle,B101,CONSTABLE 2nd Magisterial District,,DEM,Dennis CURTSINGER,102
+Boyle,B102,CONSTABLE 2nd Magisterial District,,DEM,Dennis CURTSINGER,258
+Boyle,B103,CONSTABLE 2nd Magisterial District,,DEM,Dennis CURTSINGER,427
+Boyle,B104,CONSTABLE 2nd Magisterial District,,DEM,Dennis CURTSINGER,300
+Boyle,AB,MAGISTRATE 3rd Magisterial District,,DEM,Phillip R. SAMMONS,38
+Boyle,C101,MAGISTRATE 3rd Magisterial District,,DEM,Phillip R. SAMMONS,299
+Boyle,C102,MAGISTRATE 3rd Magisterial District,,DEM,Phillip R. SAMMONS,315
+Boyle,C103,MAGISTRATE 3rd Magisterial District,,DEM,Phillip R. SAMMONS,137
+Boyle,C104,MAGISTRATE 3rd Magisterial District,,DEM,Phillip R. SAMMONS,218
+Boyle,AB,CONSTABLE 3rd Magisterial District,,DEM,James A. MURPHY,38
+Boyle,C101,CONSTABLE 3rd Magisterial District,,DEM,James A. MURPHY,293
+Boyle,C102,CONSTABLE 3rd Magisterial District,,DEM,James A. MURPHY,335
+Boyle,C103,CONSTABLE 3rd Magisterial District,,DEM,James A. MURPHY,125
+Boyle,C104,CONSTABLE 3rd Magisterial District,,DEM,James A. MURPHY,228
+Boyle,AB,MAGISTRATE 4th Magisterial District,,REP,Jason M. CULLEN,71
+Boyle,D101,MAGISTRATE 4th Magisterial District,,REP,Jason M. CULLEN,270
+Boyle,D102,MAGISTRATE 4th Magisterial District,,REP,Jason M. CULLEN,345
+Boyle,D103,MAGISTRATE 4th Magisterial District,,REP,Jason M. CULLEN,330
+Boyle,AB,MAGISTRATE 4th Magisterial District,,DEM,H. Jack HENDRICKS,66
+Boyle,D101,MAGISTRATE 4th Magisterial District,,DEM,H. Jack HENDRICKS,257
+Boyle,D102,MAGISTRATE 4th Magisterial District,,DEM,H. Jack HENDRICKS,248
+Boyle,D103,MAGISTRATE 4th Magisterial District,,DEM,H. Jack HENDRICKS,247
+Boyle,AB,MAGISTRATE 4th Magisterial District,,IND,Joe LAMKIN,10
+Boyle,D101,MAGISTRATE 4th Magisterial District,,IND,Joe LAMKIN,79
+Boyle,D102,MAGISTRATE 4th Magisterial District,,IND,Joe LAMKIN,54
+Boyle,D103,MAGISTRATE 4th Magisterial District,,IND,Joe LAMKIN,54
+Boyle,AB,MAGISTRATE 5th Magisterial District,,REP,Steve CLINE,33
+Boyle,E101,MAGISTRATE 5th Magisterial District,,REP,Steve CLINE,171
+Boyle,E102,MAGISTRATE 5th Magisterial District,,REP,Steve CLINE,184
+Boyle,E103,MAGISTRATE 5th Magisterial District,,REP,Steve CLINE,74
+Boyle,E104,MAGISTRATE 5th Magisterial District,,REP,Steve CLINE,45
+Boyle,AB,MAGISTRATE 5th Magisterial District,,DEM,Jamey GAY,60
+Boyle,E101,MAGISTRATE 5th Magisterial District,,DEM,Jamey GAY,251
+Boyle,E102,MAGISTRATE 5th Magisterial District,,DEM,Jamey GAY,233
+Boyle,E103,MAGISTRATE 5th Magisterial District,,DEM,Jamey GAY,154
+Boyle,E104,MAGISTRATE 5th Magisterial District,,DEM,Jamey GAY,205
+Boyle,AB,CONSTABLE 5th Magisterial District,,REP,Tim B. DEXTER,63
+Boyle,E101,CONSTABLE 5th Magisterial District,,REP,Tim B. DEXTER,276
+Boyle,E102,CONSTABLE 5th Magisterial District,,REP,Tim B. DEXTER,292
+Boyle,E103,CONSTABLE 5th Magisterial District,,REP,Tim B. DEXTER,131
+Boyle,E104,CONSTABLE 5th Magisterial District,,REP,Tim B. DEXTER,131
+Boyle,AB,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,131
+Boyle,F101,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,222
+Boyle,F102,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,270
+Boyle,F103,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,354
+Boyle,F104,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,242
+Boyle,F105,MAGISTRATE 6th Magisterial District,,DEM,John B. CAYWOOD,210
+Boyle,AB,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,121
+Boyle,F101,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,213
+Boyle,F102,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,248
+Boyle,F103,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,318
+Boyle,F104,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,218
+Boyle,F105,CONSTABLE 6th Magisterial District,,DEM,Timothy Wayne GOOCH,206
+Boyle,AB,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,222
+Boyle,A101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,193
+Boyle,A102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,236
+Boyle,A103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,123
+Boyle,A104,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,203
+Boyle,A105,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,59
+Boyle,B101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,81
+Boyle,B102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,168
+Boyle,B103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,269
+Boyle,B104,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,209
+Boyle,C101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,160
+Boyle,C102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,153
+Boyle,C103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,73
+Boyle,C104,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,93
+Boyle,D101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,187
+Boyle,D102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,266
+Boyle,D103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,259
+Boyle,E101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,139
+Boyle,E102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,147
+Boyle,E103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,50
+Boyle,E104,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,56
+Boyle,F101,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,92
+Boyle,F102,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,170
+Boyle,F103,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,208
+Boyle,F104,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,150
+Boyle,F105,Judge of the Court of Appeals, 5th Appellate District,,Rob JOHNSON,85
+Boyle,AB,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,242
+Boyle,A101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,126
+Boyle,A102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,149
+Boyle,A103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,56
+Boyle,A104,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,111
+Boyle,A105,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,35
+Boyle,B101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,42
+Boyle,B102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,93
+Boyle,B103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,209
+Boyle,B104,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,134
+Boyle,C101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,182
+Boyle,C102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,206
+Boyle,C103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,75
+Boyle,C104,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,132
+Boyle,D101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,252
+Boyle,D102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,191
+Boyle,D103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,195
+Boyle,E101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,173
+Boyle,E102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,191
+Boyle,E103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,129
+Boyle,E104,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,142
+Boyle,F101,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,153
+Boyle,F102,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,143
+Boyle,F103,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,186
+Boyle,F104,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,148
+Boyle,F105,Judge of the Court of Appeals, 5th Appellate District,,Pamela R. GOODWINE,146
+Boyle,AB,District Judge, 50th Judicial District,,Jeff L. DOTSON,420
+Boyle,A101,District Judge, 50th Judicial District,,Jeff L. DOTSON,304
+Boyle,A102,District Judge, 50th Judicial District,,Jeff L. DOTSON,363
+Boyle,A103,District Judge, 50th Judicial District,,Jeff L. DOTSON,167
+Boyle,A104,District Judge, 50th Judicial District,,Jeff L. DOTSON,298
+Boyle,A105,District Judge, 50th Judicial District,,Jeff L. DOTSON,87
+Boyle,B101,District Judge, 50th Judicial District,,Jeff L. DOTSON,118
+Boyle,B102,District Judge, 50th Judicial District,,Jeff L. DOTSON,253
+Boyle,B103,District Judge, 50th Judicial District,,Jeff L. DOTSON,452
+Boyle,B104,District Judge, 50th Judicial District,,Jeff L. DOTSON,316
+Boyle,C101,District Judge, 50th Judicial District,,Jeff L. DOTSON,283
+Boyle,C102,District Judge, 50th Judicial District,,Jeff L. DOTSON,320
+Boyle,C103,District Judge, 50th Judicial District,,Jeff L. DOTSON,131
+Boyle,C104,District Judge, 50th Judicial District,,Jeff L. DOTSON,181
+Boyle,D101,District Judge, 50th Judicial District,,Jeff L. DOTSON,380
+Boyle,D102,District Judge, 50th Judicial District,,Jeff L. DOTSON,357
+Boyle,D103,District Judge, 50th Judicial District,,Jeff L. DOTSON,387
+Boyle,E101,District Judge, 50th Judicial District,,Jeff L. DOTSON,257
+Boyle,E102,District Judge, 50th Judicial District,,Jeff L. DOTSON,281
+Boyle,E103,District Judge, 50th Judicial District,,Jeff L. DOTSON,143
+Boyle,E104,District Judge, 50th Judicial District,,Jeff L. DOTSON,153
+Boyle,F101,District Judge, 50th Judicial District,,Jeff L. DOTSON,215
+Boyle,F102,District Judge, 50th Judicial District,,Jeff L. DOTSON,287
+Boyle,F103,District Judge, 50th Judicial District,,Jeff L. DOTSON,349
+Boyle,F104,District Judge, 50th Judicial District,,Jeff L. DOTSON,244
+Boyle,F105,District Judge, 50th Judicial District,,Jeff L. DOTSON,203
+Boyle,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,34
+Boyle,A103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,177
+Boyle,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,50
+Boyle,B101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,76
+Boyle,B102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,245
+Boyle,B103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ruth Ann ELLIOTT,120
+Boyle,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,62
+Boyle,A104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,240
+Boyle,A105,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,35
+Boyle,B101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,40
+Boyle,C103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,69
+Boyle,D102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,51
+Boyle,F103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,222
+Boyle,F104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jesse JOHNSON,144
+Boyle,AB,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,34
+Boyle,B103,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,300
+Boyle,B104,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,293
+Boyle,C101,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,2
+Boyle,C102,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,9
+Boyle,C104,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,0
+Boyle,D101,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,27
+Boyle,D103,MEMBER BOARD of EDUCATION 5th Educational District (Unexpired Term),,,Laura GUERRANT,167
+Boyle,AB,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,134
+Boyle,C101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,233
+Boyle,C102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,243
+Boyle,C103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,49
+Boyle,C104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,131
+Boyle,D101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,280
+Boyle,D103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,7
+Boyle,E101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,239
+Boyle,E102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,253
+Boyle,E103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,106
+Boyle,E104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,138
+Boyle,F101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,170
+Boyle,F103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,80
+Boyle,F104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,66
+Boyle,F105,MEMBER BOARD of EDUCATION Danville Independent School District,,,Paul SMILEY,160
+Boyle,AB,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,132
+Boyle,C101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,227
+Boyle,C102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,228
+Boyle,C103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,41
+Boyle,C104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,122
+Boyle,D101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,260
+Boyle,D103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,10
+Boyle,E101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,216
+Boyle,E102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,233
+Boyle,E103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,104
+Boyle,E104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,117
+Boyle,F101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,133
+Boyle,F103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,72
+Boyle,F104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,71
+Boyle,F105,MEMBER BOARD of EDUCATION Danville Independent School District,,,Steve BECKER,149
+Boyle,AB,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,88
+Boyle,C101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,109
+Boyle,C102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,87
+Boyle,C103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,19
+Boyle,C104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,52
+Boyle,D101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,221
+Boyle,D103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,4
+Boyle,E101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,159
+Boyle,E102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,156
+Boyle,E103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,67
+Boyle,E104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,92
+Boyle,F101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,112
+Boyle,F103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,51
+Boyle,F104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,46
+Boyle,F105,MEMBER BOARD of EDUCATION Danville Independent School District,,,Michael STRYSICK,105
+Boyle,AB,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,90
+Boyle,C101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,137
+Boyle,C102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,159
+Boyle,C103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,23
+Boyle,C104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,91
+Boyle,D101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,229
+Boyle,D103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,7
+Boyle,E101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,156
+Boyle,E102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,160
+Boyle,E103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,90
+Boyle,E104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,74
+Boyle,F101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,104
+Boyle,F103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,52
+Boyle,F104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,57
+Boyle,F105,MEMBER BOARD of EDUCATION Danville Independent School District,,,Aaron ETHERINGTON,118
+Boyle,AB,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,82
+Boyle,C101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,159
+Boyle,C102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,170
+Boyle,C103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,55
+Boyle,C104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,141
+Boyle,D101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,187
+Boyle,D103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,6
+Boyle,E101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,150
+Boyle,E102,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,140
+Boyle,E103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,82
+Boyle,E104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,97
+Boyle,F101,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,114
+Boyle,F103,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,45
+Boyle,F104,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,41
+Boyle,F105,MEMBER BOARD of EDUCATION Danville Independent School District,,,Glenn A. BALL,79
+Boyle,AB,MAYOR City of Danville,,,Mike PERROS,248
+Boyle,C101,MAYOR City of Danville,,,Mike PERROS,296
+Boyle,C102,MAYOR City of Danville,,,Mike PERROS,323
+Boyle,C103,MAYOR City of Danville,,,Mike PERROS,70
+Boyle,C104,MAYOR City of Danville,,,Mike PERROS,197
+Boyle,D101,MAYOR City of Danville,,,Mike PERROS,389
+Boyle,D102,MAYOR City of Danville,,,Mike PERROS,0
+Boyle,D103,MAYOR City of Danville,,,Mike PERROS,68
+Boyle,E101,MAYOR City of Danville,,,Mike PERROS,290
+Boyle,E102,MAYOR City of Danville,,,Mike PERROS,278
+Boyle,E103,MAYOR City of Danville,,,Mike PERROS,161
+Boyle,E104,MAYOR City of Danville,,,Mike PERROS,169
+Boyle,F101,MAYOR City of Danville,,,Mike PERROS,207
+Boyle,F102,MAYOR City of Danville,,,Mike PERROS,264
+Boyle,F103,MAYOR City of Danville,,,Mike PERROS,342
+Boyle,F104,MAYOR City of Danville,,,Mike PERROS,249
+Boyle,F105,MAYOR City of Danville,,,Mike PERROS,199
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,Denise TERRY,199
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,Denise TERRY,229
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,Denise TERRY,240
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,Denise TERRY,53
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,Denise TERRY,136
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,Denise TERRY,309
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,Denise TERRY,0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,Denise TERRY,50
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,Denise TERRY,209
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,Denise TERRY,213
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,Denise TERRY,107
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,Denise TERRY,126
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,Denise TERRY,158
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,Denise TERRY,213
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,Denise TERRY,270
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,Denise TERRY,173
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,Denise TERRY,133
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",183
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",215
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",251
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",53
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",168
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",312
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",55
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",241
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",240
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",126
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",169
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",161
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",191
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",232
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",220
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,"James ""JH"" ATKINS",177
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,Rick SERRES,181
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,Rick SERRES,174
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,Rick SERRES,169
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,Rick SERRES,35
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,Rick SERRES,76
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,Rick SERRES,286
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,Rick SERRES,0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,Rick SERRES,55
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,Rick SERRES,224
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,Rick SERRES,220
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,Rick SERRES,93
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,Rick SERRES,120
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,Rick SERRES,132
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,Rick SERRES,209
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,Rick SERRES,268
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,Rick SERRES,204
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,Rick SERRES,125
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,86
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,120
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,106
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,14
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,55
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,130
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,25
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,105
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,92
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,41
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,41
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,68
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,114
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,122
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,92
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,Ronald DEVRICK,75
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,106
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,136
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,185
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,35
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,101
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,150
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,32
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,104
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,141
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,63
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,53
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,80
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,107
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,135
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,98
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,Charles SINGLETON,67
+Boyle,AB,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,201
+Boyle,C101,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,211
+Boyle,C102,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,236
+Boyle,C103,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,44
+Boyle,C104,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,139
+Boyle,D101,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,323
+Boyle,D102,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,0
+Boyle,D103,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,69
+Boyle,E101,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,248
+Boyle,E102,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,259
+Boyle,E103,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,109
+Boyle,E104,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,143
+Boyle,F101,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,159
+Boyle,F102,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,225
+Boyle,F103,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,261
+Boyle,F104,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,210
+Boyle,F105,CITY COMMISSIONERS City of Danville,,,Kevin CAUDILL,134
+Boyle,AB,MAYOR City of Junction City,,,Denise CURTSINGER,3
+Boyle,B103,MAYOR City of Junction City,,,Denise CURTSINGER,56
+Boyle,B104,MAYOR City of Junction City,,,Denise CURTSINGER,15
+Boyle,AB,MAYOR City of Junction City,,,Jim DOUGLAS,11
+Boyle,B103,MAYOR City of Junction City,,,Jim DOUGLAS,261
+Boyle,B104,MAYOR City of Junction City,,,Jim DOUGLAS,136
+Boyle,AB,MAYOR City of Junction City,,,Dewayne TAYLOR,10
+Boyle,B103,MAYOR City of Junction City,,,Dewayne TAYLOR,221
+Boyle,B104,MAYOR City of Junction City,,,Dewayne TAYLOR,110
+Boyle,AB,CITY COUNCIL City of Junction City,,,Steve MARTIN,13
+Boyle,B103,CITY COUNCIL City of Junction City,,,Steve MARTIN,249
+Boyle,B104,CITY COUNCIL City of Junction City,,,Steve MARTIN,124
+Boyle,AB,CITY COUNCIL City of Junction City,,,Mary HURST,13
+Boyle,B103,CITY COUNCIL City of Junction City,,,Mary HURST,230
+Boyle,B104,CITY COUNCIL City of Junction City,,,Mary HURST,133
+Boyle,AB,CITY COUNCIL City of Junction City,,,Vickie BOWLING,15
+Boyle,B103,CITY COUNCIL City of Junction City,,,Vickie BOWLING,248
+Boyle,B104,CITY COUNCIL City of Junction City,,,Vickie BOWLING,136
+Boyle,AB,CITY COUNCIL City of Junction City,,,Bill McCOWAN,12
+Boyle,B103,CITY COUNCIL City of Junction City,,,Bill McCOWAN,265
+Boyle,B104,CITY COUNCIL City of Junction City,,,Bill McCOWAN,149
+Boyle,AB,CITY COUNCIL City of Junction City,,,Scott TERRY,10
+Boyle,B103,CITY COUNCIL City of Junction City,,,Scott TERRY,167
+Boyle,B104,CITY COUNCIL City of Junction City,,,Scott TERRY,97
+Boyle,AB,CITY COUNCIL City of Junction City,,,Kenny BALDWIN,9
+Boyle,B103,CITY COUNCIL City of Junction City,,,Kenny BALDWIN,282
+Boyle,B104,CITY COUNCIL City of Junction City,,,Kenny BALDWIN,143
+Boyle,AB,CITY COUNCIL City of Junction City,,,Connie VERNON,12
+Boyle,B103,CITY COUNCIL City of Junction City,,,Connie VERNON,233
+Boyle,B104,CITY COUNCIL City of Junction City,,,Connie VERNON,110
+Boyle,AB,CITY COUNCIL City of Junction City,,,Sonya KITCHEN,11
+Boyle,B103,CITY COUNCIL City of Junction City,,,Sonya KITCHEN,216
+Boyle,B104,CITY COUNCIL City of Junction City,,,Sonya KITCHEN,117
+Boyle,AB,MAYOR City of Perryville,,,Tim SIMPSON,2
+Boyle,A101,MAYOR City of Perryville,,,Tim SIMPSON,8
+Boyle,A102,MAYOR City of Perryville,,,Tim SIMPSON,23
+Boyle,AB,MAYOR City of Perryville,,,Brian CALDWELL,10
+Boyle,A101,MAYOR City of Perryville,,,Brian CALDWELL,60
+Boyle,A102,MAYOR City of Perryville,,,Brian CALDWELL,115
+Boyle,AB,MAYOR City of Perryville,,,Paul WEBB,6
+Boyle,A101,MAYOR City of Perryville,,,Paul WEBB,41
+Boyle,A102,MAYOR City of Perryville,,,Paul WEBB,31
+Boyle,AB,CITY COUNCIL City of Perryville,,,Samuel IRVIN JR.,5
+Boyle,A101,CITY COUNCIL City of Perryville,,,Samuel IRVIN JR.,32
+Boyle,A102,CITY COUNCIL City of Perryville,,,Samuel IRVIN JR.,47
+Boyle,AB,CITY COUNCIL City of Perryville,,,Steve BAILEY,7
+Boyle,A101,CITY COUNCIL City of Perryville,,,Steve BAILEY,43
+Boyle,A102,CITY COUNCIL City of Perryville,,,Steve BAILEY,46
+Boyle,AB,CITY COUNCIL City of Perryville,,,Amber NOAKES,5
+Boyle,A101,CITY COUNCIL City of Perryville,,,Amber NOAKES,35
+Boyle,A102,CITY COUNCIL City of Perryville,,,Amber NOAKES,43
+Boyle,AB,CITY COUNCIL City of Perryville,,,Chad BLACKWELL,14
+Boyle,A101,CITY COUNCIL City of Perryville,,,Chad BLACKWELL,72
+Boyle,A102,CITY COUNCIL City of Perryville,,,Chad BLACKWELL,121
+Boyle,AB,CITY COUNCIL City of Perryville,,,Trent BOTTOM,15
+Boyle,A101,CITY COUNCIL City of Perryville,,,Trent BOTTOM,71
+Boyle,A102,CITY COUNCIL City of Perryville,,,Trent BOTTOM,98
+Boyle,AB,CITY COUNCIL City of Perryville,,,Adam GRAY,10
+Boyle,A101,CITY COUNCIL City of Perryville,,,Adam GRAY,53
+Boyle,A102,CITY COUNCIL City of Perryville,,,Adam GRAY,78
+Boyle,AB,CITY COUNCIL City of Perryville,,,Susan Smith PARKS,9
+Boyle,A101,CITY COUNCIL City of Perryville,,,Susan Smith PARKS,51
+Boyle,A102,CITY COUNCIL City of Perryville,,,Susan Smith PARKS,97
+Boyle,AB,CITY COUNCIL City of Perryville,,,Kelly GRAY,11
+Boyle,A101,CITY COUNCIL City of Perryville,,,Kelly GRAY,62
+Boyle,A102,CITY COUNCIL City of Perryville,,,Kelly GRAY,73
+Boyle,AB,CITY COUNCIL City of Perryville,,,Carlos W. MILLER,10
+Boyle,A101,CITY COUNCIL City of Perryville,,,Carlos W. MILLER,45
+Boyle,A102,CITY COUNCIL City of Perryville,,,Carlos W. MILLER,73
+Boyle,AB,CITY COUNCIL City of Perryville,,,Julie CLAY,5
+Boyle,A101,CITY COUNCIL City of Perryville,,,Julie CLAY,41
+Boyle,A102,CITY COUNCIL City of Perryville,,,Julie CLAY,45
+Boyle,AB,CITY COUNCIL City of Perryville,,,Conan DALLMAN,7
+Boyle,A101,CITY COUNCIL City of Perryville,,,Conan DALLMAN,34
+Boyle,A102,CITY COUNCIL City of Perryville,,,Conan DALLMAN,66
+Boyle,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,485
+Boyle,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,226
+Boyle,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,266
+Boyle,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,139
+Boyle,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,248
+Boyle,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,78
+Boyle,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,84
+Boyle,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,193
+Boyle,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,288
+Boyle,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,232
+Boyle,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,251
+Boyle,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,274
+Boyle,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,124
+Boyle,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,181
+Boyle,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,345
+Boyle,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,355
+Boyle,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,371
+Boyle,E101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,243
+Boyle,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,231
+Boyle,E103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,132
+Boyle,E104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,141
+Boyle,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,183
+Boyle,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,231
+Boyle,F103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,296
+Boyle,F104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,203
+Boyle,F105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,153
+Boyle,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,81
+Boyle,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,174
+Boyle,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,219
+Boyle,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,86
+Boyle,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,151
+Boyle,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,50
+Boyle,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,77
+Boyle,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,142
+Boyle,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,222
+Boyle,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,161
+Boyle,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,149
+Boyle,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,164
+Boyle,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,53
+Boyle,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,68
+Boyle,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,173
+Boyle,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,223
+Boyle,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,198
+Boyle,E101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,131
+Boyle,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,165
+Boyle,E103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,70
+Boyle,E104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,85
+Boyle,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,91
+Boyle,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,156
+Boyle,F103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,188
+Boyle,F104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,113
+Boyle,F105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,110
