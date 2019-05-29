@@ -1,0 +1,593 @@
+county,precinct,office,district,party,candidate,votes
+Harrison,AB4,U.S. House,4,REP,Thomas MASSIE,119
+Harrison,A103,U.S. House,4,REP,Thomas MASSIE,21
+Harrison,B103,U.S. House,4,REP,Thomas MASSIE,7
+Harrison,D102,U.S. House,4,REP,Thomas MASSIE,321
+Harrison,D103,U.S. House,4,REP,Thomas MASSIE,56
+Harrison,E101,U.S. House,4,REP,Thomas MASSIE,228
+Harrison,E102,U.S. House,4,REP,Thomas MASSIE,252
+Harrison,F101,U.S. House,4,REP,Thomas MASSIE,262
+Harrison,F102,U.S. House,4,REP,Thomas MASSIE,266
+Harrison,G101,U.S. House,4,REP,Thomas MASSIE,294
+Harrison,G102,U.S. House,4,REP,Thomas MASSIE,183
+Harrison,H101,U.S. House,4,REP,Thomas MASSIE,297
+Harrison,H102,U.S. House,4,REP,Thomas MASSIE,206
+Harrison,AB4,U.S. House,4,DEM,Seth HALL,77
+Harrison,A103,U.S. House,4,DEM,Seth HALL,21
+Harrison,B103,U.S. House,4,DEM,Seth HALL,31
+Harrison,D102,U.S. House,4,DEM,Seth HALL,159
+Harrison,D103,U.S. House,4,DEM,Seth HALL,48
+Harrison,E101,U.S. House,4,DEM,Seth HALL,124
+Harrison,E102,U.S. House,4,DEM,Seth HALL,133
+Harrison,F101,U.S. House,4,DEM,Seth HALL,125
+Harrison,F102,U.S. House,4,DEM,Seth HALL,140
+Harrison,G101,U.S. House,4,DEM,Seth HALL,110
+Harrison,G102,U.S. House,4,DEM,Seth HALL,79
+Harrison,H101,U.S. House,4,DEM,Seth HALL,106
+Harrison,H102,U.S. House,4,DEM,Seth HALL,106
+Harrison,AB4,U.S. House,4,LIB,Mike MOFFETT,3
+Harrison,A103,U.S. House,4,LIB,Mike MOFFETT,2
+Harrison,B103,U.S. House,4,LIB,Mike MOFFETT,2
+Harrison,D102,U.S. House,4,LIB,Mike MOFFETT,7
+Harrison,D103,U.S. House,4,LIB,Mike MOFFETT,3
+Harrison,E101,U.S. House,4,LIB,Mike MOFFETT,8
+Harrison,E102,U.S. House,4,LIB,Mike MOFFETT,10
+Harrison,F101,U.S. House,4,LIB,Mike MOFFETT,10
+Harrison,F102,U.S. House,4,LIB,Mike MOFFETT,10
+Harrison,G101,U.S. House,4,LIB,Mike MOFFETT,7
+Harrison,G102,U.S. House,4,LIB,Mike MOFFETT,7
+Harrison,H101,U.S. House,4,LIB,Mike MOFFETT,7
+Harrison,H102,U.S. House,4,LIB,Mike MOFFETT,7
+Harrison,AB6,U.S. House,6,REP,Andy BARR,116
+Harrison,A101,U.S. House,6,REP,Andy BARR,215
+Harrison,A102,U.S. House,6,REP,Andy BARR,123
+Harrison,B101,U.S. House,6,REP,Andy BARR,216
+Harrison,B102,U.S. House,6,REP,Andy BARR,116
+Harrison,C101,U.S. House,6,REP,Andy BARR,283
+Harrison,C102,U.S. House,6,REP,Andy BARR,304
+Harrison,D101,U.S. House,6,REP,Andy BARR,209
+Harrison,AB6,U.S. House,6,DEM,Amy McGRATH,72
+Harrison,A101,U.S. House,6,DEM,Amy McGRATH,153
+Harrison,A102,U.S. House,6,DEM,Amy McGRATH,106
+Harrison,B101,U.S. House,6,DEM,Amy McGRATH,167
+Harrison,B102,U.S. House,6,DEM,Amy McGRATH,94
+Harrison,C101,U.S. House,6,DEM,Amy McGRATH,139
+Harrison,C102,U.S. House,6,DEM,Amy McGRATH,156
+Harrison,D101,U.S. House,6,DEM,Amy McGRATH,114
+Harrison,AB6,U.S. House,6,LIB,Frank HARRIS,3
+Harrison,A101,U.S. House,6,LIB,Frank HARRIS,6
+Harrison,A102,U.S. House,6,LIB,Frank HARRIS,6
+Harrison,B101,U.S. House,6,LIB,Frank HARRIS,8
+Harrison,B102,U.S. House,6,LIB,Frank HARRIS,0
+Harrison,C101,U.S. House,6,LIB,Frank HARRIS,1
+Harrison,C102,U.S. House,6,LIB,Frank HARRIS,4
+Harrison,D101,U.S. House,6,LIB,Frank HARRIS,2
+Harrison,AB6,U.S. House,6,IND,Rikka L. WALLIN,2
+Harrison,A101,U.S. House,6,IND,Rikka L. WALLIN,2
+Harrison,A102,U.S. House,6,IND,Rikka L. WALLIN,2
+Harrison,B101,U.S. House,6,IND,Rikka L. WALLIN,1
+Harrison,B102,U.S. House,6,IND,Rikka L. WALLIN,0
+Harrison,C101,U.S. House,6,IND,Rikka L. WALLIN,1
+Harrison,C102,U.S. House,6,IND,Rikka L. WALLIN,3
+Harrison,D101,U.S. House,6,IND,Rikka L. WALLIN,3
+Harrison,AB6,U.S. House,6,IND,James GERMALIC,0
+Harrison,A101,U.S. House,6,IND,James GERMALIC,2
+Harrison,A102,U.S. House,6,IND,James GERMALIC,1
+Harrison,B101,U.S. House,6,IND,James GERMALIC,1
+Harrison,B102,U.S. House,6,IND,James GERMALIC,0
+Harrison,C101,U.S. House,6,IND,James GERMALIC,0
+Harrison,C102,U.S. House,6,IND,James GERMALIC,0
+Harrison,D101,U.S. House,6,IND,James GERMALIC,0
+Harrison,AB6,State Representative,78,REP,Mark HART,107
+Harrison,AB4,State Representative,78,REP,Mark HART,110
+Harrison,A101,State Representative,78,REP,Mark HART,171
+Harrison,A102,State Representative,78,REP,Mark HART,105
+Harrison,A103,State Representative,78,REP,Mark HART,17
+Harrison,B101,State Representative,78,REP,Mark HART,182
+Harrison,B102,State Representative,78,REP,Mark HART,97
+Harrison,B103,State Representative,78,REP,Mark HART,5
+Harrison,C101,State Representative,78,REP,Mark HART,248
+Harrison,C102,State Representative,78,REP,Mark HART,249
+Harrison,D101,State Representative,78,REP,Mark HART,165
+Harrison,D102,State Representative,78,REP,Mark HART,290
+Harrison,D103,State Representative,78,REP,Mark HART,51
+Harrison,E101,State Representative,78,REP,Mark HART,200
+Harrison,E102,State Representative,78,REP,Mark HART,233
+Harrison,F101,State Representative,78,REP,Mark HART,234
+Harrison,F102,State Representative,78,REP,Mark HART,229
+Harrison,G101,State Representative,78,REP,Mark HART,298
+Harrison,G102,State Representative,78,REP,Mark HART,178
+Harrison,H101,State Representative,78,REP,Mark HART,277
+Harrison,H102,State Representative,78,REP,Mark HART,184
+Harrison,AB6,State Representative,78,DEM,Gregory E. J. COULSON,78
+Harrison,AB4,State Representative,78,DEM,Gregory E. J. COULSON,91
+Harrison,A101,State Representative,78,DEM,Gregory E. J. COULSON,204
+Harrison,A102,State Representative,78,DEM,Gregory E. J. COULSON,133
+Harrison,A103,State Representative,78,DEM,Gregory E. J. COULSON,27
+Harrison,B101,State Representative,78,DEM,Gregory E. J. COULSON,208
+Harrison,B102,State Representative,78,DEM,Gregory E. J. COULSON,110
+Harrison,B103,State Representative,78,DEM,Gregory E. J. COULSON,39
+Harrison,C101,State Representative,78,DEM,Gregory E. J. COULSON,175
+Harrison,C102,State Representative,78,DEM,Gregory E. J. COULSON,218
+Harrison,D101,State Representative,78,DEM,Gregory E. J. COULSON,170
+Harrison,D102,State Representative,78,DEM,Gregory E. J. COULSON,203
+Harrison,D103,State Representative,78,DEM,Gregory E. J. COULSON,58
+Harrison,E101,State Representative,78,DEM,Gregory E. J. COULSON,170
+Harrison,E102,State Representative,78,DEM,Gregory E. J. COULSON,174
+Harrison,F101,State Representative,78,DEM,Gregory E. J. COULSON,180
+Harrison,F102,State Representative,78,DEM,Gregory E. J. COULSON,191
+Harrison,G101,State Representative,78,DEM,Gregory E. J. COULSON,117
+Harrison,G102,State Representative,78,DEM,Gregory E. J. COULSON,100
+Harrison,H101,State Representative,78,DEM,Gregory E. J. COULSON,146
+Harrison,H102,State Representative,78,DEM,Gregory E. J. COULSON,141
+Harrison,AB6,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,144
+Harrison,AB4,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,145
+Harrison,A101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,298
+Harrison,A102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,182
+Harrison,A103,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,34
+Harrison,B101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,315
+Harrison,B102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,157
+Harrison,B103,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,42
+Harrison,C101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,302
+Harrison,C102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,358
+Harrison,D101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,249
+Harrison,D102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,345
+Harrison,D103,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,83
+Harrison,E101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,272
+Harrison,E102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,300
+Harrison,F101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,282
+Harrison,F102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,313
+Harrison,G101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,251
+Harrison,G102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,178
+Harrison,H101,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,287
+Harrison,H102,Commonwealth's Attorney, 18th Judicial Circuit,DEM,Douglas MILLER,219
+Harrison,AB6,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,149
+Harrison,AB4,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,152
+Harrison,A101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,311
+Harrison,A102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,187
+Harrison,A103,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,37
+Harrison,B101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,327
+Harrison,B102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,170
+Harrison,B103,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,41
+Harrison,C101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,306
+Harrison,C102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,374
+Harrison,D101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,262
+Harrison,D102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,363
+Harrison,D103,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,86
+Harrison,E101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,293
+Harrison,E102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,319
+Harrison,F101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,298
+Harrison,F102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,324
+Harrison,G101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,267
+Harrison,G102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,187
+Harrison,H101,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,307
+Harrison,H102,CIRCUIT CLERK,,DEM,Teresa W. FURNISH,232
+Harrison,AB6,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,145
+Harrison,AB4,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,148
+Harrison,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,297
+Harrison,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,180
+Harrison,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,36
+Harrison,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,309
+Harrison,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,156
+Harrison,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,43
+Harrison,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,304
+Harrison,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,366
+Harrison,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,263
+Harrison,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,354
+Harrison,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,85
+Harrison,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,277
+Harrison,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,306
+Harrison,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,282
+Harrison,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,317
+Harrison,G101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,235
+Harrison,G102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,173
+Harrison,H101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,295
+Harrison,H102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Allen Patrick DARNELL,225
+Harrison,AB6,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,146
+Harrison,AB4,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,155
+Harrison,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,307
+Harrison,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,188
+Harrison,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,40
+Harrison,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,319
+Harrison,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,169
+Harrison,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,45
+Harrison,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,300
+Harrison,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,368
+Harrison,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,255
+Harrison,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,355
+Harrison,D103,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,84
+Harrison,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,295
+Harrison,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,312
+Harrison,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,306
+Harrison,F102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,330
+Harrison,G101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,249
+Harrison,G102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,186
+Harrison,H101,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,295
+Harrison,H102,COUNTY JUDGE/EXECUTIVE,,DEM,Alex BARNETT,225
+Harrison,AB6,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,147
+Harrison,AB4,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,150
+Harrison,A101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,308
+Harrison,A102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,189
+Harrison,A103,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,38
+Harrison,B101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,320
+Harrison,B102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,163
+Harrison,B103,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,45
+Harrison,C101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,311
+Harrison,C102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,376
+Harrison,D101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,263
+Harrison,D102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,352
+Harrison,D103,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,85
+Harrison,E101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,293
+Harrison,E102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,311
+Harrison,F101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,300
+Harrison,F102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,331
+Harrison,G101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,248
+Harrison,G102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,185
+Harrison,H101,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,309
+Harrison,H102,COUNTY ATTORNEY,,DEM,Bradley K. VAUGHN,232
+Harrison,AB6,COUNTY CLERK,,REP,Jill STROUB,70
+Harrison,AB4,COUNTY CLERK,,REP,Jill STROUB,76
+Harrison,A101,COUNTY CLERK,,REP,Jill STROUB,132
+Harrison,A102,COUNTY CLERK,,REP,Jill STROUB,90
+Harrison,A103,COUNTY CLERK,,REP,Jill STROUB,12
+Harrison,B101,COUNTY CLERK,,REP,Jill STROUB,146
+Harrison,B102,COUNTY CLERK,,REP,Jill STROUB,71
+Harrison,B103,COUNTY CLERK,,REP,Jill STROUB,12
+Harrison,C101,COUNTY CLERK,,REP,Jill STROUB,172
+Harrison,C102,COUNTY CLERK,,REP,Jill STROUB,180
+Harrison,D101,COUNTY CLERK,,REP,Jill STROUB,135
+Harrison,D102,COUNTY CLERK,,REP,Jill STROUB,220
+Harrison,D103,COUNTY CLERK,,REP,Jill STROUB,30
+Harrison,E101,COUNTY CLERK,,REP,Jill STROUB,139
+Harrison,E102,COUNTY CLERK,,REP,Jill STROUB,168
+Harrison,F101,COUNTY CLERK,,REP,Jill STROUB,189
+Harrison,F102,COUNTY CLERK,,REP,Jill STROUB,153
+Harrison,G101,COUNTY CLERK,,REP,Jill STROUB,221
+Harrison,G102,COUNTY CLERK,,REP,Jill STROUB,122
+Harrison,H101,COUNTY CLERK,,REP,Jill STROUB,216
+Harrison,H102,COUNTY CLERK,,REP,Jill STROUB,143
+Harrison,AB6,COUNTY CLERK,,DEM,Linda S. BARNES,120
+Harrison,AB4,COUNTY CLERK,,DEM,Linda S. BARNES,130
+Harrison,A101,COUNTY CLERK,,DEM,Linda S. BARNES,241
+Harrison,A102,COUNTY CLERK,,DEM,Linda S. BARNES,151
+Harrison,A103,COUNTY CLERK,,DEM,Linda S. BARNES,33
+Harrison,B101,COUNTY CLERK,,DEM,Linda S. BARNES,243
+Harrison,B102,COUNTY CLERK,,DEM,Linda S. BARNES,135
+Harrison,B103,COUNTY CLERK,,DEM,Linda S. BARNES,33
+Harrison,C101,COUNTY CLERK,,DEM,Linda S. BARNES,250
+Harrison,C102,COUNTY CLERK,,DEM,Linda S. BARNES,286
+Harrison,D101,COUNTY CLERK,,DEM,Linda S. BARNES,202
+Harrison,D102,COUNTY CLERK,,DEM,Linda S. BARNES,270
+Harrison,D103,COUNTY CLERK,,DEM,Linda S. BARNES,80
+Harrison,E101,COUNTY CLERK,,DEM,Linda S. BARNES,229
+Harrison,E102,COUNTY CLERK,,DEM,Linda S. BARNES,232
+Harrison,F101,COUNTY CLERK,,DEM,Linda S. BARNES,229
+Harrison,F102,COUNTY CLERK,,DEM,Linda S. BARNES,271
+Harrison,G101,COUNTY CLERK,,DEM,Linda S. BARNES,196
+Harrison,G102,COUNTY CLERK,,DEM,Linda S. BARNES,153
+Harrison,H101,COUNTY CLERK,,DEM,Linda S. BARNES,206
+Harrison,H102,COUNTY CLERK,,DEM,Linda S. BARNES,177
+Harrison,AB6,SHERIFF,,DEM,Shain A. STEPHENS,149
+Harrison,AB4,SHERIFF,,DEM,Shain A. STEPHENS,155
+Harrison,A101,SHERIFF,,DEM,Shain A. STEPHENS,317
+Harrison,A102,SHERIFF,,DEM,Shain A. STEPHENS,198
+Harrison,A103,SHERIFF,,DEM,Shain A. STEPHENS,41
+Harrison,B101,SHERIFF,,DEM,Shain A. STEPHENS,326
+Harrison,B102,SHERIFF,,DEM,Shain A. STEPHENS,175
+Harrison,B103,SHERIFF,,DEM,Shain A. STEPHENS,45
+Harrison,C101,SHERIFF,,DEM,Shain A. STEPHENS,311
+Harrison,C102,SHERIFF,,DEM,Shain A. STEPHENS,379
+Harrison,D101,SHERIFF,,DEM,Shain A. STEPHENS,270
+Harrison,D102,SHERIFF,,DEM,Shain A. STEPHENS,377
+Harrison,D103,SHERIFF,,DEM,Shain A. STEPHENS,90
+Harrison,E101,SHERIFF,,DEM,Shain A. STEPHENS,307
+Harrison,E102,SHERIFF,,DEM,Shain A. STEPHENS,309
+Harrison,F101,SHERIFF,,DEM,Shain A. STEPHENS,313
+Harrison,F102,SHERIFF,,DEM,Shain A. STEPHENS,334
+Harrison,G101,SHERIFF,,DEM,Shain A. STEPHENS,264
+Harrison,G102,SHERIFF,,DEM,Shain A. STEPHENS,197
+Harrison,H101,SHERIFF,,DEM,Shain A. STEPHENS,311
+Harrison,H102,SHERIFF,,DEM,Shain A. STEPHENS,238
+Harrison,AB6,JAILER,,DEM,Steve SLADE,143
+Harrison,AB4,JAILER,,DEM,Steve SLADE,148
+Harrison,A101,JAILER,,DEM,Steve SLADE,302
+Harrison,A102,JAILER,,DEM,Steve SLADE,190
+Harrison,A103,JAILER,,DEM,Steve SLADE,37
+Harrison,B101,JAILER,,DEM,Steve SLADE,309
+Harrison,B102,JAILER,,DEM,Steve SLADE,168
+Harrison,B103,JAILER,,DEM,Steve SLADE,45
+Harrison,C101,JAILER,,DEM,Steve SLADE,295
+Harrison,C102,JAILER,,DEM,Steve SLADE,364
+Harrison,D101,JAILER,,DEM,Steve SLADE,261
+Harrison,D102,JAILER,,DEM,Steve SLADE,357
+Harrison,D103,JAILER,,DEM,Steve SLADE,86
+Harrison,E101,JAILER,,DEM,Steve SLADE,298
+Harrison,E102,JAILER,,DEM,Steve SLADE,309
+Harrison,F101,JAILER,,DEM,Steve SLADE,301
+Harrison,F102,JAILER,,DEM,Steve SLADE,328
+Harrison,G101,JAILER,,DEM,Steve SLADE,250
+Harrison,G102,JAILER,,DEM,Steve SLADE,186
+Harrison,H101,JAILER,,DEM,Steve SLADE,308
+Harrison,H102,JAILER,,DEM,Steve SLADE,230
+Harrison,AB6,CORONER,,DEM,Tom WARE,146
+Harrison,AB4,CORONER,,DEM,Tom WARE,154
+Harrison,A101,CORONER,,DEM,Tom WARE,313
+Harrison,A102,CORONER,,DEM,Tom WARE,196
+Harrison,A103,CORONER,,DEM,Tom WARE,40
+Harrison,B101,CORONER,,DEM,Tom WARE,312
+Harrison,B102,CORONER,,DEM,Tom WARE,178
+Harrison,B103,CORONER,,DEM,Tom WARE,44
+Harrison,C101,CORONER,,DEM,Tom WARE,318
+Harrison,C102,CORONER,,DEM,Tom WARE,371
+Harrison,D101,CORONER,,DEM,Tom WARE,266
+Harrison,D102,CORONER,,DEM,Tom WARE,366
+Harrison,D103,CORONER,,DEM,Tom WARE,87
+Harrison,E101,CORONER,,DEM,Tom WARE,299
+Harrison,E102,CORONER,,DEM,Tom WARE,308
+Harrison,F101,CORONER,,DEM,Tom WARE,318
+Harrison,F102,CORONER,,DEM,Tom WARE,337
+Harrison,G101,CORONER,,DEM,Tom WARE,256
+Harrison,G102,CORONER,,DEM,Tom WARE,192
+Harrison,H101,CORONER,,DEM,Tom WARE,312
+Harrison,H102,CORONER,,DEM,Tom WARE,239
+Harrison,AB6,MAGISTRATE 1st Magisterial District,,DEM,Stanley LEMONS,35
+Harrison,AB4,MAGISTRATE 1st Magisterial District,,DEM,Stanley LEMONS,1
+Harrison,A101,MAGISTRATE 1st Magisterial District,,DEM,Stanley LEMONS,304
+Harrison,A102,MAGISTRATE 1st Magisterial District,,DEM,Stanley LEMONS,191
+Harrison,A103,MAGISTRATE 1st Magisterial District,,DEM,Stanley LEMONS,37
+Harrison,AB6,MAGISTRATE 2nd Magisterial District,,DEM,Chris WINKLE,47
+Harrison,AB4,MAGISTRATE 2nd Magisterial District,,DEM,Chris WINKLE,2
+Harrison,B101,MAGISTRATE 2nd Magisterial District,,DEM,Chris WINKLE,278
+Harrison,B102,MAGISTRATE 2nd Magisterial District,,DEM,Chris WINKLE,153
+Harrison,B103,MAGISTRATE 2nd Magisterial District,,DEM,Chris WINKLE,40
+Harrison,AB6,CONSTABLE 2nd Magisterial District,,REP,Wayne WRIGHT,47
+Harrison,AB4,CONSTABLE 2nd Magisterial District,,REP,Wayne WRIGHT,2
+Harrison,B101,CONSTABLE 2nd Magisterial District,,REP,Wayne WRIGHT,282
+Harrison,B102,CONSTABLE 2nd Magisterial District,,REP,Wayne WRIGHT,142
+Harrison,B103,CONSTABLE 2nd Magisterial District,,REP,Wayne WRIGHT,15
+Harrison,AB6,MAGISTRATE 3rd Magisterial District,,DEM,Brad MARSHALL,37
+Harrison,C101,MAGISTRATE 3rd Magisterial District,,DEM,Brad MARSHALL,310
+Harrison,C102,MAGISTRATE 3rd Magisterial District,,DEM,Brad MARSHALL,351
+Harrison,AB6,CONSTABLE 3rd Magisterial District,,REP,Mike FIELDS,32
+Harrison,C101,CONSTABLE 3rd Magisterial District,,REP,Mike FIELDS,207
+Harrison,C102,CONSTABLE 3rd Magisterial District,,REP,Mike FIELDS,248
+Harrison,AB6,CONSTABLE 3rd Magisterial District,,DEM,Jerry T. WRIGHT,12
+Harrison,C101,CONSTABLE 3rd Magisterial District,,DEM,Jerry T. WRIGHT,198
+Harrison,C102,CONSTABLE 3rd Magisterial District,,DEM,Jerry T. WRIGHT,186
+Harrison,AB6,MAGISTRATE 4th Magisterial District,,DEM,Scott HERRINGTON,16
+Harrison,AB4,MAGISTRATE 4th Magisterial District,,DEM,Scott HERRINGTON,35
+Harrison,D101,MAGISTRATE 4th Magisterial District,,DEM,Scott HERRINGTON,244
+Harrison,D102,MAGISTRATE 4th Magisterial District,,DEM,Scott HERRINGTON,328
+Harrison,D103,MAGISTRATE 4th Magisterial District,,DEM,Scott HERRINGTON,84
+Harrison,AB4,MAGISTRATE 5th Magisterial District,,REP,Sam PIERCE,16
+Harrison,F101,MAGISTRATE 5th Magisterial District,,REP,Sam PIERCE,234
+Harrison,F102,MAGISTRATE 5th Magisterial District,,REP,Sam PIERCE,175
+Harrison,AB4,CONSTABLE 5th Magisterial District,,DEM,Freddie BUTCHER,29
+Harrison,F101,CONSTABLE 5th Magisterial District,,DEM,Freddie BUTCHER,249
+Harrison,F102,CONSTABLE 5th Magisterial District,,DEM,Freddie BUTCHER,267
+Harrison,AB4,MAGISTRATE 6th Magisterial District,,DEM,Brad YEARSLEY,33
+Harrison,E101,MAGISTRATE 6th Magisterial District,,DEM,Brad YEARSLEY,294
+Harrison,E102,MAGISTRATE 6th Magisterial District,,DEM,Brad YEARSLEY,293
+Harrison,AB4,CONSTABLE 6th Magisterial District,,DEM,Charles W. NORTHCUTT,28
+Harrison,E101,CONSTABLE 6th Magisterial District,,DEM,Charles W. NORTHCUTT,269
+Harrison,E102,CONSTABLE 6th Magisterial District,,DEM,Charles W. NORTHCUTT,287
+Harrison,AB4,MAGISTRATE 7th Magisterial District,,REP,Dwayne C. FLORENCE,18
+Harrison,G101,MAGISTRATE 7th Magisterial District,,REP,Dwayne C. FLORENCE,233
+Harrison,G102,MAGISTRATE 7th Magisterial District,,REP,Dwayne C. FLORENCE,142
+Harrison,AB4,MAGISTRATE 7th Magisterial District,,DEM,Joe TRAYLOR,14
+Harrison,G101,MAGISTRATE 7th Magisterial District,,DEM,Joe TRAYLOR,185
+Harrison,G102,MAGISTRATE 7th Magisterial District,,DEM,Joe TRAYLOR,137
+Harrison,AB4,CONSTABLE 7th Magisterial District,,REP,Floyd R. RICE,19
+Harrison,G101,CONSTABLE 7th Magisterial District,,REP,Floyd R. RICE,259
+Harrison,G102,CONSTABLE 7th Magisterial District,,REP,Floyd R. RICE,154
+Harrison,AB4,CONSTABLE 7th Magisterial District,,DEM,Kevin R. PERKINS,10
+Harrison,G101,CONSTABLE 7th Magisterial District,,DEM,Kevin R. PERKINS,139
+Harrison,G102,CONSTABLE 7th Magisterial District,,DEM,Kevin R. PERKINS,107
+Harrison,AB4,MAGISTRATE 8th Magisterial District,,REP,Al STAKELIN,18
+Harrison,H101,MAGISTRATE 8th Magisterial District,,REP,Al STAKELIN,242
+Harrison,H102,MAGISTRATE 8th Magisterial District,,REP,Al STAKELIN,166
+Harrison,AB4,MAGISTRATE 8th Magisterial District,,DEM,Bradley T. COPES,15
+Harrison,H101,MAGISTRATE 8th Magisterial District,,DEM,Bradley T. COPES,177
+Harrison,H102,MAGISTRATE 8th Magisterial District,,DEM,Bradley T. COPES,154
+Harrison,AB4,CONSTABLE 8th Magisterial District,,REP,Darrell FLORENCE,21
+Harrison,H101,CONSTABLE 8th Magisterial District,,REP,Darrell FLORENCE,292
+Harrison,H102,CONSTABLE 8th Magisterial District,,REP,Darrell FLORENCE,218
+Harrison,AB4,CONSTABLE 8th Magisterial District,,DEM,Daniel T. PERKINS,10
+Harrison,H101,CONSTABLE 8th Magisterial District,,DEM,Daniel T. PERKINS,115
+Harrison,H102,CONSTABLE 8th Magisterial District,,DEM,Daniel T. PERKINS,96
+Harrison,AB6,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,138
+Harrison,AB4,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,138
+Harrison,A101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,275
+Harrison,A102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,174
+Harrison,A103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,27
+Harrison,B101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,302
+Harrison,B102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,157
+Harrison,B103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,32
+Harrison,C101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,278
+Harrison,C102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,359
+Harrison,D101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,241
+Harrison,D102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,304
+Harrison,D103,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,70
+Harrison,E101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,264
+Harrison,E102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,277
+Harrison,F101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,264
+Harrison,F102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,297
+Harrison,G101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,243
+Harrison,G102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,174
+Harrison,H101,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,292
+Harrison,H102,District Judge, 18th Judicial District,,Charles W. KUSTER JR.,196
+Harrison,AB6,MEMBER BOARD of EDUCATION 1st Educational District,,,Gary DEARBORN,83
+Harrison,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,Gary DEARBORN,265
+Harrison,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Gary DEARBORN,169
+Harrison,B101,MEMBER BOARD of EDUCATION 1st Educational District,,,Gary DEARBORN,307
+Harrison,B102,MEMBER BOARD of EDUCATION 1st Educational District,,,Gary DEARBORN,155
+Harrison,AB6,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,6
+Harrison,AB4,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,34
+Harrison,B103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,30
+Harrison,C101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,251
+Harrison,F102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,296
+Harrison,H102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Mary June BRUNKER,202
+Harrison,AB4,MAYOR City of Berry,,,Kenneth H. ABNER,3
+Harrison,G102,MAYOR City of Berry,,,Kenneth H. ABNER,23
+Harrison,AB4,CITY COMMISSIONERS City of Berry,,,Vickie J. CANTU,3
+Harrison,G102,CITY COMMISSIONERS City of Berry,,,Vickie J. CANTU,24
+Harrison,AB4,CITY COMMISSIONERS City of Berry,,,Keith ISON,1
+Harrison,G102,CITY COMMISSIONERS City of Berry,,,Keith ISON,22
+Harrison,AB4,CITY COMMISSIONERS City of Berry,,,James T. RICHARDSON,1
+Harrison,G102,CITY COMMISSIONERS City of Berry,,,James T. RICHARDSON,20
+Harrison,AB4,CITY COMMISSIONERS City of Berry,,,Nettie Ruth ADAMS,4
+Harrison,G102,CITY COMMISSIONERS City of Berry,,,Nettie Ruth ADAMS,21
+Harrison,AB6,MAYOR City of Cynthiana,,,James D. SMITH,85
+Harrison,AB4,MAYOR City of Cynthiana,,,James D. SMITH,20
+Harrison,A101,MAYOR City of Cynthiana,,,James D. SMITH,267
+Harrison,A102,MAYOR City of Cynthiana,,,James D. SMITH,175
+Harrison,A103,MAYOR City of Cynthiana,,,James D. SMITH,28
+Harrison,B101,MAYOR City of Cynthiana,,,James D. SMITH,303
+Harrison,B102,MAYOR City of Cynthiana,,,James D. SMITH,149
+Harrison,B103,MAYOR City of Cynthiana,,,James D. SMITH,30
+Harrison,C102,MAYOR City of Cynthiana,,,James D. SMITH,109
+Harrison,D101,MAYOR City of Cynthiana,,,James D. SMITH,5
+Harrison,D102,MAYOR City of Cynthiana,,,James D. SMITH,0
+Harrison,E101,MAYOR City of Cynthiana,,,James D. SMITH,116
+Harrison,F101,MAYOR City of Cynthiana,,,James D. SMITH,101
+Harrison,F102,MAYOR City of Cynthiana,,,James D. SMITH,5
+Harrison,AB6,MAYOR City of Cynthiana,,,Walter L. TAPP,28
+Harrison,AB4,MAYOR City of Cynthiana,,,Walter L. TAPP,6
+Harrison,A101,MAYOR City of Cynthiana,,,Walter L. TAPP,67
+Harrison,A102,MAYOR City of Cynthiana,,,Walter L. TAPP,38
+Harrison,A103,MAYOR City of Cynthiana,,,Walter L. TAPP,10
+Harrison,B101,MAYOR City of Cynthiana,,,Walter L. TAPP,75
+Harrison,B102,MAYOR City of Cynthiana,,,Walter L. TAPP,41
+Harrison,B103,MAYOR City of Cynthiana,,,Walter L. TAPP,11
+Harrison,C102,MAYOR City of Cynthiana,,,Walter L. TAPP,14
+Harrison,D101,MAYOR City of Cynthiana,,,Walter L. TAPP,0
+Harrison,D102,MAYOR City of Cynthiana,,,Walter L. TAPP,0
+Harrison,E101,MAYOR City of Cynthiana,,,Walter L. TAPP,43
+Harrison,F101,MAYOR City of Cynthiana,,,Walter L. TAPP,22
+Harrison,F102,MAYOR City of Cynthiana,,,Walter L. TAPP,0
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,68
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,14
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,197
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,123
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,21
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,246
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,107
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,27
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,64
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,5
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,92
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,71
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Mark MATTMILLER,5
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,67
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,16
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,252
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,155
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,24
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,276
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,140
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,26
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,101
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,4
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,93
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,93
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Roger SLADE,4
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,39
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,9
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,107
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,65
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,14
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,118
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,60
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,4
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,31
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,0
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,64
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,45
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Amanda S. MOORE,2
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,31
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,4
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,113
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,78
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,11
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,112
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,60
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,8
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,42
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,2
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,45
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,44
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Branson Kent GILLISPIE,4
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,70
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,15
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,218
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,131
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,18
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,272
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,115
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,21
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,106
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,3
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,92
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,65
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Lourena Taylor JUDY,0
+Harrison,AB6,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,71
+Harrison,AB4,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,17
+Harrison,A101,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,197
+Harrison,A102,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,125
+Harrison,A103,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,15
+Harrison,B101,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,225
+Harrison,B102,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,98
+Harrison,B103,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,32
+Harrison,C102,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,86
+Harrison,D101,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,5
+Harrison,D102,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,0
+Harrison,E101,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,95
+Harrison,F101,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,61
+Harrison,F102,CITY COMMISSIONERS City of Cynthiana,,,Jada Walker GRIGGS,2
+Harrison,AB6,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,146
+Harrison,AB4,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,145
+Harrison,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,216
+Harrison,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,133
+Harrison,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,25
+Harrison,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,217
+Harrison,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,135
+Harrison,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,35
+Harrison,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,224
+Harrison,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,275
+Harrison,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,180
+Harrison,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,259
+Harrison,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,54
+Harrison,E101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,185
+Harrison,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,215
+Harrison,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,232
+Harrison,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,198
+Harrison,G101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,245
+Harrison,G102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,133
+Harrison,H101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,235
+Harrison,H102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,163
+Harrison,AB6,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,25
+Harrison,AB4,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,26
+Harrison,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,120
+Harrison,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,81
+Harrison,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,10
+Harrison,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,147
+Harrison,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,52
+Harrison,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,8
+Harrison,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,120
+Harrison,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,155
+Harrison,D101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,103
+Harrison,D102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,160
+Harrison,D103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,42
+Harrison,E101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,138
+Harrison,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,143
+Harrison,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,125
+Harrison,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,160
+Harrison,G101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,113
+Harrison,G102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,90
+Harrison,H101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,132
+Harrison,H102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,110
