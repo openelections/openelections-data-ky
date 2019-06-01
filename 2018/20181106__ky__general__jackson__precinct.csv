@@ -1,0 +1,441 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,A101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",238
+Jackson,A102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",233
+Jackson,A103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",361
+Jackson,A104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",96
+Jackson,A105,U.S. House,5,REP,"Harold ""Hal"" ROGERS",73
+Jackson,A106,U.S. House,5,REP,"Harold ""Hal"" ROGERS",125
+Jackson,B101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",299
+Jackson,B102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",476
+Jackson,B103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",408
+Jackson,B104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",230
+Jackson,C101,U.S. House,5,REP,"Harold ""Hal"" ROGERS",287
+Jackson,C102,U.S. House,5,REP,"Harold ""Hal"" ROGERS",212
+Jackson,C103,U.S. House,5,REP,"Harold ""Hal"" ROGERS",154
+Jackson,C104,U.S. House,5,REP,"Harold ""Hal"" ROGERS",176
+Jackson,ABSENTEE MACHINE,U.S. House,5,REP,"Harold ""Hal"" ROGERS",140
+Jackson,ABSENTEE PAPER,U.S. House,5,REP,"Harold ""Hal"" ROGERS",71
+Jackson,A101,U.S. House,5,DEM,Kenneth S. STEPP,25
+Jackson,A102,U.S. House,5,DEM,Kenneth S. STEPP,30
+Jackson,A103,U.S. House,5,DEM,Kenneth S. STEPP,21
+Jackson,A104,U.S. House,5,DEM,Kenneth S. STEPP,13
+Jackson,A105,U.S. House,5,DEM,Kenneth S. STEPP,11
+Jackson,A106,U.S. House,5,DEM,Kenneth S. STEPP,13
+Jackson,B101,U.S. House,5,DEM,Kenneth S. STEPP,31
+Jackson,B102,U.S. House,5,DEM,Kenneth S. STEPP,43
+Jackson,B103,U.S. House,5,DEM,Kenneth S. STEPP,43
+Jackson,B104,U.S. House,5,DEM,Kenneth S. STEPP,24
+Jackson,C101,U.S. House,5,DEM,Kenneth S. STEPP,44
+Jackson,C102,U.S. House,5,DEM,Kenneth S. STEPP,14
+Jackson,C103,U.S. House,5,DEM,Kenneth S. STEPP,13
+Jackson,C104,U.S. House,5,DEM,Kenneth S. STEPP,19
+Jackson,ABSENTEE MACHINE,U.S. House,5,DEM,Kenneth S. STEPP,18
+Jackson,ABSENTEE PAPER,U.S. House,5,DEM,Kenneth S. STEPP,10
+Jackson,A101,State Representative,89,REP,Robert GOFORTH,243
+Jackson,A102,State Representative,89,REP,Robert GOFORTH,246
+Jackson,A103,State Representative,89,REP,Robert GOFORTH,367
+Jackson,A104,State Representative,89,REP,Robert GOFORTH,90
+Jackson,A105,State Representative,89,REP,Robert GOFORTH,74
+Jackson,A106,State Representative,89,REP,Robert GOFORTH,130
+Jackson,B101,State Representative,89,REP,Robert GOFORTH,300
+Jackson,B102,State Representative,89,REP,Robert GOFORTH,479
+Jackson,B103,State Representative,89,REP,Robert GOFORTH,409
+Jackson,B104,State Representative,89,REP,Robert GOFORTH,231
+Jackson,C101,State Representative,89,REP,Robert GOFORTH,287
+Jackson,C102,State Representative,89,REP,Robert GOFORTH,210
+Jackson,C103,State Representative,89,REP,Robert GOFORTH,158
+Jackson,C104,State Representative,89,REP,Robert GOFORTH,184
+Jackson,ABSENTEE MACHINE,State Representative,89,REP,Robert GOFORTH,136
+Jackson,ABSENTEE PAPER,State Representative,89,REP,Robert GOFORTH,71
+Jackson,A101,State Representative,89,DEM,Kelly SMITH,29
+Jackson,A102,State Representative,89,DEM,Kelly SMITH,29
+Jackson,A103,State Representative,89,DEM,Kelly SMITH,16
+Jackson,A104,State Representative,89,DEM,Kelly SMITH,17
+Jackson,A105,State Representative,89,DEM,Kelly SMITH,12
+Jackson,A106,State Representative,89,DEM,Kelly SMITH,10
+Jackson,B101,State Representative,89,DEM,Kelly SMITH,34
+Jackson,B102,State Representative,89,DEM,Kelly SMITH,49
+Jackson,B103,State Representative,89,DEM,Kelly SMITH,42
+Jackson,B104,State Representative,89,DEM,Kelly SMITH,20
+Jackson,C101,State Representative,89,DEM,Kelly SMITH,44
+Jackson,C102,State Representative,89,DEM,Kelly SMITH,15
+Jackson,C103,State Representative,89,DEM,Kelly SMITH,11
+Jackson,C104,State Representative,89,DEM,Kelly SMITH,16
+Jackson,ABSENTEE MACHINE,State Representative,89,DEM,Kelly SMITH,25
+Jackson,ABSENTEE PAPER,State Representative,89,DEM,Kelly SMITH,11
+Jackson,A101,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,235
+Jackson,A102,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,221
+Jackson,A103,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,336
+Jackson,A104,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,99
+Jackson,A105,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,74
+Jackson,A106,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,122
+Jackson,B101,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,281
+Jackson,B102,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,471
+Jackson,B103,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,389
+Jackson,B104,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,223
+Jackson,C101,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,278
+Jackson,C102,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,200
+Jackson,C103,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,147
+Jackson,C104,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,173
+Jackson,ABSENTEE MACHINE,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,139
+Jackson,ABSENTEE PAPER,Commonwealth's Attorney, 41st Judicial Circuit,,Gary H. GREGORY,70
+Jackson,A101,CIRCUIT CLERK,,,Doris Kay WARD,250
+Jackson,A102,CIRCUIT CLERK,,,Doris Kay WARD,247
+Jackson,A103,CIRCUIT CLERK,,,Doris Kay WARD,351
+Jackson,A104,CIRCUIT CLERK,,,Doris Kay WARD,105
+Jackson,A105,CIRCUIT CLERK,,,Doris Kay WARD,79
+Jackson,A106,CIRCUIT CLERK,,,Doris Kay WARD,130
+Jackson,B101,CIRCUIT CLERK,,,Doris Kay WARD,290
+Jackson,B102,CIRCUIT CLERK,,,Doris Kay WARD,499
+Jackson,B103,CIRCUIT CLERK,,,Doris Kay WARD,406
+Jackson,B104,CIRCUIT CLERK,,,Doris Kay WARD,240
+Jackson,C101,CIRCUIT CLERK,,,Doris Kay WARD,299
+Jackson,C102,CIRCUIT CLERK,,,Doris Kay WARD,205
+Jackson,C103,CIRCUIT CLERK,,,Doris Kay WARD,151
+Jackson,C104,CIRCUIT CLERK,,,Doris Kay WARD,186
+Jackson,ABSENTEE MACHINE,CIRCUIT CLERK,,,Doris Kay WARD,144
+Jackson,ABSENTEE PAPER,CIRCUIT CLERK,,,Doris Kay WARD,73
+Jackson,A101,PVA,,,Paul N. ROSE,253
+Jackson,A102,PVA,,,Paul N. ROSE,230
+Jackson,A103,PVA,,,Paul N. ROSE,351
+Jackson,A104,PVA,,,Paul N. ROSE,101
+Jackson,A105,PVA,,,Paul N. ROSE,82
+Jackson,A106,PVA,,,Paul N. ROSE,128
+Jackson,B101,PVA,,,Paul N. ROSE,295
+Jackson,B102,PVA,,,Paul N. ROSE,503
+Jackson,B103,PVA,,,Paul N. ROSE,408
+Jackson,B104,PVA,,,Paul N. ROSE,232
+Jackson,C101,PVA,,,Paul N. ROSE,300
+Jackson,C102,PVA,,,Paul N. ROSE,207
+Jackson,C103,PVA,,,Paul N. ROSE,153
+Jackson,C104,PVA,,,Paul N. ROSE,182
+Jackson,ABSENTEE MACHINE,PVA,,,Paul N. ROSE,141
+Jackson,ABSENTEE PAPER,PVA,,,Paul N. ROSE,72
+Jackson,A101,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,228
+Jackson,A102,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,235
+Jackson,A103,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,344
+Jackson,A104,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,92
+Jackson,A105,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,77
+Jackson,A106,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,125
+Jackson,B101,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,285
+Jackson,B102,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,473
+Jackson,B103,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,396
+Jackson,B104,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,242
+Jackson,C101,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,283
+Jackson,C102,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,182
+Jackson,C103,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,139
+Jackson,C104,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,175
+Jackson,ABSENTEE MACHINE,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,141
+Jackson,ABSENTEE PAPER,COUNTY JUDGE / EXECUTIVE,,,Shane GABBARD,70
+Jackson,A101,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,42
+Jackson,A102,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,43
+Jackson,A103,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,37
+Jackson,A104,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,14
+Jackson,A105,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,6
+Jackson,A106,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,16
+Jackson,B101,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,52
+Jackson,B102,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,59
+Jackson,B103,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,52
+Jackson,B104,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,14
+Jackson,C101,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,48
+Jackson,C102,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,48
+Jackson,C103,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,27
+Jackson,C104,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,20
+Jackson,ABSENTEE MACHINE,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,16
+Jackson,ABSENTEE PAPER,COUNTY JUDGE / EXECUTIVE,,IND,Don HAYES,9
+Jackson,A101,COUNTY ATTORNEY,,,Ross E. MURRAY,243
+Jackson,A102,COUNTY ATTORNEY,,,Ross E. MURRAY,226
+Jackson,A103,COUNTY ATTORNEY,,,Ross E. MURRAY,351
+Jackson,A104,COUNTY ATTORNEY,,,Ross E. MURRAY,101
+Jackson,A105,COUNTY ATTORNEY,,,Ross E. MURRAY,75
+Jackson,A106,COUNTY ATTORNEY,,,Ross E. MURRAY,134
+Jackson,B101,COUNTY ATTORNEY,,,Ross E. MURRAY,297
+Jackson,B102,COUNTY ATTORNEY,,,Ross E. MURRAY,511
+Jackson,B103,COUNTY ATTORNEY,,,Ross E. MURRAY,411
+Jackson,B104,COUNTY ATTORNEY,,,Ross E. MURRAY,236
+Jackson,C101,COUNTY ATTORNEY,,,Ross E. MURRAY,281
+Jackson,C102,COUNTY ATTORNEY,,,Ross E. MURRAY,205
+Jackson,C103,COUNTY ATTORNEY,,,Ross E. MURRAY,147
+Jackson,C104,COUNTY ATTORNEY,,,Ross E. MURRAY,178
+Jackson,ABSENTEE MACHINE,COUNTY ATTORNEY,,,Ross E. MURRAY,145
+Jackson,ABSENTEE PAPER,COUNTY ATTORNEY,,,Ross E. MURRAY,73
+Jackson,A101,COUNTY CLERK,,,"Donald ""Duck"" MOORE",253
+Jackson,A102,COUNTY CLERK,,,"Donald ""Duck"" MOORE",243
+Jackson,A103,COUNTY CLERK,,,"Donald ""Duck"" MOORE",351
+Jackson,A104,COUNTY CLERK,,,"Donald ""Duck"" MOORE",104
+Jackson,A105,COUNTY CLERK,,,"Donald ""Duck"" MOORE",81
+Jackson,A106,COUNTY CLERK,,,"Donald ""Duck"" MOORE",127
+Jackson,B101,COUNTY CLERK,,,"Donald ""Duck"" MOORE",309
+Jackson,B102,COUNTY CLERK,,,"Donald ""Duck"" MOORE",504
+Jackson,B103,COUNTY CLERK,,,"Donald ""Duck"" MOORE",415
+Jackson,B104,COUNTY CLERK,,,"Donald ""Duck"" MOORE",236
+Jackson,C101,COUNTY CLERK,,,"Donald ""Duck"" MOORE",309
+Jackson,C102,COUNTY CLERK,,,"Donald ""Duck"" MOORE",207
+Jackson,C103,COUNTY CLERK,,,"Donald ""Duck"" MOORE",156
+Jackson,C104,COUNTY CLERK,,,"Donald ""Duck"" MOORE",183
+Jackson,ABSENTEE MACHINE,COUNTY CLERK,,,"Donald ""Duck"" MOORE",153
+Jackson,ABSENTEE PAPER,COUNTY CLERK,,,"Donald ""Duck"" MOORE",76
+Jackson,A101,SHERIFF,,,Paul S. HAYS,240
+Jackson,A102,SHERIFF,,,Paul S. HAYS,225
+Jackson,A103,SHERIFF,,,Paul S. HAYS,325
+Jackson,A104,SHERIFF,,,Paul S. HAYS,93
+Jackson,A105,SHERIFF,,,Paul S. HAYS,73
+Jackson,A106,SHERIFF,,,Paul S. HAYS,123
+Jackson,B101,SHERIFF,,,Paul S. HAYS,280
+Jackson,B102,SHERIFF,,,Paul S. HAYS,477
+Jackson,B103,SHERIFF,,,Paul S. HAYS,406
+Jackson,B104,SHERIFF,,,Paul S. HAYS,236
+Jackson,C101,SHERIFF,,,Paul S. HAYS,299
+Jackson,C102,SHERIFF,,,Paul S. HAYS,191
+Jackson,C103,SHERIFF,,,Paul S. HAYS,154
+Jackson,C104,SHERIFF,,,Paul S. HAYS,174
+Jackson,ABSENTEE MACHINE,SHERIFF,,,Paul S. HAYS,134
+Jackson,ABSENTEE PAPER,SHERIFF,,,Paul S. HAYS,69
+Jackson,A101,JAILER,,,Brian GABBARD,245
+Jackson,A102,JAILER,,,Brian GABBARD,243
+Jackson,A103,JAILER,,,Brian GABBARD,332
+Jackson,A104,JAILER,,,Brian GABBARD,94
+Jackson,A105,JAILER,,,Brian GABBARD,78
+Jackson,A106,JAILER,,,Brian GABBARD,131
+Jackson,B101,JAILER,,,Brian GABBARD,273
+Jackson,B102,JAILER,,,Brian GABBARD,475
+Jackson,B103,JAILER,,,Brian GABBARD,399
+Jackson,B104,JAILER,,,Brian GABBARD,237
+Jackson,C101,JAILER,,,Brian GABBARD,294
+Jackson,C102,JAILER,,,Brian GABBARD,198
+Jackson,C103,JAILER,,,Brian GABBARD,154
+Jackson,C104,JAILER,,,Brian GABBARD,179
+Jackson,ABSENTEE MACHINE,JAILER,,,Brian GABBARD,141
+Jackson,ABSENTEE PAPER,JAILER,,,Brian GABBARD,71
+Jackson,A101,JAILER,,IND,Jason K. BANKS,28
+Jackson,A102,JAILER,,IND,Jason K. BANKS,30
+Jackson,A103,JAILER,,IND,Jason K. BANKS,41
+Jackson,A104,JAILER,,IND,Jason K. BANKS,13
+Jackson,A105,JAILER,,IND,Jason K. BANKS,4
+Jackson,A106,JAILER,,IND,Jason K. BANKS,7
+Jackson,B101,JAILER,,IND,Jason K. BANKS,61
+Jackson,B102,JAILER,,IND,Jason K. BANKS,55
+Jackson,B103,JAILER,,IND,Jason K. BANKS,48
+Jackson,B104,JAILER,,IND,Jason K. BANKS,16
+Jackson,C101,JAILER,,IND,Jason K. BANKS,33
+Jackson,C102,JAILER,,IND,Jason K. BANKS,29
+Jackson,C103,JAILER,,IND,Jason K. BANKS,13
+Jackson,C104,JAILER,,IND,Jason K. BANKS,17
+Jackson,ABSENTEE MACHINE,JAILER,,IND,Jason K. BANKS,19
+Jackson,ABSENTEE PAPER,JAILER,,IND,Jason K. BANKS,5
+Jackson,A101,CORONER,,,"Melvin ""Blue"" LAKES",258
+Jackson,A102,CORONER,,,"Melvin ""Blue"" LAKES",253
+Jackson,A103,CORONER,,,"Melvin ""Blue"" LAKES",357
+Jackson,A104,CORONER,,,"Melvin ""Blue"" LAKES",107
+Jackson,A105,CORONER,,,"Melvin ""Blue"" LAKES",84
+Jackson,A106,CORONER,,,"Melvin ""Blue"" LAKES",130
+Jackson,B101,CORONER,,,"Melvin ""Blue"" LAKES",310
+Jackson,B102,CORONER,,,"Melvin ""Blue"" LAKES",514
+Jackson,B103,CORONER,,,"Melvin ""Blue"" LAKES",430
+Jackson,B104,CORONER,,,"Melvin ""Blue"" LAKES",245
+Jackson,C101,CORONER,,,"Melvin ""Blue"" LAKES",313
+Jackson,C102,CORONER,,,"Melvin ""Blue"" LAKES",214
+Jackson,C103,CORONER,,,"Melvin ""Blue"" LAKES",154
+Jackson,C104,CORONER,,,"Melvin ""Blue"" LAKES",193
+Jackson,ABSENTEE MACHINE,CORONER,,,"Melvin ""Blue"" LAKES",152
+Jackson,ABSENTEE PAPER,CORONER,,,"Melvin ""Blue"" LAKES",75
+Jackson,A101,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A102,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A103,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A104,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A105,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A106,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,B101,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,B102,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,B103,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,B104,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,C101,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,C102,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,C103,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,C104,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,ABSENTEE MACHINE,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,ABSENTEE PAPER,COUNTY SURVEYOR,,,NO CANDIDATE FILED,0
+Jackson,A101,MAGISTRATE DISTRICT 1,,,Danny TODD,247
+Jackson,A102,MAGISTRATE DISTRICT 1,,,Danny TODD,235
+Jackson,A103,MAGISTRATE DISTRICT 1,,,Danny TODD,349
+Jackson,A104,MAGISTRATE DISTRICT 1,,,Danny TODD,103
+Jackson,A105,MAGISTRATE DISTRICT 1,,,Danny TODD,78
+Jackson,A106,MAGISTRATE DISTRICT 1,,,Danny TODD,125
+Jackson,ABSENTEE MACHINE,MAGISTRATE DISTRICT 1,,,Danny TODD,50
+Jackson,ABSENTEE PAPER,MAGISTRATE DISTRICT 1,,,Danny TODD,32
+Jackson,A101,CONSTABLE DISTRICT 1,,,Johnnie PETERS,255
+Jackson,A102,CONSTABLE DISTRICT 1,,,Johnnie PETERS,253
+Jackson,A103,CONSTABLE DISTRICT 1,,,Johnnie PETERS,350
+Jackson,A104,CONSTABLE DISTRICT 1,,,Johnnie PETERS,101
+Jackson,A105,CONSTABLE DISTRICT 1,,,Johnnie PETERS,79
+Jackson,A106,CONSTABLE DISTRICT 1,,,Johnnie PETERS,131
+Jackson,ABSENTEE MACHINE,CONSTABLE DISTRICT 1,,,Johnnie PETERS,49
+Jackson,ABSENTEE PAPER,CONSTABLE DISTRICT 1,,,Johnnie PETERS,31
+Jackson,B101,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,281
+Jackson,B102,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,484
+Jackson,B103,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,393
+Jackson,B104,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,224
+Jackson,ABSENTEE MACHINE,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,63
+Jackson,ABSENTEE PAPER,MAGISTRATE DISTRICT 2,,,Dale VAUGHN,27
+Jackson,B101,CONSTABLE DISTRICT 2,,,Steve GILL,296
+Jackson,B102,CONSTABLE DISTRICT 2,,,Steve GILL,511
+Jackson,B103,CONSTABLE DISTRICT 2,,,Steve GILL,411
+Jackson,B104,CONSTABLE DISTRICT 2,,,Steve GILL,235
+Jackson,ABSENTEE MACHINE,CONSTABLE DISTRICT 2,,,Steve GILL,67
+Jackson,ABSENTEE PAPER,CONSTABLE DISTRICT 2,,,Steve GILL,30
+Jackson,C101,MAGISTRATE DISTRICT 3,,,Garvin BAKER,307
+Jackson,C102,MAGISTRATE DISTRICT 3,,,Garvin BAKER,205
+Jackson,C103,MAGISTRATE DISTRICT 3,,,Garvin BAKER,146
+Jackson,C104,MAGISTRATE DISTRICT 3,,,Garvin BAKER,187
+Jackson,ABSENTEE MACHINE,MAGISTRATE DISTRICT 3,,,Garvin BAKER,29
+Jackson,ABSENTEE PAPER,MAGISTRATE DISTRICT 3,,,Garvin BAKER,13
+Jackson,C101,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",285
+Jackson,C102,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",200
+Jackson,C103,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",147
+Jackson,C104,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",172
+Jackson,ABSENTEE MACHINE,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",27
+Jackson,ABSENTEE PAPER,CONSTABLE DISTRICT 3,,,"Billy ""Buck"" ABNER",12
+Jackson,A101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,115
+Jackson,A102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,122
+Jackson,A103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,159
+Jackson,A104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,39
+Jackson,A105,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,34
+Jackson,A106,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,74
+Jackson,B101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,134
+Jackson,B102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,250
+Jackson,B103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,171
+Jackson,B104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,97
+Jackson,C101,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,150
+Jackson,C102,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,108
+Jackson,C103,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,58
+Jackson,C104,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,76
+Jackson,ABSENTEE MACHINE,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,71
+Jackson,ABSENTEE PAPER,Justice of the Supreme Court, 3rd Supreme Court District,,Debra Hembree LAMBERT,40
+Jackson,A101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,61
+Jackson,A102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,56
+Jackson,A103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,82
+Jackson,A104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,23
+Jackson,A105,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,8
+Jackson,A106,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,30
+Jackson,B101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,87
+Jackson,B102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,123
+Jackson,B103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,119
+Jackson,B104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,63
+Jackson,C101,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,73
+Jackson,C102,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,42
+Jackson,C103,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,36
+Jackson,C104,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,53
+Jackson,ABSENTEE MACHINE,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,41
+Jackson,ABSENTEE PAPER,Justice of the Supreme Court, 3rd Supreme Court District,,Dan BALLOU,19
+Jackson,A101,District Judge, 41st Judicial District,,Allen B. ROBERTS,206
+Jackson,A102,District Judge, 41st Judicial District,,Allen B. ROBERTS,206
+Jackson,A103,District Judge, 41st Judicial District,,Allen B. ROBERTS,286
+Jackson,A104,District Judge, 41st Judicial District,,Allen B. ROBERTS,78
+Jackson,A105,District Judge, 41st Judicial District,,Allen B. ROBERTS,51
+Jackson,A106,District Judge, 41st Judicial District,,Allen B. ROBERTS,117
+Jackson,B101,District Judge, 41st Judicial District,,Allen B. ROBERTS,254
+Jackson,B102,District Judge, 41st Judicial District,,Allen B. ROBERTS,417
+Jackson,B103,District Judge, 41st Judicial District,,Allen B. ROBERTS,306
+Jackson,B104,District Judge, 41st Judicial District,,Allen B. ROBERTS,175
+Jackson,C101,District Judge, 41st Judicial District,,Allen B. ROBERTS,238
+Jackson,C102,District Judge, 41st Judicial District,,Allen B. ROBERTS,170
+Jackson,C103,District Judge, 41st Judicial District,,Allen B. ROBERTS,100
+Jackson,C104,District Judge, 41st Judicial District,,Allen B. ROBERTS,136
+Jackson,ABSENTEE MACHINE,District Judge, 41st Judicial District,,Allen B. ROBERTS,112
+Jackson,ABSENTEE PAPER,District Judge, 41st Judicial District,,Allen B. ROBERTS,50
+Jackson,A101,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,179
+Jackson,A102,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,169
+Jackson,A103,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,246
+Jackson,A104,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,59
+Jackson,A105,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,41
+Jackson,A106,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,101
+Jackson,B101,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,211
+Jackson,B102,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,352
+Jackson,B103,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,263
+Jackson,B104,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,150
+Jackson,C101,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,211
+Jackson,C102,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,154
+Jackson,C103,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,85
+Jackson,C104,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,123
+Jackson,ABSENTEE MACHINE,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,94
+Jackson,ABSENTEE PAPER,District Judge, 41st Judicial District,,Henria BAILEY-LEWIS,49
+Jackson,A101,McKEE MAYOR,,,Kernel BANKS,1
+Jackson,A102,McKEE MAYOR,,,Kernel BANKS,0
+Jackson,ABSENTEE MACHINE,McKEE MAYOR,,,Kernel BANKS,0
+Jackson,ABSENTEE PAPER,McKEE MAYOR,,,Kernel BANKS,0
+Jackson,A101,McKEE MAYOR,,,Rodney HARRISON,1
+Jackson,A102,McKEE MAYOR,,,Rodney HARRISON,7
+Jackson,ABSENTEE MACHINE,McKEE MAYOR,,,Rodney HARRISON,0
+Jackson,ABSENTEE PAPER,McKEE MAYOR,,,Rodney HARRISON,0
+Jackson,A101,McKEE MAYOR,,,John TOMPKINS,26
+Jackson,A102,McKEE MAYOR,,,John TOMPKINS,50
+Jackson,ABSENTEE MACHINE,McKEE MAYOR,,,John TOMPKINS,9
+Jackson,ABSENTEE PAPER,McKEE MAYOR,,,John TOMPKINS,7
+Jackson,A101,McKEE MAYOR,,,Michael STIDHAM,41
+Jackson,A102,McKEE MAYOR,,,Michael STIDHAM,42
+Jackson,ABSENTEE MACHINE,McKEE MAYOR,,,Michael STIDHAM,2
+Jackson,ABSENTEE PAPER,McKEE MAYOR,,,Michael STIDHAM,4
+Jackson,A101,McKEE CITY COUNCIL,,,Mary Ruth ISAACS,38
+Jackson,A102,McKEE CITY COUNCIL,,,Mary Ruth ISAACS,59
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,Mary Ruth ISAACS,8
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,Mary Ruth ISAACS,10
+Jackson,A101,McKEE CITY COUNCIL,,,Cathy HOWELL,40
+Jackson,A102,McKEE CITY COUNCIL,,,Cathy HOWELL,39
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,Cathy HOWELL,8
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,Cathy HOWELL,8
+Jackson,A101,McKEE CITY COUNCIL,,,Jewell GABBARD,44
+Jackson,A102,McKEE CITY COUNCIL,,,Jewell GABBARD,65
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,Jewell GABBARD,9
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,Jewell GABBARD,9
+Jackson,A101,McKEE CITY COUNCIL,,,Joe McKINNEY,34
+Jackson,A102,McKEE CITY COUNCIL,,,Joe McKINNEY,45
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,Joe McKINNEY,6
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,Joe McKINNEY,8
+Jackson,A101,McKEE CITY COUNCIL,,,Vickie Minter GABBARD,39
+Jackson,A102,McKEE CITY COUNCIL,,,Vickie Minter GABBARD,45
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,Vickie Minter GABBARD,8
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,Vickie Minter GABBARD,8
+Jackson,A101,McKEE CITY COUNCIL,,,NO CANDIDATE FILED,0
+Jackson,A102,McKEE CITY COUNCIL,,,NO CANDIDATE FILED,0
+Jackson,ABSENTEE MACHINE,McKEE CITY COUNCIL,,,NO CANDIDATE FILED,0
+Jackson,ABSENTEE PAPER,McKEE CITY COUNCIL,,,NO CANDIDATE FILED,0
+Jackson,B102,SCHOOL BOARD DISTRICT 3,,,Debbie NICHOLSON,418
+Jackson,B103,SCHOOL BOARD DISTRICT 3,,,Debbie NICHOLSON,356
+Jackson,ABSENTEE MACHINE,SCHOOL BOARD DISTRICT 3,,,Debbie NICHOLSON,28
+Jackson,ABSENTEE PAPER,SCHOOL BOARD DISTRICT 3,,,Debbie NICHOLSON,15
+Jackson,A102,SCHOOL BOARD DISTRICT 4,,,Gary SEALS,162
+Jackson,B104,SCHOOL BOARD DISTRICT 4,,,Gary SEALS,187
+Jackson,ABSENTEE MACHINE,SCHOOL BOARD DISTRICT 4,,,Gary SEALS,14
+Jackson,ABSENTEE PAPER,SCHOOL BOARD DISTRICT 4,,,Gary SEALS,9
+Jackson,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,102
+Jackson,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,121
+Jackson,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,150
+Jackson,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,52
+Jackson,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,40
+Jackson,A106,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,59
+Jackson,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,119
+Jackson,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,209
+Jackson,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,157
+Jackson,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,85
+Jackson,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,143
+Jackson,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,87
+Jackson,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,81
+Jackson,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,60
+Jackson,ABSENTEE MACHINE,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,113
+Jackson,ABSENTEE PAPER,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,55
+Jackson,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,128
+Jackson,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,105
+Jackson,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,176
+Jackson,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,41
+Jackson,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,33
+Jackson,A106,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,66
+Jackson,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,173
+Jackson,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,251
+Jackson,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,227
+Jackson,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,137
+Jackson,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,138
+Jackson,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,97
+Jackson,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,59
+Jackson,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,109
+Jackson,ABSENTEE MACHINE,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,20
+Jackson,ABSENTEE PAPER,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,9
