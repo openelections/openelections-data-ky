@@ -1,0 +1,774 @@
+county,precinct,office,district,party,candidate,votes
+Montgomery,AB,U.S. House,6,REP,Andy BARR,320
+Montgomery,A101,U.S. House,6,REP,Andy BARR,143
+Montgomery,A102,U.S. House,6,REP,Andy BARR,201
+Montgomery,A103,U.S. House,6,REP,Andy BARR,321
+Montgomery,A104,U.S. House,6,REP,Andy BARR,287
+Montgomery,A105,U.S. House,6,REP,Andy BARR,47
+Montgomery,A106,U.S. House,6,REP,Andy BARR,290
+Montgomery,B101,U.S. House,6,REP,Andy BARR,436
+Montgomery,B102,U.S. House,6,REP,Andy BARR,474
+Montgomery,B103,U.S. House,6,REP,Andy BARR,362
+Montgomery,B104,U.S. House,6,REP,Andy BARR,400
+Montgomery,B105,U.S. House,6,REP,Andy BARR,423
+Montgomery,B107,U.S. House,6,REP,Andy BARR,470
+Montgomery,B108,U.S. House,6,REP,Andy BARR,433
+Montgomery,C101,U.S. House,6,REP,Andy BARR,266
+Montgomery,C102,U.S. House,6,REP,Andy BARR,440
+Montgomery,C103,U.S. House,6,REP,Andy BARR,601
+Montgomery,C104,U.S. House,6,REP,Andy BARR,388
+Montgomery,C105,U.S. House,6,REP,Andy BARR,182
+Montgomery,AB,U.S. House,6,DEM,Amy McGRATH,205
+Montgomery,A101,U.S. House,6,DEM,Amy McGRATH,115
+Montgomery,A102,U.S. House,6,DEM,Amy McGRATH,203
+Montgomery,A103,U.S. House,6,DEM,Amy McGRATH,221
+Montgomery,A104,U.S. House,6,DEM,Amy McGRATH,178
+Montgomery,A105,U.S. House,6,DEM,Amy McGRATH,129
+Montgomery,A106,U.S. House,6,DEM,Amy McGRATH,216
+Montgomery,B101,U.S. House,6,DEM,Amy McGRATH,167
+Montgomery,B102,U.S. House,6,DEM,Amy McGRATH,216
+Montgomery,B103,U.S. House,6,DEM,Amy McGRATH,197
+Montgomery,B104,U.S. House,6,DEM,Amy McGRATH,245
+Montgomery,B105,U.S. House,6,DEM,Amy McGRATH,154
+Montgomery,B107,U.S. House,6,DEM,Amy McGRATH,194
+Montgomery,B108,U.S. House,6,DEM,Amy McGRATH,212
+Montgomery,C101,U.S. House,6,DEM,Amy McGRATH,104
+Montgomery,C102,U.S. House,6,DEM,Amy McGRATH,281
+Montgomery,C103,U.S. House,6,DEM,Amy McGRATH,274
+Montgomery,C104,U.S. House,6,DEM,Amy McGRATH,222
+Montgomery,C105,U.S. House,6,DEM,Amy McGRATH,128
+Montgomery,AB,U.S. House,6,LIB,Frank HARRIS,2
+Montgomery,A101,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,A102,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,A103,U.S. House,6,LIB,Frank HARRIS,9
+Montgomery,A104,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,A105,U.S. House,6,LIB,Frank HARRIS,0
+Montgomery,A106,U.S. House,6,LIB,Frank HARRIS,7
+Montgomery,B101,U.S. House,6,LIB,Frank HARRIS,1
+Montgomery,B102,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,B103,U.S. House,6,LIB,Frank HARRIS,4
+Montgomery,B104,U.S. House,6,LIB,Frank HARRIS,1
+Montgomery,B105,U.S. House,6,LIB,Frank HARRIS,4
+Montgomery,B107,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,B108,U.S. House,6,LIB,Frank HARRIS,6
+Montgomery,C101,U.S. House,6,LIB,Frank HARRIS,4
+Montgomery,C102,U.S. House,6,LIB,Frank HARRIS,6
+Montgomery,C103,U.S. House,6,LIB,Frank HARRIS,6
+Montgomery,C104,U.S. House,6,LIB,Frank HARRIS,6
+Montgomery,C105,U.S. House,6,LIB,Frank HARRIS,3
+Montgomery,AB,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,A101,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,A102,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,A103,U.S. House,6,IND,Rikka L. WALLIN,1
+Montgomery,A104,U.S. House,6,IND,Rikka L. WALLIN,1
+Montgomery,A105,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,A106,U.S. House,6,IND,Rikka L. WALLIN,3
+Montgomery,B101,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,B102,U.S. House,6,IND,Rikka L. WALLIN,3
+Montgomery,B103,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,B104,U.S. House,6,IND,Rikka L. WALLIN,3
+Montgomery,B105,U.S. House,6,IND,Rikka L. WALLIN,1
+Montgomery,B107,U.S. House,6,IND,Rikka L. WALLIN,3
+Montgomery,B108,U.S. House,6,IND,Rikka L. WALLIN,1
+Montgomery,C101,U.S. House,6,IND,Rikka L. WALLIN,1
+Montgomery,C102,U.S. House,6,IND,Rikka L. WALLIN,0
+Montgomery,C103,U.S. House,6,IND,Rikka L. WALLIN,4
+Montgomery,C104,U.S. House,6,IND,Rikka L. WALLIN,4
+Montgomery,C105,U.S. House,6,IND,Rikka L. WALLIN,3
+Montgomery,AB,U.S. House,6,IND,James GERMALIC,0
+Montgomery,A101,U.S. House,6,IND,James GERMALIC,0
+Montgomery,A102,U.S. House,6,IND,James GERMALIC,1
+Montgomery,A103,U.S. House,6,IND,James GERMALIC,1
+Montgomery,A104,U.S. House,6,IND,James GERMALIC,2
+Montgomery,A105,U.S. House,6,IND,James GERMALIC,0
+Montgomery,A106,U.S. House,6,IND,James GERMALIC,3
+Montgomery,B101,U.S. House,6,IND,James GERMALIC,1
+Montgomery,B102,U.S. House,6,IND,James GERMALIC,2
+Montgomery,B103,U.S. House,6,IND,James GERMALIC,2
+Montgomery,B104,U.S. House,6,IND,James GERMALIC,1
+Montgomery,B105,U.S. House,6,IND,James GERMALIC,1
+Montgomery,B107,U.S. House,6,IND,James GERMALIC,5
+Montgomery,B108,U.S. House,6,IND,James GERMALIC,3
+Montgomery,C101,U.S. House,6,IND,James GERMALIC,2
+Montgomery,C102,U.S. House,6,IND,James GERMALIC,1
+Montgomery,C103,U.S. House,6,IND,James GERMALIC,3
+Montgomery,C104,U.S. House,6,IND,James GERMALIC,3
+Montgomery,C105,U.S. House,6,IND,James GERMALIC,3
+Montgomery,AB,State Senator,28,REP,Ralph ALVARADO,330
+Montgomery,A101,State Senator,28,REP,Ralph ALVARADO,153
+Montgomery,A102,State Senator,28,REP,Ralph ALVARADO,203
+Montgomery,A103,State Senator,28,REP,Ralph ALVARADO,337
+Montgomery,A104,State Senator,28,REP,Ralph ALVARADO,264
+Montgomery,A105,State Senator,28,REP,Ralph ALVARADO,52
+Montgomery,A106,State Senator,28,REP,Ralph ALVARADO,290
+Montgomery,B101,State Senator,28,REP,Ralph ALVARADO,441
+Montgomery,B102,State Senator,28,REP,Ralph ALVARADO,461
+Montgomery,B103,State Senator,28,REP,Ralph ALVARADO,361
+Montgomery,B104,State Senator,28,REP,Ralph ALVARADO,413
+Montgomery,B105,State Senator,28,REP,Ralph ALVARADO,406
+Montgomery,B107,State Senator,28,REP,Ralph ALVARADO,467
+Montgomery,B108,State Senator,28,REP,Ralph ALVARADO,434
+Montgomery,C101,State Senator,28,REP,Ralph ALVARADO,252
+Montgomery,C102,State Senator,28,REP,Ralph ALVARADO,432
+Montgomery,C103,State Senator,28,REP,Ralph ALVARADO,606
+Montgomery,C104,State Senator,28,REP,Ralph ALVARADO,378
+Montgomery,C105,State Senator,28,REP,Ralph ALVARADO,189
+Montgomery,AB,State Senator,28,DEM,Denise GRAY,188
+Montgomery,A101,State Senator,28,DEM,Denise GRAY,108
+Montgomery,A102,State Senator,28,DEM,Denise GRAY,196
+Montgomery,A103,State Senator,28,DEM,Denise GRAY,206
+Montgomery,A104,State Senator,28,DEM,Denise GRAY,195
+Montgomery,A105,State Senator,28,DEM,Denise GRAY,120
+Montgomery,A106,State Senator,28,DEM,Denise GRAY,214
+Montgomery,B101,State Senator,28,DEM,Denise GRAY,155
+Montgomery,B102,State Senator,28,DEM,Denise GRAY,222
+Montgomery,B103,State Senator,28,DEM,Denise GRAY,196
+Montgomery,B104,State Senator,28,DEM,Denise GRAY,229
+Montgomery,B105,State Senator,28,DEM,Denise GRAY,161
+Montgomery,B107,State Senator,28,DEM,Denise GRAY,187
+Montgomery,B108,State Senator,28,DEM,Denise GRAY,208
+Montgomery,C101,State Senator,28,DEM,Denise GRAY,108
+Montgomery,C102,State Senator,28,DEM,Denise GRAY,288
+Montgomery,C103,State Senator,28,DEM,Denise GRAY,272
+Montgomery,C104,State Senator,28,DEM,Denise GRAY,236
+Montgomery,C105,State Senator,28,DEM,Denise GRAY,128
+Montgomery,AB,State Representative,74,REP,David HALE,280
+Montgomery,A101,State Representative,74,REP,David HALE,117
+Montgomery,A102,State Representative,74,REP,David HALE,159
+Montgomery,A103,State Representative,74,REP,David HALE,262
+Montgomery,A104,State Representative,74,REP,David HALE,228
+Montgomery,A105,State Representative,74,REP,David HALE,47
+Montgomery,A106,State Representative,74,REP,David HALE,237
+Montgomery,B101,State Representative,74,REP,David HALE,351
+Montgomery,B102,State Representative,74,REP,David HALE,348
+Montgomery,B103,State Representative,74,REP,David HALE,297
+Montgomery,B104,State Representative,74,REP,David HALE,323
+Montgomery,B105,State Representative,74,REP,David HALE,323
+Montgomery,B107,State Representative,74,REP,David HALE,384
+Montgomery,B108,State Representative,74,REP,David HALE,342
+Montgomery,C101,State Representative,74,REP,David HALE,206
+Montgomery,C102,State Representative,74,REP,David HALE,360
+Montgomery,C103,State Representative,74,REP,David HALE,497
+Montgomery,C104,State Representative,74,REP,David HALE,307
+Montgomery,C105,State Representative,74,REP,David HALE,155
+Montgomery,AB,State Representative,74,DEM,James E. DAVIS,241
+Montgomery,A101,State Representative,74,DEM,James E. DAVIS,143
+Montgomery,A102,State Representative,74,DEM,James E. DAVIS,242
+Montgomery,A103,State Representative,74,DEM,James E. DAVIS,290
+Montgomery,A104,State Representative,74,DEM,James E. DAVIS,236
+Montgomery,A105,State Representative,74,DEM,James E. DAVIS,124
+Montgomery,A106,State Representative,74,DEM,James E. DAVIS,274
+Montgomery,B101,State Representative,74,DEM,James E. DAVIS,247
+Montgomery,B102,State Representative,74,DEM,James E. DAVIS,342
+Montgomery,B103,State Representative,74,DEM,James E. DAVIS,266
+Montgomery,B104,State Representative,74,DEM,James E. DAVIS,326
+Montgomery,B105,State Representative,74,DEM,James E. DAVIS,258
+Montgomery,B107,State Representative,74,DEM,James E. DAVIS,290
+Montgomery,B108,State Representative,74,DEM,James E. DAVIS,309
+Montgomery,C101,State Representative,74,DEM,James E. DAVIS,173
+Montgomery,C102,State Representative,74,DEM,James E. DAVIS,362
+Montgomery,C103,State Representative,74,DEM,James E. DAVIS,378
+Montgomery,C104,State Representative,74,DEM,James E. DAVIS,311
+Montgomery,C105,State Representative,74,DEM,James E. DAVIS,159
+Montgomery,AB,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,308
+Montgomery,A101,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,173
+Montgomery,A102,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,270
+Montgomery,A103,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,354
+Montgomery,A104,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,337
+Montgomery,A105,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,145
+Montgomery,A106,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,363
+Montgomery,B101,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,364
+Montgomery,B102,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,453
+Montgomery,B103,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,342
+Montgomery,B104,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,419
+Montgomery,B105,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,348
+Montgomery,B107,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,416
+Montgomery,B108,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,443
+Montgomery,C101,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,223
+Montgomery,C102,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,495
+Montgomery,C103,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,555
+Montgomery,C104,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,418
+Montgomery,C105,Commonwealth's Attorney, 21st Judicial Circuit,DEM,Ronnie L. GOLDY JR.,226
+Montgomery,AB,CIRCUIT CLERK,,DEM,Tanya P. TERRY,346
+Montgomery,A101,CIRCUIT CLERK,,DEM,Tanya P. TERRY,185
+Montgomery,A102,CIRCUIT CLERK,,DEM,Tanya P. TERRY,295
+Montgomery,A103,CIRCUIT CLERK,,DEM,Tanya P. TERRY,383
+Montgomery,A104,CIRCUIT CLERK,,DEM,Tanya P. TERRY,349
+Montgomery,A105,CIRCUIT CLERK,,DEM,Tanya P. TERRY,150
+Montgomery,A106,CIRCUIT CLERK,,DEM,Tanya P. TERRY,384
+Montgomery,B101,CIRCUIT CLERK,,DEM,Tanya P. TERRY,403
+Montgomery,B102,CIRCUIT CLERK,,DEM,Tanya P. TERRY,481
+Montgomery,B103,CIRCUIT CLERK,,DEM,Tanya P. TERRY,373
+Montgomery,B104,CIRCUIT CLERK,,DEM,Tanya P. TERRY,443
+Montgomery,B105,CIRCUIT CLERK,,DEM,Tanya P. TERRY,370
+Montgomery,B107,CIRCUIT CLERK,,DEM,Tanya P. TERRY,443
+Montgomery,B108,CIRCUIT CLERK,,DEM,Tanya P. TERRY,478
+Montgomery,C101,CIRCUIT CLERK,,DEM,Tanya P. TERRY,238
+Montgomery,C102,CIRCUIT CLERK,,DEM,Tanya P. TERRY,513
+Montgomery,C103,CIRCUIT CLERK,,DEM,Tanya P. TERRY,600
+Montgomery,C104,CIRCUIT CLERK,,DEM,Tanya P. TERRY,459
+Montgomery,C105,CIRCUIT CLERK,,DEM,Tanya P. TERRY,243
+Montgomery,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,334
+Montgomery,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,181
+Montgomery,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,291
+Montgomery,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,377
+Montgomery,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,336
+Montgomery,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,149
+Montgomery,A106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,382
+Montgomery,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,388
+Montgomery,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,467
+Montgomery,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,360
+Montgomery,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,439
+Montgomery,B105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,348
+Montgomery,B107,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,450
+Montgomery,B108,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,452
+Montgomery,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,241
+Montgomery,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,508
+Montgomery,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,598
+Montgomery,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,441
+Montgomery,C105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Floyd ARNOLD,224
+Montgomery,AB,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,251
+Montgomery,A101,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,119
+Montgomery,A102,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,179
+Montgomery,A103,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,251
+Montgomery,A104,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,205
+Montgomery,A105,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,47
+Montgomery,A106,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,194
+Montgomery,B101,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,270
+Montgomery,B102,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,280
+Montgomery,B103,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,241
+Montgomery,B104,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,272
+Montgomery,B105,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,272
+Montgomery,B107,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,247
+Montgomery,B108,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,267
+Montgomery,C101,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,139
+Montgomery,C102,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,305
+Montgomery,C103,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,446
+Montgomery,C104,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,246
+Montgomery,C105,COUNTY JUDGE/EXECUTIVE,,REP,Greg GARLAND,111
+Montgomery,AB,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",261
+Montgomery,A101,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",140
+Montgomery,A102,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",213
+Montgomery,A103,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",292
+Montgomery,A104,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",258
+Montgomery,A105,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",124
+Montgomery,A106,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",307
+Montgomery,B101,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",319
+Montgomery,B102,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",401
+Montgomery,B103,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",313
+Montgomery,B104,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",368
+Montgomery,B105,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",298
+Montgomery,B107,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",423
+Montgomery,B108,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",372
+Montgomery,C101,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",237
+Montgomery,C102,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",403
+Montgomery,C103,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",414
+Montgomery,C104,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",363
+Montgomery,C105,COUNTY JUDGE/EXECUTIVE,,DEM,"Wallace ""Wally"" JOHNSON",203
+Montgomery,AB,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,343
+Montgomery,A101,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,186
+Montgomery,A102,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,290
+Montgomery,A103,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,379
+Montgomery,A104,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,347
+Montgomery,A105,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,146
+Montgomery,A106,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,382
+Montgomery,B101,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,406
+Montgomery,B102,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,485
+Montgomery,B103,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,360
+Montgomery,B104,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,443
+Montgomery,B105,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,348
+Montgomery,B107,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,447
+Montgomery,B108,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,463
+Montgomery,C101,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,242
+Montgomery,C102,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,500
+Montgomery,C103,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,595
+Montgomery,C104,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,441
+Montgomery,C105,COUNTY ATTORNEY,,DEM,Kevin Clay COCKRELL,229
+Montgomery,AB,COUNTY CLERK,,REP,Chris COCKRELL,410
+Montgomery,A101,COUNTY CLERK,,REP,Chris COCKRELL,202
+Montgomery,A102,COUNTY CLERK,,REP,Chris COCKRELL,306
+Montgomery,A103,COUNTY CLERK,,REP,Chris COCKRELL,415
+Montgomery,A104,COUNTY CLERK,,REP,Chris COCKRELL,357
+Montgomery,A105,COUNTY CLERK,,REP,Chris COCKRELL,113
+Montgomery,A106,COUNTY CLERK,,REP,Chris COCKRELL,386
+Montgomery,B101,COUNTY CLERK,,REP,Chris COCKRELL,465
+Montgomery,B102,COUNTY CLERK,,REP,Chris COCKRELL,534
+Montgomery,B103,COUNTY CLERK,,REP,Chris COCKRELL,404
+Montgomery,B104,COUNTY CLERK,,REP,Chris COCKRELL,508
+Montgomery,B105,COUNTY CLERK,,REP,Chris COCKRELL,433
+Montgomery,B107,COUNTY CLERK,,REP,Chris COCKRELL,516
+Montgomery,B108,COUNTY CLERK,,REP,Chris COCKRELL,520
+Montgomery,C101,COUNTY CLERK,,REP,Chris COCKRELL,277
+Montgomery,C102,COUNTY CLERK,,REP,Chris COCKRELL,551
+Montgomery,C103,COUNTY CLERK,,REP,Chris COCKRELL,700
+Montgomery,C104,COUNTY CLERK,,REP,Chris COCKRELL,472
+Montgomery,C105,COUNTY CLERK,,REP,Chris COCKRELL,251
+Montgomery,AB,SHERIFF,,REP,David CHARLES,347
+Montgomery,A101,SHERIFF,,REP,David CHARLES,171
+Montgomery,A102,SHERIFF,,REP,David CHARLES,275
+Montgomery,A103,SHERIFF,,REP,David CHARLES,368
+Montgomery,A104,SHERIFF,,REP,David CHARLES,288
+Montgomery,A105,SHERIFF,,REP,David CHARLES,48
+Montgomery,A106,SHERIFF,,REP,David CHARLES,293
+Montgomery,B101,SHERIFF,,REP,David CHARLES,359
+Montgomery,B102,SHERIFF,,REP,David CHARLES,355
+Montgomery,B103,SHERIFF,,REP,David CHARLES,311
+Montgomery,B104,SHERIFF,,REP,David CHARLES,431
+Montgomery,B105,SHERIFF,,REP,David CHARLES,390
+Montgomery,B107,SHERIFF,,REP,David CHARLES,345
+Montgomery,B108,SHERIFF,,REP,David CHARLES,417
+Montgomery,C101,SHERIFF,,REP,David CHARLES,220
+Montgomery,C102,SHERIFF,,REP,David CHARLES,426
+Montgomery,C103,SHERIFF,,REP,David CHARLES,589
+Montgomery,C104,SHERIFF,,REP,David CHARLES,387
+Montgomery,C105,SHERIFF,,REP,David CHARLES,182
+Montgomery,AB,SHERIFF,,DEM,Kevin W. CARROLL,159
+Montgomery,A101,SHERIFF,,DEM,Kevin W. CARROLL,84
+Montgomery,A102,SHERIFF,,DEM,Kevin W. CARROLL,121
+Montgomery,A103,SHERIFF,,DEM,Kevin W. CARROLL,175
+Montgomery,A104,SHERIFF,,DEM,Kevin W. CARROLL,177
+Montgomery,A105,SHERIFF,,DEM,Kevin W. CARROLL,125
+Montgomery,A106,SHERIFF,,DEM,Kevin W. CARROLL,213
+Montgomery,B101,SHERIFF,,DEM,Kevin W. CARROLL,226
+Montgomery,B102,SHERIFF,,DEM,Kevin W. CARROLL,335
+Montgomery,B103,SHERIFF,,DEM,Kevin W. CARROLL,249
+Montgomery,B104,SHERIFF,,DEM,Kevin W. CARROLL,208
+Montgomery,B105,SHERIFF,,DEM,Kevin W. CARROLL,177
+Montgomery,B107,SHERIFF,,DEM,Kevin W. CARROLL,328
+Montgomery,B108,SHERIFF,,DEM,Kevin W. CARROLL,233
+Montgomery,C101,SHERIFF,,DEM,Kevin W. CARROLL,157
+Montgomery,C102,SHERIFF,,DEM,Kevin W. CARROLL,284
+Montgomery,C103,SHERIFF,,DEM,Kevin W. CARROLL,283
+Montgomery,C104,SHERIFF,,DEM,Kevin W. CARROLL,229
+Montgomery,C105,SHERIFF,,DEM,Kevin W. CARROLL,128
+Montgomery,AB,JAILER,,DEM,Eric JONES,350
+Montgomery,A101,JAILER,,DEM,Eric JONES,180
+Montgomery,A102,JAILER,,DEM,Eric JONES,290
+Montgomery,A103,JAILER,,DEM,Eric JONES,384
+Montgomery,A104,JAILER,,DEM,Eric JONES,348
+Montgomery,A105,JAILER,,DEM,Eric JONES,144
+Montgomery,A106,JAILER,,DEM,Eric JONES,375
+Montgomery,B101,JAILER,,DEM,Eric JONES,393
+Montgomery,B102,JAILER,,DEM,Eric JONES,484
+Montgomery,B103,JAILER,,DEM,Eric JONES,367
+Montgomery,B104,JAILER,,DEM,Eric JONES,443
+Montgomery,B105,JAILER,,DEM,Eric JONES,357
+Montgomery,B107,JAILER,,DEM,Eric JONES,440
+Montgomery,B108,JAILER,,DEM,Eric JONES,481
+Montgomery,C101,JAILER,,DEM,Eric JONES,239
+Montgomery,C102,JAILER,,DEM,Eric JONES,537
+Montgomery,C103,JAILER,,DEM,Eric JONES,623
+Montgomery,C104,JAILER,,DEM,Eric JONES,461
+Montgomery,C105,JAILER,,DEM,Eric JONES,236
+Montgomery,AB,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",327
+Montgomery,A101,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",182
+Montgomery,A102,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",284
+Montgomery,A103,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",362
+Montgomery,A104,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",334
+Montgomery,A105,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",150
+Montgomery,A106,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",369
+Montgomery,B101,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",358
+Montgomery,B102,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",443
+Montgomery,B103,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",350
+Montgomery,B104,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",425
+Montgomery,B105,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",341
+Montgomery,B107,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",414
+Montgomery,B108,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",435
+Montgomery,C101,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",224
+Montgomery,C102,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",491
+Montgomery,C103,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",563
+Montgomery,C104,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",418
+Montgomery,C105,COUNTY COMMISSIONER 1st District,,DEM,"Jack ""Rackle"" ADAMS",226
+Montgomery,AB,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,207
+Montgomery,A101,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,86
+Montgomery,A102,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,141
+Montgomery,A103,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,199
+Montgomery,A104,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,189
+Montgomery,A105,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,43
+Montgomery,A106,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,206
+Montgomery,B101,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,277
+Montgomery,B102,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,318
+Montgomery,B103,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,258
+Montgomery,B104,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,256
+Montgomery,B105,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,244
+Montgomery,B107,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,312
+Montgomery,B108,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,259
+Montgomery,C101,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,168
+Montgomery,C102,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,298
+Montgomery,C103,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,382
+Montgomery,C104,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,249
+Montgomery,C105,COUNTY COMMISSIONER 2nd District,,REP,Bobby STINNETT,135
+Montgomery,AB,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,291
+Montgomery,A101,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,158
+Montgomery,A102,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,251
+Montgomery,A103,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,328
+Montgomery,A104,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,261
+Montgomery,A105,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,126
+Montgomery,A106,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,287
+Montgomery,B101,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,282
+Montgomery,B102,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,325
+Montgomery,B103,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,269
+Montgomery,B104,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,359
+Montgomery,B105,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,302
+Montgomery,B107,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,307
+Montgomery,B108,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,354
+Montgomery,C101,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,184
+Montgomery,C102,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,396
+Montgomery,C103,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,480
+Montgomery,C104,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,351
+Montgomery,C105,COUNTY COMMISSIONER 2nd District,,DEM,Billy Ray FAWNS,174
+Montgomery,AB,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,199
+Montgomery,A101,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,77
+Montgomery,A102,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,123
+Montgomery,A103,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,187
+Montgomery,A104,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,178
+Montgomery,A105,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,36
+Montgomery,A106,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,190
+Montgomery,B101,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,245
+Montgomery,B102,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,267
+Montgomery,B103,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,246
+Montgomery,B104,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,234
+Montgomery,B105,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,230
+Montgomery,B107,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,273
+Montgomery,B108,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,249
+Montgomery,C101,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,152
+Montgomery,C102,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,293
+Montgomery,C103,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,366
+Montgomery,C104,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,215
+Montgomery,C105,COUNTY COMMISSIONER 3rd District,,REP,Stephen CHALLIS,118
+Montgomery,AB,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,293
+Montgomery,A101,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,161
+Montgomery,A102,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,255
+Montgomery,A103,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,317
+Montgomery,A104,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,258
+Montgomery,A105,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,131
+Montgomery,A106,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,280
+Montgomery,B101,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,309
+Montgomery,B102,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,395
+Montgomery,B103,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,280
+Montgomery,B104,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,357
+Montgomery,B105,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,286
+Montgomery,B107,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,370
+Montgomery,B108,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,357
+Montgomery,C101,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,187
+Montgomery,C102,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,371
+Montgomery,C103,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,437
+Montgomery,C104,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,365
+Montgomery,C105,COUNTY COMMISSIONER 3rd District,,DEM,Melody Jo TOWNSEND,184
+Montgomery,AB,CORONER,,DEM,Jimmy A. ADAMS,337
+Montgomery,A101,CORONER,,DEM,Jimmy A. ADAMS,194
+Montgomery,A102,CORONER,,DEM,Jimmy A. ADAMS,298
+Montgomery,A103,CORONER,,DEM,Jimmy A. ADAMS,396
+Montgomery,A104,CORONER,,DEM,Jimmy A. ADAMS,351
+Montgomery,A105,CORONER,,DEM,Jimmy A. ADAMS,152
+Montgomery,A106,CORONER,,DEM,Jimmy A. ADAMS,391
+Montgomery,B101,CORONER,,DEM,Jimmy A. ADAMS,417
+Montgomery,B102,CORONER,,DEM,Jimmy A. ADAMS,503
+Montgomery,B103,CORONER,,DEM,Jimmy A. ADAMS,386
+Montgomery,B104,CORONER,,DEM,Jimmy A. ADAMS,449
+Montgomery,B105,CORONER,,DEM,Jimmy A. ADAMS,375
+Montgomery,B107,CORONER,,DEM,Jimmy A. ADAMS,483
+Montgomery,B108,CORONER,,DEM,Jimmy A. ADAMS,481
+Montgomery,C101,CORONER,,DEM,Jimmy A. ADAMS,253
+Montgomery,C102,CORONER,,DEM,Jimmy A. ADAMS,524
+Montgomery,C103,CORONER,,DEM,Jimmy A. ADAMS,621
+Montgomery,C104,CORONER,,DEM,Jimmy A. ADAMS,468
+Montgomery,C105,CORONER,,DEM,Jimmy A. ADAMS,248
+Montgomery,AB,COUNTY SURVEYOR,,DEM,Rodney D. JONES,304
+Montgomery,A101,COUNTY SURVEYOR,,DEM,Rodney D. JONES,171
+Montgomery,A102,COUNTY SURVEYOR,,DEM,Rodney D. JONES,274
+Montgomery,A103,COUNTY SURVEYOR,,DEM,Rodney D. JONES,356
+Montgomery,A104,COUNTY SURVEYOR,,DEM,Rodney D. JONES,324
+Montgomery,A105,COUNTY SURVEYOR,,DEM,Rodney D. JONES,145
+Montgomery,A106,COUNTY SURVEYOR,,DEM,Rodney D. JONES,361
+Montgomery,B101,COUNTY SURVEYOR,,DEM,Rodney D. JONES,356
+Montgomery,B102,COUNTY SURVEYOR,,DEM,Rodney D. JONES,452
+Montgomery,B103,COUNTY SURVEYOR,,DEM,Rodney D. JONES,335
+Montgomery,B104,COUNTY SURVEYOR,,DEM,Rodney D. JONES,414
+Montgomery,B105,COUNTY SURVEYOR,,DEM,Rodney D. JONES,322
+Montgomery,B107,COUNTY SURVEYOR,,DEM,Rodney D. JONES,422
+Montgomery,B108,COUNTY SURVEYOR,,DEM,Rodney D. JONES,431
+Montgomery,C101,COUNTY SURVEYOR,,DEM,Rodney D. JONES,221
+Montgomery,C102,COUNTY SURVEYOR,,DEM,Rodney D. JONES,490
+Montgomery,C103,COUNTY SURVEYOR,,DEM,Rodney D. JONES,546
+Montgomery,C104,COUNTY SURVEYOR,,DEM,Rodney D. JONES,421
+Montgomery,C105,COUNTY SURVEYOR,,DEM,Rodney D. JONES,225
+Montgomery,AB,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,73
+Montgomery,A101,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,87
+Montgomery,A102,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,113
+Montgomery,A106,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,191
+Montgomery,B104,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,248
+Montgomery,B105,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,235
+Montgomery,B108,CONSTABLE 1st Magisterial District,,REP,Dustin L. SAYRE,256
+Montgomery,AB,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,98
+Montgomery,A101,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,135
+Montgomery,A102,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,217
+Montgomery,A106,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,250
+Montgomery,B104,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,327
+Montgomery,B105,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,241
+Montgomery,B108,CONSTABLE 1st Magisterial District,,DEM,Larry GOLDIE,307
+Montgomery,AB,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,85
+Montgomery,A103,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,267
+Montgomery,A104,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,250
+Montgomery,A105,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,95
+Montgomery,C101,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,181
+Montgomery,C102,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,379
+Montgomery,C103,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,461
+Montgomery,C105,JUSTICE of the PEACE 2nd Magisterial District,,LIB,Shannon DENNISTON,172
+Montgomery,AB,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,107
+Montgomery,A103,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,333
+Montgomery,A104,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,309
+Montgomery,A105,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,142
+Montgomery,C101,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,208
+Montgomery,C102,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,478
+Montgomery,C103,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,514
+Montgomery,C105,CONSTABLE 2nd Magisterial District,,DEM,Ronnie G. MYERS,220
+Montgomery,AB,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,60
+Montgomery,B101,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,324
+Montgomery,B102,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,427
+Montgomery,B103,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,308
+Montgomery,B107,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,420
+Montgomery,C104,CONSTABLE 3rd Magisterial District,,DEM,Tim STACY,373
+Montgomery,AB,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,140
+Montgomery,A101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,73
+Montgomery,A102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,103
+Montgomery,A103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,169
+Montgomery,A104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,133
+Montgomery,A105,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,56
+Montgomery,A106,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,178
+Montgomery,B101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,156
+Montgomery,B102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,216
+Montgomery,B103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,140
+Montgomery,B104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,169
+Montgomery,B105,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,149
+Montgomery,B107,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,207
+Montgomery,B108,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,197
+Montgomery,C101,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,102
+Montgomery,C102,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,216
+Montgomery,C103,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,250
+Montgomery,C104,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,187
+Montgomery,C105,Judge of the Court of Appeals, 7th Appellate District,,Larry E. THOMPSON,94
+Montgomery,AB,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,192
+Montgomery,A101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,100
+Montgomery,A102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,189
+Montgomery,A103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,239
+Montgomery,A104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,202
+Montgomery,A105,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,70
+Montgomery,A106,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,201
+Montgomery,B101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,245
+Montgomery,B102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,256
+Montgomery,B103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,198
+Montgomery,B104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,295
+Montgomery,B105,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,198
+Montgomery,B107,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,250
+Montgomery,B108,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,275
+Montgomery,C101,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,130
+Montgomery,C102,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,292
+Montgomery,C103,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,366
+Montgomery,C104,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,257
+Montgomery,C105,Judge of the Court of Appeals, 7th Appellate District,,David Allen BARBER,158
+Montgomery,AB,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",278
+Montgomery,A101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",151
+Montgomery,A102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",239
+Montgomery,A103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",346
+Montgomery,A104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",286
+Montgomery,A105,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",117
+Montgomery,A106,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",339
+Montgomery,B101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",339
+Montgomery,B102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",412
+Montgomery,B103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",290
+Montgomery,B104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",381
+Montgomery,B105,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",304
+Montgomery,B107,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",407
+Montgomery,B108,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",406
+Montgomery,C101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",209
+Montgomery,C102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",456
+Montgomery,C103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",521
+Montgomery,C104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",382
+Montgomery,C105,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",224
+Montgomery,AB,District Judge, 21st Judicial District,,Don BLAIR,277
+Montgomery,A101,District Judge, 21st Judicial District,,Don BLAIR,156
+Montgomery,A102,District Judge, 21st Judicial District,,Don BLAIR,250
+Montgomery,A103,District Judge, 21st Judicial District,,Don BLAIR,353
+Montgomery,A104,District Judge, 21st Judicial District,,Don BLAIR,293
+Montgomery,A105,District Judge, 21st Judicial District,,Don BLAIR,114
+Montgomery,A106,District Judge, 21st Judicial District,,Don BLAIR,337
+Montgomery,B101,District Judge, 21st Judicial District,,Don BLAIR,343
+Montgomery,B102,District Judge, 21st Judicial District,,Don BLAIR,408
+Montgomery,B103,District Judge, 21st Judicial District,,Don BLAIR,279
+Montgomery,B104,District Judge, 21st Judicial District,,Don BLAIR,382
+Montgomery,B105,District Judge, 21st Judicial District,,Don BLAIR,295
+Montgomery,B107,District Judge, 21st Judicial District,,Don BLAIR,388
+Montgomery,B108,District Judge, 21st Judicial District,,Don BLAIR,411
+Montgomery,C101,District Judge, 21st Judicial District,,Don BLAIR,210
+Montgomery,C102,District Judge, 21st Judicial District,,Don BLAIR,452
+Montgomery,C103,District Judge, 21st Judicial District,,Don BLAIR,538
+Montgomery,C104,District Judge, 21st Judicial District,,Don BLAIR,376
+Montgomery,C105,District Judge, 21st Judicial District,,Don BLAIR,219
+Montgomery,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Carmela FLETCHER-GREEN,81
+Montgomery,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,Carmela FLETCHER-GREEN,172
+Montgomery,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Carmela FLETCHER-GREEN,280
+Montgomery,B104,MEMBER BOARD of EDUCATION 1st Educational District,,,Carmela FLETCHER-GREEN,421
+Montgomery,B108,MEMBER BOARD of EDUCATION 1st Educational District,,,Carmela FLETCHER-GREEN,433
+Montgomery,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Bill R. MORGAN,85
+Montgomery,A103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Bill R. MORGAN,370
+Montgomery,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Bill R. MORGAN,308
+Montgomery,A105,MEMBER BOARD of EDUCATION 2nd Educational District,,,Bill R. MORGAN,118
+Montgomery,A106,MEMBER BOARD of EDUCATION 2nd Educational District,,,Bill R. MORGAN,334
+Montgomery,AB,MAYOR City of Camargo,,,Clayton NEAL,8
+Montgomery,B101,MAYOR City of Camargo,,,Clayton NEAL,210
+Montgomery,AB,CITY COMMISSIONERS City of Camargo,,,Kimberly KIRBY,7
+Montgomery,B101,CITY COMMISSIONERS City of Camargo,,,Kimberly KIRBY,163
+Montgomery,AB,CITY COMMISSIONERS City of Camargo,,,DeWayne WILLIAMS,7
+Montgomery,B101,CITY COMMISSIONERS City of Camargo,,,DeWayne WILLIAMS,145
+Montgomery,AB,CITY COMMISSIONERS City of Camargo,,,Sherri BEAM,10
+Montgomery,B101,CITY COMMISSIONERS City of Camargo,,,Sherri BEAM,175
+Montgomery,AB,MAYOR City of Jeffersonville,,,Steven Earl BARNES,16
+Montgomery,B102,MAYOR City of Jeffersonville,,,Steven Earl BARNES,279
+Montgomery,B107,MAYOR City of Jeffersonville,,,Steven Earl BARNES,240
+Montgomery,AB,MAYOR City of Jeffersonville,,,Harold WILLIAMS,3
+Montgomery,B102,MAYOR City of Jeffersonville,,,Harold WILLIAMS,73
+Montgomery,B107,MAYOR City of Jeffersonville,,,Harold WILLIAMS,54
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Justin H. THORPE,3
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Justin H. THORPE,154
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Justin H. THORPE,82
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,David H. AMBURGEY,14
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,David H. AMBURGEY,204
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,David H. AMBURGEY,180
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Mark TERRY,3
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Mark TERRY,142
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Mark TERRY,120
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Steve MURPHY,1
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Steve MURPHY,73
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Steve MURPHY,46
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Greg ARNETT,8
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Greg ARNETT,188
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Greg ARNETT,141
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Earl JOHNSON,13
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Earl JOHNSON,166
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Earl JOHNSON,142
+Montgomery,AB,CITY COMMISSIONERS City of Jeffersonville,,,Christine HARRIS,5
+Montgomery,B102,CITY COMMISSIONERS City of Jeffersonville,,,Christine HARRIS,151
+Montgomery,B107,CITY COMMISSIONERS City of Jeffersonville,,,Christine HARRIS,113
+Montgomery,AB,MAYOR City of Mt. Sterling,,,Al BOTTS,128
+Montgomery,A101,MAYOR City of Mt. Sterling,,,Al BOTTS,173
+Montgomery,A102,MAYOR City of Mt. Sterling,,,Al BOTTS,255
+Montgomery,A103,MAYOR City of Mt. Sterling,,,Al BOTTS,362
+Montgomery,A104,MAYOR City of Mt. Sterling,,,Al BOTTS,306
+Montgomery,A105,MAYOR City of Mt. Sterling,,,Al BOTTS,96
+Montgomery,A106,MAYOR City of Mt. Sterling,,,Al BOTTS,310
+Montgomery,AB,MAYOR City of Mt. Sterling,,,Curt STEGER,45
+Montgomery,A101,MAYOR City of Mt. Sterling,,,Curt STEGER,80
+Montgomery,A102,MAYOR City of Mt. Sterling,,,Curt STEGER,125
+Montgomery,A103,MAYOR City of Mt. Sterling,,,Curt STEGER,154
+Montgomery,A104,MAYOR City of Mt. Sterling,,,Curt STEGER,137
+Montgomery,A105,MAYOR City of Mt. Sterling,,,Curt STEGER,66
+Montgomery,A106,MAYOR City of Mt. Sterling,,,Curt STEGER,164
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",88
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",126
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",186
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",292
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",223
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",92
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,"James A. ""Tony"" TIPTON",249
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,98
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,110
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,220
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,240
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,201
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,72
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Roger D. BARNES,212
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,82
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,123
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,181
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,279
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,210
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,86
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Steve TRIMBLE,237
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,64
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,68
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,130
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,216
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,135
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,44
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Darrell MANDRELL,139
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,68
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,113
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,156
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,224
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,181
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,74
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Debbie HELTON,208
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,120
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,151
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,257
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,344
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,256
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,101
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Danielle KING,286
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,31
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,23
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,31
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,62
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,61
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,26
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Roy K. REID,67
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,26
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,53
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,87
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,111
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,105
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,39
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,David P. SHEPHERD,107
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,109
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,137
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,230
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,319
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,231
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,83
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Pam MURPHY,253
+Montgomery,AB,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,21
+Montgomery,A101,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,42
+Montgomery,A102,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,62
+Montgomery,A103,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,83
+Montgomery,A104,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,67
+Montgomery,A105,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,30
+Montgomery,A106,CITY COUNCIL City of Mt. Sterling,,,Nicholas C. BREINER,79
+Montgomery,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,356
+Montgomery,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,150
+Montgomery,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,239
+Montgomery,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,347
+Montgomery,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,270
+Montgomery,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,116
+Montgomery,A106,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,308
+Montgomery,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,327
+Montgomery,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,366
+Montgomery,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,325
+Montgomery,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,354
+Montgomery,B105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,313
+Montgomery,B107,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,337
+Montgomery,B108,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,296
+Montgomery,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,184
+Montgomery,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,397
+Montgomery,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,475
+Montgomery,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,353
+Montgomery,C105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,175
+Montgomery,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,60
+Montgomery,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,79
+Montgomery,A102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,109
+Montgomery,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,142
+Montgomery,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,142
+Montgomery,A105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,29
+Montgomery,A106,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,122
+Montgomery,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,185
+Montgomery,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,198
+Montgomery,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,137
+Montgomery,B104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,168
+Montgomery,B105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,165
+Montgomery,B107,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,200
+Montgomery,B108,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,212
+Montgomery,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,127
+Montgomery,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,251
+Montgomery,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,293
+Montgomery,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,189
+Montgomery,C105,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,106
