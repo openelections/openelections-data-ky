@@ -1,0 +1,565 @@
+county,precinct,office,district,party,candidate,votes
+Union,AB,U.S. House,1,REP,James R. COMER,214
+Union,A101,U.S. House,1,REP,James R. COMER,351
+Union,A103,U.S. House,1,REP,James R. COMER,206
+Union,A104,U.S. House,1,REP,James R. COMER,186
+Union,B101,U.S. House,1,REP,James R. COMER,258
+Union,B102,U.S. House,1,REP,James R. COMER,207
+Union,B103,U.S. House,1,REP,James R. COMER,123
+Union,C101,U.S. House,1,REP,James R. COMER,282
+Union,C102,U.S. House,1,REP,James R. COMER,171
+Union,C103,U.S. House,1,REP,James R. COMER,181
+Union,C104,U.S. House,1,REP,James R. COMER,106
+Union,E102,U.S. House,1,REP,James R. COMER,200
+Union,E103,U.S. House,1,REP,James R. COMER,235
+Union,E104,U.S. House,1,REP,James R. COMER,214
+Union,F101,U.S. House,1,REP,James R. COMER,286
+Union,F102,U.S. House,1,REP,James R. COMER,96
+Union,F103,U.S. House,1,REP,James R. COMER,254
+Union,AB,U.S. House,1,DEM,Paul WALKER,139
+Union,A101,U.S. House,1,DEM,Paul WALKER,137
+Union,A103,U.S. House,1,DEM,Paul WALKER,137
+Union,A104,U.S. House,1,DEM,Paul WALKER,101
+Union,B101,U.S. House,1,DEM,Paul WALKER,103
+Union,B102,U.S. House,1,DEM,Paul WALKER,135
+Union,B103,U.S. House,1,DEM,Paul WALKER,108
+Union,C101,U.S. House,1,DEM,Paul WALKER,114
+Union,C102,U.S. House,1,DEM,Paul WALKER,86
+Union,C103,U.S. House,1,DEM,Paul WALKER,86
+Union,C104,U.S. House,1,DEM,Paul WALKER,37
+Union,E102,U.S. House,1,DEM,Paul WALKER,139
+Union,E103,U.S. House,1,DEM,Paul WALKER,87
+Union,E104,U.S. House,1,DEM,Paul WALKER,82
+Union,F101,U.S. House,1,DEM,Paul WALKER,192
+Union,F102,U.S. House,1,DEM,Paul WALKER,67
+Union,F103,U.S. House,1,DEM,Paul WALKER,214
+Union,AB,State Senator,4,REP,"Robert M. ""Robby"" MILLS",174
+Union,A101,State Senator,4,REP,"Robert M. ""Robby"" MILLS",284
+Union,A103,State Senator,4,REP,"Robert M. ""Robby"" MILLS",151
+Union,A104,State Senator,4,REP,"Robert M. ""Robby"" MILLS",156
+Union,B101,State Senator,4,REP,"Robert M. ""Robby"" MILLS",210
+Union,B102,State Senator,4,REP,"Robert M. ""Robby"" MILLS",187
+Union,B103,State Senator,4,REP,"Robert M. ""Robby"" MILLS",115
+Union,C101,State Senator,4,REP,"Robert M. ""Robby"" MILLS",232
+Union,C102,State Senator,4,REP,"Robert M. ""Robby"" MILLS",150
+Union,C103,State Senator,4,REP,"Robert M. ""Robby"" MILLS",149
+Union,C104,State Senator,4,REP,"Robert M. ""Robby"" MILLS",96
+Union,E102,State Senator,4,REP,"Robert M. ""Robby"" MILLS",161
+Union,E103,State Senator,4,REP,"Robert M. ""Robby"" MILLS",195
+Union,E104,State Senator,4,REP,"Robert M. ""Robby"" MILLS",183
+Union,F101,State Senator,4,REP,"Robert M. ""Robby"" MILLS",260
+Union,F102,State Senator,4,REP,"Robert M. ""Robby"" MILLS",79
+Union,F103,State Senator,4,REP,"Robert M. ""Robby"" MILLS",246
+Union,AB,State Senator,4,DEM,J. Dorsey RIDLEY,189
+Union,A101,State Senator,4,DEM,J. Dorsey RIDLEY,224
+Union,A103,State Senator,4,DEM,J. Dorsey RIDLEY,201
+Union,A104,State Senator,4,DEM,J. Dorsey RIDLEY,136
+Union,B101,State Senator,4,DEM,J. Dorsey RIDLEY,168
+Union,B102,State Senator,4,DEM,J. Dorsey RIDLEY,167
+Union,B103,State Senator,4,DEM,J. Dorsey RIDLEY,122
+Union,C101,State Senator,4,DEM,J. Dorsey RIDLEY,170
+Union,C102,State Senator,4,DEM,J. Dorsey RIDLEY,110
+Union,C103,State Senator,4,DEM,J. Dorsey RIDLEY,121
+Union,C104,State Senator,4,DEM,J. Dorsey RIDLEY,50
+Union,E102,State Senator,4,DEM,J. Dorsey RIDLEY,185
+Union,E103,State Senator,4,DEM,J. Dorsey RIDLEY,132
+Union,E104,State Senator,4,DEM,J. Dorsey RIDLEY,126
+Union,F101,State Senator,4,DEM,J. Dorsey RIDLEY,239
+Union,F102,State Senator,4,DEM,J. Dorsey RIDLEY,88
+Union,F103,State Senator,4,DEM,J. Dorsey RIDLEY,233
+Union,AB,State Representative,7,REP,Suzanne MILES,224
+Union,A101,State Representative,7,REP,Suzanne MILES,321
+Union,A103,State Representative,7,REP,Suzanne MILES,170
+Union,A104,State Representative,7,REP,Suzanne MILES,160
+Union,B101,State Representative,7,REP,Suzanne MILES,242
+Union,B102,State Representative,7,REP,Suzanne MILES,212
+Union,B103,State Representative,7,REP,Suzanne MILES,129
+Union,C101,State Representative,7,REP,Suzanne MILES,287
+Union,C102,State Representative,7,REP,Suzanne MILES,159
+Union,C103,State Representative,7,REP,Suzanne MILES,166
+Union,C104,State Representative,7,REP,Suzanne MILES,99
+Union,E102,State Representative,7,REP,Suzanne MILES,190
+Union,E103,State Representative,7,REP,Suzanne MILES,232
+Union,E104,State Representative,7,REP,Suzanne MILES,209
+Union,F101,State Representative,7,REP,Suzanne MILES,312
+Union,F102,State Representative,7,REP,Suzanne MILES,86
+Union,F103,State Representative,7,REP,Suzanne MILES,273
+Union,AB,State Representative,7,DEM,Joy GRAY,145
+Union,A101,State Representative,7,DEM,Joy GRAY,181
+Union,A103,State Representative,7,DEM,Joy GRAY,180
+Union,A104,State Representative,7,DEM,Joy GRAY,130
+Union,B101,State Representative,7,DEM,Joy GRAY,135
+Union,B102,State Representative,7,DEM,Joy GRAY,142
+Union,B103,State Representative,7,DEM,Joy GRAY,109
+Union,C101,State Representative,7,DEM,Joy GRAY,117
+Union,C102,State Representative,7,DEM,Joy GRAY,100
+Union,C103,State Representative,7,DEM,Joy GRAY,101
+Union,C104,State Representative,7,DEM,Joy GRAY,45
+Union,E102,State Representative,7,DEM,Joy GRAY,159
+Union,E103,State Representative,7,DEM,Joy GRAY,94
+Union,E104,State Representative,7,DEM,Joy GRAY,100
+Union,F101,State Representative,7,DEM,Joy GRAY,188
+Union,F102,State Representative,7,DEM,Joy GRAY,78
+Union,F103,State Representative,7,DEM,Joy GRAY,204
+Union,AB,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,287
+Union,A101,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,361
+Union,A103,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,263
+Union,A104,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,223
+Union,B101,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,271
+Union,B102,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,274
+Union,B103,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,183
+Union,C101,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,307
+Union,C102,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,181
+Union,C103,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,205
+Union,C104,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,87
+Union,E102,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,271
+Union,E103,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,249
+Union,E104,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,227
+Union,F101,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,368
+Union,F102,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,129
+Union,F103,Commonwealth's Attorney, 5th Judicial Circuit,DEM,Zac GREENWELL,375
+Union,AB,CIRCUIT CLERK,,DEM,Trish TACKETT,296
+Union,A101,CIRCUIT CLERK,,DEM,Trish TACKETT,370
+Union,A103,CIRCUIT CLERK,,DEM,Trish TACKETT,269
+Union,A104,CIRCUIT CLERK,,DEM,Trish TACKETT,234
+Union,B101,CIRCUIT CLERK,,DEM,Trish TACKETT,279
+Union,B102,CIRCUIT CLERK,,DEM,Trish TACKETT,286
+Union,B103,CIRCUIT CLERK,,DEM,Trish TACKETT,192
+Union,C101,CIRCUIT CLERK,,DEM,Trish TACKETT,315
+Union,C102,CIRCUIT CLERK,,DEM,Trish TACKETT,190
+Union,C103,CIRCUIT CLERK,,DEM,Trish TACKETT,220
+Union,C104,CIRCUIT CLERK,,DEM,Trish TACKETT,103
+Union,E102,CIRCUIT CLERK,,DEM,Trish TACKETT,287
+Union,E103,CIRCUIT CLERK,,DEM,Trish TACKETT,261
+Union,E104,CIRCUIT CLERK,,DEM,Trish TACKETT,239
+Union,F101,CIRCUIT CLERK,,DEM,Trish TACKETT,395
+Union,F102,CIRCUIT CLERK,,DEM,Trish TACKETT,126
+Union,F103,CIRCUIT CLERK,,DEM,Trish TACKETT,383
+Union,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,299
+Union,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,383
+Union,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,278
+Union,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,234
+Union,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,292
+Union,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,286
+Union,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,184
+Union,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,317
+Union,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,190
+Union,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,217
+Union,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,106
+Union,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,285
+Union,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,262
+Union,E104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,236
+Union,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,400
+Union,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,131
+Union,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,383
+Union,AB,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,228
+Union,A101,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,317
+Union,A103,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,202
+Union,A104,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,183
+Union,B101,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,271
+Union,B102,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,211
+Union,B103,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,116
+Union,C101,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,299
+Union,C102,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,195
+Union,C103,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,209
+Union,C104,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,116
+Union,E102,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,255
+Union,E103,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,229
+Union,E104,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,244
+Union,F101,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,282
+Union,F102,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,87
+Union,F103,COUNTY JUDGE/EXECUTIVE,,REP,Adam R. O'NAN,239
+Union,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,154
+Union,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,195
+Union,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,155
+Union,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,114
+Union,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,122
+Union,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,144
+Union,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,125
+Union,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,110
+Union,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,68
+Union,C103,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,67
+Union,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,32
+Union,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,101
+Union,E103,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,102
+Union,E104,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,70
+Union,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,221
+Union,F102,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,79
+Union,F103,COUNTY JUDGE/EXECUTIVE,,DEM,Jeremy CURTIS,246
+Union,AB,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,299
+Union,A101,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,382
+Union,A103,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,281
+Union,A104,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,226
+Union,B101,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,285
+Union,B102,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,282
+Union,B103,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,186
+Union,C101,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,306
+Union,C102,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,197
+Union,C103,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,217
+Union,C104,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,96
+Union,E102,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,284
+Union,E103,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,247
+Union,E104,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,232
+Union,F101,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,381
+Union,F102,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,126
+Union,F103,COUNTY ATTORNEY,,DEM,Julie A. WALLACE,385
+Union,AB,COUNTY CLERK,,REP,Garrick THOMPSON,139
+Union,A101,COUNTY CLERK,,REP,Garrick THOMPSON,284
+Union,A103,COUNTY CLERK,,REP,Garrick THOMPSON,183
+Union,A104,COUNTY CLERK,,REP,Garrick THOMPSON,168
+Union,B101,COUNTY CLERK,,REP,Garrick THOMPSON,250
+Union,B102,COUNTY CLERK,,REP,Garrick THOMPSON,192
+Union,B103,COUNTY CLERK,,REP,Garrick THOMPSON,126
+Union,C101,COUNTY CLERK,,REP,Garrick THOMPSON,248
+Union,C102,COUNTY CLERK,,REP,Garrick THOMPSON,171
+Union,C103,COUNTY CLERK,,REP,Garrick THOMPSON,171
+Union,C104,COUNTY CLERK,,REP,Garrick THOMPSON,95
+Union,E102,COUNTY CLERK,,REP,Garrick THOMPSON,199
+Union,E103,COUNTY CLERK,,REP,Garrick THOMPSON,208
+Union,E104,COUNTY CLERK,,REP,Garrick THOMPSON,201
+Union,F101,COUNTY CLERK,,REP,Garrick THOMPSON,262
+Union,F102,COUNTY CLERK,,REP,Garrick THOMPSON,83
+Union,F103,COUNTY CLERK,,REP,Garrick THOMPSON,256
+Union,AB,COUNTY CLERK,,DEM,Trey PEAK,240
+Union,A101,COUNTY CLERK,,DEM,Trey PEAK,223
+Union,A103,COUNTY CLERK,,DEM,Trey PEAK,173
+Union,A104,COUNTY CLERK,,DEM,Trey PEAK,129
+Union,B101,COUNTY CLERK,,DEM,Trey PEAK,139
+Union,B102,COUNTY CLERK,,DEM,Trey PEAK,164
+Union,B103,COUNTY CLERK,,DEM,Trey PEAK,116
+Union,C101,COUNTY CLERK,,DEM,Trey PEAK,162
+Union,C102,COUNTY CLERK,,DEM,Trey PEAK,92
+Union,C103,COUNTY CLERK,,DEM,Trey PEAK,103
+Union,C104,COUNTY CLERK,,DEM,Trey PEAK,52
+Union,E102,COUNTY CLERK,,DEM,Trey PEAK,150
+Union,E103,COUNTY CLERK,,DEM,Trey PEAK,124
+Union,E104,COUNTY CLERK,,DEM,Trey PEAK,113
+Union,F101,COUNTY CLERK,,DEM,Trey PEAK,237
+Union,F102,COUNTY CLERK,,DEM,Trey PEAK,78
+Union,F103,COUNTY CLERK,,DEM,Trey PEAK,222
+Union,AB,SHERIFF,,REP,Jason O. THOMAS,139
+Union,A101,SHERIFF,,REP,Jason O. THOMAS,240
+Union,A103,SHERIFF,,REP,Jason O. THOMAS,124
+Union,A104,SHERIFF,,REP,Jason O. THOMAS,120
+Union,B101,SHERIFF,,REP,Jason O. THOMAS,237
+Union,B102,SHERIFF,,REP,Jason O. THOMAS,193
+Union,B103,SHERIFF,,REP,Jason O. THOMAS,111
+Union,C101,SHERIFF,,REP,Jason O. THOMAS,170
+Union,C102,SHERIFF,,REP,Jason O. THOMAS,78
+Union,C103,SHERIFF,,REP,Jason O. THOMAS,106
+Union,C104,SHERIFF,,REP,Jason O. THOMAS,67
+Union,E102,SHERIFF,,REP,Jason O. THOMAS,143
+Union,E103,SHERIFF,,REP,Jason O. THOMAS,155
+Union,E104,SHERIFF,,REP,Jason O. THOMAS,117
+Union,F101,SHERIFF,,REP,Jason O. THOMAS,253
+Union,F102,SHERIFF,,REP,Jason O. THOMAS,71
+Union,F103,SHERIFF,,REP,Jason O. THOMAS,219
+Union,AB,SHERIFF,,DEM,Mickey Lee ARNOLD,241
+Union,A101,SHERIFF,,DEM,Mickey Lee ARNOLD,269
+Union,A103,SHERIFF,,DEM,Mickey Lee ARNOLD,231
+Union,A104,SHERIFF,,DEM,Mickey Lee ARNOLD,174
+Union,B101,SHERIFF,,DEM,Mickey Lee ARNOLD,154
+Union,B102,SHERIFF,,DEM,Mickey Lee ARNOLD,163
+Union,B103,SHERIFF,,DEM,Mickey Lee ARNOLD,129
+Union,C101,SHERIFF,,DEM,Mickey Lee ARNOLD,236
+Union,C102,SHERIFF,,DEM,Mickey Lee ARNOLD,186
+Union,C103,SHERIFF,,DEM,Mickey Lee ARNOLD,165
+Union,C104,SHERIFF,,DEM,Mickey Lee ARNOLD,82
+Union,E102,SHERIFF,,DEM,Mickey Lee ARNOLD,210
+Union,E103,SHERIFF,,DEM,Mickey Lee ARNOLD,175
+Union,E104,SHERIFF,,DEM,Mickey Lee ARNOLD,196
+Union,F101,SHERIFF,,DEM,Mickey Lee ARNOLD,251
+Union,F102,SHERIFF,,DEM,Mickey Lee ARNOLD,94
+Union,F103,SHERIFF,,DEM,Mickey Lee ARNOLD,265
+Union,AB,JAILER,,DEM,Shawn ELDER,295
+Union,A101,JAILER,,DEM,Shawn ELDER,387
+Union,A103,JAILER,,DEM,Shawn ELDER,276
+Union,A104,JAILER,,DEM,Shawn ELDER,233
+Union,B101,JAILER,,DEM,Shawn ELDER,303
+Union,B102,JAILER,,DEM,Shawn ELDER,302
+Union,B103,JAILER,,DEM,Shawn ELDER,187
+Union,C101,JAILER,,DEM,Shawn ELDER,310
+Union,C102,JAILER,,DEM,Shawn ELDER,192
+Union,C103,JAILER,,DEM,Shawn ELDER,213
+Union,C104,JAILER,,DEM,Shawn ELDER,96
+Union,E102,JAILER,,DEM,Shawn ELDER,276
+Union,E103,JAILER,,DEM,Shawn ELDER,251
+Union,E104,JAILER,,DEM,Shawn ELDER,226
+Union,F101,JAILER,,DEM,Shawn ELDER,404
+Union,F102,JAILER,,DEM,Shawn ELDER,126
+Union,F103,JAILER,,DEM,Shawn ELDER,383
+Union,AB,CORONER,,DEM,Stephen SHOUSE,302
+Union,A101,CORONER,,DEM,Stephen SHOUSE,383
+Union,A103,CORONER,,DEM,Stephen SHOUSE,271
+Union,A104,CORONER,,DEM,Stephen SHOUSE,233
+Union,B101,CORONER,,DEM,Stephen SHOUSE,300
+Union,B102,CORONER,,DEM,Stephen SHOUSE,295
+Union,B103,CORONER,,DEM,Stephen SHOUSE,190
+Union,C101,CORONER,,DEM,Stephen SHOUSE,318
+Union,C102,CORONER,,DEM,Stephen SHOUSE,202
+Union,C103,CORONER,,DEM,Stephen SHOUSE,220
+Union,C104,CORONER,,DEM,Stephen SHOUSE,105
+Union,E102,CORONER,,DEM,Stephen SHOUSE,291
+Union,E103,CORONER,,DEM,Stephen SHOUSE,259
+Union,E104,CORONER,,DEM,Stephen SHOUSE,242
+Union,F101,CORONER,,DEM,Stephen SHOUSE,405
+Union,F102,CORONER,,DEM,Stephen SHOUSE,128
+Union,F103,CORONER,,DEM,Stephen SHOUSE,392
+Union,AB,MAGISTRATE 1st Magisterial District,,REP,Mike FLOYD,43
+Union,A101,MAGISTRATE 1st Magisterial District,,REP,Mike FLOYD,255
+Union,A103,MAGISTRATE 1st Magisterial District,,REP,Mike FLOYD,166
+Union,A104,MAGISTRATE 1st Magisterial District,,REP,Mike FLOYD,124
+Union,AB,MAGISTRATE 1st Magisterial District,,DEM,Rick F. WYATT,39
+Union,A101,MAGISTRATE 1st Magisterial District,,DEM,Rick F. WYATT,249
+Union,A103,MAGISTRATE 1st Magisterial District,,DEM,Rick F. WYATT,184
+Union,A104,MAGISTRATE 1st Magisterial District,,DEM,Rick F. WYATT,167
+Union,AB,MAGISTRATE 2nd Magisterial District,,REP,Steven GOUGH,26
+Union,B101,MAGISTRATE 2nd Magisterial District,,REP,Steven GOUGH,173
+Union,B102,MAGISTRATE 2nd Magisterial District,,REP,Steven GOUGH,139
+Union,B103,MAGISTRATE 2nd Magisterial District,,REP,Steven GOUGH,131
+Union,AB,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,48
+Union,B101,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,218
+Union,B102,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,220
+Union,B103,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,108
+Union,AB,MAGISTRATE 3rd Magisterial District,,REP,Jim RICKETTS,53
+Union,C101,MAGISTRATE 3rd Magisterial District,,REP,Jim RICKETTS,261
+Union,C102,MAGISTRATE 3rd Magisterial District,,REP,Jim RICKETTS,182
+Union,C103,MAGISTRATE 3rd Magisterial District,,REP,Jim RICKETTS,153
+Union,C104,MAGISTRATE 3rd Magisterial District,,REP,Jim RICKETTS,87
+Union,AB,MAGISTRATE 3rd Magisterial District,,DEM,Stephanie Draper HOOPER,23
+Union,C101,MAGISTRATE 3rd Magisterial District,,DEM,Stephanie Draper HOOPER,145
+Union,C102,MAGISTRATE 3rd Magisterial District,,DEM,Stephanie Draper HOOPER,78
+Union,C103,MAGISTRATE 3rd Magisterial District,,DEM,Stephanie Draper HOOPER,120
+Union,C104,MAGISTRATE 3rd Magisterial District,,DEM,Stephanie Draper HOOPER,62
+Union,AB,MAGISTRATE 4th Magisterial District,,REP,Jim BYRNES,24
+Union,E102,MAGISTRATE 4th Magisterial District,,REP,Jim BYRNES,167
+Union,E103,MAGISTRATE 4th Magisterial District,,REP,Jim BYRNES,165
+Union,E104,MAGISTRATE 4th Magisterial District,,REP,Jim BYRNES,168
+Union,AB,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,31
+Union,E102,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,180
+Union,E103,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,165
+Union,E104,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,144
+Union,AB,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,62
+Union,F101,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,265
+Union,F102,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,98
+Union,F103,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,259
+Union,AB,District Judge, 5th Judicial District,,Daniel Mark HEADY,270
+Union,A101,District Judge, 5th Judicial District,,Daniel Mark HEADY,355
+Union,A103,District Judge, 5th Judicial District,,Daniel Mark HEADY,236
+Union,A104,District Judge, 5th Judicial District,,Daniel Mark HEADY,216
+Union,B101,District Judge, 5th Judicial District,,Daniel Mark HEADY,265
+Union,B102,District Judge, 5th Judicial District,,Daniel Mark HEADY,281
+Union,B103,District Judge, 5th Judicial District,,Daniel Mark HEADY,165
+Union,C101,District Judge, 5th Judicial District,,Daniel Mark HEADY,307
+Union,C102,District Judge, 5th Judicial District,,Daniel Mark HEADY,194
+Union,C103,District Judge, 5th Judicial District,,Daniel Mark HEADY,196
+Union,C104,District Judge, 5th Judicial District,,Daniel Mark HEADY,96
+Union,E102,District Judge, 5th Judicial District,,Daniel Mark HEADY,266
+Union,E103,District Judge, 5th Judicial District,,Daniel Mark HEADY,250
+Union,E104,District Judge, 5th Judicial District,,Daniel Mark HEADY,236
+Union,F101,District Judge, 5th Judicial District,,Daniel Mark HEADY,356
+Union,F102,District Judge, 5th Judicial District,,Daniel Mark HEADY,116
+Union,F103,District Judge, 5th Judicial District,,Daniel Mark HEADY,359
+Union,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Drennan COWAN,75
+Union,A101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Drennan COWAN,326
+Union,A103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Drennan COWAN,224
+Union,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Drennan COWAN,208
+Union,C101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Drennan COWAN,90
+Union,AB,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,41
+Union,E102,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,272
+Union,E103,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,249
+Union,E104,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,235
+Union,AB,MAYOR City of Morganfield,,,Dickie BERRY,44
+Union,A101,MAYOR City of Morganfield,,,Dickie BERRY,99
+Union,A103,MAYOR City of Morganfield,,,Dickie BERRY,117
+Union,A104,MAYOR City of Morganfield,,,Dickie BERRY,107
+Union,B103,MAYOR City of Morganfield,,,Dickie BERRY,71
+Union,F102,MAYOR City of Morganfield,,,Dickie BERRY,37
+Union,F103,MAYOR City of Morganfield,,,Dickie BERRY,86
+Union,AB,MAYOR City of Morganfield,,,J. Randy GREENWELL,49
+Union,A101,MAYOR City of Morganfield,,,J. Randy GREENWELL,115
+Union,A103,MAYOR City of Morganfield,,,J. Randy GREENWELL,170
+Union,A104,MAYOR City of Morganfield,,,J. Randy GREENWELL,120
+Union,B103,MAYOR City of Morganfield,,,J. Randy GREENWELL,107
+Union,F102,MAYOR City of Morganfield,,,J. Randy GREENWELL,63
+Union,F103,MAYOR City of Morganfield,,,J. Randy GREENWELL,108
+Union,AB,CITY COUNCIL City of Morganfield,,,Gary LOVELL,53
+Union,A101,CITY COUNCIL City of Morganfield,,,Gary LOVELL,147
+Union,A103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,193
+Union,A104,CITY COUNCIL City of Morganfield,,,Gary LOVELL,146
+Union,B103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,110
+Union,F102,CITY COUNCIL City of Morganfield,,,Gary LOVELL,61
+Union,F103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,122
+Union,AB,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,56
+Union,A101,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,149
+Union,A103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,169
+Union,A104,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,137
+Union,B103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,110
+Union,F102,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,61
+Union,F103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,115
+Union,AB,CITY COUNCIL City of Morganfield,,,Jason BROWN,38
+Union,A101,CITY COUNCIL City of Morganfield,,,Jason BROWN,105
+Union,A103,CITY COUNCIL City of Morganfield,,,Jason BROWN,135
+Union,A104,CITY COUNCIL City of Morganfield,,,Jason BROWN,104
+Union,B103,CITY COUNCIL City of Morganfield,,,Jason BROWN,98
+Union,F102,CITY COUNCIL City of Morganfield,,,Jason BROWN,44
+Union,F103,CITY COUNCIL City of Morganfield,,,Jason BROWN,91
+Union,AB,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,64
+Union,A101,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,182
+Union,A103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,203
+Union,A104,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,162
+Union,B103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,115
+Union,F102,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,68
+Union,F103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,149
+Union,AB,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,46
+Union,A101,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,140
+Union,A103,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,163
+Union,A104,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,117
+Union,B103,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,101
+Union,F102,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,57
+Union,F103,CITY COUNCIL City of Morganfield,,,Jason MILLIKAN,114
+Union,AB,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,66
+Union,A101,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,159
+Union,A103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,204
+Union,A104,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,164
+Union,B103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,129
+Union,F102,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,72
+Union,F103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,139
+Union,AB,CITY COUNCIL City of Morganfield,,,Mike MOORE,39
+Union,A101,CITY COUNCIL City of Morganfield,,,Mike MOORE,106
+Union,A103,CITY COUNCIL City of Morganfield,,,Mike MOORE,139
+Union,A104,CITY COUNCIL City of Morganfield,,,Mike MOORE,122
+Union,B103,CITY COUNCIL City of Morganfield,,,Mike MOORE,84
+Union,F102,CITY COUNCIL City of Morganfield,,,Mike MOORE,56
+Union,F103,CITY COUNCIL City of Morganfield,,,Mike MOORE,82
+Union,AB,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,36
+Union,A101,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,90
+Union,A103,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,104
+Union,A104,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,91
+Union,B103,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,66
+Union,F102,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,45
+Union,F103,CITY COUNCIL City of Morganfield,,,Tandy STEWARD,79
+Union,AB,MAYOR City of Sturgis,,,Douglas M. RODGERS,11
+Union,C102,MAYOR City of Sturgis,,,Douglas M. RODGERS,122
+Union,E102,MAYOR City of Sturgis,,,Douglas M. RODGERS,153
+Union,E104,MAYOR City of Sturgis,,,Douglas M. RODGERS,45
+Union,AB,MAYOR City of Sturgis,,,Michael HARDESTY,13
+Union,C102,MAYOR City of Sturgis,,,Michael HARDESTY,127
+Union,E102,MAYOR City of Sturgis,,,Michael HARDESTY,127
+Union,E104,MAYOR City of Sturgis,,,Michael HARDESTY,30
+Union,AB,CITY COUNCIL City of Sturgis,,,Bernie VINROE,18
+Union,C102,CITY COUNCIL City of Sturgis,,,Bernie VINROE,152
+Union,E102,CITY COUNCIL City of Sturgis,,,Bernie VINROE,143
+Union,E104,CITY COUNCIL City of Sturgis,,,Bernie VINROE,36
+Union,AB,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,15
+Union,C102,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,137
+Union,E102,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,167
+Union,E104,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,49
+Union,AB,CITY COUNCIL City of Sturgis,,,Steven STONE,6
+Union,C102,CITY COUNCIL City of Sturgis,,,Steven STONE,80
+Union,E102,CITY COUNCIL City of Sturgis,,,Steven STONE,117
+Union,E104,CITY COUNCIL City of Sturgis,,,Steven STONE,27
+Union,AB,CITY COUNCIL City of Sturgis,,,Darrel JONES,11
+Union,C102,CITY COUNCIL City of Sturgis,,,Darrel JONES,84
+Union,E102,CITY COUNCIL City of Sturgis,,,Darrel JONES,119
+Union,E104,CITY COUNCIL City of Sturgis,,,Darrel JONES,21
+Union,AB,CITY COUNCIL City of Sturgis,,,Donald SLATON,7
+Union,C102,CITY COUNCIL City of Sturgis,,,Donald SLATON,58
+Union,E102,CITY COUNCIL City of Sturgis,,,Donald SLATON,75
+Union,E104,CITY COUNCIL City of Sturgis,,,Donald SLATON,13
+Union,AB,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",7
+Union,C102,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",95
+Union,E102,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",97
+Union,E104,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",27
+Union,AB,CITY COUNCIL City of Sturgis,,,Peter VAN,2
+Union,C102,CITY COUNCIL City of Sturgis,,,Peter VAN,67
+Union,E102,CITY COUNCIL City of Sturgis,,,Peter VAN,53
+Union,E104,CITY COUNCIL City of Sturgis,,,Peter VAN,32
+Union,AB,CITY COUNCIL City of Sturgis,,,Kate BAKER,17
+Union,C102,CITY COUNCIL City of Sturgis,,,Kate BAKER,122
+Union,E102,CITY COUNCIL City of Sturgis,,,Kate BAKER,160
+Union,E104,CITY COUNCIL City of Sturgis,,,Kate BAKER,46
+Union,AB,CITY COUNCIL City of Sturgis,,,Kent SAYLE,12
+Union,C102,CITY COUNCIL City of Sturgis,,,Kent SAYLE,149
+Union,E102,CITY COUNCIL City of Sturgis,,,Kent SAYLE,153
+Union,E104,CITY COUNCIL City of Sturgis,,,Kent SAYLE,36
+Union,AB,CITY COUNCIL City of Sturgis,,,Malinda DAILEY,6
+Union,C102,CITY COUNCIL City of Sturgis,,,Malinda DAILEY,41
+Union,E102,CITY COUNCIL City of Sturgis,,,Malinda DAILEY,70
+Union,E104,CITY COUNCIL City of Sturgis,,,Malinda DAILEY,18
+Union,AB,CITY COUNCIL City of Sturgis,,,Mike COWAN,18
+Union,C102,CITY COUNCIL City of Sturgis,,,Mike COWAN,123
+Union,E102,CITY COUNCIL City of Sturgis,,,Mike COWAN,172
+Union,E104,CITY COUNCIL City of Sturgis,,,Mike COWAN,29
+Union,AB,CITY COUNCIL City of Sturgis,,,Pete BROWN,13
+Union,C102,CITY COUNCIL City of Sturgis,,,Pete BROWN,111
+Union,E102,CITY COUNCIL City of Sturgis,,,Pete BROWN,120
+Union,E104,CITY COUNCIL City of Sturgis,,,Pete BROWN,27
+Union,AB,MAYOR City of Uniontown,,,"Thomas ""Buster"" BYRD",11
+Union,B101,MAYOR City of Uniontown,,,"Thomas ""Buster"" BYRD",78
+Union,B102,MAYOR City of Uniontown,,,"Thomas ""Buster"" BYRD",128
+Union,AB,CITY COUNCIL City of Uniontown,,,Trudy HOWARD,10
+Union,B101,CITY COUNCIL City of Uniontown,,,Trudy HOWARD,79
+Union,B102,CITY COUNCIL City of Uniontown,,,Trudy HOWARD,113
+Union,AB,CITY COUNCIL City of Uniontown,,,Tim GRAY,9
+Union,B101,CITY COUNCIL City of Uniontown,,,Tim GRAY,70
+Union,B102,CITY COUNCIL City of Uniontown,,,Tim GRAY,105
+Union,AB,CITY COUNCIL City of Uniontown,,,Jason BURKE,6
+Union,B101,CITY COUNCIL City of Uniontown,,,Jason BURKE,75
+Union,B102,CITY COUNCIL City of Uniontown,,,Jason BURKE,117
+Union,AB,CITY COUNCIL City of Uniontown,,,Joe COKER,8
+Union,B101,CITY COUNCIL City of Uniontown,,,Joe COKER,59
+Union,B102,CITY COUNCIL City of Uniontown,,,Joe COKER,104
+Union,AB,CITY COUNCIL City of Uniontown,,,Eric WILLETT,6
+Union,B101,CITY COUNCIL City of Uniontown,,,Eric WILLETT,76
+Union,B102,CITY COUNCIL City of Uniontown,,,Eric WILLETT,116
+Union,AB,CITY COUNCIL City of Uniontown,,,Michael A. BROWN,7
+Union,B101,CITY COUNCIL City of Uniontown,,,Michael A. BROWN,76
+Union,B102,CITY COUNCIL City of Uniontown,,,Michael A. BROWN,116
+Union,AB,CITY COUNCIL City of Uniontown,,,Nathan GIRTEN,7
+Union,B101,CITY COUNCIL City of Uniontown,,,Nathan GIRTEN,58
+Union,B102,CITY COUNCIL City of Uniontown,,,Nathan GIRTEN,79
+Union,AB,MAYOR City of Waverly,,,David A. WOLFE,6
+Union,F101,MAYOR City of Waverly,,,David A. WOLFE,101
+Union,AB,CITY COUNCIL City of Waverly,,,Teresa WOLFE,4
+Union,F101,CITY COUNCIL City of Waverly,,,Teresa WOLFE,103
+Union,AB,CITY COUNCIL City of Waverly,,,Charles WILLETT,6
+Union,F101,CITY COUNCIL City of Waverly,,,Charles WILLETT,101
+Union,AB,CITY COUNCIL City of Waverly,,,Rob FULCHER,5
+Union,F101,CITY COUNCIL City of Waverly,,,Rob FULCHER,97
+Union,AB,CITY COUNCIL City of Waverly,,,Kurt GIBSON,5
+Union,F101,CITY COUNCIL City of Waverly,,,Kurt GIBSON,104
+Union,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,268
+Union,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,214
+Union,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,138
+Union,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,96
+Union,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,147
+Union,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,128
+Union,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,108
+Union,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,148
+Union,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,105
+Union,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,92
+Union,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,56
+Union,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,143
+Union,E103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,112
+Union,E104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,117
+Union,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,196
+Union,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,80
+Union,F103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,233
+Union,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,54
+Union,A101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,232
+Union,A103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,153
+Union,A104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,151
+Union,B101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,191
+Union,B102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,202
+Union,B103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,104
+Union,C101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,223
+Union,C102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,125
+Union,C103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,149
+Union,C104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,76
+Union,E102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,134
+Union,E103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,179
+Union,E104,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,156
+Union,F101,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,243
+Union,F102,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,72
+Union,F103,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,207
