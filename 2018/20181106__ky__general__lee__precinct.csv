@@ -1,0 +1,66 @@
+county,precinct,office,district,party,candidate,absentee_paper,absentee_machine,votes
+Lee,Absentee,U.S. House,5,REP,"Harold ""Hal"" Rogers",67,136,203
+Lee,Beattyville 1,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,140
+Lee,Beattyville 2,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,121
+Lee,Beattyville 3,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,191
+Lee,St. Helens,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,189
+Lee,Ivy Patch,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,169
+Lee,Beattyville 4,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,125
+Lee,Leeco,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,143
+Lee,Sand Field,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,213
+Lee,Heidelberg,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,134
+Lee,Proctor,U.S. House,5,REP,"Harold ""Hal"" Rogers",,,307
+Lee,Absentee,U.S. House,5,DEM,Kenneth S. Stepp,7,22,29
+Lee,Beattyville 1,U.S. House,5,DEM,Kenneth S. Stepp,,,19
+Lee,Beattyville 2,U.S. House,5,DEM,Kenneth S. Stepp,,,33
+Lee,Beattyville 3,U.S. House,5,DEM,Kenneth S. Stepp,,,53
+Lee,St. Helens,U.S. House,5,DEM,Kenneth S. Stepp,,,40
+Lee,Ivy Patch,U.S. House,5,DEM,Kenneth S. Stepp,,,47
+Lee,Beattyville 4,U.S. House,5,DEM,Kenneth S. Stepp,,,35
+Lee,Leeco,U.S. House,5,DEM,Kenneth S. Stepp,,,25
+Lee,Sand Field,U.S. House,5,DEM,Kenneth S. Stepp,,,52
+Lee,Heidelberg,U.S. House,5,DEM,Kenneth S. Stepp,,,27
+Lee,Proctor,U.S. House,5,DEM,Kenneth S. Stepp,,,63
+Lee,Absentee,State House,91,REP,"Gary ""Toby"" Herald",37,107,144
+Lee,Beattyville 1,State House,91,REP,"Gary ""Toby"" Herald",,,92
+Lee,Beattyville 2,State House,91,REP,"Gary ""Toby"" Herald",,,95
+Lee,Beattyville 3,State House,91,REP,"Gary ""Toby"" Herald",,,133
+Lee,St. Helens,State House,91,REP,"Gary ""Toby"" Herald",,,139
+Lee,Ivy Patch,State House,91,REP,"Gary ""Toby"" Herald",,,127
+Lee,Beattyville 4,State House,91,REP,"Gary ""Toby"" Herald",,,86
+Lee,Leeco,State House,91,REP,"Gary ""Toby"" Herald",,,93
+Lee,Sand Field,State House,91,REP,"Gary ""Toby"" Herald",,,146
+Lee,Heidelberg,State House,91,REP,"Gary ""Toby"" Herald",,,106
+Lee,Proctor,State House,91,REP,"Gary ""Toby"" Herald",,,196
+Lee,Absentee,State House,91,DEM,Cluster Howard,37,55,92
+Lee,Beattyville 1,State House,91,DEM,Cluster Howard,,,71
+Lee,Beattyville 2,State House,91,DEM,Cluster Howard,,,78
+Lee,Beattyville 3,State House,91,DEM,Cluster Howard,,,120
+Lee,St. Helens,State House,91,DEM,Cluster Howard,,,96
+Lee,Ivy Patch,State House,91,DEM,Cluster Howard,,,87
+Lee,Beattyville 4,State House,91,DEM,Cluster Howard,,,75
+Lee,Leeco,State House,91,DEM,Cluster Howard,,,76
+Lee,Sand Field,State House,91,DEM,Cluster Howard,,,123
+Lee,Heidelberg,State House,91,DEM,Cluster Howard,,,61
+Lee,Proctor,State House,91,DEM,Cluster Howard,,,178
+Lee,Absentee,Ballots Cast,,,,86,176,262
+Lee,Beattyville 1,Ballots Cast,,,,,,208
+Lee,Beattyville 2,Ballots Cast,,,,,,215
+Lee,Beattyville 3,Ballots Cast,,,,,,300
+Lee,St. Helens,Ballots Cast,,,,,,291
+Lee,Ivy Patch,Ballots Cast,,,,,,274
+Lee,Beattyville 4,Ballots Cast,,,,,,199
+Lee,Leeco,Ballots Cast,,,,,,183
+Lee,Sand Field,Ballots Cast,,,,,,304
+Lee,Heidelberg,Ballots Cast,,,,,,190
+Lee,Proctor,Ballots Cast,,,,,,445
+Lee,Beattyville 1,Registered Voters,,,,,,428
+Lee,Beattyville 2,Registered Voters,,,,,,466
+Lee,Beattyville 3,Registered Voters,,,,,,567
+Lee,St. Helens,Registered Voters,,,,,,563
+Lee,Ivy Patch,Registered Voters,,,,,,543
+Lee,Beattyville 4,Registered Voters,,,,,,446
+Lee,Leeco,Registered Voters,,,,,,388
+Lee,Sand Field,Registered Voters,,,,,,566
+Lee,Heidelberg,Registered Voters,,,,,,476
+Lee,Proctor,Registered Voters,,,,,,808
