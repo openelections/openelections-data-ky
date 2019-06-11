@@ -1,12 +1,12 @@
 candidate,office,district,party,county,precinct,votes,absentee_mail,absentee
-Andy Barr,U.S. House,6,REP,Bath,Absentee,,149,155
-Amy McGrath,U.S. House,6,DEM,Bath,Absentee,,110,97
-Frank Harris,U.S. House,6,LIB,Bath,Absentee,,0,0
-Rikka L. Wallin,U.S. House,6,IND,Bath,Absentee,,1,0
-James Germalic,U.S. House,6,IND,Bath,Absentee,,0,3
-Matthew R. Koch,State Representative,72,REP,Bath,Absentee,,97,92
-Emily Ferguson,State Representative,72,DEM,Bath,Absentee,,148,144
-Ann Cormican,State Representative,72,LIB,Bath,Absentee,,3,0
+Andy Barr,U.S. House,6,REP,Bath,Absentee,304,149,155
+Amy McGrath,U.S. House,6,DEM,Bath,Absentee,207,110,97
+Frank Harris,U.S. House,6,LIB,Bath,Absentee,0,0,0
+Rikka L. Wallin,U.S. House,6,IND,Bath,Absentee,1,1,0
+James Germalic,U.S. House,6,IND,Bath,Absentee,3,0,3
+Matthew R. Koch,State Representative,72,REP,Bath,Absentee,189,97,92
+Emily Ferguson,State Representative,72,DEM,Bath,Absentee,292,148,144
+Ann Cormican,State Representative,72,LIB,Bath,Absentee,3,3,0
 Andy Barr,U.S. House,6,REP,Bath,Sharpsburg 1,104,,
 Amy McGrath,U.S. House,6,DEM,Bath,Sharpsburg 1,68,,
 Frank Harris,U.S. House,6,LIB,Bath,Sharpsburg 1,2,,
@@ -103,27 +103,3 @@ James Germalic,U.S. House,6,IND,Bath,Olympia,2,,
 Matthew R. Koch,State Representative,72,REP,Bath,Olympia,93,,
 Emily Ferguson,State Representative,72,DEM,Bath,Olympia,167,,
 Ann Cormican,State Representative,72,LIB,Bath,Olympia,5,,
-Andy Barr,U.S. House,6,REP,Bath,Grand Total ,2768,,
-Amy McGrath,U.S. House,6,DEM,Bath,Grand Total ,1776,,
-Frank Harris,U.S. House,6,LIB,Bath,Grand Total ,32,,
-Rikka L. Wallin,U.S. House,6,IND,Bath,Grand Total ,16,,
-James Germalic,U.S. House,6,IND,Bath,Grand Total ,12,,
-Matthew R. Koch,State Representative,72,REP,Bath,Grand Total ,1856,,
-Emily Ferguson,State Representative,72,DEM,Bath,Grand Total ,2479,,
-Ann Cormican,State Representative,72,LIB,Bath,Grand Total ,53,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
