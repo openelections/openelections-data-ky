@@ -2,10 +2,10 @@ county,precinct,candidate,office,district,party,votes
 Campbell,AB,,Ballots Cast,,,1729
 Campbell,AB,,Straight Party,,D,371
 Campbell,AB,,Straight Party,,R,277
-Campbell,AB,Thomas Massie,U.S. Senate,4,R,941
-Campbell,AB,Seth Hall,U.S. Senate,4,D,703
-Campbell,AB,Mike Moffett,U.S. Senate,4,IND,55
-Campbell,AB,David Goodwin,U.S. Senate,4,W,0
+Campbell,AB,Thomas Massie,U.S. House,4,R,941
+Campbell,AB,Seth Hall,U.S. House,4,D,703
+Campbell,AB,Mike Moffett,U.S. House,4,IND,55
+Campbell,AB,David Goodwin,U.S. House,4,W,0
 Campbell,AB,Wil Schroder,State Senate,24,R,911
 Campbell,AB,Rachel Roberts,State Senate,24,D,797
 Campbell,AB,Kimberly Poore Moser,State Representative,64,R,43
@@ -17,10 +17,10 @@ Campbell,AB,Jason Kilmer,State Representative,68,D,448
 Campbell,A801,,Ballots Cast,,,619
 Campbell,A801,,Straight Party,,D,154
 Campbell,A801,,Straight Party,,R,73
-Campbell,A801,Thomas Massie,U.S. Senate,4,R,422
-Campbell,A801,Seth Hall,U.S. Senate,4,D,170
-Campbell,A801,Mike Moffett,U.S. Senate,4,IND,18
-Campbell,A801,David Goodwin,U.S. Senate,4,W,0
+Campbell,A801,Thomas Massie,U.S. House,4,R,422
+Campbell,A801,Seth Hall,U.S. House,4,D,170
+Campbell,A801,Mike Moffett,U.S. House,4,IND,18
+Campbell,A801,David Goodwin,U.S. House,4,W,0
 Campbell,A801,Wil Schroder,State Senate,24,R,405
 Campbell,A801,Rachel Roberts,State Senate,24,D,202
 Campbell,A801,Joseph M Fischer,State Representative,68,R,392
@@ -28,10 +28,10 @@ Campbell,A801,Jason Kilmer,State Representative,68,D,208
 Campbell,A802,,Ballots Cast,,,416
 Campbell,A802,,Straight Party,,D,109
 Campbell,A802,,Straight Party,,R,54
-Campbell,A802,Thomas Massie,U.S. Senate,4,R,265
-Campbell,A802,Seth Hall,U.S. Senate,4,D,130
-Campbell,A802,Mike Moffett,U.S. Senate,4,IND,13
-Campbell,A802,David Goodwin,U.S. Senate,4,W,0
+Campbell,A802,Thomas Massie,U.S. House,4,R,265
+Campbell,A802,Seth Hall,U.S. House,4,D,130
+Campbell,A802,Mike Moffett,U.S. House,4,IND,13
+Campbell,A802,David Goodwin,U.S. House,4,W,0
 Campbell,A802,Wil Schroder,State Senate,24,R,255
 Campbell,A802,Rachel Roberts,State Senate,24,D,157
 Campbell,A802,Joseph M Fischer,State Representative,68,R,250
@@ -39,10 +39,10 @@ Campbell,A802,Jason Kilmer,State Representative,68,D,157
 Campbell,A803,,Ballots Cast,,,814
 Campbell,A803,,Straight Party,,D,231
 Campbell,A803,,Straight Party,,R,95
-Campbell,A803,Thomas Massie,U.S. Senate,4,R,513
-Campbell,A803,Seth Hall,U.S. Senate,4,D,253
-Campbell,A803,Mike Moffett,U.S. Senate,4,IND,26
-Campbell,A803,David Goodwin,U.S. Senate,4,W,0
+Campbell,A803,Thomas Massie,U.S. House,4,R,513
+Campbell,A803,Seth Hall,U.S. House,4,D,253
+Campbell,A803,Mike Moffett,U.S. House,4,IND,26
+Campbell,A803,David Goodwin,U.S. House,4,W,0
 Campbell,A803,Wil Schroder,State Senate,24,R,500
 Campbell,A803,Rachel Roberts,State Senate,24,D,295
 Campbell,A803,Joseph M Fischer,State Representative,68,R,504
@@ -50,10 +50,10 @@ Campbell,A803,Jason Kilmer,State Representative,68,D,280
 Campbell,A804,,Ballots Cast,,,634
 Campbell,A804,,Straight Party,,D,172
 Campbell,A804,,Straight Party,,R,52
-Campbell,A804,Thomas Massie,U.S. Senate,4,R,431
-Campbell,A804,Seth Hall,U.S. Senate,4,D,154
-Campbell,A804,Mike Moffett,U.S. Senate,4,IND,20
-Campbell,A804,David Goodwin,U.S. Senate,4,W,0
+Campbell,A804,Thomas Massie,U.S. House,4,R,431
+Campbell,A804,Seth Hall,U.S. House,4,D,154
+Campbell,A804,Mike Moffett,U.S. House,4,IND,20
+Campbell,A804,David Goodwin,U.S. House,4,W,0
 Campbell,A804,Wil Schroder,State Senate,24,R,406
 Campbell,A804,Rachel Roberts,State Senate,24,D,213
 Campbell,A804,Joseph M Fischer,State Representative,68,R,402
@@ -61,10 +61,10 @@ Campbell,A804,Jason Kilmer,State Representative,68,D,218
 Campbell,B805,,Ballots Cast,,,677
 Campbell,B805,,Straight Party,,D,198
 Campbell,B805,,Straight Party,,R,84
-Campbell,B805,Thomas Massie,U.S. Senate,4,R,432
-Campbell,B805,Seth Hall,U.S. Senate,4,D,206
-Campbell,B805,Mike Moffett,U.S. Senate,4,IND,25
-Campbell,B805,David Goodwin,U.S. Senate,4,W,0
+Campbell,B805,Thomas Massie,U.S. House,4,R,432
+Campbell,B805,Seth Hall,U.S. House,4,D,206
+Campbell,B805,Mike Moffett,U.S. House,4,IND,25
+Campbell,B805,David Goodwin,U.S. House,4,W,0
 Campbell,B805,Wil Schroder,State Senate,24,R,419
 Campbell,B805,Rachel Roberts,State Senate,24,D,253
 Campbell,B805,Joseph M Fischer,State Representative,68,R,427
@@ -72,10 +72,10 @@ Campbell,B805,Jason Kilmer,State Representative,68,D,240
 Campbell,B806,,Ballots Cast,,,944
 Campbell,B806,,Straight Party,,D,232
 Campbell,B806,,Straight Party,,R,94
-Campbell,B806,Thomas Massie,U.S. Senate,4,R,633
-Campbell,B806,Seth Hall,U.S. Senate,4,D,254
-Campbell,B806,Mike Moffett,U.S. Senate,4,IND,27
-Campbell,B806,David Goodwin,U.S. Senate,4,W,2
+Campbell,B806,Thomas Massie,U.S. House,4,R,633
+Campbell,B806,Seth Hall,U.S. House,4,D,254
+Campbell,B806,Mike Moffett,U.S. House,4,IND,27
+Campbell,B806,David Goodwin,U.S. House,4,W,2
 Campbell,B806,Wil Schroder,State Senate,24,R,594
 Campbell,B806,Rachel Roberts,State Senate,24,D,332
 Campbell,B806,Joseph M Fischer,State Representative,68,R,589
@@ -83,10 +83,10 @@ Campbell,B806,Jason Kilmer,State Representative,68,D,329
 Campbell,B807,,Ballots Cast,,,502
 Campbell,B807,,Straight Party,,D,152
 Campbell,B807,,Straight Party,,R,52
-Campbell,B807,Thomas Massie,U.S. Senate,4,R,362
-Campbell,B807,Seth Hall,U.S. Senate,4,D,117
-Campbell,B807,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,B807,David Goodwin,U.S. Senate,4,W,0
+Campbell,B807,Thomas Massie,U.S. House,4,R,362
+Campbell,B807,Seth Hall,U.S. House,4,D,117
+Campbell,B807,Mike Moffett,U.S. House,4,IND,12
+Campbell,B807,David Goodwin,U.S. House,4,W,0
 Campbell,B807,Wil Schroder,State Senate,24,R,353
 Campbell,B807,Rachel Roberts,State Senate,24,D,148
 Campbell,B807,Joseph M Fischer,State Representative,68,R,355
@@ -94,10 +94,10 @@ Campbell,B807,Jason Kilmer,State Representative,68,D,143
 Campbell,C201,,Ballots Cast,,,590
 Campbell,C201,,Straight Party,,D,123
 Campbell,C201,,Straight Party,,R,146
-Campbell,C201,Thomas Massie,U.S. Senate,4,R,264
-Campbell,C201,Seth Hall,U.S. Senate,4,D,289
-Campbell,C201,Mike Moffett,U.S. Senate,4,IND,27
-Campbell,C201,David Goodwin,U.S. Senate,4,W,1
+Campbell,C201,Thomas Massie,U.S. House,4,R,264
+Campbell,C201,Seth Hall,U.S. House,4,D,289
+Campbell,C201,Mike Moffett,U.S. House,4,IND,27
+Campbell,C201,David Goodwin,U.S. House,4,W,1
 Campbell,C201,Wil Schroder,State Senate,24,R,247
 Campbell,C201,Rachel Roberts,State Senate,24,D,327
 Campbell,C201,Bob Schrage,State Representative,67,R,226
@@ -105,10 +105,10 @@ Campbell,C201,Dennis Keene,State Representative,67,D,353
 Campbell,C202,,Ballots Cast,,,463
 Campbell,C202,,Straight Party,,D,80
 Campbell,C202,,Straight Party,,R,94
-Campbell,C202,Thomas Massie,U.S. Senate,4,R,223
-Campbell,C202,Seth Hall,U.S. Senate,4,D,203
-Campbell,C202,Mike Moffett,U.S. Senate,4,IND,18
-Campbell,C202,David Goodwin,U.S. Senate,4,W,0
+Campbell,C202,Thomas Massie,U.S. House,4,R,223
+Campbell,C202,Seth Hall,U.S. House,4,D,203
+Campbell,C202,Mike Moffett,U.S. House,4,IND,18
+Campbell,C202,David Goodwin,U.S. House,4,W,0
 Campbell,C202,Wil Schroder,State Senate,24,R,224
 Campbell,C202,Rachel Roberts,State Senate,24,D,232
 Campbell,C202,Bob Schrage,State Representative,67,R,181
@@ -116,10 +116,10 @@ Campbell,C202,Dennis Keene,State Representative,67,D,274
 Campbell,C203,,Ballots Cast,,,525
 Campbell,C203,,Straight Party,,D,85
 Campbell,C203,,Straight Party,,R,88
-Campbell,C203,Thomas Massie,U.S. Senate,4,R,235
-Campbell,C203,Seth Hall,U.S. Senate,4,D,255
-Campbell,C203,Mike Moffett,U.S. Senate,4,IND,19
-Campbell,C203,David Goodwin,U.S. Senate,4,W,0
+Campbell,C203,Thomas Massie,U.S. House,4,R,235
+Campbell,C203,Seth Hall,U.S. House,4,D,255
+Campbell,C203,Mike Moffett,U.S. House,4,IND,19
+Campbell,C203,David Goodwin,U.S. House,4,W,0
 Campbell,C203,Wil Schroder,State Senate,24,R,223
 Campbell,C203,Rachel Roberts,State Senate,24,D,292
 Campbell,C203,Bob Schrage,State Representative,67,R,179
@@ -127,10 +127,10 @@ Campbell,C203,Dennis Keene,State Representative,67,D,337
 Campbell,C204,,Ballots Cast,,,568
 Campbell,C204,,Straight Party,,D,114
 Campbell,C204,,Straight Party,,R,136
-Campbell,C204,Thomas Massie,U.S. Senate,4,R,241
-Campbell,C204,Seth Hall,U.S. Senate,4,D,293
-Campbell,C204,Mike Moffett,U.S. Senate,4,IND,26
-Campbell,C204,David Goodwin,U.S. Senate,4,W,0
+Campbell,C204,Thomas Massie,U.S. House,4,R,241
+Campbell,C204,Seth Hall,U.S. House,4,D,293
+Campbell,C204,Mike Moffett,U.S. House,4,IND,26
+Campbell,C204,David Goodwin,U.S. House,4,W,0
 Campbell,C204,Wil Schroder,State Senate,24,R,227
 Campbell,C204,Rachel Roberts,State Senate,24,D,330
 Campbell,C204,Bob Schrage,State Representative,67,R,206
@@ -138,10 +138,10 @@ Campbell,C204,Dennis Keene,State Representative,67,D,353
 Campbell,B902,,Ballots Cast,,,424
 Campbell,B902,,Straight Party,,D,133
 Campbell,B902,,Straight Party,,R,41
-Campbell,B902,Thomas Massie,U.S. Senate,4,R,298
-Campbell,B902,Seth Hall,U.S. Senate,4,D,105
-Campbell,B902,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,B902,David Goodwin,U.S. Senate,4,W,0
+Campbell,B902,Thomas Massie,U.S. House,4,R,298
+Campbell,B902,Seth Hall,U.S. House,4,D,105
+Campbell,B902,Mike Moffett,U.S. House,4,IND,14
+Campbell,B902,David Goodwin,U.S. House,4,W,0
 Campbell,B902,Wil Schroder,State Senate,24,R,288
 Campbell,B902,Rachel Roberts,State Senate,24,D,127
 Campbell,B902,Joseph M Fischer,State Representative,68,R,287
@@ -149,10 +149,10 @@ Campbell,B902,Jason Kilmer,State Representative,68,D,129
 Campbell,B906,,Ballots Cast,,,600
 Campbell,B906,,Straight Party,,D,142
 Campbell,B906,,Straight Party,,R,65
-Campbell,B906,Thomas Massie,U.S. Senate,4,R,403
-Campbell,B906,Seth Hall,U.S. Senate,4,D,175
-Campbell,B906,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,B906,David Goodwin,U.S. Senate,4,W,0
+Campbell,B906,Thomas Massie,U.S. House,4,R,403
+Campbell,B906,Seth Hall,U.S. House,4,D,175
+Campbell,B906,Mike Moffett,U.S. House,4,IND,12
+Campbell,B906,David Goodwin,U.S. House,4,W,0
 Campbell,B906,Wil Schroder,State Senate,24,R,383
 Campbell,B906,Rachel Roberts,State Senate,24,D,209
 Campbell,B906,Joseph M Fischer,State Representative,68,R,375
@@ -160,10 +160,10 @@ Campbell,B906,Jason Kilmer,State Representative,68,D,215
 Campbell,B905,,Ballots Cast,,,841
 Campbell,B905,,Straight Party,,D,264
 Campbell,B905,,Straight Party,,R,92
-Campbell,B905,Thomas Massie,U.S. Senate,4,R,582
-Campbell,B905,Seth Hall,U.S. Senate,4,D,222
-Campbell,B905,Mike Moffett,U.S. Senate,4,IND,24
-Campbell,B905,David Goodwin,U.S. Senate,4,W,0
+Campbell,B905,Thomas Massie,U.S. House,4,R,582
+Campbell,B905,Seth Hall,U.S. House,4,D,222
+Campbell,B905,Mike Moffett,U.S. House,4,IND,24
+Campbell,B905,David Goodwin,U.S. House,4,W,0
 Campbell,B905,Wil Schroder,State Senate,24,R,544
 Campbell,B905,Rachel Roberts,State Senate,24,D,286
 Campbell,B905,Kimberly Poore Moser,State Representative,64,R,568
@@ -171,10 +171,10 @@ Campbell,B905,Larry Varney,State Representative,64,D,234
 Campbell,A701,,Ballots Cast,,,472
 Campbell,A701,,Straight Party,,D,114
 Campbell,A701,,Straight Party,,R,53
-Campbell,A701,Thomas Massie,U.S. Senate,4,R,309
-Campbell,A701,Seth Hall,U.S. Senate,4,D,135
-Campbell,A701,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,A701,David Goodwin,U.S. Senate,4,W,0
+Campbell,A701,Thomas Massie,U.S. House,4,R,309
+Campbell,A701,Seth Hall,U.S. House,4,D,135
+Campbell,A701,Mike Moffett,U.S. House,4,IND,12
+Campbell,A701,David Goodwin,U.S. House,4,W,0
 Campbell,A701,Wil Schroder,State Senate,24,R,299
 Campbell,A701,Rachel Roberts,State Senate,24,D,168
 Campbell,A701,Joseph M Fischer,State Representative,68,R,303
@@ -182,10 +182,10 @@ Campbell,A701,Jason Kilmer,State Representative,68,D,164
 Campbell,B702,,Ballots Cast,,,646
 Campbell,B702,,Straight Party,,D,123
 Campbell,B702,,Straight Party,,R,64
-Campbell,B702,Thomas Massie,U.S. Senate,4,R,390
-Campbell,B702,Seth Hall,U.S. Senate,4,D,201
-Campbell,B702,Mike Moffett,U.S. Senate,4,IND,38
-Campbell,B702,David Goodwin,U.S. Senate,4,W,0
+Campbell,B702,Thomas Massie,U.S. House,4,R,390
+Campbell,B702,Seth Hall,U.S. House,4,D,201
+Campbell,B702,Mike Moffett,U.S. House,4,IND,38
+Campbell,B702,David Goodwin,U.S. House,4,W,0
 Campbell,B702,Wil Schroder,State Senate,24,R,385
 Campbell,B702,Rachel Roberts,State Senate,24,D,248
 Campbell,B702,Joseph M Fischer,State Representative,68,R,375
@@ -193,10 +193,10 @@ Campbell,B702,Jason Kilmer,State Representative,68,D,253
 Campbell,A703,,Ballots Cast,,,689
 Campbell,A703,,Straight Party,,D,163
 Campbell,A703,,Straight Party,,R,96
-Campbell,A703,Thomas Massie,U.S. Senate,4,R,411
-Campbell,A703,Seth Hall,U.S. Senate,4,D,256
-Campbell,A703,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,A703,David Goodwin,U.S. Senate,4,W,0
+Campbell,A703,Thomas Massie,U.S. House,4,R,411
+Campbell,A703,Seth Hall,U.S. House,4,D,256
+Campbell,A703,Mike Moffett,U.S. House,4,IND,14
+Campbell,A703,David Goodwin,U.S. House,4,W,0
 Campbell,A703,Wil Schroder,State Senate,24,R,401
 Campbell,A703,Rachel Roberts,State Senate,24,D,281
 Campbell,A703,Joseph M Fischer,State Representative,68,R,396
@@ -204,10 +204,10 @@ Campbell,A703,Jason Kilmer,State Representative,68,D,282
 Campbell,B704,,Ballots Cast,,,647
 Campbell,B704,,Straight Party,,D,187
 Campbell,B704,,Straight Party,,R,102
-Campbell,B704,Thomas Massie,U.S. Senate,4,R,396
-Campbell,B704,Seth Hall,U.S. Senate,4,D,230
-Campbell,B704,Mike Moffett,U.S. Senate,4,IND,13
-Campbell,B704,David Goodwin,U.S. Senate,4,W,0
+Campbell,B704,Thomas Massie,U.S. House,4,R,396
+Campbell,B704,Seth Hall,U.S. House,4,D,230
+Campbell,B704,Mike Moffett,U.S. House,4,IND,13
+Campbell,B704,David Goodwin,U.S. House,4,W,0
 Campbell,B704,Wil Schroder,State Senate,24,R,388
 Campbell,B704,Rachel Roberts,State Senate,24,D,251
 Campbell,B704,Kimberly Poore Moser,State Representative,64,R,399
@@ -215,10 +215,10 @@ Campbell,B704,Larry Varney,State Representative,64,D,229
 Campbell,B705,,Ballots Cast,,,380
 Campbell,B705,,Straight Party,,D,87
 Campbell,B705,,Straight Party,,R,46
-Campbell,B705,Thomas Massie,U.S. Senate,4,R,259
-Campbell,B705,Seth Hall,U.S. Senate,4,D,110
-Campbell,B705,Mike Moffett,U.S. Senate,4,IND,10
-Campbell,B705,David Goodwin,U.S. Senate,4,W,0
+Campbell,B705,Thomas Massie,U.S. House,4,R,259
+Campbell,B705,Seth Hall,U.S. House,4,D,110
+Campbell,B705,Mike Moffett,U.S. House,4,IND,10
+Campbell,B705,David Goodwin,U.S. House,4,W,0
 Campbell,B705,Wil Schroder,State Senate,24,R,247
 Campbell,B705,Rachel Roberts,State Senate,24,D,130
 Campbell,B705,Joseph M Fischer,State Representative,68,R,243
@@ -226,10 +226,10 @@ Campbell,B705,Jason Kilmer,State Representative,68,D,131
 Campbell,B706,,Ballots Cast,,,1145
 Campbell,B706,,Straight Party,,D,285
 Campbell,B706,,Straight Party,,R,186
-Campbell,B706,Thomas Massie,U.S. Senate,4,R,669
-Campbell,B706,Seth Hall,U.S. Senate,4,D,426
-Campbell,B706,Mike Moffett,U.S. Senate,4,IND,31
-Campbell,B706,David Goodwin,U.S. Senate,4,W,0
+Campbell,B706,Thomas Massie,U.S. House,4,R,669
+Campbell,B706,Seth Hall,U.S. House,4,D,426
+Campbell,B706,Mike Moffett,U.S. House,4,IND,31
+Campbell,B706,David Goodwin,U.S. House,4,W,0
 Campbell,B706,Wil Schroder,State Senate,24,R,665
 Campbell,B706,Rachel Roberts,State Senate,24,D,472
 Campbell,B706,Joseph M Fischer,State Representative,68,R,645
@@ -237,10 +237,10 @@ Campbell,B706,Jason Kilmer,State Representative,68,D,478
 Campbell,C101,,Ballots Cast,,,435
 Campbell,C101,,Straight Party,,D,78
 Campbell,C101,,Straight Party,,R,98
-Campbell,C101,Thomas Massie,U.S. Senate,4,R,203
-Campbell,C101,Seth Hall,U.S. Senate,4,D,188
-Campbell,C101,Mike Moffett,U.S. Senate,4,IND,25
-Campbell,C101,David Goodwin,U.S. Senate,4,W,0
+Campbell,C101,Thomas Massie,U.S. House,4,R,203
+Campbell,C101,Seth Hall,U.S. House,4,D,188
+Campbell,C101,Mike Moffett,U.S. House,4,IND,25
+Campbell,C101,David Goodwin,U.S. House,4,W,0
 Campbell,C101,Wil Schroder,State Senate,24,R,183
 Campbell,C101,Rachel Roberts,State Senate,24,D,238
 Campbell,C101,Bob Schrage,State Representative,67,R,172
@@ -248,10 +248,10 @@ Campbell,C101,Dennis Keene,State Representative,67,D,247
 Campbell,C102,,Ballots Cast,,,603
 Campbell,C102,,Straight Party,,D,127
 Campbell,C102,,Straight Party,,R,108
-Campbell,C102,Thomas Massie,U.S. Senate,4,R,282
-Campbell,C102,Seth Hall,U.S. Senate,4,D,273
-Campbell,C102,Mike Moffett,U.S. Senate,4,IND,24
-Campbell,C102,David Goodwin,U.S. Senate,4,W,0
+Campbell,C102,Thomas Massie,U.S. House,4,R,282
+Campbell,C102,Seth Hall,U.S. House,4,D,273
+Campbell,C102,Mike Moffett,U.S. House,4,IND,24
+Campbell,C102,David Goodwin,U.S. House,4,W,0
 Campbell,C102,Wil Schroder,State Senate,24,R,268
 Campbell,C102,Rachel Roberts,State Senate,24,D,319
 Campbell,C102,Bob Schrage,State Representative,67,R,247
@@ -259,10 +259,10 @@ Campbell,C102,Dennis Keene,State Representative,67,D,341
 Campbell,C103,,Ballots Cast,,,431
 Campbell,C103,,Straight Party,,D,119
 Campbell,C103,,Straight Party,,R,94
-Campbell,C103,Thomas Massie,U.S. Senate,4,R,227
-Campbell,C103,Seth Hall,U.S. Senate,4,D,173
-Campbell,C103,Mike Moffett,U.S. Senate,4,IND,17
-Campbell,C103,David Goodwin,U.S. Senate,4,W,0
+Campbell,C103,Thomas Massie,U.S. House,4,R,227
+Campbell,C103,Seth Hall,U.S. House,4,D,173
+Campbell,C103,Mike Moffett,U.S. House,4,IND,17
+Campbell,C103,David Goodwin,U.S. House,4,W,0
 Campbell,C103,Wil Schroder,State Senate,24,R,221
 Campbell,C103,Rachel Roberts,State Senate,24,D,202
 Campbell,C103,Bob Schrage,State Representative,67,R,199
@@ -270,10 +270,10 @@ Campbell,C103,Dennis Keene,State Representative,67,D,225
 Campbell,C401,,Ballots Cast,,,612
 Campbell,C401,,Straight Party,,D,129
 Campbell,C401,,Straight Party,,R,65
-Campbell,C401,Thomas Massie,U.S. Senate,4,R,415
-Campbell,C401,Seth Hall,U.S. Senate,4,D,155
-Campbell,C401,Mike Moffett,U.S. Senate,4,IND,22
-Campbell,C401,David Goodwin,U.S. Senate,4,W,0
+Campbell,C401,Thomas Massie,U.S. House,4,R,415
+Campbell,C401,Seth Hall,U.S. House,4,D,155
+Campbell,C401,Mike Moffett,U.S. House,4,IND,22
+Campbell,C401,David Goodwin,U.S. House,4,W,0
 Campbell,C401,Wil Schroder,State Senate,24,R,400
 Campbell,C401,Rachel Roberts,State Senate,24,D,203
 Campbell,C401,Joseph M Fischer,State Representative,68,R,417
@@ -281,10 +281,10 @@ Campbell,C401,Jason Kilmer,State Representative,68,D,180
 Campbell,A402,,Ballots Cast,,,815
 Campbell,A402,,Straight Party,,D,168
 Campbell,A402,,Straight Party,,R,103
-Campbell,A402,Thomas Massie,U.S. Senate,4,R,463
-Campbell,A402,Seth Hall,U.S. Senate,4,D,304
-Campbell,A402,Mike Moffett,U.S. Senate,4,IND,27
-Campbell,A402,David Goodwin,U.S. Senate,4,W,0
+Campbell,A402,Thomas Massie,U.S. House,4,R,463
+Campbell,A402,Seth Hall,U.S. House,4,D,304
+Campbell,A402,Mike Moffett,U.S. House,4,IND,27
+Campbell,A402,David Goodwin,U.S. House,4,W,0
 Campbell,A402,Wil Schroder,State Senate,24,R,451
 Campbell,A402,Rachel Roberts,State Senate,24,D,355
 Campbell,A402,Joseph M Fischer,State Representative,68,R,464
@@ -292,10 +292,10 @@ Campbell,A402,Jason Kilmer,State Representative,68,D,337
 Campbell,A403,,Ballots Cast,,,643
 Campbell,A403,,Straight Party,,D,131
 Campbell,A403,,Straight Party,,R,74
-Campbell,A403,Thomas Massie,U.S. Senate,4,R,348
-Campbell,A403,Seth Hall,U.S. Senate,4,D,259
-Campbell,A403,Mike Moffett,U.S. Senate,4,IND,21
-Campbell,A403,David Goodwin,U.S. Senate,4,W,0
+Campbell,A403,Thomas Massie,U.S. House,4,R,348
+Campbell,A403,Seth Hall,U.S. House,4,D,259
+Campbell,A403,Mike Moffett,U.S. House,4,IND,21
+Campbell,A403,David Goodwin,U.S. House,4,W,0
 Campbell,A403,Wil Schroder,State Senate,24,R,328
 Campbell,A403,Rachel Roberts,State Senate,24,D,309
 Campbell,A403,Joseph M Fischer,State Representative,68,R,332
@@ -303,10 +303,10 @@ Campbell,A403,Jason Kilmer,State Representative,68,D,297
 Campbell,A405,,Ballots Cast,,,479
 Campbell,A405,,Straight Party,,D,94
 Campbell,A405,,Straight Party,,R,60
-Campbell,A405,Thomas Massie,U.S. Senate,4,R,261
-Campbell,A405,Seth Hall,U.S. Senate,4,D,196
-Campbell,A405,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,A405,David Goodwin,U.S. Senate,4,W,0
+Campbell,A405,Thomas Massie,U.S. House,4,R,261
+Campbell,A405,Seth Hall,U.S. House,4,D,196
+Campbell,A405,Mike Moffett,U.S. House,4,IND,12
+Campbell,A405,David Goodwin,U.S. House,4,W,0
 Campbell,A405,Wil Schroder,State Senate,24,R,261
 Campbell,A405,Rachel Roberts,State Senate,24,D,210
 Campbell,A405,Joseph M Fischer,State Representative,68,R,253
@@ -314,10 +314,10 @@ Campbell,A405,Jason Kilmer,State Representative,68,D,208
 Campbell,A406,,Ballots Cast,,,168
 Campbell,A406,,Straight Party,,D,29
 Campbell,A406,,Straight Party,,R,37
-Campbell,A406,Thomas Massie,U.S. Senate,4,R,69
-Campbell,A406,Seth Hall,U.S. Senate,4,D,89
-Campbell,A406,Mike Moffett,U.S. Senate,4,IND,9
-Campbell,A406,David Goodwin,U.S. Senate,4,W,0
+Campbell,A406,Thomas Massie,U.S. House,4,R,69
+Campbell,A406,Seth Hall,U.S. House,4,D,89
+Campbell,A406,Mike Moffett,U.S. House,4,IND,9
+Campbell,A406,David Goodwin,U.S. House,4,W,0
 Campbell,A406,Wil Schroder,State Senate,24,R,76
 Campbell,A406,Rachel Roberts,State Senate,24,D,90
 Campbell,A406,Joseph M Fischer,State Representative,68,R,68
@@ -325,10 +325,10 @@ Campbell,A406,Jason Kilmer,State Representative,68,D,97
 Campbell,A408,,Ballots Cast,,,765
 Campbell,A408,,Straight Party,,D,139
 Campbell,A408,,Straight Party,,R,73
-Campbell,A408,Thomas Massie,U.S. Senate,4,R,427
-Campbell,A408,Seth Hall,U.S. Senate,4,D,290
-Campbell,A408,Mike Moffett,U.S. Senate,4,IND,27
-Campbell,A408,David Goodwin,U.S. Senate,4,W,0
+Campbell,A408,Thomas Massie,U.S. House,4,R,427
+Campbell,A408,Seth Hall,U.S. House,4,D,290
+Campbell,A408,Mike Moffett,U.S. House,4,IND,27
+Campbell,A408,David Goodwin,U.S. House,4,W,0
 Campbell,A408,Wil Schroder,State Senate,24,R,397
 Campbell,A408,Rachel Roberts,State Senate,24,D,353
 Campbell,A408,Joseph M Fischer,State Representative,68,R,406
@@ -336,10 +336,10 @@ Campbell,A408,Jason Kilmer,State Representative,68,D,336
 Campbell,A415,,Ballots Cast,,,230
 Campbell,A415,,Straight Party,,D,51
 Campbell,A415,,Straight Party,,R,56
-Campbell,A415,Thomas Massie,U.S. Senate,4,R,93
-Campbell,A415,Seth Hall,U.S. Senate,4,D,124
-Campbell,A415,Mike Moffett,U.S. Senate,4,IND,8
-Campbell,A415,David Goodwin,U.S. Senate,4,W,0
+Campbell,A415,Thomas Massie,U.S. House,4,R,93
+Campbell,A415,Seth Hall,U.S. House,4,D,124
+Campbell,A415,Mike Moffett,U.S. House,4,IND,8
+Campbell,A415,David Goodwin,U.S. House,4,W,0
 Campbell,A415,Wil Schroder,State Senate,24,R,94
 Campbell,A415,Rachel Roberts,State Senate,24,D,134
 Campbell,A415,Joseph M Fischer,State Representative,68,R,97
@@ -347,10 +347,10 @@ Campbell,A415,Jason Kilmer,State Representative,68,D,126
 Campbell,C416,,Ballots Cast,,,419
 Campbell,C416,,Straight Party,,D,94
 Campbell,C416,,Straight Party,,R,71
-Campbell,C416,Thomas Massie,U.S. Senate,4,R,210
-Campbell,C416,Seth Hall,U.S. Senate,4,D,188
-Campbell,C416,Mike Moffett,U.S. Senate,4,IND,17
-Campbell,C416,David Goodwin,U.S. Senate,4,W,0
+Campbell,C416,Thomas Massie,U.S. House,4,R,210
+Campbell,C416,Seth Hall,U.S. House,4,D,188
+Campbell,C416,Mike Moffett,U.S. House,4,IND,17
+Campbell,C416,David Goodwin,U.S. House,4,W,0
 Campbell,C416,Wil Schroder,State Senate,24,R,217
 Campbell,C416,Rachel Roberts,State Senate,24,D,200
 Campbell,C416,Joseph M Fischer,State Representative,68,R,226
@@ -358,10 +358,10 @@ Campbell,C416,Jason Kilmer,State Representative,68,D,181
 Campbell,A409,,Ballots Cast,,,577
 Campbell,A409,,Straight Party,,D,116
 Campbell,A409,,Straight Party,,R,81
-Campbell,A409,Thomas Massie,U.S. Senate,4,R,308
-Campbell,A409,Seth Hall,U.S. Senate,4,D,247
-Campbell,A409,Mike Moffett,U.S. Senate,4,IND,15
-Campbell,A409,David Goodwin,U.S. Senate,4,W,0
+Campbell,A409,Thomas Massie,U.S. House,4,R,308
+Campbell,A409,Seth Hall,U.S. House,4,D,247
+Campbell,A409,Mike Moffett,U.S. House,4,IND,15
+Campbell,A409,David Goodwin,U.S. House,4,W,0
 Campbell,A409,Wil Schroder,State Senate,24,R,298
 Campbell,A409,Rachel Roberts,State Senate,24,D,277
 Campbell,A409,Joseph M Fischer,State Representative,68,R,294
@@ -369,10 +369,10 @@ Campbell,A409,Jason Kilmer,State Representative,68,D,275
 Campbell,A410,,Ballots Cast,,,492
 Campbell,A410,,Straight Party,,D,101
 Campbell,A410,,Straight Party,,R,48
-Campbell,A410,Thomas Massie,U.S. Senate,4,R,279
-Campbell,A410,Seth Hall,U.S. Senate,4,D,179
-Campbell,A410,Mike Moffett,U.S. Senate,4,IND,21
-Campbell,A410,David Goodwin,U.S. Senate,4,W,0
+Campbell,A410,Thomas Massie,U.S. House,4,R,279
+Campbell,A410,Seth Hall,U.S. House,4,D,179
+Campbell,A410,Mike Moffett,U.S. House,4,IND,21
+Campbell,A410,David Goodwin,U.S. House,4,W,0
 Campbell,A410,Wil Schroder,State Senate,24,R,282
 Campbell,A410,Rachel Roberts,State Senate,24,D,205
 Campbell,A410,Joseph M Fischer,State Representative,68,R,292
@@ -380,10 +380,10 @@ Campbell,A410,Jason Kilmer,State Representative,68,D,189
 Campbell,A411,,Ballots Cast,,,270
 Campbell,A411,,Straight Party,,D,40
 Campbell,A411,,Straight Party,,R,47
-Campbell,A411,Thomas Massie,U.S. Senate,4,R,132
-Campbell,A411,Seth Hall,U.S. Senate,4,D,116
-Campbell,A411,Mike Moffett,U.S. Senate,4,IND,16
-Campbell,A411,David Goodwin,U.S. Senate,4,W,0
+Campbell,A411,Thomas Massie,U.S. House,4,R,132
+Campbell,A411,Seth Hall,U.S. House,4,D,116
+Campbell,A411,Mike Moffett,U.S. House,4,IND,16
+Campbell,A411,David Goodwin,U.S. House,4,W,0
 Campbell,A411,Wil Schroder,State Senate,24,R,124
 Campbell,A411,Rachel Roberts,State Senate,24,D,138
 Campbell,A411,Joseph M Fischer,State Representative,68,R,129
@@ -391,10 +391,10 @@ Campbell,A411,Jason Kilmer,State Representative,68,D,131
 Campbell,A412,,Ballots Cast,,,608
 Campbell,A412,,Straight Party,,D,139
 Campbell,A412,,Straight Party,,R,78
-Campbell,A412,Thomas Massie,U.S. Senate,4,R,365
-Campbell,A412,Seth Hall,U.S. Senate,4,D,215
-Campbell,A412,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,A412,David Goodwin,U.S. Senate,4,W,0
+Campbell,A412,Thomas Massie,U.S. House,4,R,365
+Campbell,A412,Seth Hall,U.S. House,4,D,215
+Campbell,A412,Mike Moffett,U.S. House,4,IND,14
+Campbell,A412,David Goodwin,U.S. House,4,W,0
 Campbell,A412,Wil Schroder,State Senate,24,R,347
 Campbell,A412,Rachel Roberts,State Senate,24,D,254
 Campbell,A412,Joseph M Fischer,State Representative,68,R,345
@@ -402,10 +402,10 @@ Campbell,A412,Jason Kilmer,State Representative,68,D,248
 Campbell,A414,,Ballots Cast,,,315
 Campbell,A414,,Straight Party,,D,84
 Campbell,A414,,Straight Party,,R,53
-Campbell,A414,Thomas Massie,U.S. Senate,4,R,171
-Campbell,A414,Seth Hall,U.S. Senate,4,D,120
-Campbell,A414,Mike Moffett,U.S. Senate,4,IND,19
-Campbell,A414,David Goodwin,U.S. Senate,4,W,0
+Campbell,A414,Thomas Massie,U.S. House,4,R,171
+Campbell,A414,Seth Hall,U.S. House,4,D,120
+Campbell,A414,Mike Moffett,U.S. House,4,IND,19
+Campbell,A414,David Goodwin,U.S. House,4,W,0
 Campbell,A414,Wil Schroder,State Senate,24,R,169
 Campbell,A414,Rachel Roberts,State Senate,24,D,141
 Campbell,A414,Joseph M Fischer,State Representative,68,R,162
@@ -413,10 +413,10 @@ Campbell,A414,Jason Kilmer,State Representative,68,D,150
 Campbell,A418,,Ballots Cast,,,782
 Campbell,A418,,Straight Party,,D,141
 Campbell,A418,,Straight Party,,R,129
-Campbell,A418,Thomas Massie,U.S. Senate,4,R,398
-Campbell,A418,Seth Hall,U.S. Senate,4,D,338
-Campbell,A418,Mike Moffett,U.S. Senate,4,IND,32
-Campbell,A418,David Goodwin,U.S. Senate,4,W,0
+Campbell,A418,Thomas Massie,U.S. House,4,R,398
+Campbell,A418,Seth Hall,U.S. House,4,D,338
+Campbell,A418,Mike Moffett,U.S. House,4,IND,32
+Campbell,A418,David Goodwin,U.S. House,4,W,0
 Campbell,A418,Wil Schroder,State Senate,24,R,379
 Campbell,A418,Rachel Roberts,State Senate,24,D,395
 Campbell,A418,Joseph M Fischer,State Representative,68,R,374
@@ -424,10 +424,10 @@ Campbell,A418,Jason Kilmer,State Representative,68,D,390
 Campbell,A419,,Ballots Cast,,,327
 Campbell,A419,,Straight Party,,D,77
 Campbell,A419,,Straight Party,,R,39
-Campbell,A419,Thomas Massie,U.S. Senate,4,R,184
-Campbell,A419,Seth Hall,U.S. Senate,4,D,124
-Campbell,A419,Mike Moffett,U.S. Senate,4,IND,11
-Campbell,A419,David Goodwin,U.S. Senate,4,W,0
+Campbell,A419,Thomas Massie,U.S. House,4,R,184
+Campbell,A419,Seth Hall,U.S. House,4,D,124
+Campbell,A419,Mike Moffett,U.S. House,4,IND,11
+Campbell,A419,David Goodwin,U.S. House,4,W,0
 Campbell,A419,Wil Schroder,State Senate,24,R,182
 Campbell,A419,Rachel Roberts,State Senate,24,D,143
 Campbell,A419,Joseph M Fischer,State Representative,68,R,179
@@ -435,10 +435,10 @@ Campbell,A419,Jason Kilmer,State Representative,68,D,142
 Campbell,A417,,Ballots Cast,,,0
 Campbell,A417,,Straight Party,,D,0
 Campbell,A417,,Straight Party,,R,0
-Campbell,A417,Thomas Massie,U.S. Senate,4,R,0
-Campbell,A417,Seth Hall,U.S. Senate,4,D,0
-Campbell,A417,Mike Moffett,U.S. Senate,4,IND,0
-Campbell,A417,David Goodwin,U.S. Senate,4,W,0
+Campbell,A417,Thomas Massie,U.S. House,4,R,0
+Campbell,A417,Seth Hall,U.S. House,4,D,0
+Campbell,A417,Mike Moffett,U.S. House,4,IND,0
+Campbell,A417,David Goodwin,U.S. House,4,W,0
 Campbell,A417,Wil Schroder,State Senate,24,R,0
 Campbell,A417,Rachel Roberts,State Senate,24,D,0
 Campbell,A417,Bob Schrage,State Representative,67,R,0
@@ -446,10 +446,10 @@ Campbell,A417,Dennis Keene,State Representative,67,D,0
 Campbell,B904,,Ballots Cast,,,1031
 Campbell,B904,,Straight Party,,D,334
 Campbell,B904,,Straight Party,,R,96
-Campbell,B904,Thomas Massie,U.S. Senate,4,R,780
-Campbell,B904,Seth Hall,U.S. Senate,4,D,204
-Campbell,B904,Mike Moffett,U.S. Senate,4,IND,33
-Campbell,B904,David Goodwin,U.S. Senate,4,W,0
+Campbell,B904,Thomas Massie,U.S. House,4,R,780
+Campbell,B904,Seth Hall,U.S. House,4,D,204
+Campbell,B904,Mike Moffett,U.S. House,4,IND,33
+Campbell,B904,David Goodwin,U.S. House,4,W,0
 Campbell,B904,Wil Schroder,State Senate,24,R,735
 Campbell,B904,Rachel Roberts,State Senate,24,D,285
 Campbell,B904,Joseph M Fischer,State Representative,68,R,728
@@ -457,10 +457,10 @@ Campbell,B904,Jason Kilmer,State Representative,68,D,292
 Campbell,A601,,Ballots Cast,,,238
 Campbell,A601,,Straight Party,,D,42
 Campbell,A601,,Straight Party,,R,53
-Campbell,A601,Thomas Massie,U.S. Senate,4,R,116
-Campbell,A601,Seth Hall,U.S. Senate,4,D,98
-Campbell,A601,Mike Moffett,U.S. Senate,4,IND,13
-Campbell,A601,David Goodwin,U.S. Senate,4,W,0
+Campbell,A601,Thomas Massie,U.S. House,4,R,116
+Campbell,A601,Seth Hall,U.S. House,4,D,98
+Campbell,A601,Mike Moffett,U.S. House,4,IND,13
+Campbell,A601,David Goodwin,U.S. House,4,W,0
 Campbell,A601,Wil Schroder,State Senate,24,R,122
 Campbell,A601,Rachel Roberts,State Senate,24,D,114
 Campbell,A601,Bob Schrage,State Representative,67,R,104
@@ -468,10 +468,10 @@ Campbell,A601,Dennis Keene,State Representative,67,D,130
 Campbell,A602,,Ballots Cast,,,382
 Campbell,A602,,Straight Party,,D,108
 Campbell,A602,,Straight Party,,R,85
-Campbell,A602,Thomas Massie,U.S. Senate,4,R,213
-Campbell,A602,Seth Hall,U.S. Senate,4,D,144
-Campbell,A602,Mike Moffett,U.S. Senate,4,IND,17
-Campbell,A602,David Goodwin,U.S. Senate,4,W,0
+Campbell,A602,Thomas Massie,U.S. House,4,R,213
+Campbell,A602,Seth Hall,U.S. House,4,D,144
+Campbell,A602,Mike Moffett,U.S. House,4,IND,17
+Campbell,A602,David Goodwin,U.S. House,4,W,0
 Campbell,A602,Wil Schroder,State Senate,24,R,210
 Campbell,A602,Rachel Roberts,State Senate,24,D,165
 Campbell,A602,Bob Schrage,State Representative,67,R,196
@@ -479,10 +479,10 @@ Campbell,A602,Dennis Keene,State Representative,67,D,182
 Campbell,A603,,Ballots Cast,,,234
 Campbell,A603,,Straight Party,,D,40
 Campbell,A603,,Straight Party,,R,41
-Campbell,A603,Thomas Massie,U.S. Senate,4,R,129
-Campbell,A603,Seth Hall,U.S. Senate,4,D,89
-Campbell,A603,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,A603,David Goodwin,U.S. Senate,4,W,0
+Campbell,A603,Thomas Massie,U.S. House,4,R,129
+Campbell,A603,Seth Hall,U.S. House,4,D,89
+Campbell,A603,Mike Moffett,U.S. House,4,IND,14
+Campbell,A603,David Goodwin,U.S. House,4,W,0
 Campbell,A603,Wil Schroder,State Senate,24,R,127
 Campbell,A603,Rachel Roberts,State Senate,24,D,106
 Campbell,A603,Joseph M Fischer,State Representative,68,R,127
@@ -490,10 +490,10 @@ Campbell,A603,Jason Kilmer,State Representative,68,D,104
 Campbell,A604,,Ballots Cast,,,194
 Campbell,A604,,Straight Party,,D,20
 Campbell,A604,,Straight Party,,R,67
-Campbell,A604,Thomas Massie,U.S. Senate,4,R,55
-Campbell,A604,Seth Hall,U.S. Senate,4,D,126
-Campbell,A604,Mike Moffett,U.S. Senate,4,IND,7
-Campbell,A604,David Goodwin,U.S. Senate,4,W,0
+Campbell,A604,Thomas Massie,U.S. House,4,R,55
+Campbell,A604,Seth Hall,U.S. House,4,D,126
+Campbell,A604,Mike Moffett,U.S. House,4,IND,7
+Campbell,A604,David Goodwin,U.S. House,4,W,0
 Campbell,A604,Wil Schroder,State Senate,24,R,54
 Campbell,A604,Rachel Roberts,State Senate,24,D,138
 Campbell,A604,Bob Schrage,State Representative,67,R,52
@@ -501,10 +501,10 @@ Campbell,A604,Dennis Keene,State Representative,67,D,136
 Campbell,A605,,Ballots Cast,,,712
 Campbell,A605,,Straight Party,,D,190
 Campbell,A605,,Straight Party,,R,131
-Campbell,A605,Thomas Massie,U.S. Senate,4,R,387
-Campbell,A605,Seth Hall,U.S. Senate,4,D,288
-Campbell,A605,Mike Moffett,U.S. Senate,4,IND,21
-Campbell,A605,David Goodwin,U.S. Senate,4,W,0
+Campbell,A605,Thomas Massie,U.S. House,4,R,387
+Campbell,A605,Seth Hall,U.S. House,4,D,288
+Campbell,A605,Mike Moffett,U.S. House,4,IND,21
+Campbell,A605,David Goodwin,U.S. House,4,W,0
 Campbell,A605,Wil Schroder,State Senate,24,R,386
 Campbell,A605,Rachel Roberts,State Senate,24,D,318
 Campbell,A605,Bob Schrage,State Representative,67,R,347
@@ -512,10 +512,10 @@ Campbell,A605,Dennis Keene,State Representative,67,D,354
 Campbell,B909,,Ballots Cast,,,796
 Campbell,B909,,Straight Party,,D,139
 Campbell,B909,,Straight Party,,R,92
-Campbell,B909,Thomas Massie,U.S. Senate,4,R,481
-Campbell,B909,Seth Hall,U.S. Senate,4,D,271
-Campbell,B909,Mike Moffett,U.S. Senate,4,IND,22
-Campbell,B909,David Goodwin,U.S. Senate,4,W,0
+Campbell,B909,Thomas Massie,U.S. House,4,R,481
+Campbell,B909,Seth Hall,U.S. House,4,D,271
+Campbell,B909,Mike Moffett,U.S. House,4,IND,22
+Campbell,B909,David Goodwin,U.S. House,4,W,0
 Campbell,B909,Wil Schroder,State Senate,24,R,485
 Campbell,B909,Rachel Roberts,State Senate,24,D,320
 Campbell,B909,Bob Schrage,State Representative,67,R,353
@@ -523,10 +523,10 @@ Campbell,B909,Dennis Keene,State Representative,67,D,435
 Campbell,B910,,Ballots Cast,,,170
 Campbell,B910,,Straight Party,,D,36
 Campbell,B910,,Straight Party,,R,31
-Campbell,B910,Thomas Massie,U.S. Senate,4,R,82
-Campbell,B910,Seth Hall,U.S. Senate,4,D,77
-Campbell,B910,Mike Moffett,U.S. Senate,4,IND,8
-Campbell,B910,David Goodwin,U.S. Senate,4,W,0
+Campbell,B910,Thomas Massie,U.S. House,4,R,82
+Campbell,B910,Seth Hall,U.S. House,4,D,77
+Campbell,B910,Mike Moffett,U.S. House,4,IND,8
+Campbell,B910,David Goodwin,U.S. House,4,W,0
 Campbell,B910,Wil Schroder,State Senate,24,R,77
 Campbell,B910,Rachel Roberts,State Senate,24,D,88
 Campbell,B910,Bob Schrage,State Representative,67,R,74
@@ -534,10 +534,10 @@ Campbell,B910,Dennis Keene,State Representative,67,D,91
 Campbell,B901,,Ballots Cast,,,393
 Campbell,B901,,Straight Party,,D,107
 Campbell,B901,,Straight Party,,R,21
-Campbell,B901,Thomas Massie,U.S. Senate,4,R,307
-Campbell,B901,Seth Hall,U.S. Senate,4,D,69
-Campbell,B901,Mike Moffett,U.S. Senate,4,IND,10
-Campbell,B901,David Goodwin,U.S. Senate,4,W,0
+Campbell,B901,Thomas Massie,U.S. House,4,R,307
+Campbell,B901,Seth Hall,U.S. House,4,D,69
+Campbell,B901,Mike Moffett,U.S. House,4,IND,10
+Campbell,B901,David Goodwin,U.S. House,4,W,0
 Campbell,B901,Wil Schroder,State Senate,24,R,285
 Campbell,B901,Rachel Roberts,State Senate,24,D,102
 Campbell,B901,Joseph M Fischer,State Representative,68,R,287
@@ -545,10 +545,10 @@ Campbell,B901,Jason Kilmer,State Representative,68,D,98
 Campbell,C301,,Ballots Cast,,,520
 Campbell,C301,,Straight Party,,D,70
 Campbell,C301,,Straight Party,,R,181
-Campbell,C301,Thomas Massie,U.S. Senate,4,R,165
-Campbell,C301,Seth Hall,U.S. Senate,4,D,333
-Campbell,C301,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,C301,David Goodwin,U.S. Senate,4,W,0
+Campbell,C301,Thomas Massie,U.S. House,4,R,165
+Campbell,C301,Seth Hall,U.S. House,4,D,333
+Campbell,C301,Mike Moffett,U.S. House,4,IND,14
+Campbell,C301,David Goodwin,U.S. House,4,W,0
 Campbell,C301,Wil Schroder,State Senate,24,R,143
 Campbell,C301,Rachel Roberts,State Senate,24,D,370
 Campbell,C301,Bob Schrage,State Representative,67,R,144
@@ -556,10 +556,10 @@ Campbell,C301,Dennis Keene,State Representative,67,D,370
 Campbell,C302,,Ballots Cast,,,533
 Campbell,C302,,Straight Party,,D,96
 Campbell,C302,,Straight Party,,R,124
-Campbell,C302,Thomas Massie,U.S. Senate,4,R,191
-Campbell,C302,Seth Hall,U.S. Senate,4,D,311
-Campbell,C302,Mike Moffett,U.S. Senate,4,IND,19
-Campbell,C302,David Goodwin,U.S. Senate,4,W,0
+Campbell,C302,Thomas Massie,U.S. House,4,R,191
+Campbell,C302,Seth Hall,U.S. House,4,D,311
+Campbell,C302,Mike Moffett,U.S. House,4,IND,19
+Campbell,C302,David Goodwin,U.S. House,4,W,0
 Campbell,C302,Wil Schroder,State Senate,24,R,183
 Campbell,C302,Rachel Roberts,State Senate,24,D,343
 Campbell,C302,Bob Schrage,State Representative,67,R,187
@@ -567,10 +567,10 @@ Campbell,C302,Dennis Keene,State Representative,67,D,339
 Campbell,C303,,Ballots Cast,,,170
 Campbell,C303,,Straight Party,,D,30
 Campbell,C303,,Straight Party,,R,74
-Campbell,C303,Thomas Massie,U.S. Senate,4,R,50
-Campbell,C303,Seth Hall,U.S. Senate,4,D,110
-Campbell,C303,Mike Moffett,U.S. Senate,4,IND,7
-Campbell,C303,David Goodwin,U.S. Senate,4,W,0
+Campbell,C303,Thomas Massie,U.S. House,4,R,50
+Campbell,C303,Seth Hall,U.S. House,4,D,110
+Campbell,C303,Mike Moffett,U.S. House,4,IND,7
+Campbell,C303,David Goodwin,U.S. House,4,W,0
 Campbell,C303,Wil Schroder,State Senate,24,R,50
 Campbell,C303,Rachel Roberts,State Senate,24,D,118
 Campbell,C303,Bob Schrage,State Representative,67,R,42
@@ -578,10 +578,10 @@ Campbell,C303,Dennis Keene,State Representative,67,D,125
 Campbell,C304,,Ballots Cast,,,376
 Campbell,C304,,Straight Party,,D,53
 Campbell,C304,,Straight Party,,R,100
-Campbell,C304,Thomas Massie,U.S. Senate,4,R,129
-Campbell,C304,Seth Hall,U.S. Senate,4,D,231
-Campbell,C304,Mike Moffett,U.S. Senate,4,IND,8
-Campbell,C304,David Goodwin,U.S. Senate,4,W,0
+Campbell,C304,Thomas Massie,U.S. House,4,R,129
+Campbell,C304,Seth Hall,U.S. House,4,D,231
+Campbell,C304,Mike Moffett,U.S. House,4,IND,8
+Campbell,C304,David Goodwin,U.S. House,4,W,0
 Campbell,C304,Wil Schroder,State Senate,24,R,108
 Campbell,C304,Rachel Roberts,State Senate,24,D,265
 Campbell,C304,Bob Schrage,State Representative,67,R,113
@@ -589,10 +589,10 @@ Campbell,C304,Dennis Keene,State Representative,67,D,256
 Campbell,C305,,Ballots Cast,,,258
 Campbell,C305,,Straight Party,,D,58
 Campbell,C305,,Straight Party,,R,78
-Campbell,C305,Thomas Massie,U.S. Senate,4,R,102
-Campbell,C305,Seth Hall,U.S. Senate,4,D,140
-Campbell,C305,Mike Moffett,U.S. Senate,4,IND,11
-Campbell,C305,David Goodwin,U.S. Senate,4,W,0
+Campbell,C305,Thomas Massie,U.S. House,4,R,102
+Campbell,C305,Seth Hall,U.S. House,4,D,140
+Campbell,C305,Mike Moffett,U.S. House,4,IND,11
+Campbell,C305,David Goodwin,U.S. House,4,W,0
 Campbell,C305,Wil Schroder,State Senate,24,R,95
 Campbell,C305,Rachel Roberts,State Senate,24,D,161
 Campbell,C305,Bob Schrage,State Representative,67,R,92
@@ -600,10 +600,10 @@ Campbell,C305,Dennis Keene,State Representative,67,D,163
 Campbell,C306,,Ballots Cast,,,179
 Campbell,C306,,Straight Party,,D,39
 Campbell,C306,,Straight Party,,R,60
-Campbell,C306,Thomas Massie,U.S. Senate,4,R,67
-Campbell,C306,Seth Hall,U.S. Senate,4,D,100
-Campbell,C306,Mike Moffett,U.S. Senate,4,IND,8
-Campbell,C306,David Goodwin,U.S. Senate,4,W,0
+Campbell,C306,Thomas Massie,U.S. House,4,R,67
+Campbell,C306,Seth Hall,U.S. House,4,D,100
+Campbell,C306,Mike Moffett,U.S. House,4,IND,8
+Campbell,C306,David Goodwin,U.S. House,4,W,0
 Campbell,C306,Wil Schroder,State Senate,24,R,60
 Campbell,C306,Rachel Roberts,State Senate,24,D,117
 Campbell,C306,Bob Schrage,State Representative,67,R,58
@@ -611,10 +611,10 @@ Campbell,C306,Dennis Keene,State Representative,67,D,119
 Campbell,C307,,Ballots Cast,,,190
 Campbell,C307,,Straight Party,,D,49
 Campbell,C307,,Straight Party,,R,57
-Campbell,C307,Thomas Massie,U.S. Senate,4,R,85
-Campbell,C307,Seth Hall,U.S. Senate,4,D,95
-Campbell,C307,Mike Moffett,U.S. Senate,4,IND,4
-Campbell,C307,David Goodwin,U.S. Senate,4,W,0
+Campbell,C307,Thomas Massie,U.S. House,4,R,85
+Campbell,C307,Seth Hall,U.S. House,4,D,95
+Campbell,C307,Mike Moffett,U.S. House,4,IND,4
+Campbell,C307,David Goodwin,U.S. House,4,W,0
 Campbell,C307,Wil Schroder,State Senate,24,R,80
 Campbell,C307,Rachel Roberts,State Senate,24,D,106
 Campbell,C307,Bob Schrage,State Representative,67,R,72
@@ -622,10 +622,10 @@ Campbell,C307,Dennis Keene,State Representative,67,D,116
 Campbell,C308,,Ballots Cast,,,423
 Campbell,C308,,Straight Party,,D,83
 Campbell,C308,,Straight Party,,R,102
-Campbell,C308,Thomas Massie,U.S. Senate,4,R,189
-Campbell,C308,Seth Hall,U.S. Senate,4,D,211
-Campbell,C308,Mike Moffett,U.S. Senate,4,IND,16
-Campbell,C308,David Goodwin,U.S. Senate,4,W,0
+Campbell,C308,Thomas Massie,U.S. House,4,R,189
+Campbell,C308,Seth Hall,U.S. House,4,D,211
+Campbell,C308,Mike Moffett,U.S. House,4,IND,16
+Campbell,C308,David Goodwin,U.S. House,4,W,0
 Campbell,C308,Wil Schroder,State Senate,24,R,185
 Campbell,C308,Rachel Roberts,State Senate,24,D,231
 Campbell,C308,Bob Schrage,State Representative,67,R,159
@@ -633,10 +633,10 @@ Campbell,C308,Dennis Keene,State Representative,67,D,256
 Campbell,C309,,Ballots Cast,,,402
 Campbell,C309,,Straight Party,,D,79
 Campbell,C309,,Straight Party,,R,92
-Campbell,C309,Thomas Massie,U.S. Senate,4,R,185
-Campbell,C309,Seth Hall,U.S. Senate,4,D,190
-Campbell,C309,Mike Moffett,U.S. Senate,4,IND,20
-Campbell,C309,David Goodwin,U.S. Senate,4,W,0
+Campbell,C309,Thomas Massie,U.S. House,4,R,185
+Campbell,C309,Seth Hall,U.S. House,4,D,190
+Campbell,C309,Mike Moffett,U.S. House,4,IND,20
+Campbell,C309,David Goodwin,U.S. House,4,W,0
 Campbell,C309,Wil Schroder,State Senate,24,R,180
 Campbell,C309,Rachel Roberts,State Senate,24,D,220
 Campbell,C309,Bob Schrage,State Representative,67,R,167
@@ -644,10 +644,10 @@ Campbell,C309,Dennis Keene,State Representative,67,D,227
 Campbell,C310,,Ballots Cast,,,369
 Campbell,C310,,Straight Party,,D,65
 Campbell,C310,,Straight Party,,R,80
-Campbell,C310,Thomas Massie,U.S. Senate,4,R,166
-Campbell,C310,Seth Hall,U.S. Senate,4,D,180
-Campbell,C310,Mike Moffett,U.S. Senate,4,IND,18
-Campbell,C310,David Goodwin,U.S. Senate,4,W,0
+Campbell,C310,Thomas Massie,U.S. House,4,R,166
+Campbell,C310,Seth Hall,U.S. House,4,D,180
+Campbell,C310,Mike Moffett,U.S. House,4,IND,18
+Campbell,C310,David Goodwin,U.S. House,4,W,0
 Campbell,C310,Wil Schroder,State Senate,24,R,156
 Campbell,C310,Rachel Roberts,State Senate,24,D,206
 Campbell,C310,Bob Schrage,State Representative,67,R,145
@@ -655,10 +655,10 @@ Campbell,C310,Dennis Keene,State Representative,67,D,219
 Campbell,C311,,Ballots Cast,,,338
 Campbell,C311,,Straight Party,,D,71
 Campbell,C311,,Straight Party,,R,75
-Campbell,C311,Thomas Massie,U.S. Senate,4,R,160
-Campbell,C311,Seth Hall,U.S. Senate,4,D,160
-Campbell,C311,Mike Moffett,U.S. Senate,4,IND,10
-Campbell,C311,David Goodwin,U.S. Senate,4,W,0
+Campbell,C311,Thomas Massie,U.S. House,4,R,160
+Campbell,C311,Seth Hall,U.S. House,4,D,160
+Campbell,C311,Mike Moffett,U.S. House,4,IND,10
+Campbell,C311,David Goodwin,U.S. House,4,W,0
 Campbell,C311,Wil Schroder,State Senate,24,R,161
 Campbell,C311,Rachel Roberts,State Senate,24,D,173
 Campbell,C311,Bob Schrage,State Representative,67,R,134
@@ -666,10 +666,10 @@ Campbell,C311,Dennis Keene,State Representative,67,D,198
 Campbell,B907,,Ballots Cast,,,400
 Campbell,B907,,Straight Party,,D,104
 Campbell,B907,,Straight Party,,R,39
-Campbell,B907,Thomas Massie,U.S. Senate,4,R,288
-Campbell,B907,Seth Hall,U.S. Senate,4,D,93
-Campbell,B907,Mike Moffett,U.S. Senate,4,IND,14
-Campbell,B907,David Goodwin,U.S. Senate,4,W,0
+Campbell,B907,Thomas Massie,U.S. House,4,R,288
+Campbell,B907,Seth Hall,U.S. House,4,D,93
+Campbell,B907,Mike Moffett,U.S. House,4,IND,14
+Campbell,B907,David Goodwin,U.S. House,4,W,0
 Campbell,B907,Wil Schroder,State Senate,24,R,274
 Campbell,B907,Rachel Roberts,State Senate,24,D,121
 Campbell,B907,Joseph M Fischer,State Representative,68,R,267
@@ -677,10 +677,10 @@ Campbell,B907,Jason Kilmer,State Representative,68,D,127
 Campbell,B912,,Ballots Cast,,,356
 Campbell,B912,,Straight Party,,D,90
 Campbell,B912,,Straight Party,,R,56
-Campbell,B912,Thomas Massie,U.S. Senate,4,R,203
-Campbell,B912,Seth Hall,U.S. Senate,4,D,130
-Campbell,B912,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,B912,David Goodwin,U.S. Senate,4,W,0
+Campbell,B912,Thomas Massie,U.S. House,4,R,203
+Campbell,B912,Seth Hall,U.S. House,4,D,130
+Campbell,B912,Mike Moffett,U.S. House,4,IND,12
+Campbell,B912,David Goodwin,U.S. House,4,W,0
 Campbell,B912,Wil Schroder,State Senate,24,R,194
 Campbell,B912,Rachel Roberts,State Senate,24,D,153
 Campbell,B912,Bob Schrage,State Representative,67,R,168
@@ -688,10 +688,10 @@ Campbell,B912,Dennis Keene,State Representative,67,D,175
 Campbell,C501,,Ballots Cast,,,319
 Campbell,C501,,Straight Party,,D,61
 Campbell,C501,,Straight Party,,R,85
-Campbell,C501,Thomas Massie,U.S. Senate,4,R,151
-Campbell,C501,Seth Hall,U.S. Senate,4,D,148
-Campbell,C501,Mike Moffett,U.S. Senate,4,IND,12
-Campbell,C501,David Goodwin,U.S. Senate,4,W,0
+Campbell,C501,Thomas Massie,U.S. House,4,R,151
+Campbell,C501,Seth Hall,U.S. House,4,D,148
+Campbell,C501,Mike Moffett,U.S. House,4,IND,12
+Campbell,C501,David Goodwin,U.S. House,4,W,0
 Campbell,C501,Wil Schroder,State Senate,24,R,134
 Campbell,C501,Rachel Roberts,State Senate,24,D,178
 Campbell,C501,Bob Schrage,State Representative,67,R,134
@@ -699,10 +699,10 @@ Campbell,C501,Dennis Keene,State Representative,67,D,182
 Campbell,A502,,Ballots Cast,,,443
 Campbell,A502,,Straight Party,,D,106
 Campbell,A502,,Straight Party,,R,88
-Campbell,A502,Thomas Massie,U.S. Senate,4,R,242
-Campbell,A502,Seth Hall,U.S. Senate,4,D,173
-Campbell,A502,Mike Moffett,U.S. Senate,4,IND,23
-Campbell,A502,David Goodwin,U.S. Senate,4,W,0
+Campbell,A502,Thomas Massie,U.S. House,4,R,242
+Campbell,A502,Seth Hall,U.S. House,4,D,173
+Campbell,A502,Mike Moffett,U.S. House,4,IND,23
+Campbell,A502,David Goodwin,U.S. House,4,W,0
 Campbell,A502,Wil Schroder,State Senate,24,R,226
 Campbell,A502,Rachel Roberts,State Senate,24,D,211
 Campbell,A502,Bob Schrage,State Representative,67,R,189
@@ -710,10 +710,10 @@ Campbell,A502,Dennis Keene,State Representative,67,D,246
 Campbell,A503,,Ballots Cast,,,200
 Campbell,A503,,Straight Party,,D,59
 Campbell,A503,,Straight Party,,R,21
-Campbell,A503,Thomas Massie,U.S. Senate,4,R,133
-Campbell,A503,Seth Hall,U.S. Senate,4,D,61
-Campbell,A503,Mike Moffett,U.S. Senate,4,IND,4
-Campbell,A503,David Goodwin,U.S. Senate,4,W,0
+Campbell,A503,Thomas Massie,U.S. House,4,R,133
+Campbell,A503,Seth Hall,U.S. House,4,D,61
+Campbell,A503,Mike Moffett,U.S. House,4,IND,4
+Campbell,A503,David Goodwin,U.S. House,4,W,0
 Campbell,A503,Wil Schroder,State Senate,24,R,126
 Campbell,A503,Rachel Roberts,State Senate,24,D,72
 Campbell,A503,Joseph M Fischer,State Representative,68,R,128
@@ -721,10 +721,10 @@ Campbell,A503,Jason Kilmer,State Representative,68,D,68
 Campbell,A504,,Ballots Cast,,,273
 Campbell,A504,,Straight Party,,D,57
 Campbell,A504,,Straight Party,,R,80
-Campbell,A504,Thomas Massie,U.S. Senate,4,R,113
-Campbell,A504,Seth Hall,U.S. Senate,4,D,160
-Campbell,A504,Mike Moffett,U.S. Senate,4,IND,7
-Campbell,A504,David Goodwin,U.S. Senate,4,W,0
+Campbell,A504,Thomas Massie,U.S. House,4,R,113
+Campbell,A504,Seth Hall,U.S. House,4,D,160
+Campbell,A504,Mike Moffett,U.S. House,4,IND,7
+Campbell,A504,David Goodwin,U.S. House,4,W,0
 Campbell,A504,Wil Schroder,State Senate,24,R,108
 Campbell,A504,Rachel Roberts,State Senate,24,D,164
 Campbell,A504,Bob Schrage,State Representative,67,R,102
@@ -732,10 +732,10 @@ Campbell,A504,Dennis Keene,State Representative,67,D,171
 Campbell,B903,,Ballots Cast,,,923
 Campbell,B903,,Straight Party,,D,257
 Campbell,B903,,Straight Party,,R,75
-Campbell,B903,Thomas Massie,U.S. Senate,4,R,667
-Campbell,B903,Seth Hall,U.S. Senate,4,D,206
-Campbell,B903,Mike Moffett,U.S. Senate,4,IND,31
-Campbell,B903,David Goodwin,U.S. Senate,4,W,0
+Campbell,B903,Thomas Massie,U.S. House,4,R,667
+Campbell,B903,Seth Hall,U.S. House,4,D,206
+Campbell,B903,Mike Moffett,U.S. House,4,IND,31
+Campbell,B903,David Goodwin,U.S. House,4,W,0
 Campbell,B903,Wil Schroder,State Senate,24,R,645
 Campbell,B903,Rachel Roberts,State Senate,24,D,271
 Campbell,B903,Joseph M Fischer,State Representative,68,R,621
@@ -743,10 +743,10 @@ Campbell,B903,Jason Kilmer,State Representative,68,D,282
 Campbell,B913,,Ballots Cast,,,536
 Campbell,B913,,Straight Party,,D,129
 Campbell,B913,,Straight Party,,R,135
-Campbell,B913,Thomas Massie,U.S. Senate,4,R,255
-Campbell,B913,Seth Hall,U.S. Senate,4,D,248
-Campbell,B913,Mike Moffett,U.S. Senate,4,IND,21
-Campbell,B913,David Goodwin,U.S. Senate,4,W,2
+Campbell,B913,Thomas Massie,U.S. House,4,R,255
+Campbell,B913,Seth Hall,U.S. House,4,D,248
+Campbell,B913,Mike Moffett,U.S. House,4,IND,21
+Campbell,B913,David Goodwin,U.S. House,4,W,2
 Campbell,B913,Wil Schroder,State Senate,24,R,245
 Campbell,B913,Rachel Roberts,State Senate,24,D,282
 Campbell,B913,Bob Schrage,State Representative,67,R,218
