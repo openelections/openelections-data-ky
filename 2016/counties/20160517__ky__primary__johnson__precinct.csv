@@ -1,0 +1,628 @@
+county,precinct,office,district,party,candidate,votes,election_day
+Johnson,UPPER WARD,US Senator,,,Rand PAUL,39,39
+Johnson,MIDDLE WARD,US Senator,,,Rand PAUL,60,60
+Johnson,LOWER WARD,US Senator,,,Rand PAUL,30,30
+Johnson,BRIDGEFORD,US Senator,,,Rand PAUL,26,26
+Johnson,STAFFORDSVILLE,US Senator,,,Rand PAUL,64,64
+Johnson,HAGER HILL,US Senator,,,Rand PAUL,67,67
+Johnson,SOUTHSIDE,US Senator,,,Rand PAUL,44,44
+Johnson,KING ADDITION,US Senator,,,Rand PAUL,70,70
+Johnson,EAST POINT,US Senator,,,Rand PAUL,9,9
+Johnson,MUDDY BRANCH,US Senator,,,Rand PAUL,30,30
+Johnson,WEST VAN LEAR,US Senator,,,Rand PAUL,49,49
+Johnson,DANIELS CREEK,US Senator,,,Rand PAUL,34,34
+Johnson,POWELL ADDITION,US Senator,,,Rand PAUL,37,37
+Johnson,MINGO,US Senator,,,Rand PAUL,48,48
+Johnson,VAN LEAR,US Senator,,,Rand PAUL,13,13
+Johnson,BUFFALO,US Senator,,,Rand PAUL,29,29
+Johnson,GREASY CREEK,US Senator,,,Rand PAUL,45,45
+Johnson,WHITEHOUSE,US Senator,,,Rand PAUL,6,6
+Johnson,THELMA,US Senator,,,Rand PAUL,35,35
+Johnson,MOUTH OF RUSH,US Senator,,,Rand PAUL,57,57
+Johnson,OIL SPRINGS,US Senator,,,Rand PAUL,52,52
+Johnson,BARNETTS CREEK,US Senator,,,Rand PAUL,30,30
+Johnson,FLAT GAP,US Senator,,,Rand PAUL,47,47
+Johnson,VOLGA,US Senator,,,Rand PAUL,16,16
+Johnson,LOW GAP,US Senator,,,Rand PAUL,22,22
+Johnson,RED BUSH,US Senator,,,Rand PAUL,19,19
+Johnson,JENNYS CREEK,US Senator,,,Rand PAUL,71,71
+Johnson,LITTLE GAP,US Senator,,,Rand PAUL,15,15
+Johnson,STAMBAUGH,US Senator,,,Rand PAUL,43,43
+Johnson,SITKA,US Senator,,,Rand PAUL,30,30
+Johnson,SYCAMORE,US Senator,,,Rand PAUL,35,35
+Johnson,ABSENTEE MACHINE,US Senator,,,Rand PAUL,42,42
+Johnson,ABSENTEE PAPER,US Senator,,,Rand PAUL,14,14
+Johnson,UPPER WARD,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,MIDDLE WARD,US Senator,,,Stephen Howard SLAUGHTER,8,8
+Johnson,LOWER WARD,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,BRIDGEFORD,US Senator,,,Stephen Howard SLAUGHTER,5,5
+Johnson,STAFFORDSVILLE,US Senator,,,Stephen Howard SLAUGHTER,11,11
+Johnson,HAGER HILL,US Senator,,,Stephen Howard SLAUGHTER,15,15
+Johnson,SOUTHSIDE,US Senator,,,Stephen Howard SLAUGHTER,4,4
+Johnson,KING ADDITION,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,EAST POINT,US Senator,,,Stephen Howard SLAUGHTER,3,3
+Johnson,MUDDY BRANCH,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,WEST VAN LEAR,US Senator,,,Stephen Howard SLAUGHTER,1,1
+Johnson,DANIELS CREEK,US Senator,,,Stephen Howard SLAUGHTER,4,4
+Johnson,POWELL ADDITION,US Senator,,,Stephen Howard SLAUGHTER,12,12
+Johnson,MINGO,US Senator,,,Stephen Howard SLAUGHTER,7,7
+Johnson,VAN LEAR,US Senator,,,Stephen Howard SLAUGHTER,5,5
+Johnson,BUFFALO,US Senator,,,Stephen Howard SLAUGHTER,7,7
+Johnson,GREASY CREEK,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,WHITEHOUSE,US Senator,,,Stephen Howard SLAUGHTER,2,2
+Johnson,THELMA,US Senator,,,Stephen Howard SLAUGHTER,5,5
+Johnson,MOUTH OF RUSH,US Senator,,,Stephen Howard SLAUGHTER,10,10
+Johnson,OIL SPRINGS,US Senator,,,Stephen Howard SLAUGHTER,1,1
+Johnson,BARNETTS CREEK,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,FLAT GAP,US Senator,,,Stephen Howard SLAUGHTER,18,18
+Johnson,VOLGA,US Senator,,,Stephen Howard SLAUGHTER,7,7
+Johnson,LOW GAP,US Senator,,,Stephen Howard SLAUGHTER,8,8
+Johnson,RED BUSH,US Senator,,,Stephen Howard SLAUGHTER,3,3
+Johnson,JENNYS CREEK,US Senator,,,Stephen Howard SLAUGHTER,8,8
+Johnson,LITTLE GAP,US Senator,,,Stephen Howard SLAUGHTER,4,4
+Johnson,STAMBAUGH,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,SITKA,US Senator,,,Stephen Howard SLAUGHTER,6,6
+Johnson,SYCAMORE,US Senator,,,Stephen Howard SLAUGHTER,5,5
+Johnson,ABSENTEE MACHINE,US Senator,,,Stephen Howard SLAUGHTER,9,9
+Johnson,ABSENTEE PAPER,US Senator,,,Stephen Howard SLAUGHTER,4,4
+Johnson,UPPER WARD,US Senator,,,James R. GOULD,12,12
+Johnson,MIDDLE WARD,US Senator,,,James R. GOULD,7,7
+Johnson,LOWER WARD,US Senator,,,James R. GOULD,4,4
+Johnson,BRIDGEFORD,US Senator,,,James R. GOULD,6,6
+Johnson,STAFFORDSVILLE,US Senator,,,James R. GOULD,12,12
+Johnson,HAGER HILL,US Senator,,,James R. GOULD,10,10
+Johnson,SOUTHSIDE,US Senator,,,James R. GOULD,6,6
+Johnson,KING ADDITION,US Senator,,,James R. GOULD,13,13
+Johnson,EAST POINT,US Senator,,,James R. GOULD,2,2
+Johnson,MUDDY BRANCH,US Senator,,,James R. GOULD,4,4
+Johnson,WEST VAN LEAR,US Senator,,,James R. GOULD,3,3
+Johnson,DANIELS CREEK,US Senator,,,James R. GOULD,4,4
+Johnson,POWELL ADDITION,US Senator,,,James R. GOULD,6,6
+Johnson,MINGO,US Senator,,,James R. GOULD,6,6
+Johnson,VAN LEAR,US Senator,,,James R. GOULD,1,1
+Johnson,BUFFALO,US Senator,,,James R. GOULD,7,7
+Johnson,GREASY CREEK,US Senator,,,James R. GOULD,5,5
+Johnson,WHITEHOUSE,US Senator,,,James R. GOULD,2,2
+Johnson,THELMA,US Senator,,,James R. GOULD,6,6
+Johnson,MOUTH OF RUSH,US Senator,,,James R. GOULD,5,5
+Johnson,OIL SPRINGS,US Senator,,,James R. GOULD,7,7
+Johnson,BARNETTS CREEK,US Senator,,,James R. GOULD,4,4
+Johnson,FLAT GAP,US Senator,,,James R. GOULD,4,4
+Johnson,VOLGA,US Senator,,,James R. GOULD,2,2
+Johnson,LOW GAP,US Senator,,,James R. GOULD,3,3
+Johnson,RED BUSH,US Senator,,,James R. GOULD,2,2
+Johnson,JENNYS CREEK,US Senator,,,James R. GOULD,6,6
+Johnson,LITTLE GAP,US Senator,,,James R. GOULD,2,2
+Johnson,STAMBAUGH,US Senator,,,James R. GOULD,8,8
+Johnson,SITKA,US Senator,,,James R. GOULD,1,1
+Johnson,SYCAMORE,US Senator,,,James R. GOULD,6,6
+Johnson,ABSENTEE MACHINE,US Senator,,,James R. GOULD,8,8
+Johnson,ABSENTEE PAPER,US Senator,,,James R. GOULD,4,4
+Johnson,UPPER WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",41,41
+Johnson,MIDDLE WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",65,65
+Johnson,LOWER WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",33,33
+Johnson,BRIDGEFORD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",26,26
+Johnson,STAFFORDSVILLE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",72,72
+Johnson,HAGER HILL,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",77,77
+Johnson,SOUTHSIDE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",43,43
+Johnson,KING ADDITION,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",77,77
+Johnson,EAST POINT,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",9,9
+Johnson,MUDDY BRANCH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",33,33
+Johnson,WEST VAN LEAR,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",46,46
+Johnson,DANIELS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",34,34
+Johnson,POWELL ADDITION,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",44,44
+Johnson,MINGO,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",52,52
+Johnson,VAN LEAR,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",11,11
+Johnson,BUFFALO,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",38,38
+Johnson,GREASY CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",41,41
+Johnson,WHITEHOUSE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",6,6
+Johnson,THELMA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",41,41
+Johnson,MOUTH OF RUSH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",70,70
+Johnson,OIL SPRINGS,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",46,46
+Johnson,BARNETTS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",31,31
+Johnson,FLAT GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",54,54
+Johnson,VOLGA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",20,20
+Johnson,LOW GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",26,26
+Johnson,RED BUSH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",21,21
+Johnson,JENNYS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",65,65
+Johnson,LITTLE GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",17,17
+Johnson,STAMBAUGH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",49,49
+Johnson,SITKA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",28,28
+Johnson,SYCAMORE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",37,37
+Johnson,ABSENTEE MACHINE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",51,51
+Johnson,ABSENTEE PAPER,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,"Harold ""Hal"" ROGERS",21,21
+Johnson,UPPER WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,16,16
+Johnson,MIDDLE WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,14,14
+Johnson,LOWER WARD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,7,7
+Johnson,BRIDGEFORD,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,12,12
+Johnson,STAFFORDSVILLE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,18,18
+Johnson,HAGER HILL,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,17,17
+Johnson,SOUTHSIDE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,13,13
+Johnson,KING ADDITION,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,13,13
+Johnson,EAST POINT,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,5,5
+Johnson,MUDDY BRANCH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,8,8
+Johnson,WEST VAN LEAR,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,7,7
+Johnson,DANIELS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,9,9
+Johnson,POWELL ADDITION,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,11,11
+Johnson,MINGO,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,9,9
+Johnson,VAN LEAR,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,8,8
+Johnson,BUFFALO,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,8,8
+Johnson,GREASY CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,15,15
+Johnson,WHITEHOUSE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,4,4
+Johnson,THELMA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,8,8
+Johnson,MOUTH OF RUSH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,5,5
+Johnson,OIL SPRINGS,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,13,13
+Johnson,BARNETTS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,8,8
+Johnson,FLAT GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,16,16
+Johnson,VOLGA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,6,6
+Johnson,LOW GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,7,7
+Johnson,RED BUSH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,4,4
+Johnson,JENNYS CREEK,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,19,19
+Johnson,LITTLE GAP,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,5,5
+Johnson,STAMBAUGH,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,12,12
+Johnson,SITKA,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,9,9
+Johnson,SYCAMORE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,9,9
+Johnson,ABSENTEE MACHINE,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,11,11
+Johnson,ABSENTEE PAPER,"US Representative, 5th Congressional District", 5th Congressional District - REPUBLICAN,,John BURK JR.,2,2
+Johnson,UPPER WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,15,15
+Johnson,MIDDLE WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,28,28
+Johnson,LOWER WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,22,22
+Johnson,BRIDGEFORD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,15,15
+Johnson,STAFFORDSVILLE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,24,24
+Johnson,HAGER HILL,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,30,30
+Johnson,SOUTHSIDE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,17,17
+Johnson,KING ADDITION,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,22,22
+Johnson,EAST POINT,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,5,5
+Johnson,MUDDY BRANCH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,8,8
+Johnson,WEST VAN LEAR,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,14,14
+Johnson,DANIELS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,15,15
+Johnson,POWELL ADDITION,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,21,21
+Johnson,MINGO,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,18,18
+Johnson,VAN LEAR,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,8,8
+Johnson,BUFFALO,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,14,14
+Johnson,GREASY CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,25,25
+Johnson,WHITEHOUSE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,4,4
+Johnson,THELMA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,13,13
+Johnson,MOUTH OF RUSH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,26,26
+Johnson,OIL SPRINGS,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,25,25
+Johnson,BARNETTS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,11,11
+Johnson,FLAT GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,19,19
+Johnson,VOLGA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,12,12
+Johnson,LOW GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,13,13
+Johnson,RED BUSH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,10,10
+Johnson,JENNYS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,22,22
+Johnson,LITTLE GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,8,8
+Johnson,STAMBAUGH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,14,14
+Johnson,SITKA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,11,11
+Johnson,SYCAMORE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,15,15
+Johnson,ABSENTEE MACHINE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,16,16
+Johnson,ABSENTEE PAPER,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,Frankie Wayne SPENCER,9,9
+Johnson,UPPER WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,40,40
+Johnson,MIDDLE WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,45,45
+Johnson,LOWER WARD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,19,19
+Johnson,BRIDGEFORD,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,21,21
+Johnson,STAFFORDSVILLE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,63,63
+Johnson,HAGER HILL,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,62,62
+Johnson,SOUTHSIDE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,36,36
+Johnson,KING ADDITION,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,67,67
+Johnson,EAST POINT,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,8,8
+Johnson,MUDDY BRANCH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,32,32
+Johnson,WEST VAN LEAR,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,38,38
+Johnson,DANIELS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,26,26
+Johnson,POWELL ADDITION,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,32,32
+Johnson,MINGO,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,41,41
+Johnson,VAN LEAR,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,12,12
+Johnson,BUFFALO,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,30,30
+Johnson,GREASY CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,27,27
+Johnson,WHITEHOUSE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,6,6
+Johnson,THELMA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,35,35
+Johnson,MOUTH OF RUSH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,49,49
+Johnson,OIL SPRINGS,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,33,33
+Johnson,BARNETTS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,28,28
+Johnson,FLAT GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,49,49
+Johnson,VOLGA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,12,12
+Johnson,LOW GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,19,19
+Johnson,RED BUSH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,15,15
+Johnson,JENNYS CREEK,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,60,60
+Johnson,LITTLE GAP,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,12,12
+Johnson,STAMBAUGH,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,45,45
+Johnson,SITKA,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,24,24
+Johnson,SYCAMORE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,29,29
+Johnson,ABSENTEE MACHINE,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,42,42
+Johnson,ABSENTEE PAPER,"State Representative, 97th Representative District", 97th Representative District - REPUBLICAN,,William Scott WELLS,11,11
+Johnson,UPPER WARD,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,MIDDLE WARD,President of the United States,,,Martin J. O'MALLEY,3,3
+Johnson,LOWER WARD,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,BRIDGEFORD,President of the United States,,,Martin J. O'MALLEY,2,2
+Johnson,STAFFORDSVILLE,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,HAGER HILL,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,SOUTHSIDE,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,KING ADDITION,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,EAST POINT,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,MUDDY BRANCH,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,WEST VAN LEAR,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,DANIELS CREEK,President of the United States,,,Martin J. O'MALLEY,4,4
+Johnson,POWELL ADDITION,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,MINGO,President of the United States,,,Martin J. O'MALLEY,2,2
+Johnson,VAN LEAR,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,BUFFALO,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,GREASY CREEK,President of the United States,,,Martin J. O'MALLEY,2,2
+Johnson,WHITEHOUSE,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,THELMA,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,MOUTH OF RUSH,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,OIL SPRINGS,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,BARNETTS CREEK,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,FLAT GAP,President of the United States,,,Martin J. O'MALLEY,3,3
+Johnson,VOLGA,President of the United States,,,Martin J. O'MALLEY,2,2
+Johnson,LOW GAP,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,RED BUSH,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,JENNYS CREEK,President of the United States,,,Martin J. O'MALLEY,1,1
+Johnson,LITTLE GAP,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,STAMBAUGH,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,SITKA,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,SYCAMORE,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,ABSENTEE MACHINE,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,ABSENTEE PAPER,President of the United States,,,Martin J. O'MALLEY,0,0
+Johnson,UPPER WARD,President of the United States,,,"Bernard ""Bernie"" SANDERS",26,26
+Johnson,MIDDLE WARD,President of the United States,,,"Bernard ""Bernie"" SANDERS",25,25
+Johnson,LOWER WARD,President of the United States,,,"Bernard ""Bernie"" SANDERS",14,14
+Johnson,BRIDGEFORD,President of the United States,,,"Bernard ""Bernie"" SANDERS",20,20
+Johnson,STAFFORDSVILLE,President of the United States,,,"Bernard ""Bernie"" SANDERS",44,44
+Johnson,HAGER HILL,President of the United States,,,"Bernard ""Bernie"" SANDERS",37,37
+Johnson,SOUTHSIDE,President of the United States,,,"Bernard ""Bernie"" SANDERS",21,21
+Johnson,KING ADDITION,President of the United States,,,"Bernard ""Bernie"" SANDERS",45,45
+Johnson,EAST POINT,President of the United States,,,"Bernard ""Bernie"" SANDERS",5,5
+Johnson,MUDDY BRANCH,President of the United States,,,"Bernard ""Bernie"" SANDERS",18,18
+Johnson,WEST VAN LEAR,President of the United States,,,"Bernard ""Bernie"" SANDERS",26,26
+Johnson,DANIELS CREEK,President of the United States,,,"Bernard ""Bernie"" SANDERS",27,27
+Johnson,POWELL ADDITION,President of the United States,,,"Bernard ""Bernie"" SANDERS",31,31
+Johnson,MINGO,President of the United States,,,"Bernard ""Bernie"" SANDERS",22,22
+Johnson,VAN LEAR,President of the United States,,,"Bernard ""Bernie"" SANDERS",38,38
+Johnson,BUFFALO,President of the United States,,,"Bernard ""Bernie"" SANDERS",21,21
+Johnson,GREASY CREEK,President of the United States,,,"Bernard ""Bernie"" SANDERS",29,29
+Johnson,WHITEHOUSE,President of the United States,,,"Bernard ""Bernie"" SANDERS",4,4
+Johnson,THELMA,President of the United States,,,"Bernard ""Bernie"" SANDERS",34,34
+Johnson,MOUTH OF RUSH,President of the United States,,,"Bernard ""Bernie"" SANDERS",19,19
+Johnson,OIL SPRINGS,President of the United States,,,"Bernard ""Bernie"" SANDERS",14,14
+Johnson,BARNETTS CREEK,President of the United States,,,"Bernard ""Bernie"" SANDERS",25,25
+Johnson,FLAT GAP,President of the United States,,,"Bernard ""Bernie"" SANDERS",44,44
+Johnson,VOLGA,President of the United States,,,"Bernard ""Bernie"" SANDERS",24,24
+Johnson,LOW GAP,President of the United States,,,"Bernard ""Bernie"" SANDERS",11,11
+Johnson,RED BUSH,President of the United States,,,"Bernard ""Bernie"" SANDERS",20,20
+Johnson,JENNYS CREEK,President of the United States,,,"Bernard ""Bernie"" SANDERS",30,30
+Johnson,LITTLE GAP,President of the United States,,,"Bernard ""Bernie"" SANDERS",11,11
+Johnson,STAMBAUGH,President of the United States,,,"Bernard ""Bernie"" SANDERS",19,19
+Johnson,SITKA,President of the United States,,,"Bernard ""Bernie"" SANDERS",7,7
+Johnson,SYCAMORE,President of the United States,,,"Bernard ""Bernie"" SANDERS",9,9
+Johnson,ABSENTEE MACHINE,President of the United States,,,"Bernard ""Bernie"" SANDERS",23,23
+Johnson,ABSENTEE PAPER,President of the United States,,,"Bernard ""Bernie"" SANDERS",6,6
+Johnson,UPPER WARD,President of the United States,,,Hillary CLINTON,21,21
+Johnson,MIDDLE WARD,President of the United States,,,Hillary CLINTON,11,11
+Johnson,LOWER WARD,President of the United States,,,Hillary CLINTON,9,9
+Johnson,BRIDGEFORD,President of the United States,,,Hillary CLINTON,9,9
+Johnson,STAFFORDSVILLE,President of the United States,,,Hillary CLINTON,28,28
+Johnson,HAGER HILL,President of the United States,,,Hillary CLINTON,25,25
+Johnson,SOUTHSIDE,President of the United States,,,Hillary CLINTON,17,17
+Johnson,KING ADDITION,President of the United States,,,Hillary CLINTON,35,35
+Johnson,EAST POINT,President of the United States,,,Hillary CLINTON,2,2
+Johnson,MUDDY BRANCH,President of the United States,,,Hillary CLINTON,7,7
+Johnson,WEST VAN LEAR,President of the United States,,,Hillary CLINTON,17,17
+Johnson,DANIELS CREEK,President of the United States,,,Hillary CLINTON,10,10
+Johnson,POWELL ADDITION,President of the United States,,,Hillary CLINTON,20,20
+Johnson,MINGO,President of the United States,,,Hillary CLINTON,11,11
+Johnson,VAN LEAR,President of the United States,,,Hillary CLINTON,15,15
+Johnson,BUFFALO,President of the United States,,,Hillary CLINTON,15,15
+Johnson,GREASY CREEK,President of the United States,,,Hillary CLINTON,25,25
+Johnson,WHITEHOUSE,President of the United States,,,Hillary CLINTON,6,6
+Johnson,THELMA,President of the United States,,,Hillary CLINTON,12,12
+Johnson,MOUTH OF RUSH,President of the United States,,,Hillary CLINTON,14,14
+Johnson,OIL SPRINGS,President of the United States,,,Hillary CLINTON,9,9
+Johnson,BARNETTS CREEK,President of the United States,,,Hillary CLINTON,11,11
+Johnson,FLAT GAP,President of the United States,,,Hillary CLINTON,16,16
+Johnson,VOLGA,President of the United States,,,Hillary CLINTON,9,9
+Johnson,LOW GAP,President of the United States,,,Hillary CLINTON,12,12
+Johnson,RED BUSH,President of the United States,,,Hillary CLINTON,16,16
+Johnson,JENNYS CREEK,President of the United States,,,Hillary CLINTON,7,7
+Johnson,LITTLE GAP,President of the United States,,,Hillary CLINTON,6,6
+Johnson,STAMBAUGH,President of the United States,,,Hillary CLINTON,7,7
+Johnson,SITKA,President of the United States,,,Hillary CLINTON,10,10
+Johnson,SYCAMORE,President of the United States,,,Hillary CLINTON,8,8
+Johnson,ABSENTEE MACHINE,President of the United States,,,Hillary CLINTON,16,16
+Johnson,ABSENTEE PAPER,President of the United States,,,Hillary CLINTON,8,8
+Johnson,UPPER WARD,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,MIDDLE WARD,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,LOWER WARD,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,BRIDGEFORD,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,STAFFORDSVILLE,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,HAGER HILL,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,SOUTHSIDE,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,KING ADDITION,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,EAST POINT,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,MUDDY BRANCH,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,WEST VAN LEAR,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,DANIELS CREEK,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,POWELL ADDITION,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,MINGO,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,VAN LEAR,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,BUFFALO,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,GREASY CREEK,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,WHITEHOUSE,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,THELMA,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,MOUTH OF RUSH,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,OIL SPRINGS,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,BARNETTS CREEK,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,FLAT GAP,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,VOLGA,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,LOW GAP,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,RED BUSH,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,JENNYS CREEK,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,LITTLE GAP,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,STAMBAUGH,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,SITKA,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,SYCAMORE,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,ABSENTEE MACHINE,President of the United States,,,Roque Rocky De La FUENTE,1,1
+Johnson,ABSENTEE PAPER,President of the United States,,,Roque Rocky De La FUENTE,0,0
+Johnson,UPPER WARD,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,MIDDLE WARD,President of the United States,,,"""UNCOMMITTED""",1,1
+Johnson,LOWER WARD,President of the United States,,,"""UNCOMMITTED""",1,1
+Johnson,BRIDGEFORD,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,STAFFORDSVILLE,President of the United States,,,"""UNCOMMITTED""",4,4
+Johnson,HAGER HILL,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,SOUTHSIDE,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,KING ADDITION,President of the United States,,,"""UNCOMMITTED""",5,5
+Johnson,EAST POINT,President of the United States,,,"""UNCOMMITTED""",1,1
+Johnson,MUDDY BRANCH,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,WEST VAN LEAR,President of the United States,,,"""UNCOMMITTED""",11,11
+Johnson,DANIELS CREEK,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,POWELL ADDITION,President of the United States,,,"""UNCOMMITTED""",4,4
+Johnson,MINGO,President of the United States,,,"""UNCOMMITTED""",4,4
+Johnson,VAN LEAR,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,BUFFALO,President of the United States,,,"""UNCOMMITTED""",8,8
+Johnson,GREASY CREEK,President of the United States,,,"""UNCOMMITTED""",5,5
+Johnson,WHITEHOUSE,President of the United States,,,"""UNCOMMITTED""",0,0
+Johnson,THELMA,President of the United States,,,"""UNCOMMITTED""",11,11
+Johnson,MOUTH OF RUSH,President of the United States,,,"""UNCOMMITTED""",4,4
+Johnson,OIL SPRINGS,President of the United States,,,"""UNCOMMITTED""",0,0
+Johnson,BARNETTS CREEK,President of the United States,,,"""UNCOMMITTED""",0,0
+Johnson,FLAT GAP,President of the United States,,,"""UNCOMMITTED""",10,10
+Johnson,VOLGA,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,LOW GAP,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,RED BUSH,President of the United States,,,"""UNCOMMITTED""",5,5
+Johnson,JENNYS CREEK,President of the United States,,,"""UNCOMMITTED""",0,0
+Johnson,LITTLE GAP,President of the United States,,,"""UNCOMMITTED""",0,0
+Johnson,STAMBAUGH,President of the United States,,,"""UNCOMMITTED""",4,4
+Johnson,SITKA,President of the United States,,,"""UNCOMMITTED""",2,2
+Johnson,SYCAMORE,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,ABSENTEE MACHINE,President of the United States,,,"""UNCOMMITTED""",8,8
+Johnson,ABSENTEE PAPER,President of the United States,,,"""UNCOMMITTED""",3,3
+Johnson,UPPER WARD,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,MIDDLE WARD,US Senator,,,Tom RECKTENWALD,3,3
+Johnson,LOWER WARD,US Senator,,,Tom RECKTENWALD,1,1
+Johnson,BRIDGEFORD,US Senator,,,Tom RECKTENWALD,0,0
+Johnson,STAFFORDSVILLE,US Senator,,,Tom RECKTENWALD,4,4
+Johnson,HAGER HILL,US Senator,,,Tom RECKTENWALD,4,4
+Johnson,SOUTHSIDE,US Senator,,,Tom RECKTENWALD,7,7
+Johnson,KING ADDITION,US Senator,,,Tom RECKTENWALD,7,7
+Johnson,EAST POINT,US Senator,,,Tom RECKTENWALD,2,2
+Johnson,MUDDY BRANCH,US Senator,,,Tom RECKTENWALD,2,2
+Johnson,WEST VAN LEAR,US Senator,,,Tom RECKTENWALD,3,3
+Johnson,DANIELS CREEK,US Senator,,,Tom RECKTENWALD,4,4
+Johnson,POWELL ADDITION,US Senator,,,Tom RECKTENWALD,2,2
+Johnson,MINGO,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,VAN LEAR,US Senator,,,Tom RECKTENWALD,8,8
+Johnson,BUFFALO,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,GREASY CREEK,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,WHITEHOUSE,US Senator,,,Tom RECKTENWALD,1,1
+Johnson,THELMA,US Senator,,,Tom RECKTENWALD,10,10
+Johnson,MOUTH OF RUSH,US Senator,,,Tom RECKTENWALD,1,1
+Johnson,OIL SPRINGS,US Senator,,,Tom RECKTENWALD,2,2
+Johnson,BARNETTS CREEK,US Senator,,,Tom RECKTENWALD,3,3
+Johnson,FLAT GAP,US Senator,,,Tom RECKTENWALD,14,14
+Johnson,VOLGA,US Senator,,,Tom RECKTENWALD,6,6
+Johnson,LOW GAP,US Senator,,,Tom RECKTENWALD,3,3
+Johnson,RED BUSH,US Senator,,,Tom RECKTENWALD,4,4
+Johnson,JENNYS CREEK,US Senator,,,Tom RECKTENWALD,6,6
+Johnson,LITTLE GAP,US Senator,,,Tom RECKTENWALD,6,6
+Johnson,STAMBAUGH,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,SITKA,US Senator,,,Tom RECKTENWALD,0,0
+Johnson,SYCAMORE,US Senator,,,Tom RECKTENWALD,1,1
+Johnson,ABSENTEE MACHINE,US Senator,,,Tom RECKTENWALD,5,5
+Johnson,ABSENTEE PAPER,US Senator,,,Tom RECKTENWALD,1,1
+Johnson,UPPER WARD,US Senator,,,Grant T. SHORT,2,2
+Johnson,MIDDLE WARD,US Senator,,,Grant T. SHORT,4,4
+Johnson,LOWER WARD,US Senator,,,Grant T. SHORT,3,3
+Johnson,BRIDGEFORD,US Senator,,,Grant T. SHORT,3,3
+Johnson,STAFFORDSVILLE,US Senator,,,Grant T. SHORT,8,8
+Johnson,HAGER HILL,US Senator,,,Grant T. SHORT,5,5
+Johnson,SOUTHSIDE,US Senator,,,Grant T. SHORT,2,2
+Johnson,KING ADDITION,US Senator,,,Grant T. SHORT,6,6
+Johnson,EAST POINT,US Senator,,,Grant T. SHORT,1,1
+Johnson,MUDDY BRANCH,US Senator,,,Grant T. SHORT,3,3
+Johnson,WEST VAN LEAR,US Senator,,,Grant T. SHORT,4,4
+Johnson,DANIELS CREEK,US Senator,,,Grant T. SHORT,9,9
+Johnson,POWELL ADDITION,US Senator,,,Grant T. SHORT,5,5
+Johnson,MINGO,US Senator,,,Grant T. SHORT,4,4
+Johnson,VAN LEAR,US Senator,,,Grant T. SHORT,8,8
+Johnson,BUFFALO,US Senator,,,Grant T. SHORT,5,5
+Johnson,GREASY CREEK,US Senator,,,Grant T. SHORT,6,6
+Johnson,WHITEHOUSE,US Senator,,,Grant T. SHORT,2,2
+Johnson,THELMA,US Senator,,,Grant T. SHORT,8,8
+Johnson,MOUTH OF RUSH,US Senator,,,Grant T. SHORT,4,4
+Johnson,OIL SPRINGS,US Senator,,,Grant T. SHORT,5,5
+Johnson,BARNETTS CREEK,US Senator,,,Grant T. SHORT,2,2
+Johnson,FLAT GAP,US Senator,,,Grant T. SHORT,3,3
+Johnson,VOLGA,US Senator,,,Grant T. SHORT,2,2
+Johnson,LOW GAP,US Senator,,,Grant T. SHORT,2,2
+Johnson,RED BUSH,US Senator,,,Grant T. SHORT,8,8
+Johnson,JENNYS CREEK,US Senator,,,Grant T. SHORT,8,8
+Johnson,LITTLE GAP,US Senator,,,Grant T. SHORT,0,0
+Johnson,STAMBAUGH,US Senator,,,Grant T. SHORT,1,1
+Johnson,SITKA,US Senator,,,Grant T. SHORT,3,3
+Johnson,SYCAMORE,US Senator,,,Grant T. SHORT,3,3
+Johnson,ABSENTEE MACHINE,US Senator,,,Grant T. SHORT,4,4
+Johnson,ABSENTEE PAPER,US Senator,,,Grant T. SHORT,1,1
+Johnson,UPPER WARD,US Senator,,,Sellus WILDER,8,8
+Johnson,MIDDLE WARD,US Senator,,,Sellus WILDER,7,7
+Johnson,LOWER WARD,US Senator,,,Sellus WILDER,7,7
+Johnson,BRIDGEFORD,US Senator,,,Sellus WILDER,4,4
+Johnson,STAFFORDSVILLE,US Senator,,,Sellus WILDER,9,9
+Johnson,HAGER HILL,US Senator,,,Sellus WILDER,8,8
+Johnson,SOUTHSIDE,US Senator,,,Sellus WILDER,8,8
+Johnson,KING ADDITION,US Senator,,,Sellus WILDER,14,14
+Johnson,EAST POINT,US Senator,,,Sellus WILDER,1,1
+Johnson,MUDDY BRANCH,US Senator,,,Sellus WILDER,4,4
+Johnson,WEST VAN LEAR,US Senator,,,Sellus WILDER,5,5
+Johnson,DANIELS CREEK,US Senator,,,Sellus WILDER,2,2
+Johnson,POWELL ADDITION,US Senator,,,Sellus WILDER,5,5
+Johnson,MINGO,US Senator,,,Sellus WILDER,12,12
+Johnson,VAN LEAR,US Senator,,,Sellus WILDER,7,7
+Johnson,BUFFALO,US Senator,,,Sellus WILDER,6,6
+Johnson,GREASY CREEK,US Senator,,,Sellus WILDER,9,9
+Johnson,WHITEHOUSE,US Senator,,,Sellus WILDER,1,1
+Johnson,THELMA,US Senator,,,Sellus WILDER,3,3
+Johnson,MOUTH OF RUSH,US Senator,,,Sellus WILDER,6,6
+Johnson,OIL SPRINGS,US Senator,,,Sellus WILDER,5,5
+Johnson,BARNETTS CREEK,US Senator,,,Sellus WILDER,7,7
+Johnson,FLAT GAP,US Senator,,,Sellus WILDER,9,9
+Johnson,VOLGA,US Senator,,,Sellus WILDER,6,6
+Johnson,LOW GAP,US Senator,,,Sellus WILDER,2,2
+Johnson,RED BUSH,US Senator,,,Sellus WILDER,3,3
+Johnson,JENNYS CREEK,US Senator,,,Sellus WILDER,5,5
+Johnson,LITTLE GAP,US Senator,,,Sellus WILDER,2,2
+Johnson,STAMBAUGH,US Senator,,,Sellus WILDER,3,3
+Johnson,SITKA,US Senator,,,Sellus WILDER,5,5
+Johnson,SYCAMORE,US Senator,,,Sellus WILDER,2,2
+Johnson,ABSENTEE MACHINE,US Senator,,,Sellus WILDER,7,7
+Johnson,ABSENTEE PAPER,US Senator,,,Sellus WILDER,0,0
+Johnson,UPPER WARD,US Senator,,,Jim GRAY,26,26
+Johnson,MIDDLE WARD,US Senator,,,Jim GRAY,21,21
+Johnson,LOWER WARD,US Senator,,,Jim GRAY,7,7
+Johnson,BRIDGEFORD,US Senator,,,Jim GRAY,20,20
+Johnson,STAFFORDSVILLE,US Senator,,,Jim GRAY,31,31
+Johnson,HAGER HILL,US Senator,,,Jim GRAY,34,34
+Johnson,SOUTHSIDE,US Senator,,,Jim GRAY,19,19
+Johnson,KING ADDITION,US Senator,,,Jim GRAY,44,44
+Johnson,EAST POINT,US Senator,,,Jim GRAY,3,3
+Johnson,MUDDY BRANCH,US Senator,,,Jim GRAY,10,10
+Johnson,WEST VAN LEAR,US Senator,,,Jim GRAY,30,30
+Johnson,DANIELS CREEK,US Senator,,,Jim GRAY,18,18
+Johnson,POWELL ADDITION,US Senator,,,Jim GRAY,29,29
+Johnson,MINGO,US Senator,,,Jim GRAY,9,9
+Johnson,VAN LEAR,US Senator,,,Jim GRAY,22,22
+Johnson,BUFFALO,US Senator,,,Jim GRAY,17,17
+Johnson,GREASY CREEK,US Senator,,,Jim GRAY,28,28
+Johnson,WHITEHOUSE,US Senator,,,Jim GRAY,0,0
+Johnson,THELMA,US Senator,,,Jim GRAY,29,29
+Johnson,MOUTH OF RUSH,US Senator,,,Jim GRAY,16,16
+Johnson,OIL SPRINGS,US Senator,,,Jim GRAY,8,8
+Johnson,BARNETTS CREEK,US Senator,,,Jim GRAY,18,18
+Johnson,FLAT GAP,US Senator,,,Jim GRAY,30,30
+Johnson,VOLGA,US Senator,,,Jim GRAY,15,15
+Johnson,LOW GAP,US Senator,,,Jim GRAY,13,13
+Johnson,RED BUSH,US Senator,,,Jim GRAY,21,21
+Johnson,JENNYS CREEK,US Senator,,,Jim GRAY,11,11
+Johnson,LITTLE GAP,US Senator,,,Jim GRAY,7,7
+Johnson,STAMBAUGH,US Senator,,,Jim GRAY,15,15
+Johnson,SITKA,US Senator,,,Jim GRAY,10,10
+Johnson,SYCAMORE,US Senator,,,Jim GRAY,11,11
+Johnson,ABSENTEE MACHINE,US Senator,,,Jim GRAY,20,20
+Johnson,ABSENTEE PAPER,US Senator,,,Jim GRAY,12,12
+Johnson,UPPER WARD,US Senator,,,Rory HOULIHAN,2,2
+Johnson,MIDDLE WARD,US Senator,,,Rory HOULIHAN,0,0
+Johnson,LOWER WARD,US Senator,,,Rory HOULIHAN,1,1
+Johnson,BRIDGEFORD,US Senator,,,Rory HOULIHAN,1,1
+Johnson,STAFFORDSVILLE,US Senator,,,Rory HOULIHAN,0,0
+Johnson,HAGER HILL,US Senator,,,Rory HOULIHAN,2,2
+Johnson,SOUTHSIDE,US Senator,,,Rory HOULIHAN,0,0
+Johnson,KING ADDITION,US Senator,,,Rory HOULIHAN,2,2
+Johnson,EAST POINT,US Senator,,,Rory HOULIHAN,0,0
+Johnson,MUDDY BRANCH,US Senator,,,Rory HOULIHAN,1,1
+Johnson,WEST VAN LEAR,US Senator,,,Rory HOULIHAN,2,2
+Johnson,DANIELS CREEK,US Senator,,,Rory HOULIHAN,1,1
+Johnson,POWELL ADDITION,US Senator,,,Rory HOULIHAN,3,3
+Johnson,MINGO,US Senator,,,Rory HOULIHAN,1,1
+Johnson,VAN LEAR,US Senator,,,Rory HOULIHAN,3,3
+Johnson,BUFFALO,US Senator,,,Rory HOULIHAN,0,0
+Johnson,GREASY CREEK,US Senator,,,Rory HOULIHAN,2,2
+Johnson,WHITEHOUSE,US Senator,,,Rory HOULIHAN,0,0
+Johnson,THELMA,US Senator,,,Rory HOULIHAN,1,1
+Johnson,MOUTH OF RUSH,US Senator,,,Rory HOULIHAN,3,3
+Johnson,OIL SPRINGS,US Senator,,,Rory HOULIHAN,0,0
+Johnson,BARNETTS CREEK,US Senator,,,Rory HOULIHAN,0,0
+Johnson,FLAT GAP,US Senator,,,Rory HOULIHAN,0,0
+Johnson,VOLGA,US Senator,,,Rory HOULIHAN,2,2
+Johnson,LOW GAP,US Senator,,,Rory HOULIHAN,0,0
+Johnson,RED BUSH,US Senator,,,Rory HOULIHAN,0,0
+Johnson,JENNYS CREEK,US Senator,,,Rory HOULIHAN,0,0
+Johnson,LITTLE GAP,US Senator,,,Rory HOULIHAN,1,1
+Johnson,STAMBAUGH,US Senator,,,Rory HOULIHAN,1,1
+Johnson,SITKA,US Senator,,,Rory HOULIHAN,0,0
+Johnson,SYCAMORE,US Senator,,,Rory HOULIHAN,1,1
+Johnson,ABSENTEE MACHINE,US Senator,,,Rory HOULIHAN,2,2
+Johnson,ABSENTEE PAPER,US Senator,,,Rory HOULIHAN,1,1
+Johnson,UPPER WARD,US Senator,,,Jeff KENDER,4,4
+Johnson,MIDDLE WARD,US Senator,,,Jeff KENDER,1,1
+Johnson,LOWER WARD,US Senator,,,Jeff KENDER,0,0
+Johnson,BRIDGEFORD,US Senator,,,Jeff KENDER,1,1
+Johnson,STAFFORDSVILLE,US Senator,,,Jeff KENDER,8,8
+Johnson,HAGER HILL,US Senator,,,Jeff KENDER,3,3
+Johnson,SOUTHSIDE,US Senator,,,Jeff KENDER,3,3
+Johnson,KING ADDITION,US Senator,,,Jeff KENDER,4,4
+Johnson,EAST POINT,US Senator,,,Jeff KENDER,0,0
+Johnson,MUDDY BRANCH,US Senator,,,Jeff KENDER,2,2
+Johnson,WEST VAN LEAR,US Senator,,,Jeff KENDER,3,3
+Johnson,DANIELS CREEK,US Senator,,,Jeff KENDER,4,4
+Johnson,POWELL ADDITION,US Senator,,,Jeff KENDER,6,6
+Johnson,MINGO,US Senator,,,Jeff KENDER,2,2
+Johnson,VAN LEAR,US Senator,,,Jeff KENDER,5,5
+Johnson,BUFFALO,US Senator,,,Jeff KENDER,6,6
+Johnson,GREASY CREEK,US Senator,,,Jeff KENDER,2,2
+Johnson,WHITEHOUSE,US Senator,,,Jeff KENDER,0,0
+Johnson,THELMA,US Senator,,,Jeff KENDER,5,5
+Johnson,MOUTH OF RUSH,US Senator,,,Jeff KENDER,3,3
+Johnson,OIL SPRINGS,US Senator,,,Jeff KENDER,0,0
+Johnson,BARNETTS CREEK,US Senator,,,Jeff KENDER,5,5
+Johnson,FLAT GAP,US Senator,,,Jeff KENDER,5,5
+Johnson,VOLGA,US Senator,,,Jeff KENDER,1,1
+Johnson,LOW GAP,US Senator,,,Jeff KENDER,3,3
+Johnson,RED BUSH,US Senator,,,Jeff KENDER,0,0
+Johnson,JENNYS CREEK,US Senator,,,Jeff KENDER,1,1
+Johnson,LITTLE GAP,US Senator,,,Jeff KENDER,0,0
+Johnson,STAMBAUGH,US Senator,,,Jeff KENDER,2,2
+Johnson,SITKA,US Senator,,,Jeff KENDER,1,1
+Johnson,SYCAMORE,US Senator,,,Jeff KENDER,1,1
+Johnson,ABSENTEE MACHINE,US Senator,,,Jeff KENDER,4,4
+Johnson,ABSENTEE PAPER,US Senator,,,Jeff KENDER,0,0
+Johnson,UPPER WARD,US Senator,,,Ron LEACH,2,2
+Johnson,MIDDLE WARD,US Senator,,,Ron LEACH,3,3
+Johnson,LOWER WARD,US Senator,,,Ron LEACH,0,0
+Johnson,BRIDGEFORD,US Senator,,,Ron LEACH,1,1
+Johnson,STAFFORDSVILLE,US Senator,,,Ron LEACH,6,6
+Johnson,HAGER HILL,US Senator,,,Ron LEACH,6,6
+Johnson,SOUTHSIDE,US Senator,,,Ron LEACH,1,1
+Johnson,KING ADDITION,US Senator,,,Ron LEACH,6,6
+Johnson,EAST POINT,US Senator,,,Ron LEACH,0,0
+Johnson,MUDDY BRANCH,US Senator,,,Ron LEACH,4,4
+Johnson,WEST VAN LEAR,US Senator,,,Ron LEACH,2,2
+Johnson,DANIELS CREEK,US Senator,,,Ron LEACH,1,1
+Johnson,POWELL ADDITION,US Senator,,,Ron LEACH,0,0
+Johnson,MINGO,US Senator,,,Ron LEACH,3,3
+Johnson,VAN LEAR,US Senator,,,Ron LEACH,3,3
+Johnson,BUFFALO,US Senator,,,Ron LEACH,4,4
+Johnson,GREASY CREEK,US Senator,,,Ron LEACH,4,4
+Johnson,WHITEHOUSE,US Senator,,,Ron LEACH,3,3
+Johnson,THELMA,US Senator,,,Ron LEACH,4,4
+Johnson,MOUTH OF RUSH,US Senator,,,Ron LEACH,1,1
+Johnson,OIL SPRINGS,US Senator,,,Ron LEACH,0,0
+Johnson,BARNETTS CREEK,US Senator,,,Ron LEACH,0,0
+Johnson,FLAT GAP,US Senator,,,Ron LEACH,6,6
+Johnson,VOLGA,US Senator,,,Ron LEACH,2,2
+Johnson,LOW GAP,US Senator,,,Ron LEACH,0,0
+Johnson,RED BUSH,US Senator,,,Ron LEACH,2,2
+Johnson,JENNYS CREEK,US Senator,,,Ron LEACH,2,2
+Johnson,LITTLE GAP,US Senator,,,Ron LEACH,0,0
+Johnson,STAMBAUGH,US Senator,,,Ron LEACH,3,3
+Johnson,SITKA,US Senator,,,Ron LEACH,1,1
+Johnson,SYCAMORE,US Senator,,,Ron LEACH,0,0
+Johnson,ABSENTEE MACHINE,US Senator,,,Ron LEACH,3,3
+Johnson,ABSENTEE PAPER,US Senator,,,Ron LEACH,1,1
