@@ -1,57 +1,57 @@
-county,precinct,office,district,party,candidate,votes
-Todd,Allegre (A101),U.S. House,1,REP,James R. Comer,188
-Todd,Elkton #1 (A102),U.S. House,1,REP,James R. Comer,186
-Todd,Fairview (A103),U.S. House,1,REP,James R. Comer,147
-Todd,Sharon Grove (B101),U.S. House,1,REP,James R. Comer,259
-Todd,Clifty (B102),U.S. House,1,REP,James R. Comer,216
-Todd,Elkton #2 (B103),U.S. House,1,REP,James R. Comer,66
-Todd,Kirkmansville (B104),U.S. House,1,REP,James R. Comer,52
-Todd,Elkton #3 (C101),U.S. House,1,REP,James R. Comer,285
-Todd,Trenton (C102),U.S. House,1,REP,James R. Comer,258
-Todd,Allensville (D101),U.S. House,1,REP,James R. Comer,53
-Todd,Elkton #4 (D102),U.S. House,1,REP,James R. Comer,437
-Todd,Guthrie #1 (E101),U.S. House,1,REP,James R. Comer,186
-Todd,Guthrie #2 (E102),U.S. House,1,REP,James R. Comer,166
-Todd,Absentee,U.S. House,1,REP,James R. Comer,141
-Todd,Allegre (A101),U.S. House,1,DEM,Paul Walker,61
-Todd,Elkton #1 (A102),U.S. House,1,DEM,Paul Walker,73
-Todd,Fairview (A103),U.S. House,1,DEM,Paul Walker,45
-Todd,Sharon Grove (B101),U.S. House,1,DEM,Paul Walker,66
-Todd,Clifty (B102),U.S. House,1,DEM,Paul Walker,79
-Todd,Elkton #2 (B103),U.S. House,1,DEM,Paul Walker,16
-Todd,Kirkmansville (B104),U.S. House,1,DEM,Paul Walker,19
-Todd,Elkton #3 (C101),U.S. House,1,DEM,Paul Walker,184
-Todd,Trenton (C102),U.S. House,1,DEM,Paul Walker,114
-Todd,Allensville (D101),U.S. House,1,DEM,Paul Walker,51
-Todd,Elkton #4 (D102),U.S. House,1,DEM,Paul Walker,240
-Todd,Guthrie #1 (E101),U.S. House,1,DEM,Paul Walker,71
-Todd,Guthrie #2 (E102),U.S. House,1,DEM,Paul Walker,198
-Todd,Absentee,U.S. House,1,DEM,Paul Walker,63
-Todd,Allegre (A101),State House,16,REP,Jason Petrie,220
-Todd,Elkton #1 (A102),State House,16,REP,Jason Petrie,214
-Todd,Fairview (A103),State House,16,REP,Jason Petrie,167
-Todd,Sharon Grove (B101),State House,16,REP,Jason Petrie,284
-Todd,Clifty (B102),State House,16,REP,Jason Petrie,254
-Todd,Elkton #2 (B103),State House,16,REP,Jason Petrie,77
-Todd,Kirkmansville (B104),State House,16,REP,Jason Petrie,53
-Todd,Elkton #3 (C101),State House,16,REP,Jason Petrie,348
-Todd,Trenton (C102),State House,16,REP,Jason Petrie,311
-Todd,Allensville (D101),State House,16,REP,Jason Petrie,80
-Todd,Elkton #4 (D102),State House,16,REP,Jason Petrie,555
-Todd,Guthrie #1 (E101),State House,16,REP,Jason Petrie,222
-Todd,Guthrie #2 (E102),State House,16,REP,Jason Petrie,247
-Todd,Absentee,State House,16,REP,Jason Petrie,172
-Todd,Allegre (A101),State House,16,,Bob Nelson,11
-Todd,Elkton #1 (A102),State House,16,,Bob Nelson,11
-Todd,Fairview (A103),State House,16,,Bob Nelson,6
-Todd,Sharon Grove (B101),State House,16,,Bob Nelson,24
-Todd,Clifty (B102),State House,16,,Bob Nelson,13
-Todd,Elkton #2 (B103),State House,16,,Bob Nelson,6
-Todd,Kirkmansville (B104),State House,16,,Bob Nelson,1
-Todd,Elkton #3 (C101),State House,16,,Bob Nelson,35
-Todd,Trenton (C102),State House,16,,Bob Nelson,19
-Todd,Allensville (D101),State House,16,,Bob Nelson,1
-Todd,Elkton #4 (D102),State House,16,,Bob Nelson,52
-Todd,Guthrie #1 (E101),State House,16,,Bob Nelson,9
-Todd,Guthrie #2 (E102),State House,16,,Bob Nelson,14
-Todd,Absentee,State House,16,,Bob Nelson,6
+county,precinct,office,district,candidate,party,votes
+Todd,Allegre (A101),U.S. House,1,James R. Comer,REP,188
+Todd,Elkton #1 (A102),U.S. House,1,James R. Comer,REP,186
+Todd,Fairview (A103),U.S. House,1,James R. Comer,REP,147
+Todd,Sharon Grove (B101),U.S. House,1,James R. Comer,REP,259
+Todd,Clifty (B102),U.S. House,1,James R. Comer,REP,216
+Todd,Elkton #2 (B103),U.S. House,1,James R. Comer,REP,66
+Todd,Kirkmansville (B104),U.S. House,1,James R. Comer,REP,52
+Todd,Elkton #3 (C101),U.S. House,1,James R. Comer,REP,285
+Todd,Trenton (C102),U.S. House,1,James R. Comer,REP,258
+Todd,Allensville (D101),U.S. House,1,James R. Comer,REP,53
+Todd,Elkton #4 (D102),U.S. House,1,James R. Comer,REP,437
+Todd,Guthrie #1 (E101),U.S. House,1,James R. Comer,REP,186
+Todd,Guthrie #2 (E102),U.S. House,1,James R. Comer,REP,166
+Todd,Absentee,U.S. House,1,James R. Comer,REP,141
+Todd,Allegre (A101),U.S. House,1,Paul Walker,DEM,61
+Todd,Elkton #1 (A102),U.S. House,1,Paul Walker,DEM,73
+Todd,Fairview (A103),U.S. House,1,Paul Walker,DEM,45
+Todd,Sharon Grove (B101),U.S. House,1,Paul Walker,DEM,66
+Todd,Clifty (B102),U.S. House,1,Paul Walker,DEM,79
+Todd,Elkton #2 (B103),U.S. House,1,Paul Walker,DEM,16
+Todd,Kirkmansville (B104),U.S. House,1,Paul Walker,DEM,19
+Todd,Elkton #3 (C101),U.S. House,1,Paul Walker,DEM,184
+Todd,Trenton (C102),U.S. House,1,Paul Walker,DEM,114
+Todd,Allensville (D101),U.S. House,1,Paul Walker,DEM,51
+Todd,Elkton #4 (D102),U.S. House,1,Paul Walker,DEM,240
+Todd,Guthrie #1 (E101),U.S. House,1,Paul Walker,DEM,71
+Todd,Guthrie #2 (E102),U.S. House,1,Paul Walker,DEM,198
+Todd,Absentee,U.S. House,1,Paul Walker,DEM,63
+Todd,Allegre (A101),State Representative,16,Jason Petrie,REP,220
+Todd,Elkton #1 (A102),State Representative,16,Jason Petrie,REP,214
+Todd,Fairview (A103),State Representative,16,Jason Petrie,REP,167
+Todd,Sharon Grove (B101),State Representative,16,Jason Petrie,REP,284
+Todd,Clifty (B102),State Representative,16,Jason Petrie,REP,254
+Todd,Elkton #2 (B103),State Representative,16,Jason Petrie,REP,77
+Todd,Kirkmansville (B104),State Representative,16,Jason Petrie,REP,53
+Todd,Elkton #3 (C101),State Representative,16,Jason Petrie,REP,348
+Todd,Trenton (C102),State Representative,16,Jason Petrie,REP,311
+Todd,Allensville (D101),State Representative,16,Jason Petrie,REP,80
+Todd,Elkton #4 (D102),State Representative,16,Jason Petrie,REP,555
+Todd,Guthrie #1 (E101),State Representative,16,Jason Petrie,REP,222
+Todd,Guthrie #2 (E102),State Representative,16,Jason Petrie,REP,247
+Todd,Absentee,State Representative,16,Jason Petrie,REP,172
+Todd,Allegre (A101),State Representative,16,Bob Nelson,,11
+Todd,Elkton #1 (A102),State Representative,16,Bob Nelson,,11
+Todd,Fairview (A103),State Representative,16,Bob Nelson,,6
+Todd,Sharon Grove (B101),State Representative,16,Bob Nelson,,24
+Todd,Clifty (B102),State Representative,16,Bob Nelson,,13
+Todd,Elkton #2 (B103),State Representative,16,Bob Nelson,,6
+Todd,Kirkmansville (B104),State Representative,16,Bob Nelson,,1
+Todd,Elkton #3 (C101),State Representative,16,Bob Nelson,,35
+Todd,Trenton (C102),State Representative,16,Bob Nelson,,19
+Todd,Allensville (D101),State Representative,16,Bob Nelson,,1
+Todd,Elkton #4 (D102),State Representative,16,Bob Nelson,,52
+Todd,Guthrie #1 (E101),State Representative,16,Bob Nelson,,9
+Todd,Guthrie #2 (E102),State Representative,16,Bob Nelson,,14
+Todd,Absentee,State Representative,16,Bob Nelson,,6
