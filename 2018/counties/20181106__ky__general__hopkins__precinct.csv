@@ -1,431 +1,2022 @@
-county,precinct,candidate,office,district,party,votes
-Hopkins,Precinct AB,,Ballots Cast,,,1033
-Hopkins,Precinct AB,,Straight Party,,REP,206
-Hopkins,Precinct AB,,Straight Party,,DEM,116
-Hopkins,Precinct AB,James R Comer,U.S. House,1,REP,692
-Hopkins,Precinct AB,Paul Walker,U.S. House,1,DEM,305
-Hopkins,Precinct AB,C B Embry Jr.,State Senate,6,REP,680
-Hopkins,Precinct AB,Crystal Chappell ,State Senate,6,DEM,315
-Hopkins,Precinct AB,Myron B. Dossett,State Representative ,9,REP,211
-Hopkins,Precinct AB,William Coleman,State Representative ,9,DEM,141
-Hopkins,Precinct AB,Jim Gooch Jr.,State Representative ,12,REP,256
-Hopkins,Precinct AB,Bruce Kunze,State Representative ,12,DEM,104
-Hopkins,Precinct AB,Melinda Gibbons Prunty,State Representative ,15,REP,173
-Hopkins,Precinct AB,Brent Yonts,State Representative ,15,DEM,101
-Hopkins,Precinct A001,,Ballots Cast,,,267
-Hopkins,Precinct A001,,Straight Party,,REP,39
-Hopkins,Precinct A001,,Straight Party,,DEM,26
-Hopkins,Precinct A001,James R Comer,U.S. House,1,REP,165
-Hopkins,Precinct A001,Paul Walker,U.S. House,1,DEM,82
-Hopkins,Precinct A001,C B Embry Jr.,State Senate,6,REP,166
-Hopkins,Precinct A001,Crystal Chappell ,State Senate,6,DEM,86
-Hopkins,Precinct A001,Melinda Gibbons Prunty,State Representative ,15,REP,155
-Hopkins,Precinct A001,Brent Yonts,State Representative ,15,DEM,102
-Hopkins,Precinct A002,,Ballots Cast,,,315
-Hopkins,Precinct A002,,Straight Party,,REP,53
-Hopkins,Precinct A002,,Straight Party,,DEM,21
-Hopkins,Precinct A002,James R Comer,U.S. House,1,REP,222
-Hopkins,Precinct A002,Paul Walker,U.S. House,1,DEM,72
-Hopkins,Precinct A002,C B Embry Jr.,State Senate,6,REP,217
-Hopkins,Precinct A002,Crystal Chappell ,State Senate,6,DEM,74
-Hopkins,Precinct A002,Melinda Gibbons Prunty,State Representative ,15,REP,190
-Hopkins,Precinct A002,Brent Yonts,State Representative ,15,DEM,117
-Hopkins,Precinct A003,,Ballots Cast,,,674
-Hopkins,Precinct A003,,Straight Party,,REP,132
-Hopkins,Precinct A003,,Straight Party,,DEM,64
-Hopkins,Precinct A003,James R Comer,U.S. House,1,REP,453
-Hopkins,Precinct A003,Paul Walker,U.S. House,1,DEM,188
-Hopkins,Precinct A003,C B Embry Jr.,State Senate,6,REP,443
-Hopkins,Precinct A003,Crystal Chappell ,State Senate,6,DEM,201
-Hopkins,Precinct A003,Melinda Gibbons Prunty,State Representative ,15,REP,415
-Hopkins,Precinct A003,Brent Yonts,State Representative ,15,DEM,249
-Hopkins,Precinct A004,,Ballots Cast,,,110
-Hopkins,Precinct A004,,Straight Party,,REP,25
-Hopkins,Precinct A004,,Straight Party,,DEM,7
-Hopkins,Precinct A004,James R Comer,U.S. House,1,REP,90
-Hopkins,Precinct A004,Paul Walker,U.S. House,1,DEM,15
-Hopkins,Precinct A004,C B Embry Jr.,State Senate,6,REP,90
-Hopkins,Precinct A004,Crystal Chappell ,State Senate,6,DEM,16
-Hopkins,Precinct A004,Myron B. Dossett,State Representative ,9,REP,89
-Hopkins,Precinct A004,William Coleman,State Representative ,9,DEM,13
-Hopkins,Precinct A005,,Ballots Cast,,,213
-Hopkins,Precinct A005,,Straight Party,,REP,56
-Hopkins,Precinct A005,,Straight Party,,DEM,21
-Hopkins,Precinct A005,James R Comer,U.S. House,1,REP,160
-Hopkins,Precinct A005,Paul Walker,U.S. House,1,DEM,44
-Hopkins,Precinct A005,C B Embry Jr.,State Senate,6,REP,149
-Hopkins,Precinct A005,Crystal Chappell ,State Senate,6,DEM,54
-Hopkins,Precinct A005,Myron B. Dossett,State Representative ,9,REP,156
-Hopkins,Precinct A005,William Coleman,State Representative ,9,DEM,46
-Hopkins,Precinct A006 MG,,Ballots Cast,,,269
-Hopkins,Precinct A006 MG,,Straight Party,,REP,41
-Hopkins,Precinct A006 MG,,Straight Party,,DEM,28
-Hopkins,Precinct A006 MG,James R Comer,U.S. House,1,REP,161
-Hopkins,Precinct A006 MG,Paul Walker,U.S. House,1,DEM,94
-Hopkins,Precinct A006 MG,C B Embry Jr.,State Senate,6,REP,156
-Hopkins,Precinct A006 MG,Crystal Chappell ,State Senate,6,DEM,101
-Hopkins,Precinct A006 MG,Melinda Gibbons Prunty,State Representative ,15,REP,142
-Hopkins,Precinct A006 MG,Brent Yonts,State Representative ,15,DEM,116
-Hopkins,Precinct A007,,Ballots Cast,,,402
-Hopkins,Precinct A007,,Straight Party,,REP,76
-Hopkins,Precinct A007,,Straight Party,,DEM,25
-Hopkins,Precinct A007,James R Comer,U.S. House,1,REP,291
-Hopkins,Precinct A007,Paul Walker,U.S. House,1,DEM,91
-Hopkins,Precinct A007,C B Embry Jr.,State Senate,6,REP,302
-Hopkins,Precinct A007,Crystal Chappell ,State Senate,6,DEM,90
-Hopkins,Precinct A007,Melinda Gibbons Prunty,State Representative ,15,REP,257
-Hopkins,Precinct A007,Brent Yonts,State Representative ,15,DEM,131
-Hopkins,Precinct B008,,Ballots Cast,,,311
-Hopkins,Precinct B008,,Straight Party,,REP,51
-Hopkins,Precinct B008,,Straight Party,,DEM,72
-Hopkins,Precinct B008,James R Comer,U.S. House,1,REP,174
-Hopkins,Precinct B008,Paul Walker,U.S. House,1,DEM,129
-Hopkins,Precinct B008,C B Embry Jr.,State Senate,6,REP,171
-Hopkins,Precinct B008,Crystal Chappell ,State Senate,6,DEM,134
-Hopkins,Precinct B008,Myron B. Dossett,State Representative ,9,REP,159
-Hopkins,Precinct B008,William Coleman,State Representative ,9,DEM,138
-Hopkins,Precinct B009,,Ballots Cast,,,329
-Hopkins,Precinct B009,,Straight Party,,REP,79
-Hopkins,Precinct B009,,Straight Party,,DEM,33
-Hopkins,Precinct B009,James R Comer,U.S. House,1,REP,223
-Hopkins,Precinct B009,Paul Walker,U.S. House,1,DEM,100
-Hopkins,Precinct B009,C B Embry Jr.,State Senate,6,REP,227
-Hopkins,Precinct B009,Crystal Chappell ,State Senate,6,DEM,97
-Hopkins,Precinct B009,Melinda Gibbons Prunty,State Representative ,15,REP,204
-Hopkins,Precinct B009,Brent Yonts,State Representative ,15,DEM,120
-Hopkins,Precinct B010,,Ballots Cast,,,230
-Hopkins,Precinct B010,,Straight Party,,REP,43
-Hopkins,Precinct B010,,Straight Party,,DEM,19
-Hopkins,Precinct B010,James R Comer,U.S. House,1,REP,169
-Hopkins,Precinct B010,Paul Walker,U.S. House,1,DEM,55
-Hopkins,Precinct B010,C B Embry Jr.,State Senate,6,REP,163
-Hopkins,Precinct B010,Crystal Chappell ,State Senate,6,DEM,61
-Hopkins,Precinct B010,Melinda Gibbons Prunty,State Representative ,15,REP,155
-Hopkins,Precinct B010,Brent Yonts,State Representative ,15,DEM,71
-Hopkins,Precinct B011,,Ballots Cast,,,298
-Hopkins,Precinct B011,,Straight Party,,REP,74
-Hopkins,Precinct B011,,Straight Party,,DEM,35
-Hopkins,Precinct B011,James R Comer,U.S. House,1,REP,202
-Hopkins,Precinct B011,Paul Walker,U.S. House,1,DEM,87
-Hopkins,Precinct B011,C B Embry Jr.,State Senate,6,REP,198
-Hopkins,Precinct B011,Crystal Chappell ,State Senate,6,DEM,94
-Hopkins,Precinct B011,Melinda Gibbons Prunty,State Representative ,15,REP,171
-Hopkins,Precinct B011,Brent Yonts,State Representative ,15,DEM,120
-Hopkins,Precinct B012,,Ballots Cast,,,246
-Hopkins,Precinct B012,,Straight Party,,REP,50
-Hopkins,Precinct B012,,Straight Party,,DEM,21
-Hopkins,Precinct B012,James R Comer,U.S. House,1,REP,171
-Hopkins,Precinct B012,Paul Walker,U.S. House,1,DEM,70
-Hopkins,Precinct B012,C B Embry Jr.,State Senate,6,REP,165
-Hopkins,Precinct B012,Crystal Chappell ,State Senate,6,DEM,74
-Hopkins,Precinct B012,Melinda Gibbons Prunty,State Representative ,15,REP,154
-Hopkins,Precinct B012,Brent Yonts,State Representative ,15,DEM,83
-Hopkins,Precinct B013M,,Ballots Cast,,,168
-Hopkins,Precinct B013M,,Straight Party,,REP,21
-Hopkins,Precinct B013M,,Straight Party,,DEM,2
-Hopkins,Precinct B013M,James R Comer,U.S. House,1,REP,124
-Hopkins,Precinct B013M,Paul Walker,U.S. House,1,DEM,35
-Hopkins,Precinct B013M,C B Embry Jr.,State Senate,6,REP,121
-Hopkins,Precinct B013M,Crystal Chappell ,State Senate,6,DEM,40
-Hopkins,Precinct B013M,Melinda Gibbons Prunty,State Representative ,15,REP,117
-Hopkins,Precinct B013M,Brent Yonts,State Representative ,15,DEM,45
-Hopkins,Precinct B014M,,Ballots Cast,,,250
-Hopkins,Precinct B014M,,Straight Party,,REP,35
-Hopkins,Precinct B014M,,Straight Party,,DEM,39
-Hopkins,Precinct B014M,James R Comer,U.S. House,1,REP,128
-Hopkins,Precinct B014M,Paul Walker,U.S. House,1,DEM,114
-Hopkins,Precinct B014M,C B Embry Jr.,State Senate,6,REP,129
-Hopkins,Precinct B014M,Crystal Chappell ,State Senate,6,DEM,112
-Hopkins,Precinct B014M,Melinda Gibbons Prunty,State Representative ,15,REP,111
-Hopkins,Precinct B014M,Brent Yonts,State Representative ,15,DEM,129
-Hopkins,Precinct B015E,,Ballots Cast,,,200
-Hopkins,Precinct B015E,,Straight Party,,REP,27
-Hopkins,Precinct B015E,,Straight Party,,DEM,33
-Hopkins,Precinct B015E,James R Comer,U.S. House,1,REP,91
-Hopkins,Precinct B015E,Paul Walker,U.S. House,1,DEM,98
-Hopkins,Precinct B015E,C B Embry Jr.,State Senate,6,REP,88
-Hopkins,Precinct B015E,Crystal Chappell ,State Senate,6,DEM,101
-Hopkins,Precinct B015E,Melinda Gibbons Prunty,State Representative ,15,REP,85
-Hopkins,Precinct B015E,Brent Yonts,State Representative ,15,DEM,110
-Hopkins,Precinct C016,,Ballots Cast,,,448
-Hopkins,Precinct C016,,Straight Party,,REP,89
-Hopkins,Precinct C016,,Straight Party,,DEM,37
-Hopkins,Precinct C016,James R Comer,U.S. House,1,REP,320
-Hopkins,Precinct C016,Paul Walker,U.S. House,1,DEM,112
-Hopkins,Precinct C016,C B Embry Jr.,State Senate,6,REP,319
-Hopkins,Precinct C016,Crystal Chappell ,State Senate,6,DEM,113
-Hopkins,Precinct C016,Jim Gooch Jr.,State Representative ,12,REP,313
-Hopkins,Precinct C016,Bruce Kunze,State Representative ,12,DEM,121
-Hopkins,Precinct C017,,Ballots Cast,,,332
-Hopkins,Precinct C017,,Straight Party,,REP,92
-Hopkins,Precinct C017,,Straight Party,,DEM,38
-Hopkins,Precinct C017,James R Comer,U.S. House,1,REP,245
-Hopkins,Precinct C017,Paul Walker,U.S. House,1,DEM,85
-Hopkins,Precinct C017,C B Embry Jr.,State Senate,6,REP,237
-Hopkins,Precinct C017,Crystal Chappell ,State Senate,6,DEM,90
-Hopkins,Precinct C017,Jim Gooch Jr.,State Representative ,12,REP,232
-Hopkins,Precinct C017,Bruce Kunze,State Representative ,12,DEM,96
-Hopkins,Precinct C018,,Ballots Cast,,,496
-Hopkins,Precinct C018,,Straight Party,,REP,117
-Hopkins,Precinct C018,,Straight Party,,DEM,38
-Hopkins,Precinct C018,James R Comer,U.S. House,1,REP,355
-Hopkins,Precinct C018,Paul Walker,U.S. House,1,DEM,128
-Hopkins,Precinct C018,C B Embry Jr.,State Senate,6,REP,350
-Hopkins,Precinct C018,Crystal Chappell ,State Senate,6,DEM,132
-Hopkins,Precinct C018,Jim Gooch Jr.,State Representative ,12,REP,347
-Hopkins,Precinct C018,Bruce Kunze,State Representative ,12,DEM,135
-Hopkins,Precinct C019M,,Ballots Cast,,,380
-Hopkins,Precinct C019M,,Straight Party,,REP,66
-Hopkins,Precinct C019M,,Straight Party,,DEM,35
-Hopkins,Precinct C019M,James R Comer,U.S. House,1,REP,261
-Hopkins,Precinct C019M,Paul Walker,U.S. House,1,DEM,105
-Hopkins,Precinct C019M,C B Embry Jr.,State Senate,6,REP,248
-Hopkins,Precinct C019M,Crystal Chappell ,State Senate,6,DEM,118
-Hopkins,Precinct C019M,Jim Gooch Jr.,State Representative ,12,REP,263
-Hopkins,Precinct C019M,Bruce Kunze,State Representative ,12,DEM,105
-Hopkins,Precinct C020M,,Ballots Cast,,,233
-Hopkins,Precinct C020M,,Straight Party,,REP,71
-Hopkins,Precinct C020M,,Straight Party,,DEM,16
-Hopkins,Precinct C020M,James R Comer,U.S. House,1,REP,164
-Hopkins,Precinct C020M,Paul Walker,U.S. House,1,DEM,65
-Hopkins,Precinct C020M,C B Embry Jr.,State Senate,6,REP,160
-Hopkins,Precinct C020M,Crystal Chappell ,State Senate,6,DEM,71
-Hopkins,Precinct C020M,Jim Gooch Jr.,State Representative ,12,REP,159
-Hopkins,Precinct C020M,Bruce Kunze,State Representative ,12,DEM,70
-Hopkins,Precinct C021M,,Ballots Cast,,,418
-Hopkins,Precinct C021M,,Straight Party,,REP,52
-Hopkins,Precinct C021M,,Straight Party,,DEM,30
-Hopkins,Precinct C021M,James R Comer,U.S. House,1,REP,280
-Hopkins,Precinct C021M,Paul Walker,U.S. House,1,DEM,125
-Hopkins,Precinct C021M,C B Embry Jr.,State Senate,6,REP,261
-Hopkins,Precinct C021M,Crystal Chappell ,State Senate,6,DEM,150
-Hopkins,Precinct C021M,Jim Gooch Jr.,State Representative ,12,REP,263
-Hopkins,Precinct C021M,Bruce Kunze,State Representative ,12,DEM,141
-Hopkins,Precinct C022M,,Ballots Cast,,,220
-Hopkins,Precinct C022M,,Straight Party,,REP,19
-Hopkins,Precinct C022M,,Straight Party,,DEM,53
-Hopkins,Precinct C022M,James R Comer,U.S. House,1,REP,65
-Hopkins,Precinct C022M,Paul Walker,U.S. House,1,DEM,149
-Hopkins,Precinct C022M,C B Embry Jr.,State Senate,6,REP,63
-Hopkins,Precinct C022M,Crystal Chappell ,State Senate,6,DEM,150
-Hopkins,Precinct C022M,Jim Gooch Jr.,State Representative ,12,REP,76
-Hopkins,Precinct C022M,Bruce Kunze,State Representative ,12,DEM,135
-Hopkins,Precinct D023,,Ballots Cast,,,567
-Hopkins,Precinct D023,,Straight Party,,REP,125
-Hopkins,Precinct D023,,Straight Party,,DEM,37
-Hopkins,Precinct D023,James R Comer,U.S. House,1,REP,444
-Hopkins,Precinct D023,Paul Walker,U.S. House,1,DEM,110
-Hopkins,Precinct D023,C B Embry Jr.,State Senate,6,REP,433
-Hopkins,Precinct D023,Crystal Chappell ,State Senate,6,DEM,122
-Hopkins,Precinct D023,Jim Gooch Jr.,State Representative ,12,REP,418
-Hopkins,Precinct D023,Bruce Kunze,State Representative ,12,DEM,131
-Hopkins,Precinct D024,,Ballots Cast,,,498
-Hopkins,Precinct D024,,Straight Party,,REP,111
-Hopkins,Precinct D024,,Straight Party,,DEM,41
-Hopkins,Precinct D024,James R Comer,U.S. House,1,REP,348
-Hopkins,Precinct D024,Paul Walker,U.S. House,1,DEM,130
-Hopkins,Precinct D024,C B Embry Jr.,State Senate,6,REP,346
-Hopkins,Precinct D024,Crystal Chappell ,State Senate,6,DEM,134
-Hopkins,Precinct D024,Jim Gooch Jr.,State Representative ,12,REP,342
-Hopkins,Precinct D024,Bruce Kunze,State Representative ,12,DEM,138
-Hopkins,Precinct D025M,,Ballots Cast,,,291
-Hopkins,Precinct D027M,,Ballots Cast,,,692
-Hopkins,Precinct D028M,,Ballots Cast,,,414
-Hopkins,Precinct D029M,,Ballots Cast,,,124
-Hopkins,Precinct D029M,,Straight Party,,REP,27
-Hopkins,Precinct D029M,,Straight Party,,DEM,20
-Hopkins,Precinct D029M,James R Comer,U.S. House,1,REP,69
-Hopkins,Precinct D029M,Paul Walker,U.S. House,1,DEM,50
-Hopkins,Precinct D029M,C B Embry Jr.,State Senate,6,REP,74
-Hopkins,Precinct D029M,Crystal Chappell ,State Senate,6,DEM,45
-Hopkins,Precinct D029M,Jim Gooch Jr.,State Representative ,12,REP,67
-Hopkins,Precinct D029M,Bruce Kunze,State Representative ,12,DEM,53
-Hopkins,Precinct E030,,Ballots Cast,,,301
-Hopkins,Precinct E030,,Straight Party,,REP,49
-Hopkins,Precinct E030,,Straight Party,,DEM,28
-Hopkins,Precinct E030,James R Comer,U.S. House,1,REP,220
-Hopkins,Precinct E030,Paul Walker,U.S. House,1,DEM,70
-Hopkins,Precinct E030,C B Embry Jr.,State Senate,6,REP,209
-Hopkins,Precinct E030,Crystal Chappell ,State Senate,6,DEM,79
-Hopkins,Precinct E030,Jim Gooch Jr.,State Representative ,12,REP,230
-Hopkins,Precinct E030,Bruce Kunze,State Representative ,12,DEM,64
-Hopkins,Precinct E031,,Ballots Cast,,,339
-Hopkins,Precinct E031,,Straight Party,,REP,89
-Hopkins,Precinct E031,,Straight Party,,DEM,29
-Hopkins,Precinct E031,James R Comer,U.S. House,1,REP,242
-Hopkins,Precinct E031,Paul Walker,U.S. House,1,DEM,91
-Hopkins,Precinct E031,C B Embry Jr.,State Senate,6,REP,245
-Hopkins,Precinct E031,Crystal Chappell ,State Senate,6,DEM,87
-Hopkins,Precinct E031,Myron B. Dossett,State Representative ,9,REP,229
-Hopkins,Precinct E031,William Coleman,State Representative ,9,DEM,97
-Hopkins,Precinct E032,,Ballots Cast,,,215
-Hopkins,Precinct E032,,Straight Party,,REP,59
-Hopkins,Precinct E032,,Straight Party,,DEM,11
-Hopkins,Precinct E032,James R Comer,U.S. House,1,REP,173
-Hopkins,Precinct E032,Paul Walker,U.S. House,1,DEM,34
-Hopkins,Precinct E032,C B Embry Jr.,State Senate,6,REP,166
-Hopkins,Precinct E032,Crystal Chappell ,State Senate,6,DEM,42
-Hopkins,Precinct E032,Jim Gooch Jr.,State Representative ,12,REP,165
-Hopkins,Precinct E032,Bruce Kunze,State Representative ,12,DEM,42
-Hopkins,Precinct E033,,Ballots Cast,,,452
-Hopkins,Precinct E033,,Straight Party,,REP,107
-Hopkins,Precinct E033,,Straight Party,,DEM,40
-Hopkins,Precinct E033,James R Comer,U.S. House,1,REP,336
-Hopkins,Precinct E033,Paul Walker,U.S. House,1,DEM,103
-Hopkins,Precinct E033,C B Embry Jr.,State Senate,6,REP,337
-Hopkins,Precinct E033,Crystal Chappell ,State Senate,6,DEM,100
-Hopkins,Precinct E033,Jim Gooch Jr.,State Representative ,12,REP,295
-Hopkins,Precinct E033,Bruce Kunze,State Representative ,12,DEM,139
-Hopkins,Precinct E034M,,Ballots Cast,,,479
-Hopkins,Precinct E034M,,Straight Party,,REP,79
-Hopkins,Precinct E034M,,Straight Party,,DEM,60
-Hopkins,Precinct E034M,James R Comer,U.S. House,1,REP,280
-Hopkins,Precinct E034M,Paul Walker,U.S. House,1,DEM,167
-Hopkins,Precinct E034M,C B Embry Jr.,State Senate,6,REP,278
-Hopkins,Precinct E034M,Crystal Chappell ,State Senate,6,DEM,175
-Hopkins,Precinct E034M,Myron B. Dossett,State Representative ,9,REP,279
-Hopkins,Precinct E034M,William Coleman,State Representative ,9,DEM,157
-Hopkins,Precinct E035M,,Ballots Cast,,,218
-Hopkins,Precinct E035M,,Straight Party,,REP,29
-Hopkins,Precinct E035M,,Straight Party,,DEM,42
-Hopkins,Precinct E035M,James R Comer,U.S. House,1,REP,96
-Hopkins,Precinct E035M,Paul Walker,U.S. House,1,DEM,114
-Hopkins,Precinct E035M,C B Embry Jr.,State Senate,6,REP,91
-Hopkins,Precinct E035M,Crystal Chappell ,State Senate,6,DEM,117
-Hopkins,Precinct E035M,Myron B. Dossett,State Representative ,9,REP,96
-Hopkins,Precinct E035M,William Coleman,State Representative ,9,DEM,107
-Hopkins,Precinct E036,,Ballots Cast,,,202
-Hopkins,Precinct E036,,Straight Party,,REP,46
-Hopkins,Precinct E036,,Straight Party,,DEM,15
-Hopkins,Precinct E036,James R Comer,U.S. House,1,REP,144
-Hopkins,Precinct E036,Paul Walker,U.S. House,1,DEM,47
-Hopkins,Precinct E036,C B Embry Jr.,State Senate,6,REP,134
-Hopkins,Precinct E036,Crystal Chappell ,State Senate,6,DEM,58
-Hopkins,Precinct E036,Myron B. Dossett,State Representative ,9,REP,134
-Hopkins,Precinct E036,William Coleman,State Representative ,9,DEM,48
-Hopkins,Precinct F037,,Ballots Cast,,,141
-Hopkins,Precinct F037,,Straight Party,,REP,41
-Hopkins,Precinct F037,,Straight Party,,DEM,16
-Hopkins,Precinct F037,James R Comer,U.S. House,1,REP,101
-Hopkins,Precinct F037,Paul Walker,U.S. House,1,DEM,35
-Hopkins,Precinct F037,C B Embry Jr.,State Senate,6,REP,102
-Hopkins,Precinct F037,Crystal Chappell ,State Senate,6,DEM,36
-Hopkins,Precinct F037,Jim Gooch Jr.,State Representative ,12,REP,102
-Hopkins,Precinct F037,Bruce Kunze,State Representative ,12,DEM,34
-Hopkins,Precinct F038D,,Ballots Cast,,,463
-Hopkins,Precinct F038D,,Straight Party,,REP,126
-Hopkins,Precinct F038D,,Straight Party,,DEM,57
-Hopkins,Precinct F038D,James R Comer,U.S. House,1,REP,317
-Hopkins,Precinct F038D,Paul Walker,U.S. House,1,DEM,121
-Hopkins,Precinct F038D,C B Embry Jr.,State Senate,6,REP,314
-Hopkins,Precinct F038D,Crystal Chappell ,State Senate,6,DEM,125
-Hopkins,Precinct F038D,Jim Gooch Jr.,State Representative ,12,REP,302
-Hopkins,Precinct F038D,Bruce Kunze,State Representative ,12,DEM,140
-Hopkins,Precinct F039D,,Ballots Cast,,,300
-Hopkins,Precinct F039D,,Straight Party,,REP,62
-Hopkins,Precinct F039D,,Straight Party,,DEM,31
-Hopkins,Precinct F039D,James R Comer,U.S. House,1,REP,194
-Hopkins,Precinct F039D,Paul Walker,U.S. House,1,DEM,95
-Hopkins,Precinct F039D,C B Embry Jr.,State Senate,6,REP,209
-Hopkins,Precinct F039D,Crystal Chappell ,State Senate,6,DEM,77
-Hopkins,Precinct F039D,Myron B. Dossett,State Representative ,9,REP,183
-Hopkins,Precinct F039D,William Coleman,State Representative ,9,DEM,96
-Hopkins,Precinct F040,,Ballots Cast,,,342
-Hopkins,Precinct F040,,Straight Party,,REP,91
-Hopkins,Precinct F040,,Straight Party,,DEM,36
-Hopkins,Precinct F040,James R Comer,U.S. House,1,REP,252
-Hopkins,Precinct F040,Paul Walker,U.S. House,1,DEM,84
-Hopkins,Precinct F040,C B Embry Jr.,State Senate,6,REP,251
-Hopkins,Precinct F040,Crystal Chappell ,State Senate,6,DEM,84
-Hopkins,Precinct F040,Myron B. Dossett,State Representative ,9,REP,238
-Hopkins,Precinct F040,William Coleman,State Representative ,9,DEM,92
-Hopkins,Precinct F041,,Ballots Cast,,,157
-Hopkins,Precinct F041,,Straight Party,,REP,37
-Hopkins,Precinct F041,,Straight Party,,DEM,10
-Hopkins,Precinct F041,James R Comer,U.S. House,1,REP,122
-Hopkins,Precinct F041,Paul Walker,U.S. House,1,DEM,31
-Hopkins,Precinct F041,C B Embry Jr.,State Senate,6,REP,119
-Hopkins,Precinct F041,Crystal Chappell ,State Senate,6,DEM,33
-Hopkins,Precinct F041,Jim Gooch Jr.,State Representative ,12,REP,111
-Hopkins,Precinct F041,Bruce Kunze,State Representative ,12,DEM,40
-Hopkins,Precinct F042,,Ballots Cast,,,294
-Hopkins,Precinct F042,,Straight Party,,REP,87
-Hopkins,Precinct F042,,Straight Party,,DEM,17
-Hopkins,Precinct F042,James R Comer,U.S. House,1,REP,220
-Hopkins,Precinct F042,Paul Walker,U.S. House,1,DEM,66
-Hopkins,Precinct F042,C B Embry Jr.,State Senate,6,REP,227
-Hopkins,Precinct F042,Crystal Chappell ,State Senate,6,DEM,60
-Hopkins,Precinct F042,Myron B. Dossett,State Representative ,9,REP,212
-Hopkins,Precinct F042,William Coleman,State Representative ,9,DEM,68
-Hopkins,Precinct F043M,,Ballots Cast,,,417
-Hopkins,Precinct F043M,,Straight Party,,REP,64
-Hopkins,Precinct F043M,,Straight Party,,DEM,46
-Hopkins,Precinct F043M,James R Comer,U.S. House,1,REP,250
-Hopkins,Precinct F043M,Paul Walker,U.S. House,1,DEM,160
-Hopkins,Precinct F043M,C B Embry Jr.,State Senate,6,REP,247
-Hopkins,Precinct F043M,Crystal Chappell ,State Senate,6,DEM,165
-Hopkins,Precinct F043M,Myron B. Dossett,State Representative ,9,REP,247
-Hopkins,Precinct F043M,William Coleman,State Representative ,9,DEM,155
-Hopkins,Precinct G044M,,Ballots Cast,,,229
-Hopkins,Precinct G044M,,Straight Party,,REP,49
-Hopkins,Precinct G044M,,Straight Party,,DEM,28
-Hopkins,Precinct G044M,James R Comer,U.S. House,1,REP,144
-Hopkins,Precinct G044M,Paul Walker,U.S. House,1,DEM,78
-Hopkins,Precinct G044M,C B Embry Jr.,State Senate,6,REP,148
-Hopkins,Precinct G044M,Crystal Chappell ,State Senate,6,DEM,74
-Hopkins,Precinct G044M,Melinda Gibbons Prunty,State Representative ,15,REP,129
-Hopkins,Precinct G044M,Brent Yonts,State Representative ,15,DEM,96
-Hopkins,Precinct G045M,,Ballots Cast,,,288
-Hopkins,Precinct G045M,,Straight Party,,REP,58
-Hopkins,Precinct G045M,,Straight Party,,DEM,51
-Hopkins,Precinct G045M,James R Comer,U.S. House,1,REP,171
-Hopkins,Precinct G045M,Paul Walker,U.S. House,1,DEM,107
-Hopkins,Precinct G045M,C B Embry Jr.,State Senate,6,REP,166
-Hopkins,Precinct G045M,Crystal Chappell ,State Senate,6,DEM,115
-Hopkins,Precinct G045M,Melinda Gibbons Prunty,State Representative ,15,REP,158
-Hopkins,Precinct G045M,Brent Yonts,State Representative ,15,DEM,125
-Hopkins,Precinct G046M,,Ballots Cast,,,189
-Hopkins,Precinct G046M,,Straight Party,,REP,20
-Hopkins,Precinct G046M,,Straight Party,,DEM,29
-Hopkins,Precinct G046M,James R Comer,U.S. House,1,REP,98
-Hopkins,Precinct G046M,Paul Walker,U.S. House,1,DEM,84
-Hopkins,Precinct G046M,C B Embry Jr.,State Senate,6,REP,95
-Hopkins,Precinct G046M,Crystal Chappell ,State Senate,6,DEM,91
-Hopkins,Precinct G046M,Melinda Gibbons Prunty,State Representative ,15,REP,86
-Hopkins,Precinct G046M,Brent Yonts,State Representative ,15,DEM,100
-Hopkins,Precinct G047M,,Ballots Cast,,,229
-Hopkins,Precinct G047M,,Straight Party,,REP,40
-Hopkins,Precinct G047M,,Straight Party,,DEM,34
-Hopkins,Precinct G047M,James R Comer,U.S. House,1,REP,118
-Hopkins,Precinct G047M,Paul Walker,U.S. House,1,DEM,99
-Hopkins,Precinct G047M,C B Embry Jr.,State Senate,6,REP,125
-Hopkins,Precinct G047M,Crystal Chappell ,State Senate,6,DEM,94
-Hopkins,Precinct G047M,Myron B. Dossett,State Representative ,9,REP,108
-Hopkins,Precinct G047M,William Coleman,State Representative ,9,DEM,103
-Hopkins,Precinct G048M,,Ballots Cast,,,293
-Hopkins,Precinct G048M,,Straight Party,,REP,46
-Hopkins,Precinct G048M,,Straight Party,,DEM,26
-Hopkins,Precinct G048M,James R Comer,U.S. House,1,REP,165
-Hopkins,Precinct G048M,Paul Walker,U.S. House,1,DEM,114
-Hopkins,Precinct G048M,C B Embry Jr.,State Senate,6,REP,168
-Hopkins,Precinct G048M,Crystal Chappell ,State Senate,6,DEM,116
-Hopkins,Precinct G048M,Myron B. Dossett,State Representative ,9,REP,164
-Hopkins,Precinct G048M,William Coleman,State Representative ,9,DEM,110
-Hopkins,Precinct G049M,,Ballots Cast,,,355
-Hopkins,Precinct G049M,,Straight Party,,REP,79
-Hopkins,Precinct G049M,,Straight Party,,DEM,35
-Hopkins,Precinct G049M,James R Comer,U.S. House,1,REP,236
-Hopkins,Precinct G049M,Paul Walker,U.S. House,1,DEM,102
-Hopkins,Precinct G049M,C B Embry Jr.,State Senate,6,REP,246
-Hopkins,Precinct G049M,Crystal Chappell ,State Senate,6,DEM,93
-Hopkins,Precinct G049M,Myron B. Dossett,State Representative ,9,REP,233
-Hopkins,Precinct G049M,William Coleman,State Representative ,9,DEM,100
-Hopkins,Precinct G050,,Ballots Cast,,,164
-Hopkins,Precinct G050,,Straight Party,,REP,32
-Hopkins,Precinct G050,,Straight Party,,DEM,30
-Hopkins,Precinct G050,James R Comer,U.S. House,1,REP,92
-Hopkins,Precinct G050,Paul Walker,U.S. House,1,DEM,66
-Hopkins,Precinct G050,C B Embry Jr.,State Senate,6,REP,96
-Hopkins,Precinct G050,Crystal Chappell ,State Senate,6,DEM,64
-Hopkins,Precinct G050,Myron B. Dossett,State Representative ,9,REP,90
-Hopkins,Precinct G050,William Coleman,State Representative ,9,DEM,65
+county,precinct,office,district,party,candidate,votes
+Hopkins,AB,U.S. House,1,REP,James R. COMER,692
+Hopkins,A001,U.S. House,1,REP,James R. COMER,165
+Hopkins,A002,U.S. House,1,REP,James R. COMER,222
+Hopkins,A003,U.S. House,1,REP,James R. COMER,453
+Hopkins,A004,U.S. House,1,REP,James R. COMER,90
+Hopkins,A005,U.S. House,1,REP,James R. COMER,160
+Hopkins,A006,U.S. House,1,REP,James R. COMER,161
+Hopkins,A007,U.S. House,1,REP,James R. COMER,291
+Hopkins,B008,U.S. House,1,REP,James R. COMER,174
+Hopkins,B009,U.S. House,1,REP,James R. COMER,223
+Hopkins,B010,U.S. House,1,REP,James R. COMER,169
+Hopkins,B011,U.S. House,1,REP,James R. COMER,202
+Hopkins,B012,U.S. House,1,REP,James R. COMER,171
+Hopkins,B013,U.S. House,1,REP,James R. COMER,124
+Hopkins,B014,U.S. House,1,REP,James R. COMER,128
+Hopkins,B015,U.S. House,1,REP,James R. COMER,91
+Hopkins,C016,U.S. House,1,REP,James R. COMER,320
+Hopkins,C017,U.S. House,1,REP,James R. COMER,245
+Hopkins,C018,U.S. House,1,REP,James R. COMER,355
+Hopkins,C019,U.S. House,1,REP,James R. COMER,261
+Hopkins,C020,U.S. House,1,REP,James R. COMER,164
+Hopkins,C021,U.S. House,1,REP,James R. COMER,280
+Hopkins,C022,U.S. House,1,REP,James R. COMER,65
+Hopkins,D023,U.S. House,1,REP,James R. COMER,444
+Hopkins,D024,U.S. House,1,REP,James R. COMER,348
+Hopkins,D025,U.S. House,1,REP,James R. COMER,111
+Hopkins,D026,U.S. House,1,REP,James R. COMER,139
+Hopkins,D027,U.S. House,1,REP,James R. COMER,471
+Hopkins,D028,U.S. House,1,REP,James R. COMER,275
+Hopkins,D029,U.S. House,1,REP,James R. COMER,69
+Hopkins,E030,U.S. House,1,REP,James R. COMER,220
+Hopkins,E031,U.S. House,1,REP,James R. COMER,242
+Hopkins,E032,U.S. House,1,REP,James R. COMER,173
+Hopkins,E033,U.S. House,1,REP,James R. COMER,336
+Hopkins,E034,U.S. House,1,REP,James R. COMER,280
+Hopkins,E035,U.S. House,1,REP,James R. COMER,96
+Hopkins,E036,U.S. House,1,REP,James R. COMER,144
+Hopkins,F037,U.S. House,1,REP,James R. COMER,101
+Hopkins,F038,U.S. House,1,REP,James R. COMER,317
+Hopkins,F039,U.S. House,1,REP,James R. COMER,194
+Hopkins,F040,U.S. House,1,REP,James R. COMER,252
+Hopkins,F041,U.S. House,1,REP,James R. COMER,122
+Hopkins,F042,U.S. House,1,REP,James R. COMER,220
+Hopkins,F043,U.S. House,1,REP,James R. COMER,250
+Hopkins,G044,U.S. House,1,REP,James R. COMER,144
+Hopkins,G045,U.S. House,1,REP,James R. COMER,171
+Hopkins,G046,U.S. House,1,REP,James R. COMER,98
+Hopkins,G047,U.S. House,1,REP,James R. COMER,118
+Hopkins,G048,U.S. House,1,REP,James R. COMER,165
+Hopkins,G049,U.S. House,1,REP,James R. COMER,236
+Hopkins,G050,U.S. House,1,REP,James R. COMER,92
+Hopkins,AB,U.S. House,1,DEM,Paul WALKER,305
+Hopkins,A001,U.S. House,1,DEM,Paul WALKER,82
+Hopkins,A002,U.S. House,1,DEM,Paul WALKER,72
+Hopkins,A003,U.S. House,1,DEM,Paul WALKER,188
+Hopkins,A004,U.S. House,1,DEM,Paul WALKER,15
+Hopkins,A005,U.S. House,1,DEM,Paul WALKER,44
+Hopkins,A006,U.S. House,1,DEM,Paul WALKER,94
+Hopkins,A007,U.S. House,1,DEM,Paul WALKER,91
+Hopkins,B008,U.S. House,1,DEM,Paul WALKER,129
+Hopkins,B009,U.S. House,1,DEM,Paul WALKER,100
+Hopkins,B010,U.S. House,1,DEM,Paul WALKER,55
+Hopkins,B011,U.S. House,1,DEM,Paul WALKER,87
+Hopkins,B012,U.S. House,1,DEM,Paul WALKER,70
+Hopkins,B013,U.S. House,1,DEM,Paul WALKER,35
+Hopkins,B014,U.S. House,1,DEM,Paul WALKER,114
+Hopkins,B015,U.S. House,1,DEM,Paul WALKER,98
+Hopkins,C016,U.S. House,1,DEM,Paul WALKER,112
+Hopkins,C017,U.S. House,1,DEM,Paul WALKER,85
+Hopkins,C018,U.S. House,1,DEM,Paul WALKER,128
+Hopkins,C019,U.S. House,1,DEM,Paul WALKER,105
+Hopkins,C020,U.S. House,1,DEM,Paul WALKER,65
+Hopkins,C021,U.S. House,1,DEM,Paul WALKER,125
+Hopkins,C022,U.S. House,1,DEM,Paul WALKER,149
+Hopkins,D023,U.S. House,1,DEM,Paul WALKER,110
+Hopkins,D024,U.S. House,1,DEM,Paul WALKER,130
+Hopkins,D025,U.S. House,1,DEM,Paul WALKER,176
+Hopkins,D026,U.S. House,1,DEM,Paul WALKER,44
+Hopkins,D027,U.S. House,1,DEM,Paul WALKER,203
+Hopkins,D028,U.S. House,1,DEM,Paul WALKER,126
+Hopkins,D029,U.S. House,1,DEM,Paul WALKER,50
+Hopkins,E030,U.S. House,1,DEM,Paul WALKER,70
+Hopkins,E031,U.S. House,1,DEM,Paul WALKER,91
+Hopkins,E032,U.S. House,1,DEM,Paul WALKER,34
+Hopkins,E033,U.S. House,1,DEM,Paul WALKER,103
+Hopkins,E034,U.S. House,1,DEM,Paul WALKER,167
+Hopkins,E035,U.S. House,1,DEM,Paul WALKER,114
+Hopkins,E036,U.S. House,1,DEM,Paul WALKER,47
+Hopkins,F037,U.S. House,1,DEM,Paul WALKER,35
+Hopkins,F038,U.S. House,1,DEM,Paul WALKER,121
+Hopkins,F039,U.S. House,1,DEM,Paul WALKER,95
+Hopkins,F040,U.S. House,1,DEM,Paul WALKER,84
+Hopkins,F041,U.S. House,1,DEM,Paul WALKER,31
+Hopkins,F042,U.S. House,1,DEM,Paul WALKER,66
+Hopkins,F043,U.S. House,1,DEM,Paul WALKER,160
+Hopkins,G044,U.S. House,1,DEM,Paul WALKER,78
+Hopkins,G045,U.S. House,1,DEM,Paul WALKER,107
+Hopkins,G046,U.S. House,1,DEM,Paul WALKER,84
+Hopkins,G047,U.S. House,1,DEM,Paul WALKER,99
+Hopkins,G048,U.S. House,1,DEM,Paul WALKER,114
+Hopkins,G049,U.S. House,1,DEM,Paul WALKER,102
+Hopkins,G050,U.S. House,1,DEM,Paul WALKER,66
+Hopkins,AB,State Senate,6,REP,C. B. EMBRY JR.,680
+Hopkins,A001,State Senate,6,REP,C. B. EMBRY JR.,166
+Hopkins,A002,State Senate,6,REP,C. B. EMBRY JR.,217
+Hopkins,A003,State Senate,6,REP,C. B. EMBRY JR.,443
+Hopkins,A004,State Senate,6,REP,C. B. EMBRY JR.,90
+Hopkins,A005,State Senate,6,REP,C. B. EMBRY JR.,149
+Hopkins,A006,State Senate,6,REP,C. B. EMBRY JR.,156
+Hopkins,A007,State Senate,6,REP,C. B. EMBRY JR.,302
+Hopkins,B008,State Senate,6,REP,C. B. EMBRY JR.,171
+Hopkins,B009,State Senate,6,REP,C. B. EMBRY JR.,227
+Hopkins,B010,State Senate,6,REP,C. B. EMBRY JR.,163
+Hopkins,B011,State Senate,6,REP,C. B. EMBRY JR.,198
+Hopkins,B012,State Senate,6,REP,C. B. EMBRY JR.,165
+Hopkins,B013,State Senate,6,REP,C. B. EMBRY JR.,121
+Hopkins,B014,State Senate,6,REP,C. B. EMBRY JR.,129
+Hopkins,B015,State Senate,6,REP,C. B. EMBRY JR.,88
+Hopkins,C016,State Senate,6,REP,C. B. EMBRY JR.,319
+Hopkins,C017,State Senate,6,REP,C. B. EMBRY JR.,237
+Hopkins,C018,State Senate,6,REP,C. B. EMBRY JR.,350
+Hopkins,C019,State Senate,6,REP,C. B. EMBRY JR.,248
+Hopkins,C020,State Senate,6,REP,C. B. EMBRY JR.,160
+Hopkins,C021,State Senate,6,REP,C. B. EMBRY JR.,261
+Hopkins,C022,State Senate,6,REP,C. B. EMBRY JR.,63
+Hopkins,D023,State Senate,6,REP,C. B. EMBRY JR.,433
+Hopkins,D024,State Senate,6,REP,C. B. EMBRY JR.,346
+Hopkins,D025,State Senate,6,REP,C. B. EMBRY JR.,114
+Hopkins,D026,State Senate,6,REP,C. B. EMBRY JR.,137
+Hopkins,D027,State Senate,6,REP,C. B. EMBRY JR.,449
+Hopkins,D028,State Senate,6,REP,C. B. EMBRY JR.,258
+Hopkins,D029,State Senate,6,REP,C. B. EMBRY JR.,74
+Hopkins,E030,State Senate,6,REP,C. B. EMBRY JR.,209
+Hopkins,E031,State Senate,6,REP,C. B. EMBRY JR.,245
+Hopkins,E032,State Senate,6,REP,C. B. EMBRY JR.,166
+Hopkins,E033,State Senate,6,REP,C. B. EMBRY JR.,337
+Hopkins,E034,State Senate,6,REP,C. B. EMBRY JR.,278
+Hopkins,E035,State Senate,6,REP,C. B. EMBRY JR.,91
+Hopkins,E036,State Senate,6,REP,C. B. EMBRY JR.,134
+Hopkins,F037,State Senate,6,REP,C. B. EMBRY JR.,102
+Hopkins,F038,State Senate,6,REP,C. B. EMBRY JR.,314
+Hopkins,F039,State Senate,6,REP,C. B. EMBRY JR.,209
+Hopkins,F040,State Senate,6,REP,C. B. EMBRY JR.,251
+Hopkins,F041,State Senate,6,REP,C. B. EMBRY JR.,119
+Hopkins,F042,State Senate,6,REP,C. B. EMBRY JR.,227
+Hopkins,F043,State Senate,6,REP,C. B. EMBRY JR.,247
+Hopkins,G044,State Senate,6,REP,C. B. EMBRY JR.,148
+Hopkins,G045,State Senate,6,REP,C. B. EMBRY JR.,166
+Hopkins,G046,State Senate,6,REP,C. B. EMBRY JR.,95
+Hopkins,G047,State Senate,6,REP,C. B. EMBRY JR.,125
+Hopkins,G048,State Senate,6,REP,C. B. EMBRY JR.,168
+Hopkins,G049,State Senate,6,REP,C. B. EMBRY JR.,246
+Hopkins,G050,State Senate,6,REP,C. B. EMBRY JR.,96
+Hopkins,AB,State Senate,6,DEM,Crystal CHAPPELL,315
+Hopkins,A001,State Senate,6,DEM,Crystal CHAPPELL,86
+Hopkins,A002,State Senate,6,DEM,Crystal CHAPPELL,74
+Hopkins,A003,State Senate,6,DEM,Crystal CHAPPELL,201
+Hopkins,A004,State Senate,6,DEM,Crystal CHAPPELL,16
+Hopkins,A005,State Senate,6,DEM,Crystal CHAPPELL,54
+Hopkins,A006,State Senate,6,DEM,Crystal CHAPPELL,101
+Hopkins,A007,State Senate,6,DEM,Crystal CHAPPELL,90
+Hopkins,B008,State Senate,6,DEM,Crystal CHAPPELL,134
+Hopkins,B009,State Senate,6,DEM,Crystal CHAPPELL,97
+Hopkins,B010,State Senate,6,DEM,Crystal CHAPPELL,61
+Hopkins,B011,State Senate,6,DEM,Crystal CHAPPELL,94
+Hopkins,B012,State Senate,6,DEM,Crystal CHAPPELL,74
+Hopkins,B013,State Senate,6,DEM,Crystal CHAPPELL,40
+Hopkins,B014,State Senate,6,DEM,Crystal CHAPPELL,112
+Hopkins,B015,State Senate,6,DEM,Crystal CHAPPELL,101
+Hopkins,C016,State Senate,6,DEM,Crystal CHAPPELL,113
+Hopkins,C017,State Senate,6,DEM,Crystal CHAPPELL,90
+Hopkins,C018,State Senate,6,DEM,Crystal CHAPPELL,132
+Hopkins,C019,State Senate,6,DEM,Crystal CHAPPELL,118
+Hopkins,C020,State Senate,6,DEM,Crystal CHAPPELL,71
+Hopkins,C021,State Senate,6,DEM,Crystal CHAPPELL,150
+Hopkins,C022,State Senate,6,DEM,Crystal CHAPPELL,150
+Hopkins,D023,State Senate,6,DEM,Crystal CHAPPELL,122
+Hopkins,D024,State Senate,6,DEM,Crystal CHAPPELL,134
+Hopkins,D025,State Senate,6,DEM,Crystal CHAPPELL,171
+Hopkins,D026,State Senate,6,DEM,Crystal CHAPPELL,45
+Hopkins,D027,State Senate,6,DEM,Crystal CHAPPELL,225
+Hopkins,D028,State Senate,6,DEM,Crystal CHAPPELL,144
+Hopkins,D029,State Senate,6,DEM,Crystal CHAPPELL,45
+Hopkins,E030,State Senate,6,DEM,Crystal CHAPPELL,79
+Hopkins,E031,State Senate,6,DEM,Crystal CHAPPELL,87
+Hopkins,E032,State Senate,6,DEM,Crystal CHAPPELL,42
+Hopkins,E033,State Senate,6,DEM,Crystal CHAPPELL,100
+Hopkins,E034,State Senate,6,DEM,Crystal CHAPPELL,175
+Hopkins,E035,State Senate,6,DEM,Crystal CHAPPELL,117
+Hopkins,E036,State Senate,6,DEM,Crystal CHAPPELL,58
+Hopkins,F037,State Senate,6,DEM,Crystal CHAPPELL,36
+Hopkins,F038,State Senate,6,DEM,Crystal CHAPPELL,125
+Hopkins,F039,State Senate,6,DEM,Crystal CHAPPELL,77
+Hopkins,F040,State Senate,6,DEM,Crystal CHAPPELL,84
+Hopkins,F041,State Senate,6,DEM,Crystal CHAPPELL,33
+Hopkins,F042,State Senate,6,DEM,Crystal CHAPPELL,60
+Hopkins,F043,State Senate,6,DEM,Crystal CHAPPELL,165
+Hopkins,G044,State Senate,6,DEM,Crystal CHAPPELL,74
+Hopkins,G045,State Senate,6,DEM,Crystal CHAPPELL,115
+Hopkins,G046,State Senate,6,DEM,Crystal CHAPPELL,91
+Hopkins,G047,State Senate,6,DEM,Crystal CHAPPELL,94
+Hopkins,G048,State Senate,6,DEM,Crystal CHAPPELL,116
+Hopkins,G049,State Senate,6,DEM,Crystal CHAPPELL,93
+Hopkins,G050,State Senate,6,DEM,Crystal CHAPPELL,64
+Hopkins,AB,State Representative,9,REP,Myron B. DOSSETT,211
+Hopkins,A004,State Representative,9,REP,Myron B. DOSSETT,89
+Hopkins,A005,State Representative,9,REP,Myron B. DOSSETT,156
+Hopkins,B008,State Representative,9,REP,Myron B. DOSSETT,159
+Hopkins,D026,State Representative,9,REP,Myron B. DOSSETT,138
+Hopkins,D027,State Representative,9,REP,Myron B. DOSSETT,450
+Hopkins,D028,State Representative,9,REP,Myron B. DOSSETT,249
+Hopkins,E031,State Representative,9,REP,Myron B. DOSSETT,229
+Hopkins,E034,State Representative,9,REP,Myron B. DOSSETT,279
+Hopkins,E035,State Representative,9,REP,Myron B. DOSSETT,96
+Hopkins,E036,State Representative,9,REP,Myron B. DOSSETT,134
+Hopkins,F039,State Representative,9,REP,Myron B. DOSSETT,183
+Hopkins,F040,State Representative,9,REP,Myron B. DOSSETT,238
+Hopkins,F042,State Representative,9,REP,Myron B. DOSSETT,212
+Hopkins,F043,State Representative,9,REP,Myron B. DOSSETT,247
+Hopkins,G047,State Representative,9,REP,Myron B. DOSSETT,108
+Hopkins,G048,State Representative,9,REP,Myron B. DOSSETT,164
+Hopkins,G049,State Representative,9,REP,Myron B. DOSSETT,233
+Hopkins,G050,State Representative,9,REP,Myron B. DOSSETT,90
+Hopkins,AB,State Representative,9,DEM,William COLEMAN,141
+Hopkins,A004,State Representative,9,DEM,William COLEMAN,13
+Hopkins,A005,State Representative,9,DEM,William COLEMAN,46
+Hopkins,B008,State Representative,9,DEM,William COLEMAN,138
+Hopkins,D026,State Representative,9,DEM,William COLEMAN,39
+Hopkins,D027,State Representative,9,DEM,William COLEMAN,209
+Hopkins,D028,State Representative,9,DEM,William COLEMAN,148
+Hopkins,E031,State Representative,9,DEM,William COLEMAN,97
+Hopkins,E034,State Representative,9,DEM,William COLEMAN,157
+Hopkins,E035,State Representative,9,DEM,William COLEMAN,107
+Hopkins,E036,State Representative,9,DEM,William COLEMAN,48
+Hopkins,F039,State Representative,9,DEM,William COLEMAN,96
+Hopkins,F040,State Representative,9,DEM,William COLEMAN,92
+Hopkins,F042,State Representative,9,DEM,William COLEMAN,68
+Hopkins,F043,State Representative,9,DEM,William COLEMAN,155
+Hopkins,G047,State Representative,9,DEM,William COLEMAN,103
+Hopkins,G048,State Representative,9,DEM,William COLEMAN,110
+Hopkins,G049,State Representative,9,DEM,William COLEMAN,100
+Hopkins,G050,State Representative,9,DEM,William COLEMAN,65
+Hopkins,AB,State Representative,12,REP,Jim GOOCH JR.,256
+Hopkins,C016,State Representative,12,REP,Jim GOOCH JR.,313
+Hopkins,C017,State Representative,12,REP,Jim GOOCH JR.,232
+Hopkins,C018,State Representative,12,REP,Jim GOOCH JR.,347
+Hopkins,C019,State Representative,12,REP,Jim GOOCH JR.,263
+Hopkins,C020,State Representative,12,REP,Jim GOOCH JR.,159
+Hopkins,C021,State Representative,12,REP,Jim GOOCH JR.,263
+Hopkins,C022,State Representative,12,REP,Jim GOOCH JR.,76
+Hopkins,D023,State Representative,12,REP,Jim GOOCH JR.,418
+Hopkins,D024,State Representative,12,REP,Jim GOOCH JR.,342
+Hopkins,D025,State Representative,12,REP,Jim GOOCH JR.,116
+Hopkins,D029,State Representative,12,REP,Jim GOOCH JR.,67
+Hopkins,E030,State Representative,12,REP,Jim GOOCH JR.,230
+Hopkins,E032,State Representative,12,REP,Jim GOOCH JR.,165
+Hopkins,E033,State Representative,12,REP,Jim GOOCH JR.,295
+Hopkins,F037,State Representative,12,REP,Jim GOOCH JR.,102
+Hopkins,F038,State Representative,12,REP,Jim GOOCH JR.,302
+Hopkins,F041,State Representative,12,REP,Jim GOOCH JR.,111
+Hopkins,AB,State Representative,12,DEM,Bruce KUNZE,104
+Hopkins,C016,State Representative,12,DEM,Bruce KUNZE,121
+Hopkins,C017,State Representative,12,DEM,Bruce KUNZE,96
+Hopkins,C018,State Representative,12,DEM,Bruce KUNZE,135
+Hopkins,C019,State Representative,12,DEM,Bruce KUNZE,105
+Hopkins,C020,State Representative,12,DEM,Bruce KUNZE,70
+Hopkins,C021,State Representative,12,DEM,Bruce KUNZE,141
+Hopkins,C022,State Representative,12,DEM,Bruce KUNZE,135
+Hopkins,D023,State Representative,12,DEM,Bruce KUNZE,131
+Hopkins,D024,State Representative,12,DEM,Bruce KUNZE,138
+Hopkins,D025,State Representative,12,DEM,Bruce KUNZE,167
+Hopkins,D029,State Representative,12,DEM,Bruce KUNZE,53
+Hopkins,E030,State Representative,12,DEM,Bruce KUNZE,64
+Hopkins,E032,State Representative,12,DEM,Bruce KUNZE,42
+Hopkins,E033,State Representative,12,DEM,Bruce KUNZE,139
+Hopkins,F037,State Representative,12,DEM,Bruce KUNZE,34
+Hopkins,F038,State Representative,12,DEM,Bruce KUNZE,140
+Hopkins,F041,State Representative,12,DEM,Bruce KUNZE,40
+Hopkins,AB,State Representative,15,REP,Melinda Gibbons PRUNTY,173
+Hopkins,A001,State Representative,15,REP,Melinda Gibbons PRUNTY,155
+Hopkins,A002,State Representative,15,REP,Melinda Gibbons PRUNTY,190
+Hopkins,A003,State Representative,15,REP,Melinda Gibbons PRUNTY,415
+Hopkins,A006,State Representative,15,REP,Melinda Gibbons PRUNTY,142
+Hopkins,A007,State Representative,15,REP,Melinda Gibbons PRUNTY,257
+Hopkins,B009,State Representative,15,REP,Melinda Gibbons PRUNTY,204
+Hopkins,B010,State Representative,15,REP,Melinda Gibbons PRUNTY,155
+Hopkins,B011,State Representative,15,REP,Melinda Gibbons PRUNTY,171
+Hopkins,B012,State Representative,15,REP,Melinda Gibbons PRUNTY,154
+Hopkins,B013,State Representative,15,REP,Melinda Gibbons PRUNTY,117
+Hopkins,B014,State Representative,15,REP,Melinda Gibbons PRUNTY,111
+Hopkins,B015,State Representative,15,REP,Melinda Gibbons PRUNTY,85
+Hopkins,G044,State Representative,15,REP,Melinda Gibbons PRUNTY,129
+Hopkins,G045,State Representative,15,REP,Melinda Gibbons PRUNTY,158
+Hopkins,G046,State Representative,15,REP,Melinda Gibbons PRUNTY,86
+Hopkins,AB,State Representative,15,DEM,Brent YONTS,101
+Hopkins,A001,State Representative,15,DEM,Brent YONTS,102
+Hopkins,A002,State Representative,15,DEM,Brent YONTS,117
+Hopkins,A003,State Representative,15,DEM,Brent YONTS,249
+Hopkins,A006,State Representative,15,DEM,Brent YONTS,116
+Hopkins,A007,State Representative,15,DEM,Brent YONTS,131
+Hopkins,B009,State Representative,15,DEM,Brent YONTS,120
+Hopkins,B010,State Representative,15,DEM,Brent YONTS,71
+Hopkins,B011,State Representative,15,DEM,Brent YONTS,120
+Hopkins,B012,State Representative,15,DEM,Brent YONTS,83
+Hopkins,B013,State Representative,15,DEM,Brent YONTS,45
+Hopkins,B014,State Representative,15,DEM,Brent YONTS,129
+Hopkins,B015,State Representative,15,DEM,Brent YONTS,110
+Hopkins,G044,State Representative,15,DEM,Brent YONTS,96
+Hopkins,G045,State Representative,15,DEM,Brent YONTS,125
+Hopkins,G046,State Representative,15,DEM,Brent YONTS,100
+Hopkins,AB,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,664
+Hopkins,A001,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,175
+Hopkins,A002,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,192
+Hopkins,A003,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,427
+Hopkins,A004,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,56
+Hopkins,A005,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,113
+Hopkins,A006,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,159
+Hopkins,A007,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,238
+Hopkins,B008,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,231
+Hopkins,B009,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,222
+Hopkins,B010,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,149
+Hopkins,B011,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,182
+Hopkins,B012,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,159
+Hopkins,B013,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,114
+Hopkins,B014,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,190
+Hopkins,B015,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,131
+Hopkins,C016,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,286
+Hopkins,C017,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,209
+Hopkins,C018,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,320
+Hopkins,C019,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,242
+Hopkins,C020,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,156
+Hopkins,C021,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,298
+Hopkins,C022,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,169
+Hopkins,D023,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,336
+Hopkins,D024,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,320
+Hopkins,D025,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,236
+Hopkins,D026,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,104
+Hopkins,D027,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,496
+Hopkins,D028,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,283
+Hopkins,D029,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,85
+Hopkins,E030,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,198
+Hopkins,E031,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,201
+Hopkins,E032,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,109
+Hopkins,E033,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,274
+Hopkins,E034,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,313
+Hopkins,E035,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,154
+Hopkins,E036,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,117
+Hopkins,F037,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,76
+Hopkins,F038,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,277
+Hopkins,F039,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,181
+Hopkins,F040,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,187
+Hopkins,F041,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,92
+Hopkins,F042,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,158
+Hopkins,F043,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,319
+Hopkins,G044,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,153
+Hopkins,G045,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,193
+Hopkins,G046,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,151
+Hopkins,G047,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,156
+Hopkins,G048,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,202
+Hopkins,G049,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,215
+Hopkins,G050,COMMONWEALTH'S ATTORNEY 4th Judicial Circuit,,DEM,Kathryn SENTER,112
+Hopkins,AB,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,653
+Hopkins,A001,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,179
+Hopkins,A002,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,201
+Hopkins,A003,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,447
+Hopkins,A004,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,60
+Hopkins,A005,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,120
+Hopkins,A006,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,159
+Hopkins,A007,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,244
+Hopkins,B008,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,235
+Hopkins,B009,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,223
+Hopkins,B010,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,144
+Hopkins,B011,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,189
+Hopkins,B012,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,166
+Hopkins,B013,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,105
+Hopkins,B014,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,195
+Hopkins,B015,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,139
+Hopkins,C016,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,289
+Hopkins,C017,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,208
+Hopkins,C018,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,327
+Hopkins,C019,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,250
+Hopkins,C020,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,160
+Hopkins,C021,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,290
+Hopkins,C022,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,174
+Hopkins,D023,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,347
+Hopkins,D024,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,327
+Hopkins,D025,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,241
+Hopkins,D026,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,106
+Hopkins,D027,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,491
+Hopkins,D028,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,277
+Hopkins,D029,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,88
+Hopkins,E030,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,199
+Hopkins,E031,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,205
+Hopkins,E032,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,109
+Hopkins,E033,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,276
+Hopkins,E034,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,321
+Hopkins,E035,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,163
+Hopkins,E036,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,124
+Hopkins,F037,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,76
+Hopkins,F038,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,279
+Hopkins,F039,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,185
+Hopkins,F040,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,187
+Hopkins,F041,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,94
+Hopkins,F042,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,166
+Hopkins,F043,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,319
+Hopkins,G044,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,156
+Hopkins,G045,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,203
+Hopkins,G046,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,154
+Hopkins,G047,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,170
+Hopkins,G048,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,210
+Hopkins,G049,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,223
+Hopkins,G050,CIRCUIT CLERK,,DEM,Tanya Michelle BOWMAN,115
+Hopkins,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,628
+Hopkins,A001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,177
+Hopkins,A002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,197
+Hopkins,A003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,441
+Hopkins,A004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,56
+Hopkins,A005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,116
+Hopkins,A006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,149
+Hopkins,A007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,236
+Hopkins,B008,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,225
+Hopkins,B009,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,214
+Hopkins,B010,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,138
+Hopkins,B011,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,188
+Hopkins,B012,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,156
+Hopkins,B013,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,98
+Hopkins,B014,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,182
+Hopkins,B015,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,136
+Hopkins,C016,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,274
+Hopkins,C017,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,202
+Hopkins,C018,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,307
+Hopkins,C019,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,235
+Hopkins,C020,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,151
+Hopkins,C021,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,277
+Hopkins,C022,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,167
+Hopkins,D023,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,318
+Hopkins,D024,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,308
+Hopkins,D025,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,235
+Hopkins,D026,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,104
+Hopkins,D027,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,465
+Hopkins,D028,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,270
+Hopkins,D029,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,83
+Hopkins,E030,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,198
+Hopkins,E031,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,189
+Hopkins,E032,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,113
+Hopkins,E033,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,276
+Hopkins,E034,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,310
+Hopkins,E035,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,148
+Hopkins,E036,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,114
+Hopkins,F037,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,76
+Hopkins,F038,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,276
+Hopkins,F039,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,181
+Hopkins,F040,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,186
+Hopkins,F041,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,90
+Hopkins,F042,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,160
+Hopkins,F043,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,302
+Hopkins,G044,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,149
+Hopkins,G045,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,189
+Hopkins,G046,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,147
+Hopkins,G047,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,161
+Hopkins,G048,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,199
+Hopkins,G049,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,211
+Hopkins,G050,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela J. Adams LOVE,109
+Hopkins,AB,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,502
+Hopkins,A001,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,135
+Hopkins,A002,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,172
+Hopkins,A003,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,362
+Hopkins,A004,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,82
+Hopkins,A005,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,110
+Hopkins,A006,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,135
+Hopkins,A007,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,227
+Hopkins,B008,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,147
+Hopkins,B009,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,176
+Hopkins,B010,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,125
+Hopkins,B011,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,169
+Hopkins,B012,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,124
+Hopkins,B013,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,93
+Hopkins,B014,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,104
+Hopkins,B015,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,75
+Hopkins,C016,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,211
+Hopkins,C017,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,168
+Hopkins,C018,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,261
+Hopkins,C019,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,198
+Hopkins,C020,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,118
+Hopkins,C021,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,212
+Hopkins,C022,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,67
+Hopkins,D023,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,296
+Hopkins,D024,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,257
+Hopkins,D025,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,94
+Hopkins,D026,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,82
+Hopkins,D027,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,364
+Hopkins,D028,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,214
+Hopkins,D029,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,59
+Hopkins,E030,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,150
+Hopkins,E031,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,191
+Hopkins,E032,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,140
+Hopkins,E033,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,245
+Hopkins,E034,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,236
+Hopkins,E035,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,80
+Hopkins,E036,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,109
+Hopkins,F037,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,81
+Hopkins,F038,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,256
+Hopkins,F039,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,151
+Hopkins,F040,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,187
+Hopkins,F041,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,95
+Hopkins,F042,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,165
+Hopkins,F043,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,181
+Hopkins,G044,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,103
+Hopkins,G045,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,130
+Hopkins,G046,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,76
+Hopkins,G047,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,91
+Hopkins,G048,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,144
+Hopkins,G049,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,191
+Hopkins,G050,COUNTY JUDGE/EXECUTIVE,,REP,Jack WHITFIELD JR.,70
+Hopkins,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,455
+Hopkins,A001,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,94
+Hopkins,A002,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,100
+Hopkins,A003,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,238
+Hopkins,A004,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,20
+Hopkins,A005,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,75
+Hopkins,A006,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,105
+Hopkins,A007,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,126
+Hopkins,B008,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,139
+Hopkins,B009,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,123
+Hopkins,B010,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,89
+Hopkins,B011,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,97
+Hopkins,B012,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,99
+Hopkins,B013,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,65
+Hopkins,B014,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,117
+Hopkins,B015,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,107
+Hopkins,C016,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,213
+Hopkins,C017,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,142
+Hopkins,C018,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,206
+Hopkins,C019,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,154
+Hopkins,C020,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,94
+Hopkins,C021,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,186
+Hopkins,C022,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,115
+Hopkins,D023,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,236
+Hopkins,D024,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,206
+Hopkins,D025,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,152
+Hopkins,D026,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,89
+Hopkins,D027,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,291
+Hopkins,D028,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,160
+Hopkins,D029,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,54
+Hopkins,E030,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,116
+Hopkins,E031,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,122
+Hopkins,E032,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,57
+Hopkins,E033,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,168
+Hopkins,E034,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,201
+Hopkins,E035,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,99
+Hopkins,E036,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,72
+Hopkins,F037,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,46
+Hopkins,F038,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,170
+Hopkins,F039,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,124
+Hopkins,F040,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,119
+Hopkins,F041,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,46
+Hopkins,F042,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,106
+Hopkins,F043,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,210
+Hopkins,G044,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,101
+Hopkins,G045,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,133
+Hopkins,G046,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,96
+Hopkins,G047,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,105
+Hopkins,G048,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,127
+Hopkins,G049,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,137
+Hopkins,G050,COUNTY JUDGE/EXECUTIVE,,DEM,Joe BLUE,73
+Hopkins,AB,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,70
+Hopkins,A001,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,28
+Hopkins,A002,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,31
+Hopkins,A003,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,60
+Hopkins,A004,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,6
+Hopkins,A005,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,24
+Hopkins,A006,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,23
+Hopkins,A007,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,44
+Hopkins,B008,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,22
+Hopkins,B009,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,B010,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,14
+Hopkins,B011,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,30
+Hopkins,B012,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,20
+Hopkins,B013,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,5
+Hopkins,B014,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,21
+Hopkins,B015,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,17
+Hopkins,C016,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,18
+Hopkins,C017,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,16
+Hopkins,C018,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,23
+Hopkins,C019,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,24
+Hopkins,C020,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,20
+Hopkins,C021,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,17
+Hopkins,C022,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,33
+Hopkins,D023,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,D024,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,D025,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,38
+Hopkins,D026,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,14
+Hopkins,D027,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,D028,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,32
+Hopkins,D029,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,9
+Hopkins,E030,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,E031,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,24
+Hopkins,E032,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,11
+Hopkins,E033,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,34
+Hopkins,E034,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,34
+Hopkins,E035,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,32
+Hopkins,E036,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,17
+Hopkins,F037,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,12
+Hopkins,F038,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,27
+Hopkins,F039,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,14
+Hopkins,F040,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,29
+Hopkins,F041,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,12
+Hopkins,F042,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,18
+Hopkins,F043,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,26
+Hopkins,G044,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,22
+Hopkins,G045,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,23
+Hopkins,G046,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,16
+Hopkins,G047,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,30
+Hopkins,G048,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,20
+Hopkins,G049,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,17
+Hopkins,G050,COUNTY JUDGE/EXECUTIVE,,IND,Jeffery A. OAKLEY,19
+Hopkins,AB,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,669
+Hopkins,A001,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,179
+Hopkins,A002,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,196
+Hopkins,A003,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,424
+Hopkins,A004,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,55
+Hopkins,A005,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,115
+Hopkins,A006,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,159
+Hopkins,A007,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,245
+Hopkins,B008,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,232
+Hopkins,B009,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,217
+Hopkins,B010,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,151
+Hopkins,B011,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,179
+Hopkins,B012,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,167
+Hopkins,B013,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,111
+Hopkins,B014,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,182
+Hopkins,B015,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,136
+Hopkins,C016,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,273
+Hopkins,C017,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,195
+Hopkins,C018,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,320
+Hopkins,C019,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,249
+Hopkins,C020,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,154
+Hopkins,C021,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,291
+Hopkins,C022,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,177
+Hopkins,D023,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,335
+Hopkins,D024,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,308
+Hopkins,D025,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,235
+Hopkins,D026,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,112
+Hopkins,D027,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,487
+Hopkins,D028,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,279
+Hopkins,D029,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,84
+Hopkins,E030,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,198
+Hopkins,E031,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,189
+Hopkins,E032,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,101
+Hopkins,E033,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,268
+Hopkins,E034,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,324
+Hopkins,E035,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,153
+Hopkins,E036,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,118
+Hopkins,F037,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,80
+Hopkins,F038,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,275
+Hopkins,F039,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,181
+Hopkins,F040,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,187
+Hopkins,F041,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,88
+Hopkins,F042,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,165
+Hopkins,F043,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,324
+Hopkins,G044,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,143
+Hopkins,G045,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,196
+Hopkins,G046,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,144
+Hopkins,G047,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,155
+Hopkins,G048,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,203
+Hopkins,G049,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,217
+Hopkins,G050,COUNTY ATTORNEY,,DEM,Byron L. HOBGOOD,106
+Hopkins,AB,COUNTY CLERK,,REP,Keenan Alise CLOERN,792
+Hopkins,A001,COUNTY CLERK,,REP,Keenan Alise CLOERN,207
+Hopkins,A002,COUNTY CLERK,,REP,Keenan Alise CLOERN,234
+Hopkins,A003,COUNTY CLERK,,REP,Keenan Alise CLOERN,479
+Hopkins,A004,COUNTY CLERK,,REP,Keenan Alise CLOERN,89
+Hopkins,A005,COUNTY CLERK,,REP,Keenan Alise CLOERN,172
+Hopkins,A006,COUNTY CLERK,,REP,Keenan Alise CLOERN,199
+Hopkins,A007,COUNTY CLERK,,REP,Keenan Alise CLOERN,289
+Hopkins,B008,COUNTY CLERK,,REP,Keenan Alise CLOERN,184
+Hopkins,B009,COUNTY CLERK,,REP,Keenan Alise CLOERN,226
+Hopkins,B010,COUNTY CLERK,,REP,Keenan Alise CLOERN,159
+Hopkins,B011,COUNTY CLERK,,REP,Keenan Alise CLOERN,196
+Hopkins,B012,COUNTY CLERK,,REP,Keenan Alise CLOERN,176
+Hopkins,B013,COUNTY CLERK,,REP,Keenan Alise CLOERN,136
+Hopkins,B014,COUNTY CLERK,,REP,Keenan Alise CLOERN,147
+Hopkins,B015,COUNTY CLERK,,REP,Keenan Alise CLOERN,107
+Hopkins,C016,COUNTY CLERK,,REP,Keenan Alise CLOERN,310
+Hopkins,C017,COUNTY CLERK,,REP,Keenan Alise CLOERN,240
+Hopkins,C018,COUNTY CLERK,,REP,Keenan Alise CLOERN,321
+Hopkins,C019,COUNTY CLERK,,REP,Keenan Alise CLOERN,273
+Hopkins,C020,COUNTY CLERK,,REP,Keenan Alise CLOERN,168
+Hopkins,C021,COUNTY CLERK,,REP,Keenan Alise CLOERN,296
+Hopkins,C022,COUNTY CLERK,,REP,Keenan Alise CLOERN,89
+Hopkins,D023,COUNTY CLERK,,REP,Keenan Alise CLOERN,432
+Hopkins,D024,COUNTY CLERK,,REP,Keenan Alise CLOERN,354
+Hopkins,D025,COUNTY CLERK,,REP,Keenan Alise CLOERN,138
+Hopkins,D026,COUNTY CLERK,,REP,Keenan Alise CLOERN,141
+Hopkins,D027,COUNTY CLERK,,REP,Keenan Alise CLOERN,509
+Hopkins,D028,COUNTY CLERK,,REP,Keenan Alise CLOERN,286
+Hopkins,D029,COUNTY CLERK,,REP,Keenan Alise CLOERN,82
+Hopkins,E030,COUNTY CLERK,,REP,Keenan Alise CLOERN,225
+Hopkins,E031,COUNTY CLERK,,REP,Keenan Alise CLOERN,240
+Hopkins,E032,COUNTY CLERK,,REP,Keenan Alise CLOERN,173
+Hopkins,E033,COUNTY CLERK,,REP,Keenan Alise CLOERN,338
+Hopkins,E034,COUNTY CLERK,,REP,Keenan Alise CLOERN,324
+Hopkins,E035,COUNTY CLERK,,REP,Keenan Alise CLOERN,119
+Hopkins,E036,COUNTY CLERK,,REP,Keenan Alise CLOERN,138
+Hopkins,F037,COUNTY CLERK,,REP,Keenan Alise CLOERN,112
+Hopkins,F038,COUNTY CLERK,,REP,Keenan Alise CLOERN,333
+Hopkins,F039,COUNTY CLERK,,REP,Keenan Alise CLOERN,206
+Hopkins,F040,COUNTY CLERK,,REP,Keenan Alise CLOERN,247
+Hopkins,F041,COUNTY CLERK,,REP,Keenan Alise CLOERN,126
+Hopkins,F042,COUNTY CLERK,,REP,Keenan Alise CLOERN,214
+Hopkins,F043,COUNTY CLERK,,REP,Keenan Alise CLOERN,266
+Hopkins,G044,COUNTY CLERK,,REP,Keenan Alise CLOERN,161
+Hopkins,G045,COUNTY CLERK,,REP,Keenan Alise CLOERN,184
+Hopkins,G046,COUNTY CLERK,,REP,Keenan Alise CLOERN,123
+Hopkins,G047,COUNTY CLERK,,REP,Keenan Alise CLOERN,145
+Hopkins,G048,COUNTY CLERK,,REP,Keenan Alise CLOERN,200
+Hopkins,G049,COUNTY CLERK,,REP,Keenan Alise CLOERN,259
+Hopkins,G050,COUNTY CLERK,,REP,Keenan Alise CLOERN,101
+Hopkins,AB,COUNTY CLERK,,DEM,Sheri Brooks BRANON,221
+Hopkins,A001,COUNTY CLERK,,DEM,Sheri Brooks BRANON,59
+Hopkins,A002,COUNTY CLERK,,DEM,Sheri Brooks BRANON,62
+Hopkins,A003,COUNTY CLERK,,DEM,Sheri Brooks BRANON,174
+Hopkins,A004,COUNTY CLERK,,DEM,Sheri Brooks BRANON,19
+Hopkins,A005,COUNTY CLERK,,DEM,Sheri Brooks BRANON,37
+Hopkins,A006,COUNTY CLERK,,DEM,Sheri Brooks BRANON,63
+Hopkins,A007,COUNTY CLERK,,DEM,Sheri Brooks BRANON,100
+Hopkins,B008,COUNTY CLERK,,DEM,Sheri Brooks BRANON,121
+Hopkins,B009,COUNTY CLERK,,DEM,Sheri Brooks BRANON,99
+Hopkins,B010,COUNTY CLERK,,DEM,Sheri Brooks BRANON,68
+Hopkins,B011,COUNTY CLERK,,DEM,Sheri Brooks BRANON,95
+Hopkins,B012,COUNTY CLERK,,DEM,Sheri Brooks BRANON,68
+Hopkins,B013,COUNTY CLERK,,DEM,Sheri Brooks BRANON,28
+Hopkins,B014,COUNTY CLERK,,DEM,Sheri Brooks BRANON,93
+Hopkins,B015,COUNTY CLERK,,DEM,Sheri Brooks BRANON,90
+Hopkins,C016,COUNTY CLERK,,DEM,Sheri Brooks BRANON,127
+Hopkins,C017,COUNTY CLERK,,DEM,Sheri Brooks BRANON,79
+Hopkins,C018,COUNTY CLERK,,DEM,Sheri Brooks BRANON,162
+Hopkins,C019,COUNTY CLERK,,DEM,Sheri Brooks BRANON,94
+Hopkins,C020,COUNTY CLERK,,DEM,Sheri Brooks BRANON,63
+Hopkins,C021,COUNTY CLERK,,DEM,Sheri Brooks BRANON,114
+Hopkins,C022,COUNTY CLERK,,DEM,Sheri Brooks BRANON,121
+Hopkins,D023,COUNTY CLERK,,DEM,Sheri Brooks BRANON,118
+Hopkins,D024,COUNTY CLERK,,DEM,Sheri Brooks BRANON,127
+Hopkins,D025,COUNTY CLERK,,DEM,Sheri Brooks BRANON,146
+Hopkins,D026,COUNTY CLERK,,DEM,Sheri Brooks BRANON,41
+Hopkins,D027,COUNTY CLERK,,DEM,Sheri Brooks BRANON,173
+Hopkins,D028,COUNTY CLERK,,DEM,Sheri Brooks BRANON,117
+Hopkins,D029,COUNTY CLERK,,DEM,Sheri Brooks BRANON,38
+Hopkins,E030,COUNTY CLERK,,DEM,Sheri Brooks BRANON,64
+Hopkins,E031,COUNTY CLERK,,DEM,Sheri Brooks BRANON,90
+Hopkins,E032,COUNTY CLERK,,DEM,Sheri Brooks BRANON,36
+Hopkins,E033,COUNTY CLERK,,DEM,Sheri Brooks BRANON,98
+Hopkins,E034,COUNTY CLERK,,DEM,Sheri Brooks BRANON,146
+Hopkins,E035,COUNTY CLERK,,DEM,Sheri Brooks BRANON,93
+Hopkins,E036,COUNTY CLERK,,DEM,Sheri Brooks BRANON,59
+Hopkins,F037,COUNTY CLERK,,DEM,Sheri Brooks BRANON,24
+Hopkins,F038,COUNTY CLERK,,DEM,Sheri Brooks BRANON,111
+Hopkins,F039,COUNTY CLERK,,DEM,Sheri Brooks BRANON,80
+Hopkins,F040,COUNTY CLERK,,DEM,Sheri Brooks BRANON,83
+Hopkins,F041,COUNTY CLERK,,DEM,Sheri Brooks BRANON,28
+Hopkins,F042,COUNTY CLERK,,DEM,Sheri Brooks BRANON,67
+Hopkins,F043,COUNTY CLERK,,DEM,Sheri Brooks BRANON,144
+Hopkins,G044,COUNTY CLERK,,DEM,Sheri Brooks BRANON,65
+Hopkins,G045,COUNTY CLERK,,DEM,Sheri Brooks BRANON,99
+Hopkins,G046,COUNTY CLERK,,DEM,Sheri Brooks BRANON,63
+Hopkins,G047,COUNTY CLERK,,DEM,Sheri Brooks BRANON,76
+Hopkins,G048,COUNTY CLERK,,DEM,Sheri Brooks BRANON,89
+Hopkins,G049,COUNTY CLERK,,DEM,Sheri Brooks BRANON,89
+Hopkins,G050,COUNTY CLERK,,DEM,Sheri Brooks BRANON,57
+Hopkins,AB,SHERIFF,,REP,Matt SANDERSON,738
+Hopkins,A001,SHERIFF,,REP,Matt SANDERSON,108
+Hopkins,A002,SHERIFF,,REP,Matt SANDERSON,125
+Hopkins,A003,SHERIFF,,REP,Matt SANDERSON,303
+Hopkins,A004,SHERIFF,,REP,Matt SANDERSON,56
+Hopkins,A005,SHERIFF,,REP,Matt SANDERSON,101
+Hopkins,A006,SHERIFF,,REP,Matt SANDERSON,139
+Hopkins,A007,SHERIFF,,REP,Matt SANDERSON,196
+Hopkins,B008,SHERIFF,,REP,Matt SANDERSON,172
+Hopkins,B009,SHERIFF,,REP,Matt SANDERSON,214
+Hopkins,B010,SHERIFF,,REP,Matt SANDERSON,172
+Hopkins,B011,SHERIFF,,REP,Matt SANDERSON,173
+Hopkins,B012,SHERIFF,,REP,Matt SANDERSON,191
+Hopkins,B013,SHERIFF,,REP,Matt SANDERSON,121
+Hopkins,B014,SHERIFF,,REP,Matt SANDERSON,160
+Hopkins,B015,SHERIFF,,REP,Matt SANDERSON,118
+Hopkins,C016,SHERIFF,,REP,Matt SANDERSON,331
+Hopkins,C017,SHERIFF,,REP,Matt SANDERSON,226
+Hopkins,C018,SHERIFF,,REP,Matt SANDERSON,357
+Hopkins,C019,SHERIFF,,REP,Matt SANDERSON,272
+Hopkins,C020,SHERIFF,,REP,Matt SANDERSON,168
+Hopkins,C021,SHERIFF,,REP,Matt SANDERSON,322
+Hopkins,C022,SHERIFF,,REP,Matt SANDERSON,130
+Hopkins,D023,SHERIFF,,REP,Matt SANDERSON,397
+Hopkins,D024,SHERIFF,,REP,Matt SANDERSON,355
+Hopkins,D025,SHERIFF,,REP,Matt SANDERSON,162
+Hopkins,D026,SHERIFF,,REP,Matt SANDERSON,131
+Hopkins,D027,SHERIFF,,REP,Matt SANDERSON,529
+Hopkins,D028,SHERIFF,,REP,Matt SANDERSON,289
+Hopkins,D029,SHERIFF,,REP,Matt SANDERSON,85
+Hopkins,E030,SHERIFF,,REP,Matt SANDERSON,212
+Hopkins,E031,SHERIFF,,REP,Matt SANDERSON,214
+Hopkins,E032,SHERIFF,,REP,Matt SANDERSON,145
+Hopkins,E033,SHERIFF,,REP,Matt SANDERSON,329
+Hopkins,E034,SHERIFF,,REP,Matt SANDERSON,328
+Hopkins,E035,SHERIFF,,REP,Matt SANDERSON,115
+Hopkins,E036,SHERIFF,,REP,Matt SANDERSON,137
+Hopkins,F037,SHERIFF,,REP,Matt SANDERSON,88
+Hopkins,F038,SHERIFF,,REP,Matt SANDERSON,262
+Hopkins,F039,SHERIFF,,REP,Matt SANDERSON,221
+Hopkins,F040,SHERIFF,,REP,Matt SANDERSON,195
+Hopkins,F041,SHERIFF,,REP,Matt SANDERSON,89
+Hopkins,F042,SHERIFF,,REP,Matt SANDERSON,210
+Hopkins,F043,SHERIFF,,REP,Matt SANDERSON,282
+Hopkins,G044,SHERIFF,,REP,Matt SANDERSON,161
+Hopkins,G045,SHERIFF,,REP,Matt SANDERSON,178
+Hopkins,G046,SHERIFF,,REP,Matt SANDERSON,113
+Hopkins,G047,SHERIFF,,REP,Matt SANDERSON,141
+Hopkins,G048,SHERIFF,,REP,Matt SANDERSON,206
+Hopkins,G049,SHERIFF,,REP,Matt SANDERSON,253
+Hopkins,G050,SHERIFF,,REP,Matt SANDERSON,99
+Hopkins,AB,JAILER,,REP,"Nicholas ""Nick"" BAILEY",449
+Hopkins,A001,JAILER,,REP,"Nicholas ""Nick"" BAILEY",124
+Hopkins,A002,JAILER,,REP,"Nicholas ""Nick"" BAILEY",145
+Hopkins,A003,JAILER,,REP,"Nicholas ""Nick"" BAILEY",329
+Hopkins,A004,JAILER,,REP,"Nicholas ""Nick"" BAILEY",66
+Hopkins,A005,JAILER,,REP,"Nicholas ""Nick"" BAILEY",112
+Hopkins,A006,JAILER,,REP,"Nicholas ""Nick"" BAILEY",97
+Hopkins,A007,JAILER,,REP,"Nicholas ""Nick"" BAILEY",209
+Hopkins,B008,JAILER,,REP,"Nicholas ""Nick"" BAILEY",129
+Hopkins,B009,JAILER,,REP,"Nicholas ""Nick"" BAILEY",169
+Hopkins,B010,JAILER,,REP,"Nicholas ""Nick"" BAILEY",108
+Hopkins,B011,JAILER,,REP,"Nicholas ""Nick"" BAILEY",150
+Hopkins,B012,JAILER,,REP,"Nicholas ""Nick"" BAILEY",111
+Hopkins,B013,JAILER,,REP,"Nicholas ""Nick"" BAILEY",64
+Hopkins,B014,JAILER,,REP,"Nicholas ""Nick"" BAILEY",107
+Hopkins,B015,JAILER,,REP,"Nicholas ""Nick"" BAILEY",84
+Hopkins,C016,JAILER,,REP,"Nicholas ""Nick"" BAILEY",209
+Hopkins,C017,JAILER,,REP,"Nicholas ""Nick"" BAILEY",183
+Hopkins,C018,JAILER,,REP,"Nicholas ""Nick"" BAILEY",236
+Hopkins,C019,JAILER,,REP,"Nicholas ""Nick"" BAILEY",179
+Hopkins,C020,JAILER,,REP,"Nicholas ""Nick"" BAILEY",118
+Hopkins,C021,JAILER,,REP,"Nicholas ""Nick"" BAILEY",152
+Hopkins,C022,JAILER,,REP,"Nicholas ""Nick"" BAILEY",55
+Hopkins,D023,JAILER,,REP,"Nicholas ""Nick"" BAILEY",277
+Hopkins,D024,JAILER,,REP,"Nicholas ""Nick"" BAILEY",226
+Hopkins,D025,JAILER,,REP,"Nicholas ""Nick"" BAILEY",92
+Hopkins,D026,JAILER,,REP,"Nicholas ""Nick"" BAILEY",92
+Hopkins,D027,JAILER,,REP,"Nicholas ""Nick"" BAILEY",266
+Hopkins,D028,JAILER,,REP,"Nicholas ""Nick"" BAILEY",178
+Hopkins,D029,JAILER,,REP,"Nicholas ""Nick"" BAILEY",59
+Hopkins,E030,JAILER,,REP,"Nicholas ""Nick"" BAILEY",136
+Hopkins,E031,JAILER,,REP,"Nicholas ""Nick"" BAILEY",192
+Hopkins,E032,JAILER,,REP,"Nicholas ""Nick"" BAILEY",121
+Hopkins,E033,JAILER,,REP,"Nicholas ""Nick"" BAILEY",241
+Hopkins,E034,JAILER,,REP,"Nicholas ""Nick"" BAILEY",196
+Hopkins,E035,JAILER,,REP,"Nicholas ""Nick"" BAILEY",72
+Hopkins,E036,JAILER,,REP,"Nicholas ""Nick"" BAILEY",103
+Hopkins,F037,JAILER,,REP,"Nicholas ""Nick"" BAILEY",76
+Hopkins,F038,JAILER,,REP,"Nicholas ""Nick"" BAILEY",230
+Hopkins,F039,JAILER,,REP,"Nicholas ""Nick"" BAILEY",145
+Hopkins,F040,JAILER,,REP,"Nicholas ""Nick"" BAILEY",185
+Hopkins,F041,JAILER,,REP,"Nicholas ""Nick"" BAILEY",87
+Hopkins,F042,JAILER,,REP,"Nicholas ""Nick"" BAILEY",161
+Hopkins,F043,JAILER,,REP,"Nicholas ""Nick"" BAILEY",161
+Hopkins,G044,JAILER,,REP,"Nicholas ""Nick"" BAILEY",114
+Hopkins,G045,JAILER,,REP,"Nicholas ""Nick"" BAILEY",115
+Hopkins,G046,JAILER,,REP,"Nicholas ""Nick"" BAILEY",60
+Hopkins,G047,JAILER,,REP,"Nicholas ""Nick"" BAILEY",96
+Hopkins,G048,JAILER,,REP,"Nicholas ""Nick"" BAILEY",118
+Hopkins,G049,JAILER,,REP,"Nicholas ""Nick"" BAILEY",170
+Hopkins,G050,JAILER,,REP,"Nicholas ""Nick"" BAILEY",64
+Hopkins,AB,JAILER,,DEM,Mike LEWIS,541
+Hopkins,A001,JAILER,,DEM,Mike LEWIS,128
+Hopkins,A002,JAILER,,DEM,Mike LEWIS,147
+Hopkins,A003,JAILER,,DEM,Mike LEWIS,304
+Hopkins,A004,JAILER,,DEM,Mike LEWIS,38
+Hopkins,A005,JAILER,,DEM,Mike LEWIS,85
+Hopkins,A006,JAILER,,DEM,Mike LEWIS,159
+Hopkins,A007,JAILER,,DEM,Mike LEWIS,180
+Hopkins,B008,JAILER,,DEM,Mike LEWIS,168
+Hopkins,B009,JAILER,,DEM,Mike LEWIS,158
+Hopkins,B010,JAILER,,DEM,Mike LEWIS,114
+Hopkins,B011,JAILER,,DEM,Mike LEWIS,127
+Hopkins,B012,JAILER,,DEM,Mike LEWIS,129
+Hopkins,B013,JAILER,,DEM,Mike LEWIS,91
+Hopkins,B014,JAILER,,DEM,Mike LEWIS,130
+Hopkins,B015,JAILER,,DEM,Mike LEWIS,109
+Hopkins,C016,JAILER,,DEM,Mike LEWIS,215
+Hopkins,C017,JAILER,,DEM,Mike LEWIS,138
+Hopkins,C018,JAILER,,DEM,Mike LEWIS,238
+Hopkins,C019,JAILER,,DEM,Mike LEWIS,181
+Hopkins,C020,JAILER,,DEM,Mike LEWIS,111
+Hopkins,C021,JAILER,,DEM,Mike LEWIS,254
+Hopkins,C022,JAILER,,DEM,Mike LEWIS,153
+Hopkins,D023,JAILER,,DEM,Mike LEWIS,251
+Hopkins,D024,JAILER,,DEM,Mike LEWIS,234
+Hopkins,D025,JAILER,,DEM,Mike LEWIS,191
+Hopkins,D026,JAILER,,DEM,Mike LEWIS,88
+Hopkins,D027,JAILER,,DEM,Mike LEWIS,395
+Hopkins,D028,JAILER,,DEM,Mike LEWIS,220
+Hopkins,D029,JAILER,,DEM,Mike LEWIS,60
+Hopkins,E030,JAILER,,DEM,Mike LEWIS,151
+Hopkins,E031,JAILER,,DEM,Mike LEWIS,133
+Hopkins,E032,JAILER,,DEM,Mike LEWIS,76
+Hopkins,E033,JAILER,,DEM,Mike LEWIS,186
+Hopkins,E034,JAILER,,DEM,Mike LEWIS,261
+Hopkins,E035,JAILER,,DEM,Mike LEWIS,133
+Hopkins,E036,JAILER,,DEM,Mike LEWIS,89
+Hopkins,F037,JAILER,,DEM,Mike LEWIS,58
+Hopkins,F038,JAILER,,DEM,Mike LEWIS,202
+Hopkins,F039,JAILER,,DEM,Mike LEWIS,136
+Hopkins,F040,JAILER,,DEM,Mike LEWIS,138
+Hopkins,F041,JAILER,,DEM,Mike LEWIS,63
+Hopkins,F042,JAILER,,DEM,Mike LEWIS,123
+Hopkins,F043,JAILER,,DEM,Mike LEWIS,250
+Hopkins,G044,JAILER,,DEM,Mike LEWIS,105
+Hopkins,G045,JAILER,,DEM,Mike LEWIS,160
+Hopkins,G046,JAILER,,DEM,Mike LEWIS,118
+Hopkins,G047,JAILER,,DEM,Mike LEWIS,122
+Hopkins,G048,JAILER,,DEM,Mike LEWIS,168
+Hopkins,G049,JAILER,,DEM,Mike LEWIS,167
+Hopkins,G050,JAILER,,DEM,Mike LEWIS,94
+Hopkins,AB,CORONER,,DEM,Dennis H. MAYFIELD,675
+Hopkins,A001,CORONER,,DEM,Dennis H. MAYFIELD,189
+Hopkins,A002,CORONER,,DEM,Dennis H. MAYFIELD,220
+Hopkins,A003,CORONER,,DEM,Dennis H. MAYFIELD,475
+Hopkins,A004,CORONER,,DEM,Dennis H. MAYFIELD,69
+Hopkins,A005,CORONER,,DEM,Dennis H. MAYFIELD,136
+Hopkins,A006,CORONER,,DEM,Dennis H. MAYFIELD,180
+Hopkins,A007,CORONER,,DEM,Dennis H. MAYFIELD,273
+Hopkins,B008,CORONER,,DEM,Dennis H. MAYFIELD,255
+Hopkins,B009,CORONER,,DEM,Dennis H. MAYFIELD,236
+Hopkins,B010,CORONER,,DEM,Dennis H. MAYFIELD,157
+Hopkins,B011,CORONER,,DEM,Dennis H. MAYFIELD,192
+Hopkins,B012,CORONER,,DEM,Dennis H. MAYFIELD,171
+Hopkins,B013,CORONER,,DEM,Dennis H. MAYFIELD,118
+Hopkins,B014,CORONER,,DEM,Dennis H. MAYFIELD,190
+Hopkins,B015,CORONER,,DEM,Dennis H. MAYFIELD,151
+Hopkins,C016,CORONER,,DEM,Dennis H. MAYFIELD,297
+Hopkins,C017,CORONER,,DEM,Dennis H. MAYFIELD,207
+Hopkins,C018,CORONER,,DEM,Dennis H. MAYFIELD,325
+Hopkins,C019,CORONER,,DEM,Dennis H. MAYFIELD,247
+Hopkins,C020,CORONER,,DEM,Dennis H. MAYFIELD,170
+Hopkins,C021,CORONER,,DEM,Dennis H. MAYFIELD,292
+Hopkins,C022,CORONER,,DEM,Dennis H. MAYFIELD,177
+Hopkins,D023,CORONER,,DEM,Dennis H. MAYFIELD,356
+Hopkins,D024,CORONER,,DEM,Dennis H. MAYFIELD,322
+Hopkins,D025,CORONER,,DEM,Dennis H. MAYFIELD,243
+Hopkins,D026,CORONER,,DEM,Dennis H. MAYFIELD,112
+Hopkins,D027,CORONER,,DEM,Dennis H. MAYFIELD,491
+Hopkins,D028,CORONER,,DEM,Dennis H. MAYFIELD,290
+Hopkins,D029,CORONER,,DEM,Dennis H. MAYFIELD,85
+Hopkins,E030,CORONER,,DEM,Dennis H. MAYFIELD,205
+Hopkins,E031,CORONER,,DEM,Dennis H. MAYFIELD,204
+Hopkins,E032,CORONER,,DEM,Dennis H. MAYFIELD,123
+Hopkins,E033,CORONER,,DEM,Dennis H. MAYFIELD,305
+Hopkins,E034,CORONER,,DEM,Dennis H. MAYFIELD,336
+Hopkins,E035,CORONER,,DEM,Dennis H. MAYFIELD,159
+Hopkins,E036,CORONER,,DEM,Dennis H. MAYFIELD,120
+Hopkins,F037,CORONER,,DEM,Dennis H. MAYFIELD,92
+Hopkins,F038,CORONER,,DEM,Dennis H. MAYFIELD,305
+Hopkins,F039,CORONER,,DEM,Dennis H. MAYFIELD,204
+Hopkins,F040,CORONER,,DEM,Dennis H. MAYFIELD,220
+Hopkins,F041,CORONER,,DEM,Dennis H. MAYFIELD,101
+Hopkins,F042,CORONER,,DEM,Dennis H. MAYFIELD,177
+Hopkins,F043,CORONER,,DEM,Dennis H. MAYFIELD,328
+Hopkins,G044,CORONER,,DEM,Dennis H. MAYFIELD,157
+Hopkins,G045,CORONER,,DEM,Dennis H. MAYFIELD,199
+Hopkins,G046,CORONER,,DEM,Dennis H. MAYFIELD,145
+Hopkins,G047,CORONER,,DEM,Dennis H. MAYFIELD,168
+Hopkins,G048,CORONER,,DEM,Dennis H. MAYFIELD,215
+Hopkins,G049,CORONER,,DEM,Dennis H. MAYFIELD,235
+Hopkins,G050,CORONER,,DEM,Dennis H. MAYFIELD,112
+Hopkins,AB,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,647
+Hopkins,A001,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,169
+Hopkins,A002,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,193
+Hopkins,A003,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,426
+Hopkins,A004,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,59
+Hopkins,A005,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,109
+Hopkins,A006,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,151
+Hopkins,A007,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,234
+Hopkins,B008,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,226
+Hopkins,B009,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,214
+Hopkins,B010,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,149
+Hopkins,B011,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,178
+Hopkins,B012,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,164
+Hopkins,B013,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,108
+Hopkins,B014,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,182
+Hopkins,B015,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,131
+Hopkins,C016,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,290
+Hopkins,C017,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,196
+Hopkins,C018,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,322
+Hopkins,C019,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,234
+Hopkins,C020,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,154
+Hopkins,C021,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,291
+Hopkins,C022,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,176
+Hopkins,D023,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,335
+Hopkins,D024,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,316
+Hopkins,D025,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,238
+Hopkins,D026,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,109
+Hopkins,D027,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,478
+Hopkins,D028,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,272
+Hopkins,D029,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,81
+Hopkins,E030,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,192
+Hopkins,E031,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,190
+Hopkins,E032,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,109
+Hopkins,E033,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,273
+Hopkins,E034,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,318
+Hopkins,E035,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,146
+Hopkins,E036,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,114
+Hopkins,F037,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,80
+Hopkins,F038,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,274
+Hopkins,F039,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,180
+Hopkins,F040,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,193
+Hopkins,F041,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,91
+Hopkins,F042,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,158
+Hopkins,F043,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,306
+Hopkins,G044,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,146
+Hopkins,G045,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,190
+Hopkins,G046,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,148
+Hopkins,G047,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,163
+Hopkins,G048,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,204
+Hopkins,G049,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,216
+Hopkins,G050,COUNTY SURVEYOR,,DEM,Thomas W. CRABTREE,105
+Hopkins,AB,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,59
+Hopkins,A001,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,206
+Hopkins,A002,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,250
+Hopkins,A003,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,359
+Hopkins,A004,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,69
+Hopkins,A005,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,136
+Hopkins,A006,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,148
+Hopkins,A007,MAGISTRATE 1st Magisterial District,,REP,Ricky WHITAKER,224
+Hopkins,AB,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,29
+Hopkins,A001,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,59
+Hopkins,A002,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,59
+Hopkins,A003,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,299
+Hopkins,A004,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,40
+Hopkins,A005,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,70
+Hopkins,A006,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,114
+Hopkins,A007,MAGISTRATE 1st Magisterial District,,DEM,Darwin RIDEOUT,171
+Hopkins,AB,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",139
+Hopkins,B008,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",223
+Hopkins,B009,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",284
+Hopkins,B010,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",196
+Hopkins,B011,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",231
+Hopkins,B012,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",203
+Hopkins,B013,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",148
+Hopkins,B014,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",188
+Hopkins,B015,MAGISTRATE 2nd Magisterial District,,REP,"William ""Bill"" RUDD",141
+Hopkins,AB,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,105
+Hopkins,B008,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,233
+Hopkins,B009,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,225
+Hopkins,B010,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,147
+Hopkins,B011,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,186
+Hopkins,B012,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,156
+Hopkins,B013,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,97
+Hopkins,B014,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,180
+Hopkins,B015,CONSTABLE 2nd Magisterial District,,DEM,Darrel TODD,135
+Hopkins,AB,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,123
+Hopkins,C016,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,302
+Hopkins,C017,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,203
+Hopkins,C018,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,318
+Hopkins,C019,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,250
+Hopkins,C020,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,157
+Hopkins,C021,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,279
+Hopkins,C022,MAGISTRATE 3rd Magisterial District,,DEM,Vicki Dickerson THOMISON,172
+Hopkins,AB,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,109
+Hopkins,C016,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,270
+Hopkins,C017,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,188
+Hopkins,C018,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,304
+Hopkins,C019,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,225
+Hopkins,C020,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,149
+Hopkins,C021,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,263
+Hopkins,C022,CONSTABLE 3rd Magisterial District,,DEM,James C. WOODRUFF,165
+Hopkins,AB,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,120
+Hopkins,D023,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,303
+Hopkins,D024,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,187
+Hopkins,D025,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,103
+Hopkins,D026,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,98
+Hopkins,D027,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,372
+Hopkins,D028,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,216
+Hopkins,D029,MAGISTRATE 4th Magisterial District,,REP,Ronnie NOEL,69
+Hopkins,AB,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,107
+Hopkins,D023,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,250
+Hopkins,D024,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,300
+Hopkins,D025,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,180
+Hopkins,D026,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,84
+Hopkins,D027,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,294
+Hopkins,D028,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,189
+Hopkins,D029,MAGISTRATE 4th Magisterial District,,DEM,Carroll COFFMAN,52
+Hopkins,AB,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,30
+Hopkins,E030,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,50
+Hopkins,E031,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,71
+Hopkins,E032,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,41
+Hopkins,E033,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,85
+Hopkins,E034,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,140
+Hopkins,E035,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,84
+Hopkins,E036,MAGISTRATE 5th Magisterial District,,DEM,Kim L. HUDSON,46
+Hopkins,AB,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,72
+Hopkins,E030,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,233
+Hopkins,E031,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,198
+Hopkins,E032,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,123
+Hopkins,E033,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,284
+Hopkins,E034,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,233
+Hopkins,E035,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,92
+Hopkins,E036,MAGISTRATE 5th Magisterial District,,IND,Billy PARRISH,100
+Hopkins,AB,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,87
+Hopkins,E030,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,231
+Hopkins,E031,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,266
+Hopkins,E032,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,162
+Hopkins,E033,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,351
+Hopkins,E034,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,344
+Hopkins,E035,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,144
+Hopkins,E036,CONSTABLE 5th Magisterial District,,REP,Bryan S. ANDERSON,151
+Hopkins,AB,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,59
+Hopkins,F037,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,86
+Hopkins,F038,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,338
+Hopkins,F039,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,210
+Hopkins,F040,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,200
+Hopkins,F041,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,92
+Hopkins,F042,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,164
+Hopkins,F043,MAGISTRATE 6th Magisterial District,,DEM,Charlie G. BESHEARS,298
+Hopkins,AB,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,66
+Hopkins,F037,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,88
+Hopkins,F038,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,252
+Hopkins,F039,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,153
+Hopkins,F040,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,202
+Hopkins,F041,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,100
+Hopkins,F042,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,183
+Hopkins,F043,CONSTABLE 6th Magisterial District,,REP,Christopher BEAN,199
+Hopkins,AB,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,23
+Hopkins,F037,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,42
+Hopkins,F038,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,170
+Hopkins,F039,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,116
+Hopkins,F040,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,116
+Hopkins,F041,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,47
+Hopkins,F042,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,86
+Hopkins,F043,CONSTABLE 6th Magisterial District,,DEM,Michael R. TODD,183
+Hopkins,AB,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,67
+Hopkins,G044,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,149
+Hopkins,G045,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,196
+Hopkins,G046,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,148
+Hopkins,G047,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,160
+Hopkins,G048,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,204
+Hopkins,G049,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,224
+Hopkins,G050,MAGISTRATE 7th Magisterial District,,DEM,Hannah Miner MYERS,108
+Hopkins,AB,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,61
+Hopkins,G044,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,144
+Hopkins,G045,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,182
+Hopkins,G046,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,145
+Hopkins,G047,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,158
+Hopkins,G048,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,186
+Hopkins,G049,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,206
+Hopkins,G050,CONSTABLE 7th Magisterial District,,DEM,Brenda A. ANDERSON,103
+Hopkins,AB,MAYOR City of Madisonville,,REP,Kevin COTTON,313
+Hopkins,B012,MAYOR City of Madisonville,,REP,Kevin COTTON,141
+Hopkins,B013,MAYOR City of Madisonville,,REP,Kevin COTTON,111
+Hopkins,B014,MAYOR City of Madisonville,,REP,Kevin COTTON,132
+Hopkins,C019,MAYOR City of Madisonville,,REP,Kevin COTTON,263
+Hopkins,C020,MAYOR City of Madisonville,,REP,Kevin COTTON,164
+Hopkins,C021,MAYOR City of Madisonville,,REP,Kevin COTTON,289
+Hopkins,C022,MAYOR City of Madisonville,,REP,Kevin COTTON,106
+Hopkins,D025,MAYOR City of Madisonville,,REP,Kevin COTTON,155
+Hopkins,D027,MAYOR City of Madisonville,,REP,Kevin COTTON,428
+Hopkins,D028,MAYOR City of Madisonville,,REP,Kevin COTTON,260
+Hopkins,D029,MAYOR City of Madisonville,,REP,Kevin COTTON,80
+Hopkins,E034,MAYOR City of Madisonville,,REP,Kevin COTTON,301
+Hopkins,E035,MAYOR City of Madisonville,,REP,Kevin COTTON,123
+Hopkins,F043,MAYOR City of Madisonville,,REP,Kevin COTTON,270
+Hopkins,G044,MAYOR City of Madisonville,,REP,Kevin COTTON,141
+Hopkins,G045,MAYOR City of Madisonville,,REP,Kevin COTTON,174
+Hopkins,G046,MAYOR City of Madisonville,,REP,Kevin COTTON,106
+Hopkins,G047,MAYOR City of Madisonville,,REP,Kevin COTTON,131
+Hopkins,G048,MAYOR City of Madisonville,,REP,Kevin COTTON,170
+Hopkins,G049,MAYOR City of Madisonville,,REP,Kevin COTTON,250
+Hopkins,G050,MAYOR City of Madisonville,,REP,Kevin COTTON,56
+Hopkins,AB,MAYOR City of Madisonville,,DEM,David C. OAKLEY,73
+Hopkins,B012,MAYOR City of Madisonville,,DEM,David C. OAKLEY,23
+Hopkins,B013,MAYOR City of Madisonville,,DEM,David C. OAKLEY,3
+Hopkins,B014,MAYOR City of Madisonville,,DEM,David C. OAKLEY,50
+Hopkins,C019,MAYOR City of Madisonville,,DEM,David C. OAKLEY,45
+Hopkins,C020,MAYOR City of Madisonville,,DEM,David C. OAKLEY,29
+Hopkins,C021,MAYOR City of Madisonville,,DEM,David C. OAKLEY,36
+Hopkins,C022,MAYOR City of Madisonville,,DEM,David C. OAKLEY,67
+Hopkins,D025,MAYOR City of Madisonville,,DEM,David C. OAKLEY,80
+Hopkins,D027,MAYOR City of Madisonville,,DEM,David C. OAKLEY,41
+Hopkins,D028,MAYOR City of Madisonville,,DEM,David C. OAKLEY,48
+Hopkins,D029,MAYOR City of Madisonville,,DEM,David C. OAKLEY,22
+Hopkins,E034,MAYOR City of Madisonville,,DEM,David C. OAKLEY,73
+Hopkins,E035,MAYOR City of Madisonville,,DEM,David C. OAKLEY,45
+Hopkins,F043,MAYOR City of Madisonville,,DEM,David C. OAKLEY,55
+Hopkins,G044,MAYOR City of Madisonville,,DEM,David C. OAKLEY,42
+Hopkins,G045,MAYOR City of Madisonville,,DEM,David C. OAKLEY,55
+Hopkins,G046,MAYOR City of Madisonville,,DEM,David C. OAKLEY,39
+Hopkins,G047,MAYOR City of Madisonville,,DEM,David C. OAKLEY,45
+Hopkins,G048,MAYOR City of Madisonville,,DEM,David C. OAKLEY,34
+Hopkins,G049,MAYOR City of Madisonville,,DEM,David C. OAKLEY,43
+Hopkins,G050,MAYOR City of Madisonville,,DEM,David C. OAKLEY,33
+Hopkins,AB,MAYOR City of Madisonville,,IND,Mark D. LEE,118
+Hopkins,B012,MAYOR City of Madisonville,,IND,Mark D. LEE,42
+Hopkins,B013,MAYOR City of Madisonville,,IND,Mark D. LEE,51
+Hopkins,B014,MAYOR City of Madisonville,,IND,Mark D. LEE,65
+Hopkins,C019,MAYOR City of Madisonville,,IND,Mark D. LEE,69
+Hopkins,C020,MAYOR City of Madisonville,,IND,Mark D. LEE,39
+Hopkins,C021,MAYOR City of Madisonville,,IND,Mark D. LEE,90
+Hopkins,C022,MAYOR City of Madisonville,,IND,Mark D. LEE,47
+Hopkins,D025,MAYOR City of Madisonville,,IND,Mark D. LEE,55
+Hopkins,D027,MAYOR City of Madisonville,,IND,Mark D. LEE,220
+Hopkins,D028,MAYOR City of Madisonville,,IND,Mark D. LEE,103
+Hopkins,D029,MAYOR City of Madisonville,,IND,Mark D. LEE,21
+Hopkins,E034,MAYOR City of Madisonville,,IND,Mark D. LEE,102
+Hopkins,E035,MAYOR City of Madisonville,,IND,Mark D. LEE,46
+Hopkins,F043,MAYOR City of Madisonville,,IND,Mark D. LEE,91
+Hopkins,G044,MAYOR City of Madisonville,,IND,Mark D. LEE,43
+Hopkins,G045,MAYOR City of Madisonville,,IND,Mark D. LEE,58
+Hopkins,G046,MAYOR City of Madisonville,,IND,Mark D. LEE,44
+Hopkins,G047,MAYOR City of Madisonville,,IND,Mark D. LEE,52
+Hopkins,G048,MAYOR City of Madisonville,,IND,Mark D. LEE,87
+Hopkins,G049,MAYOR City of Madisonville,,IND,Mark D. LEE,56
+Hopkins,G050,MAYOR City of Madisonville,,IND,Mark D. LEE,20
+Hopkins,AB,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,171
+Hopkins,B012,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,63
+Hopkins,B013,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,51
+Hopkins,B014,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,73
+Hopkins,C019,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,121
+Hopkins,C020,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,70
+Hopkins,C021,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,135
+Hopkins,C022,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,44
+Hopkins,D025,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,71
+Hopkins,D027,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,245
+Hopkins,D028,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,125
+Hopkins,D029,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,29
+Hopkins,E034,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,144
+Hopkins,E035,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,45
+Hopkins,F043,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,134
+Hopkins,G044,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,52
+Hopkins,G045,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,68
+Hopkins,G046,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,56
+Hopkins,G047,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,73
+Hopkins,G048,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,90
+Hopkins,G049,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,115
+Hopkins,G050,CITY COUNCIL Ward 1 City of Madisonville,,IND,James C. DANIELS,24
+Hopkins,AB,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,167
+Hopkins,B012,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,81
+Hopkins,B013,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,59
+Hopkins,B014,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,113
+Hopkins,C019,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,140
+Hopkins,C020,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,95
+Hopkins,C021,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,170
+Hopkins,C022,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,111
+Hopkins,D025,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,164
+Hopkins,D027,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,265
+Hopkins,D028,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,164
+Hopkins,D029,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,62
+Hopkins,E034,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,195
+Hopkins,E035,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,108
+Hopkins,F043,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,169
+Hopkins,G044,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,98
+Hopkins,G045,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,115
+Hopkins,G046,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,99
+Hopkins,G047,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,95
+Hopkins,G048,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,124
+Hopkins,G049,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,112
+Hopkins,G050,CITY COUNCIL Ward 1 City of Madisonville,,IND,Misty CAVANAUGH,48
+Hopkins,AB,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,315
+Hopkins,B012,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,122
+Hopkins,B013,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,121
+Hopkins,B014,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,120
+Hopkins,C019,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,239
+Hopkins,C020,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,153
+Hopkins,C021,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,266
+Hopkins,C022,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,70
+Hopkins,D025,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,116
+Hopkins,D027,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,473
+Hopkins,D028,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,264
+Hopkins,D029,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,67
+Hopkins,E034,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,263
+Hopkins,E035,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,88
+Hopkins,F043,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,245
+Hopkins,G044,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,131
+Hopkins,G045,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,162
+Hopkins,G046,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,96
+Hopkins,G047,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,117
+Hopkins,G048,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,171
+Hopkins,G049,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,228
+Hopkins,G050,CITY COUNCIL Ward 2 City of Madisonville,,REP,Tony SPACE,41
+Hopkins,AB,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,125
+Hopkins,B012,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,57
+Hopkins,B013,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,25
+Hopkins,B014,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,95
+Hopkins,C019,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,86
+Hopkins,C020,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,62
+Hopkins,C021,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,113
+Hopkins,C022,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,104
+Hopkins,D025,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,134
+Hopkins,D027,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,142
+Hopkins,D028,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,105
+Hopkins,D029,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,40
+Hopkins,E034,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,138
+Hopkins,E035,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,86
+Hopkins,F043,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,122
+Hopkins,G044,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,76
+Hopkins,G045,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,77
+Hopkins,G046,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,69
+Hopkins,G047,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,83
+Hopkins,G048,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,83
+Hopkins,G049,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,72
+Hopkins,G050,CITY COUNCIL Ward 2 City of Madisonville,,IND,Jessica PHARRIS,45
+Hopkins,AB,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,159
+Hopkins,B012,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,60
+Hopkins,B013,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,29
+Hopkins,B014,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,122
+Hopkins,C019,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,121
+Hopkins,C020,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,73
+Hopkins,C021,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,106
+Hopkins,C022,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,141
+Hopkins,D025,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,174
+Hopkins,D027,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,180
+Hopkins,D028,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,127
+Hopkins,D029,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,44
+Hopkins,E034,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,146
+Hopkins,E035,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,100
+Hopkins,F043,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,132
+Hopkins,G044,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,75
+Hopkins,G045,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,99
+Hopkins,G046,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,92
+Hopkins,G047,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,95
+Hopkins,G048,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,92
+Hopkins,G049,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,101
+Hopkins,G050,CITY COUNCIL Ward 3 City of Madisonville,,DEM,Cameisha C. JONES,56
+Hopkins,AB,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,241
+Hopkins,B012,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,102
+Hopkins,B013,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,99
+Hopkins,B014,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,94
+Hopkins,C019,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,166
+Hopkins,C020,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,110
+Hopkins,C021,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,235
+Hopkins,C022,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,53
+Hopkins,D025,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,89
+Hopkins,D027,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,385
+Hopkins,D028,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,207
+Hopkins,D029,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,52
+Hopkins,E034,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,207
+Hopkins,E035,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,75
+Hopkins,F043,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,209
+Hopkins,G044,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,104
+Hopkins,G045,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,123
+Hopkins,G046,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,83
+Hopkins,G047,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,97
+Hopkins,G048,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,137
+Hopkins,G049,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,169
+Hopkins,G050,CITY COUNCIL Ward 3 City of Madisonville,,IND,Adam TOWNSEND,37
+Hopkins,AB,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,254
+Hopkins,B012,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,97
+Hopkins,B013,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,84
+Hopkins,B014,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,116
+Hopkins,C019,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,194
+Hopkins,C020,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,102
+Hopkins,C021,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,188
+Hopkins,C022,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,134
+Hopkins,D025,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,159
+Hopkins,D027,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,322
+Hopkins,D028,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,184
+Hopkins,D029,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,53
+Hopkins,E034,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,193
+Hopkins,E035,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,105
+Hopkins,F043,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,213
+Hopkins,G044,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,85
+Hopkins,G045,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,135
+Hopkins,G046,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,101
+Hopkins,G047,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,112
+Hopkins,G048,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,133
+Hopkins,G049,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,138
+Hopkins,G050,CITY COUNCIL Ward 4 City of Madisonville,,DEM,Larry W. NOFFSINGER,63
+Hopkins,AB,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,37
+Hopkins,B012,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,9
+Hopkins,B013,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,9
+Hopkins,B014,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,36
+Hopkins,C019,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,45
+Hopkins,C020,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,31
+Hopkins,C021,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,38
+Hopkins,C022,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,14
+Hopkins,D025,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,33
+Hopkins,D027,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,59
+Hopkins,D028,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,55
+Hopkins,D029,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,16
+Hopkins,E034,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,57
+Hopkins,E035,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,20
+Hopkins,F043,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,45
+Hopkins,G044,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,40
+Hopkins,G045,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,29
+Hopkins,G046,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,35
+Hopkins,G047,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,26
+Hopkins,G048,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,34
+Hopkins,G049,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,37
+Hopkins,G050,CITY COUNCIL Ward 4 City of Madisonville,,IND,Fallon FULKERSON,12
+Hopkins,AB,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",97
+Hopkins,B012,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",59
+Hopkins,B013,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",31
+Hopkins,B014,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",50
+Hopkins,C019,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",60
+Hopkins,C020,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",49
+Hopkins,C021,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",108
+Hopkins,C022,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",33
+Hopkins,D025,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",68
+Hopkins,D027,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",160
+Hopkins,D028,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",79
+Hopkins,D029,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",26
+Hopkins,E034,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",94
+Hopkins,E035,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",39
+Hopkins,F043,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",84
+Hopkins,G044,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",48
+Hopkins,G045,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",45
+Hopkins,G046,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",29
+Hopkins,G047,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",44
+Hopkins,G048,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",57
+Hopkins,G049,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",79
+Hopkins,G050,CITY COUNCIL Ward 4 City of Madisonville,,IND,"Micheal L. ""Mike"" ARNOLD",15
+Hopkins,AB,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,285
+Hopkins,B012,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,110
+Hopkins,B013,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,101
+Hopkins,B014,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,115
+Hopkins,C019,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,215
+Hopkins,C020,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,143
+Hopkins,C021,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,249
+Hopkins,C022,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,73
+Hopkins,D025,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,96
+Hopkins,D027,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,405
+Hopkins,D028,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,236
+Hopkins,D029,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,61
+Hopkins,E034,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,225
+Hopkins,E035,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,83
+Hopkins,F043,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,220
+Hopkins,G044,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,130
+Hopkins,G045,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,149
+Hopkins,G046,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,91
+Hopkins,G047,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,107
+Hopkins,G048,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,142
+Hopkins,G049,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,209
+Hopkins,G050,CITY COUNCIL Ward 5 City of Madisonville,,REP,Frank STEVENSON,43
+Hopkins,AB,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,159
+Hopkins,B012,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,75
+Hopkins,B013,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,55
+Hopkins,B014,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,100
+Hopkins,C019,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,120
+Hopkins,C020,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,68
+Hopkins,C021,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,128
+Hopkins,C022,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,106
+Hopkins,D025,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,160
+Hopkins,D027,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,211
+Hopkins,D028,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,122
+Hopkins,D029,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,48
+Hopkins,E034,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,188
+Hopkins,E035,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,107
+Hopkins,F043,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,153
+Hopkins,G044,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,80
+Hopkins,G045,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,98
+Hopkins,G046,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,75
+Hopkins,G047,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,97
+Hopkins,G048,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,112
+Hopkins,G049,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,99
+Hopkins,G050,CITY COUNCIL Ward 5 City of Madisonville,,IND,Mike BONE,45
+Hopkins,AB,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,150
+Hopkins,B012,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,69
+Hopkins,B013,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,63
+Hopkins,B014,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,60
+Hopkins,C019,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,119
+Hopkins,C020,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,82
+Hopkins,C021,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,115
+Hopkins,C022,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,50
+Hopkins,D025,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,63
+Hopkins,D027,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,235
+Hopkins,D028,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,147
+Hopkins,D029,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,44
+Hopkins,E034,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,130
+Hopkins,E035,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,45
+Hopkins,F043,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,143
+Hopkins,G044,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,76
+Hopkins,G045,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,85
+Hopkins,G046,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,61
+Hopkins,G047,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,57
+Hopkins,G048,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,90
+Hopkins,G049,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,118
+Hopkins,G050,CITY COUNCIL Ward 6 City of Madisonville,,IND,Brad GRIFFIN,25
+Hopkins,AB,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,228
+Hopkins,B012,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,88
+Hopkins,B013,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,69
+Hopkins,B014,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,137
+Hopkins,C019,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,160
+Hopkins,C020,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,85
+Hopkins,C021,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,201
+Hopkins,C022,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,138
+Hopkins,D025,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,192
+Hopkins,D027,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,289
+Hopkins,D028,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,154
+Hopkins,D029,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,50
+Hopkins,E034,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,218
+Hopkins,E035,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,119
+Hopkins,F043,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,200
+Hopkins,G044,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,89
+Hopkins,G045,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,122
+Hopkins,G046,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,103
+Hopkins,G047,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,129
+Hopkins,G048,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,142
+Hopkins,G049,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,164
+Hopkins,G050,CITY COUNCIL Ward 6 City of Madisonville,,IND,Bobby JOHNSON,66
+Hopkins,AB,District Judge, 4th Judicial District,,David Gordon MASSAMORE,690
+Hopkins,A001,District Judge, 4th Judicial District,,David Gordon MASSAMORE,174
+Hopkins,A002,District Judge, 4th Judicial District,,David Gordon MASSAMORE,202
+Hopkins,A003,District Judge, 4th Judicial District,,David Gordon MASSAMORE,438
+Hopkins,A004,District Judge, 4th Judicial District,,David Gordon MASSAMORE,57
+Hopkins,A005,District Judge, 4th Judicial District,,David Gordon MASSAMORE,123
+Hopkins,A006,District Judge, 4th Judicial District,,David Gordon MASSAMORE,168
+Hopkins,A007,District Judge, 4th Judicial District,,David Gordon MASSAMORE,266
+Hopkins,B008,District Judge, 4th Judicial District,,David Gordon MASSAMORE,212
+Hopkins,B009,District Judge, 4th Judicial District,,David Gordon MASSAMORE,227
+Hopkins,B010,District Judge, 4th Judicial District,,David Gordon MASSAMORE,151
+Hopkins,B011,District Judge, 4th Judicial District,,David Gordon MASSAMORE,185
+Hopkins,B012,District Judge, 4th Judicial District,,David Gordon MASSAMORE,180
+Hopkins,B013,District Judge, 4th Judicial District,,David Gordon MASSAMORE,117
+Hopkins,B014,District Judge, 4th Judicial District,,David Gordon MASSAMORE,176
+Hopkins,B015,District Judge, 4th Judicial District,,David Gordon MASSAMORE,129
+Hopkins,C016,District Judge, 4th Judicial District,,David Gordon MASSAMORE,298
+Hopkins,C017,District Judge, 4th Judicial District,,David Gordon MASSAMORE,191
+Hopkins,C018,District Judge, 4th Judicial District,,David Gordon MASSAMORE,319
+Hopkins,C019,District Judge, 4th Judicial District,,David Gordon MASSAMORE,240
+Hopkins,C020,District Judge, 4th Judicial District,,David Gordon MASSAMORE,169
+Hopkins,C021,District Judge, 4th Judicial District,,David Gordon MASSAMORE,296
+Hopkins,C022,District Judge, 4th Judicial District,,David Gordon MASSAMORE,157
+Hopkins,D023,District Judge, 4th Judicial District,,David Gordon MASSAMORE,381
+Hopkins,D024,District Judge, 4th Judicial District,,David Gordon MASSAMORE,319
+Hopkins,D025,District Judge, 4th Judicial District,,David Gordon MASSAMORE,220
+Hopkins,D026,District Judge, 4th Judicial District,,David Gordon MASSAMORE,109
+Hopkins,D027,District Judge, 4th Judicial District,,David Gordon MASSAMORE,492
+Hopkins,D028,District Judge, 4th Judicial District,,David Gordon MASSAMORE,269
+Hopkins,D029,District Judge, 4th Judicial District,,David Gordon MASSAMORE,86
+Hopkins,E030,District Judge, 4th Judicial District,,David Gordon MASSAMORE,215
+Hopkins,E031,District Judge, 4th Judicial District,,David Gordon MASSAMORE,209
+Hopkins,E032,District Judge, 4th Judicial District,,David Gordon MASSAMORE,132
+Hopkins,E033,District Judge, 4th Judicial District,,David Gordon MASSAMORE,322
+Hopkins,E034,District Judge, 4th Judicial District,,David Gordon MASSAMORE,328
+Hopkins,E035,District Judge, 4th Judicial District,,David Gordon MASSAMORE,135
+Hopkins,E036,District Judge, 4th Judicial District,,David Gordon MASSAMORE,123
+Hopkins,F037,District Judge, 4th Judicial District,,David Gordon MASSAMORE,87
+Hopkins,F038,District Judge, 4th Judicial District,,David Gordon MASSAMORE,323
+Hopkins,F039,District Judge, 4th Judicial District,,David Gordon MASSAMORE,216
+Hopkins,F040,District Judge, 4th Judicial District,,David Gordon MASSAMORE,199
+Hopkins,F041,District Judge, 4th Judicial District,,David Gordon MASSAMORE,109
+Hopkins,F042,District Judge, 4th Judicial District,,David Gordon MASSAMORE,181
+Hopkins,F043,District Judge, 4th Judicial District,,David Gordon MASSAMORE,317
+Hopkins,G044,District Judge, 4th Judicial District,,David Gordon MASSAMORE,146
+Hopkins,G045,District Judge, 4th Judicial District,,David Gordon MASSAMORE,177
+Hopkins,G046,District Judge, 4th Judicial District,,David Gordon MASSAMORE,141
+Hopkins,G047,District Judge, 4th Judicial District,,David Gordon MASSAMORE,148
+Hopkins,G048,District Judge, 4th Judicial District,,David Gordon MASSAMORE,203
+Hopkins,G049,District Judge, 4th Judicial District,,David Gordon MASSAMORE,234
+Hopkins,G050,District Judge, 4th Judicial District,,David Gordon MASSAMORE,106
+Hopkins,AB,District Judge, 4th Judicial District,,Bill WHITLEDGE,517
+Hopkins,A001,District Judge, 4th Judicial District,,Bill WHITLEDGE,151
+Hopkins,A002,District Judge, 4th Judicial District,,Bill WHITLEDGE,195
+Hopkins,A003,District Judge, 4th Judicial District,,Bill WHITLEDGE,320
+Hopkins,A004,District Judge, 4th Judicial District,,Bill WHITLEDGE,45
+Hopkins,A005,District Judge, 4th Judicial District,,Bill WHITLEDGE,86
+Hopkins,A006,District Judge, 4th Judicial District,,Bill WHITLEDGE,144
+Hopkins,A007,District Judge, 4th Judicial District,,Bill WHITLEDGE,206
+Hopkins,B008,District Judge, 4th Judicial District,,Bill WHITLEDGE,157
+Hopkins,B009,District Judge, 4th Judicial District,,Bill WHITLEDGE,160
+Hopkins,B010,District Judge, 4th Judicial District,,Bill WHITLEDGE,106
+Hopkins,B011,District Judge, 4th Judicial District,,Bill WHITLEDGE,133
+Hopkins,B012,District Judge, 4th Judicial District,,Bill WHITLEDGE,110
+Hopkins,B013,District Judge, 4th Judicial District,,Bill WHITLEDGE,95
+Hopkins,B014,District Judge, 4th Judicial District,,Bill WHITLEDGE,127
+Hopkins,B015,District Judge, 4th Judicial District,,Bill WHITLEDGE,85
+Hopkins,C016,District Judge, 4th Judicial District,,Bill WHITLEDGE,204
+Hopkins,C017,District Judge, 4th Judicial District,,Bill WHITLEDGE,148
+Hopkins,C018,District Judge, 4th Judicial District,,Bill WHITLEDGE,228
+Hopkins,C019,District Judge, 4th Judicial District,,Bill WHITLEDGE,158
+Hopkins,C020,District Judge, 4th Judicial District,,Bill WHITLEDGE,104
+Hopkins,C021,District Judge, 4th Judicial District,,Bill WHITLEDGE,183
+Hopkins,C022,District Judge, 4th Judicial District,,Bill WHITLEDGE,102
+Hopkins,D023,District Judge, 4th Judicial District,,Bill WHITLEDGE,257
+Hopkins,D024,District Judge, 4th Judicial District,,Bill WHITLEDGE,247
+Hopkins,D025,District Judge, 4th Judicial District,,Bill WHITLEDGE,140
+Hopkins,D026,District Judge, 4th Judicial District,,Bill WHITLEDGE,91
+Hopkins,D027,District Judge, 4th Judicial District,,Bill WHITLEDGE,333
+Hopkins,D028,District Judge, 4th Judicial District,,Bill WHITLEDGE,159
+Hopkins,D029,District Judge, 4th Judicial District,,Bill WHITLEDGE,57
+Hopkins,E030,District Judge, 4th Judicial District,,Bill WHITLEDGE,136
+Hopkins,E031,District Judge, 4th Judicial District,,Bill WHITLEDGE,147
+Hopkins,E032,District Judge, 4th Judicial District,,Bill WHITLEDGE,60
+Hopkins,E033,District Judge, 4th Judicial District,,Bill WHITLEDGE,197
+Hopkins,E034,District Judge, 4th Judicial District,,Bill WHITLEDGE,238
+Hopkins,E035,District Judge, 4th Judicial District,,Bill WHITLEDGE,112
+Hopkins,E036,District Judge, 4th Judicial District,,Bill WHITLEDGE,87
+Hopkins,F037,District Judge, 4th Judicial District,,Bill WHITLEDGE,42
+Hopkins,F038,District Judge, 4th Judicial District,,Bill WHITLEDGE,185
+Hopkins,F039,District Judge, 4th Judicial District,,Bill WHITLEDGE,113
+Hopkins,F040,District Judge, 4th Judicial District,,Bill WHITLEDGE,131
+Hopkins,F041,District Judge, 4th Judicial District,,Bill WHITLEDGE,46
+Hopkins,F042,District Judge, 4th Judicial District,,Bill WHITLEDGE,127
+Hopkins,F043,District Judge, 4th Judicial District,,Bill WHITLEDGE,204
+Hopkins,G044,District Judge, 4th Judicial District,,Bill WHITLEDGE,98
+Hopkins,G045,District Judge, 4th Judicial District,,Bill WHITLEDGE,114
+Hopkins,G046,District Judge, 4th Judicial District,,Bill WHITLEDGE,91
+Hopkins,G047,District Judge, 4th Judicial District,,Bill WHITLEDGE,105
+Hopkins,G048,District Judge, 4th Judicial District,,Bill WHITLEDGE,137
+Hopkins,G049,District Judge, 4th Judicial District,,Bill WHITLEDGE,162
+Hopkins,G050,District Judge, 4th Judicial District,,Bill WHITLEDGE,95
+Hopkins,AB,District Judge, 4th Judicial District,,Kim Poe GILLIAM,382
+Hopkins,A001,District Judge, 4th Judicial District,,Kim Poe GILLIAM,82
+Hopkins,A002,District Judge, 4th Judicial District,,Kim Poe GILLIAM,76
+Hopkins,A003,District Judge, 4th Judicial District,,Kim Poe GILLIAM,246
+Hopkins,A004,District Judge, 4th Judicial District,,Kim Poe GILLIAM,37
+Hopkins,A005,District Judge, 4th Judicial District,,Kim Poe GILLIAM,83
+Hopkins,A006,District Judge, 4th Judicial District,,Kim Poe GILLIAM,77
+Hopkins,A007,District Judge, 4th Judicial District,,Kim Poe GILLIAM,146
+Hopkins,B008,District Judge, 4th Judicial District,,Kim Poe GILLIAM,115
+Hopkins,B009,District Judge, 4th Judicial District,,Kim Poe GILLIAM,111
+Hopkins,B010,District Judge, 4th Judicial District,,Kim Poe GILLIAM,88
+Hopkins,B011,District Judge, 4th Judicial District,,Kim Poe GILLIAM,106
+Hopkins,B012,District Judge, 4th Judicial District,,Kim Poe GILLIAM,99
+Hopkins,B013,District Judge, 4th Judicial District,,Kim Poe GILLIAM,65
+Hopkins,B014,District Judge, 4th Judicial District,,Kim Poe GILLIAM,99
+Hopkins,B015,District Judge, 4th Judicial District,,Kim Poe GILLIAM,87
+Hopkins,C016,District Judge, 4th Judicial District,,Kim Poe GILLIAM,167
+Hopkins,C017,District Judge, 4th Judicial District,,Kim Poe GILLIAM,103
+Hopkins,C018,District Judge, 4th Judicial District,,Kim Poe GILLIAM,197
+Hopkins,C019,District Judge, 4th Judicial District,,Kim Poe GILLIAM,161
+Hopkins,C020,District Judge, 4th Judicial District,,Kim Poe GILLIAM,93
+Hopkins,C021,District Judge, 4th Judicial District,,Kim Poe GILLIAM,189
+Hopkins,C022,District Judge, 4th Judicial District,,Kim Poe GILLIAM,92
+Hopkins,D023,District Judge, 4th Judicial District,,Kim Poe GILLIAM,218
+Hopkins,D024,District Judge, 4th Judicial District,,Kim Poe GILLIAM,164
+Hopkins,D025,District Judge, 4th Judicial District,,Kim Poe GILLIAM,119
+Hopkins,D026,District Judge, 4th Judicial District,,Kim Poe GILLIAM,70
+Hopkins,D027,District Judge, 4th Judicial District,,Kim Poe GILLIAM,303
+Hopkins,D028,District Judge, 4th Judicial District,,Kim Poe GILLIAM,193
+Hopkins,D029,District Judge, 4th Judicial District,,Kim Poe GILLIAM,53
+Hopkins,E030,District Judge, 4th Judicial District,,Kim Poe GILLIAM,131
+Hopkins,E031,District Judge, 4th Judicial District,,Kim Poe GILLIAM,125
+Hopkins,E032,District Judge, 4th Judicial District,,Kim Poe GILLIAM,122
+Hopkins,E033,District Judge, 4th Judicial District,,Kim Poe GILLIAM,186
+Hopkins,E034,District Judge, 4th Judicial District,,Kim Poe GILLIAM,178
+Hopkins,E035,District Judge, 4th Judicial District,,Kim Poe GILLIAM,75
+Hopkins,E036,District Judge, 4th Judicial District,,Kim Poe GILLIAM,76
+Hopkins,F037,District Judge, 4th Judicial District,,Kim Poe GILLIAM,72
+Hopkins,F038,District Judge, 4th Judicial District,,Kim Poe GILLIAM,200
+Hopkins,F039,District Judge, 4th Judicial District,,Kim Poe GILLIAM,147
+Hopkins,F040,District Judge, 4th Judicial District,,Kim Poe GILLIAM,146
+Hopkins,F041,District Judge, 4th Judicial District,,Kim Poe GILLIAM,91
+Hopkins,F042,District Judge, 4th Judicial District,,Kim Poe GILLIAM,106
+Hopkins,F043,District Judge, 4th Judicial District,,Kim Poe GILLIAM,168
+Hopkins,G044,District Judge, 4th Judicial District,,Kim Poe GILLIAM,84
+Hopkins,G045,District Judge, 4th Judicial District,,Kim Poe GILLIAM,117
+Hopkins,G046,District Judge, 4th Judicial District,,Kim Poe GILLIAM,79
+Hopkins,G047,District Judge, 4th Judicial District,,Kim Poe GILLIAM,94
+Hopkins,G048,District Judge, 4th Judicial District,,Kim Poe GILLIAM,121
+Hopkins,G049,District Judge, 4th Judicial District,,Kim Poe GILLIAM,153
+Hopkins,G050,District Judge, 4th Judicial District,,Kim Poe GILLIAM,49
+Hopkins,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,145
+Hopkins,B009,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,226
+Hopkins,B011,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,175
+Hopkins,B013,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,118
+Hopkins,F043,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,298
+Hopkins,G044,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,140
+Hopkins,G045,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,187
+Hopkins,G046,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,140
+Hopkins,G047,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,149
+Hopkins,G048,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,200
+Hopkins,G049,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,246
+Hopkins,G050,MEMBER BOARD of EDUCATION 2nd Educational District,,,Steven R. FAULK,104
+Hopkins,AB,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,57
+Hopkins,B008,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,153
+Hopkins,E030,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,144
+Hopkins,E031,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,171
+Hopkins,E032,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,38
+Hopkins,E033,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,113
+Hopkins,E036,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,110
+Hopkins,F037,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,35
+Hopkins,F041,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,26
+Hopkins,F042,MEMBER BOARD of EDUCATION 4th Educational District,,,D. Shawn BRUMFIELD,98
+Hopkins,AB,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,46
+Hopkins,B008,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,96
+Hopkins,E030,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,129
+Hopkins,E031,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,94
+Hopkins,E032,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,139
+Hopkins,E033,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,281
+Hopkins,E036,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,34
+Hopkins,F037,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,71
+Hopkins,F041,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,114
+Hopkins,F042,MEMBER BOARD of EDUCATION 4th Educational District,,,Bobby FOX,120
+Hopkins,AB,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Wes AUSENBAUGH,19
+Hopkins,F038,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Wes AUSENBAUGH,300
+Hopkins,F039,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Wes AUSENBAUGH,213
+Hopkins,AB,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Vicki Fox ALLEN,21
+Hopkins,F038,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Vicki Fox ALLEN,352
+Hopkins,F039,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Vicki Fox ALLEN,238
+Hopkins,AB,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Tracy OVERBY,18
+Hopkins,F038,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Tracy OVERBY,307
+Hopkins,F039,MEMBER BOARD of EDUCATION Dawson Springs Independent School District,,,Tracy OVERBY,217
+Hopkins,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,11
+Hopkins,A001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,38
+Hopkins,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,36
+Hopkins,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,105
+Hopkins,A004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,12
+Hopkins,A005,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,24
+Hopkins,A006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,38
+Hopkins,A007,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,45
+Hopkins,B015,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,19
+Hopkins,F040,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Lygia Dea STEWART,59
+Hopkins,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,11
+Hopkins,A001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,14
+Hopkins,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,28
+Hopkins,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,68
+Hopkins,A004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,8
+Hopkins,A005,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,12
+Hopkins,A006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,23
+Hopkins,A007,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,35
+Hopkins,B015,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,17
+Hopkins,F040,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Amber HACKNEY,33
+Hopkins,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,12
+Hopkins,A001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,36
+Hopkins,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,40
+Hopkins,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,40
+Hopkins,A004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,3
+Hopkins,A005,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,13
+Hopkins,A006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,52
+Hopkins,A007,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,49
+Hopkins,B015,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,13
+Hopkins,F040,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Russell D. MOORE,28
+Hopkins,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,22
+Hopkins,A001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,107
+Hopkins,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,109
+Hopkins,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,219
+Hopkins,A004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,41
+Hopkins,A005,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,21
+Hopkins,A006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,27
+Hopkins,A007,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,89
+Hopkins,B015,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,22
+Hopkins,F040,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,John OSBORNE,18
+Hopkins,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,26
+Hopkins,A001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,27
+Hopkins,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,39
+Hopkins,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,120
+Hopkins,A004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,15
+Hopkins,A005,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,102
+Hopkins,A006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,57
+Hopkins,A007,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,97
+Hopkins,B015,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,80
+Hopkins,F040,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Kimberly SIMONS,106
+Hopkins,AB,MAYOR CITY of Dawson Springs,,,Chris R. SMILEY,18
+Hopkins,F038,MAYOR CITY of Dawson Springs,,,Chris R. SMILEY,312
+Hopkins,F039,MAYOR CITY of Dawson Springs,,,Chris R. SMILEY,217
+Hopkins,AB,MAYOR CITY of Dawson Springs,,,Thomas A. COTTON SR.,2
+Hopkins,F038,MAYOR CITY of Dawson Springs,,,Thomas A. COTTON SR.,79
+Hopkins,F039,MAYOR CITY of Dawson Springs,,,Thomas A. COTTON SR.,23
+Hopkins,AB,MAYOR CITY of Dawson Springs,,,Perry R. ABBOTT,1
+Hopkins,F038,MAYOR CITY of Dawson Springs,,,Perry R. ABBOTT,49
+Hopkins,F039,MAYOR CITY of Dawson Springs,,,Perry R. ABBOTT,46
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Rick HENDRICKSON,13
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Rick HENDRICKSON,246
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Rick HENDRICKSON,183
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Mark Beckham McGREGOR,13
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Mark Beckham McGREGOR,216
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Mark Beckham McGREGOR,176
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Dustin Earl VINSON,16
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Dustin Earl VINSON,228
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Dustin Earl VINSON,163
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Joe R. ALLEN JR.,15
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Joe R. ALLEN JR.,294
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Joe R. ALLEN JR.,208
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Kenneth R. MITCHELL,16
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Kenneth R. MITCHELL,269
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Kenneth R. MITCHELL,198
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Martha WOOLSEY,10
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Martha WOOLSEY,271
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Martha WOOLSEY,172
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Elizabeth HALVERSON,2
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Elizabeth HALVERSON,170
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Elizabeth HALVERSON,97
+Hopkins,AB,CITY COUNCIL City of Dawson Springs,,,Jackie MATHIS,15
+Hopkins,F038,CITY COUNCIL City of Dawson Springs,,,Jackie MATHIS,215
+Hopkins,F039,CITY COUNCIL City of Dawson Springs,,,Jackie MATHIS,140
+Hopkins,AB,MAYOR City of Earlington,,,Philip R. HUNT,10
+Hopkins,B008,MAYOR City of Earlington,,,Philip R. HUNT,72
+Hopkins,B015,MAYOR City of Earlington,,,Philip R. HUNT,98
+Hopkins,AB,MAYOR City of Earlington,,,Arthur T. JOHNSON,1
+Hopkins,B008,MAYOR City of Earlington,,,Arthur T. JOHNSON,27
+Hopkins,B015,MAYOR City of Earlington,,,Arthur T. JOHNSON,23
+Hopkins,AB,MAYOR City of Earlington,,,Jim HICKS,5
+Hopkins,B008,MAYOR City of Earlington,,,Jim HICKS,40
+Hopkins,B015,MAYOR City of Earlington,,,Jim HICKS,57
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Charles H. EAVES SR.,8
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Charles H. EAVES SR.,70
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Charles H. EAVES SR.,75
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Ann GIPSON,7
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Ann GIPSON,100
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Ann GIPSON,114
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Vernon GIPSON,6
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Vernon GIPSON,69
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Vernon GIPSON,91
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Robert L. COTTONER,11
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Robert L. COTTONER,103
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Robert L. COTTONER,97
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Wanda WILSON,7
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Wanda WILSON,82
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Wanda WILSON,102
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Johnny WIX,9
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Johnny WIX,71
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Johnny WIX,98
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Barbara Ann SHELTON,6
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Barbara Ann SHELTON,87
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Barbara Ann SHELTON,93
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Daniel HARTLINE,11
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Daniel HARTLINE,62
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Daniel HARTLINE,90
+Hopkins,AB,CITY COUNCIL City of Earlington,,,Preston L. MOORE,6
+Hopkins,B008,CITY COUNCIL City of Earlington,,,Preston L. MOORE,43
+Hopkins,B015,CITY COUNCIL City of Earlington,,,Preston L. MOORE,52
+Hopkins,AB,MAYOR City of Hanson,,,Jimmy EPLEY,10
+Hopkins,C016,MAYOR City of Hanson,,,Jimmy EPLEY,44
+Hopkins,D024,MAYOR City of Hanson,,,Jimmy EPLEY,59
+Hopkins,AB,MAYOR City of Hanson,,,Margaret VAUGHN,1
+Hopkins,C016,MAYOR City of Hanson,,,Margaret VAUGHN,8
+Hopkins,D024,MAYOR City of Hanson,,,Margaret VAUGHN,14
+Hopkins,AB,MAYOR City of Hanson,,,Mickey DeMOSS,10
+Hopkins,C016,MAYOR City of Hanson,,,Mickey DeMOSS,33
+Hopkins,D024,MAYOR City of Hanson,,,Mickey DeMOSS,63
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,Wayne W. WELLS,7
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,Wayne W. WELLS,21
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,Wayne W. WELLS,33
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,Ronnie VAUGHN,8
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,Ronnie VAUGHN,25
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,Ronnie VAUGHN,38
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,Carlis OAKLEY,8
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,Carlis OAKLEY,47
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,Carlis OAKLEY,81
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,Jim TOMPKINS,10
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,Jim TOMPKINS,30
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,Jim TOMPKINS,60
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,LuAnn HAYWOOD,13
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,LuAnn HAYWOOD,36
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,LuAnn HAYWOOD,56
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,James T. GREGORY,9
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,James T. GREGORY,39
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,James T. GREGORY,43
+Hopkins,AB,CITY COMMISSIONERS City of Hanson,,,Brandon MARSH,12
+Hopkins,C016,CITY COMMISSIONERS City of Hanson,,,Brandon MARSH,43
+Hopkins,D024,CITY COMMISSIONERS City of Hanson,,,Brandon MARSH,91
+Hopkins,AB,MAYOR City of Mortons Gap,,,Chris PHELPS,9
+Hopkins,A006,MAYOR City of Mortons Gap,,,Chris PHELPS,190
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Sandra DUPREE,7
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Sandra DUPREE,161
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Wendy SMITH,9
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Wendy SMITH,175
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Nancy FAULK,8
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Nancy FAULK,151
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Tammy Farmer VANDIVER,8
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Tammy Farmer VANDIVER,162
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Claudia GUNTHER,5
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Claudia GUNTHER,111
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Mike SMITH,7
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Mike SMITH,169
+Hopkins,AB,CITY COUNCIL City of Mortons Gap,,,Roger FAULK,8
+Hopkins,A006,CITY COUNCIL City of Mortons Gap,,,Roger FAULK,148
+Hopkins,AB,MAYOR City of Nebo,,,John W. DUKES,5
+Hopkins,E030,MAYOR City of Nebo,,,John W. DUKES,36
+Hopkins,AB,MAYOR City of Nebo,,,Karen LANTRIP,2
+Hopkins,E030,MAYOR City of Nebo,,,Karen LANTRIP,47
+Hopkins,AB,CITY COMMISSIONERS City of Nebo,,,Jackie PEARCE,3
+Hopkins,E030,CITY COMMISSIONERS City of Nebo,,,Jackie PEARCE,46
+Hopkins,AB,CITY COMMISSIONERS City of Nebo,,,David A. LEAR,5
+Hopkins,E030,CITY COMMISSIONERS City of Nebo,,,David A. LEAR,57
+Hopkins,AB,CITY COMMISSIONERS City of Nebo,,,James E. KELLEY,4
+Hopkins,E030,CITY COMMISSIONERS City of Nebo,,,James E. KELLEY,59
+Hopkins,AB,CITY COMMISSIONERS City of Nebo,,,"Charles ""Juddy"" JARRELL",3
+Hopkins,E030,CITY COMMISSIONERS City of Nebo,,,"Charles ""Juddy"" JARRELL",41
+Hopkins,AB,CITY COMMISSIONERS City of Nebo,,,"Jonathan ""Opie"" PARISH",3
+Hopkins,E030,CITY COMMISSIONERS City of Nebo,,,"Jonathan ""Opie"" PARISH",58
+Hopkins,AB,MAYOR City of Nortonville,,,Scotty HARVEY,11
+Hopkins,A003,MAYOR City of Nortonville,,,Scotty HARVEY,188
+Hopkins,AB,MAYOR City of Nortonville,,,C. T. STURT,9
+Hopkins,A003,MAYOR City of Nortonville,,,C. T. STURT,165
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,Rebecca MOSBY,9
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,Rebecca MOSBY,203
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,Kristal P. STANLEY,12
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,Kristal P. STANLEY,237
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,Lucille PUTTY,4
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,Lucille PUTTY,172
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,James NOEL,11
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,James NOEL,135
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,James K. HARRISON,10
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,James K. HARRISON,202
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,Pam BROADSTON,4
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,Pam BROADSTON,165
+Hopkins,AB,CITY COUNCIL City of Nortonville,,,"James ""Boo"" BRADEN",10
+Hopkins,A003,CITY COUNCIL City of Nortonville,,,"James ""Boo"" BRADEN",232
+Hopkins,AB,CITY COMMISSIONERS City of St. Charles,,,Mary SMITH,1
+Hopkins,A005,CITY COMMISSIONERS City of St. Charles,,,Mary SMITH,38
+Hopkins,AB,CITY COMMISSIONERS City of St. Charles,,,Darlene ADAMSON,1
+Hopkins,A005,CITY COMMISSIONERS City of St. Charles,,,Darlene ADAMSON,35
+Hopkins,AB,MAYOR City of White Plains,,,Josh SLATON,11
+Hopkins,A001,MAYOR City of White Plains,,,Josh SLATON,117
+Hopkins,A002,MAYOR City of White Plains,,,Josh SLATON,92
+Hopkins,AB,CITY COMMISSIONERS City of White Plains,,,"Tony ""Twink"" WILLIAMS",7
+Hopkins,A001,CITY COMMISSIONERS City of White Plains,,,"Tony ""Twink"" WILLIAMS",102
+Hopkins,A002,CITY COMMISSIONERS City of White Plains,,,"Tony ""Twink"" WILLIAMS",72
+Hopkins,AB,CITY COMMISSIONERS City of White Plains,,,Benjamin ALMON,8
+Hopkins,A001,CITY COMMISSIONERS City of White Plains,,,Benjamin ALMON,107
+Hopkins,A002,CITY COMMISSIONERS City of White Plains,,,Benjamin ALMON,73
+Hopkins,AB,CITY COMMISSIONERS City of White Plains,,,Dave DUNCAN,9
+Hopkins,A001,CITY COMMISSIONERS City of White Plains,,,Dave DUNCAN,71
+Hopkins,A002,CITY COMMISSIONERS City of White Plains,,,Dave DUNCAN,68
+Hopkins,AB,CITY COMMISSIONERS City of White Plains,,,Ray GROVES,6
+Hopkins,A001,CITY COMMISSIONERS City of White Plains,,,Ray GROVES,88
+Hopkins,A002,CITY COMMISSIONERS City of White Plains,,,Ray GROVES,72
+Hopkins,AB,CITY COMMISSIONERS City of White Plains,,,Tim SLATON,8
+Hopkins,A001,CITY COMMISSIONERS City of White Plains,,,Tim SLATON,74
+Hopkins,A002,CITY COMMISSIONERS City of White Plains,,,Tim SLATON,60
+Hopkins,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,720
+Hopkins,A001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,103
+Hopkins,A002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,115
+Hopkins,A003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,234
+Hopkins,A004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,30
+Hopkins,A005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,73
+Hopkins,A006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,113
+Hopkins,A007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,131
+Hopkins,B008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,125
+Hopkins,B009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,122
+Hopkins,B010,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,68
+Hopkins,B011,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,122
+Hopkins,B012,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,78
+Hopkins,B013,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,69
+Hopkins,B014,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,130
+Hopkins,B015,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,82
+Hopkins,C016,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,160
+Hopkins,C017,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,140
+Hopkins,C018,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,188
+Hopkins,C019,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,152
+Hopkins,C020,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,109
+Hopkins,C021,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,164
+Hopkins,C022,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,114
+Hopkins,D023,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,220
+Hopkins,D024,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,202
+Hopkins,D025,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,164
+Hopkins,D026,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,79
+Hopkins,D027,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,270
+Hopkins,D028,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,168
+Hopkins,D029,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,59
+Hopkins,E030,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,134
+Hopkins,E031,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,114
+Hopkins,E032,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,75
+Hopkins,E033,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,174
+Hopkins,E034,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,223
+Hopkins,E035,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,107
+Hopkins,E036,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,53
+Hopkins,F037,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,38
+Hopkins,F038,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,163
+Hopkins,F039,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,102
+Hopkins,F040,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,111
+Hopkins,F041,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,45
+Hopkins,F042,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,87
+Hopkins,F043,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,172
+Hopkins,G044,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,91
+Hopkins,G045,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,112
+Hopkins,G046,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,87
+Hopkins,G047,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,113
+Hopkins,G048,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,98
+Hopkins,G049,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,155
+Hopkins,G050,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,75
+Hopkins,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,145
+Hopkins,A001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,113
+Hopkins,A002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,148
+Hopkins,A003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,353
+Hopkins,A004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,64
+Hopkins,A005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,110
+Hopkins,A006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,114
+Hopkins,A007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,229
+Hopkins,B008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,142
+Hopkins,B009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,176
+Hopkins,B010,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,131
+Hopkins,B011,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,133
+Hopkins,B012,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,139
+Hopkins,B013,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,86
+Hopkins,B014,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,99
+Hopkins,B015,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,88
+Hopkins,C016,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,237
+Hopkins,C017,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,155
+Hopkins,C018,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,258
+Hopkins,C019,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,176
+Hopkins,C020,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,103
+Hopkins,C021,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,214
+Hopkins,C022,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,88
+Hopkins,D023,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,296
+Hopkins,D024,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,246
+Hopkins,D025,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,94
+Hopkins,D026,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,84
+Hopkins,D027,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,361
+Hopkins,D028,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,188
+Hopkins,D029,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,49
+Hopkins,E030,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,136
+Hopkins,E031,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,170
+Hopkins,E032,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,115
+Hopkins,E033,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,218
+Hopkins,E034,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,212
+Hopkins,E035,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,92
+Hopkins,E036,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,108
+Hopkins,F037,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,81
+Hopkins,F038,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,194
+Hopkins,F039,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,168
+Hopkins,F040,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,177
+Hopkins,F041,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,95
+Hopkins,F042,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,167
+Hopkins,F043,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,200
+Hopkins,G044,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,102
+Hopkins,G045,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,126
+Hopkins,G046,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,85
+Hopkins,G047,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,89
+Hopkins,G048,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,159
+Hopkins,G049,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,159
+Hopkins,G050,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,72
