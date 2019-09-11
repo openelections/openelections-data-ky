@@ -1,381 +1,2399 @@
-candidate,office,district,party,county,precinct,eslate,escan,votes,absentee_mail,absentee_walk_in
-,Straight Party,,REP,Hardin,Absentee,,,369,105,264
-,Straight Party,,DEM,Hardin,Absentee,,,293,105,188
-S Brett Guthrie,U.S. House,2,,Hardin,Absentee,,,1065,235,830
-Hank Linderman,U.S. House,2,,Hardin,Absentee,,,561,187,374
-Thomas A Loecken,U.S. House,2,,Hardin,Absentee,,,26,6,20
-Dennis L. Parrett,State Senate,10,,Hardin,Absentee,,,1081,288,793
-Josh Calloway,State Representative,10,,Hardin,Absentee,,,113,21,92
-Dean Schamore,State Representative,10,,Hardin,Absentee,,,99,35,64
-,Straight Party,,REP,Hardin,West Point,18,71,89,,
-,Straight Party,,DEM,Hardin,West Point,8,33,41,,
-S Brett Guthrie,U.S. House,2,,Hardin,West Point,35,125,160,,
-Hank Linderman,U.S. House,2,,Hardin,West Point,21,59,80,,
-Thomas A Loecken,U.S. House,2,,Hardin,West Point,1,3,4,,
-Dennis L. Parrett,State Senate,10,,Hardin,West Point,34,109,143,,
-,Straight Party,,REP,Hardin,Radcliff East ,32,99,131,,
-,Straight Party,,DEM,Hardin,Radcliff East ,24,135,159,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff East ,46,180,226,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff East ,33,184,217,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff East ,4,17,21,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff East ,50,262,312,,
-,Straight Party,,REP,Hardin,Radcliff North ,0,53,53,,
-,Straight Party,,DEM,Hardin,Radcliff North ,4,108,112,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff North ,4,105,109,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff North ,6,144,150,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff North ,0,9,9,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff North ,7,192,199,,
-,Straight Party,,REP,Hardin,Radcliff Northwest ,24,84,108,,
-,Straight Party,,DEM,Hardin,Radcliff Northwest ,27,155,182,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff Northwest ,34,206,240,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff Northwest ,40,227,267,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff Northwest ,3,11,14,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff Northwest ,62,315,377,,
-,Straight Party,,REP,Hardin,Radcliff West,13,113,126,,
-,Straight Party,,DEM,Hardin,Radcliff West,26,119,145,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff West,28,215,243,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff West,39,189,228,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff West,1,13,14,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff West,48,268,316,,
-,Straight Party,,REP,Hardin,Red Hill,13,97,110,,
-,Straight Party,,DEM,Hardin,Red Hill,34,171,205,,
-S Brett Guthrie,U.S. House,2,,Hardin,Red Hill,28,190,218,,
-Hank Linderman,U.S. House,2,,Hardin,Red Hill,37,253,290,,
-Thomas A Loecken,U.S. House,2,,Hardin,Red Hill,3,22,25,,
-Dennis L. Parrett,State Senate,10,,Hardin,Red Hill,49,341,390,,
-,Straight Party,,REP,Hardin,Veterans,3,17,20,,
-,Straight Party,,DEM,Hardin,Veterans,15,30,45,,
-S Brett Guthrie,U.S. House,2,,Hardin,Veterans,5,24,29,,
-Hank Linderman,U.S. House,2,,Hardin,Veterans,19,35,54,,
-Thomas A Loecken,U.S. House,2,,Hardin,Veterans,1,2,3,,
-Dennis L. Parrett,State Senate,10,,Hardin,Veterans,20,46,66,,
-Josh Calloway,State Representative,10,,Hardin,Veterans,6,25,31,,
-Dean Schamore,State Representative,10,,Hardin,Veterans,20,36,56,,
-,Straight Party,,REP,Hardin,Radcliff Southwest,16,115,131,,
-,Straight Party,,DEM,Hardin,Radcliff Southwest,29,124,153,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff Southwest,40,216,256,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff Southwest,45,171,216,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff Southwest,2,20,22,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff Southwest,68,270,338,,
-Josh Calloway,State Representative,10,,Hardin,Radcliff Southwest,36,209,245,,
-Dean Schamore,State Representative,10,,Hardin,Radcliff Southwest,51,197,248,,
-,Straight Party,,REP,Hardin,Fort Knox 26,2,64,66,,
-,Straight Party,,DEM,Hardin,Fort Knox 26,1,69,70,,
-S Brett Guthrie,U.S. House,2,,Hardin,Fort Knox 26,3,103,106,,
-Hank Linderman,U.S. House,2,,Hardin,Fort Knox 26,1,102,103,,
-Thomas A Loecken,U.S. House,2,,Hardin,Fort Knox 26,0,7,7,,
-Dennis L. Parrett,State Senate,10,,Hardin,Fort Knox 26,2,143,145,,
-,Straight Party,,REP,Hardin,Fort Knox 27,0,6,6,,
-,Straight Party,,DEM,Hardin,Fort Knox 27,0,9,9,,
-S Brett Guthrie,U.S. House,2,,Hardin,Fort Knox 27,1,9,10,,
-Hank Linderman,U.S. House,2,,Hardin,Fort Knox 27,1,11,12,,
-Thomas A Loecken,U.S. House,2,,Hardin,Fort Knox 27,1,0,1,,
-Dennis L. Parrett,State Senate,10,,Hardin,Fort Knox 27,3,13,16,,
-,Straight Party,,REP,Hardin,Radcliff South,1,75,76,,
-,Straight Party,,DEM,Hardin,Radcliff South,2,72,74,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff South,1,172,173,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff South,2,104,106,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff South,1,14,15,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff South,4,190,194,,
-,Straight Party,,REP,Hardin,Radcliff Southeast,27,86,113,,
-,Straight Party,,DEM,Hardin,Radcliff Southeast,41,192,233,,
-S Brett Guthrie,U.S. House,2,,Hardin,Radcliff Southeast,42,207,249,,
-Hank Linderman,U.S. House,2,,Hardin,Radcliff Southeast,54,276,330,,
-Thomas A Loecken,U.S. House,2,,Hardin,Radcliff Southeast,4,12,16,,
-Dennis L. Parrett,State Senate,10,,Hardin,Radcliff Southeast,76,356,432,,
-Josh Calloway,State Representative,10,,Hardin,Radcliff Southeast,41,200,241,,
-Dean Schamore,State Representative,10,,Hardin,Radcliff Southeast,59,291,350,,
-,Straight Party,,REP,Hardin,Shelton,7,160,167,,
-,Straight Party,,DEM,Hardin,Shelton,23,265,288,,
-S Brett Guthrie,U.S. House,2,,Hardin,Shelton,13,303,316,,
-Hank Linderman,U.S. House,2,,Hardin,Shelton,27,393,420,,
-Thomas A Loecken,U.S. House,2,,Hardin,Shelton,2,21,23,,
-Dennis L. Parrett,State Senate,10,,Hardin,Shelton,35,542,577,,
-,Straight Party,,REP,Hardin,Woodland,14,97,111,,
-,Straight Party,,DEM,Hardin,Woodland,47,158,205,,
-S Brett Guthrie,U.S. House,2,,Hardin,Woodland,28,203,231,,
-Hank Linderman,U.S. House,2,,Hardin,Woodland,57,240,297,,
-Thomas A Loecken,U.S. House,2,,Hardin,Woodland,6,17,23,,
-Dennis L. Parrett,State Senate,10,,Hardin,Woodland,75,335,410,,
-Josh Calloway,State Representative,10,,Hardin,Woodland,27,191,218,,
-Dean Schamore,State Representative,10,,Hardin,Woodland,64,267,331,,
-,Straight Party,,REP,Hardin,Longview,37,90,127,,
-,Straight Party,,DEM,Hardin,Longview,22,62,84,,
-S Brett Guthrie,U.S. House,2,,Hardin,Longview,61,191,252,,
-Hank Linderman,U.S. House,2,,Hardin,Longview,33,96,129,,
-Thomas A Loecken,U.S. House,2,,Hardin,Longview,1,10,11,,
-Dennis L. Parrett,State Senate,10,,Hardin,Longview,64,195,259,,
-,Straight Party,,REP,Hardin,Parkway,17,103,120,,
-,Straight Party,,DEM,Hardin,Parkway,27,162,189,,
-S Brett Guthrie,U.S. House,2,,Hardin,Parkway,39,183,222,,
-Hank Linderman,U.S. House,2,,Hardin,Parkway,39,217,256,,
-Thomas A Loecken,U.S. House,2,,Hardin,Parkway,1,12,13,,
-Dennis L. Parrett,State Senate,10,,Hardin,Parkway,60,299,359,,
-,Straight Party,,REP,Hardin,Highlands,24,74,98,,
-,Straight Party,,DEM,Hardin,Highlands,7,54,61,,
-S Brett Guthrie,U.S. House,2,,Hardin,Highlands,68,292,360,,
-Hank Linderman,U.S. House,2,,Hardin,Highlands,26,124,150,,
-Thomas A Loecken,U.S. House,2,,Hardin,Highlands,2,7,9,,
-Dennis L. Parrett,State Senate,10,,Hardin,Highlands,68,287,355,,
-,Straight Party,,REP,Hardin,City Park,21,80,101,,
-,Straight Party,,DEM,Hardin,City Park,39,147,186,,
-S Brett Guthrie,U.S. House,2,,Hardin,City Park,49,241,290,,
-Hank Linderman,U.S. House,2,,Hardin,City Park,52,233,285,,
-Thomas A Loecken,U.S. House,2,,Hardin,City Park,0,18,18,,
-Dennis L. Parrett,State Senate,10,,Hardin,City Park,84,376,460,,
-,Straight Party,,REP,Hardin,Colesburg,46,194,240,,
-,Straight Party,,DEM,Hardin,Colesburg,17,66,83,,
-S Brett Guthrie,U.S. House,2,,Hardin,Colesburg,83,394,477,,
-Hank Linderman,U.S. House,2,,Hardin,Colesburg,35,130,165,,
-Thomas A Loecken,U.S. House,2,,Hardin,Colesburg,1,21,22,,
-Dennis L. Parrett,State Senate,10,,Hardin,Colesburg,70,285,355,,
-,Straight Party,,REP,Hardin,Tunnel Hill,15,236,251,,
-,Straight Party,,DEM,Hardin,Tunnel Hill,9,139,148,,
-S Brett Guthrie,U.S. House,2,,Hardin,Tunnel Hill,47,641,688,,
-Hank Linderman,U.S. House,2,,Hardin,Tunnel Hill,16,256,272,,
-Thomas A Loecken,U.S. House,2,,Hardin,Tunnel Hill,1,18,19,,
-Dennis L. Parrett,State Senate,10,,Hardin,Tunnel Hill,45,565,610,,
-,Straight Party,,REP,Hardin,Lincoln Trail North ,21,100,121,,
-,Straight Party,,DEM,Hardin,Lincoln Trail North ,11,43,54,,
-S Brett Guthrie,U.S. House,2,,Hardin,Lincoln Trail North ,55,275,330,,
-Hank Linderman,U.S. House,2,,Hardin,Lincoln Trail North ,22,116,138,,
-Thomas A Loecken,U.S. House,2,,Hardin,Lincoln Trail North ,4,10,14,,
-Dennis L. Parrett,State Senate,10,,Hardin,Lincoln Trail North ,63,268,331,,
-,Straight Party,,REP,Hardin,Lincoln Trail South,51,161,212,,
-,Straight Party,,DEM,Hardin,Lincoln Trail South,30,105,135,,
-S Brett Guthrie,U.S. House,2,,Hardin,Lincoln Trail South,117,396,513,,
-Hank Linderman,U.S. House,2,,Hardin,Lincoln Trail South,47,204,251,,
-Thomas A Loecken,U.S. House,2,,Hardin,Lincoln Trail South,2,14,16,,
-Dennis L. Parrett,State Senate,10,,Hardin,Lincoln Trail South,114,401,515,,
-,Straight Party,,REP,Hardin,Etown East,7,64,71,,
-,Straight Party,,DEM,Hardin,Etown East,22,106,128,,
-S Brett Guthrie,U.S. House,2,,Hardin,Etown East,28,188,216,,
-Hank Linderman,U.S. House,2,,Hardin,Etown East,32,174,206,,
-Thomas A Loecken,U.S. House,2,,Hardin,Etown East,1,8,9,,
-Dennis L. Parrett,State Senate,10,,Hardin,Etown East,49,291,340,,
-,Straight Party,,REP,Hardin,Mantle,4,85,89,,
-,Straight Party,,DEM,Hardin,Mantle,2,103,105,,
-S Brett Guthrie,U.S. House,2,,Hardin,Mantle,6,220,226,,
-Hank Linderman,U.S. House,2,,Hardin,Mantle,6,170,176,,
-Thomas A Loecken,U.S. House,2,,Hardin,Mantle,1,9,10,,
-Dennis L. Parrett,State Senate,10,,Hardin,Mantle,6,286,292,,
-,Straight Party,,REP,Hardin,Freeman,34,154,188,,
-,Straight Party,,DEM,Hardin,Freeman,25,113,138,,
-S Brett Guthrie,U.S. House,2,,Hardin,Freeman,71,473,544,,
-Hank Linderman,U.S. House,2,,Hardin,Freeman,41,253,294,,
-Thomas A Loecken,U.S. House,2,,Hardin,Freeman,2,20,22,,
-Dennis L. Parrett,State Senate,10,,Hardin,Freeman,81,502,583,,
-,Straight Party,,REP,Hardin,Oaklawn,29,114,143,,
-,Straight Party,,DEM,Hardin,Oaklawn,25,100,125,,
-S Brett Guthrie,U.S. House,2,,Hardin,Oaklawn,66,356,422,,
-Hank Linderman,U.S. House,2,,Hardin,Oaklawn,37,206,243,,
-Thomas A Loecken,U.S. House,2,,Hardin,Oaklawn,3,10,13,,
-Dennis L. Parrett,State Senate,10,,Hardin,Oaklawn,74,388,462,,
-,Straight Party,,REP,Hardin,Pine Valley,11,225,236,,
-,Straight Party,,DEM,Hardin,Pine Valley,13,243,256,,
-S Brett Guthrie,U.S. House,2,,Hardin,Pine Valley,28,596,624,,
-Hank Linderman,U.S. House,2,,Hardin,Pine Valley,17,423,440,,
-Thomas A Loecken,U.S. House,2,,Hardin,Pine Valley,1,21,22,,
-Dennis L. Parrett,State Senate,10,,Hardin,Pine Valley,35,695,730,,
-,Straight Party,,REP,Hardin,Helmwood Heights,6,203,209,,
-,Straight Party,,DEM,Hardin,Helmwood Heights,4,201,205,,
-S Brett Guthrie,U.S. House,2,,Hardin,Helmwood Heights,11,522,533,,
-Hank Linderman,U.S. House,2,,Hardin,Helmwood Heights,7,361,368,,
-Thomas A Loecken,U.S. House,2,,Hardin,Helmwood Heights,1,17,18,,
-Dennis L. Parrett,State Senate,10,,Hardin,Helmwood Heights,13,609,622,,
-,Straight Party,,REP,Hardin,Helm,8,96,104,,
-,Straight Party,,DEM,Hardin,Helm,3,123,126,,
-S Brett Guthrie,U.S. House,2,,Hardin,Helm,9,177,186,,
-Hank Linderman,U.S. House,2,,Hardin,Helm,4,161,165,,
-Thomas A Loecken,U.S. House,2,,Hardin,Helm,0,6,6,,
-Dennis L. Parrett,State Senate,10,,Hardin,Helm,9,233,242,,
-,Straight Party,,REP,Hardin,Central,0,63,63,,
-,Straight Party,,DEM,Hardin,Central,4,66,70,,
-S Brett Guthrie,U.S. House,2,,Hardin,Central,2,206,208,,
-Hank Linderman,U.S. House,2,,Hardin,Central,6,145,151,,
-Thomas A Loecken,U.S. House,2,,Hardin,Central,0,6,6,,
-Dennis L. Parrett,State Senate,10,,Hardin,Central,8,289,297,,
-,Straight Party,,REP,Hardin,Etown North,7,77,84,,
-,Straight Party,,DEM,Hardin,Etown North,2,85,87,,
-S Brett Guthrie,U.S. House,2,,Hardin,Etown North,15,212,227,,
-Hank Linderman,U.S. House,2,,Hardin,Etown North,9,191,200,,
-Thomas A Loecken,U.S. House,2,,Hardin,Etown North,0,10,10,,
-Dennis L. Parrett,State Senate,10,,Hardin,Etown North,14,309,323,,
-,Straight Party,,REP,Hardin,Etown West,17,134,151,,
-,Straight Party,,DEM,Hardin,Etown West,23,122,145,,
-S Brett Guthrie,U.S. House,2,,Hardin,Etown West,76,472,548,,
-Hank Linderman,U.S. House,2,,Hardin,Etown West,42,264,306,,
-Thomas A Loecken,U.S. House,2,,Hardin,Etown West,1,13,14,,
-Dennis L. Parrett,State Senate,10,,Hardin,Etown West,100,521,621,,
-,Straight Party,,REP,Hardin,Valley Creek,10,52,62,,
-,Straight Party,,DEM,Hardin,Valley Creek,10,53,63,,
-S Brett Guthrie,U.S. House,2,,Hardin,Valley Creek,26,148,174,,
-Hank Linderman,U.S. House,2,,Hardin,Valley Creek,18,101,119,,
-Thomas A Loecken,U.S. House,2,,Hardin,Valley Creek,1,7,8,,
-Dennis L. Parrett,State Senate,10,,Hardin,Valley Creek,31,182,213,,
-,Straight Party,,REP,Hardin,Memorial,23,87,110,,
-,Straight Party,,DEM,Hardin,Memorial,16,100,116,,
-S Brett Guthrie,U.S. House,2,,Hardin,Memorial,62,260,322,,
-Hank Linderman,U.S. House,2,,Hardin,Memorial,36,174,210,,
-Thomas A Loecken,U.S. House,2,,Hardin,Memorial,0,11,11,,
-Dennis L. Parrett,State Senate,10,,Hardin,Memorial,80,328,408,,
-,Straight Party,,REP,Hardin,Van Meter City,15,42,57,,
-,Straight Party,,DEM,Hardin,Van Meter City,25,45,70,,
-S Brett Guthrie,U.S. House,2,,Hardin,Van Meter City,45,132,177,,
-Hank Linderman,U.S. House,2,,Hardin,Van Meter City,35,79,114,,
-Thomas A Loecken,U.S. House,2,,Hardin,Van Meter City,3,9,12,,
-Dennis L. Parrett,State Senate,10,,Hardin,Van Meter City,72,162,234,,
-,Straight Party,,REP,Hardin,Haycraft,16,64,80,,
-,Straight Party,,DEM,Hardin,Haycraft,26,142,168,,
-S Brett Guthrie,U.S. House,2,,Hardin,Haycraft,31,169,200,,
-Hank Linderman,U.S. House,2,,Hardin,Haycraft,39,211,250,,
-Thomas A Loecken,U.S. House,2,,Hardin,Haycraft,3,14,17,,
-Dennis L. Parrett,State Senate,10,,Hardin,Haycraft,57,311,368,,
-,Straight Party,,REP,Hardin,Van Meter,20,109,129,,
-,Straight Party,,DEM,Hardin,Van Meter,21,102,123,,
-S Brett Guthrie,U.S. House,2,,Hardin,Van Meter,63,342,405,,
-Hank Linderman,U.S. House,2,,Hardin,Van Meter,29,182,211,,
-Thomas A Loecken,U.S. House,2,,Hardin,Van Meter,1,17,18,,
-Dennis L. Parrett,State Senate,10,,Hardin,Van Meter,76,367,443,,
-,Straight Party,,REP,Hardin,Chelf,3,145,148,,
-,Straight Party,,DEM,Hardin,Chelf,0,66,66,,
-S Brett Guthrie,U.S. House,2,,Hardin,Chelf,14,424,438,,
-Hank Linderman,U.S. House,2,,Hardin,Chelf,0,131,131,,
-Thomas A Loecken,U.S. House,2,,Hardin,Chelf,0,9,9,,
-Dennis L. Parrett,State Senate,10,,Hardin,Chelf,6,359,365,,
-,Straight Party,,REP,Hardin,Country Club,33,181,214,,
-,Straight Party,,DEM,Hardin,Country Club,25,81,106,,
-S Brett Guthrie,U.S. House,2,,Hardin,Country Club,111,578,689,,
-Hank Linderman,U.S. House,2,,Hardin,Country Club,49,176,225,,
-Thomas A Loecken,U.S. House,2,,Hardin,Country Club,0,19,19,,
-Dennis L. Parrett,State Senate,10,,Hardin,Country Club,120,508,628,,
-,Straight Party,,REP,Hardin,Glendale,26,150,176,,
-,Straight Party,,DEM,Hardin,Glendale,12,94,106,,
-S Brett Guthrie,U.S. House,2,,Hardin,Glendale,80,474,554,,
-Hank Linderman,U.S. House,2,,Hardin,Glendale,26,195,221,,
-Thomas A Loecken,U.S. House,2,,Hardin,Glendale,3,22,25,,
-Dennis L. Parrett,State Senate,10,,Hardin,Glendale,68,447,515,,
-,Straight Party,,REP,Hardin,South Dixie,41,129,170,,
-,Straight Party,,DEM,Hardin,South Dixie,18,60,78,,
-S Brett Guthrie,U.S. House,2,,Hardin,South Dixie,73,365,438,,
-Hank Linderman,U.S. House,2,,Hardin,South Dixie,32,133,165,,
-Thomas A Loecken,U.S. House,2,,Hardin,South Dixie,2,7,9,,
-Dennis L. Parrett,State Senate,10,,Hardin,South Dixie,68,311,379,,
-,Straight Party,,REP,Hardin,Sonora,26,94,120,,
-,Straight Party,,DEM,Hardin,Sonora,14,60,74,,
-S Brett Guthrie,U.S. House,2,,Hardin,Sonora,81,295,376,,
-Hank Linderman,U.S. House,2,,Hardin,Sonora,27,122,149,,
-Thomas A Loecken,U.S. House,2,,Hardin,Sonora,2,14,16,,
-Dennis L. Parrett,State Senate,10,,Hardin,Sonora,87,311,398,,
-,Straight Party,,REP,Hardin,Upton,18,43,61,,
-,Straight Party,,DEM,Hardin,Upton,13,32,45,,
-S Brett Guthrie,U.S. House,2,,Hardin,Upton,76,147,223,,
-Hank Linderman,U.S. House,2,,Hardin,Upton,23,54,77,,
-Thomas A Loecken,U.S. House,2,,Hardin,Upton,4,9,13,,
-Dennis L. Parrett,State Senate,10,,Hardin,Upton,79,148,227,,
-,Straight Party,,REP,Hardin,Cash,9,20,29,,
-,Straight Party,,DEM,Hardin,Cash,3,6,9,,
-S Brett Guthrie,U.S. House,2,,Hardin,Cash,14,31,45,,
-Hank Linderman,U.S. House,2,,Hardin,Cash,3,6,9,,
-Thomas A Loecken,U.S. House,2,,Hardin,Cash,0,0,0,,
-Dennis L. Parrett,State Senate,10,,Hardin,Cash,9,17,26,,
-,Straight Party,,REP,Hardin,Eastview,36,56,92,,
-,Straight Party,,DEM,Hardin,Eastview,12,22,34,,
-S Brett Guthrie,U.S. House,2,,Hardin,Eastview,76,139,215,,
-Hank Linderman,U.S. House,2,,Hardin,Eastview,19,48,67,,
-Thomas A Loecken,U.S. House,2,,Hardin,Eastview,1,4,5,,
-Dennis L. Parrett,State Senate,10,,Hardin,Eastview,59,123,182,,
-,Straight Party,,REP,Hardin,Stephensburg,14,104,118,,
-,Straight Party,,DEM,Hardin,Stephensburg,8,35,43,,
-S Brett Guthrie,U.S. House,2,,Hardin,Stephensburg,48,265,313,,
-Hank Linderman,U.S. House,2,,Hardin,Stephensburg,20,77,97,,
-Thomas A Loecken,U.S. House,2,,Hardin,Stephensburg,1,5,6,,
-Dennis L. Parrett,State Senate,10,,Hardin,Stephensburg,53,218,271,,
-,Straight Party,,REP,Hardin,Meeting Creek,12,124,136,,
-,Straight Party,,DEM,Hardin,Meeting Creek,7,37,44,,
-S Brett Guthrie,U.S. House,2,,Hardin,Meeting Creek,22,246,268,,
-Hank Linderman,U.S. House,2,,Hardin,Meeting Creek,13,64,77,,
-Thomas A Loecken,U.S. House,2,,Hardin,Meeting Creek,1,7,8,,
-Dennis L. Parrett,State Senate,10,,Hardin,Meeting Creek,25,174,199,,
-,Straight Party,,REP,Hardin,White Mills,12,84,96,,
-,Straight Party,,DEM,Hardin,White Mills,4,42,46,,
-S Brett Guthrie,U.S. House,2,,Hardin,White Mills,56,224,280,,
-Hank Linderman,U.S. House,2,,Hardin,White Mills,14,73,87,,
-Thomas A Loecken,U.S. House,2,,Hardin,White Mills,1,9,10,,
-Dennis L. Parrett,State Senate,10,,Hardin,White Mills,50,201,251,,
-,Straight Party,,REP,Hardin,Cecilia,45,162,207,,
-,Straight Party,,DEM,Hardin,Cecilia,17,95,112,,
-S Brett Guthrie,U.S. House,2,,Hardin,Cecilia,109,516,625,,
-Hank Linderman,U.S. House,2,,Hardin,Cecilia,35,198,233,,
-Thomas A Loecken,U.S. House,2,,Hardin,Cecilia,4,23,27,,
-Dennis L. Parrett,State Senate,10,,Hardin,Cecilia,102,496,598,,
-,Straight Party,,REP,Hardin,St John,26,97,123,,
-,Straight Party,,DEM,Hardin,St John,10,54,64,,
-S Brett Guthrie,U.S. House,2,,Hardin,St John,57,318,375,,
-Hank Linderman,U.S. House,2,,Hardin,St John,22,102,124,,
-Thomas A Loecken,U.S. House,2,,Hardin,St John,1,7,8,,
-Dennis L. Parrett,State Senate,10,,Hardin,St John,55,294,349,,
-,Straight Party,,REP,Hardin,Howevalley,35,171,206,,
-,Straight Party,,DEM,Hardin,Howevalley,14,67,81,,
-S Brett Guthrie,U.S. House,2,,Hardin,Howevalley,66,424,490,,
-Hank Linderman,U.S. House,2,,Hardin,Howevalley,21,125,146,,
-Thomas A Loecken,U.S. House,2,,Hardin,Howevalley,4,10,14,,
-Dennis L. Parrett,State Senate,10,,Hardin,Howevalley,51,349,400,,
-,Straight Party,,REP,Hardin,Rineyville South,23,132,155,,
-,Straight Party,,DEM,Hardin,Rineyville South,11,80,91,,
-S Brett Guthrie,U.S. House,2,,Hardin,Rineyville South,42,319,361,,
-Hank Linderman,U.S. House,2,,Hardin,Rineyville South,20,140,160,,
-Thomas A Loecken,U.S. House,2,,Hardin,Rineyville South,5,17,22,,
-Dennis L. Parrett,State Senate,10,,Hardin,Rineyville South,45,291,336,,
-,Straight Party,,REP,Hardin,Rineyville North ,1,209,210,,
-,Straight Party,,DEM,Hardin,Rineyville North ,0,108,108,,
-S Brett Guthrie,U.S. House,2,,Hardin,Rineyville North ,3,469,472,,
-Hank Linderman,U.S. House,2,,Hardin,Rineyville North ,1,204,205,,
-Thomas A Loecken,U.S. House,2,,Hardin,Rineyville North ,0,18,18,,
-Dennis L. Parrett,State Senate,10,,Hardin,Rineyville North ,2,433,435,,
-,Straight Party,,REP,Hardin,Grandview,6,18,24,,
-,Straight Party,,DEM,Hardin,Grandview,0,11,11,,
-S Brett Guthrie,U.S. House,2,,Hardin,Grandview,8,30,38,,
-Hank Linderman,U.S. House,2,,Hardin,Grandview,0,14,14,,
-Thomas A Loecken,U.S. House,2,,Hardin,Grandview,0,0,0,,
-Dennis L. Parrett,State Senate,10,,Hardin,Grandview,4,23,27,,
-Josh Calloway,State Representative,10,,Hardin,Grandview,7,25,32,,
-Dean Schamore,State Representative,10,,Hardin,Grandview,1,19,20,,
-,Straight Party,,REP,Hardin,Rineyville West,21,202,223,,
-,Straight Party,,DEM,Hardin,Rineyville West,7,78,85,,
-S Brett Guthrie,U.S. House,2,,Hardin,Rineyville West,40,456,496,,
-Hank Linderman,U.S. House,2,,Hardin,Rineyville West,14,149,163,,
-Thomas A Loecken,U.S. House,2,,Hardin,Rineyville West,3,13,16,,
-Dennis L. Parrett,State Senate,10,,Hardin,Rineyville West,36,378,414,,
-,Straight Party,,REP,Hardin,Vine Grove East,10,220,230,,
-,Straight Party,,DEM,Hardin,Vine Grove East,31,263,294,,
-S Brett Guthrie,U.S. House,2,,Hardin,Vine Grove East,31,449,480,,
-Hank Linderman,U.S. House,2,,Hardin,Vine Grove East,42,410,452,,
-Thomas A Loecken,U.S. House,2,,Hardin,Vine Grove East,2,31,33,,
-Dennis L. Parrett,State Senate,10,,Hardin,Vine Grove East,62,600,662,,
-Josh Calloway,State Representative,10,,Hardin,Vine Grove East,27,446,473,,
-Dean Schamore,State Representative,10,,Hardin,Vine Grove East,50,448,498,,
-,Straight Party,,REP,Hardin,Vine Grove West ,31,134,165,,
-,Straight Party,,DEM,Hardin,Vine Grove West ,27,145,172,,
-S Brett Guthrie,U.S. House,2,,Hardin,Vine Grove West ,63,369,432,,
-Hank Linderman,U.S. House,2,,Hardin,Vine Grove West ,46,265,311,,
-Thomas A Loecken,U.S. House,2,,Hardin,Vine Grove West ,4,17,21,,
-Dennis L. Parrett,State Senate,10,,Hardin,Vine Grove West ,77,452,529,,
-Josh Calloway,State Representative,10,,Hardin,Vine Grove West ,61,321,382,,
-Dean Schamore,State Representative,10,,Hardin,Vine Grove West ,53,339,392,,
-,Straight Party,,REP,Hardin,Vine Grove South,34,195,229,,
-,Straight Party,,DEM,Hardin,Vine Grove South,19,86,105,,
-S Brett Guthrie,U.S. House,2,,Hardin,Vine Grove South,73,426,499,,
-Hank Linderman,U.S. House,2,,Hardin,Vine Grove South,33,142,175,,
-Thomas A Loecken,U.S. House,2,,Hardin,Vine Grove South,2,5,7,,
-Dennis L. Parrett,State Senate,10,,Hardin,Vine Grove South,69,289,358,,
-Josh Calloway,State Representative,10,,Hardin,Vine Grove South,71,394,465,,
-Dean Schamore,State Representative,10,,Hardin,Vine Grove South,39,177,216,,
-,Straight Party,,REP,Hardin,Yates,39,151,190,,
-,Straight Party,,DEM,Hardin,Yates,17,56,73,,
-S Brett Guthrie,U.S. House,2,,Hardin,Yates,82,294,376,,
-Hank Linderman,U.S. House,2,,Hardin,Yates,26,103,129,,
-Thomas A Loecken,U.S. House,2,,Hardin,Yates,1,7,8,,
-Dennis L. Parrett,State Senate,10,,Hardin,Yates,72,228,300,,
-Josh Calloway,State Representative,10,,Hardin,Yates,73,276,349,,
-Dean Schamore,State Representative,10,,Hardin,Yates,37,130,167,,
+county,precinct,office,district,party,candidate,votes
+Hardin,AB,U.S. House,2,REP,S. Brett GUTHRIE,1065
+Hardin,A001,U.S. House,2,REP,S. Brett GUTHRIE,160
+Hardin,A002,U.S. House,2,REP,S. Brett GUTHRIE,226
+Hardin,A003,U.S. House,2,REP,S. Brett GUTHRIE,109
+Hardin,A004,U.S. House,2,REP,S. Brett GUTHRIE,240
+Hardin,A005,U.S. House,2,REP,S. Brett GUTHRIE,243
+Hardin,A006,U.S. House,2,REP,S. Brett GUTHRIE,218
+Hardin,A007,U.S. House,2,REP,S. Brett GUTHRIE,29
+Hardin,A008,U.S. House,2,REP,S. Brett GUTHRIE,256
+Hardin,A009,U.S. House,2,REP,S. Brett GUTHRIE,106
+Hardin,A010,U.S. House,2,REP,S. Brett GUTHRIE,10
+Hardin,B001,U.S. House,2,REP,S. Brett GUTHRIE,173
+Hardin,B002,U.S. House,2,REP,S. Brett GUTHRIE,249
+Hardin,B003,U.S. House,2,REP,S. Brett GUTHRIE,316
+Hardin,B004,U.S. House,2,REP,S. Brett GUTHRIE,231
+Hardin,B005,U.S. House,2,REP,S. Brett GUTHRIE,252
+Hardin,B006,U.S. House,2,REP,S. Brett GUTHRIE,222
+Hardin,C001,U.S. House,2,REP,S. Brett GUTHRIE,360
+Hardin,C002,U.S. House,2,REP,S. Brett GUTHRIE,290
+Hardin,C003,U.S. House,2,REP,S. Brett GUTHRIE,477
+Hardin,C004,U.S. House,2,REP,S. Brett GUTHRIE,688
+Hardin,C005,U.S. House,2,REP,S. Brett GUTHRIE,330
+Hardin,C006,U.S. House,2,REP,S. Brett GUTHRIE,513
+Hardin,C007,U.S. House,2,REP,S. Brett GUTHRIE,216
+Hardin,D001,U.S. House,2,REP,S. Brett GUTHRIE,226
+Hardin,D002,U.S. House,2,REP,S. Brett GUTHRIE,544
+Hardin,D003,U.S. House,2,REP,S. Brett GUTHRIE,422
+Hardin,D004,U.S. House,2,REP,S. Brett GUTHRIE,624
+Hardin,D005,U.S. House,2,REP,S. Brett GUTHRIE,533
+Hardin,D006,U.S. House,2,REP,S. Brett GUTHRIE,186
+Hardin,E001,U.S. House,2,REP,S. Brett GUTHRIE,208
+Hardin,E002,U.S. House,2,REP,S. Brett GUTHRIE,227
+Hardin,E003,U.S. House,2,REP,S. Brett GUTHRIE,548
+Hardin,E004,U.S. House,2,REP,S. Brett GUTHRIE,174
+Hardin,E005,U.S. House,2,REP,S. Brett GUTHRIE,322
+Hardin,E006,U.S. House,2,REP,S. Brett GUTHRIE,177
+Hardin,E007,U.S. House,2,REP,S. Brett GUTHRIE,200
+Hardin,F001,U.S. House,2,REP,S. Brett GUTHRIE,405
+Hardin,F002,U.S. House,2,REP,S. Brett GUTHRIE,438
+Hardin,F003,U.S. House,2,REP,S. Brett GUTHRIE,689
+Hardin,F004,U.S. House,2,REP,S. Brett GUTHRIE,554
+Hardin,F005,U.S. House,2,REP,S. Brett GUTHRIE,438
+Hardin,F006,U.S. House,2,REP,S. Brett GUTHRIE,376
+Hardin,F007,U.S. House,2,REP,S. Brett GUTHRIE,223
+Hardin,F008,U.S. House,2,REP,S. Brett GUTHRIE,45
+Hardin,G001,U.S. House,2,REP,S. Brett GUTHRIE,215
+Hardin,G002,U.S. House,2,REP,S. Brett GUTHRIE,313
+Hardin,G003,U.S. House,2,REP,S. Brett GUTHRIE,268
+Hardin,G004,U.S. House,2,REP,S. Brett GUTHRIE,280
+Hardin,G006,U.S. House,2,REP,S. Brett GUTHRIE,625
+Hardin,G007,U.S. House,2,REP,S. Brett GUTHRIE,375
+Hardin,G008,U.S. House,2,REP,S. Brett GUTHRIE,490
+Hardin,G009,U.S. House,2,REP,S. Brett GUTHRIE,361
+Hardin,H001,U.S. House,2,REP,S. Brett GUTHRIE,472
+Hardin,H003,U.S. House,2,REP,S. Brett GUTHRIE,38
+Hardin,H004,U.S. House,2,REP,S. Brett GUTHRIE,496
+Hardin,H005,U.S. House,2,REP,S. Brett GUTHRIE,480
+Hardin,H006,U.S. House,2,REP,S. Brett GUTHRIE,432
+Hardin,H007,U.S. House,2,REP,S. Brett GUTHRIE,499
+Hardin,H008,U.S. House,2,REP,S. Brett GUTHRIE,376
+Hardin,AB,U.S. House,2,DEM,Hank LINDERMAN,561
+Hardin,A001,U.S. House,2,DEM,Hank LINDERMAN,80
+Hardin,A002,U.S. House,2,DEM,Hank LINDERMAN,217
+Hardin,A003,U.S. House,2,DEM,Hank LINDERMAN,150
+Hardin,A004,U.S. House,2,DEM,Hank LINDERMAN,267
+Hardin,A005,U.S. House,2,DEM,Hank LINDERMAN,228
+Hardin,A006,U.S. House,2,DEM,Hank LINDERMAN,290
+Hardin,A007,U.S. House,2,DEM,Hank LINDERMAN,54
+Hardin,A008,U.S. House,2,DEM,Hank LINDERMAN,216
+Hardin,A009,U.S. House,2,DEM,Hank LINDERMAN,103
+Hardin,A010,U.S. House,2,DEM,Hank LINDERMAN,12
+Hardin,B001,U.S. House,2,DEM,Hank LINDERMAN,106
+Hardin,B002,U.S. House,2,DEM,Hank LINDERMAN,330
+Hardin,B003,U.S. House,2,DEM,Hank LINDERMAN,420
+Hardin,B004,U.S. House,2,DEM,Hank LINDERMAN,297
+Hardin,B005,U.S. House,2,DEM,Hank LINDERMAN,129
+Hardin,B006,U.S. House,2,DEM,Hank LINDERMAN,256
+Hardin,C001,U.S. House,2,DEM,Hank LINDERMAN,150
+Hardin,C002,U.S. House,2,DEM,Hank LINDERMAN,285
+Hardin,C003,U.S. House,2,DEM,Hank LINDERMAN,165
+Hardin,C004,U.S. House,2,DEM,Hank LINDERMAN,272
+Hardin,C005,U.S. House,2,DEM,Hank LINDERMAN,138
+Hardin,C006,U.S. House,2,DEM,Hank LINDERMAN,251
+Hardin,C007,U.S. House,2,DEM,Hank LINDERMAN,206
+Hardin,D001,U.S. House,2,DEM,Hank LINDERMAN,176
+Hardin,D002,U.S. House,2,DEM,Hank LINDERMAN,294
+Hardin,D003,U.S. House,2,DEM,Hank LINDERMAN,243
+Hardin,D004,U.S. House,2,DEM,Hank LINDERMAN,440
+Hardin,D005,U.S. House,2,DEM,Hank LINDERMAN,368
+Hardin,D006,U.S. House,2,DEM,Hank LINDERMAN,165
+Hardin,E001,U.S. House,2,DEM,Hank LINDERMAN,171
+Hardin,E002,U.S. House,2,DEM,Hank LINDERMAN,200
+Hardin,E003,U.S. House,2,DEM,Hank LINDERMAN,306
+Hardin,E004,U.S. House,2,DEM,Hank LINDERMAN,119
+Hardin,E005,U.S. House,2,DEM,Hank LINDERMAN,210
+Hardin,E006,U.S. House,2,DEM,Hank LINDERMAN,114
+Hardin,E007,U.S. House,2,DEM,Hank LINDERMAN,250
+Hardin,F001,U.S. House,2,DEM,Hank LINDERMAN,211
+Hardin,F002,U.S. House,2,DEM,Hank LINDERMAN,131
+Hardin,F003,U.S. House,2,DEM,Hank LINDERMAN,225
+Hardin,F004,U.S. House,2,DEM,Hank LINDERMAN,221
+Hardin,F005,U.S. House,2,DEM,Hank LINDERMAN,165
+Hardin,F006,U.S. House,2,DEM,Hank LINDERMAN,149
+Hardin,F007,U.S. House,2,DEM,Hank LINDERMAN,77
+Hardin,F008,U.S. House,2,DEM,Hank LINDERMAN,9
+Hardin,G001,U.S. House,2,DEM,Hank LINDERMAN,67
+Hardin,G002,U.S. House,2,DEM,Hank LINDERMAN,97
+Hardin,G003,U.S. House,2,DEM,Hank LINDERMAN,77
+Hardin,G004,U.S. House,2,DEM,Hank LINDERMAN,87
+Hardin,G006,U.S. House,2,DEM,Hank LINDERMAN,233
+Hardin,G007,U.S. House,2,DEM,Hank LINDERMAN,124
+Hardin,G008,U.S. House,2,DEM,Hank LINDERMAN,146
+Hardin,G009,U.S. House,2,DEM,Hank LINDERMAN,160
+Hardin,H001,U.S. House,2,DEM,Hank LINDERMAN,205
+Hardin,H003,U.S. House,2,DEM,Hank LINDERMAN,14
+Hardin,H004,U.S. House,2,DEM,Hank LINDERMAN,183
+Hardin,H005,U.S. House,2,DEM,Hank LINDERMAN,452
+Hardin,H006,U.S. House,2,DEM,Hank LINDERMAN,311
+Hardin,H007,U.S. House,2,DEM,Hank LINDERMAN,175
+Hardin,H008,U.S. House,2,DEM,Hank LINDERMAN,129
+Hardin,AB,U.S. House,2,IND,Thomas A. LOECKEN,26
+Hardin,A001,U.S. House,2,IND,Thomas A. LOECKEN,4
+Hardin,A002,U.S. House,2,IND,Thomas A. LOECKEN,21
+Hardin,A003,U.S. House,2,IND,Thomas A. LOECKEN,9
+Hardin,A004,U.S. House,2,IND,Thomas A. LOECKEN,14
+Hardin,A005,U.S. House,2,IND,Thomas A. LOECKEN,14
+Hardin,A006,U.S. House,2,IND,Thomas A. LOECKEN,25
+Hardin,A007,U.S. House,2,IND,Thomas A. LOECKEN,3
+Hardin,A008,U.S. House,2,IND,Thomas A. LOECKEN,22
+Hardin,A009,U.S. House,2,IND,Thomas A. LOECKEN,7
+Hardin,A010,U.S. House,2,IND,Thomas A. LOECKEN,1
+Hardin,B001,U.S. House,2,IND,Thomas A. LOECKEN,15
+Hardin,B002,U.S. House,2,IND,Thomas A. LOECKEN,16
+Hardin,B003,U.S. House,2,IND,Thomas A. LOECKEN,23
+Hardin,B004,U.S. House,2,IND,Thomas A. LOECKEN,23
+Hardin,B005,U.S. House,2,IND,Thomas A. LOECKEN,11
+Hardin,B006,U.S. House,2,IND,Thomas A. LOECKEN,13
+Hardin,C001,U.S. House,2,IND,Thomas A. LOECKEN,9
+Hardin,C002,U.S. House,2,IND,Thomas A. LOECKEN,18
+Hardin,C003,U.S. House,2,IND,Thomas A. LOECKEN,22
+Hardin,C004,U.S. House,2,IND,Thomas A. LOECKEN,19
+Hardin,C005,U.S. House,2,IND,Thomas A. LOECKEN,14
+Hardin,C006,U.S. House,2,IND,Thomas A. LOECKEN,16
+Hardin,C007,U.S. House,2,IND,Thomas A. LOECKEN,9
+Hardin,D001,U.S. House,2,IND,Thomas A. LOECKEN,10
+Hardin,D002,U.S. House,2,IND,Thomas A. LOECKEN,22
+Hardin,D003,U.S. House,2,IND,Thomas A. LOECKEN,13
+Hardin,D004,U.S. House,2,IND,Thomas A. LOECKEN,22
+Hardin,D005,U.S. House,2,IND,Thomas A. LOECKEN,18
+Hardin,D006,U.S. House,2,IND,Thomas A. LOECKEN,6
+Hardin,E001,U.S. House,2,IND,Thomas A. LOECKEN,6
+Hardin,E002,U.S. House,2,IND,Thomas A. LOECKEN,10
+Hardin,E003,U.S. House,2,IND,Thomas A. LOECKEN,14
+Hardin,E004,U.S. House,2,IND,Thomas A. LOECKEN,8
+Hardin,E005,U.S. House,2,IND,Thomas A. LOECKEN,11
+Hardin,E006,U.S. House,2,IND,Thomas A. LOECKEN,12
+Hardin,E007,U.S. House,2,IND,Thomas A. LOECKEN,17
+Hardin,F001,U.S. House,2,IND,Thomas A. LOECKEN,18
+Hardin,F002,U.S. House,2,IND,Thomas A. LOECKEN,9
+Hardin,F003,U.S. House,2,IND,Thomas A. LOECKEN,19
+Hardin,F004,U.S. House,2,IND,Thomas A. LOECKEN,25
+Hardin,F005,U.S. House,2,IND,Thomas A. LOECKEN,9
+Hardin,F006,U.S. House,2,IND,Thomas A. LOECKEN,16
+Hardin,F007,U.S. House,2,IND,Thomas A. LOECKEN,13
+Hardin,F008,U.S. House,2,IND,Thomas A. LOECKEN,0
+Hardin,G001,U.S. House,2,IND,Thomas A. LOECKEN,5
+Hardin,G002,U.S. House,2,IND,Thomas A. LOECKEN,6
+Hardin,G003,U.S. House,2,IND,Thomas A. LOECKEN,8
+Hardin,G004,U.S. House,2,IND,Thomas A. LOECKEN,10
+Hardin,G006,U.S. House,2,IND,Thomas A. LOECKEN,27
+Hardin,G007,U.S. House,2,IND,Thomas A. LOECKEN,8
+Hardin,G008,U.S. House,2,IND,Thomas A. LOECKEN,14
+Hardin,G009,U.S. House,2,IND,Thomas A. LOECKEN,22
+Hardin,H001,U.S. House,2,IND,Thomas A. LOECKEN,18
+Hardin,H003,U.S. House,2,IND,Thomas A. LOECKEN,0
+Hardin,H004,U.S. House,2,IND,Thomas A. LOECKEN,16
+Hardin,H005,U.S. House,2,IND,Thomas A. LOECKEN,33
+Hardin,H006,U.S. House,2,IND,Thomas A. LOECKEN,21
+Hardin,H007,U.S. House,2,IND,Thomas A. LOECKEN,7
+Hardin,H008,U.S. House,2,IND,Thomas A. LOECKEN,8
+Hardin,AB,State Senate,10,DEM,Dennis L. PARRETT,1081
+Hardin,A001,State Senate,10,DEM,Dennis L. PARRETT,143
+Hardin,A002,State Senate,10,DEM,Dennis L. PARRETT,312
+Hardin,A003,State Senate,10,DEM,Dennis L. PARRETT,199
+Hardin,A004,State Senate,10,DEM,Dennis L. PARRETT,377
+Hardin,A005,State Senate,10,DEM,Dennis L. PARRETT,316
+Hardin,A006,State Senate,10,DEM,Dennis L. PARRETT,390
+Hardin,A007,State Senate,10,DEM,Dennis L. PARRETT,66
+Hardin,A008,State Senate,10,DEM,Dennis L. PARRETT,338
+Hardin,A009,State Senate,10,DEM,Dennis L. PARRETT,145
+Hardin,A010,State Senate,10,DEM,Dennis L. PARRETT,16
+Hardin,B001,State Senate,10,DEM,Dennis L. PARRETT,194
+Hardin,B002,State Senate,10,DEM,Dennis L. PARRETT,432
+Hardin,B003,State Senate,10,DEM,Dennis L. PARRETT,577
+Hardin,B004,State Senate,10,DEM,Dennis L. PARRETT,410
+Hardin,B005,State Senate,10,DEM,Dennis L. PARRETT,259
+Hardin,B006,State Senate,10,DEM,Dennis L. PARRETT,359
+Hardin,C001,State Senate,10,DEM,Dennis L. PARRETT,355
+Hardin,C002,State Senate,10,DEM,Dennis L. PARRETT,460
+Hardin,C003,State Senate,10,DEM,Dennis L. PARRETT,355
+Hardin,C004,State Senate,10,DEM,Dennis L. PARRETT,610
+Hardin,C005,State Senate,10,DEM,Dennis L. PARRETT,331
+Hardin,C006,State Senate,10,DEM,Dennis L. PARRETT,515
+Hardin,C007,State Senate,10,DEM,Dennis L. PARRETT,340
+Hardin,D001,State Senate,10,DEM,Dennis L. PARRETT,292
+Hardin,D002,State Senate,10,DEM,Dennis L. PARRETT,583
+Hardin,D003,State Senate,10,DEM,Dennis L. PARRETT,462
+Hardin,D004,State Senate,10,DEM,Dennis L. PARRETT,730
+Hardin,D005,State Senate,10,DEM,Dennis L. PARRETT,622
+Hardin,D006,State Senate,10,DEM,Dennis L. PARRETT,242
+Hardin,E001,State Senate,10,DEM,Dennis L. PARRETT,297
+Hardin,E002,State Senate,10,DEM,Dennis L. PARRETT,323
+Hardin,E003,State Senate,10,DEM,Dennis L. PARRETT,621
+Hardin,E004,State Senate,10,DEM,Dennis L. PARRETT,213
+Hardin,E005,State Senate,10,DEM,Dennis L. PARRETT,408
+Hardin,E006,State Senate,10,DEM,Dennis L. PARRETT,234
+Hardin,E007,State Senate,10,DEM,Dennis L. PARRETT,368
+Hardin,F001,State Senate,10,DEM,Dennis L. PARRETT,443
+Hardin,F002,State Senate,10,DEM,Dennis L. PARRETT,365
+Hardin,F003,State Senate,10,DEM,Dennis L. PARRETT,628
+Hardin,F004,State Senate,10,DEM,Dennis L. PARRETT,515
+Hardin,F005,State Senate,10,DEM,Dennis L. PARRETT,379
+Hardin,F006,State Senate,10,DEM,Dennis L. PARRETT,398
+Hardin,F007,State Senate,10,DEM,Dennis L. PARRETT,227
+Hardin,F008,State Senate,10,DEM,Dennis L. PARRETT,26
+Hardin,G001,State Senate,10,DEM,Dennis L. PARRETT,182
+Hardin,G002,State Senate,10,DEM,Dennis L. PARRETT,271
+Hardin,G003,State Senate,10,DEM,Dennis L. PARRETT,199
+Hardin,G004,State Senate,10,DEM,Dennis L. PARRETT,251
+Hardin,G006,State Senate,10,DEM,Dennis L. PARRETT,598
+Hardin,G007,State Senate,10,DEM,Dennis L. PARRETT,349
+Hardin,G008,State Senate,10,DEM,Dennis L. PARRETT,400
+Hardin,G009,State Senate,10,DEM,Dennis L. PARRETT,336
+Hardin,H001,State Senate,10,DEM,Dennis L. PARRETT,435
+Hardin,H003,State Senate,10,DEM,Dennis L. PARRETT,27
+Hardin,H004,State Senate,10,DEM,Dennis L. PARRETT,414
+Hardin,H005,State Senate,10,DEM,Dennis L. PARRETT,662
+Hardin,H006,State Senate,10,DEM,Dennis L. PARRETT,529
+Hardin,H007,State Senate,10,DEM,Dennis L. PARRETT,358
+Hardin,H008,State Senate,10,DEM,Dennis L. PARRETT,300
+Hardin,AB,State Representative,10,REP,Josh CALLOWAY,113
+Hardin,A007,State Representative,10,REP,Josh CALLOWAY,31
+Hardin,A008,State Representative,10,REP,Josh CALLOWAY,245
+Hardin,B002,State Representative,10,REP,Josh CALLOWAY,241
+Hardin,B004,State Representative,10,REP,Josh CALLOWAY,218
+Hardin,H003,State Representative,10,REP,Josh CALLOWAY,32
+Hardin,H005,State Representative,10,REP,Josh CALLOWAY,473
+Hardin,H006,State Representative,10,REP,Josh CALLOWAY,382
+Hardin,H007,State Representative,10,REP,Josh CALLOWAY,465
+Hardin,H008,State Representative,10,REP,Josh CALLOWAY,349
+Hardin,AB,State Representative,10,DEM,Dean SCHAMORE,99
+Hardin,A007,State Representative,10,DEM,Dean SCHAMORE,56
+Hardin,A008,State Representative,10,DEM,Dean SCHAMORE,248
+Hardin,B002,State Representative,10,DEM,Dean SCHAMORE,350
+Hardin,B004,State Representative,10,DEM,Dean SCHAMORE,331
+Hardin,H003,State Representative,10,DEM,Dean SCHAMORE,20
+Hardin,H005,State Representative,10,DEM,Dean SCHAMORE,498
+Hardin,H006,State Representative,10,DEM,Dean SCHAMORE,392
+Hardin,H007,State Representative,10,DEM,Dean SCHAMORE,216
+Hardin,H008,State Representative,10,DEM,Dean SCHAMORE,167
+Hardin,AB,State Representative,18,REP,Tim MOORE,210
+Hardin,C004,State Representative,18,REP,Tim MOORE,661
+Hardin,D003,State Representative,18,REP,Tim MOORE,399
+Hardin,D004,State Representative,18,REP,Tim MOORE,603
+Hardin,G002,State Representative,18,REP,Tim MOORE,306
+Hardin,G003,State Representative,18,REP,Tim MOORE,265
+Hardin,G008,State Representative,18,REP,Tim MOORE,479
+Hardin,G009,State Representative,18,REP,Tim MOORE,352
+Hardin,H001,State Representative,18,REP,Tim MOORE,466
+Hardin,H004,State Representative,18,REP,Tim MOORE,481
+Hardin,AB,State Representative,18,DEM,Donielle M. LOVELL,135
+Hardin,C004,State Representative,18,DEM,Donielle M. LOVELL,318
+Hardin,D003,State Representative,18,DEM,Donielle M. LOVELL,282
+Hardin,D004,State Representative,18,DEM,Donielle M. LOVELL,488
+Hardin,G002,State Representative,18,DEM,Donielle M. LOVELL,114
+Hardin,G003,State Representative,18,DEM,Donielle M. LOVELL,93
+Hardin,G008,State Representative,18,DEM,Donielle M. LOVELL,168
+Hardin,G009,State Representative,18,DEM,Donielle M. LOVELL,191
+Hardin,H001,State Representative,18,DEM,Donielle M. LOVELL,229
+Hardin,H004,State Representative,18,DEM,Donielle M. LOVELL,213
+Hardin,AB,State Representative,21,REP,Bart ROWLAND,10
+Hardin,F008,State Representative,21,REP,Bart ROWLAND,43
+Hardin,G001,State Representative,21,REP,Bart ROWLAND,192
+Hardin,G004,State Representative,21,REP,Bart ROWLAND,257
+Hardin,AB,State Representative,21,DEM,Jarrett COX,4
+Hardin,F008,State Representative,21,DEM,Jarrett COX,10
+Hardin,G001,State Representative,21,DEM,Jarrett COX,86
+Hardin,G004,State Representative,21,DEM,Jarrett COX,105
+Hardin,AB,State Representative,25,REP,Jim DuPLESSIS,527
+Hardin,C001,State Representative,25,REP,Jim DuPLESSIS,339
+Hardin,C002,State Representative,25,REP,Jim DuPLESSIS,272
+Hardin,C005,State Representative,25,REP,Jim DuPLESSIS,321
+Hardin,C006,State Representative,25,REP,Jim DuPLESSIS,479
+Hardin,C007,State Representative,25,REP,Jim DuPLESSIS,205
+Hardin,D001,State Representative,25,REP,Jim DuPLESSIS,222
+Hardin,D002,State Representative,25,REP,Jim DuPLESSIS,519
+Hardin,D005,State Representative,25,REP,Jim DuPLESSIS,506
+Hardin,E001,State Representative,25,REP,Jim DuPLESSIS,187
+Hardin,E002,State Representative,25,REP,Jim DuPLESSIS,225
+Hardin,E003,State Representative,25,REP,Jim DuPLESSIS,519
+Hardin,E004,State Representative,25,REP,Jim DuPLESSIS,167
+Hardin,E005,State Representative,25,REP,Jim DuPLESSIS,303
+Hardin,E006,State Representative,25,REP,Jim DuPLESSIS,159
+Hardin,E007,State Representative,25,REP,Jim DuPLESSIS,204
+Hardin,F001,State Representative,25,REP,Jim DuPLESSIS,361
+Hardin,F002,State Representative,25,REP,Jim DuPLESSIS,404
+Hardin,F003,State Representative,25,REP,Jim DuPLESSIS,624
+Hardin,F004,State Representative,25,REP,Jim DuPLESSIS,498
+Hardin,F005,State Representative,25,REP,Jim DuPLESSIS,416
+Hardin,F006,State Representative,25,REP,Jim DuPLESSIS,341
+Hardin,F007,State Representative,25,REP,Jim DuPLESSIS,194
+Hardin,G006,State Representative,25,REP,Jim DuPLESSIS,561
+Hardin,G007,State Representative,25,REP,Jim DuPLESSIS,336
+Hardin,AB,State Representative,25,DEM,Tom WILLIAMSON,318
+Hardin,C001,State Representative,25,DEM,Tom WILLIAMSON,187
+Hardin,C002,State Representative,25,DEM,Tom WILLIAMSON,322
+Hardin,C005,State Representative,25,DEM,Tom WILLIAMSON,167
+Hardin,C006,State Representative,25,DEM,Tom WILLIAMSON,302
+Hardin,C007,State Representative,25,DEM,Tom WILLIAMSON,228
+Hardin,D001,State Representative,25,DEM,Tom WILLIAMSON,192
+Hardin,D002,State Representative,25,DEM,Tom WILLIAMSON,349
+Hardin,D005,State Representative,25,DEM,Tom WILLIAMSON,417
+Hardin,E001,State Representative,25,DEM,Tom WILLIAMSON,207
+Hardin,E002,State Representative,25,DEM,Tom WILLIAMSON,213
+Hardin,E003,State Representative,25,DEM,Tom WILLIAMSON,354
+Hardin,E004,State Representative,25,DEM,Tom WILLIAMSON,136
+Hardin,E005,State Representative,25,DEM,Tom WILLIAMSON,246
+Hardin,E006,State Representative,25,DEM,Tom WILLIAMSON,149
+Hardin,E007,State Representative,25,DEM,Tom WILLIAMSON,273
+Hardin,F001,State Representative,25,DEM,Tom WILLIAMSON,273
+Hardin,F002,State Representative,25,DEM,Tom WILLIAMSON,185
+Hardin,F003,State Representative,25,DEM,Tom WILLIAMSON,318
+Hardin,F004,State Representative,25,DEM,Tom WILLIAMSON,310
+Hardin,F005,State Representative,25,DEM,Tom WILLIAMSON,204
+Hardin,F006,State Representative,25,DEM,Tom WILLIAMSON,209
+Hardin,F007,State Representative,25,DEM,Tom WILLIAMSON,124
+Hardin,G006,State Representative,25,DEM,Tom WILLIAMSON,333
+Hardin,G007,State Representative,25,DEM,Tom WILLIAMSON,175
+Hardin,AB,State Representative,26,REP,Russell WEBBER,70
+Hardin,A009,State Representative,26,REP,Russell WEBBER,136
+Hardin,B003,State Representative,26,REP,Russell WEBBER,444
+Hardin,B005,State Representative,26,REP,Russell WEBBER,288
+Hardin,C003,State Representative,26,REP,Russell WEBBER,502
+Hardin,D006,State Representative,26,REP,Russell WEBBER,220
+Hardin,AB,State Representative,27,REP,Nancy K. TATE,76
+Hardin,A001,State Representative,27,REP,Nancy K. TATE,140
+Hardin,A002,State Representative,27,REP,Nancy K. TATE,225
+Hardin,A003,State Representative,27,REP,Nancy K. TATE,115
+Hardin,A004,State Representative,27,REP,Nancy K. TATE,211
+Hardin,A005,State Representative,27,REP,Nancy K. TATE,237
+Hardin,A006,State Representative,27,REP,Nancy K. TATE,232
+Hardin,A010,State Representative,27,REP,Nancy K. TATE,11
+Hardin,B001,State Representative,27,REP,Nancy K. TATE,171
+Hardin,B006,State Representative,27,REP,Nancy K. TATE,219
+Hardin,AB,State Representative,27,DEM,Jeff GREER,70
+Hardin,A001,State Representative,27,DEM,Jeff GREER,112
+Hardin,A002,State Representative,27,DEM,Jeff GREER,243
+Hardin,A003,State Representative,27,DEM,Jeff GREER,154
+Hardin,A004,State Representative,27,DEM,Jeff GREER,307
+Hardin,A005,State Representative,27,DEM,Jeff GREER,250
+Hardin,A006,State Representative,27,DEM,Jeff GREER,306
+Hardin,A010,State Representative,27,DEM,Jeff GREER,12
+Hardin,B001,State Representative,27,DEM,Jeff GREER,124
+Hardin,B006,State Representative,27,DEM,Jeff GREER,273
+Hardin,AB,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,1007
+Hardin,A001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,147
+Hardin,A002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,315
+Hardin,A003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,199
+Hardin,A004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,380
+Hardin,A005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,321
+Hardin,A006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,394
+Hardin,A007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,69
+Hardin,A008,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,340
+Hardin,A009,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,143
+Hardin,A010,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,16
+Hardin,B001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,199
+Hardin,B002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,438
+Hardin,B003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,573
+Hardin,B004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,410
+Hardin,B005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,249
+Hardin,B006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,356
+Hardin,C001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,354
+Hardin,C002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,444
+Hardin,C003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,336
+Hardin,C004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,572
+Hardin,C005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,307
+Hardin,C006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,494
+Hardin,C007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,341
+Hardin,D001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,296
+Hardin,D002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,558
+Hardin,D003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,444
+Hardin,D004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,708
+Hardin,D005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,602
+Hardin,D006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,235
+Hardin,E001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,278
+Hardin,E002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,323
+Hardin,E003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,592
+Hardin,E004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,214
+Hardin,E005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,387
+Hardin,E006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,224
+Hardin,E007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,379
+Hardin,F001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,428
+Hardin,F002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,355
+Hardin,F003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,620
+Hardin,F004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,482
+Hardin,F005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,376
+Hardin,F006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,368
+Hardin,F007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,210
+Hardin,F008,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,23
+Hardin,G001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,165
+Hardin,G002,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,248
+Hardin,G003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,180
+Hardin,G004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,233
+Hardin,G006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,568
+Hardin,G007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,332
+Hardin,G008,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,390
+Hardin,G009,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,328
+Hardin,H001,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,428
+Hardin,H003,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,27
+Hardin,H004,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,408
+Hardin,H005,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,677
+Hardin,H006,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,514
+Hardin,H007,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,354
+Hardin,H008,COMMONWEALTH'S ATTORNEY 9th Judicial Circuit,,DEM,Shane YOUNG,279
+Hardin,AB,CIRCUIT CLERK,,DEM,Loretta CRADY,1048
+Hardin,A001,CIRCUIT CLERK,,DEM,Loretta CRADY,149
+Hardin,A002,CIRCUIT CLERK,,DEM,Loretta CRADY,322
+Hardin,A003,CIRCUIT CLERK,,DEM,Loretta CRADY,203
+Hardin,A004,CIRCUIT CLERK,,DEM,Loretta CRADY,390
+Hardin,A005,CIRCUIT CLERK,,DEM,Loretta CRADY,321
+Hardin,A006,CIRCUIT CLERK,,DEM,Loretta CRADY,398
+Hardin,A007,CIRCUIT CLERK,,DEM,Loretta CRADY,69
+Hardin,A008,CIRCUIT CLERK,,DEM,Loretta CRADY,346
+Hardin,A009,CIRCUIT CLERK,,DEM,Loretta CRADY,145
+Hardin,A010,CIRCUIT CLERK,,DEM,Loretta CRADY,16
+Hardin,B001,CIRCUIT CLERK,,DEM,Loretta CRADY,200
+Hardin,B002,CIRCUIT CLERK,,DEM,Loretta CRADY,446
+Hardin,B003,CIRCUIT CLERK,,DEM,Loretta CRADY,576
+Hardin,B004,CIRCUIT CLERK,,DEM,Loretta CRADY,415
+Hardin,B005,CIRCUIT CLERK,,DEM,Loretta CRADY,257
+Hardin,B006,CIRCUIT CLERK,,DEM,Loretta CRADY,361
+Hardin,C001,CIRCUIT CLERK,,DEM,Loretta CRADY,359
+Hardin,C002,CIRCUIT CLERK,,DEM,Loretta CRADY,451
+Hardin,C003,CIRCUIT CLERK,,DEM,Loretta CRADY,370
+Hardin,C004,CIRCUIT CLERK,,DEM,Loretta CRADY,603
+Hardin,C005,CIRCUIT CLERK,,DEM,Loretta CRADY,319
+Hardin,C006,CIRCUIT CLERK,,DEM,Loretta CRADY,505
+Hardin,C007,CIRCUIT CLERK,,DEM,Loretta CRADY,342
+Hardin,D001,CIRCUIT CLERK,,DEM,Loretta CRADY,305
+Hardin,D002,CIRCUIT CLERK,,DEM,Loretta CRADY,570
+Hardin,D003,CIRCUIT CLERK,,DEM,Loretta CRADY,463
+Hardin,D004,CIRCUIT CLERK,,DEM,Loretta CRADY,714
+Hardin,D005,CIRCUIT CLERK,,DEM,Loretta CRADY,612
+Hardin,D006,CIRCUIT CLERK,,DEM,Loretta CRADY,241
+Hardin,E001,CIRCUIT CLERK,,DEM,Loretta CRADY,286
+Hardin,E002,CIRCUIT CLERK,,DEM,Loretta CRADY,327
+Hardin,E003,CIRCUIT CLERK,,DEM,Loretta CRADY,617
+Hardin,E004,CIRCUIT CLERK,,DEM,Loretta CRADY,215
+Hardin,E005,CIRCUIT CLERK,,DEM,Loretta CRADY,402
+Hardin,E006,CIRCUIT CLERK,,DEM,Loretta CRADY,234
+Hardin,E007,CIRCUIT CLERK,,DEM,Loretta CRADY,379
+Hardin,F001,CIRCUIT CLERK,,DEM,Loretta CRADY,443
+Hardin,F002,CIRCUIT CLERK,,DEM,Loretta CRADY,369
+Hardin,F003,CIRCUIT CLERK,,DEM,Loretta CRADY,632
+Hardin,F004,CIRCUIT CLERK,,DEM,Loretta CRADY,512
+Hardin,F005,CIRCUIT CLERK,,DEM,Loretta CRADY,385
+Hardin,F006,CIRCUIT CLERK,,DEM,Loretta CRADY,389
+Hardin,F007,CIRCUIT CLERK,,DEM,Loretta CRADY,220
+Hardin,F008,CIRCUIT CLERK,,DEM,Loretta CRADY,24
+Hardin,G001,CIRCUIT CLERK,,DEM,Loretta CRADY,167
+Hardin,G002,CIRCUIT CLERK,,DEM,Loretta CRADY,245
+Hardin,G003,CIRCUIT CLERK,,DEM,Loretta CRADY,187
+Hardin,G004,CIRCUIT CLERK,,DEM,Loretta CRADY,242
+Hardin,G006,CIRCUIT CLERK,,DEM,Loretta CRADY,576
+Hardin,G007,CIRCUIT CLERK,,DEM,Loretta CRADY,340
+Hardin,G008,CIRCUIT CLERK,,DEM,Loretta CRADY,396
+Hardin,G009,CIRCUIT CLERK,,DEM,Loretta CRADY,337
+Hardin,H001,CIRCUIT CLERK,,DEM,Loretta CRADY,436
+Hardin,H003,CIRCUIT CLERK,,DEM,Loretta CRADY,28
+Hardin,H004,CIRCUIT CLERK,,DEM,Loretta CRADY,416
+Hardin,H005,CIRCUIT CLERK,,DEM,Loretta CRADY,678
+Hardin,H006,CIRCUIT CLERK,,DEM,Loretta CRADY,519
+Hardin,H007,CIRCUIT CLERK,,DEM,Loretta CRADY,351
+Hardin,H008,CIRCUIT CLERK,,DEM,Loretta CRADY,292
+Hardin,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,1075
+Hardin,A001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,147
+Hardin,A002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,326
+Hardin,A003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,205
+Hardin,A004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,388
+Hardin,A005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,325
+Hardin,A006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,396
+Hardin,A007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,67
+Hardin,A008,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,350
+Hardin,A009,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,147
+Hardin,A010,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,16
+Hardin,B001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,199
+Hardin,B002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,440
+Hardin,B003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,583
+Hardin,B004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,411
+Hardin,B005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,261
+Hardin,B006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,365
+Hardin,C001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,363
+Hardin,C002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,450
+Hardin,C003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,351
+Hardin,C004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,607
+Hardin,C005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,317
+Hardin,C006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,503
+Hardin,C007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,343
+Hardin,D001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,294
+Hardin,D002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,574
+Hardin,D003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,465
+Hardin,D004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,730
+Hardin,D005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,617
+Hardin,D006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,240
+Hardin,E001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,287
+Hardin,E002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,325
+Hardin,E003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,607
+Hardin,E004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,215
+Hardin,E005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,400
+Hardin,E006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,229
+Hardin,E007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,381
+Hardin,F001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,432
+Hardin,F002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,361
+Hardin,F003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,631
+Hardin,F004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,495
+Hardin,F005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,385
+Hardin,F006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,381
+Hardin,F007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,212
+Hardin,F008,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,25
+Hardin,G001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,164
+Hardin,G002,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,240
+Hardin,G003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,186
+Hardin,G004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,238
+Hardin,G006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,576
+Hardin,G007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,343
+Hardin,G008,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,387
+Hardin,G009,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,339
+Hardin,H001,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,434
+Hardin,H003,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,28
+Hardin,H004,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,426
+Hardin,H005,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,679
+Hardin,H006,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,533
+Hardin,H007,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,367
+Hardin,H008,PROPERTY VALUATION ADMINISTRATOR,,DEM,Danny L. HUTCHERSON,290
+Hardin,AB,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,1183
+Hardin,A001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,194
+Hardin,A002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,326
+Hardin,A003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,174
+Hardin,A004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,345
+Hardin,A005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,327
+Hardin,A006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,335
+Hardin,A007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,50
+Hardin,A008,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,348
+Hardin,A009,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,137
+Hardin,A010,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,13
+Hardin,B001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,226
+Hardin,B002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,357
+Hardin,B003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,479
+Hardin,B004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,343
+Hardin,B005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,292
+Hardin,B006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,318
+Hardin,C001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,392
+Hardin,C002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,382
+Hardin,C003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,508
+Hardin,C004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,741
+Hardin,C005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,377
+Hardin,C006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,593
+Hardin,C007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,296
+Hardin,D001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,282
+Hardin,D002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,641
+Hardin,D003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,492
+Hardin,D004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,751
+Hardin,D005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,638
+Hardin,D006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,236
+Hardin,E001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,259
+Hardin,E002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,319
+Hardin,E003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,628
+Hardin,E004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,234
+Hardin,E005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,386
+Hardin,E006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,232
+Hardin,E007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,302
+Hardin,F001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,468
+Hardin,F002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,445
+Hardin,F003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,719
+Hardin,F004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,606
+Hardin,F005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,474
+Hardin,F006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,384
+Hardin,F007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,236
+Hardin,F008,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,44
+Hardin,G001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,209
+Hardin,G002,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,321
+Hardin,G003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,262
+Hardin,G004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,270
+Hardin,G006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,678
+Hardin,G007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,399
+Hardin,G008,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,525
+Hardin,G009,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,416
+Hardin,H001,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,540
+Hardin,H003,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,39
+Hardin,H004,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,549
+Hardin,H005,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,651
+Hardin,H006,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,558
+Hardin,H007,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,553
+Hardin,H008,COUNTY JUDGE/EXECUTIVE,,REP,Harry L. BERRY,409
+Hardin,AB,COUNTY ATTORNEY,,REP,Jenny OLDHAM,1231
+Hardin,A001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,189
+Hardin,A002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,321
+Hardin,A003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,171
+Hardin,A004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,341
+Hardin,A005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,317
+Hardin,A006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,320
+Hardin,A007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,49
+Hardin,A008,COUNTY ATTORNEY,,REP,Jenny OLDHAM,342
+Hardin,A009,COUNTY ATTORNEY,,REP,Jenny OLDHAM,138
+Hardin,A010,COUNTY ATTORNEY,,REP,Jenny OLDHAM,13
+Hardin,B001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,224
+Hardin,B002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,355
+Hardin,B003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,472
+Hardin,B004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,339
+Hardin,B005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,297
+Hardin,B006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,309
+Hardin,C001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,410
+Hardin,C002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,400
+Hardin,C003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,516
+Hardin,C004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,762
+Hardin,C005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,382
+Hardin,C006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,604
+Hardin,C007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,298
+Hardin,D001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,292
+Hardin,D002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,652
+Hardin,D003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,496
+Hardin,D004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,770
+Hardin,D005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,662
+Hardin,D006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,227
+Hardin,E001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,283
+Hardin,E002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,330
+Hardin,E003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,655
+Hardin,E004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,235
+Hardin,E005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,403
+Hardin,E006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,242
+Hardin,E007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,318
+Hardin,F001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,478
+Hardin,F002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,463
+Hardin,F003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,765
+Hardin,F004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,623
+Hardin,F005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,492
+Hardin,F006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,422
+Hardin,F007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,243
+Hardin,F008,COUNTY ATTORNEY,,REP,Jenny OLDHAM,44
+Hardin,G001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,228
+Hardin,G002,COUNTY ATTORNEY,,REP,Jenny OLDHAM,329
+Hardin,G003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,276
+Hardin,G004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,299
+Hardin,G006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,710
+Hardin,G007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,423
+Hardin,G008,COUNTY ATTORNEY,,REP,Jenny OLDHAM,547
+Hardin,G009,COUNTY ATTORNEY,,REP,Jenny OLDHAM,412
+Hardin,H001,COUNTY ATTORNEY,,REP,Jenny OLDHAM,531
+Hardin,H003,COUNTY ATTORNEY,,REP,Jenny OLDHAM,41
+Hardin,H004,COUNTY ATTORNEY,,REP,Jenny OLDHAM,561
+Hardin,H005,COUNTY ATTORNEY,,REP,Jenny OLDHAM,652
+Hardin,H006,COUNTY ATTORNEY,,REP,Jenny OLDHAM,573
+Hardin,H007,COUNTY ATTORNEY,,REP,Jenny OLDHAM,553
+Hardin,H008,COUNTY ATTORNEY,,REP,Jenny OLDHAM,415
+Hardin,AB,COUNTY CLERK,,DEM,Debbie DONNELLY,1137
+Hardin,A001,COUNTY CLERK,,DEM,Debbie DONNELLY,150
+Hardin,A002,COUNTY CLERK,,DEM,Debbie DONNELLY,335
+Hardin,A003,COUNTY CLERK,,DEM,Debbie DONNELLY,205
+Hardin,A004,COUNTY CLERK,,DEM,Debbie DONNELLY,391
+Hardin,A005,COUNTY CLERK,,DEM,Debbie DONNELLY,324
+Hardin,A006,COUNTY CLERK,,DEM,Debbie DONNELLY,397
+Hardin,A007,COUNTY CLERK,,DEM,Debbie DONNELLY,69
+Hardin,A008,COUNTY CLERK,,DEM,Debbie DONNELLY,352
+Hardin,A009,COUNTY CLERK,,DEM,Debbie DONNELLY,146
+Hardin,A010,COUNTY CLERK,,DEM,Debbie DONNELLY,16
+Hardin,B001,COUNTY CLERK,,DEM,Debbie DONNELLY,203
+Hardin,B002,COUNTY CLERK,,DEM,Debbie DONNELLY,445
+Hardin,B003,COUNTY CLERK,,DEM,Debbie DONNELLY,580
+Hardin,B004,COUNTY CLERK,,DEM,Debbie DONNELLY,422
+Hardin,B005,COUNTY CLERK,,DEM,Debbie DONNELLY,265
+Hardin,B006,COUNTY CLERK,,DEM,Debbie DONNELLY,364
+Hardin,C001,COUNTY CLERK,,DEM,Debbie DONNELLY,372
+Hardin,C002,COUNTY CLERK,,DEM,Debbie DONNELLY,449
+Hardin,C003,COUNTY CLERK,,DEM,Debbie DONNELLY,366
+Hardin,C004,COUNTY CLERK,,DEM,Debbie DONNELLY,601
+Hardin,C005,COUNTY CLERK,,DEM,Debbie DONNELLY,324
+Hardin,C006,COUNTY CLERK,,DEM,Debbie DONNELLY,513
+Hardin,C007,COUNTY CLERK,,DEM,Debbie DONNELLY,342
+Hardin,D001,COUNTY CLERK,,DEM,Debbie DONNELLY,301
+Hardin,D002,COUNTY CLERK,,DEM,Debbie DONNELLY,598
+Hardin,D003,COUNTY CLERK,,DEM,Debbie DONNELLY,472
+Hardin,D004,COUNTY CLERK,,DEM,Debbie DONNELLY,747
+Hardin,D005,COUNTY CLERK,,DEM,Debbie DONNELLY,631
+Hardin,D006,COUNTY CLERK,,DEM,Debbie DONNELLY,241
+Hardin,E001,COUNTY CLERK,,DEM,Debbie DONNELLY,293
+Hardin,E002,COUNTY CLERK,,DEM,Debbie DONNELLY,327
+Hardin,E003,COUNTY CLERK,,DEM,Debbie DONNELLY,637
+Hardin,E004,COUNTY CLERK,,DEM,Debbie DONNELLY,224
+Hardin,E005,COUNTY CLERK,,DEM,Debbie DONNELLY,410
+Hardin,E006,COUNTY CLERK,,DEM,Debbie DONNELLY,230
+Hardin,E007,COUNTY CLERK,,DEM,Debbie DONNELLY,384
+Hardin,F001,COUNTY CLERK,,DEM,Debbie DONNELLY,434
+Hardin,F002,COUNTY CLERK,,DEM,Debbie DONNELLY,370
+Hardin,F003,COUNTY CLERK,,DEM,Debbie DONNELLY,637
+Hardin,F004,COUNTY CLERK,,DEM,Debbie DONNELLY,529
+Hardin,F005,COUNTY CLERK,,DEM,Debbie DONNELLY,383
+Hardin,F006,COUNTY CLERK,,DEM,Debbie DONNELLY,409
+Hardin,F007,COUNTY CLERK,,DEM,Debbie DONNELLY,231
+Hardin,F008,COUNTY CLERK,,DEM,Debbie DONNELLY,27
+Hardin,G001,COUNTY CLERK,,DEM,Debbie DONNELLY,171
+Hardin,G002,COUNTY CLERK,,DEM,Debbie DONNELLY,250
+Hardin,G003,COUNTY CLERK,,DEM,Debbie DONNELLY,186
+Hardin,G004,COUNTY CLERK,,DEM,Debbie DONNELLY,243
+Hardin,G006,COUNTY CLERK,,DEM,Debbie DONNELLY,584
+Hardin,G007,COUNTY CLERK,,DEM,Debbie DONNELLY,338
+Hardin,G008,COUNTY CLERK,,DEM,Debbie DONNELLY,401
+Hardin,G009,COUNTY CLERK,,DEM,Debbie DONNELLY,332
+Hardin,H001,COUNTY CLERK,,DEM,Debbie DONNELLY,430
+Hardin,H003,COUNTY CLERK,,DEM,Debbie DONNELLY,29
+Hardin,H004,COUNTY CLERK,,DEM,Debbie DONNELLY,424
+Hardin,H005,COUNTY CLERK,,DEM,Debbie DONNELLY,671
+Hardin,H006,COUNTY CLERK,,DEM,Debbie DONNELLY,536
+Hardin,H007,COUNTY CLERK,,DEM,Debbie DONNELLY,364
+Hardin,H008,COUNTY CLERK,,DEM,Debbie DONNELLY,285
+Hardin,AB,SHERIFF,,REP,Louis GRIDER,556
+Hardin,A001,SHERIFF,,REP,Louis GRIDER,121
+Hardin,A002,SHERIFF,,REP,Louis GRIDER,177
+Hardin,A003,SHERIFF,,REP,Louis GRIDER,87
+Hardin,A004,SHERIFF,,REP,Louis GRIDER,164
+Hardin,A005,SHERIFF,,REP,Louis GRIDER,184
+Hardin,A006,SHERIFF,,REP,Louis GRIDER,165
+Hardin,A007,SHERIFF,,REP,Louis GRIDER,25
+Hardin,A008,SHERIFF,,REP,Louis GRIDER,180
+Hardin,A009,SHERIFF,,REP,Louis GRIDER,94
+Hardin,A010,SHERIFF,,REP,Louis GRIDER,9
+Hardin,B001,SHERIFF,,REP,Louis GRIDER,118
+Hardin,B002,SHERIFF,,REP,Louis GRIDER,170
+Hardin,B003,SHERIFF,,REP,Louis GRIDER,231
+Hardin,B004,SHERIFF,,REP,Louis GRIDER,164
+Hardin,B005,SHERIFF,,REP,Louis GRIDER,155
+Hardin,B006,SHERIFF,,REP,Louis GRIDER,144
+Hardin,C001,SHERIFF,,REP,Louis GRIDER,146
+Hardin,C002,SHERIFF,,REP,Louis GRIDER,151
+Hardin,C003,SHERIFF,,REP,Louis GRIDER,322
+Hardin,C004,SHERIFF,,REP,Louis GRIDER,358
+Hardin,C005,SHERIFF,,REP,Louis GRIDER,187
+Hardin,C006,SHERIFF,,REP,Louis GRIDER,267
+Hardin,C007,SHERIFF,,REP,Louis GRIDER,92
+Hardin,D001,SHERIFF,,REP,Louis GRIDER,120
+Hardin,D002,SHERIFF,,REP,Louis GRIDER,254
+Hardin,D003,SHERIFF,,REP,Louis GRIDER,193
+Hardin,D004,SHERIFF,,REP,Louis GRIDER,360
+Hardin,D005,SHERIFF,,REP,Louis GRIDER,301
+Hardin,D006,SHERIFF,,REP,Louis GRIDER,123
+Hardin,E001,SHERIFF,,REP,Louis GRIDER,93
+Hardin,E002,SHERIFF,,REP,Louis GRIDER,103
+Hardin,E003,SHERIFF,,REP,Louis GRIDER,255
+Hardin,E004,SHERIFF,,REP,Louis GRIDER,97
+Hardin,E005,SHERIFF,,REP,Louis GRIDER,153
+Hardin,E006,SHERIFF,,REP,Louis GRIDER,80
+Hardin,E007,SHERIFF,,REP,Louis GRIDER,112
+Hardin,F001,SHERIFF,,REP,Louis GRIDER,206
+Hardin,F002,SHERIFF,,REP,Louis GRIDER,215
+Hardin,F003,SHERIFF,,REP,Louis GRIDER,307
+Hardin,F004,SHERIFF,,REP,Louis GRIDER,264
+Hardin,F005,SHERIFF,,REP,Louis GRIDER,226
+Hardin,F006,SHERIFF,,REP,Louis GRIDER,154
+Hardin,F007,SHERIFF,,REP,Louis GRIDER,76
+Hardin,F008,SHERIFF,,REP,Louis GRIDER,30
+Hardin,G001,SHERIFF,,REP,Louis GRIDER,125
+Hardin,G002,SHERIFF,,REP,Louis GRIDER,160
+Hardin,G003,SHERIFF,,REP,Louis GRIDER,172
+Hardin,G004,SHERIFF,,REP,Louis GRIDER,127
+Hardin,G006,SHERIFF,,REP,Louis GRIDER,307
+Hardin,G007,SHERIFF,,REP,Louis GRIDER,176
+Hardin,G008,SHERIFF,,REP,Louis GRIDER,269
+Hardin,G009,SHERIFF,,REP,Louis GRIDER,226
+Hardin,H001,SHERIFF,,REP,Louis GRIDER,282
+Hardin,H003,SHERIFF,,REP,Louis GRIDER,30
+Hardin,H004,SHERIFF,,REP,Louis GRIDER,296
+Hardin,H005,SHERIFF,,REP,Louis GRIDER,352
+Hardin,H006,SHERIFF,,REP,Louis GRIDER,264
+Hardin,H007,SHERIFF,,REP,Louis GRIDER,330
+Hardin,H008,SHERIFF,,REP,Louis GRIDER,255
+Hardin,AB,SHERIFF,,DEM,John WARD,1038
+Hardin,A001,SHERIFF,,DEM,John WARD,131
+Hardin,A002,SHERIFF,,DEM,John WARD,275
+Hardin,A003,SHERIFF,,DEM,John WARD,178
+Hardin,A004,SHERIFF,,DEM,John WARD,341
+Hardin,A005,SHERIFF,,DEM,John WARD,281
+Hardin,A006,SHERIFF,,DEM,John WARD,348
+Hardin,A007,SHERIFF,,DEM,John WARD,62
+Hardin,A008,SHERIFF,,DEM,John WARD,304
+Hardin,A009,SHERIFF,,DEM,John WARD,107
+Hardin,A010,SHERIFF,,DEM,John WARD,13
+Hardin,B001,SHERIFF,,DEM,John WARD,163
+Hardin,B002,SHERIFF,,DEM,John WARD,389
+Hardin,B003,SHERIFF,,DEM,John WARD,490
+Hardin,B004,SHERIFF,,DEM,John WARD,363
+Hardin,B005,SHERIFF,,DEM,John WARD,227
+Hardin,B006,SHERIFF,,DEM,John WARD,335
+Hardin,C001,SHERIFF,,DEM,John WARD,357
+Hardin,C002,SHERIFF,,DEM,John WARD,412
+Hardin,C003,SHERIFF,,DEM,John WARD,316
+Hardin,C004,SHERIFF,,DEM,John WARD,592
+Hardin,C005,SHERIFF,,DEM,John WARD,277
+Hardin,C006,SHERIFF,,DEM,John WARD,491
+Hardin,C007,SHERIFF,,DEM,John WARD,310
+Hardin,D001,SHERIFF,,DEM,John WARD,282
+Hardin,D002,SHERIFF,,DEM,John WARD,588
+Hardin,D003,SHERIFF,,DEM,John WARD,472
+Hardin,D004,SHERIFF,,DEM,John WARD,691
+Hardin,D005,SHERIFF,,DEM,John WARD,585
+Hardin,D006,SHERIFF,,DEM,John WARD,223
+Hardin,E001,SHERIFF,,DEM,John WARD,277
+Hardin,E002,SHERIFF,,DEM,John WARD,312
+Hardin,E003,SHERIFF,,DEM,John WARD,584
+Hardin,E004,SHERIFF,,DEM,John WARD,180
+Hardin,E005,SHERIFF,,DEM,John WARD,377
+Hardin,E006,SHERIFF,,DEM,John WARD,216
+Hardin,E007,SHERIFF,,DEM,John WARD,329
+Hardin,F001,SHERIFF,,DEM,John WARD,414
+Hardin,F002,SHERIFF,,DEM,John WARD,337
+Hardin,F003,SHERIFF,,DEM,John WARD,595
+Hardin,F004,SHERIFF,,DEM,John WARD,500
+Hardin,F005,SHERIFF,,DEM,John WARD,347
+Hardin,F006,SHERIFF,,DEM,John WARD,380
+Hardin,F007,SHERIFF,,DEM,John WARD,239
+Hardin,F008,SHERIFF,,DEM,John WARD,22
+Hardin,G001,SHERIFF,,DEM,John WARD,146
+Hardin,G002,SHERIFF,,DEM,John WARD,253
+Hardin,G003,SHERIFF,,DEM,John WARD,176
+Hardin,G004,SHERIFF,,DEM,John WARD,232
+Hardin,G006,SHERIFF,,DEM,John WARD,530
+Hardin,G007,SHERIFF,,DEM,John WARD,315
+Hardin,G008,SHERIFF,,DEM,John WARD,361
+Hardin,G009,SHERIFF,,DEM,John WARD,290
+Hardin,H001,SHERIFF,,DEM,John WARD,392
+Hardin,H003,SHERIFF,,DEM,John WARD,20
+Hardin,H004,SHERIFF,,DEM,John WARD,387
+Hardin,H005,SHERIFF,,DEM,John WARD,590
+Hardin,H006,SHERIFF,,DEM,John WARD,474
+Hardin,H007,SHERIFF,,DEM,John WARD,336
+Hardin,H008,SHERIFF,,DEM,John WARD,251
+Hardin,AB,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",1055
+Hardin,A001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",160
+Hardin,A002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",329
+Hardin,A003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",198
+Hardin,A004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",362
+Hardin,A005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",329
+Hardin,A006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",385
+Hardin,A007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",67
+Hardin,A008,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",355
+Hardin,A009,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",145
+Hardin,A010,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",17
+Hardin,B001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",192
+Hardin,B002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",460
+Hardin,B003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",580
+Hardin,B004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",411
+Hardin,B005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",258
+Hardin,B006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",360
+Hardin,C001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",375
+Hardin,C002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",459
+Hardin,C003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",380
+Hardin,C004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",607
+Hardin,C005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",322
+Hardin,C006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",510
+Hardin,C007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",334
+Hardin,D001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",288
+Hardin,D002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",554
+Hardin,D003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",463
+Hardin,D004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",768
+Hardin,D005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",612
+Hardin,D006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",243
+Hardin,E001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",283
+Hardin,E002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",331
+Hardin,E003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",608
+Hardin,E004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",212
+Hardin,E005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",405
+Hardin,E006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",239
+Hardin,E007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",368
+Hardin,F001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",436
+Hardin,F002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",406
+Hardin,F003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",649
+Hardin,F004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",513
+Hardin,F005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",363
+Hardin,F006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",400
+Hardin,F007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",235
+Hardin,F008,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",23
+Hardin,G001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",172
+Hardin,G002,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",270
+Hardin,G003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",201
+Hardin,G004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",254
+Hardin,G006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",555
+Hardin,G007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",320
+Hardin,G008,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",408
+Hardin,G009,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",344
+Hardin,H001,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",442
+Hardin,H003,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",27
+Hardin,H004,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",431
+Hardin,H005,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",674
+Hardin,H006,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",554
+Hardin,H007,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",389
+Hardin,H008,JAILER,,DEM,"Josh ""Big Josh"" LINDBLOM",297
+Hardin,AB,CORONER,,DEM,William H. LEE,1105
+Hardin,A001,CORONER,,DEM,William H. LEE,151
+Hardin,A002,CORONER,,DEM,William H. LEE,333
+Hardin,A003,CORONER,,DEM,William H. LEE,203
+Hardin,A004,CORONER,,DEM,William H. LEE,393
+Hardin,A005,CORONER,,DEM,William H. LEE,330
+Hardin,A006,CORONER,,DEM,William H. LEE,403
+Hardin,A007,CORONER,,DEM,William H. LEE,69
+Hardin,A008,CORONER,,DEM,William H. LEE,357
+Hardin,A009,CORONER,,DEM,William H. LEE,149
+Hardin,A010,CORONER,,DEM,William H. LEE,16
+Hardin,B001,CORONER,,DEM,William H. LEE,203
+Hardin,B002,CORONER,,DEM,William H. LEE,452
+Hardin,B003,CORONER,,DEM,William H. LEE,581
+Hardin,B004,CORONER,,DEM,William H. LEE,412
+Hardin,B005,CORONER,,DEM,William H. LEE,258
+Hardin,B006,CORONER,,DEM,William H. LEE,378
+Hardin,C001,CORONER,,DEM,William H. LEE,388
+Hardin,C002,CORONER,,DEM,William H. LEE,447
+Hardin,C003,CORONER,,DEM,William H. LEE,375
+Hardin,C004,CORONER,,DEM,William H. LEE,617
+Hardin,C005,CORONER,,DEM,William H. LEE,329
+Hardin,C006,CORONER,,DEM,William H. LEE,520
+Hardin,C007,CORONER,,DEM,William H. LEE,352
+Hardin,D001,CORONER,,DEM,William H. LEE,302
+Hardin,D002,CORONER,,DEM,William H. LEE,607
+Hardin,D003,CORONER,,DEM,William H. LEE,478
+Hardin,D004,CORONER,,DEM,William H. LEE,756
+Hardin,D005,CORONER,,DEM,William H. LEE,648
+Hardin,D006,CORONER,,DEM,William H. LEE,244
+Hardin,E001,CORONER,,DEM,William H. LEE,292
+Hardin,E002,CORONER,,DEM,William H. LEE,350
+Hardin,E003,CORONER,,DEM,William H. LEE,661
+Hardin,E004,CORONER,,DEM,William H. LEE,225
+Hardin,E005,CORONER,,DEM,William H. LEE,416
+Hardin,E006,CORONER,,DEM,William H. LEE,238
+Hardin,E007,CORONER,,DEM,William H. LEE,379
+Hardin,F001,CORONER,,DEM,William H. LEE,458
+Hardin,F002,CORONER,,DEM,William H. LEE,386
+Hardin,F003,CORONER,,DEM,William H. LEE,641
+Hardin,F004,CORONER,,DEM,William H. LEE,529
+Hardin,F005,CORONER,,DEM,William H. LEE,395
+Hardin,F006,CORONER,,DEM,William H. LEE,410
+Hardin,F007,CORONER,,DEM,William H. LEE,223
+Hardin,F008,CORONER,,DEM,William H. LEE,27
+Hardin,G001,CORONER,,DEM,William H. LEE,171
+Hardin,G002,CORONER,,DEM,William H. LEE,266
+Hardin,G003,CORONER,,DEM,William H. LEE,194
+Hardin,G004,CORONER,,DEM,William H. LEE,255
+Hardin,G006,CORONER,,DEM,William H. LEE,599
+Hardin,G007,CORONER,,DEM,William H. LEE,356
+Hardin,G008,CORONER,,DEM,William H. LEE,418
+Hardin,G009,CORONER,,DEM,William H. LEE,349
+Hardin,H001,CORONER,,DEM,William H. LEE,454
+Hardin,H003,CORONER,,DEM,William H. LEE,29
+Hardin,H004,CORONER,,DEM,William H. LEE,426
+Hardin,H005,CORONER,,DEM,William H. LEE,689
+Hardin,H006,CORONER,,DEM,William H. LEE,530
+Hardin,H007,CORONER,,DEM,William H. LEE,379
+Hardin,H008,CORONER,,DEM,William H. LEE,298
+Hardin,AB,COUNTY SURVEYOR,,DEM,Eric SPURRIER,1008
+Hardin,A001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,145
+Hardin,A002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,327
+Hardin,A003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,197
+Hardin,A004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,374
+Hardin,A005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,320
+Hardin,A006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,392
+Hardin,A007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,69
+Hardin,A008,COUNTY SURVEYOR,,DEM,Eric SPURRIER,338
+Hardin,A009,COUNTY SURVEYOR,,DEM,Eric SPURRIER,146
+Hardin,A010,COUNTY SURVEYOR,,DEM,Eric SPURRIER,16
+Hardin,B001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,200
+Hardin,B002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,434
+Hardin,B003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,562
+Hardin,B004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,406
+Hardin,B005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,247
+Hardin,B006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,357
+Hardin,C001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,354
+Hardin,C002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,428
+Hardin,C003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,345
+Hardin,C004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,562
+Hardin,C005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,300
+Hardin,C006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,478
+Hardin,C007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,324
+Hardin,D001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,281
+Hardin,D002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,541
+Hardin,D003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,433
+Hardin,D004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,705
+Hardin,D005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,593
+Hardin,D006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,243
+Hardin,E001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,273
+Hardin,E002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,316
+Hardin,E003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,595
+Hardin,E004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,213
+Hardin,E005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,378
+Hardin,E006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,224
+Hardin,E007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,368
+Hardin,F001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,415
+Hardin,F002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,355
+Hardin,F003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,595
+Hardin,F004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,470
+Hardin,F005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,357
+Hardin,F006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,357
+Hardin,F007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,207
+Hardin,F008,COUNTY SURVEYOR,,DEM,Eric SPURRIER,23
+Hardin,G001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,152
+Hardin,G002,COUNTY SURVEYOR,,DEM,Eric SPURRIER,232
+Hardin,G003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,165
+Hardin,G004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,224
+Hardin,G006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,542
+Hardin,G007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,328
+Hardin,G008,COUNTY SURVEYOR,,DEM,Eric SPURRIER,372
+Hardin,G009,COUNTY SURVEYOR,,DEM,Eric SPURRIER,321
+Hardin,H001,COUNTY SURVEYOR,,DEM,Eric SPURRIER,423
+Hardin,H003,COUNTY SURVEYOR,,DEM,Eric SPURRIER,29
+Hardin,H004,COUNTY SURVEYOR,,DEM,Eric SPURRIER,394
+Hardin,H005,COUNTY SURVEYOR,,DEM,Eric SPURRIER,665
+Hardin,H006,COUNTY SURVEYOR,,DEM,Eric SPURRIER,492
+Hardin,H007,COUNTY SURVEYOR,,DEM,Eric SPURRIER,342
+Hardin,H008,COUNTY SURVEYOR,,DEM,Eric SPURRIER,275
+Hardin,AB,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,76
+Hardin,A001,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,152
+Hardin,A002,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,330
+Hardin,A003,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,203
+Hardin,A004,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,400
+Hardin,A005,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,327
+Hardin,A006,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,396
+Hardin,A007,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,69
+Hardin,A008,MAGISTRATE 1st Magisterial District,,DEM,Roy EASTER,350
+Hardin,AB,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,73
+Hardin,A001,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,182
+Hardin,A002,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,315
+Hardin,A003,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,161
+Hardin,A004,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,330
+Hardin,A005,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,313
+Hardin,A006,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,325
+Hardin,A007,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,49
+Hardin,A008,CONSTABLE 1st Magisterial District,,REP,Kenneth L. LUCEY,339
+Hardin,AB,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,58
+Hardin,B001,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,160
+Hardin,B002,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,235
+Hardin,B003,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,334
+Hardin,B004,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,202
+Hardin,B005,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,245
+Hardin,B006,MAGISTRATE 2nd Magisterial District,,REP,Kenny SALTSMAN,201
+Hardin,AB,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,64
+Hardin,B001,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,137
+Hardin,B002,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,355
+Hardin,B003,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,426
+Hardin,B004,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,344
+Hardin,B005,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,153
+Hardin,B006,MAGISTRATE 2nd Magisterial District,,DEM,Douglas H. GOODMAN,288
+Hardin,AB,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,73
+Hardin,B001,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,196
+Hardin,B002,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,326
+Hardin,B003,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,445
+Hardin,B004,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,315
+Hardin,B005,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,267
+Hardin,B006,CONSTABLE 2nd Magisterial District,,REP,Michael A. BAVA SR.,293
+Hardin,AB,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,143
+Hardin,C001,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,283
+Hardin,C002,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,237
+Hardin,C003,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,380
+Hardin,C004,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,495
+Hardin,C005,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,278
+Hardin,C006,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,437
+Hardin,C007,MAGISTRATE 3rd Magisterial District,,REP,Lisa Williams BOONE,180
+Hardin,AB,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,113
+Hardin,C001,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,233
+Hardin,C002,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,344
+Hardin,C003,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,268
+Hardin,C004,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,479
+Hardin,C005,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,203
+Hardin,C006,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,339
+Hardin,C007,MAGISTRATE 3rd Magisterial District,,DEM,Patsy WHITEHEAD,245
+Hardin,AB,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,266
+Hardin,D001,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,270
+Hardin,D002,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,630
+Hardin,D003,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,475
+Hardin,D004,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,751
+Hardin,D005,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,648
+Hardin,D006,MAGISTRATE 4th Magisterial District,,REP,Fred CLEM,228
+Hardin,AB,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,242
+Hardin,D001,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,268
+Hardin,D002,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,600
+Hardin,D003,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,466
+Hardin,D004,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,734
+Hardin,D005,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,613
+Hardin,D006,CONSTABLE 4th Magisterial District,,REP,Steve BRATCHER,219
+Hardin,AB,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,169
+Hardin,E001,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,273
+Hardin,E002,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,321
+Hardin,E003,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,614
+Hardin,E004,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,210
+Hardin,E005,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,402
+Hardin,E006,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,221
+Hardin,E007,MAGISTRATE 5th Magisterial District,,DEM,Bill WISEMAN,365
+Hardin,AB,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,161
+Hardin,E001,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,236
+Hardin,E002,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,304
+Hardin,E003,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,603
+Hardin,E004,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,221
+Hardin,E005,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,376
+Hardin,E006,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,219
+Hardin,E007,CONSTABLE 5th Magisterial Distrct,,REP,Brian D. SMITH,295
+Hardin,AB,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,84
+Hardin,F001,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,350
+Hardin,F002,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,357
+Hardin,F003,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,544
+Hardin,F004,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,424
+Hardin,F005,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,379
+Hardin,F006,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,196
+Hardin,F007,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,127
+Hardin,F008,MAGISTRATE 6th Magisterial District,,REP,E. G. THOMPSON,32
+Hardin,AB,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,97
+Hardin,F001,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,280
+Hardin,F002,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,231
+Hardin,F003,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,379
+Hardin,F004,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,373
+Hardin,F005,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,237
+Hardin,F006,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,359
+Hardin,F007,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,192
+Hardin,F008,MAGISTRATE 6th Magisterial District,,DEM,Tom JAGGERS,22
+Hardin,AB,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,105
+Hardin,F001,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,407
+Hardin,F002,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,357
+Hardin,F003,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,603
+Hardin,F004,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,461
+Hardin,F005,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,340
+Hardin,F006,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,360
+Hardin,F007,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,200
+Hardin,F008,CONSTABLE 6th Magisterial District,,DEM,Sylvester BENNETT,23
+Hardin,AB,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,73
+Hardin,G001,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,192
+Hardin,G002,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,284
+Hardin,G003,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,241
+Hardin,G004,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,246
+Hardin,G006,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,551
+Hardin,G007,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,289
+Hardin,G008,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,434
+Hardin,G009,MAGISTRATE 7th Magisterial District,,REP,Ronnie R. GOODMAN,315
+Hardin,AB,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,45
+Hardin,G001,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,99
+Hardin,G002,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,140
+Hardin,G003,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,115
+Hardin,G004,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,128
+Hardin,G006,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,335
+Hardin,G007,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,214
+Hardin,G008,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,215
+Hardin,G009,MAGISTRATE 7th Magisterial District,,DEM,Bill HAY,225
+Hardin,AB,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,80
+Hardin,G001,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,161
+Hardin,G002,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,266
+Hardin,G003,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,214
+Hardin,G004,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,227
+Hardin,G006,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,559
+Hardin,G007,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,329
+Hardin,G008,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,457
+Hardin,G009,CONSTABLE 7th Magisterial District,,REP,Judy Moser BLAND,340
+Hardin,AB,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",35
+Hardin,G001,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",122
+Hardin,G002,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",145
+Hardin,G003,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",126
+Hardin,G004,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",121
+Hardin,G006,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",293
+Hardin,G007,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",154
+Hardin,G008,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",176
+Hardin,G009,CONSTABLE 7th Magisterial District,,DEM,"Ryan ""Buck"" JONES",189
+Hardin,AB,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,143
+Hardin,H001,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,424
+Hardin,H003,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,30
+Hardin,H004,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,406
+Hardin,H005,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,681
+Hardin,H006,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,540
+Hardin,H007,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,361
+Hardin,H008,MAGISTRATE 8th Magisterial District,,DEM,Garry KING,286
+Hardin,AB,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,120
+Hardin,H001,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,429
+Hardin,H003,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,37
+Hardin,H004,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,455
+Hardin,H005,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,462
+Hardin,H006,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,409
+Hardin,H007,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,460
+Hardin,H008,CONSTABLE 8th Magisterial District,,REP,Frank W. DONEHOO,351
+Hardin,AB,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,93
+Hardin,H001,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,225
+Hardin,H003,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,14
+Hardin,H004,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,196
+Hardin,H005,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,477
+Hardin,H006,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,316
+Hardin,H007,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,191
+Hardin,H008,CONSTABLE 8th Magisterial District,,DEM,Ron GRAHAM,137
+Hardin,AB,District Judge, 9th Judicial District,,John David SIMCOE,1094
+Hardin,A001,District Judge, 9th Judicial District,,John David SIMCOE,150
+Hardin,A002,District Judge, 9th Judicial District,,John David SIMCOE,299
+Hardin,A003,District Judge, 9th Judicial District,,John David SIMCOE,179
+Hardin,A004,District Judge, 9th Judicial District,,John David SIMCOE,352
+Hardin,A005,District Judge, 9th Judicial District,,John David SIMCOE,299
+Hardin,A006,District Judge, 9th Judicial District,,John David SIMCOE,351
+Hardin,A007,District Judge, 9th Judicial District,,John David SIMCOE,53
+Hardin,A008,District Judge, 9th Judicial District,,John David SIMCOE,327
+Hardin,A009,District Judge, 9th Judicial District,,John David SIMCOE,134
+Hardin,A010,District Judge, 9th Judicial District,,John David SIMCOE,16
+Hardin,B001,District Judge, 9th Judicial District,,John David SIMCOE,206
+Hardin,B002,District Judge, 9th Judicial District,,John David SIMCOE,404
+Hardin,B003,District Judge, 9th Judicial District,,John David SIMCOE,530
+Hardin,B004,District Judge, 9th Judicial District,,John David SIMCOE,361
+Hardin,B005,District Judge, 9th Judicial District,,John David SIMCOE,243
+Hardin,B006,District Judge, 9th Judicial District,,John David SIMCOE,325
+Hardin,C001,District Judge, 9th Judicial District,,John David SIMCOE,368
+Hardin,C002,District Judge, 9th Judicial District,,John David SIMCOE,395
+Hardin,C003,District Judge, 9th Judicial District,,John David SIMCOE,368
+Hardin,C004,District Judge, 9th Judicial District,,John David SIMCOE,590
+Hardin,C005,District Judge, 9th Judicial District,,John David SIMCOE,310
+Hardin,C006,District Judge, 9th Judicial District,,John David SIMCOE,489
+Hardin,C007,District Judge, 9th Judicial District,,John David SIMCOE,317
+Hardin,D001,District Judge, 9th Judicial District,,John David SIMCOE,273
+Hardin,D002,District Judge, 9th Judicial District,,John David SIMCOE,571
+Hardin,D003,District Judge, 9th Judicial District,,John David SIMCOE,474
+Hardin,D004,District Judge, 9th Judicial District,,John David SIMCOE,694
+Hardin,D005,District Judge, 9th Judicial District,,John David SIMCOE,591
+Hardin,D006,District Judge, 9th Judicial District,,John David SIMCOE,214
+Hardin,E001,District Judge, 9th Judicial District,,John David SIMCOE,273
+Hardin,E002,District Judge, 9th Judicial District,,John David SIMCOE,319
+Hardin,E003,District Judge, 9th Judicial District,,John David SIMCOE,622
+Hardin,E004,District Judge, 9th Judicial District,,John David SIMCOE,217
+Hardin,E005,District Judge, 9th Judicial District,,John David SIMCOE,368
+Hardin,E006,District Judge, 9th Judicial District,,John David SIMCOE,210
+Hardin,E007,District Judge, 9th Judicial District,,John David SIMCOE,336
+Hardin,F001,District Judge, 9th Judicial District,,John David SIMCOE,417
+Hardin,F002,District Judge, 9th Judicial District,,John David SIMCOE,379
+Hardin,F003,District Judge, 9th Judicial District,,John David SIMCOE,625
+Hardin,F004,District Judge, 9th Judicial District,,John David SIMCOE,520
+Hardin,F005,District Judge, 9th Judicial District,,John David SIMCOE,387
+Hardin,F006,District Judge, 9th Judicial District,,John David SIMCOE,378
+Hardin,F007,District Judge, 9th Judicial District,,John David SIMCOE,202
+Hardin,F008,District Judge, 9th Judicial District,,John David SIMCOE,24
+Hardin,G001,District Judge, 9th Judicial District,,John David SIMCOE,176
+Hardin,G002,District Judge, 9th Judicial District,,John David SIMCOE,279
+Hardin,G003,District Judge, 9th Judicial District,,John David SIMCOE,184
+Hardin,G004,District Judge, 9th Judicial District,,John David SIMCOE,254
+Hardin,G006,District Judge, 9th Judicial District,,John David SIMCOE,591
+Hardin,G007,District Judge, 9th Judicial District,,John David SIMCOE,354
+Hardin,G008,District Judge, 9th Judicial District,,John David SIMCOE,419
+Hardin,G009,District Judge, 9th Judicial District,,John David SIMCOE,331
+Hardin,H001,District Judge, 9th Judicial District,,John David SIMCOE,458
+Hardin,H003,District Judge, 9th Judicial District,,John David SIMCOE,26
+Hardin,H004,District Judge, 9th Judicial District,,John David SIMCOE,454
+Hardin,H005,District Judge, 9th Judicial District,,John David SIMCOE,640
+Hardin,H006,District Judge, 9th Judicial District,,John David SIMCOE,532
+Hardin,H007,District Judge, 9th Judicial District,,John David SIMCOE,394
+Hardin,H008,District Judge, 9th Judicial District,,John David SIMCOE,309
+Hardin,AB,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,1133
+Hardin,A001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,150
+Hardin,A002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,317
+Hardin,A003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,190
+Hardin,A004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,399
+Hardin,A005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,336
+Hardin,A006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,377
+Hardin,A007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,58
+Hardin,A008,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,356
+Hardin,A009,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,137
+Hardin,A010,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,16
+Hardin,B001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,205
+Hardin,B002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,434
+Hardin,B003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,559
+Hardin,B004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,406
+Hardin,B005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,262
+Hardin,B006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,358
+Hardin,C001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,375
+Hardin,C002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,410
+Hardin,C003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,352
+Hardin,C004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,590
+Hardin,C005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,310
+Hardin,C006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,498
+Hardin,C007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,320
+Hardin,D001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,278
+Hardin,D002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,578
+Hardin,D003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,480
+Hardin,D004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,725
+Hardin,D005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,611
+Hardin,D006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,224
+Hardin,E001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,274
+Hardin,E002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,329
+Hardin,E003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,626
+Hardin,E004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,214
+Hardin,E005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,369
+Hardin,E006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,225
+Hardin,E007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,335
+Hardin,F001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,423
+Hardin,F002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,365
+Hardin,F003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,635
+Hardin,F004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,522
+Hardin,F005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,383
+Hardin,F006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,366
+Hardin,F007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,208
+Hardin,F008,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,23
+Hardin,G001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,165
+Hardin,G002,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,258
+Hardin,G003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,181
+Hardin,G004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,233
+Hardin,G006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,570
+Hardin,G007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,351
+Hardin,G008,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,404
+Hardin,G009,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,356
+Hardin,H001,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,468
+Hardin,H003,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,22
+Hardin,H004,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,455
+Hardin,H005,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,715
+Hardin,H006,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,584
+Hardin,H007,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,428
+Hardin,H008,District Judge, 9th Judicial District,,Kim Winkenhofer SHUMATE,324
+Hardin,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,591
+Hardin,A001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,95
+Hardin,A002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,197
+Hardin,A003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,127
+Hardin,A004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,221
+Hardin,A005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,196
+Hardin,A006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,245
+Hardin,A007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,42
+Hardin,A008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,218
+Hardin,A009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,86
+Hardin,A010,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,9
+Hardin,B001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,142
+Hardin,B002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,245
+Hardin,B003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,386
+Hardin,B004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,254
+Hardin,B005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,144
+Hardin,B006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,211
+Hardin,C001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,210
+Hardin,C002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,230
+Hardin,C003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,192
+Hardin,C004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,323
+Hardin,C005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,163
+Hardin,C006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,236
+Hardin,C007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,188
+Hardin,D001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,172
+Hardin,D002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,307
+Hardin,D003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,275
+Hardin,D004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,390
+Hardin,D005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,334
+Hardin,D006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,126
+Hardin,E001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,151
+Hardin,E002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,194
+Hardin,E003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,389
+Hardin,E004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,136
+Hardin,E005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,207
+Hardin,E006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,140
+Hardin,E007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,226
+Hardin,F001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,221
+Hardin,F002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,201
+Hardin,F003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,343
+Hardin,F004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,271
+Hardin,F005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,214
+Hardin,F006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,204
+Hardin,F007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,103
+Hardin,F008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,15
+Hardin,G001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,88
+Hardin,G002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,146
+Hardin,G003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,101
+Hardin,G004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,136
+Hardin,G006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,349
+Hardin,G007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,221
+Hardin,G008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,232
+Hardin,G009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,199
+Hardin,H001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,251
+Hardin,H003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,19
+Hardin,H004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,281
+Hardin,H005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,437
+Hardin,H006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,344
+Hardin,H007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,239
+Hardin,H008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Vincent Anthony THOMPSON,199
+Hardin,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,815
+Hardin,A001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,110
+Hardin,A002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,215
+Hardin,A003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,119
+Hardin,A004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,236
+Hardin,A005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,191
+Hardin,A006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,229
+Hardin,A007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,36
+Hardin,A008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,214
+Hardin,A009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,88
+Hardin,A010,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,11
+Hardin,B001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,130
+Hardin,B002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,277
+Hardin,B003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,350
+Hardin,B004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,241
+Hardin,B005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,170
+Hardin,B006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,218
+Hardin,C001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,256
+Hardin,C002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,281
+Hardin,C003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,251
+Hardin,C004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,440
+Hardin,C005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,225
+Hardin,C006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,348
+Hardin,C007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,202
+Hardin,D001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,208
+Hardin,D002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,417
+Hardin,D003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,359
+Hardin,D004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,478
+Hardin,D005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,413
+Hardin,D006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,142
+Hardin,E001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,195
+Hardin,E002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,225
+Hardin,E003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,486
+Hardin,E004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,148
+Hardin,E005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,278
+Hardin,E006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,157
+Hardin,E007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,252
+Hardin,F001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,333
+Hardin,F002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,253
+Hardin,F003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,462
+Hardin,F004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,399
+Hardin,F005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,301
+Hardin,F006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,304
+Hardin,F007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,163
+Hardin,F008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,23
+Hardin,G001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,125
+Hardin,G002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,224
+Hardin,G003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,149
+Hardin,G004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,198
+Hardin,G006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,483
+Hardin,G007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,304
+Hardin,G008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,337
+Hardin,G009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,228
+Hardin,H001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,315
+Hardin,H003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,24
+Hardin,H004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,314
+Hardin,H005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,443
+Hardin,H006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,363
+Hardin,H007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,272
+Hardin,H008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,J. Larry THOMAS,236
+Hardin,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,543
+Hardin,A001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,86
+Hardin,A002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,171
+Hardin,A003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,104
+Hardin,A004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,175
+Hardin,A005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,162
+Hardin,A006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,185
+Hardin,A007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,26
+Hardin,A008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,164
+Hardin,A009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,74
+Hardin,A010,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,10
+Hardin,B001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,110
+Hardin,B002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,216
+Hardin,B003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,303
+Hardin,B004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,207
+Hardin,B005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,128
+Hardin,B006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,189
+Hardin,C001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,170
+Hardin,C002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,201
+Hardin,C003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,140
+Hardin,C004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,259
+Hardin,C005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,143
+Hardin,C006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,224
+Hardin,C007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,152
+Hardin,D001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,135
+Hardin,D002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,281
+Hardin,D003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,247
+Hardin,D004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,361
+Hardin,D005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,316
+Hardin,D006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,105
+Hardin,E001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,131
+Hardin,E002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,158
+Hardin,E003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,326
+Hardin,E004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,108
+Hardin,E005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,175
+Hardin,E006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,105
+Hardin,E007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,199
+Hardin,F001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,183
+Hardin,F002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,149
+Hardin,F003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,284
+Hardin,F004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,209
+Hardin,F005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,171
+Hardin,F006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,157
+Hardin,F007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,79
+Hardin,F008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,10
+Hardin,G001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,71
+Hardin,G002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,106
+Hardin,G003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,61
+Hardin,G004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,85
+Hardin,G006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,234
+Hardin,G007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,147
+Hardin,G008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,180
+Hardin,G009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,148
+Hardin,H001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,201
+Hardin,H003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,16
+Hardin,H004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,213
+Hardin,H005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,355
+Hardin,H006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,298
+Hardin,H007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,210
+Hardin,H008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jeffrey KARGER,138
+Hardin,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,579
+Hardin,A001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,86
+Hardin,A002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,174
+Hardin,A003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,105
+Hardin,A004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,173
+Hardin,A005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,153
+Hardin,A006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,193
+Hardin,A007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,29
+Hardin,A008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,186
+Hardin,A009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,88
+Hardin,A010,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,9
+Hardin,B001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,113
+Hardin,B002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,251
+Hardin,B003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,326
+Hardin,B004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,206
+Hardin,B005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,122
+Hardin,B006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,180
+Hardin,C001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,162
+Hardin,C002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,207
+Hardin,C003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,168
+Hardin,C004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,305
+Hardin,C005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,152
+Hardin,C006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,225
+Hardin,C007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,165
+Hardin,D001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,139
+Hardin,D002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,292
+Hardin,D003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,248
+Hardin,D004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,409
+Hardin,D005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,338
+Hardin,D006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,108
+Hardin,E001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,130
+Hardin,E002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,168
+Hardin,E003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,346
+Hardin,E004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,119
+Hardin,E005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,185
+Hardin,E006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,106
+Hardin,E007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,174
+Hardin,F001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,193
+Hardin,F002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,168
+Hardin,F003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,280
+Hardin,F004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,216
+Hardin,F005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,198
+Hardin,F006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,162
+Hardin,F007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,74
+Hardin,F008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,14
+Hardin,G001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,68
+Hardin,G002,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,116
+Hardin,G003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,78
+Hardin,G004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,88
+Hardin,G006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,289
+Hardin,G007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,198
+Hardin,G008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,190
+Hardin,G009,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,182
+Hardin,H001,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,239
+Hardin,H003,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,13
+Hardin,H004,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,210
+Hardin,H005,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,375
+Hardin,H006,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,277
+Hardin,H007,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,205
+Hardin,H008,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Bruce A. BOOK,165
+Hardin,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,168
+Hardin,C004,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,510
+Hardin,C005,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,293
+Hardin,C006,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,428
+Hardin,E004,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,200
+Hardin,F002,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,329
+Hardin,F003,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,568
+Hardin,F004,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,487
+Hardin,F005,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,356
+Hardin,F006,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,364
+Hardin,F007,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,202
+Hardin,F008,MEMBER BOARD of EDUCATION 2nd Educational District,,,Ben SEGO,20
+Hardin,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,244
+Hardin,B005,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,257
+Hardin,C002,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,386
+Hardin,C003,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,400
+Hardin,D002,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,566
+Hardin,D003,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,475
+Hardin,D004,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,687
+Hardin,D006,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,215
+Hardin,H001,MEMBER BOARD of EDUCATION 3rd Educational District,,,Charlie WISE,439
+Hardin,AB,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,106
+Hardin,A002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,300
+Hardin,A003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,182
+Hardin,A008,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,335
+Hardin,B001,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,205
+Hardin,B002,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,401
+Hardin,B003,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,558
+Hardin,B004,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,382
+Hardin,B006,MEMBER BOARD of EDUCATION 1st Educational District (Unexpired Term),,,Andrea M. PALMER,341
+Hardin,AB,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,159
+Hardin,C001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,337
+Hardin,C007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,263
+Hardin,D001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,244
+Hardin,E001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,251
+Hardin,E002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,289
+Hardin,E003,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,606
+Hardin,E007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,303
+Hardin,F002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Guy WALLACE,0
+Hardin,AB,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,162
+Hardin,C001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,371
+Hardin,C007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,283
+Hardin,D001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,277
+Hardin,E001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,277
+Hardin,E002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,305
+Hardin,E003,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,618
+Hardin,E007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,308
+Hardin,F002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Paul GODFREY,0
+Hardin,AB,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,139
+Hardin,C001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,307
+Hardin,C007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,257
+Hardin,D001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,242
+Hardin,E001,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,246
+Hardin,E002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,284
+Hardin,E003,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,549
+Hardin,E007,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,322
+Hardin,F002,MEMBER BOARD of EDUCATION Elizabethtown Independent School District,,,Kim Headspeth IMAN,0
+Hardin,AB,MEMBER BOARD of EDUCATION West Point Independent School District,,,Jo Annette SABOL,6
+Hardin,A001,MEMBER BOARD of EDUCATION West Point Independent School District,,,Jo Annette SABOL,160
+Hardin,AB,MEMBER BOARD of EDUCATION West Point Independent School District,,,Lena McVEY,4
+Hardin,A001,MEMBER BOARD of EDUCATION West Point Independent School District,,,Lena McVEY,158
+Hardin,AB,MEMBER BOARD of EDUCATION West Point Independent School District,,,Eddie MOORE,3
+Hardin,A001,MEMBER BOARD of EDUCATION West Point Independent School District,,,Eddie MOORE,173
+Hardin,AB,MEMBER BOARD of EDUCATION West Point Independent School District (Unexpired Term),,,Connie Elizabeth DUKE,6
+Hardin,A001,MEMBER BOARD of EDUCATION West Point Independent School District (Unexpired Term),,,Connie Elizabeth DUKE,177
+Hardin,AB,MAYOR City of Elizabethtown,,,Jeff GREGORY,362
+Hardin,C001,MAYOR City of Elizabethtown,,,Jeff GREGORY,342
+Hardin,C002,MAYOR City of Elizabethtown,,,Jeff GREGORY,297
+Hardin,C007,MAYOR City of Elizabethtown,,,Jeff GREGORY,247
+Hardin,D001,MAYOR City of Elizabethtown,,,Jeff GREGORY,233
+Hardin,D002,MAYOR City of Elizabethtown,,,Jeff GREGORY,450
+Hardin,D003,MAYOR City of Elizabethtown,,,Jeff GREGORY,356
+Hardin,D004,MAYOR City of Elizabethtown,,,Jeff GREGORY,553
+Hardin,D005,MAYOR City of Elizabethtown,,,Jeff GREGORY,468
+Hardin,E001,MAYOR City of Elizabethtown,,,Jeff GREGORY,234
+Hardin,E002,MAYOR City of Elizabethtown,,,Jeff GREGORY,264
+Hardin,E003,MAYOR City of Elizabethtown,,,Jeff GREGORY,516
+Hardin,E004,MAYOR City of Elizabethtown,,,Jeff GREGORY,137
+Hardin,E005,MAYOR City of Elizabethtown,,,Jeff GREGORY,284
+Hardin,E006,MAYOR City of Elizabethtown,,,Jeff GREGORY,161
+Hardin,E007,MAYOR City of Elizabethtown,,,Jeff GREGORY,281
+Hardin,H001,MAYOR City of Elizabethtown,,,Jeff GREGORY,27
+Hardin,AB,MAYOR City of Elizabethtown,,,Ben LaRUE,262
+Hardin,C001,MAYOR City of Elizabethtown,,,Ben LaRUE,153
+Hardin,C002,MAYOR City of Elizabethtown,,,Ben LaRUE,227
+Hardin,C007,MAYOR City of Elizabethtown,,,Ben LaRUE,158
+Hardin,D001,MAYOR City of Elizabethtown,,,Ben LaRUE,138
+Hardin,D002,MAYOR City of Elizabethtown,,,Ben LaRUE,342
+Hardin,D003,MAYOR City of Elizabethtown,,,Ben LaRUE,275
+Hardin,D004,MAYOR City of Elizabethtown,,,Ben LaRUE,374
+Hardin,D005,MAYOR City of Elizabethtown,,,Ben LaRUE,320
+Hardin,E001,MAYOR City of Elizabethtown,,,Ben LaRUE,127
+Hardin,E002,MAYOR City of Elizabethtown,,,Ben LaRUE,149
+Hardin,E003,MAYOR City of Elizabethtown,,,Ben LaRUE,305
+Hardin,E004,MAYOR City of Elizabethtown,,,Ben LaRUE,123
+Hardin,E005,MAYOR City of Elizabethtown,,,Ben LaRUE,201
+Hardin,E006,MAYOR City of Elizabethtown,,,Ben LaRUE,106
+Hardin,E007,MAYOR City of Elizabethtown,,,Ben LaRUE,156
+Hardin,H001,MAYOR City of Elizabethtown,,,Ben LaRUE,4
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,364
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,307
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,233
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,216
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,174
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,438
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,377
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,429
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,373
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,223
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,227
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,467
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,116
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,229
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,120
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,205
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Matt DENEEN,21
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,116
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,113
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,137
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,113
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,111
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,151
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,121
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,227
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,213
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,74
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,91
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,186
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,90
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,125
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,77
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,118
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Jamie ARMSTRONG,4
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",245
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",182
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",193
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",173
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",158
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",276
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",281
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",373
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",336
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",120
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",183
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",353
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",104
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",182
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",107
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",199
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,"William ""Bill"" BENNETT",12
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",304
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",227
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",217
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",192
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",176
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",293
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",293
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",370
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",335
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",161
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",208
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",362
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",107
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",232
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",112
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",202
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,"Anthony ""Tony"" BISHOP",9
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,298
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,254
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,265
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,195
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,162
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,368
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,286
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,376
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,308
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,174
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,192
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,361
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,105
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,175
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,91
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,159
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Terry SHIPP,16
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,103
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,73
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,92
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,89
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,75
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,136
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,125
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,162
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,170
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,72
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,90
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,212
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,62
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,111
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,53
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,121
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Scott OWENS,9
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,280
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,212
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,238
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,154
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,150
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,329
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,263
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,320
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,354
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,144
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,168
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,352
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,103
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,220
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,116
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,189
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Marty E. FULKERSON,11
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,206
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,170
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,220
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,176
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,142
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,293
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,286
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,387
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,308
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,136
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,163
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,306
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,100
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,176
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,120
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,147
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Julia SPRINGSTEEN,3
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,155
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,163
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,109
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,82
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,81
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,199
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,113
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,142
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,153
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,102
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,100
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,200
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,48
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,121
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,44
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,89
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Jerry KAUFFELD,17
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,307
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,230
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,255
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,219
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,198
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,341
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,319
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,543
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,407
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,183
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,213
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,399
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,129
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,223
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,141
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,221
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Cindy WALKER,13
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,293
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,235
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,194
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,191
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,147
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,340
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,264
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,363
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,327
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,155
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,173
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,420
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,113
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,238
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,138
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,170
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Virgil WILLOUGHBY,13
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,75
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,44
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,65
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,86
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,44
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,92
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,77
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,123
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,94
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,46
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,45
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,95
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,49
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,57
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,35
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,39
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Phil TAUL,1
+Hardin,AB,CITY COUNCIL City of Elizabethtown,,,Rick HORN,164
+Hardin,C001,CITY COUNCIL City of Elizabethtown,,,Rick HORN,157
+Hardin,C002,CITY COUNCIL City of Elizabethtown,,,Rick HORN,107
+Hardin,C007,CITY COUNCIL City of Elizabethtown,,,Rick HORN,110
+Hardin,D001,CITY COUNCIL City of Elizabethtown,,,Rick HORN,125
+Hardin,D002,CITY COUNCIL City of Elizabethtown,,,Rick HORN,185
+Hardin,D003,CITY COUNCIL City of Elizabethtown,,,Rick HORN,172
+Hardin,D004,CITY COUNCIL City of Elizabethtown,,,Rick HORN,198
+Hardin,D005,CITY COUNCIL City of Elizabethtown,,,Rick HORN,207
+Hardin,E001,CITY COUNCIL City of Elizabethtown,,,Rick HORN,102
+Hardin,E002,CITY COUNCIL City of Elizabethtown,,,Rick HORN,114
+Hardin,E003,CITY COUNCIL City of Elizabethtown,,,Rick HORN,214
+Hardin,E004,CITY COUNCIL City of Elizabethtown,,,Rick HORN,70
+Hardin,E005,CITY COUNCIL City of Elizabethtown,,,Rick HORN,118
+Hardin,E006,CITY COUNCIL City of Elizabethtown,,,Rick HORN,61
+Hardin,E007,CITY COUNCIL City of Elizabethtown,,,Rick HORN,101
+Hardin,H001,CITY COUNCIL City of Elizabethtown,,,Rick HORN,6
+Hardin,AB,MAYOR City of Radcliff,,,Stan HOLMES,73
+Hardin,A002,MAYOR City of Radcliff,,,Stan HOLMES,131
+Hardin,A003,MAYOR City of Radcliff,,,Stan HOLMES,63
+Hardin,A004,MAYOR City of Radcliff,,,Stan HOLMES,164
+Hardin,A005,MAYOR City of Radcliff,,,Stan HOLMES,135
+Hardin,A006,MAYOR City of Radcliff,,,Stan HOLMES,194
+Hardin,A007,MAYOR City of Radcliff,,,Stan HOLMES,22
+Hardin,A008,MAYOR City of Radcliff,,,Stan HOLMES,150
+Hardin,B001,MAYOR City of Radcliff,,,Stan HOLMES,60
+Hardin,B002,MAYOR City of Radcliff,,,Stan HOLMES,202
+Hardin,B003,MAYOR City of Radcliff,,,Stan HOLMES,268
+Hardin,B004,MAYOR City of Radcliff,,,Stan HOLMES,186
+Hardin,B006,MAYOR City of Radcliff,,,Stan HOLMES,134
+Hardin,D004,MAYOR City of Radcliff,,,Stan HOLMES,0
+Hardin,D006,MAYOR City of Radcliff,,,Stan HOLMES,26
+Hardin,AB,MAYOR City of Radcliff,,,J. J. DUVALL,134
+Hardin,A002,MAYOR City of Radcliff,,,J. J. DUVALL,293
+Hardin,A003,MAYOR City of Radcliff,,,J. J. DUVALL,184
+Hardin,A004,MAYOR City of Radcliff,,,J. J. DUVALL,324
+Hardin,A005,MAYOR City of Radcliff,,,J. J. DUVALL,313
+Hardin,A006,MAYOR City of Radcliff,,,J. J. DUVALL,298
+Hardin,A007,MAYOR City of Radcliff,,,J. J. DUVALL,56
+Hardin,A008,MAYOR City of Radcliff,,,J. J. DUVALL,303
+Hardin,B001,MAYOR City of Radcliff,,,J. J. DUVALL,136
+Hardin,B002,MAYOR City of Radcliff,,,J. J. DUVALL,344
+Hardin,B003,MAYOR City of Radcliff,,,J. J. DUVALL,444
+Hardin,B004,MAYOR City of Radcliff,,,J. J. DUVALL,317
+Hardin,B006,MAYOR City of Radcliff,,,J. J. DUVALL,317
+Hardin,D004,MAYOR City of Radcliff,,,J. J. DUVALL,0
+Hardin,D006,MAYOR City of Radcliff,,,J. J. DUVALL,38
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Jerry BROWN,78
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Jerry BROWN,164
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Jerry BROWN,99
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Jerry BROWN,176
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Jerry BROWN,190
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Jerry BROWN,189
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Jerry BROWN,25
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Jerry BROWN,185
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Jerry BROWN,80
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Jerry BROWN,196
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Jerry BROWN,242
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Jerry BROWN,150
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Jerry BROWN,182
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Jerry BROWN,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Jerry BROWN,23
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,87
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,158
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,99
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,245
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,213
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,250
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,24
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,182
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,91
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,217
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,321
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,254
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,215
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Edward L. PALMER SR.,27
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,102
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,201
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,130
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,229
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,188
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,246
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,46
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,201
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,97
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,276
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,403
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,291
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,215
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Tanya SEABROOKS,39
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,50
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,89
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,60
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,107
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,92
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,104
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,16
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,107
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,56
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,121
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,148
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,101
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,100
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Mark A. CASEY,17
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Barbara BAKER,81
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Barbara BAKER,176
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Barbara BAKER,102
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Barbara BAKER,217
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Barbara BAKER,172
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Barbara BAKER,182
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Barbara BAKER,30
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Barbara BAKER,199
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Barbara BAKER,76
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Barbara BAKER,211
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Barbara BAKER,293
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Barbara BAKER,197
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Barbara BAKER,188
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Barbara BAKER,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Barbara BAKER,20
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,86
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,171
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,117
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,201
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,204
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,220
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,42
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,173
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,91
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,263
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,352
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,232
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,211
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Kim THOMPSON,28
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,59
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,136
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,78
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,106
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,92
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,131
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,24
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,115
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,55
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,164
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,228
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,150
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,111
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Aundra Lett JACKSON,24
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,92
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,169
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,101
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,248
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,202
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,206
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,34
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,228
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,81
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,204
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,264
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,208
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,206
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Pamela J. DeROCHE,25
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,75
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,135
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,83
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,155
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,124
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,179
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,25
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,127
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,68
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,171
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,262
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,188
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,156
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Terry G. OWENS,20
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,83
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,142
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,87
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,174
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,178
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,192
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,21
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,154
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,63
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,227
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,284
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,215
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,166
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Toshie Singleton MURRELL,27
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Chris YATES,100
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Chris YATES,215
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Chris YATES,125
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Chris YATES,258
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Chris YATES,236
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Chris YATES,223
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Chris YATES,30
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Chris YATES,226
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Chris YATES,89
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Chris YATES,242
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Chris YATES,333
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Chris YATES,238
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Chris YATES,235
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Chris YATES,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Chris YATES,24
+Hardin,AB,CITY COUNCIL City of Radcliff,,,Theresa HUMES,51
+Hardin,A002,CITY COUNCIL City of Radcliff,,,Theresa HUMES,107
+Hardin,A003,CITY COUNCIL City of Radcliff,,,Theresa HUMES,62
+Hardin,A004,CITY COUNCIL City of Radcliff,,,Theresa HUMES,113
+Hardin,A005,CITY COUNCIL City of Radcliff,,,Theresa HUMES,100
+Hardin,A006,CITY COUNCIL City of Radcliff,,,Theresa HUMES,129
+Hardin,A007,CITY COUNCIL City of Radcliff,,,Theresa HUMES,25
+Hardin,A008,CITY COUNCIL City of Radcliff,,,Theresa HUMES,111
+Hardin,B001,CITY COUNCIL City of Radcliff,,,Theresa HUMES,51
+Hardin,B002,CITY COUNCIL City of Radcliff,,,Theresa HUMES,147
+Hardin,B003,CITY COUNCIL City of Radcliff,,,Theresa HUMES,166
+Hardin,B004,CITY COUNCIL City of Radcliff,,,Theresa HUMES,103
+Hardin,B006,CITY COUNCIL City of Radcliff,,,Theresa HUMES,96
+Hardin,D004,CITY COUNCIL City of Radcliff,,,Theresa HUMES,0
+Hardin,D006,CITY COUNCIL City of Radcliff,,,Theresa HUMES,20
+Hardin,AB,MAYOR City of Sonora,,,Larry COPELIN,2
+Hardin,F006,MAYOR City of Sonora,,,Larry COPELIN,132
+Hardin,AB,CITY COMMISSIONERS City of Sonora,,,"Earl ""Tee"" HODGES",2
+Hardin,F006,CITY COMMISSIONERS City of Sonora,,,"Earl ""Tee"" HODGES",116
+Hardin,AB,CITY COMMISSIONERS City of Sonora,,,Crystal TOWNSEND,2
+Hardin,F006,CITY COMMISSIONERS City of Sonora,,,Crystal TOWNSEND,81
+Hardin,AB,CITY COMMISSIONERS City of Sonora,,,Duane MANAKEE,3
+Hardin,F006,CITY COMMISSIONERS City of Sonora,,,Duane MANAKEE,118
+Hardin,AB,CITY COMMISSIONERS City of Sonora,,,Robbie R. WALTERS,2
+Hardin,F006,CITY COMMISSIONERS City of Sonora,,,Robbie R. WALTERS,94
+Hardin,AB,CITY COMMISSIONERS City of Sonora,,,Staci BLAIR,1
+Hardin,F006,CITY COMMISSIONERS City of Sonora,,,Staci BLAIR,92
+Hardin,AB,MAYOR City of Upton,,,"Austin ""Boomer"" SADLER",2
+Hardin,F007,MAYOR City of Upton,,,"Austin ""Boomer"" SADLER",112
+Hardin,AB,MAYOR City of Vine Grove,,,"Morris ""Mo"" COFFEY",37
+Hardin,H005,MAYOR City of Vine Grove,,,"Morris ""Mo"" COFFEY",352
+Hardin,H006,MAYOR City of Vine Grove,,,"Morris ""Mo"" COFFEY",293
+Hardin,AB,MAYOR City of Vine Grove,,,Pam OGDEN,34
+Hardin,H005,MAYOR City of Vine Grove,,,Pam OGDEN,511
+Hardin,H006,MAYOR City of Vine Grove,,,Pam OGDEN,427
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Donna J. BETSON,40
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Donna J. BETSON,433
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Donna J. BETSON,371
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Wanda Scott GRAY,31
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Wanda Scott GRAY,327
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Wanda Scott GRAY,239
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Donna SPANGENBERGER,37
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Donna SPANGENBERGER,428
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Donna SPANGENBERGER,367
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Garry W. McCOY,33
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Garry W. McCOY,311
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Garry W. McCOY,301
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,John W. BUMPUS,13
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,John W. BUMPUS,162
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,John W. BUMPUS,133
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Vincent ASKEW,15
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Vincent ASKEW,167
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Vincent ASKEW,126
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Betty L. CLUTE,31
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Betty L. CLUTE,288
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Betty L. CLUTE,204
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Ronald BEVARS,23
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Ronald BEVARS,225
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Ronald BEVARS,225
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Kristofor KING,27
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Kristofor KING,373
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Kristofor KING,379
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,Harvey W. DeBOLT II.,8
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,Harvey W. DeBOLT II.,126
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,Harvey W. DeBOLT II.,118
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,"Kathleen ""Kathy"" SISCO",37
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,"Kathleen ""Kathy"" SISCO",480
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,"Kathleen ""Kathy"" SISCO",377
+Hardin,AB,CITY COUNCIL City of Vine Grove,,,"Robert ""Bob"" WOOSLEY",37
+Hardin,H005,CITY COUNCIL City of Vine Grove,,,"Robert ""Bob"" WOOSLEY",408
+Hardin,H006,CITY COUNCIL City of Vine Grove,,,"Robert ""Bob"" WOOSLEY",330
+Hardin,AB,MAYOR City of West Point,,,"Wm. ""Billy"" ASH",5
+Hardin,A001,MAYOR City of West Point,,,"Wm. ""Billy"" ASH",196
+Hardin,AB,CITY COUNCIL City of West Point,,,Dwayne CULVER,5
+Hardin,A001,CITY COUNCIL City of West Point,,,Dwayne CULVER,130
+Hardin,AB,CITY COUNCIL City of West Point,,,Carl HALL,7
+Hardin,A001,CITY COUNCIL City of West Point,,,Carl HALL,148
+Hardin,AB,CITY COUNCIL City of West Point,,,Kevin M. DUKE,5
+Hardin,A001,CITY COUNCIL City of West Point,,,Kevin M. DUKE,158
+Hardin,AB,CITY COUNCIL City of West Point,,,Fred STALEY JR.,5
+Hardin,A001,CITY COUNCIL City of West Point,,,Fred STALEY JR.,137
+Hardin,AB,CITY COUNCIL City of West Point,,,Chuck McCREARY,5
+Hardin,A001,CITY COUNCIL City of West Point,,,Chuck McCREARY,123
+Hardin,AB,CITY COUNCIL City of West Point,,,Lavinda L. CURL,8
+Hardin,A001,CITY COUNCIL City of West Point,,,Lavinda L. CURL,144
+Hardin,AB,CITY COUNCIL City of West Point,,,Fran MOORE,4
+Hardin,A001,CITY COUNCIL City of West Point,,,Fran MOORE,148
+Hardin,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,1274
+Hardin,A001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,163
+Hardin,A002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,323
+Hardin,A003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,188
+Hardin,A004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,366
+Hardin,A005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,325
+Hardin,A006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,352
+Hardin,A007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,62
+Hardin,A008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,325
+Hardin,A009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,170
+Hardin,A010,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,22
+Hardin,B001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,197
+Hardin,B002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,421
+Hardin,B003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,562
+Hardin,B004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,359
+Hardin,B005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,246
+Hardin,B006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,336
+Hardin,C001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,309
+Hardin,C002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,354
+Hardin,C003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,345
+Hardin,C004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,583
+Hardin,C005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,273
+Hardin,C006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,444
+Hardin,C007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,248
+Hardin,D001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,258
+Hardin,D002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,518
+Hardin,D003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,402
+Hardin,D004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,696
+Hardin,D005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,555
+Hardin,D006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,230
+Hardin,E001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,236
+Hardin,E002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,286
+Hardin,E003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,486
+Hardin,E004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,170
+Hardin,E005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,338
+Hardin,E006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,169
+Hardin,E007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,305
+Hardin,F001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,345
+Hardin,F002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,318
+Hardin,F003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,515
+Hardin,F004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,451
+Hardin,F005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,332
+Hardin,F006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,291
+Hardin,F007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,155
+Hardin,F008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,24
+Hardin,G001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,143
+Hardin,G002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,212
+Hardin,G003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,192
+Hardin,G004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,218
+Hardin,G006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,460
+Hardin,G007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,302
+Hardin,G008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,334
+Hardin,G009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,333
+Hardin,H001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,424
+Hardin,H003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,33
+Hardin,H004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,414
+Hardin,H005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,651
+Hardin,H006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,468
+Hardin,H007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,420
+Hardin,H008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,YES,312
+Hardin,AB,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,169
+Hardin,A001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,69
+Hardin,A002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,86
+Hardin,A003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,48
+Hardin,A004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,95
+Hardin,A005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,90
+Hardin,A006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,104
+Hardin,A007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,14
+Hardin,A008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,111
+Hardin,A009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,29
+Hardin,A010,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,0
+Hardin,B001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,67
+Hardin,B002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,97
+Hardin,B003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,139
+Hardin,B004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,113
+Hardin,B005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,90
+Hardin,B006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,100
+Hardin,C001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,164
+Hardin,C002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,169
+Hardin,C003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,225
+Hardin,C004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,283
+Hardin,C005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,152
+Hardin,C006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,236
+Hardin,C007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,134
+Hardin,D001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,107
+Hardin,D002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,221
+Hardin,D003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,203
+Hardin,D004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,220
+Hardin,D005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,246
+Hardin,D006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,85
+Hardin,E001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,113
+Hardin,E002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,108
+Hardin,E003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,292
+Hardin,E004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,95
+Hardin,E005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,128
+Hardin,E006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,103
+Hardin,E007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,125
+Hardin,F001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,215
+Hardin,F002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,198
+Hardin,F003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,334
+Hardin,F004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,279
+Hardin,F005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,221
+Hardin,F006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,194
+Hardin,F007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,117
+Hardin,F008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,14
+Hardin,G001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,102
+Hardin,G002,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,160
+Hardin,G003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,115
+Hardin,G004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,134
+Hardin,G006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,335
+Hardin,G007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,169
+Hardin,G008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,256
+Hardin,G009,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,159
+Hardin,H001,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,196
+Hardin,H003,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,11
+Hardin,H004,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,213
+Hardin,H005,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,178
+Hardin,H006,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,216
+Hardin,H007,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,179
+Hardin,H008,Are you in favor of providing constitutional rights to victims of crime, including the right to be treated fairly,,NO,147
+Hardin,Absentee,Straight Party,,REP,,369
+Hardin,Absentee,Straight Party,,DEM,,293
+Hardin,West Point,Straight Party,,REP,,89
+Hardin,West Point,Straight Party,,DEM,,41
+Hardin,Radcliff East ,Straight Party,,REP,,131
+Hardin,Radcliff East ,Straight Party,,DEM,,159
+Hardin,Radcliff North ,Straight Party,,REP,,53
+Hardin,Radcliff North ,Straight Party,,DEM,,112
+Hardin,Radcliff Northwest ,Straight Party,,REP,,108
+Hardin,Radcliff Northwest ,Straight Party,,DEM,,182
+Hardin,Radcliff West,Straight Party,,REP,,126
+Hardin,Radcliff West,Straight Party,,DEM,,145
+Hardin,Red Hill,Straight Party,,REP,,110
+Hardin,Red Hill,Straight Party,,DEM,,205
+Hardin,Veterans,Straight Party,,REP,,20
+Hardin,Veterans,Straight Party,,DEM,,45
+Hardin,Radcliff Southwest,Straight Party,,REP,,131
+Hardin,Radcliff Southwest,Straight Party,,DEM,,153
+Hardin,Fort Knox 26,Straight Party,,REP,,66
+Hardin,Fort Knox 26,Straight Party,,DEM,,70
+Hardin,Fort Knox 27,Straight Party,,REP,,6
+Hardin,Fort Knox 27,Straight Party,,DEM,,9
+Hardin,Radcliff South,Straight Party,,REP,,76
+Hardin,Radcliff South,Straight Party,,DEM,,74
+Hardin,Radcliff Southeast,Straight Party,,REP,,113
+Hardin,Radcliff Southeast,Straight Party,,DEM,,233
+Hardin,Shelton,Straight Party,,REP,,167
+Hardin,Shelton,Straight Party,,DEM,,288
+Hardin,Woodland,Straight Party,,REP,,111
+Hardin,Woodland,Straight Party,,DEM,,205
+Hardin,Longview,Straight Party,,REP,,127
+Hardin,Longview,Straight Party,,DEM,,84
+Hardin,Parkway,Straight Party,,REP,,120
+Hardin,Parkway,Straight Party,,DEM,,189
+Hardin,Highlands,Straight Party,,REP,,98
+Hardin,Highlands,Straight Party,,DEM,,61
+Hardin,City Park,Straight Party,,REP,,101
+Hardin,City Park,Straight Party,,DEM,,186
+Hardin,Colesburg,Straight Party,,REP,,240
+Hardin,Colesburg,Straight Party,,DEM,,83
+Hardin,Tunnel Hill,Straight Party,,REP,,251
+Hardin,Tunnel Hill,Straight Party,,DEM,,148
+Hardin,Lincoln Trail North ,Straight Party,,REP,,121
+Hardin,Lincoln Trail North ,Straight Party,,DEM,,54
+Hardin,Lincoln Trail South,Straight Party,,REP,,212
+Hardin,Lincoln Trail South,Straight Party,,DEM,,135
+Hardin,Etown East,Straight Party,,REP,,71
+Hardin,Etown East,Straight Party,,DEM,,128
+Hardin,Mantle,Straight Party,,REP,,89
+Hardin,Mantle,Straight Party,,DEM,,105
+Hardin,Freeman,Straight Party,,REP,,188
+Hardin,Freeman,Straight Party,,DEM,,138
+Hardin,Oaklawn,Straight Party,,REP,,143
+Hardin,Oaklawn,Straight Party,,DEM,,125
+Hardin,Pine Valley,Straight Party,,REP,,236
+Hardin,Pine Valley,Straight Party,,DEM,,256
+Hardin,Helmwood Heights,Straight Party,,REP,,209
+Hardin,Helmwood Heights,Straight Party,,DEM,,205
+Hardin,Helm,Straight Party,,REP,,104
+Hardin,Helm,Straight Party,,DEM,,126
+Hardin,Central,Straight Party,,REP,,63
+Hardin,Central,Straight Party,,DEM,,70
+Hardin,Etown North,Straight Party,,REP,,84
+Hardin,Etown North,Straight Party,,DEM,,87
+Hardin,Etown West,Straight Party,,REP,,151
+Hardin,Etown West,Straight Party,,DEM,,145
+Hardin,Valley Creek,Straight Party,,REP,,62
+Hardin,Valley Creek,Straight Party,,DEM,,63
+Hardin,Memorial,Straight Party,,REP,,110
+Hardin,Memorial,Straight Party,,DEM,,116
+Hardin,Van Meter City,Straight Party,,REP,,57
+Hardin,Van Meter City,Straight Party,,DEM,,70
+Hardin,Haycraft,Straight Party,,REP,,80
+Hardin,Haycraft,Straight Party,,DEM,,168
+Hardin,Van Meter,Straight Party,,REP,,129
+Hardin,Van Meter,Straight Party,,DEM,,123
+Hardin,Chelf,Straight Party,,REP,,148
+Hardin,Chelf,Straight Party,,DEM,,66
+Hardin,Country Club,Straight Party,,REP,,214
+Hardin,Country Club,Straight Party,,DEM,,106
+Hardin,Glendale,Straight Party,,REP,,176
+Hardin,Glendale,Straight Party,,DEM,,106
+Hardin,South Dixie,Straight Party,,REP,,170
+Hardin,South Dixie,Straight Party,,DEM,,78
+Hardin,Sonora,Straight Party,,REP,,120
+Hardin,Sonora,Straight Party,,DEM,,74
+Hardin,Upton,Straight Party,,REP,,61
+Hardin,Upton,Straight Party,,DEM,,45
+Hardin,Cash,Straight Party,,REP,,29
+Hardin,Cash,Straight Party,,DEM,,9
+Hardin,Eastview,Straight Party,,REP,,92
+Hardin,Eastview,Straight Party,,DEM,,34
+Hardin,Stephensburg,Straight Party,,REP,,118
+Hardin,Stephensburg,Straight Party,,DEM,,43
+Hardin,Meeting Creek,Straight Party,,REP,,136
+Hardin,Meeting Creek,Straight Party,,DEM,,44
+Hardin,White Mills,Straight Party,,REP,,96
+Hardin,White Mills,Straight Party,,DEM,,46
+Hardin,Cecilia,Straight Party,,REP,,207
+Hardin,Cecilia,Straight Party,,DEM,,112
+Hardin,St John,Straight Party,,REP,,123
+Hardin,St John,Straight Party,,DEM,,64
+Hardin,Howevalley,Straight Party,,REP,,206
+Hardin,Howevalley,Straight Party,,DEM,,81
+Hardin,Rineyville South,Straight Party,,REP,,155
+Hardin,Rineyville South,Straight Party,,DEM,,91
+Hardin,Rineyville North ,Straight Party,,REP,,210
+Hardin,Rineyville North ,Straight Party,,DEM,,108
+Hardin,Grandview,Straight Party,,REP,,24
+Hardin,Grandview,Straight Party,,DEM,,11
+Hardin,Rineyville West,Straight Party,,REP,,223
+Hardin,Rineyville West,Straight Party,,DEM,,85
+Hardin,Vine Grove East,Straight Party,,REP,,230
+Hardin,Vine Grove East,Straight Party,,DEM,,294
+Hardin,Vine Grove West ,Straight Party,,REP,,165
+Hardin,Vine Grove West ,Straight Party,,DEM,,172
+Hardin,Vine Grove South,Straight Party,,REP,,229
+Hardin,Vine Grove South,Straight Party,,DEM,,105
+Hardin,Yates,Straight Party,,REP,,190
+Hardin,Yates,Straight Party,,DEM,,73
