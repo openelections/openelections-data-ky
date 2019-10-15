@@ -1,0 +1,591 @@
+county,precinct,office,district,party,candidate,votes
+Spencer,AB2,U.S. Senate,,REP,Mitch McCONNELL,53
+Spencer,AB4,U.S. Senate,,REP,Mitch McCONNELL,148
+Spencer,A101A,U.S. Senate,,REP,Mitch McCONNELL,803
+Spencer,B101,U.S. Senate,,REP,Mitch McCONNELL,472
+Spencer,B102,U.S. Senate,,REP,Mitch McCONNELL,460
+Spencer,C101,U.S. Senate,,REP,Mitch McCONNELL,476
+Spencer,C102,U.S. Senate,,REP,Mitch McCONNELL,642
+Spencer,D101,U.S. Senate,,REP,Mitch McCONNELL,174
+Spencer,D102,U.S. Senate,,REP,Mitch McCONNELL,228
+Spencer,D103,U.S. Senate,,REP,Mitch McCONNELL,102
+Spencer,D104,U.S. Senate,,REP,Mitch McCONNELL,61
+Spencer,D105,U.S. Senate,,REP,Mitch McCONNELL,209
+Spencer,D106,U.S. Senate,,REP,Mitch McCONNELL,7
+Spencer,E101,U.S. Senate,,REP,Mitch McCONNELL,295
+Spencer,E102,U.S. Senate,,REP,Mitch McCONNELL,362
+Spencer,E103,U.S. Senate,,REP,Mitch McCONNELL,274
+Spencer,AB2,U.S. Senate,,DEM,Alison Lundergan GRIMES,28
+Spencer,AB4,U.S. Senate,,DEM,Alison Lundergan GRIMES,65
+Spencer,A101A,U.S. Senate,,DEM,Alison Lundergan GRIMES,471
+Spencer,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,230
+Spencer,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,181
+Spencer,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,208
+Spencer,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,288
+Spencer,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,116
+Spencer,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,130
+Spencer,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,52
+Spencer,D104,U.S. Senate,,DEM,Alison Lundergan GRIMES,36
+Spencer,D105,U.S. Senate,,DEM,Alison Lundergan GRIMES,116
+Spencer,D106,U.S. Senate,,DEM,Alison Lundergan GRIMES,13
+Spencer,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,184
+Spencer,E102,U.S. Senate,,DEM,Alison Lundergan GRIMES,187
+Spencer,E103,U.S. Senate,,DEM,Alison Lundergan GRIMES,140
+Spencer,AB2,U.S. Senate,,LIB,David M. PATTERSON,0
+Spencer,AB4,U.S. Senate,,LIB,David M. PATTERSON,8
+Spencer,A101A,U.S. Senate,,LIB,David M. PATTERSON,40
+Spencer,B101,U.S. Senate,,LIB,David M. PATTERSON,31
+Spencer,B102,U.S. Senate,,LIB,David M. PATTERSON,19
+Spencer,C101,U.S. Senate,,LIB,David M. PATTERSON,29
+Spencer,C102,U.S. Senate,,LIB,David M. PATTERSON,22
+Spencer,D101,U.S. Senate,,LIB,David M. PATTERSON,7
+Spencer,D102,U.S. Senate,,LIB,David M. PATTERSON,18
+Spencer,D103,U.S. Senate,,LIB,David M. PATTERSON,9
+Spencer,D104,U.S. Senate,,LIB,David M. PATTERSON,0
+Spencer,D105,U.S. Senate,,LIB,David M. PATTERSON,14
+Spencer,D106,U.S. Senate,,LIB,David M. PATTERSON,1
+Spencer,E101,U.S. Senate,,LIB,David M. PATTERSON,21
+Spencer,E102,U.S. Senate,,LIB,David M. PATTERSON,24
+Spencer,E103,U.S. Senate,,LIB,David M. PATTERSON,10
+Spencer,AB2,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,57
+Spencer,B101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,511
+Spencer,D101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,177
+Spencer,D102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,245
+Spencer,D103,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,111
+Spencer,E102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,370
+Spencer,AB2,US Representative, 2nd Congressional District,DEM,Ron LEACH,18
+Spencer,B101,US Representative, 2nd Congressional District,DEM,Ron LEACH,199
+Spencer,D101,US Representative, 2nd Congressional District,DEM,Ron LEACH,102
+Spencer,D102,US Representative, 2nd Congressional District,DEM,Ron LEACH,110
+Spencer,D103,US Representative, 2nd Congressional District,DEM,Ron LEACH,44
+Spencer,E102,US Representative, 2nd Congressional District,DEM,Ron LEACH,169
+Spencer,AB4,US Representative, 4th Congressional District,REP,Thomas MASSIE,155
+Spencer,A101A,US Representative, 4th Congressional District,REP,Thomas MASSIE,833
+Spencer,B102,US Representative, 4th Congressional District,REP,Thomas MASSIE,477
+Spencer,C101,US Representative, 4th Congressional District,REP,Thomas MASSIE,505
+Spencer,C102,US Representative, 4th Congressional District,REP,Thomas MASSIE,680
+Spencer,D104,US Representative, 4th Congressional District,REP,Thomas MASSIE,68
+Spencer,D105,US Representative, 4th Congressional District,REP,Thomas MASSIE,200
+Spencer,D106,US Representative, 4th Congressional District,REP,Thomas MASSIE,10
+Spencer,E101,US Representative, 4th Congressional District,REP,Thomas MASSIE,318
+Spencer,E103,US Representative, 4th Congressional District,REP,Thomas MASSIE,286
+Spencer,AB4,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,53
+Spencer,A101A,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,394
+Spencer,B102,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,146
+Spencer,C101,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,168
+Spencer,C102,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,238
+Spencer,D104,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,24
+Spencer,D105,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,111
+Spencer,D106,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,9
+Spencer,E101,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,150
+Spencer,E103,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,116
+Spencer,AB2,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,54
+Spencer,AB4,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,173
+Spencer,A101A,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,1031
+Spencer,B101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,545
+Spencer,B102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,523
+Spencer,C101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,562
+Spencer,C102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,729
+Spencer,D101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,211
+Spencer,D102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,278
+Spencer,D103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,108
+Spencer,D104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,74
+Spencer,D105,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,240
+Spencer,D106,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,14
+Spencer,E101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,377
+Spencer,E102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,436
+Spencer,E103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,336
+Spencer,AB2,State Representative, 53rd Representative District,REP,James A. TIPTON,56
+Spencer,AB4,State Representative, 53rd Representative District,REP,James A. TIPTON,165
+Spencer,A101A,State Representative, 53rd Representative District,REP,James A. TIPTON,807
+Spencer,B101,State Representative, 53rd Representative District,REP,James A. TIPTON,451
+Spencer,B102,State Representative, 53rd Representative District,REP,James A. TIPTON,450
+Spencer,C101,State Representative, 53rd Representative District,REP,James A. TIPTON,483
+Spencer,C102,State Representative, 53rd Representative District,REP,James A. TIPTON,644
+Spencer,D101,State Representative, 53rd Representative District,REP,James A. TIPTON,143
+Spencer,D102,State Representative, 53rd Representative District,REP,James A. TIPTON,222
+Spencer,D103,State Representative, 53rd Representative District,REP,James A. TIPTON,101
+Spencer,D104,State Representative, 53rd Representative District,REP,James A. TIPTON,59
+Spencer,D105,State Representative, 53rd Representative District,REP,James A. TIPTON,190
+Spencer,D106,State Representative, 53rd Representative District,REP,James A. TIPTON,10
+Spencer,E101,State Representative, 53rd Representative District,REP,James A. TIPTON,325
+Spencer,E102,State Representative, 53rd Representative District,REP,James A. TIPTON,316
+Spencer,E103,State Representative, 53rd Representative District,REP,James A. TIPTON,279
+Spencer,AB2,State Representative, 53rd Representative District,DEM,Kent STEVENS,25
+Spencer,AB4,State Representative, 53rd Representative District,DEM,Kent STEVENS,54
+Spencer,A101A,State Representative, 53rd Representative District,DEM,Kent STEVENS,479
+Spencer,B101,State Representative, 53rd Representative District,DEM,Kent STEVENS,261
+Spencer,B102,State Representative, 53rd Representative District,DEM,Kent STEVENS,184
+Spencer,C101,State Representative, 53rd Representative District,DEM,Kent STEVENS,209
+Spencer,C102,State Representative, 53rd Representative District,DEM,Kent STEVENS,276
+Spencer,D101,State Representative, 53rd Representative District,DEM,Kent STEVENS,153
+Spencer,D102,State Representative, 53rd Representative District,DEM,Kent STEVENS,139
+Spencer,D103,State Representative, 53rd Representative District,DEM,Kent STEVENS,59
+Spencer,D104,State Representative, 53rd Representative District,DEM,Kent STEVENS,35
+Spencer,D105,State Representative, 53rd Representative District,DEM,Kent STEVENS,140
+Spencer,D106,State Representative, 53rd Representative District,DEM,Kent STEVENS,11
+Spencer,E101,State Representative, 53rd Representative District,DEM,Kent STEVENS,171
+Spencer,E102,State Representative, 53rd Representative District,DEM,Kent STEVENS,244
+Spencer,E103,State Representative, 53rd Representative District,DEM,Kent STEVENS,135
+Spencer,AB2,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,65
+Spencer,AB4,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,149
+Spencer,A101A,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,959
+Spencer,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,498
+Spencer,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,396
+Spencer,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,465
+Spencer,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,569
+Spencer,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,243
+Spencer,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,271
+Spencer,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,126
+Spencer,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,61
+Spencer,D105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,250
+Spencer,D106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,18
+Spencer,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,370
+Spencer,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,464
+Spencer,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Kim STUMP,276
+Spencer,AB2,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,34
+Spencer,AB4,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,135
+Spencer,A101A,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,600
+Spencer,B101,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,351
+Spencer,B102,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,402
+Spencer,C101,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,396
+Spencer,C102,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,569
+Spencer,D101,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,98
+Spencer,D102,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,143
+Spencer,D103,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,47
+Spencer,D104,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,47
+Spencer,D105,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,127
+Spencer,D106,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,2
+Spencer,E101,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,217
+Spencer,E102,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,237
+Spencer,E103,COUNTY JUDGE/EXECUTIVE,,REP,John RILEY,242
+Spencer,AB2,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",22
+Spencer,AB4,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",51
+Spencer,A101A,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",444
+Spencer,B101,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",231
+Spencer,B102,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",175
+Spencer,C101,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",215
+Spencer,C102,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",301
+Spencer,D101,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",153
+Spencer,D102,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",155
+Spencer,D103,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",51
+Spencer,D104,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",31
+Spencer,D105,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",135
+Spencer,D106,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",9
+Spencer,E101,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",212
+Spencer,E102,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",218
+Spencer,E103,COUNTY JUDGE/EXECUTIVE,,DEM,"Ronald ""Woodie"" CHEEK",130
+Spencer,AB2,COUNTY ATTORNEY,,DEM,Ken JONES,48
+Spencer,AB4,COUNTY ATTORNEY,,DEM,Ken JONES,137
+Spencer,A101A,COUNTY ATTORNEY,,DEM,Ken JONES,927
+Spencer,B101,COUNTY ATTORNEY,,DEM,Ken JONES,453
+Spencer,B102,COUNTY ATTORNEY,,DEM,Ken JONES,378
+Spencer,C101,COUNTY ATTORNEY,,DEM,Ken JONES,439
+Spencer,C102,COUNTY ATTORNEY,,DEM,Ken JONES,501
+Spencer,D101,COUNTY ATTORNEY,,DEM,Ken JONES,227
+Spencer,D102,COUNTY ATTORNEY,,DEM,Ken JONES,247
+Spencer,D103,COUNTY ATTORNEY,,DEM,Ken JONES,104
+Spencer,D104,COUNTY ATTORNEY,,DEM,Ken JONES,56
+Spencer,D105,COUNTY ATTORNEY,,DEM,Ken JONES,238
+Spencer,D106,COUNTY ATTORNEY,,DEM,Ken JONES,14
+Spencer,E101,COUNTY ATTORNEY,,DEM,Ken JONES,354
+Spencer,E102,COUNTY ATTORNEY,,DEM,Ken JONES,433
+Spencer,E103,COUNTY ATTORNEY,,DEM,Ken JONES,257
+Spencer,AB2,COUNTY CLERK,,REP,Lynn HESSELBROCK,41
+Spencer,AB4,COUNTY CLERK,,REP,Lynn HESSELBROCK,133
+Spencer,A101A,COUNTY CLERK,,REP,Lynn HESSELBROCK,638
+Spencer,B101,COUNTY CLERK,,REP,Lynn HESSELBROCK,427
+Spencer,B102,COUNTY CLERK,,REP,Lynn HESSELBROCK,419
+Spencer,C101,COUNTY CLERK,,REP,Lynn HESSELBROCK,395
+Spencer,C102,COUNTY CLERK,,REP,Lynn HESSELBROCK,596
+Spencer,D101,COUNTY CLERK,,REP,Lynn HESSELBROCK,111
+Spencer,D102,COUNTY CLERK,,REP,Lynn HESSELBROCK,198
+Spencer,D103,COUNTY CLERK,,REP,Lynn HESSELBROCK,61
+Spencer,D104,COUNTY CLERK,,REP,Lynn HESSELBROCK,49
+Spencer,D105,COUNTY CLERK,,REP,Lynn HESSELBROCK,135
+Spencer,D106,COUNTY CLERK,,REP,Lynn HESSELBROCK,5
+Spencer,E101,COUNTY CLERK,,REP,Lynn HESSELBROCK,234
+Spencer,E102,COUNTY CLERK,,REP,Lynn HESSELBROCK,274
+Spencer,E103,COUNTY CLERK,,REP,Lynn HESSELBROCK,267
+Spencer,AB2,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,39
+Spencer,AB4,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,85
+Spencer,A101A,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,667
+Spencer,B101,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,290
+Spencer,B102,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,227
+Spencer,C101,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,310
+Spencer,C102,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,328
+Spencer,D101,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,185
+Spencer,D102,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,177
+Spencer,D103,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,99
+Spencer,D104,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,43
+Spencer,D105,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,200
+Spencer,D106,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,15
+Spencer,E101,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,263
+Spencer,E102,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,290
+Spencer,E103,COUNTY CLERK,,DEM,Michelle M. HOUSLEY,152
+Spencer,AB2,SHERIFF,,REP,"Donald ""Buddy"" STUMP",48
+Spencer,AB4,SHERIFF,,REP,"Donald ""Buddy"" STUMP",132
+Spencer,A101A,SHERIFF,,REP,"Donald ""Buddy"" STUMP",584
+Spencer,B101,SHERIFF,,REP,"Donald ""Buddy"" STUMP",467
+Spencer,B102,SHERIFF,,REP,"Donald ""Buddy"" STUMP",439
+Spencer,C101,SHERIFF,,REP,"Donald ""Buddy"" STUMP",419
+Spencer,C102,SHERIFF,,REP,"Donald ""Buddy"" STUMP",605
+Spencer,D101,SHERIFF,,REP,"Donald ""Buddy"" STUMP",98
+Spencer,D102,SHERIFF,,REP,"Donald ""Buddy"" STUMP",219
+Spencer,D103,SHERIFF,,REP,"Donald ""Buddy"" STUMP",69
+Spencer,D104,SHERIFF,,REP,"Donald ""Buddy"" STUMP",60
+Spencer,D105,SHERIFF,,REP,"Donald ""Buddy"" STUMP",135
+Spencer,D106,SHERIFF,,REP,"Donald ""Buddy"" STUMP",8
+Spencer,E101,SHERIFF,,REP,"Donald ""Buddy"" STUMP",250
+Spencer,E102,SHERIFF,,REP,"Donald ""Buddy"" STUMP",274
+Spencer,E103,SHERIFF,,REP,"Donald ""Buddy"" STUMP",264
+Spencer,AB2,SHERIFF,,DEM,Steve COULTER,34
+Spencer,AB4,SHERIFF,,DEM,Steve COULTER,86
+Spencer,A101A,SHERIFF,,DEM,Steve COULTER,730
+Spencer,B101,SHERIFF,,DEM,Steve COULTER,267
+Spencer,B102,SHERIFF,,DEM,Steve COULTER,210
+Spencer,C101,SHERIFF,,DEM,Steve COULTER,287
+Spencer,C102,SHERIFF,,DEM,Steve COULTER,340
+Spencer,D101,SHERIFF,,DEM,Steve COULTER,199
+Spencer,D102,SHERIFF,,DEM,Steve COULTER,157
+Spencer,D103,SHERIFF,,DEM,Steve COULTER,92
+Spencer,D104,SHERIFF,,DEM,Steve COULTER,37
+Spencer,D105,SHERIFF,,DEM,Steve COULTER,207
+Spencer,D106,SHERIFF,,DEM,Steve COULTER,12
+Spencer,E101,SHERIFF,,DEM,Steve COULTER,246
+Spencer,E102,SHERIFF,,DEM,Steve COULTER,297
+Spencer,E103,SHERIFF,,DEM,Steve COULTER,163
+Spencer,AB2,JAILER,,REP,Bobby METCALF,27
+Spencer,AB4,JAILER,,REP,Bobby METCALF,89
+Spencer,A101A,JAILER,,REP,Bobby METCALF,504
+Spencer,B101,JAILER,,REP,Bobby METCALF,330
+Spencer,B102,JAILER,,REP,Bobby METCALF,289
+Spencer,C101,JAILER,,REP,Bobby METCALF,326
+Spencer,C102,JAILER,,REP,Bobby METCALF,497
+Spencer,D101,JAILER,,REP,Bobby METCALF,87
+Spencer,D102,JAILER,,REP,Bobby METCALF,152
+Spencer,D103,JAILER,,REP,Bobby METCALF,40
+Spencer,D104,JAILER,,REP,Bobby METCALF,40
+Spencer,D105,JAILER,,REP,Bobby METCALF,117
+Spencer,D106,JAILER,,REP,Bobby METCALF,5
+Spencer,E101,JAILER,,REP,Bobby METCALF,181
+Spencer,E102,JAILER,,REP,Bobby METCALF,186
+Spencer,E103,JAILER,,REP,Bobby METCALF,207
+Spencer,AB2,JAILER,,DEM,Darrell HERNDON,52
+Spencer,AB4,JAILER,,DEM,Darrell HERNDON,127
+Spencer,A101A,JAILER,,DEM,Darrell HERNDON,770
+Spencer,B101,JAILER,,DEM,Darrell HERNDON,372
+Spencer,B102,JAILER,,DEM,Darrell HERNDON,339
+Spencer,C101,JAILER,,DEM,Darrell HERNDON,349
+Spencer,C102,JAILER,,DEM,Darrell HERNDON,382
+Spencer,D101,JAILER,,DEM,Darrell HERNDON,198
+Spencer,D102,JAILER,,DEM,Darrell HERNDON,205
+Spencer,D103,JAILER,,DEM,Darrell HERNDON,116
+Spencer,D104,JAILER,,DEM,Darrell HERNDON,53
+Spencer,D105,JAILER,,DEM,Darrell HERNDON,208
+Spencer,D106,JAILER,,DEM,Darrell HERNDON,15
+Spencer,E101,JAILER,,DEM,Darrell HERNDON,296
+Spencer,E102,JAILER,,DEM,Darrell HERNDON,366
+Spencer,E103,JAILER,,DEM,Darrell HERNDON,203
+Spencer,AB2,CORONER,,DEM,Danny R. HILBERT,58
+Spencer,AB4,CORONER,,DEM,Danny R. HILBERT,144
+Spencer,A101A,CORONER,,DEM,Danny R. HILBERT,953
+Spencer,B101,CORONER,,DEM,Danny R. HILBERT,486
+Spencer,B102,CORONER,,DEM,Danny R. HILBERT,379
+Spencer,C101,CORONER,,DEM,Danny R. HILBERT,452
+Spencer,C102,CORONER,,DEM,Danny R. HILBERT,530
+Spencer,D101,CORONER,,DEM,Danny R. HILBERT,233
+Spencer,D102,CORONER,,DEM,Danny R. HILBERT,263
+Spencer,D103,CORONER,,DEM,Danny R. HILBERT,118
+Spencer,D104,CORONER,,DEM,Danny R. HILBERT,62
+Spencer,D105,CORONER,,DEM,Danny R. HILBERT,254
+Spencer,D106,CORONER,,DEM,Danny R. HILBERT,19
+Spencer,E101,CORONER,,DEM,Danny R. HILBERT,381
+Spencer,E102,CORONER,,DEM,Danny R. HILBERT,453
+Spencer,E103,CORONER,,DEM,Danny R. HILBERT,267
+Spencer,AB2,COUNTY SURVEYOR,,REP,Jamie D. BROWN,43
+Spencer,AB4,COUNTY SURVEYOR,,REP,Jamie D. BROWN,121
+Spencer,A101A,COUNTY SURVEYOR,,REP,Jamie D. BROWN,638
+Spencer,B101,COUNTY SURVEYOR,,REP,Jamie D. BROWN,391
+Spencer,B102,COUNTY SURVEYOR,,REP,Jamie D. BROWN,375
+Spencer,C101,COUNTY SURVEYOR,,REP,Jamie D. BROWN,376
+Spencer,C102,COUNTY SURVEYOR,,REP,Jamie D. BROWN,558
+Spencer,D101,COUNTY SURVEYOR,,REP,Jamie D. BROWN,121
+Spencer,D102,COUNTY SURVEYOR,,REP,Jamie D. BROWN,171
+Spencer,D103,COUNTY SURVEYOR,,REP,Jamie D. BROWN,56
+Spencer,D104,COUNTY SURVEYOR,,REP,Jamie D. BROWN,49
+Spencer,D105,COUNTY SURVEYOR,,REP,Jamie D. BROWN,146
+Spencer,D106,COUNTY SURVEYOR,,REP,Jamie D. BROWN,6
+Spencer,E101,COUNTY SURVEYOR,,REP,Jamie D. BROWN,230
+Spencer,E102,COUNTY SURVEYOR,,REP,Jamie D. BROWN,259
+Spencer,E103,COUNTY SURVEYOR,,REP,Jamie D. BROWN,225
+Spencer,AB2,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,35
+Spencer,AB4,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,83
+Spencer,A101A,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,588
+Spencer,B101,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,291
+Spencer,B102,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,205
+Spencer,C101,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,272
+Spencer,C102,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,295
+Spencer,D101,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,162
+Spencer,D102,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,168
+Spencer,D103,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,95
+Spencer,D104,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,42
+Spencer,D105,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,167
+Spencer,D106,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,15
+Spencer,E101,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,236
+Spencer,E102,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,272
+Spencer,E103,COUNTY SURVEYOR,,DEM,Garland S. ARMSTRONG,171
+Spencer,AB4,MAGISTRATE 1st Magisterial District,,REP,Jim J. WILLIAMS,62
+Spencer,A101A,MAGISTRATE 1st Magisterial District,,REP,Jim J. WILLIAMS,1038
+Spencer,AB4,CONSTABLE 1st Magisterial District,,REP,James W. ASHLEY,56
+Spencer,A101A,CONSTABLE 1st Magisterial District,,REP,James W. ASHLEY,994
+Spencer,AB2,MAGISTRATE 2nd Magisterial District,,REP,Hobert H. JUDD,18
+Spencer,AB4,MAGISTRATE 2nd Magisterial District,,REP,Hobert H. JUDD,14
+Spencer,B101,MAGISTRATE 2nd Magisterial District,,REP,Hobert H. JUDD,452
+Spencer,B102,MAGISTRATE 2nd Magisterial District,,REP,Hobert H. JUDD,436
+Spencer,AB2,MAGISTRATE 2nd Magisterial District,,DEM,Sue TODD,7
+Spencer,AB4,MAGISTRATE 2nd Magisterial District,,DEM,Sue TODD,6
+Spencer,B101,MAGISTRATE 2nd Magisterial District,,DEM,Sue TODD,260
+Spencer,B102,MAGISTRATE 2nd Magisterial District,,DEM,Sue TODD,182
+Spencer,AB2,CONSTABLE 2nd Magisterial District,,DEM,"Robert ""Bob"" AKRIDGE",14
+Spencer,AB4,CONSTABLE 2nd Magisterial District,,DEM,"Robert ""Bob"" AKRIDGE",10
+Spencer,B101,CONSTABLE 2nd Magisterial District,,DEM,"Robert ""Bob"" AKRIDGE",435
+Spencer,B102,CONSTABLE 2nd Magisterial District,,DEM,"Robert ""Bob"" AKRIDGE",364
+Spencer,AB4,MAGISTRATE 3rd Magisterial District,,REP,Brian BAYERS,36
+Spencer,C101,MAGISTRATE 3rd Magisterial District,,REP,Brian BAYERS,326
+Spencer,C102,MAGISTRATE 3rd Magisterial District,,REP,Brian BAYERS,510
+Spencer,AB4,MAGISTRATE 3rd Magisterial District,,DEM,Jim TRAVIS,29
+Spencer,C101,MAGISTRATE 3rd Magisterial District,,DEM,Jim TRAVIS,355
+Spencer,C102,MAGISTRATE 3rd Magisterial District,,DEM,Jim TRAVIS,371
+Spencer,AB2,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,15
+Spencer,AB4,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,14
+Spencer,D101,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,101
+Spencer,D102,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,209
+Spencer,D103,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,54
+Spencer,D104,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,56
+Spencer,D105,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,156
+Spencer,D106,MAGISTRATE 4th Magisterial District,,REP,Jerry MOODY,5
+Spencer,AB2,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,23
+Spencer,AB4,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,11
+Spencer,D101,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,195
+Spencer,D102,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,148
+Spencer,D103,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,102
+Spencer,D104,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,34
+Spencer,D105,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,170
+Spencer,D106,MAGISTRATE 4th Magisterial District,,DEM,Collis ROGERS,16
+Spencer,AB2,MAGISTRATE 5th Magisterial District,,DEM,David E. GOODLETT,11
+Spencer,AB4,MAGISTRATE 5th Magisterial District,,DEM,David E. GOODLETT,22
+Spencer,E101,MAGISTRATE 5th Magisterial District,,DEM,David E. GOODLETT,374
+Spencer,E102,MAGISTRATE 5th Magisterial District,,DEM,David E. GOODLETT,477
+Spencer,E103,MAGISTRATE 5th Magisterial District,,DEM,David E. GOODLETT,261
+Spencer,AB2,CONSTABLE 5th Magisterial District,,DEM,Larry BENTLEY,8
+Spencer,AB4,CONSTABLE 5th Magisterial District,,DEM,Larry BENTLEY,17
+Spencer,E101,CONSTABLE 5th Magisterial District,,DEM,Larry BENTLEY,358
+Spencer,E102,CONSTABLE 5th Magisterial District,,DEM,Larry BENTLEY,464
+Spencer,E103,CONSTABLE 5th Magisterial District,,DEM,Larry BENTLEY,256
+Spencer,AB2,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,19
+Spencer,AB4,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,66
+Spencer,A101A,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,346
+Spencer,B101,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,222
+Spencer,B102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,173
+Spencer,C101,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,204
+Spencer,C102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,264
+Spencer,D101,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,69
+Spencer,D102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,96
+Spencer,D103,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,34
+Spencer,D104,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,21
+Spencer,D105,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,79
+Spencer,D106,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,7
+Spencer,E101,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,143
+Spencer,E102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,157
+Spencer,E103,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,118
+Spencer,AB2,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,29
+Spencer,AB4,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,77
+Spencer,A101A,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,610
+Spencer,B101,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,271
+Spencer,B102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,242
+Spencer,C101,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,282
+Spencer,C102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,301
+Spencer,D101,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,142
+Spencer,D102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,145
+Spencer,D103,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,74
+Spencer,D104,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,47
+Spencer,D105,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,158
+Spencer,D106,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,8
+Spencer,E101,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,229
+Spencer,E102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,269
+Spencer,E103,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,168
+Spencer,AB2,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,37
+Spencer,AB4,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,90
+Spencer,A101A,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,651
+Spencer,B101,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,325
+Spencer,B102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,296
+Spencer,C101,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,336
+Spencer,C102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,401
+Spencer,D101,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,145
+Spencer,D102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,147
+Spencer,D103,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,75
+Spencer,D104,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,42
+Spencer,D105,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,157
+Spencer,D106,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,13
+Spencer,E101,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,268
+Spencer,E102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,299
+Spencer,E103,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,207
+Spencer,AB2,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,13
+Spencer,AB4,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,52
+Spencer,A101A,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,315
+Spencer,B101,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,179
+Spencer,B102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,119
+Spencer,C101,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,152
+Spencer,C102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,178
+Spencer,D101,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,68
+Spencer,D102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,94
+Spencer,D103,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,40
+Spencer,D104,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,26
+Spencer,D105,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,83
+Spencer,D106,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,2
+Spencer,E101,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,104
+Spencer,E102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,125
+Spencer,E103,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,83
+Spencer,AB2,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,44
+Spencer,AB4,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,124
+Spencer,A101A,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,834
+Spencer,B101,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,422
+Spencer,B102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,367
+Spencer,C101,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,419
+Spencer,C102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,474
+Spencer,D101,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,176
+Spencer,D102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,200
+Spencer,D103,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,90
+Spencer,D104,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,49
+Spencer,D105,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,207
+Spencer,D106,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,14
+Spencer,E101,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,326
+Spencer,E102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,391
+Spencer,E103,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,239
+Spencer,AB2,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,47
+Spencer,AB4,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,135
+Spencer,A101A,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,878
+Spencer,B101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,434
+Spencer,B102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,378
+Spencer,C101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,422
+Spencer,C102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,477
+Spencer,D101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,190
+Spencer,D102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,209
+Spencer,D103,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,93
+Spencer,D104,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,56
+Spencer,D105,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,215
+Spencer,D106,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,16
+Spencer,E101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,325
+Spencer,E102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,404
+Spencer,E103,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,248
+Spencer,AB2,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,42
+Spencer,AB4,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,95
+Spencer,A101A,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,597
+Spencer,B101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,290
+Spencer,B102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,272
+Spencer,C101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,268
+Spencer,C102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,337
+Spencer,D101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,108
+Spencer,D102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,167
+Spencer,D103,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,76
+Spencer,D104,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,32
+Spencer,D105,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,149
+Spencer,D106,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,7
+Spencer,E101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,242
+Spencer,E102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,304
+Spencer,E103,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,171
+Spencer,AB2,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,24
+Spencer,AB4,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,75
+Spencer,A101A,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,472
+Spencer,B101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,232
+Spencer,B102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,190
+Spencer,C101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,261
+Spencer,C102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,272
+Spencer,D101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,139
+Spencer,D102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,99
+Spencer,D103,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,51
+Spencer,D104,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,41
+Spencer,D105,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,136
+Spencer,D106,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,9
+Spencer,E101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,167
+Spencer,E102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,178
+Spencer,E103,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,139
+Spencer,AB2,District Judge, 53rd Judicial District,,J. R. RoBARDS,44
+Spencer,AB4,District Judge, 53rd Judicial District,,J. R. RoBARDS,128
+Spencer,A101A,District Judge, 53rd Judicial District,,J. R. RoBARDS,844
+Spencer,B101,District Judge, 53rd Judicial District,,J. R. RoBARDS,430
+Spencer,B102,District Judge, 53rd Judicial District,,J. R. RoBARDS,363
+Spencer,C101,District Judge, 53rd Judicial District,,J. R. RoBARDS,416
+Spencer,C102,District Judge, 53rd Judicial District,,J. R. RoBARDS,460
+Spencer,D101,District Judge, 53rd Judicial District,,J. R. RoBARDS,179
+Spencer,D102,District Judge, 53rd Judicial District,,J. R. RoBARDS,210
+Spencer,D103,District Judge, 53rd Judicial District,,J. R. RoBARDS,89
+Spencer,D104,District Judge, 53rd Judicial District,,J. R. RoBARDS,51
+Spencer,D105,District Judge, 53rd Judicial District,,J. R. RoBARDS,199
+Spencer,D106,District Judge, 53rd Judicial District,,J. R. RoBARDS,15
+Spencer,E101,District Judge, 53rd Judicial District,,J. R. RoBARDS,319
+Spencer,E102,District Judge, 53rd Judicial District,,J. R. RoBARDS,389
+Spencer,E103,District Judge, 53rd Judicial District,,J. R. RoBARDS,240
+Spencer,AB2,District Judge, 53rd Judicial District,,Donna DUTTON,47
+Spencer,AB4,District Judge, 53rd Judicial District,,Donna DUTTON,116
+Spencer,A101A,District Judge, 53rd Judicial District,,Donna DUTTON,669
+Spencer,B101,District Judge, 53rd Judicial District,,Donna DUTTON,371
+Spencer,B102,District Judge, 53rd Judicial District,,Donna DUTTON,302
+Spencer,C101,District Judge, 53rd Judicial District,,Donna DUTTON,277
+Spencer,C102,District Judge, 53rd Judicial District,,Donna DUTTON,376
+Spencer,D101,District Judge, 53rd Judicial District,,Donna DUTTON,160
+Spencer,D102,District Judge, 53rd Judicial District,,Donna DUTTON,153
+Spencer,D103,District Judge, 53rd Judicial District,,Donna DUTTON,73
+Spencer,D104,District Judge, 53rd Judicial District,,Donna DUTTON,55
+Spencer,D105,District Judge, 53rd Judicial District,,Donna DUTTON,183
+Spencer,D106,District Judge, 53rd Judicial District,,Donna DUTTON,14
+Spencer,E101,District Judge, 53rd Judicial District,,Donna DUTTON,230
+Spencer,E102,District Judge, 53rd Judicial District,,Donna DUTTON,299
+Spencer,E103,District Judge, 53rd Judicial District,,Donna DUTTON,205
+Spencer,AB2,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,21
+Spencer,AB4,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,57
+Spencer,A101A,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,326
+Spencer,B101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,171
+Spencer,B102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,143
+Spencer,C101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,181
+Spencer,C102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,190
+Spencer,D101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,77
+Spencer,D102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,87
+Spencer,D103,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,50
+Spencer,D104,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,27
+Spencer,D105,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,90
+Spencer,D106,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,5
+Spencer,E101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,167
+Spencer,E102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,174
+Spencer,E103,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,99
+Spencer,AB4,MEMBER BOARD of EDUCATION 1st Educational District,,,Bart STARK,48
+Spencer,A101A,MEMBER BOARD of EDUCATION 1st Educational District,,,Bart STARK,822
+Spencer,AB2,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Terri COOPER,5
+Spencer,AB4,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Terri COOPER,9
+Spencer,B101,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Terri COOPER,185
+Spencer,B102,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Terri COOPER,152
+Spencer,AB2,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Debbie HERNDON,18
+Spencer,AB4,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Debbie HERNDON,10
+Spencer,B101,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Debbie HERNDON,394
+Spencer,B102,MEMBER BOARD of EDUCATION 2nd Educational District (Unexpired Term),,,Debbie HERNDON,313
+Spencer,AB2,MEMBER BOARD of EDUCATION 5th Educational District,,,Sandy CLEVENGER,9
+Spencer,AB4,MEMBER BOARD of EDUCATION 5th Educational District,,,Sandy CLEVENGER,16
+Spencer,E101,MEMBER BOARD of EDUCATION 5th Educational District,,,Sandy CLEVENGER,263
+Spencer,E102,MEMBER BOARD of EDUCATION 5th Educational District,,,Sandy CLEVENGER,296
+Spencer,E103,MEMBER BOARD of EDUCATION 5th Educational District,,,Sandy CLEVENGER,183
+Spencer,AB2,MEMBER BOARD of EDUCATION 5th Educational District,,,Ralph DUNBAR,5
+Spencer,AB4,MEMBER BOARD of EDUCATION 5th Educational District,,,Ralph DUNBAR,8
+Spencer,E101,MEMBER BOARD of EDUCATION 5th Educational District,,,Ralph DUNBAR,145
+Spencer,E102,MEMBER BOARD of EDUCATION 5th Educational District,,,Ralph DUNBAR,197
+Spencer,E103,MEMBER BOARD of EDUCATION 5th Educational District,,,Ralph DUNBAR,129
+Spencer,AB4,MAYOR City of Taylorsville,,,Don PAY,22
+Spencer,A101A,MAYOR City of Taylorsville,,,Don PAY,328
+Spencer,AB4,CITY COMMISSIONERS City of Taylorsville,,,Kathy SPEARS,20
+Spencer,A101A,CITY COMMISSIONERS City of Taylorsville,,,Kathy SPEARS,302
+Spencer,AB4,CITY COMMISSIONERS City of Taylorsville,,,Jack PROCTOR,20
+Spencer,A101A,CITY COMMISSIONERS City of Taylorsville,,,Jack PROCTOR,241
+Spencer,AB4,CITY COMMISSIONERS City of Taylorsville,,,Beverly Bentley INGRAM,20
+Spencer,A101A,CITY COMMISSIONERS City of Taylorsville,,,Beverly Bentley INGRAM,264
+Spencer,AB4,CITY COMMISSIONERS City of Taylorsville,,,Mellissa Ellen REDMON,19
+Spencer,A101A,CITY COMMISSIONERS City of Taylorsville,,,Mellissa Ellen REDMON,272

@@ -1,0 +1,754 @@
+county,precinct,office,district,party,candidate,votes
+Henry,AB,U.S. Senate,,REP,Rand PAUL,132
+Henry,A101,U.S. Senate,,REP,Rand PAUL,195
+Henry,A102,U.S. Senate,,REP,Rand PAUL,168
+Henry,A103,U.S. Senate,,REP,Rand PAUL,121
+Henry,B101,U.S. Senate,,REP,Rand PAUL,270
+Henry,B102,U.S. Senate,,REP,Rand PAUL,263
+Henry,B103,U.S. Senate,,REP,Rand PAUL,159
+Henry,C101,U.S. Senate,,REP,Rand PAUL,252
+Henry,C102,U.S. Senate,,REP,Rand PAUL,163
+Henry,C103,U.S. Senate,,REP,Rand PAUL,57
+Henry,D101,U.S. Senate,,REP,Rand PAUL,239
+Henry,D102,U.S. Senate,,REP,Rand PAUL,127
+Henry,D103,U.S. Senate,,REP,Rand PAUL,83
+Henry,E101,U.S. Senate,,REP,Rand PAUL,65
+Henry,E102,U.S. Senate,,REP,Rand PAUL,53
+Henry,E103,U.S. Senate,,REP,Rand PAUL,123
+Henry,E104,U.S. Senate,,REP,Rand PAUL,81
+Henry,E105,U.S. Senate,,REP,Rand PAUL,82
+Henry,F101,U.S. Senate,,REP,Rand PAUL,78
+Henry,F102,U.S. Senate,,REP,Rand PAUL,59
+Henry,F103,U.S. Senate,,REP,Rand PAUL,222
+Henry,AB,U.S. Senate,,DEM,Jack CONWAY,113
+Henry,A101,U.S. Senate,,DEM,Jack CONWAY,263
+Henry,A102,U.S. Senate,,DEM,Jack CONWAY,188
+Henry,A103,U.S. Senate,,DEM,Jack CONWAY,71
+Henry,B101,U.S. Senate,,DEM,Jack CONWAY,166
+Henry,B102,U.S. Senate,,DEM,Jack CONWAY,171
+Henry,B103,U.S. Senate,,DEM,Jack CONWAY,93
+Henry,C101,U.S. Senate,,DEM,Jack CONWAY,284
+Henry,C102,U.S. Senate,,DEM,Jack CONWAY,153
+Henry,C103,U.S. Senate,,DEM,Jack CONWAY,43
+Henry,D101,U.S. Senate,,DEM,Jack CONWAY,212
+Henry,D102,U.S. Senate,,DEM,Jack CONWAY,109
+Henry,D103,U.S. Senate,,DEM,Jack CONWAY,58
+Henry,E101,U.S. Senate,,DEM,Jack CONWAY,26
+Henry,E102,U.S. Senate,,DEM,Jack CONWAY,51
+Henry,E103,U.S. Senate,,DEM,Jack CONWAY,72
+Henry,E104,U.S. Senate,,DEM,Jack CONWAY,71
+Henry,E105,U.S. Senate,,DEM,Jack CONWAY,50
+Henry,F101,U.S. Senate,,DEM,Jack CONWAY,88
+Henry,F102,U.S. Senate,,DEM,Jack CONWAY,60
+Henry,F103,U.S. Senate,,DEM,Jack CONWAY,209
+Henry,AB,U.S. Senate,,,Billy Ray WILSON,0
+Henry,A101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,A102,U.S. Senate,,,Billy Ray WILSON,0
+Henry,A103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,B101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,B102,U.S. Senate,,,Billy Ray WILSON,2
+Henry,B103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,C101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,C102,U.S. Senate,,,Billy Ray WILSON,0
+Henry,C103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,D101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,D102,U.S. Senate,,,Billy Ray WILSON,0
+Henry,D103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,E101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,E102,U.S. Senate,,,Billy Ray WILSON,0
+Henry,E103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,E104,U.S. Senate,,,Billy Ray WILSON,0
+Henry,E105,U.S. Senate,,,Billy Ray WILSON,1
+Henry,F101,U.S. Senate,,,Billy Ray WILSON,0
+Henry,F102,U.S. Senate,,,Billy Ray WILSON,0
+Henry,F103,U.S. Senate,,,Billy Ray WILSON,0
+Henry,AB,US Representative, 4th Congressional District,REP,Geoff DAVIS,160
+Henry,A101,US Representative, 4th Congressional District,REP,Geoff DAVIS,252
+Henry,A102,US Representative, 4th Congressional District,REP,Geoff DAVIS,197
+Henry,A103,US Representative, 4th Congressional District,REP,Geoff DAVIS,141
+Henry,B101,US Representative, 4th Congressional District,REP,Geoff DAVIS,310
+Henry,B102,US Representative, 4th Congressional District,REP,Geoff DAVIS,293
+Henry,B103,US Representative, 4th Congressional District,REP,Geoff DAVIS,180
+Henry,C101,US Representative, 4th Congressional District,REP,Geoff DAVIS,322
+Henry,C102,US Representative, 4th Congressional District,REP,Geoff DAVIS,192
+Henry,C103,US Representative, 4th Congressional District,REP,Geoff DAVIS,59
+Henry,D101,US Representative, 4th Congressional District,REP,Geoff DAVIS,303
+Henry,D102,US Representative, 4th Congressional District,REP,Geoff DAVIS,149
+Henry,D103,US Representative, 4th Congressional District,REP,Geoff DAVIS,95
+Henry,E101,US Representative, 4th Congressional District,REP,Geoff DAVIS,66
+Henry,E102,US Representative, 4th Congressional District,REP,Geoff DAVIS,63
+Henry,E103,US Representative, 4th Congressional District,REP,Geoff DAVIS,141
+Henry,E104,US Representative, 4th Congressional District,REP,Geoff DAVIS,98
+Henry,E105,US Representative, 4th Congressional District,REP,Geoff DAVIS,97
+Henry,F101,US Representative, 4th Congressional District,REP,Geoff DAVIS,102
+Henry,F102,US Representative, 4th Congressional District,REP,Geoff DAVIS,71
+Henry,F103,US Representative, 4th Congressional District,REP,Geoff DAVIS,282
+Henry,AB,US Representative, 4th Congressional District,DEM,John WALTZ,85
+Henry,A101,US Representative, 4th Congressional District,DEM,John WALTZ,198
+Henry,A102,US Representative, 4th Congressional District,DEM,John WALTZ,148
+Henry,A103,US Representative, 4th Congressional District,DEM,John WALTZ,53
+Henry,B101,US Representative, 4th Congressional District,DEM,John WALTZ,124
+Henry,B102,US Representative, 4th Congressional District,DEM,John WALTZ,138
+Henry,B103,US Representative, 4th Congressional District,DEM,John WALTZ,78
+Henry,C101,US Representative, 4th Congressional District,DEM,John WALTZ,204
+Henry,C102,US Representative, 4th Congressional District,DEM,John WALTZ,113
+Henry,C103,US Representative, 4th Congressional District,DEM,John WALTZ,42
+Henry,D101,US Representative, 4th Congressional District,DEM,John WALTZ,142
+Henry,D102,US Representative, 4th Congressional District,DEM,John WALTZ,80
+Henry,D103,US Representative, 4th Congressional District,DEM,John WALTZ,45
+Henry,E101,US Representative, 4th Congressional District,DEM,John WALTZ,25
+Henry,E102,US Representative, 4th Congressional District,DEM,John WALTZ,38
+Henry,E103,US Representative, 4th Congressional District,DEM,John WALTZ,52
+Henry,E104,US Representative, 4th Congressional District,DEM,John WALTZ,51
+Henry,E105,US Representative, 4th Congressional District,DEM,John WALTZ,34
+Henry,F101,US Representative, 4th Congressional District,DEM,John WALTZ,59
+Henry,F102,US Representative, 4th Congressional District,DEM,John WALTZ,45
+Henry,F103,US Representative, 4th Congressional District,DEM,John WALTZ,151
+Henry,AB,State Senator, 26th Senatorial District,REP,Ernie HARRIS,138
+Henry,A101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,212
+Henry,A102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,177
+Henry,A103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,109
+Henry,B101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,259
+Henry,B102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,227
+Henry,B103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,161
+Henry,C101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,283
+Henry,C102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,175
+Henry,C103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,49
+Henry,D101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,229
+Henry,D102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,119
+Henry,D103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,78
+Henry,E101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,59
+Henry,E102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,61
+Henry,E103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,129
+Henry,E104,State Senator, 26th Senatorial District,REP,Ernie HARRIS,85
+Henry,E105,State Senator, 26th Senatorial District,REP,Ernie HARRIS,75
+Henry,F101,State Senator, 26th Senatorial District,REP,Ernie HARRIS,86
+Henry,F102,State Senator, 26th Senatorial District,REP,Ernie HARRIS,61
+Henry,F103,State Senator, 26th Senatorial District,REP,Ernie HARRIS,240
+Henry,AB,State Senator, 26th Senatorial District,DEM,John W. BLACK,111
+Henry,A101,State Senator, 26th Senatorial District,DEM,John W. BLACK,248
+Henry,A102,State Senator, 26th Senatorial District,DEM,John W. BLACK,176
+Henry,A103,State Senator, 26th Senatorial District,DEM,John W. BLACK,82
+Henry,B101,State Senator, 26th Senatorial District,DEM,John W. BLACK,182
+Henry,B102,State Senator, 26th Senatorial District,DEM,John W. BLACK,209
+Henry,B103,State Senator, 26th Senatorial District,DEM,John W. BLACK,100
+Henry,C101,State Senator, 26th Senatorial District,DEM,John W. BLACK,260
+Henry,C102,State Senator, 26th Senatorial District,DEM,John W. BLACK,141
+Henry,C103,State Senator, 26th Senatorial District,DEM,John W. BLACK,49
+Henry,D101,State Senator, 26th Senatorial District,DEM,John W. BLACK,231
+Henry,D102,State Senator, 26th Senatorial District,DEM,John W. BLACK,119
+Henry,D103,State Senator, 26th Senatorial District,DEM,John W. BLACK,68
+Henry,E101,State Senator, 26th Senatorial District,DEM,John W. BLACK,33
+Henry,E102,State Senator, 26th Senatorial District,DEM,John W. BLACK,42
+Henry,E103,State Senator, 26th Senatorial District,DEM,John W. BLACK,67
+Henry,E104,State Senator, 26th Senatorial District,DEM,John W. BLACK,70
+Henry,E105,State Senator, 26th Senatorial District,DEM,John W. BLACK,61
+Henry,F101,State Senator, 26th Senatorial District,DEM,John W. BLACK,82
+Henry,F102,State Senator, 26th Senatorial District,DEM,John W. BLACK,64
+Henry,F103,State Senator, 26th Senatorial District,DEM,John W. BLACK,195
+Henry,AB,State Representative, 47th Representative District,REP,Theodore BROECKER,92
+Henry,A101,State Representative, 47th Representative District,REP,Theodore BROECKER,133
+Henry,A102,State Representative, 47th Representative District,REP,Theodore BROECKER,124
+Henry,A103,State Representative, 47th Representative District,REP,Theodore BROECKER,88
+Henry,B101,State Representative, 47th Representative District,REP,Theodore BROECKER,219
+Henry,B102,State Representative, 47th Representative District,REP,Theodore BROECKER,219
+Henry,B103,State Representative, 47th Representative District,REP,Theodore BROECKER,131
+Henry,C101,State Representative, 47th Representative District,REP,Theodore BROECKER,185
+Henry,C102,State Representative, 47th Representative District,REP,Theodore BROECKER,100
+Henry,C103,State Representative, 47th Representative District,REP,Theodore BROECKER,31
+Henry,D101,State Representative, 47th Representative District,REP,Theodore BROECKER,148
+Henry,D102,State Representative, 47th Representative District,REP,Theodore BROECKER,66
+Henry,D103,State Representative, 47th Representative District,REP,Theodore BROECKER,55
+Henry,E101,State Representative, 47th Representative District,REP,Theodore BROECKER,37
+Henry,E102,State Representative, 47th Representative District,REP,Theodore BROECKER,35
+Henry,E103,State Representative, 47th Representative District,REP,Theodore BROECKER,84
+Henry,E104,State Representative, 47th Representative District,REP,Theodore BROECKER,48
+Henry,E105,State Representative, 47th Representative District,REP,Theodore BROECKER,53
+Henry,F101,State Representative, 47th Representative District,REP,Theodore BROECKER,49
+Henry,F102,State Representative, 47th Representative District,REP,Theodore BROECKER,37
+Henry,F103,State Representative, 47th Representative District,REP,Theodore BROECKER,131
+Henry,AB,State Representative, 47th Representative District,DEM,Rick W. RAND,153
+Henry,A101,State Representative, 47th Representative District,DEM,Rick W. RAND,319
+Henry,A102,State Representative, 47th Representative District,DEM,Rick W. RAND,225
+Henry,A103,State Representative, 47th Representative District,DEM,Rick W. RAND,102
+Henry,B101,State Representative, 47th Representative District,DEM,Rick W. RAND,217
+Henry,B102,State Representative, 47th Representative District,DEM,Rick W. RAND,212
+Henry,B103,State Representative, 47th Representative District,DEM,Rick W. RAND,129
+Henry,C101,State Representative, 47th Representative District,DEM,Rick W. RAND,355
+Henry,C102,State Representative, 47th Representative District,DEM,Rick W. RAND,213
+Henry,C103,State Representative, 47th Representative District,DEM,Rick W. RAND,70
+Henry,D101,State Representative, 47th Representative District,DEM,Rick W. RAND,311
+Henry,D102,State Representative, 47th Representative District,DEM,Rick W. RAND,164
+Henry,D103,State Representative, 47th Representative District,DEM,Rick W. RAND,91
+Henry,E101,State Representative, 47th Representative District,DEM,Rick W. RAND,55
+Henry,E102,State Representative, 47th Representative District,DEM,Rick W. RAND,66
+Henry,E103,State Representative, 47th Representative District,DEM,Rick W. RAND,107
+Henry,E104,State Representative, 47th Representative District,DEM,Rick W. RAND,105
+Henry,E105,State Representative, 47th Representative District,DEM,Rick W. RAND,85
+Henry,F101,State Representative, 47th Representative District,DEM,Rick W. RAND,116
+Henry,F102,State Representative, 47th Representative District,DEM,Rick W. RAND,77
+Henry,F103,State Representative, 47th Representative District,DEM,Rick W. RAND,300
+Henry,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,208
+Henry,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,408
+Henry,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,300
+Henry,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,140
+Henry,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,280
+Henry,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,297
+Henry,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,166
+Henry,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,435
+Henry,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,245
+Henry,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,79
+Henry,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,368
+Henry,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,191
+Henry,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,99
+Henry,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,57
+Henry,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,78
+Henry,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,151
+Henry,E104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,118
+Henry,E105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,98
+Henry,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,141
+Henry,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,94
+Henry,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jason SCRIBER,372
+Henry,AB,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,75
+Henry,A101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,140
+Henry,A102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,144
+Henry,A103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,92
+Henry,B101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,220
+Henry,B102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,222
+Henry,B103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,149
+Henry,C101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,199
+Henry,C102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,107
+Henry,C103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,35
+Henry,D101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,162
+Henry,D102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,69
+Henry,D103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,69
+Henry,E101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,44
+Henry,E102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,57
+Henry,E103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,82
+Henry,E104,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,47
+Henry,E105,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,42
+Henry,F101,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,59
+Henry,F102,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,57
+Henry,F103,COUNTY JUDGE/EXECUTIVE,,REP,Ricky L. DOYLE,142
+Henry,AB,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,172
+Henry,A101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,298
+Henry,A102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,203
+Henry,A103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,89
+Henry,B101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,210
+Henry,B102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,187
+Henry,B103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,101
+Henry,C101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,323
+Henry,C102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,206
+Henry,C103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,65
+Henry,D101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,285
+Henry,D102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,171
+Henry,D103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,70
+Henry,E101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,48
+Henry,E102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,46
+Henry,E103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,114
+Henry,E104,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,99
+Henry,E105,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,92
+Henry,F101,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,98
+Henry,F102,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,63
+Henry,F103,COUNTY JUDGE/EXECUTIVE,,DEM,John Logan BRENT,285
+Henry,AB,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",8
+Henry,A101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",36
+Henry,A102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",19
+Henry,A103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",12
+Henry,B101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",20
+Henry,B102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",23
+Henry,B103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",10
+Henry,C101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",27
+Henry,C102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",11
+Henry,C103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",3
+Henry,D101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",23
+Henry,D102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",6
+Henry,D103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",8
+Henry,E101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",0
+Henry,E102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",4
+Henry,E103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",6
+Henry,E104,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",5
+Henry,E105,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",6
+Henry,F101,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",16
+Henry,F102,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",10
+Henry,F103,COUNTY JUDGE/EXECUTIVE,,IND,"Robert ""Bob"" COOK",25
+Henry,AB,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,213
+Henry,A101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,398
+Henry,A102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,305
+Henry,A103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,147
+Henry,B101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,295
+Henry,B102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,304
+Henry,B103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,174
+Henry,C101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,436
+Henry,C102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,251
+Henry,C103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,76
+Henry,D101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,377
+Henry,D102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,191
+Henry,D103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,101
+Henry,E101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,58
+Henry,E102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,82
+Henry,E103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,155
+Henry,E104,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,117
+Henry,E105,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,110
+Henry,F101,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,149
+Henry,F102,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,97
+Henry,F103,COUNTY ATTORNEY,,DEM,Virginia Lee HARROD,376
+Henry,AB,COUNTY CLERK,,DEM,Juanita LASHLEY,227
+Henry,A101,COUNTY CLERK,,DEM,Juanita LASHLEY,407
+Henry,A102,COUNTY CLERK,,DEM,Juanita LASHLEY,323
+Henry,A103,COUNTY CLERK,,DEM,Juanita LASHLEY,153
+Henry,B101,COUNTY CLERK,,DEM,Juanita LASHLEY,316
+Henry,B102,COUNTY CLERK,,DEM,Juanita LASHLEY,313
+Henry,B103,COUNTY CLERK,,DEM,Juanita LASHLEY,182
+Henry,C101,COUNTY CLERK,,DEM,Juanita LASHLEY,464
+Henry,C102,COUNTY CLERK,,DEM,Juanita LASHLEY,268
+Henry,C103,COUNTY CLERK,,DEM,Juanita LASHLEY,84
+Henry,D101,COUNTY CLERK,,DEM,Juanita LASHLEY,382
+Henry,D102,COUNTY CLERK,,DEM,Juanita LASHLEY,200
+Henry,D103,COUNTY CLERK,,DEM,Juanita LASHLEY,108
+Henry,E101,COUNTY CLERK,,DEM,Juanita LASHLEY,65
+Henry,E102,COUNTY CLERK,,DEM,Juanita LASHLEY,84
+Henry,E103,COUNTY CLERK,,DEM,Juanita LASHLEY,161
+Henry,E104,COUNTY CLERK,,DEM,Juanita LASHLEY,128
+Henry,E105,COUNTY CLERK,,DEM,Juanita LASHLEY,115
+Henry,F101,COUNTY CLERK,,DEM,Juanita LASHLEY,152
+Henry,F102,COUNTY CLERK,,DEM,Juanita LASHLEY,99
+Henry,F103,COUNTY CLERK,,DEM,Juanita LASHLEY,381
+Henry,AB,SHERIFF,,REP,Danny CRAVENS,204
+Henry,A101,SHERIFF,,REP,Danny CRAVENS,392
+Henry,A102,SHERIFF,,REP,Danny CRAVENS,295
+Henry,A103,SHERIFF,,REP,Danny CRAVENS,164
+Henry,B101,SHERIFF,,REP,Danny CRAVENS,365
+Henry,B102,SHERIFF,,REP,Danny CRAVENS,356
+Henry,B103,SHERIFF,,REP,Danny CRAVENS,209
+Henry,C101,SHERIFF,,REP,Danny CRAVENS,440
+Henry,C102,SHERIFF,,REP,Danny CRAVENS,259
+Henry,C103,SHERIFF,,REP,Danny CRAVENS,87
+Henry,D101,SHERIFF,,REP,Danny CRAVENS,393
+Henry,D102,SHERIFF,,REP,Danny CRAVENS,193
+Henry,D103,SHERIFF,,REP,Danny CRAVENS,117
+Henry,E101,SHERIFF,,REP,Danny CRAVENS,69
+Henry,E102,SHERIFF,,REP,Danny CRAVENS,88
+Henry,E103,SHERIFF,,REP,Danny CRAVENS,165
+Henry,E104,SHERIFF,,REP,Danny CRAVENS,126
+Henry,E105,SHERIFF,,REP,Danny CRAVENS,113
+Henry,F101,SHERIFF,,REP,Danny CRAVENS,156
+Henry,F102,SHERIFF,,REP,Danny CRAVENS,105
+Henry,F103,SHERIFF,,REP,Danny CRAVENS,379
+Henry,AB,JAILER,,REP,Ronnie L. STEPHENS JR.,133
+Henry,A101,JAILER,,REP,Ronnie L. STEPHENS JR.,215
+Henry,A102,JAILER,,REP,Ronnie L. STEPHENS JR.,169
+Henry,A103,JAILER,,REP,Ronnie L. STEPHENS JR.,119
+Henry,B101,JAILER,,REP,Ronnie L. STEPHENS JR.,283
+Henry,B102,JAILER,,REP,Ronnie L. STEPHENS JR.,267
+Henry,B103,JAILER,,REP,Ronnie L. STEPHENS JR.,176
+Henry,C101,JAILER,,REP,Ronnie L. STEPHENS JR.,296
+Henry,C102,JAILER,,REP,Ronnie L. STEPHENS JR.,175
+Henry,C103,JAILER,,REP,Ronnie L. STEPHENS JR.,46
+Henry,D101,JAILER,,REP,Ronnie L. STEPHENS JR.,260
+Henry,D102,JAILER,,REP,Ronnie L. STEPHENS JR.,140
+Henry,D103,JAILER,,REP,Ronnie L. STEPHENS JR.,85
+Henry,E101,JAILER,,REP,Ronnie L. STEPHENS JR.,48
+Henry,E102,JAILER,,REP,Ronnie L. STEPHENS JR.,43
+Henry,E103,JAILER,,REP,Ronnie L. STEPHENS JR.,122
+Henry,E104,JAILER,,REP,Ronnie L. STEPHENS JR.,76
+Henry,E105,JAILER,,REP,Ronnie L. STEPHENS JR.,81
+Henry,F101,JAILER,,REP,Ronnie L. STEPHENS JR.,76
+Henry,F102,JAILER,,REP,Ronnie L. STEPHENS JR.,46
+Henry,F103,JAILER,,REP,Ronnie L. STEPHENS JR.,209
+Henry,AB,JAILER,,DEM,J. C. SUTER,90
+Henry,A101,JAILER,,DEM,J. C. SUTER,168
+Henry,A102,JAILER,,DEM,J. C. SUTER,139
+Henry,A103,JAILER,,DEM,J. C. SUTER,62
+Henry,B101,JAILER,,DEM,J. C. SUTER,130
+Henry,B102,JAILER,,DEM,J. C. SUTER,142
+Henry,B103,JAILER,,DEM,J. C. SUTER,73
+Henry,C101,JAILER,,DEM,J. C. SUTER,197
+Henry,C102,JAILER,,DEM,J. C. SUTER,113
+Henry,C103,JAILER,,DEM,J. C. SUTER,34
+Henry,D101,JAILER,,DEM,J. C. SUTER,121
+Henry,D102,JAILER,,DEM,J. C. SUTER,67
+Henry,D103,JAILER,,DEM,J. C. SUTER,48
+Henry,E101,JAILER,,DEM,J. C. SUTER,35
+Henry,E102,JAILER,,DEM,J. C. SUTER,46
+Henry,E103,JAILER,,DEM,J. C. SUTER,65
+Henry,E104,JAILER,,DEM,J. C. SUTER,55
+Henry,E105,JAILER,,DEM,J. C. SUTER,45
+Henry,F101,JAILER,,DEM,J. C. SUTER,73
+Henry,F102,JAILER,,DEM,J. C. SUTER,53
+Henry,F103,JAILER,,DEM,J. C. SUTER,162
+Henry,AB,JAILER,,,Richard SMITH,1
+Henry,A101,JAILER,,,Richard SMITH,9
+Henry,A102,JAILER,,,Richard SMITH,3
+Henry,A103,JAILER,,,Richard SMITH,2
+Henry,B101,JAILER,,,Richard SMITH,2
+Henry,B102,JAILER,,,Richard SMITH,0
+Henry,B103,JAILER,,,Richard SMITH,0
+Henry,C101,JAILER,,,Richard SMITH,7
+Henry,C102,JAILER,,,Richard SMITH,4
+Henry,C103,JAILER,,,Richard SMITH,5
+Henry,D101,JAILER,,,Richard SMITH,4
+Henry,D102,JAILER,,,Richard SMITH,0
+Henry,D103,JAILER,,,Richard SMITH,0
+Henry,E101,JAILER,,,Richard SMITH,1
+Henry,E102,JAILER,,,Richard SMITH,0
+Henry,E103,JAILER,,,Richard SMITH,0
+Henry,E104,JAILER,,,Richard SMITH,0
+Henry,E105,JAILER,,,Richard SMITH,0
+Henry,F101,JAILER,,,Richard SMITH,1
+Henry,F102,JAILER,,,Richard SMITH,0
+Henry,F103,JAILER,,,Richard SMITH,1
+Henry,AB,JAILER,,,Scott SOUTHWORTH,18
+Henry,A101,JAILER,,,Scott SOUTHWORTH,49
+Henry,A102,JAILER,,,Scott SOUTHWORTH,33
+Henry,A103,JAILER,,,Scott SOUTHWORTH,8
+Henry,B101,JAILER,,,Scott SOUTHWORTH,12
+Henry,B102,JAILER,,,Scott SOUTHWORTH,14
+Henry,B103,JAILER,,,Scott SOUTHWORTH,3
+Henry,C101,JAILER,,,Scott SOUTHWORTH,34
+Henry,C102,JAILER,,,Scott SOUTHWORTH,18
+Henry,C103,JAILER,,,Scott SOUTHWORTH,6
+Henry,D101,JAILER,,,Scott SOUTHWORTH,74
+Henry,D102,JAILER,,,Scott SOUTHWORTH,32
+Henry,D103,JAILER,,,Scott SOUTHWORTH,8
+Henry,E101,JAILER,,,Scott SOUTHWORTH,7
+Henry,E102,JAILER,,,Scott SOUTHWORTH,18
+Henry,E103,JAILER,,,Scott SOUTHWORTH,12
+Henry,E104,JAILER,,,Scott SOUTHWORTH,26
+Henry,E105,JAILER,,,Scott SOUTHWORTH,12
+Henry,F101,JAILER,,,Scott SOUTHWORTH,15
+Henry,F102,JAILER,,,Scott SOUTHWORTH,20
+Henry,F103,JAILER,,,Scott SOUTHWORTH,53
+Henry,AB,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",208
+Henry,A101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",391
+Henry,A102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",298
+Henry,A103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",145
+Henry,B101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",287
+Henry,B102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",303
+Henry,B103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",171
+Henry,C101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",427
+Henry,C102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",250
+Henry,C103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",80
+Henry,D101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",366
+Henry,D102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",189
+Henry,D103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",101
+Henry,E101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",57
+Henry,E102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",82
+Henry,E103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",153
+Henry,E104,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",122
+Henry,E105,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",104
+Henry,F101,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",145
+Henry,F102,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",91
+Henry,F103,CORONER,,DEM,"James E. ""Jimmy"" POLLARD",373
+Henry,AB,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",199
+Henry,A101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",367
+Henry,A102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",279
+Henry,A103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",140
+Henry,B101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",274
+Henry,B102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",295
+Henry,B103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",161
+Henry,C101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",403
+Henry,C102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",235
+Henry,C103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",77
+Henry,D101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",355
+Henry,D102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",185
+Henry,D103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",96
+Henry,E101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",53
+Henry,E102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",77
+Henry,E103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",150
+Henry,E104,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",117
+Henry,E105,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",94
+Henry,F101,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",138
+Henry,F102,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",94
+Henry,F103,COUNTY SURVEYOR,,DEM,"Marshall ""Marty"" BRIGHT",349
+Henry,AB,MAGISTRATE 1st Magisterial District,,REP,Scott BATES,19
+Henry,A101,MAGISTRATE 1st Magisterial District,,REP,Scott BATES,200
+Henry,A102,MAGISTRATE 1st Magisterial District,,REP,Scott BATES,200
+Henry,A103,MAGISTRATE 1st Magisterial District,,REP,Scott BATES,123
+Henry,AB,MAGISTRATE 1st Magisterial District,,DEM,Danny MEADOWS,21
+Henry,A101,MAGISTRATE 1st Magisterial District,,DEM,Danny MEADOWS,271
+Henry,A102,MAGISTRATE 1st Magisterial District,,DEM,Danny MEADOWS,165
+Henry,A103,MAGISTRATE 1st Magisterial District,,DEM,Danny MEADOWS,69
+Henry,AB,CONSTABLE 1st Magisterial District,,DEM,Gary LUCAS,29
+Henry,A101,CONSTABLE 1st Magisterial District,,DEM,Gary LUCAS,392
+Henry,A102,CONSTABLE 1st Magisterial District,,DEM,Gary LUCAS,287
+Henry,A103,CONSTABLE 1st Magisterial District,,DEM,Gary LUCAS,134
+Henry,AB,MAGISTRATE 2nd Magisterial District,,REP,Roger M. HARTLAGE,23
+Henry,B101,MAGISTRATE 2nd Magisterial District,,REP,Roger M. HARTLAGE,206
+Henry,B102,MAGISTRATE 2nd Magisterial District,,REP,Roger M. HARTLAGE,246
+Henry,B103,MAGISTRATE 2nd Magisterial District,,REP,Roger M. HARTLAGE,144
+Henry,AB,MAGISTRATE 2nd Magisterial District,,DEM,Guy S. COOMBS,20
+Henry,B101,MAGISTRATE 2nd Magisterial District,,DEM,Guy S. COOMBS,245
+Henry,B102,MAGISTRATE 2nd Magisterial District,,DEM,Guy S. COOMBS,191
+Henry,B103,MAGISTRATE 2nd Magisterial District,,DEM,Guy S. COOMBS,113
+Henry,AB,CONSTABLE 2nd Magisterial District,,DEM,David Michael ROBINSON,29
+Henry,B101,CONSTABLE 2nd Magisterial District,,DEM,David Michael ROBINSON,265
+Henry,B102,CONSTABLE 2nd Magisterial District,,DEM,David Michael ROBINSON,290
+Henry,B103,CONSTABLE 2nd Magisterial District,,DEM,David Michael ROBINSON,163
+Henry,AB,MAGISTRATE 3rd Magisterial District,,REP,Patrick B. CONLEY,17
+Henry,C101,MAGISTRATE 3rd Magisterial District,,REP,Patrick B. CONLEY,179
+Henry,C102,MAGISTRATE 3rd Magisterial District,,REP,Patrick B. CONLEY,132
+Henry,C103,MAGISTRATE 3rd Magisterial District,,REP,Patrick B. CONLEY,27
+Henry,AB,MAGISTRATE 3rd Magisterial District,,DEM,David K. BROWN,24
+Henry,C101,MAGISTRATE 3rd Magisterial District,,DEM,David K. BROWN,367
+Henry,C102,MAGISTRATE 3rd Magisterial District,,DEM,David K. BROWN,186
+Henry,C103,MAGISTRATE 3rd Magisterial District,,DEM,David K. BROWN,73
+Henry,AB,CONSTABLE 3rd Magisterial District,,DEM,Ryan HAWKINS,33
+Henry,C101,CONSTABLE 3rd Magisterial District,,DEM,Ryan HAWKINS,412
+Henry,C102,CONSTABLE 3rd Magisterial District,,DEM,Ryan HAWKINS,234
+Henry,C103,CONSTABLE 3rd Magisterial District,,DEM,Ryan HAWKINS,77
+Henry,AB,MAGISTRATE 4th Magisterial District,,DEM,Nick E. HAWKINS,44
+Henry,D101,MAGISTRATE 4th Magisterial District,,DEM,Nick E. HAWKINS,376
+Henry,D102,MAGISTRATE 4th Magisterial District,,DEM,Nick E. HAWKINS,201
+Henry,D103,MAGISTRATE 4th Magisterial District,,DEM,Nick E. HAWKINS,104
+Henry,AB,CONSTABLE 4th Magisterial District,,DEM,Brandon M. COBB,40
+Henry,D101,CONSTABLE 4th Magisterial District,,DEM,Brandon M. COBB,340
+Henry,D102,CONSTABLE 4th Magisterial District,,DEM,Brandon M. COBB,173
+Henry,D103,CONSTABLE 4th Magisterial District,,DEM,Brandon M. COBB,93
+Henry,AB,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,36
+Henry,E101,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,61
+Henry,E102,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,85
+Henry,E103,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,148
+Henry,E104,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,123
+Henry,E105,MAGISTRATE 5th Magisterial District,,DEM,Michael FISHER,98
+Henry,AB,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",35
+Henry,E101,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",64
+Henry,E102,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",81
+Henry,E103,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",153
+Henry,E104,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",123
+Henry,E105,CONSTABLE 5th Magisterial District,,DEM,"G. R. ""Bobby"" DOWNEY",98
+Henry,AB,MAGISTRATE 6th Magisterial District,,REP,Justin ATCHISON,20
+Henry,F101,MAGISTRATE 6th Magisterial District,,REP,Justin ATCHISON,106
+Henry,F102,MAGISTRATE 6th Magisterial District,,REP,Justin ATCHISON,35
+Henry,F103,MAGISTRATE 6th Magisterial District,,REP,Justin ATCHISON,217
+Henry,AB,MAGISTRATE 6th Magisterial District,,DEM,Jerry BEASLEY,14
+Henry,F101,MAGISTRATE 6th Magisterial District,,DEM,Jerry BEASLEY,65
+Henry,F102,MAGISTRATE 6th Magisterial District,,DEM,Jerry BEASLEY,95
+Henry,F103,MAGISTRATE 6th Magisterial District,,DEM,Jerry BEASLEY,236
+Henry,AB,CONSTABLE 6th Magisterial District,,DEM,Roger BEASLEY,25
+Henry,F101,CONSTABLE 6th Magisterial District,,DEM,Roger BEASLEY,135
+Henry,F102,CONSTABLE 6th Magisterial District,,DEM,Roger BEASLEY,99
+Henry,F103,CONSTABLE 6th Magisterial District,,DEM,Roger BEASLEY,356
+Henry,AB,District Judge, 12th Judicial District,,Diana E. WHEELER,185
+Henry,A101,District Judge, 12th Judicial District,,Diana E. WHEELER,348
+Henry,A102,District Judge, 12th Judicial District,,Diana E. WHEELER,274
+Henry,A103,District Judge, 12th Judicial District,,Diana E. WHEELER,134
+Henry,B101,District Judge, 12th Judicial District,,Diana E. WHEELER,275
+Henry,B102,District Judge, 12th Judicial District,,Diana E. WHEELER,309
+Henry,B103,District Judge, 12th Judicial District,,Diana E. WHEELER,173
+Henry,C101,District Judge, 12th Judicial District,,Diana E. WHEELER,412
+Henry,C102,District Judge, 12th Judicial District,,Diana E. WHEELER,222
+Henry,C103,District Judge, 12th Judicial District,,Diana E. WHEELER,71
+Henry,D101,District Judge, 12th Judicial District,,Diana E. WHEELER,343
+Henry,D102,District Judge, 12th Judicial District,,Diana E. WHEELER,177
+Henry,D103,District Judge, 12th Judicial District,,Diana E. WHEELER,95
+Henry,E101,District Judge, 12th Judicial District,,Diana E. WHEELER,53
+Henry,E102,District Judge, 12th Judicial District,,Diana E. WHEELER,67
+Henry,E103,District Judge, 12th Judicial District,,Diana E. WHEELER,136
+Henry,E104,District Judge, 12th Judicial District,,Diana E. WHEELER,112
+Henry,E105,District Judge, 12th Judicial District,,Diana E. WHEELER,95
+Henry,F101,District Judge, 12th Judicial District,,Diana E. WHEELER,134
+Henry,F102,District Judge, 12th Judicial District,,Diana E. WHEELER,84
+Henry,F103,District Judge, 12th Judicial District,,Diana E. WHEELER,344
+Henry,AB,District Judge, 12th Judicial District,,Jerry D. CROSBY,149
+Henry,A101,District Judge, 12th Judicial District,,Jerry D. CROSBY,303
+Henry,A102,District Judge, 12th Judicial District,,Jerry D. CROSBY,227
+Henry,A103,District Judge, 12th Judicial District,,Jerry D. CROSBY,94
+Henry,B101,District Judge, 12th Judicial District,,Jerry D. CROSBY,184
+Henry,B102,District Judge, 12th Judicial District,,Jerry D. CROSBY,184
+Henry,B103,District Judge, 12th Judicial District,,Jerry D. CROSBY,110
+Henry,C101,District Judge, 12th Judicial District,,Jerry D. CROSBY,304
+Henry,C102,District Judge, 12th Judicial District,,Jerry D. CROSBY,166
+Henry,C103,District Judge, 12th Judicial District,,Jerry D. CROSBY,42
+Henry,D101,District Judge, 12th Judicial District,,Jerry D. CROSBY,283
+Henry,D102,District Judge, 12th Judicial District,,Jerry D. CROSBY,151
+Henry,D103,District Judge, 12th Judicial District,,Jerry D. CROSBY,68
+Henry,E101,District Judge, 12th Judicial District,,Jerry D. CROSBY,32
+Henry,E102,District Judge, 12th Judicial District,,Jerry D. CROSBY,37
+Henry,E103,District Judge, 12th Judicial District,,Jerry D. CROSBY,101
+Henry,E104,District Judge, 12th Judicial District,,Jerry D. CROSBY,79
+Henry,E105,District Judge, 12th Judicial District,,Jerry D. CROSBY,75
+Henry,F101,District Judge, 12th Judicial District,,Jerry D. CROSBY,107
+Henry,F102,District Judge, 12th Judicial District,,Jerry D. CROSBY,57
+Henry,F103,District Judge, 12th Judicial District,,Jerry D. CROSBY,254
+Henry,AB,District Judge, 12th Judicial District,,John SHAUGHNESSY,56
+Henry,A101,District Judge, 12th Judicial District,,John SHAUGHNESSY,103
+Henry,A102,District Judge, 12th Judicial District,,John SHAUGHNESSY,81
+Henry,A103,District Judge, 12th Judicial District,,John SHAUGHNESSY,61
+Henry,B101,District Judge, 12th Judicial District,,John SHAUGHNESSY,145
+Henry,B102,District Judge, 12th Judicial District,,John SHAUGHNESSY,141
+Henry,B103,District Judge, 12th Judicial District,,John SHAUGHNESSY,86
+Henry,C101,District Judge, 12th Judicial District,,John SHAUGHNESSY,139
+Henry,C102,District Judge, 12th Judicial District,,John SHAUGHNESSY,90
+Henry,C103,District Judge, 12th Judicial District,,John SHAUGHNESSY,32
+Henry,D101,District Judge, 12th Judicial District,,John SHAUGHNESSY,104
+Henry,D102,District Judge, 12th Judicial District,,John SHAUGHNESSY,47
+Henry,D103,District Judge, 12th Judicial District,,John SHAUGHNESSY,39
+Henry,E101,District Judge, 12th Judicial District,,John SHAUGHNESSY,35
+Henry,E102,District Judge, 12th Judicial District,,John SHAUGHNESSY,43
+Henry,E103,District Judge, 12th Judicial District,,John SHAUGHNESSY,49
+Henry,E104,District Judge, 12th Judicial District,,John SHAUGHNESSY,43
+Henry,E105,District Judge, 12th Judicial District,,John SHAUGHNESSY,28
+Henry,F101,District Judge, 12th Judicial District,,John SHAUGHNESSY,41
+Henry,F102,District Judge, 12th Judicial District,,John SHAUGHNESSY,41
+Henry,F103,District Judge, 12th Judicial District,,John SHAUGHNESSY,117
+Henry,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Tony WHALEY,29
+Henry,A103,MEMBER BOARD of EDUCATION 1st Educational District,,,Tony WHALEY,111
+Henry,B101,MEMBER BOARD of EDUCATION 1st Educational District,,,Tony WHALEY,192
+Henry,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Tony WHALEY,223
+Henry,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Phoebe THURMAN-THOMPSON,27
+Henry,A103,MEMBER BOARD of EDUCATION 1st Educational District,,,Phoebe THURMAN-THOMPSON,49
+Henry,B101,MEMBER BOARD of EDUCATION 1st Educational District,,,Phoebe THURMAN-THOMPSON,143
+Henry,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Phoebe THURMAN-THOMPSON,199
+Henry,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Anthony Todd STOREY,2
+Henry,E103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Anthony Todd STOREY,8
+Henry,F103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Anthony Todd STOREY,27
+Henry,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Miranda CLUBB,16
+Henry,E103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Miranda CLUBB,109
+Henry,F103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Miranda CLUBB,260
+Henry,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Roy WINCHESTER,9
+Henry,E103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Roy WINCHESTER,64
+Henry,F103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Roy WINCHESTER,126
+Henry,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,Harold R. BRATTON,30
+Henry,B102,MEMBER BOARD of EDUCATION 5th Educational District,,,Harold R. BRATTON,291
+Henry,B103,MEMBER BOARD of EDUCATION 5th Educational District,,,Harold R. BRATTON,161
+Henry,C101,MEMBER BOARD of EDUCATION 5th Educational District,,,Harold R. BRATTON,403
+Henry,D103,MEMBER BOARD of EDUCATION 5th Educational District,,,Harold R. BRATTON,97
+Henry,AB,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Brenda L. CHISM,24
+Henry,A101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Brenda L. CHISM,326
+Henry,A102,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Brenda L. CHISM,258
+Henry,F101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Brenda L. CHISM,125
+Henry,AB,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Tony ADAMS,25
+Henry,A101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Tony ADAMS,331
+Henry,A102,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Tony ADAMS,252
+Henry,F101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Tony ADAMS,126
+Henry,AB,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Pamela MOREHEAD-JOHNSON,27
+Henry,A101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Pamela MOREHEAD-JOHNSON,330
+Henry,A102,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Pamela MOREHEAD-JOHNSON,251
+Henry,F101,MEMBER BOARD of EDUCATION Eminence Independent School District,,,Pamela MOREHEAD-JOHNSON,127
+Henry,AB,MAYOR City of Campbellsburg,,,Jan Frederick FLETCHER,3
+Henry,C101,MAYOR City of Campbellsburg,,,Jan Frederick FLETCHER,96
+Henry,AB,MAYOR City of Campbellsburg,,,Rex W. MORGAN,7
+Henry,C101,MAYOR City of Campbellsburg,,,Rex W. MORGAN,172
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Steven JUDY,4
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Steven JUDY,108
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Jason STANLEY,8
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Jason STANLEY,205
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,John E. SUTER,8
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,John E. SUTER,187
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Dave GRAY,4
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Dave GRAY,116
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Sharen CLEM,6
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Sharen CLEM,168
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Jennifer D. BRATTON,6
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Jennifer D. BRATTON,168
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Shelley NOE,5
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Shelley NOE,120
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Jonathan WRIGHT,1
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Jonathan WRIGHT,114
+Henry,AB,CITY COUNCIL City of Campbellsburg,,,Earl HIGGINS,6
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Earl HIGGINS,157
+Henry,AB,MAYOR City of Eminence,,,Drane STEPHENS,16
+Henry,A101,MAYOR City of Eminence,,,Drane STEPHENS,188
+Henry,A102,MAYOR City of Eminence,,,Drane STEPHENS,109
+Henry,F101,MAYOR City of Eminence,,,Drane STEPHENS,52
+Henry,AB,MAYOR City of Eminence,,,Shawn C. BRIGHT,7
+Henry,A101,MAYOR City of Eminence,,,Shawn C. BRIGHT,117
+Henry,A102,MAYOR City of Eminence,,,Shawn C. BRIGHT,81
+Henry,F101,MAYOR City of Eminence,,,Shawn C. BRIGHT,30
+Henry,AB,MAYOR City of Eminence,,,Manda GINGRICH,6
+Henry,A101,MAYOR City of Eminence,,,Manda GINGRICH,110
+Henry,A102,MAYOR City of Eminence,,,Manda GINGRICH,55
+Henry,F101,MAYOR City of Eminence,,,Manda GINGRICH,28
+Henry,AB,CITY COUNCIL City of Eminence,,,Howard ROBERTS,12
+Henry,A101,CITY COUNCIL City of Eminence,,,Howard ROBERTS,134
+Henry,A102,CITY COUNCIL City of Eminence,,,Howard ROBERTS,94
+Henry,F101,CITY COUNCIL City of Eminence,,,Howard ROBERTS,53
+Henry,AB,CITY COUNCIL City of Eminence,,,Kristen HABICH,3
+Henry,A101,CITY COUNCIL City of Eminence,,,Kristen HABICH,58
+Henry,A102,CITY COUNCIL City of Eminence,,,Kristen HABICH,43
+Henry,F101,CITY COUNCIL City of Eminence,,,Kristen HABICH,30
+Henry,AB,CITY COUNCIL City of Eminence,,,E. LeeAnn ARMSTRONG,16
+Henry,A101,CITY COUNCIL City of Eminence,,,E. LeeAnn ARMSTRONG,265
+Henry,A102,CITY COUNCIL City of Eminence,,,E. LeeAnn ARMSTRONG,147
+Henry,F101,CITY COUNCIL City of Eminence,,,E. LeeAnn ARMSTRONG,65
+Henry,AB,CITY COUNCIL City of Eminence,,,Kevin WHITT,11
+Henry,A101,CITY COUNCIL City of Eminence,,,Kevin WHITT,207
+Henry,A102,CITY COUNCIL City of Eminence,,,Kevin WHITT,90
+Henry,F101,CITY COUNCIL City of Eminence,,,Kevin WHITT,51
+Henry,AB,CITY COUNCIL City of Eminence,,,Glenn SIMPSON,8
+Henry,A101,CITY COUNCIL City of Eminence,,,Glenn SIMPSON,152
+Henry,A102,CITY COUNCIL City of Eminence,,,Glenn SIMPSON,95
+Henry,F101,CITY COUNCIL City of Eminence,,,Glenn SIMPSON,36
+Henry,AB,CITY COUNCIL City of Eminence,,,Jeremiah CLARK,5
+Henry,A101,CITY COUNCIL City of Eminence,,,Jeremiah CLARK,177
+Henry,A102,CITY COUNCIL City of Eminence,,,Jeremiah CLARK,86
+Henry,F101,CITY COUNCIL City of Eminence,,,Jeremiah CLARK,54
+Henry,AB,CITY COUNCIL City of Eminence,,,Jim PETITT,14
+Henry,A101,CITY COUNCIL City of Eminence,,,Jim PETITT,142
+Henry,A102,CITY COUNCIL City of Eminence,,,Jim PETITT,96
+Henry,F101,CITY COUNCIL City of Eminence,,,Jim PETITT,48
+Henry,AB,CITY COUNCIL City of Eminence,,,"Pauline ""Polly"" TROXELL",19
+Henry,A101,CITY COUNCIL City of Eminence,,,"Pauline ""Polly"" TROXELL",241
+Henry,A102,CITY COUNCIL City of Eminence,,,"Pauline ""Polly"" TROXELL",146
+Henry,F101,CITY COUNCIL City of Eminence,,,"Pauline ""Polly"" TROXELL",76
+Henry,AB,CITY COUNCIL City of Eminence,,,Tom SHROYER,11
+Henry,A101,CITY COUNCIL City of Eminence,,,Tom SHROYER,178
+Henry,A102,CITY COUNCIL City of Eminence,,,Tom SHROYER,123
+Henry,F101,CITY COUNCIL City of Eminence,,,Tom SHROYER,48
+Henry,AB,CITY COUNCIL City of Eminence,,,Treva BROWNING,14
+Henry,A101,CITY COUNCIL City of Eminence,,,Treva BROWNING,172
+Henry,A102,CITY COUNCIL City of Eminence,,,Treva BROWNING,112
+Henry,F101,CITY COUNCIL City of Eminence,,,Treva BROWNING,60
+Henry,AB,CITY COUNCIL City of Eminence,,,Leo MASON,13
+Henry,A101,CITY COUNCIL City of Eminence,,,Leo MASON,260
+Henry,A102,CITY COUNCIL City of Eminence,,,Leo MASON,166
+Henry,F101,CITY COUNCIL City of Eminence,,,Leo MASON,78
+Henry,AB,CITY COUNCIL City of Eminence,,,Margaret Green BEAUMONT,10
+Henry,A101,CITY COUNCIL City of Eminence,,,Margaret Green BEAUMONT,113
+Henry,A102,CITY COUNCIL City of Eminence,,,Margaret Green BEAUMONT,79
+Henry,F101,CITY COUNCIL City of Eminence,,,Margaret Green BEAUMONT,34
+Henry,AB,MAYOR City of New Castle,,,"Dennis ""Sugar Bear"" BENHAM",14
+Henry,D101,MAYOR City of New Castle,,,"Dennis ""Sugar Bear"" BENHAM",112
+Henry,D102,MAYOR City of New Castle,,,"Dennis ""Sugar Bear"" BENHAM",115
+Henry,AB,CITY COMMISSIONERS City of New Castle,,,Linda GOLDEN,15
+Henry,D101,CITY COMMISSIONERS City of New Castle,,,Linda GOLDEN,105
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Linda GOLDEN,107
+Henry,AB,CITY COMMISSIONERS City of New Castle,,,Donna James FELTNER,7
+Henry,D101,CITY COMMISSIONERS City of New Castle,,,Donna James FELTNER,78
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Donna James FELTNER,81
+Henry,AB,CITY COMMISSIONERS City of New Castle,,,Donna GATEWOOD,9
+Henry,D101,CITY COMMISSIONERS City of New Castle,,,Donna GATEWOOD,108
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Donna GATEWOOD,96
+Henry,AB,CITY COMMISSIONERS City of New Castle,,,Tommy POLLARD,9
+Henry,D101,CITY COMMISSIONERS City of New Castle,,,Tommy POLLARD,70
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Tommy POLLARD,73
+Henry,AB,CITY COMMISSIONERS City of New Castle,,,Juanita RAISOR,10
+Henry,D101,CITY COMMISSIONERS City of New Castle,,,Juanita RAISOR,86
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Juanita RAISOR,91
+Henry,AB,MAYOR City of Pleasureville,,,Wm. Rodney YOUNG,7
+Henry,F103,MAYOR City of Pleasureville,,,Wm. Rodney YOUNG,148
+Henry,AB,CITY COMMISSIONERS City of Pleasureville,,,Pam BRAMBLETT,5
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Pam BRAMBLETT,118
+Henry,AB,CITY COMMISSIONERS City of Pleasureville,,,Diane PERRY,5
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Diane PERRY,128
+Henry,AB,CITY COMMISSIONERS City of Pleasureville,,,Shawn MERTZ,6
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Shawn MERTZ,118
+Henry,AB,CITY COMMISSIONERS City of Pleasureville,,,R. L. WILSON,6
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,R. L. WILSON,116
+Henry,AB,CITY COMMISSIONERS City of Pleasureville,,,Gerald M. GILBERT,1
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Gerald M. GILBERT,23
+Henry,AB,MAYOR City of Smithfield,,,Kenny BAKER,1
+Henry,A103,MAYOR City of Smithfield,,,Kenny BAKER,27
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Leslie L. BRYANT,0
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Leslie L. BRYANT,27
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Lynn FOX,1
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Lynn FOX,23
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Ruth CLARK,0
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Ruth CLARK,29
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Courtney E. SMITH,0
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Courtney E. SMITH,8
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Saundra B. SMITH,0
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Saundra B. SMITH,12
+Henry,AB,CITY COMMISSIONERS City of Smithfield,,,Sue A KELLEY,0
+Henry,A103,CITY COMMISSIONERS City of Smithfield,,,Sue A KELLEY,18

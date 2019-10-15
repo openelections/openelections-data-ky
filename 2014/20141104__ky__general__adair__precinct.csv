@@ -1,0 +1,584 @@
+county,precinct,office,district,party,candidate,votes
+Adair,AB,U.S. Senate,,REP,Mitch McCONNELL,343
+Adair,A102,U.S. Senate,,REP,Mitch McCONNELL,156
+Adair,A104,U.S. Senate,,REP,Mitch McCONNELL,237
+Adair,A105,U.S. Senate,,REP,Mitch McCONNELL,252
+Adair,B102,U.S. Senate,,REP,Mitch McCONNELL,314
+Adair,B104,U.S. Senate,,REP,Mitch McCONNELL,285
+Adair,C102,U.S. Senate,,REP,Mitch McCONNELL,305
+Adair,C104,U.S. Senate,,REP,Mitch McCONNELL,314
+Adair,D101,U.S. Senate,,REP,Mitch McCONNELL,229
+Adair,D103,U.S. Senate,,REP,Mitch McCONNELL,193
+Adair,D104,U.S. Senate,,REP,Mitch McCONNELL,216
+Adair,E101,U.S. Senate,,REP,Mitch McCONNELL,293
+Adair,E104,U.S. Senate,,REP,Mitch McCONNELL,357
+Adair,F101,U.S. Senate,,REP,Mitch McCONNELL,399
+Adair,F103,U.S. Senate,,REP,Mitch McCONNELL,231
+Adair,G101,U.S. Senate,,REP,Mitch McCONNELL,345
+Adair,G102,U.S. Senate,,REP,Mitch McCONNELL,431
+Adair,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,147
+Adair,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,31
+Adair,A104,U.S. Senate,,DEM,Alison Lundergan GRIMES,61
+Adair,A105,U.S. Senate,,DEM,Alison Lundergan GRIMES,52
+Adair,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,145
+Adair,B104,U.S. Senate,,DEM,Alison Lundergan GRIMES,99
+Adair,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,115
+Adair,C104,U.S. Senate,,DEM,Alison Lundergan GRIMES,136
+Adair,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,69
+Adair,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,69
+Adair,D104,U.S. Senate,,DEM,Alison Lundergan GRIMES,118
+Adair,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,96
+Adair,E104,U.S. Senate,,DEM,Alison Lundergan GRIMES,213
+Adair,F101,U.S. Senate,,DEM,Alison Lundergan GRIMES,230
+Adair,F103,U.S. Senate,,DEM,Alison Lundergan GRIMES,107
+Adair,G101,U.S. Senate,,DEM,Alison Lundergan GRIMES,167
+Adair,G102,U.S. Senate,,DEM,Alison Lundergan GRIMES,168
+Adair,AB,U.S. Senate,,LIB,David M. PATTERSON,13
+Adair,A102,U.S. Senate,,LIB,David M. PATTERSON,4
+Adair,A104,U.S. Senate,,LIB,David M. PATTERSON,12
+Adair,A105,U.S. Senate,,LIB,David M. PATTERSON,4
+Adair,B102,U.S. Senate,,LIB,David M. PATTERSON,18
+Adair,B104,U.S. Senate,,LIB,David M. PATTERSON,16
+Adair,C102,U.S. Senate,,LIB,David M. PATTERSON,16
+Adair,C104,U.S. Senate,,LIB,David M. PATTERSON,13
+Adair,D101,U.S. Senate,,LIB,David M. PATTERSON,10
+Adair,D103,U.S. Senate,,LIB,David M. PATTERSON,17
+Adair,D104,U.S. Senate,,LIB,David M. PATTERSON,5
+Adair,E101,U.S. Senate,,LIB,David M. PATTERSON,20
+Adair,E104,U.S. Senate,,LIB,David M. PATTERSON,16
+Adair,F101,U.S. Senate,,LIB,David M. PATTERSON,11
+Adair,F103,U.S. Senate,,LIB,David M. PATTERSON,9
+Adair,G101,U.S. Senate,,LIB,David M. PATTERSON,28
+Adair,G102,U.S. Senate,,LIB,David M. PATTERSON,27
+Adair,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,365
+Adair,A102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,162
+Adair,A104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,255
+Adair,A105,US Representative, 1st Congressional District,REP,Ed WHITFIELD,257
+Adair,B102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,357
+Adair,B104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,317
+Adair,C102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,333
+Adair,C104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,364
+Adair,D101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,252
+Adair,D103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,217
+Adair,D104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,260
+Adair,E101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,323
+Adair,E104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,445
+Adair,F101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,458
+Adair,F103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,259
+Adair,G101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,421
+Adair,G102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,494
+Adair,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,96
+Adair,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,20
+Adair,A104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,33
+Adair,A105,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,38
+Adair,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,96
+Adair,B104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,57
+Adair,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,75
+Adair,C104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,71
+Adair,D101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,40
+Adair,D103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,48
+Adair,D104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,63
+Adair,E101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,57
+Adair,E104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,118
+Adair,F101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,125
+Adair,F103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,69
+Adair,G101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,95
+Adair,G102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,100
+Adair,AB,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",400
+Adair,A102,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",152
+Adair,A104,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",236
+Adair,A105,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",234
+Adair,B102,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",375
+Adair,B104,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",330
+Adair,C102,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",328
+Adair,C104,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",339
+Adair,D101,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",241
+Adair,D103,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",219
+Adair,D104,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",268
+Adair,E101,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",321
+Adair,E104,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",458
+Adair,F101,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",473
+Adair,F103,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",271
+Adair,G101,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",430
+Adair,G102,State Senator, 16th Senatorial District,REP,"George Maxwell ""Max"" WISE",490
+Adair,AB,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",381
+Adair,A102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",148
+Adair,A104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",234
+Adair,A105,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",234
+Adair,B102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",364
+Adair,B104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",322
+Adair,C102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",334
+Adair,C104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",341
+Adair,D101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",242
+Adair,D103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",221
+Adair,D104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",265
+Adair,E101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",312
+Adair,E104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",463
+Adair,F101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",484
+Adair,F103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",280
+Adair,G101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",414
+Adair,G102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",504
+Adair,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,260
+Adair,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,96
+Adair,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,133
+Adair,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,113
+Adair,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,226
+Adair,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,176
+Adair,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,202
+Adair,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,247
+Adair,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,150
+Adair,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,139
+Adair,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,163
+Adair,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,180
+Adair,E104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,318
+Adair,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,329
+Adair,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,208
+Adair,G101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,258
+Adair,G102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Jeffrey L. FEESE,280
+Adair,AB,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,233
+Adair,A102,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,92
+Adair,A104,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,138
+Adair,A105,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,164
+Adair,B102,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,150
+Adair,B104,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,133
+Adair,C102,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,175
+Adair,C104,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,145
+Adair,D101,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,127
+Adair,D103,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,133
+Adair,D104,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,97
+Adair,E101,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,139
+Adair,E104,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,157
+Adair,F101,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,178
+Adair,F103,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,123
+Adair,G101,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,186
+Adair,G102,COUNTY JUDGE/EXECUTIVE,,REP,Ann MELTON,164
+Adair,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,271
+Adair,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,103
+Adair,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,168
+Adair,A105,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,155
+Adair,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,322
+Adair,B104,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,272
+Adair,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,253
+Adair,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,319
+Adair,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,174
+Adair,D103,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,153
+Adair,D104,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,236
+Adair,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,277
+Adair,E104,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,433
+Adair,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,441
+Adair,F103,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,223
+Adair,G101,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,355
+Adair,G102,COUNTY JUDGE/EXECUTIVE,,DEM,Michael Lee STEPHENS,467
+Adair,AB,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,391
+Adair,A102,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,146
+Adair,A104,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,222
+Adair,A105,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,238
+Adair,B102,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,371
+Adair,B104,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,324
+Adair,C102,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,327
+Adair,C104,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,339
+Adair,D101,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,241
+Adair,D103,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,219
+Adair,D104,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,265
+Adair,E101,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,308
+Adair,E104,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,461
+Adair,F101,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,477
+Adair,F103,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,258
+Adair,G101,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,418
+Adair,G102,COUNTY ATTORNEY,,REP,Jennifer HUTCHISON-CORBIN,484
+Adair,AB,COUNTY CLERK,,REP,Lisa GREER,319
+Adair,A102,COUNTY CLERK,,REP,Lisa GREER,145
+Adair,A104,COUNTY CLERK,,REP,Lisa GREER,225
+Adair,A105,COUNTY CLERK,,REP,Lisa GREER,184
+Adair,B102,COUNTY CLERK,,REP,Lisa GREER,260
+Adair,B104,COUNTY CLERK,,REP,Lisa GREER,232
+Adair,C102,COUNTY CLERK,,REP,Lisa GREER,244
+Adair,C104,COUNTY CLERK,,REP,Lisa GREER,242
+Adair,D101,COUNTY CLERK,,REP,Lisa GREER,197
+Adair,D103,COUNTY CLERK,,REP,Lisa GREER,174
+Adair,D104,COUNTY CLERK,,REP,Lisa GREER,179
+Adair,E101,COUNTY CLERK,,REP,Lisa GREER,243
+Adair,E104,COUNTY CLERK,,REP,Lisa GREER,285
+Adair,F101,COUNTY CLERK,,REP,Lisa GREER,366
+Adair,F103,COUNTY CLERK,,REP,Lisa GREER,268
+Adair,G101,COUNTY CLERK,,REP,Lisa GREER,287
+Adair,G102,COUNTY CLERK,,REP,Lisa GREER,329
+Adair,AB,COUNTY CLERK,,DEM,Veronica MOUSER,180
+Adair,A102,COUNTY CLERK,,DEM,Veronica MOUSER,49
+Adair,A104,COUNTY CLERK,,DEM,Veronica MOUSER,73
+Adair,A105,COUNTY CLERK,,DEM,Veronica MOUSER,127
+Adair,B102,COUNTY CLERK,,DEM,Veronica MOUSER,210
+Adair,B104,COUNTY CLERK,,DEM,Veronica MOUSER,165
+Adair,C102,COUNTY CLERK,,DEM,Veronica MOUSER,179
+Adair,C104,COUNTY CLERK,,DEM,Veronica MOUSER,209
+Adair,D101,COUNTY CLERK,,DEM,Veronica MOUSER,96
+Adair,D103,COUNTY CLERK,,DEM,Veronica MOUSER,104
+Adair,D104,COUNTY CLERK,,DEM,Veronica MOUSER,155
+Adair,E101,COUNTY CLERK,,DEM,Veronica MOUSER,171
+Adair,E104,COUNTY CLERK,,DEM,Veronica MOUSER,297
+Adair,F101,COUNTY CLERK,,DEM,Veronica MOUSER,268
+Adair,F103,COUNTY CLERK,,DEM,Veronica MOUSER,78
+Adair,G101,COUNTY CLERK,,DEM,Veronica MOUSER,262
+Adair,G102,COUNTY CLERK,,DEM,Veronica MOUSER,294
+Adair,AB,SHERIFF,,REP,Josh BROCKMAN,246
+Adair,A102,SHERIFF,,REP,Josh BROCKMAN,103
+Adair,A104,SHERIFF,,REP,Josh BROCKMAN,188
+Adair,A105,SHERIFF,,REP,Josh BROCKMAN,162
+Adair,B102,SHERIFF,,REP,Josh BROCKMAN,218
+Adair,B104,SHERIFF,,REP,Josh BROCKMAN,207
+Adair,C102,SHERIFF,,REP,Josh BROCKMAN,214
+Adair,C104,SHERIFF,,REP,Josh BROCKMAN,207
+Adair,D101,SHERIFF,,REP,Josh BROCKMAN,167
+Adair,D103,SHERIFF,,REP,Josh BROCKMAN,156
+Adair,D104,SHERIFF,,REP,Josh BROCKMAN,161
+Adair,E101,SHERIFF,,REP,Josh BROCKMAN,269
+Adair,E104,SHERIFF,,REP,Josh BROCKMAN,295
+Adair,F101,SHERIFF,,REP,Josh BROCKMAN,247
+Adair,F103,SHERIFF,,REP,Josh BROCKMAN,131
+Adair,G101,SHERIFF,,REP,Josh BROCKMAN,282
+Adair,G102,SHERIFF,,REP,Josh BROCKMAN,358
+Adair,AB,SHERIFF,,DEM,Harrison MOSS,265
+Adair,A102,SHERIFF,,DEM,Harrison MOSS,96
+Adair,A104,SHERIFF,,DEM,Harrison MOSS,129
+Adair,A105,SHERIFF,,DEM,Harrison MOSS,159
+Adair,B102,SHERIFF,,DEM,Harrison MOSS,254
+Adair,B104,SHERIFF,,DEM,Harrison MOSS,203
+Adair,C102,SHERIFF,,DEM,Harrison MOSS,218
+Adair,C104,SHERIFF,,DEM,Harrison MOSS,258
+Adair,D101,SHERIFF,,DEM,Harrison MOSS,143
+Adair,D103,SHERIFF,,DEM,Harrison MOSS,135
+Adair,D104,SHERIFF,,DEM,Harrison MOSS,180
+Adair,E101,SHERIFF,,DEM,Harrison MOSS,158
+Adair,E104,SHERIFF,,DEM,Harrison MOSS,304
+Adair,F101,SHERIFF,,DEM,Harrison MOSS,395
+Adair,F103,SHERIFF,,DEM,Harrison MOSS,218
+Adair,G101,SHERIFF,,DEM,Harrison MOSS,271
+Adair,G102,SHERIFF,,DEM,Harrison MOSS,285
+Adair,AB,JAILER,,REP,Joey WHITE,354
+Adair,A102,JAILER,,REP,Joey WHITE,145
+Adair,A104,JAILER,,REP,Joey WHITE,212
+Adair,A105,JAILER,,REP,Joey WHITE,227
+Adair,B102,JAILER,,REP,Joey WHITE,319
+Adair,B104,JAILER,,REP,Joey WHITE,296
+Adair,C102,JAILER,,REP,Joey WHITE,316
+Adair,C104,JAILER,,REP,Joey WHITE,325
+Adair,D101,JAILER,,REP,Joey WHITE,219
+Adair,D103,JAILER,,REP,Joey WHITE,189
+Adair,D104,JAILER,,REP,Joey WHITE,258
+Adair,E101,JAILER,,REP,Joey WHITE,334
+Adair,E104,JAILER,,REP,Joey WHITE,442
+Adair,F101,JAILER,,REP,Joey WHITE,473
+Adair,F103,JAILER,,REP,Joey WHITE,152
+Adair,G101,JAILER,,REP,Joey WHITE,388
+Adair,G102,JAILER,,REP,Joey WHITE,487
+Adair,AB,JAILER,,DEM,Darrel W. BAKER,135
+Adair,A102,JAILER,,DEM,Darrel W. BAKER,30
+Adair,A104,JAILER,,DEM,Darrel W. BAKER,85
+Adair,A105,JAILER,,DEM,Darrel W. BAKER,76
+Adair,B102,JAILER,,DEM,Darrel W. BAKER,140
+Adair,B104,JAILER,,DEM,Darrel W. BAKER,101
+Adair,C102,JAILER,,DEM,Darrel W. BAKER,100
+Adair,C104,JAILER,,DEM,Darrel W. BAKER,116
+Adair,D101,JAILER,,DEM,Darrel W. BAKER,73
+Adair,D103,JAILER,,DEM,Darrel W. BAKER,84
+Adair,D104,JAILER,,DEM,Darrel W. BAKER,69
+Adair,E101,JAILER,,DEM,Darrel W. BAKER,62
+Adair,E104,JAILER,,DEM,Darrel W. BAKER,140
+Adair,F101,JAILER,,DEM,Darrel W. BAKER,149
+Adair,F103,JAILER,,DEM,Darrel W. BAKER,196
+Adair,G101,JAILER,,DEM,Darrel W. BAKER,150
+Adair,G102,JAILER,,DEM,Darrel W. BAKER,135
+Adair,AB,CORONER,,REP,Todd A. AKIN,408
+Adair,A102,CORONER,,REP,Todd A. AKIN,153
+Adair,A104,CORONER,,REP,Todd A. AKIN,237
+Adair,A105,CORONER,,REP,Todd A. AKIN,253
+Adair,B102,CORONER,,REP,Todd A. AKIN,379
+Adair,B104,CORONER,,REP,Todd A. AKIN,336
+Adair,C102,CORONER,,REP,Todd A. AKIN,343
+Adair,C104,CORONER,,REP,Todd A. AKIN,354
+Adair,D101,CORONER,,REP,Todd A. AKIN,250
+Adair,D103,CORONER,,REP,Todd A. AKIN,226
+Adair,D104,CORONER,,REP,Todd A. AKIN,277
+Adair,E101,CORONER,,REP,Todd A. AKIN,330
+Adair,E104,CORONER,,REP,Todd A. AKIN,482
+Adair,F101,CORONER,,REP,Todd A. AKIN,499
+Adair,F103,CORONER,,REP,Todd A. AKIN,267
+Adair,G101,CORONER,,REP,Todd A. AKIN,435
+Adair,G102,CORONER,,REP,Todd A. AKIN,504
+Adair,AB,COUNTY SURVEYOR,,REP,Mike McKINNEY,386
+Adair,A102,COUNTY SURVEYOR,,REP,Mike McKINNEY,141
+Adair,A104,COUNTY SURVEYOR,,REP,Mike McKINNEY,228
+Adair,A105,COUNTY SURVEYOR,,REP,Mike McKINNEY,234
+Adair,B102,COUNTY SURVEYOR,,REP,Mike McKINNEY,363
+Adair,B104,COUNTY SURVEYOR,,REP,Mike McKINNEY,305
+Adair,C102,COUNTY SURVEYOR,,REP,Mike McKINNEY,328
+Adair,C104,COUNTY SURVEYOR,,REP,Mike McKINNEY,325
+Adair,D101,COUNTY SURVEYOR,,REP,Mike McKINNEY,231
+Adair,D103,COUNTY SURVEYOR,,REP,Mike McKINNEY,212
+Adair,D104,COUNTY SURVEYOR,,REP,Mike McKINNEY,267
+Adair,E101,COUNTY SURVEYOR,,REP,Mike McKINNEY,301
+Adair,E104,COUNTY SURVEYOR,,REP,Mike McKINNEY,453
+Adair,F101,COUNTY SURVEYOR,,REP,Mike McKINNEY,448
+Adair,F103,COUNTY SURVEYOR,,REP,Mike McKINNEY,242
+Adair,G101,COUNTY SURVEYOR,,REP,Mike McKINNEY,402
+Adair,G102,COUNTY SURVEYOR,,REP,Mike McKINNEY,459
+Adair,AB,MAGISTRATE 1st Magisterial District,,REP,Harold BURTON,48
+Adair,A102,MAGISTRATE 1st Magisterial District,,REP,Harold BURTON,150
+Adair,A104,MAGISTRATE 1st Magisterial District,,REP,Harold BURTON,237
+Adair,A105,MAGISTRATE 1st Magisterial District,,REP,Harold BURTON,256
+Adair,AB,CONSTABLE 1st Magisterial District,,REP,"William ""Bill"" TROUTWINE",49
+Adair,A102,CONSTABLE 1st Magisterial District,,REP,"William ""Bill"" TROUTWINE",123
+Adair,A104,CONSTABLE 1st Magisterial District,,REP,"William ""Bill"" TROUTWINE",218
+Adair,A105,CONSTABLE 1st Magisterial District,,REP,"William ""Bill"" TROUTWINE",209
+Adair,AB,MAGISTRATE 2nd Magisterial District,,REP,Daryl FLATT,29
+Adair,B102,MAGISTRATE 2nd Magisterial District,,REP,Daryl FLATT,289
+Adair,B104,MAGISTRATE 2nd Magisterial District,,REP,Daryl FLATT,187
+Adair,AB,MAGISTRATE 2nd Magisterial District,,DEM,"William ""Wid"" HARRIS",23
+Adair,B102,MAGISTRATE 2nd Magisterial District,,DEM,"William ""Wid"" HARRIS",182
+Adair,B104,MAGISTRATE 2nd Magisterial District,,DEM,"William ""Wid"" HARRIS",219
+Adair,AB,CONSTABLE 2nd Magisterial District,,REP,Shannon ROWE,43
+Adair,B102,CONSTABLE 2nd Magisterial District,,REP,Shannon ROWE,328
+Adair,B104,CONSTABLE 2nd Magisterial District,,REP,Shannon ROWE,275
+Adair,AB,MAGISTRATE 3rd Magisterial District,,REP,Sammy BAKER,51
+Adair,C102,MAGISTRATE 3rd Magisterial District,,REP,Sammy BAKER,323
+Adair,C104,MAGISTRATE 3rd Magisterial District,,REP,Sammy BAKER,356
+Adair,AB,CONSTABLE 3rd Magisterial District,,REP,Robert R. LOY,50
+Adair,C102,CONSTABLE 3rd Magisterial District,,REP,Robert R. LOY,254
+Adair,C104,CONSTABLE 3rd Magisterial District,,REP,Robert R. LOY,287
+Adair,AB,MAGISTRATE 4th Magisterial District,,REP,Perry REEDER,63
+Adair,D101,MAGISTRATE 4th Magisterial District,,REP,Perry REEDER,255
+Adair,D103,MAGISTRATE 4th Magisterial District,,REP,Perry REEDER,233
+Adair,D104,MAGISTRATE 4th Magisterial District,,REP,Perry REEDER,236
+Adair,AB,CONSTABLE 4th Magisterial District,,REP,Ed WIGAL,57
+Adair,D101,CONSTABLE 4th Magisterial District,,REP,Ed WIGAL,219
+Adair,D103,CONSTABLE 4th Magisterial District,,REP,Ed WIGAL,177
+Adair,D104,CONSTABLE 4th Magisterial District,,REP,Ed WIGAL,221
+Adair,AB,MAGISTRATE 5th Magisterial District,,REP,Billy Dean COFFEY,74
+Adair,E101,MAGISTRATE 5th Magisterial District,,REP,Billy Dean COFFEY,317
+Adair,E104,MAGISTRATE 5th Magisterial District,,REP,Billy Dean COFFEY,442
+Adair,AB,CONSTABLE 5th Magisterial District,,REP,Tim BOTTOMS,66
+Adair,E101,CONSTABLE 5th Magisterial District,,REP,Tim BOTTOMS,287
+Adair,E104,CONSTABLE 5th Magisterial District,,REP,Tim BOTTOMS,392
+Adair,AB,MAGISTRATE 6th Magisterial District,,REP,Greg CALDWELL,21
+Adair,F101,MAGISTRATE 6th Magisterial District,,REP,Greg CALDWELL,416
+Adair,F103,MAGISTRATE 6th Magisterial District,,REP,Greg CALDWELL,205
+Adair,AB,MAGISTRATE 6th Magisterial District,,DEM,Bryan Allen FEESE,32
+Adair,F101,MAGISTRATE 6th Magisterial District,,DEM,Bryan Allen FEESE,223
+Adair,F103,MAGISTRATE 6th Magisterial District,,DEM,Bryan Allen FEESE,132
+Adair,AB,CONSTABLE 6th Magisterial District,,REP,Jason RECTOR,35
+Adair,F101,CONSTABLE 6th Magisterial District,,REP,Jason RECTOR,398
+Adair,F103,CONSTABLE 6th Magisterial District,,REP,Jason RECTOR,228
+Adair,AB,MAGISTRATE 7th Magisterial District,,REP,Terry M. HADLEY,56
+Adair,G101,MAGISTRATE 7th Magisterial District,,REP,Terry M. HADLEY,309
+Adair,G102,MAGISTRATE 7th Magisterial District,,REP,Terry M. HADLEY,352
+Adair,AB,MAGISTRATE 7th Magisterial District,,DEM,Terry FARRIS,44
+Adair,G101,MAGISTRATE 7th Magisterial District,,DEM,Terry FARRIS,234
+Adair,G102,MAGISTRATE 7th Magisterial District,,DEM,Terry FARRIS,280
+Adair,AB,CONSTABLE 7th Magisterial District,,REP,Joe COLLINS,71
+Adair,G101,CONSTABLE 7th Magisterial District,,REP,Joe COLLINS,368
+Adair,G102,CONSTABLE 7th Magisterial District,,REP,Joe COLLINS,440
+Adair,AB,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,170
+Adair,A102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,66
+Adair,A104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,98
+Adair,A105,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,115
+Adair,B102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,150
+Adair,B104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,129
+Adair,C102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,129
+Adair,C104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,138
+Adair,D101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,96
+Adair,D103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,84
+Adair,D104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,122
+Adair,E101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,137
+Adair,E104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,181
+Adair,F101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,188
+Adair,F103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,110
+Adair,G101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,173
+Adair,G102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,237
+Adair,AB,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,152
+Adair,A102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,46
+Adair,A104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,85
+Adair,A105,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,85
+Adair,B102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,178
+Adair,B104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,141
+Adair,C102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,139
+Adair,C104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,166
+Adair,D101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,90
+Adair,D103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,108
+Adair,D104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,116
+Adair,E101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,113
+Adair,E104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,227
+Adair,F101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,207
+Adair,F103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,113
+Adair,G101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,201
+Adair,G102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,211
+Adair,AB,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,205
+Adair,A102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,88
+Adair,A104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,119
+Adair,A105,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,148
+Adair,B102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,224
+Adair,B104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,194
+Adair,C102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,180
+Adair,C104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,220
+Adair,D101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,118
+Adair,D103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,119
+Adair,D104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,157
+Adair,E101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,166
+Adair,E104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,270
+Adair,F101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,290
+Adair,F103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,158
+Adair,G101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,252
+Adair,G102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,308
+Adair,AB,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,82
+Adair,A102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,24
+Adair,A104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,55
+Adair,A105,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,44
+Adair,B102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,80
+Adair,B104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,66
+Adair,C102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,66
+Adair,C104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,75
+Adair,D101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,59
+Adair,D103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,55
+Adair,D104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,66
+Adair,E101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,66
+Adair,E104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,115
+Adair,F101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,85
+Adair,F103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,51
+Adair,G101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,90
+Adair,G102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,114
+Adair,AB,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,340
+Adair,A102,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,128
+Adair,A104,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,184
+Adair,A105,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,218
+Adair,B102,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,339
+Adair,B104,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,307
+Adair,C102,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,307
+Adair,C104,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,330
+Adair,D101,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,197
+Adair,D103,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,189
+Adair,D104,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,264
+Adair,E101,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,283
+Adair,E104,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,436
+Adair,F101,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,432
+Adair,F103,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,222
+Adair,G101,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,383
+Adair,G102,Circuit Judge, 29th Judicial Circuit,,Judy D. VANCE,463
+Adair,AB,District Judge, 29th Judicial District,,Michael LOY,348
+Adair,A102,District Judge, 29th Judicial District,,Michael LOY,128
+Adair,A104,District Judge, 29th Judicial District,,Michael LOY,185
+Adair,A105,District Judge, 29th Judicial District,,Michael LOY,214
+Adair,B102,District Judge, 29th Judicial District,,Michael LOY,343
+Adair,B104,District Judge, 29th Judicial District,,Michael LOY,307
+Adair,C102,District Judge, 29th Judicial District,,Michael LOY,311
+Adair,C104,District Judge, 29th Judicial District,,Michael LOY,319
+Adair,D101,District Judge, 29th Judicial District,,Michael LOY,201
+Adair,D103,District Judge, 29th Judicial District,,Michael LOY,194
+Adair,D104,District Judge, 29th Judicial District,,Michael LOY,265
+Adair,E101,District Judge, 29th Judicial District,,Michael LOY,288
+Adair,E104,District Judge, 29th Judicial District,,Michael LOY,446
+Adair,F101,District Judge, 29th Judicial District,,Michael LOY,434
+Adair,F103,District Judge, 29th Judicial District,,Michael LOY,210
+Adair,G101,District Judge, 29th Judicial District,,Michael LOY,388
+Adair,G102,District Judge, 29th Judicial District,,Michael LOY,484
+Adair,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,37
+Adair,B102,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,11
+Adair,C102,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,129
+Adair,C104,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,259
+Adair,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,10
+Adair,D103,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,158
+Adair,D104,MEMBER BOARD of EDUCATION 1st Educational District,,,Terry HARVEY,4
+Adair,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,15
+Adair,B102,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,3
+Adair,C102,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,53
+Adair,C104,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,92
+Adair,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,9
+Adair,D103,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,52
+Adair,D104,MEMBER BOARD of EDUCATION 1st Educational District,,,Gregory L. WILLIS,1
+Adair,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,14
+Adair,B102,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,8
+Adair,C102,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,61
+Adair,C104,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,76
+Adair,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,2
+Adair,D103,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,24
+Adair,D104,MEMBER BOARD of EDUCATION 1st Educational District,,,Billy BLOYD,1
+Adair,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,51
+Adair,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,0
+Adair,E104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,1
+Adair,F101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,356
+Adair,F103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,145
+Adair,G101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lisa BURTON,161
+Adair,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,20
+Adair,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,2
+Adair,E104,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,1
+Adair,F101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,178
+Adair,F103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,112
+Adair,G101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Joseph B. PAYNE,107
+Adair,AB,MAYOR City of Columbia,,,Curtis HARDWICK,57
+Adair,B102,MAYOR City of Columbia,,,Curtis HARDWICK,66
+Adair,C102,MAYOR City of Columbia,,,Curtis HARDWICK,51
+Adair,D104,MAYOR City of Columbia,,,Curtis HARDWICK,72
+Adair,E104,MAYOR City of Columbia,,,Curtis HARDWICK,194
+Adair,G101,MAYOR City of Columbia,,,Curtis HARDWICK,102
+Adair,G102,MAYOR City of Columbia,,,Curtis HARDWICK,20
+Adair,AB,MAYOR City of Columbia,,,June PARSON,36
+Adair,B102,MAYOR City of Columbia,,,June PARSON,48
+Adair,C102,MAYOR City of Columbia,,,June PARSON,25
+Adair,D104,MAYOR City of Columbia,,,June PARSON,35
+Adair,E104,MAYOR City of Columbia,,,June PARSON,106
+Adair,G101,MAYOR City of Columbia,,,June PARSON,59
+Adair,G102,MAYOR City of Columbia,,,June PARSON,19
+Adair,AB,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",61
+Adair,B102,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",87
+Adair,C102,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",73
+Adair,D104,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",75
+Adair,E104,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",249
+Adair,G101,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",148
+Adair,G102,CITY COUNCIL City of Columbia,,,"Ronald P. ""Butch"" ROGERS",31
+Adair,AB,CITY COUNCIL City of Columbia,,,Craig DEAN,60
+Adair,B102,CITY COUNCIL City of Columbia,,,Craig DEAN,90
+Adair,C102,CITY COUNCIL City of Columbia,,,Craig DEAN,64
+Adair,D104,CITY COUNCIL City of Columbia,,,Craig DEAN,82
+Adair,E104,CITY COUNCIL City of Columbia,,,Craig DEAN,250
+Adair,G101,CITY COUNCIL City of Columbia,,,Craig DEAN,145
+Adair,G102,CITY COUNCIL City of Columbia,,,Craig DEAN,37
+Adair,AB,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,57
+Adair,B102,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,71
+Adair,C102,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,50
+Adair,D104,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,59
+Adair,E104,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,198
+Adair,G101,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,108
+Adair,G102,CITY COUNCIL City of Columbia,,,Robert W. FLOWERS,25
+Adair,AB,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,43
+Adair,B102,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,63
+Adair,C102,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,55
+Adair,D104,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,49
+Adair,E104,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,166
+Adair,G101,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,92
+Adair,G102,CITY COUNCIL City of Columbia,,,Kenneth H. DULIN,23
+Adair,AB,CITY COUNCIL City of Columbia,,,Linda WAGGENER,61
+Adair,B102,CITY COUNCIL City of Columbia,,,Linda WAGGENER,79
+Adair,C102,CITY COUNCIL City of Columbia,,,Linda WAGGENER,63
+Adair,D104,CITY COUNCIL City of Columbia,,,Linda WAGGENER,62
+Adair,E104,CITY COUNCIL City of Columbia,,,Linda WAGGENER,231
+Adair,G101,CITY COUNCIL City of Columbia,,,Linda WAGGENER,123
+Adair,G102,CITY COUNCIL City of Columbia,,,Linda WAGGENER,35
+Adair,AB,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,44
+Adair,B102,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,74
+Adair,C102,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,68
+Adair,D104,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,79
+Adair,E104,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,234
+Adair,G101,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,130
+Adair,G102,CITY COUNCIL City of Columbia,,,Anthony C. LASLEY,26
+Adair,AB,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,69
+Adair,B102,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,101
+Adair,C102,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,65
+Adair,D104,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,83
+Adair,E104,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,302
+Adair,G101,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,164
+Adair,G102,CITY COUNCIL City of Columbia,,,Charles GRIMSLEY,40
+Adair,AB,CITY COUNCIL City of Columbia,,,Mark HARRIS,64
+Adair,B102,CITY COUNCIL City of Columbia,,,Mark HARRIS,81
+Adair,C102,CITY COUNCIL City of Columbia,,,Mark HARRIS,66
+Adair,D104,CITY COUNCIL City of Columbia,,,Mark HARRIS,75
+Adair,E104,CITY COUNCIL City of Columbia,,,Mark HARRIS,234
+Adair,G101,CITY COUNCIL City of Columbia,,,Mark HARRIS,122
+Adair,G102,CITY COUNCIL City of Columbia,,,Mark HARRIS,36

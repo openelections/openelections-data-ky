@@ -1,0 +1,731 @@
+county,precinct,office,district,party,candidate,votes
+Greenup,AB,U.S. Senate,,,Matt BEVIN,29
+Greenup,A101,U.S. Senate,,,Matt BEVIN,36
+Greenup,A102,U.S. Senate,,,Matt BEVIN,25
+Greenup,A103,U.S. Senate,,,Matt BEVIN,10
+Greenup,A104,U.S. Senate,,,Matt BEVIN,15
+Greenup,A105,U.S. Senate,,,Matt BEVIN,16
+Greenup,A106,U.S. Senate,,,Matt BEVIN,16
+Greenup,A107,U.S. Senate,,,Matt BEVIN,22
+Greenup,A108,U.S. Senate,,,Matt BEVIN,17
+Greenup,A109,U.S. Senate,,,Matt BEVIN,52
+Greenup,A111,U.S. Senate,,,Matt BEVIN,16
+Greenup,A112,U.S. Senate,,,Matt BEVIN,47
+Greenup,B101,U.S. Senate,,,Matt BEVIN,30
+Greenup,B102,U.S. Senate,,,Matt BEVIN,23
+Greenup,B103,U.S. Senate,,,Matt BEVIN,58
+Greenup,B104,U.S. Senate,,,Matt BEVIN,16
+Greenup,B105,U.S. Senate,,,Matt BEVIN,29
+Greenup,B106,U.S. Senate,,,Matt BEVIN,10
+Greenup,B107,U.S. Senate,,,Matt BEVIN,28
+Greenup,B108,U.S. Senate,,,Matt BEVIN,20
+Greenup,B109,U.S. Senate,,,Matt BEVIN,18
+Greenup,B110,U.S. Senate,,,Matt BEVIN,12
+Greenup,B111,U.S. Senate,,,Matt BEVIN,30
+Greenup,C101,U.S. Senate,,,Matt BEVIN,24
+Greenup,C102,U.S. Senate,,,Matt BEVIN,33
+Greenup,C103,U.S. Senate,,,Matt BEVIN,20
+Greenup,C104,U.S. Senate,,,Matt BEVIN,27
+Greenup,C105,U.S. Senate,,,Matt BEVIN,25
+Greenup,C106,U.S. Senate,,,Matt BEVIN,41
+Greenup,C107,U.S. Senate,,,Matt BEVIN,9
+Greenup,C108,U.S. Senate,,,Matt BEVIN,23
+Greenup,C109,U.S. Senate,,,Matt BEVIN,19
+Greenup,C110,U.S. Senate,,,Matt BEVIN,24
+Greenup,AB,U.S. Senate,,,Brad COPAS,0
+Greenup,A101,U.S. Senate,,,Brad COPAS,0
+Greenup,A102,U.S. Senate,,,Brad COPAS,1
+Greenup,A103,U.S. Senate,,,Brad COPAS,0
+Greenup,A104,U.S. Senate,,,Brad COPAS,1
+Greenup,A105,U.S. Senate,,,Brad COPAS,0
+Greenup,A106,U.S. Senate,,,Brad COPAS,0
+Greenup,A107,U.S. Senate,,,Brad COPAS,0
+Greenup,A108,U.S. Senate,,,Brad COPAS,1
+Greenup,A109,U.S. Senate,,,Brad COPAS,0
+Greenup,A111,U.S. Senate,,,Brad COPAS,0
+Greenup,A112,U.S. Senate,,,Brad COPAS,0
+Greenup,B101,U.S. Senate,,,Brad COPAS,0
+Greenup,B102,U.S. Senate,,,Brad COPAS,0
+Greenup,B103,U.S. Senate,,,Brad COPAS,0
+Greenup,B104,U.S. Senate,,,Brad COPAS,0
+Greenup,B105,U.S. Senate,,,Brad COPAS,0
+Greenup,B106,U.S. Senate,,,Brad COPAS,0
+Greenup,B107,U.S. Senate,,,Brad COPAS,0
+Greenup,B108,U.S. Senate,,,Brad COPAS,0
+Greenup,B109,U.S. Senate,,,Brad COPAS,0
+Greenup,B110,U.S. Senate,,,Brad COPAS,0
+Greenup,B111,U.S. Senate,,,Brad COPAS,0
+Greenup,C101,U.S. Senate,,,Brad COPAS,0
+Greenup,C102,U.S. Senate,,,Brad COPAS,0
+Greenup,C103,U.S. Senate,,,Brad COPAS,0
+Greenup,C104,U.S. Senate,,,Brad COPAS,2
+Greenup,C105,U.S. Senate,,,Brad COPAS,0
+Greenup,C106,U.S. Senate,,,Brad COPAS,5
+Greenup,C107,U.S. Senate,,,Brad COPAS,0
+Greenup,C108,U.S. Senate,,,Brad COPAS,1
+Greenup,C109,U.S. Senate,,,Brad COPAS,0
+Greenup,C110,U.S. Senate,,,Brad COPAS,0
+Greenup,AB,U.S. Senate,,,Mitch McCONNELL,35
+Greenup,A101,U.S. Senate,,,Mitch McCONNELL,22
+Greenup,A102,U.S. Senate,,,Mitch McCONNELL,45
+Greenup,A103,U.S. Senate,,,Mitch McCONNELL,30
+Greenup,A104,U.S. Senate,,,Mitch McCONNELL,28
+Greenup,A105,U.S. Senate,,,Mitch McCONNELL,28
+Greenup,A106,U.S. Senate,,,Mitch McCONNELL,19
+Greenup,A107,U.S. Senate,,,Mitch McCONNELL,47
+Greenup,A108,U.S. Senate,,,Mitch McCONNELL,19
+Greenup,A109,U.S. Senate,,,Mitch McCONNELL,75
+Greenup,A111,U.S. Senate,,,Mitch McCONNELL,20
+Greenup,A112,U.S. Senate,,,Mitch McCONNELL,74
+Greenup,B101,U.S. Senate,,,Mitch McCONNELL,11
+Greenup,B102,U.S. Senate,,,Mitch McCONNELL,8
+Greenup,B103,U.S. Senate,,,Mitch McCONNELL,27
+Greenup,B104,U.S. Senate,,,Mitch McCONNELL,22
+Greenup,B105,U.S. Senate,,,Mitch McCONNELL,21
+Greenup,B106,U.S. Senate,,,Mitch McCONNELL,12
+Greenup,B107,U.S. Senate,,,Mitch McCONNELL,33
+Greenup,B108,U.S. Senate,,,Mitch McCONNELL,44
+Greenup,B109,U.S. Senate,,,Mitch McCONNELL,14
+Greenup,B110,U.S. Senate,,,Mitch McCONNELL,26
+Greenup,B111,U.S. Senate,,,Mitch McCONNELL,28
+Greenup,C101,U.S. Senate,,,Mitch McCONNELL,56
+Greenup,C102,U.S. Senate,,,Mitch McCONNELL,39
+Greenup,C103,U.S. Senate,,,Mitch McCONNELL,29
+Greenup,C104,U.S. Senate,,,Mitch McCONNELL,89
+Greenup,C105,U.S. Senate,,,Mitch McCONNELL,52
+Greenup,C106,U.S. Senate,,,Mitch McCONNELL,39
+Greenup,C107,U.S. Senate,,,Mitch McCONNELL,18
+Greenup,C108,U.S. Senate,,,Mitch McCONNELL,63
+Greenup,C109,U.S. Senate,,,Mitch McCONNELL,36
+Greenup,C110,U.S. Senate,,,Mitch McCONNELL,26
+Greenup,AB,U.S. Senate,,,Chris PAYNE,3
+Greenup,A101,U.S. Senate,,,Chris PAYNE,2
+Greenup,A102,U.S. Senate,,,Chris PAYNE,4
+Greenup,A103,U.S. Senate,,,Chris PAYNE,0
+Greenup,A104,U.S. Senate,,,Chris PAYNE,1
+Greenup,A105,U.S. Senate,,,Chris PAYNE,1
+Greenup,A106,U.S. Senate,,,Chris PAYNE,2
+Greenup,A107,U.S. Senate,,,Chris PAYNE,0
+Greenup,A108,U.S. Senate,,,Chris PAYNE,0
+Greenup,A109,U.S. Senate,,,Chris PAYNE,2
+Greenup,A111,U.S. Senate,,,Chris PAYNE,1
+Greenup,A112,U.S. Senate,,,Chris PAYNE,2
+Greenup,B101,U.S. Senate,,,Chris PAYNE,2
+Greenup,B102,U.S. Senate,,,Chris PAYNE,1
+Greenup,B103,U.S. Senate,,,Chris PAYNE,2
+Greenup,B104,U.S. Senate,,,Chris PAYNE,0
+Greenup,B105,U.S. Senate,,,Chris PAYNE,1
+Greenup,B106,U.S. Senate,,,Chris PAYNE,1
+Greenup,B107,U.S. Senate,,,Chris PAYNE,2
+Greenup,B108,U.S. Senate,,,Chris PAYNE,1
+Greenup,B109,U.S. Senate,,,Chris PAYNE,0
+Greenup,B110,U.S. Senate,,,Chris PAYNE,3
+Greenup,B111,U.S. Senate,,,Chris PAYNE,1
+Greenup,C101,U.S. Senate,,,Chris PAYNE,3
+Greenup,C102,U.S. Senate,,,Chris PAYNE,3
+Greenup,C103,U.S. Senate,,,Chris PAYNE,2
+Greenup,C104,U.S. Senate,,,Chris PAYNE,0
+Greenup,C105,U.S. Senate,,,Chris PAYNE,2
+Greenup,C106,U.S. Senate,,,Chris PAYNE,3
+Greenup,C107,U.S. Senate,,,Chris PAYNE,1
+Greenup,C108,U.S. Senate,,,Chris PAYNE,1
+Greenup,C109,U.S. Senate,,,Chris PAYNE,1
+Greenup,C110,U.S. Senate,,,Chris PAYNE,0
+Greenup,AB,U.S. Senate,,,Shawna STERLING,0
+Greenup,A101,U.S. Senate,,,Shawna STERLING,0
+Greenup,A102,U.S. Senate,,,Shawna STERLING,2
+Greenup,A103,U.S. Senate,,,Shawna STERLING,2
+Greenup,A104,U.S. Senate,,,Shawna STERLING,2
+Greenup,A105,U.S. Senate,,,Shawna STERLING,2
+Greenup,A106,U.S. Senate,,,Shawna STERLING,1
+Greenup,A107,U.S. Senate,,,Shawna STERLING,0
+Greenup,A108,U.S. Senate,,,Shawna STERLING,1
+Greenup,A109,U.S. Senate,,,Shawna STERLING,3
+Greenup,A111,U.S. Senate,,,Shawna STERLING,1
+Greenup,A112,U.S. Senate,,,Shawna STERLING,1
+Greenup,B101,U.S. Senate,,,Shawna STERLING,1
+Greenup,B102,U.S. Senate,,,Shawna STERLING,0
+Greenup,B103,U.S. Senate,,,Shawna STERLING,1
+Greenup,B104,U.S. Senate,,,Shawna STERLING,2
+Greenup,B105,U.S. Senate,,,Shawna STERLING,1
+Greenup,B106,U.S. Senate,,,Shawna STERLING,2
+Greenup,B107,U.S. Senate,,,Shawna STERLING,1
+Greenup,B108,U.S. Senate,,,Shawna STERLING,0
+Greenup,B109,U.S. Senate,,,Shawna STERLING,1
+Greenup,B110,U.S. Senate,,,Shawna STERLING,0
+Greenup,B111,U.S. Senate,,,Shawna STERLING,1
+Greenup,C101,U.S. Senate,,,Shawna STERLING,2
+Greenup,C102,U.S. Senate,,,Shawna STERLING,0
+Greenup,C103,U.S. Senate,,,Shawna STERLING,2
+Greenup,C104,U.S. Senate,,,Shawna STERLING,2
+Greenup,C105,U.S. Senate,,,Shawna STERLING,6
+Greenup,C106,U.S. Senate,,,Shawna STERLING,2
+Greenup,C107,U.S. Senate,,,Shawna STERLING,3
+Greenup,C108,U.S. Senate,,,Shawna STERLING,0
+Greenup,C109,U.S. Senate,,,Shawna STERLING,1
+Greenup,C110,U.S. Senate,,,Shawna STERLING,3
+Greenup,AB,County Commissioner 3rd District,,,Earnest David DUTY II.,28
+Greenup,A101,County Commissioner 3rd District,,,Earnest David DUTY II.,31
+Greenup,A102,County Commissioner 3rd District,,,Earnest David DUTY II.,37
+Greenup,A103,County Commissioner 3rd District,,,Earnest David DUTY II.,24
+Greenup,A104,County Commissioner 3rd District,,,Earnest David DUTY II.,30
+Greenup,A105,County Commissioner 3rd District,,,Earnest David DUTY II.,23
+Greenup,A106,County Commissioner 3rd District,,,Earnest David DUTY II.,21
+Greenup,A107,County Commissioner 3rd District,,,Earnest David DUTY II.,35
+Greenup,A108,County Commissioner 3rd District,,,Earnest David DUTY II.,21
+Greenup,A109,County Commissioner 3rd District,,,Earnest David DUTY II.,65
+Greenup,A111,County Commissioner 3rd District,,,Earnest David DUTY II.,22
+Greenup,A112,County Commissioner 3rd District,,,Earnest David DUTY II.,60
+Greenup,B101,County Commissioner 3rd District,,,Earnest David DUTY II.,6
+Greenup,B102,County Commissioner 3rd District,,,Earnest David DUTY II.,9
+Greenup,B103,County Commissioner 3rd District,,,Earnest David DUTY II.,21
+Greenup,B104,County Commissioner 3rd District,,,Earnest David DUTY II.,10
+Greenup,B105,County Commissioner 3rd District,,,Earnest David DUTY II.,16
+Greenup,B106,County Commissioner 3rd District,,,Earnest David DUTY II.,5
+Greenup,B107,County Commissioner 3rd District,,,Earnest David DUTY II.,20
+Greenup,B108,County Commissioner 3rd District,,,Earnest David DUTY II.,25
+Greenup,B109,County Commissioner 3rd District,,,Earnest David DUTY II.,10
+Greenup,B110,County Commissioner 3rd District,,,Earnest David DUTY II.,11
+Greenup,B111,County Commissioner 3rd District,,,Earnest David DUTY II.,30
+Greenup,C101,County Commissioner 3rd District,,,Earnest David DUTY II.,47
+Greenup,C102,County Commissioner 3rd District,,,Earnest David DUTY II.,42
+Greenup,C103,County Commissioner 3rd District,,,Earnest David DUTY II.,28
+Greenup,C104,County Commissioner 3rd District,,,Earnest David DUTY II.,62
+Greenup,C105,County Commissioner 3rd District,,,Earnest David DUTY II.,41
+Greenup,C106,County Commissioner 3rd District,,,Earnest David DUTY II.,56
+Greenup,C107,County Commissioner 3rd District,,,Earnest David DUTY II.,23
+Greenup,C108,County Commissioner 3rd District,,,Earnest David DUTY II.,42
+Greenup,C109,County Commissioner 3rd District,,,Earnest David DUTY II.,25
+Greenup,C110,County Commissioner 3rd District,,,Earnest David DUTY II.,27
+Greenup,AB,County Commissioner 3rd District,,,Rick WILSON,29
+Greenup,A101,County Commissioner 3rd District,,,Rick WILSON,26
+Greenup,A102,County Commissioner 3rd District,,,Rick WILSON,35
+Greenup,A103,County Commissioner 3rd District,,,Rick WILSON,17
+Greenup,A104,County Commissioner 3rd District,,,Rick WILSON,18
+Greenup,A105,County Commissioner 3rd District,,,Rick WILSON,18
+Greenup,A106,County Commissioner 3rd District,,,Rick WILSON,14
+Greenup,A107,County Commissioner 3rd District,,,Rick WILSON,30
+Greenup,A108,County Commissioner 3rd District,,,Rick WILSON,15
+Greenup,A109,County Commissioner 3rd District,,,Rick WILSON,51
+Greenup,A111,County Commissioner 3rd District,,,Rick WILSON,11
+Greenup,A112,County Commissioner 3rd District,,,Rick WILSON,61
+Greenup,B101,County Commissioner 3rd District,,,Rick WILSON,30
+Greenup,B102,County Commissioner 3rd District,,,Rick WILSON,23
+Greenup,B103,County Commissioner 3rd District,,,Rick WILSON,39
+Greenup,B104,County Commissioner 3rd District,,,Rick WILSON,23
+Greenup,B105,County Commissioner 3rd District,,,Rick WILSON,24
+Greenup,B106,County Commissioner 3rd District,,,Rick WILSON,16
+Greenup,B107,County Commissioner 3rd District,,,Rick WILSON,34
+Greenup,B108,County Commissioner 3rd District,,,Rick WILSON,37
+Greenup,B109,County Commissioner 3rd District,,,Rick WILSON,18
+Greenup,B110,County Commissioner 3rd District,,,Rick WILSON,29
+Greenup,B111,County Commissioner 3rd District,,,Rick WILSON,27
+Greenup,C101,County Commissioner 3rd District,,,Rick WILSON,24
+Greenup,C102,County Commissioner 3rd District,,,Rick WILSON,18
+Greenup,C103,County Commissioner 3rd District,,,Rick WILSON,24
+Greenup,C104,County Commissioner 3rd District,,,Rick WILSON,46
+Greenup,C105,County Commissioner 3rd District,,,Rick WILSON,40
+Greenup,C106,County Commissioner 3rd District,,,Rick WILSON,30
+Greenup,C107,County Commissioner 3rd District,,,Rick WILSON,7
+Greenup,C108,County Commissioner 3rd District,,,Rick WILSON,35
+Greenup,C109,County Commissioner 3rd District,,,Rick WILSON,21
+Greenup,C110,County Commissioner 3rd District,,,Rick WILSON,18
+Greenup,AB,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,A101,U.S. Senate,,,Burrel Charles FARNSLEY,7
+Greenup,A102,U.S. Senate,,,Burrel Charles FARNSLEY,8
+Greenup,A103,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,A104,U.S. Senate,,,Burrel Charles FARNSLEY,4
+Greenup,A105,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,A106,U.S. Senate,,,Burrel Charles FARNSLEY,3
+Greenup,A107,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,A108,U.S. Senate,,,Burrel Charles FARNSLEY,4
+Greenup,A109,U.S. Senate,,,Burrel Charles FARNSLEY,3
+Greenup,A111,U.S. Senate,,,Burrel Charles FARNSLEY,1
+Greenup,A112,U.S. Senate,,,Burrel Charles FARNSLEY,9
+Greenup,B101,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,B102,U.S. Senate,,,Burrel Charles FARNSLEY,1
+Greenup,B103,U.S. Senate,,,Burrel Charles FARNSLEY,11
+Greenup,B104,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,B105,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,B106,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,B107,U.S. Senate,,,Burrel Charles FARNSLEY,11
+Greenup,B108,U.S. Senate,,,Burrel Charles FARNSLEY,9
+Greenup,B109,U.S. Senate,,,Burrel Charles FARNSLEY,1
+Greenup,B110,U.S. Senate,,,Burrel Charles FARNSLEY,3
+Greenup,B111,U.S. Senate,,,Burrel Charles FARNSLEY,16
+Greenup,C101,U.S. Senate,,,Burrel Charles FARNSLEY,1
+Greenup,C102,U.S. Senate,,,Burrel Charles FARNSLEY,7
+Greenup,C103,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,C104,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,C105,U.S. Senate,,,Burrel Charles FARNSLEY,4
+Greenup,C106,U.S. Senate,,,Burrel Charles FARNSLEY,5
+Greenup,C107,U.S. Senate,,,Burrel Charles FARNSLEY,2
+Greenup,C108,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,C109,U.S. Senate,,,Burrel Charles FARNSLEY,4
+Greenup,C110,U.S. Senate,,,Burrel Charles FARNSLEY,6
+Greenup,AB,U.S. Senate,,,Alison Lundergan GRIMES,104
+Greenup,A101,U.S. Senate,,,Alison Lundergan GRIMES,66
+Greenup,A102,U.S. Senate,,,Alison Lundergan GRIMES,84
+Greenup,A103,U.S. Senate,,,Alison Lundergan GRIMES,64
+Greenup,A104,U.S. Senate,,,Alison Lundergan GRIMES,44
+Greenup,A105,U.S. Senate,,,Alison Lundergan GRIMES,82
+Greenup,A106,U.S. Senate,,,Alison Lundergan GRIMES,81
+Greenup,A107,U.S. Senate,,,Alison Lundergan GRIMES,96
+Greenup,A108,U.S. Senate,,,Alison Lundergan GRIMES,68
+Greenup,A109,U.S. Senate,,,Alison Lundergan GRIMES,114
+Greenup,A111,U.S. Senate,,,Alison Lundergan GRIMES,64
+Greenup,A112,U.S. Senate,,,Alison Lundergan GRIMES,105
+Greenup,B101,U.S. Senate,,,Alison Lundergan GRIMES,51
+Greenup,B102,U.S. Senate,,,Alison Lundergan GRIMES,31
+Greenup,B103,U.S. Senate,,,Alison Lundergan GRIMES,91
+Greenup,B104,U.S. Senate,,,Alison Lundergan GRIMES,47
+Greenup,B105,U.S. Senate,,,Alison Lundergan GRIMES,67
+Greenup,B106,U.S. Senate,,,Alison Lundergan GRIMES,35
+Greenup,B107,U.S. Senate,,,Alison Lundergan GRIMES,85
+Greenup,B108,U.S. Senate,,,Alison Lundergan GRIMES,137
+Greenup,B109,U.S. Senate,,,Alison Lundergan GRIMES,41
+Greenup,B110,U.S. Senate,,,Alison Lundergan GRIMES,39
+Greenup,B111,U.S. Senate,,,Alison Lundergan GRIMES,116
+Greenup,C101,U.S. Senate,,,Alison Lundergan GRIMES,62
+Greenup,C102,U.S. Senate,,,Alison Lundergan GRIMES,89
+Greenup,C103,U.S. Senate,,,Alison Lundergan GRIMES,63
+Greenup,C104,U.S. Senate,,,Alison Lundergan GRIMES,142
+Greenup,C105,U.S. Senate,,,Alison Lundergan GRIMES,69
+Greenup,C106,U.S. Senate,,,Alison Lundergan GRIMES,70
+Greenup,C107,U.S. Senate,,,Alison Lundergan GRIMES,35
+Greenup,C108,U.S. Senate,,,Alison Lundergan GRIMES,80
+Greenup,C109,U.S. Senate,,,Alison Lundergan GRIMES,82
+Greenup,C110,U.S. Senate,,,Alison Lundergan GRIMES,100
+Greenup,AB,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,A101,U.S. Senate,,,Gregory Brent LEICHTY,4
+Greenup,A102,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,A103,U.S. Senate,,,Gregory Brent LEICHTY,4
+Greenup,A104,U.S. Senate,,,Gregory Brent LEICHTY,9
+Greenup,A105,U.S. Senate,,,Gregory Brent LEICHTY,8
+Greenup,A106,U.S. Senate,,,Gregory Brent LEICHTY,3
+Greenup,A107,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,A108,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,A109,U.S. Senate,,,Gregory Brent LEICHTY,5
+Greenup,A111,U.S. Senate,,,Gregory Brent LEICHTY,8
+Greenup,A112,U.S. Senate,,,Gregory Brent LEICHTY,11
+Greenup,B101,U.S. Senate,,,Gregory Brent LEICHTY,9
+Greenup,B102,U.S. Senate,,,Gregory Brent LEICHTY,4
+Greenup,B103,U.S. Senate,,,Gregory Brent LEICHTY,16
+Greenup,B104,U.S. Senate,,,Gregory Brent LEICHTY,5
+Greenup,B105,U.S. Senate,,,Gregory Brent LEICHTY,6
+Greenup,B106,U.S. Senate,,,Gregory Brent LEICHTY,1
+Greenup,B107,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,B108,U.S. Senate,,,Gregory Brent LEICHTY,22
+Greenup,B109,U.S. Senate,,,Gregory Brent LEICHTY,7
+Greenup,B110,U.S. Senate,,,Gregory Brent LEICHTY,3
+Greenup,B111,U.S. Senate,,,Gregory Brent LEICHTY,16
+Greenup,C101,U.S. Senate,,,Gregory Brent LEICHTY,8
+Greenup,C102,U.S. Senate,,,Gregory Brent LEICHTY,10
+Greenup,C103,U.S. Senate,,,Gregory Brent LEICHTY,7
+Greenup,C104,U.S. Senate,,,Gregory Brent LEICHTY,11
+Greenup,C105,U.S. Senate,,,Gregory Brent LEICHTY,7
+Greenup,C106,U.S. Senate,,,Gregory Brent LEICHTY,11
+Greenup,C107,U.S. Senate,,,Gregory Brent LEICHTY,6
+Greenup,C108,U.S. Senate,,,Gregory Brent LEICHTY,6
+Greenup,C109,U.S. Senate,,,Gregory Brent LEICHTY,4
+Greenup,C110,U.S. Senate,,,Gregory Brent LEICHTY,15
+Greenup,AB,U.S. Senate,,,Tom RECKTENWALD,3
+Greenup,A101,U.S. Senate,,,Tom RECKTENWALD,9
+Greenup,A102,U.S. Senate,,,Tom RECKTENWALD,15
+Greenup,A103,U.S. Senate,,,Tom RECKTENWALD,6
+Greenup,A104,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,A105,U.S. Senate,,,Tom RECKTENWALD,14
+Greenup,A106,U.S. Senate,,,Tom RECKTENWALD,5
+Greenup,A107,U.S. Senate,,,Tom RECKTENWALD,16
+Greenup,A108,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,A109,U.S. Senate,,,Tom RECKTENWALD,12
+Greenup,A111,U.S. Senate,,,Tom RECKTENWALD,5
+Greenup,A112,U.S. Senate,,,Tom RECKTENWALD,8
+Greenup,B101,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,B102,U.S. Senate,,,Tom RECKTENWALD,12
+Greenup,B103,U.S. Senate,,,Tom RECKTENWALD,17
+Greenup,B104,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,B105,U.S. Senate,,,Tom RECKTENWALD,13
+Greenup,B106,U.S. Senate,,,Tom RECKTENWALD,11
+Greenup,B107,U.S. Senate,,,Tom RECKTENWALD,17
+Greenup,B108,U.S. Senate,,,Tom RECKTENWALD,18
+Greenup,B109,U.S. Senate,,,Tom RECKTENWALD,9
+Greenup,B110,U.S. Senate,,,Tom RECKTENWALD,8
+Greenup,B111,U.S. Senate,,,Tom RECKTENWALD,25
+Greenup,C101,U.S. Senate,,,Tom RECKTENWALD,3
+Greenup,C102,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,C103,U.S. Senate,,,Tom RECKTENWALD,6
+Greenup,C104,U.S. Senate,,,Tom RECKTENWALD,10
+Greenup,C105,U.S. Senate,,,Tom RECKTENWALD,5
+Greenup,C106,U.S. Senate,,,Tom RECKTENWALD,11
+Greenup,C107,U.S. Senate,,,Tom RECKTENWALD,4
+Greenup,C108,U.S. Senate,,,Tom RECKTENWALD,7
+Greenup,C109,U.S. Senate,,,Tom RECKTENWALD,13
+Greenup,C110,U.S. Senate,,,Tom RECKTENWALD,21
+Greenup,AB,Property Valuation Administrator,,,Bobby HALL,68
+Greenup,A101,Property Valuation Administrator,,,Bobby HALL,55
+Greenup,A102,Property Valuation Administrator,,,Bobby HALL,75
+Greenup,A103,Property Valuation Administrator,,,Bobby HALL,38
+Greenup,A104,Property Valuation Administrator,,,Bobby HALL,39
+Greenup,A105,Property Valuation Administrator,,,Bobby HALL,61
+Greenup,A106,Property Valuation Administrator,,,Bobby HALL,59
+Greenup,A107,Property Valuation Administrator,,,Bobby HALL,100
+Greenup,A108,Property Valuation Administrator,,,Bobby HALL,57
+Greenup,A109,Property Valuation Administrator,,,Bobby HALL,75
+Greenup,A111,Property Valuation Administrator,,,Bobby HALL,53
+Greenup,A112,Property Valuation Administrator,,,Bobby HALL,57
+Greenup,B101,Property Valuation Administrator,,,Bobby HALL,37
+Greenup,B102,Property Valuation Administrator,,,Bobby HALL,16
+Greenup,B103,Property Valuation Administrator,,,Bobby HALL,88
+Greenup,B104,Property Valuation Administrator,,,Bobby HALL,45
+Greenup,B105,Property Valuation Administrator,,,Bobby HALL,46
+Greenup,B106,Property Valuation Administrator,,,Bobby HALL,31
+Greenup,B107,Property Valuation Administrator,,,Bobby HALL,71
+Greenup,B108,Property Valuation Administrator,,,Bobby HALL,158
+Greenup,B109,Property Valuation Administrator,,,Bobby HALL,24
+Greenup,B110,Property Valuation Administrator,,,Bobby HALL,35
+Greenup,B111,Property Valuation Administrator,,,Bobby HALL,114
+Greenup,C101,Property Valuation Administrator,,,Bobby HALL,44
+Greenup,C102,Property Valuation Administrator,,,Bobby HALL,72
+Greenup,C103,Property Valuation Administrator,,,Bobby HALL,58
+Greenup,C104,Property Valuation Administrator,,,Bobby HALL,100
+Greenup,C105,Property Valuation Administrator,,,Bobby HALL,58
+Greenup,C106,Property Valuation Administrator,,,Bobby HALL,62
+Greenup,C107,Property Valuation Administrator,,,Bobby HALL,27
+Greenup,C108,Property Valuation Administrator,,,Bobby HALL,59
+Greenup,C109,Property Valuation Administrator,,,Bobby HALL,67
+Greenup,C110,Property Valuation Administrator,,,Bobby HALL,116
+Greenup,AB,Property Valuation Administrator,,,Bill CLARY,64
+Greenup,A101,Property Valuation Administrator,,,Bill CLARY,39
+Greenup,A102,Property Valuation Administrator,,,Bill CLARY,52
+Greenup,A103,Property Valuation Administrator,,,Bill CLARY,49
+Greenup,A104,Property Valuation Administrator,,,Bill CLARY,34
+Greenup,A105,Property Valuation Administrator,,,Bill CLARY,60
+Greenup,A106,Property Valuation Administrator,,,Bill CLARY,42
+Greenup,A107,Property Valuation Administrator,,,Bill CLARY,45
+Greenup,A108,Property Valuation Administrator,,,Bill CLARY,36
+Greenup,A109,Property Valuation Administrator,,,Bill CLARY,72
+Greenup,A111,Property Valuation Administrator,,,Bill CLARY,32
+Greenup,A112,Property Valuation Administrator,,,Bill CLARY,88
+Greenup,B101,Property Valuation Administrator,,,Bill CLARY,49
+Greenup,B102,Property Valuation Administrator,,,Bill CLARY,40
+Greenup,B103,Property Valuation Administrator,,,Bill CLARY,72
+Greenup,B104,Property Valuation Administrator,,,Bill CLARY,41
+Greenup,B105,Property Valuation Administrator,,,Bill CLARY,59
+Greenup,B106,Property Valuation Administrator,,,Bill CLARY,28
+Greenup,B107,Property Valuation Administrator,,,Bill CLARY,63
+Greenup,B108,Property Valuation Administrator,,,Bill CLARY,64
+Greenup,B109,Property Valuation Administrator,,,Bill CLARY,38
+Greenup,B110,Property Valuation Administrator,,,Bill CLARY,30
+Greenup,B111,Property Valuation Administrator,,,Bill CLARY,81
+Greenup,C101,Property Valuation Administrator,,,Bill CLARY,33
+Greenup,C102,Property Valuation Administrator,,,Bill CLARY,52
+Greenup,C103,Property Valuation Administrator,,,Bill CLARY,29
+Greenup,C104,Property Valuation Administrator,,,Bill CLARY,90
+Greenup,C105,Property Valuation Administrator,,,Bill CLARY,35
+Greenup,C106,Property Valuation Administrator,,,Bill CLARY,59
+Greenup,C107,Property Valuation Administrator,,,Bill CLARY,24
+Greenup,C108,Property Valuation Administrator,,,Bill CLARY,45
+Greenup,C109,Property Valuation Administrator,,,Bill CLARY,45
+Greenup,C110,Property Valuation Administrator,,,Bill CLARY,38
+Greenup,AB,County Judge/Executive,,,Curt HIENEMAN,34
+Greenup,A101,County Judge/Executive,,,Curt HIENEMAN,22
+Greenup,A102,County Judge/Executive,,,Curt HIENEMAN,29
+Greenup,A103,County Judge/Executive,,,Curt HIENEMAN,10
+Greenup,A104,County Judge/Executive,,,Curt HIENEMAN,20
+Greenup,A105,County Judge/Executive,,,Curt HIENEMAN,21
+Greenup,A106,County Judge/Executive,,,Curt HIENEMAN,28
+Greenup,A107,County Judge/Executive,,,Curt HIENEMAN,39
+Greenup,A108,County Judge/Executive,,,Curt HIENEMAN,25
+Greenup,A109,County Judge/Executive,,,Curt HIENEMAN,31
+Greenup,A111,County Judge/Executive,,,Curt HIENEMAN,14
+Greenup,A112,County Judge/Executive,,,Curt HIENEMAN,39
+Greenup,B101,County Judge/Executive,,,Curt HIENEMAN,21
+Greenup,B102,County Judge/Executive,,,Curt HIENEMAN,18
+Greenup,B103,County Judge/Executive,,,Curt HIENEMAN,44
+Greenup,B104,County Judge/Executive,,,Curt HIENEMAN,29
+Greenup,B105,County Judge/Executive,,,Curt HIENEMAN,42
+Greenup,B106,County Judge/Executive,,,Curt HIENEMAN,25
+Greenup,B107,County Judge/Executive,,,Curt HIENEMAN,41
+Greenup,B108,County Judge/Executive,,,Curt HIENEMAN,83
+Greenup,B109,County Judge/Executive,,,Curt HIENEMAN,19
+Greenup,B110,County Judge/Executive,,,Curt HIENEMAN,20
+Greenup,B111,County Judge/Executive,,,Curt HIENEMAN,61
+Greenup,C101,County Judge/Executive,,,Curt HIENEMAN,20
+Greenup,C102,County Judge/Executive,,,Curt HIENEMAN,36
+Greenup,C103,County Judge/Executive,,,Curt HIENEMAN,29
+Greenup,C104,County Judge/Executive,,,Curt HIENEMAN,52
+Greenup,C105,County Judge/Executive,,,Curt HIENEMAN,25
+Greenup,C106,County Judge/Executive,,,Curt HIENEMAN,30
+Greenup,C107,County Judge/Executive,,,Curt HIENEMAN,13
+Greenup,C108,County Judge/Executive,,,Curt HIENEMAN,16
+Greenup,C109,County Judge/Executive,,,Curt HIENEMAN,41
+Greenup,C110,County Judge/Executive,,,Curt HIENEMAN,34
+Greenup,AB,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",99
+Greenup,A101,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",71
+Greenup,A102,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",100
+Greenup,A103,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",79
+Greenup,A104,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",55
+Greenup,A105,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",101
+Greenup,A106,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",73
+Greenup,A107,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",107
+Greenup,A108,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",70
+Greenup,A109,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",118
+Greenup,A111,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",71
+Greenup,A112,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",111
+Greenup,B101,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",67
+Greenup,B102,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",37
+Greenup,B103,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",111
+Greenup,B104,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",56
+Greenup,B105,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",66
+Greenup,B106,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",34
+Greenup,B107,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",94
+Greenup,B108,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",141
+Greenup,B109,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",44
+Greenup,B110,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",48
+Greenup,B111,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",134
+Greenup,C101,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",58
+Greenup,C102,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",90
+Greenup,C103,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",63
+Greenup,C104,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",139
+Greenup,C105,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",71
+Greenup,C106,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",94
+Greenup,C107,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",37
+Greenup,C108,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",88
+Greenup,C109,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",71
+Greenup,C110,County Judge/Executive,,,"Robert ""Bobby"" CARPENTER",122
+Greenup,AB,County Commissioner 2nd District,,,Richard HOWERTON,71
+Greenup,A101,County Commissioner 2nd District,,,Richard HOWERTON,48
+Greenup,A102,County Commissioner 2nd District,,,Richard HOWERTON,72
+Greenup,A103,County Commissioner 2nd District,,,Richard HOWERTON,37
+Greenup,A104,County Commissioner 2nd District,,,Richard HOWERTON,36
+Greenup,A105,County Commissioner 2nd District,,,Richard HOWERTON,61
+Greenup,A106,County Commissioner 2nd District,,,Richard HOWERTON,65
+Greenup,A107,County Commissioner 2nd District,,,Richard HOWERTON,76
+Greenup,A108,County Commissioner 2nd District,,,Richard HOWERTON,56
+Greenup,A109,County Commissioner 2nd District,,,Richard HOWERTON,71
+Greenup,A111,County Commissioner 2nd District,,,Richard HOWERTON,48
+Greenup,A112,County Commissioner 2nd District,,,Richard HOWERTON,73
+Greenup,B101,County Commissioner 2nd District,,,Richard HOWERTON,45
+Greenup,B102,County Commissioner 2nd District,,,Richard HOWERTON,23
+Greenup,B103,County Commissioner 2nd District,,,Richard HOWERTON,66
+Greenup,B104,County Commissioner 2nd District,,,Richard HOWERTON,30
+Greenup,B105,County Commissioner 2nd District,,,Richard HOWERTON,51
+Greenup,B106,County Commissioner 2nd District,,,Richard HOWERTON,32
+Greenup,B107,County Commissioner 2nd District,,,Richard HOWERTON,70
+Greenup,B108,County Commissioner 2nd District,,,Richard HOWERTON,104
+Greenup,B109,County Commissioner 2nd District,,,Richard HOWERTON,22
+Greenup,B110,County Commissioner 2nd District,,,Richard HOWERTON,34
+Greenup,B111,County Commissioner 2nd District,,,Richard HOWERTON,94
+Greenup,C101,County Commissioner 2nd District,,,Richard HOWERTON,41
+Greenup,C102,County Commissioner 2nd District,,,Richard HOWERTON,61
+Greenup,C103,County Commissioner 2nd District,,,Richard HOWERTON,47
+Greenup,C104,County Commissioner 2nd District,,,Richard HOWERTON,86
+Greenup,C105,County Commissioner 2nd District,,,Richard HOWERTON,36
+Greenup,C106,County Commissioner 2nd District,,,Richard HOWERTON,58
+Greenup,C107,County Commissioner 2nd District,,,Richard HOWERTON,24
+Greenup,C108,County Commissioner 2nd District,,,Richard HOWERTON,49
+Greenup,C109,County Commissioner 2nd District,,,Richard HOWERTON,55
+Greenup,C110,County Commissioner 2nd District,,,Richard HOWERTON,58
+Greenup,AB,County Commissioner 2nd District,,,Soc CLAY,60
+Greenup,A101,County Commissioner 2nd District,,,Soc CLAY,37
+Greenup,A102,County Commissioner 2nd District,,,Soc CLAY,47
+Greenup,A103,County Commissioner 2nd District,,,Soc CLAY,40
+Greenup,A104,County Commissioner 2nd District,,,Soc CLAY,32
+Greenup,A105,County Commissioner 2nd District,,,Soc CLAY,52
+Greenup,A106,County Commissioner 2nd District,,,Soc CLAY,32
+Greenup,A107,County Commissioner 2nd District,,,Soc CLAY,60
+Greenup,A108,County Commissioner 2nd District,,,Soc CLAY,28
+Greenup,A109,County Commissioner 2nd District,,,Soc CLAY,60
+Greenup,A111,County Commissioner 2nd District,,,Soc CLAY,25
+Greenup,A112,County Commissioner 2nd District,,,Soc CLAY,62
+Greenup,B101,County Commissioner 2nd District,,,Soc CLAY,44
+Greenup,B102,County Commissioner 2nd District,,,Soc CLAY,32
+Greenup,B103,County Commissioner 2nd District,,,Soc CLAY,89
+Greenup,B104,County Commissioner 2nd District,,,Soc CLAY,52
+Greenup,B105,County Commissioner 2nd District,,,Soc CLAY,56
+Greenup,B106,County Commissioner 2nd District,,,Soc CLAY,27
+Greenup,B107,County Commissioner 2nd District,,,Soc CLAY,58
+Greenup,B108,County Commissioner 2nd District,,,Soc CLAY,109
+Greenup,B109,County Commissioner 2nd District,,,Soc CLAY,41
+Greenup,B110,County Commissioner 2nd District,,,Soc CLAY,24
+Greenup,B111,County Commissioner 2nd District,,,Soc CLAY,93
+Greenup,C101,County Commissioner 2nd District,,,Soc CLAY,31
+Greenup,C102,County Commissioner 2nd District,,,Soc CLAY,48
+Greenup,C103,County Commissioner 2nd District,,,Soc CLAY,37
+Greenup,C104,County Commissioner 2nd District,,,Soc CLAY,92
+Greenup,C105,County Commissioner 2nd District,,,Soc CLAY,45
+Greenup,C106,County Commissioner 2nd District,,,Soc CLAY,43
+Greenup,C107,County Commissioner 2nd District,,,Soc CLAY,21
+Greenup,C108,County Commissioner 2nd District,,,Soc CLAY,45
+Greenup,C109,County Commissioner 2nd District,,,Soc CLAY,50
+Greenup,C110,County Commissioner 2nd District,,,Soc CLAY,85
+Greenup,AB,County Commissioner 3rd District,,,Randy ASHLEY,36
+Greenup,A101,County Commissioner 3rd District,,,Randy ASHLEY,23
+Greenup,A102,County Commissioner 3rd District,,,Randy ASHLEY,24
+Greenup,A103,County Commissioner 3rd District,,,Randy ASHLEY,22
+Greenup,A104,County Commissioner 3rd District,,,Randy ASHLEY,12
+Greenup,A105,County Commissioner 3rd District,,,Randy ASHLEY,26
+Greenup,A106,County Commissioner 3rd District,,,Randy ASHLEY,23
+Greenup,A107,County Commissioner 3rd District,,,Randy ASHLEY,25
+Greenup,A108,County Commissioner 3rd District,,,Randy ASHLEY,26
+Greenup,A109,County Commissioner 3rd District,,,Randy ASHLEY,34
+Greenup,A111,County Commissioner 3rd District,,,Randy ASHLEY,21
+Greenup,A112,County Commissioner 3rd District,,,Randy ASHLEY,43
+Greenup,B101,County Commissioner 3rd District,,,Randy ASHLEY,14
+Greenup,B102,County Commissioner 3rd District,,,Randy ASHLEY,11
+Greenup,B103,County Commissioner 3rd District,,,Randy ASHLEY,30
+Greenup,B104,County Commissioner 3rd District,,,Randy ASHLEY,23
+Greenup,B105,County Commissioner 3rd District,,,Randy ASHLEY,28
+Greenup,B106,County Commissioner 3rd District,,,Randy ASHLEY,12
+Greenup,B107,County Commissioner 3rd District,,,Randy ASHLEY,29
+Greenup,B108,County Commissioner 3rd District,,,Randy ASHLEY,44
+Greenup,B109,County Commissioner 3rd District,,,Randy ASHLEY,18
+Greenup,B110,County Commissioner 3rd District,,,Randy ASHLEY,18
+Greenup,B111,County Commissioner 3rd District,,,Randy ASHLEY,34
+Greenup,C101,County Commissioner 3rd District,,,Randy ASHLEY,25
+Greenup,C102,County Commissioner 3rd District,,,Randy ASHLEY,72
+Greenup,C103,County Commissioner 3rd District,,,Randy ASHLEY,30
+Greenup,C104,County Commissioner 3rd District,,,Randy ASHLEY,54
+Greenup,C105,County Commissioner 3rd District,,,Randy ASHLEY,25
+Greenup,C106,County Commissioner 3rd District,,,Randy ASHLEY,39
+Greenup,C107,County Commissioner 3rd District,,,Randy ASHLEY,14
+Greenup,C108,County Commissioner 3rd District,,,Randy ASHLEY,25
+Greenup,C109,County Commissioner 3rd District,,,Randy ASHLEY,30
+Greenup,C110,County Commissioner 3rd District,,,Randy ASHLEY,35
+Greenup,AB,County Commissioner 3rd District,,,Tom CRUMP,38
+Greenup,A101,County Commissioner 3rd District,,,Tom CRUMP,20
+Greenup,A102,County Commissioner 3rd District,,,Tom CRUMP,43
+Greenup,A103,County Commissioner 3rd District,,,Tom CRUMP,19
+Greenup,A104,County Commissioner 3rd District,,,Tom CRUMP,35
+Greenup,A105,County Commissioner 3rd District,,,Tom CRUMP,43
+Greenup,A106,County Commissioner 3rd District,,,Tom CRUMP,48
+Greenup,A107,County Commissioner 3rd District,,,Tom CRUMP,66
+Greenup,A108,County Commissioner 3rd District,,,Tom CRUMP,23
+Greenup,A109,County Commissioner 3rd District,,,Tom CRUMP,36
+Greenup,A111,County Commissioner 3rd District,,,Tom CRUMP,25
+Greenup,A112,County Commissioner 3rd District,,,Tom CRUMP,24
+Greenup,B101,County Commissioner 3rd District,,,Tom CRUMP,40
+Greenup,B102,County Commissioner 3rd District,,,Tom CRUMP,20
+Greenup,B103,County Commissioner 3rd District,,,Tom CRUMP,74
+Greenup,B104,County Commissioner 3rd District,,,Tom CRUMP,32
+Greenup,B105,County Commissioner 3rd District,,,Tom CRUMP,46
+Greenup,B106,County Commissioner 3rd District,,,Tom CRUMP,28
+Greenup,B107,County Commissioner 3rd District,,,Tom CRUMP,41
+Greenup,B108,County Commissioner 3rd District,,,Tom CRUMP,102
+Greenup,B109,County Commissioner 3rd District,,,Tom CRUMP,18
+Greenup,B110,County Commissioner 3rd District,,,Tom CRUMP,17
+Greenup,B111,County Commissioner 3rd District,,,Tom CRUMP,72
+Greenup,C101,County Commissioner 3rd District,,,Tom CRUMP,11
+Greenup,C102,County Commissioner 3rd District,,,Tom CRUMP,7
+Greenup,C103,County Commissioner 3rd District,,,Tom CRUMP,15
+Greenup,C104,County Commissioner 3rd District,,,Tom CRUMP,41
+Greenup,C105,County Commissioner 3rd District,,,Tom CRUMP,14
+Greenup,C106,County Commissioner 3rd District,,,Tom CRUMP,19
+Greenup,C107,County Commissioner 3rd District,,,Tom CRUMP,15
+Greenup,C108,County Commissioner 3rd District,,,Tom CRUMP,15
+Greenup,C109,County Commissioner 3rd District,,,Tom CRUMP,33
+Greenup,C110,County Commissioner 3rd District,,,Tom CRUMP,69
+Greenup,AB,County Commissioner 3rd District,,,Billy Ray STEPHENS,56
+Greenup,A101,County Commissioner 3rd District,,,Billy Ray STEPHENS,47
+Greenup,A102,County Commissioner 3rd District,,,Billy Ray STEPHENS,53
+Greenup,A103,County Commissioner 3rd District,,,Billy Ray STEPHENS,43
+Greenup,A104,County Commissioner 3rd District,,,Billy Ray STEPHENS,26
+Greenup,A105,County Commissioner 3rd District,,,Billy Ray STEPHENS,52
+Greenup,A106,County Commissioner 3rd District,,,Billy Ray STEPHENS,26
+Greenup,A107,County Commissioner 3rd District,,,Billy Ray STEPHENS,50
+Greenup,A108,County Commissioner 3rd District,,,Billy Ray STEPHENS,40
+Greenup,A109,County Commissioner 3rd District,,,Billy Ray STEPHENS,67
+Greenup,A111,County Commissioner 3rd District,,,Billy Ray STEPHENS,36
+Greenup,A112,County Commissioner 3rd District,,,Billy Ray STEPHENS,70
+Greenup,B101,County Commissioner 3rd District,,,Billy Ray STEPHENS,27
+Greenup,B102,County Commissioner 3rd District,,,Billy Ray STEPHENS,18
+Greenup,B103,County Commissioner 3rd District,,,Billy Ray STEPHENS,45
+Greenup,B104,County Commissioner 3rd District,,,Billy Ray STEPHENS,28
+Greenup,B105,County Commissioner 3rd District,,,Billy Ray STEPHENS,30
+Greenup,B106,County Commissioner 3rd District,,,Billy Ray STEPHENS,13
+Greenup,B107,County Commissioner 3rd District,,,Billy Ray STEPHENS,63
+Greenup,B108,County Commissioner 3rd District,,,Billy Ray STEPHENS,74
+Greenup,B109,County Commissioner 3rd District,,,Billy Ray STEPHENS,21
+Greenup,B110,County Commissioner 3rd District,,,Billy Ray STEPHENS,29
+Greenup,B111,County Commissioner 3rd District,,,Billy Ray STEPHENS,87
+Greenup,C101,County Commissioner 3rd District,,,Billy Ray STEPHENS,34
+Greenup,C102,County Commissioner 3rd District,,,Billy Ray STEPHENS,49
+Greenup,C103,County Commissioner 3rd District,,,Billy Ray STEPHENS,40
+Greenup,C104,County Commissioner 3rd District,,,Billy Ray STEPHENS,85
+Greenup,C105,County Commissioner 3rd District,,,Billy Ray STEPHENS,51
+Greenup,C106,County Commissioner 3rd District,,,Billy Ray STEPHENS,48
+Greenup,C107,County Commissioner 3rd District,,,Billy Ray STEPHENS,21
+Greenup,C108,County Commissioner 3rd District,,,Billy Ray STEPHENS,57
+Greenup,C109,County Commissioner 3rd District,,,Billy Ray STEPHENS,48
+Greenup,C110,County Commissioner 3rd District,,,Billy Ray STEPHENS,53
+Greenup,AB,Constable 3rd Magisterial District,,,Tammie WOMACK,16
+Greenup,C101,Constable 3rd Magisterial District,,,Tammie WOMACK,43
+Greenup,C102,Constable 3rd Magisterial District,,,Tammie WOMACK,69
+Greenup,C103,Constable 3rd Magisterial District,,,Tammie WOMACK,51
+Greenup,C104,Constable 3rd Magisterial District,,,Tammie WOMACK,99
+Greenup,C105,Constable 3rd Magisterial District,,,Tammie WOMACK,51
+Greenup,C106,Constable 3rd Magisterial District,,,Tammie WOMACK,66
+Greenup,C107,Constable 3rd Magisterial District,,,Tammie WOMACK,22
+Greenup,C108,Constable 3rd Magisterial District,,,Tammie WOMACK,56
+Greenup,C109,Constable 3rd Magisterial District,,,Tammie WOMACK,51
+Greenup,C110,Constable 3rd Magisterial District,,,Tammie WOMACK,58
+Greenup,AB,Constable 3rd Magisterial District,,,Steve THOMPSON,9
+Greenup,C101,Constable 3rd Magisterial District,,,Steve THOMPSON,21
+Greenup,C102,Constable 3rd Magisterial District,,,Steve THOMPSON,22
+Greenup,C103,Constable 3rd Magisterial District,,,Steve THOMPSON,22
+Greenup,C104,Constable 3rd Magisterial District,,,Steve THOMPSON,50
+Greenup,C105,Constable 3rd Magisterial District,,,Steve THOMPSON,24
+Greenup,C106,Constable 3rd Magisterial District,,,Steve THOMPSON,25
+Greenup,C107,Constable 3rd Magisterial District,,,Steve THOMPSON,19
+Greenup,C108,Constable 3rd Magisterial District,,,Steve THOMPSON,31
+Greenup,C109,Constable 3rd Magisterial District,,,Steve THOMPSON,33
+Greenup,C110,Constable 3rd Magisterial District,,,Steve THOMPSON,44
+Greenup,AB,Constable 3rd Magisterial District,,,Lenard HALL JR.,11
+Greenup,C101,Constable 3rd Magisterial District,,,Lenard HALL JR.,4
+Greenup,C102,Constable 3rd Magisterial District,,,Lenard HALL JR.,25
+Greenup,C103,Constable 3rd Magisterial District,,,Lenard HALL JR.,9
+Greenup,C104,Constable 3rd Magisterial District,,,Lenard HALL JR.,24
+Greenup,C105,Constable 3rd Magisterial District,,,Lenard HALL JR.,12
+Greenup,C106,Constable 3rd Magisterial District,,,Lenard HALL JR.,17
+Greenup,C107,Constable 3rd Magisterial District,,,Lenard HALL JR.,6
+Greenup,C108,Constable 3rd Magisterial District,,,Lenard HALL JR.,8
+Greenup,C109,Constable 3rd Magisterial District,,,Lenard HALL JR.,21
+Greenup,C110,Constable 3rd Magisterial District,,,Lenard HALL JR.,44
+Greenup,AB,Mayor City of Flatwoods,,,Joe GRAY,8
+Greenup,A112,Mayor City of Flatwoods,,,Joe GRAY,94
+Greenup,C103,Mayor City of Flatwoods,,,Joe GRAY,36
+Greenup,C104,Mayor City of Flatwoods,,,Joe GRAY,80
+Greenup,C105,Mayor City of Flatwoods,,,Joe GRAY,39
+Greenup,C106,Mayor City of Flatwoods,,,Joe GRAY,58
+Greenup,C107,Mayor City of Flatwoods,,,Joe GRAY,28
+Greenup,AB,Mayor City of Flatwoods,,,Ron FIELDS,12
+Greenup,A112,Mayor City of Flatwoods,,,Ron FIELDS,108
+Greenup,C103,Mayor City of Flatwoods,,,Ron FIELDS,81
+Greenup,C104,Mayor City of Flatwoods,,,Ron FIELDS,148
+Greenup,C105,Mayor City of Flatwoods,,,Ron FIELDS,75
+Greenup,C106,Mayor City of Flatwoods,,,Ron FIELDS,88
+Greenup,C107,Mayor City of Flatwoods,,,Ron FIELDS,32
+Greenup,AB,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",2
+Greenup,A112,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",13
+Greenup,C103,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",3
+Greenup,C104,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",23
+Greenup,C105,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",4
+Greenup,C106,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",8
+Greenup,C107,Mayor City of Flatwoods,,,"Jerald ""Slim"" HICKS",6
+Greenup,AB,Mayor City of Flatwoods,,,Doug SPILLMAN,9
+Greenup,A112,Mayor City of Flatwoods,,,Doug SPILLMAN,28
+Greenup,C103,Mayor City of Flatwoods,,,Doug SPILLMAN,29
+Greenup,C104,Mayor City of Flatwoods,,,Doug SPILLMAN,66
+Greenup,C105,Mayor City of Flatwoods,,,Doug SPILLMAN,43
+Greenup,C106,Mayor City of Flatwoods,,,Doug SPILLMAN,56
+Greenup,C107,Mayor City of Flatwoods,,,Doug SPILLMAN,15
+Greenup,AB,Mayor City of South Shore,,,Larry WELLS,0
+Greenup,B101,Mayor City of South Shore,,,Larry WELLS,28
+Greenup,B102,Mayor City of South Shore,,,Larry WELLS,28
+Greenup,AB,Mayor City of South Shore,,,Cheryl MOORE,2
+Greenup,B101,Mayor City of South Shore,,,Cheryl MOORE,95
+Greenup,B102,Mayor City of South Shore,,,Cheryl MOORE,57
+Greenup,AB,Mayor City of South Shore,,,Lou BENTLEY,0
+Greenup,B101,Mayor City of South Shore,,,Lou BENTLEY,14
+Greenup,B102,Mayor City of South Shore,,,Lou BENTLEY,7

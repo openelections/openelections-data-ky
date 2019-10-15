@@ -1,0 +1,874 @@
+county,precinct,office,district,party,candidate,votes
+Taylor,AB,U.S. Senate,,REP,Rand PAUL,414
+Taylor,A101,U.S. Senate,,REP,Rand PAUL,203
+Taylor,A102,U.S. Senate,,REP,Rand PAUL,204
+Taylor,A104,U.S. Senate,,REP,Rand PAUL,436
+Taylor,B101,U.S. Senate,,REP,Rand PAUL,282
+Taylor,B102,U.S. Senate,,REP,Rand PAUL,280
+Taylor,B103,U.S. Senate,,REP,Rand PAUL,44
+Taylor,B104,U.S. Senate,,REP,Rand PAUL,151
+Taylor,C101,U.S. Senate,,REP,Rand PAUL,107
+Taylor,C103,U.S. Senate,,REP,Rand PAUL,88
+Taylor,C104,U.S. Senate,,REP,Rand PAUL,160
+Taylor,C105,U.S. Senate,,REP,Rand PAUL,323
+Taylor,D101,U.S. Senate,,REP,Rand PAUL,224
+Taylor,D102,U.S. Senate,,REP,Rand PAUL,437
+Taylor,D104,U.S. Senate,,REP,Rand PAUL,343
+Taylor,E101,U.S. Senate,,REP,Rand PAUL,427
+Taylor,E102,U.S. Senate,,REP,Rand PAUL,191
+Taylor,E103,U.S. Senate,,REP,Rand PAUL,192
+Taylor,F101,U.S. Senate,,REP,Rand PAUL,220
+Taylor,F102,U.S. Senate,,REP,Rand PAUL,475
+Taylor,F103,U.S. Senate,,REP,Rand PAUL,338
+Taylor,AB,U.S. Senate,,DEM,Jack CONWAY,265
+Taylor,A101,U.S. Senate,,DEM,Jack CONWAY,104
+Taylor,A102,U.S. Senate,,DEM,Jack CONWAY,158
+Taylor,A104,U.S. Senate,,DEM,Jack CONWAY,276
+Taylor,B101,U.S. Senate,,DEM,Jack CONWAY,179
+Taylor,B102,U.S. Senate,,DEM,Jack CONWAY,206
+Taylor,B103,U.S. Senate,,DEM,Jack CONWAY,90
+Taylor,B104,U.S. Senate,,DEM,Jack CONWAY,124
+Taylor,C101,U.S. Senate,,DEM,Jack CONWAY,69
+Taylor,C103,U.S. Senate,,DEM,Jack CONWAY,55
+Taylor,C104,U.S. Senate,,DEM,Jack CONWAY,284
+Taylor,C105,U.S. Senate,,DEM,Jack CONWAY,228
+Taylor,D101,U.S. Senate,,DEM,Jack CONWAY,92
+Taylor,D102,U.S. Senate,,DEM,Jack CONWAY,289
+Taylor,D104,U.S. Senate,,DEM,Jack CONWAY,256
+Taylor,E101,U.S. Senate,,DEM,Jack CONWAY,290
+Taylor,E102,U.S. Senate,,DEM,Jack CONWAY,179
+Taylor,E103,U.S. Senate,,DEM,Jack CONWAY,151
+Taylor,F101,U.S. Senate,,DEM,Jack CONWAY,135
+Taylor,F102,U.S. Senate,,DEM,Jack CONWAY,290
+Taylor,F103,U.S. Senate,,DEM,Jack CONWAY,257
+Taylor,AB,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,A101,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,A102,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,A104,U.S. Senate,,,Billy Ray WILSON,1
+Taylor,B101,U.S. Senate,,,Billy Ray WILSON,1
+Taylor,B102,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,B103,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,B104,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,C101,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,C103,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,C104,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,C105,U.S. Senate,,,Billy Ray WILSON,2
+Taylor,D101,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,D102,U.S. Senate,,,Billy Ray WILSON,4
+Taylor,D104,U.S. Senate,,,Billy Ray WILSON,1
+Taylor,E101,U.S. Senate,,,Billy Ray WILSON,1
+Taylor,E102,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,E103,U.S. Senate,,,Billy Ray WILSON,1
+Taylor,F101,U.S. Senate,,,Billy Ray WILSON,0
+Taylor,F102,U.S. Senate,,,Billy Ray WILSON,3
+Taylor,F103,U.S. Senate,,,Billy Ray WILSON,2
+Taylor,AB,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,496
+Taylor,A101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,219
+Taylor,A102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,254
+Taylor,A104,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,539
+Taylor,B101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,326
+Taylor,B102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,355
+Taylor,B103,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,54
+Taylor,B104,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,185
+Taylor,C101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,116
+Taylor,C103,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,103
+Taylor,C104,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,184
+Taylor,C105,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,405
+Taylor,D101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,245
+Taylor,D102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,525
+Taylor,D104,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,407
+Taylor,E101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,538
+Taylor,E102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,270
+Taylor,E103,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,237
+Taylor,F101,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,278
+Taylor,F102,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,583
+Taylor,F103,US Representative, 2nd Congressional District,REP,S. Brett GUTHRIE,414
+Taylor,AB,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,181
+Taylor,A101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,79
+Taylor,A102,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,109
+Taylor,A104,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,177
+Taylor,B101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,108
+Taylor,B102,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,118
+Taylor,B103,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,69
+Taylor,B104,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,79
+Taylor,C101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,47
+Taylor,C103,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,31
+Taylor,C104,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,248
+Taylor,C105,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,126
+Taylor,D101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,64
+Taylor,D102,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,201
+Taylor,D104,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,176
+Taylor,E101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,175
+Taylor,E102,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,92
+Taylor,E103,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,101
+Taylor,F101,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,74
+Taylor,F102,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,173
+Taylor,F103,US Representative, 2nd Congressional District,DEM,Ed MARKSBERRY,161
+Taylor,AB,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,567
+Taylor,A101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,232
+Taylor,A102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,279
+Taylor,A104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,592
+Taylor,B101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,362
+Taylor,B102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,384
+Taylor,B103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,72
+Taylor,B104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,199
+Taylor,C101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,121
+Taylor,C103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,111
+Taylor,C104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,220
+Taylor,C105,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,431
+Taylor,D101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,250
+Taylor,D102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,581
+Taylor,D104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,460
+Taylor,E101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,573
+Taylor,E102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,281
+Taylor,E103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,252
+Taylor,F101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,314
+Taylor,F102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,633
+Taylor,F103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,448
+Taylor,AB,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",597
+Taylor,A101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",237
+Taylor,A102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",285
+Taylor,A104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",623
+Taylor,B101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",365
+Taylor,B102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",430
+Taylor,B103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",83
+Taylor,B104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",220
+Taylor,C101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",120
+Taylor,C103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",121
+Taylor,C104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",223
+Taylor,C105,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",465
+Taylor,D101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",265
+Taylor,D102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",598
+Taylor,D104,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",497
+Taylor,E101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",602
+Taylor,E102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",306
+Taylor,E103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",273
+Taylor,F101,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",312
+Taylor,F102,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",650
+Taylor,F103,State Representative, 51st Representative District,REP,"John ""Bam"" CARNEY",477
+Taylor,AB,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",313
+Taylor,A101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",161
+Taylor,A102,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",195
+Taylor,A104,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",405
+Taylor,B101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",245
+Taylor,B102,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",254
+Taylor,B103,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",48
+Taylor,B104,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",126
+Taylor,C101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",82
+Taylor,C103,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",79
+Taylor,C104,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",128
+Taylor,C105,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",286
+Taylor,D101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",178
+Taylor,D102,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",396
+Taylor,D104,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",299
+Taylor,E101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",392
+Taylor,E102,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",177
+Taylor,E103,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",164
+Taylor,F101,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",197
+Taylor,F102,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",423
+Taylor,F103,PROPERTY VALUATION ADMINISTRATOR,,REP,"Joseph ""Joey"" WASSON",293
+Taylor,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,400
+Taylor,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,147
+Taylor,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,183
+Taylor,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,327
+Taylor,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,219
+Taylor,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,255
+Taylor,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,87
+Taylor,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,158
+Taylor,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,92
+Taylor,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,64
+Taylor,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,309
+Taylor,C105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,270
+Taylor,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,138
+Taylor,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,350
+Taylor,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,304
+Taylor,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,349
+Taylor,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,204
+Taylor,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,178
+Taylor,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,168
+Taylor,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,376
+Taylor,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Julie Rice SHIELDS,306
+Taylor,AB,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,350
+Taylor,A101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,136
+Taylor,A102,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,185
+Taylor,A104,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,379
+Taylor,B101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,230
+Taylor,B102,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,241
+Taylor,B103,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,39
+Taylor,B104,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,129
+Taylor,C101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,82
+Taylor,C103,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,85
+Taylor,C104,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,141
+Taylor,C105,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,276
+Taylor,D101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,192
+Taylor,D102,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,370
+Taylor,D104,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,279
+Taylor,E101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,405
+Taylor,E102,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,196
+Taylor,E103,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,192
+Taylor,F101,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,197
+Taylor,F102,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,390
+Taylor,F103,COUNTY JUDGE/EXECUTIVE,,REP,Gary OSBORNE,296
+Taylor,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,379
+Taylor,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,180
+Taylor,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,201
+Taylor,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,370
+Taylor,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,251
+Taylor,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,276
+Taylor,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,101
+Taylor,B104,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,159
+Taylor,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,99
+Taylor,C103,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,67
+Taylor,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,322
+Taylor,C105,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,309
+Taylor,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,134
+Taylor,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,389
+Taylor,D104,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,343
+Taylor,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,357
+Taylor,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,193
+Taylor,E103,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,165
+Taylor,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,186
+Taylor,F102,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,416
+Taylor,F103,COUNTY JUDGE/EXECUTIVE,,DEM,Eddie ROGERS,318
+Taylor,AB,COUNTY ATTORNEY,,DEM,John D. BERTRAM,497
+Taylor,A101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,227
+Taylor,A102,COUNTY ATTORNEY,,DEM,John D. BERTRAM,271
+Taylor,A104,COUNTY ATTORNEY,,DEM,John D. BERTRAM,613
+Taylor,B101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,351
+Taylor,B102,COUNTY ATTORNEY,,DEM,John D. BERTRAM,395
+Taylor,B103,COUNTY ATTORNEY,,DEM,John D. BERTRAM,102
+Taylor,B104,COUNTY ATTORNEY,,DEM,John D. BERTRAM,228
+Taylor,C101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,114
+Taylor,C103,COUNTY ATTORNEY,,DEM,John D. BERTRAM,98
+Taylor,C104,COUNTY ATTORNEY,,DEM,John D. BERTRAM,353
+Taylor,C105,COUNTY ATTORNEY,,DEM,John D. BERTRAM,438
+Taylor,D101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,221
+Taylor,D102,COUNTY ATTORNEY,,DEM,John D. BERTRAM,540
+Taylor,D104,COUNTY ATTORNEY,,DEM,John D. BERTRAM,456
+Taylor,E101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,563
+Taylor,E102,COUNTY ATTORNEY,,DEM,John D. BERTRAM,291
+Taylor,E103,COUNTY ATTORNEY,,DEM,John D. BERTRAM,264
+Taylor,F101,COUNTY ATTORNEY,,DEM,John D. BERTRAM,286
+Taylor,F102,COUNTY ATTORNEY,,DEM,John D. BERTRAM,599
+Taylor,F103,COUNTY ATTORNEY,,DEM,John D. BERTRAM,467
+Taylor,AB,COUNTY CLERK,,REP,Mark CARNEY,623
+Taylor,A101,COUNTY CLERK,,REP,Mark CARNEY,243
+Taylor,A102,COUNTY CLERK,,REP,Mark CARNEY,304
+Taylor,A104,COUNTY CLERK,,REP,Mark CARNEY,636
+Taylor,B101,COUNTY CLERK,,REP,Mark CARNEY,376
+Taylor,B102,COUNTY CLERK,,REP,Mark CARNEY,425
+Taylor,B103,COUNTY CLERK,,REP,Mark CARNEY,95
+Taylor,B104,COUNTY CLERK,,REP,Mark CARNEY,228
+Taylor,C101,COUNTY CLERK,,REP,Mark CARNEY,129
+Taylor,C103,COUNTY CLERK,,REP,Mark CARNEY,120
+Taylor,C104,COUNTY CLERK,,REP,Mark CARNEY,236
+Taylor,C105,COUNTY CLERK,,REP,Mark CARNEY,473
+Taylor,D101,COUNTY CLERK,,REP,Mark CARNEY,266
+Taylor,D102,COUNTY CLERK,,REP,Mark CARNEY,614
+Taylor,D104,COUNTY CLERK,,REP,Mark CARNEY,507
+Taylor,E101,COUNTY CLERK,,REP,Mark CARNEY,627
+Taylor,E102,COUNTY CLERK,,REP,Mark CARNEY,318
+Taylor,E103,COUNTY CLERK,,REP,Mark CARNEY,280
+Taylor,F101,COUNTY CLERK,,REP,Mark CARNEY,327
+Taylor,F102,COUNTY CLERK,,REP,Mark CARNEY,664
+Taylor,F103,COUNTY CLERK,,REP,Mark CARNEY,484
+Taylor,AB,SHERIFF,,REP,"William ""Bill"" WALSH",343
+Taylor,A101,SHERIFF,,REP,"William ""Bill"" WALSH",102
+Taylor,A102,SHERIFF,,REP,"William ""Bill"" WALSH",146
+Taylor,A104,SHERIFF,,REP,"William ""Bill"" WALSH",397
+Taylor,B101,SHERIFF,,REP,"William ""Bill"" WALSH",131
+Taylor,B102,SHERIFF,,REP,"William ""Bill"" WALSH",231
+Taylor,B103,SHERIFF,,REP,"William ""Bill"" WALSH",40
+Taylor,B104,SHERIFF,,REP,"William ""Bill"" WALSH",133
+Taylor,C101,SHERIFF,,REP,"William ""Bill"" WALSH",57
+Taylor,C103,SHERIFF,,REP,"William ""Bill"" WALSH",55
+Taylor,C104,SHERIFF,,REP,"William ""Bill"" WALSH",99
+Taylor,C105,SHERIFF,,REP,"William ""Bill"" WALSH",239
+Taylor,D101,SHERIFF,,REP,"William ""Bill"" WALSH",125
+Taylor,D102,SHERIFF,,REP,"William ""Bill"" WALSH",341
+Taylor,D104,SHERIFF,,REP,"William ""Bill"" WALSH",267
+Taylor,E101,SHERIFF,,REP,"William ""Bill"" WALSH",331
+Taylor,E102,SHERIFF,,REP,"William ""Bill"" WALSH",161
+Taylor,E103,SHERIFF,,REP,"William ""Bill"" WALSH",155
+Taylor,F101,SHERIFF,,REP,"William ""Bill"" WALSH",132
+Taylor,F102,SHERIFF,,REP,"William ""Bill"" WALSH",373
+Taylor,F103,SHERIFF,,REP,"William ""Bill"" WALSH",276
+Taylor,AB,SHERIFF,,DEM,Allen NEWTON,386
+Taylor,A101,SHERIFF,,DEM,Allen NEWTON,216
+Taylor,A102,SHERIFF,,DEM,Allen NEWTON,240
+Taylor,A104,SHERIFF,,DEM,Allen NEWTON,349
+Taylor,B101,SHERIFF,,DEM,Allen NEWTON,355
+Taylor,B102,SHERIFF,,DEM,Allen NEWTON,284
+Taylor,B103,SHERIFF,,DEM,Allen NEWTON,96
+Taylor,B104,SHERIFF,,DEM,Allen NEWTON,152
+Taylor,C101,SHERIFF,,DEM,Allen NEWTON,128
+Taylor,C103,SHERIFF,,DEM,Allen NEWTON,95
+Taylor,C104,SHERIFF,,DEM,Allen NEWTON,363
+Taylor,C105,SHERIFF,,DEM,Allen NEWTON,349
+Taylor,D101,SHERIFF,,DEM,Allen NEWTON,201
+Taylor,D102,SHERIFF,,DEM,Allen NEWTON,417
+Taylor,D104,SHERIFF,,DEM,Allen NEWTON,357
+Taylor,E101,SHERIFF,,DEM,Allen NEWTON,427
+Taylor,E102,SHERIFF,,DEM,Allen NEWTON,226
+Taylor,E103,SHERIFF,,DEM,Allen NEWTON,205
+Taylor,F101,SHERIFF,,DEM,Allen NEWTON,253
+Taylor,F102,SHERIFF,,DEM,Allen NEWTON,440
+Taylor,F103,SHERIFF,,DEM,Allen NEWTON,333
+Taylor,AB,JAILER,,REP,"Eddie ""Hack"" MARCUM",394
+Taylor,A101,JAILER,,REP,"Eddie ""Hack"" MARCUM",208
+Taylor,A102,JAILER,,REP,"Eddie ""Hack"" MARCUM",262
+Taylor,A104,JAILER,,REP,"Eddie ""Hack"" MARCUM",348
+Taylor,B101,JAILER,,REP,"Eddie ""Hack"" MARCUM",245
+Taylor,B102,JAILER,,REP,"Eddie ""Hack"" MARCUM",248
+Taylor,B103,JAILER,,REP,"Eddie ""Hack"" MARCUM",60
+Taylor,B104,JAILER,,REP,"Eddie ""Hack"" MARCUM",122
+Taylor,C101,JAILER,,REP,"Eddie ""Hack"" MARCUM",99
+Taylor,C103,JAILER,,REP,"Eddie ""Hack"" MARCUM",98
+Taylor,C104,JAILER,,REP,"Eddie ""Hack"" MARCUM",153
+Taylor,C105,JAILER,,REP,"Eddie ""Hack"" MARCUM",302
+Taylor,D101,JAILER,,REP,"Eddie ""Hack"" MARCUM",191
+Taylor,D102,JAILER,,REP,"Eddie ""Hack"" MARCUM",435
+Taylor,D104,JAILER,,REP,"Eddie ""Hack"" MARCUM",286
+Taylor,E101,JAILER,,REP,"Eddie ""Hack"" MARCUM",377
+Taylor,E102,JAILER,,REP,"Eddie ""Hack"" MARCUM",191
+Taylor,E103,JAILER,,REP,"Eddie ""Hack"" MARCUM",183
+Taylor,F101,JAILER,,REP,"Eddie ""Hack"" MARCUM",229
+Taylor,F102,JAILER,,REP,"Eddie ""Hack"" MARCUM",400
+Taylor,F103,JAILER,,REP,"Eddie ""Hack"" MARCUM",256
+Taylor,AB,JAILER,,DEM,Rick BENNINGFIELD,333
+Taylor,A101,JAILER,,DEM,Rick BENNINGFIELD,113
+Taylor,A102,JAILER,,DEM,Rick BENNINGFIELD,127
+Taylor,A104,JAILER,,DEM,Rick BENNINGFIELD,389
+Taylor,B101,JAILER,,DEM,Rick BENNINGFIELD,243
+Taylor,B102,JAILER,,DEM,Rick BENNINGFIELD,259
+Taylor,B103,JAILER,,DEM,Rick BENNINGFIELD,81
+Taylor,B104,JAILER,,DEM,Rick BENNINGFIELD,163
+Taylor,C101,JAILER,,DEM,Rick BENNINGFIELD,79
+Taylor,C103,JAILER,,DEM,Rick BENNINGFIELD,52
+Taylor,C104,JAILER,,DEM,Rick BENNINGFIELD,306
+Taylor,C105,JAILER,,DEM,Rick BENNINGFIELD,281
+Taylor,D101,JAILER,,DEM,Rick BENNINGFIELD,131
+Taylor,D102,JAILER,,DEM,Rick BENNINGFIELD,323
+Taylor,D104,JAILER,,DEM,Rick BENNINGFIELD,332
+Taylor,E101,JAILER,,DEM,Rick BENNINGFIELD,379
+Taylor,E102,JAILER,,DEM,Rick BENNINGFIELD,191
+Taylor,E103,JAILER,,DEM,Rick BENNINGFIELD,172
+Taylor,F101,JAILER,,DEM,Rick BENNINGFIELD,151
+Taylor,F102,JAILER,,DEM,Rick BENNINGFIELD,409
+Taylor,F103,JAILER,,DEM,Rick BENNINGFIELD,351
+Taylor,AB,CORONER,,REP,Terry M. DABNEY,611
+Taylor,A101,CORONER,,REP,Terry M. DABNEY,255
+Taylor,A102,CORONER,,REP,Terry M. DABNEY,302
+Taylor,A104,CORONER,,REP,Terry M. DABNEY,642
+Taylor,B101,CORONER,,REP,Terry M. DABNEY,380
+Taylor,B102,CORONER,,REP,Terry M. DABNEY,428
+Taylor,B103,CORONER,,REP,Terry M. DABNEY,102
+Taylor,B104,CORONER,,REP,Terry M. DABNEY,231
+Taylor,C101,CORONER,,REP,Terry M. DABNEY,132
+Taylor,C103,CORONER,,REP,Terry M. DABNEY,115
+Taylor,C104,CORONER,,REP,Terry M. DABNEY,220
+Taylor,C105,CORONER,,REP,Terry M. DABNEY,478
+Taylor,D101,CORONER,,REP,Terry M. DABNEY,263
+Taylor,D102,CORONER,,REP,Terry M. DABNEY,606
+Taylor,D104,CORONER,,REP,Terry M. DABNEY,505
+Taylor,E101,CORONER,,REP,Terry M. DABNEY,615
+Taylor,E102,CORONER,,REP,Terry M. DABNEY,309
+Taylor,E103,CORONER,,REP,Terry M. DABNEY,283
+Taylor,F101,CORONER,,REP,Terry M. DABNEY,314
+Taylor,F102,CORONER,,REP,Terry M. DABNEY,651
+Taylor,F103,CORONER,,REP,Terry M. DABNEY,478
+Taylor,AB,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,475
+Taylor,A101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,229
+Taylor,A102,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,256
+Taylor,A104,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,558
+Taylor,B101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,329
+Taylor,B102,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,371
+Taylor,B103,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,100
+Taylor,B104,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,205
+Taylor,C101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,107
+Taylor,C103,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,95
+Taylor,C104,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,348
+Taylor,C105,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,407
+Taylor,D101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,209
+Taylor,D102,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,509
+Taylor,D104,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,434
+Taylor,E101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,523
+Taylor,E102,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,278
+Taylor,E103,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,243
+Taylor,F101,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,260
+Taylor,F102,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,560
+Taylor,F103,COUNTY SURVEYOR,,DEM,Donald A. DABNEY,422
+Taylor,AB,MAGISTRATE 1st Magisterial District,,REP,James E. JONES,61
+Taylor,A101,MAGISTRATE 1st Magisterial District,,REP,James E. JONES,147
+Taylor,A102,MAGISTRATE 1st Magisterial District,,REP,James E. JONES,195
+Taylor,A104,MAGISTRATE 1st Magisterial District,,REP,James E. JONES,555
+Taylor,AB,MAGISTRATE 1st Magisterial District,,DEM,Henry Lee COLVIN,31
+Taylor,A101,MAGISTRATE 1st Magisterial District,,DEM,Henry Lee COLVIN,175
+Taylor,A102,MAGISTRATE 1st Magisterial District,,DEM,Henry Lee COLVIN,189
+Taylor,A104,MAGISTRATE 1st Magisterial District,,DEM,Henry Lee COLVIN,184
+Taylor,AB,CONSTABLE 1st Magisterial District,,REP,Robert G. YOUNG,62
+Taylor,A101,CONSTABLE 1st Magisterial District,,REP,Robert G. YOUNG,230
+Taylor,A102,CONSTABLE 1st Magisterial District,,REP,Robert G. YOUNG,251
+Taylor,A104,CONSTABLE 1st Magisterial District,,REP,Robert G. YOUNG,528
+Taylor,AB,MAGISTRATE 2nd Magisterial District,,REP,Orville NEWTON,55
+Taylor,B101,MAGISTRATE 2nd Magisterial District,,REP,Orville NEWTON,197
+Taylor,B102,MAGISTRATE 2nd Magisterial District,,REP,Orville NEWTON,252
+Taylor,B103,MAGISTRATE 2nd Magisterial District,,REP,Orville NEWTON,45
+Taylor,B104,MAGISTRATE 2nd Magisterial District,,REP,Orville NEWTON,142
+Taylor,AB,MAGISTRATE 2nd Magisterial District,,DEM,John David GAINES,73
+Taylor,B101,MAGISTRATE 2nd Magisterial District,,DEM,John David GAINES,295
+Taylor,B102,MAGISTRATE 2nd Magisterial District,,DEM,John David GAINES,251
+Taylor,B103,MAGISTRATE 2nd Magisterial District,,DEM,John David GAINES,86
+Taylor,B104,MAGISTRATE 2nd Magisterial District,,DEM,John David GAINES,139
+Taylor,AB,CONSTABLE 2nd Magisterial District,,REP,Tim COX,88
+Taylor,B101,CONSTABLE 2nd Magisterial District,,REP,Tim COX,318
+Taylor,B102,CONSTABLE 2nd Magisterial District,,REP,Tim COX,341
+Taylor,B103,CONSTABLE 2nd Magisterial District,,REP,Tim COX,72
+Taylor,B104,CONSTABLE 2nd Magisterial District,,REP,Tim COX,174
+Taylor,AB,MAGISTRATE 3rd Magisterial District,,REP,Tommy CORBIN,48
+Taylor,C101,MAGISTRATE 3rd Magisterial District,,REP,Tommy CORBIN,103
+Taylor,C103,MAGISTRATE 3rd Magisterial District,,REP,Tommy CORBIN,94
+Taylor,C104,MAGISTRATE 3rd Magisterial District,,REP,Tommy CORBIN,130
+Taylor,C105,MAGISTRATE 3rd Magisterial District,,REP,Tommy CORBIN,384
+Taylor,AB,MAGISTRATE 3rd Magisterial District,,DEM,Milford H. LOWE,32
+Taylor,C101,MAGISTRATE 3rd Magisterial District,,DEM,Milford H. LOWE,80
+Taylor,C103,MAGISTRATE 3rd Magisterial District,,DEM,Milford H. LOWE,60
+Taylor,C104,MAGISTRATE 3rd Magisterial District,,DEM,Milford H. LOWE,337
+Taylor,C105,MAGISTRATE 3rd Magisterial District,,DEM,Milford H. LOWE,201
+Taylor,AB,CONSTABLE 3rd Magisterial District,,REP,James M. GADDIS,47
+Taylor,C101,CONSTABLE 3rd Magisterial District,,REP,James M. GADDIS,109
+Taylor,C103,CONSTABLE 3rd Magisterial District,,REP,James M. GADDIS,110
+Taylor,C104,CONSTABLE 3rd Magisterial District,,REP,James M. GADDIS,154
+Taylor,C105,CONSTABLE 3rd Magisterial District,,REP,James M. GADDIS,299
+Taylor,AB,CONSTABLE 3rd Magisterial District,,DEM,Finn WATSON,27
+Taylor,C101,CONSTABLE 3rd Magisterial District,,DEM,Finn WATSON,58
+Taylor,C103,CONSTABLE 3rd Magisterial District,,DEM,Finn WATSON,38
+Taylor,C104,CONSTABLE 3rd Magisterial District,,DEM,Finn WATSON,270
+Taylor,C105,CONSTABLE 3rd Magisterial District,,DEM,Finn WATSON,236
+Taylor,AB,MAGISTRATE 4th Magisterial District,,REP,Matt PENDLETON,55
+Taylor,D101,MAGISTRATE 4th Magisterial District,,REP,Matt PENDLETON,188
+Taylor,D102,MAGISTRATE 4th Magisterial District,,REP,Matt PENDLETON,414
+Taylor,D104,MAGISTRATE 4th Magisterial District,,REP,Matt PENDLETON,305
+Taylor,AB,MAGISTRATE 4th Magisterial District,,DEM,Byron SANDERS,58
+Taylor,D101,MAGISTRATE 4th Magisterial District,,DEM,Byron SANDERS,136
+Taylor,D102,MAGISTRATE 4th Magisterial District,,DEM,Byron SANDERS,346
+Taylor,D104,MAGISTRATE 4th Magisterial District,,DEM,Byron SANDERS,315
+Taylor,AB,CONSTABLE 4th Magisterial District,,REP,Chris WINGLER,50
+Taylor,D101,CONSTABLE 4th Magisterial District,,REP,Chris WINGLER,167
+Taylor,D102,CONSTABLE 4th Magisterial District,,REP,Chris WINGLER,342
+Taylor,D104,CONSTABLE 4th Magisterial District,,REP,Chris WINGLER,243
+Taylor,AB,CONSTABLE 4th Magisterial District,,DEM,Marshall D. GRAHAM,49
+Taylor,D101,CONSTABLE 4th Magisterial District,,DEM,Marshall D. GRAHAM,123
+Taylor,D102,CONSTABLE 4th Magisterial District,,DEM,Marshall D. GRAHAM,343
+Taylor,D104,CONSTABLE 4th Magisterial District,,DEM,Marshall D. GRAHAM,320
+Taylor,AB,MAGISTRATE 5th Magisterial District,,REP,Ed GORIN,127
+Taylor,E101,MAGISTRATE 5th Magisterial District,,REP,Ed GORIN,485
+Taylor,E102,MAGISTRATE 5th Magisterial District,,REP,Ed GORIN,223
+Taylor,E103,MAGISTRATE 5th Magisterial District,,REP,Ed GORIN,232
+Taylor,AB,MAGISTRATE 5th Magisterial District,,DEM,"Thomas ""Red"" GOFF",37
+Taylor,E101,MAGISTRATE 5th Magisterial District,,DEM,"Thomas ""Red"" GOFF",274
+Taylor,E102,MAGISTRATE 5th Magisterial District,,DEM,"Thomas ""Red"" GOFF",158
+Taylor,E103,MAGISTRATE 5th Magisterial District,,DEM,"Thomas ""Red"" GOFF",121
+Taylor,AB,CONSTABLE 5th Magisterial District,,DEM,Wayne PARSON,100
+Taylor,E101,CONSTABLE 5th Magisterial District,,DEM,Wayne PARSON,483
+Taylor,E102,CONSTABLE 5th Magisterial District,,DEM,Wayne PARSON,258
+Taylor,E103,CONSTABLE 5th Magisterial District,,DEM,Wayne PARSON,240
+Taylor,AB,MAGISTRATE 6th Magisterial District,,REP,Richard A. PHILLIPS,82
+Taylor,F101,MAGISTRATE 6th Magisterial District,,REP,Richard A. PHILLIPS,253
+Taylor,F102,MAGISTRATE 6th Magisterial District,,REP,Richard A. PHILLIPS,492
+Taylor,F103,MAGISTRATE 6th Magisterial District,,REP,Richard A. PHILLIPS,370
+Taylor,AB,MAGISTRATE 6th Magisterial District,,DEM,Gerald Ray SMITH,63
+Taylor,F101,MAGISTRATE 6th Magisterial District,,DEM,Gerald Ray SMITH,126
+Taylor,F102,MAGISTRATE 6th Magisterial District,,DEM,Gerald Ray SMITH,310
+Taylor,F103,MAGISTRATE 6th Magisterial District,,DEM,Gerald Ray SMITH,229
+Taylor,AB,CONSTABLE 6th Magisterial District,,DEM,Rick REYNOLDS,86
+Taylor,F101,CONSTABLE 6th Magisterial District,,DEM,Rick REYNOLDS,248
+Taylor,F102,CONSTABLE 6th Magisterial District,,DEM,Rick REYNOLDS,515
+Taylor,F103,CONSTABLE 6th Magisterial District,,DEM,Rick REYNOLDS,376
+Taylor,AB,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,395
+Taylor,A101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,184
+Taylor,A102,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,203
+Taylor,A104,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,469
+Taylor,B101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,273
+Taylor,B102,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,290
+Taylor,B103,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,60
+Taylor,B104,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,152
+Taylor,C101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,80
+Taylor,C103,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,85
+Taylor,C104,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,159
+Taylor,C105,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,324
+Taylor,D101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,182
+Taylor,D102,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,434
+Taylor,D104,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,355
+Taylor,E101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,434
+Taylor,E102,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,217
+Taylor,E103,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,201
+Taylor,F101,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,221
+Taylor,F102,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,475
+Taylor,F103,Justice of the Supreme Court, 3rd Supreme Court District,,Daniel J. VENTERS,331
+Taylor,AB,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,467
+Taylor,A101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,200
+Taylor,A102,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,248
+Taylor,A104,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,551
+Taylor,B101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,315
+Taylor,B102,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,346
+Taylor,B103,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,76
+Taylor,B104,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,179
+Taylor,C101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,104
+Taylor,C103,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,91
+Taylor,C104,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,176
+Taylor,C105,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,400
+Taylor,D101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,209
+Taylor,D102,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,509
+Taylor,D104,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,415
+Taylor,E101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,498
+Taylor,E102,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,258
+Taylor,E103,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,225
+Taylor,F101,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,264
+Taylor,F102,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,552
+Taylor,F103,Circuit Judge, 11th Judicial Circuit,,Dan KELLY,396
+Taylor,AB,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,475
+Taylor,A101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,205
+Taylor,A102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,258
+Taylor,A104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,568
+Taylor,B101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,318
+Taylor,B102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,363
+Taylor,B103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,76
+Taylor,B104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,189
+Taylor,C101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,100
+Taylor,C103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,90
+Taylor,C104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,192
+Taylor,C105,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,397
+Taylor,D101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,207
+Taylor,D102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,533
+Taylor,D104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,414
+Taylor,E101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,509
+Taylor,E102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,273
+Taylor,E103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,237
+Taylor,F101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,260
+Taylor,F102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,559
+Taylor,F103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,430
+Taylor,AB,District Judge, 11th Judicial District,,Jeff EASTHAM,152
+Taylor,A101,District Judge, 11th Judicial District,,Jeff EASTHAM,82
+Taylor,A102,District Judge, 11th Judicial District,,Jeff EASTHAM,98
+Taylor,A104,District Judge, 11th Judicial District,,Jeff EASTHAM,201
+Taylor,B101,District Judge, 11th Judicial District,,Jeff EASTHAM,109
+Taylor,B102,District Judge, 11th Judicial District,,Jeff EASTHAM,125
+Taylor,B103,District Judge, 11th Judicial District,,Jeff EASTHAM,32
+Taylor,B104,District Judge, 11th Judicial District,,Jeff EASTHAM,72
+Taylor,C101,District Judge, 11th Judicial District,,Jeff EASTHAM,44
+Taylor,C103,District Judge, 11th Judicial District,,Jeff EASTHAM,21
+Taylor,C104,District Judge, 11th Judicial District,,Jeff EASTHAM,76
+Taylor,C105,District Judge, 11th Judicial District,,Jeff EASTHAM,148
+Taylor,D101,District Judge, 11th Judicial District,,Jeff EASTHAM,84
+Taylor,D102,District Judge, 11th Judicial District,,Jeff EASTHAM,206
+Taylor,D104,District Judge, 11th Judicial District,,Jeff EASTHAM,155
+Taylor,E101,District Judge, 11th Judicial District,,Jeff EASTHAM,191
+Taylor,E102,District Judge, 11th Judicial District,,Jeff EASTHAM,92
+Taylor,E103,District Judge, 11th Judicial District,,Jeff EASTHAM,76
+Taylor,F101,District Judge, 11th Judicial District,,Jeff EASTHAM,94
+Taylor,F102,District Judge, 11th Judicial District,,Jeff EASTHAM,200
+Taylor,F103,District Judge, 11th Judicial District,,Jeff EASTHAM,134
+Taylor,AB,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,470
+Taylor,A101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,186
+Taylor,A102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,245
+Taylor,A104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,479
+Taylor,B101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,333
+Taylor,B102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,346
+Taylor,B103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,75
+Taylor,B104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,182
+Taylor,C101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,110
+Taylor,C103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,108
+Taylor,C104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,318
+Taylor,C105,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,370
+Taylor,D101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,183
+Taylor,D102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,463
+Taylor,D104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,369
+Taylor,E101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,486
+Taylor,E102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,242
+Taylor,E103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,237
+Taylor,F101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,262
+Taylor,F102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,528
+Taylor,F103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,398
+Taylor,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Deanna HUNT,31
+Taylor,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,Deanna HUNT,99
+Taylor,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Deanna HUNT,162
+Taylor,F101,MEMBER BOARD of EDUCATION 1st Educational District,,,Deanna HUNT,141
+Taylor,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,"Thomas B. ""Bernie"" CAVE",20
+Taylor,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,"Thomas B. ""Bernie"" CAVE",66
+Taylor,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,"Thomas B. ""Bernie"" CAVE",80
+Taylor,F101,MEMBER BOARD of EDUCATION 1st Educational District,,,"Thomas B. ""Bernie"" CAVE",146
+Taylor,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Charles T. HEDGESPETH,13
+Taylor,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,Charles T. HEDGESPETH,109
+Taylor,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Charles T. HEDGESPETH,98
+Taylor,F101,MEMBER BOARD of EDUCATION 1st Educational District,,,Charles T. HEDGESPETH,60
+Taylor,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,Milton WILLIAMS,59
+Taylor,B101,MEMBER BOARD of EDUCATION 5th Educational District,,,Milton WILLIAMS,177
+Taylor,B102,MEMBER BOARD of EDUCATION 5th Educational District,,,Milton WILLIAMS,177
+Taylor,F102,MEMBER BOARD of EDUCATION 5th Educational District,,,Milton WILLIAMS,301
+Taylor,F103,MEMBER BOARD of EDUCATION 5th Educational District,,,Milton WILLIAMS,61
+Taylor,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,David K. HALL,37
+Taylor,B101,MEMBER BOARD of EDUCATION 5th Educational District,,,David K. HALL,208
+Taylor,B102,MEMBER BOARD of EDUCATION 5th Educational District,,,David K. HALL,163
+Taylor,F102,MEMBER BOARD of EDUCATION 5th Educational District,,,David K. HALL,343
+Taylor,F103,MEMBER BOARD of EDUCATION 5th Educational District,,,David K. HALL,55
+Taylor,AB,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,86
+Taylor,A104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,111
+Taylor,B102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,53
+Taylor,B103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,63
+Taylor,B104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,125
+Taylor,C105,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,95
+Taylor,D104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,126
+Taylor,E101,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,2
+Taylor,E102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,140
+Taylor,E103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,34
+Taylor,F103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Suzanne WILSON,214
+Taylor,AB,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,135
+Taylor,A104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,124
+Taylor,B102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,67
+Taylor,B103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,72
+Taylor,B104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,166
+Taylor,C105,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,93
+Taylor,D104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,147
+Taylor,E101,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,4
+Taylor,E102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,183
+Taylor,E103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,48
+Taylor,F103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Angie Jo JOHNSON,269
+Taylor,AB,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,93
+Taylor,A104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,110
+Taylor,B102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,45
+Taylor,B103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,51
+Taylor,B104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,138
+Taylor,C105,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,75
+Taylor,D104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,115
+Taylor,E101,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,0
+Taylor,E102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,110
+Taylor,E103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,38
+Taylor,F103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Tonya GUPTON,196
+Taylor,AB,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,115
+Taylor,A104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,136
+Taylor,B102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,56
+Taylor,B103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,64
+Taylor,B104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,148
+Taylor,C105,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,109
+Taylor,D104,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,153
+Taylor,E101,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,2
+Taylor,E102,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,158
+Taylor,E103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,41
+Taylor,F103,MEMBER BOARD of EDUCATION Campbellsville Independent School District,,,Mitch OVERSTREET,283
+Taylor,AB,MAYOR City of Campbellsville,,,Tony YOUNG,139
+Taylor,A104,MAYOR City of Campbellsville,,,Tony YOUNG,322
+Taylor,B102,MAYOR City of Campbellsville,,,Tony YOUNG,180
+Taylor,B103,MAYOR City of Campbellsville,,,Tony YOUNG,82
+Taylor,B104,MAYOR City of Campbellsville,,,Tony YOUNG,147
+Taylor,C105,MAYOR City of Campbellsville,,,Tony YOUNG,113
+Taylor,D104,MAYOR City of Campbellsville,,,Tony YOUNG,146
+Taylor,E101,MAYOR City of Campbellsville,,,Tony YOUNG,55
+Taylor,E102,MAYOR City of Campbellsville,,,Tony YOUNG,194
+Taylor,E103,MAYOR City of Campbellsville,,,Tony YOUNG,45
+Taylor,F102,MAYOR City of Campbellsville,,,Tony YOUNG,10
+Taylor,F103,MAYOR City of Campbellsville,,,Tony YOUNG,308
+Taylor,AB,MAYOR City of Campbellsville,,,Brenda ALLEN,165
+Taylor,A104,MAYOR City of Campbellsville,,,Brenda ALLEN,293
+Taylor,B102,MAYOR City of Campbellsville,,,Brenda ALLEN,189
+Taylor,B103,MAYOR City of Campbellsville,,,Brenda ALLEN,55
+Taylor,B104,MAYOR City of Campbellsville,,,Brenda ALLEN,134
+Taylor,C105,MAYOR City of Campbellsville,,,Brenda ALLEN,63
+Taylor,D104,MAYOR City of Campbellsville,,,Brenda ALLEN,98
+Taylor,E101,MAYOR City of Campbellsville,,,Brenda ALLEN,35
+Taylor,E102,MAYOR City of Campbellsville,,,Brenda ALLEN,171
+Taylor,E103,MAYOR City of Campbellsville,,,Brenda ALLEN,40
+Taylor,F102,MAYOR City of Campbellsville,,,Brenda ALLEN,9
+Taylor,F103,MAYOR City of Campbellsville,,,Brenda ALLEN,284
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,195
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,422
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,258
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,101
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,186
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,117
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,164
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,56
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,225
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,62
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,12
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS,372
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Greg RICE,113
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Greg RICE,321
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Greg RICE,178
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Greg RICE,56
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Greg RICE,134
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Greg RICE,82
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Greg RICE,119
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Greg RICE,45
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Greg RICE,163
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Greg RICE,42
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Greg RICE,11
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Greg RICE,271
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,James E. EWING,210
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,James E. EWING,431
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,James E. EWING,264
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,James E. EWING,86
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,James E. EWING,191
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,James E. EWING,116
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,James E. EWING,156
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,James E. EWING,48
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,James E. EWING,224
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,James E. EWING,49
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,James E. EWING,11
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,James E. EWING,382
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,148
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,354
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,209
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,67
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,170
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,90
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,130
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,44
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,184
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,39
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,11
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,David A. NUNERY,325
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,87
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,196
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,108
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,60
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,80
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,78
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,78
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,33
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,99
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,38
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,9
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Celia WILLIAMS,174
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,171
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,395
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,223
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,72
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,170
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,93
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,135
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,47
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,201
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,50
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,10
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,347
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,167
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,381
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,198
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,67
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,177
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,105
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,139
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,42
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,192
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,48
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,12
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Vicki MULLINS,345
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,David HARRIS,93
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,David HARRIS,263
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,David HARRIS,138
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,David HARRIS,58
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,David HARRIS,116
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,David HARRIS,68
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,David HARRIS,103
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,David HARRIS,33
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,David HARRIS,119
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,David HARRIS,36
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,David HARRIS,5
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,David HARRIS,218
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",182
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",396
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",237
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",83
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",184
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",105
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",154
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",49
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",202
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",48
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",10
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,"W. M. ""Mike"" HALL JR.",363
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",142
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",334
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",173
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",56
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",134
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",81
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",104
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",37
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",152
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",34
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",6
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Randall B.""Randy""HERRON",278
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,172
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,360
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,196
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,71
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,161
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,99
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,138
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,47
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,183
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,47
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,12
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Patti PHILLIPS,324
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Richard JETER,154
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Richard JETER,287
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Richard JETER,192
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Richard JETER,72
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Richard JETER,136
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Richard JETER,86
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Richard JETER,123
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Richard JETER,32
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Richard JETER,154
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Richard JETER,39
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Richard JETER,7
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Richard JETER,285
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,103
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,222
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,120
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,47
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,96
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,75
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,103
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,35
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,147
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,33
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,9
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Teresa TURNER,200
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Ricky JANES,117
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Ricky JANES,255
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Ricky JANES,127
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Ricky JANES,53
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Ricky JANES,96
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Ricky JANES,61
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Ricky JANES,92
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Ricky JANES,26
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Ricky JANES,136
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Ricky JANES,34
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Ricky JANES,9
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Ricky JANES,215
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Vangie FORD,161
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Vangie FORD,328
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Vangie FORD,195
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Vangie FORD,64
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Vangie FORD,149
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Vangie FORD,94
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Vangie FORD,129
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Vangie FORD,47
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Vangie FORD,176
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Vangie FORD,41
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Vangie FORD,10
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Vangie FORD,324
+Taylor,AB,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,151
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,344
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,194
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,58
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,162
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,93
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,116
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,51
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,175
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,43
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,13
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Terry W. KELTNER,316

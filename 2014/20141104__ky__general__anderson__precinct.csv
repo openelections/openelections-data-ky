@@ -1,0 +1,544 @@
+county,precinct,office,district,party,candidate,votes
+Anderson,AB,U.S. Senate,,REP,Mitch McCONNELL,199
+Anderson,A101,U.S. Senate,,REP,Mitch McCONNELL,262
+Anderson,A102,U.S. Senate,,REP,Mitch McCONNELL,277
+Anderson,B101,U.S. Senate,,REP,Mitch McCONNELL,345
+Anderson,B102,U.S. Senate,,REP,Mitch McCONNELL,500
+Anderson,C101,U.S. Senate,,REP,Mitch McCONNELL,345
+Anderson,C102,U.S. Senate,,REP,Mitch McCONNELL,347
+Anderson,D101,U.S. Senate,,REP,Mitch McCONNELL,404
+Anderson,D102,U.S. Senate,,REP,Mitch McCONNELL,480
+Anderson,E101,U.S. Senate,,REP,Mitch McCONNELL,666
+Anderson,E103,U.S. Senate,,REP,Mitch McCONNELL,360
+Anderson,F101,U.S. Senate,,REP,Mitch McCONNELL,307
+Anderson,F102,U.S. Senate,,REP,Mitch McCONNELL,225
+Anderson,F103,U.S. Senate,,REP,Mitch McCONNELL,121
+Anderson,F104,U.S. Senate,,REP,Mitch McCONNELL,326
+Anderson,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,120
+Anderson,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,252
+Anderson,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,175
+Anderson,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,261
+Anderson,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,326
+Anderson,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,273
+Anderson,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,222
+Anderson,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,182
+Anderson,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,248
+Anderson,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,374
+Anderson,E103,U.S. Senate,,DEM,Alison Lundergan GRIMES,177
+Anderson,F101,U.S. Senate,,DEM,Alison Lundergan GRIMES,162
+Anderson,F102,U.S. Senate,,DEM,Alison Lundergan GRIMES,98
+Anderson,F103,U.S. Senate,,DEM,Alison Lundergan GRIMES,92
+Anderson,F104,U.S. Senate,,DEM,Alison Lundergan GRIMES,196
+Anderson,AB,U.S. Senate,,LIB,David M. PATTERSON,15
+Anderson,A101,U.S. Senate,,LIB,David M. PATTERSON,22
+Anderson,A102,U.S. Senate,,LIB,David M. PATTERSON,50
+Anderson,B101,U.S. Senate,,LIB,David M. PATTERSON,20
+Anderson,B102,U.S. Senate,,LIB,David M. PATTERSON,69
+Anderson,C101,U.S. Senate,,LIB,David M. PATTERSON,34
+Anderson,C102,U.S. Senate,,LIB,David M. PATTERSON,39
+Anderson,D101,U.S. Senate,,LIB,David M. PATTERSON,28
+Anderson,D102,U.S. Senate,,LIB,David M. PATTERSON,45
+Anderson,E101,U.S. Senate,,LIB,David M. PATTERSON,56
+Anderson,E103,U.S. Senate,,LIB,David M. PATTERSON,25
+Anderson,F101,U.S. Senate,,LIB,David M. PATTERSON,30
+Anderson,F102,U.S. Senate,,LIB,David M. PATTERSON,10
+Anderson,F103,U.S. Senate,,LIB,David M. PATTERSON,11
+Anderson,F104,U.S. Senate,,LIB,David M. PATTERSON,27
+Anderson,AB,US Representative, 6th Congressional District,REP,Andy BARR,236
+Anderson,A101,US Representative, 6th Congressional District,REP,Andy BARR,306
+Anderson,A102,US Representative, 6th Congressional District,REP,Andy BARR,353
+Anderson,B101,US Representative, 6th Congressional District,REP,Andy BARR,412
+Anderson,B102,US Representative, 6th Congressional District,REP,Andy BARR,626
+Anderson,C101,US Representative, 6th Congressional District,REP,Andy BARR,434
+Anderson,C102,US Representative, 6th Congressional District,REP,Andy BARR,408
+Anderson,D101,US Representative, 6th Congressional District,REP,Andy BARR,454
+Anderson,D102,US Representative, 6th Congressional District,REP,Andy BARR,560
+Anderson,E101,US Representative, 6th Congressional District,REP,Andy BARR,770
+Anderson,E103,US Representative, 6th Congressional District,REP,Andy BARR,406
+Anderson,F101,US Representative, 6th Congressional District,REP,Andy BARR,359
+Anderson,F102,US Representative, 6th Congressional District,REP,Andy BARR,232
+Anderson,F103,US Representative, 6th Congressional District,REP,Andy BARR,141
+Anderson,F104,US Representative, 6th Congressional District,REP,Andy BARR,365
+Anderson,AB,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,92
+Anderson,A101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,222
+Anderson,A102,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,146
+Anderson,B101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,208
+Anderson,B102,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,264
+Anderson,C101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,216
+Anderson,C102,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,194
+Anderson,D101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,153
+Anderson,D102,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,210
+Anderson,E101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,317
+Anderson,E103,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,150
+Anderson,F101,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,125
+Anderson,F102,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,88
+Anderson,F103,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,85
+Anderson,F104,US Representative, 6th Congressional District,DEM,Elisabeth JENSEN,176
+Anderson,AB,State Representative, 53rd Representative District,REP,James A. TIPTON,162
+Anderson,A101,State Representative, 53rd Representative District,REP,James A. TIPTON,221
+Anderson,A102,State Representative, 53rd Representative District,REP,James A. TIPTON,254
+Anderson,B101,State Representative, 53rd Representative District,REP,James A. TIPTON,295
+Anderson,B102,State Representative, 53rd Representative District,REP,James A. TIPTON,445
+Anderson,C101,State Representative, 53rd Representative District,REP,James A. TIPTON,306
+Anderson,C102,State Representative, 53rd Representative District,REP,James A. TIPTON,304
+Anderson,D101,State Representative, 53rd Representative District,REP,James A. TIPTON,343
+Anderson,D102,State Representative, 53rd Representative District,REP,James A. TIPTON,378
+Anderson,E101,State Representative, 53rd Representative District,REP,James A. TIPTON,565
+Anderson,E103,State Representative, 53rd Representative District,REP,James A. TIPTON,308
+Anderson,F101,State Representative, 53rd Representative District,REP,James A. TIPTON,263
+Anderson,F102,State Representative, 53rd Representative District,REP,James A. TIPTON,172
+Anderson,F103,State Representative, 53rd Representative District,REP,James A. TIPTON,98
+Anderson,F104,State Representative, 53rd Representative District,REP,James A. TIPTON,270
+Anderson,AB,State Representative, 53rd Representative District,DEM,Kent STEVENS,171
+Anderson,A101,State Representative, 53rd Representative District,DEM,Kent STEVENS,310
+Anderson,A102,State Representative, 53rd Representative District,DEM,Kent STEVENS,245
+Anderson,B101,State Representative, 53rd Representative District,DEM,Kent STEVENS,328
+Anderson,B102,State Representative, 53rd Representative District,DEM,Kent STEVENS,449
+Anderson,C101,State Representative, 53rd Representative District,DEM,Kent STEVENS,347
+Anderson,C102,State Representative, 53rd Representative District,DEM,Kent STEVENS,300
+Anderson,D101,State Representative, 53rd Representative District,DEM,Kent STEVENS,261
+Anderson,D102,State Representative, 53rd Representative District,DEM,Kent STEVENS,399
+Anderson,E101,State Representative, 53rd Representative District,DEM,Kent STEVENS,527
+Anderson,E103,State Representative, 53rd Representative District,DEM,Kent STEVENS,246
+Anderson,F101,State Representative, 53rd Representative District,DEM,Kent STEVENS,225
+Anderson,F102,State Representative, 53rd Representative District,DEM,Kent STEVENS,160
+Anderson,F103,State Representative, 53rd Representative District,DEM,Kent STEVENS,130
+Anderson,F104,State Representative, 53rd Representative District,DEM,Kent STEVENS,272
+Anderson,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,246
+Anderson,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,398
+Anderson,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,370
+Anderson,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,465
+Anderson,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,665
+Anderson,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,468
+Anderson,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,424
+Anderson,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,436
+Anderson,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,549
+Anderson,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,780
+Anderson,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,395
+Anderson,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,325
+Anderson,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,222
+Anderson,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,157
+Anderson,F104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Brian STIVERS,394
+Anderson,AB,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,174
+Anderson,A101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,305
+Anderson,A102,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,300
+Anderson,B101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,378
+Anderson,B102,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,561
+Anderson,C101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,411
+Anderson,C102,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,380
+Anderson,D101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,330
+Anderson,D102,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,466
+Anderson,E101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,646
+Anderson,E103,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,325
+Anderson,F101,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,277
+Anderson,F102,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,151
+Anderson,F103,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,96
+Anderson,F104,COUNTY JUDGE/EXECUTIVE,,REP,Orbrey GRITTON,287
+Anderson,AB,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,157
+Anderson,A101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,224
+Anderson,A102,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,197
+Anderson,B101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,238
+Anderson,B102,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,326
+Anderson,C101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,245
+Anderson,C102,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,227
+Anderson,D101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,280
+Anderson,D102,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,306
+Anderson,E101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,436
+Anderson,E103,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,220
+Anderson,F101,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,217
+Anderson,F102,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,183
+Anderson,F103,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,133
+Anderson,F104,COUNTY JUDGE/EXECUTIVE,,DEM,John Wayne CONWAY,256
+Anderson,AB,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,254
+Anderson,A101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,395
+Anderson,A102,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,377
+Anderson,B101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,456
+Anderson,B102,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,671
+Anderson,C101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,487
+Anderson,C102,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,436
+Anderson,D101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,447
+Anderson,D102,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,575
+Anderson,E101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,770
+Anderson,E103,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,406
+Anderson,F101,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,331
+Anderson,F102,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,224
+Anderson,F103,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,164
+Anderson,F104,COUNTY ATTORNEY,,DEM,Bobbi Jo LEWIS,392
+Anderson,AB,COUNTY CLERK,,REP,Jason DENNY,246
+Anderson,A101,COUNTY CLERK,,REP,Jason DENNY,315
+Anderson,A102,COUNTY CLERK,,REP,Jason DENNY,335
+Anderson,B101,COUNTY CLERK,,REP,Jason DENNY,386
+Anderson,B102,COUNTY CLERK,,REP,Jason DENNY,577
+Anderson,C101,COUNTY CLERK,,REP,Jason DENNY,421
+Anderson,C102,COUNTY CLERK,,REP,Jason DENNY,382
+Anderson,D101,COUNTY CLERK,,REP,Jason DENNY,447
+Anderson,D102,COUNTY CLERK,,REP,Jason DENNY,548
+Anderson,E101,COUNTY CLERK,,REP,Jason DENNY,738
+Anderson,E103,COUNTY CLERK,,REP,Jason DENNY,397
+Anderson,F101,COUNTY CLERK,,REP,Jason DENNY,325
+Anderson,F102,COUNTY CLERK,,REP,Jason DENNY,227
+Anderson,F103,COUNTY CLERK,,REP,Jason DENNY,112
+Anderson,F104,COUNTY CLERK,,REP,Jason DENNY,373
+Anderson,AB,COUNTY CLERK,,DEM,Laura Link GILLIS,88
+Anderson,A101,COUNTY CLERK,,DEM,Laura Link GILLIS,222
+Anderson,A102,COUNTY CLERK,,DEM,Laura Link GILLIS,167
+Anderson,B101,COUNTY CLERK,,DEM,Laura Link GILLIS,244
+Anderson,B102,COUNTY CLERK,,DEM,Laura Link GILLIS,320
+Anderson,C101,COUNTY CLERK,,DEM,Laura Link GILLIS,237
+Anderson,C102,COUNTY CLERK,,DEM,Laura Link GILLIS,222
+Anderson,D101,COUNTY CLERK,,DEM,Laura Link GILLIS,163
+Anderson,D102,COUNTY CLERK,,DEM,Laura Link GILLIS,232
+Anderson,E101,COUNTY CLERK,,DEM,Laura Link GILLIS,351
+Anderson,E103,COUNTY CLERK,,DEM,Laura Link GILLIS,156
+Anderson,F101,COUNTY CLERK,,DEM,Laura Link GILLIS,168
+Anderson,F102,COUNTY CLERK,,DEM,Laura Link GILLIS,107
+Anderson,F103,COUNTY CLERK,,DEM,Laura Link GILLIS,114
+Anderson,F104,COUNTY CLERK,,DEM,Laura Link GILLIS,175
+Anderson,AB,SHERIFF,,DEM,Troy L. YOUNG,263
+Anderson,A101,SHERIFF,,DEM,Troy L. YOUNG,417
+Anderson,A102,SHERIFF,,DEM,Troy L. YOUNG,394
+Anderson,B101,SHERIFF,,DEM,Troy L. YOUNG,479
+Anderson,B102,SHERIFF,,DEM,Troy L. YOUNG,712
+Anderson,C101,SHERIFF,,DEM,Troy L. YOUNG,486
+Anderson,C102,SHERIFF,,DEM,Troy L. YOUNG,465
+Anderson,D101,SHERIFF,,DEM,Troy L. YOUNG,467
+Anderson,D102,SHERIFF,,DEM,Troy L. YOUNG,580
+Anderson,E101,SHERIFF,,DEM,Troy L. YOUNG,806
+Anderson,E103,SHERIFF,,DEM,Troy L. YOUNG,423
+Anderson,F101,SHERIFF,,DEM,Troy L. YOUNG,354
+Anderson,F102,SHERIFF,,DEM,Troy L. YOUNG,244
+Anderson,F103,SHERIFF,,DEM,Troy L. YOUNG,185
+Anderson,F104,SHERIFF,,DEM,Troy L. YOUNG,421
+Anderson,AB,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",251
+Anderson,A101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",397
+Anderson,A102,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",376
+Anderson,B101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",451
+Anderson,B102,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",652
+Anderson,C101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",485
+Anderson,C102,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",451
+Anderson,D101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",449
+Anderson,D102,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",567
+Anderson,E101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",770
+Anderson,E103,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",393
+Anderson,F101,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",339
+Anderson,F102,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",227
+Anderson,F103,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",171
+Anderson,F104,JAILER,,DEM,"Lyjona A. ""Joani"" CLARK",399
+Anderson,AB,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",242
+Anderson,A101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",384
+Anderson,A102,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",360
+Anderson,B101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",435
+Anderson,B102,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",642
+Anderson,C101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",458
+Anderson,C102,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",439
+Anderson,D101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",430
+Anderson,D102,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",548
+Anderson,E101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",758
+Anderson,E103,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",384
+Anderson,F101,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",331
+Anderson,F102,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",208
+Anderson,F103,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",166
+Anderson,F104,CORONER,,DEM,"G. Mark ""Doc"" TUSSEY",381
+Anderson,AB,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,232
+Anderson,A101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,381
+Anderson,A102,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,338
+Anderson,B101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,406
+Anderson,B102,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,598
+Anderson,C101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,425
+Anderson,C102,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,408
+Anderson,D101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,415
+Anderson,D102,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,505
+Anderson,E101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,712
+Anderson,E103,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,372
+Anderson,F101,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,340
+Anderson,F102,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,208
+Anderson,F103,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,165
+Anderson,F104,COUNTY SURVEYOR,,DEM,Dan L. PHILLIPS,368
+Anderson,AB,MAGISTRATE 1st Magisterial District,,REP,Bill PATTERSON,15
+Anderson,A101,MAGISTRATE 1st Magisterial District,,REP,Bill PATTERSON,170
+Anderson,A102,MAGISTRATE 1st Magisterial District,,REP,Bill PATTERSON,196
+Anderson,AB,MAGISTRATE 1st Magisterial District,,DEM,Rodney DURR,18
+Anderson,A101,MAGISTRATE 1st Magisterial District,,DEM,Rodney DURR,345
+Anderson,A102,MAGISTRATE 1st Magisterial District,,DEM,Rodney DURR,289
+Anderson,AB,MAGISTRATE 2nd Magisterial District,,REP,Mike RILEY,40
+Anderson,B101,MAGISTRATE 2nd Magisterial District,,REP,Mike RILEY,415
+Anderson,B102,MAGISTRATE 2nd Magisterial District,,REP,Mike RILEY,515
+Anderson,AB,MAGISTRATE 2nd Magisterial District,,DEM,Forrest STEVENS,28
+Anderson,B101,MAGISTRATE 2nd Magisterial District,,DEM,Forrest STEVENS,194
+Anderson,B102,MAGISTRATE 2nd Magisterial District,,DEM,Forrest STEVENS,335
+Anderson,AB,MAGISTRATE 3rd Magisterial District,,REP,Juretta A. WELLS,41
+Anderson,C101,MAGISTRATE 3rd Magisterial District,,REP,Juretta A. WELLS,489
+Anderson,C102,MAGISTRATE 3rd Magisterial District,,REP,Juretta A. WELLS,456
+Anderson,AB,MAGISTRATE 4th Magisterial District,,REP,Meredith Hyatt LEWIS,36
+Anderson,D101,MAGISTRATE 4th Magisterial District,,REP,Meredith Hyatt LEWIS,358
+Anderson,D102,MAGISTRATE 4th Magisterial District,,REP,Meredith Hyatt LEWIS,502
+Anderson,AB,MAGISTRATE 4th Magisterial District,,DEM,"Thomas ""Buddy"" SIMS JR.",23
+Anderson,D101,MAGISTRATE 4th Magisterial District,,DEM,"Thomas ""Buddy"" SIMS JR.",235
+Anderson,D102,MAGISTRATE 4th Magisterial District,,DEM,"Thomas ""Buddy"" SIMS JR.",245
+Anderson,AB,CONSTABLE 4th Magisterial District,,DEM,Jerry L. SHOUSE,32
+Anderson,D101,CONSTABLE 4th Magisterial District,,DEM,Jerry L. SHOUSE,381
+Anderson,D102,CONSTABLE 4th Magisterial District,,DEM,Jerry L. SHOUSE,463
+Anderson,AB,MAGISTRATE 5th Magisterial District,,DEM,David MONTGOMERY,37
+Anderson,E101,MAGISTRATE 5th Magisterial District,,DEM,David MONTGOMERY,747
+Anderson,E103,MAGISTRATE 5th Magisterial District,,DEM,David MONTGOMERY,395
+Anderson,AB,CONSTABLE 5th Magisterial District,,DEM,Dale A. MONTGOMERY,30
+Anderson,E101,CONSTABLE 5th Magisterial District,,DEM,Dale A. MONTGOMERY,680
+Anderson,E103,CONSTABLE 5th Magisterial District,,DEM,Dale A. MONTGOMERY,350
+Anderson,AB,MAGISTRATE 6th Magisterial District,,DEM,Kenny BARNETT,50
+Anderson,F101,MAGISTRATE 6th Magisterial District,,DEM,Kenny BARNETT,350
+Anderson,F102,MAGISTRATE 6th Magisterial District,,DEM,Kenny BARNETT,234
+Anderson,F103,MAGISTRATE 6th Magisterial District,,DEM,Kenny BARNETT,162
+Anderson,F104,MAGISTRATE 6th Magisterial District,,DEM,Kenny BARNETT,392
+Anderson,AB,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,179
+Anderson,A101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,279
+Anderson,A102,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,300
+Anderson,B101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,336
+Anderson,B102,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,518
+Anderson,C101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,333
+Anderson,C102,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,343
+Anderson,D101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,366
+Anderson,D102,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,445
+Anderson,E101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,617
+Anderson,E103,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,312
+Anderson,F101,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,272
+Anderson,F102,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,167
+Anderson,F103,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,121
+Anderson,F104,Judge of the Court of Appeals, 5th Appellate District,,Larry VanMETER,277
+Anderson,AB,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,178
+Anderson,A101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,277
+Anderson,A102,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,297
+Anderson,B101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,325
+Anderson,B102,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,506
+Anderson,C101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,329
+Anderson,C102,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,337
+Anderson,D101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,344
+Anderson,D102,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,434
+Anderson,E101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,598
+Anderson,E103,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,306
+Anderson,F101,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,267
+Anderson,F102,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,166
+Anderson,F103,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,113
+Anderson,F104,Judge of the Court of Appeals, 5th Appellate District,,Glenn ACREE,268
+Anderson,AB,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,196
+Anderson,A101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,285
+Anderson,A102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,310
+Anderson,B101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,354
+Anderson,B102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,543
+Anderson,C101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,356
+Anderson,C102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,351
+Anderson,D101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,359
+Anderson,D102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,442
+Anderson,E101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,607
+Anderson,E103,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,322
+Anderson,F101,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,275
+Anderson,F102,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,172
+Anderson,F103,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,124
+Anderson,F104,Circuit Judge, 53rd Judicial Circuit,,Charles R. HICKMAN,284
+Anderson,AB,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,224
+Anderson,A101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,345
+Anderson,A102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,341
+Anderson,B101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,404
+Anderson,B102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,593
+Anderson,C101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,427
+Anderson,C102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,398
+Anderson,D101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,409
+Anderson,D102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,535
+Anderson,E101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,701
+Anderson,E103,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,375
+Anderson,F101,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,289
+Anderson,F102,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,192
+Anderson,F103,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,155
+Anderson,F104,Circuit Judge Family Court, 53rd Judicial Circuit,,Marie HELLARD,380
+Anderson,AB,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,71
+Anderson,A101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,132
+Anderson,A102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,124
+Anderson,B101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,144
+Anderson,B102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,224
+Anderson,C101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,150
+Anderson,C102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,136
+Anderson,D101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,127
+Anderson,D102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,154
+Anderson,E101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,211
+Anderson,E103,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,117
+Anderson,F101,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,118
+Anderson,F102,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,74
+Anderson,F103,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,38
+Anderson,F104,Circuit Judge Family Court, 53rd Judicial Circuit,,John David MYLES,96
+Anderson,AB,District Judge, 53rd Judicial District,,J. R. RoBARDS,176
+Anderson,A101,District Judge, 53rd Judicial District,,J. R. RoBARDS,265
+Anderson,A102,District Judge, 53rd Judicial District,,J. R. RoBARDS,283
+Anderson,B101,District Judge, 53rd Judicial District,,J. R. RoBARDS,323
+Anderson,B102,District Judge, 53rd Judicial District,,J. R. RoBARDS,512
+Anderson,C101,District Judge, 53rd Judicial District,,J. R. RoBARDS,318
+Anderson,C102,District Judge, 53rd Judicial District,,J. R. RoBARDS,333
+Anderson,D101,District Judge, 53rd Judicial District,,J. R. RoBARDS,336
+Anderson,D102,District Judge, 53rd Judicial District,,J. R. RoBARDS,415
+Anderson,E101,District Judge, 53rd Judicial District,,J. R. RoBARDS,588
+Anderson,E103,District Judge, 53rd Judicial District,,J. R. RoBARDS,298
+Anderson,F101,District Judge, 53rd Judicial District,,J. R. RoBARDS,247
+Anderson,F102,District Judge, 53rd Judicial District,,J. R. RoBARDS,155
+Anderson,F103,District Judge, 53rd Judicial District,,J. R. RoBARDS,113
+Anderson,F104,District Judge, 53rd Judicial District,,J. R. RoBARDS,273
+Anderson,AB,District Judge, 53rd Judicial District,,Donna DUTTON,211
+Anderson,A101,District Judge, 53rd Judicial District,,Donna DUTTON,300
+Anderson,A102,District Judge, 53rd Judicial District,,Donna DUTTON,292
+Anderson,B101,District Judge, 53rd Judicial District,,Donna DUTTON,372
+Anderson,B102,District Judge, 53rd Judicial District,,Donna DUTTON,524
+Anderson,C101,District Judge, 53rd Judicial District,,Donna DUTTON,388
+Anderson,C102,District Judge, 53rd Judicial District,,Donna DUTTON,335
+Anderson,D101,District Judge, 53rd Judicial District,,Donna DUTTON,363
+Anderson,D102,District Judge, 53rd Judicial District,,Donna DUTTON,474
+Anderson,E101,District Judge, 53rd Judicial District,,Donna DUTTON,614
+Anderson,E103,District Judge, 53rd Judicial District,,Donna DUTTON,330
+Anderson,F101,District Judge, 53rd Judicial District,,Donna DUTTON,287
+Anderson,F102,District Judge, 53rd Judicial District,,Donna DUTTON,179
+Anderson,F103,District Judge, 53rd Judicial District,,Donna DUTTON,134
+Anderson,F104,District Judge, 53rd Judicial District,,Donna DUTTON,316
+Anderson,AB,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,43
+Anderson,A101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,104
+Anderson,A102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,119
+Anderson,B101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,99
+Anderson,B102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,179
+Anderson,C101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,93
+Anderson,C102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,124
+Anderson,D101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,102
+Anderson,D102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,125
+Anderson,E101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,185
+Anderson,E103,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,91
+Anderson,F101,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,78
+Anderson,F102,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,42
+Anderson,F103,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,33
+Anderson,F104,District Judge, 53rd Judicial District,,Emily FARRAR-CROCKETT,83
+Anderson,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,212
+Anderson,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,268
+Anderson,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,260
+Anderson,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,354
+Anderson,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,469
+Anderson,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,357
+Anderson,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,305
+Anderson,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,328
+Anderson,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,443
+Anderson,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,503
+Anderson,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,267
+Anderson,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,216
+Anderson,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,145
+Anderson,F103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,111
+Anderson,F104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Roy H. TONEY,264
+Anderson,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,139
+Anderson,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,229
+Anderson,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,231
+Anderson,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,242
+Anderson,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,389
+Anderson,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,250
+Anderson,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,284
+Anderson,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,236
+Anderson,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,347
+Anderson,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,479
+Anderson,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,230
+Anderson,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,214
+Anderson,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,126
+Anderson,F103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,97
+Anderson,F104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don SAYRE,212
+Anderson,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,James M. SARGENT,47
+Anderson,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,James M. SARGENT,631
+Anderson,E103,MEMBER BOARD of EDUCATION 3rd Educational District,,,James M. SARGENT,334
+Anderson,F104,MEMBER BOARD of EDUCATION 3rd Educational District,,,James M. SARGENT,287
+Anderson,AB,MEMBER BOARD of EDUCATION 4th Educational District,,,Roger McDOWELL,31
+Anderson,C101,MEMBER BOARD of EDUCATION 4th Educational District,,,Roger McDOWELL,353
+Anderson,D101,MEMBER BOARD of EDUCATION 4th Educational District,,,Roger McDOWELL,375
+Anderson,AB,MAYOR City of Lawrenceburg,,,Tracy HICKS,25
+Anderson,A101,MAYOR City of Lawrenceburg,,,Tracy HICKS,40
+Anderson,A102,MAYOR City of Lawrenceburg,,,Tracy HICKS,114
+Anderson,B101,MAYOR City of Lawrenceburg,,,Tracy HICKS,34
+Anderson,B102,MAYOR City of Lawrenceburg,,,Tracy HICKS,153
+Anderson,C101,MAYOR City of Lawrenceburg,,,Tracy HICKS,83
+Anderson,C102,MAYOR City of Lawrenceburg,,,Tracy HICKS,106
+Anderson,D102,MAYOR City of Lawrenceburg,,,Tracy HICKS,85
+Anderson,AB,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",61
+Anderson,A101,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",93
+Anderson,A102,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",157
+Anderson,B101,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",84
+Anderson,B102,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",289
+Anderson,C101,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",313
+Anderson,C102,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",216
+Anderson,D102,MAYOR City of Lawrenceburg,,,"Robert ""Sandy"" GOODLETT",161
+Anderson,AB,MAYOR City of Lawrenceburg,,,James M. RITCHEY,39
+Anderson,A101,MAYOR City of Lawrenceburg,,,James M. RITCHEY,93
+Anderson,A102,MAYOR City of Lawrenceburg,,,James M. RITCHEY,175
+Anderson,B101,MAYOR City of Lawrenceburg,,,James M. RITCHEY,80
+Anderson,B102,MAYOR City of Lawrenceburg,,,James M. RITCHEY,294
+Anderson,C101,MAYOR City of Lawrenceburg,,,James M. RITCHEY,189
+Anderson,C102,MAYOR City of Lawrenceburg,,,James M. RITCHEY,211
+Anderson,D102,MAYOR City of Lawrenceburg,,,James M. RITCHEY,139
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,63
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,96
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,214
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,92
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,386
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,284
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,265
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Ken EVANS,194
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,78
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,121
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,273
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,153
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,471
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,395
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,356
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Wendy Bruce SHOUSE,256
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,32
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,122
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,195
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,61
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,274
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,229
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,197
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Joseph MARSHALL SR.,159
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,74
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,111
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,263
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,99
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,419
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,328
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,329
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Bobby G. DURR,211
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,33
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,60
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,172
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,64
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,267
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,157
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,196
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,David Allen KAYS,138
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,59
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,94
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,207
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,107
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,364
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,296
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,261
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Steven RUCKER,198
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,35
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,83
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,181
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,61
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,268
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,197
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,227
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Dan STUMPH,133
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,63
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,118
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,162
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,76
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,344
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,317
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,203
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,George M. GEOGHEGAN III.,174
+Anderson,AB,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,64
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,111
+Anderson,A102,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,211
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,79
+Anderson,B102,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,369
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,316
+Anderson,C102,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,293
+Anderson,D102,CITY COUNCIL City of Lawrenceburg,,,Paul Thomas VAUGHN,196

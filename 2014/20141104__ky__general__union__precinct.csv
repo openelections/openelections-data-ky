@@ -1,0 +1,597 @@
+county,precinct,office,district,party,candidate,votes
+Union,AB,U.S. Senate,,REP,Mitch McCONNELL,177
+Union,A101,U.S. Senate,,REP,Mitch McCONNELL,304
+Union,A103,U.S. Senate,,REP,Mitch McCONNELL,172
+Union,A104,U.S. Senate,,REP,Mitch McCONNELL,164
+Union,B101,U.S. Senate,,REP,Mitch McCONNELL,208
+Union,B102,U.S. Senate,,REP,Mitch McCONNELL,183
+Union,B103,U.S. Senate,,REP,Mitch McCONNELL,120
+Union,C101,U.S. Senate,,REP,Mitch McCONNELL,279
+Union,C102,U.S. Senate,,REP,Mitch McCONNELL,155
+Union,C103,U.S. Senate,,REP,Mitch McCONNELL,152
+Union,C104,U.S. Senate,,REP,Mitch McCONNELL,116
+Union,E102,U.S. Senate,,REP,Mitch McCONNELL,188
+Union,E103,U.S. Senate,,REP,Mitch McCONNELL,227
+Union,E104,U.S. Senate,,REP,Mitch McCONNELL,193
+Union,F101,U.S. Senate,,REP,Mitch McCONNELL,220
+Union,F102,U.S. Senate,,REP,Mitch McCONNELL,87
+Union,F103,U.S. Senate,,REP,Mitch McCONNELL,226
+Union,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,75
+Union,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,128
+Union,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,140
+Union,A104,U.S. Senate,,DEM,Alison Lundergan GRIMES,90
+Union,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,104
+Union,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,131
+Union,B103,U.S. Senate,,DEM,Alison Lundergan GRIMES,100
+Union,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,102
+Union,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,91
+Union,C103,U.S. Senate,,DEM,Alison Lundergan GRIMES,95
+Union,C104,U.S. Senate,,DEM,Alison Lundergan GRIMES,37
+Union,E102,U.S. Senate,,DEM,Alison Lundergan GRIMES,123
+Union,E103,U.S. Senate,,DEM,Alison Lundergan GRIMES,80
+Union,E104,U.S. Senate,,DEM,Alison Lundergan GRIMES,84
+Union,F101,U.S. Senate,,DEM,Alison Lundergan GRIMES,196
+Union,F102,U.S. Senate,,DEM,Alison Lundergan GRIMES,65
+Union,F103,U.S. Senate,,DEM,Alison Lundergan GRIMES,183
+Union,AB,U.S. Senate,,LIB,David M. PATTERSON,3
+Union,A101,U.S. Senate,,LIB,David M. PATTERSON,9
+Union,A103,U.S. Senate,,LIB,David M. PATTERSON,3
+Union,A104,U.S. Senate,,LIB,David M. PATTERSON,11
+Union,B101,U.S. Senate,,LIB,David M. PATTERSON,10
+Union,B102,U.S. Senate,,LIB,David M. PATTERSON,6
+Union,B103,U.S. Senate,,LIB,David M. PATTERSON,6
+Union,C101,U.S. Senate,,LIB,David M. PATTERSON,8
+Union,C102,U.S. Senate,,LIB,David M. PATTERSON,9
+Union,C103,U.S. Senate,,LIB,David M. PATTERSON,12
+Union,C104,U.S. Senate,,LIB,David M. PATTERSON,3
+Union,E102,U.S. Senate,,LIB,David M. PATTERSON,9
+Union,E103,U.S. Senate,,LIB,David M. PATTERSON,6
+Union,E104,U.S. Senate,,LIB,David M. PATTERSON,9
+Union,F101,U.S. Senate,,LIB,David M. PATTERSON,13
+Union,F102,U.S. Senate,,LIB,David M. PATTERSON,5
+Union,F103,U.S. Senate,,LIB,David M. PATTERSON,13
+Union,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,207
+Union,A101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,374
+Union,A103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,211
+Union,A104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,201
+Union,B101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,255
+Union,B102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,223
+Union,B103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,161
+Union,C101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,326
+Union,C102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,189
+Union,C103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,187
+Union,C104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,122
+Union,E102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,221
+Union,E103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,259
+Union,E104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,223
+Union,F101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,315
+Union,F102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,119
+Union,F103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,300
+Union,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,44
+Union,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,57
+Union,A103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,101
+Union,A104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,61
+Union,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,60
+Union,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,77
+Union,B103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,63
+Union,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,54
+Union,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,58
+Union,C103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,70
+Union,C104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,27
+Union,E102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,88
+Union,E103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,50
+Union,E104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,58
+Union,F101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,102
+Union,F102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,33
+Union,F103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,119
+Union,AB,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,201
+Union,A101,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,327
+Union,A103,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,245
+Union,A104,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,208
+Union,B101,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,236
+Union,B102,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,260
+Union,B103,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,174
+Union,C101,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,301
+Union,C102,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,195
+Union,C103,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,203
+Union,C104,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,111
+Union,E102,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,250
+Union,E103,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,247
+Union,E104,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,215
+Union,F101,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,336
+Union,F102,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,123
+Union,F103,State Senator, 4th Senatorial District,DEM,J. Dorsey RIDLEY,349
+Union,AB,State Representative, 7th Representative District,REP,Suzanne MILES,135
+Union,A101,State Representative, 7th Representative District,REP,Suzanne MILES,247
+Union,A103,State Representative, 7th Representative District,REP,Suzanne MILES,160
+Union,A104,State Representative, 7th Representative District,REP,Suzanne MILES,149
+Union,B101,State Representative, 7th Representative District,REP,Suzanne MILES,155
+Union,B102,State Representative, 7th Representative District,REP,Suzanne MILES,143
+Union,B103,State Representative, 7th Representative District,REP,Suzanne MILES,109
+Union,C101,State Representative, 7th Representative District,REP,Suzanne MILES,210
+Union,C102,State Representative, 7th Representative District,REP,Suzanne MILES,112
+Union,C103,State Representative, 7th Representative District,REP,Suzanne MILES,108
+Union,C104,State Representative, 7th Representative District,REP,Suzanne MILES,81
+Union,E102,State Representative, 7th Representative District,REP,Suzanne MILES,128
+Union,E103,State Representative, 7th Representative District,REP,Suzanne MILES,184
+Union,E104,State Representative, 7th Representative District,REP,Suzanne MILES,143
+Union,F101,State Representative, 7th Representative District,REP,Suzanne MILES,202
+Union,F102,State Representative, 7th Representative District,REP,Suzanne MILES,79
+Union,F103,State Representative, 7th Representative District,REP,Suzanne MILES,216
+Union,AB,State Representative, 7th Representative District,DEM,John WARREN,118
+Union,A101,State Representative, 7th Representative District,DEM,John WARREN,182
+Union,A103,State Representative, 7th Representative District,DEM,John WARREN,148
+Union,A104,State Representative, 7th Representative District,DEM,John WARREN,113
+Union,B101,State Representative, 7th Representative District,DEM,John WARREN,159
+Union,B102,State Representative, 7th Representative District,DEM,John WARREN,170
+Union,B103,State Representative, 7th Representative District,DEM,John WARREN,113
+Union,C101,State Representative, 7th Representative District,DEM,John WARREN,173
+Union,C102,State Representative, 7th Representative District,DEM,John WARREN,133
+Union,C103,State Representative, 7th Representative District,DEM,John WARREN,146
+Union,C104,State Representative, 7th Representative District,DEM,John WARREN,71
+Union,E102,State Representative, 7th Representative District,DEM,John WARREN,174
+Union,E103,State Representative, 7th Representative District,DEM,John WARREN,123
+Union,E104,State Representative, 7th Representative District,DEM,John WARREN,140
+Union,F101,State Representative, 7th Representative District,DEM,John WARREN,216
+Union,F102,State Representative, 7th Representative District,DEM,John WARREN,73
+Union,F103,State Representative, 7th Representative District,DEM,John WARREN,200
+Union,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,218
+Union,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,344
+Union,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,255
+Union,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,219
+Union,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,248
+Union,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,263
+Union,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,186
+Union,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,315
+Union,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,211
+Union,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,221
+Union,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,120
+Union,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,273
+Union,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,270
+Union,E104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,240
+Union,F101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,351
+Union,F102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,126
+Union,F103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Clay WELLS,355
+Union,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,210
+Union,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,329
+Union,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,256
+Union,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,220
+Union,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,251
+Union,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,272
+Union,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,184
+Union,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,308
+Union,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,209
+Union,C103,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,216
+Union,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,116
+Union,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,266
+Union,E103,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,258
+Union,E104,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,237
+Union,F101,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,353
+Union,F102,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,125
+Union,F103,COUNTY JUDGE/EXECUTIVE,,DEM,Jody JENKINS,349
+Union,AB,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,200
+Union,A101,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,330
+Union,A103,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,249
+Union,A104,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,210
+Union,B101,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,240
+Union,B102,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,272
+Union,B103,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,179
+Union,C101,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,302
+Union,C102,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,216
+Union,C103,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,209
+Union,C104,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,120
+Union,E102,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,271
+Union,E103,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,255
+Union,E104,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,224
+Union,F101,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,352
+Union,F102,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,120
+Union,F103,COUNTY ATTORNEY,,DEM,Brucie W. MOORE,347
+Union,AB,COUNTY CLERK,,DEM,Trey PEAK,218
+Union,A101,COUNTY CLERK,,DEM,Trey PEAK,331
+Union,A103,COUNTY CLERK,,DEM,Trey PEAK,257
+Union,A104,COUNTY CLERK,,DEM,Trey PEAK,219
+Union,B101,COUNTY CLERK,,DEM,Trey PEAK,237
+Union,B102,COUNTY CLERK,,DEM,Trey PEAK,272
+Union,B103,COUNTY CLERK,,DEM,Trey PEAK,174
+Union,C101,COUNTY CLERK,,DEM,Trey PEAK,311
+Union,C102,COUNTY CLERK,,DEM,Trey PEAK,213
+Union,C103,COUNTY CLERK,,DEM,Trey PEAK,228
+Union,C104,COUNTY CLERK,,DEM,Trey PEAK,123
+Union,E102,COUNTY CLERK,,DEM,Trey PEAK,269
+Union,E103,COUNTY CLERK,,DEM,Trey PEAK,257
+Union,E104,COUNTY CLERK,,DEM,Trey PEAK,233
+Union,F101,COUNTY CLERK,,DEM,Trey PEAK,362
+Union,F102,COUNTY CLERK,,DEM,Trey PEAK,121
+Union,F103,COUNTY CLERK,,DEM,Trey PEAK,350
+Union,AB,SHERIFF,,DEM,Mickey Lee ARNOLD,219
+Union,A101,SHERIFF,,DEM,Mickey Lee ARNOLD,338
+Union,A103,SHERIFF,,DEM,Mickey Lee ARNOLD,259
+Union,A104,SHERIFF,,DEM,Mickey Lee ARNOLD,226
+Union,B101,SHERIFF,,DEM,Mickey Lee ARNOLD,249
+Union,B102,SHERIFF,,DEM,Mickey Lee ARNOLD,267
+Union,B103,SHERIFF,,DEM,Mickey Lee ARNOLD,183
+Union,C101,SHERIFF,,DEM,Mickey Lee ARNOLD,314
+Union,C102,SHERIFF,,DEM,Mickey Lee ARNOLD,228
+Union,C103,SHERIFF,,DEM,Mickey Lee ARNOLD,227
+Union,C104,SHERIFF,,DEM,Mickey Lee ARNOLD,129
+Union,E102,SHERIFF,,DEM,Mickey Lee ARNOLD,277
+Union,E103,SHERIFF,,DEM,Mickey Lee ARNOLD,262
+Union,E104,SHERIFF,,DEM,Mickey Lee ARNOLD,246
+Union,F101,SHERIFF,,DEM,Mickey Lee ARNOLD,363
+Union,F102,SHERIFF,,DEM,Mickey Lee ARNOLD,126
+Union,F103,SHERIFF,,DEM,Mickey Lee ARNOLD,373
+Union,AB,JAILER,,REP,Jason O. THOMAS,121
+Union,A101,JAILER,,REP,Jason O. THOMAS,200
+Union,A103,JAILER,,REP,Jason O. THOMAS,103
+Union,A104,JAILER,,REP,Jason O. THOMAS,108
+Union,B101,JAILER,,REP,Jason O. THOMAS,191
+Union,B102,JAILER,,REP,Jason O. THOMAS,177
+Union,B103,JAILER,,REP,Jason O. THOMAS,101
+Union,C101,JAILER,,REP,Jason O. THOMAS,142
+Union,C102,JAILER,,REP,Jason O. THOMAS,90
+Union,C103,JAILER,,REP,Jason O. THOMAS,88
+Union,C104,JAILER,,REP,Jason O. THOMAS,49
+Union,E102,JAILER,,REP,Jason O. THOMAS,104
+Union,E103,JAILER,,REP,Jason O. THOMAS,139
+Union,E104,JAILER,,REP,Jason O. THOMAS,96
+Union,F101,JAILER,,REP,Jason O. THOMAS,194
+Union,F102,JAILER,,REP,Jason O. THOMAS,78
+Union,F103,JAILER,,REP,Jason O. THOMAS,193
+Union,AB,JAILER,,DEM,Cathy Jo SMITH,127
+Union,A101,JAILER,,DEM,Cathy Jo SMITH,217
+Union,A103,JAILER,,DEM,Cathy Jo SMITH,195
+Union,A104,JAILER,,DEM,Cathy Jo SMITH,148
+Union,B101,JAILER,,DEM,Cathy Jo SMITH,116
+Union,B102,JAILER,,DEM,Cathy Jo SMITH,129
+Union,B103,JAILER,,DEM,Cathy Jo SMITH,109
+Union,C101,JAILER,,DEM,Cathy Jo SMITH,226
+Union,C102,JAILER,,DEM,Cathy Jo SMITH,156
+Union,C103,JAILER,,DEM,Cathy Jo SMITH,153
+Union,C104,JAILER,,DEM,Cathy Jo SMITH,105
+Union,E102,JAILER,,DEM,Cathy Jo SMITH,201
+Union,E103,JAILER,,DEM,Cathy Jo SMITH,163
+Union,E104,JAILER,,DEM,Cathy Jo SMITH,180
+Union,F101,JAILER,,DEM,Cathy Jo SMITH,210
+Union,F102,JAILER,,DEM,Cathy Jo SMITH,63
+Union,F103,JAILER,,DEM,Cathy Jo SMITH,207
+Union,AB,JAILER,,IND,Gary L. WRIGHT,10
+Union,A101,JAILER,,IND,Gary L. WRIGHT,19
+Union,A103,JAILER,,IND,Gary L. WRIGHT,17
+Union,A104,JAILER,,IND,Gary L. WRIGHT,7
+Union,B101,JAILER,,IND,Gary L. WRIGHT,11
+Union,B102,JAILER,,IND,Gary L. WRIGHT,6
+Union,B103,JAILER,,IND,Gary L. WRIGHT,10
+Union,C101,JAILER,,IND,Gary L. WRIGHT,15
+Union,C102,JAILER,,IND,Gary L. WRIGHT,7
+Union,C103,JAILER,,IND,Gary L. WRIGHT,14
+Union,C104,JAILER,,IND,Gary L. WRIGHT,2
+Union,E102,JAILER,,IND,Gary L. WRIGHT,13
+Union,E103,JAILER,,IND,Gary L. WRIGHT,11
+Union,E104,JAILER,,IND,Gary L. WRIGHT,10
+Union,F101,JAILER,,IND,Gary L. WRIGHT,16
+Union,F102,JAILER,,IND,Gary L. WRIGHT,9
+Union,F103,JAILER,,IND,Gary L. WRIGHT,23
+Union,AB,CORONER,,DEM,Stephen SHOUSE,215
+Union,A101,CORONER,,DEM,Stephen SHOUSE,337
+Union,A103,CORONER,,DEM,Stephen SHOUSE,251
+Union,A104,CORONER,,DEM,Stephen SHOUSE,217
+Union,B101,CORONER,,DEM,Stephen SHOUSE,241
+Union,B102,CORONER,,DEM,Stephen SHOUSE,266
+Union,B103,CORONER,,DEM,Stephen SHOUSE,180
+Union,C101,CORONER,,DEM,Stephen SHOUSE,314
+Union,C102,CORONER,,DEM,Stephen SHOUSE,212
+Union,C103,CORONER,,DEM,Stephen SHOUSE,228
+Union,C104,CORONER,,DEM,Stephen SHOUSE,125
+Union,E102,CORONER,,DEM,Stephen SHOUSE,276
+Union,E103,CORONER,,DEM,Stephen SHOUSE,261
+Union,E104,CORONER,,DEM,Stephen SHOUSE,245
+Union,F101,CORONER,,DEM,Stephen SHOUSE,352
+Union,F102,CORONER,,DEM,Stephen SHOUSE,123
+Union,F103,CORONER,,DEM,Stephen SHOUSE,359
+Union,AB,MAGISTRATE 1st Magisterial District,,DEM,Gary DAY,48
+Union,A101,MAGISTRATE 1st Magisterial District,,DEM,Gary DAY,335
+Union,A103,MAGISTRATE 1st Magisterial District,,DEM,Gary DAY,253
+Union,A104,MAGISTRATE 1st Magisterial District,,DEM,Gary DAY,211
+Union,AB,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,39
+Union,B101,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,261
+Union,B102,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,274
+Union,B103,MAGISTRATE 2nd Magisterial District,,DEM,Jerri FLOYD,179
+Union,AB,MAGISTRATE 3rd Magisterial District,,DEM,Chuck VOSS,36
+Union,C101,MAGISTRATE 3rd Magisterial District,,DEM,Chuck VOSS,286
+Union,C102,MAGISTRATE 3rd Magisterial District,,DEM,Chuck VOSS,193
+Union,C103,MAGISTRATE 3rd Magisterial District,,DEM,Chuck VOSS,171
+Union,C104,MAGISTRATE 3rd Magisterial District,,DEM,Chuck VOSS,96
+Union,AB,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,29
+Union,E102,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,262
+Union,E103,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,244
+Union,E104,MAGISTRATE 4th Magisterial District,,DEM,Joe WELLS,234
+Union,AB,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,48
+Union,F101,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,362
+Union,F102,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,128
+Union,F103,MAGISTRATE 5th Magisterial District,,DEM,Joe CLEMENTS,369
+Union,AB,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,168
+Union,A101,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,269
+Union,A103,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,193
+Union,A104,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,166
+Union,B101,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,174
+Union,B102,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,213
+Union,B103,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,130
+Union,C101,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,252
+Union,C102,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,160
+Union,C103,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,140
+Union,C104,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,83
+Union,E102,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,193
+Union,E103,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,194
+Union,E104,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,175
+Union,F101,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,260
+Union,F102,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,96
+Union,F103,Justice of the Supreme Court, 2nd Supreme Court District,,John D. MINTON JR.,297
+Union,AB,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,163
+Union,A101,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,260
+Union,A103,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,190
+Union,A104,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,159
+Union,B101,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,169
+Union,B102,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,200
+Union,B103,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,130
+Union,C101,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,250
+Union,C102,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,153
+Union,C103,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,141
+Union,C104,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,81
+Union,E102,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,186
+Union,E103,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,191
+Union,E104,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,169
+Union,F101,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,259
+Union,F102,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,94
+Union,F103,Judge of the Court of Appeals, 2nd Appellate District,,Jeff S. TAYLOR,293
+Union,AB,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,142
+Union,A101,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,252
+Union,A103,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,162
+Union,A104,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,160
+Union,B101,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,172
+Union,B102,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,176
+Union,B103,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,117
+Union,C101,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,222
+Union,C102,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,131
+Union,C103,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,123
+Union,C104,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,72
+Union,E102,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,158
+Union,E103,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,164
+Union,E104,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,150
+Union,F101,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,229
+Union,F102,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,82
+Union,F103,Judge of the Court of Appeals, 2nd Appellate District,,Kelly THOMPSON,244
+Union,AB,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,48
+Union,A101,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,53
+Union,A103,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,53
+Union,A104,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,27
+Union,B101,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,32
+Union,B102,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,33
+Union,B103,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,36
+Union,C101,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,60
+Union,C102,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,37
+Union,C103,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,35
+Union,C104,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,21
+Union,E102,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,52
+Union,E103,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,42
+Union,E104,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,39
+Union,F101,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,61
+Union,F102,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,25
+Union,F103,Judge of the Court of Appeals, 2nd Appellate District,,Mark H. FLENER,67
+Union,AB,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,202
+Union,A101,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,300
+Union,A103,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,223
+Union,A104,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,190
+Union,B101,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,207
+Union,B102,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,239
+Union,B103,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,165
+Union,C101,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,287
+Union,C102,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,189
+Union,C103,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,178
+Union,C104,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,104
+Union,E102,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,238
+Union,E103,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,224
+Union,E104,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,204
+Union,F101,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,305
+Union,F102,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,110
+Union,F103,Circuit Judge, 5th Judicial Circuit,,C. Rene' WILLIAMS,328
+Union,AB,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,144
+Union,A101,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,277
+Union,A103,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,186
+Union,A104,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,136
+Union,B101,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,154
+Union,B102,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,173
+Union,B103,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,112
+Union,C101,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,212
+Union,C102,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,126
+Union,C103,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,115
+Union,C104,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,68
+Union,E102,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,187
+Union,E103,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,172
+Union,E104,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,149
+Union,F101,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,245
+Union,F102,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,85
+Union,F103,Circuit Judge Family Court, 5th Judicial Circuit,,Brandi Hagan ROGERS,278
+Union,AB,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,114
+Union,A101,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,148
+Union,A103,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,117
+Union,A104,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,118
+Union,B101,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,143
+Union,B102,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,136
+Union,B103,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,102
+Union,C101,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,169
+Union,C102,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,116
+Union,C103,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,132
+Union,C104,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,82
+Union,E102,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,121
+Union,E103,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,125
+Union,E104,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,129
+Union,F101,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,161
+Union,F102,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,65
+Union,F103,Circuit Judge Family Court, 5th Judicial Circuit,,Ben LEONARD,137
+Union,AB,District Judge, 5th Judicial District,,Daniel M. HEADY,203
+Union,A101,District Judge, 5th Judicial District,,Daniel M. HEADY,312
+Union,A103,District Judge, 5th Judicial District,,Daniel M. HEADY,221
+Union,A104,District Judge, 5th Judicial District,,Daniel M. HEADY,190
+Union,B101,District Judge, 5th Judicial District,,Daniel M. HEADY,212
+Union,B102,District Judge, 5th Judicial District,,Daniel M. HEADY,240
+Union,B103,District Judge, 5th Judicial District,,Daniel M. HEADY,161
+Union,C101,District Judge, 5th Judicial District,,Daniel M. HEADY,296
+Union,C102,District Judge, 5th Judicial District,,Daniel M. HEADY,190
+Union,C103,District Judge, 5th Judicial District,,Daniel M. HEADY,185
+Union,C104,District Judge, 5th Judicial District,,Daniel M. HEADY,112
+Union,E102,District Judge, 5th Judicial District,,Daniel M. HEADY,237
+Union,E103,District Judge, 5th Judicial District,,Daniel M. HEADY,237
+Union,E104,District Judge, 5th Judicial District,,Daniel M. HEADY,201
+Union,F101,District Judge, 5th Judicial District,,Daniel M. HEADY,312
+Union,F102,District Judge, 5th Judicial District,,Daniel M. HEADY,102
+Union,F103,District Judge, 5th Judicial District,,Daniel M. HEADY,329
+Union,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Melissa A. WHITSELL,68
+Union,A101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Melissa A. WHITSELL,330
+Union,A103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Melissa A. WHITSELL,238
+Union,A104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Melissa A. WHITSELL,194
+Union,C101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Melissa A. WHITSELL,108
+Union,AB,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,30
+Union,E102,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,244
+Union,E103,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,235
+Union,E104,MEMBER BOARD of EDUCATION 4th Educational District,,,Evelyn S. MEACHAM,217
+Union,AB,MAYOR City of Uniontown,,,Ricky MILLIKAN,6
+Union,B101,MAYOR City of Uniontown,,,Ricky MILLIKAN,72
+Union,B102,MAYOR City of Uniontown,,,Ricky MILLIKAN,126
+Union,AB,CITY COUNCIL City of Uniontown,,,Terry GREEN,3
+Union,B101,CITY COUNCIL City of Uniontown,,,Terry GREEN,31
+Union,B102,CITY COUNCIL City of Uniontown,,,Terry GREEN,93
+Union,AB,CITY COUNCIL City of Uniontown,,,Bonnie WOLFE,5
+Union,B101,CITY COUNCIL City of Uniontown,,,Bonnie WOLFE,33
+Union,B102,CITY COUNCIL City of Uniontown,,,Bonnie WOLFE,101
+Union,AB,CITY COUNCIL City of Uniontown,,,Megan Nicole COKER,3
+Union,B101,CITY COUNCIL City of Uniontown,,,Megan Nicole COKER,36
+Union,B102,CITY COUNCIL City of Uniontown,,,Megan Nicole COKER,103
+Union,AB,CITY COUNCIL City of Uniontown,,,Tim GRAY,6
+Union,B101,CITY COUNCIL City of Uniontown,,,Tim GRAY,40
+Union,B102,CITY COUNCIL City of Uniontown,,,Tim GRAY,105
+Union,AB,CITY COUNCIL City of Uniontown,,,James W. HARGROVE JR.,4
+Union,B101,CITY COUNCIL City of Uniontown,,,James W. HARGROVE JR.,31
+Union,B102,CITY COUNCIL City of Uniontown,,,James W. HARGROVE JR.,105
+Union,AB,CITY COUNCIL City of Uniontown,,,Jason GREENWELL,6
+Union,B101,CITY COUNCIL City of Uniontown,,,Jason GREENWELL,40
+Union,B102,CITY COUNCIL City of Uniontown,,,Jason GREENWELL,111
+Union,AB,MAYOR City of Sturgis,,,Michael HARDESTY,13
+Union,C102,MAYOR City of Sturgis,,,Michael HARDESTY,223
+Union,E102,MAYOR City of Sturgis,,,Michael HARDESTY,226
+Union,E104,MAYOR City of Sturgis,,,Michael HARDESTY,61
+Union,AB,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,10
+Union,C102,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,168
+Union,E102,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,161
+Union,E104,CITY COUNCIL City of Sturgis,,,Jeremy BAKER,42
+Union,AB,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",9
+Union,C102,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",136
+Union,E102,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",123
+Union,E104,CITY COUNCIL City of Sturgis,,,"Richard ""Richie"" JONES",32
+Union,AB,CITY COUNCIL City of Sturgis,,,Kember B. HEINE,13
+Union,C102,CITY COUNCIL City of Sturgis,,,Kember B. HEINE,175
+Union,E102,CITY COUNCIL City of Sturgis,,,Kember B. HEINE,164
+Union,E104,CITY COUNCIL City of Sturgis,,,Kember B. HEINE,49
+Union,AB,CITY COUNCIL City of Sturgis,,,"Russell ""Nicky"" HOLEMAN",9
+Union,C102,CITY COUNCIL City of Sturgis,,,"Russell ""Nicky"" HOLEMAN",140
+Union,E102,CITY COUNCIL City of Sturgis,,,"Russell ""Nicky"" HOLEMAN",157
+Union,E104,CITY COUNCIL City of Sturgis,,,"Russell ""Nicky"" HOLEMAN",39
+Union,AB,CITY COUNCIL City of Sturgis,,,Kate BAKER,12
+Union,C102,CITY COUNCIL City of Sturgis,,,Kate BAKER,157
+Union,E102,CITY COUNCIL City of Sturgis,,,Kate BAKER,142
+Union,E104,CITY COUNCIL City of Sturgis,,,Kate BAKER,39
+Union,AB,CITY COUNCIL City of Sturgis,,,Thomas R. HOLT,5
+Union,C102,CITY COUNCIL City of Sturgis,,,Thomas R. HOLT,105
+Union,E102,CITY COUNCIL City of Sturgis,,,Thomas R. HOLT,96
+Union,E104,CITY COUNCIL City of Sturgis,,,Thomas R. HOLT,31
+Union,AB,CITY COUNCIL City of Sturgis,,,Charles E. FOSTER,4
+Union,C102,CITY COUNCIL City of Sturgis,,,Charles E. FOSTER,114
+Union,E102,CITY COUNCIL City of Sturgis,,,Charles E. FOSTER,113
+Union,E104,CITY COUNCIL City of Sturgis,,,Charles E. FOSTER,27
+Union,AB,CITY COUNCIL City of Sturgis,,,Doug RODGERS,6
+Union,C102,CITY COUNCIL City of Sturgis,,,Doug RODGERS,169
+Union,E102,CITY COUNCIL City of Sturgis,,,Doug RODGERS,155
+Union,E104,CITY COUNCIL City of Sturgis,,,Doug RODGERS,43
+Union,AB,CITY COUNCIL City of Sturgis,,,Pete BROWN,8
+Union,C102,CITY COUNCIL City of Sturgis,,,Pete BROWN,171
+Union,E102,CITY COUNCIL City of Sturgis,,,Pete BROWN,165
+Union,E104,CITY COUNCIL City of Sturgis,,,Pete BROWN,36
+Union,AB,MAYOR City of Waverly,,,David A. WOLFE,2
+Union,F101,MAYOR City of Waverly,,,David A. WOLFE,96
+Union,AB,CITY COUNCIL City of Waverly,,,Charles R. WILLETT,3
+Union,F101,CITY COUNCIL City of Waverly,,,Charles R. WILLETT,90
+Union,AB,CITY COUNCIL City of Waverly,,,Teresa WOLFE,4
+Union,F101,CITY COUNCIL City of Waverly,,,Teresa WOLFE,91
+Union,AB,CITY COUNCIL City of Waverly,,,Rob FULCHER,4
+Union,F101,CITY COUNCIL City of Waverly,,,Rob FULCHER,86
+Union,AB,CITY COUNCIL City of Waverly,,,Kurt GIBSON,4
+Union,F101,CITY COUNCIL City of Waverly,,,Kurt GIBSON,86
+Union,AB,MAYOR City of Morganfield,,,Dickie BERRY,49
+Union,A101,MAYOR City of Morganfield,,,Dickie BERRY,113
+Union,A103,MAYOR City of Morganfield,,,Dickie BERRY,120
+Union,A104,MAYOR City of Morganfield,,,Dickie BERRY,89
+Union,B103,MAYOR City of Morganfield,,,Dickie BERRY,68
+Union,F102,MAYOR City of Morganfield,,,Dickie BERRY,49
+Union,F103,MAYOR City of Morganfield,,,Dickie BERRY,59
+Union,AB,MAYOR City of Morganfield,,,Tom CARMON,19
+Union,A101,MAYOR City of Morganfield,,,Tom CARMON,54
+Union,A103,MAYOR City of Morganfield,,,Tom CARMON,96
+Union,A104,MAYOR City of Morganfield,,,Tom CARMON,65
+Union,B103,MAYOR City of Morganfield,,,Tom CARMON,77
+Union,F102,MAYOR City of Morganfield,,,Tom CARMON,30
+Union,F103,MAYOR City of Morganfield,,,Tom CARMON,64
+Union,AB,MAYOR City of Morganfield,,,Eric HAWKINS,11
+Union,A101,MAYOR City of Morganfield,,,Eric HAWKINS,35
+Union,A103,MAYOR City of Morganfield,,,Eric HAWKINS,42
+Union,A104,MAYOR City of Morganfield,,,Eric HAWKINS,45
+Union,B103,MAYOR City of Morganfield,,,Eric HAWKINS,34
+Union,F102,MAYOR City of Morganfield,,,Eric HAWKINS,18
+Union,F103,MAYOR City of Morganfield,,,Eric HAWKINS,65
+Union,AB,CITY COUNCIL City of Morganfield,,,Rick WYATT,61
+Union,A101,CITY COUNCIL City of Morganfield,,,Rick WYATT,168
+Union,A103,CITY COUNCIL City of Morganfield,,,Rick WYATT,180
+Union,A104,CITY COUNCIL City of Morganfield,,,Rick WYATT,147
+Union,B103,CITY COUNCIL City of Morganfield,,,Rick WYATT,130
+Union,F102,CITY COUNCIL City of Morganfield,,,Rick WYATT,68
+Union,F103,CITY COUNCIL City of Morganfield,,,Rick WYATT,146
+Union,AB,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,60
+Union,A101,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,174
+Union,A103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,186
+Union,A104,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,144
+Union,B103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,116
+Union,F102,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,69
+Union,F103,CITY COUNCIL City of Morganfield,,,Paul MONSOUR,142
+Union,AB,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",32
+Union,A101,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",102
+Union,A103,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",100
+Union,A104,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",99
+Union,B103,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",71
+Union,F102,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",51
+Union,F103,CITY COUNCIL City of Morganfield,,,"James A. ""Chief"" MOORE",114
+Union,AB,CITY COUNCIL City of Morganfield,,,Justin WOLFE,56
+Union,A101,CITY COUNCIL City of Morganfield,,,Justin WOLFE,159
+Union,A103,CITY COUNCIL City of Morganfield,,,Justin WOLFE,179
+Union,A104,CITY COUNCIL City of Morganfield,,,Justin WOLFE,143
+Union,B103,CITY COUNCIL City of Morganfield,,,Justin WOLFE,110
+Union,F102,CITY COUNCIL City of Morganfield,,,Justin WOLFE,74
+Union,F103,CITY COUNCIL City of Morganfield,,,Justin WOLFE,138
+Union,AB,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,65
+Union,A101,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,171
+Union,A103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,193
+Union,A104,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,152
+Union,B103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,117
+Union,F102,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,73
+Union,F103,CITY COUNCIL City of Morganfield,,,Darrell R. FRENCH,146
+Union,AB,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,56
+Union,A101,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,169
+Union,A103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,176
+Union,A104,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,124
+Union,B103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,113
+Union,F102,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,58
+Union,F103,CITY COUNCIL City of Morganfield,,,Alvin RUSSELBURG,135
+Union,AB,CITY COUNCIL City of Morganfield,,,Gary LOVELL,51
+Union,A101,CITY COUNCIL City of Morganfield,,,Gary LOVELL,152
+Union,A103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,182
+Union,A104,CITY COUNCIL City of Morganfield,,,Gary LOVELL,131
+Union,B103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,111
+Union,F102,CITY COUNCIL City of Morganfield,,,Gary LOVELL,53
+Union,F103,CITY COUNCIL City of Morganfield,,,Gary LOVELL,132

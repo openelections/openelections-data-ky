@@ -1,0 +1,400 @@
+county,precinct,office,district,party,candidate,votes
+Simpson,AB,U.S. Senate,,REP,Mitch McCONNELL,109
+Simpson,A101,U.S. Senate,,REP,Mitch McCONNELL,293
+Simpson,A102,U.S. Senate,,REP,Mitch McCONNELL,246
+Simpson,A103,U.S. Senate,,REP,Mitch McCONNELL,126
+Simpson,B101,U.S. Senate,,REP,Mitch McCONNELL,249
+Simpson,B102,U.S. Senate,,REP,Mitch McCONNELL,71
+Simpson,B103,U.S. Senate,,REP,Mitch McCONNELL,332
+Simpson,C101,U.S. Senate,,REP,Mitch McCONNELL,139
+Simpson,C103,U.S. Senate,,REP,Mitch McCONNELL,131
+Simpson,C104,U.S. Senate,,REP,Mitch McCONNELL,538
+Simpson,D101,U.S. Senate,,REP,Mitch McCONNELL,81
+Simpson,D102,U.S. Senate,,REP,Mitch McCONNELL,190
+Simpson,D103,U.S. Senate,,REP,Mitch McCONNELL,82
+Simpson,D104,U.S. Senate,,REP,Mitch McCONNELL,151
+Simpson,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,74
+Simpson,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,169
+Simpson,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,137
+Simpson,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,128
+Simpson,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,148
+Simpson,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,95
+Simpson,B103,U.S. Senate,,DEM,Alison Lundergan GRIMES,189
+Simpson,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,78
+Simpson,C103,U.S. Senate,,DEM,Alison Lundergan GRIMES,112
+Simpson,C104,U.S. Senate,,DEM,Alison Lundergan GRIMES,257
+Simpson,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,68
+Simpson,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,101
+Simpson,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,184
+Simpson,D104,U.S. Senate,,DEM,Alison Lundergan GRIMES,147
+Simpson,AB,U.S. Senate,,LIB,David M. PATTERSON,3
+Simpson,A101,U.S. Senate,,LIB,David M. PATTERSON,15
+Simpson,A102,U.S. Senate,,LIB,David M. PATTERSON,8
+Simpson,A103,U.S. Senate,,LIB,David M. PATTERSON,12
+Simpson,B101,U.S. Senate,,LIB,David M. PATTERSON,19
+Simpson,B102,U.S. Senate,,LIB,David M. PATTERSON,2
+Simpson,B103,U.S. Senate,,LIB,David M. PATTERSON,16
+Simpson,C101,U.S. Senate,,LIB,David M. PATTERSON,7
+Simpson,C103,U.S. Senate,,LIB,David M. PATTERSON,8
+Simpson,C104,U.S. Senate,,LIB,David M. PATTERSON,29
+Simpson,D101,U.S. Senate,,LIB,David M. PATTERSON,3
+Simpson,D102,U.S. Senate,,LIB,David M. PATTERSON,10
+Simpson,D103,U.S. Senate,,LIB,David M. PATTERSON,6
+Simpson,D104,U.S. Senate,,LIB,David M. PATTERSON,13
+Simpson,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,129
+Simpson,A101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,354
+Simpson,A102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,289
+Simpson,A103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,153
+Simpson,B101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,291
+Simpson,B102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,92
+Simpson,B103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,384
+Simpson,C101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,154
+Simpson,C103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,163
+Simpson,C104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,617
+Simpson,D101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,101
+Simpson,D102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,221
+Simpson,D103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,96
+Simpson,D104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,180
+Simpson,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,56
+Simpson,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,108
+Simpson,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,93
+Simpson,A103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,104
+Simpson,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,116
+Simpson,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,73
+Simpson,B103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,136
+Simpson,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,62
+Simpson,C103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,81
+Simpson,C104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,193
+Simpson,D101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,49
+Simpson,D102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,72
+Simpson,D103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,167
+Simpson,D104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,126
+Simpson,AB,State Representative, 22nd Representative District,DEM,Wilson STONE,140
+Simpson,A101,State Representative, 22nd Representative District,DEM,Wilson STONE,348
+Simpson,A102,State Representative, 22nd Representative District,DEM,Wilson STONE,263
+Simpson,A103,State Representative, 22nd Representative District,DEM,Wilson STONE,209
+Simpson,B101,State Representative, 22nd Representative District,DEM,Wilson STONE,315
+Simpson,B102,State Representative, 22nd Representative District,DEM,Wilson STONE,136
+Simpson,B103,State Representative, 22nd Representative District,DEM,Wilson STONE,388
+Simpson,C101,State Representative, 22nd Representative District,DEM,Wilson STONE,163
+Simpson,C103,State Representative, 22nd Representative District,DEM,Wilson STONE,200
+Simpson,C104,State Representative, 22nd Representative District,DEM,Wilson STONE,563
+Simpson,D101,State Representative, 22nd Representative District,DEM,Wilson STONE,98
+Simpson,D102,State Representative, 22nd Representative District,DEM,Wilson STONE,215
+Simpson,D103,State Representative, 22nd Representative District,DEM,Wilson STONE,232
+Simpson,D104,State Representative, 22nd Representative District,DEM,Wilson STONE,242
+Simpson,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,133
+Simpson,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,336
+Simpson,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,246
+Simpson,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,204
+Simpson,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,303
+Simpson,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,136
+Simpson,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,372
+Simpson,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,164
+Simpson,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,204
+Simpson,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,550
+Simpson,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,92
+Simpson,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,211
+Simpson,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,228
+Simpson,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Pamela B. WOMACK,242
+Simpson,AB,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,145
+Simpson,A101,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,397
+Simpson,A102,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,315
+Simpson,A103,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,185
+Simpson,B101,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,333
+Simpson,B102,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,121
+Simpson,B103,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,426
+Simpson,C101,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,179
+Simpson,C103,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,195
+Simpson,C104,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,670
+Simpson,D101,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,117
+Simpson,D102,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,245
+Simpson,D103,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,163
+Simpson,D104,COUNTY JUDGE/EXECUTIVE,,REP,Jim HENDERSON,256
+Simpson,AB,COUNTY ATTORNEY,,REP,J. Corey MORGAN,73
+Simpson,A101,COUNTY ATTORNEY,,REP,J. Corey MORGAN,222
+Simpson,A102,COUNTY ATTORNEY,,REP,J. Corey MORGAN,186
+Simpson,A103,COUNTY ATTORNEY,,REP,J. Corey MORGAN,97
+Simpson,B101,COUNTY ATTORNEY,,REP,J. Corey MORGAN,189
+Simpson,B102,COUNTY ATTORNEY,,REP,J. Corey MORGAN,75
+Simpson,B103,COUNTY ATTORNEY,,REP,J. Corey MORGAN,238
+Simpson,C101,COUNTY ATTORNEY,,REP,J. Corey MORGAN,89
+Simpson,C103,COUNTY ATTORNEY,,REP,J. Corey MORGAN,84
+Simpson,C104,COUNTY ATTORNEY,,REP,J. Corey MORGAN,353
+Simpson,D101,COUNTY ATTORNEY,,REP,J. Corey MORGAN,86
+Simpson,D102,COUNTY ATTORNEY,,REP,J. Corey MORGAN,131
+Simpson,D103,COUNTY ATTORNEY,,REP,J. Corey MORGAN,73
+Simpson,D104,COUNTY ATTORNEY,,REP,J. Corey MORGAN,151
+Simpson,AB,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,114
+Simpson,A101,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,251
+Simpson,A102,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,185
+Simpson,A103,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,166
+Simpson,B101,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,215
+Simpson,B102,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,92
+Simpson,B103,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,296
+Simpson,C101,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,130
+Simpson,C103,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,160
+Simpson,C104,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,451
+Simpson,D101,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,65
+Simpson,D102,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,166
+Simpson,D103,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,190
+Simpson,D104,COUNTY ATTORNEY,,DEM,Sam R. PHILLIPS,155
+Simpson,AB,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",146
+Simpson,A101,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",367
+Simpson,A102,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",290
+Simpson,A103,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",225
+Simpson,B101,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",335
+Simpson,B102,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",139
+Simpson,B103,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",424
+Simpson,C101,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",182
+Simpson,C103,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",214
+Simpson,C104,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",615
+Simpson,D101,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",108
+Simpson,D102,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",223
+Simpson,D103,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",240
+Simpson,D104,COUNTY CLERK,,DEM,"Bobby ""Chip"" PHILLIPS",261
+Simpson,AB,SHERIFF,,DEM,Jere Dee HOPSON,140
+Simpson,A101,SHERIFF,,DEM,Jere Dee HOPSON,341
+Simpson,A102,SHERIFF,,DEM,Jere Dee HOPSON,265
+Simpson,A103,SHERIFF,,DEM,Jere Dee HOPSON,215
+Simpson,B101,SHERIFF,,DEM,Jere Dee HOPSON,312
+Simpson,B102,SHERIFF,,DEM,Jere Dee HOPSON,131
+Simpson,B103,SHERIFF,,DEM,Jere Dee HOPSON,386
+Simpson,C101,SHERIFF,,DEM,Jere Dee HOPSON,164
+Simpson,C103,SHERIFF,,DEM,Jere Dee HOPSON,205
+Simpson,C104,SHERIFF,,DEM,Jere Dee HOPSON,584
+Simpson,D101,SHERIFF,,DEM,Jere Dee HOPSON,100
+Simpson,D102,SHERIFF,,DEM,Jere Dee HOPSON,216
+Simpson,D103,SHERIFF,,DEM,Jere Dee HOPSON,226
+Simpson,D104,SHERIFF,,DEM,Jere Dee HOPSON,240
+Simpson,AB,JAILER,,DEM,Eric VAUGHN,138
+Simpson,A101,JAILER,,DEM,Eric VAUGHN,348
+Simpson,A102,JAILER,,DEM,Eric VAUGHN,270
+Simpson,A103,JAILER,,DEM,Eric VAUGHN,208
+Simpson,B101,JAILER,,DEM,Eric VAUGHN,321
+Simpson,B102,JAILER,,DEM,Eric VAUGHN,139
+Simpson,B103,JAILER,,DEM,Eric VAUGHN,396
+Simpson,C101,JAILER,,DEM,Eric VAUGHN,174
+Simpson,C103,JAILER,,DEM,Eric VAUGHN,203
+Simpson,C104,JAILER,,DEM,Eric VAUGHN,581
+Simpson,D101,JAILER,,DEM,Eric VAUGHN,101
+Simpson,D102,JAILER,,DEM,Eric VAUGHN,210
+Simpson,D103,JAILER,,DEM,Eric VAUGHN,227
+Simpson,D104,JAILER,,DEM,Eric VAUGHN,238
+Simpson,AB,CORONER,,REP,Kevin GILBERT,100
+Simpson,A101,CORONER,,REP,Kevin GILBERT,218
+Simpson,A102,CORONER,,REP,Kevin GILBERT,190
+Simpson,A103,CORONER,,REP,Kevin GILBERT,83
+Simpson,B101,CORONER,,REP,Kevin GILBERT,225
+Simpson,B102,CORONER,,REP,Kevin GILBERT,54
+Simpson,B103,CORONER,,REP,Kevin GILBERT,277
+Simpson,C101,CORONER,,REP,Kevin GILBERT,98
+Simpson,C103,CORONER,,REP,Kevin GILBERT,126
+Simpson,C104,CORONER,,REP,Kevin GILBERT,424
+Simpson,D101,CORONER,,REP,Kevin GILBERT,86
+Simpson,D102,CORONER,,REP,Kevin GILBERT,137
+Simpson,D103,CORONER,,REP,Kevin GILBERT,78
+Simpson,D104,CORONER,,REP,Kevin GILBERT,125
+Simpson,AB,CORONER,,DEM,Gary W. CRAFTON,84
+Simpson,A101,CORONER,,DEM,Gary W. CRAFTON,257
+Simpson,A102,CORONER,,DEM,Gary W. CRAFTON,195
+Simpson,A103,CORONER,,DEM,Gary W. CRAFTON,185
+Simpson,B101,CORONER,,DEM,Gary W. CRAFTON,184
+Simpson,B102,CORONER,,DEM,Gary W. CRAFTON,116
+Simpson,B103,CORONER,,DEM,Gary W. CRAFTON,265
+Simpson,C101,CORONER,,DEM,Gary W. CRAFTON,127
+Simpson,C103,CORONER,,DEM,Gary W. CRAFTON,123
+Simpson,C104,CORONER,,DEM,Gary W. CRAFTON,392
+Simpson,D101,CORONER,,DEM,Gary W. CRAFTON,65
+Simpson,D102,CORONER,,DEM,Gary W. CRAFTON,153
+Simpson,D103,CORONER,,DEM,Gary W. CRAFTON,194
+Simpson,D104,CORONER,,DEM,Gary W. CRAFTON,183
+Simpson,AB,MAGISTRATE West Magisterial District,,DEM,Blake G. TARPLEY,30
+Simpson,D101,MAGISTRATE West Magisterial District,,DEM,Blake G. TARPLEY,95
+Simpson,D102,MAGISTRATE West Magisterial District,,DEM,Blake G. TARPLEY,217
+Simpson,D103,MAGISTRATE West Magisterial District,,DEM,Blake G. TARPLEY,217
+Simpson,D104,MAGISTRATE West Magisterial District,,DEM,Blake G. TARPLEY,231
+Simpson,AB,CONSTABLE West Magisterial District,,DEM,Chuck FLEMING,31
+Simpson,D101,CONSTABLE West Magisterial District,,DEM,Chuck FLEMING,95
+Simpson,D102,CONSTABLE West Magisterial District,,DEM,Chuck FLEMING,197
+Simpson,D103,CONSTABLE West Magisterial District,,DEM,Chuck FLEMING,215
+Simpson,D104,CONSTABLE West Magisterial District,,DEM,Chuck FLEMING,228
+Simpson,AB,MAGISTRATE South Magisterial District,,REP,Myron THURMAN,26
+Simpson,B101,MAGISTRATE South Magisterial District,,REP,Myron THURMAN,191
+Simpson,B102,MAGISTRATE South Magisterial District,,REP,Myron THURMAN,63
+Simpson,B103,MAGISTRATE South Magisterial District,,REP,Myron THURMAN,292
+Simpson,AB,MAGISTRATE South Magisterial District,,DEM,Larry RANDOLPH,20
+Simpson,B101,MAGISTRATE South Magisterial District,,DEM,Larry RANDOLPH,224
+Simpson,B102,MAGISTRATE South Magisterial District,,DEM,Larry RANDOLPH,101
+Simpson,B103,MAGISTRATE South Magisterial District,,DEM,Larry RANDOLPH,238
+Simpson,AB,CONSTABLE South Magisterial District,,DEM,Jimmy FLEMING,30
+Simpson,B101,CONSTABLE South Magisterial District,,DEM,Jimmy FLEMING,301
+Simpson,B102,CONSTABLE South Magisterial District,,DEM,Jimmy FLEMING,132
+Simpson,B103,CONSTABLE South Magisterial District,,DEM,Jimmy FLEMING,355
+Simpson,AB,MAGISTRATE East Magisterial District,,REP,Anna GREGORY,14
+Simpson,A101,MAGISTRATE East Magisterial District,,REP,Anna GREGORY,151
+Simpson,A102,MAGISTRATE East Magisterial District,,REP,Anna GREGORY,151
+Simpson,A103,MAGISTRATE East Magisterial District,,REP,Anna GREGORY,77
+Simpson,AB,MAGISTRATE East Magisterial District,,DEM,Marty CHANDLER,25
+Simpson,A101,MAGISTRATE East Magisterial District,,DEM,Marty CHANDLER,320
+Simpson,A102,MAGISTRATE East Magisterial District,,DEM,Marty CHANDLER,219
+Simpson,A103,MAGISTRATE East Magisterial District,,DEM,Marty CHANDLER,177
+Simpson,AB,CONSTABLE East Magisterial District,,DEM,Jeff HENDERSON,26
+Simpson,A101,CONSTABLE East Magisterial District,,DEM,Jeff HENDERSON,341
+Simpson,A102,CONSTABLE East Magisterial District,,DEM,Jeff HENDERSON,226
+Simpson,A103,CONSTABLE East Magisterial District,,DEM,Jeff HENDERSON,212
+Simpson,AB,MAGISTRATE North Magisterial District,,DEM,Bobby BUSH,41
+Simpson,C101,MAGISTRATE North Magisterial District,,DEM,Bobby BUSH,159
+Simpson,C103,MAGISTRATE North Magisterial District,,DEM,Bobby BUSH,195
+Simpson,C104,MAGISTRATE North Magisterial District,,DEM,Bobby BUSH,522
+Simpson,AB,CONSTABLE North Magisterial District,,DEM,"Robert ""Bobby"" BURRESS",36
+Simpson,C101,CONSTABLE North Magisterial District,,DEM,"Robert ""Bobby"" BURRESS",140
+Simpson,C103,CONSTABLE North Magisterial District,,DEM,"Robert ""Bobby"" BURRESS",174
+Simpson,C104,CONSTABLE North Magisterial District,,DEM,"Robert ""Bobby"" BURRESS",482
+Simpson,AB,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,102
+Simpson,A101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,262
+Simpson,A102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,182
+Simpson,A103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,171
+Simpson,B101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,235
+Simpson,B102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,91
+Simpson,B103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,278
+Simpson,C101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,120
+Simpson,C103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,150
+Simpson,C104,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,404
+Simpson,D101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,71
+Simpson,D102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,164
+Simpson,D103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,128
+Simpson,D104,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,202
+Simpson,AB,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,103
+Simpson,A101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,257
+Simpson,A102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,176
+Simpson,A103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,165
+Simpson,B101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,226
+Simpson,B102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,91
+Simpson,B103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,257
+Simpson,C101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,111
+Simpson,C103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,143
+Simpson,C104,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,386
+Simpson,D101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,67
+Simpson,D102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,158
+Simpson,D103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,126
+Simpson,D104,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,193
+Simpson,AB,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,102
+Simpson,A101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,264
+Simpson,A102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,190
+Simpson,A103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,168
+Simpson,B101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,230
+Simpson,B102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,95
+Simpson,B103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,272
+Simpson,C101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,115
+Simpson,C103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,148
+Simpson,C104,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,396
+Simpson,D101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,69
+Simpson,D102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,162
+Simpson,D103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,137
+Simpson,D104,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,194
+Simpson,AB,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,124
+Simpson,A101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,309
+Simpson,A102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,240
+Simpson,A103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,200
+Simpson,B101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,279
+Simpson,B102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,115
+Simpson,B103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,355
+Simpson,C101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,156
+Simpson,C103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,178
+Simpson,C104,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,512
+Simpson,D101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,89
+Simpson,D102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,189
+Simpson,D103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,182
+Simpson,D104,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,229
+Simpson,AB,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,133
+Simpson,A101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,319
+Simpson,A102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,245
+Simpson,A103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,191
+Simpson,B101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,270
+Simpson,B102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,114
+Simpson,B103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,365
+Simpson,C101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,165
+Simpson,C103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,182
+Simpson,C104,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,526
+Simpson,D101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,90
+Simpson,D102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,194
+Simpson,D103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,185
+Simpson,D104,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,226
+Simpson,AB,District Judge, 49th Judicial District,,Martha Blair HARRISON,120
+Simpson,A101,District Judge, 49th Judicial District,,Martha Blair HARRISON,288
+Simpson,A102,District Judge, 49th Judicial District,,Martha Blair HARRISON,221
+Simpson,A103,District Judge, 49th Judicial District,,Martha Blair HARRISON,187
+Simpson,B101,District Judge, 49th Judicial District,,Martha Blair HARRISON,258
+Simpson,B102,District Judge, 49th Judicial District,,Martha Blair HARRISON,104
+Simpson,B103,District Judge, 49th Judicial District,,Martha Blair HARRISON,308
+Simpson,C101,District Judge, 49th Judicial District,,Martha Blair HARRISON,136
+Simpson,C103,District Judge, 49th Judicial District,,Martha Blair HARRISON,167
+Simpson,C104,District Judge, 49th Judicial District,,Martha Blair HARRISON,468
+Simpson,D101,District Judge, 49th Judicial District,,Martha Blair HARRISON,85
+Simpson,D102,District Judge, 49th Judicial District,,Martha Blair HARRISON,182
+Simpson,D103,District Judge, 49th Judicial District,,Martha Blair HARRISON,160
+Simpson,D104,District Judge, 49th Judicial District,,Martha Blair HARRISON,214
+Simpson,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Nancy Elizabeth UHLS,33
+Simpson,A103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Nancy Elizabeth UHLS,172
+Simpson,C103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Nancy Elizabeth UHLS,153
+Simpson,C104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Nancy Elizabeth UHLS,435
+Simpson,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,"Joe ""David"" WEBSTER",18
+Simpson,A101,MEMBER BOARD of EDUCATION 5th Educational District,,,"Joe ""David"" WEBSTER",288
+Simpson,A102,MEMBER BOARD of EDUCATION 5th Educational District,,,"Joe ""David"" WEBSTER",211
+Simpson,AB,MAYOR City of Franklin,,,Ronnie CLARK,60
+Simpson,A103,MAYOR City of Franklin,,,Ronnie CLARK,192
+Simpson,B102,MAYOR City of Franklin,,,Ronnie CLARK,101
+Simpson,B103,MAYOR City of Franklin,,,Ronnie CLARK,353
+Simpson,C101,MAYOR City of Franklin,,,Ronnie CLARK,154
+Simpson,C103,MAYOR City of Franklin,,,Ronnie CLARK,177
+Simpson,D103,MAYOR City of Franklin,,,Ronnie CLARK,163
+Simpson,D104,MAYOR City of Franklin,,,Ronnie CLARK,224
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,James COOKE,24
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,James COOKE,92
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,James COOKE,43
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,James COOKE,136
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,James COOKE,68
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,James COOKE,68
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,James COOKE,70
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,James COOKE,99
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,55
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,178
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,105
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,342
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,138
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,157
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,217
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Wendell A. STEWART SR.,199
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,15
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,59
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,31
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,74
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,39
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,53
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,50
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Scott CLEVELAND,63
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,59
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,186
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,103
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,329
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,161
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,176
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,159
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,198
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,59
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,159
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,88
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,386
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,166
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,171
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,141
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Mason BARNES,200
+Simpson,AB,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,70
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,173
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,101
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,400
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,163
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,198
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,189
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Larry DIXON,196

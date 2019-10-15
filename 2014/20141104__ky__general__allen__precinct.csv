@@ -1,0 +1,454 @@
+county,precinct,office,district,party,candidate,votes
+Allen,AB,U.S. Senate,,REP,Mitch McCONNELL,235
+Allen,A101,U.S. Senate,,REP,Mitch McCONNELL,310
+Allen,A102,U.S. Senate,,REP,Mitch McCONNELL,362
+Allen,B101,U.S. Senate,,REP,Mitch McCONNELL,404
+Allen,B102,U.S. Senate,,REP,Mitch McCONNELL,322
+Allen,B103,U.S. Senate,,REP,Mitch McCONNELL,151
+Allen,C101,U.S. Senate,,REP,Mitch McCONNELL,419
+Allen,C102,U.S. Senate,,REP,Mitch McCONNELL,469
+Allen,D101,U.S. Senate,,REP,Mitch McCONNELL,499
+Allen,D102,U.S. Senate,,REP,Mitch McCONNELL,212
+Allen,D103,U.S. Senate,,REP,Mitch McCONNELL,327
+Allen,E101,U.S. Senate,,REP,Mitch McCONNELL,166
+Allen,E102,U.S. Senate,,REP,Mitch McCONNELL,305
+Allen,E103,U.S. Senate,,REP,Mitch McCONNELL,229
+Allen,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,102
+Allen,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,188
+Allen,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,143
+Allen,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,178
+Allen,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,88
+Allen,B103,U.S. Senate,,DEM,Alison Lundergan GRIMES,61
+Allen,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,223
+Allen,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,217
+Allen,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,171
+Allen,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,90
+Allen,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,160
+Allen,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,63
+Allen,E102,U.S. Senate,,DEM,Alison Lundergan GRIMES,113
+Allen,E103,U.S. Senate,,DEM,Alison Lundergan GRIMES,78
+Allen,AB,U.S. Senate,,LIB,David M. PATTERSON,16
+Allen,A101,U.S. Senate,,LIB,David M. PATTERSON,30
+Allen,A102,U.S. Senate,,LIB,David M. PATTERSON,17
+Allen,B101,U.S. Senate,,LIB,David M. PATTERSON,25
+Allen,B102,U.S. Senate,,LIB,David M. PATTERSON,19
+Allen,B103,U.S. Senate,,LIB,David M. PATTERSON,9
+Allen,C101,U.S. Senate,,LIB,David M. PATTERSON,27
+Allen,C102,U.S. Senate,,LIB,David M. PATTERSON,27
+Allen,D101,U.S. Senate,,LIB,David M. PATTERSON,24
+Allen,D102,U.S. Senate,,LIB,David M. PATTERSON,13
+Allen,D103,U.S. Senate,,LIB,David M. PATTERSON,24
+Allen,E101,U.S. Senate,,LIB,David M. PATTERSON,12
+Allen,E102,U.S. Senate,,LIB,David M. PATTERSON,21
+Allen,E103,U.S. Senate,,LIB,David M. PATTERSON,15
+Allen,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,279
+Allen,A101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,407
+Allen,A102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,422
+Allen,B101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,475
+Allen,B102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,366
+Allen,B103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,173
+Allen,C101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,532
+Allen,C102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,579
+Allen,D101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,560
+Allen,D102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,246
+Allen,D103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,373
+Allen,E101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,182
+Allen,E102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,346
+Allen,E103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,273
+Allen,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,71
+Allen,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,113
+Allen,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,81
+Allen,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,109
+Allen,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,50
+Allen,B103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,41
+Allen,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,113
+Allen,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,113
+Allen,D101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,109
+Allen,D102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,58
+Allen,D103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,120
+Allen,E101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,52
+Allen,E102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,95
+Allen,E103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,47
+Allen,AB,State Representative, 22nd Representative District,DEM,Wilson STONE,297
+Allen,A101,State Representative, 22nd Representative District,DEM,Wilson STONE,447
+Allen,A102,State Representative, 22nd Representative District,DEM,Wilson STONE,433
+Allen,B101,State Representative, 22nd Representative District,DEM,Wilson STONE,502
+Allen,B102,State Representative, 22nd Representative District,DEM,Wilson STONE,337
+Allen,B103,State Representative, 22nd Representative District,DEM,Wilson STONE,172
+Allen,C101,State Representative, 22nd Representative District,DEM,Wilson STONE,558
+Allen,C102,State Representative, 22nd Representative District,DEM,Wilson STONE,590
+Allen,D101,State Representative, 22nd Representative District,DEM,Wilson STONE,495
+Allen,D102,State Representative, 22nd Representative District,DEM,Wilson STONE,251
+Allen,D103,State Representative, 22nd Representative District,DEM,Wilson STONE,401
+Allen,E101,State Representative, 22nd Representative District,DEM,Wilson STONE,177
+Allen,E102,State Representative, 22nd Representative District,DEM,Wilson STONE,341
+Allen,E103,State Representative, 22nd Representative District,DEM,Wilson STONE,243
+Allen,AB,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,242
+Allen,A101,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,355
+Allen,A102,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,401
+Allen,B101,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,384
+Allen,B102,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,288
+Allen,B103,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,163
+Allen,C101,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,449
+Allen,C102,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,516
+Allen,D101,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,547
+Allen,D102,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,222
+Allen,D103,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,359
+Allen,E101,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,171
+Allen,E102,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,309
+Allen,E103,PROPERTY VALUATION ADMINISTRATOR,,REP,Tracy W. OLIVER,250
+Allen,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,118
+Allen,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,175
+Allen,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,126
+Allen,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,217
+Allen,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,147
+Allen,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,56
+Allen,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,229
+Allen,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,203
+Allen,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,148
+Allen,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,93
+Allen,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,154
+Allen,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,72
+Allen,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,141
+Allen,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Shane BRITT,75
+Allen,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,281
+Allen,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,433
+Allen,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,414
+Allen,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,485
+Allen,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,326
+Allen,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,174
+Allen,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,543
+Allen,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,559
+Allen,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,473
+Allen,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,255
+Allen,D103,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,394
+Allen,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,171
+Allen,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,329
+Allen,E103,COUNTY JUDGE/EXECUTIVE,,DEM,Johnny HOBDY,245
+Allen,AB,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,287
+Allen,A101,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,427
+Allen,A102,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,435
+Allen,B101,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,467
+Allen,B102,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,346
+Allen,B103,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,171
+Allen,C101,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,524
+Allen,C102,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,567
+Allen,D101,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,520
+Allen,D102,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,257
+Allen,D103,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,369
+Allen,E101,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,183
+Allen,E102,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,366
+Allen,E103,COUNTY ATTORNEY,,REP,William P. HAGENBUCH JR.,269
+Allen,AB,COUNTY CLERK,,REP,Beverly CALVERT,193
+Allen,A101,COUNTY CLERK,,REP,Beverly CALVERT,248
+Allen,A102,COUNTY CLERK,,REP,Beverly CALVERT,216
+Allen,B101,COUNTY CLERK,,REP,Beverly CALVERT,248
+Allen,B102,COUNTY CLERK,,REP,Beverly CALVERT,200
+Allen,B103,COUNTY CLERK,,REP,Beverly CALVERT,100
+Allen,C101,COUNTY CLERK,,REP,Beverly CALVERT,258
+Allen,C102,COUNTY CLERK,,REP,Beverly CALVERT,301
+Allen,D101,COUNTY CLERK,,REP,Beverly CALVERT,300
+Allen,D102,COUNTY CLERK,,REP,Beverly CALVERT,149
+Allen,D103,COUNTY CLERK,,REP,Beverly CALVERT,234
+Allen,E101,COUNTY CLERK,,REP,Beverly CALVERT,141
+Allen,E102,COUNTY CLERK,,REP,Beverly CALVERT,253
+Allen,E103,COUNTY CLERK,,REP,Beverly CALVERT,158
+Allen,AB,COUNTY CLERK,,DEM,Elaine WILLIAMS,168
+Allen,A101,COUNTY CLERK,,DEM,Elaine WILLIAMS,290
+Allen,A102,COUNTY CLERK,,DEM,Elaine WILLIAMS,316
+Allen,B101,COUNTY CLERK,,DEM,Elaine WILLIAMS,361
+Allen,B102,COUNTY CLERK,,DEM,Elaine WILLIAMS,242
+Allen,B103,COUNTY CLERK,,DEM,Elaine WILLIAMS,123
+Allen,C101,COUNTY CLERK,,DEM,Elaine WILLIAMS,430
+Allen,C102,COUNTY CLERK,,DEM,Elaine WILLIAMS,424
+Allen,D101,COUNTY CLERK,,DEM,Elaine WILLIAMS,399
+Allen,D102,COUNTY CLERK,,DEM,Elaine WILLIAMS,169
+Allen,D103,COUNTY CLERK,,DEM,Elaine WILLIAMS,284
+Allen,E101,COUNTY CLERK,,DEM,Elaine WILLIAMS,106
+Allen,E102,COUNTY CLERK,,DEM,Elaine WILLIAMS,201
+Allen,E103,COUNTY CLERK,,DEM,Elaine WILLIAMS,169
+Allen,AB,SHERIFF,,REP,Jeffrey M. COOKE,202
+Allen,A101,SHERIFF,,REP,Jeffrey M. COOKE,301
+Allen,A102,SHERIFF,,REP,Jeffrey M. COOKE,333
+Allen,B101,SHERIFF,,REP,Jeffrey M. COOKE,326
+Allen,B102,SHERIFF,,REP,Jeffrey M. COOKE,241
+Allen,B103,SHERIFF,,REP,Jeffrey M. COOKE,146
+Allen,C101,SHERIFF,,REP,Jeffrey M. COOKE,370
+Allen,C102,SHERIFF,,REP,Jeffrey M. COOKE,433
+Allen,D101,SHERIFF,,REP,Jeffrey M. COOKE,430
+Allen,D102,SHERIFF,,REP,Jeffrey M. COOKE,188
+Allen,D103,SHERIFF,,REP,Jeffrey M. COOKE,265
+Allen,E101,SHERIFF,,REP,Jeffrey M. COOKE,147
+Allen,E102,SHERIFF,,REP,Jeffrey M. COOKE,287
+Allen,E103,SHERIFF,,REP,Jeffrey M. COOKE,225
+Allen,AB,SHERIFF,,DEM,Sam CARTER,158
+Allen,A101,SHERIFF,,DEM,Sam CARTER,232
+Allen,A102,SHERIFF,,DEM,Sam CARTER,196
+Allen,B101,SHERIFF,,DEM,Sam CARTER,283
+Allen,B102,SHERIFF,,DEM,Sam CARTER,196
+Allen,B103,SHERIFF,,DEM,Sam CARTER,75
+Allen,C101,SHERIFF,,DEM,Sam CARTER,311
+Allen,C102,SHERIFF,,DEM,Sam CARTER,292
+Allen,D101,SHERIFF,,DEM,Sam CARTER,265
+Allen,D102,SHERIFF,,DEM,Sam CARTER,127
+Allen,D103,SHERIFF,,DEM,Sam CARTER,251
+Allen,E101,SHERIFF,,DEM,Sam CARTER,99
+Allen,E102,SHERIFF,,DEM,Sam CARTER,164
+Allen,E103,SHERIFF,,DEM,Sam CARTER,102
+Allen,AB,JAILER,,REP,Larry PIPER,291
+Allen,A101,JAILER,,REP,Larry PIPER,443
+Allen,A102,JAILER,,REP,Larry PIPER,451
+Allen,B101,JAILER,,REP,Larry PIPER,477
+Allen,B102,JAILER,,REP,Larry PIPER,359
+Allen,B103,JAILER,,REP,Larry PIPER,179
+Allen,C101,JAILER,,REP,Larry PIPER,541
+Allen,C102,JAILER,,REP,Larry PIPER,587
+Allen,D101,JAILER,,REP,Larry PIPER,548
+Allen,D102,JAILER,,REP,Larry PIPER,271
+Allen,D103,JAILER,,REP,Larry PIPER,382
+Allen,E101,JAILER,,REP,Larry PIPER,196
+Allen,E102,JAILER,,REP,Larry PIPER,384
+Allen,E103,JAILER,,REP,Larry PIPER,276
+Allen,AB,CORONER,,REP,Darren DAVIS,294
+Allen,A101,CORONER,,REP,Darren DAVIS,450
+Allen,A102,CORONER,,REP,Darren DAVIS,437
+Allen,B101,CORONER,,REP,Darren DAVIS,479
+Allen,B102,CORONER,,REP,Darren DAVIS,362
+Allen,B103,CORONER,,REP,Darren DAVIS,170
+Allen,C101,CORONER,,REP,Darren DAVIS,523
+Allen,C102,CORONER,,REP,Darren DAVIS,579
+Allen,D101,CORONER,,REP,Darren DAVIS,538
+Allen,D102,CORONER,,REP,Darren DAVIS,266
+Allen,D103,CORONER,,REP,Darren DAVIS,384
+Allen,E101,CORONER,,REP,Darren DAVIS,187
+Allen,E102,CORONER,,REP,Darren DAVIS,378
+Allen,E103,CORONER,,REP,Darren DAVIS,271
+Allen,AB,MAGISTRATE 1st Magisterial District,,REP,Dennis HARPER,55
+Allen,A101,MAGISTRATE 1st Magisterial District,,REP,Dennis HARPER,421
+Allen,A102,MAGISTRATE 1st Magisterial District,,REP,Dennis HARPER,442
+Allen,AB,CONSTABLE 1st Magisterial District,,REP,Johnathan CARTER,45
+Allen,A101,CONSTABLE 1st Magisterial District,,REP,Johnathan CARTER,405
+Allen,A102,CONSTABLE 1st Magisterial District,,REP,Johnathan CARTER,408
+Allen,AB,MAGISTRATE 2nd Magisterial District,,REP,Freddie W. McGUFFEY,24
+Allen,B101,MAGISTRATE 2nd Magisterial District,,REP,Freddie W. McGUFFEY,286
+Allen,B102,MAGISTRATE 2nd Magisterial District,,REP,Freddie W. McGUFFEY,227
+Allen,B103,MAGISTRATE 2nd Magisterial District,,REP,Freddie W. McGUFFEY,87
+Allen,AB,MAGISTRATE 2nd Magisterial District,,DEM,Ron A. COOK,29
+Allen,B101,MAGISTRATE 2nd Magisterial District,,DEM,Ron A. COOK,301
+Allen,B102,MAGISTRATE 2nd Magisterial District,,DEM,Ron A. COOK,216
+Allen,B103,MAGISTRATE 2nd Magisterial District,,DEM,Ron A. COOK,128
+Allen,AB,CONSTABLE 2nd Magisterial District,,REP,Carla MAYNARD,31
+Allen,B101,CONSTABLE 2nd Magisterial District,,REP,Carla MAYNARD,308
+Allen,B102,CONSTABLE 2nd Magisterial District,,REP,Carla MAYNARD,268
+Allen,B103,CONSTABLE 2nd Magisterial District,,REP,Carla MAYNARD,95
+Allen,AB,CONSTABLE 2nd Magisterial District,,DEM,Matt DAVIS,18
+Allen,B101,CONSTABLE 2nd Magisterial District,,DEM,Matt DAVIS,227
+Allen,B102,CONSTABLE 2nd Magisterial District,,DEM,Matt DAVIS,123
+Allen,B103,CONSTABLE 2nd Magisterial District,,DEM,Matt DAVIS,88
+Allen,AB,MAGISTRATE 3rd Magisterial District,,REP,Tony WOLFE,86
+Allen,C101,MAGISTRATE 3rd Magisterial District,,REP,Tony WOLFE,475
+Allen,C102,MAGISTRATE 3rd Magisterial District,,REP,Tony WOLFE,525
+Allen,AB,CONSTABLE 3rd Magisterial District,,REP,Mike BLANKENSHIP,79
+Allen,C101,CONSTABLE 3rd Magisterial District,,REP,Mike BLANKENSHIP,421
+Allen,C102,CONSTABLE 3rd Magisterial District,,REP,Mike BLANKENSHIP,478
+Allen,AB,CONSTABLE 3rd Magisterial District,,DEM,Richard Dale HERRINGTON,30
+Allen,C101,CONSTABLE 3rd Magisterial District,,DEM,Richard Dale HERRINGTON,173
+Allen,C102,CONSTABLE 3rd Magisterial District,,DEM,Richard Dale HERRINGTON,158
+Allen,AB,MAGISTRATE 4th Magisterial District,,REP,Rickey COOKSEY,64
+Allen,D101,MAGISTRATE 4th Magisterial District,,REP,Rickey COOKSEY,535
+Allen,D102,MAGISTRATE 4th Magisterial District,,REP,Rickey COOKSEY,261
+Allen,D103,MAGISTRATE 4th Magisterial District,,REP,Rickey COOKSEY,397
+Allen,AB,CONSTABLE 4th Magisterial District,,REP,Robert O. STEENBERGEN,61
+Allen,D101,CONSTABLE 4th Magisterial District,,REP,Robert O. STEENBERGEN,478
+Allen,D102,CONSTABLE 4th Magisterial District,,REP,Robert O. STEENBERGEN,243
+Allen,D103,CONSTABLE 4th Magisterial District,,REP,Robert O. STEENBERGEN,373
+Allen,AB,MAGISTRATE 5th Magisterial District,,REP,Roman PERRY JR.,30
+Allen,E101,MAGISTRATE 5th Magisterial District,,REP,Roman PERRY JR.,185
+Allen,E102,MAGISTRATE 5th Magisterial District,,REP,Roman PERRY JR.,355
+Allen,E103,MAGISTRATE 5th Magisterial District,,REP,Roman PERRY JR.,272
+Allen,AB,CONSTABLE 5th Magisterial District,,REP,Fredia MAYNARD,29
+Allen,E101,CONSTABLE 5th Magisterial District,,REP,Fredia MAYNARD,173
+Allen,E102,CONSTABLE 5th Magisterial District,,REP,Fredia MAYNARD,358
+Allen,E103,CONSTABLE 5th Magisterial District,,REP,Fredia MAYNARD,265
+Allen,AB,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,230
+Allen,A101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,330
+Allen,A102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,328
+Allen,B101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,361
+Allen,B102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,254
+Allen,B103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,126
+Allen,C101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,388
+Allen,C102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,422
+Allen,D101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,358
+Allen,D102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,199
+Allen,D103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,307
+Allen,E101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,120
+Allen,E102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,267
+Allen,E103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,189
+Allen,AB,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,217
+Allen,A101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,318
+Allen,A102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,315
+Allen,B101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,342
+Allen,B102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,241
+Allen,B103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,122
+Allen,C101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,362
+Allen,C102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,414
+Allen,D101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,348
+Allen,D102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,195
+Allen,D103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,292
+Allen,E101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,117
+Allen,E102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,263
+Allen,E103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,182
+Allen,AB,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,215
+Allen,A101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,314
+Allen,A102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,309
+Allen,B101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,337
+Allen,B102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,238
+Allen,B103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,120
+Allen,C101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,370
+Allen,C102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,410
+Allen,D101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,338
+Allen,D102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,189
+Allen,D103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,289
+Allen,E101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,116
+Allen,E102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,262
+Allen,E103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,184
+Allen,AB,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,265
+Allen,A101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,391
+Allen,A102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,353
+Allen,B101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,401
+Allen,B102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,286
+Allen,B103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,149
+Allen,C101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,468
+Allen,C102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,485
+Allen,D101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,393
+Allen,D102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,227
+Allen,D103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,346
+Allen,E101,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,149
+Allen,E102,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,308
+Allen,E103,Circuit Judge, 49th Judicial Circuit,,Janet CROCKER,218
+Allen,AB,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,248
+Allen,A101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,359
+Allen,A102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,334
+Allen,B101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,385
+Allen,B102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,277
+Allen,B103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,137
+Allen,C101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,428
+Allen,C102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,458
+Allen,D101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,377
+Allen,D102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,215
+Allen,D103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,317
+Allen,E101,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,133
+Allen,E102,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,292
+Allen,E103,Circuit Judge Family Court, 49th Judicial Circuit,,Sid BRODERSON,210
+Allen,AB,District Judge, 49th Judicial District,,Martha Blair HARRISON,263
+Allen,A101,District Judge, 49th Judicial District,,Martha Blair HARRISON,392
+Allen,A102,District Judge, 49th Judicial District,,Martha Blair HARRISON,349
+Allen,B101,District Judge, 49th Judicial District,,Martha Blair HARRISON,401
+Allen,B102,District Judge, 49th Judicial District,,Martha Blair HARRISON,272
+Allen,B103,District Judge, 49th Judicial District,,Martha Blair HARRISON,145
+Allen,C101,District Judge, 49th Judicial District,,Martha Blair HARRISON,465
+Allen,C102,District Judge, 49th Judicial District,,Martha Blair HARRISON,479
+Allen,D101,District Judge, 49th Judicial District,,Martha Blair HARRISON,390
+Allen,D102,District Judge, 49th Judicial District,,Martha Blair HARRISON,222
+Allen,D103,District Judge, 49th Judicial District,,Martha Blair HARRISON,338
+Allen,E101,District Judge, 49th Judicial District,,Martha Blair HARRISON,143
+Allen,E102,District Judge, 49th Judicial District,,Martha Blair HARRISON,303
+Allen,E103,District Judge, 49th Judicial District,,Martha Blair HARRISON,219
+Allen,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,179
+Allen,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,247
+Allen,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,188
+Allen,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,255
+Allen,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,180
+Allen,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,99
+Allen,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,311
+Allen,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,301
+Allen,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,256
+Allen,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,155
+Allen,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,208
+Allen,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,84
+Allen,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,193
+Allen,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Maxie R. BROWN,158
+Allen,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,121
+Allen,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,191
+Allen,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,166
+Allen,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,209
+Allen,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,109
+Allen,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,58
+Allen,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,212
+Allen,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,241
+Allen,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,227
+Allen,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,133
+Allen,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,170
+Allen,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,77
+Allen,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,167
+Allen,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Brandon SHELTON,104
+Allen,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,178
+Allen,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,246
+Allen,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,212
+Allen,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,272
+Allen,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,176
+Allen,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,87
+Allen,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,344
+Allen,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,383
+Allen,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,296
+Allen,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,141
+Allen,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,215
+Allen,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,76
+Allen,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,161
+Allen,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Michael VICK,127
+Allen,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,218
+Allen,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,287
+Allen,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,269
+Allen,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,354
+Allen,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,275
+Allen,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,138
+Allen,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,391
+Allen,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,376
+Allen,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,361
+Allen,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,167
+Allen,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,276
+Allen,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,109
+Allen,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,212
+Allen,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe YOUNG,160
+Allen,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Brian CELSOR,38
+Allen,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Brian CELSOR,268
+Allen,B103,MEMBER BOARD of EDUCATION 1st Educational District,,,Brian CELSOR,180
+Allen,D103,MEMBER BOARD of EDUCATION 1st Educational District,,,Brian CELSOR,195
+Allen,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Justin MARSH,39
+Allen,A102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Justin MARSH,80
+Allen,B101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Justin MARSH,314
+Allen,B102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Justin MARSH,226
+Allen,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Justin MARSH,144
+Allen,AB,MAYOR City of Scottsville,,,Rob H. CLINE,78
+Allen,A101,MAYOR City of Scottsville,,,Rob H. CLINE,397
+Allen,C101,MAYOR City of Scottsville,,,Rob H. CLINE,472
+Allen,AB,CITY COUNCIL City of Scottsville,,,Ken GOFORTH,65
+Allen,A101,CITY COUNCIL City of Scottsville,,,Ken GOFORTH,285
+Allen,C101,CITY COUNCIL City of Scottsville,,,Ken GOFORTH,419
+Allen,AB,CITY COUNCIL City of Scottsville,,,Michael Anthony McGUIRE,50
+Allen,A101,CITY COUNCIL City of Scottsville,,,Michael Anthony McGUIRE,264
+Allen,C101,CITY COUNCIL City of Scottsville,,,Michael Anthony McGUIRE,341
+Allen,AB,CITY COUNCIL City of Scottsville,,,Franklin L. FOSTER,53
+Allen,A101,CITY COUNCIL City of Scottsville,,,Franklin L. FOSTER,254
+Allen,C101,CITY COUNCIL City of Scottsville,,,Franklin L. FOSTER,375
+Allen,AB,CITY COUNCIL City of Scottsville,,,Tad D. TAYLOR,37
+Allen,A101,CITY COUNCIL City of Scottsville,,,Tad D. TAYLOR,248
+Allen,C101,CITY COUNCIL City of Scottsville,,,Tad D. TAYLOR,272
+Allen,AB,CITY COUNCIL City of Scottsville,,,Rogerlyn Buchanon BRIDDON,54
+Allen,A101,CITY COUNCIL City of Scottsville,,,Rogerlyn Buchanon BRIDDON,227
+Allen,C101,CITY COUNCIL City of Scottsville,,,Rogerlyn Buchanon BRIDDON,311
+Allen,AB,CITY COUNCIL City of Scottsville,,,David DINWIDDIE,44
+Allen,A101,CITY COUNCIL City of Scottsville,,,David DINWIDDIE,188
+Allen,C101,CITY COUNCIL City of Scottsville,,,David DINWIDDIE,251
+Allen,AB,CITY COUNCIL City of Scottsville,,,Beverly Tracy ANDERSON,58
+Allen,A101,CITY COUNCIL City of Scottsville,,,Beverly Tracy ANDERSON,256
+Allen,C101,CITY COUNCIL City of Scottsville,,,Beverly Tracy ANDERSON,353
+Allen,AB,CITY COUNCIL City of Scottsville,,,David M. HUNTSMAN,48
+Allen,A101,CITY COUNCIL City of Scottsville,,,David M. HUNTSMAN,206
+Allen,C101,CITY COUNCIL City of Scottsville,,,David M. HUNTSMAN,281
+Allen,AB,CITY COUNCIL City of Scottsville,,,Mark HUNTSMAN,59
+Allen,A101,CITY COUNCIL City of Scottsville,,,Mark HUNTSMAN,268
+Allen,C101,CITY COUNCIL City of Scottsville,,,Mark HUNTSMAN,380
+Allen,AB,CITY COUNCIL City of Scottsville,,,Stacy STEPHENS,16
+Allen,A101,CITY COUNCIL City of Scottsville,,,Stacy STEPHENS,128
+Allen,C101,CITY COUNCIL City of Scottsville,,,Stacy STEPHENS,108

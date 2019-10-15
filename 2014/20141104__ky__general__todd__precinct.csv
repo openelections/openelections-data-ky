@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes
+Todd,AB,U.S. Senate,,REP,Mitch McCONNELL,85
+Todd,A101,U.S. Senate,,REP,Mitch McCONNELL,174
+Todd,A102,U.S. Senate,,REP,Mitch McCONNELL,136
+Todd,A103,U.S. Senate,,REP,Mitch McCONNELL,151
+Todd,B101,U.S. Senate,,REP,Mitch McCONNELL,261
+Todd,B102,U.S. Senate,,REP,Mitch McCONNELL,197
+Todd,B103,U.S. Senate,,REP,Mitch McCONNELL,52
+Todd,B104,U.S. Senate,,REP,Mitch McCONNELL,57
+Todd,C101,U.S. Senate,,REP,Mitch McCONNELL,260
+Todd,C102,U.S. Senate,,REP,Mitch McCONNELL,234
+Todd,D101,U.S. Senate,,REP,Mitch McCONNELL,60
+Todd,D102,U.S. Senate,,REP,Mitch McCONNELL,398
+Todd,E101,U.S. Senate,,REP,Mitch McCONNELL,141
+Todd,E102,U.S. Senate,,REP,Mitch McCONNELL,162
+Todd,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,40
+Todd,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,61
+Todd,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,73
+Todd,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,52
+Todd,B101,U.S. Senate,,DEM,Alison Lundergan GRIMES,76
+Todd,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,64
+Todd,B103,U.S. Senate,,DEM,Alison Lundergan GRIMES,29
+Todd,B104,U.S. Senate,,DEM,Alison Lundergan GRIMES,13
+Todd,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,147
+Todd,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,108
+Todd,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,34
+Todd,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,230
+Todd,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,78
+Todd,E102,U.S. Senate,,DEM,Alison Lundergan GRIMES,175
+Todd,AB,U.S. Senate,,LIB,David M. PATTERSON,8
+Todd,A101,U.S. Senate,,LIB,David M. PATTERSON,8
+Todd,A102,U.S. Senate,,LIB,David M. PATTERSON,10
+Todd,A103,U.S. Senate,,LIB,David M. PATTERSON,4
+Todd,B101,U.S. Senate,,LIB,David M. PATTERSON,13
+Todd,B102,U.S. Senate,,LIB,David M. PATTERSON,8
+Todd,B103,U.S. Senate,,LIB,David M. PATTERSON,2
+Todd,B104,U.S. Senate,,LIB,David M. PATTERSON,1
+Todd,C101,U.S. Senate,,LIB,David M. PATTERSON,16
+Todd,C102,U.S. Senate,,LIB,David M. PATTERSON,16
+Todd,D101,U.S. Senate,,LIB,David M. PATTERSON,5
+Todd,D102,U.S. Senate,,LIB,David M. PATTERSON,28
+Todd,E101,U.S. Senate,,LIB,David M. PATTERSON,15
+Todd,E102,U.S. Senate,,LIB,David M. PATTERSON,14
+Todd,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,95
+Todd,A101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,197
+Todd,A102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,163
+Todd,A103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,175
+Todd,B101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,284
+Todd,B102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,216
+Todd,B103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,66
+Todd,B104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,54
+Todd,C101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,302
+Todd,C102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,287
+Todd,D101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,70
+Todd,D102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,481
+Todd,E101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,165
+Todd,E102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,192
+Todd,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,29
+Todd,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,39
+Todd,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,53
+Todd,A103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,31
+Todd,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,54
+Todd,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,46
+Todd,B103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,15
+Todd,B104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,15
+Todd,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,115
+Todd,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,73
+Todd,D101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,28
+Todd,D102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,166
+Todd,E101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,61
+Todd,E102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,148
+Todd,AB,State Representative, 16th Representative District,DEM,Martha Jane KING,60
+Todd,A101,State Representative, 16th Representative District,DEM,Martha Jane KING,86
+Todd,A102,State Representative, 16th Representative District,DEM,Martha Jane KING,90
+Todd,A103,State Representative, 16th Representative District,DEM,Martha Jane KING,93
+Todd,B101,State Representative, 16th Representative District,DEM,Martha Jane KING,145
+Todd,B102,State Representative, 16th Representative District,DEM,Martha Jane KING,100
+Todd,B103,State Representative, 16th Representative District,DEM,Martha Jane KING,28
+Todd,B104,State Representative, 16th Representative District,DEM,Martha Jane KING,26
+Todd,C101,State Representative, 16th Representative District,DEM,Martha Jane KING,189
+Todd,C102,State Representative, 16th Representative District,DEM,Martha Jane KING,175
+Todd,D101,State Representative, 16th Representative District,DEM,Martha Jane KING,47
+Todd,D102,State Representative, 16th Representative District,DEM,Martha Jane KING,289
+Todd,E101,State Representative, 16th Representative District,DEM,Martha Jane KING,99
+Todd,E102,State Representative, 16th Representative District,DEM,Martha Jane KING,213
+Todd,AB,State Representative, 16th Representative District,IND,Jason PETRIE,71
+Todd,A101,State Representative, 16th Representative District,IND,Jason PETRIE,150
+Todd,A102,State Representative, 16th Representative District,IND,Jason PETRIE,124
+Todd,A103,State Representative, 16th Representative District,IND,Jason PETRIE,101
+Todd,B101,State Representative, 16th Representative District,IND,Jason PETRIE,194
+Todd,B102,State Representative, 16th Representative District,IND,Jason PETRIE,164
+Todd,B103,State Representative, 16th Representative District,IND,Jason PETRIE,54
+Todd,B104,State Representative, 16th Representative District,IND,Jason PETRIE,41
+Todd,C101,State Representative, 16th Representative District,IND,Jason PETRIE,223
+Todd,C102,State Representative, 16th Representative District,IND,Jason PETRIE,167
+Todd,D101,State Representative, 16th Representative District,IND,Jason PETRIE,48
+Todd,D102,State Representative, 16th Representative District,IND,Jason PETRIE,356
+Todd,E101,State Representative, 16th Representative District,IND,Jason PETRIE,127
+Todd,E102,State Representative, 16th Representative District,IND,Jason PETRIE,133
+Todd,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,110
+Todd,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,202
+Todd,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,184
+Todd,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,159
+Todd,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,275
+Todd,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,210
+Todd,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,72
+Todd,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,53
+Todd,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,350
+Todd,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,291
+Todd,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,81
+Todd,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,563
+Todd,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,189
+Todd,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Perry STOKES,293
+Todd,AB,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,74
+Todd,A101,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,161
+Todd,A102,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,144
+Todd,A103,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,138
+Todd,B101,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,232
+Todd,B102,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,163
+Todd,B103,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,55
+Todd,B104,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,45
+Todd,C101,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,236
+Todd,C102,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,205
+Todd,D101,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,49
+Todd,D102,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,329
+Todd,E101,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,130
+Todd,E102,COUNTY JUDGE/EXECUTIVE,,REP,Daryl GREENFIELD,152
+Todd,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,52
+Todd,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,81
+Todd,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,87
+Todd,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,71
+Todd,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,119
+Todd,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,106
+Todd,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,29
+Todd,B104,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,27
+Todd,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,188
+Todd,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,151
+Todd,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,47
+Todd,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,311
+Todd,E101,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,108
+Todd,E102,COUNTY JUDGE/EXECUTIVE,,DEM,Arthur GREEN,206
+Todd,AB,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,99
+Todd,A101,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,185
+Todd,A102,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,170
+Todd,A103,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,148
+Todd,B101,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,256
+Todd,B102,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,214
+Todd,B103,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,61
+Todd,B104,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,54
+Todd,C101,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,321
+Todd,C102,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,282
+Todd,D101,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,78
+Todd,D102,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,531
+Todd,E101,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,182
+Todd,E102,COUNTY ATTORNEY,,DEM,Harold M. JOHNS,291
+Todd,AB,COUNTY CLERK,,DEM,Kim CHAPMAN,124
+Todd,A101,COUNTY CLERK,,DEM,Kim CHAPMAN,200
+Todd,A102,COUNTY CLERK,,DEM,Kim CHAPMAN,197
+Todd,A103,COUNTY CLERK,,DEM,Kim CHAPMAN,167
+Todd,B101,COUNTY CLERK,,DEM,Kim CHAPMAN,287
+Todd,B102,COUNTY CLERK,,DEM,Kim CHAPMAN,223
+Todd,B103,COUNTY CLERK,,DEM,Kim CHAPMAN,72
+Todd,B104,COUNTY CLERK,,DEM,Kim CHAPMAN,58
+Todd,C101,COUNTY CLERK,,DEM,Kim CHAPMAN,368
+Todd,C102,COUNTY CLERK,,DEM,Kim CHAPMAN,308
+Todd,D101,COUNTY CLERK,,DEM,Kim CHAPMAN,86
+Todd,D102,COUNTY CLERK,,DEM,Kim CHAPMAN,581
+Todd,E101,COUNTY CLERK,,DEM,Kim CHAPMAN,204
+Todd,E102,COUNTY CLERK,,DEM,Kim CHAPMAN,323
+Todd,AB,SHERIFF,,REP,Timothy C. PORTER,61
+Todd,A101,SHERIFF,,REP,Timothy C. PORTER,135
+Todd,A102,SHERIFF,,REP,Timothy C. PORTER,117
+Todd,A103,SHERIFF,,REP,Timothy C. PORTER,114
+Todd,B101,SHERIFF,,REP,Timothy C. PORTER,154
+Todd,B102,SHERIFF,,REP,Timothy C. PORTER,124
+Todd,B103,SHERIFF,,REP,Timothy C. PORTER,45
+Todd,B104,SHERIFF,,REP,Timothy C. PORTER,36
+Todd,C101,SHERIFF,,REP,Timothy C. PORTER,239
+Todd,C102,SHERIFF,,REP,Timothy C. PORTER,173
+Todd,D101,SHERIFF,,REP,Timothy C. PORTER,47
+Todd,D102,SHERIFF,,REP,Timothy C. PORTER,355
+Todd,E101,SHERIFF,,REP,Timothy C. PORTER,97
+Todd,E102,SHERIFF,,REP,Timothy C. PORTER,152
+Todd,AB,SHERIFF,,DEM,Tracy WHITE,72
+Todd,A101,SHERIFF,,DEM,Tracy WHITE,105
+Todd,A102,SHERIFF,,DEM,Tracy WHITE,107
+Todd,A103,SHERIFF,,DEM,Tracy WHITE,94
+Todd,B101,SHERIFF,,DEM,Tracy WHITE,202
+Todd,B102,SHERIFF,,DEM,Tracy WHITE,142
+Todd,B103,SHERIFF,,DEM,Tracy WHITE,38
+Todd,B104,SHERIFF,,DEM,Tracy WHITE,34
+Todd,C101,SHERIFF,,DEM,Tracy WHITE,187
+Todd,C102,SHERIFF,,DEM,Tracy WHITE,189
+Todd,D101,SHERIFF,,DEM,Tracy WHITE,49
+Todd,D102,SHERIFF,,DEM,Tracy WHITE,299
+Todd,E101,SHERIFF,,DEM,Tracy WHITE,134
+Todd,E102,SHERIFF,,DEM,Tracy WHITE,208
+Todd,AB,JAILER,,REP,Jeff PENICK,52
+Todd,A101,JAILER,,REP,Jeff PENICK,73
+Todd,A102,JAILER,,REP,Jeff PENICK,87
+Todd,A103,JAILER,,REP,Jeff PENICK,118
+Todd,B101,JAILER,,REP,Jeff PENICK,178
+Todd,B102,JAILER,,REP,Jeff PENICK,93
+Todd,B103,JAILER,,REP,Jeff PENICK,28
+Todd,B104,JAILER,,REP,Jeff PENICK,31
+Todd,C101,JAILER,,REP,Jeff PENICK,155
+Todd,C102,JAILER,,REP,Jeff PENICK,184
+Todd,D101,JAILER,,REP,Jeff PENICK,44
+Todd,D102,JAILER,,REP,Jeff PENICK,222
+Todd,E101,JAILER,,REP,Jeff PENICK,115
+Todd,E102,JAILER,,REP,Jeff PENICK,141
+Todd,AB,JAILER,,DEM,Greg ALLEN,81
+Todd,A101,JAILER,,DEM,Greg ALLEN,168
+Todd,A102,JAILER,,DEM,Greg ALLEN,140
+Todd,A103,JAILER,,DEM,Greg ALLEN,92
+Todd,B101,JAILER,,DEM,Greg ALLEN,161
+Todd,B102,JAILER,,DEM,Greg ALLEN,169
+Todd,B103,JAILER,,DEM,Greg ALLEN,57
+Todd,B104,JAILER,,DEM,Greg ALLEN,40
+Todd,C101,JAILER,,DEM,Greg ALLEN,271
+Todd,C102,JAILER,,DEM,Greg ALLEN,175
+Todd,D101,JAILER,,DEM,Greg ALLEN,54
+Todd,D102,JAILER,,DEM,Greg ALLEN,442
+Todd,E101,JAILER,,DEM,Greg ALLEN,118
+Todd,E102,JAILER,,DEM,Greg ALLEN,216
+Todd,AB,CORONER,,DEM,Timothy T. WELLS,104
+Todd,A101,CORONER,,DEM,Timothy T. WELLS,188
+Todd,A102,CORONER,,DEM,Timothy T. WELLS,189
+Todd,A103,CORONER,,DEM,Timothy T. WELLS,151
+Todd,B101,CORONER,,DEM,Timothy T. WELLS,256
+Todd,B102,CORONER,,DEM,Timothy T. WELLS,214
+Todd,B103,CORONER,,DEM,Timothy T. WELLS,70
+Todd,B104,CORONER,,DEM,Timothy T. WELLS,50
+Todd,C101,CORONER,,DEM,Timothy T. WELLS,320
+Todd,C102,CORONER,,DEM,Timothy T. WELLS,292
+Todd,D101,CORONER,,DEM,Timothy T. WELLS,75
+Todd,D102,CORONER,,DEM,Timothy T. WELLS,549
+Todd,E101,CORONER,,DEM,Timothy T. WELLS,178
+Todd,E102,CORONER,,DEM,Timothy T. WELLS,292
+Todd,AB,MAGISTRATE 1st Magisterial District,,DEM,Alfred BLAKE,24
+Todd,A101,MAGISTRATE 1st Magisterial District,,DEM,Alfred BLAKE,192
+Todd,A102,MAGISTRATE 1st Magisterial District,,DEM,Alfred BLAKE,189
+Todd,A103,MAGISTRATE 1st Magisterial District,,DEM,Alfred BLAKE,154
+Todd,AB,CONSTABLE 1st Magisterial District,,DEM,Christopher H. LATHAM,20
+Todd,A101,CONSTABLE 1st Magisterial District,,DEM,Christopher H. LATHAM,147
+Todd,A102,CONSTABLE 1st Magisterial District,,DEM,Christopher H. LATHAM,163
+Todd,A103,CONSTABLE 1st Magisterial District,,DEM,Christopher H. LATHAM,137
+Todd,AB,MAGISTRATE 2nd Magisterial District,,REP,Billy BRYANT,7
+Todd,B101,MAGISTRATE 2nd Magisterial District,,REP,Billy BRYANT,176
+Todd,B102,MAGISTRATE 2nd Magisterial District,,REP,Billy BRYANT,163
+Todd,B103,MAGISTRATE 2nd Magisterial District,,REP,Billy BRYANT,44
+Todd,B104,MAGISTRATE 2nd Magisterial District,,REP,Billy BRYANT,41
+Todd,AB,MAGISTRATE 2nd Magisterial District,,DEM,Rex JOHNSON,4
+Todd,B101,MAGISTRATE 2nd Magisterial District,,DEM,Rex JOHNSON,182
+Todd,B102,MAGISTRATE 2nd Magisterial District,,DEM,Rex JOHNSON,105
+Todd,B103,MAGISTRATE 2nd Magisterial District,,DEM,Rex JOHNSON,40
+Todd,B104,MAGISTRATE 2nd Magisterial District,,DEM,Rex JOHNSON,29
+Todd,AB,MAGISTRATE 3rd Magisterial District,,DEM,John CAMP,29
+Todd,C101,MAGISTRATE 3rd Magisterial District,,DEM,John CAMP,322
+Todd,C102,MAGISTRATE 3rd Magisterial District,,DEM,John CAMP,296
+Todd,AB,MAGISTRATE 4th Magisterial District,,DEM,Brent T. SPURLIN,30
+Todd,D101,MAGISTRATE 4th Magisterial District,,DEM,Brent T. SPURLIN,77
+Todd,D102,MAGISTRATE 4th Magisterial District,,DEM,Brent T. SPURLIN,539
+Todd,AB,CONSTABLE 4th Magisterial District,,DEM,Robert W. AMBUEHL,20
+Todd,D101,CONSTABLE 4th Magisterial District,,DEM,Robert W. AMBUEHL,59
+Todd,D102,CONSTABLE 4th Magisterial District,,DEM,Robert W. AMBUEHL,429
+Todd,AB,MAGISTRATE 5th Magisterial District,,DEM,Jimmy TURNER,17
+Todd,E101,MAGISTRATE 5th Magisterial District,,DEM,Jimmy TURNER,186
+Todd,E102,MAGISTRATE 5th Magisterial District,,DEM,Jimmy TURNER,309
+Todd,AB,CONSTABLE 5th Magisterial District,,DEM,Chad JOHNSON,15
+Todd,E101,CONSTABLE 5th Magisterial District,,DEM,Chad JOHNSON,162
+Todd,E102,CONSTABLE 5th Magisterial District,,DEM,Chad JOHNSON,270
+Todd,AB,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,88
+Todd,A101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,149
+Todd,A102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,152
+Todd,A103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,128
+Todd,B101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,211
+Todd,B102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,161
+Todd,B103,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,49
+Todd,B104,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,40
+Todd,C101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,259
+Todd,C102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,245
+Todd,D101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,59
+Todd,D102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,433
+Todd,E101,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,151
+Todd,E102,Justice of the Supreme Court, 1st Supreme Court District,,Bill CUNNINGHAM,244
+Todd,AB,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,82
+Todd,A101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,140
+Todd,A102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,152
+Todd,A103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,119
+Todd,B101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,197
+Todd,B102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,160
+Todd,B103,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,45
+Todd,B104,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,43
+Todd,C101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,233
+Todd,C102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,227
+Todd,D101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,51
+Todd,D102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,401
+Todd,E101,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,136
+Todd,E102,Judge of the Court of Appeals, 1st Appellate District,,Christopher Shea NICKELL,230
+Todd,AB,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,79
+Todd,A101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,135
+Todd,A102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,139
+Todd,A103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,119
+Todd,B101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,206
+Todd,B102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,160
+Todd,B103,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,49
+Todd,B104,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,40
+Todd,C101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,230
+Todd,C102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,220
+Todd,D101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,52
+Todd,D102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,389
+Todd,E101,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,139
+Todd,E102,Judge of the Court of Appeals, 1st Appellate District,,Donna L. DIXON,231
+Todd,AB,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,111
+Todd,A101,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,162
+Todd,A102,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,174
+Todd,A103,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,136
+Todd,B101,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,241
+Todd,B102,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,180
+Todd,B103,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,63
+Todd,B104,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,45
+Todd,C101,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,313
+Todd,C102,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,277
+Todd,D101,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,74
+Todd,D102,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,520
+Todd,E101,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,180
+Todd,E102,Circuit Judge, 7th Judicial Circuit,,Tyler L. GILL,281
+Todd,AB,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,79
+Todd,A101,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,137
+Todd,A102,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,127
+Todd,A103,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,96
+Todd,B101,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,212
+Todd,B102,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,157
+Todd,B103,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,38
+Todd,B104,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,32
+Todd,C101,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,250
+Todd,C102,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,189
+Todd,D101,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,49
+Todd,D102,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,398
+Todd,E101,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,113
+Todd,E102,District Judge, 7th Judicial District,,Kenneth R. WILLIAMS JR.,143
+Todd,AB,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,32
+Todd,A101,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,58
+Todd,A102,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,62
+Todd,A103,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,57
+Todd,B101,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,79
+Todd,B102,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,58
+Todd,B103,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,25
+Todd,B104,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,22
+Todd,C101,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,108
+Todd,C102,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,109
+Todd,D101,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,27
+Todd,D102,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,162
+Todd,E101,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,77
+Todd,E102,District Judge, 7th Judicial District,,Nancy E. CALLOWAY,138
+Todd,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,63
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,125
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,109
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,91
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,161
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,129
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,26
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,25
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,173
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,178
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,35
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,298
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,105
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Kelvin Ray GREENFIELD,159
+Todd,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,80
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,135
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,139
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,108
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,218
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,149
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,55
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,38
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,256
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,239
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,59
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,452
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,128
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Phil TEMPLEMAN,171
+Todd,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Shannon MARTIN,22
+Todd,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,Shannon MARTIN,175
+Todd,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,Shannon MARTIN,164
+Todd,A103,MEMBER BOARD of EDUCATION 1st Educational District,,,Shannon MARTIN,133
+Todd,AB,MAYOR City of Elkton,,,Jackie Boyd WEATHERS,12
+Todd,A102,MAYOR City of Elkton,,,Jackie Boyd WEATHERS,40
+Todd,C101,MAYOR City of Elkton,,,Jackie Boyd WEATHERS,163
+Todd,D102,MAYOR City of Elkton,,,Jackie Boyd WEATHERS,119
+Todd,AB,MAYOR City of Elkton,,,Nancy T. CAMP,13
+Todd,A102,MAYOR City of Elkton,,,Nancy T. CAMP,10
+Todd,C101,MAYOR City of Elkton,,,Nancy T. CAMP,95
+Todd,D102,MAYOR City of Elkton,,,Nancy T. CAMP,95
+Todd,AB,CITY COUNCIL City of Elkton,,,Danny O. LASTER,17
+Todd,A102,CITY COUNCIL City of Elkton,,,Danny O. LASTER,37
+Todd,C101,CITY COUNCIL City of Elkton,,,Danny O. LASTER,164
+Todd,D102,CITY COUNCIL City of Elkton,,,Danny O. LASTER,145
+Todd,AB,CITY COUNCIL City of Elkton,,,Eugene JEFFERSON,15
+Todd,A102,CITY COUNCIL City of Elkton,,,Eugene JEFFERSON,31
+Todd,C101,CITY COUNCIL City of Elkton,,,Eugene JEFFERSON,172
+Todd,D102,CITY COUNCIL City of Elkton,,,Eugene JEFFERSON,127
+Todd,AB,CITY COUNCIL City of Elkton,,,Jimmy R. SCOTT,12
+Todd,A102,CITY COUNCIL City of Elkton,,,Jimmy R. SCOTT,29
+Todd,C101,CITY COUNCIL City of Elkton,,,Jimmy R. SCOTT,169
+Todd,D102,CITY COUNCIL City of Elkton,,,Jimmy R. SCOTT,98
+Todd,AB,CITY COUNCIL City of Elkton,,,David HALEY,14
+Todd,A102,CITY COUNCIL City of Elkton,,,David HALEY,38
+Todd,C101,CITY COUNCIL City of Elkton,,,David HALEY,180
+Todd,D102,CITY COUNCIL City of Elkton,,,David HALEY,122
+Todd,AB,CITY COUNCIL City of Elkton,,,Frank McREYNOLDS,20
+Todd,A102,CITY COUNCIL City of Elkton,,,Frank McREYNOLDS,38
+Todd,C101,CITY COUNCIL City of Elkton,,,Frank McREYNOLDS,161
+Todd,D102,CITY COUNCIL City of Elkton,,,Frank McREYNOLDS,147
+Todd,AB,CITY COUNCIL City of Elkton,,,David POWELL,10
+Todd,A102,CITY COUNCIL City of Elkton,,,David POWELL,30
+Todd,C101,CITY COUNCIL City of Elkton,,,David POWELL,155
+Todd,D102,CITY COUNCIL City of Elkton,,,David POWELL,119
+Todd,AB,CITY COUNCIL City of Elkton,,,Doug GIBSON,17
+Todd,A102,CITY COUNCIL City of Elkton,,,Doug GIBSON,30
+Todd,C101,CITY COUNCIL City of Elkton,,,Doug GIBSON,171
+Todd,D102,CITY COUNCIL City of Elkton,,,Doug GIBSON,121
+Todd,AB,MAYOR City of Guthrie,,,Jimmy COVINGTON,3
+Todd,E101,MAYOR City of Guthrie,,,Jimmy COVINGTON,21
+Todd,E102,MAYOR City of Guthrie,,,Jimmy COVINGTON,166
+Todd,AB,MAYOR City of Guthrie,,,A. Scott MARSHALL,7
+Todd,E101,MAYOR City of Guthrie,,,A. Scott MARSHALL,39
+Todd,E102,MAYOR City of Guthrie,,,A. Scott MARSHALL,164
+Todd,AB,CITY COUNCIL City of Guthrie,,,Mary Charles KING,6
+Todd,E101,CITY COUNCIL City of Guthrie,,,Mary Charles KING,37
+Todd,E102,CITY COUNCIL City of Guthrie,,,Mary Charles KING,186
+Todd,AB,CITY COUNCIL City of Guthrie,,,Bob WHITTLESEY,8
+Todd,E101,CITY COUNCIL City of Guthrie,,,Bob WHITTLESEY,39
+Todd,E102,CITY COUNCIL City of Guthrie,,,Bob WHITTLESEY,211
+Todd,AB,CITY COUNCIL City of Guthrie,,,Mary Elizabeth BOISSEAU,4
+Todd,E101,CITY COUNCIL City of Guthrie,,,Mary Elizabeth BOISSEAU,17
+Todd,E102,CITY COUNCIL City of Guthrie,,,Mary Elizabeth BOISSEAU,97
+Todd,AB,CITY COUNCIL City of Guthrie,,,Norma JOHNSON,8
+Todd,E101,CITY COUNCIL City of Guthrie,,,Norma JOHNSON,35
+Todd,E102,CITY COUNCIL City of Guthrie,,,Norma JOHNSON,226
+Todd,AB,CITY COUNCIL City of Guthrie,,,David ENGLAND,7
+Todd,E101,CITY COUNCIL City of Guthrie,,,David ENGLAND,29
+Todd,E102,CITY COUNCIL City of Guthrie,,,David ENGLAND,157
+Todd,AB,CITY COUNCIL City of Guthrie,,,Stephen R. CHILDERS,2
+Todd,E101,CITY COUNCIL City of Guthrie,,,Stephen R. CHILDERS,20
+Todd,E102,CITY COUNCIL City of Guthrie,,,Stephen R. CHILDERS,89
+Todd,AB,CITY COUNCIL City of Guthrie,,,Mike TINO-CUNNIFFE,0
+Todd,E101,CITY COUNCIL City of Guthrie,,,Mike TINO-CUNNIFFE,21
+Todd,E102,CITY COUNCIL City of Guthrie,,,Mike TINO-CUNNIFFE,93
+Todd,AB,CITY COUNCIL City of Guthrie,,,George Lee WINTERS,7
+Todd,E101,CITY COUNCIL City of Guthrie,,,George Lee WINTERS,22
+Todd,E102,CITY COUNCIL City of Guthrie,,,George Lee WINTERS,128
+Todd,AB,CITY COUNCIL City of Guthrie,,,Albert H. THOMAS,6
+Todd,E101,CITY COUNCIL City of Guthrie,,,Albert H. THOMAS,36
+Todd,E102,CITY COUNCIL City of Guthrie,,,Albert H. THOMAS,147
+Todd,AB,CITY COUNCIL City of Guthrie,,,Terri TILGHMAN-DOUGLAS,4
+Todd,E101,CITY COUNCIL City of Guthrie,,,Terri TILGHMAN-DOUGLAS,32
+Todd,E102,CITY COUNCIL City of Guthrie,,,Terri TILGHMAN-DOUGLAS,167
+Todd,AB,CITY COUNCIL City of Guthrie,,,"James H. ""Jr."" JOHNSON",5
+Todd,E101,CITY COUNCIL City of Guthrie,,,"James H. ""Jr."" JOHNSON",24
+Todd,E102,CITY COUNCIL City of Guthrie,,,"James H. ""Jr."" JOHNSON",156
+Todd,AB,MAYOR City of Trenton,,,Jo Ann HOLDER,1
+Todd,C102,MAYOR City of Trenton,,,Jo Ann HOLDER,83
+Todd,AB,MAYOR City of Trenton,,,Tim PRATHER,2
+Todd,C102,MAYOR City of Trenton,,,Tim PRATHER,67
+Todd,AB,CITY COMMISSIONERS City of Trenton,,,Josh McQUEEN,3
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Josh McQUEEN,100
+Todd,AB,CITY COMMISSIONERS City of Trenton,,,Barry GROVES,0
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Barry GROVES,82
+Todd,AB,CITY COMMISSIONERS City of Trenton,,,Wayne JOHNSON,3
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Wayne JOHNSON,123
+Todd,AB,CITY COMMISSIONERS City of Trenton,,,Peg COOTS,3
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Peg COOTS,111
+Todd,AB,CITY COMMISSIONERS City of Trenton,,,Barbara CROUCH,3
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Barbara CROUCH,79

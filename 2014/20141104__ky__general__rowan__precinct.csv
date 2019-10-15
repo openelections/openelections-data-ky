@@ -1,0 +1,634 @@
+county,precinct,office,district,party,candidate,votes
+Rowan,AB,U.S. Senate,,REP,Mitch McCONNELL,200
+Rowan,A101,U.S. Senate,,REP,Mitch McCONNELL,69
+Rowan,A102,U.S. Senate,,REP,Mitch McCONNELL,315
+Rowan,A103,U.S. Senate,,REP,Mitch McCONNELL,25
+Rowan,A105,U.S. Senate,,REP,Mitch McCONNELL,51
+Rowan,A106,U.S. Senate,,REP,Mitch McCONNELL,341
+Rowan,B102,U.S. Senate,,REP,Mitch McCONNELL,103
+Rowan,B104,U.S. Senate,,REP,Mitch McCONNELL,219
+Rowan,B105,U.S. Senate,,REP,Mitch McCONNELL,244
+Rowan,B106,U.S. Senate,,REP,Mitch McCONNELL,473
+Rowan,C101,U.S. Senate,,REP,Mitch McCONNELL,253
+Rowan,C102,U.S. Senate,,REP,Mitch McCONNELL,114
+Rowan,C103,U.S. Senate,,REP,Mitch McCONNELL,42
+Rowan,C104,U.S. Senate,,REP,Mitch McCONNELL,132
+Rowan,C106,U.S. Senate,,REP,Mitch McCONNELL,192
+Rowan,D101,U.S. Senate,,REP,Mitch McCONNELL,50
+Rowan,D102,U.S. Senate,,REP,Mitch McCONNELL,205
+Rowan,D103,U.S. Senate,,REP,Mitch McCONNELL,305
+Rowan,D104,U.S. Senate,,REP,Mitch McCONNELL,120
+Rowan,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,245
+Rowan,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,153
+Rowan,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,206
+Rowan,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,77
+Rowan,A105,U.S. Senate,,DEM,Alison Lundergan GRIMES,96
+Rowan,A106,U.S. Senate,,DEM,Alison Lundergan GRIMES,305
+Rowan,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,118
+Rowan,B104,U.S. Senate,,DEM,Alison Lundergan GRIMES,283
+Rowan,B105,U.S. Senate,,DEM,Alison Lundergan GRIMES,286
+Rowan,B106,U.S. Senate,,DEM,Alison Lundergan GRIMES,367
+Rowan,C101,U.S. Senate,,DEM,Alison Lundergan GRIMES,305
+Rowan,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,116
+Rowan,C103,U.S. Senate,,DEM,Alison Lundergan GRIMES,82
+Rowan,C104,U.S. Senate,,DEM,Alison Lundergan GRIMES,123
+Rowan,C106,U.S. Senate,,DEM,Alison Lundergan GRIMES,142
+Rowan,D101,U.S. Senate,,DEM,Alison Lundergan GRIMES,83
+Rowan,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,248
+Rowan,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,281
+Rowan,D104,U.S. Senate,,DEM,Alison Lundergan GRIMES,151
+Rowan,AB,U.S. Senate,,LIB,David M. PATTERSON,8
+Rowan,A101,U.S. Senate,,LIB,David M. PATTERSON,7
+Rowan,A102,U.S. Senate,,LIB,David M. PATTERSON,19
+Rowan,A103,U.S. Senate,,LIB,David M. PATTERSON,3
+Rowan,A105,U.S. Senate,,LIB,David M. PATTERSON,4
+Rowan,A106,U.S. Senate,,LIB,David M. PATTERSON,23
+Rowan,B102,U.S. Senate,,LIB,David M. PATTERSON,15
+Rowan,B104,U.S. Senate,,LIB,David M. PATTERSON,20
+Rowan,B105,U.S. Senate,,LIB,David M. PATTERSON,23
+Rowan,B106,U.S. Senate,,LIB,David M. PATTERSON,28
+Rowan,C101,U.S. Senate,,LIB,David M. PATTERSON,24
+Rowan,C102,U.S. Senate,,LIB,David M. PATTERSON,4
+Rowan,C103,U.S. Senate,,LIB,David M. PATTERSON,8
+Rowan,C104,U.S. Senate,,LIB,David M. PATTERSON,18
+Rowan,C106,U.S. Senate,,LIB,David M. PATTERSON,12
+Rowan,D101,U.S. Senate,,LIB,David M. PATTERSON,5
+Rowan,D102,U.S. Senate,,LIB,David M. PATTERSON,17
+Rowan,D103,U.S. Senate,,LIB,David M. PATTERSON,19
+Rowan,D104,U.S. Senate,,LIB,David M. PATTERSON,14
+Rowan,AB,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",258
+Rowan,A101,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",112
+Rowan,A102,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",367
+Rowan,A103,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",48
+Rowan,A105,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",80
+Rowan,A106,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",441
+Rowan,B102,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",127
+Rowan,B104,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",322
+Rowan,B105,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",342
+Rowan,B106,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",604
+Rowan,C101,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",314
+Rowan,C102,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",132
+Rowan,C103,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",61
+Rowan,C104,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",146
+Rowan,C106,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",241
+Rowan,D101,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",74
+Rowan,D102,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",236
+Rowan,D103,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",373
+Rowan,D104,US Representative, 5th Congressional District,REP,"Harold ""Hal"" ROGERS",166
+Rowan,AB,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,173
+Rowan,A101,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,105
+Rowan,A102,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,152
+Rowan,A103,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,52
+Rowan,A105,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,70
+Rowan,A106,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,194
+Rowan,B102,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,92
+Rowan,B104,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,165
+Rowan,B105,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,188
+Rowan,B106,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,238
+Rowan,C101,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,230
+Rowan,C102,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,92
+Rowan,C103,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,67
+Rowan,C104,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,110
+Rowan,C106,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,88
+Rowan,D101,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,60
+Rowan,D102,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,184
+Rowan,D103,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,182
+Rowan,D104,US Representative, 5th Congressional District,DEM,Kenneth S. STEPP,87
+Rowan,AB,State Representative, 99th Representative District,DEM,Rocky ADKINS,362
+Rowan,A101,State Representative, 99th Representative District,DEM,Rocky ADKINS,201
+Rowan,A102,State Representative, 99th Representative District,DEM,Rocky ADKINS,428
+Rowan,A103,State Representative, 99th Representative District,DEM,Rocky ADKINS,92
+Rowan,A105,State Representative, 99th Representative District,DEM,Rocky ADKINS,128
+Rowan,A106,State Representative, 99th Representative District,DEM,Rocky ADKINS,532
+Rowan,B102,State Representative, 99th Representative District,DEM,Rocky ADKINS,180
+Rowan,B104,State Representative, 99th Representative District,DEM,Rocky ADKINS,429
+Rowan,B105,State Representative, 99th Representative District,DEM,Rocky ADKINS,466
+Rowan,B106,State Representative, 99th Representative District,DEM,Rocky ADKINS,662
+Rowan,C101,State Representative, 99th Representative District,DEM,Rocky ADKINS,497
+Rowan,C102,State Representative, 99th Representative District,DEM,Rocky ADKINS,191
+Rowan,C103,State Representative, 99th Representative District,DEM,Rocky ADKINS,111
+Rowan,C104,State Representative, 99th Representative District,DEM,Rocky ADKINS,209
+Rowan,C106,State Representative, 99th Representative District,DEM,Rocky ADKINS,285
+Rowan,D101,State Representative, 99th Representative District,DEM,Rocky ADKINS,126
+Rowan,D102,State Representative, 99th Representative District,DEM,Rocky ADKINS,371
+Rowan,D103,State Representative, 99th Representative District,DEM,Rocky ADKINS,448
+Rowan,D104,State Representative, 99th Representative District,DEM,Rocky ADKINS,219
+Rowan,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,350
+Rowan,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,188
+Rowan,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,405
+Rowan,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,88
+Rowan,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,120
+Rowan,A106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,496
+Rowan,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,179
+Rowan,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,388
+Rowan,B105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,437
+Rowan,B106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,643
+Rowan,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,458
+Rowan,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,189
+Rowan,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,110
+Rowan,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,199
+Rowan,C106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,264
+Rowan,D101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,123
+Rowan,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,339
+Rowan,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,419
+Rowan,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Carmen Eldridge SWIM,194
+Rowan,AB,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,227
+Rowan,A101,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,72
+Rowan,A102,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,292
+Rowan,A103,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,42
+Rowan,A105,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,62
+Rowan,A106,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,354
+Rowan,B102,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,108
+Rowan,B104,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,214
+Rowan,B105,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,229
+Rowan,B106,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,475
+Rowan,C101,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,236
+Rowan,C102,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,100
+Rowan,C103,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,50
+Rowan,C104,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,130
+Rowan,C106,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,176
+Rowan,D101,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,60
+Rowan,D102,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,186
+Rowan,D103,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,311
+Rowan,D104,COUNTY JUDGE/EXECUTIVE,,REP,Richard WHITE,113
+Rowan,AB,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",220
+Rowan,A101,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",148
+Rowan,A102,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",248
+Rowan,A103,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",60
+Rowan,A105,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",91
+Rowan,A106,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",313
+Rowan,B102,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",123
+Rowan,B104,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",298
+Rowan,B105,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",312
+Rowan,B106,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",380
+Rowan,C101,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",345
+Rowan,C102,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",133
+Rowan,C103,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",83
+Rowan,C104,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",141
+Rowan,C106,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",166
+Rowan,D101,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",80
+Rowan,D102,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",287
+Rowan,D103,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",289
+Rowan,D104,COUNTY JUDGE/EXECUTIVE,,DEM,"Walter ""Doc"" BLEVINS",166
+Rowan,AB,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,354
+Rowan,A101,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,187
+Rowan,A102,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,404
+Rowan,A103,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,87
+Rowan,A105,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,118
+Rowan,A106,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,502
+Rowan,B102,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,177
+Rowan,B104,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,384
+Rowan,B105,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,429
+Rowan,B106,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,634
+Rowan,C101,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,439
+Rowan,C102,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,176
+Rowan,C103,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,106
+Rowan,C104,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,196
+Rowan,C106,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,258
+Rowan,D101,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,118
+Rowan,D102,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,337
+Rowan,D103,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,409
+Rowan,D104,COUNTY ATTORNEY,,DEM,Cecil R. WATKINS,201
+Rowan,AB,COUNTY CLERK,,REP,John C. COX,171
+Rowan,A101,COUNTY CLERK,,REP,John C. COX,91
+Rowan,A102,COUNTY CLERK,,REP,John C. COX,262
+Rowan,A103,COUNTY CLERK,,REP,John C. COX,26
+Rowan,A105,COUNTY CLERK,,REP,John C. COX,58
+Rowan,A106,COUNTY CLERK,,REP,John C. COX,325
+Rowan,B102,COUNTY CLERK,,REP,John C. COX,99
+Rowan,B104,COUNTY CLERK,,REP,John C. COX,229
+Rowan,B105,COUNTY CLERK,,REP,John C. COX,250
+Rowan,B106,COUNTY CLERK,,REP,John C. COX,469
+Rowan,C101,COUNTY CLERK,,REP,John C. COX,316
+Rowan,C102,COUNTY CLERK,,REP,John C. COX,82
+Rowan,C103,COUNTY CLERK,,REP,John C. COX,60
+Rowan,C104,COUNTY CLERK,,REP,John C. COX,140
+Rowan,C106,COUNTY CLERK,,REP,John C. COX,170
+Rowan,D101,COUNTY CLERK,,REP,John C. COX,65
+Rowan,D102,COUNTY CLERK,,REP,John C. COX,182
+Rowan,D103,COUNTY CLERK,,REP,John C. COX,320
+Rowan,D104,COUNTY CLERK,,REP,John C. COX,129
+Rowan,AB,COUNTY CLERK,,DEM,Kim DAVIS,278
+Rowan,A101,COUNTY CLERK,,DEM,Kim DAVIS,134
+Rowan,A102,COUNTY CLERK,,DEM,Kim DAVIS,291
+Rowan,A103,COUNTY CLERK,,DEM,Kim DAVIS,75
+Rowan,A105,COUNTY CLERK,,DEM,Kim DAVIS,92
+Rowan,A106,COUNTY CLERK,,DEM,Kim DAVIS,338
+Rowan,B102,COUNTY CLERK,,DEM,Kim DAVIS,130
+Rowan,B104,COUNTY CLERK,,DEM,Kim DAVIS,273
+Rowan,B105,COUNTY CLERK,,DEM,Kim DAVIS,302
+Rowan,B106,COUNTY CLERK,,DEM,Kim DAVIS,381
+Rowan,C101,COUNTY CLERK,,DEM,Kim DAVIS,271
+Rowan,C102,COUNTY CLERK,,DEM,Kim DAVIS,150
+Rowan,C103,COUNTY CLERK,,DEM,Kim DAVIS,76
+Rowan,C104,COUNTY CLERK,,DEM,Kim DAVIS,132
+Rowan,C106,COUNTY CLERK,,DEM,Kim DAVIS,169
+Rowan,D101,COUNTY CLERK,,DEM,Kim DAVIS,79
+Rowan,D102,COUNTY CLERK,,DEM,Kim DAVIS,290
+Rowan,D103,COUNTY CLERK,,DEM,Kim DAVIS,294
+Rowan,D104,COUNTY CLERK,,DEM,Kim DAVIS,154
+Rowan,AB,SHERIFF,,REP,Donnie HALL,230
+Rowan,A101,SHERIFF,,REP,Donnie HALL,67
+Rowan,A102,SHERIFF,,REP,Donnie HALL,264
+Rowan,A103,SHERIFF,,REP,Donnie HALL,22
+Rowan,A105,SHERIFF,,REP,Donnie HALL,69
+Rowan,A106,SHERIFF,,REP,Donnie HALL,314
+Rowan,B102,SHERIFF,,REP,Donnie HALL,104
+Rowan,B104,SHERIFF,,REP,Donnie HALL,208
+Rowan,B105,SHERIFF,,REP,Donnie HALL,247
+Rowan,B106,SHERIFF,,REP,Donnie HALL,468
+Rowan,C101,SHERIFF,,REP,Donnie HALL,293
+Rowan,C102,SHERIFF,,REP,Donnie HALL,110
+Rowan,C103,SHERIFF,,REP,Donnie HALL,56
+Rowan,C104,SHERIFF,,REP,Donnie HALL,149
+Rowan,C106,SHERIFF,,REP,Donnie HALL,177
+Rowan,D101,SHERIFF,,REP,Donnie HALL,51
+Rowan,D102,SHERIFF,,REP,Donnie HALL,234
+Rowan,D103,SHERIFF,,REP,Donnie HALL,345
+Rowan,D104,SHERIFF,,REP,Donnie HALL,152
+Rowan,AB,SHERIFF,,DEM,Matt SPARKS,216
+Rowan,A101,SHERIFF,,DEM,Matt SPARKS,151
+Rowan,A102,SHERIFF,,DEM,Matt SPARKS,280
+Rowan,A103,SHERIFF,,DEM,Matt SPARKS,79
+Rowan,A105,SHERIFF,,DEM,Matt SPARKS,79
+Rowan,A106,SHERIFF,,DEM,Matt SPARKS,339
+Rowan,B102,SHERIFF,,DEM,Matt SPARKS,123
+Rowan,B104,SHERIFF,,DEM,Matt SPARKS,297
+Rowan,B105,SHERIFF,,DEM,Matt SPARKS,299
+Rowan,B106,SHERIFF,,DEM,Matt SPARKS,383
+Rowan,C101,SHERIFF,,DEM,Matt SPARKS,283
+Rowan,C102,SHERIFF,,DEM,Matt SPARKS,121
+Rowan,C103,SHERIFF,,DEM,Matt SPARKS,80
+Rowan,C104,SHERIFF,,DEM,Matt SPARKS,119
+Rowan,C106,SHERIFF,,DEM,Matt SPARKS,156
+Rowan,D101,SHERIFF,,DEM,Matt SPARKS,92
+Rowan,D102,SHERIFF,,DEM,Matt SPARKS,236
+Rowan,D103,SHERIFF,,DEM,Matt SPARKS,265
+Rowan,D104,SHERIFF,,DEM,Matt SPARKS,128
+Rowan,AB,SHERIFF,,IND,Edward W. OWENS,6
+Rowan,A101,SHERIFF,,IND,Edward W. OWENS,9
+Rowan,A102,SHERIFF,,IND,Edward W. OWENS,10
+Rowan,A103,SHERIFF,,IND,Edward W. OWENS,2
+Rowan,A105,SHERIFF,,IND,Edward W. OWENS,4
+Rowan,A106,SHERIFF,,IND,Edward W. OWENS,17
+Rowan,B102,SHERIFF,,IND,Edward W. OWENS,5
+Rowan,B104,SHERIFF,,IND,Edward W. OWENS,10
+Rowan,B105,SHERIFF,,IND,Edward W. OWENS,9
+Rowan,B106,SHERIFF,,IND,Edward W. OWENS,12
+Rowan,C101,SHERIFF,,IND,Edward W. OWENS,17
+Rowan,C102,SHERIFF,,IND,Edward W. OWENS,3
+Rowan,C103,SHERIFF,,IND,Edward W. OWENS,3
+Rowan,C104,SHERIFF,,IND,Edward W. OWENS,6
+Rowan,C106,SHERIFF,,IND,Edward W. OWENS,11
+Rowan,D101,SHERIFF,,IND,Edward W. OWENS,3
+Rowan,D102,SHERIFF,,IND,Edward W. OWENS,11
+Rowan,D103,SHERIFF,,IND,Edward W. OWENS,8
+Rowan,D104,SHERIFF,,IND,Edward W. OWENS,5
+Rowan,AB,JAILER,,REP,Wes COLDIRON,257
+Rowan,A101,JAILER,,REP,Wes COLDIRON,114
+Rowan,A102,JAILER,,REP,Wes COLDIRON,341
+Rowan,A103,JAILER,,REP,Wes COLDIRON,39
+Rowan,A105,JAILER,,REP,Wes COLDIRON,73
+Rowan,A106,JAILER,,REP,Wes COLDIRON,426
+Rowan,B102,JAILER,,REP,Wes COLDIRON,126
+Rowan,B104,JAILER,,REP,Wes COLDIRON,285
+Rowan,B105,JAILER,,REP,Wes COLDIRON,346
+Rowan,B106,JAILER,,REP,Wes COLDIRON,618
+Rowan,C101,JAILER,,REP,Wes COLDIRON,253
+Rowan,C102,JAILER,,REP,Wes COLDIRON,119
+Rowan,C103,JAILER,,REP,Wes COLDIRON,58
+Rowan,C104,JAILER,,REP,Wes COLDIRON,166
+Rowan,C106,JAILER,,REP,Wes COLDIRON,212
+Rowan,D101,JAILER,,REP,Wes COLDIRON,69
+Rowan,D102,JAILER,,REP,Wes COLDIRON,194
+Rowan,D103,JAILER,,REP,Wes COLDIRON,375
+Rowan,D104,JAILER,,REP,Wes COLDIRON,136
+Rowan,AB,JAILER,,DEM,David A. FULTZ,183
+Rowan,A101,JAILER,,DEM,David A. FULTZ,108
+Rowan,A102,JAILER,,DEM,David A. FULTZ,199
+Rowan,A103,JAILER,,DEM,David A. FULTZ,58
+Rowan,A105,JAILER,,DEM,David A. FULTZ,77
+Rowan,A106,JAILER,,DEM,David A. FULTZ,224
+Rowan,B102,JAILER,,DEM,David A. FULTZ,100
+Rowan,B104,JAILER,,DEM,David A. FULTZ,216
+Rowan,B105,JAILER,,DEM,David A. FULTZ,200
+Rowan,B106,JAILER,,DEM,David A. FULTZ,234
+Rowan,C101,JAILER,,DEM,David A. FULTZ,329
+Rowan,C102,JAILER,,DEM,David A. FULTZ,116
+Rowan,C103,JAILER,,DEM,David A. FULTZ,76
+Rowan,C104,JAILER,,DEM,David A. FULTZ,106
+Rowan,C106,JAILER,,DEM,David A. FULTZ,124
+Rowan,D101,JAILER,,DEM,David A. FULTZ,69
+Rowan,D102,JAILER,,DEM,David A. FULTZ,279
+Rowan,D103,JAILER,,DEM,David A. FULTZ,228
+Rowan,D104,JAILER,,DEM,David A. FULTZ,145
+Rowan,AB,CORONER,,DEM,John NORTHCUTT,376
+Rowan,A101,CORONER,,DEM,John NORTHCUTT,206
+Rowan,A102,CORONER,,DEM,John NORTHCUTT,462
+Rowan,A103,CORONER,,DEM,John NORTHCUTT,93
+Rowan,A105,CORONER,,DEM,John NORTHCUTT,132
+Rowan,A106,CORONER,,DEM,John NORTHCUTT,553
+Rowan,B102,CORONER,,DEM,John NORTHCUTT,195
+Rowan,B104,CORONER,,DEM,John NORTHCUTT,421
+Rowan,B105,CORONER,,DEM,John NORTHCUTT,471
+Rowan,B106,CORONER,,DEM,John NORTHCUTT,690
+Rowan,C101,CORONER,,DEM,John NORTHCUTT,490
+Rowan,C102,CORONER,,DEM,John NORTHCUTT,197
+Rowan,C103,CORONER,,DEM,John NORTHCUTT,114
+Rowan,C104,CORONER,,DEM,John NORTHCUTT,217
+Rowan,C106,CORONER,,DEM,John NORTHCUTT,300
+Rowan,D101,CORONER,,DEM,John NORTHCUTT,133
+Rowan,D102,CORONER,,DEM,John NORTHCUTT,381
+Rowan,D103,CORONER,,DEM,John NORTHCUTT,469
+Rowan,D104,CORONER,,DEM,John NORTHCUTT,222
+Rowan,AB,COUNTY SURVEYOR,,DEM,Rich NEWTON,305
+Rowan,A101,COUNTY SURVEYOR,,DEM,Rich NEWTON,176
+Rowan,A102,COUNTY SURVEYOR,,DEM,Rich NEWTON,379
+Rowan,A103,COUNTY SURVEYOR,,DEM,Rich NEWTON,87
+Rowan,A105,COUNTY SURVEYOR,,DEM,Rich NEWTON,109
+Rowan,A106,COUNTY SURVEYOR,,DEM,Rich NEWTON,450
+Rowan,B102,COUNTY SURVEYOR,,DEM,Rich NEWTON,164
+Rowan,B104,COUNTY SURVEYOR,,DEM,Rich NEWTON,335
+Rowan,B105,COUNTY SURVEYOR,,DEM,Rich NEWTON,384
+Rowan,B106,COUNTY SURVEYOR,,DEM,Rich NEWTON,565
+Rowan,C101,COUNTY SURVEYOR,,DEM,Rich NEWTON,390
+Rowan,C102,COUNTY SURVEYOR,,DEM,Rich NEWTON,166
+Rowan,C103,COUNTY SURVEYOR,,DEM,Rich NEWTON,100
+Rowan,C104,COUNTY SURVEYOR,,DEM,Rich NEWTON,178
+Rowan,C106,COUNTY SURVEYOR,,DEM,Rich NEWTON,232
+Rowan,D101,COUNTY SURVEYOR,,DEM,Rich NEWTON,103
+Rowan,D102,COUNTY SURVEYOR,,DEM,Rich NEWTON,289
+Rowan,D103,COUNTY SURVEYOR,,DEM,Rich NEWTON,346
+Rowan,D104,COUNTY SURVEYOR,,DEM,Rich NEWTON,181
+Rowan,AB,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,82
+Rowan,A101,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,184
+Rowan,A102,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,424
+Rowan,A103,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,82
+Rowan,A105,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,119
+Rowan,A106,MAGISTRATE 1st Magisterial District,,DEM,Ray D. WHITE,504
+Rowan,AB,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,63
+Rowan,A101,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,153
+Rowan,A102,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,331
+Rowan,A103,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,70
+Rowan,A105,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,104
+Rowan,A106,CONSTABLE 1st Magisterial District,,DEM,Doug VAUGHAN,408
+Rowan,AB,MAGISTRATE 2nd Magisterial District,,REP,Jerry FLANNERY,76
+Rowan,B102,MAGISTRATE 2nd Magisterial District,,REP,Jerry FLANNERY,90
+Rowan,B104,MAGISTRATE 2nd Magisterial District,,REP,Jerry FLANNERY,234
+Rowan,B105,MAGISTRATE 2nd Magisterial District,,REP,Jerry FLANNERY,239
+Rowan,B106,MAGISTRATE 2nd Magisterial District,,REP,Jerry FLANNERY,386
+Rowan,AB,MAGISTRATE 2nd Magisterial District,,DEM,Darrell GLOVER,78
+Rowan,B102,MAGISTRATE 2nd Magisterial District,,DEM,Darrell GLOVER,141
+Rowan,B104,MAGISTRATE 2nd Magisterial District,,DEM,Darrell GLOVER,265
+Rowan,B105,MAGISTRATE 2nd Magisterial District,,DEM,Darrell GLOVER,309
+Rowan,B106,MAGISTRATE 2nd Magisterial District,,DEM,Darrell GLOVER,471
+Rowan,AB,CONSTABLE 2nd Magisterial District,,DEM,H. Randy STEELE,105
+Rowan,B102,CONSTABLE 2nd Magisterial District,,DEM,H. Randy STEELE,167
+Rowan,B104,CONSTABLE 2nd Magisterial District,,DEM,H. Randy STEELE,369
+Rowan,B105,CONSTABLE 2nd Magisterial District,,DEM,H. Randy STEELE,395
+Rowan,B106,CONSTABLE 2nd Magisterial District,,DEM,H. Randy STEELE,581
+Rowan,AB,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,45
+Rowan,C101,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,203
+Rowan,C102,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,106
+Rowan,C103,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,45
+Rowan,C104,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,108
+Rowan,C106,MAGISTRATE 3rd Magisterial District,,REP,Dennis N. PERRY,157
+Rowan,AB,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,71
+Rowan,C101,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,387
+Rowan,C102,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,126
+Rowan,C103,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,81
+Rowan,C104,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,160
+Rowan,C106,MAGISTRATE 3rd Magisterial District,,DEM,Charlie WINKLEMAN,177
+Rowan,AB,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,80
+Rowan,C101,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,396
+Rowan,C102,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,169
+Rowan,C103,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,99
+Rowan,C104,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,170
+Rowan,C106,CONSTABLE 3rd Magisterial District,,DEM,Bob E. CHRISTIAN,226
+Rowan,AB,MAGISTRATE 4th Magisterial District,,REP,Robert L. KELLER JR.,25
+Rowan,D101,MAGISTRATE 4th Magisterial District,,REP,Robert L. KELLER JR.,68
+Rowan,D102,MAGISTRATE 4th Magisterial District,,REP,Robert L. KELLER JR.,178
+Rowan,D103,MAGISTRATE 4th Magisterial District,,REP,Robert L. KELLER JR.,296
+Rowan,D104,MAGISTRATE 4th Magisterial District,,REP,Robert L. KELLER JR.,110
+Rowan,AB,MAGISTRATE 4th Magisterial District,,DEM,Stanley E. MESSER,52
+Rowan,D101,MAGISTRATE 4th Magisterial District,,DEM,Stanley E. MESSER,71
+Rowan,D102,MAGISTRATE 4th Magisterial District,,DEM,Stanley E. MESSER,281
+Rowan,D103,MAGISTRATE 4th Magisterial District,,DEM,Stanley E. MESSER,271
+Rowan,D104,MAGISTRATE 4th Magisterial District,,DEM,Stanley E. MESSER,157
+Rowan,AB,CONSTABLE 4th Magisterial District,,DEM,Jan DACCI,47
+Rowan,D101,CONSTABLE 4th Magisterial District,,DEM,Jan DACCI,105
+Rowan,D102,CONSTABLE 4th Magisterial District,,DEM,Jan DACCI,294
+Rowan,D103,CONSTABLE 4th Magisterial District,,DEM,Jan DACCI,350
+Rowan,D104,CONSTABLE 4th Magisterial District,,DEM,Jan DACCI,179
+Rowan,AB,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,271
+Rowan,A101,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,151
+Rowan,A102,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,325
+Rowan,A103,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,74
+Rowan,A105,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,100
+Rowan,A106,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,385
+Rowan,B102,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,143
+Rowan,B104,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,290
+Rowan,B105,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,353
+Rowan,B106,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,535
+Rowan,C101,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,345
+Rowan,C102,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,149
+Rowan,C103,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,85
+Rowan,C104,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,145
+Rowan,C106,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,214
+Rowan,D101,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,102
+Rowan,D102,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,257
+Rowan,D103,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,321
+Rowan,D104,Judge of the Court of Appeals, 7th Appellate District,,Sara COMBS,161
+Rowan,AB,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,81
+Rowan,A101,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,35
+Rowan,A102,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,117
+Rowan,A103,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,17
+Rowan,A105,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,27
+Rowan,A106,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,149
+Rowan,B102,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,46
+Rowan,B104,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,98
+Rowan,B105,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,90
+Rowan,B106,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,173
+Rowan,C101,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,123
+Rowan,C102,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,54
+Rowan,C103,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,22
+Rowan,C104,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,66
+Rowan,C106,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,71
+Rowan,D101,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,33
+Rowan,D102,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,75
+Rowan,D103,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,118
+Rowan,D104,Judge of the Court of Appeals, 7th Appellate District,,W. Kent VARNEY,34
+Rowan,AB,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,251
+Rowan,A101,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,145
+Rowan,A102,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,280
+Rowan,A103,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,63
+Rowan,A105,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,95
+Rowan,A106,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,339
+Rowan,B102,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,119
+Rowan,B104,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,262
+Rowan,B105,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,332
+Rowan,B106,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,485
+Rowan,C101,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,304
+Rowan,C102,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,122
+Rowan,C103,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,78
+Rowan,C104,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,128
+Rowan,C106,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,196
+Rowan,D101,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,81
+Rowan,D102,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,238
+Rowan,D103,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,311
+Rowan,D104,Judge of the Court of Appeals, 7th Appellate District,,Janet L. STUMBO,156
+Rowan,AB,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",294
+Rowan,A101,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",164
+Rowan,A102,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",360
+Rowan,A103,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",79
+Rowan,A105,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",101
+Rowan,A106,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",427
+Rowan,B102,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",152
+Rowan,B104,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",319
+Rowan,B105,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",384
+Rowan,B106,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",578
+Rowan,C101,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",369
+Rowan,C102,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",151
+Rowan,C103,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",84
+Rowan,C104,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",161
+Rowan,C106,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",233
+Rowan,D101,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",102
+Rowan,D102,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",274
+Rowan,D103,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",362
+Rowan,D104,Circuit Judge, 21st Judicial Circuit,,"William E. ""Bill"" LANE",174
+Rowan,AB,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,273
+Rowan,A101,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,160
+Rowan,A102,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,351
+Rowan,A103,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,74
+Rowan,A105,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,106
+Rowan,A106,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,410
+Rowan,B102,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,150
+Rowan,B104,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,324
+Rowan,B105,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,384
+Rowan,B106,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,572
+Rowan,C101,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,355
+Rowan,C102,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,146
+Rowan,C103,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,80
+Rowan,C104,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,152
+Rowan,C106,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,224
+Rowan,D101,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,102
+Rowan,D102,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,266
+Rowan,D103,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,337
+Rowan,D104,Circuit Judge, 21st Judicial Circuit,,Beth Lewis MAZE,170
+Rowan,AB,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",304
+Rowan,A101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",164
+Rowan,A102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",391
+Rowan,A103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",79
+Rowan,A105,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",105
+Rowan,A106,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",440
+Rowan,B102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",157
+Rowan,B104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",337
+Rowan,B105,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",400
+Rowan,B106,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",598
+Rowan,C101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",373
+Rowan,C102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",143
+Rowan,C103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",94
+Rowan,C104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",167
+Rowan,C106,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",241
+Rowan,D101,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",109
+Rowan,D102,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",295
+Rowan,D103,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",364
+Rowan,D104,District Judge, 21st Judicial District,,"William ""Willie"" ROBERTS",180
+Rowan,AB,District Judge, 21st Judicial District,,Don BLAIR,315
+Rowan,A101,District Judge, 21st Judicial District,,Don BLAIR,180
+Rowan,A102,District Judge, 21st Judicial District,,Don BLAIR,391
+Rowan,A103,District Judge, 21st Judicial District,,Don BLAIR,79
+Rowan,A105,District Judge, 21st Judicial District,,Don BLAIR,106
+Rowan,A106,District Judge, 21st Judicial District,,Don BLAIR,445
+Rowan,B102,District Judge, 21st Judicial District,,Don BLAIR,163
+Rowan,B104,District Judge, 21st Judicial District,,Don BLAIR,345
+Rowan,B105,District Judge, 21st Judicial District,,Don BLAIR,399
+Rowan,B106,District Judge, 21st Judicial District,,Don BLAIR,603
+Rowan,C101,District Judge, 21st Judicial District,,Don BLAIR,390
+Rowan,C102,District Judge, 21st Judicial District,,Don BLAIR,154
+Rowan,C103,District Judge, 21st Judicial District,,Don BLAIR,94
+Rowan,C104,District Judge, 21st Judicial District,,Don BLAIR,174
+Rowan,C106,District Judge, 21st Judicial District,,Don BLAIR,248
+Rowan,D101,District Judge, 21st Judicial District,,Don BLAIR,104
+Rowan,D102,District Judge, 21st Judicial District,,Don BLAIR,300
+Rowan,D103,District Judge, 21st Judicial District,,Don BLAIR,377
+Rowan,D104,District Judge, 21st Judicial District,,Don BLAIR,182
+Rowan,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,Danny MABRY,40
+Rowan,C101,MEMBER BOARD of EDUCATION 1st Educational District,,,Danny MABRY,371
+Rowan,D101,MEMBER BOARD of EDUCATION 1st Educational District,,,Danny MABRY,104
+Rowan,D104,MEMBER BOARD of EDUCATION 1st Educational District,,,Danny MABRY,179
+Rowan,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,William H. REDWINE,61
+Rowan,A101,MEMBER BOARD of EDUCATION 5th Educational District,,,William H. REDWINE,158
+Rowan,A103,MEMBER BOARD of EDUCATION 5th Educational District,,,William H. REDWINE,77
+Rowan,A105,MEMBER BOARD of EDUCATION 5th Educational District,,,William H. REDWINE,99
+Rowan,B104,MEMBER BOARD of EDUCATION 5th Educational District,,,William H. REDWINE,318
+Rowan,AB,MAYOR City of Lakeview Heights,,,David BOLT,6
+Rowan,B105,MAYOR City of Lakeview Heights,,,David BOLT,104
+Rowan,AB,MAYOR City of Lakeview Heights,,,Kimberly A. BANDURA,1
+Rowan,B105,MAYOR City of Lakeview Heights,,,Kimberly A. BANDURA,36
+Rowan,AB,CITY COMMISSIONERS City of Lakeview Heights,,,Patrick Samual MASON,6
+Rowan,B105,CITY COMMISSIONERS City of Lakeview Heights,,,Patrick Samual MASON,102
+Rowan,AB,CITY COMMISSIONERS City of Lakeview Heights,,,Robert G. CAMUEL,7
+Rowan,B105,CITY COMMISSIONERS City of Lakeview Heights,,,Robert G. CAMUEL,100
+Rowan,AB,CITY COMMISSIONERS City of Lakeview Heights,,,Mary MAGRANE,5
+Rowan,B105,CITY COMMISSIONERS City of Lakeview Heights,,,Mary MAGRANE,89
+Rowan,AB,CITY COMMISSIONERS City of Lakeview Heights,,,Rachel S. WEBB,2
+Rowan,B105,CITY COMMISSIONERS City of Lakeview Heights,,,Rachel S. WEBB,70
+Rowan,AB,CITY COMMISSIONERS City of Lakeview Heights,,,Eddie D. SORRELL,5
+Rowan,B105,CITY COMMISSIONERS City of Lakeview Heights,,,Eddie D. SORRELL,85
+Rowan,AB,MAYOR City of Morehead,,,Jim Tom TRENT,46
+Rowan,A101,MAYOR City of Morehead,,,Jim Tom TRENT,77
+Rowan,A103,MAYOR City of Morehead,,,Jim Tom TRENT,33
+Rowan,A105,MAYOR City of Morehead,,,Jim Tom TRENT,76
+Rowan,B104,MAYOR City of Morehead,,,Jim Tom TRENT,267
+Rowan,C103,MAYOR City of Morehead,,,Jim Tom TRENT,93
+Rowan,D101,MAYOR City of Morehead,,,Jim Tom TRENT,67
+Rowan,AB,MAYOR City of Morehead,,,David C. PERKINS,54
+Rowan,A101,MAYOR City of Morehead,,,David C. PERKINS,139
+Rowan,A103,MAYOR City of Morehead,,,David C. PERKINS,60
+Rowan,A105,MAYOR City of Morehead,,,David C. PERKINS,66
+Rowan,B104,MAYOR City of Morehead,,,David C. PERKINS,222
+Rowan,C103,MAYOR City of Morehead,,,David C. PERKINS,35
+Rowan,D101,MAYOR City of Morehead,,,David C. PERKINS,65
+Rowan,AB,CITY COUNCIL City of Morehead,,,Tom CAREW,69
+Rowan,A101,CITY COUNCIL City of Morehead,,,Tom CAREW,147
+Rowan,A103,CITY COUNCIL City of Morehead,,,Tom CAREW,70
+Rowan,A105,CITY COUNCIL City of Morehead,,,Tom CAREW,94
+Rowan,B104,CITY COUNCIL City of Morehead,,,Tom CAREW,271
+Rowan,C103,CITY COUNCIL City of Morehead,,,Tom CAREW,75
+Rowan,D101,CITY COUNCIL City of Morehead,,,Tom CAREW,82
+Rowan,AB,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,66
+Rowan,A101,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,144
+Rowan,A103,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,79
+Rowan,A105,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,92
+Rowan,B104,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,272
+Rowan,C103,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,71
+Rowan,D101,CITY COUNCIL City of Morehead,,,Carolyn FRANZINI,79
+Rowan,AB,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,67
+Rowan,A101,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,137
+Rowan,A103,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,72
+Rowan,A105,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,88
+Rowan,B104,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,256
+Rowan,C103,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,73
+Rowan,D101,CITY COUNCIL City of Morehead,,,Glen A. TEAGER,79
+Rowan,AB,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",71
+Rowan,A101,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",147
+Rowan,A103,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",72
+Rowan,A105,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",92
+Rowan,B104,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",283
+Rowan,C103,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",80
+Rowan,D101,CITY COUNCIL City of Morehead,,,"Elizabeth ""Beth"" OUSLEY",78
+Rowan,AB,CITY COUNCIL City of Morehead,,,Jan BISHOP,62
+Rowan,A101,CITY COUNCIL City of Morehead,,,Jan BISHOP,141
+Rowan,A103,CITY COUNCIL City of Morehead,,,Jan BISHOP,68
+Rowan,A105,CITY COUNCIL City of Morehead,,,Jan BISHOP,89
+Rowan,B104,CITY COUNCIL City of Morehead,,,Jan BISHOP,251
+Rowan,C103,CITY COUNCIL City of Morehead,,,Jan BISHOP,68
+Rowan,D101,CITY COUNCIL City of Morehead,,,Jan BISHOP,81
+Rowan,AB,CITY COUNCIL City of Morehead,,,Bruce ADKINS,64
+Rowan,A101,CITY COUNCIL City of Morehead,,,Bruce ADKINS,127
+Rowan,A103,CITY COUNCIL City of Morehead,,,Bruce ADKINS,61
+Rowan,A105,CITY COUNCIL City of Morehead,,,Bruce ADKINS,90
+Rowan,B104,CITY COUNCIL City of Morehead,,,Bruce ADKINS,239
+Rowan,C103,CITY COUNCIL City of Morehead,,,Bruce ADKINS,75
+Rowan,D101,CITY COUNCIL City of Morehead,,,Bruce ADKINS,97

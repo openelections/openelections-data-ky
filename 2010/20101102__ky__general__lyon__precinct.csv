@@ -1,0 +1,234 @@
+county,precinct,office,district,party,candidate,votes
+Lyon,AB,U.S. Senate,,REP,Rand PAUL,130
+Lyon,A101,U.S. Senate,,REP,Rand PAUL,274
+Lyon,A102,U.S. Senate,,REP,Rand PAUL,265
+Lyon,B101,U.S. Senate,,REP,Rand PAUL,222
+Lyon,B102,U.S. Senate,,REP,Rand PAUL,276
+Lyon,C101,U.S. Senate,,REP,Rand PAUL,281
+Lyon,C102,U.S. Senate,,REP,Rand PAUL,279
+Lyon,AB,U.S. Senate,,DEM,Jack CONWAY,107
+Lyon,A101,U.S. Senate,,DEM,Jack CONWAY,204
+Lyon,A102,U.S. Senate,,DEM,Jack CONWAY,223
+Lyon,B101,U.S. Senate,,DEM,Jack CONWAY,213
+Lyon,B102,U.S. Senate,,DEM,Jack CONWAY,232
+Lyon,C101,U.S. Senate,,DEM,Jack CONWAY,232
+Lyon,C102,U.S. Senate,,DEM,Jack CONWAY,264
+Lyon,AB,U.S. Senate,,,Billy Ray Wilson,0
+Lyon,A101,U.S. Senate,,,Billy Ray Wilson,0
+Lyon,A102,U.S. Senate,,,Billy Ray Wilson,0
+Lyon,B101,U.S. Senate,,,Billy Ray Wilson,1
+Lyon,B102,U.S. Senate,,,Billy Ray Wilson,0
+Lyon,C101,U.S. Senate,,,Billy Ray Wilson,2
+Lyon,C102,U.S. Senate,,,Billy Ray Wilson,0
+Lyon,AB,US Representative, 1st Congressional District,REP,Edward WHITFIELD,171
+Lyon,A101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,334
+Lyon,A102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,325
+Lyon,B101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,289
+Lyon,B102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,340
+Lyon,C101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,346
+Lyon,C102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,330
+Lyon,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,59
+Lyon,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,150
+Lyon,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,165
+Lyon,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,144
+Lyon,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,164
+Lyon,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,164
+Lyon,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,205
+Lyon,AB,State Representative, 6th Representative District,REP,Monti R. COLLINS,101
+Lyon,A101,State Representative, 6th Representative District,REP,Monti R. COLLINS,221
+Lyon,A102,State Representative, 6th Representative District,REP,Monti R. COLLINS,198
+Lyon,B101,State Representative, 6th Representative District,REP,Monti R. COLLINS,165
+Lyon,B102,State Representative, 6th Representative District,REP,Monti R. COLLINS,191
+Lyon,C101,State Representative, 6th Representative District,REP,Monti R. COLLINS,218
+Lyon,C102,State Representative, 6th Representative District,REP,Monti R. COLLINS,202
+Lyon,AB,State Representative, 6th Representative District,DEM,Will R. COURSEY,135
+Lyon,A101,State Representative, 6th Representative District,DEM,Will R. COURSEY,255
+Lyon,A102,State Representative, 6th Representative District,DEM,Will R. COURSEY,291
+Lyon,B101,State Representative, 6th Representative District,DEM,Will R. COURSEY,273
+Lyon,B102,State Representative, 6th Representative District,DEM,Will R. COURSEY,320
+Lyon,C101,State Representative, 6th Representative District,DEM,Will R. COURSEY,301
+Lyon,C102,State Representative, 6th Representative District,DEM,Will R. COURSEY,339
+Lyon,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,182
+Lyon,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,344
+Lyon,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,378
+Lyon,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,332
+Lyon,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,391
+Lyon,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,403
+Lyon,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Christie FREEMAN,392
+Lyon,AB,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,133
+Lyon,A101,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,266
+Lyon,A102,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,266
+Lyon,B101,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,223
+Lyon,B102,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,241
+Lyon,C101,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,281
+Lyon,C102,COUNTY JUDGE/EXECUTIVE,,REP,Wade WHITE,270
+Lyon,AB,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",104
+Lyon,A101,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",222
+Lyon,A102,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",231
+Lyon,B101,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",229
+Lyon,B102,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",276
+Lyon,C101,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",241
+Lyon,C102,COUNTY JUDGE/EXECUTIVE,,DEM,"James C. ""Jimmy"" CAMPBELL",282
+Lyon,AB,COUNTY ATTORNEY,,DEM,Brandon KNOTH,188
+Lyon,A101,COUNTY ATTORNEY,,DEM,Brandon KNOTH,361
+Lyon,A102,COUNTY ATTORNEY,,DEM,Brandon KNOTH,382
+Lyon,B101,COUNTY ATTORNEY,,DEM,Brandon KNOTH,343
+Lyon,B102,COUNTY ATTORNEY,,DEM,Brandon KNOTH,397
+Lyon,C101,COUNTY ATTORNEY,,DEM,Brandon KNOTH,414
+Lyon,C102,COUNTY ATTORNEY,,DEM,Brandon KNOTH,397
+Lyon,AB,COUNTY CLERK,,DEM,Sarah DEFEW,196
+Lyon,A101,COUNTY CLERK,,DEM,Sarah DEFEW,366
+Lyon,A102,COUNTY CLERK,,DEM,Sarah DEFEW,376
+Lyon,B101,COUNTY CLERK,,DEM,Sarah DEFEW,337
+Lyon,B102,COUNTY CLERK,,DEM,Sarah DEFEW,390
+Lyon,C101,COUNTY CLERK,,DEM,Sarah DEFEW,406
+Lyon,C102,COUNTY CLERK,,DEM,Sarah DEFEW,400
+Lyon,AB,SHERIFF,,DEM,Kent MURPHY,200
+Lyon,A101,SHERIFF,,DEM,Kent MURPHY,366
+Lyon,A102,SHERIFF,,DEM,Kent MURPHY,378
+Lyon,B101,SHERIFF,,DEM,Kent MURPHY,345
+Lyon,B102,SHERIFF,,DEM,Kent MURPHY,391
+Lyon,C101,SHERIFF,,DEM,Kent MURPHY,418
+Lyon,C102,SHERIFF,,DEM,Kent MURPHY,403
+Lyon,AB,JAILER,,DEM,Hank F. O'BRYAN,183
+Lyon,A101,JAILER,,DEM,Hank F. O'BRYAN,337
+Lyon,A102,JAILER,,DEM,Hank F. O'BRYAN,355
+Lyon,B101,JAILER,,DEM,Hank F. O'BRYAN,331
+Lyon,B102,JAILER,,DEM,Hank F. O'BRYAN,375
+Lyon,C101,JAILER,,DEM,Hank F. O'BRYAN,397
+Lyon,C102,JAILER,,DEM,Hank F. O'BRYAN,395
+Lyon,AB,CORONER,,DEM,Ronnie R. PATTON,187
+Lyon,A101,CORONER,,DEM,Ronnie R. PATTON,340
+Lyon,A102,CORONER,,DEM,Ronnie R. PATTON,362
+Lyon,B101,CORONER,,DEM,Ronnie R. PATTON,346
+Lyon,B102,CORONER,,DEM,Ronnie R. PATTON,389
+Lyon,C101,CORONER,,DEM,Ronnie R. PATTON,400
+Lyon,C102,CORONER,,DEM,Ronnie R. PATTON,386
+Lyon,AB,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,A101,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,A102,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,B101,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,B102,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,C101,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,C102,COUNTY SURVEYOR,,,No Candidate Filed,0
+Lyon,AB,MAGISTRATE 1st Magisterial District,,REP,William EDMONDS,51
+Lyon,A101,MAGISTRATE 1st Magisterial District,,REP,William EDMONDS,231
+Lyon,A102,MAGISTRATE 1st Magisterial District,,REP,William EDMONDS,237
+Lyon,AB,MAGISTRATE 1st Magisterial District,,DEM,Charles FERGUSON,47
+Lyon,A101,MAGISTRATE 1st Magisterial District,,DEM,Charles FERGUSON,250
+Lyon,A102,MAGISTRATE 1st Magisterial District,,DEM,Charles FERGUSON,249
+Lyon,AB,CONSTABLE 1st Magisterial District,,,No Candidate Filed,0
+Lyon,A101,CONSTABLE 1st Magisterial District,,,No Candidate Filed,0
+Lyon,A102,CONSTABLE 1st Magisterial District,,,No Candidate Filed,0
+Lyon,AB,MAGISTRATE 2nd Magisterial District,,DEM,Buddy L. NICHOLS,50
+Lyon,B101,MAGISTRATE 2nd Magisterial District,,DEM,Buddy L. NICHOLS,332
+Lyon,B102,MAGISTRATE 2nd Magisterial District,,DEM,Buddy L. NICHOLS,382
+Lyon,AB,CONSTABLE 2nd Magisterial District,,,No Candidate Filed,0
+Lyon,B101,CONSTABLE 2nd Magisterial District,,,No Candidate Filed,0
+Lyon,B102,CONSTABLE 2nd Magisterial District,,,No Candidate Filed,0
+Lyon,AB,MAGISTRATE 3rd Magisterial District,,DEM,Stephen H. CRUCE,52
+Lyon,C101,MAGISTRATE 3rd Magisterial District,,DEM,Stephen H. CRUCE,373
+Lyon,C102,MAGISTRATE 3rd Magisterial District,,DEM,Stephen H. CRUCE,371
+Lyon,AB,CONSTABLE 3rd Magisterial District,,,No Candidate Filed,0
+Lyon,C101,CONSTABLE 3rd Magisterial District,,,No Candidate Filed,0
+Lyon,C102,CONSTABLE 3rd Magisterial District,,,No Candidate Filed,0
+Lyon,AB,CONSTABLE 3rd Magisterial District,,,"Bennett, Bob",0
+Lyon,C101,CONSTABLE 3rd Magisterial District,,,"Bennett, Bob",36
+Lyon,C102,CONSTABLE 3rd Magisterial District,,,"Bennett, Bob",18
+Lyon,AB,District Judge, 56th Judicial District,,James R. REDD III.,148
+Lyon,A101,District Judge, 56th Judicial District,,James R. REDD III.,281
+Lyon,A102,District Judge, 56th Judicial District,,James R. REDD III.,317
+Lyon,B101,District Judge, 56th Judicial District,,James R. REDD III.,270
+Lyon,B102,District Judge, 56th Judicial District,,James R. REDD III.,318
+Lyon,C101,District Judge, 56th Judicial District,,James R. REDD III.,333
+Lyon,C102,District Judge, 56th Judicial District,,James R. REDD III.,367
+Lyon,AB,District Judge, 56th Judicial District,,Jill CLARK,152
+Lyon,A101,District Judge, 56th Judicial District,,Jill CLARK,271
+Lyon,A102,District Judge, 56th Judicial District,,Jill CLARK,280
+Lyon,B101,District Judge, 56th Judicial District,,Jill CLARK,264
+Lyon,B102,District Judge, 56th Judicial District,,Jill CLARK,287
+Lyon,C101,District Judge, 56th Judicial District,,Jill CLARK,322
+Lyon,C102,District Judge, 56th Judicial District,,Jill CLARK,350
+Lyon,AB,MEMBER BOARD of EDUCATION 1st Educational District,,,"James Dennis ""Denny"" GRAY",55
+Lyon,A101,MEMBER BOARD of EDUCATION 1st Educational District,,,"James Dennis ""Denny"" GRAY",275
+Lyon,A102,MEMBER BOARD of EDUCATION 1st Educational District,,,"James Dennis ""Denny"" GRAY",174
+Lyon,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Amy DEFEW,23
+Lyon,A102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Amy DEFEW,126
+Lyon,B102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Amy DEFEW,182
+Lyon,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,"J R ""Jim"" BANNISTER",24
+Lyon,B102,MEMBER BOARD of EDUCATION 3rd Educational District,,,"J R ""Jim"" BANNISTER",54
+Lyon,C102,MEMBER BOARD of EDUCATION 3rd Educational District,,,"J R ""Jim"" BANNISTER",216
+Lyon,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Greta Hipp BURKHART,11
+Lyon,B102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Greta Hipp BURKHART,45
+Lyon,C102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Greta Hipp BURKHART,142
+Lyon,AB,MEMBER BOARD of EDUCATION 5th Educational District,,,George GLASS,35
+Lyon,B101,MEMBER BOARD of EDUCATION 5th Educational District,,,George GLASS,272
+Lyon,B102,MEMBER BOARD of EDUCATION 5th Educational District,,,George GLASS,60
+Lyon,AB,MAYOR City of Eddyville,,,"Judith T. ""Judi"" STONE",21
+Lyon,A102,MAYOR City of Eddyville,,,"Judith T. ""Judi"" STONE",30
+Lyon,B101,MAYOR City of Eddyville,,,"Judith T. ""Judi"" STONE",173
+Lyon,B102,MAYOR City of Eddyville,,,"Judith T. ""Judi"" STONE",87
+Lyon,AB,MAYOR City of Eddyville,,,Nancy Elizabeth SLATON,19
+Lyon,A102,MAYOR City of Eddyville,,,Nancy Elizabeth SLATON,16
+Lyon,B101,MAYOR City of Eddyville,,,Nancy Elizabeth SLATON,256
+Lyon,B102,MAYOR City of Eddyville,,,Nancy Elizabeth SLATON,45
+Lyon,AB,CITY COUNCIL City of Eddyville,,,India HYDE,36
+Lyon,A102,CITY COUNCIL City of Eddyville,,,India HYDE,31
+Lyon,B101,CITY COUNCIL City of Eddyville,,,India HYDE,296
+Lyon,B102,CITY COUNCIL City of Eddyville,,,India HYDE,87
+Lyon,AB,CITY COUNCIL City of Eddyville,,,Bob McDONALD,33
+Lyon,A102,CITY COUNCIL City of Eddyville,,,Bob McDONALD,27
+Lyon,B101,CITY COUNCIL City of Eddyville,,,Bob McDONALD,248
+Lyon,B102,CITY COUNCIL City of Eddyville,,,Bob McDONALD,79
+Lyon,AB,CITY COUNCIL City of Eddyville,,,Ron CLAXTON,35
+Lyon,A102,CITY COUNCIL City of Eddyville,,,Ron CLAXTON,29
+Lyon,B101,CITY COUNCIL City of Eddyville,,,Ron CLAXTON,269
+Lyon,B102,CITY COUNCIL City of Eddyville,,,Ron CLAXTON,88
+Lyon,AB,CITY COUNCIL City of Eddyville,,,Allen AYCOCK,35
+Lyon,A102,CITY COUNCIL City of Eddyville,,,Allen AYCOCK,25
+Lyon,B101,CITY COUNCIL City of Eddyville,,,Allen AYCOCK,243
+Lyon,B102,CITY COUNCIL City of Eddyville,,,Allen AYCOCK,81
+Lyon,AB,CITY COUNCIL City of Eddyville,,,Michael GREENE,35
+Lyon,A102,CITY COUNCIL City of Eddyville,,,Michael GREENE,30
+Lyon,B101,CITY COUNCIL City of Eddyville,,,Michael GREENE,266
+Lyon,B102,CITY COUNCIL City of Eddyville,,,Michael GREENE,84
+Lyon,AB,CITY COUNCIL City of Eddyville,,,LaFon COOMER,32
+Lyon,A102,CITY COUNCIL City of Eddyville,,,LaFon COOMER,23
+Lyon,B101,CITY COUNCIL City of Eddyville,,,LaFon COOMER,254
+Lyon,B102,CITY COUNCIL City of Eddyville,,,LaFon COOMER,79
+Lyon,AB,MAYOR City of Kuttawa,,,"Lee ""Butch"" McCOLLUM",10
+Lyon,B102,MAYOR City of Kuttawa,,,"Lee ""Butch"" McCOLLUM",0
+Lyon,C101,MAYOR City of Kuttawa,,,"Lee ""Butch"" McCOLLUM",115
+Lyon,C102,MAYOR City of Kuttawa,,,"Lee ""Butch"" McCOLLUM",69
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,Jerry PHELPS,9
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,Jerry PHELPS,0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,Jerry PHELPS,111
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,Jerry PHELPS,46
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,Jed R. WALKER,10
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,Jed R. WALKER,0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,Jed R. WALKER,116
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,Jed R. WALKER,60
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,Betty J. GUESS,7
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,Betty J. GUESS,0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,Betty J. GUESS,118
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,Betty J. GUESS,66
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,Jeff FRALICK,9
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,Jeff FRALICK,0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,Jeff FRALICK,114
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,Jeff FRALICK,53
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,Skyla Jenkins GRIEF,8
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,Skyla Jenkins GRIEF,0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,Skyla Jenkins GRIEF,111
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,Skyla Jenkins GRIEF,57
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,"Spencer, Vernon",2
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,"Spencer, Vernon",0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,"Spencer, Vernon",19
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,"Spencer, Vernon",36
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,"Riley, Jaison",3
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,"Riley, Jaison",0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,"Riley, Jaison",23
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,"Riley, Jaison",40
+Lyon,AB,CITY COUNCIL City of Kuttawa,,,"Yates, Becky",0
+Lyon,B102,CITY COUNCIL City of Kuttawa,,,"Yates, Becky",0
+Lyon,C101,CITY COUNCIL City of Kuttawa,,,"Yates, Becky",44
+Lyon,C102,CITY COUNCIL City of Kuttawa,,,"Yates, Becky",17

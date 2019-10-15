@@ -1,0 +1,605 @@
+county,precinct,office,district,party,candidate,votes
+Mason,AB,U.S. Senate,,REP,Mitch McCONNELL,181
+Mason,A101,U.S. Senate,,REP,Mitch McCONNELL,70
+Mason,A102,U.S. Senate,,REP,Mitch McCONNELL,15
+Mason,A103,U.S. Senate,,REP,Mitch McCONNELL,197
+Mason,A104,U.S. Senate,,REP,Mitch McCONNELL,138
+Mason,A105,U.S. Senate,,REP,Mitch McCONNELL,184
+Mason,B102,U.S. Senate,,REP,Mitch McCONNELL,95
+Mason,B103,U.S. Senate,,REP,Mitch McCONNELL,74
+Mason,B104,U.S. Senate,,REP,Mitch McCONNELL,148
+Mason,B105,U.S. Senate,,REP,Mitch McCONNELL,122
+Mason,B106,U.S. Senate,,REP,Mitch McCONNELL,250
+Mason,B107,U.S. Senate,,REP,Mitch McCONNELL,345
+Mason,B108,U.S. Senate,,REP,Mitch McCONNELL,396
+Mason,C102,U.S. Senate,,REP,Mitch McCONNELL,386
+Mason,C103,U.S. Senate,,REP,Mitch McCONNELL,253
+Mason,C104,U.S. Senate,,REP,Mitch McCONNELL,168
+Mason,C105,U.S. Senate,,REP,Mitch McCONNELL,257
+Mason,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,159
+Mason,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,123
+Mason,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,67
+Mason,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,239
+Mason,A104,U.S. Senate,,DEM,Alison Lundergan GRIMES,141
+Mason,A105,U.S. Senate,,DEM,Alison Lundergan GRIMES,105
+Mason,B102,U.S. Senate,,DEM,Alison Lundergan GRIMES,41
+Mason,B103,U.S. Senate,,DEM,Alison Lundergan GRIMES,47
+Mason,B104,U.S. Senate,,DEM,Alison Lundergan GRIMES,90
+Mason,B105,U.S. Senate,,DEM,Alison Lundergan GRIMES,36
+Mason,B106,U.S. Senate,,DEM,Alison Lundergan GRIMES,140
+Mason,B107,U.S. Senate,,DEM,Alison Lundergan GRIMES,195
+Mason,B108,U.S. Senate,,DEM,Alison Lundergan GRIMES,213
+Mason,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,222
+Mason,C103,U.S. Senate,,DEM,Alison Lundergan GRIMES,143
+Mason,C104,U.S. Senate,,DEM,Alison Lundergan GRIMES,94
+Mason,C105,U.S. Senate,,DEM,Alison Lundergan GRIMES,137
+Mason,AB,U.S. Senate,,LIB,David M. PATTERSON,2
+Mason,A101,U.S. Senate,,LIB,David M. PATTERSON,8
+Mason,A102,U.S. Senate,,LIB,David M. PATTERSON,4
+Mason,A103,U.S. Senate,,LIB,David M. PATTERSON,14
+Mason,A104,U.S. Senate,,LIB,David M. PATTERSON,11
+Mason,A105,U.S. Senate,,LIB,David M. PATTERSON,4
+Mason,B102,U.S. Senate,,LIB,David M. PATTERSON,10
+Mason,B103,U.S. Senate,,LIB,David M. PATTERSON,9
+Mason,B104,U.S. Senate,,LIB,David M. PATTERSON,3
+Mason,B105,U.S. Senate,,LIB,David M. PATTERSON,6
+Mason,B106,U.S. Senate,,LIB,David M. PATTERSON,7
+Mason,B107,U.S. Senate,,LIB,David M. PATTERSON,17
+Mason,B108,U.S. Senate,,LIB,David M. PATTERSON,11
+Mason,C102,U.S. Senate,,LIB,David M. PATTERSON,14
+Mason,C103,U.S. Senate,,LIB,David M. PATTERSON,11
+Mason,C104,U.S. Senate,,LIB,David M. PATTERSON,2
+Mason,C105,U.S. Senate,,LIB,David M. PATTERSON,16
+Mason,AB,US Representative, 4th Congressional District,REP,Thomas MASSIE,205
+Mason,A101,US Representative, 4th Congressional District,REP,Thomas MASSIE,85
+Mason,A102,US Representative, 4th Congressional District,REP,Thomas MASSIE,25
+Mason,A103,US Representative, 4th Congressional District,REP,Thomas MASSIE,208
+Mason,A104,US Representative, 4th Congressional District,REP,Thomas MASSIE,144
+Mason,A105,US Representative, 4th Congressional District,REP,Thomas MASSIE,214
+Mason,B102,US Representative, 4th Congressional District,REP,Thomas MASSIE,97
+Mason,B103,US Representative, 4th Congressional District,REP,Thomas MASSIE,80
+Mason,B104,US Representative, 4th Congressional District,REP,Thomas MASSIE,161
+Mason,B105,US Representative, 4th Congressional District,REP,Thomas MASSIE,119
+Mason,B106,US Representative, 4th Congressional District,REP,Thomas MASSIE,278
+Mason,B107,US Representative, 4th Congressional District,REP,Thomas MASSIE,387
+Mason,B108,US Representative, 4th Congressional District,REP,Thomas MASSIE,401
+Mason,C102,US Representative, 4th Congressional District,REP,Thomas MASSIE,407
+Mason,C103,US Representative, 4th Congressional District,REP,Thomas MASSIE,263
+Mason,C104,US Representative, 4th Congressional District,REP,Thomas MASSIE,176
+Mason,C105,US Representative, 4th Congressional District,REP,Thomas MASSIE,275
+Mason,AB,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,118
+Mason,A101,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,106
+Mason,A102,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,55
+Mason,A103,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,214
+Mason,A104,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,105
+Mason,A105,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,73
+Mason,B102,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,42
+Mason,B103,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,39
+Mason,B104,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,67
+Mason,B105,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,31
+Mason,B106,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,105
+Mason,B107,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,145
+Mason,B108,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,152
+Mason,C102,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,162
+Mason,C103,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,121
+Mason,C104,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,66
+Mason,C105,US Representative, 4th Congressional District,DEM,Peter NEWBERRY,118
+Mason,AB,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",295
+Mason,A101,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",170
+Mason,A102,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",84
+Mason,A103,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",391
+Mason,A104,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",243
+Mason,A105,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",250
+Mason,B102,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",125
+Mason,B103,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",111
+Mason,B104,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",195
+Mason,B105,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",127
+Mason,B106,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",326
+Mason,B107,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",489
+Mason,B108,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",517
+Mason,C102,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",524
+Mason,C103,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",347
+Mason,C104,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",213
+Mason,C105,State Representative, 70th Representative District,DEM,"Mitchel B. ""Mike"" DENHAM",346
+Mason,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,269
+Mason,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,165
+Mason,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,73
+Mason,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,359
+Mason,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,213
+Mason,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,234
+Mason,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,112
+Mason,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,101
+Mason,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,187
+Mason,B105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,122
+Mason,B106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,299
+Mason,B107,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,452
+Mason,B108,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,470
+Mason,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,471
+Mason,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,310
+Mason,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,187
+Mason,C105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Troy CRACRAFT,310
+Mason,AB,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",184
+Mason,A101,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",122
+Mason,A102,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",58
+Mason,A103,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",235
+Mason,A104,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",160
+Mason,A105,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",145
+Mason,B102,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",62
+Mason,B103,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",52
+Mason,B104,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",76
+Mason,B105,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",55
+Mason,B106,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",123
+Mason,B107,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",224
+Mason,B108,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",233
+Mason,C102,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",290
+Mason,C103,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",174
+Mason,C104,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",110
+Mason,C105,COUNTY JUDGE/EXECUTIVE,,DEM,"J. L. ""Buddy"" GALLENSTEIN",162
+Mason,AB,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,145
+Mason,A101,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,80
+Mason,A102,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,28
+Mason,A103,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,210
+Mason,A104,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,126
+Mason,A105,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,144
+Mason,B102,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,74
+Mason,B103,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,75
+Mason,B104,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,160
+Mason,B105,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,100
+Mason,B106,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,269
+Mason,B107,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,325
+Mason,B108,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,371
+Mason,C102,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,316
+Mason,C103,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,225
+Mason,C104,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,142
+Mason,C105,COUNTY JUDGE/EXECUTIVE,,IND,Joseph Patrick PFEFFER,226
+Mason,AB,COUNTY ATTORNEY,,DEM,John F. ESTILL,279
+Mason,A101,COUNTY ATTORNEY,,DEM,John F. ESTILL,155
+Mason,A102,COUNTY ATTORNEY,,DEM,John F. ESTILL,75
+Mason,A103,COUNTY ATTORNEY,,DEM,John F. ESTILL,366
+Mason,A104,COUNTY ATTORNEY,,DEM,John F. ESTILL,213
+Mason,A105,COUNTY ATTORNEY,,DEM,John F. ESTILL,232
+Mason,B102,COUNTY ATTORNEY,,DEM,John F. ESTILL,104
+Mason,B103,COUNTY ATTORNEY,,DEM,John F. ESTILL,104
+Mason,B104,COUNTY ATTORNEY,,DEM,John F. ESTILL,175
+Mason,B105,COUNTY ATTORNEY,,DEM,John F. ESTILL,111
+Mason,B106,COUNTY ATTORNEY,,DEM,John F. ESTILL,289
+Mason,B107,COUNTY ATTORNEY,,DEM,John F. ESTILL,451
+Mason,B108,COUNTY ATTORNEY,,DEM,John F. ESTILL,470
+Mason,C102,COUNTY ATTORNEY,,DEM,John F. ESTILL,476
+Mason,C103,COUNTY ATTORNEY,,DEM,John F. ESTILL,313
+Mason,C104,COUNTY ATTORNEY,,DEM,John F. ESTILL,195
+Mason,C105,COUNTY ATTORNEY,,DEM,John F. ESTILL,302
+Mason,AB,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,288
+Mason,A101,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,162
+Mason,A102,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,76
+Mason,A103,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,378
+Mason,A104,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,211
+Mason,A105,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,234
+Mason,B102,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,111
+Mason,B103,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,100
+Mason,B104,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,181
+Mason,B105,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,113
+Mason,B106,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,283
+Mason,B107,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,428
+Mason,B108,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,462
+Mason,C102,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,473
+Mason,C103,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,307
+Mason,C104,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,183
+Mason,C105,COUNTY CLERK,,DEM,Stephanie G. SCHUMACHER,301
+Mason,AB,SHERIFF,,DEM,Patrick BOGGS,285
+Mason,A101,SHERIFF,,DEM,Patrick BOGGS,168
+Mason,A102,SHERIFF,,DEM,Patrick BOGGS,79
+Mason,A103,SHERIFF,,DEM,Patrick BOGGS,384
+Mason,A104,SHERIFF,,DEM,Patrick BOGGS,230
+Mason,A105,SHERIFF,,DEM,Patrick BOGGS,249
+Mason,B102,SHERIFF,,DEM,Patrick BOGGS,114
+Mason,B103,SHERIFF,,DEM,Patrick BOGGS,103
+Mason,B104,SHERIFF,,DEM,Patrick BOGGS,198
+Mason,B105,SHERIFF,,DEM,Patrick BOGGS,120
+Mason,B106,SHERIFF,,DEM,Patrick BOGGS,315
+Mason,B107,SHERIFF,,DEM,Patrick BOGGS,486
+Mason,B108,SHERIFF,,DEM,Patrick BOGGS,500
+Mason,C102,SHERIFF,,DEM,Patrick BOGGS,510
+Mason,C103,SHERIFF,,DEM,Patrick BOGGS,331
+Mason,C104,SHERIFF,,DEM,Patrick BOGGS,205
+Mason,C105,SHERIFF,,DEM,Patrick BOGGS,325
+Mason,AB,JAILER,,REP,Scott POE,115
+Mason,A101,JAILER,,REP,Scott POE,46
+Mason,A102,JAILER,,REP,Scott POE,21
+Mason,A103,JAILER,,REP,Scott POE,120
+Mason,A104,JAILER,,REP,Scott POE,105
+Mason,A105,JAILER,,REP,Scott POE,96
+Mason,B102,JAILER,,REP,Scott POE,46
+Mason,B103,JAILER,,REP,Scott POE,41
+Mason,B104,JAILER,,REP,Scott POE,81
+Mason,B105,JAILER,,REP,Scott POE,63
+Mason,B106,JAILER,,REP,Scott POE,139
+Mason,B107,JAILER,,REP,Scott POE,166
+Mason,B108,JAILER,,REP,Scott POE,195
+Mason,C102,JAILER,,REP,Scott POE,193
+Mason,C103,JAILER,,REP,Scott POE,164
+Mason,C104,JAILER,,REP,Scott POE,80
+Mason,C105,JAILER,,REP,Scott POE,166
+Mason,AB,JAILER,,DEM,Lisa O'HEARN,225
+Mason,A101,JAILER,,DEM,Lisa O'HEARN,156
+Mason,A102,JAILER,,DEM,Lisa O'HEARN,66
+Mason,A103,JAILER,,DEM,Lisa O'HEARN,327
+Mason,A104,JAILER,,DEM,Lisa O'HEARN,182
+Mason,A105,JAILER,,DEM,Lisa O'HEARN,195
+Mason,B102,JAILER,,DEM,Lisa O'HEARN,96
+Mason,B103,JAILER,,DEM,Lisa O'HEARN,87
+Mason,B104,JAILER,,DEM,Lisa O'HEARN,149
+Mason,B105,JAILER,,DEM,Lisa O'HEARN,93
+Mason,B106,JAILER,,DEM,Lisa O'HEARN,250
+Mason,B107,JAILER,,DEM,Lisa O'HEARN,393
+Mason,B108,JAILER,,DEM,Lisa O'HEARN,416
+Mason,C102,JAILER,,DEM,Lisa O'HEARN,426
+Mason,C103,JAILER,,DEM,Lisa O'HEARN,233
+Mason,C104,JAILER,,DEM,Lisa O'HEARN,177
+Mason,C105,JAILER,,DEM,Lisa O'HEARN,237
+Mason,AB,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,255
+Mason,A101,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,160
+Mason,A102,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,75
+Mason,A103,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,374
+Mason,A104,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,210
+Mason,A105,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,223
+Mason,B102,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,101
+Mason,B103,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,100
+Mason,B104,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,171
+Mason,B105,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,101
+Mason,B106,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,257
+Mason,B107,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,428
+Mason,B108,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,438
+Mason,C102,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,451
+Mason,C103,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,289
+Mason,C104,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,181
+Mason,C105,COUNTY COMMISSIONER 1st District,,DEM,Pat McKAY IV.,282
+Mason,AB,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,197
+Mason,A101,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,76
+Mason,A102,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,24
+Mason,A103,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,203
+Mason,A104,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,137
+Mason,A105,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,173
+Mason,B102,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,95
+Mason,B103,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,86
+Mason,B104,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,159
+Mason,B105,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,117
+Mason,B106,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,285
+Mason,B107,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,324
+Mason,B108,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,343
+Mason,C102,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,351
+Mason,C103,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,252
+Mason,C104,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,166
+Mason,C105,COUNTY COMMISSIONER 2nd District,,REP,Annette Crawford WALTERS,251
+Mason,AB,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,131
+Mason,A101,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,114
+Mason,A102,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,49
+Mason,A103,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,216
+Mason,A104,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,120
+Mason,A105,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,104
+Mason,B102,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,42
+Mason,B103,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,38
+Mason,B104,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,76
+Mason,B105,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,41
+Mason,B106,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,111
+Mason,B107,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,211
+Mason,B108,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,236
+Mason,C102,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,214
+Mason,C103,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,136
+Mason,C104,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,78
+Mason,C105,COUNTY COMMISSIONER 2nd District,,DEM,Tom SIMS,133
+Mason,AB,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,244
+Mason,A101,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,154
+Mason,A102,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,74
+Mason,A103,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,351
+Mason,A104,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,200
+Mason,A105,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,221
+Mason,B102,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,107
+Mason,B103,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,98
+Mason,B104,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,174
+Mason,B105,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,108
+Mason,B106,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,266
+Mason,B107,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,424
+Mason,B108,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,424
+Mason,C102,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,426
+Mason,C103,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,287
+Mason,C104,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,198
+Mason,C105,COUNTY COMMISSIONER 3rd District,,DEM,Phil DAY,319
+Mason,AB,CORONER,,DEM,David E. LAWRENCE,254
+Mason,A101,CORONER,,DEM,David E. LAWRENCE,160
+Mason,A102,CORONER,,DEM,David E. LAWRENCE,76
+Mason,A103,CORONER,,DEM,David E. LAWRENCE,376
+Mason,A104,CORONER,,DEM,David E. LAWRENCE,221
+Mason,A105,CORONER,,DEM,David E. LAWRENCE,220
+Mason,B102,CORONER,,DEM,David E. LAWRENCE,107
+Mason,B103,CORONER,,DEM,David E. LAWRENCE,97
+Mason,B104,CORONER,,DEM,David E. LAWRENCE,172
+Mason,B105,CORONER,,DEM,David E. LAWRENCE,109
+Mason,B106,CORONER,,DEM,David E. LAWRENCE,273
+Mason,B107,CORONER,,DEM,David E. LAWRENCE,426
+Mason,B108,CORONER,,DEM,David E. LAWRENCE,449
+Mason,C102,CORONER,,DEM,David E. LAWRENCE,466
+Mason,C103,CORONER,,DEM,David E. LAWRENCE,300
+Mason,C104,CORONER,,DEM,David E. LAWRENCE,193
+Mason,C105,CORONER,,DEM,David E. LAWRENCE,302
+Mason,AB,COUNTY SURVEYOR,,DEM,R. David HORD,262
+Mason,A101,COUNTY SURVEYOR,,DEM,R. David HORD,142
+Mason,A102,COUNTY SURVEYOR,,DEM,R. David HORD,68
+Mason,A103,COUNTY SURVEYOR,,DEM,R. David HORD,345
+Mason,A104,COUNTY SURVEYOR,,DEM,R. David HORD,201
+Mason,A105,COUNTY SURVEYOR,,DEM,R. David HORD,226
+Mason,B102,COUNTY SURVEYOR,,DEM,R. David HORD,104
+Mason,B103,COUNTY SURVEYOR,,DEM,R. David HORD,100
+Mason,B104,COUNTY SURVEYOR,,DEM,R. David HORD,180
+Mason,B105,COUNTY SURVEYOR,,DEM,R. David HORD,113
+Mason,B106,COUNTY SURVEYOR,,DEM,R. David HORD,272
+Mason,B107,COUNTY SURVEYOR,,DEM,R. David HORD,426
+Mason,B108,COUNTY SURVEYOR,,DEM,R. David HORD,436
+Mason,C102,COUNTY SURVEYOR,,DEM,R. David HORD,443
+Mason,C103,COUNTY SURVEYOR,,DEM,R. David HORD,292
+Mason,C104,COUNTY SURVEYOR,,DEM,R. David HORD,187
+Mason,C105,COUNTY SURVEYOR,,DEM,R. David HORD,295
+Mason,AB,JUSTICE of the PEACE 3rd Magisterial District,,REP,James GRUENKE,60
+Mason,C102,JUSTICE of the PEACE 3rd Magisterial District,,REP,James GRUENKE,338
+Mason,C103,JUSTICE of the PEACE 3rd Magisterial District,,REP,James GRUENKE,255
+Mason,C104,JUSTICE of the PEACE 3rd Magisterial District,,REP,James GRUENKE,169
+Mason,C105,JUSTICE of the PEACE 3rd Magisterial District,,REP,James GRUENKE,266
+Mason,AB,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,52
+Mason,A101,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,39
+Mason,A102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,18
+Mason,A103,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,120
+Mason,A104,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,64
+Mason,A105,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,53
+Mason,B102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,34
+Mason,B103,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,24
+Mason,B104,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,63
+Mason,B105,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,38
+Mason,B106,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,77
+Mason,B107,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,116
+Mason,B108,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,112
+Mason,C102,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,105
+Mason,C103,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,93
+Mason,C104,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,48
+Mason,C105,Justice of the Supreme Court, 6th Supreme Court District,,Teresa L. CUNNINGHAM,98
+Mason,AB,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,151
+Mason,A101,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,96
+Mason,A102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,34
+Mason,A103,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,190
+Mason,A104,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,116
+Mason,A105,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,149
+Mason,B102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,62
+Mason,B103,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,65
+Mason,B104,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,89
+Mason,B105,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,58
+Mason,B106,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,174
+Mason,B107,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,249
+Mason,B108,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,285
+Mason,C102,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,273
+Mason,C103,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,163
+Mason,C104,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,108
+Mason,C105,Justice of the Supreme Court, 6th Supreme Court District,,Michelle M. KELLER,165
+Mason,AB,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,136
+Mason,A101,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,88
+Mason,A102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,38
+Mason,A103,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,219
+Mason,A104,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,127
+Mason,A105,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,136
+Mason,B102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,56
+Mason,B103,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,64
+Mason,B104,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,97
+Mason,B105,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,63
+Mason,B106,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,161
+Mason,B107,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,238
+Mason,B108,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,255
+Mason,C102,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,244
+Mason,C103,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,184
+Mason,C104,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,108
+Mason,C105,Judge of the Court of Appeals, 6th Appellate District,,Allison JONES,182
+Mason,AB,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,61
+Mason,A101,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,33
+Mason,A102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,10
+Mason,A103,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,85
+Mason,A104,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,58
+Mason,A105,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,65
+Mason,B102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,41
+Mason,B103,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,21
+Mason,B104,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,58
+Mason,B105,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,36
+Mason,B106,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,87
+Mason,B107,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,121
+Mason,B108,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,127
+Mason,C102,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,122
+Mason,C103,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,80
+Mason,C104,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,47
+Mason,C105,Judge of the Court of Appeals, 6th Appellate District,,Justin SANDERS,92
+Mason,AB,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,170
+Mason,A101,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,101
+Mason,A102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,42
+Mason,A103,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,232
+Mason,A104,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,143
+Mason,A105,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,150
+Mason,B102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,80
+Mason,B103,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,77
+Mason,B104,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,125
+Mason,B105,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,76
+Mason,B106,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,185
+Mason,B107,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,295
+Mason,B108,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,288
+Mason,C102,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,291
+Mason,C103,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,208
+Mason,C104,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,132
+Mason,C105,Judge of the Court of Appeals, 6th Appellate District,,Joy A. MOORE,220
+Mason,AB,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,256
+Mason,A101,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,143
+Mason,A102,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,61
+Mason,A103,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,332
+Mason,A104,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,186
+Mason,A105,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,220
+Mason,B102,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,104
+Mason,B103,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,97
+Mason,B104,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,165
+Mason,B105,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,100
+Mason,B106,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,270
+Mason,B107,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,408
+Mason,B108,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,445
+Mason,C102,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,452
+Mason,C103,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,284
+Mason,C104,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,174
+Mason,C105,Circuit Judge, 19th Judicial Circuit,,Stockton B. WOOD,290
+Mason,AB,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,177
+Mason,A101,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,120
+Mason,A102,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,47
+Mason,A103,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,251
+Mason,A104,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,148
+Mason,A105,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,136
+Mason,B102,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,59
+Mason,B103,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,54
+Mason,B104,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,110
+Mason,B105,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,66
+Mason,B106,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,179
+Mason,B107,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,269
+Mason,B108,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,312
+Mason,C102,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,311
+Mason,C103,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,170
+Mason,C104,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,118
+Mason,C105,District Judge, 19th Judicial District,,Steven Royse ZWEIGART,184
+Mason,AB,District Judge, 19th Judicial District,,Frank H. McCARTNEY,122
+Mason,A101,District Judge, 19th Judicial District,,Frank H. McCARTNEY,61
+Mason,A102,District Judge, 19th Judicial District,,Frank H. McCARTNEY,19
+Mason,A103,District Judge, 19th Judicial District,,Frank H. McCARTNEY,151
+Mason,A104,District Judge, 19th Judicial District,,Frank H. McCARTNEY,102
+Mason,A105,District Judge, 19th Judicial District,,Frank H. McCARTNEY,122
+Mason,B102,District Judge, 19th Judicial District,,Frank H. McCARTNEY,63
+Mason,B103,District Judge, 19th Judicial District,,Frank H. McCARTNEY,58
+Mason,B104,District Judge, 19th Judicial District,,Frank H. McCARTNEY,90
+Mason,B105,District Judge, 19th Judicial District,,Frank H. McCARTNEY,55
+Mason,B106,District Judge, 19th Judicial District,,Frank H. McCARTNEY,160
+Mason,B107,District Judge, 19th Judicial District,,Frank H. McCARTNEY,216
+Mason,B108,District Judge, 19th Judicial District,,Frank H. McCARTNEY,235
+Mason,C102,District Judge, 19th Judicial District,,Frank H. McCARTNEY,232
+Mason,C103,District Judge, 19th Judicial District,,Frank H. McCARTNEY,183
+Mason,C104,District Judge, 19th Judicial District,,Frank H. McCARTNEY,100
+Mason,C105,District Judge, 19th Judicial District,,Frank H. McCARTNEY,162
+Mason,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Vicky G. LOWE,69
+Mason,B108,MEMBER BOARD of EDUCATION 2nd Educational District,,,Vicky G. LOWE,377
+Mason,C103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Vicky G. LOWE,291
+Mason,C105,MEMBER BOARD of EDUCATION 2nd Educational District,,,Vicky G. LOWE,141
+Mason,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Curtis M. ""Kirby"" ROSSER",24
+Mason,B105,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Curtis M. ""Kirby"" ROSSER",100
+Mason,B106,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Curtis M. ""Kirby"" ROSSER",231
+Mason,B107,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Curtis M. ""Kirby"" ROSSER",357
+Mason,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lester ALLEY,9
+Mason,B105,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lester ALLEY,21
+Mason,B106,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lester ALLEY,76
+Mason,B107,MEMBER BOARD of EDUCATION 3rd Educational District,,,Lester ALLEY,102
+Mason,AB,MAYOR City of Maysville,,,David CARTMELL,160
+Mason,A101,MAYOR City of Maysville,,,David CARTMELL,143
+Mason,A102,MAYOR City of Maysville,,,David CARTMELL,61
+Mason,A103,MAYOR City of Maysville,,,David CARTMELL,315
+Mason,A104,MAYOR City of Maysville,,,David CARTMELL,204
+Mason,A105,MAYOR City of Maysville,,,David CARTMELL,110
+Mason,B107,MAYOR City of Maysville,,,David CARTMELL,208
+Mason,B108,MAYOR City of Maysville,,,David CARTMELL,377
+Mason,C102,MAYOR City of Maysville,,,David CARTMELL,420
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,45
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,66
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,29
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,124
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,158
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,26
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,66
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,117
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Robbie DETRO,99
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,79
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,57
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,27
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,133
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,99
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,55
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,65
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,163
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Johnny MAINS,197
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,150
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,137
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,56
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,309
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,174
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,100
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,170
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,321
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Victor C. McKAY,365
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,111
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,84
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,34
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,191
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,120
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,68
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,125
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,249
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Kelly ASHLEY,285
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,49
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,65
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,15
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,107
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,61
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,53
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,110
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,192
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Scott B. SCHROER,175
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,108
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,77
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,34
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,170
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,111
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,67
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,119
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,244
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Judy C. PFEFFER,259
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,113
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,116
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,27
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,220
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,126
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,100
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,147
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,295
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Robert BOONE,342
+Mason,AB,CITY COMMISSIONERS City of Maysville,,,Tim HILES,34
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Tim HILES,48
+Mason,A102,CITY COMMISSIONERS City of Maysville,,,Tim HILES,15
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Tim HILES,122
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Tim HILES,100
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Tim HILES,31
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Tim HILES,78
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Tim HILES,121
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Tim HILES,116
+Mason,AB,MAYOR City of Germantown,,,John S. HINSON,0
+Mason,B104,MAYOR City of Germantown,,,John S. HINSON,28
+Mason,AB,CITY COMMISSIONERS City of Germantown,,,Vickie HUFF,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Vickie HUFF,18
+Mason,AB,CITY COMMISSIONERS City of Germantown,,,Jason REED,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Jason REED,20
+Mason,AB,CITY COMMISSIONERS City of Germantown,,,Mary Ann MAINS,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Mary Ann MAINS,23
+Mason,AB,CITY COMMISSIONERS City of Germantown,,,Terri DUNCAN,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Terri DUNCAN,23
+Mason,AB,MAYOR City of Dover,,,Frankie L. REED,1
+Mason,B102,MAYOR City of Dover,,,Frankie L. REED,57
+Mason,AB,MAYOR City of Dover,,,Edward SIDELL,1
+Mason,B102,MAYOR City of Dover,,,Edward SIDELL,33
+Mason,AB,CITY COMMISSIONERS City of Dover,,,Nelson E. DAVIS,0
+Mason,B102,CITY COMMISSIONERS City of Dover,,,Nelson E. DAVIS,40
+Mason,AB,CITY COMMISSIONERS City of Dover,,,Denette ARTHUR,2
+Mason,B102,CITY COMMISSIONERS City of Dover,,,Denette ARTHUR,75
+Mason,AB,CITY COMMISSIONERS City of Dover,,,Ronald D. McPHERSON,2
+Mason,B102,CITY COMMISSIONERS City of Dover,,,Ronald D. McPHERSON,46
+Mason,AB,MAYOR City of Sardis,,,Gary TUEL,0
+Mason,B105,MAYOR City of Sardis,,,Gary TUEL,16
+Mason,AB,CITY COMMISSIONERS City of Sardis,,,Jerry CRACRAFT,0
+Mason,B105,CITY COMMISSIONERS City of Sardis,,,Jerry CRACRAFT,15
+Mason,AB,CITY COMMISSIONERS City of Sardis,,,Steven TUEL,0
+Mason,B105,CITY COMMISSIONERS City of Sardis,,,Steven TUEL,17
+Mason,AB,CITY COMMISSIONERS City of Sardis,,,Shawn C. WHITE,0
+Mason,B105,CITY COMMISSIONERS City of Sardis,,,Shawn C. WHITE,17
+Mason,AB,CITY COMMISSIONERS City of Sardis,,,Raejean A. E. CRACRAFT,0
+Mason,B105,CITY COMMISSIONERS City of Sardis,,,Raejean A. E. CRACRAFT,17

@@ -1,0 +1,602 @@
+county,precinct,office,district,party,candidate,votes
+Marion,AB,U.S. Senate,,REP,Mitch McCONNELL,110
+Marion,A101,U.S. Senate,,REP,Mitch McCONNELL,122
+Marion,A102,U.S. Senate,,REP,Mitch McCONNELL,151
+Marion,A103,U.S. Senate,,REP,Mitch McCONNELL,193
+Marion,A104,U.S. Senate,,REP,Mitch McCONNELL,97
+Marion,C102,U.S. Senate,,REP,Mitch McCONNELL,189
+Marion,C103,U.S. Senate,,REP,Mitch McCONNELL,122
+Marion,C105,U.S. Senate,,REP,Mitch McCONNELL,79
+Marion,D102,U.S. Senate,,REP,Mitch McCONNELL,244
+Marion,D103,U.S. Senate,,REP,Mitch McCONNELL,169
+Marion,D104,U.S. Senate,,REP,Mitch McCONNELL,95
+Marion,E101,U.S. Senate,,REP,Mitch McCONNELL,137
+Marion,E102,U.S. Senate,,REP,Mitch McCONNELL,162
+Marion,E103,U.S. Senate,,REP,Mitch McCONNELL,203
+Marion,H101,U.S. Senate,,REP,Mitch McCONNELL,146
+Marion,H102,U.S. Senate,,REP,Mitch McCONNELL,91
+Marion,H103,U.S. Senate,,REP,Mitch McCONNELL,65
+Marion,H104,U.S. Senate,,REP,Mitch McCONNELL,123
+Marion,AB,U.S. Senate,,DEM,Alison Lundergan GRIMES,169
+Marion,A101,U.S. Senate,,DEM,Alison Lundergan GRIMES,106
+Marion,A102,U.S. Senate,,DEM,Alison Lundergan GRIMES,104
+Marion,A103,U.S. Senate,,DEM,Alison Lundergan GRIMES,137
+Marion,A104,U.S. Senate,,DEM,Alison Lundergan GRIMES,147
+Marion,C102,U.S. Senate,,DEM,Alison Lundergan GRIMES,406
+Marion,C103,U.S. Senate,,DEM,Alison Lundergan GRIMES,161
+Marion,C105,U.S. Senate,,DEM,Alison Lundergan GRIMES,95
+Marion,D102,U.S. Senate,,DEM,Alison Lundergan GRIMES,273
+Marion,D103,U.S. Senate,,DEM,Alison Lundergan GRIMES,201
+Marion,D104,U.S. Senate,,DEM,Alison Lundergan GRIMES,140
+Marion,E101,U.S. Senate,,DEM,Alison Lundergan GRIMES,153
+Marion,E102,U.S. Senate,,DEM,Alison Lundergan GRIMES,216
+Marion,E103,U.S. Senate,,DEM,Alison Lundergan GRIMES,297
+Marion,H101,U.S. Senate,,DEM,Alison Lundergan GRIMES,260
+Marion,H102,U.S. Senate,,DEM,Alison Lundergan GRIMES,136
+Marion,H103,U.S. Senate,,DEM,Alison Lundergan GRIMES,121
+Marion,H104,U.S. Senate,,DEM,Alison Lundergan GRIMES,145
+Marion,AB,U.S. Senate,,LIB,David M. PATTERSON,5
+Marion,A101,U.S. Senate,,LIB,David M. PATTERSON,4
+Marion,A102,U.S. Senate,,LIB,David M. PATTERSON,8
+Marion,A103,U.S. Senate,,LIB,David M. PATTERSON,4
+Marion,A104,U.S. Senate,,LIB,David M. PATTERSON,6
+Marion,C102,U.S. Senate,,LIB,David M. PATTERSON,16
+Marion,C103,U.S. Senate,,LIB,David M. PATTERSON,4
+Marion,C105,U.S. Senate,,LIB,David M. PATTERSON,3
+Marion,D102,U.S. Senate,,LIB,David M. PATTERSON,16
+Marion,D103,U.S. Senate,,LIB,David M. PATTERSON,13
+Marion,D104,U.S. Senate,,LIB,David M. PATTERSON,4
+Marion,E101,U.S. Senate,,LIB,David M. PATTERSON,9
+Marion,E102,U.S. Senate,,LIB,David M. PATTERSON,6
+Marion,E103,U.S. Senate,,LIB,David M. PATTERSON,12
+Marion,H101,U.S. Senate,,LIB,David M. PATTERSON,11
+Marion,H102,U.S. Senate,,LIB,David M. PATTERSON,7
+Marion,H103,U.S. Senate,,LIB,David M. PATTERSON,7
+Marion,H104,U.S. Senate,,LIB,David M. PATTERSON,5
+Marion,AB,US Representative, 1st Congressional District,REP,Ed WHITFIELD,100
+Marion,A101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,118
+Marion,A102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,134
+Marion,A103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,173
+Marion,A104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,87
+Marion,C102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,209
+Marion,C103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,121
+Marion,C105,US Representative, 1st Congressional District,REP,Ed WHITFIELD,93
+Marion,D102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,265
+Marion,D103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,158
+Marion,D104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,100
+Marion,E101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,137
+Marion,E102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,164
+Marion,E103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,200
+Marion,H101,US Representative, 1st Congressional District,REP,Ed WHITFIELD,151
+Marion,H102,US Representative, 1st Congressional District,REP,Ed WHITFIELD,86
+Marion,H103,US Representative, 1st Congressional District,REP,Ed WHITFIELD,60
+Marion,H104,US Representative, 1st Congressional District,REP,Ed WHITFIELD,115
+Marion,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,157
+Marion,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,92
+Marion,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,95
+Marion,A103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,134
+Marion,A104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,131
+Marion,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,329
+Marion,C103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,127
+Marion,C105,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,61
+Marion,D102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,214
+Marion,D103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,186
+Marion,D104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,111
+Marion,E101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,110
+Marion,E102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,194
+Marion,E103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,266
+Marion,H101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,216
+Marion,H102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,129
+Marion,H103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,112
+Marion,H104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,136
+Marion,AB,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,219
+Marion,A101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,191
+Marion,A102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,226
+Marion,A103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,302
+Marion,A104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,190
+Marion,C102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,470
+Marion,C103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,236
+Marion,C105,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,154
+Marion,D102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,452
+Marion,D103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,314
+Marion,D104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,183
+Marion,E101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,227
+Marion,E102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,316
+Marion,E103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,396
+Marion,H101,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,327
+Marion,H102,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,160
+Marion,H103,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,146
+Marion,H104,State Senator, 14th Senatorial District,REP,Jimmy HIGDON,215
+Marion,AB,State Representative, 24th Representative District,REP,J. Alex LaRUE,47
+Marion,A101,State Representative, 24th Representative District,REP,J. Alex LaRUE,63
+Marion,A102,State Representative, 24th Representative District,REP,J. Alex LaRUE,64
+Marion,A103,State Representative, 24th Representative District,REP,J. Alex LaRUE,70
+Marion,A104,State Representative, 24th Representative District,REP,J. Alex LaRUE,40
+Marion,C102,State Representative, 24th Representative District,REP,J. Alex LaRUE,72
+Marion,C103,State Representative, 24th Representative District,REP,J. Alex LaRUE,49
+Marion,C105,State Representative, 24th Representative District,REP,J. Alex LaRUE,21
+Marion,D102,State Representative, 24th Representative District,REP,J. Alex LaRUE,89
+Marion,D103,State Representative, 24th Representative District,REP,J. Alex LaRUE,55
+Marion,D104,State Representative, 24th Representative District,REP,J. Alex LaRUE,30
+Marion,E101,State Representative, 24th Representative District,REP,J. Alex LaRUE,43
+Marion,E102,State Representative, 24th Representative District,REP,J. Alex LaRUE,50
+Marion,E103,State Representative, 24th Representative District,REP,J. Alex LaRUE,75
+Marion,H101,State Representative, 24th Representative District,REP,J. Alex LaRUE,40
+Marion,H102,State Representative, 24th Representative District,REP,J. Alex LaRUE,33
+Marion,H103,State Representative, 24th Representative District,REP,J. Alex LaRUE,32
+Marion,H104,State Representative, 24th Representative District,REP,J. Alex LaRUE,32
+Marion,AB,State Representative, 24th Representative District,DEM,Terry MILLS,237
+Marion,A101,State Representative, 24th Representative District,DEM,Terry MILLS,163
+Marion,A102,State Representative, 24th Representative District,DEM,Terry MILLS,200
+Marion,A103,State Representative, 24th Representative District,DEM,Terry MILLS,267
+Marion,A104,State Representative, 24th Representative District,DEM,Terry MILLS,205
+Marion,C102,State Representative, 24th Representative District,DEM,Terry MILLS,536
+Marion,C103,State Representative, 24th Representative District,DEM,Terry MILLS,237
+Marion,C105,State Representative, 24th Representative District,DEM,Terry MILLS,151
+Marion,D102,State Representative, 24th Representative District,DEM,Terry MILLS,446
+Marion,D103,State Representative, 24th Representative District,DEM,Terry MILLS,327
+Marion,D104,State Representative, 24th Representative District,DEM,Terry MILLS,207
+Marion,E101,State Representative, 24th Representative District,DEM,Terry MILLS,252
+Marion,E102,State Representative, 24th Representative District,DEM,Terry MILLS,333
+Marion,E103,State Representative, 24th Representative District,DEM,Terry MILLS,431
+Marion,H101,State Representative, 24th Representative District,DEM,Terry MILLS,374
+Marion,H102,State Representative, 24th Representative District,DEM,Terry MILLS,202
+Marion,H103,State Representative, 24th Representative District,DEM,Terry MILLS,158
+Marion,H104,State Representative, 24th Representative District,DEM,Terry MILLS,240
+Marion,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",233
+Marion,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",176
+Marion,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",199
+Marion,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",270
+Marion,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",201
+Marion,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",511
+Marion,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",246
+Marion,C105,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",145
+Marion,D102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",439
+Marion,D103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",314
+Marion,D104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",197
+Marion,E101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",225
+Marion,E102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",331
+Marion,E103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",406
+Marion,H101,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",355
+Marion,H102,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",187
+Marion,H103,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",159
+Marion,H104,PROPERTY VALUATION ADMINISTRATOR,,DEM,"Terry ""Catfish"" RAKES",231
+Marion,AB,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,246
+Marion,A101,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,183
+Marion,A102,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,204
+Marion,A103,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,287
+Marion,A104,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,211
+Marion,C102,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,530
+Marion,C103,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,251
+Marion,C105,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,158
+Marion,D102,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,460
+Marion,D103,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,308
+Marion,D104,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,213
+Marion,E101,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,228
+Marion,E102,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,340
+Marion,E103,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,412
+Marion,H101,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,355
+Marion,H102,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,198
+Marion,H103,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,162
+Marion,H104,COUNTY JUDGE/EXECUTIVE,,DEM,David DAUGHERTY,246
+Marion,AB,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,230
+Marion,A101,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,166
+Marion,A102,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,182
+Marion,A103,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,272
+Marion,A104,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,191
+Marion,C102,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,496
+Marion,C103,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,236
+Marion,C105,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,143
+Marion,D102,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,432
+Marion,D103,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,299
+Marion,D104,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,198
+Marion,E101,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,216
+Marion,E102,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,334
+Marion,E103,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,396
+Marion,H101,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,354
+Marion,H102,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,196
+Marion,H103,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,151
+Marion,H104,COUNTY ATTORNEY,,DEM,Lisa K. NALLY-MARTIN,228
+Marion,AB,COUNTY CLERK,,DEM,Chad G. MATTINGLY,231
+Marion,A101,COUNTY CLERK,,DEM,Chad G. MATTINGLY,169
+Marion,A102,COUNTY CLERK,,DEM,Chad G. MATTINGLY,178
+Marion,A103,COUNTY CLERK,,DEM,Chad G. MATTINGLY,269
+Marion,A104,COUNTY CLERK,,DEM,Chad G. MATTINGLY,188
+Marion,C102,COUNTY CLERK,,DEM,Chad G. MATTINGLY,494
+Marion,C103,COUNTY CLERK,,DEM,Chad G. MATTINGLY,237
+Marion,C105,COUNTY CLERK,,DEM,Chad G. MATTINGLY,143
+Marion,D102,COUNTY CLERK,,DEM,Chad G. MATTINGLY,432
+Marion,D103,COUNTY CLERK,,DEM,Chad G. MATTINGLY,301
+Marion,D104,COUNTY CLERK,,DEM,Chad G. MATTINGLY,191
+Marion,E101,COUNTY CLERK,,DEM,Chad G. MATTINGLY,210
+Marion,E102,COUNTY CLERK,,DEM,Chad G. MATTINGLY,331
+Marion,E103,COUNTY CLERK,,DEM,Chad G. MATTINGLY,409
+Marion,H101,COUNTY CLERK,,DEM,Chad G. MATTINGLY,347
+Marion,H102,COUNTY CLERK,,DEM,Chad G. MATTINGLY,193
+Marion,H103,COUNTY CLERK,,DEM,Chad G. MATTINGLY,155
+Marion,H104,COUNTY CLERK,,DEM,Chad G. MATTINGLY,227
+Marion,AB,SHERIFF,,DEM,Jimmy CLEMENTS,236
+Marion,A101,SHERIFF,,DEM,Jimmy CLEMENTS,181
+Marion,A102,SHERIFF,,DEM,Jimmy CLEMENTS,193
+Marion,A103,SHERIFF,,DEM,Jimmy CLEMENTS,279
+Marion,A104,SHERIFF,,DEM,Jimmy CLEMENTS,204
+Marion,C102,SHERIFF,,DEM,Jimmy CLEMENTS,518
+Marion,C103,SHERIFF,,DEM,Jimmy CLEMENTS,247
+Marion,C105,SHERIFF,,DEM,Jimmy CLEMENTS,151
+Marion,D102,SHERIFF,,DEM,Jimmy CLEMENTS,455
+Marion,D103,SHERIFF,,DEM,Jimmy CLEMENTS,317
+Marion,D104,SHERIFF,,DEM,Jimmy CLEMENTS,201
+Marion,E101,SHERIFF,,DEM,Jimmy CLEMENTS,233
+Marion,E102,SHERIFF,,DEM,Jimmy CLEMENTS,344
+Marion,E103,SHERIFF,,DEM,Jimmy CLEMENTS,422
+Marion,H101,SHERIFF,,DEM,Jimmy CLEMENTS,369
+Marion,H102,SHERIFF,,DEM,Jimmy CLEMENTS,197
+Marion,H103,SHERIFF,,DEM,Jimmy CLEMENTS,156
+Marion,H104,SHERIFF,,DEM,Jimmy CLEMENTS,240
+Marion,AB,JAILER,,DEM,Barry BRADY,238
+Marion,A101,JAILER,,DEM,Barry BRADY,176
+Marion,A102,JAILER,,DEM,Barry BRADY,184
+Marion,A103,JAILER,,DEM,Barry BRADY,270
+Marion,A104,JAILER,,DEM,Barry BRADY,199
+Marion,C102,JAILER,,DEM,Barry BRADY,512
+Marion,C103,JAILER,,DEM,Barry BRADY,244
+Marion,C105,JAILER,,DEM,Barry BRADY,148
+Marion,D102,JAILER,,DEM,Barry BRADY,443
+Marion,D103,JAILER,,DEM,Barry BRADY,312
+Marion,D104,JAILER,,DEM,Barry BRADY,196
+Marion,E101,JAILER,,DEM,Barry BRADY,227
+Marion,E102,JAILER,,DEM,Barry BRADY,341
+Marion,E103,JAILER,,DEM,Barry BRADY,428
+Marion,H101,JAILER,,DEM,Barry BRADY,350
+Marion,H102,JAILER,,DEM,Barry BRADY,193
+Marion,H103,JAILER,,DEM,Barry BRADY,151
+Marion,H104,JAILER,,DEM,Barry BRADY,235
+Marion,AB,CORONER,,DEM,James R. MORAJA SR.,227
+Marion,A101,CORONER,,DEM,James R. MORAJA SR.,173
+Marion,A102,CORONER,,DEM,James R. MORAJA SR.,172
+Marion,A103,CORONER,,DEM,James R. MORAJA SR.,270
+Marion,A104,CORONER,,DEM,James R. MORAJA SR.,189
+Marion,C102,CORONER,,DEM,James R. MORAJA SR.,512
+Marion,C103,CORONER,,DEM,James R. MORAJA SR.,228
+Marion,C105,CORONER,,DEM,James R. MORAJA SR.,145
+Marion,D102,CORONER,,DEM,James R. MORAJA SR.,431
+Marion,D103,CORONER,,DEM,James R. MORAJA SR.,302
+Marion,D104,CORONER,,DEM,James R. MORAJA SR.,194
+Marion,E101,CORONER,,DEM,James R. MORAJA SR.,214
+Marion,E102,CORONER,,DEM,James R. MORAJA SR.,331
+Marion,E103,CORONER,,DEM,James R. MORAJA SR.,397
+Marion,H101,CORONER,,DEM,James R. MORAJA SR.,340
+Marion,H102,CORONER,,DEM,James R. MORAJA SR.,179
+Marion,H103,CORONER,,DEM,James R. MORAJA SR.,145
+Marion,H104,CORONER,,DEM,James R. MORAJA SR.,227
+Marion,AB,MAGISTRATE 1st Magisterial District,,DEM,Jackie WICKER,37
+Marion,A101,MAGISTRATE 1st Magisterial District,,DEM,Jackie WICKER,177
+Marion,A102,MAGISTRATE 1st Magisterial District,,DEM,Jackie WICKER,203
+Marion,A103,MAGISTRATE 1st Magisterial District,,DEM,Jackie WICKER,256
+Marion,A104,MAGISTRATE 1st Magisterial District,,DEM,Jackie WICKER,181
+Marion,AB,MAGISTRATE 2nd Magisterial District,,DEM,Larry V. CALDWELL,42
+Marion,D102,MAGISTRATE 2nd Magisterial District,,DEM,Larry V. CALDWELL,418
+Marion,D103,MAGISTRATE 2nd Magisterial District,,DEM,Larry V. CALDWELL,322
+Marion,D104,MAGISTRATE 2nd Magisterial District,,DEM,Larry V. CALDWELL,183
+Marion,AB,MAGISTRATE 3rd Magisterial District,,DEM,Craig Allen BISHOP,51
+Marion,E101,MAGISTRATE 3rd Magisterial District,,DEM,Craig Allen BISHOP,224
+Marion,E102,MAGISTRATE 3rd Magisterial District,,DEM,Craig Allen BISHOP,329
+Marion,E103,MAGISTRATE 3rd Magisterial District,,DEM,Craig Allen BISHOP,421
+Marion,AB,MAGISTRATE 4th Magisterial District,,DEM,Steve MASTERSON,55
+Marion,H101,MAGISTRATE 4th Magisterial District,,DEM,Steve MASTERSON,352
+Marion,H102,MAGISTRATE 4th Magisterial District,,DEM,Steve MASTERSON,187
+Marion,H103,MAGISTRATE 4th Magisterial District,,DEM,Steve MASTERSON,156
+Marion,H104,MAGISTRATE 4th Magisterial District,,DEM,Steve MASTERSON,227
+Marion,AB,MAGISTRATE 5th Magisterial District,,DEM,John Arthur ELDER III.,46
+Marion,C102,MAGISTRATE 5th Magisterial District,,DEM,John Arthur ELDER III.,498
+Marion,C103,MAGISTRATE 5th Magisterial District,,DEM,John Arthur ELDER III.,237
+Marion,C105,MAGISTRATE 5th Magisterial District,,DEM,John Arthur ELDER III.,147
+Marion,AB,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,67
+Marion,A101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,61
+Marion,A102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,65
+Marion,A103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,87
+Marion,A104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,43
+Marion,C102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,114
+Marion,C103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,67
+Marion,C105,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,44
+Marion,D102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,127
+Marion,D103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,114
+Marion,D104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,46
+Marion,E101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,67
+Marion,E102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,88
+Marion,E103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,113
+Marion,H101,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,102
+Marion,H102,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,50
+Marion,H103,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,36
+Marion,H104,Judge of the Court of Appeals, 3rd Appellate District,,Michael O. CAPERTON,64
+Marion,AB,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,101
+Marion,A101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,81
+Marion,A102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,86
+Marion,A103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,132
+Marion,A104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,84
+Marion,C102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,248
+Marion,C103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,111
+Marion,C105,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,77
+Marion,D102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,195
+Marion,D103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,154
+Marion,D104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,118
+Marion,E101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,113
+Marion,E102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,178
+Marion,E103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,205
+Marion,H101,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,148
+Marion,H102,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,92
+Marion,H103,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,84
+Marion,H104,Judge of the Court of Appeals, 3rd Appellate District,,Debra Hembree LAMBERT,111
+Marion,AB,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,105
+Marion,A101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,101
+Marion,A102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,108
+Marion,A103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,128
+Marion,A104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,83
+Marion,C102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,230
+Marion,C103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,115
+Marion,C105,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,68
+Marion,D102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,226
+Marion,D103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,178
+Marion,D104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,110
+Marion,E101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,111
+Marion,E102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,178
+Marion,E103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,219
+Marion,H101,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,162
+Marion,H102,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,79
+Marion,H103,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,78
+Marion,H104,Judge of the Court of Appeals, 3rd Appellate District,,James H. LAMBERT,114
+Marion,AB,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,52
+Marion,A101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,43
+Marion,A102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,39
+Marion,A103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,85
+Marion,A104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,37
+Marion,C102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,107
+Marion,C103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,57
+Marion,C105,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,43
+Marion,D102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,84
+Marion,D103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,74
+Marion,D104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,51
+Marion,E101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,69
+Marion,E102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,72
+Marion,E103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,79
+Marion,H101,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,92
+Marion,H102,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,53
+Marion,H103,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,36
+Marion,H104,Judge of the Court of Appeals, 3rd Appellate District,,Paul F. HENDERSON,53
+Marion,AB,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,200
+Marion,A101,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,156
+Marion,A102,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,163
+Marion,A103,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,251
+Marion,A104,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,156
+Marion,C102,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,453
+Marion,C103,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,214
+Marion,C105,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,141
+Marion,D102,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,386
+Marion,D103,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,278
+Marion,D104,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,194
+Marion,E101,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,200
+Marion,E102,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,304
+Marion,E103,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,348
+Marion,H101,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,287
+Marion,H102,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,144
+Marion,H103,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,125
+Marion,H104,Circuit Judge, 11th Judicial Circuit,,Samuel Todd SPALDING,201
+Marion,AB,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,157
+Marion,A101,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,135
+Marion,A102,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,132
+Marion,A103,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,208
+Marion,A104,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,119
+Marion,C102,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,336
+Marion,C103,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,166
+Marion,C105,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,121
+Marion,D102,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,307
+Marion,D103,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,241
+Marion,D104,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,142
+Marion,E101,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,161
+Marion,E102,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,244
+Marion,E103,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,285
+Marion,H101,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,247
+Marion,H102,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,120
+Marion,H103,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,115
+Marion,H104,Circuit Judge, 11th Judicial Circuit,,Allan Ray BERTRAM,159
+Marion,AB,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,158
+Marion,A101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,137
+Marion,A102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,144
+Marion,A103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,213
+Marion,A104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,121
+Marion,C102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,358
+Marion,C103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,167
+Marion,C105,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,123
+Marion,D102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,319
+Marion,D103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,242
+Marion,D104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,151
+Marion,E101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,169
+Marion,E102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,253
+Marion,E103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,311
+Marion,H101,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,265
+Marion,H102,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,135
+Marion,H103,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,114
+Marion,H104,District Judge, 11th Judicial District,,Amy Sullivan ANDERSON,166
+Marion,AB,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,165
+Marion,A101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,140
+Marion,A102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,150
+Marion,A103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,215
+Marion,A104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,128
+Marion,C102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,365
+Marion,C103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,164
+Marion,C105,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,123
+Marion,D102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,314
+Marion,D103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,248
+Marion,D104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,150
+Marion,E101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,166
+Marion,E102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,253
+Marion,E103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,300
+Marion,H101,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,263
+Marion,H102,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,129
+Marion,H103,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,116
+Marion,H104,District Judge, 11th Judicial District,,Connie Sullivan PHILLIPS,168
+Marion,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,44
+Marion,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,28
+Marion,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,32
+Marion,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,48
+Marion,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,23
+Marion,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,116
+Marion,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,44
+Marion,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,32
+Marion,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,74
+Marion,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,49
+Marion,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,52
+Marion,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,49
+Marion,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,81
+Marion,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,153
+Marion,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,60
+Marion,H102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,35
+Marion,H103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,28
+Marion,H104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Dudley Friend ADLE JR.,38
+Marion,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,132
+Marion,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,82
+Marion,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,90
+Marion,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,167
+Marion,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,82
+Marion,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,234
+Marion,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,116
+Marion,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,87
+Marion,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,242
+Marion,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,178
+Marion,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,100
+Marion,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,155
+Marion,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,177
+Marion,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,218
+Marion,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,173
+Marion,H102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,81
+Marion,H103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,63
+Marion,H104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Don VEATCH,111
+Marion,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,157
+Marion,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,103
+Marion,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,133
+Marion,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,199
+Marion,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,101
+Marion,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,292
+Marion,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,149
+Marion,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,107
+Marion,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,274
+Marion,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,285
+Marion,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,128
+Marion,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,134
+Marion,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,205
+Marion,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,243
+Marion,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,203
+Marion,H102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,92
+Marion,H103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,78
+Marion,H104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Joe Bernard LUCKETT,106
+Marion,AB,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",147
+Marion,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",86
+Marion,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",87
+Marion,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",158
+Marion,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",104
+Marion,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",262
+Marion,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",137
+Marion,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",85
+Marion,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",259
+Marion,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",178
+Marion,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",105
+Marion,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",113
+Marion,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",201
+Marion,E103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",225
+Marion,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",276
+Marion,H102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",147
+Marion,H103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",119
+Marion,H104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Richard ""Dickie"" NALLY",137
+Marion,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Kaelin REED,27
+Marion,D102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Kaelin REED,269
+Marion,D103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Kaelin REED,161
+Marion,D104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Kaelin REED,112
+Marion,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Angela Marie CARTER,17
+Marion,D102,MEMBER BOARD of EDUCATION 2nd Educational District,,,Angela Marie CARTER,206
+Marion,D103,MEMBER BOARD of EDUCATION 2nd Educational District,,,Angela Marie CARTER,179
+Marion,D104,MEMBER BOARD of EDUCATION 2nd Educational District,,,Angela Marie CARTER,102
+Marion,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Dennis HAGAN,28
+Marion,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Dennis HAGAN,92
+Marion,E102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Dennis HAGAN,168
+Marion,E103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Dennis HAGAN,165
+Marion,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Robert ""Butch"" CECIL",20
+Marion,E101,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Robert ""Butch"" CECIL",99
+Marion,E102,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Robert ""Butch"" CECIL",140
+Marion,E103,MEMBER BOARD of EDUCATION 3rd Educational District,,,"Robert ""Butch"" CECIL",223
+Marion,AB,MAYOR City of Lebanon,,,Gary D. CRENSHAW,57
+Marion,A104,MAYOR City of Lebanon,,,Gary D. CRENSHAW,116
+Marion,C102,MAYOR City of Lebanon,,,Gary D. CRENSHAW,415
+Marion,C103,MAYOR City of Lebanon,,,Gary D. CRENSHAW,50
+Marion,D102,MAYOR City of Lebanon,,,Gary D. CRENSHAW,143
+Marion,D104,MAYOR City of Lebanon,,,Gary D. CRENSHAW,168
+Marion,E102,MAYOR City of Lebanon,,,Gary D. CRENSHAW,82
+Marion,AB,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",51
+Marion,A104,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",84
+Marion,C102,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",329
+Marion,C103,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",44
+Marion,D102,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",109
+Marion,D104,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",129
+Marion,E102,CITY COUNCIL City of Lebanon,,,"James ""Jim"" RICHARDSON",55
+Marion,AB,CITY COUNCIL City of Lebanon,,,Kate PALAGI,54
+Marion,A104,CITY COUNCIL City of Lebanon,,,Kate PALAGI,81
+Marion,C102,CITY COUNCIL City of Lebanon,,,Kate PALAGI,322
+Marion,C103,CITY COUNCIL City of Lebanon,,,Kate PALAGI,43
+Marion,D102,CITY COUNCIL City of Lebanon,,,Kate PALAGI,104
+Marion,D104,CITY COUNCIL City of Lebanon,,,Kate PALAGI,140
+Marion,E102,CITY COUNCIL City of Lebanon,,,Kate PALAGI,65
+Marion,AB,CITY COUNCIL City of Lebanon,,,Darin SPALDING,49
+Marion,A104,CITY COUNCIL City of Lebanon,,,Darin SPALDING,68
+Marion,C102,CITY COUNCIL City of Lebanon,,,Darin SPALDING,307
+Marion,C103,CITY COUNCIL City of Lebanon,,,Darin SPALDING,41
+Marion,D102,CITY COUNCIL City of Lebanon,,,Darin SPALDING,106
+Marion,D104,CITY COUNCIL City of Lebanon,,,Darin SPALDING,133
+Marion,E102,CITY COUNCIL City of Lebanon,,,Darin SPALDING,53
+Marion,AB,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,57
+Marion,A104,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,89
+Marion,C102,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,349
+Marion,C103,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,49
+Marion,D102,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,118
+Marion,D104,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,147
+Marion,E102,CITY COUNCIL City of Lebanon,,,Jay GRUNDY,60
+Marion,AB,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,47
+Marion,A104,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,81
+Marion,C102,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,350
+Marion,C103,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,46
+Marion,D102,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,102
+Marion,D104,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,134
+Marion,E102,CITY COUNCIL City of Lebanon,,,John. R. MATTINGLY,51
+Marion,AB,CITY COUNCIL City of Lebanon,,,Jerry ABELL,44
+Marion,A104,CITY COUNCIL City of Lebanon,,,Jerry ABELL,78
+Marion,C102,CITY COUNCIL City of Lebanon,,,Jerry ABELL,321
+Marion,C103,CITY COUNCIL City of Lebanon,,,Jerry ABELL,45
+Marion,D102,CITY COUNCIL City of Lebanon,,,Jerry ABELL,101
+Marion,D104,CITY COUNCIL City of Lebanon,,,Jerry ABELL,134
+Marion,E102,CITY COUNCIL City of Lebanon,,,Jerry ABELL,54
+Marion,AB,MAYOR City of Loretto,,,Tom BRAHM,4
+Marion,H101,MAYOR City of Loretto,,,Tom BRAHM,193
+Marion,AB,CITY COMMISSIONERS City of Loretto,,,Connie MATTINGLY,4
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Connie MATTINGLY,175
+Marion,AB,CITY COMMISSIONERS City of Loretto,,,Joshua BALLARD,5
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Joshua BALLARD,175
+Marion,AB,CITY COMMISSIONERS City of Loretto,,,Lennie NALLEY,3
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Lennie NALLEY,162
+Marion,AB,CITY COMMISSIONERS City of Loretto,,,Sammy MEDLEY,4
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Sammy MEDLEY,180
+Marion,AB,MAYOR City of Bradfordsville,,,Harry David EDELEN,3
+Marion,A102,MAYOR City of Bradfordsville,,,Harry David EDELEN,58
+Marion,AB,CITY COMMISSIONERS City of Bradfordsville,,,Mildred Kathleen WALLS,3
+Marion,A102,CITY COMMISSIONERS City of Bradfordsville,,,Mildred Kathleen WALLS,40
+Marion,AB,CITY COMMISSIONERS City of Bradfordsville,,,Sandy GRIBBINS,3
+Marion,A102,CITY COMMISSIONERS City of Bradfordsville,,,Sandy GRIBBINS,50
+Marion,AB,CITY COMMISSIONERS City of Bradfordsville,,,Anthony CLARKSON,3
+Marion,A102,CITY COMMISSIONERS City of Bradfordsville,,,Anthony CLARKSON,42
+Marion,AB,CITY COMMISSIONERS City of Bradfordsville,,,Travis MAY,3
+Marion,A102,CITY COMMISSIONERS City of Bradfordsville,,,Travis MAY,54
+Marion,AB,MAYOR City of Raywick,,,Kelly LUCAS,1
+Marion,E103,MAYOR City of Raywick,,,Kelly LUCAS,45
+Marion,AB,CITY COMMISSIONERS City of Raywick,,,Alvin MORRIS,1
+Marion,E103,CITY COMMISSIONERS City of Raywick,,,Alvin MORRIS,41
+Marion,AB,CITY COMMISSIONERS City of Raywick,,,Ronnie LAMKIN,1
+Marion,E103,CITY COMMISSIONERS City of Raywick,,,Ronnie LAMKIN,42
+Marion,AB,CITY COMMISSIONERS City of Raywick,,,John Louis MORRIS,1
+Marion,E103,CITY COMMISSIONERS City of Raywick,,,John Louis MORRIS,35

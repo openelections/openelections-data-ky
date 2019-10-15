@@ -1,0 +1,831 @@
+county,precinct,office,district,party,candidate,votes
+Marshall,AB,U.S. Senate,,REP,Rand PAUL,286
+Marshall,A101,U.S. Senate,,REP,Rand PAUL,270
+Marshall,A102,U.S. Senate,,REP,Rand PAUL,318
+Marshall,A103,U.S. Senate,,REP,Rand PAUL,211
+Marshall,A104,U.S. Senate,,REP,Rand PAUL,220
+Marshall,A105,U.S. Senate,,REP,Rand PAUL,189
+Marshall,A106,U.S. Senate,,REP,Rand PAUL,166
+Marshall,A107,U.S. Senate,,REP,Rand PAUL,382
+Marshall,A108,U.S. Senate,,REP,Rand PAUL,213
+Marshall,B101,U.S. Senate,,REP,Rand PAUL,171
+Marshall,B102,U.S. Senate,,REP,Rand PAUL,383
+Marshall,B103,U.S. Senate,,REP,Rand PAUL,158
+Marshall,B104,U.S. Senate,,REP,Rand PAUL,120
+Marshall,B105,U.S. Senate,,REP,Rand PAUL,271
+Marshall,B106,U.S. Senate,,REP,Rand PAUL,394
+Marshall,B107,U.S. Senate,,REP,Rand PAUL,282
+Marshall,B108,U.S. Senate,,REP,Rand PAUL,215
+Marshall,B109,U.S. Senate,,REP,Rand PAUL,218
+Marshall,C101,U.S. Senate,,REP,Rand PAUL,331
+Marshall,C102,U.S. Senate,,REP,Rand PAUL,182
+Marshall,C103,U.S. Senate,,REP,Rand PAUL,316
+Marshall,C104,U.S. Senate,,REP,Rand PAUL,543
+Marshall,C105,U.S. Senate,,REP,Rand PAUL,302
+Marshall,C106,U.S. Senate,,REP,Rand PAUL,189
+Marshall,C107,U.S. Senate,,REP,Rand PAUL,133
+Marshall,C108,U.S. Senate,,REP,Rand PAUL,226
+Marshall,AB,U.S. Senate,,DEM,Jack CONWAY,138
+Marshall,A101,U.S. Senate,,DEM,Jack CONWAY,267
+Marshall,A102,U.S. Senate,,DEM,Jack CONWAY,229
+Marshall,A103,U.S. Senate,,DEM,Jack CONWAY,291
+Marshall,A104,U.S. Senate,,DEM,Jack CONWAY,168
+Marshall,A105,U.S. Senate,,DEM,Jack CONWAY,186
+Marshall,A106,U.S. Senate,,DEM,Jack CONWAY,127
+Marshall,A107,U.S. Senate,,DEM,Jack CONWAY,303
+Marshall,A108,U.S. Senate,,DEM,Jack CONWAY,190
+Marshall,B101,U.S. Senate,,DEM,Jack CONWAY,185
+Marshall,B102,U.S. Senate,,DEM,Jack CONWAY,263
+Marshall,B103,U.S. Senate,,DEM,Jack CONWAY,125
+Marshall,B104,U.S. Senate,,DEM,Jack CONWAY,154
+Marshall,B105,U.S. Senate,,DEM,Jack CONWAY,246
+Marshall,B106,U.S. Senate,,DEM,Jack CONWAY,197
+Marshall,B107,U.S. Senate,,DEM,Jack CONWAY,246
+Marshall,B108,U.S. Senate,,DEM,Jack CONWAY,147
+Marshall,B109,U.S. Senate,,DEM,Jack CONWAY,144
+Marshall,C101,U.S. Senate,,DEM,Jack CONWAY,241
+Marshall,C102,U.S. Senate,,DEM,Jack CONWAY,122
+Marshall,C103,U.S. Senate,,DEM,Jack CONWAY,226
+Marshall,C104,U.S. Senate,,DEM,Jack CONWAY,341
+Marshall,C105,U.S. Senate,,DEM,Jack CONWAY,301
+Marshall,C106,U.S. Senate,,DEM,Jack CONWAY,135
+Marshall,C107,U.S. Senate,,DEM,Jack CONWAY,104
+Marshall,C108,U.S. Senate,,DEM,Jack CONWAY,178
+Marshall,AB,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A101,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A102,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A103,U.S. Senate,,,Billy Ray WILSON,2
+Marshall,A104,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A105,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A106,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A107,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,A108,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B101,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B102,U.S. Senate,,,Billy Ray WILSON,1
+Marshall,B103,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B104,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B105,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B106,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B107,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B108,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,B109,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C101,U.S. Senate,,,Billy Ray WILSON,2
+Marshall,C102,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C103,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C104,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C105,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C106,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C107,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,C108,U.S. Senate,,,Billy Ray WILSON,0
+Marshall,AB,US Representative, 1st Congressional District,REP,Edward WHITFIELD,317
+Marshall,A101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,325
+Marshall,A102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,343
+Marshall,A103,US Representative, 1st Congressional District,REP,Edward WHITFIELD,279
+Marshall,A104,US Representative, 1st Congressional District,REP,Edward WHITFIELD,267
+Marshall,A105,US Representative, 1st Congressional District,REP,Edward WHITFIELD,226
+Marshall,A106,US Representative, 1st Congressional District,REP,Edward WHITFIELD,189
+Marshall,A107,US Representative, 1st Congressional District,REP,Edward WHITFIELD,483
+Marshall,A108,US Representative, 1st Congressional District,REP,Edward WHITFIELD,255
+Marshall,B101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,207
+Marshall,B102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,448
+Marshall,B103,US Representative, 1st Congressional District,REP,Edward WHITFIELD,194
+Marshall,B104,US Representative, 1st Congressional District,REP,Edward WHITFIELD,157
+Marshall,B105,US Representative, 1st Congressional District,REP,Edward WHITFIELD,317
+Marshall,B106,US Representative, 1st Congressional District,REP,Edward WHITFIELD,416
+Marshall,B107,US Representative, 1st Congressional District,REP,Edward WHITFIELD,338
+Marshall,B108,US Representative, 1st Congressional District,REP,Edward WHITFIELD,243
+Marshall,B109,US Representative, 1st Congressional District,REP,Edward WHITFIELD,248
+Marshall,C101,US Representative, 1st Congressional District,REP,Edward WHITFIELD,391
+Marshall,C102,US Representative, 1st Congressional District,REP,Edward WHITFIELD,223
+Marshall,C103,US Representative, 1st Congressional District,REP,Edward WHITFIELD,358
+Marshall,C104,US Representative, 1st Congressional District,REP,Edward WHITFIELD,629
+Marshall,C105,US Representative, 1st Congressional District,REP,Edward WHITFIELD,374
+Marshall,C106,US Representative, 1st Congressional District,REP,Edward WHITFIELD,212
+Marshall,C107,US Representative, 1st Congressional District,REP,Edward WHITFIELD,151
+Marshall,C108,US Representative, 1st Congressional District,REP,Edward WHITFIELD,281
+Marshall,AB,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,108
+Marshall,A101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,216
+Marshall,A102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,202
+Marshall,A103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,226
+Marshall,A104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,121
+Marshall,A105,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,157
+Marshall,A106,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,106
+Marshall,A107,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,218
+Marshall,A108,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,149
+Marshall,B101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,147
+Marshall,B102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,208
+Marshall,B103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,92
+Marshall,B104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,117
+Marshall,B105,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,192
+Marshall,B106,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,177
+Marshall,B107,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,190
+Marshall,B108,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,116
+Marshall,B109,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,116
+Marshall,C101,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,186
+Marshall,C102,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,79
+Marshall,C103,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,188
+Marshall,C104,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,256
+Marshall,C105,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,230
+Marshall,C106,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,108
+Marshall,C107,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,83
+Marshall,C108,US Representative, 1st Congressional District,DEM,Charles Kendall HATCHETT,126
+Marshall,AB,State Senator, 2nd Senatorial District,REP,William Michael EAST,91
+Marshall,A101,State Senator, 2nd Senatorial District,REP,William Michael EAST,63
+Marshall,A102,State Senator, 2nd Senatorial District,REP,William Michael EAST,112
+Marshall,A103,State Senator, 2nd Senatorial District,REP,William Michael EAST,55
+Marshall,A104,State Senator, 2nd Senatorial District,REP,William Michael EAST,43
+Marshall,A105,State Senator, 2nd Senatorial District,REP,William Michael EAST,46
+Marshall,A106,State Senator, 2nd Senatorial District,REP,William Michael EAST,40
+Marshall,A107,State Senator, 2nd Senatorial District,REP,William Michael EAST,60
+Marshall,A108,State Senator, 2nd Senatorial District,REP,William Michael EAST,34
+Marshall,B101,State Senator, 2nd Senatorial District,REP,William Michael EAST,37
+Marshall,B102,State Senator, 2nd Senatorial District,REP,William Michael EAST,72
+Marshall,B103,State Senator, 2nd Senatorial District,REP,William Michael EAST,26
+Marshall,B104,State Senator, 2nd Senatorial District,REP,William Michael EAST,27
+Marshall,B105,State Senator, 2nd Senatorial District,REP,William Michael EAST,58
+Marshall,B106,State Senator, 2nd Senatorial District,REP,William Michael EAST,132
+Marshall,B107,State Senator, 2nd Senatorial District,REP,William Michael EAST,71
+Marshall,B108,State Senator, 2nd Senatorial District,REP,William Michael EAST,68
+Marshall,B109,State Senator, 2nd Senatorial District,REP,William Michael EAST,43
+Marshall,C101,State Senator, 2nd Senatorial District,REP,William Michael EAST,87
+Marshall,C102,State Senator, 2nd Senatorial District,REP,William Michael EAST,37
+Marshall,C103,State Senator, 2nd Senatorial District,REP,William Michael EAST,69
+Marshall,C104,State Senator, 2nd Senatorial District,REP,William Michael EAST,117
+Marshall,C105,State Senator, 2nd Senatorial District,REP,William Michael EAST,62
+Marshall,C106,State Senator, 2nd Senatorial District,REP,William Michael EAST,34
+Marshall,C107,State Senator, 2nd Senatorial District,REP,William Michael EAST,31
+Marshall,C108,State Senator, 2nd Senatorial District,REP,William Michael EAST,43
+Marshall,AB,State Senator, 2nd Senatorial District,DEM,Rex SMITH,149
+Marshall,A101,State Senator, 2nd Senatorial District,DEM,Rex SMITH,313
+Marshall,A102,State Senator, 2nd Senatorial District,DEM,Rex SMITH,276
+Marshall,A103,State Senator, 2nd Senatorial District,DEM,Rex SMITH,325
+Marshall,A104,State Senator, 2nd Senatorial District,DEM,Rex SMITH,207
+Marshall,A105,State Senator, 2nd Senatorial District,DEM,Rex SMITH,230
+Marshall,A106,State Senator, 2nd Senatorial District,DEM,Rex SMITH,144
+Marshall,A107,State Senator, 2nd Senatorial District,DEM,Rex SMITH,339
+Marshall,A108,State Senator, 2nd Senatorial District,DEM,Rex SMITH,228
+Marshall,B101,State Senator, 2nd Senatorial District,DEM,Rex SMITH,201
+Marshall,B102,State Senator, 2nd Senatorial District,DEM,Rex SMITH,332
+Marshall,B103,State Senator, 2nd Senatorial District,DEM,Rex SMITH,154
+Marshall,B104,State Senator, 2nd Senatorial District,DEM,Rex SMITH,157
+Marshall,B105,State Senator, 2nd Senatorial District,DEM,Rex SMITH,292
+Marshall,B106,State Senator, 2nd Senatorial District,DEM,Rex SMITH,256
+Marshall,B107,State Senator, 2nd Senatorial District,DEM,Rex SMITH,281
+Marshall,B108,State Senator, 2nd Senatorial District,DEM,Rex SMITH,168
+Marshall,B109,State Senator, 2nd Senatorial District,DEM,Rex SMITH,174
+Marshall,C101,State Senator, 2nd Senatorial District,DEM,Rex SMITH,290
+Marshall,C102,State Senator, 2nd Senatorial District,DEM,Rex SMITH,147
+Marshall,C103,State Senator, 2nd Senatorial District,DEM,Rex SMITH,296
+Marshall,C104,State Senator, 2nd Senatorial District,DEM,Rex SMITH,400
+Marshall,C105,State Senator, 2nd Senatorial District,DEM,Rex SMITH,357
+Marshall,C106,State Senator, 2nd Senatorial District,DEM,Rex SMITH,170
+Marshall,C107,State Senator, 2nd Senatorial District,DEM,Rex SMITH,121
+Marshall,C108,State Senator, 2nd Senatorial District,DEM,Rex SMITH,219
+Marshall,AB,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",196
+Marshall,A101,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",180
+Marshall,A102,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",164
+Marshall,A103,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",143
+Marshall,A104,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",145
+Marshall,A105,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",114
+Marshall,A106,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",115
+Marshall,A107,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",320
+Marshall,A108,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",154
+Marshall,B101,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",128
+Marshall,B102,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",261
+Marshall,B103,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",111
+Marshall,B104,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",94
+Marshall,B105,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",180
+Marshall,B106,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",209
+Marshall,B107,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",187
+Marshall,B108,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",130
+Marshall,B109,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",152
+Marshall,C101,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",215
+Marshall,C102,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",125
+Marshall,C103,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",182
+Marshall,C104,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",378
+Marshall,C105,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",205
+Marshall,C106,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",125
+Marshall,C107,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",86
+Marshall,C108,State Senator, 2nd Senatorial District,IND,"Robert J. ""Bob"" LEEPER",154
+Marshall,AB,State Representative, 6th Representative District,REP,Monti R. COLLINS,264
+Marshall,A101,State Representative, 6th Representative District,REP,Monti R. COLLINS,237
+Marshall,A102,State Representative, 6th Representative District,REP,Monti R. COLLINS,266
+Marshall,A103,State Representative, 6th Representative District,REP,Monti R. COLLINS,165
+Marshall,A104,State Representative, 6th Representative District,REP,Monti R. COLLINS,166
+Marshall,A105,State Representative, 6th Representative District,REP,Monti R. COLLINS,137
+Marshall,A106,State Representative, 6th Representative District,REP,Monti R. COLLINS,131
+Marshall,A107,State Representative, 6th Representative District,REP,Monti R. COLLINS,330
+Marshall,A108,State Representative, 6th Representative District,REP,Monti R. COLLINS,176
+Marshall,B101,State Representative, 6th Representative District,REP,Monti R. COLLINS,137
+Marshall,B102,State Representative, 6th Representative District,REP,Monti R. COLLINS,299
+Marshall,B103,State Representative, 6th Representative District,REP,Monti R. COLLINS,143
+Marshall,B104,State Representative, 6th Representative District,REP,Monti R. COLLINS,94
+Marshall,B105,State Representative, 6th Representative District,REP,Monti R. COLLINS,177
+Marshall,B106,State Representative, 6th Representative District,REP,Monti R. COLLINS,325
+Marshall,B107,State Representative, 6th Representative District,REP,Monti R. COLLINS,236
+Marshall,B108,State Representative, 6th Representative District,REP,Monti R. COLLINS,191
+Marshall,B109,State Representative, 6th Representative District,REP,Monti R. COLLINS,177
+Marshall,C101,State Representative, 6th Representative District,REP,Monti R. COLLINS,283
+Marshall,C102,State Representative, 6th Representative District,REP,Monti R. COLLINS,146
+Marshall,C103,State Representative, 6th Representative District,REP,Monti R. COLLINS,263
+Marshall,C104,State Representative, 6th Representative District,REP,Monti R. COLLINS,462
+Marshall,C105,State Representative, 6th Representative District,REP,Monti R. COLLINS,261
+Marshall,C106,State Representative, 6th Representative District,REP,Monti R. COLLINS,159
+Marshall,C107,State Representative, 6th Representative District,REP,Monti R. COLLINS,113
+Marshall,C108,State Representative, 6th Representative District,REP,Monti R. COLLINS,200
+Marshall,AB,State Representative, 6th Representative District,DEM,Will R. COURSEY,166
+Marshall,A101,State Representative, 6th Representative District,DEM,Will R. COURSEY,312
+Marshall,A102,State Representative, 6th Representative District,DEM,Will R. COURSEY,286
+Marshall,A103,State Representative, 6th Representative District,DEM,Will R. COURSEY,358
+Marshall,A104,State Representative, 6th Representative District,DEM,Will R. COURSEY,230
+Marshall,A105,State Representative, 6th Representative District,DEM,Will R. COURSEY,246
+Marshall,A106,State Representative, 6th Representative District,DEM,Will R. COURSEY,168
+Marshall,A107,State Representative, 6th Representative District,DEM,Will R. COURSEY,386
+Marshall,A108,State Representative, 6th Representative District,DEM,Will R. COURSEY,235
+Marshall,B101,State Representative, 6th Representative District,DEM,Will R. COURSEY,227
+Marshall,B102,State Representative, 6th Representative District,DEM,Will R. COURSEY,371
+Marshall,B103,State Representative, 6th Representative District,DEM,Will R. COURSEY,149
+Marshall,B104,State Representative, 6th Representative District,DEM,Will R. COURSEY,187
+Marshall,B105,State Representative, 6th Representative District,DEM,Will R. COURSEY,353
+Marshall,B106,State Representative, 6th Representative District,DEM,Will R. COURSEY,267
+Marshall,B107,State Representative, 6th Representative District,DEM,Will R. COURSEY,298
+Marshall,B108,State Representative, 6th Representative District,DEM,Will R. COURSEY,172
+Marshall,B109,State Representative, 6th Representative District,DEM,Will R. COURSEY,189
+Marshall,C101,State Representative, 6th Representative District,DEM,Will R. COURSEY,303
+Marshall,C102,State Representative, 6th Representative District,DEM,Will R. COURSEY,160
+Marshall,C103,State Representative, 6th Representative District,DEM,Will R. COURSEY,286
+Marshall,C104,State Representative, 6th Representative District,DEM,Will R. COURSEY,420
+Marshall,C105,State Representative, 6th Representative District,DEM,Will R. COURSEY,357
+Marshall,C106,State Representative, 6th Representative District,DEM,Will R. COURSEY,164
+Marshall,C107,State Representative, 6th Representative District,DEM,Will R. COURSEY,126
+Marshall,C108,State Representative, 6th Representative District,DEM,Will R. COURSEY,212
+Marshall,AB,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,271
+Marshall,A101,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,422
+Marshall,A102,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,353
+Marshall,A103,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,394
+Marshall,A104,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,281
+Marshall,A105,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,281
+Marshall,A106,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,223
+Marshall,A107,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,530
+Marshall,A108,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,318
+Marshall,B101,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,273
+Marshall,B102,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,465
+Marshall,B103,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,219
+Marshall,B104,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,209
+Marshall,B105,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,383
+Marshall,B106,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,369
+Marshall,B107,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,366
+Marshall,B108,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,235
+Marshall,B109,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,257
+Marshall,C101,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,410
+Marshall,C102,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,182
+Marshall,C103,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,398
+Marshall,C104,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,602
+Marshall,C105,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,473
+Marshall,C106,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,232
+Marshall,C107,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,167
+Marshall,C108,Commonwealth's Attorney, 42nd Judicial Circuit,DEM,C. Mark BLANKENSHIP,295
+Marshall,AB,CIRCUIT CLERK,,DEM,Carla MARSHALL,284
+Marshall,A101,CIRCUIT CLERK,,DEM,Carla MARSHALL,440
+Marshall,A102,CIRCUIT CLERK,,DEM,Carla MARSHALL,357
+Marshall,A103,CIRCUIT CLERK,,DEM,Carla MARSHALL,416
+Marshall,A104,CIRCUIT CLERK,,DEM,Carla MARSHALL,299
+Marshall,A105,CIRCUIT CLERK,,DEM,Carla MARSHALL,310
+Marshall,A106,CIRCUIT CLERK,,DEM,Carla MARSHALL,234
+Marshall,A107,CIRCUIT CLERK,,DEM,Carla MARSHALL,562
+Marshall,A108,CIRCUIT CLERK,,DEM,Carla MARSHALL,340
+Marshall,B101,CIRCUIT CLERK,,DEM,Carla MARSHALL,284
+Marshall,B102,CIRCUIT CLERK,,DEM,Carla MARSHALL,467
+Marshall,B103,CIRCUIT CLERK,,DEM,Carla MARSHALL,222
+Marshall,B104,CIRCUIT CLERK,,DEM,Carla MARSHALL,216
+Marshall,B105,CIRCUIT CLERK,,DEM,Carla MARSHALL,392
+Marshall,B106,CIRCUIT CLERK,,DEM,Carla MARSHALL,375
+Marshall,B107,CIRCUIT CLERK,,DEM,Carla MARSHALL,354
+Marshall,B108,CIRCUIT CLERK,,DEM,Carla MARSHALL,247
+Marshall,B109,CIRCUIT CLERK,,DEM,Carla MARSHALL,261
+Marshall,C101,CIRCUIT CLERK,,DEM,Carla MARSHALL,418
+Marshall,C102,CIRCUIT CLERK,,DEM,Carla MARSHALL,201
+Marshall,C103,CIRCUIT CLERK,,DEM,Carla MARSHALL,392
+Marshall,C104,CIRCUIT CLERK,,DEM,Carla MARSHALL,615
+Marshall,C105,CIRCUIT CLERK,,DEM,Carla MARSHALL,479
+Marshall,C106,CIRCUIT CLERK,,DEM,Carla MARSHALL,233
+Marshall,C107,CIRCUIT CLERK,,DEM,Carla MARSHALL,177
+Marshall,C108,CIRCUIT CLERK,,DEM,Carla MARSHALL,301
+Marshall,AB,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,272
+Marshall,A101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,432
+Marshall,A102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,344
+Marshall,A103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,409
+Marshall,A104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,282
+Marshall,A105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,295
+Marshall,A106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,219
+Marshall,A107,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,527
+Marshall,A108,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,323
+Marshall,B101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,268
+Marshall,B102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,454
+Marshall,B103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,214
+Marshall,B104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,207
+Marshall,B105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,376
+Marshall,B106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,356
+Marshall,B107,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,352
+Marshall,B108,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,232
+Marshall,B109,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,250
+Marshall,C101,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,409
+Marshall,C102,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,187
+Marshall,C103,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,381
+Marshall,C104,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,585
+Marshall,C105,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,461
+Marshall,C106,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,228
+Marshall,C107,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,167
+Marshall,C108,PROPERTY VALUATION ADMINISTRATOR,,DEM,Tony Alan HENSON,288
+Marshall,AB,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,282
+Marshall,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,437
+Marshall,A102,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,373
+Marshall,A103,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,416
+Marshall,A104,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,291
+Marshall,A105,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,312
+Marshall,A106,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,214
+Marshall,A107,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,526
+Marshall,A108,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,318
+Marshall,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,278
+Marshall,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,451
+Marshall,B103,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,218
+Marshall,B104,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,219
+Marshall,B105,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,381
+Marshall,B106,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,378
+Marshall,B107,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,350
+Marshall,B108,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,229
+Marshall,B109,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,266
+Marshall,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,413
+Marshall,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,199
+Marshall,C103,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,391
+Marshall,C104,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,601
+Marshall,C105,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,476
+Marshall,C106,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,231
+Marshall,C107,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,173
+Marshall,C108,COUNTY JUDGE/EXECUTIVE,,DEM,Mike MILLER,290
+Marshall,AB,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,286
+Marshall,A101,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,433
+Marshall,A102,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,340
+Marshall,A103,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,411
+Marshall,A104,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,282
+Marshall,A105,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,294
+Marshall,A106,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,218
+Marshall,A107,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,538
+Marshall,A108,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,330
+Marshall,B101,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,269
+Marshall,B102,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,448
+Marshall,B103,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,220
+Marshall,B104,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,209
+Marshall,B105,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,374
+Marshall,B106,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,365
+Marshall,B107,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,349
+Marshall,B108,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,232
+Marshall,B109,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,258
+Marshall,C101,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,406
+Marshall,C102,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,190
+Marshall,C103,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,386
+Marshall,C104,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,594
+Marshall,C105,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,469
+Marshall,C106,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,237
+Marshall,C107,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,167
+Marshall,C108,COUNTY ATTORNEY,,DEM,Jeffrey G. EDWARDS,284
+Marshall,AB,COUNTY CLERK,,DEM,Tim YORK,269
+Marshall,A101,COUNTY CLERK,,DEM,Tim YORK,435
+Marshall,A102,COUNTY CLERK,,DEM,Tim YORK,348
+Marshall,A103,COUNTY CLERK,,DEM,Tim YORK,415
+Marshall,A104,COUNTY CLERK,,DEM,Tim YORK,286
+Marshall,A105,COUNTY CLERK,,DEM,Tim YORK,300
+Marshall,A106,COUNTY CLERK,,DEM,Tim YORK,219
+Marshall,A107,COUNTY CLERK,,DEM,Tim YORK,539
+Marshall,A108,COUNTY CLERK,,DEM,Tim YORK,323
+Marshall,B101,COUNTY CLERK,,DEM,Tim YORK,277
+Marshall,B102,COUNTY CLERK,,DEM,Tim YORK,447
+Marshall,B103,COUNTY CLERK,,DEM,Tim YORK,220
+Marshall,B104,COUNTY CLERK,,DEM,Tim YORK,209
+Marshall,B105,COUNTY CLERK,,DEM,Tim YORK,374
+Marshall,B106,COUNTY CLERK,,DEM,Tim YORK,355
+Marshall,B107,COUNTY CLERK,,DEM,Tim YORK,352
+Marshall,B108,COUNTY CLERK,,DEM,Tim YORK,229
+Marshall,B109,COUNTY CLERK,,DEM,Tim YORK,256
+Marshall,C101,COUNTY CLERK,,DEM,Tim YORK,402
+Marshall,C102,COUNTY CLERK,,DEM,Tim YORK,182
+Marshall,C103,COUNTY CLERK,,DEM,Tim YORK,379
+Marshall,C104,COUNTY CLERK,,DEM,Tim YORK,588
+Marshall,C105,COUNTY CLERK,,DEM,Tim YORK,472
+Marshall,C106,COUNTY CLERK,,DEM,Tim YORK,225
+Marshall,C107,COUNTY CLERK,,DEM,Tim YORK,171
+Marshall,C108,COUNTY CLERK,,DEM,Tim YORK,280
+Marshall,AB,SHERIFF,,DEM,R. Kevin BYARS,300
+Marshall,A101,SHERIFF,,DEM,R. Kevin BYARS,440
+Marshall,A102,SHERIFF,,DEM,R. Kevin BYARS,359
+Marshall,A103,SHERIFF,,DEM,R. Kevin BYARS,421
+Marshall,A104,SHERIFF,,DEM,R. Kevin BYARS,281
+Marshall,A105,SHERIFF,,DEM,R. Kevin BYARS,296
+Marshall,A106,SHERIFF,,DEM,R. Kevin BYARS,215
+Marshall,A107,SHERIFF,,DEM,R. Kevin BYARS,544
+Marshall,A108,SHERIFF,,DEM,R. Kevin BYARS,319
+Marshall,B101,SHERIFF,,DEM,R. Kevin BYARS,274
+Marshall,B102,SHERIFF,,DEM,R. Kevin BYARS,477
+Marshall,B103,SHERIFF,,DEM,R. Kevin BYARS,222
+Marshall,B104,SHERIFF,,DEM,R. Kevin BYARS,213
+Marshall,B105,SHERIFF,,DEM,R. Kevin BYARS,393
+Marshall,B106,SHERIFF,,DEM,R. Kevin BYARS,383
+Marshall,B107,SHERIFF,,DEM,R. Kevin BYARS,349
+Marshall,B108,SHERIFF,,DEM,R. Kevin BYARS,241
+Marshall,B109,SHERIFF,,DEM,R. Kevin BYARS,265
+Marshall,C101,SHERIFF,,DEM,R. Kevin BYARS,429
+Marshall,C102,SHERIFF,,DEM,R. Kevin BYARS,201
+Marshall,C103,SHERIFF,,DEM,R. Kevin BYARS,397
+Marshall,C104,SHERIFF,,DEM,R. Kevin BYARS,611
+Marshall,C105,SHERIFF,,DEM,R. Kevin BYARS,485
+Marshall,C106,SHERIFF,,DEM,R. Kevin BYARS,239
+Marshall,C107,SHERIFF,,DEM,R. Kevin BYARS,177
+Marshall,C108,SHERIFF,,DEM,R. Kevin BYARS,299
+Marshall,AB,JAILER,,DEM,Roger L. FORD,280
+Marshall,A101,JAILER,,DEM,Roger L. FORD,433
+Marshall,A102,JAILER,,DEM,Roger L. FORD,344
+Marshall,A103,JAILER,,DEM,Roger L. FORD,399
+Marshall,A104,JAILER,,DEM,Roger L. FORD,284
+Marshall,A105,JAILER,,DEM,Roger L. FORD,295
+Marshall,A106,JAILER,,DEM,Roger L. FORD,213
+Marshall,A107,JAILER,,DEM,Roger L. FORD,537
+Marshall,A108,JAILER,,DEM,Roger L. FORD,324
+Marshall,B101,JAILER,,DEM,Roger L. FORD,277
+Marshall,B102,JAILER,,DEM,Roger L. FORD,452
+Marshall,B103,JAILER,,DEM,Roger L. FORD,220
+Marshall,B104,JAILER,,DEM,Roger L. FORD,216
+Marshall,B105,JAILER,,DEM,Roger L. FORD,381
+Marshall,B106,JAILER,,DEM,Roger L. FORD,361
+Marshall,B107,JAILER,,DEM,Roger L. FORD,351
+Marshall,B108,JAILER,,DEM,Roger L. FORD,227
+Marshall,B109,JAILER,,DEM,Roger L. FORD,260
+Marshall,C101,JAILER,,DEM,Roger L. FORD,412
+Marshall,C102,JAILER,,DEM,Roger L. FORD,194
+Marshall,C103,JAILER,,DEM,Roger L. FORD,391
+Marshall,C104,JAILER,,DEM,Roger L. FORD,588
+Marshall,C105,JAILER,,DEM,Roger L. FORD,476
+Marshall,C106,JAILER,,DEM,Roger L. FORD,223
+Marshall,C107,JAILER,,DEM,Roger L. FORD,169
+Marshall,C108,JAILER,,DEM,Roger L. FORD,289
+Marshall,AB,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",271
+Marshall,A101,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",422
+Marshall,A102,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",345
+Marshall,A103,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",409
+Marshall,A104,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",275
+Marshall,A105,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",289
+Marshall,A106,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",213
+Marshall,A107,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",527
+Marshall,A108,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",329
+Marshall,B101,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",259
+Marshall,B102,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",424
+Marshall,B103,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",213
+Marshall,B104,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",199
+Marshall,B105,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",372
+Marshall,B106,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",333
+Marshall,B107,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",347
+Marshall,B108,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",228
+Marshall,B109,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",239
+Marshall,C101,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",389
+Marshall,C102,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",172
+Marshall,C103,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",375
+Marshall,C104,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",560
+Marshall,C105,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",448
+Marshall,C106,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",207
+Marshall,C107,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",160
+Marshall,C108,COUNTY COMMISSIONER 1st District,,DEM,"Robert E. ""Bob"" GOLD",273
+Marshall,AB,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,266
+Marshall,A101,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,403
+Marshall,A102,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,345
+Marshall,A103,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,382
+Marshall,A104,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,264
+Marshall,A105,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,277
+Marshall,A106,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,197
+Marshall,A107,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,510
+Marshall,A108,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,307
+Marshall,B101,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,260
+Marshall,B102,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,423
+Marshall,B103,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,209
+Marshall,B104,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,199
+Marshall,B105,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,376
+Marshall,B106,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,351
+Marshall,B107,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,341
+Marshall,B108,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,226
+Marshall,B109,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,254
+Marshall,C101,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,403
+Marshall,C102,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,177
+Marshall,C103,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,371
+Marshall,C104,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,568
+Marshall,C105,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,441
+Marshall,C106,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,214
+Marshall,C107,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,158
+Marshall,C108,COUNTY COMMISSIONER 2nd District,,DEM,Terry D. ANDERSON,266
+Marshall,AB,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,254
+Marshall,A101,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,249
+Marshall,A102,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,301
+Marshall,A103,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,219
+Marshall,A104,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,222
+Marshall,A105,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,172
+Marshall,A106,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,146
+Marshall,A107,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,358
+Marshall,A108,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,195
+Marshall,B101,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,158
+Marshall,B102,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,342
+Marshall,B103,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,160
+Marshall,B104,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,124
+Marshall,B105,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,250
+Marshall,B106,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,363
+Marshall,B107,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,272
+Marshall,B108,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,213
+Marshall,B109,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,195
+Marshall,C101,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,312
+Marshall,C102,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,168
+Marshall,C103,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,280
+Marshall,C104,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,446
+Marshall,C105,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,284
+Marshall,C106,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,171
+Marshall,C107,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,113
+Marshall,C108,COUNTY COMMISSIONER 3rd District,,REP,Misti DREW,212
+Marshall,AB,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,155
+Marshall,A101,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,275
+Marshall,A102,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,226
+Marshall,A103,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,275
+Marshall,A104,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,153
+Marshall,A105,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,187
+Marshall,A106,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,137
+Marshall,A107,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,326
+Marshall,A108,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,200
+Marshall,B101,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,203
+Marshall,B102,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,305
+Marshall,B103,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,121
+Marshall,B104,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,138
+Marshall,B105,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,237
+Marshall,B106,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,213
+Marshall,B107,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,247
+Marshall,B108,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,142
+Marshall,B109,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,161
+Marshall,C101,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,256
+Marshall,C102,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,131
+Marshall,C103,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,253
+Marshall,C104,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,419
+Marshall,C105,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,331
+Marshall,C106,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,151
+Marshall,C107,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,119
+Marshall,C108,COUNTY COMMISSIONER 3rd District,,DEM,Jerry G. ENGLISH,192
+Marshall,AB,CORONER,,DEM,Mitchell R. LEE,276
+Marshall,A101,CORONER,,DEM,Mitchell R. LEE,426
+Marshall,A102,CORONER,,DEM,Mitchell R. LEE,346
+Marshall,A103,CORONER,,DEM,Mitchell R. LEE,404
+Marshall,A104,CORONER,,DEM,Mitchell R. LEE,283
+Marshall,A105,CORONER,,DEM,Mitchell R. LEE,302
+Marshall,A106,CORONER,,DEM,Mitchell R. LEE,219
+Marshall,A107,CORONER,,DEM,Mitchell R. LEE,527
+Marshall,A108,CORONER,,DEM,Mitchell R. LEE,331
+Marshall,B101,CORONER,,DEM,Mitchell R. LEE,277
+Marshall,B102,CORONER,,DEM,Mitchell R. LEE,456
+Marshall,B103,CORONER,,DEM,Mitchell R. LEE,227
+Marshall,B104,CORONER,,DEM,Mitchell R. LEE,214
+Marshall,B105,CORONER,,DEM,Mitchell R. LEE,384
+Marshall,B106,CORONER,,DEM,Mitchell R. LEE,356
+Marshall,B107,CORONER,,DEM,Mitchell R. LEE,348
+Marshall,B108,CORONER,,DEM,Mitchell R. LEE,220
+Marshall,B109,CORONER,,DEM,Mitchell R. LEE,254
+Marshall,C101,CORONER,,DEM,Mitchell R. LEE,409
+Marshall,C102,CORONER,,DEM,Mitchell R. LEE,186
+Marshall,C103,CORONER,,DEM,Mitchell R. LEE,387
+Marshall,C104,CORONER,,DEM,Mitchell R. LEE,587
+Marshall,C105,CORONER,,DEM,Mitchell R. LEE,474
+Marshall,C106,CORONER,,DEM,Mitchell R. LEE,220
+Marshall,C107,CORONER,,DEM,Mitchell R. LEE,170
+Marshall,C108,CORONER,,DEM,Mitchell R. LEE,293
+Marshall,AB,COUNTY SURVEYOR,,DEM,James L. KNOTH,250
+Marshall,A101,COUNTY SURVEYOR,,DEM,James L. KNOTH,377
+Marshall,A102,COUNTY SURVEYOR,,DEM,James L. KNOTH,336
+Marshall,A103,COUNTY SURVEYOR,,DEM,James L. KNOTH,369
+Marshall,A104,COUNTY SURVEYOR,,DEM,James L. KNOTH,257
+Marshall,A105,COUNTY SURVEYOR,,DEM,James L. KNOTH,270
+Marshall,A106,COUNTY SURVEYOR,,DEM,James L. KNOTH,201
+Marshall,A107,COUNTY SURVEYOR,,DEM,James L. KNOTH,457
+Marshall,A108,COUNTY SURVEYOR,,DEM,James L. KNOTH,298
+Marshall,B101,COUNTY SURVEYOR,,DEM,James L. KNOTH,258
+Marshall,B102,COUNTY SURVEYOR,,DEM,James L. KNOTH,419
+Marshall,B103,COUNTY SURVEYOR,,DEM,James L. KNOTH,200
+Marshall,B104,COUNTY SURVEYOR,,DEM,James L. KNOTH,194
+Marshall,B105,COUNTY SURVEYOR,,DEM,James L. KNOTH,353
+Marshall,B106,COUNTY SURVEYOR,,DEM,James L. KNOTH,341
+Marshall,B107,COUNTY SURVEYOR,,DEM,James L. KNOTH,321
+Marshall,B108,COUNTY SURVEYOR,,DEM,James L. KNOTH,212
+Marshall,B109,COUNTY SURVEYOR,,DEM,James L. KNOTH,249
+Marshall,C101,COUNTY SURVEYOR,,DEM,James L. KNOTH,391
+Marshall,C102,COUNTY SURVEYOR,,DEM,James L. KNOTH,173
+Marshall,C103,COUNTY SURVEYOR,,DEM,James L. KNOTH,363
+Marshall,C104,COUNTY SURVEYOR,,DEM,James L. KNOTH,549
+Marshall,C105,COUNTY SURVEYOR,,DEM,James L. KNOTH,456
+Marshall,C106,COUNTY SURVEYOR,,DEM,James L. KNOTH,210
+Marshall,C107,COUNTY SURVEYOR,,DEM,James L. KNOTH,161
+Marshall,C108,COUNTY SURVEYOR,,DEM,James L. KNOTH,275
+Marshall,AB,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",80
+Marshall,A101,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",363
+Marshall,A102,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",338
+Marshall,A103,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",341
+Marshall,A104,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",252
+Marshall,A105,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",263
+Marshall,A106,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",187
+Marshall,A107,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",399
+Marshall,A108,MAGISTRATE 1st Magisterial District,,DEM,"Jerome ""Hoppy"" HICKS",277
+Marshall,AB,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,53
+Marshall,A101,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,280
+Marshall,A102,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,247
+Marshall,A103,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,267
+Marshall,A104,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,174
+Marshall,A105,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,199
+Marshall,A106,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,133
+Marshall,A107,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,326
+Marshall,A108,CONSTABLE 1st Magisterial District,,DEM,Steve BAIRD,238
+Marshall,AB,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,47
+Marshall,A101,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,117
+Marshall,A102,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,141
+Marshall,A103,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,113
+Marshall,A104,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,103
+Marshall,A105,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,76
+Marshall,A106,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,88
+Marshall,A107,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,165
+Marshall,A108,CONSTABLE 1st Magisterial District,,IND,J. W. DAVIS,87
+Marshall,AB,CONSTABLE 1st Magisterial District,,,Roger HUDSON,2
+Marshall,A101,CONSTABLE 1st Magisterial District,,,Roger HUDSON,2
+Marshall,A102,CONSTABLE 1st Magisterial District,,,Roger HUDSON,22
+Marshall,A103,CONSTABLE 1st Magisterial District,,,Roger HUDSON,5
+Marshall,A104,CONSTABLE 1st Magisterial District,,,Roger HUDSON,10
+Marshall,A105,CONSTABLE 1st Magisterial District,,,Roger HUDSON,9
+Marshall,A106,CONSTABLE 1st Magisterial District,,,Roger HUDSON,0
+Marshall,A107,CONSTABLE 1st Magisterial District,,,Roger HUDSON,2
+Marshall,A108,CONSTABLE 1st Magisterial District,,,Roger HUDSON,0
+Marshall,AB,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B101,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B102,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B103,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B104,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B105,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B106,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B107,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B108,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,B109,MAGISTRATE 2nd Magisterial District,,,No Candidate Filed,0
+Marshall,AB,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,94
+Marshall,B101,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,250
+Marshall,B102,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,400
+Marshall,B103,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,188
+Marshall,B104,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,186
+Marshall,B105,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,332
+Marshall,B106,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,332
+Marshall,B107,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,304
+Marshall,B108,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,205
+Marshall,B109,CONSTABLE 2nd Magisterial District,,DEM,Barry K. DARNALL,238
+Marshall,AB,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C101,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C102,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C103,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C104,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C105,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C106,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C107,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,C108,MAGISTRATE 3rd Magisterial District,,,No Candidate Filed,0
+Marshall,AB,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,65
+Marshall,C101,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,308
+Marshall,C102,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,153
+Marshall,C103,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,275
+Marshall,C104,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,492
+Marshall,C105,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,281
+Marshall,C106,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,148
+Marshall,C107,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,110
+Marshall,C108,CONSTABLE 3rd Magisterial District,,REP,Danny L. COPE,201
+Marshall,AB,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,26
+Marshall,C101,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,235
+Marshall,C102,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,111
+Marshall,C103,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,209
+Marshall,C104,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,323
+Marshall,C105,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,295
+Marshall,C106,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,136
+Marshall,C107,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,102
+Marshall,C108,CONSTABLE 3rd Magisterial District,,DEM,David O. OWENS,165
+Marshall,AB,MAYOR City of Benton,,DEM,Steve CARY,53
+Marshall,A101,MAYOR City of Benton,,DEM,Steve CARY,365
+Marshall,A107,MAYOR City of Benton,,DEM,Steve CARY,456
+Marshall,B103,MAYOR City of Benton,,DEM,Steve CARY,212
+Marshall,B104,MAYOR City of Benton,,DEM,Steve CARY,185
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,Chris FREELAND,44
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,Chris FREELAND,331
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,Chris FREELAND,389
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,Chris FREELAND,189
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,Chris FREELAND,159
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,"Stanley ""Butch"" HOLLAND",41
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,"Stanley ""Butch"" HOLLAND",325
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,"Stanley ""Butch"" HOLLAND",358
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,"Stanley ""Butch"" HOLLAND",188
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,"Stanley ""Butch"" HOLLAND",163
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,Charles EDMONDS,42
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,Charles EDMONDS,321
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,Charles EDMONDS,353
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,Charles EDMONDS,190
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,Charles EDMONDS,154
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,Rita DOTSON,48
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,Rita DOTSON,337
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,Rita DOTSON,379
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,Rita DOTSON,185
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,Rita DOTSON,166
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,Glen BREWER,40
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,Glen BREWER,331
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,Glen BREWER,355
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,Glen BREWER,189
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,Glen BREWER,165
+Marshall,AB,CITY COUNCIL City of Benton,,DEM,Tim KING,47
+Marshall,A101,CITY COUNCIL City of Benton,,DEM,Tim KING,342
+Marshall,A107,CITY COUNCIL City of Benton,,DEM,Tim KING,375
+Marshall,B103,CITY COUNCIL City of Benton,,DEM,Tim KING,196
+Marshall,B104,CITY COUNCIL City of Benton,,DEM,Tim KING,171
+Marshall,AB,MAYOR City of Hardin,,DEM,Randal L. SCOTT,1
+Marshall,A105,MAYOR City of Hardin,,DEM,Randal L. SCOTT,116
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,Rebecca L. HENDERSON,1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,Rebecca L. HENDERSON,98
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,Doug HON,1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,Doug HON,99
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,"William E. ""Bill"" ELKINS",1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,"William E. ""Bill"" ELKINS",103
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,Stacey BREWER,1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,Stacey BREWER,101
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,Dawn R. HOPKINS,1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,Dawn R. HOPKINS,99
+Marshall,AB,CITY COUNCIL City of Hardin,,DEM,Donnie Ray BIRDSONG,1
+Marshall,A105,CITY COUNCIL City of Hardin,,DEM,Donnie Ray BIRDSONG,100
+Marshall,AB,District Judge, 58th Judicial District,,Jack M. TELLE,294
+Marshall,A101,District Judge, 58th Judicial District,,Jack M. TELLE,339
+Marshall,A102,District Judge, 58th Judicial District,,Jack M. TELLE,278
+Marshall,A103,District Judge, 58th Judicial District,,Jack M. TELLE,369
+Marshall,A104,District Judge, 58th Judicial District,,Jack M. TELLE,272
+Marshall,A105,District Judge, 58th Judicial District,,Jack M. TELLE,238
+Marshall,A106,District Judge, 58th Judicial District,,Jack M. TELLE,190
+Marshall,A107,District Judge, 58th Judicial District,,Jack M. TELLE,415
+Marshall,A108,District Judge, 58th Judicial District,,Jack M. TELLE,289
+Marshall,B101,District Judge, 58th Judicial District,,Jack M. TELLE,235
+Marshall,B102,District Judge, 58th Judicial District,,Jack M. TELLE,428
+Marshall,B103,District Judge, 58th Judicial District,,Jack M. TELLE,213
+Marshall,B104,District Judge, 58th Judicial District,,Jack M. TELLE,176
+Marshall,B105,District Judge, 58th Judicial District,,Jack M. TELLE,325
+Marshall,B106,District Judge, 58th Judicial District,,Jack M. TELLE,338
+Marshall,B107,District Judge, 58th Judicial District,,Jack M. TELLE,281
+Marshall,B108,District Judge, 58th Judicial District,,Jack M. TELLE,199
+Marshall,B109,District Judge, 58th Judicial District,,Jack M. TELLE,241
+Marshall,C101,District Judge, 58th Judicial District,,Jack M. TELLE,388
+Marshall,C102,District Judge, 58th Judicial District,,Jack M. TELLE,190
+Marshall,C103,District Judge, 58th Judicial District,,Jack M. TELLE,356
+Marshall,C104,District Judge, 58th Judicial District,,Jack M. TELLE,585
+Marshall,C105,District Judge, 58th Judicial District,,Jack M. TELLE,422
+Marshall,C106,District Judge, 58th Judicial District,,Jack M. TELLE,205
+Marshall,C107,District Judge, 58th Judicial District,,Jack M. TELLE,157
+Marshall,C108,District Judge, 58th Judicial District,,Jack M. TELLE,309
+Marshall,AB,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,49
+Marshall,B101,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,201
+Marshall,B106,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,305
+Marshall,B107,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,249
+Marshall,B108,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,179
+Marshall,B109,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,164
+Marshall,C107,MEMBER BOARD of EDUCATION 2nd Educational District,,,Rocky L. HUDSON,139
+Marshall,AB,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,41
+Marshall,C101,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,350
+Marshall,C102,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,167
+Marshall,C103,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,323
+Marshall,C106,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,177
+Marshall,C108,MEMBER BOARD of EDUCATION 3rd Educational District,,,Jacqueline PRATER,276
+Marshall,AB,MAYOR City of Calvert City,,,Lynn JONES,28
+Marshall,C102,MAYOR City of Calvert City,,,Lynn JONES,111
+Marshall,C103,MAYOR City of Calvert City,,,Lynn JONES,234
+Marshall,C106,MAYOR City of Calvert City,,,Lynn JONES,11
+Marshall,C108,MAYOR City of Calvert City,,,Lynn JONES,251
+Marshall,AB,CITY COUNCIL City of Calvert City,,,Tim HAWKINS,21
+Marshall,C102,CITY COUNCIL City of Calvert City,,,Tim HAWKINS,104
+Marshall,C103,CITY COUNCIL City of Calvert City,,,Tim HAWKINS,196
+Marshall,C106,CITY COUNCIL City of Calvert City,,,Tim HAWKINS,6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,Tim HAWKINS,253
+Marshall,AB,CITY COUNCIL City of Calvert City,,,R. Daryl SMITH,23
+Marshall,C102,CITY COUNCIL City of Calvert City,,,R. Daryl SMITH,111
+Marshall,C103,CITY COUNCIL City of Calvert City,,,R. Daryl SMITH,215
+Marshall,C106,CITY COUNCIL City of Calvert City,,,R. Daryl SMITH,6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,R. Daryl SMITH,247
+Marshall,AB,CITY COUNCIL City of Calvert City,,,Gene COLBURN,26
+Marshall,C102,CITY COUNCIL City of Calvert City,,,Gene COLBURN,121
+Marshall,C103,CITY COUNCIL City of Calvert City,,,Gene COLBURN,203
+Marshall,C106,CITY COUNCIL City of Calvert City,,,Gene COLBURN,6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,Gene COLBURN,257
+Marshall,AB,CITY COUNCIL City of Calvert City,,,"Robert ""Bob"" FUTRELL",25
+Marshall,C102,CITY COUNCIL City of Calvert City,,,"Robert ""Bob"" FUTRELL",114
+Marshall,C103,CITY COUNCIL City of Calvert City,,,"Robert ""Bob"" FUTRELL",216
+Marshall,C106,CITY COUNCIL City of Calvert City,,,"Robert ""Bob"" FUTRELL",6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,"Robert ""Bob"" FUTRELL",254
+Marshall,AB,CITY COUNCIL City of Calvert City,,,"Richard ""Dr. Rick"" COCKE",25
+Marshall,C102,CITY COUNCIL City of Calvert City,,,"Richard ""Dr. Rick"" COCKE",112
+Marshall,C103,CITY COUNCIL City of Calvert City,,,"Richard ""Dr. Rick"" COCKE",216
+Marshall,C106,CITY COUNCIL City of Calvert City,,,"Richard ""Dr. Rick"" COCKE",6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,"Richard ""Dr. Rick"" COCKE",262
+Marshall,AB,CITY COUNCIL City of Calvert City,,,Kevin B. STOKES,25
+Marshall,C102,CITY COUNCIL City of Calvert City,,,Kevin B. STOKES,109
+Marshall,C103,CITY COUNCIL City of Calvert City,,,Kevin B. STOKES,205
+Marshall,C106,CITY COUNCIL City of Calvert City,,,Kevin B. STOKES,6
+Marshall,C108,CITY COUNCIL City of Calvert City,,,Kevin B. STOKES,250
