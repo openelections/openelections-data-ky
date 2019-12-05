@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes
-Gallatin,AB,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Gallatin,A101,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Gallatin,A102,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Gallatin,B101,President and Vice President of the United States,,REP,Newt GINGRICH,4
-Gallatin,B102,President and Vice President of the United States,,REP,Newt GINGRICH,3
-Gallatin,C101,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Gallatin,C102,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Gallatin,D101,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Gallatin,D102,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Gallatin,AB,President and Vice President of the United States,,REP,Rick SANTORUM,0
-Gallatin,A101,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Gallatin,A102,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Gallatin,B101,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Gallatin,B102,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Gallatin,C101,President and Vice President of the United States,,REP,Rick SANTORUM,4
-Gallatin,C102,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Gallatin,D101,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Gallatin,D102,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Gallatin,AB,President and Vice President of the United States,,REP,Mitt ROMNEY,5
-Gallatin,A101,President and Vice President of the United States,,REP,Mitt ROMNEY,11
-Gallatin,A102,President and Vice President of the United States,,REP,Mitt ROMNEY,10
-Gallatin,B101,President and Vice President of the United States,,REP,Mitt ROMNEY,13
-Gallatin,B102,President and Vice President of the United States,,REP,Mitt ROMNEY,29
-Gallatin,C101,President and Vice President of the United States,,REP,Mitt ROMNEY,20
-Gallatin,C102,President and Vice President of the United States,,REP,Mitt ROMNEY,10
-Gallatin,D101,President and Vice President of the United States,,REP,Mitt ROMNEY,14
-Gallatin,D102,President and Vice President of the United States,,REP,Mitt ROMNEY,22
-Gallatin,AB,President and Vice President of the United States,,REP,Ron PAUL,1
-Gallatin,A101,President and Vice President of the United States,,REP,Ron PAUL,1
-Gallatin,A102,President and Vice President of the United States,,REP,Ron PAUL,1
-Gallatin,B101,President and Vice President of the United States,,REP,Ron PAUL,4
-Gallatin,B102,President and Vice President of the United States,,REP,Ron PAUL,10
-Gallatin,C101,President and Vice President of the United States,,REP,Ron PAUL,9
-Gallatin,C102,President and Vice President of the United States,,REP,Ron PAUL,7
-Gallatin,D101,President and Vice President of the United States,,REP,Ron PAUL,7
-Gallatin,D102,President and Vice President of the United States,,REP,Ron PAUL,5
-Gallatin,AB,President and Vice President of the United States,,,"""UNCOMMITTED""",16
-Gallatin,A101,President and Vice President of the United States,,,"""UNCOMMITTED""",36
-Gallatin,A102,President and Vice President of the United States,,,"""UNCOMMITTED""",15
-Gallatin,B101,President and Vice President of the United States,,,"""UNCOMMITTED""",19
-Gallatin,B102,President and Vice President of the United States,,,"""UNCOMMITTED""",18
-Gallatin,C101,President and Vice President of the United States,,,"""UNCOMMITTED""",44
-Gallatin,C102,President and Vice President of the United States,,,"""UNCOMMITTED""",14
-Gallatin,D101,President and Vice President of the United States,,,"""UNCOMMITTED""",24
-Gallatin,D102,President and Vice President of the United States,,,"""UNCOMMITTED""",27
+Gallatin,AB,President,,REP,Newt GINGRICH,1
+Gallatin,A101,President,,REP,Newt GINGRICH,1
+Gallatin,A102,President,,REP,Newt GINGRICH,0
+Gallatin,B101,President,,REP,Newt GINGRICH,4
+Gallatin,B102,President,,REP,Newt GINGRICH,3
+Gallatin,C101,President,,REP,Newt GINGRICH,2
+Gallatin,C102,President,,REP,Newt GINGRICH,0
+Gallatin,D101,President,,REP,Newt GINGRICH,2
+Gallatin,D102,President,,REP,Newt GINGRICH,2
+Gallatin,AB,President,,REP,Rick SANTORUM,0
+Gallatin,A101,President,,REP,Rick SANTORUM,2
+Gallatin,A102,President,,REP,Rick SANTORUM,2
+Gallatin,B101,President,,REP,Rick SANTORUM,1
+Gallatin,B102,President,,REP,Rick SANTORUM,2
+Gallatin,C101,President,,REP,Rick SANTORUM,4
+Gallatin,C102,President,,REP,Rick SANTORUM,1
+Gallatin,D101,President,,REP,Rick SANTORUM,2
+Gallatin,D102,President,,REP,Rick SANTORUM,1
+Gallatin,AB,President,,REP,Mitt ROMNEY,5
+Gallatin,A101,President,,REP,Mitt ROMNEY,11
+Gallatin,A102,President,,REP,Mitt ROMNEY,10
+Gallatin,B101,President,,REP,Mitt ROMNEY,13
+Gallatin,B102,President,,REP,Mitt ROMNEY,29
+Gallatin,C101,President,,REP,Mitt ROMNEY,20
+Gallatin,C102,President,,REP,Mitt ROMNEY,10
+Gallatin,D101,President,,REP,Mitt ROMNEY,14
+Gallatin,D102,President,,REP,Mitt ROMNEY,22
+Gallatin,AB,President,,REP,Ron PAUL,1
+Gallatin,A101,President,,REP,Ron PAUL,1
+Gallatin,A102,President,,REP,Ron PAUL,1
+Gallatin,B101,President,,REP,Ron PAUL,4
+Gallatin,B102,President,,REP,Ron PAUL,10
+Gallatin,C101,President,,REP,Ron PAUL,9
+Gallatin,C102,President,,REP,Ron PAUL,7
+Gallatin,D101,President,,REP,Ron PAUL,7
+Gallatin,D102,President,,REP,Ron PAUL,5
+Gallatin,AB,President,,,"""UNCOMMITTED""",16
+Gallatin,A101,President,,,"""UNCOMMITTED""",36
+Gallatin,A102,President,,,"""UNCOMMITTED""",15
+Gallatin,B101,President,,,"""UNCOMMITTED""",19
+Gallatin,B102,President,,,"""UNCOMMITTED""",18
+Gallatin,C101,President,,,"""UNCOMMITTED""",44
+Gallatin,C102,President,,,"""UNCOMMITTED""",14
+Gallatin,D101,President,,,"""UNCOMMITTED""",24
+Gallatin,D102,President,,,"""UNCOMMITTED""",27
 Gallatin,AB,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,1
 Gallatin,A101,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,4
 Gallatin,A102,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,6
@@ -107,24 +107,24 @@ Gallatin,C101,"US Representative, 4th Congressional District", 4th Congressional
 Gallatin,C102,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Tom WURTZ,0
 Gallatin,D101,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Tom WURTZ,0
 Gallatin,D102,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Tom WURTZ,0
-Gallatin,AB,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,3
-Gallatin,A101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,7
-Gallatin,A102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,9
-Gallatin,B101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,19
-Gallatin,B102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,23
-Gallatin,C101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,17
-Gallatin,C102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,11
-Gallatin,D101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,20
-Gallatin,D102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,19
-Gallatin,AB,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,1
-Gallatin,A101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,9
-Gallatin,A102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,4
-Gallatin,B101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,3
-Gallatin,B102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,16
-Gallatin,C101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,14
-Gallatin,C102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,4
-Gallatin,D101,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,6
-Gallatin,D102,"State Senator, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,7
+Gallatin,AB,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,3
+Gallatin,A101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,7
+Gallatin,A102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,9
+Gallatin,B101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,19
+Gallatin,B102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,23
+Gallatin,C101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,17
+Gallatin,C102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,11
+Gallatin,D101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,20
+Gallatin,D102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,John SCHICKEL,19
+Gallatin,AB,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,1
+Gallatin,A101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,9
+Gallatin,A102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,4
+Gallatin,B101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,3
+Gallatin,B102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,16
+Gallatin,C101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,14
+Gallatin,C102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,4
+Gallatin,D101,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,6
+Gallatin,D102,"State Senate, 11th Senatorial District", 11th Senatorial District - REP,REP,Joshua L. TURNER,7
 Gallatin,AB,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Brian E. LINDER,1
 Gallatin,A101,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Brian E. LINDER,9
 Gallatin,A102,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Brian E. LINDER,8
@@ -143,15 +143,15 @@ Gallatin,C101,"State Representative, 61st Representative District", 61st Represe
 Gallatin,C102,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Scott BRUCE,5
 Gallatin,D101,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Scott BRUCE,16
 Gallatin,D102,"State Representative, 61st Representative District", 61st Representative District - REP,REP,Scott BRUCE,14
-Gallatin,AB,President and Vice President of the United States,,DEM,Barack OBAMA,16
-Gallatin,A101,President and Vice President of the United States,,DEM,Barack OBAMA,58
-Gallatin,A102,President and Vice President of the United States,,DEM,Barack OBAMA,34
-Gallatin,B101,President and Vice President of the United States,,DEM,Barack OBAMA,11
-Gallatin,B102,President and Vice President of the United States,,DEM,Barack OBAMA,14
-Gallatin,C101,President and Vice President of the United States,,DEM,Barack OBAMA,36
-Gallatin,C102,President and Vice President of the United States,,DEM,Barack OBAMA,9
-Gallatin,D101,President and Vice President of the United States,,DEM,Barack OBAMA,24
-Gallatin,D102,President and Vice President of the United States,,DEM,Barack OBAMA,26
+Gallatin,AB,President,,DEM,Barack OBAMA,16
+Gallatin,A101,President,,DEM,Barack OBAMA,58
+Gallatin,A102,President,,DEM,Barack OBAMA,34
+Gallatin,B101,President,,DEM,Barack OBAMA,11
+Gallatin,B102,President,,DEM,Barack OBAMA,14
+Gallatin,C101,President,,DEM,Barack OBAMA,36
+Gallatin,C102,President,,DEM,Barack OBAMA,9
+Gallatin,D101,President,,DEM,Barack OBAMA,24
+Gallatin,D102,President,,DEM,Barack OBAMA,26
 Gallatin,AB,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,5
 Gallatin,A101,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,24
 Gallatin,A102,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,14

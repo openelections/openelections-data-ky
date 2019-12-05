@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes
-Bracken,AB,President and Vice President of the United States,,,Newt GINGRICH,2
-Bracken,A101,President and Vice President of the United States,,,Newt GINGRICH,4
-Bracken,B101,President and Vice President of the United States,,,Newt GINGRICH,0
-Bracken,C101,President and Vice President of the United States,,,Newt GINGRICH,2
-Bracken,D101,President and Vice President of the United States,,,Newt GINGRICH,1
-Bracken,E101,President and Vice President of the United States,,,Newt GINGRICH,3
-Bracken,F101,President and Vice President of the United States,,,Newt GINGRICH,0
-Bracken,G101,President and Vice President of the United States,,,Newt GINGRICH,1
-Bracken,H101,President and Vice President of the United States,,,Newt GINGRICH,1
-Bracken,AB,President and Vice President of the United States,,,Rick SANTORUM,1
-Bracken,A101,President and Vice President of the United States,,,Rick SANTORUM,3
-Bracken,B101,President and Vice President of the United States,,,Rick SANTORUM,2
-Bracken,C101,President and Vice President of the United States,,,Rick SANTORUM,2
-Bracken,D101,President and Vice President of the United States,,,Rick SANTORUM,3
-Bracken,E101,President and Vice President of the United States,,,Rick SANTORUM,2
-Bracken,F101,President and Vice President of the United States,,,Rick SANTORUM,5
-Bracken,G101,President and Vice President of the United States,,,Rick SANTORUM,11
-Bracken,H101,President and Vice President of the United States,,,Rick SANTORUM,1
-Bracken,AB,President and Vice President of the United States,,,Mitt ROMNEY,15
-Bracken,A101,President and Vice President of the United States,,,Mitt ROMNEY,27
-Bracken,B101,President and Vice President of the United States,,,Mitt ROMNEY,12
-Bracken,C101,President and Vice President of the United States,,,Mitt ROMNEY,8
-Bracken,D101,President and Vice President of the United States,,,Mitt ROMNEY,18
-Bracken,E101,President and Vice President of the United States,,,Mitt ROMNEY,15
-Bracken,F101,President and Vice President of the United States,,,Mitt ROMNEY,12
-Bracken,G101,President and Vice President of the United States,,,Mitt ROMNEY,19
-Bracken,H101,President and Vice President of the United States,,,Mitt ROMNEY,8
-Bracken,AB,President and Vice President of the United States,,,Ron PAUL,1
-Bracken,A101,President and Vice President of the United States,,,Ron PAUL,6
-Bracken,B101,President and Vice President of the United States,,,Ron PAUL,3
-Bracken,C101,President and Vice President of the United States,,,Ron PAUL,1
-Bracken,D101,President and Vice President of the United States,,,Ron PAUL,0
-Bracken,E101,President and Vice President of the United States,,,Ron PAUL,5
-Bracken,F101,President and Vice President of the United States,,,Ron PAUL,3
-Bracken,G101,President and Vice President of the United States,,,Ron PAUL,3
-Bracken,H101,President and Vice President of the United States,,,Ron PAUL,2
-Bracken,AB,President and Vice President of the United States,,,"""UNCOMMITTED""",11
-Bracken,A101,President and Vice President of the United States,,,"""UNCOMMITTED""",36
-Bracken,B101,President and Vice President of the United States,,,"""UNCOMMITTED""",20
-Bracken,C101,President and Vice President of the United States,,,"""UNCOMMITTED""",14
-Bracken,D101,President and Vice President of the United States,,,"""UNCOMMITTED""",32
-Bracken,E101,President and Vice President of the United States,,,"""UNCOMMITTED""",27
-Bracken,F101,President and Vice President of the United States,,,"""UNCOMMITTED""",39
-Bracken,G101,President and Vice President of the United States,,,"""UNCOMMITTED""",15
-Bracken,H101,President and Vice President of the United States,,,"""UNCOMMITTED""",28
+Bracken,AB,President,,,Newt GINGRICH,2
+Bracken,A101,President,,,Newt GINGRICH,4
+Bracken,B101,President,,,Newt GINGRICH,0
+Bracken,C101,President,,,Newt GINGRICH,2
+Bracken,D101,President,,,Newt GINGRICH,1
+Bracken,E101,President,,,Newt GINGRICH,3
+Bracken,F101,President,,,Newt GINGRICH,0
+Bracken,G101,President,,,Newt GINGRICH,1
+Bracken,H101,President,,,Newt GINGRICH,1
+Bracken,AB,President,,,Rick SANTORUM,1
+Bracken,A101,President,,,Rick SANTORUM,3
+Bracken,B101,President,,,Rick SANTORUM,2
+Bracken,C101,President,,,Rick SANTORUM,2
+Bracken,D101,President,,,Rick SANTORUM,3
+Bracken,E101,President,,,Rick SANTORUM,2
+Bracken,F101,President,,,Rick SANTORUM,5
+Bracken,G101,President,,,Rick SANTORUM,11
+Bracken,H101,President,,,Rick SANTORUM,1
+Bracken,AB,President,,,Mitt ROMNEY,15
+Bracken,A101,President,,,Mitt ROMNEY,27
+Bracken,B101,President,,,Mitt ROMNEY,12
+Bracken,C101,President,,,Mitt ROMNEY,8
+Bracken,D101,President,,,Mitt ROMNEY,18
+Bracken,E101,President,,,Mitt ROMNEY,15
+Bracken,F101,President,,,Mitt ROMNEY,12
+Bracken,G101,President,,,Mitt ROMNEY,19
+Bracken,H101,President,,,Mitt ROMNEY,8
+Bracken,AB,President,,,Ron PAUL,1
+Bracken,A101,President,,,Ron PAUL,6
+Bracken,B101,President,,,Ron PAUL,3
+Bracken,C101,President,,,Ron PAUL,1
+Bracken,D101,President,,,Ron PAUL,0
+Bracken,E101,President,,,Ron PAUL,5
+Bracken,F101,President,,,Ron PAUL,3
+Bracken,G101,President,,,Ron PAUL,3
+Bracken,H101,President,,,Ron PAUL,2
+Bracken,AB,President,,,"""UNCOMMITTED""",11
+Bracken,A101,President,,,"""UNCOMMITTED""",36
+Bracken,B101,President,,,"""UNCOMMITTED""",20
+Bracken,C101,President,,,"""UNCOMMITTED""",14
+Bracken,D101,President,,,"""UNCOMMITTED""",32
+Bracken,E101,President,,,"""UNCOMMITTED""",27
+Bracken,F101,President,,,"""UNCOMMITTED""",39
+Bracken,G101,President,,,"""UNCOMMITTED""",15
+Bracken,H101,President,,,"""UNCOMMITTED""",28
 Bracken,AB,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Alecia WEBB-EDGINGTON,7
 Bracken,A101,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Alecia WEBB-EDGINGTON,16
 Bracken,B101,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Alecia WEBB-EDGINGTON,3
@@ -107,15 +107,15 @@ Bracken,E101,"US Representative, 4th Congressional District", 4th Congressional 
 Bracken,F101,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Tom WURTZ,0
 Bracken,G101,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Tom WURTZ,0
 Bracken,H101,"US Representative, 4th Congressional District", 4th Congressional District - REP,,Tom WURTZ,0
-Bracken,AB,President and Vice President of the United States,,,Barack OBAMA,14
-Bracken,A101,President and Vice President of the United States,,,Barack OBAMA,11
-Bracken,B101,President and Vice President of the United States,,,Barack OBAMA,18
-Bracken,C101,President and Vice President of the United States,,,Barack OBAMA,14
-Bracken,D101,President and Vice President of the United States,,,Barack OBAMA,9
-Bracken,E101,President and Vice President of the United States,,,Barack OBAMA,15
-Bracken,F101,President and Vice President of the United States,,,Barack OBAMA,25
-Bracken,G101,President and Vice President of the United States,,,Barack OBAMA,15
-Bracken,H101,President and Vice President of the United States,,,Barack OBAMA,24
+Bracken,AB,President,,,Barack OBAMA,14
+Bracken,A101,President,,,Barack OBAMA,11
+Bracken,B101,President,,,Barack OBAMA,18
+Bracken,C101,President,,,Barack OBAMA,14
+Bracken,D101,President,,,Barack OBAMA,9
+Bracken,E101,President,,,Barack OBAMA,15
+Bracken,F101,President,,,Barack OBAMA,25
+Bracken,G101,President,,,Barack OBAMA,15
+Bracken,H101,President,,,Barack OBAMA,24
 Bracken,AB,"US Representative, 4th Congressional District", 4th Congressional District - DEM,,Greg FRANK,9
 Bracken,A101,"US Representative, 4th Congressional District", 4th Congressional District - DEM,,Greg FRANK,19
 Bracken,B101,"US Representative, 4th Congressional District", 4th Congressional District - DEM,,Greg FRANK,7

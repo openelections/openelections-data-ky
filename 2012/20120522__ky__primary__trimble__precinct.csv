@@ -1,69 +1,69 @@
 county,precinct,office,district,party,candidate,votes
-Trimble,AB,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Trimble,A101,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,A102,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Trimble,A103,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Trimble,B101,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,B103,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,B104,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,C101,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,C103,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Trimble,C104,President and Vice President of the United States,,REP,Newt GINGRICH,3
-Trimble,D101,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Trimble,D102,President and Vice President of the United States,,REP,Newt GINGRICH,1
-Trimble,D103,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Trimble,AB,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Trimble,A101,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Trimble,A102,President and Vice President of the United States,,REP,Rick SANTORUM,4
-Trimble,A103,President and Vice President of the United States,,REP,Rick SANTORUM,4
-Trimble,B101,President and Vice President of the United States,,REP,Rick SANTORUM,3
-Trimble,B103,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Trimble,B104,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Trimble,C101,President and Vice President of the United States,,REP,Rick SANTORUM,0
-Trimble,C103,President and Vice President of the United States,,REP,Rick SANTORUM,3
-Trimble,C104,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Trimble,D101,President and Vice President of the United States,,REP,Rick SANTORUM,5
-Trimble,D102,President and Vice President of the United States,,REP,Rick SANTORUM,1
-Trimble,D103,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Trimble,AB,President and Vice President of the United States,,REP,Mitt ROMNEY,3
-Trimble,A101,President and Vice President of the United States,,REP,Mitt ROMNEY,9
-Trimble,A102,President and Vice President of the United States,,REP,Mitt ROMNEY,13
-Trimble,A103,President and Vice President of the United States,,REP,Mitt ROMNEY,13
-Trimble,B101,President and Vice President of the United States,,REP,Mitt ROMNEY,10
-Trimble,B103,President and Vice President of the United States,,REP,Mitt ROMNEY,23
-Trimble,B104,President and Vice President of the United States,,REP,Mitt ROMNEY,11
-Trimble,C101,President and Vice President of the United States,,REP,Mitt ROMNEY,2
-Trimble,C103,President and Vice President of the United States,,REP,Mitt ROMNEY,7
-Trimble,C104,President and Vice President of the United States,,REP,Mitt ROMNEY,13
-Trimble,D101,President and Vice President of the United States,,REP,Mitt ROMNEY,2
-Trimble,D102,President and Vice President of the United States,,REP,Mitt ROMNEY,9
-Trimble,D103,President and Vice President of the United States,,REP,Mitt ROMNEY,7
-Trimble,AB,President and Vice President of the United States,,REP,Ron PAUL,0
-Trimble,A101,President and Vice President of the United States,,REP,Ron PAUL,5
-Trimble,A102,President and Vice President of the United States,,REP,Ron PAUL,0
-Trimble,A103,President and Vice President of the United States,,REP,Ron PAUL,5
-Trimble,B101,President and Vice President of the United States,,REP,Ron PAUL,0
-Trimble,B103,President and Vice President of the United States,,REP,Ron PAUL,3
-Trimble,B104,President and Vice President of the United States,,REP,Ron PAUL,1
-Trimble,C101,President and Vice President of the United States,,REP,Ron PAUL,4
-Trimble,C103,President and Vice President of the United States,,REP,Ron PAUL,2
-Trimble,C104,President and Vice President of the United States,,REP,Ron PAUL,2
-Trimble,D101,President and Vice President of the United States,,REP,Ron PAUL,4
-Trimble,D102,President and Vice President of the United States,,REP,Ron PAUL,3
-Trimble,D103,President and Vice President of the United States,,REP,Ron PAUL,3
-Trimble,AB,President and Vice President of the United States,,,"""UNCOMMITTED""",18
-Trimble,A101,President and Vice President of the United States,,,"""UNCOMMITTED""",65
-Trimble,A102,President and Vice President of the United States,,,"""UNCOMMITTED""",34
-Trimble,A103,President and Vice President of the United States,,,"""UNCOMMITTED""",78
-Trimble,B101,President and Vice President of the United States,,,"""UNCOMMITTED""",37
-Trimble,B103,President and Vice President of the United States,,,"""UNCOMMITTED""",39
-Trimble,B104,President and Vice President of the United States,,,"""UNCOMMITTED""",49
-Trimble,C101,President and Vice President of the United States,,,"""UNCOMMITTED""",29
-Trimble,C103,President and Vice President of the United States,,,"""UNCOMMITTED""",51
-Trimble,C104,President and Vice President of the United States,,,"""UNCOMMITTED""",74
-Trimble,D101,President and Vice President of the United States,,,"""UNCOMMITTED""",28
-Trimble,D102,President and Vice President of the United States,,,"""UNCOMMITTED""",30
-Trimble,D103,President and Vice President of the United States,,,"""UNCOMMITTED""",38
+Trimble,AB,President,,REP,Newt GINGRICH,0
+Trimble,A101,President,,REP,Newt GINGRICH,1
+Trimble,A102,President,,REP,Newt GINGRICH,0
+Trimble,A103,President,,REP,Newt GINGRICH,0
+Trimble,B101,President,,REP,Newt GINGRICH,1
+Trimble,B103,President,,REP,Newt GINGRICH,1
+Trimble,B104,President,,REP,Newt GINGRICH,1
+Trimble,C101,President,,REP,Newt GINGRICH,1
+Trimble,C103,President,,REP,Newt GINGRICH,2
+Trimble,C104,President,,REP,Newt GINGRICH,3
+Trimble,D101,President,,REP,Newt GINGRICH,0
+Trimble,D102,President,,REP,Newt GINGRICH,1
+Trimble,D103,President,,REP,Newt GINGRICH,2
+Trimble,AB,President,,REP,Rick SANTORUM,2
+Trimble,A101,President,,REP,Rick SANTORUM,1
+Trimble,A102,President,,REP,Rick SANTORUM,4
+Trimble,A103,President,,REP,Rick SANTORUM,4
+Trimble,B101,President,,REP,Rick SANTORUM,3
+Trimble,B103,President,,REP,Rick SANTORUM,2
+Trimble,B104,President,,REP,Rick SANTORUM,1
+Trimble,C101,President,,REP,Rick SANTORUM,0
+Trimble,C103,President,,REP,Rick SANTORUM,3
+Trimble,C104,President,,REP,Rick SANTORUM,2
+Trimble,D101,President,,REP,Rick SANTORUM,5
+Trimble,D102,President,,REP,Rick SANTORUM,1
+Trimble,D103,President,,REP,Rick SANTORUM,2
+Trimble,AB,President,,REP,Mitt ROMNEY,3
+Trimble,A101,President,,REP,Mitt ROMNEY,9
+Trimble,A102,President,,REP,Mitt ROMNEY,13
+Trimble,A103,President,,REP,Mitt ROMNEY,13
+Trimble,B101,President,,REP,Mitt ROMNEY,10
+Trimble,B103,President,,REP,Mitt ROMNEY,23
+Trimble,B104,President,,REP,Mitt ROMNEY,11
+Trimble,C101,President,,REP,Mitt ROMNEY,2
+Trimble,C103,President,,REP,Mitt ROMNEY,7
+Trimble,C104,President,,REP,Mitt ROMNEY,13
+Trimble,D101,President,,REP,Mitt ROMNEY,2
+Trimble,D102,President,,REP,Mitt ROMNEY,9
+Trimble,D103,President,,REP,Mitt ROMNEY,7
+Trimble,AB,President,,REP,Ron PAUL,0
+Trimble,A101,President,,REP,Ron PAUL,5
+Trimble,A102,President,,REP,Ron PAUL,0
+Trimble,A103,President,,REP,Ron PAUL,5
+Trimble,B101,President,,REP,Ron PAUL,0
+Trimble,B103,President,,REP,Ron PAUL,3
+Trimble,B104,President,,REP,Ron PAUL,1
+Trimble,C101,President,,REP,Ron PAUL,4
+Trimble,C103,President,,REP,Ron PAUL,2
+Trimble,C104,President,,REP,Ron PAUL,2
+Trimble,D101,President,,REP,Ron PAUL,4
+Trimble,D102,President,,REP,Ron PAUL,3
+Trimble,D103,President,,REP,Ron PAUL,3
+Trimble,AB,President,,,"""UNCOMMITTED""",18
+Trimble,A101,President,,,"""UNCOMMITTED""",65
+Trimble,A102,President,,,"""UNCOMMITTED""",34
+Trimble,A103,President,,,"""UNCOMMITTED""",78
+Trimble,B101,President,,,"""UNCOMMITTED""",37
+Trimble,B103,President,,,"""UNCOMMITTED""",39
+Trimble,B104,President,,,"""UNCOMMITTED""",49
+Trimble,C101,President,,,"""UNCOMMITTED""",29
+Trimble,C103,President,,,"""UNCOMMITTED""",51
+Trimble,C104,President,,,"""UNCOMMITTED""",74
+Trimble,D101,President,,,"""UNCOMMITTED""",28
+Trimble,D102,President,,,"""UNCOMMITTED""",30
+Trimble,D103,President,,,"""UNCOMMITTED""",38
 Trimble,AB,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,4
 Trimble,A101,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,8
 Trimble,A102,"US Representative, 4th Congressional District", 4th Congressional District - REP,REP,Alecia WEBB-EDGINGTON,6
@@ -207,19 +207,19 @@ Trimble,C104,"Commonwealth's Attorney, 12th Judicial Circuit", 12th Judicial Cir
 Trimble,D101,"Commonwealth's Attorney, 12th Judicial Circuit", 12th Judicial Circuit - REP,REP,John SHAUGHNESSY,3
 Trimble,D102,"Commonwealth's Attorney, 12th Judicial Circuit", 12th Judicial Circuit - REP,REP,John SHAUGHNESSY,5
 Trimble,D103,"Commonwealth's Attorney, 12th Judicial Circuit", 12th Judicial Circuit - REP,REP,John SHAUGHNESSY,4
-Trimble,AB,President and Vice President of the United States,,DEM,Barack OBAMA,14
-Trimble,A101,President and Vice President of the United States,,DEM,Barack OBAMA,26
-Trimble,A102,President and Vice President of the United States,,DEM,Barack OBAMA,22
-Trimble,A103,President and Vice President of the United States,,DEM,Barack OBAMA,43
-Trimble,B101,President and Vice President of the United States,,DEM,Barack OBAMA,23
-Trimble,B103,President and Vice President of the United States,,DEM,Barack OBAMA,23
-Trimble,B104,President and Vice President of the United States,,DEM,Barack OBAMA,47
-Trimble,C101,President and Vice President of the United States,,DEM,Barack OBAMA,37
-Trimble,C103,President and Vice President of the United States,,DEM,Barack OBAMA,40
-Trimble,C104,President and Vice President of the United States,,DEM,Barack OBAMA,33
-Trimble,D101,President and Vice President of the United States,,DEM,Barack OBAMA,18
-Trimble,D102,President and Vice President of the United States,,DEM,Barack OBAMA,14
-Trimble,D103,President and Vice President of the United States,,DEM,Barack OBAMA,42
+Trimble,AB,President,,DEM,Barack OBAMA,14
+Trimble,A101,President,,DEM,Barack OBAMA,26
+Trimble,A102,President,,DEM,Barack OBAMA,22
+Trimble,A103,President,,DEM,Barack OBAMA,43
+Trimble,B101,President,,DEM,Barack OBAMA,23
+Trimble,B103,President,,DEM,Barack OBAMA,23
+Trimble,B104,President,,DEM,Barack OBAMA,47
+Trimble,C101,President,,DEM,Barack OBAMA,37
+Trimble,C103,President,,DEM,Barack OBAMA,40
+Trimble,C104,President,,DEM,Barack OBAMA,33
+Trimble,D101,President,,DEM,Barack OBAMA,18
+Trimble,D102,President,,DEM,Barack OBAMA,14
+Trimble,D103,President,,DEM,Barack OBAMA,42
 Trimble,AB,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,7
 Trimble,A101,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,28
 Trimble,A102,"US Representative, 4th Congressional District", 4th Congressional District - DEM,DEM,Greg FRANK,18

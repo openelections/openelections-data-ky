@@ -1,79 +1,79 @@
 county,precinct,office,district,party,candidate,votes
-Anderson,AB,President and Vice President of the United States,,REP,Newt GINGRICH,3
-Anderson,A101,President and Vice President of the United States,,REP,Newt GINGRICH,4
-Anderson,A102,President and Vice President of the United States,,REP,Newt GINGRICH,4
-Anderson,B101,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Anderson,B102,President and Vice President of the United States,,REP,Newt GINGRICH,10
-Anderson,C101,President and Vice President of the United States,,REP,Newt GINGRICH,7
-Anderson,C102,President and Vice President of the United States,,REP,Newt GINGRICH,8
-Anderson,D101,President and Vice President of the United States,,REP,Newt GINGRICH,4
-Anderson,D102,President and Vice President of the United States,,REP,Newt GINGRICH,6
-Anderson,E101,President and Vice President of the United States,,REP,Newt GINGRICH,6
-Anderson,E103,President and Vice President of the United States,,REP,Newt GINGRICH,6
-Anderson,F101,President and Vice President of the United States,,REP,Newt GINGRICH,5
-Anderson,F102,President and Vice President of the United States,,REP,Newt GINGRICH,4
-Anderson,F103,President and Vice President of the United States,,REP,Newt GINGRICH,0
-Anderson,F104,President and Vice President of the United States,,REP,Newt GINGRICH,2
-Anderson,AB,President and Vice President of the United States,,REP,Rick SANTORUM,3
-Anderson,A101,President and Vice President of the United States,,REP,Rick SANTORUM,5
-Anderson,A102,President and Vice President of the United States,,REP,Rick SANTORUM,3
-Anderson,B101,President and Vice President of the United States,,REP,Rick SANTORUM,13
-Anderson,B102,President and Vice President of the United States,,REP,Rick SANTORUM,18
-Anderson,C101,President and Vice President of the United States,,REP,Rick SANTORUM,6
-Anderson,C102,President and Vice President of the United States,,REP,Rick SANTORUM,2
-Anderson,D101,President and Vice President of the United States,,REP,Rick SANTORUM,6
-Anderson,D102,President and Vice President of the United States,,REP,Rick SANTORUM,5
-Anderson,E101,President and Vice President of the United States,,REP,Rick SANTORUM,9
-Anderson,E103,President and Vice President of the United States,,REP,Rick SANTORUM,10
-Anderson,F101,President and Vice President of the United States,,REP,Rick SANTORUM,3
-Anderson,F102,President and Vice President of the United States,,REP,Rick SANTORUM,6
-Anderson,F103,President and Vice President of the United States,,REP,Rick SANTORUM,0
-Anderson,F104,President and Vice President of the United States,,REP,Rick SANTORUM,4
-Anderson,AB,President and Vice President of the United States,,REP,Mitt ROMNEY,27
-Anderson,A101,President and Vice President of the United States,,REP,Mitt ROMNEY,26
-Anderson,A102,President and Vice President of the United States,,REP,Mitt ROMNEY,27
-Anderson,B101,President and Vice President of the United States,,REP,Mitt ROMNEY,42
-Anderson,B102,President and Vice President of the United States,,REP,Mitt ROMNEY,62
-Anderson,C101,President and Vice President of the United States,,REP,Mitt ROMNEY,48
-Anderson,C102,President and Vice President of the United States,,REP,Mitt ROMNEY,38
-Anderson,D101,President and Vice President of the United States,,REP,Mitt ROMNEY,40
-Anderson,D102,President and Vice President of the United States,,REP,Mitt ROMNEY,41
-Anderson,E101,President and Vice President of the United States,,REP,Mitt ROMNEY,50
-Anderson,E103,President and Vice President of the United States,,REP,Mitt ROMNEY,50
-Anderson,F101,President and Vice President of the United States,,REP,Mitt ROMNEY,31
-Anderson,F102,President and Vice President of the United States,,REP,Mitt ROMNEY,12
-Anderson,F103,President and Vice President of the United States,,REP,Mitt ROMNEY,11
-Anderson,F104,President and Vice President of the United States,,REP,Mitt ROMNEY,15
-Anderson,AB,President and Vice President of the United States,,REP,Ron PAUL,7
-Anderson,A101,President and Vice President of the United States,,REP,Ron PAUL,4
-Anderson,A102,President and Vice President of the United States,,REP,Ron PAUL,5
-Anderson,B101,President and Vice President of the United States,,REP,Ron PAUL,7
-Anderson,B102,President and Vice President of the United States,,REP,Ron PAUL,20
-Anderson,C101,President and Vice President of the United States,,REP,Ron PAUL,13
-Anderson,C102,President and Vice President of the United States,,REP,Ron PAUL,10
-Anderson,D101,President and Vice President of the United States,,REP,Ron PAUL,5
-Anderson,D102,President and Vice President of the United States,,REP,Ron PAUL,13
-Anderson,E101,President and Vice President of the United States,,REP,Ron PAUL,9
-Anderson,E103,President and Vice President of the United States,,REP,Ron PAUL,10
-Anderson,F101,President and Vice President of the United States,,REP,Ron PAUL,14
-Anderson,F102,President and Vice President of the United States,,REP,Ron PAUL,8
-Anderson,F103,President and Vice President of the United States,,REP,Ron PAUL,4
-Anderson,F104,President and Vice President of the United States,,REP,Ron PAUL,9
-Anderson,AB,President and Vice President of the United States,,,"""UNCOMMITTED""",19
-Anderson,A101,President and Vice President of the United States,,,"""UNCOMMITTED""",44
-Anderson,A102,President and Vice President of the United States,,,"""UNCOMMITTED""",60
-Anderson,B101,President and Vice President of the United States,,,"""UNCOMMITTED""",53
-Anderson,B102,President and Vice President of the United States,,,"""UNCOMMITTED""",125
-Anderson,C101,President and Vice President of the United States,,,"""UNCOMMITTED""",57
-Anderson,C102,President and Vice President of the United States,,,"""UNCOMMITTED""",34
-Anderson,D101,President and Vice President of the United States,,,"""UNCOMMITTED""",48
-Anderson,D102,President and Vice President of the United States,,,"""UNCOMMITTED""",70
-Anderson,E101,President and Vice President of the United States,,,"""UNCOMMITTED""",110
-Anderson,E103,President and Vice President of the United States,,,"""UNCOMMITTED""",88
-Anderson,F101,President and Vice President of the United States,,,"""UNCOMMITTED""",56
-Anderson,F102,President and Vice President of the United States,,,"""UNCOMMITTED""",35
-Anderson,F103,President and Vice President of the United States,,,"""UNCOMMITTED""",11
-Anderson,F104,President and Vice President of the United States,,,"""UNCOMMITTED""",44
+Anderson,AB,President,,REP,Newt GINGRICH,3
+Anderson,A101,President,,REP,Newt GINGRICH,4
+Anderson,A102,President,,REP,Newt GINGRICH,4
+Anderson,B101,President,,REP,Newt GINGRICH,2
+Anderson,B102,President,,REP,Newt GINGRICH,10
+Anderson,C101,President,,REP,Newt GINGRICH,7
+Anderson,C102,President,,REP,Newt GINGRICH,8
+Anderson,D101,President,,REP,Newt GINGRICH,4
+Anderson,D102,President,,REP,Newt GINGRICH,6
+Anderson,E101,President,,REP,Newt GINGRICH,6
+Anderson,E103,President,,REP,Newt GINGRICH,6
+Anderson,F101,President,,REP,Newt GINGRICH,5
+Anderson,F102,President,,REP,Newt GINGRICH,4
+Anderson,F103,President,,REP,Newt GINGRICH,0
+Anderson,F104,President,,REP,Newt GINGRICH,2
+Anderson,AB,President,,REP,Rick SANTORUM,3
+Anderson,A101,President,,REP,Rick SANTORUM,5
+Anderson,A102,President,,REP,Rick SANTORUM,3
+Anderson,B101,President,,REP,Rick SANTORUM,13
+Anderson,B102,President,,REP,Rick SANTORUM,18
+Anderson,C101,President,,REP,Rick SANTORUM,6
+Anderson,C102,President,,REP,Rick SANTORUM,2
+Anderson,D101,President,,REP,Rick SANTORUM,6
+Anderson,D102,President,,REP,Rick SANTORUM,5
+Anderson,E101,President,,REP,Rick SANTORUM,9
+Anderson,E103,President,,REP,Rick SANTORUM,10
+Anderson,F101,President,,REP,Rick SANTORUM,3
+Anderson,F102,President,,REP,Rick SANTORUM,6
+Anderson,F103,President,,REP,Rick SANTORUM,0
+Anderson,F104,President,,REP,Rick SANTORUM,4
+Anderson,AB,President,,REP,Mitt ROMNEY,27
+Anderson,A101,President,,REP,Mitt ROMNEY,26
+Anderson,A102,President,,REP,Mitt ROMNEY,27
+Anderson,B101,President,,REP,Mitt ROMNEY,42
+Anderson,B102,President,,REP,Mitt ROMNEY,62
+Anderson,C101,President,,REP,Mitt ROMNEY,48
+Anderson,C102,President,,REP,Mitt ROMNEY,38
+Anderson,D101,President,,REP,Mitt ROMNEY,40
+Anderson,D102,President,,REP,Mitt ROMNEY,41
+Anderson,E101,President,,REP,Mitt ROMNEY,50
+Anderson,E103,President,,REP,Mitt ROMNEY,50
+Anderson,F101,President,,REP,Mitt ROMNEY,31
+Anderson,F102,President,,REP,Mitt ROMNEY,12
+Anderson,F103,President,,REP,Mitt ROMNEY,11
+Anderson,F104,President,,REP,Mitt ROMNEY,15
+Anderson,AB,President,,REP,Ron PAUL,7
+Anderson,A101,President,,REP,Ron PAUL,4
+Anderson,A102,President,,REP,Ron PAUL,5
+Anderson,B101,President,,REP,Ron PAUL,7
+Anderson,B102,President,,REP,Ron PAUL,20
+Anderson,C101,President,,REP,Ron PAUL,13
+Anderson,C102,President,,REP,Ron PAUL,10
+Anderson,D101,President,,REP,Ron PAUL,5
+Anderson,D102,President,,REP,Ron PAUL,13
+Anderson,E101,President,,REP,Ron PAUL,9
+Anderson,E103,President,,REP,Ron PAUL,10
+Anderson,F101,President,,REP,Ron PAUL,14
+Anderson,F102,President,,REP,Ron PAUL,8
+Anderson,F103,President,,REP,Ron PAUL,4
+Anderson,F104,President,,REP,Ron PAUL,9
+Anderson,AB,President,,,"""UNCOMMITTED""",19
+Anderson,A101,President,,,"""UNCOMMITTED""",44
+Anderson,A102,President,,,"""UNCOMMITTED""",60
+Anderson,B101,President,,,"""UNCOMMITTED""",53
+Anderson,B102,President,,,"""UNCOMMITTED""",125
+Anderson,C101,President,,,"""UNCOMMITTED""",57
+Anderson,C102,President,,,"""UNCOMMITTED""",34
+Anderson,D101,President,,,"""UNCOMMITTED""",48
+Anderson,D102,President,,,"""UNCOMMITTED""",70
+Anderson,E101,President,,,"""UNCOMMITTED""",110
+Anderson,E103,President,,,"""UNCOMMITTED""",88
+Anderson,F101,President,,,"""UNCOMMITTED""",56
+Anderson,F102,President,,,"""UNCOMMITTED""",35
+Anderson,F103,President,,,"""UNCOMMITTED""",11
+Anderson,F104,President,,,"""UNCOMMITTED""",44
 Anderson,AB,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,"Garland ""Andy"" BARR",33
 Anderson,A101,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,"Garland ""Andy"" BARR",30
 Anderson,A102,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,"Garland ""Andy"" BARR",34
@@ -119,18 +119,18 @@ Anderson,F101,"US Representative, 6th Congressional District", 6th Congressional
 Anderson,F102,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,Curtis KENIMER,1
 Anderson,F103,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,Curtis KENIMER,1
 Anderson,F104,"US Representative, 6th Congressional District", 6th Congressional District - REP,REP,Curtis KENIMER,0
-Anderson,AB,President and Vice President of the United States,,DEM,Barack OBAMA,20
-Anderson,A101,President and Vice President of the United States,,DEM,Barack OBAMA,65
-Anderson,A102,President and Vice President of the United States,,DEM,Barack OBAMA,54
-Anderson,B101,President and Vice President of the United States,,DEM,Barack OBAMA,63
-Anderson,B102,President and Vice President of the United States,,DEM,Barack OBAMA,98
-Anderson,C101,President and Vice President of the United States,,DEM,Barack OBAMA,48
-Anderson,C102,President and Vice President of the United States,,DEM,Barack OBAMA,44
-Anderson,D101,President and Vice President of the United States,,DEM,Barack OBAMA,36
-Anderson,D102,President and Vice President of the United States,,DEM,Barack OBAMA,59
-Anderson,E101,President and Vice President of the United States,,DEM,Barack OBAMA,75
-Anderson,E103,President and Vice President of the United States,,DEM,Barack OBAMA,55
-Anderson,F101,President and Vice President of the United States,,DEM,Barack OBAMA,28
-Anderson,F102,President and Vice President of the United States,,DEM,Barack OBAMA,10
-Anderson,F103,President and Vice President of the United States,,DEM,Barack OBAMA,22
-Anderson,F104,President and Vice President of the United States,,DEM,Barack OBAMA,26
+Anderson,AB,President,,DEM,Barack OBAMA,20
+Anderson,A101,President,,DEM,Barack OBAMA,65
+Anderson,A102,President,,DEM,Barack OBAMA,54
+Anderson,B101,President,,DEM,Barack OBAMA,63
+Anderson,B102,President,,DEM,Barack OBAMA,98
+Anderson,C101,President,,DEM,Barack OBAMA,48
+Anderson,C102,President,,DEM,Barack OBAMA,44
+Anderson,D101,President,,DEM,Barack OBAMA,36
+Anderson,D102,President,,DEM,Barack OBAMA,59
+Anderson,E101,President,,DEM,Barack OBAMA,75
+Anderson,E103,President,,DEM,Barack OBAMA,55
+Anderson,F101,President,,DEM,Barack OBAMA,28
+Anderson,F102,President,,DEM,Barack OBAMA,10
+Anderson,F103,President,,DEM,Barack OBAMA,22
+Anderson,F104,President,,DEM,Barack OBAMA,26
