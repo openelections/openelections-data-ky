@@ -1,0 +1,271 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Green,A101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Green,A101,President,,REP,Vivek RAMASWAMY,1,1,0,0
+Green,A101,President,,REP,Ron DeSANTIS,2,1,1,0
+Green,A101,President,,REP,Donald J. TRUMP,111,30,76,5
+Green,A101,President,,REP,Chris CHRISTIE,5,4,1,0
+Green,A101,President,,REP,Nikki R. HALEY,4,2,2,0
+Green,A101,President,,REP,UNCOMMITTED,4,2,1,1
+Green,A101,President,,REP,Total Votes,127,40,81,6
+Green,A101,President,,REP,Under Votes,4,2,1,1
+Green,A101,President,,REP,Over Votes,0,0,0,0
+Green,A101,State House,24,REP,Ryan BIVENS,109,31,71,7
+Green,A101,State House,24,REP,Asa L.T. WAGGONER,17,10,7,0
+Green,A101,State House,24,REP,Total Votes,126,41,78,7
+Green,A101,State House,24,REP,Under Votes,5,1,4,0
+Green,A101,State House,24,REP,Over Votes,0,0,0,0
+Green,A101,President,,DEM,Joseph R. BIDEN JR.,17,6,10,1
+Green,A101,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Green,A101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,A101,President,,DEM,UNCOMMITTED,0,0,0,0
+Green,A101,President,,DEM,Total Votes,19,6,12,1
+Green,A101,President,,DEM,Under Votes,0,0,0,0
+Green,A101,President,,DEM,Over Votes,0,0,0,0
+Green,A101,U.S. House,2,DEM,Hank LINDERMAN,7,0,6,1
+Green,A101,U.S. House,2,DEM,William Dakota COMPTON,8,3,5,0
+Green,A101,U.S. House,2,DEM,Total Votes,15,3,11,1
+Green,A101,U.S. House,2,DEM,Under Votes,4,3,1,0
+Green,A101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,A102,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,A102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,A102,President,,REP,Ron DeSANTIS,1,0,0,1
+Green,A102,President,,REP,Donald J. TRUMP,40,13,27,0
+Green,A102,President,,REP,Chris CHRISTIE,1,0,1,0
+Green,A102,President,,REP,Nikki R. HALEY,0,0,0,0
+Green,A102,President,,REP,UNCOMMITTED,2,1,1,0
+Green,A102,President,,REP,Total Votes,45,14,30,1
+Green,A102,President,,REP,Under Votes,0,0,0,0
+Green,A102,President,,REP,Over Votes,0,0,0,0
+Green,A102,State House,24,REP,Ryan BIVENS,44,14,29,1
+Green,A102,State House,24,REP,Asa L.T. WAGGONER,0,0,0,0
+Green,A102,State House,24,REP,Total Votes,44,14,29,1
+Green,A102,State House,24,REP,Under Votes,1,0,1,0
+Green,A102,State House,24,REP,Over Votes,0,0,0,0
+Green,A102,President,,DEM,Joseph R. BIDEN JR.,7,0,7,0
+Green,A102,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Green,A102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,A102,President,,DEM,UNCOMMITTED,4,0,4,0
+Green,A102,President,,DEM,Total Votes,13,0,13,0
+Green,A102,President,,DEM,Under Votes,0,0,0,0
+Green,A102,President,,DEM,Over Votes,0,0,0,0
+Green,A102,U.S. House,2,DEM,Hank LINDERMAN,7,0,7,0
+Green,A102,U.S. House,2,DEM,William Dakota COMPTON,6,0,6,0
+Green,A102,U.S. House,2,DEM,Total Votes,13,0,13,0
+Green,A102,U.S. House,2,DEM,Under Votes,0,0,0,0
+Green,A102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,A103,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,A103,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Green,A103,President,,REP,Ron DeSANTIS,3,0,3,0
+Green,A103,President,,REP,Donald J. TRUMP,162,39,114,9
+Green,A103,President,,REP,Chris CHRISTIE,0,0,0,0
+Green,A103,President,,REP,Nikki R. HALEY,6,3,3,0
+Green,A103,President,,REP,UNCOMMITTED,3,2,1,0
+Green,A103,President,,REP,Total Votes,176,44,123,9
+Green,A103,President,,REP,Under Votes,2,0,2,0
+Green,A103,President,,REP,Over Votes,0,0,0,0
+Green,A103,State House,24,REP,Ryan BIVENS,154,43,105,6
+Green,A103,State House,24,REP,Asa L.T. WAGGONER,23,0,20,3
+Green,A103,State House,24,REP,Total Votes,177,43,125,9
+Green,A103,State House,24,REP,Under Votes,0,0,0,0
+Green,A103,State House,24,REP,Over Votes,1,1,0,0
+Green,A103,President,,DEM,Joseph R. BIDEN JR.,18,5,11,2
+Green,A103,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Green,A103,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,A103,President,,DEM,UNCOMMITTED,5,0,4,1
+Green,A103,President,,DEM,Total Votes,25,5,17,3
+Green,A103,President,,DEM,Under Votes,1,0,1,0
+Green,A103,President,,DEM,Over Votes,0,0,0,0
+Green,A103,U.S. House,2,DEM,Hank LINDERMAN,12,4,8,0
+Green,A103,U.S. House,2,DEM,William Dakota COMPTON,12,1,8,3
+Green,A103,U.S. House,2,DEM,Total Votes,24,5,16,3
+Green,A103,U.S. House,2,DEM,Under Votes,2,0,2,0
+Green,A103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,A104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Green,A104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,A104,President,,REP,Ron DeSANTIS,1,1,0,0
+Green,A104,President,,REP,Donald J. TRUMP,62,8,49,5
+Green,A104,President,,REP,Chris CHRISTIE,3,0,3,0
+Green,A104,President,,REP,Nikki R. HALEY,3,0,3,0
+Green,A104,President,,REP,UNCOMMITTED,0,0,0,0
+Green,A104,President,,REP,Total Votes,69,9,55,5
+Green,A104,President,,REP,Under Votes,1,1,0,0
+Green,A104,President,,REP,Over Votes,1,0,1,0
+Green,A104,State House,24,REP,Ryan BIVENS,63,8,50,5
+Green,A104,State House,24,REP,Asa L.T. WAGGONER,6,2,4,0
+Green,A104,State House,24,REP,Total Votes,69,10,54,5
+Green,A104,State House,24,REP,Under Votes,2,0,2,0
+Green,A104,State House,24,REP,Over Votes,0,0,0,0
+Green,A104,President,,DEM,Joseph R. BIDEN JR.,5,2,2,1
+Green,A104,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Green,A104,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,A104,President,,DEM,UNCOMMITTED,1,0,1,0
+Green,A104,President,,DEM,Total Votes,8,2,5,1
+Green,A104,President,,DEM,Under Votes,0,0,0,0
+Green,A104,President,,DEM,Over Votes,0,0,0,0
+Green,A104,U.S. House,2,DEM,Hank LINDERMAN,1,0,1,0
+Green,A104,U.S. House,2,DEM,William Dakota COMPTON,6,1,4,1
+Green,A104,U.S. House,2,DEM,Total Votes,7,1,5,1
+Green,A104,U.S. House,2,DEM,Under Votes,1,1,0,0
+Green,A104,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,B101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,B101,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Green,B101,President,,REP,Ron DeSANTIS,4,0,4,0
+Green,B101,President,,REP,Donald J. TRUMP,167,25,136,6
+Green,B101,President,,REP,Chris CHRISTIE,0,0,0,0
+Green,B101,President,,REP,Nikki R. HALEY,3,0,3,0
+Green,B101,President,,REP,UNCOMMITTED,1,0,1,0
+Green,B101,President,,REP,Total Votes,177,25,146,6
+Green,B101,President,,REP,Under Votes,3,0,3,0
+Green,B101,President,,REP,Over Votes,0,0,0,0
+Green,B101,State House,24,REP,Ryan BIVENS,146,24,117,5
+Green,B101,State House,24,REP,Asa L.T. WAGGONER,30,1,28,1
+Green,B101,State House,24,REP,Total Votes,176,25,145,6
+Green,B101,State House,24,REP,Under Votes,4,0,4,0
+Green,B101,State House,24,REP,Over Votes,0,0,0,0
+Green,B101,President,,DEM,Joseph R. BIDEN JR.,9,1,8,0
+Green,B101,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Green,B101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,B101,President,,DEM,UNCOMMITTED,5,2,3,0
+Green,B101,President,,DEM,Total Votes,19,3,16,0
+Green,B101,President,,DEM,Under Votes,1,0,1,0
+Green,B101,President,,DEM,Over Votes,0,0,0,0
+Green,B101,U.S. House,2,DEM,Hank LINDERMAN,10,1,9,0
+Green,B101,U.S. House,2,DEM,William Dakota COMPTON,9,2,7,0
+Green,B101,U.S. House,2,DEM,Total Votes,19,3,16,0
+Green,B101,U.S. House,2,DEM,Under Votes,1,0,1,0
+Green,B101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,B102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Green,B102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,B102,President,,REP,Ron DeSANTIS,6,1,4,1
+Green,B102,President,,REP,Donald J. TRUMP,140,16,122,2
+Green,B102,President,,REP,Chris CHRISTIE,1,0,1,0
+Green,B102,President,,REP,Nikki R. HALEY,7,2,4,1
+Green,B102,President,,REP,UNCOMMITTED,6,0,6,0
+Green,B102,President,,REP,Total Votes,160,19,137,4
+Green,B102,President,,REP,Under Votes,0,0,0,0
+Green,B102,President,,REP,Over Votes,0,0,0,0
+Green,B102,State House,24,REP,Ryan BIVENS,127,17,107,3
+Green,B102,State House,24,REP,Asa L.T. WAGGONER,27,2,24,1
+Green,B102,State House,24,REP,Total Votes,154,19,131,4
+Green,B102,State House,24,REP,Under Votes,6,0,6,0
+Green,B102,State House,24,REP,Over Votes,0,0,0,0
+Green,B102,President,,DEM,Joseph R. BIDEN JR.,8,1,4,3
+Green,B102,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Green,B102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,B102,President,,DEM,UNCOMMITTED,3,0,3,0
+Green,B102,President,,DEM,Total Votes,12,1,8,3
+Green,B102,President,,DEM,Under Votes,0,0,0,0
+Green,B102,President,,DEM,Over Votes,0,0,0,0
+Green,B102,U.S. House,2,DEM,Hank LINDERMAN,7,0,5,2
+Green,B102,U.S. House,2,DEM,William Dakota COMPTON,5,1,3,1
+Green,B102,U.S. House,2,DEM,Total Votes,12,1,8,3
+Green,B102,U.S. House,2,DEM,Under Votes,0,0,0,0
+Green,B102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,C101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,C101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,C101,President,,REP,Ron DeSANTIS,1,0,1,0
+Green,C101,President,,REP,Donald J. TRUMP,113,24,86,3
+Green,C101,President,,REP,Chris CHRISTIE,0,0,0,0
+Green,C101,President,,REP,Nikki R. HALEY,3,1,2,0
+Green,C101,President,,REP,UNCOMMITTED,0,0,0,0
+Green,C101,President,,REP,Total Votes,118,25,90,3
+Green,C101,President,,REP,Under Votes,3,2,1,0
+Green,C101,President,,REP,Over Votes,1,0,1,0
+Green,C101,State House,24,REP,Ryan BIVENS,103,25,75,3
+Green,C101,State House,24,REP,Asa L.T. WAGGONER,11,0,11,0
+Green,C101,State House,24,REP,Total Votes,114,25,86,3
+Green,C101,State House,24,REP,Under Votes,8,2,6,0
+Green,C101,State House,24,REP,Over Votes,0,0,0,0
+Green,C101,President,,DEM,Joseph R. BIDEN JR.,13,4,5,4
+Green,C101,President,,DEM,Marianne WILLIAMSON,1,1,0,0
+Green,C101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,C101,President,,DEM,UNCOMMITTED,2,0,2,0
+Green,C101,President,,DEM,Total Votes,17,5,8,4
+Green,C101,President,,DEM,Under Votes,0,0,0,0
+Green,C101,President,,DEM,Over Votes,0,0,0,0
+Green,C101,U.S. House,2,DEM,Hank LINDERMAN,3,0,3,0
+Green,C101,U.S. House,2,DEM,William Dakota COMPTON,11,5,4,2
+Green,C101,U.S. House,2,DEM,Total Votes,14,5,7,2
+Green,C101,U.S. House,2,DEM,Under Votes,3,0,1,2
+Green,C101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,C102,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,C102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,C102,President,,REP,Ron DeSANTIS,3,2,1,0
+Green,C102,President,,REP,Donald J. TRUMP,111,21,89,1
+Green,C102,President,,REP,Chris CHRISTIE,0,0,0,0
+Green,C102,President,,REP,Nikki R. HALEY,0,0,0,0
+Green,C102,President,,REP,UNCOMMITTED,1,0,1,0
+Green,C102,President,,REP,Total Votes,116,23,92,1
+Green,C102,President,,REP,Under Votes,0,0,0,0
+Green,C102,President,,REP,Over Votes,0,0,0,0
+Green,C102,State House,24,REP,Ryan BIVENS,92,19,73,0
+Green,C102,State House,24,REP,Asa L.T. WAGGONER,17,3,14,0
+Green,C102,State House,24,REP,Total Votes,109,22,87,0
+Green,C102,State House,24,REP,Under Votes,7,1,5,1
+Green,C102,State House,24,REP,Over Votes,0,0,0,0
+Green,C102,President,,DEM,Joseph R. BIDEN JR.,13,3,6,4
+Green,C102,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Green,C102,President,,DEM,Dean PHILLIPS,3,1,2,0
+Green,C102,President,,DEM,UNCOMMITTED,3,0,2,1
+Green,C102,President,,DEM,Total Votes,19,4,10,5
+Green,C102,President,,DEM,Under Votes,0,0,0,0
+Green,C102,President,,DEM,Over Votes,0,0,0,0
+Green,C102,U.S. House,2,DEM,Hank LINDERMAN,10,1,8,1
+Green,C102,U.S. House,2,DEM,William Dakota COMPTON,8,3,2,3
+Green,C102,U.S. House,2,DEM,Total Votes,18,4,10,4
+Green,C102,U.S. House,2,DEM,Under Votes,1,0,0,1
+Green,C102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,D101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Green,D101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,D101,President,,REP,Ron DeSANTIS,3,3,0,0
+Green,D101,President,,REP,Donald J. TRUMP,98,15,80,3
+Green,D101,President,,REP,Chris CHRISTIE,1,1,0,0
+Green,D101,President,,REP,Nikki R. HALEY,1,0,1,0
+Green,D101,President,,REP,UNCOMMITTED,2,1,1,0
+Green,D101,President,,REP,Total Votes,105,20,82,3
+Green,D101,President,,REP,Under Votes,1,0,1,0
+Green,D101,President,,REP,Over Votes,0,0,0,0
+Green,D101,State House,24,REP,Ryan BIVENS,91,18,70,3
+Green,D101,State House,24,REP,Asa L.T. WAGGONER,13,1,12,0
+Green,D101,State House,24,REP,Total Votes,104,19,82,3
+Green,D101,State House,24,REP,Under Votes,2,1,1,0
+Green,D101,State House,24,REP,Over Votes,0,0,0,0
+Green,D101,President,,DEM,Joseph R. BIDEN JR.,4,0,2,2
+Green,D101,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Green,D101,President,,DEM,Dean PHILLIPS,0,0,0,0
+Green,D101,President,,DEM,UNCOMMITTED,2,0,2,0
+Green,D101,President,,DEM,Total Votes,8,1,5,2
+Green,D101,President,,DEM,Under Votes,0,0,0,0
+Green,D101,President,,DEM,Over Votes,0,0,0,0
+Green,D101,U.S. House,2,DEM,Hank LINDERMAN,4,0,4,0
+Green,D101,U.S. House,2,DEM,William Dakota COMPTON,4,1,1,2
+Green,D101,U.S. House,2,DEM,Total Votes,8,1,5,2
+Green,D101,U.S. House,2,DEM,Under Votes,0,0,0,0
+Green,D101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Green,D102,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Green,D102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Green,D102,President,,REP,Ron DeSANTIS,2,0,2,0
+Green,D102,President,,REP,Donald J. TRUMP,132,18,109,5
+Green,D102,President,,REP,Chris CHRISTIE,0,0,0,0
+Green,D102,President,,REP,Nikki R. HALEY,3,0,3,0
+Green,D102,President,,REP,UNCOMMITTED,2,0,2,0
+Green,D102,President,,REP,Total Votes,140,18,117,5
+Green,D102,President,,REP,Under Votes,1,0,1,0
+Green,D102,President,,REP,Over Votes,0,0,0,0
+Green,D102,State House,24,REP,Ryan BIVENS,105,17,83,5
+Green,D102,State House,24,REP,Asa L.T. WAGGONER,31,0,31,0
+Green,D102,State House,24,REP,Total Votes,136,17,114,5
+Green,D102,State House,24,REP,Under Votes,5,1,4,0
+Green,D102,State House,24,REP,Over Votes,0,0,0,0
+Green,D102,President,,DEM,Joseph R. BIDEN JR.,12,1,10,1
+Green,D102,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Green,D102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Green,D102,President,,DEM,UNCOMMITTED,1,0,1,0
+Green,D102,President,,DEM,Total Votes,15,1,13,1
+Green,D102,President,,DEM,Under Votes,1,0,1,0
+Green,D102,President,,DEM,Over Votes,0,0,0,0
+Green,D102,U.S. House,2,DEM,Hank LINDERMAN,7,1,6,0
+Green,D102,U.S. House,2,DEM,William Dakota COMPTON,8,0,8,0
+Green,D102,U.S. House,2,DEM,Total Votes,15,1,14,0
+Green,D102,U.S. House,2,DEM,Under Votes,1,0,0,1
+Green,D102,U.S. House,2,DEM,Over Votes,0,0,0,0
