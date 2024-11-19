@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Henry,A101,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Henry,A101,President,,REP,Vivek RAMASWAMY,2,1,1,0
+Henry,A101,President,,REP,Ron DeSANTIS,9,0,9,0
+Henry,A101,President,,REP,Donald J. TRUMP,128,22,104,2
+Henry,A101,President,,REP,Chris CHRISTIE,1,0,1,0
+Henry,A101,President,,REP,Nikki R. HALEY,8,2,6,0
+Henry,A101,President,,REP,UNCOMMITTED,8,0,8,0
+Henry,A101,President,,REP,Total Votes,158,25,131,2
+Henry,A101,President,,REP,Under Votes,0,0,0,0
+Henry,A101,President,,REP,Over Votes,0,0,0,0
+Henry,A101,U.S. House,4,REP,Michael McGINNIS,12,2,9,1
+Henry,A101,U.S. House,4,REP,Eric DETERS,8,1,7,0
+Henry,A101,U.S. House,4,REP,Thomas MASSIE,135,21,113,1
+Henry,A101,U.S. House,4,REP,Total Votes,155,24,129,2
+Henry,A101,U.S. House,4,REP,Under Votes,2,1,1,0
+Henry,A101,U.S. House,4,REP,Over Votes,1,0,1,0
+Henry,A101,State Senate,7,REP,Adrienne E. SOUTHWORTH,26,3,23,0
+Henry,A101,State Senate,7,REP,Ed GALLREIN,57,11,44,2
+Henry,A101,State Senate,7,REP,Aaron REED,74,11,63,0
+Henry,A101,State Senate,7,REP,Total Votes,157,25,130,2
+Henry,A101,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,A101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,A101,State House,47,REP,Mark A. GILKISON,69,14,54,1
+Henry,A101,State House,47,REP,Felicia RABOURN,88,11,76,1
+Henry,A101,State House,47,REP,Total Votes,157,25,130,2
+Henry,A101,State House,47,REP,Under Votes,1,0,1,0
+Henry,A101,State House,47,REP,Over Votes,0,0,0,0
+Henry,A101,President,,DEM,Joseph R. BIDEN JR.,62,12,45,5
+Henry,A101,President,,DEM,Marianne WILLIAMSON,13,3,10,0
+Henry,A101,President,,DEM,Dean PHILLIPS,9,2,7,0
+Henry,A101,President,,DEM,UNCOMMITTED,19,4,15,0
+Henry,A101,President,,DEM,Total Votes,103,21,77,5
+Henry,A101,President,,DEM,Under Votes,0,0,0,0
+Henry,A101,President,,DEM,Over Votes,0,0,0,0
+Henry,A102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,A102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,A102,President,,REP,Ron DeSANTIS,2,1,1,0
+Henry,A102,President,,REP,Donald J. TRUMP,37,2,35,0
+Henry,A102,President,,REP,Chris CHRISTIE,2,1,1,0
+Henry,A102,President,,REP,Nikki R. HALEY,4,1,3,0
+Henry,A102,President,,REP,UNCOMMITTED,1,0,1,0
+Henry,A102,President,,REP,Total Votes,46,5,41,0
+Henry,A102,President,,REP,Under Votes,0,0,0,0
+Henry,A102,President,,REP,Over Votes,0,0,0,0
+Henry,A102,U.S. House,4,REP,Michael McGINNIS,6,2,4,0
+Henry,A102,U.S. House,4,REP,Eric DETERS,3,0,3,0
+Henry,A102,U.S. House,4,REP,Thomas MASSIE,37,3,34,0
+Henry,A102,U.S. House,4,REP,Total Votes,46,5,41,0
+Henry,A102,U.S. House,4,REP,Under Votes,0,0,0,0
+Henry,A102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,A102,State Senate,7,REP,Adrienne E. SOUTHWORTH,10,2,8,0
+Henry,A102,State Senate,7,REP,Ed GALLREIN,14,2,12,0
+Henry,A102,State Senate,7,REP,Aaron REED,19,1,18,0
+Henry,A102,State Senate,7,REP,Total Votes,43,5,38,0
+Henry,A102,State Senate,7,REP,Under Votes,3,0,3,0
+Henry,A102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,A102,State House,47,REP,Mark A. GILKISON,22,1,21,0
+Henry,A102,State House,47,REP,Felicia RABOURN,21,4,17,0
+Henry,A102,State House,47,REP,Total Votes,43,5,38,0
+Henry,A102,State House,47,REP,Under Votes,3,0,3,0
+Henry,A102,State House,47,REP,Over Votes,0,0,0,0
+Henry,A102,President,,DEM,Joseph R. BIDEN JR.,13,2,9,2
+Henry,A102,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Henry,A102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Henry,A102,President,,DEM,UNCOMMITTED,7,2,5,0
+Henry,A102,President,,DEM,Total Votes,23,5,16,2
+Henry,A102,President,,DEM,Under Votes,0,0,0,0
+Henry,A102,President,,DEM,Over Votes,0,0,0,0
+Henry,B101,President,,REP,Ryan L. BINKLEY,1,1,0,0
+Henry,B101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,B101,President,,REP,Ron DeSANTIS,6,1,4,1
+Henry,B101,President,,REP,Donald J. TRUMP,162,13,144,5
+Henry,B101,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,B101,President,,REP,Nikki R. HALEY,7,0,7,0
+Henry,B101,President,,REP,UNCOMMITTED,3,0,3,0
+Henry,B101,President,,REP,Total Votes,179,15,158,6
+Henry,B101,President,,REP,Under Votes,1,0,1,0
+Henry,B101,President,,REP,Over Votes,0,0,0,0
+Henry,B101,U.S. House,4,REP,Michael McGINNIS,26,6,20,0
+Henry,B101,U.S. House,4,REP,Eric DETERS,17,0,17,0
+Henry,B101,U.S. House,4,REP,Thomas MASSIE,135,9,120,6
+Henry,B101,U.S. House,4,REP,Total Votes,178,15,157,6
+Henry,B101,U.S. House,4,REP,Under Votes,2,0,2,0
+Henry,B101,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,B101,State Senate,7,REP,Adrienne E. SOUTHWORTH,54,4,48,2
+Henry,B101,State Senate,7,REP,Ed GALLREIN,65,6,56,3
+Henry,B101,State Senate,7,REP,Aaron REED,60,5,54,1
+Henry,B101,State Senate,7,REP,Total Votes,179,15,158,6
+Henry,B101,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,B101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,B101,State House,47,REP,Mark A. GILKISON,86,7,74,5
+Henry,B101,State House,47,REP,Felicia RABOURN,94,8,85,1
+Henry,B101,State House,47,REP,Total Votes,180,15,159,6
+Henry,B101,State House,47,REP,Under Votes,0,0,0,0
+Henry,B101,State House,47,REP,Over Votes,0,0,0,0
+Henry,B101,President,,DEM,Joseph R. BIDEN JR.,22,2,20,0
+Henry,B101,President,,DEM,Marianne WILLIAMSON,5,0,5,0
+Henry,B101,President,,DEM,Dean PHILLIPS,2,0,2,0
+Henry,B101,President,,DEM,UNCOMMITTED,9,1,8,0
+Henry,B101,President,,DEM,Total Votes,38,3,35,0
+Henry,B101,President,,DEM,Under Votes,1,0,1,0
+Henry,B101,President,,DEM,Over Votes,0,0,0,0
+Henry,B102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,B102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,B102,President,,REP,Ron DeSANTIS,3,0,3,0
+Henry,B102,President,,REP,Donald J. TRUMP,168,13,152,3
+Henry,B102,President,,REP,Chris CHRISTIE,1,0,1,0
+Henry,B102,President,,REP,Nikki R. HALEY,12,0,12,0
+Henry,B102,President,,REP,UNCOMMITTED,7,0,6,1
+Henry,B102,President,,REP,Total Votes,191,13,174,4
+Henry,B102,President,,REP,Under Votes,0,0,0,0
+Henry,B102,President,,REP,Over Votes,0,0,0,0
+Henry,B102,U.S. House,4,REP,Michael McGINNIS,25,3,21,1
+Henry,B102,U.S. House,4,REP,Eric DETERS,19,2,17,0
+Henry,B102,U.S. House,4,REP,Thomas MASSIE,139,8,129,2
+Henry,B102,U.S. House,4,REP,Total Votes,183,13,167,3
+Henry,B102,U.S. House,4,REP,Under Votes,8,0,7,1
+Henry,B102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,B102,State Senate,7,REP,Adrienne E. SOUTHWORTH,56,2,51,3
+Henry,B102,State Senate,7,REP,Ed GALLREIN,66,4,61,1
+Henry,B102,State Senate,7,REP,Aaron REED,67,7,60,0
+Henry,B102,State Senate,7,REP,Total Votes,189,13,172,4
+Henry,B102,State Senate,7,REP,Under Votes,2,0,2,0
+Henry,B102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,B102,State House,47,REP,Mark A. GILKISON,92,5,85,2
+Henry,B102,State House,47,REP,Felicia RABOURN,98,8,88,2
+Henry,B102,State House,47,REP,Total Votes,190,13,173,4
+Henry,B102,State House,47,REP,Under Votes,1,0,1,0
+Henry,B102,State House,47,REP,Over Votes,0,0,0,0
+Henry,B102,President,,DEM,Joseph R. BIDEN JR.,25,2,23,0
+Henry,B102,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Henry,B102,President,,DEM,Dean PHILLIPS,7,0,7,0
+Henry,B102,President,,DEM,UNCOMMITTED,16,2,14,0
+Henry,B102,President,,DEM,Total Votes,50,4,46,0
+Henry,B102,President,,DEM,Under Votes,1,0,1,0
+Henry,B102,President,,DEM,Over Votes,0,0,0,0
+Henry,C101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Henry,C101,President,,REP,Vivek RAMASWAMY,2,0,2,0
+Henry,C101,President,,REP,Ron DeSANTIS,9,0,8,1
+Henry,C101,President,,REP,Donald J. TRUMP,161,14,144,3
+Henry,C101,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,C101,President,,REP,Nikki R. HALEY,6,1,5,0
+Henry,C101,President,,REP,UNCOMMITTED,6,0,6,0
+Henry,C101,President,,REP,Total Votes,185,15,166,4
+Henry,C101,President,,REP,Under Votes,1,0,1,0
+Henry,C101,President,,REP,Over Votes,0,0,0,0
+Henry,C101,U.S. House,4,REP,Michael McGINNIS,21,0,21,0
+Henry,C101,U.S. House,4,REP,Eric DETERS,20,1,18,1
+Henry,C101,U.S. House,4,REP,Thomas MASSIE,142,14,125,3
+Henry,C101,U.S. House,4,REP,Total Votes,183,15,164,4
+Henry,C101,U.S. House,4,REP,Under Votes,3,0,3,0
+Henry,C101,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,C101,State Senate,7,REP,Adrienne E. SOUTHWORTH,38,5,32,1
+Henry,C101,State Senate,7,REP,Ed GALLREIN,73,5,68,0
+Henry,C101,State Senate,7,REP,Aaron REED,73,5,65,3
+Henry,C101,State Senate,7,REP,Total Votes,184,15,165,4
+Henry,C101,State Senate,7,REP,Under Votes,2,0,2,0
+Henry,C101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,C101,State House,47,REP,Mark A. GILKISON,73,5,67,1
+Henry,C101,State House,47,REP,Felicia RABOURN,112,10,99,3
+Henry,C101,State House,47,REP,Total Votes,185,15,166,4
+Henry,C101,State House,47,REP,Under Votes,1,0,1,0
+Henry,C101,State House,47,REP,Over Votes,0,0,0,0
+Henry,C101,President,,DEM,Joseph R. BIDEN JR.,33,4,28,1
+Henry,C101,President,,DEM,Marianne WILLIAMSON,10,0,9,1
+Henry,C101,President,,DEM,Dean PHILLIPS,10,0,10,0
+Henry,C101,President,,DEM,UNCOMMITTED,29,2,27,0
+Henry,C101,President,,DEM,Total Votes,82,6,74,2
+Henry,C101,President,,DEM,Under Votes,0,0,0,0
+Henry,C101,President,,DEM,Over Votes,0,0,0,0
+Henry,C102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,C102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,C102,President,,REP,Ron DeSANTIS,2,0,2,0
+Henry,C102,President,,REP,Donald J. TRUMP,51,1,49,1
+Henry,C102,President,,REP,Chris CHRISTIE,2,0,2,0
+Henry,C102,President,,REP,Nikki R. HALEY,3,0,3,0
+Henry,C102,President,,REP,UNCOMMITTED,1,0,1,0
+Henry,C102,President,,REP,Total Votes,59,1,57,1
+Henry,C102,President,,REP,Under Votes,0,0,0,0
+Henry,C102,President,,REP,Over Votes,0,0,0,0
+Henry,C102,U.S. House,4,REP,Michael McGINNIS,8,0,8,0
+Henry,C102,U.S. House,4,REP,Eric DETERS,3,0,3,0
+Henry,C102,U.S. House,4,REP,Thomas MASSIE,47,1,45,1
+Henry,C102,U.S. House,4,REP,Total Votes,58,1,56,1
+Henry,C102,U.S. House,4,REP,Under Votes,1,0,1,0
+Henry,C102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,C102,State Senate,7,REP,Adrienne E. SOUTHWORTH,19,0,19,0
+Henry,C102,State Senate,7,REP,Ed GALLREIN,25,0,25,0
+Henry,C102,State Senate,7,REP,Aaron REED,14,1,12,1
+Henry,C102,State Senate,7,REP,Total Votes,58,1,56,1
+Henry,C102,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,C102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,C102,State House,47,REP,Mark A. GILKISON,16,0,16,0
+Henry,C102,State House,47,REP,Felicia RABOURN,42,1,40,1
+Henry,C102,State House,47,REP,Total Votes,58,1,56,1
+Henry,C102,State House,47,REP,Under Votes,1,0,1,0
+Henry,C102,State House,47,REP,Over Votes,0,0,0,0
+Henry,C102,President,,DEM,Joseph R. BIDEN JR.,10,0,10,0
+Henry,C102,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Henry,C102,President,,DEM,Dean PHILLIPS,0,0,0,0
+Henry,C102,President,,DEM,UNCOMMITTED,9,0,9,0
+Henry,C102,President,,DEM,Total Votes,21,0,21,0
+Henry,C102,President,,DEM,Under Votes,0,0,0,0
+Henry,C102,President,,DEM,Over Votes,1,0,1,0
+Henry,D101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,D101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,D101,President,,REP,Ron DeSANTIS,1,1,0,0
+Henry,D101,President,,REP,Donald J. TRUMP,168,39,128,1
+Henry,D101,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,D101,President,,REP,Nikki R. HALEY,4,0,4,0
+Henry,D101,President,,REP,UNCOMMITTED,5,1,4,0
+Henry,D101,President,,REP,Total Votes,178,41,136,1
+Henry,D101,President,,REP,Under Votes,2,1,1,0
+Henry,D101,President,,REP,Over Votes,0,0,0,0
+Henry,D101,U.S. House,4,REP,Michael McGINNIS,11,2,9,0
+Henry,D101,U.S. House,4,REP,Eric DETERS,13,1,12,0
+Henry,D101,U.S. House,4,REP,Thomas MASSIE,149,38,110,1
+Henry,D101,U.S. House,4,REP,Total Votes,173,41,131,1
+Henry,D101,U.S. House,4,REP,Under Votes,7,1,6,0
+Henry,D101,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,D101,State Senate,7,REP,Adrienne E. SOUTHWORTH,43,6,37,0
+Henry,D101,State Senate,7,REP,Ed GALLREIN,85,26,59,0
+Henry,D101,State Senate,7,REP,Aaron REED,50,10,39,1
+Henry,D101,State Senate,7,REP,Total Votes,178,42,135,1
+Henry,D101,State Senate,7,REP,Under Votes,2,0,2,0
+Henry,D101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,D101,State House,47,REP,Mark A. GILKISON,81,22,59,0
+Henry,D101,State House,47,REP,Felicia RABOURN,99,20,78,1
+Henry,D101,State House,47,REP,Total Votes,180,42,137,1
+Henry,D101,State House,47,REP,Under Votes,0,0,0,0
+Henry,D101,State House,47,REP,Over Votes,0,0,0,0
+Henry,D101,President,,DEM,Joseph R. BIDEN JR.,26,7,19,0
+Henry,D101,President,,DEM,Marianne WILLIAMSON,10,1,9,0
+Henry,D101,President,,DEM,Dean PHILLIPS,6,0,6,0
+Henry,D101,President,,DEM,UNCOMMITTED,19,1,17,1
+Henry,D101,President,,DEM,Total Votes,61,9,51,1
+Henry,D101,President,,DEM,Under Votes,0,0,0,0
+Henry,D101,President,,DEM,Over Votes,0,0,0,0
+Henry,D102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,D102,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Henry,D102,President,,REP,Ron DeSANTIS,3,0,3,0
+Henry,D102,President,,REP,Donald J. TRUMP,99,24,70,5
+Henry,D102,President,,REP,Chris CHRISTIE,1,0,1,0
+Henry,D102,President,,REP,Nikki R. HALEY,0,0,0,0
+Henry,D102,President,,REP,UNCOMMITTED,4,2,1,1
+Henry,D102,President,,REP,Total Votes,108,26,76,6
+Henry,D102,President,,REP,Under Votes,1,1,0,0
+Henry,D102,President,,REP,Over Votes,0,0,0,0
+Henry,D102,U.S. House,4,REP,Michael McGINNIS,12,0,8,4
+Henry,D102,U.S. House,4,REP,Eric DETERS,4,1,3,0
+Henry,D102,U.S. House,4,REP,Thomas MASSIE,89,25,62,2
+Henry,D102,U.S. House,4,REP,Total Votes,105,26,73,6
+Henry,D102,U.S. House,4,REP,Under Votes,4,1,3,0
+Henry,D102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,D102,State Senate,7,REP,Adrienne E. SOUTHWORTH,12,3,9,0
+Henry,D102,State Senate,7,REP,Ed GALLREIN,37,11,23,3
+Henry,D102,State Senate,7,REP,Aaron REED,58,11,44,3
+Henry,D102,State Senate,7,REP,Total Votes,107,25,76,6
+Henry,D102,State Senate,7,REP,Under Votes,2,2,0,0
+Henry,D102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,D102,State House,47,REP,Mark A. GILKISON,51,11,34,6
+Henry,D102,State House,47,REP,Felicia RABOURN,56,15,41,0
+Henry,D102,State House,47,REP,Total Votes,107,26,75,6
+Henry,D102,State House,47,REP,Under Votes,1,1,0,0
+Henry,D102,State House,47,REP,Over Votes,1,0,1,0
+Henry,D102,President,,DEM,Joseph R. BIDEN JR.,42,10,25,7
+Henry,D102,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Henry,D102,President,,DEM,Dean PHILLIPS,7,0,6,1
+Henry,D102,President,,DEM,UNCOMMITTED,27,4,22,1
+Henry,D102,President,,DEM,Total Votes,80,15,56,9
+Henry,D102,President,,DEM,Under Votes,0,0,0,0
+Henry,D102,President,,DEM,Over Votes,0,0,0,0
+Henry,E101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Henry,E101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,E101,President,,REP,Ron DeSANTIS,2,0,2,0
+Henry,E101,President,,REP,Donald J. TRUMP,69,10,58,1
+Henry,E101,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,E101,President,,REP,Nikki R. HALEY,0,0,0,0
+Henry,E101,President,,REP,UNCOMMITTED,3,1,2,0
+Henry,E101,President,,REP,Total Votes,75,11,63,1
+Henry,E101,President,,REP,Under Votes,0,0,0,0
+Henry,E101,President,,REP,Over Votes,0,0,0,0
+Henry,E101,U.S. House,4,REP,Michael McGINNIS,5,0,5,0
+Henry,E101,U.S. House,4,REP,Eric DETERS,5,1,4,0
+Henry,E101,U.S. House,4,REP,Thomas MASSIE,63,10,52,1
+Henry,E101,U.S. House,4,REP,Total Votes,73,11,61,1
+Henry,E101,U.S. House,4,REP,Under Votes,2,0,2,0
+Henry,E101,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,E101,State Senate,7,REP,Adrienne E. SOUTHWORTH,22,3,19,0
+Henry,E101,State Senate,7,REP,Ed GALLREIN,25,5,20,0
+Henry,E101,State Senate,7,REP,Aaron REED,27,3,23,1
+Henry,E101,State Senate,7,REP,Total Votes,74,11,62,1
+Henry,E101,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,E101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,E101,State House,47,REP,Mark A. GILKISON,46,7,39,0
+Henry,E101,State House,47,REP,Felicia RABOURN,29,4,24,1
+Henry,E101,State House,47,REP,Total Votes,75,11,63,1
+Henry,E101,State House,47,REP,Under Votes,0,0,0,0
+Henry,E101,State House,47,REP,Over Votes,0,0,0,0
+Henry,E101,President,,DEM,Joseph R. BIDEN JR.,13,2,10,1
+Henry,E101,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Henry,E101,President,,DEM,Dean PHILLIPS,4,1,3,0
+Henry,E101,President,,DEM,UNCOMMITTED,19,1,18,0
+Henry,E101,President,,DEM,Total Votes,40,4,35,1
+Henry,E101,President,,DEM,Under Votes,0,0,0,0
+Henry,E101,President,,DEM,Over Votes,0,0,0,0
+Henry,E102,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Henry,E102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,E102,President,,REP,Ron DeSANTIS,3,0,3,0
+Henry,E102,President,,REP,Donald J. TRUMP,59,13,46,0
+Henry,E102,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,E102,President,,REP,Nikki R. HALEY,3,0,3,0
+Henry,E102,President,,REP,UNCOMMITTED,2,0,2,0
+Henry,E102,President,,REP,Total Votes,68,13,55,0
+Henry,E102,President,,REP,Under Votes,1,0,1,0
+Henry,E102,President,,REP,Over Votes,0,0,0,0
+Henry,E102,U.S. House,4,REP,Michael McGINNIS,4,0,4,0
+Henry,E102,U.S. House,4,REP,Eric DETERS,4,0,4,0
+Henry,E102,U.S. House,4,REP,Thomas MASSIE,58,12,46,0
+Henry,E102,U.S. House,4,REP,Total Votes,66,12,54,0
+Henry,E102,U.S. House,4,REP,Under Votes,3,1,2,0
+Henry,E102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,E102,State Senate,7,REP,Adrienne E. SOUTHWORTH,26,7,19,0
+Henry,E102,State Senate,7,REP,Ed GALLREIN,22,4,18,0
+Henry,E102,State Senate,7,REP,Aaron REED,18,2,16,0
+Henry,E102,State Senate,7,REP,Total Votes,66,13,53,0
+Henry,E102,State Senate,7,REP,Under Votes,3,0,3,0
+Henry,E102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,E102,State House,47,REP,Mark A. GILKISON,28,3,25,0
+Henry,E102,State House,47,REP,Felicia RABOURN,39,10,29,0
+Henry,E102,State House,47,REP,Total Votes,67,13,54,0
+Henry,E102,State House,47,REP,Under Votes,2,0,2,0
+Henry,E102,State House,47,REP,Over Votes,0,0,0,0
+Henry,E102,President,,DEM,Joseph R. BIDEN JR.,16,3,12,1
+Henry,E102,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Henry,E102,President,,DEM,Dean PHILLIPS,7,1,6,0
+Henry,E102,President,,DEM,UNCOMMITTED,16,2,14,0
+Henry,E102,President,,DEM,Total Votes,43,6,36,1
+Henry,E102,President,,DEM,Under Votes,1,0,1,0
+Henry,E102,President,,DEM,Over Votes,0,0,0,0
+Henry,E103,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Henry,E103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,E103,President,,REP,Ron DeSANTIS,1,1,0,0
+Henry,E103,President,,REP,Donald J. TRUMP,63,5,58,0
+Henry,E103,President,,REP,Chris CHRISTIE,1,0,1,0
+Henry,E103,President,,REP,Nikki R. HALEY,3,0,3,0
+Henry,E103,President,,REP,UNCOMMITTED,1,0,1,0
+Henry,E103,President,,REP,Total Votes,71,6,65,0
+Henry,E103,President,,REP,Under Votes,0,0,0,0
+Henry,E103,President,,REP,Over Votes,0,0,0,0
+Henry,E103,U.S. House,4,REP,Michael McGINNIS,14,1,13,0
+Henry,E103,U.S. House,4,REP,Eric DETERS,9,0,9,0
+Henry,E103,U.S. House,4,REP,Thomas MASSIE,47,5,42,0
+Henry,E103,U.S. House,4,REP,Total Votes,70,6,64,0
+Henry,E103,U.S. House,4,REP,Under Votes,1,0,1,0
+Henry,E103,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,E103,State Senate,7,REP,Adrienne E. SOUTHWORTH,17,1,16,0
+Henry,E103,State Senate,7,REP,Ed GALLREIN,34,3,31,0
+Henry,E103,State Senate,7,REP,Aaron REED,20,2,18,0
+Henry,E103,State Senate,7,REP,Total Votes,71,6,65,0
+Henry,E103,State Senate,7,REP,Under Votes,0,0,0,0
+Henry,E103,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,E103,State House,47,REP,Mark A. GILKISON,45,4,41,0
+Henry,E103,State House,47,REP,Felicia RABOURN,25,2,23,0
+Henry,E103,State House,47,REP,Total Votes,70,6,64,0
+Henry,E103,State House,47,REP,Under Votes,1,0,1,0
+Henry,E103,State House,47,REP,Over Votes,0,0,0,0
+Henry,E103,President,,DEM,Joseph R. BIDEN JR.,11,0,11,0
+Henry,E103,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Henry,E103,President,,DEM,Dean PHILLIPS,4,0,4,0
+Henry,E103,President,,DEM,UNCOMMITTED,8,1,7,0
+Henry,E103,President,,DEM,Total Votes,26,1,25,0
+Henry,E103,President,,DEM,Under Votes,0,0,0,0
+Henry,E103,President,,DEM,Over Votes,0,0,0,0
+Henry,E104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,E104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,E104,President,,REP,Ron DeSANTIS,2,1,1,0
+Henry,E104,President,,REP,Donald J. TRUMP,39,5,34,0
+Henry,E104,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,E104,President,,REP,Nikki R. HALEY,1,0,1,0
+Henry,E104,President,,REP,UNCOMMITTED,0,0,0,0
+Henry,E104,President,,REP,Total Votes,42,6,36,0
+Henry,E104,President,,REP,Under Votes,1,0,1,0
+Henry,E104,President,,REP,Over Votes,0,0,0,0
+Henry,E104,U.S. House,4,REP,Michael McGINNIS,7,1,6,0
+Henry,E104,U.S. House,4,REP,Eric DETERS,4,0,4,0
+Henry,E104,U.S. House,4,REP,Thomas MASSIE,31,5,26,0
+Henry,E104,U.S. House,4,REP,Total Votes,42,6,36,0
+Henry,E104,U.S. House,4,REP,Under Votes,1,0,1,0
+Henry,E104,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,E104,State Senate,7,REP,Adrienne E. SOUTHWORTH,9,1,8,0
+Henry,E104,State Senate,7,REP,Ed GALLREIN,13,2,11,0
+Henry,E104,State Senate,7,REP,Aaron REED,21,3,18,0
+Henry,E104,State Senate,7,REP,Total Votes,43,6,37,0
+Henry,E104,State Senate,7,REP,Under Votes,0,0,0,0
+Henry,E104,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,E104,State House,47,REP,Mark A. GILKISON,30,3,27,0
+Henry,E104,State House,47,REP,Felicia RABOURN,13,3,10,0
+Henry,E104,State House,47,REP,Total Votes,43,6,37,0
+Henry,E104,State House,47,REP,Under Votes,0,0,0,0
+Henry,E104,State House,47,REP,Over Votes,0,0,0,0
+Henry,E104,President,,DEM,Joseph R. BIDEN JR.,3,2,1,0
+Henry,E104,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Henry,E104,President,,DEM,Dean PHILLIPS,1,1,0,0
+Henry,E104,President,,DEM,UNCOMMITTED,8,0,7,1
+Henry,E104,President,,DEM,Total Votes,12,3,8,1
+Henry,E104,President,,DEM,Under Votes,0,0,0,0
+Henry,E104,President,,DEM,Over Votes,0,0,0,0
+Henry,E105,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,E105,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,E105,President,,REP,Ron DeSANTIS,1,0,1,0
+Henry,E105,President,,REP,Donald J. TRUMP,20,3,15,2
+Henry,E105,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,E105,President,,REP,Nikki R. HALEY,1,0,1,0
+Henry,E105,President,,REP,UNCOMMITTED,2,0,2,0
+Henry,E105,President,,REP,Total Votes,24,3,19,2
+Henry,E105,President,,REP,Under Votes,0,0,0,0
+Henry,E105,President,,REP,Over Votes,0,0,0,0
+Henry,E105,U.S. House,4,REP,Michael McGINNIS,0,0,0,0
+Henry,E105,U.S. House,4,REP,Eric DETERS,5,1,4,0
+Henry,E105,U.S. House,4,REP,Thomas MASSIE,18,2,14,2
+Henry,E105,U.S. House,4,REP,Total Votes,23,3,18,2
+Henry,E105,U.S. House,4,REP,Under Votes,1,0,1,0
+Henry,E105,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,E105,State Senate,7,REP,Adrienne E. SOUTHWORTH,7,0,7,0
+Henry,E105,State Senate,7,REP,Ed GALLREIN,8,2,6,0
+Henry,E105,State Senate,7,REP,Aaron REED,8,1,5,2
+Henry,E105,State Senate,7,REP,Total Votes,23,3,18,2
+Henry,E105,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,E105,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,E105,State House,47,REP,Mark A. GILKISON,8,0,8,0
+Henry,E105,State House,47,REP,Felicia RABOURN,13,3,8,2
+Henry,E105,State House,47,REP,Total Votes,21,3,16,2
+Henry,E105,State House,47,REP,Under Votes,3,0,3,0
+Henry,E105,State House,47,REP,Over Votes,0,0,0,0
+Henry,E105,President,,DEM,Joseph R. BIDEN JR.,6,0,6,0
+Henry,E105,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Henry,E105,President,,DEM,Dean PHILLIPS,0,0,0,0
+Henry,E105,President,,DEM,UNCOMMITTED,1,0,1,0
+Henry,E105,President,,DEM,Total Votes,7,0,7,0
+Henry,E105,President,,DEM,Under Votes,0,0,0,0
+Henry,E105,President,,DEM,Over Votes,0,0,0,0
+Henry,F101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,F101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,F101,President,,REP,Ron DeSANTIS,1,0,0,1
+Henry,F101,President,,REP,Donald J. TRUMP,64,9,55,0
+Henry,F101,President,,REP,Chris CHRISTIE,0,0,0,0
+Henry,F101,President,,REP,Nikki R. HALEY,1,1,0,0
+Henry,F101,President,,REP,UNCOMMITTED,2,1,1,0
+Henry,F101,President,,REP,Total Votes,68,11,56,1
+Henry,F101,President,,REP,Under Votes,2,1,1,0
+Henry,F101,President,,REP,Over Votes,0,0,0,0
+Henry,F101,U.S. House,4,REP,Michael McGINNIS,8,1,7,0
+Henry,F101,U.S. House,4,REP,Eric DETERS,5,0,4,1
+Henry,F101,U.S. House,4,REP,Thomas MASSIE,55,10,45,0
+Henry,F101,U.S. House,4,REP,Total Votes,68,11,56,1
+Henry,F101,U.S. House,4,REP,Under Votes,2,1,1,0
+Henry,F101,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,F101,State Senate,7,REP,Adrienne E. SOUTHWORTH,6,0,6,0
+Henry,F101,State Senate,7,REP,Ed GALLREIN,23,8,14,1
+Henry,F101,State Senate,7,REP,Aaron REED,41,4,37,0
+Henry,F101,State Senate,7,REP,Total Votes,70,12,57,1
+Henry,F101,State Senate,7,REP,Under Votes,0,0,0,0
+Henry,F101,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,F101,State House,47,REP,Mark A. GILKISON,33,11,22,0
+Henry,F101,State House,47,REP,Felicia RABOURN,37,1,35,1
+Henry,F101,State House,47,REP,Total Votes,70,12,57,1
+Henry,F101,State House,47,REP,Under Votes,0,0,0,0
+Henry,F101,State House,47,REP,Over Votes,0,0,0,0
+Henry,F101,President,,DEM,Joseph R. BIDEN JR.,16,2,14,0
+Henry,F101,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Henry,F101,President,,DEM,Dean PHILLIPS,4,0,3,1
+Henry,F101,President,,DEM,UNCOMMITTED,8,2,6,0
+Henry,F101,President,,DEM,Total Votes,32,5,26,1
+Henry,F101,President,,DEM,Under Votes,0,0,0,0
+Henry,F101,President,,DEM,Over Votes,0,0,0,0
+Henry,F102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,F102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,F102,President,,REP,Ron DeSANTIS,1,0,1,0
+Henry,F102,President,,REP,Donald J. TRUMP,36,3,33,0
+Henry,F102,President,,REP,Chris CHRISTIE,1,0,1,0
+Henry,F102,President,,REP,Nikki R. HALEY,1,0,1,0
+Henry,F102,President,,REP,UNCOMMITTED,2,0,2,0
+Henry,F102,President,,REP,Total Votes,41,3,38,0
+Henry,F102,President,,REP,Under Votes,0,0,0,0
+Henry,F102,President,,REP,Over Votes,0,0,0,0
+Henry,F102,U.S. House,4,REP,Michael McGINNIS,1,0,1,0
+Henry,F102,U.S. House,4,REP,Eric DETERS,1,0,1,0
+Henry,F102,U.S. House,4,REP,Thomas MASSIE,36,3,33,0
+Henry,F102,U.S. House,4,REP,Total Votes,38,3,35,0
+Henry,F102,U.S. House,4,REP,Under Votes,3,0,3,0
+Henry,F102,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,F102,State Senate,7,REP,Adrienne E. SOUTHWORTH,9,1,8,0
+Henry,F102,State Senate,7,REP,Ed GALLREIN,16,2,14,0
+Henry,F102,State Senate,7,REP,Aaron REED,15,0,15,0
+Henry,F102,State Senate,7,REP,Total Votes,40,3,37,0
+Henry,F102,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,F102,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,F102,State House,47,REP,Mark A. GILKISON,16,3,13,0
+Henry,F102,State House,47,REP,Felicia RABOURN,23,0,23,0
+Henry,F102,State House,47,REP,Total Votes,39,3,36,0
+Henry,F102,State House,47,REP,Under Votes,2,0,2,0
+Henry,F102,State House,47,REP,Over Votes,0,0,0,0
+Henry,F102,President,,DEM,Joseph R. BIDEN JR.,13,4,8,1
+Henry,F102,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Henry,F102,President,,DEM,Dean PHILLIPS,2,1,1,0
+Henry,F102,President,,DEM,UNCOMMITTED,3,0,3,0
+Henry,F102,President,,DEM,Total Votes,20,5,14,1
+Henry,F102,President,,DEM,Under Votes,0,0,0,0
+Henry,F102,President,,DEM,Over Votes,0,0,0,0
+Henry,F103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Henry,F103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Henry,F103,President,,REP,Ron DeSANTIS,5,1,4,0
+Henry,F103,President,,REP,Donald J. TRUMP,97,19,77,1
+Henry,F103,President,,REP,Chris CHRISTIE,2,0,2,0
+Henry,F103,President,,REP,Nikki R. HALEY,5,2,3,0
+Henry,F103,President,,REP,UNCOMMITTED,2,0,2,0
+Henry,F103,President,,REP,Total Votes,111,22,88,1
+Henry,F103,President,,REP,Under Votes,0,0,0,0
+Henry,F103,President,,REP,Over Votes,0,0,0,0
+Henry,F103,U.S. House,4,REP,Michael McGINNIS,14,4,10,0
+Henry,F103,U.S. House,4,REP,Eric DETERS,11,3,8,0
+Henry,F103,U.S. House,4,REP,Thomas MASSIE,81,12,68,1
+Henry,F103,U.S. House,4,REP,Total Votes,106,19,86,1
+Henry,F103,U.S. House,4,REP,Under Votes,5,3,2,0
+Henry,F103,U.S. House,4,REP,Over Votes,0,0,0,0
+Henry,F103,State Senate,7,REP,Adrienne E. SOUTHWORTH,11,1,10,0
+Henry,F103,State Senate,7,REP,Ed GALLREIN,56,13,42,1
+Henry,F103,State Senate,7,REP,Aaron REED,43,8,35,0
+Henry,F103,State Senate,7,REP,Total Votes,110,22,87,1
+Henry,F103,State Senate,7,REP,Under Votes,1,0,1,0
+Henry,F103,State Senate,7,REP,Over Votes,0,0,0,0
+Henry,F103,State House,47,REP,Mark A. GILKISON,52,13,38,1
+Henry,F103,State House,47,REP,Felicia RABOURN,58,9,49,0
+Henry,F103,State House,47,REP,Total Votes,110,22,87,1
+Henry,F103,State House,47,REP,Under Votes,1,0,1,0
+Henry,F103,State House,47,REP,Over Votes,0,0,0,0
+Henry,F103,President,,DEM,Joseph R. BIDEN JR.,26,7,19,0
+Henry,F103,President,,DEM,Marianne WILLIAMSON,8,1,7,0
+Henry,F103,President,,DEM,Dean PHILLIPS,6,1,5,0
+Henry,F103,President,,DEM,UNCOMMITTED,27,8,19,0
+Henry,F103,President,,DEM,Total Votes,67,17,50,0
+Henry,F103,President,,DEM,Under Votes,2,0,2,0
+Henry,F103,President,,DEM,Over Votes,0,0,0,0
