@@ -1,0 +1,337 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Owen,A101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,A101,President,,REP,Vivek RAMASWAMY,1,0,0,1
+Owen,A101,President,,REP,Ron DeSANTIS,2,1,1,0
+Owen,A101,President,,REP,Donald J. TRUMP,44,2,40,2
+Owen,A101,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,A101,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,A101,President,,REP,UNCOMMITTED,1,0,1,0
+Owen,A101,President,,REP,Total Votes,49,3,43,3
+Owen,A101,President,,REP,Under Votes,0,0,0,0
+Owen,A101,President,,REP,Over Votes,0,0,0,0
+Owen,A101,U.S. House,4,REP,Michael McGINNIS,2,1,1,0
+Owen,A101,U.S. House,4,REP,Eric DETERS,9,1,7,1
+Owen,A101,U.S. House,4,REP,Thomas MASSIE,38,1,35,2
+Owen,A101,U.S. House,4,REP,Total Votes,49,3,43,3
+Owen,A101,U.S. House,4,REP,Under Votes,0,0,0,0
+Owen,A101,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,A101,State House,47,REP,Mark A. GILKISON,14,2,12,0
+Owen,A101,State House,47,REP,Felicia RABOURN,35,1,31,3
+Owen,A101,State House,47,REP,Total Votes,49,3,43,3
+Owen,A101,State House,47,REP,Under Votes,0,0,0,0
+Owen,A101,State House,47,REP,Over Votes,0,0,0,0
+Owen,A101,President,,DEM,Joseph R. BIDEN JR.,10,0,9,1
+Owen,A101,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Owen,A101,President,,DEM,Dean PHILLIPS,2,0,2,0
+Owen,A101,President,,DEM,UNCOMMITTED,6,0,6,0
+Owen,A101,President,,DEM,Total Votes,18,0,17,1
+Owen,A101,President,,DEM,Under Votes,0,0,0,0
+Owen,A101,President,,DEM,Over Votes,0,0,0,0
+Owen,A103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,A103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,A103,President,,REP,Ron DeSANTIS,0,0,0,0
+Owen,A103,President,,REP,Donald J. TRUMP,68,4,62,2
+Owen,A103,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,A103,President,,REP,Nikki R. HALEY,2,0,2,0
+Owen,A103,President,,REP,UNCOMMITTED,0,0,0,0
+Owen,A103,President,,REP,Total Votes,70,4,64,2
+Owen,A103,President,,REP,Under Votes,0,0,0,0
+Owen,A103,President,,REP,Over Votes,0,0,0,0
+Owen,A103,U.S. House,4,REP,Michael McGINNIS,7,1,6,0
+Owen,A103,U.S. House,4,REP,Eric DETERS,7,1,6,0
+Owen,A103,U.S. House,4,REP,Thomas MASSIE,56,2,52,2
+Owen,A103,U.S. House,4,REP,Total Votes,70,4,64,2
+Owen,A103,U.S. House,4,REP,Under Votes,0,0,0,0
+Owen,A103,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,A103,State House,47,REP,Mark A. GILKISON,20,3,16,1
+Owen,A103,State House,47,REP,Felicia RABOURN,50,1,48,1
+Owen,A103,State House,47,REP,Total Votes,70,4,64,2
+Owen,A103,State House,47,REP,Under Votes,0,0,0,0
+Owen,A103,State House,47,REP,Over Votes,0,0,0,0
+Owen,A103,President,,DEM,Joseph R. BIDEN JR.,5,0,4,1
+Owen,A103,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Owen,A103,President,,DEM,Dean PHILLIPS,0,0,0,0
+Owen,A103,President,,DEM,UNCOMMITTED,5,0,5,0
+Owen,A103,President,,DEM,Total Votes,10,0,9,1
+Owen,A103,President,,DEM,Under Votes,0,0,0,0
+Owen,A103,President,,DEM,Over Votes,0,0,0,0
+Owen,A104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,A104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,A104,President,,REP,Ron DeSANTIS,0,0,0,0
+Owen,A104,President,,REP,Donald J. TRUMP,31,5,25,1
+Owen,A104,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,A104,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,A104,President,,REP,UNCOMMITTED,0,0,0,0
+Owen,A104,President,,REP,Total Votes,32,5,26,1
+Owen,A104,President,,REP,Under Votes,0,0,0,0
+Owen,A104,President,,REP,Over Votes,0,0,0,0
+Owen,A104,U.S. House,4,REP,Michael McGINNIS,4,1,3,0
+Owen,A104,U.S. House,4,REP,Eric DETERS,2,0,2,0
+Owen,A104,U.S. House,4,REP,Thomas MASSIE,26,4,21,1
+Owen,A104,U.S. House,4,REP,Total Votes,32,5,26,1
+Owen,A104,U.S. House,4,REP,Under Votes,0,0,0,0
+Owen,A104,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,A104,State House,47,REP,Mark A. GILKISON,6,1,5,0
+Owen,A104,State House,47,REP,Felicia RABOURN,26,4,21,1
+Owen,A104,State House,47,REP,Total Votes,32,5,26,1
+Owen,A104,State House,47,REP,Under Votes,0,0,0,0
+Owen,A104,State House,47,REP,Over Votes,0,0,0,0
+Owen,A104,President,,DEM,Joseph R. BIDEN JR.,2,0,1,1
+Owen,A104,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Owen,A104,President,,DEM,Dean PHILLIPS,1,1,0,0
+Owen,A104,President,,DEM,UNCOMMITTED,3,0,3,0
+Owen,A104,President,,DEM,Total Votes,6,1,4,1
+Owen,A104,President,,DEM,Under Votes,0,0,0,0
+Owen,A104,President,,DEM,Over Votes,0,0,0,0
+Owen,A105,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Owen,A105,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,A105,President,,REP,Ron DeSANTIS,4,0,4,0
+Owen,A105,President,,REP,Donald J. TRUMP,111,11,97,3
+Owen,A105,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,A105,President,,REP,Nikki R. HALEY,4,1,3,0
+Owen,A105,President,,REP,UNCOMMITTED,3,0,3,0
+Owen,A105,President,,REP,Total Votes,124,12,109,3
+Owen,A105,President,,REP,Under Votes,1,0,1,0
+Owen,A105,President,,REP,Over Votes,0,0,0,0
+Owen,A105,U.S. House,4,REP,Michael McGINNIS,9,1,8,0
+Owen,A105,U.S. House,4,REP,Eric DETERS,14,0,14,0
+Owen,A105,U.S. House,4,REP,Thomas MASSIE,99,11,85,3
+Owen,A105,U.S. House,4,REP,Total Votes,122,12,107,3
+Owen,A105,U.S. House,4,REP,Under Votes,3,0,3,0
+Owen,A105,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,A105,State House,47,REP,Mark A. GILKISON,37,3,33,1
+Owen,A105,State House,47,REP,Felicia RABOURN,86,9,75,2
+Owen,A105,State House,47,REP,Total Votes,123,12,108,3
+Owen,A105,State House,47,REP,Under Votes,2,0,2,0
+Owen,A105,State House,47,REP,Over Votes,0,0,0,0
+Owen,A105,President,,DEM,Joseph R. BIDEN JR.,23,4,19,0
+Owen,A105,President,,DEM,Marianne WILLIAMSON,5,1,4,0
+Owen,A105,President,,DEM,Dean PHILLIPS,6,0,6,0
+Owen,A105,President,,DEM,UNCOMMITTED,14,9,5,0
+Owen,A105,President,,DEM,Total Votes,48,14,34,0
+Owen,A105,President,,DEM,Under Votes,1,0,1,0
+Owen,A105,President,,DEM,Over Votes,0,0,0,0
+Owen,B102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,B102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,B102,President,,REP,Ron DeSANTIS,5,1,4,0
+Owen,B102,President,,REP,Donald J. TRUMP,135,10,125,0
+Owen,B102,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,B102,President,,REP,Nikki R. HALEY,2,0,2,0
+Owen,B102,President,,REP,UNCOMMITTED,10,3,7,0
+Owen,B102,President,,REP,Total Votes,152,14,138,0
+Owen,B102,President,,REP,Under Votes,0,0,0,0
+Owen,B102,President,,REP,Over Votes,0,0,0,0
+Owen,B102,U.S. House,4,REP,Michael McGINNIS,13,0,13,0
+Owen,B102,U.S. House,4,REP,Eric DETERS,24,5,19,0
+Owen,B102,U.S. House,4,REP,Thomas MASSIE,109,8,101,0
+Owen,B102,U.S. House,4,REP,Total Votes,146,13,133,0
+Owen,B102,U.S. House,4,REP,Under Votes,5,1,4,0
+Owen,B102,U.S. House,4,REP,Over Votes,1,0,1,0
+Owen,B102,State House,47,REP,Mark A. GILKISON,60,8,52,0
+Owen,B102,State House,47,REP,Felicia RABOURN,88,6,82,0
+Owen,B102,State House,47,REP,Total Votes,148,14,134,0
+Owen,B102,State House,47,REP,Under Votes,4,0,4,0
+Owen,B102,State House,47,REP,Over Votes,0,0,0,0
+Owen,B102,President,,DEM,Joseph R. BIDEN JR.,32,5,26,1
+Owen,B102,President,,DEM,Marianne WILLIAMSON,10,3,7,0
+Owen,B102,President,,DEM,Dean PHILLIPS,11,1,10,0
+Owen,B102,President,,DEM,UNCOMMITTED,27,7,18,2
+Owen,B102,President,,DEM,Total Votes,80,16,61,3
+Owen,B102,President,,DEM,Under Votes,0,0,0,0
+Owen,B102,President,,DEM,Over Votes,0,0,0,0
+Owen,B103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,B103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,B103,President,,REP,Ron DeSANTIS,3,0,3,0
+Owen,B103,President,,REP,Donald J. TRUMP,78,8,62,8
+Owen,B103,President,,REP,Chris CHRISTIE,2,2,0,0
+Owen,B103,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,B103,President,,REP,UNCOMMITTED,3,0,2,1
+Owen,B103,President,,REP,Total Votes,87,10,68,9
+Owen,B103,President,,REP,Under Votes,1,0,0,1
+Owen,B103,President,,REP,Over Votes,0,0,0,0
+Owen,B103,U.S. House,4,REP,Michael McGINNIS,3,0,2,1
+Owen,B103,U.S. House,4,REP,Eric DETERS,13,2,8,3
+Owen,B103,U.S. House,4,REP,Thomas MASSIE,66,8,56,2
+Owen,B103,U.S. House,4,REP,Total Votes,82,10,66,6
+Owen,B103,U.S. House,4,REP,Under Votes,6,0,2,4
+Owen,B103,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,B103,State House,47,REP,Mark A. GILKISON,30,4,24,2
+Owen,B103,State House,47,REP,Felicia RABOURN,50,5,42,3
+Owen,B103,State House,47,REP,Total Votes,80,9,66,5
+Owen,B103,State House,47,REP,Under Votes,8,1,2,5
+Owen,B103,State House,47,REP,Over Votes,0,0,0,0
+Owen,B103,President,,DEM,Joseph R. BIDEN JR.,29,4,19,6
+Owen,B103,President,,DEM,Marianne WILLIAMSON,10,1,9,0
+Owen,B103,President,,DEM,Dean PHILLIPS,11,0,10,1
+Owen,B103,President,,DEM,UNCOMMITTED,23,4,16,3
+Owen,B103,President,,DEM,Total Votes,73,9,54,10
+Owen,B103,President,,DEM,Under Votes,1,0,0,1
+Owen,B103,President,,DEM,Over Votes,1,0,0,1
+Owen,C101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,C101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,C101,President,,REP,Ron DeSANTIS,3,0,3,0
+Owen,C101,President,,REP,Donald J. TRUMP,89,1,88,0
+Owen,C101,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,C101,President,,REP,Nikki R. HALEY,0,0,0,0
+Owen,C101,President,,REP,UNCOMMITTED,0,0,0,0
+Owen,C101,President,,REP,Total Votes,92,1,91,0
+Owen,C101,President,,REP,Under Votes,0,0,0,0
+Owen,C101,President,,REP,Over Votes,0,0,0,0
+Owen,C101,U.S. House,4,REP,Michael McGINNIS,8,0,8,0
+Owen,C101,U.S. House,4,REP,Eric DETERS,10,0,10,0
+Owen,C101,U.S. House,4,REP,Thomas MASSIE,72,1,71,0
+Owen,C101,U.S. House,4,REP,Total Votes,90,1,89,0
+Owen,C101,U.S. House,4,REP,Under Votes,2,0,2,0
+Owen,C101,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,C101,State House,47,REP,Mark A. GILKISON,40,1,39,0
+Owen,C101,State House,47,REP,Felicia RABOURN,50,0,50,0
+Owen,C101,State House,47,REP,Total Votes,90,1,89,0
+Owen,C101,State House,47,REP,Under Votes,2,0,2,0
+Owen,C101,State House,47,REP,Over Votes,0,0,0,0
+Owen,C101,President,,DEM,Joseph R. BIDEN JR.,13,0,13,0
+Owen,C101,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Owen,C101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Owen,C101,President,,DEM,UNCOMMITTED,9,0,9,0
+Owen,C101,President,,DEM,Total Votes,24,0,24,0
+Owen,C101,President,,DEM,Under Votes,0,0,0,0
+Owen,C101,President,,DEM,Over Votes,0,0,0,0
+Owen,C103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,C103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,C103,President,,REP,Ron DeSANTIS,2,1,1,0
+Owen,C103,President,,REP,Donald J. TRUMP,61,4,51,6
+Owen,C103,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,C103,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,C103,President,,REP,UNCOMMITTED,1,0,1,0
+Owen,C103,President,,REP,Total Votes,65,5,54,6
+Owen,C103,President,,REP,Under Votes,0,0,0,0
+Owen,C103,President,,REP,Over Votes,0,0,0,0
+Owen,C103,U.S. House,4,REP,Michael McGINNIS,9,0,7,2
+Owen,C103,U.S. House,4,REP,Eric DETERS,8,2,6,0
+Owen,C103,U.S. House,4,REP,Thomas MASSIE,47,2,41,4
+Owen,C103,U.S. House,4,REP,Total Votes,64,4,54,6
+Owen,C103,U.S. House,4,REP,Under Votes,1,1,0,0
+Owen,C103,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,C103,State House,47,REP,Mark A. GILKISON,29,3,24,2
+Owen,C103,State House,47,REP,Felicia RABOURN,35,1,30,4
+Owen,C103,State House,47,REP,Total Votes,64,4,54,6
+Owen,C103,State House,47,REP,Under Votes,1,1,0,0
+Owen,C103,State House,47,REP,Over Votes,0,0,0,0
+Owen,C103,President,,DEM,Joseph R. BIDEN JR.,13,1,12,0
+Owen,C103,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Owen,C103,President,,DEM,Dean PHILLIPS,5,0,5,0
+Owen,C103,President,,DEM,UNCOMMITTED,8,2,6,0
+Owen,C103,President,,DEM,Total Votes,29,3,26,0
+Owen,C103,President,,DEM,Under Votes,0,0,0,0
+Owen,C103,President,,DEM,Over Votes,0,0,0,0
+Owen,C104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,C104,President,,REP,Vivek RAMASWAMY,2,1,1,0
+Owen,C104,President,,REP,Ron DeSANTIS,5,1,4,0
+Owen,C104,President,,REP,Donald J. TRUMP,71,6,64,1
+Owen,C104,President,,REP,Chris CHRISTIE,1,0,1,0
+Owen,C104,President,,REP,Nikki R. HALEY,5,1,4,0
+Owen,C104,President,,REP,UNCOMMITTED,0,0,0,0
+Owen,C104,President,,REP,Total Votes,84,9,74,1
+Owen,C104,President,,REP,Under Votes,0,0,0,0
+Owen,C104,President,,REP,Over Votes,0,0,0,0
+Owen,C104,U.S. House,4,REP,Michael McGINNIS,13,0,13,0
+Owen,C104,U.S. House,4,REP,Eric DETERS,7,2,5,0
+Owen,C104,U.S. House,4,REP,Thomas MASSIE,59,6,53,0
+Owen,C104,U.S. House,4,REP,Total Votes,79,8,71,0
+Owen,C104,U.S. House,4,REP,Under Votes,5,1,3,1
+Owen,C104,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,C104,State House,47,REP,Mark A. GILKISON,30,1,29,0
+Owen,C104,State House,47,REP,Felicia RABOURN,47,8,39,0
+Owen,C104,State House,47,REP,Total Votes,77,9,68,0
+Owen,C104,State House,47,REP,Under Votes,7,0,6,1
+Owen,C104,State House,47,REP,Over Votes,0,0,0,0
+Owen,C104,President,,DEM,Joseph R. BIDEN JR.,11,2,9,0
+Owen,C104,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Owen,C104,President,,DEM,Dean PHILLIPS,0,0,0,0
+Owen,C104,President,,DEM,UNCOMMITTED,7,0,7,0
+Owen,C104,President,,DEM,Total Votes,22,2,20,0
+Owen,C104,President,,DEM,Under Votes,1,0,1,0
+Owen,C104,President,,DEM,Over Votes,0,0,0,0
+Owen,D101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,D101,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Owen,D101,President,,REP,Ron DeSANTIS,4,0,4,0
+Owen,D101,President,,REP,Donald J. TRUMP,84,4,80,0
+Owen,D101,President,,REP,Chris CHRISTIE,1,0,1,0
+Owen,D101,President,,REP,Nikki R. HALEY,6,0,6,0
+Owen,D101,President,,REP,UNCOMMITTED,10,0,10,0
+Owen,D101,President,,REP,Total Votes,106,4,102,0
+Owen,D101,President,,REP,Under Votes,0,0,0,0
+Owen,D101,President,,REP,Over Votes,0,0,0,0
+Owen,D101,U.S. House,4,REP,Michael McGINNIS,12,0,12,0
+Owen,D101,U.S. House,4,REP,Eric DETERS,16,1,15,0
+Owen,D101,U.S. House,4,REP,Thomas MASSIE,71,2,69,0
+Owen,D101,U.S. House,4,REP,Total Votes,99,3,96,0
+Owen,D101,U.S. House,4,REP,Under Votes,7,1,6,0
+Owen,D101,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,D101,State House,47,REP,Mark A. GILKISON,39,1,38,0
+Owen,D101,State House,47,REP,Felicia RABOURN,63,1,62,0
+Owen,D101,State House,47,REP,Total Votes,102,2,100,0
+Owen,D101,State House,47,REP,Under Votes,4,2,2,0
+Owen,D101,State House,47,REP,Over Votes,0,0,0,0
+Owen,D101,President,,DEM,Joseph R. BIDEN JR.,33,3,30,0
+Owen,D101,President,,DEM,Marianne WILLIAMSON,6,0,6,0
+Owen,D101,President,,DEM,Dean PHILLIPS,5,0,5,0
+Owen,D101,President,,DEM,UNCOMMITTED,25,2,22,1
+Owen,D101,President,,DEM,Total Votes,69,5,63,1
+Owen,D101,President,,DEM,Under Votes,0,0,0,0
+Owen,D101,President,,DEM,Over Votes,0,0,0,0
+Owen,D102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,D102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,D102,President,,REP,Ron DeSANTIS,1,0,1,0
+Owen,D102,President,,REP,Donald J. TRUMP,77,10,63,4
+Owen,D102,President,,REP,Chris CHRISTIE,1,0,1,0
+Owen,D102,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,D102,President,,REP,UNCOMMITTED,3,1,2,0
+Owen,D102,President,,REP,Total Votes,83,11,68,4
+Owen,D102,President,,REP,Under Votes,0,0,0,0
+Owen,D102,President,,REP,Over Votes,0,0,0,0
+Owen,D102,U.S. House,4,REP,Michael McGINNIS,7,0,7,0
+Owen,D102,U.S. House,4,REP,Eric DETERS,15,3,10,2
+Owen,D102,U.S. House,4,REP,Thomas MASSIE,57,6,49,2
+Owen,D102,U.S. House,4,REP,Total Votes,79,9,66,4
+Owen,D102,U.S. House,4,REP,Under Votes,4,2,2,0
+Owen,D102,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,D102,State House,47,REP,Mark A. GILKISON,30,4,26,0
+Owen,D102,State House,47,REP,Felicia RABOURN,50,5,41,4
+Owen,D102,State House,47,REP,Total Votes,80,9,67,4
+Owen,D102,State House,47,REP,Under Votes,3,2,1,0
+Owen,D102,State House,47,REP,Over Votes,0,0,0,0
+Owen,D102,President,,DEM,Joseph R. BIDEN JR.,18,4,14,0
+Owen,D102,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Owen,D102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Owen,D102,President,,DEM,UNCOMMITTED,9,1,8,0
+Owen,D102,President,,DEM,Total Votes,28,5,23,0
+Owen,D102,President,,DEM,Under Votes,0,0,0,0
+Owen,D102,President,,DEM,Over Votes,0,0,0,0
+Owen,D103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Owen,D103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Owen,D103,President,,REP,Ron DeSANTIS,0,0,0,0
+Owen,D103,President,,REP,Donald J. TRUMP,44,2,41,1
+Owen,D103,President,,REP,Chris CHRISTIE,0,0,0,0
+Owen,D103,President,,REP,Nikki R. HALEY,1,0,1,0
+Owen,D103,President,,REP,UNCOMMITTED,0,0,0,0
+Owen,D103,President,,REP,Total Votes,45,2,42,1
+Owen,D103,President,,REP,Under Votes,0,0,0,0
+Owen,D103,President,,REP,Over Votes,0,0,0,0
+Owen,D103,U.S. House,4,REP,Michael McGINNIS,3,0,3,0
+Owen,D103,U.S. House,4,REP,Eric DETERS,1,0,0,1
+Owen,D103,U.S. House,4,REP,Thomas MASSIE,40,2,38,0
+Owen,D103,U.S. House,4,REP,Total Votes,44,2,41,1
+Owen,D103,U.S. House,4,REP,Under Votes,1,0,1,0
+Owen,D103,U.S. House,4,REP,Over Votes,0,0,0,0
+Owen,D103,State House,47,REP,Mark A. GILKISON,11,0,11,0
+Owen,D103,State House,47,REP,Felicia RABOURN,34,2,31,1
+Owen,D103,State House,47,REP,Total Votes,45,2,42,1
+Owen,D103,State House,47,REP,Under Votes,0,0,0,0
+Owen,D103,State House,47,REP,Over Votes,0,0,0,0
+Owen,D103,President,,DEM,Joseph R. BIDEN JR.,4,0,3,1
+Owen,D103,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Owen,D103,President,,DEM,Dean PHILLIPS,3,0,3,0
+Owen,D103,President,,DEM,UNCOMMITTED,9,0,9,0
+Owen,D103,President,,DEM,Total Votes,17,0,16,1
+Owen,D103,President,,DEM,Under Votes,0,0,0,0
+Owen,D103,President,,DEM,Over Votes,0,0,0,0
