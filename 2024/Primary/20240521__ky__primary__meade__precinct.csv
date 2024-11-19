@@ -1,0 +1,514 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Meade,A101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,A101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,A101,President,,REP,Ron DeSANTIS,2,0,2,0
+Meade,A101,President,,REP,Donald J. TRUMP,91,12,77,2
+Meade,A101,President,,REP,Chris CHRISTIE,1,0,1,0
+Meade,A101,President,,REP,Nikki R. HALEY,0,0,0,0
+Meade,A101,President,,REP,UNCOMMITTED,2,0,2,0
+Meade,A101,President,,REP,Total Votes,96,12,82,2
+Meade,A101,President,,REP,Under Votes,0,0,0,0
+Meade,A101,President,,REP,Over Votes,0,0,0,0
+Meade,A101,State Senate,5,REP,Thomas BALLINGER,29,2,27,0
+Meade,A101,State Senate,5,REP,Stephen MEREDITH,64,10,53,1
+Meade,A101,State Senate,5,REP,Total Votes,93,12,80,1
+Meade,A101,State Senate,5,REP,Under Votes,3,0,2,1
+Meade,A101,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,A101,President,,DEM,Joseph R. BIDEN JR.,18,0,18,0
+Meade,A101,President,,DEM,Marianne WILLIAMSON,8,0,8,0
+Meade,A101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Meade,A101,President,,DEM,UNCOMMITTED,12,0,12,0
+Meade,A101,President,,DEM,Total Votes,39,0,39,0
+Meade,A101,President,,DEM,Under Votes,3,0,3,0
+Meade,A101,President,,DEM,Over Votes,0,0,0,0
+Meade,A101,U.S. House,2,DEM,Hank LINDERMAN,16,0,16,0
+Meade,A101,U.S. House,2,DEM,William Dakota COMPTON,25,0,25,0
+Meade,A101,U.S. House,2,DEM,Total Votes,41,0,41,0
+Meade,A101,U.S. House,2,DEM,Under Votes,1,0,1,0
+Meade,A101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,A102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,A102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,A102,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,A102,President,,REP,Donald J. TRUMP,49,1,48,0
+Meade,A102,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,A102,President,,REP,Nikki R. HALEY,1,0,1,0
+Meade,A102,President,,REP,UNCOMMITTED,1,0,1,0
+Meade,A102,President,,REP,Total Votes,51,1,50,0
+Meade,A102,President,,REP,Under Votes,0,0,0,0
+Meade,A102,President,,REP,Over Votes,0,0,0,0
+Meade,A102,State Senate,5,REP,Thomas BALLINGER,13,0,13,0
+Meade,A102,State Senate,5,REP,Stephen MEREDITH,36,1,35,0
+Meade,A102,State Senate,5,REP,Total Votes,49,1,48,0
+Meade,A102,State Senate,5,REP,Under Votes,2,0,2,0
+Meade,A102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,A102,President,,DEM,Joseph R. BIDEN JR.,13,1,9,3
+Meade,A102,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Meade,A102,President,,DEM,Dean PHILLIPS,0,0,0,0
+Meade,A102,President,,DEM,UNCOMMITTED,4,0,4,0
+Meade,A102,President,,DEM,Total Votes,19,1,15,3
+Meade,A102,President,,DEM,Under Votes,0,0,0,0
+Meade,A102,President,,DEM,Over Votes,0,0,0,0
+Meade,A102,U.S. House,2,DEM,Hank LINDERMAN,11,1,9,1
+Meade,A102,U.S. House,2,DEM,William Dakota COMPTON,7,0,6,1
+Meade,A102,U.S. House,2,DEM,Total Votes,18,1,15,2
+Meade,A102,U.S. House,2,DEM,Under Votes,1,0,0,1
+Meade,A102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,B101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,B101,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Meade,B101,President,,REP,Ron DeSANTIS,2,0,2,0
+Meade,B101,President,,REP,Donald J. TRUMP,109,22,84,3
+Meade,B101,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,B101,President,,REP,Nikki R. HALEY,2,0,1,1
+Meade,B101,President,,REP,UNCOMMITTED,3,0,3,0
+Meade,B101,President,,REP,Total Votes,117,22,91,4
+Meade,B101,President,,REP,Under Votes,0,0,0,0
+Meade,B101,President,,REP,Over Votes,0,0,0,0
+Meade,B101,State Senate,5,REP,Thomas BALLINGER,25,6,18,1
+Meade,B101,State Senate,5,REP,Stephen MEREDITH,89,16,70,3
+Meade,B101,State Senate,5,REP,Total Votes,114,22,88,4
+Meade,B101,State Senate,5,REP,Under Votes,3,0,3,0
+Meade,B101,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,B101,President,,DEM,Joseph R. BIDEN JR.,48,9,35,4
+Meade,B101,President,,DEM,Marianne WILLIAMSON,7,1,6,0
+Meade,B101,President,,DEM,Dean PHILLIPS,4,2,2,0
+Meade,B101,President,,DEM,UNCOMMITTED,8,0,7,1
+Meade,B101,President,,DEM,Total Votes,67,12,50,5
+Meade,B101,President,,DEM,Under Votes,4,2,2,0
+Meade,B101,President,,DEM,Over Votes,0,0,0,0
+Meade,B101,U.S. House,2,DEM,Hank LINDERMAN,46,8,35,3
+Meade,B101,U.S. House,2,DEM,William Dakota COMPTON,21,5,15,1
+Meade,B101,U.S. House,2,DEM,Total Votes,67,13,50,4
+Meade,B101,U.S. House,2,DEM,Under Votes,4,1,2,1
+Meade,B101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,B102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,B102,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Meade,B102,President,,REP,Ron DeSANTIS,3,0,3,0
+Meade,B102,President,,REP,Donald J. TRUMP,97,14,80,3
+Meade,B102,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,B102,President,,REP,Nikki R. HALEY,7,2,5,0
+Meade,B102,President,,REP,UNCOMMITTED,7,0,7,0
+Meade,B102,President,,REP,Total Votes,115,16,96,3
+Meade,B102,President,,REP,Under Votes,0,0,0,0
+Meade,B102,President,,REP,Over Votes,0,0,0,0
+Meade,B102,State Senate,5,REP,Thomas BALLINGER,39,4,34,1
+Meade,B102,State Senate,5,REP,Stephen MEREDITH,73,12,59,2
+Meade,B102,State Senate,5,REP,Total Votes,112,16,93,3
+Meade,B102,State Senate,5,REP,Under Votes,3,0,3,0
+Meade,B102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,B102,President,,DEM,Joseph R. BIDEN JR.,62,12,47,3
+Meade,B102,President,,DEM,Marianne WILLIAMSON,6,2,4,0
+Meade,B102,President,,DEM,Dean PHILLIPS,2,0,2,0
+Meade,B102,President,,DEM,UNCOMMITTED,14,2,12,0
+Meade,B102,President,,DEM,Total Votes,84,16,65,3
+Meade,B102,President,,DEM,Under Votes,1,0,1,0
+Meade,B102,President,,DEM,Over Votes,0,0,0,0
+Meade,B102,U.S. House,2,DEM,Hank LINDERMAN,48,9,38,1
+Meade,B102,U.S. House,2,DEM,William Dakota COMPTON,30,7,23,0
+Meade,B102,U.S. House,2,DEM,Total Votes,78,16,61,1
+Meade,B102,U.S. House,2,DEM,Under Votes,7,0,5,2
+Meade,B102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,B103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,B103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,B103,President,,REP,Ron DeSANTIS,1,0,1,0
+Meade,B103,President,,REP,Donald J. TRUMP,51,8,40,3
+Meade,B103,President,,REP,Chris CHRISTIE,1,1,0,0
+Meade,B103,President,,REP,Nikki R. HALEY,2,1,1,0
+Meade,B103,President,,REP,UNCOMMITTED,0,0,0,0
+Meade,B103,President,,REP,Total Votes,55,10,42,3
+Meade,B103,President,,REP,Under Votes,0,0,0,0
+Meade,B103,President,,REP,Over Votes,0,0,0,0
+Meade,B103,State Senate,5,REP,Thomas BALLINGER,19,4,14,1
+Meade,B103,State Senate,5,REP,Stephen MEREDITH,35,6,27,2
+Meade,B103,State Senate,5,REP,Total Votes,54,10,41,3
+Meade,B103,State Senate,5,REP,Under Votes,1,0,1,0
+Meade,B103,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,B103,President,,DEM,Joseph R. BIDEN JR.,12,3,6,3
+Meade,B103,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Meade,B103,President,,DEM,Dean PHILLIPS,2,1,1,0
+Meade,B103,President,,DEM,UNCOMMITTED,3,0,3,0
+Meade,B103,President,,DEM,Total Votes,19,4,12,3
+Meade,B103,President,,DEM,Under Votes,1,0,1,0
+Meade,B103,President,,DEM,Over Votes,1,0,0,1
+Meade,B103,U.S. House,2,DEM,Hank LINDERMAN,9,1,7,1
+Meade,B103,U.S. House,2,DEM,William Dakota COMPTON,10,3,5,2
+Meade,B103,U.S. House,2,DEM,Total Votes,19,4,12,3
+Meade,B103,U.S. House,2,DEM,Under Votes,2,0,1,1
+Meade,B103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,C101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,C101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,C101,President,,REP,Ron DeSANTIS,4,1,3,0
+Meade,C101,President,,REP,Donald J. TRUMP,89,11,78,0
+Meade,C101,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,C101,President,,REP,Nikki R. HALEY,3,0,3,0
+Meade,C101,President,,REP,UNCOMMITTED,5,0,5,0
+Meade,C101,President,,REP,Total Votes,101,12,89,0
+Meade,C101,President,,REP,Under Votes,0,0,0,0
+Meade,C101,President,,REP,Over Votes,0,0,0,0
+Meade,C101,State Senate,5,REP,Thomas BALLINGER,36,2,34,0
+Meade,C101,State Senate,5,REP,Stephen MEREDITH,61,10,51,0
+Meade,C101,State Senate,5,REP,Total Votes,97,12,85,0
+Meade,C101,State Senate,5,REP,Under Votes,4,0,4,0
+Meade,C101,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,C101,President,,DEM,Joseph R. BIDEN JR.,36,3,33,0
+Meade,C101,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Meade,C101,President,,DEM,Dean PHILLIPS,6,1,5,0
+Meade,C101,President,,DEM,UNCOMMITTED,13,3,10,0
+Meade,C101,President,,DEM,Total Votes,58,7,51,0
+Meade,C101,President,,DEM,Under Votes,1,0,1,0
+Meade,C101,President,,DEM,Over Votes,0,0,0,0
+Meade,C101,U.S. House,2,DEM,Hank LINDERMAN,29,2,27,0
+Meade,C101,U.S. House,2,DEM,William Dakota COMPTON,28,4,24,0
+Meade,C101,U.S. House,2,DEM,Total Votes,57,6,51,0
+Meade,C101,U.S. House,2,DEM,Under Votes,2,1,1,0
+Meade,C101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,C102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,C102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,C102,President,,REP,Ron DeSANTIS,1,0,1,0
+Meade,C102,President,,REP,Donald J. TRUMP,94,3,90,1
+Meade,C102,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,C102,President,,REP,Nikki R. HALEY,2,0,2,0
+Meade,C102,President,,REP,UNCOMMITTED,0,0,0,0
+Meade,C102,President,,REP,Total Votes,97,3,93,1
+Meade,C102,President,,REP,Under Votes,0,0,0,0
+Meade,C102,President,,REP,Over Votes,1,0,1,0
+Meade,C102,State Senate,5,REP,Thomas BALLINGER,31,1,30,0
+Meade,C102,State Senate,5,REP,Stephen MEREDITH,61,2,58,1
+Meade,C102,State Senate,5,REP,Total Votes,92,3,88,1
+Meade,C102,State Senate,5,REP,Under Votes,6,0,6,0
+Meade,C102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,C102,President,,DEM,Joseph R. BIDEN JR.,19,1,17,1
+Meade,C102,President,,DEM,Marianne WILLIAMSON,3,1,2,0
+Meade,C102,President,,DEM,Dean PHILLIPS,3,0,3,0
+Meade,C102,President,,DEM,UNCOMMITTED,13,1,12,0
+Meade,C102,President,,DEM,Total Votes,38,3,34,1
+Meade,C102,President,,DEM,Under Votes,0,0,0,0
+Meade,C102,President,,DEM,Over Votes,0,0,0,0
+Meade,C102,U.S. House,2,DEM,Hank LINDERMAN,18,2,16,0
+Meade,C102,U.S. House,2,DEM,William Dakota COMPTON,17,1,15,1
+Meade,C102,U.S. House,2,DEM,Total Votes,35,3,31,1
+Meade,C102,U.S. House,2,DEM,Under Votes,3,0,3,0
+Meade,C102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,C103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,C103,President,,REP,Vivek RAMASWAMY,2,0,2,0
+Meade,C103,President,,REP,Ron DeSANTIS,2,0,2,0
+Meade,C103,President,,REP,Donald J. TRUMP,76,11,63,2
+Meade,C103,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,C103,President,,REP,Nikki R. HALEY,1,0,1,0
+Meade,C103,President,,REP,UNCOMMITTED,3,1,2,0
+Meade,C103,President,,REP,Total Votes,84,12,70,2
+Meade,C103,President,,REP,Under Votes,0,0,0,0
+Meade,C103,President,,REP,Over Votes,0,0,0,0
+Meade,C103,State Senate,5,REP,Thomas BALLINGER,31,5,25,1
+Meade,C103,State Senate,5,REP,Stephen MEREDITH,51,7,43,1
+Meade,C103,State Senate,5,REP,Total Votes,82,12,68,2
+Meade,C103,State Senate,5,REP,Under Votes,2,0,2,0
+Meade,C103,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,C103,President,,DEM,Joseph R. BIDEN JR.,21,8,13,0
+Meade,C103,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Meade,C103,President,,DEM,Dean PHILLIPS,8,0,8,0
+Meade,C103,President,,DEM,UNCOMMITTED,7,0,7,0
+Meade,C103,President,,DEM,Total Votes,38,8,30,0
+Meade,C103,President,,DEM,Under Votes,0,0,0,0
+Meade,C103,President,,DEM,Over Votes,0,0,0,0
+Meade,C103,U.S. House,2,DEM,Hank LINDERMAN,22,3,19,0
+Meade,C103,U.S. House,2,DEM,William Dakota COMPTON,16,5,11,0
+Meade,C103,U.S. House,2,DEM,Total Votes,38,8,30,0
+Meade,C103,U.S. House,2,DEM,Under Votes,0,0,0,0
+Meade,C103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,D101,President,,REP,Ryan L. BINKLEY,2,2,0,0
+Meade,D101,President,,REP,Vivek RAMASWAMY,3,0,3,0
+Meade,D101,President,,REP,Ron DeSANTIS,4,1,3,0
+Meade,D101,President,,REP,Donald J. TRUMP,87,29,55,3
+Meade,D101,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,D101,President,,REP,Nikki R. HALEY,7,0,7,0
+Meade,D101,President,,REP,UNCOMMITTED,10,0,10,0
+Meade,D101,President,,REP,Total Votes,113,32,78,3
+Meade,D101,President,,REP,Under Votes,0,0,0,0
+Meade,D101,President,,REP,Over Votes,0,0,0,0
+Meade,D101,State Senate,5,REP,Thomas BALLINGER,25,4,21,0
+Meade,D101,State Senate,5,REP,Stephen MEREDITH,84,27,54,3
+Meade,D101,State Senate,5,REP,Total Votes,109,31,75,3
+Meade,D101,State Senate,5,REP,Under Votes,4,1,3,0
+Meade,D101,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,D101,President,,DEM,Joseph R. BIDEN JR.,75,28,43,4
+Meade,D101,President,,DEM,Marianne WILLIAMSON,9,2,7,0
+Meade,D101,President,,DEM,Dean PHILLIPS,7,2,5,0
+Meade,D101,President,,DEM,UNCOMMITTED,17,3,14,0
+Meade,D101,President,,DEM,Total Votes,108,35,69,4
+Meade,D101,President,,DEM,Under Votes,0,0,0,0
+Meade,D101,President,,DEM,Over Votes,0,0,0,0
+Meade,D101,U.S. House,2,DEM,Hank LINDERMAN,58,19,37,2
+Meade,D101,U.S. House,2,DEM,William Dakota COMPTON,43,15,26,2
+Meade,D101,U.S. House,2,DEM,Total Votes,101,34,63,4
+Meade,D101,U.S. House,2,DEM,Under Votes,7,1,6,0
+Meade,D101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,D102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,D102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,D102,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,D102,President,,REP,Donald J. TRUMP,95,14,80,1
+Meade,D102,President,,REP,Chris CHRISTIE,2,0,2,0
+Meade,D102,President,,REP,Nikki R. HALEY,4,0,4,0
+Meade,D102,President,,REP,UNCOMMITTED,1,1,0,0
+Meade,D102,President,,REP,Total Votes,102,15,86,1
+Meade,D102,President,,REP,Under Votes,0,0,0,0
+Meade,D102,President,,REP,Over Votes,0,0,0,0
+Meade,D102,State Senate,5,REP,Thomas BALLINGER,31,3,28,0
+Meade,D102,State Senate,5,REP,Stephen MEREDITH,70,12,57,1
+Meade,D102,State Senate,5,REP,Total Votes,101,15,85,1
+Meade,D102,State Senate,5,REP,Under Votes,1,0,1,0
+Meade,D102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,D102,President,,DEM,Joseph R. BIDEN JR.,34,10,22,2
+Meade,D102,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Meade,D102,President,,DEM,Dean PHILLIPS,6,1,5,0
+Meade,D102,President,,DEM,UNCOMMITTED,20,4,14,2
+Meade,D102,President,,DEM,Total Votes,61,15,42,4
+Meade,D102,President,,DEM,Under Votes,0,0,0,0
+Meade,D102,President,,DEM,Over Votes,0,0,0,0
+Meade,D102,U.S. House,2,DEM,Hank LINDERMAN,41,12,25,4
+Meade,D102,U.S. House,2,DEM,William Dakota COMPTON,18,3,15,0
+Meade,D102,U.S. House,2,DEM,Total Votes,59,15,40,4
+Meade,D102,U.S. House,2,DEM,Under Votes,2,0,2,0
+Meade,D102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,D103,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Meade,D103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,D103,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,D103,President,,REP,Donald J. TRUMP,47,6,40,1
+Meade,D103,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,D103,President,,REP,Nikki R. HALEY,5,0,4,1
+Meade,D103,President,,REP,UNCOMMITTED,4,0,4,0
+Meade,D103,President,,REP,Total Votes,58,6,50,2
+Meade,D103,President,,REP,Under Votes,0,0,0,0
+Meade,D103,President,,REP,Over Votes,0,0,0,0
+Meade,D103,State Senate,5,REP,Thomas BALLINGER,19,1,18,0
+Meade,D103,State Senate,5,REP,Stephen MEREDITH,38,5,31,2
+Meade,D103,State Senate,5,REP,Total Votes,57,6,49,2
+Meade,D103,State Senate,5,REP,Under Votes,1,0,1,0
+Meade,D103,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,D103,President,,DEM,Joseph R. BIDEN JR.,34,9,25,0
+Meade,D103,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Meade,D103,President,,DEM,Dean PHILLIPS,6,2,4,0
+Meade,D103,President,,DEM,UNCOMMITTED,10,2,8,0
+Meade,D103,President,,DEM,Total Votes,53,13,40,0
+Meade,D103,President,,DEM,Under Votes,1,0,1,0
+Meade,D103,President,,DEM,Over Votes,0,0,0,0
+Meade,D103,U.S. House,2,DEM,Hank LINDERMAN,28,7,21,0
+Meade,D103,U.S. House,2,DEM,William Dakota COMPTON,25,6,19,0
+Meade,D103,U.S. House,2,DEM,Total Votes,53,13,40,0
+Meade,D103,U.S. House,2,DEM,Under Votes,1,0,1,0
+Meade,D103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,E101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Meade,E101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,E101,President,,REP,Ron DeSANTIS,5,0,5,0
+Meade,E101,President,,REP,Donald J. TRUMP,99,13,85,1
+Meade,E101,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,E101,President,,REP,Nikki R. HALEY,4,1,3,0
+Meade,E101,President,,REP,UNCOMMITTED,2,1,1,0
+Meade,E101,President,,REP,Total Votes,111,15,95,1
+Meade,E101,President,,REP,Under Votes,0,0,0,0
+Meade,E101,President,,REP,Over Votes,2,0,2,0
+Meade,E101,State Senate,5,REP,Thomas BALLINGER,34,6,28,0
+Meade,E101,State Senate,5,REP,Stephen MEREDITH,74,9,64,1
+Meade,E101,State Senate,5,REP,Total Votes,108,15,92,1
+Meade,E101,State Senate,5,REP,Under Votes,4,0,4,0
+Meade,E101,State Senate,5,REP,Over Votes,1,0,1,0
+Meade,E101,President,,DEM,Joseph R. BIDEN JR.,37,10,25,2
+Meade,E101,President,,DEM,Marianne WILLIAMSON,5,0,5,0
+Meade,E101,President,,DEM,Dean PHILLIPS,8,1,7,0
+Meade,E101,President,,DEM,UNCOMMITTED,10,0,10,0
+Meade,E101,President,,DEM,Total Votes,60,11,47,2
+Meade,E101,President,,DEM,Under Votes,0,0,0,0
+Meade,E101,President,,DEM,Over Votes,2,0,2,0
+Meade,E101,U.S. House,2,DEM,Hank LINDERMAN,33,5,28,0
+Meade,E101,U.S. House,2,DEM,William Dakota COMPTON,25,5,18,2
+Meade,E101,U.S. House,2,DEM,Total Votes,58,10,46,2
+Meade,E101,U.S. House,2,DEM,Under Votes,4,1,3,0
+Meade,E101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,E102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,E102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,E102,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,E102,President,,REP,Donald J. TRUMP,109,10,95,4
+Meade,E102,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,E102,President,,REP,Nikki R. HALEY,4,0,4,0
+Meade,E102,President,,REP,UNCOMMITTED,2,0,2,0
+Meade,E102,President,,REP,Total Votes,115,10,101,4
+Meade,E102,President,,REP,Under Votes,1,0,1,0
+Meade,E102,President,,REP,Over Votes,0,0,0,0
+Meade,E102,State Senate,5,REP,Thomas BALLINGER,29,2,27,0
+Meade,E102,State Senate,5,REP,Stephen MEREDITH,84,8,72,4
+Meade,E102,State Senate,5,REP,Total Votes,113,10,99,4
+Meade,E102,State Senate,5,REP,Under Votes,3,0,3,0
+Meade,E102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,E102,President,,DEM,Joseph R. BIDEN JR.,31,12,18,1
+Meade,E102,President,,DEM,Marianne WILLIAMSON,6,0,4,2
+Meade,E102,President,,DEM,Dean PHILLIPS,4,1,3,0
+Meade,E102,President,,DEM,UNCOMMITTED,14,3,11,0
+Meade,E102,President,,DEM,Total Votes,55,16,36,3
+Meade,E102,President,,DEM,Under Votes,0,0,0,0
+Meade,E102,President,,DEM,Over Votes,0,0,0,0
+Meade,E102,U.S. House,2,DEM,Hank LINDERMAN,26,7,19,0
+Meade,E102,U.S. House,2,DEM,William Dakota COMPTON,22,7,13,2
+Meade,E102,U.S. House,2,DEM,Total Votes,48,14,32,2
+Meade,E102,U.S. House,2,DEM,Under Votes,7,2,4,1
+Meade,E102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,E103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,E103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,E103,President,,REP,Ron DeSANTIS,4,0,4,0
+Meade,E103,President,,REP,Donald J. TRUMP,97,14,82,1
+Meade,E103,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,E103,President,,REP,Nikki R. HALEY,4,0,4,0
+Meade,E103,President,,REP,UNCOMMITTED,1,0,1,0
+Meade,E103,President,,REP,Total Votes,106,14,91,1
+Meade,E103,President,,REP,Under Votes,0,0,0,0
+Meade,E103,President,,REP,Over Votes,0,0,0,0
+Meade,E103,State Senate,5,REP,Thomas BALLINGER,34,2,32,0
+Meade,E103,State Senate,5,REP,Stephen MEREDITH,71,12,58,1
+Meade,E103,State Senate,5,REP,Total Votes,105,14,90,1
+Meade,E103,State Senate,5,REP,Under Votes,1,0,1,0
+Meade,E103,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,E103,President,,DEM,Joseph R. BIDEN JR.,13,4,9,0
+Meade,E103,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Meade,E103,President,,DEM,Dean PHILLIPS,0,0,0,0
+Meade,E103,President,,DEM,UNCOMMITTED,3,0,3,0
+Meade,E103,President,,DEM,Total Votes,20,4,16,0
+Meade,E103,President,,DEM,Under Votes,0,0,0,0
+Meade,E103,President,,DEM,Over Votes,0,0,0,0
+Meade,E103,U.S. House,2,DEM,Hank LINDERMAN,11,3,8,0
+Meade,E103,U.S. House,2,DEM,William Dakota COMPTON,9,1,8,0
+Meade,E103,U.S. House,2,DEM,Total Votes,20,4,16,0
+Meade,E103,U.S. House,2,DEM,Under Votes,0,0,0,0
+Meade,E103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,F101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,F101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,F101,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,F101,President,,REP,Donald J. TRUMP,51,6,45,0
+Meade,F101,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,F101,President,,REP,Nikki R. HALEY,5,0,5,0
+Meade,F101,President,,REP,UNCOMMITTED,0,0,0,0
+Meade,F101,President,,REP,Total Votes,56,6,50,0
+Meade,F101,President,,REP,Under Votes,0,0,0,0
+Meade,F101,President,,REP,Over Votes,0,0,0,0
+Meade,F101,State Senate,5,REP,Thomas BALLINGER,13,1,12,0
+Meade,F101,State Senate,5,REP,Stephen MEREDITH,39,3,36,0
+Meade,F101,State Senate,5,REP,Total Votes,52,4,48,0
+Meade,F101,State Senate,5,REP,Under Votes,4,2,2,0
+Meade,F101,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,F101,President,,DEM,Joseph R. BIDEN JR.,27,1,26,0
+Meade,F101,President,,DEM,Marianne WILLIAMSON,7,0,7,0
+Meade,F101,President,,DEM,Dean PHILLIPS,8,0,8,0
+Meade,F101,President,,DEM,UNCOMMITTED,14,3,11,0
+Meade,F101,President,,DEM,Total Votes,56,4,52,0
+Meade,F101,President,,DEM,Under Votes,1,0,1,0
+Meade,F101,President,,DEM,Over Votes,0,0,0,0
+Meade,F101,U.S. House,2,DEM,Hank LINDERMAN,29,2,27,0
+Meade,F101,U.S. House,2,DEM,William Dakota COMPTON,25,1,24,0
+Meade,F101,U.S. House,2,DEM,Total Votes,54,3,51,0
+Meade,F101,U.S. House,2,DEM,Under Votes,3,1,2,0
+Meade,F101,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,F102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,F102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,F102,President,,REP,Ron DeSANTIS,3,1,2,0
+Meade,F102,President,,REP,Donald J. TRUMP,42,11,30,1
+Meade,F102,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,F102,President,,REP,Nikki R. HALEY,3,1,2,0
+Meade,F102,President,,REP,UNCOMMITTED,0,0,0,0
+Meade,F102,President,,REP,Total Votes,48,13,34,1
+Meade,F102,President,,REP,Under Votes,1,0,1,0
+Meade,F102,President,,REP,Over Votes,0,0,0,0
+Meade,F102,State Senate,5,REP,Thomas BALLINGER,11,1,9,1
+Meade,F102,State Senate,5,REP,Stephen MEREDITH,36,12,24,0
+Meade,F102,State Senate,5,REP,Total Votes,47,13,33,1
+Meade,F102,State Senate,5,REP,Under Votes,2,0,2,0
+Meade,F102,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,F102,President,,DEM,Joseph R. BIDEN JR.,15,1,14,0
+Meade,F102,President,,DEM,Marianne WILLIAMSON,3,1,2,0
+Meade,F102,President,,DEM,Dean PHILLIPS,3,2,1,0
+Meade,F102,President,,DEM,UNCOMMITTED,7,0,7,0
+Meade,F102,President,,DEM,Total Votes,28,4,24,0
+Meade,F102,President,,DEM,Under Votes,1,1,0,0
+Meade,F102,President,,DEM,Over Votes,0,0,0,0
+Meade,F102,U.S. House,2,DEM,Hank LINDERMAN,17,2,15,0
+Meade,F102,U.S. House,2,DEM,William Dakota COMPTON,10,2,8,0
+Meade,F102,U.S. House,2,DEM,Total Votes,27,4,23,0
+Meade,F102,U.S. House,2,DEM,Under Votes,2,1,1,0
+Meade,F102,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,F103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,F103,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Meade,F103,President,,REP,Ron DeSANTIS,6,0,6,0
+Meade,F103,President,,REP,Donald J. TRUMP,91,13,73,5
+Meade,F103,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,F103,President,,REP,Nikki R. HALEY,1,1,0,0
+Meade,F103,President,,REP,UNCOMMITTED,0,0,0,0
+Meade,F103,President,,REP,Total Votes,99,14,80,5
+Meade,F103,President,,REP,Under Votes,0,0,0,0
+Meade,F103,President,,REP,Over Votes,0,0,0,0
+Meade,F103,State Senate,5,REP,Thomas BALLINGER,36,5,31,0
+Meade,F103,State Senate,5,REP,Stephen MEREDITH,60,8,47,5
+Meade,F103,State Senate,5,REP,Total Votes,96,13,78,5
+Meade,F103,State Senate,5,REP,Under Votes,3,1,2,0
+Meade,F103,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,F103,President,,DEM,Joseph R. BIDEN JR.,15,4,11,0
+Meade,F103,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Meade,F103,President,,DEM,Dean PHILLIPS,5,1,4,0
+Meade,F103,President,,DEM,UNCOMMITTED,15,0,15,0
+Meade,F103,President,,DEM,Total Votes,39,6,33,0
+Meade,F103,President,,DEM,Under Votes,0,0,0,0
+Meade,F103,President,,DEM,Over Votes,0,0,0,0
+Meade,F103,U.S. House,2,DEM,Hank LINDERMAN,16,3,13,0
+Meade,F103,U.S. House,2,DEM,William Dakota COMPTON,20,3,17,0
+Meade,F103,U.S. House,2,DEM,Total Votes,36,6,30,0
+Meade,F103,U.S. House,2,DEM,Under Votes,3,0,3,0
+Meade,F103,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,F104,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Meade,F104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,F104,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,F104,President,,REP,Donald J. TRUMP,56,11,44,1
+Meade,F104,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,F104,President,,REP,Nikki R. HALEY,2,0,2,0
+Meade,F104,President,,REP,UNCOMMITTED,1,0,1,0
+Meade,F104,President,,REP,Total Votes,60,11,48,1
+Meade,F104,President,,REP,Under Votes,0,0,0,0
+Meade,F104,President,,REP,Over Votes,0,0,0,0
+Meade,F104,State Senate,5,REP,Thomas BALLINGER,14,4,10,0
+Meade,F104,State Senate,5,REP,Stephen MEREDITH,46,7,38,1
+Meade,F104,State Senate,5,REP,Total Votes,60,11,48,1
+Meade,F104,State Senate,5,REP,Under Votes,0,0,0,0
+Meade,F104,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,F104,President,,DEM,Joseph R. BIDEN JR.,18,5,13,0
+Meade,F104,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Meade,F104,President,,DEM,Dean PHILLIPS,2,0,2,0
+Meade,F104,President,,DEM,UNCOMMITTED,12,3,8,1
+Meade,F104,President,,DEM,Total Votes,32,8,23,1
+Meade,F104,President,,DEM,Under Votes,0,0,0,0
+Meade,F104,President,,DEM,Over Votes,0,0,0,0
+Meade,F104,U.S. House,2,DEM,Hank LINDERMAN,18,3,14,1
+Meade,F104,U.S. House,2,DEM,William Dakota COMPTON,13,5,8,0
+Meade,F104,U.S. House,2,DEM,Total Votes,31,8,22,1
+Meade,F104,U.S. House,2,DEM,Under Votes,1,0,1,0
+Meade,F104,U.S. House,2,DEM,Over Votes,0,0,0,0
+Meade,F105,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Meade,F105,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Meade,F105,President,,REP,Ron DeSANTIS,0,0,0,0
+Meade,F105,President,,REP,Donald J. TRUMP,79,9,70,0
+Meade,F105,President,,REP,Chris CHRISTIE,0,0,0,0
+Meade,F105,President,,REP,Nikki R. HALEY,1,0,1,0
+Meade,F105,President,,REP,UNCOMMITTED,4,0,4,0
+Meade,F105,President,,REP,Total Votes,84,9,75,0
+Meade,F105,President,,REP,Under Votes,1,0,1,0
+Meade,F105,President,,REP,Over Votes,0,0,0,0
+Meade,F105,State Senate,5,REP,Thomas BALLINGER,31,5,26,0
+Meade,F105,State Senate,5,REP,Stephen MEREDITH,53,4,49,0
+Meade,F105,State Senate,5,REP,Total Votes,84,9,75,0
+Meade,F105,State Senate,5,REP,Under Votes,1,0,1,0
+Meade,F105,State Senate,5,REP,Over Votes,0,0,0,0
+Meade,F105,President,,DEM,Joseph R. BIDEN JR.,13,4,9,0
+Meade,F105,President,,DEM,Marianne WILLIAMSON,7,3,4,0
+Meade,F105,President,,DEM,Dean PHILLIPS,6,0,6,0
+Meade,F105,President,,DEM,UNCOMMITTED,11,0,11,0
+Meade,F105,President,,DEM,Total Votes,37,7,30,0
+Meade,F105,President,,DEM,Under Votes,1,0,1,0
+Meade,F105,President,,DEM,Over Votes,0,0,0,0
+Meade,F105,U.S. House,2,DEM,Hank LINDERMAN,22,5,17,0
+Meade,F105,U.S. House,2,DEM,William Dakota COMPTON,11,2,9,0
+Meade,F105,U.S. House,2,DEM,Total Votes,33,7,26,0
+Meade,F105,U.S. House,2,DEM,Under Votes,5,0,5,0
+Meade,F105,U.S. House,2,DEM,Over Votes,0,0,0,0
