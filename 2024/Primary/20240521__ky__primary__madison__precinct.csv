@@ -1,0 +1,936 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Madison,A101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A101,President,,REP,Ron DeSANTIS,2,0,2,0
+Madison,A101,President,,REP,Donald J. TRUMP,102,22,79,1
+Madison,A101,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A101,President,,REP,Nikki R. HALEY,2,0,2,0
+Madison,A101,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,A101,President,,REP,Total Votes,108,22,85,1
+Madison,A101,President,,DEM,Joseph R. BIDEN JR.,28,9,17,2
+Madison,A101,President,,DEM,Marianne WILLIAMSON,1,0,0,1
+Madison,A101,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,A101,President,,DEM,UNCOMMITTED,7,3,4,0
+Madison,A101,President,,DEM,Total Votes,40,12,25,3
+Madison,A101,U.S. House,6,DEM,Randy CRAVENS,8,3,5,0
+Madison,A101,U.S. House,6,DEM,Jonathan RICHARDSON,5,2,3,0
+Madison,A101,U.S. House,6,DEM,Todd KELLY,10,3,5,2
+Madison,A101,U.S. House,6,DEM,Don B. PRATT,2,0,2,0
+Madison,A101,U.S. House,6,DEM,Shauna RUDD,11,3,7,1
+Madison,A101,U.S. House,6,DEM,Total Votes,40,12,25,3
+Madison,A102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A102,President,,REP,Ron DeSANTIS,3,1,1,1
+Madison,A102,President,,REP,Donald J. TRUMP,63,17,46,0
+Madison,A102,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A102,President,,REP,Nikki R. HALEY,5,1,4,0
+Madison,A102,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,A102,President,,REP,Total Votes,73,19,53,1
+Madison,A102,President,,DEM,Joseph R. BIDEN JR.,93,31,52,10
+Madison,A102,President,,DEM,Marianne WILLIAMSON,5,1,4,0
+Madison,A102,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,A102,President,,DEM,UNCOMMITTED,15,6,9,0
+Madison,A102,President,,DEM,Total Votes,114,38,66,10
+Madison,A102,U.S. House,6,DEM,Randy CRAVENS,38,13,19,6
+Madison,A102,U.S. House,6,DEM,Jonathan RICHARDSON,9,4,5,0
+Madison,A102,U.S. House,6,DEM,Todd KELLY,22,8,13,1
+Madison,A102,U.S. House,6,DEM,Don B. PRATT,6,3,3,0
+Madison,A102,U.S. House,6,DEM,Shauna RUDD,26,4,20,2
+Madison,A102,U.S. House,6,DEM,Total Votes,114,38,66,10
+Madison,A103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A103,President,,REP,Ron DeSANTIS,2,0,2,0
+Madison,A103,President,,REP,Donald J. TRUMP,14,3,10,1
+Madison,A103,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A103,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,A103,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,A103,President,,REP,Total Votes,16,3,12,1
+Madison,A103,President,,DEM,Joseph R. BIDEN JR.,27,7,20,0
+Madison,A103,President,,DEM,Marianne WILLIAMSON,4,0,4,0
+Madison,A103,President,,DEM,Dean PHILLIPS,4,0,4,0
+Madison,A103,President,,DEM,UNCOMMITTED,12,1,11,0
+Madison,A103,President,,DEM,Total Votes,47,8,39,0
+Madison,A103,U.S. House,6,DEM,Randy CRAVENS,6,2,4,0
+Madison,A103,U.S. House,6,DEM,Jonathan RICHARDSON,3,0,3,0
+Madison,A103,U.S. House,6,DEM,Todd KELLY,8,3,5,0
+Madison,A103,U.S. House,6,DEM,Don B. PRATT,4,1,3,0
+Madison,A103,U.S. House,6,DEM,Shauna RUDD,23,2,21,0
+Madison,A103,U.S. House,6,DEM,Total Votes,47,8,39,0
+Madison,A104,President,,REP,Ryan L. BINKLEY,1,1,0,0
+Madison,A104,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,A104,President,,REP,Ron DeSANTIS,1,0,1,0
+Madison,A104,President,,REP,Donald J. TRUMP,120,28,82,10
+Madison,A104,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,A104,President,,REP,Nikki R. HALEY,5,2,2,1
+Madison,A104,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,A104,President,,REP,Total Votes,132,31,89,12
+Madison,A104,President,,DEM,Joseph R. BIDEN JR.,75,20,51,4
+Madison,A104,President,,DEM,Marianne WILLIAMSON,11,2,8,1
+Madison,A104,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,A104,President,,DEM,UNCOMMITTED,21,1,19,1
+Madison,A104,President,,DEM,Total Votes,113,23,81,9
+Madison,A104,U.S. House,6,DEM,Randy CRAVENS,31,14,16,1
+Madison,A104,U.S. House,6,DEM,Jonathan RICHARDSON,10,0,8,2
+Madison,A104,U.S. House,6,DEM,Todd KELLY,20,3,16,1
+Madison,A104,U.S. House,6,DEM,Don B. PRATT,6,2,3,1
+Madison,A104,U.S. House,6,DEM,Shauna RUDD,35,3,32,0
+Madison,A104,U.S. House,6,DEM,Total Votes,113,23,81,9
+Madison,A105,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Madison,A105,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A105,President,,REP,Ron DeSANTIS,3,1,2,0
+Madison,A105,President,,REP,Donald J. TRUMP,88,23,62,3
+Madison,A105,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,A105,President,,REP,Nikki R. HALEY,7,3,4,0
+Madison,A105,President,,REP,UNCOMMITTED,4,1,3,0
+Madison,A105,President,,REP,Total Votes,104,28,73,3
+Madison,A105,President,,DEM,Joseph R. BIDEN JR.,75,28,44,3
+Madison,A105,President,,DEM,Marianne WILLIAMSON,5,4,1,0
+Madison,A105,President,,DEM,Dean PHILLIPS,2,2,0,0
+Madison,A105,President,,DEM,UNCOMMITTED,11,2,9,0
+Madison,A105,President,,DEM,Total Votes,93,36,54,3
+Madison,A105,U.S. House,6,DEM,Randy CRAVENS,27,12,14,1
+Madison,A105,U.S. House,6,DEM,Jonathan RICHARDSON,10,4,6,0
+Madison,A105,U.S. House,6,DEM,Todd KELLY,25,10,13,2
+Madison,A105,U.S. House,6,DEM,Don B. PRATT,2,1,1,0
+Madison,A105,U.S. House,6,DEM,Shauna RUDD,23,7,16,0
+Madison,A105,U.S. House,6,DEM,Total Votes,93,36,54,3
+Madison,A106,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A106,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,A106,President,,REP,Ron DeSANTIS,7,4,3,0
+Madison,A106,President,,REP,Donald J. TRUMP,118,28,84,6
+Madison,A106,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,A106,President,,REP,Nikki R. HALEY,6,1,4,1
+Madison,A106,President,,REP,UNCOMMITTED,4,1,3,0
+Madison,A106,President,,REP,Total Votes,137,34,96,7
+Madison,A106,President,,DEM,Joseph R. BIDEN JR.,86,25,61,0
+Madison,A106,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,A106,President,,DEM,Dean PHILLIPS,3,1,2,0
+Madison,A106,President,,DEM,UNCOMMITTED,11,1,10,0
+Madison,A106,President,,DEM,Total Votes,102,27,75,0
+Madison,A106,U.S. House,6,DEM,Randy CRAVENS,26,6,20,0
+Madison,A106,U.S. House,6,DEM,Jonathan RICHARDSON,18,3,15,0
+Madison,A106,U.S. House,6,DEM,Todd KELLY,17,6,11,0
+Madison,A106,U.S. House,6,DEM,Don B. PRATT,4,2,2,0
+Madison,A106,U.S. House,6,DEM,Shauna RUDD,27,5,22,0
+Madison,A106,U.S. House,6,DEM,Total Votes,102,27,75,0
+Madison,A107,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A107,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A107,President,,REP,Ron DeSANTIS,7,2,5,0
+Madison,A107,President,,REP,Donald J. TRUMP,104,24,79,1
+Madison,A107,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A107,President,,REP,Nikki R. HALEY,10,7,3,0
+Madison,A107,President,,REP,UNCOMMITTED,3,1,1,1
+Madison,A107,President,,REP,Total Votes,124,34,88,2
+Madison,A107,President,,DEM,Joseph R. BIDEN JR.,41,13,28,0
+Madison,A107,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,A107,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,A107,President,,DEM,UNCOMMITTED,3,0,3,0
+Madison,A107,President,,DEM,Total Votes,48,13,35,0
+Madison,A107,U.S. House,6,DEM,Randy CRAVENS,13,8,5,0
+Madison,A107,U.S. House,6,DEM,Jonathan RICHARDSON,7,1,6,0
+Madison,A107,U.S. House,6,DEM,Todd KELLY,13,2,11,0
+Madison,A107,U.S. House,6,DEM,Don B. PRATT,4,1,3,0
+Madison,A107,U.S. House,6,DEM,Shauna RUDD,6,1,5,0
+Madison,A107,U.S. House,6,DEM,Total Votes,48,13,35,0
+Madison,A108,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A108,President,,REP,Vivek RAMASWAMY,3,0,3,0
+Madison,A108,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,A108,President,,REP,Donald J. TRUMP,87,17,69,1
+Madison,A108,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,A108,President,,REP,Nikki R. HALEY,3,1,2,0
+Madison,A108,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,A108,President,,REP,Total Votes,99,18,80,1
+Madison,A108,President,,DEM,Joseph R. BIDEN JR.,32,6,26,0
+Madison,A108,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,A108,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,A108,President,,DEM,UNCOMMITTED,9,0,9,0
+Madison,A108,President,,DEM,Total Votes,47,7,40,0
+Madison,A108,U.S. House,6,DEM,Randy CRAVENS,10,3,7,0
+Madison,A108,U.S. House,6,DEM,Jonathan RICHARDSON,5,3,2,0
+Madison,A108,U.S. House,6,DEM,Todd KELLY,7,1,6,0
+Madison,A108,U.S. House,6,DEM,Don B. PRATT,4,0,4,0
+Madison,A108,U.S. House,6,DEM,Shauna RUDD,15,0,15,0
+Madison,A108,U.S. House,6,DEM,Total Votes,47,7,40,0
+Madison,A109,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A109,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A109,President,,REP,Ron DeSANTIS,2,1,1,0
+Madison,A109,President,,REP,Donald J. TRUMP,185,50,134,0
+Madison,A109,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A109,President,,REP,Nikki R. HALEY,9,8,1,0
+Madison,A109,President,,REP,UNCOMMITTED,4,1,2,0
+Madison,A109,President,,REP,Total Votes,200,60,138,0
+Madison,A109,State House,89,REP,Idalia HOLLAND,19,7,12,0
+Madison,A109,State House,89,REP,Timmy TRUETT,162,50,110,0
+Madison,A109,State House,89,REP,Total Votes,200,60,138,0
+Madison,A109,President,,DEM,Joseph R. BIDEN JR.,40,19,21,0
+Madison,A109,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Madison,A109,President,,DEM,Dean PHILLIPS,3,2,1,0
+Madison,A109,President,,DEM,UNCOMMITTED,18,9,9,0
+Madison,A109,President,,DEM,Total Votes,64,31,33,0
+Madison,A109,U.S. House,6,DEM,Randy CRAVENS,12,9,3,0
+Madison,A109,U.S. House,6,DEM,Jonathan RICHARDSON,7,4,3,0
+Madison,A109,U.S. House,6,DEM,Todd KELLY,15,6,9,0
+Madison,A109,U.S. House,6,DEM,Don B. PRATT,7,4,3,0
+Madison,A109,U.S. House,6,DEM,Shauna RUDD,19,8,11,0
+Madison,A109,U.S. House,6,DEM,Total Votes,64,31,33,0
+Madison,A110,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Madison,A110,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A110,President,,REP,Ron DeSANTIS,6,1,3,2
+Madison,A110,President,,REP,Donald J. TRUMP,81,18,63,0
+Madison,A110,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,A110,President,,REP,Nikki R. HALEY,4,1,3,0
+Madison,A110,President,,REP,UNCOMMITTED,1,0,1,0
+Madison,A110,President,,REP,Total Votes,94,20,72,2
+Madison,A110,President,,DEM,Joseph R. BIDEN JR.,14,5,9,0
+Madison,A110,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,A110,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,A110,President,,DEM,UNCOMMITTED,7,0,7,0
+Madison,A110,President,,DEM,Total Votes,24,5,19,0
+Madison,A110,U.S. House,6,DEM,Randy CRAVENS,8,0,8,0
+Madison,A110,U.S. House,6,DEM,Jonathan RICHARDSON,1,0,1,0
+Madison,A110,U.S. House,6,DEM,Todd KELLY,5,1,4,0
+Madison,A110,U.S. House,6,DEM,Don B. PRATT,0,0,0,0
+Madison,A110,U.S. House,6,DEM,Shauna RUDD,8,4,4,0
+Madison,A110,U.S. House,6,DEM,Total Votes,24,5,19,0
+Madison,A111,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,A111,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,A111,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,A111,President,,REP,Donald J. TRUMP,73,13,57,3
+Madison,A111,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,A111,President,,REP,Nikki R. HALEY,6,3,3,0
+Madison,A111,President,,REP,UNCOMMITTED,5,0,2,3
+Madison,A111,President,,REP,Total Votes,88,16,66,6
+Madison,A111,President,,DEM,Joseph R. BIDEN JR.,40,19,20,1
+Madison,A111,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Madison,A111,President,,DEM,Dean PHILLIPS,2,0,2,0
+Madison,A111,President,,DEM,UNCOMMITTED,1,0,1,0
+Madison,A111,President,,DEM,Total Votes,48,20,27,1
+Madison,A111,U.S. House,6,DEM,Randy CRAVENS,12,8,4,0
+Madison,A111,U.S. House,6,DEM,Jonathan RICHARDSON,10,4,6,0
+Madison,A111,U.S. House,6,DEM,Todd KELLY,8,3,5,0
+Madison,A111,U.S. House,6,DEM,Don B. PRATT,7,1,6,0
+Madison,A111,U.S. House,6,DEM,Shauna RUDD,6,1,5,0
+Madison,A111,U.S. House,6,DEM,Total Votes,48,20,27,1
+Madison,B101,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Madison,B101,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,B101,President,,REP,Ron DeSANTIS,5,2,3,0
+Madison,B101,President,,REP,Donald J. TRUMP,67,10,53,3
+Madison,B101,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,B101,President,,REP,Nikki R. HALEY,8,1,7,0
+Madison,B101,President,,REP,UNCOMMITTED,1,1,0,0
+Madison,B101,President,,REP,Total Votes,83,14,65,3
+Madison,B101,State House,91,REP,Darrell W. BILLINGS,41,6,34,0
+Madison,B101,State House,91,REP,Billy E. WESLEY,35,6,27,2
+Madison,B101,State House,91,REP,Total Votes,83,14,65,3
+Madison,B101,President,,DEM,Joseph R. BIDEN JR.,55,18,31,6
+Madison,B101,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,B101,President,,DEM,Dean PHILLIPS,4,2,2,0
+Madison,B101,President,,DEM,UNCOMMITTED,10,3,6,0
+Madison,B101,President,,DEM,Total Votes,72,23,42,6
+Madison,B101,U.S. House,6,DEM,Randy CRAVENS,14,5,9,0
+Madison,B101,U.S. House,6,DEM,Jonathan RICHARDSON,14,9,5,0
+Madison,B101,U.S. House,6,DEM,Todd KELLY,12,4,7,1
+Madison,B101,U.S. House,6,DEM,Don B. PRATT,6,1,3,2
+Madison,B101,U.S. House,6,DEM,Shauna RUDD,16,2,11,3
+Madison,B101,U.S. House,6,DEM,Total Votes,72,24,42,6
+Madison,B102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B102,President,,REP,Vivek RAMASWAMY,1,1,0,0
+Madison,B102,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,B102,President,,REP,Donald J. TRUMP,63,15,48,0
+Madison,B102,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,B102,President,,REP,Nikki R. HALEY,8,2,6,0
+Madison,B102,President,,REP,UNCOMMITTED,1,0,1,0
+Madison,B102,President,,REP,Total Votes,76,18,58,0
+Madison,B102,President,,DEM,Joseph R. BIDEN JR.,34,9,24,1
+Madison,B102,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,B102,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,B102,President,,DEM,UNCOMMITTED,10,3,7,0
+Madison,B102,President,,DEM,Total Votes,45,12,32,1
+Madison,B102,U.S. House,6,DEM,Randy CRAVENS,13,2,11,0
+Madison,B102,U.S. House,6,DEM,Jonathan RICHARDSON,5,2,3,0
+Madison,B102,U.S. House,6,DEM,Todd KELLY,9,2,7,0
+Madison,B102,U.S. House,6,DEM,Don B. PRATT,5,1,4,0
+Madison,B102,U.S. House,6,DEM,Shauna RUDD,9,3,6,0
+Madison,B102,U.S. House,6,DEM,Total Votes,45,12,32,1
+Madison,B103,President,,REP,Ryan L. BINKLEY,2,2,0,0
+Madison,B103,President,,REP,Vivek RAMASWAMY,1,1,0,0
+Madison,B103,President,,REP,Ron DeSANTIS,5,2,3,0
+Madison,B103,President,,REP,Donald J. TRUMP,72,12,60,0
+Madison,B103,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,B103,President,,REP,Nikki R. HALEY,13,5,7,1
+Madison,B103,President,,REP,UNCOMMITTED,3,1,2,0
+Madison,B103,President,,REP,Total Votes,97,23,73,1
+Madison,B103,President,,DEM,Joseph R. BIDEN JR.,61,21,37,3
+Madison,B103,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,B103,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,B103,President,,DEM,UNCOMMITTED,7,0,7,0
+Madison,B103,President,,DEM,Total Votes,70,21,46,3
+Madison,B103,U.S. House,6,DEM,Randy CRAVENS,16,4,10,2
+Madison,B103,U.S. House,6,DEM,Jonathan RICHARDSON,12,3,8,1
+Madison,B103,U.S. House,6,DEM,Todd KELLY,11,2,9,0
+Madison,B103,U.S. House,6,DEM,Don B. PRATT,8,5,3,0
+Madison,B103,U.S. House,6,DEM,Shauna RUDD,19,3,16,0
+Madison,B103,U.S. House,6,DEM,Total Votes,70,21,46,3
+Madison,B104,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Madison,B104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,B104,President,,REP,Ron DeSANTIS,2,0,1,1
+Madison,B104,President,,REP,Donald J. TRUMP,110,21,84,5
+Madison,B104,President,,REP,Chris CHRISTIE,1,1,0,0
+Madison,B104,President,,REP,Nikki R. HALEY,6,5,1,0
+Madison,B104,President,,REP,UNCOMMITTED,4,2,2,0
+Madison,B104,President,,REP,Total Votes,125,29,90,6
+Madison,B104,President,,DEM,Joseph R. BIDEN JR.,30,8,16,6
+Madison,B104,President,,DEM,Marianne WILLIAMSON,7,1,6,0
+Madison,B104,President,,DEM,Dean PHILLIPS,4,1,3,0
+Madison,B104,President,,DEM,UNCOMMITTED,10,3,6,1
+Madison,B104,President,,DEM,Total Votes,55,14,34,7
+Madison,B104,U.S. House,6,DEM,Randy CRAVENS,17,3,11,3
+Madison,B104,U.S. House,6,DEM,Jonathan RICHARDSON,13,7,6,0
+Madison,B104,U.S. House,6,DEM,Todd KELLY,9,0,7,2
+Madison,B104,U.S. House,6,DEM,Don B. PRATT,2,0,1,1
+Madison,B104,U.S. House,6,DEM,Shauna RUDD,10,2,8,0
+Madison,B104,U.S. House,6,DEM,Total Votes,55,14,34,7
+Madison,B105,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B105,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,B105,President,,REP,Ron DeSANTIS,9,2,7,0
+Madison,B105,President,,REP,Donald J. TRUMP,118,32,79,7
+Madison,B105,President,,REP,Chris CHRISTIE,3,1,2,0
+Madison,B105,President,,REP,Nikki R. HALEY,18,3,13,2
+Madison,B105,President,,REP,UNCOMMITTED,13,6,6,1
+Madison,B105,President,,REP,Total Votes,162,44,108,10
+Madison,B105,President,,DEM,Joseph R. BIDEN JR.,137,46,79,12
+Madison,B105,President,,DEM,Marianne WILLIAMSON,7,1,4,2
+Madison,B105,President,,DEM,Dean PHILLIPS,5,0,4,1
+Madison,B105,President,,DEM,UNCOMMITTED,24,11,12,1
+Madison,B105,President,,DEM,Total Votes,174,58,99,17
+Madison,B105,U.S. House,6,DEM,Randy CRAVENS,51,20,24,7
+Madison,B105,U.S. House,6,DEM,Jonathan RICHARDSON,20,9,8,3
+Madison,B105,U.S. House,6,DEM,Todd KELLY,32,7,23,2
+Madison,B105,U.S. House,6,DEM,Don B. PRATT,24,8,16,0
+Madison,B105,U.S. House,6,DEM,Shauna RUDD,27,10,17,0
+Madison,B105,U.S. House,6,DEM,Total Votes,174,58,99,17
+Madison,B106,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B106,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,B106,President,,REP,Ron DeSANTIS,1,1,0,0
+Madison,B106,President,,REP,Donald J. TRUMP,16,2,10,4
+Madison,B106,President,,REP,Chris CHRISTIE,2,0,2,0
+Madison,B106,President,,REP,Nikki R. HALEY,4,1,3,0
+Madison,B106,President,,REP,UNCOMMITTED,2,0,1,1
+Madison,B106,President,,REP,Total Votes,25,4,16,5
+Madison,B106,President,,DEM,Joseph R. BIDEN JR.,37,9,21,7
+Madison,B106,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Madison,B106,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,B106,President,,DEM,UNCOMMITTED,11,5,3,3
+Madison,B106,President,,DEM,Total Votes,51,14,27,10
+Madison,B106,U.S. House,6,DEM,Randy CRAVENS,16,5,8,3
+Madison,B106,U.S. House,6,DEM,Jonathan RICHARDSON,7,0,6,1
+Madison,B106,U.S. House,6,DEM,Todd KELLY,6,1,5,0
+Madison,B106,U.S. House,6,DEM,Don B. PRATT,5,2,2,1
+Madison,B106,U.S. House,6,DEM,Shauna RUDD,14,5,5,4
+Madison,B106,U.S. House,6,DEM,Total Votes,51,14,27,10
+Madison,B107,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B107,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,B107,President,,REP,Ron DeSANTIS,4,1,3,0
+Madison,B107,President,,REP,Donald J. TRUMP,58,21,37,0
+Madison,B107,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,B107,President,,REP,Nikki R. HALEY,4,1,3,0
+Madison,B107,President,,REP,UNCOMMITTED,6,2,4,0
+Madison,B107,President,,REP,Total Votes,72,25,47,0
+Madison,B107,President,,DEM,Joseph R. BIDEN JR.,68,18,41,9
+Madison,B107,President,,DEM,Marianne WILLIAMSON,5,0,5,0
+Madison,B107,President,,DEM,Dean PHILLIPS,4,1,3,0
+Madison,B107,President,,DEM,UNCOMMITTED,13,2,11,0
+Madison,B107,President,,DEM,Total Votes,90,21,60,9
+Madison,B107,U.S. House,6,DEM,Randy CRAVENS,23,6,11,6
+Madison,B107,U.S. House,6,DEM,Jonathan RICHARDSON,21,2,18,1
+Madison,B107,U.S. House,6,DEM,Todd KELLY,13,2,11,0
+Madison,B107,U.S. House,6,DEM,Don B. PRATT,7,4,3,0
+Madison,B107,U.S. House,6,DEM,Shauna RUDD,21,5,15,1
+Madison,B107,U.S. House,6,DEM,Total Votes,90,21,60,9
+Madison,B108,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B108,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,B108,President,,REP,Ron DeSANTIS,3,1,2,0
+Madison,B108,President,,REP,Donald J. TRUMP,74,10,64,0
+Madison,B108,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,B108,President,,REP,Nikki R. HALEY,2,1,1,0
+Madison,B108,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,B108,President,,REP,Total Votes,83,12,71,0
+Madison,B108,President,,DEM,Joseph R. BIDEN JR.,28,8,20,0
+Madison,B108,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Madison,B108,President,,DEM,Dean PHILLIPS,1,1,0,0
+Madison,B108,President,,DEM,UNCOMMITTED,6,0,6,0
+Madison,B108,President,,DEM,Total Votes,39,9,30,0
+Madison,B108,U.S. House,6,DEM,Randy CRAVENS,10,2,8,0
+Madison,B108,U.S. House,6,DEM,Jonathan RICHARDSON,7,5,2,0
+Madison,B108,U.S. House,6,DEM,Todd KELLY,9,1,8,0
+Madison,B108,U.S. House,6,DEM,Don B. PRATT,7,1,6,0
+Madison,B108,U.S. House,6,DEM,Shauna RUDD,6,0,6,0
+Madison,B108,U.S. House,6,DEM,Total Votes,39,9,30,0
+Madison,B109,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B109,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,B109,President,,REP,Ron DeSANTIS,5,1,4,0
+Madison,B109,President,,REP,Donald J. TRUMP,88,17,68,3
+Madison,B109,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,B109,President,,REP,Nikki R. HALEY,8,1,7,0
+Madison,B109,President,,REP,UNCOMMITTED,3,0,3,0
+Madison,B109,President,,REP,Total Votes,105,19,83,3
+Madison,B109,President,,DEM,Joseph R. BIDEN JR.,42,14,24,4
+Madison,B109,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Madison,B109,President,,DEM,Dean PHILLIPS,2,0,1,1
+Madison,B109,President,,DEM,UNCOMMITTED,12,1,10,1
+Madison,B109,President,,DEM,Total Votes,61,15,40,6
+Madison,B109,U.S. House,6,DEM,Randy CRAVENS,12,6,6,0
+Madison,B109,U.S. House,6,DEM,Jonathan RICHARDSON,9,1,8,0
+Madison,B109,U.S. House,6,DEM,Todd KELLY,14,4,8,2
+Madison,B109,U.S. House,6,DEM,Don B. PRATT,4,0,4,0
+Madison,B109,U.S. House,6,DEM,Shauna RUDD,13,1,10,2
+Madison,B109,U.S. House,6,DEM,Total Votes,61,15,40,6
+Madison,B110,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B110,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,B110,President,,REP,Ron DeSANTIS,7,0,7,0
+Madison,B110,President,,REP,Donald J. TRUMP,92,16,74,2
+Madison,B110,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,B110,President,,REP,Nikki R. HALEY,11,3,7,1
+Madison,B110,President,,REP,UNCOMMITTED,6,2,4,0
+Madison,B110,President,,REP,Total Votes,119,22,94,3
+Madison,B110,President,,DEM,Joseph R. BIDEN JR.,60,27,28,5
+Madison,B110,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,B110,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,B110,President,,DEM,UNCOMMITTED,8,2,6,0
+Madison,B110,President,,DEM,Total Votes,71,29,37,5
+Madison,B110,U.S. House,6,DEM,Randy CRAVENS,18,7,11,0
+Madison,B110,U.S. House,6,DEM,Jonathan RICHARDSON,7,4,3,0
+Madison,B110,U.S. House,6,DEM,Todd KELLY,22,8,11,3
+Madison,B110,U.S. House,6,DEM,Don B. PRATT,6,2,2,2
+Madison,B110,U.S. House,6,DEM,Shauna RUDD,13,7,6,0
+Madison,B110,U.S. House,6,DEM,Total Votes,71,29,37,5
+Madison,B111,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,B111,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,B111,President,,REP,Ron DeSANTIS,2,1,1,0
+Madison,B111,President,,REP,Donald J. TRUMP,73,11,62,0
+Madison,B111,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,B111,President,,REP,Nikki R. HALEY,4,1,3,0
+Madison,B111,President,,REP,UNCOMMITTED,3,0,2,1
+Madison,B111,President,,REP,Total Votes,83,13,69,1
+Madison,B111,President,,DEM,Joseph R. BIDEN JR.,44,11,31,2
+Madison,B111,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,B111,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,B111,President,,DEM,UNCOMMITTED,3,0,2,1
+Madison,B111,President,,DEM,Total Votes,51,11,37,3
+Madison,B111,U.S. House,6,DEM,Randy CRAVENS,19,2,16,1
+Madison,B111,U.S. House,6,DEM,Jonathan RICHARDSON,5,1,4,0
+Madison,B111,U.S. House,6,DEM,Todd KELLY,12,5,6,1
+Madison,B111,U.S. House,6,DEM,Don B. PRATT,1,0,1,0
+Madison,B111,U.S. House,6,DEM,Shauna RUDD,8,1,6,1
+Madison,B111,U.S. House,6,DEM,Total Votes,51,11,37,3
+Madison,C101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C101,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,C101,President,,REP,Donald J. TRUMP,1,1,0,0
+Madison,C101,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C101,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,C101,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,C101,President,,REP,Total Votes,1,1,0,0
+Madison,C101,President,,DEM,Joseph R. BIDEN JR.,0,0,0,0
+Madison,C101,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Madison,C101,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,C101,President,,DEM,UNCOMMITTED,0,0,0,0
+Madison,C101,President,,DEM,Total Votes,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Randy CRAVENS,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Jonathan RICHARDSON,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Todd KELLY,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Don B. PRATT,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Shauna RUDD,0,0,0,0
+Madison,C101,U.S. House,6,DEM,Total Votes,0,0,0,0
+Madison,C102,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C102,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C102,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,C102,President,,REP,Donald J. TRUMP,33,15,18,0
+Madison,C102,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C102,President,,REP,Nikki R. HALEY,3,1,2,0
+Madison,C102,President,,REP,UNCOMMITTED,4,0,4,0
+Madison,C102,President,,REP,Total Votes,40,16,24,0
+Madison,C102,President,,DEM,Joseph R. BIDEN JR.,7,3,4,0
+Madison,C102,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,C102,President,,DEM,Dean PHILLIPS,2,1,1,0
+Madison,C102,President,,DEM,UNCOMMITTED,3,0,3,0
+Madison,C102,President,,DEM,Total Votes,13,4,9,0
+Madison,C102,U.S. House,6,DEM,Randy CRAVENS,5,2,3,0
+Madison,C102,U.S. House,6,DEM,Jonathan RICHARDSON,1,0,1,0
+Madison,C102,U.S. House,6,DEM,Todd KELLY,2,0,2,0
+Madison,C102,U.S. House,6,DEM,Don B. PRATT,2,0,2,0
+Madison,C102,U.S. House,6,DEM,Shauna RUDD,1,0,1,0
+Madison,C102,U.S. House,6,DEM,Total Votes,13,4,9,0
+Madison,C103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C103,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,C103,President,,REP,Ron DeSANTIS,4,0,4,0
+Madison,C103,President,,REP,Donald J. TRUMP,118,31,85,2
+Madison,C103,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,C103,President,,REP,Nikki R. HALEY,8,2,6,0
+Madison,C103,President,,REP,UNCOMMITTED,4,1,3,0
+Madison,C103,President,,REP,Total Votes,136,34,100,2
+Madison,C103,State House,91,REP,Darrell W. BILLINGS,60,13,45,2
+Madison,C103,State House,91,REP,Billy E. WESLEY,68,17,51,0
+Madison,C103,State House,91,REP,Total Votes,136,34,100,2
+Madison,C103,President,,DEM,Joseph R. BIDEN JR.,51,19,32,0
+Madison,C103,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Madison,C103,President,,DEM,Dean PHILLIPS,5,1,4,0
+Madison,C103,President,,DEM,UNCOMMITTED,31,10,21,0
+Madison,C103,President,,DEM,Total Votes,92,32,60,0
+Madison,C103,U.S. House,6,DEM,Randy CRAVENS,29,13,16,0
+Madison,C103,U.S. House,6,DEM,Jonathan RICHARDSON,17,7,10,0
+Madison,C103,U.S. House,6,DEM,Todd KELLY,18,3,15,0
+Madison,C103,U.S. House,6,DEM,Don B. PRATT,8,3,5,0
+Madison,C103,U.S. House,6,DEM,Shauna RUDD,15,5,10,0
+Madison,C103,U.S. House,6,DEM,Total Votes,92,32,60,0
+Madison,C104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C104,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,C104,President,,REP,Ron DeSANTIS,1,0,1,0
+Madison,C104,President,,REP,Donald J. TRUMP,50,12,38,0
+Madison,C104,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C104,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,C104,President,,REP,UNCOMMITTED,3,0,3,0
+Madison,C104,President,,REP,Total Votes,55,12,43,0
+Madison,C104,State House,91,REP,Darrell W. BILLINGS,24,9,15,0
+Madison,C104,State House,91,REP,Billy E. WESLEY,27,3,24,0
+Madison,C104,State House,91,REP,Total Votes,55,12,43,0
+Madison,C104,President,,DEM,Joseph R. BIDEN JR.,13,4,7,0
+Madison,C104,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Madison,C104,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,C104,President,,DEM,UNCOMMITTED,5,0,4,0
+Madison,C104,President,,DEM,Total Votes,19,4,12,0
+Madison,C104,U.S. House,6,DEM,Randy CRAVENS,5,1,4,0
+Madison,C104,U.S. House,6,DEM,Jonathan RICHARDSON,1,1,0,0
+Madison,C104,U.S. House,6,DEM,Todd KELLY,3,2,1,0
+Madison,C104,U.S. House,6,DEM,Don B. PRATT,4,0,2,2
+Madison,C104,U.S. House,6,DEM,Shauna RUDD,4,0,3,1
+Madison,C104,U.S. House,6,DEM,Total Votes,19,4,12,3
+Madison,C105,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C105,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C105,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,C105,President,,REP,Donald J. TRUMP,80,11,64,1
+Madison,C105,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C105,President,,REP,Nikki R. HALEY,4,2,2,0
+Madison,C105,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,C105,President,,REP,Total Votes,89,13,71,1
+Madison,C105,State House,89,REP,Idalia HOLLAND,8,0,8,0
+Madison,C105,State House,89,REP,Timmy TRUETT,66,12,49,1
+Madison,C105,State House,89,REP,Total Votes,89,13,71,1
+Madison,C105,President,,DEM,Joseph R. BIDEN JR.,21,7,13,0
+Madison,C105,President,,DEM,Marianne WILLIAMSON,5,1,2,0
+Madison,C105,President,,DEM,Dean PHILLIPS,3,1,2,0
+Madison,C105,President,,DEM,UNCOMMITTED,9,0,9,0
+Madison,C105,President,,DEM,Total Votes,41,9,29,0
+Madison,C105,U.S. House,6,DEM,Randy CRAVENS,12,2,8,2
+Madison,C105,U.S. House,6,DEM,Jonathan RICHARDSON,11,3,7,1
+Madison,C105,U.S. House,6,DEM,Todd KELLY,10,2,8,0
+Madison,C105,U.S. House,6,DEM,Don B. PRATT,1,1,0,0
+Madison,C105,U.S. House,6,DEM,Shauna RUDD,3,1,2,0
+Madison,C105,U.S. House,6,DEM,Total Votes,41,9,29,3
+Madison,C106,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C106,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C106,President,,REP,Ron DeSANTIS,1,0,1,0
+Madison,C106,President,,REP,Donald J. TRUMP,90,18,68,2
+Madison,C106,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C106,President,,REP,Nikki R. HALEY,2,1,1,0
+Madison,C106,President,,REP,UNCOMMITTED,2,1,1,0
+Madison,C106,President,,REP,Total Votes,95,20,71,2
+Madison,C106,State House,89,REP,Idalia HOLLAND,8,3,5,0
+Madison,C106,State House,89,REP,Timmy TRUETT,80,15,62,1
+Madison,C106,State House,89,REP,Total Votes,95,20,71,2
+Madison,C106,President,,DEM,Joseph R. BIDEN JR.,28,11,14,0
+Madison,C106,President,,DEM,Marianne WILLIAMSON,1,0,0,0
+Madison,C106,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,C106,President,,DEM,UNCOMMITTED,10,2,7,0
+Madison,C106,President,,DEM,Total Votes,43,13,25,0
+Madison,C106,U.S. House,6,DEM,Randy CRAVENS,9,2,6,1
+Madison,C106,U.S. House,6,DEM,Jonathan RICHARDSON,10,2,7,1
+Madison,C106,U.S. House,6,DEM,Todd KELLY,11,4,6,1
+Madison,C106,U.S. House,6,DEM,Don B. PRATT,3,1,2,0
+Madison,C106,U.S. House,6,DEM,Shauna RUDD,7,4,1,2
+Madison,C106,U.S. House,6,DEM,Total Votes,43,13,25,5
+Madison,C107,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C107,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C107,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,C107,President,,REP,Donald J. TRUMP,132,26,101,2
+Madison,C107,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C107,President,,REP,Nikki R. HALEY,8,3,3,0
+Madison,C107,President,,REP,UNCOMMITTED,3,1,2,0
+Madison,C107,President,,REP,Total Votes,146,30,109,2
+Madison,C107,State House,89,REP,Idalia HOLLAND,16,3,11,0
+Madison,C107,State House,89,REP,Timmy TRUETT,109,20,86,0
+Madison,C107,State House,89,REP,Total Votes,146,30,109,2
+Madison,C107,President,,DEM,Joseph R. BIDEN JR.,50,12,35,0
+Madison,C107,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Madison,C107,President,,DEM,Dean PHILLIPS,4,2,2,0
+Madison,C107,President,,DEM,UNCOMMITTED,15,5,10,0
+Madison,C107,President,,DEM,Total Votes,76,21,52,0
+Madison,C107,U.S. House,6,DEM,Randy CRAVENS,16,5,10,1
+Madison,C107,U.S. House,6,DEM,Jonathan RICHARDSON,13,6,6,1
+Madison,C107,U.S. House,6,DEM,Todd KELLY,22,5,17,0
+Madison,C107,U.S. House,6,DEM,Don B. PRATT,9,1,8,0
+Madison,C107,U.S. House,6,DEM,Shauna RUDD,9,0,8,1
+Madison,C107,U.S. House,6,DEM,Total Votes,76,21,52,3
+Madison,C108,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C108,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C108,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,C108,President,,REP,Donald J. TRUMP,45,8,36,0
+Madison,C108,President,,REP,Chris CHRISTIE,1,1,0,0
+Madison,C108,President,,REP,Nikki R. HALEY,1,0,1,0
+Madison,C108,President,,REP,UNCOMMITTED,1,0,1,0
+Madison,C108,President,,REP,Total Votes,48,9,38,0
+Madison,C108,State House,89,REP,Idalia HOLLAND,3,0,3,0
+Madison,C108,State House,89,REP,Timmy TRUETT,34,7,27,0
+Madison,C108,State House,89,REP,Total Votes,48,9,38,0
+Madison,C108,President,,DEM,Joseph R. BIDEN JR.,18,9,7,0
+Madison,C108,President,,DEM,Marianne WILLIAMSON,1,0,1,0
+Madison,C108,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,C108,President,,DEM,UNCOMMITTED,4,1,3,0
+Madison,C108,President,,DEM,Total Votes,24,10,12,0
+Madison,C108,U.S. House,6,DEM,Randy CRAVENS,7,5,1,1
+Madison,C108,U.S. House,6,DEM,Jonathan RICHARDSON,2,1,1,0
+Madison,C108,U.S. House,6,DEM,Todd KELLY,6,2,4,0
+Madison,C108,U.S. House,6,DEM,Don B. PRATT,3,1,2,0
+Madison,C108,U.S. House,6,DEM,Shauna RUDD,5,1,3,1
+Madison,C108,U.S. House,6,DEM,Total Votes,24,10,12,2
+Madison,C109,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C109,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C109,President,,REP,Ron DeSANTIS,7,1,6,0
+Madison,C109,President,,REP,Donald J. TRUMP,110,24,85,1
+Madison,C109,President,,REP,Chris CHRISTIE,4,0,4,0
+Madison,C109,President,,REP,Nikki R. HALEY,8,2,6,0
+Madison,C109,President,,REP,UNCOMMITTED,7,1,6,0
+Madison,C109,President,,REP,Total Votes,136,28,107,1
+Madison,C109,State House,89,REP,Idalia HOLLAND,18,3,15,0
+Madison,C109,State House,89,REP,Timmy TRUETT,101,20,80,1
+Madison,C109,State House,89,REP,Total Votes,136,28,107,1
+Madison,C109,President,,DEM,Joseph R. BIDEN JR.,64,21,39,0
+Madison,C109,President,,DEM,Marianne WILLIAMSON,6,0,6,0
+Madison,C109,President,,DEM,Dean PHILLIPS,2,1,1,0
+Madison,C109,President,,DEM,UNCOMMITTED,12,2,10,0
+Madison,C109,President,,DEM,Total Votes,84,24,56,0
+Madison,C109,U.S. House,6,DEM,Randy CRAVENS,26,7,17,2
+Madison,C109,U.S. House,6,DEM,Jonathan RICHARDSON,17,5,12,0
+Madison,C109,U.S. House,6,DEM,Todd KELLY,11,2,9,0
+Madison,C109,U.S. House,6,DEM,Don B. PRATT,3,2,1,0
+Madison,C109,U.S. House,6,DEM,Shauna RUDD,24,7,15,2
+Madison,C109,U.S. House,6,DEM,Total Votes,84,24,56,4
+Madison,C110,President,,REP,Ryan L. BINKLEY,2,0,2,0
+Madison,C110,President,,REP,Vivek RAMASWAMY,1,0,0,0
+Madison,C110,President,,REP,Ron DeSANTIS,4,2,2,0
+Madison,C110,President,,REP,Donald J. TRUMP,68,6,60,0
+Madison,C110,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C110,President,,REP,Nikki R. HALEY,5,0,5,0
+Madison,C110,President,,REP,UNCOMMITTED,5,2,3,0
+Madison,C110,President,,REP,Total Votes,85,10,72,0
+Madison,C110,State House,91,REP,Darrell W. BILLINGS,40,5,35,0
+Madison,C110,State House,91,REP,Billy E. WESLEY,36,5,29,0
+Madison,C110,State House,91,REP,Total Votes,85,10,72,0
+Madison,C110,President,,DEM,Joseph R. BIDEN JR.,77,29,43,0
+Madison,C110,President,,DEM,Marianne WILLIAMSON,8,2,5,0
+Madison,C110,President,,DEM,Dean PHILLIPS,4,0,4,0
+Madison,C110,President,,DEM,UNCOMMITTED,17,2,15,0
+Madison,C110,President,,DEM,Total Votes,108,34,67,0
+Madison,C110,U.S. House,6,DEM,Randy CRAVENS,24,9,14,1
+Madison,C110,U.S. House,6,DEM,Jonathan RICHARDSON,18,4,12,2
+Madison,C110,U.S. House,6,DEM,Todd KELLY,16,5,11,0
+Madison,C110,U.S. House,6,DEM,Don B. PRATT,10,3,6,1
+Madison,C110,U.S. House,6,DEM,Shauna RUDD,23,6,15,2
+Madison,C110,U.S. House,6,DEM,Total Votes,108,34,67,7
+Madison,C112,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C112,President,,REP,Vivek RAMASWAMY,1,1,0,0
+Madison,C112,President,,REP,Ron DeSANTIS,5,4,1,0
+Madison,C112,President,,REP,Donald J. TRUMP,71,21,47,1
+Madison,C112,President,,REP,Chris CHRISTIE,2,1,1,0
+Madison,C112,President,,REP,Nikki R. HALEY,6,3,3,0
+Madison,C112,President,,REP,UNCOMMITTED,4,1,3,0
+Madison,C112,President,,REP,Total Votes,91,32,56,1
+Madison,C112,State House,91,REP,Darrell W. BILLINGS,58,23,32,1
+Madison,C112,State House,91,REP,Billy E. WESLEY,29,7,22,0
+Madison,C112,State House,91,REP,Total Votes,91,32,56,1
+Madison,C112,President,,DEM,Joseph R. BIDEN JR.,67,21,43,0
+Madison,C112,President,,DEM,Marianne WILLIAMSON,2,0,2,0
+Madison,C112,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,C112,President,,DEM,UNCOMMITTED,19,3,14,0
+Madison,C112,President,,DEM,Total Votes,93,24,64,0
+Madison,C112,U.S. House,6,DEM,Randy CRAVENS,23,4,17,2
+Madison,C112,U.S. House,6,DEM,Jonathan RICHARDSON,14,7,7,0
+Madison,C112,U.S. House,6,DEM,Todd KELLY,22,5,16,1
+Madison,C112,U.S. House,6,DEM,Don B. PRATT,9,3,4,2
+Madison,C112,U.S. House,6,DEM,Shauna RUDD,22,5,17,0
+Madison,C112,U.S. House,6,DEM,Total Votes,93,24,64,5
+Madison,C113,President,,REP,Ryan L. BINKLEY,1,0,1,0
+Madison,C113,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C113,President,,REP,Ron DeSANTIS,2,1,0,1
+Madison,C113,President,,REP,Donald J. TRUMP,37,5,31,1
+Madison,C113,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C113,President,,REP,Nikki R. HALEY,5,0,5,0
+Madison,C113,President,,REP,UNCOMMITTED,4,1,3,0
+Madison,C113,President,,REP,Total Votes,49,7,40,2
+Madison,C113,State House,91,REP,Darrell W. BILLINGS,26,3,21,2
+Madison,C113,State House,91,REP,Billy E. WESLEY,23,4,19,0
+Madison,C113,State House,91,REP,Total Votes,49,7,40,2
+Madison,C113,President,,DEM,Joseph R. BIDEN JR.,48,13,31,0
+Madison,C113,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Madison,C113,President,,DEM,Dean PHILLIPS,2,0,2,0
+Madison,C113,President,,DEM,UNCOMMITTED,9,3,6,0
+Madison,C113,President,,DEM,Total Votes,62,16,42,0
+Madison,C113,U.S. House,6,DEM,Randy CRAVENS,18,7,10,1
+Madison,C113,U.S. House,6,DEM,Jonathan RICHARDSON,6,2,3,1
+Madison,C113,U.S. House,6,DEM,Todd KELLY,18,3,15,0
+Madison,C113,U.S. House,6,DEM,Don B. PRATT,8,1,7,0
+Madison,C113,U.S. House,6,DEM,Shauna RUDD,8,0,6,2
+Madison,C113,U.S. House,6,DEM,Total Votes,62,16,42,4
+Madison,C114,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,C114,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,C114,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,C114,President,,REP,Donald J. TRUMP,14,4,10,0
+Madison,C114,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,C114,President,,REP,Nikki R. HALEY,1,0,1,0
+Madison,C114,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,C114,President,,REP,Total Votes,17,4,13,0
+Madison,C114,State House,91,REP,Darrell W. BILLINGS,8,2,6,0
+Madison,C114,State House,91,REP,Billy E. WESLEY,6,1,5,0
+Madison,C114,State House,91,REP,Total Votes,17,4,13,0
+Madison,C114,President,,DEM,Joseph R. BIDEN JR.,23,9,13,0
+Madison,C114,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Madison,C114,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,C114,President,,DEM,UNCOMMITTED,3,0,3,0
+Madison,C114,President,,DEM,Total Votes,28,10,17,0
+Madison,C114,U.S. House,6,DEM,Randy CRAVENS,7,4,3,0
+Madison,C114,U.S. House,6,DEM,Jonathan RICHARDSON,7,3,4,0
+Madison,C114,U.S. House,6,DEM,Todd KELLY,3,1,2,0
+Madison,C114,U.S. House,6,DEM,Don B. PRATT,3,1,1,1
+Madison,C114,U.S. House,6,DEM,Shauna RUDD,8,1,7,0
+Madison,C114,U.S. House,6,DEM,Total Votes,28,10,17,1
+Madison,D101,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D101,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D101,President,,REP,Ron DeSANTIS,1,1,0,0
+Madison,D101,President,,REP,Donald J. TRUMP,58,13,42,3
+Madison,D101,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D101,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,D101,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,D101,President,,REP,Total Votes,60,15,42,3
+Madison,D101,President,,DEM,Joseph R. BIDEN JR.,9,2,7,0
+Madison,D101,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Madison,D101,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,D101,President,,DEM,UNCOMMITTED,4,2,2,0
+Madison,D101,President,,DEM,Total Votes,18,5,13,0
+Madison,D101,U.S. House,6,DEM,Randy CRAVENS,2,1,1,0
+Madison,D101,U.S. House,6,DEM,Jonathan RICHARDSON,4,0,4,0
+Madison,D101,U.S. House,6,DEM,Todd KELLY,7,1,6,0
+Madison,D101,U.S. House,6,DEM,Don B. PRATT,0,0,0,0
+Madison,D101,U.S. House,6,DEM,Shauna RUDD,5,3,2,0
+Madison,D101,U.S. House,6,DEM,Total Votes,18,5,13,0
+Madison,D103,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D103,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D103,President,,REP,Ron DeSANTIS,10,3,7,0
+Madison,D103,President,,REP,Donald J. TRUMP,111,13,98,0
+Madison,D103,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D103,President,,REP,Nikki R. HALEY,5,0,5,0
+Madison,D103,President,,REP,UNCOMMITTED,1,0,1,0
+Madison,D103,President,,REP,Total Votes,127,16,111,0
+Madison,D103,President,,DEM,Joseph R. BIDEN JR.,37,11,24,2
+Madison,D103,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Madison,D103,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,D103,President,,DEM,UNCOMMITTED,7,1,6,0
+Madison,D103,President,,DEM,Total Votes,48,14,32,2
+Madison,D103,U.S. House,6,DEM,Randy CRAVENS,14,4,10,0
+Madison,D103,U.S. House,6,DEM,Jonathan RICHARDSON,8,3,5,0
+Madison,D103,U.S. House,6,DEM,Todd KELLY,8,3,5,0
+Madison,D103,U.S. House,6,DEM,Don B. PRATT,4,2,2,0
+Madison,D103,U.S. House,6,DEM,Shauna RUDD,13,1,10,2
+Madison,D103,U.S. House,6,DEM,Total Votes,48,14,32,2
+Madison,D104,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D104,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D104,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,D104,President,,REP,Donald J. TRUMP,9,5,4,0
+Madison,D104,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D104,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,D104,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,D104,President,,REP,Total Votes,9,5,4,0
+Madison,D104,President,,DEM,Joseph R. BIDEN JR.,9,3,6,0
+Madison,D104,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Madison,D104,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,D104,President,,DEM,UNCOMMITTED,1,0,1,0
+Madison,D104,President,,DEM,Total Votes,10,3,7,0
+Madison,D104,U.S. House,6,DEM,Randy CRAVENS,4,2,2,0
+Madison,D104,U.S. House,6,DEM,Jonathan RICHARDSON,3,1,2,0
+Madison,D104,U.S. House,6,DEM,Todd KELLY,2,0,2,0
+Madison,D104,U.S. House,6,DEM,Don B. PRATT,1,0,1,0
+Madison,D104,U.S. House,6,DEM,Shauna RUDD,0,0,0,0
+Madison,D104,U.S. House,6,DEM,Total Votes,10,3,7,0
+Madison,D105,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D105,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,D105,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,D105,President,,REP,Donald J. TRUMP,73,15,55,3
+Madison,D105,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,D105,President,,REP,Nikki R. HALEY,7,3,3,1
+Madison,D105,President,,REP,UNCOMMITTED,5,2,2,1
+Madison,D105,President,,REP,Total Votes,87,20,62,5
+Madison,D105,President,,DEM,Joseph R. BIDEN JR.,45,25,19,1
+Madison,D105,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Madison,D105,President,,DEM,Dean PHILLIPS,1,1,0,0
+Madison,D105,President,,DEM,UNCOMMITTED,9,1,7,1
+Madison,D105,President,,DEM,Total Votes,60,28,29,3
+Madison,D105,U.S. House,6,DEM,Randy CRAVENS,18,6,12,0
+Madison,D105,U.S. House,6,DEM,Jonathan RICHARDSON,6,3,3,0
+Madison,D105,U.S. House,6,DEM,Todd KELLY,8,4,4,0
+Madison,D105,U.S. House,6,DEM,Don B. PRATT,3,1,2,0
+Madison,D105,U.S. House,6,DEM,Shauna RUDD,16,7,6,3
+Madison,D105,U.S. House,6,DEM,Total Votes,60,28,29,3
+Madison,D106,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D106,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D106,President,,REP,Ron DeSANTIS,6,2,4,0
+Madison,D106,President,,REP,Donald J. TRUMP,108,11,88,9
+Madison,D106,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,D106,President,,REP,Nikki R. HALEY,6,2,4,0
+Madison,D106,President,,REP,UNCOMMITTED,6,2,4,0
+Madison,D106,President,,REP,Total Votes,127,17,101,9
+Madison,D106,President,,DEM,Joseph R. BIDEN JR.,30,12,15,3
+Madison,D106,President,,DEM,Marianne WILLIAMSON,3,1,2,0
+Madison,D106,President,,DEM,Dean PHILLIPS,3,2,1,0
+Madison,D106,President,,DEM,UNCOMMITTED,14,3,10,1
+Madison,D106,President,,DEM,Total Votes,50,18,28,4
+Madison,D106,U.S. House,6,DEM,Randy CRAVENS,8,1,5,2
+Madison,D106,U.S. House,6,DEM,Jonathan RICHARDSON,7,3,4,0
+Madison,D106,U.S. House,6,DEM,Todd KELLY,15,3,10,2
+Madison,D106,U.S. House,6,DEM,Don B. PRATT,2,2,0,0
+Madison,D106,U.S. House,6,DEM,Shauna RUDD,11,7,4,0
+Madison,D106,U.S. House,6,DEM,Total Votes,50,18,28,4
+Madison,D107,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D107,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D107,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,D107,President,,REP,Donald J. TRUMP,0,0,0,0
+Madison,D107,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D107,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,D107,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,D107,President,,REP,Total Votes,0,0,0,0
+Madison,D107,President,,DEM,Joseph R. BIDEN JR.,0,0,0,0
+Madison,D107,President,,DEM,Marianne WILLIAMSON,0,0,0,0
+Madison,D107,President,,DEM,Dean PHILLIPS,0,0,0,0
+Madison,D107,President,,DEM,UNCOMMITTED,0,0,0,0
+Madison,D107,President,,DEM,Total Votes,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Randy CRAVENS,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Jonathan RICHARDSON,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Todd KELLY,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Don B. PRATT,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Shauna RUDD,0,0,0,0
+Madison,D107,U.S. House,6,DEM,Total Votes,0,0,0,0
+Madison,D108,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D108,President,,REP,Vivek RAMASWAMY,2,1,1,0
+Madison,D108,President,,REP,Ron DeSANTIS,6,5,1,0
+Madison,D108,President,,REP,Donald J. TRUMP,145,36,105,4
+Madison,D108,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D108,President,,REP,Nikki R. HALEY,13,4,9,0
+Madison,D108,President,,REP,UNCOMMITTED,1,0,1,0
+Madison,D108,President,,REP,Total Votes,167,46,117,4
+Madison,D108,President,,DEM,Joseph R. BIDEN JR.,50,17,28,5
+Madison,D108,President,,DEM,Marianne WILLIAMSON,4,1,3,0
+Madison,D108,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,D108,President,,DEM,UNCOMMITTED,4,0,4,0
+Madison,D108,President,,DEM,Total Votes,60,19,36,5
+Madison,D108,U.S. House,6,DEM,Randy CRAVENS,12,1,6,5
+Madison,D108,U.S. House,6,DEM,Jonathan RICHARDSON,8,4,4,0
+Madison,D108,U.S. House,6,DEM,Todd KELLY,9,0,9,0
+Madison,D108,U.S. House,6,DEM,Don B. PRATT,6,0,6,0
+Madison,D108,U.S. House,6,DEM,Shauna RUDD,23,13,10,0
+Madison,D108,U.S. House,6,DEM,Total Votes,60,19,36,5
+Madison,D109,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D109,President,,REP,Vivek RAMASWAMY,2,0,2,0
+Madison,D109,President,,REP,Ron DeSANTIS,5,1,3,0
+Madison,D109,President,,REP,Donald J. TRUMP,147,35,103,0
+Madison,D109,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,D109,President,,REP,Nikki R. HALEY,22,7,15,0
+Madison,D109,President,,REP,UNCOMMITTED,3,0,2,0
+Madison,D109,President,,REP,Total Votes,180,43,126,0
+Madison,D109,State House,91,REP,Darrell W. BILLINGS,89,27,59,0
+Madison,D109,State House,91,REP,Billy E. WESLEY,75,16,56,0
+Madison,D109,State House,91,REP,Total Votes,180,43,126,0
+Madison,D109,President,,DEM,Joseph R. BIDEN JR.,93,33,47,0
+Madison,D109,President,,DEM,Marianne WILLIAMSON,7,0,6,0
+Madison,D109,President,,DEM,Dean PHILLIPS,3,1,1,0
+Madison,D109,President,,DEM,UNCOMMITTED,21,2,18,0
+Madison,D109,President,,DEM,Total Votes,127,38,73,0
+Madison,D109,U.S. House,6,DEM,Randy CRAVENS,27,12,10,5
+Madison,D109,U.S. House,6,DEM,Jonathan RICHARDSON,17,5,12,0
+Madison,D109,U.S. House,6,DEM,Todd KELLY,40,9,28,3
+Madison,D109,U.S. House,6,DEM,Don B. PRATT,9,3,5,1
+Madison,D109,U.S. House,6,DEM,Shauna RUDD,25,5,16,4
+Madison,D109,U.S. House,6,DEM,Total Votes,127,38,73,16
+Madison,D110,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D110,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D110,President,,REP,Ron DeSANTIS,0,0,0,0
+Madison,D110,President,,REP,Donald J. TRUMP,10,2,8,0
+Madison,D110,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D110,President,,REP,Nikki R. HALEY,0,0,0,0
+Madison,D110,President,,REP,UNCOMMITTED,0,0,0,0
+Madison,D110,President,,REP,Total Votes,10,2,8,0
+Madison,D110,President,,DEM,Joseph R. BIDEN JR.,15,0,12,3
+Madison,D110,President,,DEM,Marianne WILLIAMSON,5,0,5,0
+Madison,D110,President,,DEM,Dean PHILLIPS,3,0,3,0
+Madison,D110,President,,DEM,UNCOMMITTED,2,0,2,0
+Madison,D110,President,,DEM,Total Votes,25,0,22,3
+Madison,D110,U.S. House,6,DEM,Randy CRAVENS,5,0,3,2
+Madison,D110,U.S. House,6,DEM,Jonathan RICHARDSON,2,0,2,0
+Madison,D110,U.S. House,6,DEM,Todd KELLY,7,0,7,0
+Madison,D110,U.S. House,6,DEM,Don B. PRATT,0,0,0,0
+Madison,D110,U.S. House,6,DEM,Shauna RUDD,10,0,9,1
+Madison,D110,U.S. House,6,DEM,Total Votes,25,0,22,3
+Madison,D111,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D111,President,,REP,Vivek RAMASWAMY,3,0,3,0
+Madison,D111,President,,REP,Ron DeSANTIS,8,4,4,0
+Madison,D111,President,,REP,Donald J. TRUMP,110,34,75,1
+Madison,D111,President,,REP,Chris CHRISTIE,1,0,1,0
+Madison,D111,President,,REP,Nikki R. HALEY,15,8,7,0
+Madison,D111,President,,REP,UNCOMMITTED,2,0,2,0
+Madison,D111,President,,REP,Total Votes,139,46,92,1
+Madison,D111,President,,DEM,Joseph R. BIDEN JR.,74,24,43,7
+Madison,D111,President,,DEM,Marianne WILLIAMSON,2,1,1,0
+Madison,D111,President,,DEM,Dean PHILLIPS,4,2,2,0
+Madison,D111,President,,DEM,UNCOMMITTED,9,1,8,0
+Madison,D111,President,,DEM,Total Votes,90,28,55,7
+Madison,D111,U.S. House,6,DEM,Randy CRAVENS,34,11,17,6
+Madison,D111,U.S. House,6,DEM,Jonathan RICHARDSON,13,3,10,0
+Madison,D111,U.S. House,6,DEM,Todd KELLY,17,8,9,0
+Madison,D111,U.S. House,6,DEM,Don B. PRATT,1,0,1,0
+Madison,D111,U.S. House,6,DEM,Shauna RUDD,16,3,13,0
+Madison,D111,U.S. House,6,DEM,Total Votes,90,28,55,7
+Madison,D112,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D112,President,,REP,Vivek RAMASWAMY,1,0,1,0
+Madison,D112,President,,REP,Ron DeSANTIS,3,0,3,0
+Madison,D112,President,,REP,Donald J. TRUMP,93,21,70,2
+Madison,D112,President,,REP,Chris CHRISTIE,2,0,2,0
+Madison,D112,President,,REP,Nikki R. HALEY,9,4,4,1
+Madison,D112,President,,REP,UNCOMMITTED,5,3,2,0
+Madison,D112,President,,REP,Total Votes,114,28,82,4
+Madison,D112,President,,DEM,Joseph R. BIDEN JR.,68,30,35,3
+Madison,D112,President,,DEM,Marianne WILLIAMSON,3,1,2,0
+Madison,D112,President,,DEM,Dean PHILLIPS,2,0,2,0
+Madison,D112,President,,DEM,UNCOMMITTED,10,3,7,0
+Madison,D112,President,,DEM,Total Votes,83,34,46,3
+Madison,D112,U.S. House,6,DEM,Randy CRAVENS,22,11,8,3
+Madison,D112,U.S. House,6,DEM,Jonathan RICHARDSON,12,6,6,0
+Madison,D112,U.S. House,6,DEM,Todd KELLY,23,5,18,0
+Madison,D112,U.S. House,6,DEM,Don B. PRATT,3,2,1,0
+Madison,D112,U.S. House,6,DEM,Shauna RUDD,18,8,10,0
+Madison,D112,U.S. House,6,DEM,Total Votes,83,34,46,3
+Madison,D113,President,,REP,Ryan L. BINKLEY,0,0,0,0
+Madison,D113,President,,REP,Vivek RAMASWAMY,0,0,0,0
+Madison,D113,President,,REP,Ron DeSANTIS,1,0,1,0
+Madison,D113,President,,REP,Donald J. TRUMP,47,6,38,3
+Madison,D113,President,,REP,Chris CHRISTIE,0,0,0,0
+Madison,D113,President,,REP,Nikki R. HALEY,10,3,7,0
+Madison,D113,President,,REP,UNCOMMITTED,2,1,1,0
+Madison,D113,President,,REP,Total Votes,60,10,47,3
+Madison,D113,President,,DEM,Joseph R. BIDEN JR.,52,21,27,4
+Madison,D113,President,,DEM,Marianne WILLIAMSON,3,0,3,0
+Madison,D113,President,,DEM,Dean PHILLIPS,1,0,1,0
+Madison,D113,President,,DEM,UNCOMMITTED,9,1,8,0
+Madison,D113,President,,DEM,Total Votes,65,22,39,4
+Madison,D113,U.S. House,6,DEM,Randy CRAVENS,19,8,9,2
+Madison,D113,U.S. House,6,DEM,Jonathan RICHARDSON,9,1,8,0
+Madison,D113,U.S. House,6,DEM,Todd KELLY,15,6,9,0
+Madison,D113,U.S. House,6,DEM,Don B. PRATT,6,1,4,1
+Madison,D113,U.S. House,6,DEM,Shauna RUDD,10,4,5,1
+Madison,D113,U.S. House,6,DEM,Total Votes,65,22,39,4
