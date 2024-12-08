@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Bath,A101,STRAIGHT PARTY,,,Republican,35,3,30,2
+Bath,A101,STRAIGHT PARTY,,,Democratic,28,2,20,6
+Bath,A101,Govenor,,REP,Daniel CAMERON,62,4,54,4
+Bath,A101,Govenor,,DEM,Andy BESHEAR,106,10,83,13
+Bath,A101,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A101,Govenor,,,Total Votes,168,14,137,17
+Bath,A101,Govenor,,,Under Votes,1,0,1,0
+Bath,A101,Govenor,,,Over Votes,0,0,0,0
+Bath,A101,Secretary of State,,REP,Michael ADAMS,97,8,84,5
+Bath,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",66,6,49,11
+Bath,A101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,A101,Secretary of State,,,Total Votes,163,14,133,16
+Bath,A101,Secretary of State,,,Under Votes,6,0,5,1
+Bath,A101,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A101,Attorney General,,REP,Russell COLEMAN,91,6,81,4
+Bath,A101,Attorney General,,DEM,Pamela STEVENSON,70,7,52,11
+Bath,A101,Attorney General,,,Total Votes,161,13,133,15
+Bath,A101,Attorney General,,,Under Votes,8,1,5,2
+Bath,A101,Attorney General,,,Over Votes,0,0,0,0
+Bath,A101,Auditor of Public Accounts,,REP,Allison BALL,98,9,84,5
+Bath,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",60,5,45,10
+Bath,A101,Auditor of Public Accounts,,,Total Votes,158,14,129,15
+Bath,A101,Auditor of Public Accounts,,,Under Votes,10,0,8,2
+Bath,A101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Bath,A101,State Treasurer,,REP,Mark H. METCALF,82,7,72,3
+Bath,A101,State Treasurer,,DEM,Michael BOWMAN,75,6,58,11
+Bath,A101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,A101,State Treasurer,,,Total Votes,157,13,130,14
+Bath,A101,State Treasurer,,,Under Votes,12,1,8,3
+Bath,A101,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,92,7,81,4
+Bath,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,66,7,49,10
+Bath,A101,Commissioner of Agriculture,,,Total Votes,158,14,130,14
+Bath,A101,Commissioner of Agriculture,,,Under Votes,11,0,8,3
+Bath,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,A102,STRAIGHT PARTY,,,Republican,35,4,26,5
+Bath,A102,STRAIGHT PARTY,,,Democratic,24,1,17,6
+Bath,A102,Govenor,,REP,Daniel CAMERON,83,6,71,6
+Bath,A102,Govenor,,DEM,Andy BESHEAR,85,3,71,11
+Bath,A102,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A102,Govenor,,,Total Votes,168,9,142,17
+Bath,A102,Govenor,,,Under Votes,1,0,1,0
+Bath,A102,Govenor,,,Over Votes,0,0,0,0
+Bath,A102,Secretary of State,,REP,Michael ADAMS,113,6,98,9
+Bath,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,3,41,7
+Bath,A102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,A102,Secretary of State,,,Total Votes,164,9,139,16
+Bath,A102,Secretary of State,,,Under Votes,5,0,4,1
+Bath,A102,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A102,Attorney General,,REP,Russell COLEMAN,104,6,90,8
+Bath,A102,Attorney General,,DEM,Pamela STEVENSON,60,3,49,8
+Bath,A102,Attorney General,,,Total Votes,164,9,139,16
+Bath,A102,Attorney General,,,Under Votes,5,0,4,1
+Bath,A102,Attorney General,,,Over Votes,0,0,0,0
+Bath,A102,Auditor of Public Accounts,,REP,Allison BALL,110,7,94,9
+Bath,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",51,2,42,7
+Bath,A102,Auditor of Public Accounts,,,Total Votes,161,9,136,16
+Bath,A102,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Bath,A102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Bath,A102,State Treasurer,,REP,Mark H. METCALF,99,7,84,8
+Bath,A102,State Treasurer,,DEM,Michael BOWMAN,59,2,49,8
+Bath,A102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,A102,State Treasurer,,,Total Votes,158,9,133,16
+Bath,A102,State Treasurer,,,Under Votes,11,0,10,1
+Bath,A102,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,107,6,93,8
+Bath,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,52,3,41,8
+Bath,A102,Commissioner of Agriculture,,,Total Votes,159,9,134,16
+Bath,A102,Commissioner of Agriculture,,,Under Votes,10,0,9,1
+Bath,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,A103,STRAIGHT PARTY,,,Republican,32,5,27,0
+Bath,A103,STRAIGHT PARTY,,,Democratic,28,0,24,4
+Bath,A103,Govenor,,REP,Daniel CAMERON,94,7,83,4
+Bath,A103,Govenor,,DEM,Andy BESHEAR,87,6,71,10
+Bath,A103,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A103,Govenor,,,Total Votes,181,13,154,14
+Bath,A103,Govenor,,,Under Votes,3,0,2,1
+Bath,A103,Govenor,,,Over Votes,0,0,0,0
+Bath,A103,Secretary of State,,REP,Michael ADAMS,113,10,94,9
+Bath,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,1,55,6
+Bath,A103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),1,0,1,0
+Bath,A103,Secretary of State,,,Total Votes,176,11,150,15
+Bath,A103,Secretary of State,,,Under Votes,8,2,6,0
+Bath,A103,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A103,Attorney General,,REP,Russell COLEMAN,111,11,91,9
+Bath,A103,Attorney General,,DEM,Pamela STEVENSON,63,1,56,6
+Bath,A103,Attorney General,,,Total Votes,174,12,147,15
+Bath,A103,Attorney General,,,Under Votes,10,1,9,0
+Bath,A103,Attorney General,,,Over Votes,0,0,0,0
+Bath,A103,Auditor of Public Accounts,,REP,Allison BALL,117,11,98,8
+Bath,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",55,1,47,7
+Bath,A103,Auditor of Public Accounts,,,Total Votes,172,12,145,15
+Bath,A103,Auditor of Public Accounts,,,Under Votes,12,1,11,0
+Bath,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,A103,State Treasurer,,REP,Mark H. METCALF,101,10,84,7
+Bath,A103,State Treasurer,,DEM,Michael BOWMAN,69,3,58,8
+Bath,A103,State Treasurer,,,Robert PERRY (W),2,0,2,0
+Bath,A103,State Treasurer,,,Total Votes,172,13,144,15
+Bath,A103,State Treasurer,,,Under Votes,12,0,12,0
+Bath,A103,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,122,10,103,9
+Bath,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,49,1,42,6
+Bath,A103,Commissioner of Agriculture,,,Total Votes,171,11,145,15
+Bath,A103,Commissioner of Agriculture,,,Under Votes,13,2,11,0
+Bath,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,A104,STRAIGHT PARTY,,,Republican,22,2,19,1
+Bath,A104,STRAIGHT PARTY,,,Democratic,13,4,5,4
+Bath,A104,Govenor,,REP,Daniel CAMERON,57,2,54,1
+Bath,A104,Govenor,,DEM,Andy BESHEAR,65,13,41,11
+Bath,A104,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A104,Govenor,,,Total Votes,122,15,95,12
+Bath,A104,Govenor,,,Under Votes,0,0,0,0
+Bath,A104,Govenor,,,Over Votes,0,0,0,0
+Bath,A104,Secretary of State,,REP,Michael ADAMS,71,8,62,1
+Bath,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",47,7,30,10
+Bath,A104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,A104,Secretary of State,,,Total Votes,118,15,92,11
+Bath,A104,Secretary of State,,,Under Votes,4,0,3,1
+Bath,A104,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A104,Attorney General,,REP,Russell COLEMAN,68,6,61,1
+Bath,A104,Attorney General,,DEM,Pamela STEVENSON,49,9,30,10
+Bath,A104,Attorney General,,,Total Votes,117,15,91,11
+Bath,A104,Attorney General,,,Under Votes,5,0,4,1
+Bath,A104,Attorney General,,,Over Votes,0,0,0,0
+Bath,A104,Auditor of Public Accounts,,REP,Allison BALL,69,6,62,1
+Bath,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",46,9,27,10
+Bath,A104,Auditor of Public Accounts,,,Total Votes,115,15,89,11
+Bath,A104,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Bath,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,A104,State Treasurer,,REP,Mark H. METCALF,64,4,59,1
+Bath,A104,State Treasurer,,DEM,Michael BOWMAN,52,11,31,10
+Bath,A104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,A104,State Treasurer,,,Total Votes,116,15,90,11
+Bath,A104,State Treasurer,,,Under Votes,6,0,5,1
+Bath,A104,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,69,6,62,1
+Bath,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,45,9,26,10
+Bath,A104,Commissioner of Agriculture,,,Total Votes,114,15,88,11
+Bath,A104,Commissioner of Agriculture,,,Under Votes,8,0,7,1
+Bath,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,A105,STRAIGHT PARTY,,,Republican,66,13,48,5
+Bath,A105,STRAIGHT PARTY,,,Democratic,24,11,11,2
+Bath,A105,Govenor,,REP,Daniel CAMERON,132,28,98,6
+Bath,A105,Govenor,,DEM,Andy BESHEAR,116,33,58,25
+Bath,A105,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A105,Govenor,,,Total Votes,248,61,156,31
+Bath,A105,Govenor,,,Under Votes,3,0,3,0
+Bath,A105,Govenor,,,Over Votes,0,0,0,0
+Bath,A105,Secretary of State,,REP,Michael ADAMS,168,37,116,15
+Bath,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,21,37,12
+Bath,A105,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,A105,Secretary of State,,,Total Votes,238,58,153,27
+Bath,A105,Secretary of State,,,Under Votes,13,3,6,4
+Bath,A105,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A105,Attorney General,,REP,Russell COLEMAN,157,35,113,9
+Bath,A105,Attorney General,,DEM,Pamela STEVENSON,81,24,40,17
+Bath,A105,Attorney General,,,Total Votes,238,59,153,26
+Bath,A105,Attorney General,,,Under Votes,13,2,6,5
+Bath,A105,Attorney General,,,Over Votes,0,0,0,0
+Bath,A105,Auditor of Public Accounts,,REP,Allison BALL,163,34,116,13
+Bath,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",76,24,38,14
+Bath,A105,Auditor of Public Accounts,,,Total Votes,239,58,154,27
+Bath,A105,Auditor of Public Accounts,,,Under Votes,12,3,5,4
+Bath,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,A105,State Treasurer,,REP,Mark H. METCALF,147,38,102,7
+Bath,A105,State Treasurer,,DEM,Michael BOWMAN,89,21,49,19
+Bath,A105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,A105,State Treasurer,,,Total Votes,236,59,151,26
+Bath,A105,State Treasurer,,,Under Votes,15,2,8,5
+Bath,A105,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,166,36,120,10
+Bath,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,21,34,16
+Bath,A105,Commissioner of Agriculture,,,Total Votes,237,57,154,26
+Bath,A105,Commissioner of Agriculture,,,Under Votes,14,4,5,5
+Bath,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,A106,STRAIGHT PARTY,,,Republican,21,8,12,1
+Bath,A106,STRAIGHT PARTY,,,Democratic,39,17,18,4
+Bath,A106,Govenor,,REP,Daniel CAMERON,59,22,32,5
+Bath,A106,Govenor,,DEM,Andy BESHEAR,159,62,67,30
+Bath,A106,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,A106,Govenor,,,Total Votes,218,84,99,35
+Bath,A106,Govenor,,,Under Votes,0,0,0,0
+Bath,A106,Govenor,,,Over Votes,0,0,0,0
+Bath,A106,Secretary of State,,REP,Michael ADAMS,99,36,49,14
+Bath,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,42,46,20
+Bath,A106,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,A106,Secretary of State,,,Total Votes,207,78,95,34
+Bath,A106,Secretary of State,,,Under Votes,11,6,4,1
+Bath,A106,Secretary of State,,,Over Votes,0,0,0,0
+Bath,A106,Attorney General,,REP,Russell COLEMAN,90,31,46,13
+Bath,A106,Attorney General,,DEM,Pamela STEVENSON,112,47,45,20
+Bath,A106,Attorney General,,,Total Votes,202,78,91,33
+Bath,A106,Attorney General,,,Under Votes,16,6,8,2
+Bath,A106,Attorney General,,,Over Votes,0,0,0,0
+Bath,A106,Auditor of Public Accounts,,REP,Allison BALL,97,34,48,15
+Bath,A106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",103,42,44,17
+Bath,A106,Auditor of Public Accounts,,,Total Votes,200,76,92,32
+Bath,A106,Auditor of Public Accounts,,,Under Votes,17,8,7,2
+Bath,A106,Auditor of Public Accounts,,,Over Votes,1,0,0,1
+Bath,A106,State Treasurer,,REP,Mark H. METCALF,80,31,39,10
+Bath,A106,State Treasurer,,DEM,Michael BOWMAN,122,46,53,23
+Bath,A106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,A106,State Treasurer,,,Total Votes,202,77,92,33
+Bath,A106,State Treasurer,,,Under Votes,16,7,7,2
+Bath,A106,State Treasurer,,,Over Votes,0,0,0,0
+Bath,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,103,38,45,20
+Bath,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,105,42,48,15
+Bath,A106,Commissioner of Agriculture,,,Total Votes,208,80,93,35
+Bath,A106,Commissioner of Agriculture,,,Under Votes,10,4,6,0
+Bath,A106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,B102,STRAIGHT PARTY,,,Republican,40,11,26,3
+Bath,B102,STRAIGHT PARTY,,,Democratic,56,26,22,8
+Bath,B102,Govenor,,REP,Daniel CAMERON,121,38,80,3
+Bath,B102,Govenor,,DEM,Andy BESHEAR,200,79,103,18
+Bath,B102,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,B102,Govenor,,,Total Votes,321,117,183,21
+Bath,B102,Govenor,,,Under Votes,1,0,0,1
+Bath,B102,Govenor,,,Over Votes,0,0,0,0
+Bath,B102,Secretary of State,,REP,Michael ADAMS,178,66,108,4
+Bath,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",136,48,73,15
+Bath,B102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,B102,Secretary of State,,,Total Votes,314,114,181,19
+Bath,B102,Secretary of State,,,Under Votes,8,3,2,3
+Bath,B102,Secretary of State,,,Over Votes,0,0,0,0
+Bath,B102,Attorney General,,REP,Russell COLEMAN,166,58,103,5
+Bath,B102,Attorney General,,DEM,Pamela STEVENSON,144,56,75,13
+Bath,B102,Attorney General,,,Total Votes,310,114,178,18
+Bath,B102,Attorney General,,,Under Votes,12,3,5,4
+Bath,B102,Attorney General,,,Over Votes,0,0,0,0
+Bath,B102,Auditor of Public Accounts,,REP,Allison BALL,168,60,102,6
+Bath,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",141,54,74,13
+Bath,B102,Auditor of Public Accounts,,,Total Votes,309,114,176,19
+Bath,B102,Auditor of Public Accounts,,,Under Votes,13,3,7,3
+Bath,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,B102,State Treasurer,,REP,Mark H. METCALF,156,54,96,6
+Bath,B102,State Treasurer,,DEM,Michael BOWMAN,153,60,80,13
+Bath,B102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,B102,State Treasurer,,,Total Votes,309,114,176,19
+Bath,B102,State Treasurer,,,Under Votes,13,3,7,3
+Bath,B102,State Treasurer,,,Over Votes,0,0,0,0
+Bath,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,182,63,112,7
+Bath,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,131,52,66,13
+Bath,B102,Commissioner of Agriculture,,,Total Votes,313,115,178,20
+Bath,B102,Commissioner of Agriculture,,,Under Votes,9,2,5,2
+Bath,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,B103,STRAIGHT PARTY,,,Republican,109,33,66,10
+Bath,B103,STRAIGHT PARTY,,,Democratic,98,35,47,16
+Bath,B103,Govenor,,REP,Daniel CAMERON,256,92,147,17
+Bath,B103,Govenor,,DEM,Andy BESHEAR,333,128,164,41
+Bath,B103,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,B103,Govenor,,,Total Votes,589,220,311,58
+Bath,B103,Govenor,,,Under Votes,6,2,4,0
+Bath,B103,Govenor,,,Over Votes,0,0,0,0
+Bath,B103,Secretary of State,,REP,Michael ADAMS,352,133,191,28
+Bath,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",213,80,107,26
+Bath,B103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,B103,Secretary of State,,,Total Votes,565,213,298,54
+Bath,B103,Secretary of State,,,Under Votes,30,9,17,4
+Bath,B103,Secretary of State,,,Over Votes,0,0,0,0
+Bath,B103,Attorney General,,REP,Russell COLEMAN,344,124,196,24
+Bath,B103,Attorney General,,DEM,Pamela STEVENSON,218,84,103,31
+Bath,B103,Attorney General,,,Total Votes,562,208,299,55
+Bath,B103,Attorney General,,,Under Votes,33,14,16,3
+Bath,B103,Attorney General,,,Over Votes,0,0,0,0
+Bath,B103,Auditor of Public Accounts,,REP,Allison BALL,345,127,193,25
+Bath,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",215,84,101,30
+Bath,B103,Auditor of Public Accounts,,,Total Votes,560,211,294,55
+Bath,B103,Auditor of Public Accounts,,,Under Votes,34,11,20,3
+Bath,B103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Bath,B103,State Treasurer,,REP,Mark H. METCALF,317,110,181,26
+Bath,B103,State Treasurer,,DEM,Michael BOWMAN,239,95,117,27
+Bath,B103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,B103,State Treasurer,,,Total Votes,556,205,298,53
+Bath,B103,State Treasurer,,,Under Votes,39,17,17,5
+Bath,B103,State Treasurer,,,Over Votes,0,0,0,0
+Bath,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,351,129,198,24
+Bath,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,211,80,101,30
+Bath,B103,Commissioner of Agriculture,,,Total Votes,562,209,299,54
+Bath,B103,Commissioner of Agriculture,,,Under Votes,33,13,16,4
+Bath,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,B104,STRAIGHT PARTY,,,Republican,95,21,71,3
+Bath,B104,STRAIGHT PARTY,,,Democratic,46,10,24,12
+Bath,B104,Govenor,,REP,Daniel CAMERON,188,39,145,4
+Bath,B104,Govenor,,DEM,Andy BESHEAR,151,31,101,19
+Bath,B104,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,B104,Govenor,,,Total Votes,339,70,246,23
+Bath,B104,Govenor,,,Under Votes,4,0,4,0
+Bath,B104,Govenor,,,Over Votes,0,0,0,0
+Bath,B104,Secretary of State,,REP,Michael ADAMS,236,50,181,5
+Bath,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,18,58,18
+Bath,B104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,B104,Secretary of State,,,Total Votes,330,68,239,23
+Bath,B104,Secretary of State,,,Under Votes,13,2,11,0
+Bath,B104,Secretary of State,,,Over Votes,0,0,0,0
+Bath,B104,Attorney General,,REP,Russell COLEMAN,237,48,183,6
+Bath,B104,Attorney General,,DEM,Pamela STEVENSON,92,20,55,17
+Bath,B104,Attorney General,,,Total Votes,329,68,238,23
+Bath,B104,Attorney General,,,Under Votes,14,2,12,0
+Bath,B104,Attorney General,,,Over Votes,0,0,0,0
+Bath,B104,Auditor of Public Accounts,,REP,Allison BALL,235,47,183,5
+Bath,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",92,21,54,17
+Bath,B104,Auditor of Public Accounts,,,Total Votes,327,68,237,22
+Bath,B104,Auditor of Public Accounts,,,Under Votes,16,2,13,1
+Bath,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,B104,State Treasurer,,REP,Mark H. METCALF,224,46,174,4
+Bath,B104,State Treasurer,,DEM,Michael BOWMAN,105,21,65,19
+Bath,B104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,B104,State Treasurer,,,Total Votes,329,67,239,23
+Bath,B104,State Treasurer,,,Under Votes,14,3,11,0
+Bath,B104,State Treasurer,,,Over Votes,0,0,0,0
+Bath,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,241,51,184,6
+Bath,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,90,17,56,17
+Bath,B104,Commissioner of Agriculture,,,Total Votes,331,68,240,23
+Bath,B104,Commissioner of Agriculture,,,Under Votes,12,2,10,0
+Bath,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,C101,STRAIGHT PARTY,,,Republican,68,21,47,0
+Bath,C101,STRAIGHT PARTY,,,Democratic,42,7,32,3
+Bath,C101,Govenor,,REP,Daniel CAMERON,142,32,103,7
+Bath,C101,Govenor,,DEM,Andy BESHEAR,176,45,123,8
+Bath,C101,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,C101,Govenor,,,Total Votes,318,77,226,15
+Bath,C101,Govenor,,,Under Votes,6,3,3,0
+Bath,C101,Govenor,,,Over Votes,0,0,0,0
+Bath,C101,Secretary of State,,REP,Michael ADAMS,191,45,140,6
+Bath,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,34,77,9
+Bath,C101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,C101,Secretary of State,,,Total Votes,311,79,217,15
+Bath,C101,Secretary of State,,,Under Votes,13,1,12,0
+Bath,C101,Secretary of State,,,Over Votes,0,0,0,0
+Bath,C101,Attorney General,,REP,Russell COLEMAN,193,41,145,7
+Bath,C101,Attorney General,,DEM,Pamela STEVENSON,114,36,70,8
+Bath,C101,Attorney General,,,Total Votes,307,77,215,15
+Bath,C101,Attorney General,,,Under Votes,17,3,14,0
+Bath,C101,Attorney General,,,Over Votes,0,0,0,0
+Bath,C101,Auditor of Public Accounts,,REP,Allison BALL,200,44,149,7
+Bath,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,32,69,8
+Bath,C101,Auditor of Public Accounts,,,Total Votes,309,76,218,15
+Bath,C101,Auditor of Public Accounts,,,Under Votes,15,4,11,0
+Bath,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,C101,State Treasurer,,REP,Mark H. METCALF,184,43,135,6
+Bath,C101,State Treasurer,,DEM,Michael BOWMAN,124,34,81,9
+Bath,C101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,C101,State Treasurer,,,Total Votes,308,77,216,15
+Bath,C101,State Treasurer,,,Under Votes,16,3,13,0
+Bath,C101,State Treasurer,,,Over Votes,0,0,0,0
+Bath,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,197,42,149,6
+Bath,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,112,34,69,9
+Bath,C101,Commissioner of Agriculture,,,Total Votes,309,76,218,15
+Bath,C101,Commissioner of Agriculture,,,Under Votes,15,4,11,0
+Bath,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,C102,STRAIGHT PARTY,,,Republican,56,14,41,1
+Bath,C102,STRAIGHT PARTY,,,Democratic,61,10,48,3
+Bath,C102,Govenor,,REP,Daniel CAMERON,151,29,120,2
+Bath,C102,Govenor,,DEM,Andy BESHEAR,171,31,131,9
+Bath,C102,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,C102,Govenor,,,Total Votes,322,60,251,11
+Bath,C102,Govenor,,,Under Votes,3,2,0,1
+Bath,C102,Govenor,,,Over Votes,0,0,0,0
+Bath,C102,Secretary of State,,REP,Michael ADAMS,193,36,152,5
+Bath,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,22,93,5
+Bath,C102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,C102,Secretary of State,,,Total Votes,313,58,245,10
+Bath,C102,Secretary of State,,,Under Votes,12,4,6,2
+Bath,C102,Secretary of State,,,Over Votes,0,0,0,0
+Bath,C102,Attorney General,,REP,Russell COLEMAN,191,35,152,4
+Bath,C102,Attorney General,,DEM,Pamela STEVENSON,122,21,94,7
+Bath,C102,Attorney General,,,Total Votes,313,56,246,11
+Bath,C102,Attorney General,,,Under Votes,12,6,5,1
+Bath,C102,Attorney General,,,Over Votes,0,0,0,0
+Bath,C102,Auditor of Public Accounts,,REP,Allison BALL,184,32,147,5
+Bath,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",127,25,97,5
+Bath,C102,Auditor of Public Accounts,,,Total Votes,311,57,244,10
+Bath,C102,Auditor of Public Accounts,,,Under Votes,14,5,7,2
+Bath,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,C102,State Treasurer,,REP,Mark H. METCALF,167,32,132,3
+Bath,C102,State Treasurer,,DEM,Michael BOWMAN,141,25,110,6
+Bath,C102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,C102,State Treasurer,,,Total Votes,308,57,242,9
+Bath,C102,State Treasurer,,,Under Votes,17,5,9,3
+Bath,C102,State Treasurer,,,Over Votes,0,0,0,0
+Bath,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,192,35,153,4
+Bath,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,114,21,88,5
+Bath,C102,Commissioner of Agriculture,,,Total Votes,306,56,241,9
+Bath,C102,Commissioner of Agriculture,,,Under Votes,19,6,10,3
+Bath,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,C103,STRAIGHT PARTY,,,Republican,38,7,28,3
+Bath,C103,STRAIGHT PARTY,,,Democratic,35,11,19,5
+Bath,C103,Govenor,,REP,Daniel CAMERON,90,17,69,4
+Bath,C103,Govenor,,DEM,Andy BESHEAR,137,32,90,15
+Bath,C103,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,C103,Govenor,,,Total Votes,227,49,159,19
+Bath,C103,Govenor,,,Under Votes,0,0,0,0
+Bath,C103,Govenor,,,Over Votes,0,0,0,0
+Bath,C103,Secretary of State,,REP,Michael ADAMS,122,27,89,6
+Bath,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,22,61,12
+Bath,C103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,C103,Secretary of State,,,Total Votes,217,49,150,18
+Bath,C103,Secretary of State,,,Under Votes,10,0,9,1
+Bath,C103,Secretary of State,,,Over Votes,0,0,0,0
+Bath,C103,Attorney General,,REP,Russell COLEMAN,109,19,84,6
+Bath,C103,Attorney General,,DEM,Pamela STEVENSON,106,30,64,12
+Bath,C103,Attorney General,,,Total Votes,215,49,148,18
+Bath,C103,Attorney General,,,Under Votes,12,0,11,1
+Bath,C103,Attorney General,,,Over Votes,0,0,0,0
+Bath,C103,Auditor of Public Accounts,,REP,Allison BALL,115,24,85,6
+Bath,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",98,23,63,12
+Bath,C103,Auditor of Public Accounts,,,Total Votes,213,47,148,18
+Bath,C103,Auditor of Public Accounts,,,Under Votes,14,2,11,1
+Bath,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,C103,State Treasurer,,REP,Mark H. METCALF,105,19,80,6
+Bath,C103,State Treasurer,,DEM,Michael BOWMAN,109,29,68,12
+Bath,C103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,C103,State Treasurer,,,Total Votes,214,48,148,18
+Bath,C103,State Treasurer,,,Under Votes,13,1,11,1
+Bath,C103,State Treasurer,,,Over Votes,0,0,0,0
+Bath,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,121,21,94,6
+Bath,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,94,26,56,12
+Bath,C103,Commissioner of Agriculture,,,Total Votes,215,47,150,18
+Bath,C103,Commissioner of Agriculture,,,Under Votes,12,2,9,1
+Bath,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Bath,C104,STRAIGHT PARTY,,,Republican,23,5,17,1
+Bath,C104,STRAIGHT PARTY,,,Democratic,43,11,26,6
+Bath,C104,Govenor,,REP,Daniel CAMERON,80,18,61,1
+Bath,C104,Govenor,,DEM,Andy BESHEAR,127,40,75,12
+Bath,C104,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Bath,C104,Govenor,,,Total Votes,207,58,136,13
+Bath,C104,Govenor,,,Under Votes,0,0,0,0
+Bath,C104,Govenor,,,Over Votes,0,0,0,0
+Bath,C104,Secretary of State,,REP,Michael ADAMS,110,25,83,2
+Bath,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",90,31,48,11
+Bath,C104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bath,C104,Secretary of State,,,Total Votes,200,56,131,13
+Bath,C104,Secretary of State,,,Under Votes,6,1,5,0
+Bath,C104,Secretary of State,,,Over Votes,1,1,0,0
+Bath,C104,Attorney General,,REP,Russell COLEMAN,111,29,80,2
+Bath,C104,Attorney General,,DEM,Pamela STEVENSON,88,27,50,11
+Bath,C104,Attorney General,,,Total Votes,199,56,130,13
+Bath,C104,Attorney General,,,Under Votes,8,2,6,0
+Bath,C104,Attorney General,,,Over Votes,0,0,0,0
+Bath,C104,Auditor of Public Accounts,,REP,Allison BALL,111,25,84,2
+Bath,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",83,31,42,10
+Bath,C104,Auditor of Public Accounts,,,Total Votes,194,56,126,12
+Bath,C104,Auditor of Public Accounts,,,Under Votes,13,2,10,1
+Bath,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Bath,C104,State Treasurer,,REP,Mark H. METCALF,106,25,79,2
+Bath,C104,State Treasurer,,DEM,Michael BOWMAN,92,31,50,11
+Bath,C104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bath,C104,State Treasurer,,,Total Votes,198,56,129,13
+Bath,C104,State Treasurer,,,Under Votes,9,2,7,0
+Bath,C104,State Treasurer,,,Over Votes,0,0,0,0
+Bath,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,115,29,84,2
+Bath,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,84,28,45,11
+Bath,C104,Commissioner of Agriculture,,,Total Votes,199,57,129,13
+Bath,C104,Commissioner of Agriculture,,,Under Votes,8,1,7,0
+Bath,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
