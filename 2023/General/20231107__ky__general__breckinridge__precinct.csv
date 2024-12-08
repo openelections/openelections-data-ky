@@ -1,0 +1,561 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Breckinridge,A101,STRAIGHT PARTY,,,Republican,195,38,144,13
+Breckinridge,A101,STRAIGHT PARTY,,,Democratic,118,59,53,6
+Breckinridge,A101,Govenor,,REP,Daniel CAMERON,309,68,220,21
+Breckinridge,A101,Govenor,,DEM,Andy BESHEAR,324,126,184,14
+Breckinridge,A101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,A101,Govenor,,,Total Votes,633,194,404,35
+Breckinridge,A101,Govenor,,,Under Votes,2,0,2,0
+Breckinridge,A101,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,A101,Secretary of State,,REP,Michael ADAMS,392,108,264,20
+Breckinridge,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",218,82,122,14
+Breckinridge,A101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,A101,Secretary of State,,,Total Votes,610,190,386,34
+Breckinridge,A101,Secretary of State,,,Under Votes,25,4,20,1
+Breckinridge,A101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,A101,Attorney General,,REP,Russell COLEMAN,379,95,262,22
+Breckinridge,A101,Attorney General,,DEM,Pamela STEVENSON,229,93,124,12
+Breckinridge,A101,Attorney General,,,Total Votes,608,188,386,34
+Breckinridge,A101,Attorney General,,,Under Votes,27,6,20,1
+Breckinridge,A101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,A101,Auditor of Public Accounts,,REP,Allison BALL,395,101,274,20
+Breckinridge,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",208,84,111,13
+Breckinridge,A101,Auditor of Public Accounts,,,Total Votes,603,185,385,33
+Breckinridge,A101,Auditor of Public Accounts,,,Under Votes,32,9,21,2
+Breckinridge,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,A101,State Treasurer,,REP,Mark H. METCALF,366,90,258,18
+Breckinridge,A101,State Treasurer,,DEM,Michael BOWMAN,233,95,124,14
+Breckinridge,A101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,A101,State Treasurer,,,Total Votes,599,185,382,32
+Breckinridge,A101,State Treasurer,,,Under Votes,35,9,24,2
+Breckinridge,A101,State Treasurer,,,Over Votes,1,0,0,1
+Breckinridge,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,381,96,264,21
+Breckinridge,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,215,88,116,11
+Breckinridge,A101,Commissioner of Agriculture,,,Total Votes,596,184,380,32
+Breckinridge,A101,Commissioner of Agriculture,,,Under Votes,38,10,26,2
+Breckinridge,A101,Commissioner of Agriculture,,,Over Votes,1,0,0,1
+Breckinridge,A102,STRAIGHT PARTY,,,Republican,147,28,115,4
+Breckinridge,A102,STRAIGHT PARTY,,,Democratic,78,41,31,6
+Breckinridge,A102,Govenor,,REP,Daniel CAMERON,213,42,166,5
+Breckinridge,A102,Govenor,,DEM,Andy BESHEAR,185,88,85,12
+Breckinridge,A102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,A102,Govenor,,,Total Votes,398,130,251,17
+Breckinridge,A102,Govenor,,,Under Votes,1,0,1,0
+Breckinridge,A102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,A102,Secretary of State,,REP,Michael ADAMS,272,63,199,10
+Breckinridge,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,65,51,6
+Breckinridge,A102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,A102,Secretary of State,,,Total Votes,394,128,250,16
+Breckinridge,A102,Secretary of State,,,Under Votes,5,2,2,1
+Breckinridge,A102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,A102,Attorney General,,REP,Russell COLEMAN,256,59,189,8
+Breckinridge,A102,Attorney General,,DEM,Pamela STEVENSON,132,66,58,8
+Breckinridge,A102,Attorney General,,,Total Votes,388,125,247,16
+Breckinridge,A102,Attorney General,,,Under Votes,11,5,5,1
+Breckinridge,A102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,A102,Auditor of Public Accounts,,REP,Allison BALL,277,67,202,8
+Breckinridge,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",117,61,48,8
+Breckinridge,A102,Auditor of Public Accounts,,,Total Votes,394,128,250,16
+Breckinridge,A102,Auditor of Public Accounts,,,Under Votes,5,2,2,1
+Breckinridge,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,A102,State Treasurer,,REP,Mark H. METCALF,251,55,188,8
+Breckinridge,A102,State Treasurer,,DEM,Michael BOWMAN,140,73,59,8
+Breckinridge,A102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,A102,State Treasurer,,,Total Votes,391,128,247,16
+Breckinridge,A102,State Treasurer,,,Under Votes,8,2,5,1
+Breckinridge,A102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,269,66,195,8
+Breckinridge,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,123,62,53,8
+Breckinridge,A102,Commissioner of Agriculture,,,Total Votes,392,128,248,16
+Breckinridge,A102,Commissioner of Agriculture,,,Under Votes,7,2,4,1
+Breckinridge,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,B101,STRAIGHT PARTY,,,Republican,116,16,98,2
+Breckinridge,B101,STRAIGHT PARTY,,,Democratic,57,22,28,7
+Breckinridge,B101,Govenor,,REP,Daniel CAMERON,186,35,149,2
+Breckinridge,B101,Govenor,,DEM,Andy BESHEAR,155,59,86,10
+Breckinridge,B101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,B101,Govenor,,,Total Votes,341,94,235,12
+Breckinridge,B101,Govenor,,,Under Votes,2,0,2,0
+Breckinridge,B101,Govenor,,,Over Votes,1,0,1,0
+Breckinridge,B101,Secretary of State,,REP,Michael ADAMS,225,51,170,4
+Breckinridge,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,41,59,8
+Breckinridge,B101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,B101,Secretary of State,,,Total Votes,333,92,229,12
+Breckinridge,B101,Secretary of State,,,Under Votes,11,2,9,0
+Breckinridge,B101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,B101,Attorney General,,REP,Russell COLEMAN,221,48,168,5
+Breckinridge,B101,Attorney General,,DEM,Pamela STEVENSON,112,43,62,7
+Breckinridge,B101,Attorney General,,,Total Votes,333,91,230,12
+Breckinridge,B101,Attorney General,,,Under Votes,11,3,8,0
+Breckinridge,B101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,B101,Auditor of Public Accounts,,REP,Allison BALL,225,52,169,4
+Breckinridge,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",107,40,59,8
+Breckinridge,B101,Auditor of Public Accounts,,,Total Votes,332,92,228,12
+Breckinridge,B101,Auditor of Public Accounts,,,Under Votes,12,2,10,0
+Breckinridge,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,B101,State Treasurer,,REP,Mark H. METCALF,217,44,168,5
+Breckinridge,B101,State Treasurer,,DEM,Michael BOWMAN,114,46,61,7
+Breckinridge,B101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,B101,State Treasurer,,,Total Votes,331,90,229,12
+Breckinridge,B101,State Treasurer,,,Under Votes,13,4,9,0
+Breckinridge,B101,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,232,52,176,4
+Breckinridge,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,99,39,53,7
+Breckinridge,B101,Commissioner of Agriculture,,,Total Votes,331,91,229,11
+Breckinridge,B101,Commissioner of Agriculture,,,Under Votes,13,3,9,1
+Breckinridge,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,B102,STRAIGHT PARTY,,,Republican,131,13,116,2
+Breckinridge,B102,STRAIGHT PARTY,,,Democratic,58,5,52,1
+Breckinridge,B102,Govenor,,REP,Daniel CAMERON,185,20,162,3
+Breckinridge,B102,Govenor,,DEM,Andy BESHEAR,137,6,128,3
+Breckinridge,B102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,B102,Govenor,,,Total Votes,322,26,290,6
+Breckinridge,B102,Govenor,,,Under Votes,0,0,0,0
+Breckinridge,B102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,B102,Secretary of State,,REP,Michael ADAMS,219,20,195,4
+Breckinridge,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",98,6,90,2
+Breckinridge,B102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,B102,Secretary of State,,,Total Votes,317,26,285,6
+Breckinridge,B102,Secretary of State,,,Under Votes,5,0,5,0
+Breckinridge,B102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,B102,Attorney General,,REP,Russell COLEMAN,225,21,200,4
+Breckinridge,B102,Attorney General,,DEM,Pamela STEVENSON,93,5,86,2
+Breckinridge,B102,Attorney General,,,Total Votes,318,26,286,6
+Breckinridge,B102,Attorney General,,,Under Votes,4,0,4,0
+Breckinridge,B102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,B102,Auditor of Public Accounts,,REP,Allison BALL,231,21,206,4
+Breckinridge,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",88,5,81,2
+Breckinridge,B102,Auditor of Public Accounts,,,Total Votes,319,26,287,6
+Breckinridge,B102,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Breckinridge,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,B102,State Treasurer,,REP,Mark H. METCALF,217,20,193,4
+Breckinridge,B102,State Treasurer,,DEM,Michael BOWMAN,95,5,88,2
+Breckinridge,B102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,B102,State Treasurer,,,Total Votes,312,25,281,6
+Breckinridge,B102,State Treasurer,,,Under Votes,10,1,9,0
+Breckinridge,B102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,217,20,193,4
+Breckinridge,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,95,5,88,2
+Breckinridge,B102,Commissioner of Agriculture,,,Total Votes,312,25,281,6
+Breckinridge,B102,Commissioner of Agriculture,,,Under Votes,10,1,9,0
+Breckinridge,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,B103,STRAIGHT PARTY,,,Republican,116,9,103,4
+Breckinridge,B103,STRAIGHT PARTY,,,Democratic,34,4,28,2
+Breckinridge,B103,Govenor,,REP,Daniel CAMERON,191,16,171,4
+Breckinridge,B103,Govenor,,DEM,Andy BESHEAR,141,17,120,4
+Breckinridge,B103,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,B103,Govenor,,,Total Votes,332,33,291,8
+Breckinridge,B103,Govenor,,,Under Votes,2,0,2,0
+Breckinridge,B103,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,B103,Secretary of State,,REP,Michael ADAMS,251,22,224,5
+Breckinridge,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",71,7,61,3
+Breckinridge,B103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,B103,Secretary of State,,,Total Votes,322,29,285,8
+Breckinridge,B103,Secretary of State,,,Under Votes,12,4,8,0
+Breckinridge,B103,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,B103,Attorney General,,REP,Russell COLEMAN,243,23,214,6
+Breckinridge,B103,Attorney General,,DEM,Pamela STEVENSON,79,6,71,2
+Breckinridge,B103,Attorney General,,,Total Votes,322,29,285,8
+Breckinridge,B103,Attorney General,,,Under Votes,12,4,8,0
+Breckinridge,B103,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,B103,Auditor of Public Accounts,,REP,Allison BALL,260,23,232,5
+Breckinridge,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",62,6,53,3
+Breckinridge,B103,Auditor of Public Accounts,,,Total Votes,322,29,285,8
+Breckinridge,B103,Auditor of Public Accounts,,,Under Votes,12,4,8,0
+Breckinridge,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,B103,State Treasurer,,REP,Mark H. METCALF,240,20,215,5
+Breckinridge,B103,State Treasurer,,DEM,Michael BOWMAN,78,8,67,3
+Breckinridge,B103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,B103,State Treasurer,,,Total Votes,318,28,282,8
+Breckinridge,B103,State Treasurer,,,Under Votes,16,5,11,0
+Breckinridge,B103,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,252,23,224,5
+Breckinridge,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,8,60,3
+Breckinridge,B103,Commissioner of Agriculture,,,Total Votes,323,31,284,8
+Breckinridge,B103,Commissioner of Agriculture,,,Under Votes,11,2,9,0
+Breckinridge,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,C101,STRAIGHT PARTY,,,Republican,193,25,165,3
+Breckinridge,C101,STRAIGHT PARTY,,,Democratic,61,13,43,5
+Breckinridge,C101,Govenor,,REP,Daniel CAMERON,275,33,237,5
+Breckinridge,C101,Govenor,,DEM,Andy BESHEAR,185,34,138,13
+Breckinridge,C101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,C101,Govenor,,,Total Votes,460,67,375,18
+Breckinridge,C101,Govenor,,,Under Votes,1,1,0,0
+Breckinridge,C101,Govenor,,,Over Votes,1,0,1,0
+Breckinridge,C101,Secretary of State,,REP,Michael ADAMS,327,46,275,6
+Breckinridge,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,20,92,12
+Breckinridge,C101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,C101,Secretary of State,,,Total Votes,451,66,367,18
+Breckinridge,C101,Secretary of State,,,Under Votes,11,2,9,0
+Breckinridge,C101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,C101,Attorney General,,REP,Russell COLEMAN,334,44,282,8
+Breckinridge,C101,Attorney General,,DEM,Pamela STEVENSON,118,22,86,10
+Breckinridge,C101,Attorney General,,,Total Votes,452,66,368,18
+Breckinridge,C101,Attorney General,,,Under Votes,10,2,8,0
+Breckinridge,C101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,C101,Auditor of Public Accounts,,REP,Allison BALL,348,46,295,7
+Breckinridge,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",106,20,75,11
+Breckinridge,C101,Auditor of Public Accounts,,,Total Votes,454,66,370,18
+Breckinridge,C101,Auditor of Public Accounts,,,Under Votes,8,2,6,0
+Breckinridge,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,C101,State Treasurer,,REP,Mark H. METCALF,319,42,271,6
+Breckinridge,C101,State Treasurer,,DEM,Michael BOWMAN,128,24,92,12
+Breckinridge,C101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,C101,State Treasurer,,,Total Votes,447,66,363,18
+Breckinridge,C101,State Treasurer,,,Under Votes,15,2,13,0
+Breckinridge,C101,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,341,49,285,7
+Breckinridge,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,110,17,82,11
+Breckinridge,C101,Commissioner of Agriculture,,,Total Votes,451,66,367,18
+Breckinridge,C101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
+Breckinridge,C101,Commissioner of Agriculture,,,Over Votes,2,0,2,0
+Breckinridge,C102,STRAIGHT PARTY,,,Republican,236,34,199,3
+Breckinridge,C102,STRAIGHT PARTY,,,Democratic,56,15,38,3
+Breckinridge,C102,Govenor,,REP,Daniel CAMERON,328,45,277,6
+Breckinridge,C102,Govenor,,DEM,Andy BESHEAR,228,58,163,7
+Breckinridge,C102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,C102,Govenor,,,Total Votes,556,103,440,13
+Breckinridge,C102,Govenor,,,Under Votes,2,0,2,0
+Breckinridge,C102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,C102,Secretary of State,,REP,Michael ADAMS,411,67,336,8
+Breckinridge,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",131,32,94,5
+Breckinridge,C102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,C102,Secretary of State,,,Total Votes,542,99,430,13
+Breckinridge,C102,Secretary of State,,,Under Votes,16,4,12,0
+Breckinridge,C102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,C102,Attorney General,,REP,Russell COLEMAN,407,65,334,8
+Breckinridge,C102,Attorney General,,DEM,Pamela STEVENSON,141,36,100,5
+Breckinridge,C102,Attorney General,,,Total Votes,548,101,434,13
+Breckinridge,C102,Attorney General,,,Under Votes,10,2,8,0
+Breckinridge,C102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,C102,Auditor of Public Accounts,,REP,Allison BALL,435,69,357,9
+Breckinridge,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",112,31,77,4
+Breckinridge,C102,Auditor of Public Accounts,,,Total Votes,547,100,434,13
+Breckinridge,C102,Auditor of Public Accounts,,,Under Votes,11,3,8,0
+Breckinridge,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,C102,State Treasurer,,REP,Mark H. METCALF,404,58,338,8
+Breckinridge,C102,State Treasurer,,DEM,Michael BOWMAN,138,40,93,5
+Breckinridge,C102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,C102,State Treasurer,,,Total Votes,542,98,431,13
+Breckinridge,C102,State Treasurer,,,Under Votes,16,5,11,0
+Breckinridge,C102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,416,66,342,8
+Breckinridge,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,130,35,90,5
+Breckinridge,C102,Commissioner of Agriculture,,,Total Votes,546,101,432,13
+Breckinridge,C102,Commissioner of Agriculture,,,Under Votes,11,2,9,0
+Breckinridge,C102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Breckinridge,D101,STRAIGHT PARTY,,,Republican,153,10,139,4
+Breckinridge,D101,STRAIGHT PARTY,,,Democratic,73,7,65,1
+Breckinridge,D101,Govenor,,REP,Daniel CAMERON,235,18,213,4
+Breckinridge,D101,Govenor,,DEM,Andy BESHEAR,194,20,171,3
+Breckinridge,D101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,D101,Govenor,,,Total Votes,429,38,384,7
+Breckinridge,D101,Govenor,,,Under Votes,2,0,2,0
+Breckinridge,D101,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,D101,Secretary of State,,REP,Michael ADAMS,282,24,252,6
+Breckinridge,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",142,13,128,1
+Breckinridge,D101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,D101,Secretary of State,,,Total Votes,424,37,380,7
+Breckinridge,D101,Secretary of State,,,Under Votes,7,1,6,0
+Breckinridge,D101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,D101,Attorney General,,REP,Russell COLEMAN,284,20,259,5
+Breckinridge,D101,Attorney General,,DEM,Pamela STEVENSON,137,16,119,2
+Breckinridge,D101,Attorney General,,,Total Votes,421,36,378,7
+Breckinridge,D101,Attorney General,,,Under Votes,10,2,8,0
+Breckinridge,D101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,D101,Auditor of Public Accounts,,REP,Allison BALL,290,23,261,6
+Breckinridge,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",131,13,117,1
+Breckinridge,D101,Auditor of Public Accounts,,,Total Votes,421,36,378,7
+Breckinridge,D101,Auditor of Public Accounts,,,Under Votes,10,2,8,0
+Breckinridge,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,D101,State Treasurer,,REP,Mark H. METCALF,273,21,248,4
+Breckinridge,D101,State Treasurer,,DEM,Michael BOWMAN,143,15,125,3
+Breckinridge,D101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,D101,State Treasurer,,,Total Votes,416,36,373,7
+Breckinridge,D101,State Treasurer,,,Under Votes,15,2,13,0
+Breckinridge,D101,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,284,21,258,5
+Breckinridge,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,139,17,120,2
+Breckinridge,D101,Commissioner of Agriculture,,,Total Votes,423,38,378,7
+Breckinridge,D101,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Breckinridge,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,D102,STRAIGHT PARTY,,,Republican,101,14,80,7
+Breckinridge,D102,STRAIGHT PARTY,,,Democratic,61,5,49,7
+Breckinridge,D102,Govenor,,REP,Daniel CAMERON,166,17,141,8
+Breckinridge,D102,Govenor,,DEM,Andy BESHEAR,163,17,135,11
+Breckinridge,D102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,D102,Govenor,,,Total Votes,329,34,276,19
+Breckinridge,D102,Govenor,,,Under Votes,1,0,1,0
+Breckinridge,D102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,D102,Secretary of State,,REP,Michael ADAMS,209,21,179,9
+Breckinridge,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,13,93,10
+Breckinridge,D102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,D102,Secretary of State,,,Total Votes,325,34,272,19
+Breckinridge,D102,Secretary of State,,,Under Votes,5,0,5,0
+Breckinridge,D102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,D102,Attorney General,,REP,Russell COLEMAN,214,23,182,9
+Breckinridge,D102,Attorney General,,DEM,Pamela STEVENSON,112,10,92,10
+Breckinridge,D102,Attorney General,,,Total Votes,326,33,274,19
+Breckinridge,D102,Attorney General,,,Under Votes,4,1,3,0
+Breckinridge,D102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,D102,Auditor of Public Accounts,,REP,Allison BALL,213,19,185,9
+Breckinridge,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,12,86,10
+Breckinridge,D102,Auditor of Public Accounts,,,Total Votes,321,31,271,19
+Breckinridge,D102,Auditor of Public Accounts,,,Under Votes,9,3,6,0
+Breckinridge,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,D102,State Treasurer,,REP,Mark H. METCALF,202,17,177,8
+Breckinridge,D102,State Treasurer,,DEM,Michael BOWMAN,120,15,94,11
+Breckinridge,D102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,D102,State Treasurer,,,Total Votes,322,32,271,19
+Breckinridge,D102,State Treasurer,,,Under Votes,8,2,6,0
+Breckinridge,D102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,209,20,179,10
+Breckinridge,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,113,12,92,9
+Breckinridge,D102,Commissioner of Agriculture,,,Total Votes,322,32,271,19
+Breckinridge,D102,Commissioner of Agriculture,,,Under Votes,8,2,6,0
+Breckinridge,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,D103,STRAIGHT PARTY,,,Republican,121,13,107,1
+Breckinridge,D103,STRAIGHT PARTY,,,Democratic,29,9,15,5
+Breckinridge,D103,Govenor,,REP,Daniel CAMERON,172,23,147,2
+Breckinridge,D103,Govenor,,DEM,Andy BESHEAR,90,22,58,10
+Breckinridge,D103,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,D103,Govenor,,,Total Votes,262,45,205,12
+Breckinridge,D103,Govenor,,,Under Votes,0,0,0,0
+Breckinridge,D103,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,D103,Secretary of State,,REP,Michael ADAMS,201,32,165,4
+Breckinridge,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",58,12,39,7
+Breckinridge,D103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,D103,Secretary of State,,,Total Votes,259,44,204,11
+Breckinridge,D103,Secretary of State,,,Under Votes,3,1,1,1
+Breckinridge,D103,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,D103,Attorney General,,REP,Russell COLEMAN,198,27,168,3
+Breckinridge,D103,Attorney General,,DEM,Pamela STEVENSON,62,18,35,9
+Breckinridge,D103,Attorney General,,,Total Votes,260,45,203,12
+Breckinridge,D103,Attorney General,,,Under Votes,2,0,2,0
+Breckinridge,D103,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,D103,Auditor of Public Accounts,,REP,Allison BALL,202,28,170,4
+Breckinridge,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",55,16,31,8
+Breckinridge,D103,Auditor of Public Accounts,,,Total Votes,257,44,201,12
+Breckinridge,D103,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Breckinridge,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,D103,State Treasurer,,REP,Mark H. METCALF,199,28,168,3
+Breckinridge,D103,State Treasurer,,DEM,Michael BOWMAN,56,16,32,8
+Breckinridge,D103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,D103,State Treasurer,,,Total Votes,255,44,200,11
+Breckinridge,D103,State Treasurer,,,Under Votes,7,1,5,1
+Breckinridge,D103,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,198,27,168,3
+Breckinridge,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,59,18,32,9
+Breckinridge,D103,Commissioner of Agriculture,,,Total Votes,257,45,200,12
+Breckinridge,D103,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Breckinridge,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,E101,STRAIGHT PARTY,,,Republican,111,8,102,1
+Breckinridge,E101,STRAIGHT PARTY,,,Democratic,21,1,19,1
+Breckinridge,E101,Govenor,,REP,Daniel CAMERON,169,13,155,1
+Breckinridge,E101,Govenor,,DEM,Andy BESHEAR,87,7,76,4
+Breckinridge,E101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,E101,Govenor,,,Total Votes,256,20,231,5
+Breckinridge,E101,Govenor,,,Under Votes,1,0,1,0
+Breckinridge,E101,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,E101,Secretary of State,,REP,Michael ADAMS,203,15,185,3
+Breckinridge,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",47,5,40,2
+Breckinridge,E101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,E101,Secretary of State,,,Total Votes,250,20,225,5
+Breckinridge,E101,Secretary of State,,,Under Votes,7,0,7,0
+Breckinridge,E101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,E101,Attorney General,,REP,Russell COLEMAN,203,16,186,1
+Breckinridge,E101,Attorney General,,DEM,Pamela STEVENSON,49,4,41,4
+Breckinridge,E101,Attorney General,,,Total Votes,252,20,227,5
+Breckinridge,E101,Attorney General,,,Under Votes,5,0,5,0
+Breckinridge,E101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,E101,Auditor of Public Accounts,,REP,Allison BALL,212,16,193,3
+Breckinridge,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,3,36,2
+Breckinridge,E101,Auditor of Public Accounts,,,Total Votes,253,19,229,5
+Breckinridge,E101,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Breckinridge,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,E101,State Treasurer,,REP,Mark H. METCALF,194,14,178,2
+Breckinridge,E101,State Treasurer,,DEM,Michael BOWMAN,55,6,46,3
+Breckinridge,E101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,E101,State Treasurer,,,Total Votes,249,20,224,5
+Breckinridge,E101,State Treasurer,,,Under Votes,8,0,8,0
+Breckinridge,E101,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,208,16,189,3
+Breckinridge,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,4,37,2
+Breckinridge,E101,Commissioner of Agriculture,,,Total Votes,251,20,226,5
+Breckinridge,E101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Breckinridge,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,E102,STRAIGHT PARTY,,,Republican,134,14,116,4
+Breckinridge,E102,STRAIGHT PARTY,,,Democratic,50,14,32,4
+Breckinridge,E102,Govenor,,REP,Daniel CAMERON,201,19,176,6
+Breckinridge,E102,Govenor,,DEM,Andy BESHEAR,122,25,90,7
+Breckinridge,E102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,E102,Govenor,,,Total Votes,323,44,266,13
+Breckinridge,E102,Govenor,,,Under Votes,3,0,2,1
+Breckinridge,E102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,E102,Secretary of State,,REP,Michael ADAMS,234,25,199,10
+Breckinridge,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,17,64,4
+Breckinridge,E102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,E102,Secretary of State,,,Total Votes,319,42,263,14
+Breckinridge,E102,Secretary of State,,,Under Votes,7,2,5,0
+Breckinridge,E102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,E102,Attorney General,,REP,Russell COLEMAN,243,22,211,10
+Breckinridge,E102,Attorney General,,DEM,Pamela STEVENSON,76,20,52,4
+Breckinridge,E102,Attorney General,,,Total Votes,319,42,263,14
+Breckinridge,E102,Attorney General,,,Under Votes,7,2,5,0
+Breckinridge,E102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,E102,Auditor of Public Accounts,,REP,Allison BALL,243,25,209,9
+Breckinridge,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",75,17,53,5
+Breckinridge,E102,Auditor of Public Accounts,,,Total Votes,318,42,262,14
+Breckinridge,E102,Auditor of Public Accounts,,,Under Votes,8,2,6,0
+Breckinridge,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,E102,State Treasurer,,REP,Mark H. METCALF,232,23,200,9
+Breckinridge,E102,State Treasurer,,DEM,Michael BOWMAN,84,19,60,5
+Breckinridge,E102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,E102,State Treasurer,,,Total Votes,316,42,260,14
+Breckinridge,E102,State Treasurer,,,Under Votes,10,2,8,0
+Breckinridge,E102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,240,21,209,10
+Breckinridge,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,20,53,4
+Breckinridge,E102,Commissioner of Agriculture,,,Total Votes,317,41,262,14
+Breckinridge,E102,Commissioner of Agriculture,,,Under Votes,9,3,6,0
+Breckinridge,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,E103,STRAIGHT PARTY,,,Republican,115,17,97,1
+Breckinridge,E103,STRAIGHT PARTY,,,Democratic,31,4,24,3
+Breckinridge,E103,Govenor,,REP,Daniel CAMERON,166,26,135,5
+Breckinridge,E103,Govenor,,DEM,Andy BESHEAR,93,25,64,4
+Breckinridge,E103,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,E103,Govenor,,,Total Votes,259,51,199,9
+Breckinridge,E103,Govenor,,,Under Votes,3,1,2,0
+Breckinridge,E103,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,E103,Secretary of State,,REP,Michael ADAMS,193,33,155,5
+Breckinridge,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",63,17,42,4
+Breckinridge,E103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,E103,Secretary of State,,,Total Votes,256,50,197,9
+Breckinridge,E103,Secretary of State,,,Under Votes,6,2,4,0
+Breckinridge,E103,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,E103,Attorney General,,REP,Russell COLEMAN,196,33,158,5
+Breckinridge,E103,Attorney General,,DEM,Pamela STEVENSON,59,16,39,4
+Breckinridge,E103,Attorney General,,,Total Votes,255,49,197,9
+Breckinridge,E103,Attorney General,,,Under Votes,7,3,4,0
+Breckinridge,E103,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,E103,Auditor of Public Accounts,,REP,Allison BALL,206,36,165,5
+Breckinridge,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",50,13,33,4
+Breckinridge,E103,Auditor of Public Accounts,,,Total Votes,256,49,198,9
+Breckinridge,E103,Auditor of Public Accounts,,,Under Votes,6,3,3,0
+Breckinridge,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,E103,State Treasurer,,REP,Mark H. METCALF,194,33,156,5
+Breckinridge,E103,State Treasurer,,DEM,Michael BOWMAN,59,15,40,4
+Breckinridge,E103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,E103,State Treasurer,,,Total Votes,253,48,196,9
+Breckinridge,E103,State Treasurer,,,Under Votes,9,4,5,0
+Breckinridge,E103,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,204,37,162,5
+Breckinridge,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,12,31,4
+Breckinridge,E103,Commissioner of Agriculture,,,Total Votes,251,49,193,9
+Breckinridge,E103,Commissioner of Agriculture,,,Under Votes,11,3,8,0
+Breckinridge,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,F101,STRAIGHT PARTY,,,Republican,353,37,308,8
+Breckinridge,F101,STRAIGHT PARTY,,,Democratic,127,14,104,9
+Breckinridge,F101,Govenor,,REP,Daniel CAMERON,534,46,477,11
+Breckinridge,F101,Govenor,,DEM,Andy BESHEAR,347,37,289,21
+Breckinridge,F101,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,F101,Govenor,,,Total Votes,881,83,766,32
+Breckinridge,F101,Govenor,,,Under Votes,3,0,3,0
+Breckinridge,F101,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,F101,Secretary of State,,REP,Michael ADAMS,626,55,556,15
+Breckinridge,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",240,27,196,17
+Breckinridge,F101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,F101,Secretary of State,,,Total Votes,866,82,752,32
+Breckinridge,F101,Secretary of State,,,Under Votes,18,1,17,0
+Breckinridge,F101,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,F101,Attorney General,,REP,Russell COLEMAN,632,56,559,17
+Breckinridge,F101,Attorney General,,DEM,Pamela STEVENSON,241,27,199,15
+Breckinridge,F101,Attorney General,,,Total Votes,873,83,758,32
+Breckinridge,F101,Attorney General,,,Under Votes,11,0,11,0
+Breckinridge,F101,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,F101,Auditor of Public Accounts,,REP,Allison BALL,649,59,572,18
+Breckinridge,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",220,22,184,14
+Breckinridge,F101,Auditor of Public Accounts,,,Total Votes,869,81,756,32
+Breckinridge,F101,Auditor of Public Accounts,,,Under Votes,15,2,13,0
+Breckinridge,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,F101,State Treasurer,,REP,Mark H. METCALF,607,54,539,14
+Breckinridge,F101,State Treasurer,,DEM,Michael BOWMAN,261,27,216,18
+Breckinridge,F101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,F101,State Treasurer,,,Total Votes,868,81,755,32
+Breckinridge,F101,State Treasurer,,,Under Votes,16,2,14,0
+Breckinridge,F101,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,649,58,573,18
+Breckinridge,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,217,23,180,14
+Breckinridge,F101,Commissioner of Agriculture,,,Total Votes,866,81,753,32
+Breckinridge,F101,Commissioner of Agriculture,,,Under Votes,17,2,15,0
+Breckinridge,F101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Breckinridge,F102,STRAIGHT PARTY,,,Republican,88,11,73,4
+Breckinridge,F102,STRAIGHT PARTY,,,Democratic,22,5,16,1
+Breckinridge,F102,Govenor,,REP,Daniel CAMERON,140,16,115,9
+Breckinridge,F102,Govenor,,DEM,Andy BESHEAR,67,15,50,2
+Breckinridge,F102,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,F102,Govenor,,,Total Votes,207,31,165,11
+Breckinridge,F102,Govenor,,,Under Votes,0,0,0,0
+Breckinridge,F102,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,F102,Secretary of State,,REP,Michael ADAMS,158,22,126,10
+Breckinridge,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",48,9,38,1
+Breckinridge,F102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,F102,Secretary of State,,,Total Votes,206,31,164,11
+Breckinridge,F102,Secretary of State,,,Under Votes,1,0,1,0
+Breckinridge,F102,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,F102,Attorney General,,REP,Russell COLEMAN,154,22,122,10
+Breckinridge,F102,Attorney General,,DEM,Pamela STEVENSON,47,8,38,1
+Breckinridge,F102,Attorney General,,,Total Votes,201,30,160,11
+Breckinridge,F102,Attorney General,,,Under Votes,6,1,5,0
+Breckinridge,F102,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,F102,Auditor of Public Accounts,,REP,Allison BALL,162,22,130,10
+Breckinridge,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,9,33,1
+Breckinridge,F102,Auditor of Public Accounts,,,Total Votes,205,31,163,11
+Breckinridge,F102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Breckinridge,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,F102,State Treasurer,,REP,Mark H. METCALF,153,21,122,10
+Breckinridge,F102,State Treasurer,,DEM,Michael BOWMAN,51,10,40,1
+Breckinridge,F102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,F102,State Treasurer,,,Total Votes,204,31,162,11
+Breckinridge,F102,State Treasurer,,,Under Votes,3,0,3,0
+Breckinridge,F102,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,159,20,129,10
+Breckinridge,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,45,11,33,1
+Breckinridge,F102,Commissioner of Agriculture,,,Total Votes,204,31,162,11
+Breckinridge,F102,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Breckinridge,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Breckinridge,F103,STRAIGHT PARTY,,,Republican,79,16,59,4
+Breckinridge,F103,STRAIGHT PARTY,,,Democratic,24,6,18,0
+Breckinridge,F103,Govenor,,REP,Daniel CAMERON,137,21,110,6
+Breckinridge,F103,Govenor,,DEM,Andy BESHEAR,90,27,61,2
+Breckinridge,F103,Govenor,,,Brian Fishback William Fishback (W),0,0,0,0
+Breckinridge,F103,Govenor,,,Total Votes,227,48,171,8
+Breckinridge,F103,Govenor,,,Under Votes,1,0,1,0
+Breckinridge,F103,Govenor,,,Over Votes,0,0,0,0
+Breckinridge,F103,Secretary of State,,REP,Michael ADAMS,169,29,132,8
+Breckinridge,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,18,36,0
+Breckinridge,F103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
+Breckinridge,F103,Secretary of State,,,Total Votes,223,47,168,8
+Breckinridge,F103,Secretary of State,,,Under Votes,5,1,4,0
+Breckinridge,F103,Secretary of State,,,Over Votes,0,0,0,0
+Breckinridge,F103,Attorney General,,REP,Russell COLEMAN,171,30,135,6
+Breckinridge,F103,Attorney General,,DEM,Pamela STEVENSON,51,17,33,1
+Breckinridge,F103,Attorney General,,,Total Votes,222,47,168,7
+Breckinridge,F103,Attorney General,,,Under Votes,6,1,4,1
+Breckinridge,F103,Attorney General,,,Over Votes,0,0,0,0
+Breckinridge,F103,Auditor of Public Accounts,,REP,Allison BALL,180,29,144,7
+Breckinridge,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,18,26,0
+Breckinridge,F103,Auditor of Public Accounts,,,Total Votes,224,47,170,7
+Breckinridge,F103,Auditor of Public Accounts,,,Under Votes,4,1,2,1
+Breckinridge,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Breckinridge,F103,State Treasurer,,REP,Mark H. METCALF,169,27,134,8
+Breckinridge,F103,State Treasurer,,DEM,Michael BOWMAN,56,20,36,0
+Breckinridge,F103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Breckinridge,F103,State Treasurer,,,Total Votes,225,47,170,8
+Breckinridge,F103,State Treasurer,,,Under Votes,3,1,2,0
+Breckinridge,F103,State Treasurer,,,Over Votes,0,0,0,0
+Breckinridge,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,177,27,144,6
+Breckinridge,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,20,26,1
+Breckinridge,F103,Commissioner of Agriculture,,,Total Votes,224,47,170,7
+Breckinridge,F103,Commissioner of Agriculture,,,Under Votes,4,1,2,1
+Breckinridge,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

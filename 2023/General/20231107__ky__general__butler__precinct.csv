@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Butler,A110,STRAIGHT PARTY,,,Republican,101,14,86,1
+Butler,A110,STRAIGHT PARTY,,,Democratic,39,14,20,5
+Butler,A110,Govenor,,REP,Daniel CAMERON,132,17,113,2
+Butler,A110,Govenor,,DEM,Andy BESHEAR,93,25,60,8
+Butler,A110,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,A110,Govenor,,,Total Votes,225,42,173,10
+Butler,A110,Govenor,,,Under Votes,1,0,1,0
+Butler,A110,Govenor,,,Over Votes,0,0,0,0
+Butler,A110,Secretary of State,,REP,Michael ADAMS,154,22,129,3
+Butler,A110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,19,42,7
+Butler,A110,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,A110,Secretary of State,,,Total Votes,222,41,171,10
+Butler,A110,Secretary of State,,,Under Votes,4,1,3,0
+Butler,A110,Secretary of State,,,Over Votes,0,0,0,0
+Butler,A110,Attorney General,,REP,Russell COLEMAN,149,20,126,3
+Butler,A110,Attorney General,,DEM,Pamela STEVENSON,74,21,46,7
+Butler,A110,Attorney General,,,Total Votes,223,41,172,10
+Butler,A110,Attorney General,,,Under Votes,3,1,2,0
+Butler,A110,Attorney General,,,Over Votes,0,0,0,0
+Butler,A110,Auditor of Public Accounts,,REP,Allison BALL,155,22,131,2
+Butler,A110,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",66,19,40,7
+Butler,A110,Auditor of Public Accounts,,,Total Votes,221,41,171,9
+Butler,A110,Auditor of Public Accounts,,,Under Votes,5,1,3,1
+Butler,A110,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,A110,State Treasurer,,REP,Mark H. METCALF,146,19,125,2
+Butler,A110,State Treasurer,,DEM,Michael BOWMAN,72,22,43,7
+Butler,A110,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,A110,State Treasurer,,,Total Votes,218,41,168,9
+Butler,A110,State Treasurer,,,Under Votes,8,1,6,1
+Butler,A110,State Treasurer,,,Over Votes,0,0,0,0
+Butler,A110,Commissioner of Agriculture,,REP,Jonathan SHELL,154,20,132,2
+Butler,A110,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,21,40,7
+Butler,A110,Commissioner of Agriculture,,,Total Votes,222,41,172,9
+Butler,A110,Commissioner of Agriculture,,,Under Votes,4,1,2,1
+Butler,A110,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,A111,STRAIGHT PARTY,,,Republican,138,27,104,7
+Butler,A111,STRAIGHT PARTY,,,Democratic,51,14,34,3
+Butler,A111,Govenor,,REP,Daniel CAMERON,164,34,122,8
+Butler,A111,Govenor,,DEM,Andy BESHEAR,128,32,89,7
+Butler,A111,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,A111,Govenor,,,Total Votes,292,66,211,15
+Butler,A111,Govenor,,,Under Votes,0,0,0,0
+Butler,A111,Govenor,,,Over Votes,0,0,0,0
+Butler,A111,Secretary of State,,REP,Michael ADAMS,205,39,155,11
+Butler,A111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,25,49,4
+Butler,A111,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,A111,Secretary of State,,,Total Votes,283,64,204,15
+Butler,A111,Secretary of State,,,Under Votes,9,2,7,0
+Butler,A111,Secretary of State,,,Over Votes,0,0,0,0
+Butler,A111,Attorney General,,REP,Russell COLEMAN,202,39,151,12
+Butler,A111,Attorney General,,DEM,Pamela STEVENSON,83,26,54,3
+Butler,A111,Attorney General,,,Total Votes,285,65,205,15
+Butler,A111,Attorney General,,,Under Votes,7,1,6,0
+Butler,A111,Attorney General,,,Over Votes,0,0,0,0
+Butler,A111,Auditor of Public Accounts,,REP,Allison BALL,205,44,152,9
+Butler,A111,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",79,21,52,6
+Butler,A111,Auditor of Public Accounts,,,Total Votes,284,65,204,15
+Butler,A111,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Butler,A111,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,A111,State Treasurer,,REP,Mark H. METCALF,192,37,146,9
+Butler,A111,State Treasurer,,DEM,Michael BOWMAN,92,27,59,6
+Butler,A111,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,A111,State Treasurer,,,Total Votes,284,64,205,15
+Butler,A111,State Treasurer,,,Under Votes,8,2,6,0
+Butler,A111,State Treasurer,,,Over Votes,0,0,0,0
+Butler,A111,Commissioner of Agriculture,,REP,Jonathan SHELL,211,45,154,12
+Butler,A111,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,75,21,51,3
+Butler,A111,Commissioner of Agriculture,,,Total Votes,286,66,205,15
+Butler,A111,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Butler,A111,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,B106,STRAIGHT PARTY,,,Republican,215,13,197,5
+Butler,B106,STRAIGHT PARTY,,,Democratic,38,7,31,0
+Butler,B106,Govenor,,REP,Daniel CAMERON,285,19,261,5
+Butler,B106,Govenor,,DEM,Andy BESHEAR,103,14,89,0
+Butler,B106,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,B106,Govenor,,,Total Votes,388,33,350,5
+Butler,B106,Govenor,,,Under Votes,1,1,0,0
+Butler,B106,Govenor,,,Over Votes,0,0,0,0
+Butler,B106,Secretary of State,,REP,Michael ADAMS,316,23,288,5
+Butler,B106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,10,54,0
+Butler,B106,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,B106,Secretary of State,,,Total Votes,380,33,342,5
+Butler,B106,Secretary of State,,,Under Votes,8,0,8,0
+Butler,B106,Secretary of State,,,Over Votes,1,1,0,0
+Butler,B106,Attorney General,,REP,Russell COLEMAN,308,21,282,5
+Butler,B106,Attorney General,,DEM,Pamela STEVENSON,72,13,59,0
+Butler,B106,Attorney General,,,Total Votes,380,34,341,5
+Butler,B106,Attorney General,,,Under Votes,9,0,9,0
+Butler,B106,Attorney General,,,Over Votes,0,0,0,0
+Butler,B106,Auditor of Public Accounts,,REP,Allison BALL,322,22,295,5
+Butler,B106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,12,46,0
+Butler,B106,Auditor of Public Accounts,,,Total Votes,380,34,341,5
+Butler,B106,Auditor of Public Accounts,,,Under Votes,9,0,9,0
+Butler,B106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,B106,State Treasurer,,REP,Mark H. METCALF,305,21,279,5
+Butler,B106,State Treasurer,,DEM,Michael BOWMAN,74,13,61,0
+Butler,B106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,B106,State Treasurer,,,Total Votes,379,34,340,5
+Butler,B106,State Treasurer,,,Under Votes,10,0,10,0
+Butler,B106,State Treasurer,,,Over Votes,0,0,0,0
+Butler,B106,Commissioner of Agriculture,,REP,Jonathan SHELL,313,21,287,5
+Butler,B106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,13,55,0
+Butler,B106,Commissioner of Agriculture,,,Total Votes,381,34,342,5
+Butler,B106,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Butler,B106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,B107,STRAIGHT PARTY,,,Republican,250,27,217,6
+Butler,B107,STRAIGHT PARTY,,,Democratic,63,6,54,3
+Butler,B107,Govenor,,REP,Daniel CAMERON,324,36,281,7
+Butler,B107,Govenor,,DEM,Andy BESHEAR,186,28,150,8
+Butler,B107,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,B107,Govenor,,,Total Votes,510,64,431,15
+Butler,B107,Govenor,,,Under Votes,2,0,2,0
+Butler,B107,Govenor,,,Over Votes,0,0,0,0
+Butler,B107,Secretary of State,,REP,Michael ADAMS,393,48,335,10
+Butler,B107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",109,15,89,5
+Butler,B107,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,B107,Secretary of State,,,Total Votes,502,63,424,15
+Butler,B107,Secretary of State,,,Under Votes,10,1,9,0
+Butler,B107,Secretary of State,,,Over Votes,0,0,0,0
+Butler,B107,Attorney General,,REP,Russell COLEMAN,378,49,321,8
+Butler,B107,Attorney General,,DEM,Pamela STEVENSON,125,14,104,7
+Butler,B107,Attorney General,,,Total Votes,503,63,425,15
+Butler,B107,Attorney General,,,Under Votes,8,1,7,0
+Butler,B107,Attorney General,,,Over Votes,1,0,1,0
+Butler,B107,Auditor of Public Accounts,,REP,Allison BALL,395,53,335,7
+Butler,B107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,11,91,7
+Butler,B107,Auditor of Public Accounts,,,Total Votes,504,64,426,14
+Butler,B107,Auditor of Public Accounts,,,Under Votes,8,0,7,1
+Butler,B107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,B107,State Treasurer,,REP,Mark H. METCALF,385,48,329,8
+Butler,B107,State Treasurer,,DEM,Michael BOWMAN,115,15,94,6
+Butler,B107,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,B107,State Treasurer,,,Total Votes,500,63,423,14
+Butler,B107,State Treasurer,,,Under Votes,12,1,10,1
+Butler,B107,State Treasurer,,,Over Votes,0,0,0,0
+Butler,B107,Commissioner of Agriculture,,REP,Jonathan SHELL,385,48,330,7
+Butler,B107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,114,15,93,6
+Butler,B107,Commissioner of Agriculture,,,Total Votes,499,63,423,13
+Butler,B107,Commissioner of Agriculture,,,Under Votes,13,1,10,2
+Butler,B107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,C103,STRAIGHT PARTY,,,Republican,6,0,6,0
+Butler,C103,STRAIGHT PARTY,,,Democratic,2,1,1,0
+Butler,C103,Govenor,,REP,Daniel CAMERON,7,0,7,0
+Butler,C103,Govenor,,DEM,Andy BESHEAR,4,2,2,0
+Butler,C103,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,C103,Govenor,,,Total Votes,11,2,9,0
+Butler,C103,Govenor,,,Under Votes,0,0,0,0
+Butler,C103,Govenor,,,Over Votes,0,0,0,0
+Butler,C103,Secretary of State,,REP,Michael ADAMS,7,0,7,0
+Butler,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",4,2,2,0
+Butler,C103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,C103,Secretary of State,,,Total Votes,11,2,9,0
+Butler,C103,Secretary of State,,,Under Votes,0,0,0,0
+Butler,C103,Secretary of State,,,Over Votes,0,0,0,0
+Butler,C103,Attorney General,,REP,Russell COLEMAN,7,0,7,0
+Butler,C103,Attorney General,,DEM,Pamela STEVENSON,4,2,2,0
+Butler,C103,Attorney General,,,Total Votes,11,2,9,0
+Butler,C103,Attorney General,,,Under Votes,0,0,0,0
+Butler,C103,Attorney General,,,Over Votes,0,0,0,0
+Butler,C103,Auditor of Public Accounts,,REP,Allison BALL,7,0,7,0
+Butler,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",4,2,2,0
+Butler,C103,Auditor of Public Accounts,,,Total Votes,11,2,9,0
+Butler,C103,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Butler,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,C103,State Treasurer,,REP,Mark H. METCALF,7,0,7,0
+Butler,C103,State Treasurer,,DEM,Michael BOWMAN,4,2,2,0
+Butler,C103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,C103,State Treasurer,,,Total Votes,11,2,9,0
+Butler,C103,State Treasurer,,,Under Votes,0,0,0,0
+Butler,C103,State Treasurer,,,Over Votes,0,0,0,0
+Butler,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,7,0,7,0
+Butler,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,2,2,0
+Butler,C103,Commissioner of Agriculture,,,Total Votes,11,2,9,0
+Butler,C103,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Butler,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,C106,STRAIGHT PARTY,,,Republican,274,18,251,5
+Butler,C106,STRAIGHT PARTY,,,Democratic,56,6,43,7
+Butler,C106,Govenor,,REP,Daniel CAMERON,342,22,315,5
+Butler,C106,Govenor,,DEM,Andy BESHEAR,150,13,128,9
+Butler,C106,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,C106,Govenor,,,Total Votes,492,35,443,14
+Butler,C106,Govenor,,,Under Votes,1,1,0,0
+Butler,C106,Govenor,,,Over Votes,0,0,0,0
+Butler,C106,Secretary of State,,REP,Michael ADAMS,387,28,353,6
+Butler,C106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",99,8,83,8
+Butler,C106,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,C106,Secretary of State,,,Total Votes,486,36,436,14
+Butler,C106,Secretary of State,,,Under Votes,7,0,7,0
+Butler,C106,Secretary of State,,,Over Votes,0,0,0,0
+Butler,C106,Attorney General,,REP,Russell COLEMAN,390,27,357,6
+Butler,C106,Attorney General,,DEM,Pamela STEVENSON,99,9,82,8
+Butler,C106,Attorney General,,,Total Votes,489,36,439,14
+Butler,C106,Attorney General,,,Under Votes,4,0,4,0
+Butler,C106,Attorney General,,,Over Votes,0,0,0,0
+Butler,C106,Auditor of Public Accounts,,REP,Allison BALL,392,27,359,6
+Butler,C106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",96,9,79,8
+Butler,C106,Auditor of Public Accounts,,,Total Votes,488,36,438,14
+Butler,C106,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Butler,C106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,C106,State Treasurer,,REP,Mark H. METCALF,384,25,353,6
+Butler,C106,State Treasurer,,DEM,Michael BOWMAN,103,11,84,8
+Butler,C106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,C106,State Treasurer,,,Total Votes,487,36,437,14
+Butler,C106,State Treasurer,,,Under Votes,6,0,6,0
+Butler,C106,State Treasurer,,,Over Votes,0,0,0,0
+Butler,C106,Commissioner of Agriculture,,REP,Jonathan SHELL,395,29,360,6
+Butler,C106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,94,7,79,8
+Butler,C106,Commissioner of Agriculture,,,Total Votes,489,36,439,14
+Butler,C106,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Butler,C106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,C107,STRAIGHT PARTY,,,Republican,178,16,162,0
+Butler,C107,STRAIGHT PARTY,,,Democratic,36,5,31,0
+Butler,C107,Govenor,,REP,Daniel CAMERON,228,23,204,1
+Butler,C107,Govenor,,DEM,Andy BESHEAR,82,12,70,0
+Butler,C107,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,C107,Govenor,,,Total Votes,310,35,274,1
+Butler,C107,Govenor,,,Under Votes,1,0,1,0
+Butler,C107,Govenor,,,Over Votes,1,0,1,0
+Butler,C107,Secretary of State,,REP,Michael ADAMS,251,24,226,1
+Butler,C107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",55,9,46,0
+Butler,C107,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,C107,Secretary of State,,,Total Votes,306,33,272,1
+Butler,C107,Secretary of State,,,Under Votes,6,2,4,0
+Butler,C107,Secretary of State,,,Over Votes,0,0,0,0
+Butler,C107,Attorney General,,REP,Russell COLEMAN,247,22,225,0
+Butler,C107,Attorney General,,DEM,Pamela STEVENSON,60,11,48,1
+Butler,C107,Attorney General,,,Total Votes,307,33,273,1
+Butler,C107,Attorney General,,,Under Votes,5,2,3,0
+Butler,C107,Attorney General,,,Over Votes,0,0,0,0
+Butler,C107,Auditor of Public Accounts,,REP,Allison BALL,250,22,228,0
+Butler,C107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",57,11,45,1
+Butler,C107,Auditor of Public Accounts,,,Total Votes,307,33,273,1
+Butler,C107,Auditor of Public Accounts,,,Under Votes,5,2,3,0
+Butler,C107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,C107,State Treasurer,,REP,Mark H. METCALF,245,23,222,0
+Butler,C107,State Treasurer,,DEM,Michael BOWMAN,59,10,48,1
+Butler,C107,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,C107,State Treasurer,,,Total Votes,304,33,270,1
+Butler,C107,State Treasurer,,,Under Votes,8,2,6,0
+Butler,C107,State Treasurer,,,Over Votes,0,0,0,0
+Butler,C107,Commissioner of Agriculture,,REP,Jonathan SHELL,258,24,233,1
+Butler,C107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,50,10,40,0
+Butler,C107,Commissioner of Agriculture,,,Total Votes,308,34,273,1
+Butler,C107,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Butler,C107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,D103,STRAIGHT PARTY,,,Republican,103,15,87,1
+Butler,D103,STRAIGHT PARTY,,,Democratic,42,8,34,0
+Butler,D103,Govenor,,REP,Daniel CAMERON,140,24,115,1
+Butler,D103,Govenor,,DEM,Andy BESHEAR,85,15,69,1
+Butler,D103,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,D103,Govenor,,,Total Votes,225,39,184,2
+Butler,D103,Govenor,,,Under Votes,2,1,1,0
+Butler,D103,Govenor,,,Over Votes,0,0,0,0
+Butler,D103,Secretary of State,,REP,Michael ADAMS,166,29,136,1
+Butler,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,9,44,0
+Butler,D103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,D103,Secretary of State,,,Total Votes,219,38,180,1
+Butler,D103,Secretary of State,,,Under Votes,8,2,5,1
+Butler,D103,Secretary of State,,,Over Votes,0,0,0,0
+Butler,D103,Attorney General,,REP,Russell COLEMAN,158,27,130,1
+Butler,D103,Attorney General,,DEM,Pamela STEVENSON,63,12,51,0
+Butler,D103,Attorney General,,,Total Votes,221,39,181,1
+Butler,D103,Attorney General,,,Under Votes,6,1,4,1
+Butler,D103,Attorney General,,,Over Votes,0,0,0,0
+Butler,D103,Auditor of Public Accounts,,REP,Allison BALL,165,29,134,2
+Butler,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,10,48,0
+Butler,D103,Auditor of Public Accounts,,,Total Votes,223,39,182,2
+Butler,D103,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Butler,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,D103,State Treasurer,,REP,Mark H. METCALF,161,29,131,1
+Butler,D103,State Treasurer,,DEM,Michael BOWMAN,59,10,49,0
+Butler,D103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,D103,State Treasurer,,,Total Votes,220,39,180,1
+Butler,D103,State Treasurer,,,Under Votes,7,1,5,1
+Butler,D103,State Treasurer,,,Over Votes,0,0,0,0
+Butler,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,167,28,137,2
+Butler,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,56,11,45,0
+Butler,D103,Commissioner of Agriculture,,,Total Votes,223,39,182,2
+Butler,D103,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Butler,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,D105,STRAIGHT PARTY,,,Republican,130,12,117,1
+Butler,D105,STRAIGHT PARTY,,,Democratic,21,3,18,0
+Butler,D105,Govenor,,REP,Daniel CAMERON,165,18,146,1
+Butler,D105,Govenor,,DEM,Andy BESHEAR,65,7,58,0
+Butler,D105,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,D105,Govenor,,,Total Votes,230,25,204,1
+Butler,D105,Govenor,,,Under Votes,4,0,4,0
+Butler,D105,Govenor,,,Over Votes,0,0,0,0
+Butler,D105,Secretary of State,,REP,Michael ADAMS,194,19,174,1
+Butler,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",32,5,27,0
+Butler,D105,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,D105,Secretary of State,,,Total Votes,226,24,201,1
+Butler,D105,Secretary of State,,,Under Votes,8,1,7,0
+Butler,D105,Secretary of State,,,Over Votes,0,0,0,0
+Butler,D105,Attorney General,,REP,Russell COLEMAN,194,18,175,1
+Butler,D105,Attorney General,,DEM,Pamela STEVENSON,34,6,28,0
+Butler,D105,Attorney General,,,Total Votes,228,24,203,1
+Butler,D105,Attorney General,,,Under Votes,6,1,5,0
+Butler,D105,Attorney General,,,Over Votes,0,0,0,0
+Butler,D105,Auditor of Public Accounts,,REP,Allison BALL,195,19,175,1
+Butler,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",31,5,26,0
+Butler,D105,Auditor of Public Accounts,,,Total Votes,226,24,201,1
+Butler,D105,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Butler,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,D105,State Treasurer,,REP,Mark H. METCALF,196,20,175,1
+Butler,D105,State Treasurer,,DEM,Michael BOWMAN,28,4,24,0
+Butler,D105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,D105,State Treasurer,,,Total Votes,224,24,199,1
+Butler,D105,State Treasurer,,,Under Votes,10,1,9,0
+Butler,D105,State Treasurer,,,Over Votes,0,0,0,0
+Butler,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,198,22,175,1
+Butler,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,3,24,0
+Butler,D105,Commissioner of Agriculture,,,Total Votes,225,25,199,1
+Butler,D105,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Butler,D105,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Butler,D106,STRAIGHT PARTY,,,Republican,136,6,130,0
+Butler,D106,STRAIGHT PARTY,,,Democratic,26,3,23,0
+Butler,D106,Govenor,,REP,Daniel CAMERON,168,8,160,0
+Butler,D106,Govenor,,DEM,Andy BESHEAR,65,7,57,1
+Butler,D106,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,D106,Govenor,,,Total Votes,233,15,217,1
+Butler,D106,Govenor,,,Under Votes,2,0,2,0
+Butler,D106,Govenor,,,Over Votes,0,0,0,0
+Butler,D106,Secretary of State,,REP,Michael ADAMS,194,9,185,0
+Butler,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,6,32,0
+Butler,D106,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,D106,Secretary of State,,,Total Votes,232,15,217,0
+Butler,D106,Secretary of State,,,Under Votes,3,0,2,1
+Butler,D106,Secretary of State,,,Over Votes,0,0,0,0
+Butler,D106,Attorney General,,REP,Russell COLEMAN,191,9,182,0
+Butler,D106,Attorney General,,DEM,Pamela STEVENSON,42,6,36,0
+Butler,D106,Attorney General,,,Total Votes,233,15,218,0
+Butler,D106,Attorney General,,,Under Votes,2,0,1,1
+Butler,D106,Attorney General,,,Over Votes,0,0,0,0
+Butler,D106,Auditor of Public Accounts,,REP,Allison BALL,192,8,184,0
+Butler,D106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,7,33,0
+Butler,D106,Auditor of Public Accounts,,,Total Votes,232,15,217,0
+Butler,D106,Auditor of Public Accounts,,,Under Votes,3,0,2,1
+Butler,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,D106,State Treasurer,,REP,Mark H. METCALF,186,9,177,0
+Butler,D106,State Treasurer,,DEM,Michael BOWMAN,45,6,39,0
+Butler,D106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,D106,State Treasurer,,,Total Votes,231,15,216,0
+Butler,D106,State Treasurer,,,Under Votes,4,0,3,1
+Butler,D106,State Treasurer,,,Over Votes,0,0,0,0
+Butler,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,194,10,184,0
+Butler,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,5,33,0
+Butler,D106,Commissioner of Agriculture,,,Total Votes,232,15,217,0
+Butler,D106,Commissioner of Agriculture,,,Under Votes,3,0,2,1
+Butler,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,E105,STRAIGHT PARTY,,,Republican,188,26,158,4
+Butler,E105,STRAIGHT PARTY,,,Democratic,42,11,29,2
+Butler,E105,Govenor,,REP,Daniel CAMERON,257,33,219,5
+Butler,E105,Govenor,,DEM,Andy BESHEAR,127,21,99,7
+Butler,E105,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,E105,Govenor,,,Total Votes,384,54,318,12
+Butler,E105,Govenor,,,Under Votes,3,0,3,0
+Butler,E105,Govenor,,,Over Votes,0,0,0,0
+Butler,E105,Secretary of State,,REP,Michael ADAMS,311,39,262,10
+Butler,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,14,52,2
+Butler,E105,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,E105,Secretary of State,,,Total Votes,379,53,314,12
+Butler,E105,Secretary of State,,,Under Votes,8,1,7,0
+Butler,E105,Secretary of State,,,Over Votes,0,0,0,0
+Butler,E105,Attorney General,,REP,Russell COLEMAN,307,38,259,10
+Butler,E105,Attorney General,,DEM,Pamela STEVENSON,73,15,56,2
+Butler,E105,Attorney General,,,Total Votes,380,53,315,12
+Butler,E105,Attorney General,,,Under Votes,7,1,6,0
+Butler,E105,Attorney General,,,Over Votes,0,0,0,0
+Butler,E105,Auditor of Public Accounts,,REP,Allison BALL,309,39,262,8
+Butler,E105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",67,14,51,2
+Butler,E105,Auditor of Public Accounts,,,Total Votes,376,53,313,10
+Butler,E105,Auditor of Public Accounts,,,Under Votes,11,1,8,2
+Butler,E105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,E105,State Treasurer,,REP,Mark H. METCALF,310,39,262,9
+Butler,E105,State Treasurer,,DEM,Michael BOWMAN,67,14,51,2
+Butler,E105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,E105,State Treasurer,,,Total Votes,377,53,313,11
+Butler,E105,State Treasurer,,,Under Votes,10,1,8,1
+Butler,E105,State Treasurer,,,Over Votes,0,0,0,0
+Butler,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,318,39,270,9
+Butler,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,62,14,46,2
+Butler,E105,Commissioner of Agriculture,,,Total Votes,380,53,316,11
+Butler,E105,Commissioner of Agriculture,,,Under Votes,7,1,5,1
+Butler,E105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Butler,E106,STRAIGHT PARTY,,,Republican,215,11,201,3
+Butler,E106,STRAIGHT PARTY,,,Democratic,25,2,21,2
+Butler,E106,Govenor,,REP,Daniel CAMERON,263,13,247,3
+Butler,E106,Govenor,,DEM,Andy BESHEAR,85,4,79,2
+Butler,E106,Govenor,,,Brian FISHBACK (W),0,0,0,0
+Butler,E106,Govenor,,,Total Votes,348,17,326,5
+Butler,E106,Govenor,,,Under Votes,2,1,1,0
+Butler,E106,Govenor,,,Over Votes,0,0,0,0
+Butler,E106,Secretary of State,,REP,Michael ADAMS,297,14,280,3
+Butler,E106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,3,39,2
+Butler,E106,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Butler,E106,Secretary of State,,,Total Votes,341,17,319,5
+Butler,E106,Secretary of State,,,Under Votes,9,1,8,0
+Butler,E106,Secretary of State,,,Over Votes,0,0,0,0
+Butler,E106,Attorney General,,REP,Russell COLEMAN,292,15,274,3
+Butler,E106,Attorney General,,DEM,Pamela STEVENSON,50,2,46,2
+Butler,E106,Attorney General,,,Total Votes,342,17,320,5
+Butler,E106,Attorney General,,,Under Votes,8,1,7,0
+Butler,E106,Attorney General,,,Over Votes,0,0,0,0
+Butler,E106,Auditor of Public Accounts,,REP,Allison BALL,301,14,284,3
+Butler,E106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,3,35,2
+Butler,E106,Auditor of Public Accounts,,,Total Votes,341,17,319,5
+Butler,E106,Auditor of Public Accounts,,,Under Votes,9,1,8,0
+Butler,E106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Butler,E106,State Treasurer,,REP,Mark H. METCALF,295,14,278,3
+Butler,E106,State Treasurer,,DEM,Michael BOWMAN,47,3,42,2
+Butler,E106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Butler,E106,State Treasurer,,,Total Votes,342,17,320,5
+Butler,E106,State Treasurer,,,Under Votes,8,1,7,0
+Butler,E106,State Treasurer,,,Over Votes,0,0,0,0
+Butler,E106,Commissioner of Agriculture,,REP,Jonathan SHELL,295,15,277,3
+Butler,E106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,48,2,44,2
+Butler,E106,Commissioner of Agriculture,,,Total Votes,343,17,321,5
+Butler,E106,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Butler,E106,Commissioner of Agriculture,,,Over Votes,0,0,0,0

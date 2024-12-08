@@ -1,0 +1,481 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Casey,A101,STRAIGHT PARTY,,,Republican,221,21,194,6
+Casey,A101,STRAIGHT PARTY,,,Democratic,20,6,13,1
+Casey,A101,Govenor,,REP,Daniel CAMERON,289,33,249,7
+Casey,A101,Govenor,,DEM,Andy BESHEAR,83,17,60,6
+Casey,A101,Govenor,,,Total Votes,372,50,309,13
+Casey,A101,Govenor,,,Under Votes,2,0,2,0
+Casey,A101,Govenor,,,Over Votes,0,0,0,0
+Casey,A101,Secretary of State,,REP,Michael ADAMS,327,41,278,8
+Casey,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,7,29,4
+Casey,A101,Secretary of State,,,Total Votes,367,48,307,12
+Casey,A101,Secretary of State,,,Under Votes,7,2,4,1
+Casey,A101,Secretary of State,,,Over Votes,0,0,0,0
+Casey,A101,Attorney General,,REP,Russell COLEMAN,325,34,282,9
+Casey,A101,Attorney General,,DEM,Pamela STEVENSON,42,15,24,3
+Casey,A101,Attorney General,,,Total Votes,367,49,306,12
+Casey,A101,Attorney General,,,Under Votes,7,1,5,1
+Casey,A101,Attorney General,,,Over Votes,0,0,0,0
+Casey,A101,Auditor of Public Accounts,,REP,Allison BALL,328,41,278,9
+Casey,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",37,8,26,3
+Casey,A101,Auditor of Public Accounts,,,Total Votes,365,49,304,12
+Casey,A101,Auditor of Public Accounts,,,Under Votes,8,1,6,1
+Casey,A101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Casey,A101,State Treasurer,,REP,Mark H. METCALF,318,37,272,9
+Casey,A101,State Treasurer,,DEM,Michael BOWMAN,46,11,32,3
+Casey,A101,State Treasurer,,,Total Votes,364,48,304,12
+Casey,A101,State Treasurer,,,Under Votes,9,2,6,1
+Casey,A101,State Treasurer,,,Over Votes,1,0,1,0
+Casey,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,324,39,276,9
+Casey,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,40,9,28,3
+Casey,A101,Commissioner of Agriculture,,,Total Votes,364,48,304,12
+Casey,A101,Commissioner of Agriculture,,,Under Votes,10,2,7,1
+Casey,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,A102,STRAIGHT PARTY,,,Republican,103,28,71,4
+Casey,A102,STRAIGHT PARTY,,,Democratic,13,4,9,0
+Casey,A102,Govenor,,REP,Daniel CAMERON,138,41,92,5
+Casey,A102,Govenor,,DEM,Andy BESHEAR,59,22,33,4
+Casey,A102,Govenor,,,Total Votes,197,63,125,9
+Casey,A102,Govenor,,,Under Votes,1,0,1,0
+Casey,A102,Govenor,,,Over Votes,0,0,0,0
+Casey,A102,Secretary of State,,REP,Michael ADAMS,176,56,113,7
+Casey,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",17,5,12,0
+Casey,A102,Secretary of State,,,Total Votes,193,61,125,7
+Casey,A102,Secretary of State,,,Under Votes,5,2,1,2
+Casey,A102,Secretary of State,,,Over Votes,0,0,0,0
+Casey,A102,Attorney General,,REP,Russell COLEMAN,177,54,114,9
+Casey,A102,Attorney General,,DEM,Pamela STEVENSON,17,6,11,0
+Casey,A102,Attorney General,,,Total Votes,194,60,125,9
+Casey,A102,Attorney General,,,Under Votes,4,3,1,0
+Casey,A102,Attorney General,,,Over Votes,0,0,0,0
+Casey,A102,Auditor of Public Accounts,,REP,Allison BALL,174,54,111,9
+Casey,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",21,7,14,0
+Casey,A102,Auditor of Public Accounts,,,Total Votes,195,61,125,9
+Casey,A102,Auditor of Public Accounts,,,Under Votes,3,2,1,0
+Casey,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,A102,State Treasurer,,REP,Mark H. METCALF,171,50,112,9
+Casey,A102,State Treasurer,,DEM,Michael BOWMAN,23,10,13,0
+Casey,A102,State Treasurer,,,Total Votes,194,60,125,9
+Casey,A102,State Treasurer,,,Under Votes,4,3,1,0
+Casey,A102,State Treasurer,,,Over Votes,0,0,0,0
+Casey,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,176,55,112,9
+Casey,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,6,13,0
+Casey,A102,Commissioner of Agriculture,,,Total Votes,195,61,125,9
+Casey,A102,Commissioner of Agriculture,,,Under Votes,3,2,1,0
+Casey,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,A103,STRAIGHT PARTY,,,Republican,201,47,153,1
+Casey,A103,STRAIGHT PARTY,,,Democratic,30,14,12,4
+Casey,A103,Govenor,,REP,Daniel CAMERON,267,57,209,1
+Casey,A103,Govenor,,DEM,Andy BESHEAR,95,40,49,6
+Casey,A103,Govenor,,,Total Votes,362,97,258,7
+Casey,A103,Govenor,,,Under Votes,2,1,1,0
+Casey,A103,Govenor,,,Over Votes,0,0,0,0
+Casey,A103,Secretary of State,,REP,Michael ADAMS,310,76,232,2
+Casey,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",46,20,21,5
+Casey,A103,Secretary of State,,,Total Votes,356,96,253,7
+Casey,A103,Secretary of State,,,Under Votes,8,2,6,0
+Casey,A103,Secretary of State,,,Over Votes,0,0,0,0
+Casey,A103,Attorney General,,REP,Russell COLEMAN,300,68,229,3
+Casey,A103,Attorney General,,DEM,Pamela STEVENSON,54,28,22,4
+Casey,A103,Attorney General,,,Total Votes,354,96,251,7
+Casey,A103,Attorney General,,,Under Votes,10,2,8,0
+Casey,A103,Attorney General,,,Over Votes,0,0,0,0
+Casey,A103,Auditor of Public Accounts,,REP,Allison BALL,307,73,232,2
+Casey,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",47,22,20,5
+Casey,A103,Auditor of Public Accounts,,,Total Votes,354,95,252,7
+Casey,A103,Auditor of Public Accounts,,,Under Votes,10,3,7,0
+Casey,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,A103,State Treasurer,,REP,Mark H. METCALF,303,71,229,3
+Casey,A103,State Treasurer,,DEM,Michael BOWMAN,50,24,22,4
+Casey,A103,State Treasurer,,,Total Votes,353,95,251,7
+Casey,A103,State Treasurer,,,Under Votes,11,3,8,0
+Casey,A103,State Treasurer,,,Over Votes,0,0,0,0
+Casey,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,308,74,232,2
+Casey,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,48,22,21,5
+Casey,A103,Commissioner of Agriculture,,,Total Votes,356,96,253,7
+Casey,A103,Commissioner of Agriculture,,,Under Votes,8,2,6,0
+Casey,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,A104,STRAIGHT PARTY,,,Republican,88,21,64,3
+Casey,A104,STRAIGHT PARTY,,,Democratic,8,3,5,0
+Casey,A104,Govenor,,REP,Daniel CAMERON,111,23,85,3
+Casey,A104,Govenor,,DEM,Andy BESHEAR,41,10,30,1
+Casey,A104,Govenor,,,Total Votes,152,33,115,4
+Casey,A104,Govenor,,,Under Votes,1,1,0,0
+Casey,A104,Govenor,,,Over Votes,0,0,0,0
+Casey,A104,Secretary of State,,REP,Michael ADAMS,133,28,101,4
+Casey,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",14,5,9,0
+Casey,A104,Secretary of State,,,Total Votes,147,33,110,4
+Casey,A104,Secretary of State,,,Under Votes,6,1,5,0
+Casey,A104,Secretary of State,,,Over Votes,0,0,0,0
+Casey,A104,Attorney General,,REP,Russell COLEMAN,135,28,103,4
+Casey,A104,Attorney General,,DEM,Pamela STEVENSON,13,4,9,0
+Casey,A104,Attorney General,,,Total Votes,148,32,112,4
+Casey,A104,Attorney General,,,Under Votes,5,2,3,0
+Casey,A104,Attorney General,,,Over Votes,0,0,0,0
+Casey,A104,Auditor of Public Accounts,,REP,Allison BALL,136,29,103,4
+Casey,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",13,4,9,0
+Casey,A104,Auditor of Public Accounts,,,Total Votes,149,33,112,4
+Casey,A104,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Casey,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,A104,State Treasurer,,REP,Mark H. METCALF,133,28,101,4
+Casey,A104,State Treasurer,,DEM,Michael BOWMAN,14,5,9,0
+Casey,A104,State Treasurer,,,Total Votes,147,33,110,4
+Casey,A104,State Treasurer,,,Under Votes,6,1,5,0
+Casey,A104,State Treasurer,,,Over Votes,0,0,0,0
+Casey,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,136,29,103,4
+Casey,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,4,7,0
+Casey,A104,Commissioner of Agriculture,,,Total Votes,147,33,110,4
+Casey,A104,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Casey,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,B101,STRAIGHT PARTY,,,Republican,168,36,130,2
+Casey,B101,STRAIGHT PARTY,,,Democratic,29,9,20,0
+Casey,B101,Govenor,,REP,Daniel CAMERON,213,44,164,5
+Casey,B101,Govenor,,DEM,Andy BESHEAR,74,29,45,0
+Casey,B101,Govenor,,,Total Votes,287,73,209,5
+Casey,B101,Govenor,,,Under Votes,0,0,0,0
+Casey,B101,Govenor,,,Over Votes,0,0,0,0
+Casey,B101,Secretary of State,,REP,Michael ADAMS,238,55,178,5
+Casey,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,15,25,0
+Casey,B101,Secretary of State,,,Total Votes,278,70,203,5
+Casey,B101,Secretary of State,,,Under Votes,9,3,6,0
+Casey,B101,Secretary of State,,,Over Votes,0,0,0,0
+Casey,B101,Attorney General,,REP,Russell COLEMAN,233,53,175,5
+Casey,B101,Attorney General,,DEM,Pamela STEVENSON,42,15,27,0
+Casey,B101,Attorney General,,,Total Votes,275,68,202,5
+Casey,B101,Attorney General,,,Under Votes,12,5,7,0
+Casey,B101,Attorney General,,,Over Votes,0,0,0,0
+Casey,B101,Auditor of Public Accounts,,REP,Allison BALL,238,54,179,5
+Casey,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",42,15,27,0
+Casey,B101,Auditor of Public Accounts,,,Total Votes,280,69,206,5
+Casey,B101,Auditor of Public Accounts,,,Under Votes,7,4,3,0
+Casey,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,B101,State Treasurer,,REP,Mark H. METCALF,227,51,171,5
+Casey,B101,State Treasurer,,DEM,Michael BOWMAN,49,19,30,0
+Casey,B101,State Treasurer,,,Total Votes,276,70,201,5
+Casey,B101,State Treasurer,,,Under Votes,11,3,8,0
+Casey,B101,State Treasurer,,,Over Votes,0,0,0,0
+Casey,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,236,53,178,5
+Casey,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,18,24,0
+Casey,B101,Commissioner of Agriculture,,,Total Votes,278,71,202,5
+Casey,B101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
+Casey,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,B102,STRAIGHT PARTY,,,Republican,336,90,240,6
+Casey,B102,STRAIGHT PARTY,,,Democratic,41,17,24,0
+Casey,B102,Govenor,,REP,Daniel CAMERON,479,129,341,9
+Casey,B102,Govenor,,DEM,Andy BESHEAR,120,44,73,3
+Casey,B102,Govenor,,,Total Votes,599,173,414,12
+Casey,B102,Govenor,,,Under Votes,1,1,0,0
+Casey,B102,Govenor,,,Over Votes,0,0,0,0
+Casey,B102,Secretary of State,,REP,Michael ADAMS,504,138,356,10
+Casey,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,31,45,2
+Casey,B102,Secretary of State,,,Total Votes,582,169,401,12
+Casey,B102,Secretary of State,,,Under Votes,17,5,12,0
+Casey,B102,Secretary of State,,,Over Votes,1,0,1,0
+Casey,B102,Attorney General,,REP,Russell COLEMAN,511,143,358,10
+Casey,B102,Attorney General,,DEM,Pamela STEVENSON,79,28,49,2
+Casey,B102,Attorney General,,,Total Votes,590,171,407,12
+Casey,B102,Attorney General,,,Under Votes,10,3,7,0
+Casey,B102,Attorney General,,,Over Votes,0,0,0,0
+Casey,B102,Auditor of Public Accounts,,REP,Allison BALL,516,143,364,9
+Casey,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,28,41,3
+Casey,B102,Auditor of Public Accounts,,,Total Votes,588,171,405,12
+Casey,B102,Auditor of Public Accounts,,,Under Votes,12,3,9,0
+Casey,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,B102,State Treasurer,,REP,Mark H. METCALF,506,139,357,10
+Casey,B102,State Treasurer,,DEM,Michael BOWMAN,78,29,47,2
+Casey,B102,State Treasurer,,,Total Votes,584,168,404,12
+Casey,B102,State Treasurer,,,Under Votes,16,6,10,0
+Casey,B102,State Treasurer,,,Over Votes,0,0,0,0
+Casey,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,514,141,364,9
+Casey,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,73,28,42,3
+Casey,B102,Commissioner of Agriculture,,,Total Votes,587,169,406,12
+Casey,B102,Commissioner of Agriculture,,,Under Votes,13,5,8,0
+Casey,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,B103,STRAIGHT PARTY,,,Republican,88,17,69,2
+Casey,B103,STRAIGHT PARTY,,,Democratic,40,14,16,10
+Casey,B103,Govenor,,REP,Daniel CAMERON,123,27,93,3
+Casey,B103,Govenor,,DEM,Andy BESHEAR,95,28,52,15
+Casey,B103,Govenor,,,Total Votes,218,55,145,18
+Casey,B103,Govenor,,,Under Votes,0,0,0,0
+Casey,B103,Govenor,,,Over Votes,0,0,0,0
+Casey,B103,Secretary of State,,REP,Michael ADAMS,146,35,107,4
+Casey,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,20,36,13
+Casey,B103,Secretary of State,,,Total Votes,215,55,143,17
+Casey,B103,Secretary of State,,,Under Votes,2,0,1,1
+Casey,B103,Secretary of State,,,Over Votes,1,0,1,0
+Casey,B103,Attorney General,,REP,Russell COLEMAN,143,32,106,5
+Casey,B103,Attorney General,,DEM,Pamela STEVENSON,73,23,38,12
+Casey,B103,Attorney General,,,Total Votes,216,55,144,17
+Casey,B103,Attorney General,,,Under Votes,2,0,1,1
+Casey,B103,Attorney General,,,Over Votes,0,0,0,0
+Casey,B103,Auditor of Public Accounts,,REP,Allison BALL,151,33,112,6
+Casey,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",65,22,32,11
+Casey,B103,Auditor of Public Accounts,,,Total Votes,216,55,144,17
+Casey,B103,Auditor of Public Accounts,,,Under Votes,2,0,1,1
+Casey,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,B103,State Treasurer,,REP,Mark H. METCALF,142,29,109,4
+Casey,B103,State Treasurer,,DEM,Michael BOWMAN,72,26,33,13
+Casey,B103,State Treasurer,,,Total Votes,214,55,142,17
+Casey,B103,State Treasurer,,,Under Votes,4,0,3,1
+Casey,B103,State Treasurer,,,Over Votes,0,0,0,0
+Casey,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,148,32,111,5
+Casey,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,66,22,32,12
+Casey,B103,Commissioner of Agriculture,,,Total Votes,214,54,143,17
+Casey,B103,Commissioner of Agriculture,,,Under Votes,4,1,2,1
+Casey,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,C101,STRAIGHT PARTY,,,Republican,136,26,109,1
+Casey,C101,STRAIGHT PARTY,,,Democratic,43,16,19,8
+Casey,C101,Govenor,,REP,Daniel CAMERON,201,34,165,2
+Casey,C101,Govenor,,DEM,Andy BESHEAR,110,40,60,10
+Casey,C101,Govenor,,,Total Votes,311,74,225,12
+Casey,C101,Govenor,,,Under Votes,1,0,1,0
+Casey,C101,Govenor,,,Over Votes,0,0,0,0
+Casey,C101,Secretary of State,,REP,Michael ADAMS,233,51,179,3
+Casey,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",72,23,40,9
+Casey,C101,Secretary of State,,,Total Votes,305,74,219,12
+Casey,C101,Secretary of State,,,Under Votes,7,0,7,0
+Casey,C101,Secretary of State,,,Over Votes,0,0,0,0
+Casey,C101,Attorney General,,REP,Russell COLEMAN,234,47,184,3
+Casey,C101,Attorney General,,DEM,Pamela STEVENSON,75,27,39,9
+Casey,C101,Attorney General,,,Total Votes,309,74,223,12
+Casey,C101,Attorney General,,,Under Votes,3,0,3,0
+Casey,C101,Attorney General,,,Over Votes,0,0,0,0
+Casey,C101,Auditor of Public Accounts,,REP,Allison BALL,237,49,185,3
+Casey,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,24,36,9
+Casey,C101,Auditor of Public Accounts,,,Total Votes,306,73,221,12
+Casey,C101,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Casey,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,C101,State Treasurer,,REP,Mark H. METCALF,231,44,184,3
+Casey,C101,State Treasurer,,DEM,Michael BOWMAN,78,30,39,9
+Casey,C101,State Treasurer,,,Total Votes,309,74,223,12
+Casey,C101,State Treasurer,,,Under Votes,3,0,3,0
+Casey,C101,State Treasurer,,,Over Votes,0,0,0,0
+Casey,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,236,50,183,3
+Casey,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,24,38,9
+Casey,C101,Commissioner of Agriculture,,,Total Votes,307,74,221,12
+Casey,C101,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Casey,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,C102,STRAIGHT PARTY,,,Republican,218,71,141,6
+Casey,C102,STRAIGHT PARTY,,,Democratic,11,1,8,2
+Casey,C102,Govenor,,REP,Daniel CAMERON,296,92,198,6
+Casey,C102,Govenor,,DEM,Andy BESHEAR,85,24,53,8
+Casey,C102,Govenor,,,Total Votes,381,116,251,14
+Casey,C102,Govenor,,,Under Votes,1,0,1,0
+Casey,C102,Govenor,,,Over Votes,0,0,0,0
+Casey,C102,Secretary of State,,REP,Michael ADAMS,334,104,219,11
+Casey,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,11,30,3
+Casey,C102,Secretary of State,,,Total Votes,378,115,249,14
+Casey,C102,Secretary of State,,,Under Votes,4,1,3,0
+Casey,C102,Secretary of State,,,Over Votes,0,0,0,0
+Casey,C102,Attorney General,,REP,Russell COLEMAN,330,102,221,7
+Casey,C102,Attorney General,,DEM,Pamela STEVENSON,47,13,27,7
+Casey,C102,Attorney General,,,Total Votes,377,115,248,14
+Casey,C102,Attorney General,,,Under Votes,5,1,4,0
+Casey,C102,Attorney General,,,Over Votes,0,0,0,0
+Casey,C102,Auditor of Public Accounts,,REP,Allison BALL,344,108,225,11
+Casey,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,7,23,3
+Casey,C102,Auditor of Public Accounts,,,Total Votes,377,115,248,14
+Casey,C102,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Casey,C102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Casey,C102,State Treasurer,,REP,Mark H. METCALF,333,100,224,9
+Casey,C102,State Treasurer,,DEM,Michael BOWMAN,45,15,25,5
+Casey,C102,State Treasurer,,,Total Votes,378,115,249,14
+Casey,C102,State Treasurer,,,Under Votes,4,1,3,0
+Casey,C102,State Treasurer,,,Over Votes,0,0,0,0
+Casey,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,340,105,223,12
+Casey,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,36,10,24,2
+Casey,C102,Commissioner of Agriculture,,,Total Votes,376,115,247,14
+Casey,C102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Casey,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,C103,STRAIGHT PARTY,,,Republican,136,20,115,1
+Casey,C103,STRAIGHT PARTY,,,Democratic,10,2,6,2
+Casey,C103,Govenor,,REP,Daniel CAMERON,183,32,149,2
+Casey,C103,Govenor,,DEM,Andy BESHEAR,44,8,32,4
+Casey,C103,Govenor,,,Total Votes,227,40,181,6
+Casey,C103,Govenor,,,Under Votes,4,1,3,0
+Casey,C103,Govenor,,,Over Votes,0,0,0,0
+Casey,C103,Secretary of State,,REP,Michael ADAMS,213,38,172,3
+Casey,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",17,2,12,3
+Casey,C103,Secretary of State,,,Total Votes,230,40,184,6
+Casey,C103,Secretary of State,,,Under Votes,1,1,0,0
+Casey,C103,Secretary of State,,,Over Votes,0,0,0,0
+Casey,C103,Attorney General,,REP,Russell COLEMAN,209,39,167,3
+Casey,C103,Attorney General,,DEM,Pamela STEVENSON,22,2,17,3
+Casey,C103,Attorney General,,,Total Votes,231,41,184,6
+Casey,C103,Attorney General,,,Under Votes,0,0,0,0
+Casey,C103,Attorney General,,,Over Votes,0,0,0,0
+Casey,C103,Auditor of Public Accounts,,REP,Allison BALL,214,38,174,2
+Casey,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",15,2,10,3
+Casey,C103,Auditor of Public Accounts,,,Total Votes,229,40,184,5
+Casey,C103,Auditor of Public Accounts,,,Under Votes,2,1,0,1
+Casey,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,C103,State Treasurer,,REP,Mark H. METCALF,208,38,167,3
+Casey,C103,State Treasurer,,DEM,Michael BOWMAN,19,2,14,3
+Casey,C103,State Treasurer,,,Total Votes,227,40,181,6
+Casey,C103,State Treasurer,,,Under Votes,4,1,3,0
+Casey,C103,State Treasurer,,,Over Votes,0,0,0,0
+Casey,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,213,39,171,3
+Casey,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,2,11,3
+Casey,C103,Commissioner of Agriculture,,,Total Votes,229,41,182,6
+Casey,C103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Casey,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,C104,STRAIGHT PARTY,,,Republican,91,20,69,2
+Casey,C104,STRAIGHT PARTY,,,Democratic,20,5,15,0
+Casey,C104,Govenor,,REP,Daniel CAMERON,110,25,83,2
+Casey,C104,Govenor,,DEM,Andy BESHEAR,61,21,40,0
+Casey,C104,Govenor,,,Total Votes,171,46,123,2
+Casey,C104,Govenor,,,Under Votes,0,0,0,0
+Casey,C104,Govenor,,,Over Votes,0,0,0,0
+Casey,C104,Secretary of State,,REP,Michael ADAMS,131,34,95,2
+Casey,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,10,24,0
+Casey,C104,Secretary of State,,,Total Votes,165,44,119,2
+Casey,C104,Secretary of State,,,Under Votes,6,2,4,0
+Casey,C104,Secretary of State,,,Over Votes,0,0,0,0
+Casey,C104,Attorney General,,REP,Russell COLEMAN,127,34,91,2
+Casey,C104,Attorney General,,DEM,Pamela STEVENSON,37,9,28,0
+Casey,C104,Attorney General,,,Total Votes,164,43,119,2
+Casey,C104,Attorney General,,,Under Votes,7,3,4,0
+Casey,C104,Attorney General,,,Over Votes,0,0,0,0
+Casey,C104,Auditor of Public Accounts,,REP,Allison BALL,133,35,96,2
+Casey,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,10,23,0
+Casey,C104,Auditor of Public Accounts,,,Total Votes,166,45,119,2
+Casey,C104,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Casey,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,C104,State Treasurer,,REP,Mark H. METCALF,121,30,89,2
+Casey,C104,State Treasurer,,DEM,Michael BOWMAN,40,11,29,0
+Casey,C104,State Treasurer,,,Total Votes,161,41,118,2
+Casey,C104,State Treasurer,,,Under Votes,10,5,5,0
+Casey,C104,State Treasurer,,,Over Votes,0,0,0,0
+Casey,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,127,34,91,2
+Casey,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,37,9,28,0
+Casey,C104,Commissioner of Agriculture,,,Total Votes,164,43,119,2
+Casey,C104,Commissioner of Agriculture,,,Under Votes,7,3,4,0
+Casey,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,D101,STRAIGHT PARTY,,,Republican,241,46,191,4
+Casey,D101,STRAIGHT PARTY,,,Democratic,34,7,22,5
+Casey,D101,Govenor,,REP,Daniel CAMERON,325,63,257,5
+Casey,D101,Govenor,,DEM,Andy BESHEAR,100,25,69,6
+Casey,D101,Govenor,,,Total Votes,425,88,326,11
+Casey,D101,Govenor,,,Under Votes,1,0,1,0
+Casey,D101,Govenor,,,Over Votes,0,0,0,0
+Casey,D101,Secretary of State,,REP,Michael ADAMS,358,74,279,5
+Casey,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,10,40,6
+Casey,D101,Secretary of State,,,Total Votes,414,84,319,11
+Casey,D101,Secretary of State,,,Under Votes,12,4,8,0
+Casey,D101,Secretary of State,,,Over Votes,0,0,0,0
+Casey,D101,Attorney General,,REP,Russell COLEMAN,355,71,279,5
+Casey,D101,Attorney General,,DEM,Pamela STEVENSON,59,14,39,6
+Casey,D101,Attorney General,,,Total Votes,414,85,318,11
+Casey,D101,Attorney General,,,Under Votes,12,3,9,0
+Casey,D101,Attorney General,,,Over Votes,0,0,0,0
+Casey,D101,Auditor of Public Accounts,,REP,Allison BALL,358,75,277,6
+Casey,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,9,40,5
+Casey,D101,Auditor of Public Accounts,,,Total Votes,412,84,317,11
+Casey,D101,Auditor of Public Accounts,,,Under Votes,14,4,10,0
+Casey,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,D101,State Treasurer,,REP,Mark H. METCALF,348,68,275,5
+Casey,D101,State Treasurer,,DEM,Michael BOWMAN,64,15,43,6
+Casey,D101,State Treasurer,,,Total Votes,412,83,318,11
+Casey,D101,State Treasurer,,,Under Votes,14,5,9,0
+Casey,D101,State Treasurer,,,Over Votes,0,0,0,0
+Casey,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,362,74,283,5
+Casey,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,53,11,36,6
+Casey,D101,Commissioner of Agriculture,,,Total Votes,415,85,319,11
+Casey,D101,Commissioner of Agriculture,,,Under Votes,11,3,8,0
+Casey,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,D102,STRAIGHT PARTY,,,Republican,97,18,75,4
+Casey,D102,STRAIGHT PARTY,,,Democratic,16,2,12,2
+Casey,D102,Govenor,,REP,Daniel CAMERON,130,28,98,4
+Casey,D102,Govenor,,DEM,Andy BESHEAR,51,12,35,4
+Casey,D102,Govenor,,,Total Votes,181,40,133,8
+Casey,D102,Govenor,,,Under Votes,0,0,0,0
+Casey,D102,Govenor,,,Over Votes,0,0,0,0
+Casey,D102,Secretary of State,,REP,Michael ADAMS,145,34,106,5
+Casey,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,5,21,3
+Casey,D102,Secretary of State,,,Total Votes,174,39,127,8
+Casey,D102,Secretary of State,,,Under Votes,6,0,6,0
+Casey,D102,Secretary of State,,,Over Votes,1,1,0,0
+Casey,D102,Attorney General,,REP,Russell COLEMAN,148,33,110,5
+Casey,D102,Attorney General,,DEM,Pamela STEVENSON,31,7,21,3
+Casey,D102,Attorney General,,,Total Votes,179,40,131,8
+Casey,D102,Attorney General,,,Under Votes,2,0,2,0
+Casey,D102,Attorney General,,,Over Votes,0,0,0,0
+Casey,D102,Auditor of Public Accounts,,REP,Allison BALL,149,34,110,5
+Casey,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",29,6,20,3
+Casey,D102,Auditor of Public Accounts,,,Total Votes,178,40,130,8
+Casey,D102,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Casey,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,D102,State Treasurer,,REP,Mark H. METCALF,148,31,112,5
+Casey,D102,State Treasurer,,DEM,Michael BOWMAN,29,8,18,3
+Casey,D102,State Treasurer,,,Total Votes,177,39,130,8
+Casey,D102,State Treasurer,,,Under Votes,4,1,3,0
+Casey,D102,State Treasurer,,,Over Votes,0,0,0,0
+Casey,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,150,32,112,6
+Casey,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,7,18,2
+Casey,D102,Commissioner of Agriculture,,,Total Votes,177,39,130,8
+Casey,D102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Casey,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,D103,STRAIGHT PARTY,,,Republican,201,48,151,2
+Casey,D103,STRAIGHT PARTY,,,Democratic,19,1,17,1
+Casey,D103,Govenor,,REP,Daniel CAMERON,267,64,200,3
+Casey,D103,Govenor,,DEM,Andy BESHEAR,78,18,57,3
+Casey,D103,Govenor,,,Total Votes,345,82,257,6
+Casey,D103,Govenor,,,Under Votes,1,0,1,0
+Casey,D103,Govenor,,,Over Votes,0,0,0,0
+Casey,D103,Secretary of State,,REP,Michael ADAMS,297,73,219,5
+Casey,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,7,32,1
+Casey,D103,Secretary of State,,,Total Votes,337,80,251,6
+Casey,D103,Secretary of State,,,Under Votes,9,2,7,0
+Casey,D103,Secretary of State,,,Over Votes,0,0,0,0
+Casey,D103,Attorney General,,REP,Russell COLEMAN,302,75,222,5
+Casey,D103,Attorney General,,DEM,Pamela STEVENSON,40,6,33,1
+Casey,D103,Attorney General,,,Total Votes,342,81,255,6
+Casey,D103,Attorney General,,,Under Votes,4,1,3,0
+Casey,D103,Attorney General,,,Over Votes,0,0,0,0
+Casey,D103,Auditor of Public Accounts,,REP,Allison BALL,297,72,220,5
+Casey,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,7,32,1
+Casey,D103,Auditor of Public Accounts,,,Total Votes,337,79,252,6
+Casey,D103,Auditor of Public Accounts,,,Under Votes,9,3,6,0
+Casey,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,D103,State Treasurer,,REP,Mark H. METCALF,290,72,213,5
+Casey,D103,State Treasurer,,DEM,Michael BOWMAN,45,7,37,1
+Casey,D103,State Treasurer,,,Total Votes,335,79,250,6
+Casey,D103,State Treasurer,,,Under Votes,11,3,8,0
+Casey,D103,State Treasurer,,,Over Votes,0,0,0,0
+Casey,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,299,75,219,5
+Casey,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,4,33,1
+Casey,D103,Commissioner of Agriculture,,,Total Votes,337,79,252,6
+Casey,D103,Commissioner of Agriculture,,,Under Votes,9,3,6,0
+Casey,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Casey,D104,STRAIGHT PARTY,,,Republican,41,14,23,4
+Casey,D104,STRAIGHT PARTY,,,Democratic,15,7,8,0
+Casey,D104,Govenor,,REP,Daniel CAMERON,68,21,42,5
+Casey,D104,Govenor,,DEM,Andy BESHEAR,33,12,19,2
+Casey,D104,Govenor,,,Total Votes,101,33,61,7
+Casey,D104,Govenor,,,Under Votes,1,0,1,0
+Casey,D104,Govenor,,,Over Votes,1,0,1,0
+Casey,D104,Secretary of State,,REP,Michael ADAMS,81,26,48,7
+Casey,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",20,7,13,0
+Casey,D104,Secretary of State,,,Total Votes,101,33,61,7
+Casey,D104,Secretary of State,,,Under Votes,2,0,2,0
+Casey,D104,Secretary of State,,,Over Votes,0,0,0,0
+Casey,D104,Attorney General,,REP,Russell COLEMAN,81,24,50,7
+Casey,D104,Attorney General,,DEM,Pamela STEVENSON,21,9,12,0
+Casey,D104,Attorney General,,,Total Votes,102,33,62,7
+Casey,D104,Attorney General,,,Under Votes,1,0,1,0
+Casey,D104,Attorney General,,,Over Votes,0,0,0,0
+Casey,D104,Auditor of Public Accounts,,REP,Allison BALL,81,26,48,7
+Casey,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",20,7,13,0
+Casey,D104,Auditor of Public Accounts,,,Total Votes,101,33,61,7
+Casey,D104,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Casey,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Casey,D104,State Treasurer,,REP,Mark H. METCALF,77,23,47,7
+Casey,D104,State Treasurer,,DEM,Michael BOWMAN,23,9,14,0
+Casey,D104,State Treasurer,,,Total Votes,100,32,61,7
+Casey,D104,State Treasurer,,,Under Votes,3,1,2,0
+Casey,D104,State Treasurer,,,Over Votes,0,0,0,0
+Casey,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,79,25,47,7
+Casey,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,8,13,0
+Casey,D104,Commissioner of Agriculture,,,Total Votes,100,33,60,7
+Casey,D104,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Casey,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
