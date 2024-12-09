@@ -1,0 +1,631 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Montgomery,A101,STRAIGHT PARTY,,,Republican,38,8,28,2
+Montgomery,A101,STRAIGHT PARTY,,,Democratic,32,11,18,3
+Montgomery,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",86,30,51,5
+Montgomery,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,123,48,67,8
+Montgomery,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A101,Governor,,,Total Votes,209,78,118,13
+Montgomery,A101,Governor,,,Under Votes,2,1,1,0
+Montgomery,A101,Governor,,,Over Votes,0,0,0,0
+Montgomery,A101,Secretary of State,,REP,Michael ADAMS,126,53,67,6
+Montgomery,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",79,26,48,5
+Montgomery,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,A101,Secretary of State,,,Total Votes,205,79,115,11
+Montgomery,A101,Secretary of State,,,Under Votes,6,0,4,2
+Montgomery,A101,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A101,Attorney General,,REP,Russell COLEMAN,107,40,62,5
+Montgomery,A101,Attorney General,,DEM,Pamela STEVENSON,94,37,51,6
+Montgomery,A101,Attorney General,,,Total Votes,201,77,113,11
+Montgomery,A101,Attorney General,,,Under Votes,10,2,6,2
+Montgomery,A101,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Allison BALL,110,42,63,5
+Montgomery,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",93,35,52,6
+Montgomery,A101,Auditor of Public Accounts,,,Total Votes,203,77,115,11
+Montgomery,A101,Auditor of Public Accounts,,,Under Votes,8,2,4,2
+Montgomery,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A101,State Treasurer,,REP,Mark H. METCALF,105,42,58,5
+Montgomery,A101,State Treasurer,,DEM,Michael BOWMAN,96,36,54,6
+Montgomery,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,A101,State Treasurer,,,Total Votes,201,78,112,11
+Montgomery,A101,State Treasurer,,,Under Votes,9,1,6,2
+Montgomery,A101,State Treasurer,,,Over Votes,1,0,1,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,114,42,67,5
+Montgomery,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,89,36,47,6
+Montgomery,A101,Commissioner of Agriculture,,,Total Votes,203,78,114,11
+Montgomery,A101,Commissioner of Agriculture,,,Under Votes,8,1,5,2
+Montgomery,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,A102,STRAIGHT PARTY,,,Republican,57,15,36,6
+Montgomery,A102,STRAIGHT PARTY,,,Democratic,72,34,32,6
+Montgomery,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",123,34,84,5
+Montgomery,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,215,102,97,16
+Montgomery,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A102,Governor,,,Total Votes,338,136,181,21
+Montgomery,A102,Governor,,,Under Votes,1,0,1,0
+Montgomery,A102,Governor,,,Over Votes,0,0,0,0
+Montgomery,A102,Secretary of State,,REP,Michael ADAMS,179,67,103,9
+Montgomery,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",149,67,70,12
+Montgomery,A102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Montgomery,A102,Secretary of State,,,Total Votes,329,134,174,21
+Montgomery,A102,Secretary of State,,,Under Votes,10,2,8,0
+Montgomery,A102,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A102,Attorney General,,REP,Russell COLEMAN,169,62,98,9
+Montgomery,A102,Attorney General,,DEM,Pamela STEVENSON,160,71,77,12
+Montgomery,A102,Attorney General,,,Total Votes,329,133,175,21
+Montgomery,A102,Attorney General,,,Under Votes,10,3,7,0
+Montgomery,A102,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A102,Auditor of Public Accounts,,REP,Allison BALL,172,64,99,9
+Montgomery,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",152,68,72,12
+Montgomery,A102,Auditor of Public Accounts,,,Total Votes,324,132,171,21
+Montgomery,A102,Auditor of Public Accounts,,,Under Votes,15,4,11,0
+Montgomery,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A102,State Treasurer,,REP,Mark H. METCALF,158,54,95,9
+Montgomery,A102,State Treasurer,,DEM,Michael BOWMAN,161,76,73,12
+Montgomery,A102,State Treasurer,,,Robert Perry,1,0,1,0
+Montgomery,A102,State Treasurer,,,Total Votes,320,130,169,21
+Montgomery,A102,State Treasurer,,,Under Votes,19,6,13,0
+Montgomery,A102,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,164,58,97,9
+Montgomery,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,156,74,71,11
+Montgomery,A102,Commissioner of Agriculture,,,Total Votes,320,132,168,20
+Montgomery,A102,Commissioner of Agriculture,,,Under Votes,19,4,14,1
+Montgomery,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,A103,STRAIGHT PARTY,,,Republican,100,38,58,4
+Montgomery,A103,STRAIGHT PARTY,,,Democratic,82,37,42,3
+Montgomery,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",230,81,141,8
+Montgomery,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,273,141,118,14
+Montgomery,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A103,Governor,,,Total Votes,503,222,259,22
+Montgomery,A103,Governor,,,Under Votes,3,0,3,0
+Montgomery,A103,Governor,,,Over Votes,0,0,0,0
+Montgomery,A103,Secretary of State,,REP,Michael ADAMS,328,140,174,14
+Montgomery,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",167,75,84,8
+Montgomery,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,A103,Secretary of State,,,Total Votes,495,215,258,22
+Montgomery,A103,Secretary of State,,,Under Votes,11,7,4,0
+Montgomery,A103,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A103,Attorney General,,REP,Russell COLEMAN,293,116,165,12
+Montgomery,A103,Attorney General,,DEM,Pamela STEVENSON,201,99,93,9
+Montgomery,A103,Attorney General,,,Total Votes,494,215,258,21
+Montgomery,A103,Attorney General,,,Under Votes,12,7,4,1
+Montgomery,A103,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A103,Auditor of Public Accounts,,REP,Allison BALL,297,116,169,12
+Montgomery,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",190,94,88,8
+Montgomery,A103,Auditor of Public Accounts,,,Total Votes,487,210,257,20
+Montgomery,A103,Auditor of Public Accounts,,,Under Votes,19,12,5,2
+Montgomery,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A103,State Treasurer,,REP,Mark H. METCALF,279,101,165,13
+Montgomery,A103,State Treasurer,,DEM,Michael BOWMAN,207,106,92,9
+Montgomery,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,A103,State Treasurer,,,Total Votes,486,207,257,22
+Montgomery,A103,State Treasurer,,,Under Votes,20,15,5,0
+Montgomery,A103,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,298,114,172,12
+Montgomery,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,187,94,83,10
+Montgomery,A103,Commissioner of Agriculture,,,Total Votes,485,208,255,22
+Montgomery,A103,Commissioner of Agriculture,,,Under Votes,21,14,7,0
+Montgomery,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,A104,STRAIGHT PARTY,,,Republican,77,28,48,1
+Montgomery,A104,STRAIGHT PARTY,,,Democratic,84,32,47,5
+Montgomery,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",176,59,112,5
+Montgomery,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,222,86,122,14
+Montgomery,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A104,Governor,,,Total Votes,398,145,234,19
+Montgomery,A104,Governor,,,Under Votes,2,1,1,0
+Montgomery,A104,Governor,,,Over Votes,0,0,0,0
+Montgomery,A104,Secretary of State,,REP,Michael ADAMS,228,82,139,7
+Montgomery,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",158,60,89,9
+Montgomery,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,A104,Secretary of State,,,Total Votes,386,142,228,16
+Montgomery,A104,Secretary of State,,,Under Votes,14,4,7,3
+Montgomery,A104,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A104,Attorney General,,REP,Russell COLEMAN,217,72,135,10
+Montgomery,A104,Attorney General,,DEM,Pamela STEVENSON,171,68,95,8
+Montgomery,A104,Attorney General,,,Total Votes,388,140,230,18
+Montgomery,A104,Attorney General,,,Under Votes,12,6,5,1
+Montgomery,A104,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A104,Auditor of Public Accounts,,REP,Allison BALL,228,81,138,9
+Montgomery,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",154,61,85,8
+Montgomery,A104,Auditor of Public Accounts,,,Total Votes,382,142,223,17
+Montgomery,A104,Auditor of Public Accounts,,,Under Votes,18,4,12,2
+Montgomery,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A104,State Treasurer,,REP,Mark H. METCALF,208,70,130,8
+Montgomery,A104,State Treasurer,,DEM,Michael BOWMAN,170,69,93,8
+Montgomery,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,A104,State Treasurer,,,Total Votes,378,139,223,16
+Montgomery,A104,State Treasurer,,,Under Votes,22,7,12,3
+Montgomery,A104,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,221,79,134,8
+Montgomery,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,156,60,86,10
+Montgomery,A104,Commissioner of Agriculture,,,Total Votes,377,139,220,18
+Montgomery,A104,Commissioner of Agriculture,,,Under Votes,23,7,15,1
+Montgomery,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,A105,STRAIGHT PARTY,,,Republican,10,2,8,0
+Montgomery,A105,STRAIGHT PARTY,,,Democratic,56,24,27,5
+Montgomery,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",24,3,21,0
+Montgomery,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,37,53,7
+Montgomery,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A105,Governor,,,Total Votes,121,40,74,7
+Montgomery,A105,Governor,,,Under Votes,0,0,0,0
+Montgomery,A105,Governor,,,Over Votes,0,0,0,0
+Montgomery,A105,Secretary of State,,REP,Michael ADAMS,30,5,24,1
+Montgomery,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",87,34,47,6
+Montgomery,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,A105,Secretary of State,,,Total Votes,117,39,71,7
+Montgomery,A105,Secretary of State,,,Under Votes,4,1,3,0
+Montgomery,A105,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A105,Attorney General,,REP,Russell COLEMAN,29,5,23,1
+Montgomery,A105,Attorney General,,DEM,Pamela STEVENSON,88,34,48,6
+Montgomery,A105,Attorney General,,,Total Votes,117,39,71,7
+Montgomery,A105,Attorney General,,,Under Votes,4,1,3,0
+Montgomery,A105,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Allison BALL,33,6,26,1
+Montgomery,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",84,33,45,6
+Montgomery,A105,Auditor of Public Accounts,,,Total Votes,117,39,71,7
+Montgomery,A105,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Montgomery,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A105,State Treasurer,,REP,Mark H. METCALF,29,4,24,1
+Montgomery,A105,State Treasurer,,DEM,Michael BOWMAN,88,35,47,6
+Montgomery,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,A105,State Treasurer,,,Total Votes,117,39,71,7
+Montgomery,A105,State Treasurer,,,Under Votes,4,1,3,0
+Montgomery,A105,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,35,4,30,1
+Montgomery,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,78,32,40,6
+Montgomery,A105,Commissioner of Agriculture,,,Total Votes,113,36,70,7
+Montgomery,A105,Commissioner of Agriculture,,,Under Votes,7,4,3,0
+Montgomery,A105,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Montgomery,A106,STRAIGHT PARTY,,,Republican,78,21,52,5
+Montgomery,A106,STRAIGHT PARTY,,,Democratic,83,29,47,7
+Montgomery,A106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",151,47,99,5
+Montgomery,A106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,246,91,136,19
+Montgomery,A106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,A106,Governor,,,Total Votes,397,138,235,24
+Montgomery,A106,Governor,,,Under Votes,1,1,0,0
+Montgomery,A106,Governor,,,Over Votes,0,0,0,0
+Montgomery,A106,Secretary of State,,REP,Michael ADAMS,225,77,136,12
+Montgomery,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,58,92,11
+Montgomery,A106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,A106,Secretary of State,,,Total Votes,386,135,228,23
+Montgomery,A106,Secretary of State,,,Under Votes,12,4,7,1
+Montgomery,A106,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,A106,Attorney General,,REP,Russell COLEMAN,217,66,141,10
+Montgomery,A106,Attorney General,,DEM,Pamela STEVENSON,169,69,88,12
+Montgomery,A106,Attorney General,,,Total Votes,386,135,229,22
+Montgomery,A106,Attorney General,,,Under Votes,12,4,6,2
+Montgomery,A106,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,A106,Auditor of Public Accounts,,REP,Allison BALL,223,77,137,9
+Montgomery,A106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",160,58,89,13
+Montgomery,A106,Auditor of Public Accounts,,,Total Votes,383,135,226,22
+Montgomery,A106,Auditor of Public Accounts,,,Under Votes,15,4,9,2
+Montgomery,A106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,A106,State Treasurer,,REP,Mark H. METCALF,207,65,132,10
+Montgomery,A106,State Treasurer,,DEM,Michael BOWMAN,174,68,94,12
+Montgomery,A106,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,A106,State Treasurer,,,Total Votes,381,133,226,22
+Montgomery,A106,State Treasurer,,,Under Votes,17,6,9,2
+Montgomery,A106,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,223,70,142,11
+Montgomery,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,159,66,82,11
+Montgomery,A106,Commissioner of Agriculture,,,Total Votes,382,136,224,22
+Montgomery,A106,Commissioner of Agriculture,,,Under Votes,16,3,11,2
+Montgomery,A106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B101,STRAIGHT PARTY,,,Republican,136,41,94,1
+Montgomery,B101,STRAIGHT PARTY,,,Democratic,54,14,37,3
+Montgomery,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",282,73,204,5
+Montgomery,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,214,62,146,6
+Montgomery,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B101,Governor,,,Total Votes,496,135,350,11
+Montgomery,B101,Governor,,,Under Votes,5,0,5,0
+Montgomery,B101,Governor,,,Over Votes,0,0,0,0
+Montgomery,B101,Secretary of State,,REP,Michael ADAMS,369,103,259,7
+Montgomery,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,29,89,4
+Montgomery,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B101,Secretary of State,,,Total Votes,491,132,348,11
+Montgomery,B101,Secretary of State,,,Under Votes,10,3,7,0
+Montgomery,B101,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B101,Attorney General,,REP,Russell COLEMAN,363,97,260,6
+Montgomery,B101,Attorney General,,DEM,Pamela STEVENSON,128,37,86,5
+Montgomery,B101,Attorney General,,,Total Votes,491,134,346,11
+Montgomery,B101,Attorney General,,,Under Votes,10,1,9,0
+Montgomery,B101,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B101,Auditor of Public Accounts,,REP,Allison BALL,367,94,267,6
+Montgomery,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",121,36,80,5
+Montgomery,B101,Auditor of Public Accounts,,,Total Votes,488,130,347,11
+Montgomery,B101,Auditor of Public Accounts,,,Under Votes,13,5,8,0
+Montgomery,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B101,State Treasurer,,REP,Mark H. METCALF,346,92,248,6
+Montgomery,B101,State Treasurer,,DEM,Michael BOWMAN,144,39,100,5
+Montgomery,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B101,State Treasurer,,,Total Votes,490,131,348,11
+Montgomery,B101,State Treasurer,,,Under Votes,11,4,7,0
+Montgomery,B101,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,361,97,258,6
+Montgomery,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,127,34,88,5
+Montgomery,B101,Commissioner of Agriculture,,,Total Votes,488,131,346,11
+Montgomery,B101,Commissioner of Agriculture,,,Under Votes,13,4,9,0
+Montgomery,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B102,STRAIGHT PARTY,,,Republican,179,34,141,4
+Montgomery,B102,STRAIGHT PARTY,,,Democratic,75,14,52,9
+Montgomery,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",322,61,254,7
+Montgomery,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,233,70,149,14
+Montgomery,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B102,Governor,,,Total Votes,555,131,403,21
+Montgomery,B102,Governor,,,Under Votes,1,1,0,0
+Montgomery,B102,Governor,,,Over Votes,0,0,0,0
+Montgomery,B102,Secretary of State,,REP,Michael ADAMS,402,91,303,8
+Montgomery,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",139,38,90,11
+Montgomery,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B102,Secretary of State,,,Total Votes,541,129,393,19
+Montgomery,B102,Secretary of State,,,Under Votes,14,3,9,2
+Montgomery,B102,Secretary of State,,,Over Votes,1,0,1,0
+Montgomery,B102,Attorney General,,REP,Russell COLEMAN,400,92,301,7
+Montgomery,B102,Attorney General,,DEM,Pamela STEVENSON,140,35,92,13
+Montgomery,B102,Attorney General,,,Total Votes,540,127,393,20
+Montgomery,B102,Attorney General,,,Under Votes,15,5,9,1
+Montgomery,B102,Attorney General,,,Over Votes,1,0,1,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Allison BALL,393,90,296,7
+Montgomery,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",148,37,98,13
+Montgomery,B102,Auditor of Public Accounts,,,Total Votes,541,127,394,20
+Montgomery,B102,Auditor of Public Accounts,,,Under Votes,15,5,9,1
+Montgomery,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B102,State Treasurer,,REP,Mark H. METCALF,376,80,288,8
+Montgomery,B102,State Treasurer,,DEM,Michael BOWMAN,157,43,102,12
+Montgomery,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B102,State Treasurer,,,Total Votes,533,123,390,20
+Montgomery,B102,State Treasurer,,,Under Votes,22,9,12,1
+Montgomery,B102,State Treasurer,,,Over Votes,1,0,1,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,405,89,308,8
+Montgomery,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,134,35,87,12
+Montgomery,B102,Commissioner of Agriculture,,,Total Votes,539,124,395,20
+Montgomery,B102,Commissioner of Agriculture,,,Under Votes,17,8,8,1
+Montgomery,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B103,STRAIGHT PARTY,,,Republican,138,30,108,0
+Montgomery,B103,STRAIGHT PARTY,,,Democratic,67,22,40,5
+Montgomery,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",226,49,174,3
+Montgomery,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,197,62,126,9
+Montgomery,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B103,Governor,,,Total Votes,423,111,300,12
+Montgomery,B103,Governor,,,Under Votes,2,0,2,0
+Montgomery,B103,Governor,,,Over Votes,0,0,0,0
+Montgomery,B103,Secretary of State,,REP,Michael ADAMS,280,63,214,3
+Montgomery,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",130,42,80,8
+Montgomery,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B103,Secretary of State,,,Total Votes,410,105,294,11
+Montgomery,B103,Secretary of State,,,Under Votes,15,6,8,1
+Montgomery,B103,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B103,Attorney General,,REP,Russell COLEMAN,276,63,211,2
+Montgomery,B103,Attorney General,,DEM,Pamela STEVENSON,135,43,83,9
+Montgomery,B103,Attorney General,,,Total Votes,411,106,294,11
+Montgomery,B103,Attorney General,,,Under Votes,14,5,8,1
+Montgomery,B103,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Allison BALL,276,64,210,2
+Montgomery,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",129,41,79,9
+Montgomery,B103,Auditor of Public Accounts,,,Total Votes,405,105,289,11
+Montgomery,B103,Auditor of Public Accounts,,,Under Votes,20,6,13,1
+Montgomery,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B103,State Treasurer,,REP,Mark H. METCALF,258,57,199,2
+Montgomery,B103,State Treasurer,,DEM,Michael BOWMAN,146,47,90,9
+Montgomery,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B103,State Treasurer,,,Total Votes,404,104,289,11
+Montgomery,B103,State Treasurer,,,Under Votes,21,7,13,1
+Montgomery,B103,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,279,61,215,3
+Montgomery,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,127,44,75,8
+Montgomery,B103,Commissioner of Agriculture,,,Total Votes,406,105,290,11
+Montgomery,B103,Commissioner of Agriculture,,,Under Votes,19,6,12,1
+Montgomery,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B104,STRAIGHT PARTY,,,Republican,133,44,88,1
+Montgomery,B104,STRAIGHT PARTY,,,Democratic,76,35,37,4
+Montgomery,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",301,98,201,2
+Montgomery,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,316,145,157,14
+Montgomery,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B104,Governor,,,Total Votes,617,243,358,16
+Montgomery,B104,Governor,,,Under Votes,7,2,5,0
+Montgomery,B104,Governor,,,Over Votes,0,0,0,0
+Montgomery,B104,Secretary of State,,REP,Michael ADAMS,394,145,243,6
+Montgomery,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",200,88,103,9
+Montgomery,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B104,Secretary of State,,,Total Votes,594,233,346,15
+Montgomery,B104,Secretary of State,,,Under Votes,30,12,17,1
+Montgomery,B104,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B104,Attorney General,,REP,Russell COLEMAN,387,139,241,7
+Montgomery,B104,Attorney General,,DEM,Pamela STEVENSON,210,91,110,9
+Montgomery,B104,Attorney General,,,Total Votes,597,230,351,16
+Montgomery,B104,Attorney General,,,Under Votes,27,15,12,0
+Montgomery,B104,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B104,Auditor of Public Accounts,,REP,Allison BALL,407,151,249,7
+Montgomery,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",191,83,100,8
+Montgomery,B104,Auditor of Public Accounts,,,Total Votes,598,234,349,15
+Montgomery,B104,Auditor of Public Accounts,,,Under Votes,25,11,13,1
+Montgomery,B104,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Montgomery,B104,State Treasurer,,REP,Mark H. METCALF,376,137,231,8
+Montgomery,B104,State Treasurer,,DEM,Michael BOWMAN,214,96,110,8
+Montgomery,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B104,State Treasurer,,,Total Votes,590,233,341,16
+Montgomery,B104,State Treasurer,,,Under Votes,33,12,21,0
+Montgomery,B104,State Treasurer,,,Over Votes,1,0,1,0
+Montgomery,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,384,135,241,8
+Montgomery,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,205,97,100,8
+Montgomery,B104,Commissioner of Agriculture,,,Total Votes,589,232,341,16
+Montgomery,B104,Commissioner of Agriculture,,,Under Votes,35,13,22,0
+Montgomery,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B105,STRAIGHT PARTY,,,Republican,157,47,104,6
+Montgomery,B105,STRAIGHT PARTY,,,Democratic,56,28,22,6
+Montgomery,B105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",297,83,204,10
+Montgomery,B105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,206,81,112,13
+Montgomery,B105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B105,Governor,,,Total Votes,503,164,316,23
+Montgomery,B105,Governor,,,Under Votes,2,2,0,0
+Montgomery,B105,Governor,,,Over Votes,0,0,0,0
+Montgomery,B105,Secretary of State,,REP,Michael ADAMS,375,118,246,11
+Montgomery,B105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,44,65,11
+Montgomery,B105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B105,Secretary of State,,,Total Votes,495,162,311,22
+Montgomery,B105,Secretary of State,,,Under Votes,10,4,5,1
+Montgomery,B105,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B105,Attorney General,,REP,Russell COLEMAN,372,116,246,10
+Montgomery,B105,Attorney General,,DEM,Pamela STEVENSON,121,45,63,13
+Montgomery,B105,Attorney General,,,Total Votes,493,161,309,23
+Montgomery,B105,Attorney General,,,Under Votes,12,5,7,0
+Montgomery,B105,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B105,Auditor of Public Accounts,,REP,Allison BALL,359,114,234,11
+Montgomery,B105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",125,45,70,10
+Montgomery,B105,Auditor of Public Accounts,,,Total Votes,484,159,304,21
+Montgomery,B105,Auditor of Public Accounts,,,Under Votes,21,7,12,2
+Montgomery,B105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B105,State Treasurer,,REP,Mark H. METCALF,355,111,233,11
+Montgomery,B105,State Treasurer,,DEM,Michael BOWMAN,127,48,68,11
+Montgomery,B105,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B105,State Treasurer,,,Total Votes,482,159,301,22
+Montgomery,B105,State Treasurer,,,Under Votes,23,7,15,1
+Montgomery,B105,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,B105,Commissioner of Agriculture,,REP,Jonathan SHELL,372,117,242,13
+Montgomery,B105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,112,41,62,9
+Montgomery,B105,Commissioner of Agriculture,,,Total Votes,484,158,304,22
+Montgomery,B105,Commissioner of Agriculture,,,Under Votes,21,8,12,1
+Montgomery,B105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B107,STRAIGHT PARTY,,,Republican,132,43,84,5
+Montgomery,B107,STRAIGHT PARTY,,,Democratic,63,26,33,4
+Montgomery,B107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",269,77,185,7
+Montgomery,B107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,198,59,126,13
+Montgomery,B107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B107,Governor,,,Total Votes,467,136,311,20
+Montgomery,B107,Governor,,,Under Votes,4,3,1,0
+Montgomery,B107,Governor,,,Over Votes,0,0,0,0
+Montgomery,B107,Secretary of State,,REP,Michael ADAMS,323,93,220,10
+Montgomery,B107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",129,42,78,9
+Montgomery,B107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B107,Secretary of State,,,Total Votes,452,135,298,19
+Montgomery,B107,Secretary of State,,,Under Votes,19,4,14,1
+Montgomery,B107,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B107,Attorney General,,REP,Russell COLEMAN,325,90,224,11
+Montgomery,B107,Attorney General,,DEM,Pamela STEVENSON,126,45,73,8
+Montgomery,B107,Attorney General,,,Total Votes,451,135,297,19
+Montgomery,B107,Attorney General,,,Under Votes,20,4,15,1
+Montgomery,B107,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B107,Auditor of Public Accounts,,REP,Allison BALL,325,86,231,8
+Montgomery,B107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",121,48,62,11
+Montgomery,B107,Auditor of Public Accounts,,,Total Votes,446,134,293,19
+Montgomery,B107,Auditor of Public Accounts,,,Under Votes,25,5,19,1
+Montgomery,B107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B107,State Treasurer,,REP,Mark H. METCALF,307,84,216,7
+Montgomery,B107,State Treasurer,,DEM,Michael BOWMAN,144,51,82,11
+Montgomery,B107,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B107,State Treasurer,,,Total Votes,451,135,298,18
+Montgomery,B107,State Treasurer,,,Under Votes,20,4,14,2
+Montgomery,B107,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,B107,Commissioner of Agriculture,,REP,Jonathan SHELL,330,92,228,10
+Montgomery,B107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,120,43,69,8
+Montgomery,B107,Commissioner of Agriculture,,,Total Votes,450,135,297,18
+Montgomery,B107,Commissioner of Agriculture,,,Under Votes,21,4,15,2
+Montgomery,B107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,B108,STRAIGHT PARTY,,,Republican,134,21,109,4
+Montgomery,B108,STRAIGHT PARTY,,,Democratic,80,28,51,1
+Montgomery,B108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",272,57,210,5
+Montgomery,B108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,272,111,156,5
+Montgomery,B108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,B108,Governor,,,Total Votes,544,168,366,10
+Montgomery,B108,Governor,,,Under Votes,3,1,2,0
+Montgomery,B108,Governor,,,Over Votes,0,0,0,0
+Montgomery,B108,Secretary of State,,REP,Michael ADAMS,369,103,261,5
+Montgomery,B108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",166,61,100,5
+Montgomery,B108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,B108,Secretary of State,,,Total Votes,535,164,361,10
+Montgomery,B108,Secretary of State,,,Under Votes,12,5,7,0
+Montgomery,B108,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,B108,Attorney General,,REP,Russell COLEMAN,333,87,241,5
+Montgomery,B108,Attorney General,,DEM,Pamela STEVENSON,202,78,119,5
+Montgomery,B108,Attorney General,,,Total Votes,535,165,360,10
+Montgomery,B108,Attorney General,,,Under Votes,12,4,8,0
+Montgomery,B108,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Allison BALL,351,92,254,5
+Montgomery,B108,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",180,73,102,5
+Montgomery,B108,Auditor of Public Accounts,,,Total Votes,531,165,356,10
+Montgomery,B108,Auditor of Public Accounts,,,Under Votes,16,4,12,0
+Montgomery,B108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,B108,State Treasurer,,REP,Mark H. METCALF,327,86,236,5
+Montgomery,B108,State Treasurer,,DEM,Michael BOWMAN,211,81,125,5
+Montgomery,B108,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,B108,State Treasurer,,,Total Votes,538,167,361,10
+Montgomery,B108,State Treasurer,,,Under Votes,9,2,7,0
+Montgomery,B108,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Jonathan SHELL,354,103,244,7
+Montgomery,B108,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,180,62,115,3
+Montgomery,B108,Commissioner of Agriculture,,,Total Votes,534,165,359,10
+Montgomery,B108,Commissioner of Agriculture,,,Under Votes,13,4,9,0
+Montgomery,B108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,C101,STRAIGHT PARTY,,,Republican,96,22,73,1
+Montgomery,C101,STRAIGHT PARTY,,,Democratic,28,14,12,2
+Montgomery,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",180,47,131,2
+Montgomery,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,45,54,8
+Montgomery,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,C101,Governor,,,Total Votes,287,92,185,10
+Montgomery,C101,Governor,,,Under Votes,4,1,2,1
+Montgomery,C101,Governor,,,Over Votes,0,0,0,0
+Montgomery,C101,Secretary of State,,REP,Michael ADAMS,221,70,144,7
+Montgomery,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,22,38,4
+Montgomery,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,C101,Secretary of State,,,Total Votes,285,92,182,11
+Montgomery,C101,Secretary of State,,,Under Votes,6,1,5,0
+Montgomery,C101,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,C101,Attorney General,,REP,Russell COLEMAN,216,61,151,4
+Montgomery,C101,Attorney General,,DEM,Pamela STEVENSON,70,32,31,7
+Montgomery,C101,Attorney General,,,Total Votes,286,93,182,11
+Montgomery,C101,Attorney General,,,Under Votes,5,0,5,0
+Montgomery,C101,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Allison BALL,226,67,153,6
+Montgomery,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,25,28,5
+Montgomery,C101,Auditor of Public Accounts,,,Total Votes,284,92,181,11
+Montgomery,C101,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Montgomery,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,C101,State Treasurer,,REP,Mark H. METCALF,216,63,147,6
+Montgomery,C101,State Treasurer,,DEM,Michael BOWMAN,68,29,34,5
+Montgomery,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,C101,State Treasurer,,,Total Votes,284,92,181,11
+Montgomery,C101,State Treasurer,,,Under Votes,7,1,6,0
+Montgomery,C101,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,216,65,148,3
+Montgomery,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,26,33,8
+Montgomery,C101,Commissioner of Agriculture,,,Total Votes,283,91,181,11
+Montgomery,C101,Commissioner of Agriculture,,,Under Votes,8,2,6,0
+Montgomery,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,C102,STRAIGHT PARTY,,,Republican,137,38,98,1
+Montgomery,C102,STRAIGHT PARTY,,,Democratic,91,30,52,9
+Montgomery,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",287,74,211,2
+Montgomery,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,277,88,175,14
+Montgomery,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,C102,Governor,,,Total Votes,564,162,386,16
+Montgomery,C102,Governor,,,Under Votes,3,1,2,0
+Montgomery,C102,Governor,,,Over Votes,1,0,1,0
+Montgomery,C102,Secretary of State,,REP,Michael ADAMS,364,100,263,1
+Montgomery,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",191,61,117,13
+Montgomery,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,C102,Secretary of State,,,Total Votes,555,161,380,14
+Montgomery,C102,Secretary of State,,,Under Votes,13,2,9,2
+Montgomery,C102,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,C102,Attorney General,,REP,Russell COLEMAN,358,95,261,2
+Montgomery,C102,Attorney General,,DEM,Pamela STEVENSON,194,63,119,12
+Montgomery,C102,Attorney General,,,Total Votes,552,158,380,14
+Montgomery,C102,Attorney General,,,Under Votes,15,5,8,2
+Montgomery,C102,Attorney General,,,Over Votes,1,0,1,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Allison BALL,369,107,260,2
+Montgomery,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",183,53,118,12
+Montgomery,C102,Auditor of Public Accounts,,,Total Votes,552,160,378,14
+Montgomery,C102,Auditor of Public Accounts,,,Under Votes,16,3,11,2
+Montgomery,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,C102,State Treasurer,,REP,Mark H. METCALF,344,94,248,2
+Montgomery,C102,State Treasurer,,DEM,Michael BOWMAN,207,64,131,12
+Montgomery,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,C102,State Treasurer,,,Total Votes,551,158,379,14
+Montgomery,C102,State Treasurer,,,Under Votes,17,5,10,2
+Montgomery,C102,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,366,101,263,2
+Montgomery,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,182,59,111,12
+Montgomery,C102,Commissioner of Agriculture,,,Total Votes,548,160,374,14
+Montgomery,C102,Commissioner of Agriculture,,,Under Votes,20,3,15,2
+Montgomery,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,C103,STRAIGHT PARTY,,,Republican,224,66,156,2
+Montgomery,C103,STRAIGHT PARTY,,,Democratic,81,19,57,5
+Montgomery,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",452,118,325,9
+Montgomery,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,382,110,253,19
+Montgomery,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,C103,Governor,,,Total Votes,834,228,578,28
+Montgomery,C103,Governor,,,Under Votes,5,3,2,0
+Montgomery,C103,Governor,,,Over Votes,0,0,0,0
+Montgomery,C103,Secretary of State,,REP,Michael ADAMS,593,167,411,15
+Montgomery,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",221,57,153,11
+Montgomery,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,C103,Secretary of State,,,Total Votes,814,224,564,26
+Montgomery,C103,Secretary of State,,,Under Votes,25,7,16,2
+Montgomery,C103,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,C103,Attorney General,,REP,Russell COLEMAN,568,158,396,14
+Montgomery,C103,Attorney General,,DEM,Pamela STEVENSON,244,70,161,13
+Montgomery,C103,Attorney General,,,Total Votes,812,228,557,27
+Montgomery,C103,Attorney General,,,Under Votes,27,3,23,1
+Montgomery,C103,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,C103,Auditor of Public Accounts,,REP,Allison BALL,581,162,405,14
+Montgomery,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",233,63,157,13
+Montgomery,C103,Auditor of Public Accounts,,,Total Votes,814,225,562,27
+Montgomery,C103,Auditor of Public Accounts,,,Under Votes,25,6,18,1
+Montgomery,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,C103,State Treasurer,,REP,Mark H. METCALF,540,148,380,12
+Montgomery,C103,State Treasurer,,DEM,Michael BOWMAN,269,78,177,14
+Montgomery,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,C103,State Treasurer,,,Total Votes,809,226,557,26
+Montgomery,C103,State Treasurer,,,Under Votes,30,5,23,2
+Montgomery,C103,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,572,158,399,15
+Montgomery,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,232,66,154,12
+Montgomery,C103,Commissioner of Agriculture,,,Total Votes,804,224,553,27
+Montgomery,C103,Commissioner of Agriculture,,,Under Votes,34,7,26,1
+Montgomery,C103,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Montgomery,C104,STRAIGHT PARTY,,,Republican,121,38,76,7
+Montgomery,C104,STRAIGHT PARTY,,,Democratic,79,30,36,13
+Montgomery,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",285,80,193,12
+Montgomery,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,276,98,148,30
+Montgomery,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,C104,Governor,,,Total Votes,561,178,341,42
+Montgomery,C104,Governor,,,Under Votes,2,0,2,0
+Montgomery,C104,Governor,,,Over Votes,1,0,1,0
+Montgomery,C104,Secretary of State,,REP,Michael ADAMS,365,107,238,20
+Montgomery,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",180,64,95,21
+Montgomery,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,C104,Secretary of State,,,Total Votes,545,171,333,41
+Montgomery,C104,Secretary of State,,,Under Votes,19,7,11,1
+Montgomery,C104,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,C104,Attorney General,,REP,Russell COLEMAN,351,97,236,18
+Montgomery,C104,Attorney General,,DEM,Pamela STEVENSON,186,70,94,22
+Montgomery,C104,Attorney General,,,Total Votes,537,167,330,40
+Montgomery,C104,Attorney General,,,Under Votes,27,11,14,2
+Montgomery,C104,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,C104,Auditor of Public Accounts,,REP,Allison BALL,344,98,230,16
+Montgomery,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",189,70,96,23
+Montgomery,C104,Auditor of Public Accounts,,,Total Votes,533,168,326,39
+Montgomery,C104,Auditor of Public Accounts,,,Under Votes,31,10,18,3
+Montgomery,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,C104,State Treasurer,,REP,Mark H. METCALF,329,91,226,12
+Montgomery,C104,State Treasurer,,DEM,Michael BOWMAN,204,75,102,27
+Montgomery,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,C104,State Treasurer,,,Total Votes,533,166,328,39
+Montgomery,C104,State Treasurer,,,Under Votes,31,12,16,3
+Montgomery,C104,State Treasurer,,,Over Votes,0,0,0,0
+Montgomery,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,355,98,237,20
+Montgomery,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,177,69,88,20
+Montgomery,C104,Commissioner of Agriculture,,,Total Votes,532,167,325,40
+Montgomery,C104,Commissioner of Agriculture,,,Under Votes,32,11,19,2
+Montgomery,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Montgomery,C105,STRAIGHT PARTY,,,Republican,58,10,48,0
+Montgomery,C105,STRAIGHT PARTY,,,Democratic,29,9,17,3
+Montgomery,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",110,24,83,3
+Montgomery,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,108,22,78,8
+Montgomery,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Montgomery,C105,Governor,,,Total Votes,218,46,161,11
+Montgomery,C105,Governor,,,Under Votes,1,0,1,0
+Montgomery,C105,Governor,,,Over Votes,0,0,0,0
+Montgomery,C105,Secretary of State,,REP,Michael ADAMS,139,28,105,6
+Montgomery,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",75,16,54,5
+Montgomery,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Montgomery,C105,Secretary of State,,,Total Votes,214,44,159,11
+Montgomery,C105,Secretary of State,,,Under Votes,5,2,3,0
+Montgomery,C105,Secretary of State,,,Over Votes,0,0,0,0
+Montgomery,C105,Attorney General,,REP,Russell COLEMAN,136,25,106,5
+Montgomery,C105,Attorney General,,DEM,Pamela STEVENSON,80,21,53,6
+Montgomery,C105,Attorney General,,,Total Votes,216,46,159,11
+Montgomery,C105,Attorney General,,,Under Votes,3,0,3,0
+Montgomery,C105,Attorney General,,,Over Votes,0,0,0,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Allison BALL,137,28,105,4
+Montgomery,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",76,17,52,7
+Montgomery,C105,Auditor of Public Accounts,,,Total Votes,213,45,157,11
+Montgomery,C105,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Montgomery,C105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Montgomery,C105,State Treasurer,,REP,Mark H. METCALF,138,27,104,7
+Montgomery,C105,State Treasurer,,DEM,Michael BOWMAN,74,19,51,4
+Montgomery,C105,State Treasurer,,,Robert Perry,0,0,0,0
+Montgomery,C105,State Treasurer,,,Total Votes,212,46,155,11
+Montgomery,C105,State Treasurer,,,Under Votes,6,0,6,0
+Montgomery,C105,State Treasurer,,,Over Votes,1,0,1,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,146,30,109,7
+Montgomery,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,65,16,45,4
+Montgomery,C105,Commissioner of Agriculture,,,Total Votes,211,46,154,11
+Montgomery,C105,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Montgomery,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0

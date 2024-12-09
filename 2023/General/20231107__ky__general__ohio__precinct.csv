@@ -1,0 +1,675 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Ohio,A101,STRAIGHT PARTY,,,Republican,111,21,88,2
+Ohio,A101,STRAIGHT PARTY,,,Democratic,71,29,40,2
+Ohio,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",186,33,150,3
+Ohio,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,56,105,9
+Ohio,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,A101,Governor,,,Total Votes,356,89,255,12
+Ohio,A101,Governor,,,Under Votes,3,0,3,0
+Ohio,A101,Governor,,,Over Votes,0,0,0,0
+Ohio,A101,Secretary of State,,REP,Michael ADAMS,232,48,178,6
+Ohio,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",113,41,66,6
+Ohio,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,A101,Secretary of State,,,Total Votes,345,89,244,12
+Ohio,A101,Secretary of State,,,Under Votes,14,0,14,0
+Ohio,A101,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,A101,Attorney General,,REP,Russell COLEMAN,227,46,175,6
+Ohio,A101,Attorney General,,DEM,Pamela STEVENSON,118,42,70,6
+Ohio,A101,Attorney General,,,Total Votes,345,88,245,12
+Ohio,A101,Attorney General,,,Under Votes,14,1,13,0
+Ohio,A101,Attorney General,,,Over Votes,0,0,0,0
+Ohio,A101,Auditor of Public Accounts,,REP,Allison BALL,231,46,177,8
+Ohio,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",113,42,67,4
+Ohio,A101,Auditor of Public Accounts,,,Total Votes,344,88,244,12
+Ohio,A101,Auditor of Public Accounts,,,Under Votes,15,1,14,0
+Ohio,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,A101,State Treasurer,,REP,Mark H. METCALF,223,42,174,7
+Ohio,A101,State Treasurer,,DEM,Michael BOWMAN,119,45,69,5
+Ohio,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,A101,State Treasurer,,,Total Votes,342,87,243,12
+Ohio,A101,State Treasurer,,,Under Votes,17,2,15,0
+Ohio,A101,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,239,49,183,7
+Ohio,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,102,38,60,4
+Ohio,A101,Commissioner of Agriculture,,,Total Votes,341,87,243,11
+Ohio,A101,Commissioner of Agriculture,,,Under Votes,17,2,15,0
+Ohio,A101,Commissioner of Agriculture,,,Over Votes,1,0,0,1
+Ohio,A102,STRAIGHT PARTY,,,Republican,82,18,61,3
+Ohio,A102,STRAIGHT PARTY,,,Democratic,53,22,26,5
+Ohio,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",148,38,106,4
+Ohio,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,138,49,80,9
+Ohio,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,A102,Governor,,,Total Votes,286,87,186,13
+Ohio,A102,Governor,,,Under Votes,1,0,0,1
+Ohio,A102,Governor,,,Over Votes,0,0,0,0
+Ohio,A102,Secretary of State,,REP,Michael ADAMS,171,46,119,6
+Ohio,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,37,57,7
+Ohio,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,A102,Secretary of State,,,Total Votes,272,83,176,13
+Ohio,A102,Secretary of State,,,Under Votes,15,4,10,1
+Ohio,A102,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,A102,Attorney General,,REP,Russell COLEMAN,173,44,124,5
+Ohio,A102,Attorney General,,DEM,Pamela STEVENSON,101,39,55,7
+Ohio,A102,Attorney General,,,Total Votes,274,83,179,12
+Ohio,A102,Attorney General,,,Under Votes,13,4,7,2
+Ohio,A102,Attorney General,,,Over Votes,0,0,0,0
+Ohio,A102,Auditor of Public Accounts,,REP,Allison BALL,176,46,125,5
+Ohio,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",95,38,51,6
+Ohio,A102,Auditor of Public Accounts,,,Total Votes,271,84,176,11
+Ohio,A102,Auditor of Public Accounts,,,Under Votes,16,3,10,3
+Ohio,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,A102,State Treasurer,,REP,Mark H. METCALF,162,41,116,5
+Ohio,A102,State Treasurer,,DEM,Michael BOWMAN,108,42,59,7
+Ohio,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,A102,State Treasurer,,,Total Votes,270,83,175,12
+Ohio,A102,State Treasurer,,,Under Votes,17,4,11,2
+Ohio,A102,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,179,48,126,5
+Ohio,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,93,36,50,7
+Ohio,A102,Commissioner of Agriculture,,,Total Votes,272,84,176,12
+Ohio,A102,Commissioner of Agriculture,,,Under Votes,15,3,10,2
+Ohio,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,A104,STRAIGHT PARTY,,,Republican,81,10,71,0
+Ohio,A104,STRAIGHT PARTY,,,Democratic,21,4,15,2
+Ohio,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",124,17,106,1
+Ohio,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,14,49,4
+Ohio,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,A104,Governor,,,Total Votes,191,31,155,5
+Ohio,A104,Governor,,,Under Votes,1,0,1,0
+Ohio,A104,Governor,,,Over Votes,0,0,0,0
+Ohio,A104,Secretary of State,,REP,Michael ADAMS,137,22,113,2
+Ohio,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,6,36,3
+Ohio,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,A104,Secretary of State,,,Total Votes,182,28,149,5
+Ohio,A104,Secretary of State,,,Under Votes,10,3,7,0
+Ohio,A104,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,A104,Attorney General,,REP,Russell COLEMAN,147,24,121,2
+Ohio,A104,Attorney General,,DEM,Pamela STEVENSON,42,6,33,3
+Ohio,A104,Attorney General,,,Total Votes,189,30,154,5
+Ohio,A104,Attorney General,,,Under Votes,3,1,2,0
+Ohio,A104,Attorney General,,,Over Votes,0,0,0,0
+Ohio,A104,Auditor of Public Accounts,,REP,Allison BALL,142,23,118,1
+Ohio,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,7,33,4
+Ohio,A104,Auditor of Public Accounts,,,Total Votes,186,30,151,5
+Ohio,A104,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Ohio,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,A104,State Treasurer,,REP,Mark H. METCALF,137,21,114,2
+Ohio,A104,State Treasurer,,DEM,Michael BOWMAN,45,7,35,3
+Ohio,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,A104,State Treasurer,,,Total Votes,182,28,149,5
+Ohio,A104,State Treasurer,,,Under Votes,10,3,7,0
+Ohio,A104,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,147,26,119,2
+Ohio,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,40,5,32,3
+Ohio,A104,Commissioner of Agriculture,,,Total Votes,187,31,151,5
+Ohio,A104,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Ohio,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,A105,STRAIGHT PARTY,,,Republican,163,19,144,0
+Ohio,A105,STRAIGHT PARTY,,,Democratic,62,7,54,1
+Ohio,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",222,19,203,0
+Ohio,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,140,18,121,1
+Ohio,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,A105,Governor,,,Total Votes,362,37,324,1
+Ohio,A105,Governor,,,Under Votes,0,0,0,0
+Ohio,A105,Governor,,,Over Votes,0,0,0,0
+Ohio,A105,Secretary of State,,REP,Michael ADAMS,255,25,230,0
+Ohio,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,12,91,1
+Ohio,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,A105,Secretary of State,,,Total Votes,359,37,321,1
+Ohio,A105,Secretary of State,,,Under Votes,3,0,3,0
+Ohio,A105,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,A105,Attorney General,,REP,Russell COLEMAN,254,25,229,0
+Ohio,A105,Attorney General,,DEM,Pamela STEVENSON,102,12,89,1
+Ohio,A105,Attorney General,,,Total Votes,356,37,318,1
+Ohio,A105,Attorney General,,,Under Votes,6,0,6,0
+Ohio,A105,Attorney General,,,Over Votes,0,0,0,0
+Ohio,A105,Auditor of Public Accounts,,REP,Allison BALL,253,26,227,0
+Ohio,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",100,11,88,1
+Ohio,A105,Auditor of Public Accounts,,,Total Votes,353,37,315,1
+Ohio,A105,Auditor of Public Accounts,,,Under Votes,9,0,9,0
+Ohio,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,A105,State Treasurer,,REP,Mark H. METCALF,247,26,221,0
+Ohio,A105,State Treasurer,,DEM,Michael BOWMAN,107,11,95,1
+Ohio,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,A105,State Treasurer,,,Total Votes,354,37,316,1
+Ohio,A105,State Treasurer,,,Under Votes,8,0,8,0
+Ohio,A105,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,255,26,229,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,99,11,87,1
+Ohio,A105,Commissioner of Agriculture,,,Total Votes,354,37,316,1
+Ohio,A105,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Ohio,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,B101,STRAIGHT PARTY,,,Republican,129,18,109,2
+Ohio,B101,STRAIGHT PARTY,,,Democratic,51,15,34,2
+Ohio,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",183,28,153,2
+Ohio,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,149,35,110,4
+Ohio,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,B101,Governor,,,Total Votes,332,63,263,6
+Ohio,B101,Governor,,,Under Votes,0,0,0,0
+Ohio,B101,Governor,,,Over Votes,0,0,0,0
+Ohio,B101,Secretary of State,,REP,Michael ADAMS,220,35,182,3
+Ohio,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",97,25,69,3
+Ohio,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,B101,Secretary of State,,,Total Votes,317,60,251,6
+Ohio,B101,Secretary of State,,,Under Votes,15,3,12,0
+Ohio,B101,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,B101,Attorney General,,REP,Russell COLEMAN,223,36,183,4
+Ohio,B101,Attorney General,,DEM,Pamela STEVENSON,99,25,72,2
+Ohio,B101,Attorney General,,,Total Votes,322,61,255,6
+Ohio,B101,Attorney General,,,Under Votes,10,2,8,0
+Ohio,B101,Attorney General,,,Over Votes,0,0,0,0
+Ohio,B101,Auditor of Public Accounts,,REP,Allison BALL,219,35,181,3
+Ohio,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",100,25,72,3
+Ohio,B101,Auditor of Public Accounts,,,Total Votes,319,60,253,6
+Ohio,B101,Auditor of Public Accounts,,,Under Votes,13,3,10,0
+Ohio,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,B101,State Treasurer,,REP,Mark H. METCALF,216,31,182,3
+Ohio,B101,State Treasurer,,DEM,Michael BOWMAN,99,28,68,3
+Ohio,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,B101,State Treasurer,,,Total Votes,315,59,250,6
+Ohio,B101,State Treasurer,,,Under Votes,17,4,13,0
+Ohio,B101,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,224,34,186,4
+Ohio,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,93,25,66,2
+Ohio,B101,Commissioner of Agriculture,,,Total Votes,317,59,252,6
+Ohio,B101,Commissioner of Agriculture,,,Under Votes,15,4,11,0
+Ohio,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,B102,STRAIGHT PARTY,,,Republican,202,37,161,4
+Ohio,B102,STRAIGHT PARTY,,,Democratic,110,39,63,8
+Ohio,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",295,49,238,8
+Ohio,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,287,72,199,16
+Ohio,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,B102,Governor,,,Total Votes,582,121,437,24
+Ohio,B102,Governor,,,Under Votes,0,0,0,0
+Ohio,B102,Governor,,,Over Votes,0,0,0,0
+Ohio,B102,Secretary of State,,REP,Michael ADAMS,373,59,302,12
+Ohio,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",189,58,121,10
+Ohio,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,B102,Secretary of State,,,Total Votes,562,117,423,22
+Ohio,B102,Secretary of State,,,Under Votes,20,4,14,2
+Ohio,B102,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,B102,Attorney General,,REP,Russell COLEMAN,380,64,306,10
+Ohio,B102,Attorney General,,DEM,Pamela STEVENSON,188,56,119,13
+Ohio,B102,Attorney General,,,Total Votes,568,120,425,23
+Ohio,B102,Attorney General,,,Under Votes,14,1,12,1
+Ohio,B102,Attorney General,,,Over Votes,0,0,0,0
+Ohio,B102,Auditor of Public Accounts,,REP,Allison BALL,372,54,304,14
+Ohio,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",187,62,116,9
+Ohio,B102,Auditor of Public Accounts,,,Total Votes,559,116,420,23
+Ohio,B102,Auditor of Public Accounts,,,Under Votes,23,5,17,1
+Ohio,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,B102,State Treasurer,,REP,Mark H. METCALF,361,55,294,12
+Ohio,B102,State Treasurer,,DEM,Michael BOWMAN,199,62,126,11
+Ohio,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,B102,State Treasurer,,,Total Votes,560,117,420,23
+Ohio,B102,State Treasurer,,,Under Votes,22,4,17,1
+Ohio,B102,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,372,61,300,11
+Ohio,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,193,58,123,12
+Ohio,B102,Commissioner of Agriculture,,,Total Votes,565,119,423,23
+Ohio,B102,Commissioner of Agriculture,,,Under Votes,17,2,14,1
+Ohio,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,B103,STRAIGHT PARTY,,,Republican,109,22,84,3
+Ohio,B103,STRAIGHT PARTY,,,Democratic,44,16,23,5
+Ohio,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",168,32,131,5
+Ohio,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,125,37,80,8
+Ohio,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,B103,Governor,,,Total Votes,293,69,211,13
+Ohio,B103,Governor,,,Under Votes,1,0,1,0
+Ohio,B103,Governor,,,Over Votes,1,0,1,0
+Ohio,B103,Secretary of State,,REP,Michael ADAMS,208,41,159,8
+Ohio,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,27,44,5
+Ohio,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,B103,Secretary of State,,,Total Votes,284,68,203,13
+Ohio,B103,Secretary of State,,,Under Votes,11,1,10,0
+Ohio,B103,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,B103,Attorney General,,REP,Russell COLEMAN,205,40,157,8
+Ohio,B103,Attorney General,,DEM,Pamela STEVENSON,79,28,46,5
+Ohio,B103,Attorney General,,,Total Votes,284,68,203,13
+Ohio,B103,Attorney General,,,Under Votes,11,1,10,0
+Ohio,B103,Attorney General,,,Over Votes,0,0,0,0
+Ohio,B103,Auditor of Public Accounts,,REP,Allison BALL,209,43,158,8
+Ohio,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",76,25,46,5
+Ohio,B103,Auditor of Public Accounts,,,Total Votes,285,68,204,13
+Ohio,B103,Auditor of Public Accounts,,,Under Votes,10,1,9,0
+Ohio,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,B103,State Treasurer,,REP,Mark H. METCALF,199,38,153,8
+Ohio,B103,State Treasurer,,DEM,Michael BOWMAN,84,30,49,5
+Ohio,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,B103,State Treasurer,,,Total Votes,283,68,202,13
+Ohio,B103,State Treasurer,,,Under Votes,12,1,11,0
+Ohio,B103,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,212,44,161,7
+Ohio,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,76,25,45,6
+Ohio,B103,Commissioner of Agriculture,,,Total Votes,288,69,206,13
+Ohio,B103,Commissioner of Agriculture,,,Under Votes,7,0,7,0
+Ohio,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C101,STRAIGHT PARTY,,,Republican,61,5,55,1
+Ohio,C101,STRAIGHT PARTY,,,Democratic,37,3,31,3
+Ohio,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",88,8,78,2
+Ohio,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,89,9,76,4
+Ohio,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,C101,Governor,,,Total Votes,177,17,154,6
+Ohio,C101,Governor,,,Under Votes,1,0,1,0
+Ohio,C101,Governor,,,Over Votes,0,0,0,0
+Ohio,C101,Secretary of State,,REP,Michael ADAMS,105,11,92,2
+Ohio,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,6,58,4
+Ohio,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,C101,Secretary of State,,,Total Votes,173,17,150,6
+Ohio,C101,Secretary of State,,,Under Votes,5,0,5,0
+Ohio,C101,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,C101,Attorney General,,REP,Russell COLEMAN,104,9,93,2
+Ohio,C101,Attorney General,,DEM,Pamela STEVENSON,69,8,57,4
+Ohio,C101,Attorney General,,,Total Votes,173,17,150,6
+Ohio,C101,Attorney General,,,Under Votes,5,0,5,0
+Ohio,C101,Attorney General,,,Over Votes,0,0,0,0
+Ohio,C101,Auditor of Public Accounts,,REP,Allison BALL,104,11,91,2
+Ohio,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",66,6,56,4
+Ohio,C101,Auditor of Public Accounts,,,Total Votes,170,17,147,6
+Ohio,C101,Auditor of Public Accounts,,,Under Votes,8,0,8,0
+Ohio,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,C101,State Treasurer,,REP,Mark H. METCALF,99,8,89,2
+Ohio,C101,State Treasurer,,DEM,Michael BOWMAN,74,9,61,4
+Ohio,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,C101,State Treasurer,,,Total Votes,173,17,150,6
+Ohio,C101,State Treasurer,,,Under Votes,5,0,5,0
+Ohio,C101,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,102,9,91,2
+Ohio,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,70,8,58,4
+Ohio,C101,Commissioner of Agriculture,,,Total Votes,172,17,149,6
+Ohio,C101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Ohio,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C101,Commissioner of Agriculture,,,Robert D HARRIS (W),7,2,5,0
+Ohio,C101,Commissioner of Agriculture,,,Total Votes,7,2,5,0
+Ohio,C101,Commissioner of Agriculture,,,Under Votes,50,2,47,1
+Ohio,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C102,STRAIGHT PARTY,,,Republican,143,18,122,3
+Ohio,C102,STRAIGHT PARTY,,,Democratic,55,8,46,1
+Ohio,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",195,30,160,5
+Ohio,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,124,15,108,1
+Ohio,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,C102,Governor,,,Total Votes,319,45,268,6
+Ohio,C102,Governor,,,Under Votes,1,0,1,0
+Ohio,C102,Governor,,,Over Votes,0,0,0,0
+Ohio,C102,Secretary of State,,REP,Michael ADAMS,230,31,194,5
+Ohio,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",82,10,71,1
+Ohio,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,C102,Secretary of State,,,Total Votes,312,41,265,6
+Ohio,C102,Secretary of State,,,Under Votes,8,4,4,0
+Ohio,C102,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,C102,Attorney General,,REP,Russell COLEMAN,234,31,198,5
+Ohio,C102,Attorney General,,DEM,Pamela STEVENSON,76,10,65,1
+Ohio,C102,Attorney General,,,Total Votes,310,41,263,6
+Ohio,C102,Attorney General,,,Under Votes,10,4,6,0
+Ohio,C102,Attorney General,,,Over Votes,0,0,0,0
+Ohio,C102,Auditor of Public Accounts,,REP,Allison BALL,230,30,195,5
+Ohio,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",79,9,69,1
+Ohio,C102,Auditor of Public Accounts,,,Total Votes,309,39,264,6
+Ohio,C102,Auditor of Public Accounts,,,Under Votes,11,6,5,0
+Ohio,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,C102,State Treasurer,,REP,Mark H. METCALF,227,29,193,5
+Ohio,C102,State Treasurer,,DEM,Michael BOWMAN,82,11,70,1
+Ohio,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,C102,State Treasurer,,,Total Votes,309,40,263,6
+Ohio,C102,State Treasurer,,,Under Votes,11,5,6,0
+Ohio,C102,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,233,30,198,5
+Ohio,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,75,8,66,1
+Ohio,C102,Commissioner of Agriculture,,,Total Votes,308,38,264,6
+Ohio,C102,Commissioner of Agriculture,,,Under Votes,12,7,5,0
+Ohio,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C102,Commissioner of Agriculture,,,Joshua CHINN (W),3,0,3,0
+Ohio,C102,Commissioner of Agriculture,,,Misty RIGER (W),5,2,3,0
+Ohio,C102,Commissioner of Agriculture,,,Total Votes,8,2,6,0
+Ohio,C102,Commissioner of Agriculture,,,Under Votes,312,46,254,12
+Ohio,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C103,STRAIGHT PARTY,,,Republican,191,25,165,1
+Ohio,C103,STRAIGHT PARTY,,,Democratic,89,25,60,4
+Ohio,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",301,38,261,2
+Ohio,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,245,57,178,10
+Ohio,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,C103,Governor,,,Total Votes,546,95,439,12
+Ohio,C103,Governor,,,Under Votes,4,0,3,1
+Ohio,C103,Governor,,,Over Votes,1,0,0,1
+Ohio,C103,Secretary of State,,REP,Michael ADAMS,381,54,321,6
+Ohio,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",157,40,110,7
+Ohio,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,C103,Secretary of State,,,Total Votes,538,94,431,13
+Ohio,C103,Secretary of State,,,Under Votes,13,1,11,1
+Ohio,C103,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,C103,Attorney General,,REP,Russell COLEMAN,386,53,329,4
+Ohio,C103,Attorney General,,DEM,Pamela STEVENSON,155,41,106,8
+Ohio,C103,Attorney General,,,Total Votes,541,94,435,12
+Ohio,C103,Attorney General,,,Under Votes,10,1,7,2
+Ohio,C103,Attorney General,,,Over Votes,0,0,0,0
+Ohio,C103,Auditor of Public Accounts,,REP,Allison BALL,380,47,327,6
+Ohio,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",153,45,102,6
+Ohio,C103,Auditor of Public Accounts,,,Total Votes,533,92,429,12
+Ohio,C103,Auditor of Public Accounts,,,Under Votes,18,3,13,2
+Ohio,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,C103,State Treasurer,,REP,Mark H. METCALF,362,46,311,5
+Ohio,C103,State Treasurer,,DEM,Michael BOWMAN,173,47,119,7
+Ohio,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,C103,State Treasurer,,,Total Votes,535,93,430,12
+Ohio,C103,State Treasurer,,,Under Votes,16,2,12,2
+Ohio,C103,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,389,50,334,5
+Ohio,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,145,41,97,7
+Ohio,C103,Commissioner of Agriculture,,,Total Votes,534,91,431,12
+Ohio,C103,Commissioner of Agriculture,,,Under Votes,17,4,11,2
+Ohio,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,C104,STRAIGHT PARTY,,,Republican,144,27,111,6
+Ohio,C104,STRAIGHT PARTY,,,Democratic,41,7,30,4
+Ohio,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",200,31,162,7
+Ohio,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,20,94,6
+Ohio,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,C104,Governor,,,Total Votes,320,51,256,13
+Ohio,C104,Governor,,,Under Votes,1,0,1,0
+Ohio,C104,Governor,,,Over Votes,0,0,0,0
+Ohio,C104,Secretary of State,,REP,Michael ADAMS,228,36,185,7
+Ohio,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",89,15,68,6
+Ohio,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,C104,Secretary of State,,,Total Votes,317,51,253,13
+Ohio,C104,Secretary of State,,,Under Votes,4,0,4,0
+Ohio,C104,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,C104,Attorney General,,REP,Russell COLEMAN,227,34,186,7
+Ohio,C104,Attorney General,,DEM,Pamela STEVENSON,90,17,67,6
+Ohio,C104,Attorney General,,,Total Votes,317,51,253,13
+Ohio,C104,Attorney General,,,Under Votes,4,0,4,0
+Ohio,C104,Attorney General,,,Over Votes,0,0,0,0
+Ohio,C104,Auditor of Public Accounts,,REP,Allison BALL,231,37,187,7
+Ohio,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",85,14,65,6
+Ohio,C104,Auditor of Public Accounts,,,Total Votes,316,51,252,13
+Ohio,C104,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Ohio,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,C104,State Treasurer,,REP,Mark H. METCALF,224,34,183,7
+Ohio,C104,State Treasurer,,DEM,Michael BOWMAN,92,17,69,6
+Ohio,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,C104,State Treasurer,,,Total Votes,316,51,252,13
+Ohio,C104,State Treasurer,,,Under Votes,5,0,5,0
+Ohio,C104,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,233,38,188,7
+Ohio,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,83,13,64,6
+Ohio,C104,Commissioner of Agriculture,,,Total Votes,316,51,252,13
+Ohio,C104,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Ohio,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,D101,STRAIGHT PARTY,,,Republican,133,7,125,1
+Ohio,D101,STRAIGHT PARTY,,,Democratic,49,6,42,1
+Ohio,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",202,12,189,1
+Ohio,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,123,11,110,2
+Ohio,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,D101,Governor,,,Total Votes,325,23,299,3
+Ohio,D101,Governor,,,Under Votes,2,0,1,1
+Ohio,D101,Governor,,,Over Votes,0,0,0,0
+Ohio,D101,Secretary of State,,REP,Michael ADAMS,239,13,223,3
+Ohio,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",84,10,73,1
+Ohio,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,D101,Secretary of State,,,Total Votes,323,23,296,4
+Ohio,D101,Secretary of State,,,Under Votes,4,0,4,0
+Ohio,D101,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,D101,Attorney General,,REP,Russell COLEMAN,231,12,217,2
+Ohio,D101,Attorney General,,DEM,Pamela STEVENSON,89,11,76,2
+Ohio,D101,Attorney General,,,Total Votes,320,23,293,4
+Ohio,D101,Attorney General,,,Under Votes,7,0,7,0
+Ohio,D101,Attorney General,,,Over Votes,0,0,0,0
+Ohio,D101,Auditor of Public Accounts,,REP,Allison BALL,236,13,220,3
+Ohio,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",81,9,71,1
+Ohio,D101,Auditor of Public Accounts,,,Total Votes,317,22,291,4
+Ohio,D101,Auditor of Public Accounts,,,Under Votes,10,1,9,0
+Ohio,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,D101,State Treasurer,,REP,Mark H. METCALF,223,11,210,2
+Ohio,D101,State Treasurer,,DEM,Michael BOWMAN,94,11,81,2
+Ohio,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,D101,State Treasurer,,,Total Votes,317,22,291,4
+Ohio,D101,State Treasurer,,,Under Votes,10,1,9,0
+Ohio,D101,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,237,12,223,2
+Ohio,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,10,65,2
+Ohio,D101,Commissioner of Agriculture,,,Total Votes,314,22,288,4
+Ohio,D101,Commissioner of Agriculture,,,Under Votes,13,1,12,0
+Ohio,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,D102,STRAIGHT PARTY,,,Republican,248,12,236,0
+Ohio,D102,STRAIGHT PARTY,,,Democratic,72,6,60,6
+Ohio,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",367,16,351,0
+Ohio,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,151,10,129,12
+Ohio,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,D102,Governor,,,Total Votes,518,26,480,12
+Ohio,D102,Governor,,,Under Votes,0,0,0,0
+Ohio,D102,Governor,,,Over Votes,0,0,0,0
+Ohio,D102,Secretary of State,,REP,Michael ADAMS,393,18,373,2
+Ohio,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,8,91,9
+Ohio,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,D102,Secretary of State,,,Total Votes,501,26,464,11
+Ohio,D102,Secretary of State,,,Under Votes,17,0,16,1
+Ohio,D102,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,D102,Attorney General,,REP,Russell COLEMAN,401,18,382,1
+Ohio,D102,Attorney General,,DEM,Pamela STEVENSON,108,8,89,11
+Ohio,D102,Attorney General,,,Total Votes,509,26,471,12
+Ohio,D102,Attorney General,,,Under Votes,9,0,9,0
+Ohio,D102,Attorney General,,,Over Votes,0,0,0,0
+Ohio,D102,Auditor of Public Accounts,,REP,Allison BALL,392,17,373,2
+Ohio,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",112,9,94,9
+Ohio,D102,Auditor of Public Accounts,,,Total Votes,504,26,467,11
+Ohio,D102,Auditor of Public Accounts,,,Under Votes,14,0,13,1
+Ohio,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,D102,State Treasurer,,REP,Mark H. METCALF,393,17,375,1
+Ohio,D102,State Treasurer,,DEM,Michael BOWMAN,111,9,92,10
+Ohio,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,D102,State Treasurer,,,Total Votes,504,26,467,11
+Ohio,D102,State Treasurer,,,Under Votes,14,0,13,1
+Ohio,D102,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,405,18,386,1
+Ohio,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,102,8,84,10
+Ohio,D102,Commissioner of Agriculture,,,Total Votes,507,26,470,11
+Ohio,D102,Commissioner of Agriculture,,,Under Votes,11,0,10,1
+Ohio,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,D104,STRAIGHT PARTY,,,Republican,117,14,102,1
+Ohio,D104,STRAIGHT PARTY,,,Democratic,45,5,33,7
+Ohio,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",180,17,158,5
+Ohio,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,91,17,65,9
+Ohio,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,D104,Governor,,,Total Votes,271,34,223,14
+Ohio,D104,Governor,,,Under Votes,0,0,0,0
+Ohio,D104,Governor,,,Over Votes,0,0,0,0
+Ohio,D104,Secretary of State,,REP,Michael ADAMS,197,21,169,7
+Ohio,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,13,50,7
+Ohio,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,D104,Secretary of State,,,Total Votes,267,34,219,14
+Ohio,D104,Secretary of State,,,Under Votes,4,0,4,0
+Ohio,D104,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,D104,Attorney General,,REP,Russell COLEMAN,198,24,168,6
+Ohio,D104,Attorney General,,DEM,Pamela STEVENSON,69,10,51,8
+Ohio,D104,Attorney General,,,Total Votes,267,34,219,14
+Ohio,D104,Attorney General,,,Under Votes,4,0,4,0
+Ohio,D104,Attorney General,,,Over Votes,0,0,0,0
+Ohio,D104,Auditor of Public Accounts,,REP,Allison BALL,193,24,166,3
+Ohio,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,10,51,11
+Ohio,D104,Auditor of Public Accounts,,,Total Votes,265,34,217,14
+Ohio,D104,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Ohio,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,D104,State Treasurer,,REP,Mark H. METCALF,190,22,163,5
+Ohio,D104,State Treasurer,,DEM,Michael BOWMAN,71,12,50,9
+Ohio,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,D104,State Treasurer,,,Total Votes,261,34,213,14
+Ohio,D104,State Treasurer,,,Under Votes,10,0,10,0
+Ohio,D104,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,195,22,167,6
+Ohio,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,12,47,8
+Ohio,D104,Commissioner of Agriculture,,,Total Votes,262,34,214,14
+Ohio,D104,Commissioner of Agriculture,,,Under Votes,9,0,9,0
+Ohio,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,D106,STRAIGHT PARTY,,,Republican,68,15,52,1
+Ohio,D106,STRAIGHT PARTY,,,Democratic,26,11,13,2
+Ohio,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",108,21,85,2
+Ohio,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,64,18,43,3
+Ohio,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,D106,Governor,,,Total Votes,172,39,128,5
+Ohio,D106,Governor,,,Under Votes,1,0,1,0
+Ohio,D106,Governor,,,Over Votes,0,0,0,0
+Ohio,D106,Secretary of State,,REP,Michael ADAMS,119,24,93,2
+Ohio,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",46,15,28,3
+Ohio,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,D106,Secretary of State,,,Total Votes,165,39,121,5
+Ohio,D106,Secretary of State,,,Under Votes,8,0,8,0
+Ohio,D106,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,D106,Attorney General,,REP,Russell COLEMAN,122,21,99,2
+Ohio,D106,Attorney General,,DEM,Pamela STEVENSON,47,18,26,3
+Ohio,D106,Attorney General,,,Total Votes,169,39,125,5
+Ohio,D106,Attorney General,,,Under Votes,4,0,4,0
+Ohio,D106,Attorney General,,,Over Votes,0,0,0,0
+Ohio,D106,Auditor of Public Accounts,,REP,Allison BALL,123,23,98,2
+Ohio,D106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",45,16,26,3
+Ohio,D106,Auditor of Public Accounts,,,Total Votes,168,39,124,5
+Ohio,D106,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Ohio,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,D106,State Treasurer,,REP,Mark H. METCALF,121,23,96,2
+Ohio,D106,State Treasurer,,DEM,Michael BOWMAN,47,16,28,3
+Ohio,D106,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,D106,State Treasurer,,,Total Votes,168,39,124,5
+Ohio,D106,State Treasurer,,,Under Votes,5,0,5,0
+Ohio,D106,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,125,23,100,2
+Ohio,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,16,24,3
+Ohio,D106,Commissioner of Agriculture,,,Total Votes,168,39,124,5
+Ohio,D106,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Ohio,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,E101,STRAIGHT PARTY,,,Republican,226,29,192,5
+Ohio,E101,STRAIGHT PARTY,,,Democratic,61,10,50,1
+Ohio,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",332,39,289,4
+Ohio,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,144,17,124,3
+Ohio,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,E101,Governor,,,Total Votes,476,56,413,7
+Ohio,E101,Governor,,,Under Votes,2,1,1,0
+Ohio,E101,Governor,,,Over Votes,0,0,0,0
+Ohio,E101,Secretary of State,,REP,Michael ADAMS,358,37,315,6
+Ohio,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",106,16,89,1
+Ohio,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,E101,Secretary of State,,,Total Votes,464,53,404,7
+Ohio,E101,Secretary of State,,,Under Votes,14,4,10,0
+Ohio,E101,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,E101,Attorney General,,REP,Russell COLEMAN,353,37,310,6
+Ohio,E101,Attorney General,,DEM,Pamela STEVENSON,113,16,96,1
+Ohio,E101,Attorney General,,,Total Votes,466,53,406,7
+Ohio,E101,Attorney General,,,Under Votes,12,4,8,0
+Ohio,E101,Attorney General,,,Over Votes,0,0,0,0
+Ohio,E101,Auditor of Public Accounts,,REP,Allison BALL,359,38,315,6
+Ohio,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",104,15,88,1
+Ohio,E101,Auditor of Public Accounts,,,Total Votes,463,53,403,7
+Ohio,E101,Auditor of Public Accounts,,,Under Votes,14,4,10,0
+Ohio,E101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Ohio,E101,State Treasurer,,REP,Mark H. METCALF,349,37,306,6
+Ohio,E101,State Treasurer,,DEM,Michael BOWMAN,114,16,97,1
+Ohio,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,E101,State Treasurer,,,Total Votes,463,53,403,7
+Ohio,E101,State Treasurer,,,Under Votes,15,4,11,0
+Ohio,E101,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,360,37,317,6
+Ohio,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,105,16,88,1
+Ohio,E101,Commissioner of Agriculture,,,Total Votes,465,53,405,7
+Ohio,E101,Commissioner of Agriculture,,,Under Votes,13,4,9,0
+Ohio,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,E102,STRAIGHT PARTY,,,Republican,171,9,161,1
+Ohio,E102,STRAIGHT PARTY,,,Democratic,31,4,27,0
+Ohio,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",221,9,210,2
+Ohio,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,98,12,85,1
+Ohio,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,E102,Governor,,,Total Votes,319,21,295,3
+Ohio,E102,Governor,,,Under Votes,0,0,0,0
+Ohio,E102,Governor,,,Over Votes,0,0,0,0
+Ohio,E102,Secretary of State,,REP,Michael ADAMS,253,12,239,2
+Ohio,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,9,52,1
+Ohio,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,E102,Secretary of State,,,Total Votes,315,21,291,3
+Ohio,E102,Secretary of State,,,Under Votes,4,0,4,0
+Ohio,E102,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,E102,Attorney General,,REP,Russell COLEMAN,257,13,241,3
+Ohio,E102,Attorney General,,DEM,Pamela STEVENSON,57,8,49,0
+Ohio,E102,Attorney General,,,Total Votes,314,21,290,3
+Ohio,E102,Attorney General,,,Under Votes,5,0,5,0
+Ohio,E102,Attorney General,,,Over Votes,0,0,0,0
+Ohio,E102,Auditor of Public Accounts,,REP,Allison BALL,249,12,234,3
+Ohio,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",63,9,54,0
+Ohio,E102,Auditor of Public Accounts,,,Total Votes,312,21,288,3
+Ohio,E102,Auditor of Public Accounts,,,Under Votes,7,0,7,0
+Ohio,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,E102,State Treasurer,,REP,Mark H. METCALF,248,13,232,3
+Ohio,E102,State Treasurer,,DEM,Michael BOWMAN,64,8,56,0
+Ohio,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,E102,State Treasurer,,,Total Votes,312,21,288,3
+Ohio,E102,State Treasurer,,,Under Votes,7,0,7,0
+Ohio,E102,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,257,13,241,3
+Ohio,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,56,8,48,0
+Ohio,E102,Commissioner of Agriculture,,,Total Votes,313,21,289,3
+Ohio,E102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Ohio,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,E103,STRAIGHT PARTY,,,Republican,136,22,113,1
+Ohio,E103,STRAIGHT PARTY,,,Democratic,31,12,19,0
+Ohio,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",225,43,178,4
+Ohio,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,33,60,2
+Ohio,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,E103,Governor,,,Total Votes,320,76,238,6
+Ohio,E103,Governor,,,Under Votes,0,0,0,0
+Ohio,E103,Governor,,,Over Votes,0,0,0,0
+Ohio,E103,Secretary of State,,REP,Michael ADAMS,251,54,191,6
+Ohio,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,19,38,0
+Ohio,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,E103,Secretary of State,,,Total Votes,308,73,229,6
+Ohio,E103,Secretary of State,,,Under Votes,12,3,9,0
+Ohio,E103,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,E103,Attorney General,,REP,Russell COLEMAN,252,56,190,6
+Ohio,E103,Attorney General,,DEM,Pamela STEVENSON,62,17,45,0
+Ohio,E103,Attorney General,,,Total Votes,314,73,235,6
+Ohio,E103,Attorney General,,,Under Votes,6,3,3,0
+Ohio,E103,Attorney General,,,Over Votes,0,0,0,0
+Ohio,E103,Auditor of Public Accounts,,REP,Allison BALL,247,55,186,6
+Ohio,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",66,18,48,0
+Ohio,E103,Auditor of Public Accounts,,,Total Votes,313,73,234,6
+Ohio,E103,Auditor of Public Accounts,,,Under Votes,7,3,4,0
+Ohio,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,E103,State Treasurer,,REP,Mark H. METCALF,241,50,185,6
+Ohio,E103,State Treasurer,,DEM,Michael BOWMAN,71,22,49,0
+Ohio,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,E103,State Treasurer,,,Total Votes,312,72,234,6
+Ohio,E103,State Treasurer,,,Under Votes,8,4,4,0
+Ohio,E103,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,251,55,190,6
+Ohio,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,62,18,44,0
+Ohio,E103,Commissioner of Agriculture,,,Total Votes,313,73,234,6
+Ohio,E103,Commissioner of Agriculture,,,Under Votes,7,3,4,0
+Ohio,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Ohio,E105,STRAIGHT PARTY,,,Republican,57,7,50,0
+Ohio,E105,STRAIGHT PARTY,,,Democratic,25,4,19,2
+Ohio,E105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",94,8,86,0
+Ohio,E105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,59,11,46,2
+Ohio,E105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Ohio,E105,Governor,,,Total Votes,153,19,132,2
+Ohio,E105,Governor,,,Under Votes,0,0,0,0
+Ohio,E105,Governor,,,Over Votes,1,0,1,0
+Ohio,E105,Secretary of State,,REP,Michael ADAMS,109,11,98,0
+Ohio,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",39,7,30,2
+Ohio,E105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Ohio,E105,Secretary of State,,,Total Votes,148,18,128,2
+Ohio,E105,Secretary of State,,,Under Votes,6,1,5,0
+Ohio,E105,Secretary of State,,,Over Votes,0,0,0,0
+Ohio,E105,Attorney General,,REP,Russell COLEMAN,113,10,103,0
+Ohio,E105,Attorney General,,DEM,Pamela STEVENSON,36,8,26,2
+Ohio,E105,Attorney General,,,Total Votes,149,18,129,2
+Ohio,E105,Attorney General,,,Under Votes,5,1,4,0
+Ohio,E105,Attorney General,,,Over Votes,0,0,0,0
+Ohio,E105,Auditor of Public Accounts,,REP,Allison BALL,110,11,99,0
+Ohio,E105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",35,5,28,2
+Ohio,E105,Auditor of Public Accounts,,,Total Votes,145,16,127,2
+Ohio,E105,Auditor of Public Accounts,,,Under Votes,9,3,6,0
+Ohio,E105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Ohio,E105,State Treasurer,,REP,Mark H. METCALF,107,8,99,0
+Ohio,E105,State Treasurer,,DEM,Michael BOWMAN,40,9,29,2
+Ohio,E105,State Treasurer,,,Robert Perry,0,0,0,0
+Ohio,E105,State Treasurer,,,Total Votes,147,17,128,2
+Ohio,E105,State Treasurer,,,Under Votes,7,2,5,0
+Ohio,E105,State Treasurer,,,Over Votes,0,0,0,0
+Ohio,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,111,9,102,0
+Ohio,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,8,28,2
+Ohio,E105,Commissioner of Agriculture,,,Total Votes,149,17,130,2
+Ohio,E105,Commissioner of Agriculture,,,Under Votes,5,2,3,0
+Ohio,E105,Commissioner of Agriculture,,,Over Votes,0,0,0,0

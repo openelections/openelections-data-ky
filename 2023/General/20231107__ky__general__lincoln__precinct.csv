@@ -1,0 +1,596 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Lincoln,A101,STRAIGHT PARTY,,,Republican,99,16,78,5
+Lincoln,A101,STRAIGHT PARTY,,,Democratic,49,13,22,14
+Lincoln,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",208,45,153,10
+Lincoln,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,149,43,82,24
+Lincoln,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,A101,Governor,,,Total Votes,357,88,235,34
+Lincoln,A101,Governor,,,Under Votes,7,1,4,2
+Lincoln,A101,Governor,,,Over Votes,0,0,0,0
+Lincoln,A101,Secretary of State,,REP,Michael ADAMS,265,63,183,19
+Lincoln,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,26,52,16
+Lincoln,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,A101,Secretary of State,,,Total Votes,359,89,235,35
+Lincoln,A101,Secretary of State,,,Under Votes,6,0,5,1
+Lincoln,A101,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,A101,Attorney General,,REP,Russell COLEMAN,257,58,184,15
+Lincoln,A101,Attorney General,,DEM,Pamela STEVENSON,100,31,50,19
+Lincoln,A101,Attorney General,,,Total Votes,357,89,234,34
+Lincoln,A101,Attorney General,,,Under Votes,7,0,5,2
+Lincoln,A101,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,A101,Auditor of Public Accounts,,REP,Allison BALL,261,61,184,16
+Lincoln,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",94,26,49,19
+Lincoln,A101,Auditor of Public Accounts,,,Total Votes,355,87,233,35
+Lincoln,A101,Auditor of Public Accounts,,,Under Votes,10,2,7,1
+Lincoln,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,A101,State Treasurer,,REP,Mark H. METCALF,260,60,184,16
+Lincoln,A101,State Treasurer,,DEM,Michael BOWMAN,96,29,48,19
+Lincoln,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,A101,State Treasurer,,,Total Votes,356,89,232,35
+Lincoln,A101,State Treasurer,,,Under Votes,8,0,7,1
+Lincoln,A101,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,260,61,182,17
+Lincoln,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,96,26,52,18
+Lincoln,A101,Commissioner of Agriculture,,,Total Votes,356,87,234,35
+Lincoln,A101,Commissioner of Agriculture,,,Under Votes,9,2,6,1
+Lincoln,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,A102,STRAIGHT PARTY,,,Republican,216,58,142,16
+Lincoln,A102,STRAIGHT PARTY,,,Democratic,83,32,45,6
+Lincoln,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",433,124,275,34
+Lincoln,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,302,119,157,26
+Lincoln,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,A102,Governor,,,Total Votes,735,243,432,60
+Lincoln,A102,Governor,,,Under Votes,4,1,3,0
+Lincoln,A102,Governor,,,Over Votes,0,0,0,0
+Lincoln,A102,Secretary of State,,REP,Michael ADAMS,542,173,327,42
+Lincoln,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",181,65,100,16
+Lincoln,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,A102,Secretary of State,,,Total Votes,723,238,427,58
+Lincoln,A102,Secretary of State,,,Under Votes,14,5,7,2
+Lincoln,A102,Secretary of State,,,Over Votes,1,1,0,0
+Lincoln,A102,Attorney General,,REP,Russell COLEMAN,531,159,326,46
+Lincoln,A102,Attorney General,,DEM,Pamela STEVENSON,189,78,99,12
+Lincoln,A102,Attorney General,,,Total Votes,720,237,425,58
+Lincoln,A102,Attorney General,,,Under Votes,17,6,9,2
+Lincoln,A102,Attorney General,,,Over Votes,1,1,0,0
+Lincoln,A102,Auditor of Public Accounts,,REP,Allison BALL,534,168,322,44
+Lincoln,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",173,67,93,13
+Lincoln,A102,Auditor of Public Accounts,,,Total Votes,707,235,415,57
+Lincoln,A102,Auditor of Public Accounts,,,Under Votes,31,9,19,3
+Lincoln,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,A102,State Treasurer,,REP,Mark H. METCALF,522,160,319,43
+Lincoln,A102,State Treasurer,,DEM,Michael BOWMAN,192,76,101,15
+Lincoln,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,A102,State Treasurer,,,Total Votes,714,236,420,58
+Lincoln,A102,State Treasurer,,,Under Votes,24,8,14,2
+Lincoln,A102,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,542,166,332,44
+Lincoln,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,170,68,87,15
+Lincoln,A102,Commissioner of Agriculture,,,Total Votes,712,234,419,59
+Lincoln,A102,Commissioner of Agriculture,,,Under Votes,25,10,14,1
+Lincoln,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,A103,STRAIGHT PARTY,,,Republican,128,36,86,6
+Lincoln,A103,STRAIGHT PARTY,,,Democratic,58,21,31,6
+Lincoln,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",245,66,168,11
+Lincoln,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,245,95,139,11
+Lincoln,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,A103,Governor,,,Total Votes,490,161,307,22
+Lincoln,A103,Governor,,,Under Votes,1,0,0,1
+Lincoln,A103,Governor,,,Over Votes,0,0,0,0
+Lincoln,A103,Secretary of State,,REP,Michael ADAMS,327,105,209,13
+Lincoln,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",150,53,89,8
+Lincoln,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,A103,Secretary of State,,,Total Votes,477,158,298,21
+Lincoln,A103,Secretary of State,,,Under Votes,14,3,9,2
+Lincoln,A103,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,A103,Attorney General,,REP,Russell COLEMAN,317,97,207,13
+Lincoln,A103,Attorney General,,DEM,Pamela STEVENSON,160,62,90,8
+Lincoln,A103,Attorney General,,,Total Votes,477,159,297,21
+Lincoln,A103,Attorney General,,,Under Votes,14,2,10,2
+Lincoln,A103,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,A103,Auditor of Public Accounts,,REP,Allison BALL,329,104,211,14
+Lincoln,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",141,52,82,7
+Lincoln,A103,Auditor of Public Accounts,,,Total Votes,470,156,293,21
+Lincoln,A103,Auditor of Public Accounts,,,Under Votes,20,5,13,2
+Lincoln,A103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Lincoln,A103,State Treasurer,,REP,Mark H. METCALF,322,97,212,13
+Lincoln,A103,State Treasurer,,DEM,Michael BOWMAN,150,60,82,8
+Lincoln,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,A103,State Treasurer,,,Total Votes,472,157,294,21
+Lincoln,A103,State Treasurer,,,Under Votes,18,4,12,2
+Lincoln,A103,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,330,99,218,13
+Lincoln,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,143,57,78,8
+Lincoln,A103,Commissioner of Agriculture,,,Total Votes,473,156,296,21
+Lincoln,A103,Commissioner of Agriculture,,,Under Votes,18,5,11,2
+Lincoln,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,A104,STRAIGHT PARTY,,,Republican,59,21,36,2
+Lincoln,A104,STRAIGHT PARTY,,,Democratic,38,17,16,5
+Lincoln,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",125,37,83,5
+Lincoln,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,124,43,64,17
+Lincoln,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,A104,Governor,,,Total Votes,249,80,147,22
+Lincoln,A104,Governor,,,Under Votes,1,1,0,0
+Lincoln,A104,Governor,,,Over Votes,0,0,0,0
+Lincoln,A104,Secretary of State,,REP,Michael ADAMS,166,50,104,12
+Lincoln,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,27,37,9
+Lincoln,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,A104,Secretary of State,,,Total Votes,239,77,141,21
+Lincoln,A104,Secretary of State,,,Under Votes,11,4,6,1
+Lincoln,A104,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,A104,Attorney General,,REP,Russell COLEMAN,149,43,98,8
+Lincoln,A104,Attorney General,,DEM,Pamela STEVENSON,94,36,46,12
+Lincoln,A104,Attorney General,,,Total Votes,243,79,144,20
+Lincoln,A104,Attorney General,,,Under Votes,7,2,3,2
+Lincoln,A104,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,A104,Auditor of Public Accounts,,REP,Allison BALL,161,47,102,12
+Lincoln,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",73,31,35,7
+Lincoln,A104,Auditor of Public Accounts,,,Total Votes,234,78,137,19
+Lincoln,A104,Auditor of Public Accounts,,,Under Votes,15,3,9,3
+Lincoln,A104,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Lincoln,A104,State Treasurer,,REP,Mark H. METCALF,160,44,106,10
+Lincoln,A104,State Treasurer,,DEM,Michael BOWMAN,77,32,36,9
+Lincoln,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,A104,State Treasurer,,,Total Votes,237,76,142,19
+Lincoln,A104,State Treasurer,,,Under Votes,12,5,4,3
+Lincoln,A104,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,177,48,118,11
+Lincoln,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,63,29,26,8
+Lincoln,A104,Commissioner of Agriculture,,,Total Votes,240,77,144,19
+Lincoln,A104,Commissioner of Agriculture,,,Under Votes,10,4,3,3
+Lincoln,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,B101,STRAIGHT PARTY,,,Republican,122,9,108,5
+Lincoln,B101,STRAIGHT PARTY,,,Democratic,48,9,32,7
+Lincoln,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",247,28,209,10
+Lincoln,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,151,29,105,17
+Lincoln,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,B101,Governor,,,Total Votes,398,57,314,27
+Lincoln,B101,Governor,,,Under Votes,3,0,3,0
+Lincoln,B101,Governor,,,Over Votes,0,0,0,0
+Lincoln,B101,Secretary of State,,REP,Michael ADAMS,302,38,248,16
+Lincoln,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",90,18,62,10
+Lincoln,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,B101,Secretary of State,,,Total Votes,392,56,310,26
+Lincoln,B101,Secretary of State,,,Under Votes,7,1,5,1
+Lincoln,B101,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,B101,Attorney General,,REP,Russell COLEMAN,292,36,245,11
+Lincoln,B101,Attorney General,,DEM,Pamela STEVENSON,103,20,68,15
+Lincoln,B101,Attorney General,,,Total Votes,395,56,313,26
+Lincoln,B101,Attorney General,,,Under Votes,6,1,4,1
+Lincoln,B101,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,B101,Auditor of Public Accounts,,REP,Allison BALL,305,35,259,11
+Lincoln,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",89,21,54,14
+Lincoln,B101,Auditor of Public Accounts,,,Total Votes,394,56,313,25
+Lincoln,B101,Auditor of Public Accounts,,,Under Votes,7,1,4,2
+Lincoln,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,B101,State Treasurer,,REP,Mark H. METCALF,297,36,249,12
+Lincoln,B101,State Treasurer,,DEM,Michael BOWMAN,100,21,65,14
+Lincoln,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,B101,State Treasurer,,,Total Votes,397,57,314,26
+Lincoln,B101,State Treasurer,,,Under Votes,4,0,3,1
+Lincoln,B101,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,311,40,259,12
+Lincoln,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,86,17,55,14
+Lincoln,B101,Commissioner of Agriculture,,,Total Votes,397,57,314,26
+Lincoln,B101,Commissioner of Agriculture,,,Under Votes,4,0,3,1
+Lincoln,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,B102,STRAIGHT PARTY,,,Republican,121,13,103,5
+Lincoln,B102,STRAIGHT PARTY,,,Democratic,26,4,21,1
+Lincoln,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",208,25,172,11
+Lincoln,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,118,29,84,5
+Lincoln,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,B102,Governor,,,Total Votes,326,54,256,16
+Lincoln,B102,Governor,,,Under Votes,4,3,1,0
+Lincoln,B102,Governor,,,Over Votes,0,0,0,0
+Lincoln,B102,Secretary of State,,REP,Michael ADAMS,254,40,199,15
+Lincoln,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,14,49,1
+Lincoln,B102,Secretary of State,,,Kenneth C. Moellman Jr.,2,2,0,0
+Lincoln,B102,Secretary of State,,,Total Votes,320,56,248,16
+Lincoln,B102,Secretary of State,,,Under Votes,10,1,9,0
+Lincoln,B102,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,B102,Attorney General,,REP,Russell COLEMAN,256,37,205,14
+Lincoln,B102,Attorney General,,DEM,Pamela STEVENSON,66,18,46,2
+Lincoln,B102,Attorney General,,,Total Votes,322,55,251,16
+Lincoln,B102,Attorney General,,,Under Votes,8,2,6,0
+Lincoln,B102,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,B102,Auditor of Public Accounts,,REP,Allison BALL,258,39,204,15
+Lincoln,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",60,15,44,1
+Lincoln,B102,Auditor of Public Accounts,,,Total Votes,318,54,248,16
+Lincoln,B102,Auditor of Public Accounts,,,Under Votes,11,3,8,0
+Lincoln,B102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Lincoln,B102,State Treasurer,,REP,Mark H. METCALF,255,37,203,15
+Lincoln,B102,State Treasurer,,DEM,Michael BOWMAN,68,18,49,1
+Lincoln,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,B102,State Treasurer,,,Total Votes,323,55,252,16
+Lincoln,B102,State Treasurer,,,Under Votes,7,2,5,0
+Lincoln,B102,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,265,41,209,15
+Lincoln,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,56,15,40,1
+Lincoln,B102,Commissioner of Agriculture,,,Total Votes,321,56,249,16
+Lincoln,B102,Commissioner of Agriculture,,,Under Votes,9,1,8,0
+Lincoln,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,B103,STRAIGHT PARTY,,,Republican,121,8,112,1
+Lincoln,B103,STRAIGHT PARTY,,,Democratic,26,0,25,1
+Lincoln,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",210,18,188,4
+Lincoln,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,3,79,3
+Lincoln,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,B103,Governor,,,Total Votes,295,21,267,7
+Lincoln,B103,Governor,,,Under Votes,3,0,3,0
+Lincoln,B103,Governor,,,Over Votes,0,0,0,0
+Lincoln,B103,Secretary of State,,REP,Michael ADAMS,243,20,219,4
+Lincoln,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,1,45,3
+Lincoln,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,B103,Secretary of State,,,Total Votes,292,21,264,7
+Lincoln,B103,Secretary of State,,,Under Votes,6,0,6,0
+Lincoln,B103,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,B103,Attorney General,,REP,Russell COLEMAN,233,18,211,4
+Lincoln,B103,Attorney General,,DEM,Pamela STEVENSON,59,3,53,3
+Lincoln,B103,Attorney General,,,Total Votes,292,21,264,7
+Lincoln,B103,Attorney General,,,Under Votes,6,0,6,0
+Lincoln,B103,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,B103,Auditor of Public Accounts,,REP,Allison BALL,236,20,212,4
+Lincoln,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",56,1,52,3
+Lincoln,B103,Auditor of Public Accounts,,,Total Votes,292,21,264,7
+Lincoln,B103,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Lincoln,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,B103,State Treasurer,,REP,Mark H. METCALF,239,20,215,4
+Lincoln,B103,State Treasurer,,DEM,Michael BOWMAN,52,1,48,3
+Lincoln,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,B103,State Treasurer,,,Total Votes,291,21,263,7
+Lincoln,B103,State Treasurer,,,Under Votes,7,0,7,0
+Lincoln,B103,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,236,19,212,5
+Lincoln,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,2,53,2
+Lincoln,B103,Commissioner of Agriculture,,,Total Votes,293,21,265,7
+Lincoln,B103,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Lincoln,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,B104,STRAIGHT PARTY,,,Republican,177,40,125,12
+Lincoln,B104,STRAIGHT PARTY,,,Democratic,55,14,37,4
+Lincoln,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",338,68,247,23
+Lincoln,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,229,60,152,17
+Lincoln,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,B104,Governor,,,Total Votes,567,128,399,40
+Lincoln,B104,Governor,,,Under Votes,3,1,1,1
+Lincoln,B104,Governor,,,Over Votes,0,0,0,0
+Lincoln,B104,Secretary of State,,REP,Michael ADAMS,448,99,315,34
+Lincoln,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,29,81,6
+Lincoln,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,B104,Secretary of State,,,Total Votes,564,128,396,40
+Lincoln,B104,Secretary of State,,,Under Votes,8,1,6,1
+Lincoln,B104,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,B104,Attorney General,,REP,Russell COLEMAN,431,95,308,28
+Lincoln,B104,Attorney General,,DEM,Pamela STEVENSON,129,31,87,11
+Lincoln,B104,Attorney General,,,Total Votes,560,126,395,39
+Lincoln,B104,Attorney General,,,Under Votes,12,3,7,2
+Lincoln,B104,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,B104,Auditor of Public Accounts,,REP,Allison BALL,446,101,313,32
+Lincoln,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",115,26,81,8
+Lincoln,B104,Auditor of Public Accounts,,,Total Votes,561,127,394,40
+Lincoln,B104,Auditor of Public Accounts,,,Under Votes,11,2,8,1
+Lincoln,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,B104,State Treasurer,,REP,Mark H. METCALF,428,91,308,29
+Lincoln,B104,State Treasurer,,DEM,Michael BOWMAN,132,35,86,11
+Lincoln,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,B104,State Treasurer,,,Total Votes,560,126,394,40
+Lincoln,B104,State Treasurer,,,Under Votes,12,3,8,1
+Lincoln,B104,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,446,98,316,32
+Lincoln,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,30,80,8
+Lincoln,B104,Commissioner of Agriculture,,,Total Votes,564,128,396,40
+Lincoln,B104,Commissioner of Agriculture,,,Under Votes,8,1,6,1
+Lincoln,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,C101,STRAIGHT PARTY,,,Republican,150,12,138,0
+Lincoln,C101,STRAIGHT PARTY,,,Democratic,53,7,38,8
+Lincoln,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",288,30,250,8
+Lincoln,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,35,118,17
+Lincoln,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,C101,Governor,,,Total Votes,458,65,368,25
+Lincoln,C101,Governor,,,Under Votes,6,1,5,0
+Lincoln,C101,Governor,,,Over Votes,0,0,0,0
+Lincoln,C101,Secretary of State,,REP,Michael ADAMS,342,46,283,13
+Lincoln,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",112,18,82,12
+Lincoln,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,C101,Secretary of State,,,Total Votes,454,64,365,25
+Lincoln,C101,Secretary of State,,,Under Votes,8,2,6,0
+Lincoln,C101,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,C101,Attorney General,,REP,Russell COLEMAN,344,42,294,8
+Lincoln,C101,Attorney General,,DEM,Pamela STEVENSON,112,21,75,16
+Lincoln,C101,Attorney General,,,Total Votes,456,63,369,24
+Lincoln,C101,Attorney General,,,Under Votes,8,3,4,1
+Lincoln,C101,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,C101,Auditor of Public Accounts,,REP,Allison BALL,357,47,300,10
+Lincoln,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",101,17,70,14
+Lincoln,C101,Auditor of Public Accounts,,,Total Votes,458,64,370,24
+Lincoln,C101,Auditor of Public Accounts,,,Under Votes,6,2,3,1
+Lincoln,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,C101,State Treasurer,,REP,Mark H. METCALF,340,44,286,10
+Lincoln,C101,State Treasurer,,DEM,Michael BOWMAN,115,20,81,14
+Lincoln,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,C101,State Treasurer,,,Total Votes,455,64,367,24
+Lincoln,C101,State Treasurer,,,Under Votes,9,2,6,1
+Lincoln,C101,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,367,53,304,10
+Lincoln,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,92,12,65,15
+Lincoln,C101,Commissioner of Agriculture,,,Total Votes,459,65,369,25
+Lincoln,C101,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Lincoln,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,C102,STRAIGHT PARTY,,,Republican,115,5,109,1
+Lincoln,C102,STRAIGHT PARTY,,,Democratic,19,1,11,7
+Lincoln,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,17,165,3
+Lincoln,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,77,1,65,11
+Lincoln,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,C102,Governor,,,Total Votes,262,18,230,14
+Lincoln,C102,Governor,,,Under Votes,1,0,1,0
+Lincoln,C102,Governor,,,Over Votes,0,0,0,0
+Lincoln,C102,Secretary of State,,REP,Michael ADAMS,213,17,191,5
+Lincoln,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",46,1,37,8
+Lincoln,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,C102,Secretary of State,,,Total Votes,259,18,228,13
+Lincoln,C102,Secretary of State,,,Under Votes,6,0,5,1
+Lincoln,C102,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,C102,Attorney General,,REP,Russell COLEMAN,209,17,187,5
+Lincoln,C102,Attorney General,,DEM,Pamela STEVENSON,51,1,41,9
+Lincoln,C102,Attorney General,,,Total Votes,260,18,228,14
+Lincoln,C102,Attorney General,,,Under Votes,5,0,5,0
+Lincoln,C102,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,C102,Auditor of Public Accounts,,REP,Allison BALL,211,17,189,5
+Lincoln,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",48,1,39,8
+Lincoln,C102,Auditor of Public Accounts,,,Total Votes,259,18,228,13
+Lincoln,C102,Auditor of Public Accounts,,,Under Votes,6,0,5,1
+Lincoln,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,C102,State Treasurer,,REP,Mark H. METCALF,214,17,191,6
+Lincoln,C102,State Treasurer,,DEM,Michael BOWMAN,46,1,37,8
+Lincoln,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,C102,State Treasurer,,,Total Votes,260,18,228,14
+Lincoln,C102,State Treasurer,,,Under Votes,5,0,5,0
+Lincoln,C102,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,214,17,192,5
+Lincoln,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,1,36,9
+Lincoln,C102,Commissioner of Agriculture,,,Total Votes,260,18,228,14
+Lincoln,C102,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Lincoln,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,C103,STRAIGHT PARTY,,,Republican,88,9,75,4
+Lincoln,C103,STRAIGHT PARTY,,,Democratic,28,9,15,4
+Lincoln,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",158,15,137,6
+Lincoln,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,101,21,73,7
+Lincoln,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,C103,Governor,,,Total Votes,259,36,210,13
+Lincoln,C103,Governor,,,Under Votes,4,1,3,0
+Lincoln,C103,Governor,,,Over Votes,0,0,0,0
+Lincoln,C103,Secretary of State,,REP,Michael ADAMS,186,19,160,7
+Lincoln,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",61,15,41,5
+Lincoln,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,C103,Secretary of State,,,Total Votes,247,34,201,12
+Lincoln,C103,Secretary of State,,,Under Votes,13,3,9,1
+Lincoln,C103,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,C103,Attorney General,,REP,Russell COLEMAN,189,17,165,7
+Lincoln,C103,Attorney General,,DEM,Pamela STEVENSON,64,17,41,6
+Lincoln,C103,Attorney General,,,Total Votes,253,34,206,13
+Lincoln,C103,Attorney General,,,Under Votes,10,3,7,0
+Lincoln,C103,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,C103,Auditor of Public Accounts,,REP,Allison BALL,195,19,169,7
+Lincoln,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",59,15,39,5
+Lincoln,C103,Auditor of Public Accounts,,,Total Votes,254,34,208,12
+Lincoln,C103,Auditor of Public Accounts,,,Under Votes,9,3,5,1
+Lincoln,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,C103,State Treasurer,,REP,Mark H. METCALF,192,17,167,8
+Lincoln,C103,State Treasurer,,DEM,Michael BOWMAN,63,18,40,5
+Lincoln,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,C103,State Treasurer,,,Total Votes,255,35,207,13
+Lincoln,C103,State Treasurer,,,Under Votes,8,2,6,0
+Lincoln,C103,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,200,20,172,8
+Lincoln,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,53,14,34,5
+Lincoln,C103,Commissioner of Agriculture,,,Total Votes,253,34,206,13
+Lincoln,C103,Commissioner of Agriculture,,,Under Votes,10,3,7,0
+Lincoln,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,C104,STRAIGHT PARTY,,,Republican,228,39,183,6
+Lincoln,C104,STRAIGHT PARTY,,,Democratic,67,18,45,4
+Lincoln,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",443,74,351,18
+Lincoln,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,225,58,152,15
+Lincoln,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,C104,Governor,,,Total Votes,668,132,503,33
+Lincoln,C104,Governor,,,Under Votes,2,0,2,0
+Lincoln,C104,Governor,,,Over Votes,0,0,0,0
+Lincoln,C104,Secretary of State,,REP,Michael ADAMS,517,94,398,25
+Lincoln,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",140,37,96,7
+Lincoln,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,C104,Secretary of State,,,Total Votes,657,131,494,32
+Lincoln,C104,Secretary of State,,,Under Votes,13,1,11,1
+Lincoln,C104,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,C104,Attorney General,,REP,Russell COLEMAN,493,82,388,23
+Lincoln,C104,Attorney General,,DEM,Pamela STEVENSON,160,48,103,9
+Lincoln,C104,Attorney General,,,Total Votes,653,130,491,32
+Lincoln,C104,Attorney General,,,Under Votes,17,2,14,1
+Lincoln,C104,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,C104,Auditor of Public Accounts,,REP,Allison BALL,518,89,404,25
+Lincoln,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",136,42,87,7
+Lincoln,C104,Auditor of Public Accounts,,,Total Votes,654,131,491,32
+Lincoln,C104,Auditor of Public Accounts,,,Under Votes,15,1,13,1
+Lincoln,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,C104,State Treasurer,,REP,Mark H. METCALF,502,88,390,24
+Lincoln,C104,State Treasurer,,DEM,Michael BOWMAN,154,42,104,8
+Lincoln,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,C104,State Treasurer,,,Total Votes,656,130,494,32
+Lincoln,C104,State Treasurer,,,Under Votes,14,2,11,1
+Lincoln,C104,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,532,87,421,24
+Lincoln,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,124,42,74,8
+Lincoln,C104,Commissioner of Agriculture,,,Total Votes,656,129,495,32
+Lincoln,C104,Commissioner of Agriculture,,,Under Votes,14,3,10,1
+Lincoln,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,D101,STRAIGHT PARTY,,,Republican,124,6,117,1
+Lincoln,D101,STRAIGHT PARTY,,,Democratic,32,0,29,3
+Lincoln,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",198,10,185,3
+Lincoln,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,103,12,88,3
+Lincoln,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,D101,Governor,,,Total Votes,301,22,273,6
+Lincoln,D101,Governor,,,Under Votes,0,0,0,0
+Lincoln,D101,Governor,,,Over Votes,0,0,0,0
+Lincoln,D101,Secretary of State,,REP,Michael ADAMS,235,18,215,2
+Lincoln,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,4,53,3
+Lincoln,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,D101,Secretary of State,,,Total Votes,295,22,268,5
+Lincoln,D101,Secretary of State,,,Under Votes,6,0,5,1
+Lincoln,D101,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,D101,Attorney General,,REP,Russell COLEMAN,226,12,212,2
+Lincoln,D101,Attorney General,,DEM,Pamela STEVENSON,65,8,54,3
+Lincoln,D101,Attorney General,,,Total Votes,291,20,266,5
+Lincoln,D101,Attorney General,,,Under Votes,10,2,7,1
+Lincoln,D101,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,D101,Auditor of Public Accounts,,REP,Allison BALL,233,14,217,2
+Lincoln,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",61,8,50,3
+Lincoln,D101,Auditor of Public Accounts,,,Total Votes,294,22,267,5
+Lincoln,D101,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Lincoln,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,D101,State Treasurer,,REP,Mark H. METCALF,224,12,211,1
+Lincoln,D101,State Treasurer,,DEM,Michael BOWMAN,72,10,58,4
+Lincoln,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,D101,State Treasurer,,,Total Votes,296,22,269,5
+Lincoln,D101,State Treasurer,,,Under Votes,5,0,4,1
+Lincoln,D101,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,227,14,211,2
+Lincoln,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,8,57,3
+Lincoln,D101,Commissioner of Agriculture,,,Total Votes,295,22,268,5
+Lincoln,D101,Commissioner of Agriculture,,,Under Votes,6,0,5,1
+Lincoln,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,D102,STRAIGHT PARTY,,,Republican,68,13,54,1
+Lincoln,D102,STRAIGHT PARTY,,,Democratic,19,1,17,1
+Lincoln,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",120,19,98,3
+Lincoln,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,14,53,5
+Lincoln,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,D102,Governor,,,Total Votes,192,33,151,8
+Lincoln,D102,Governor,,,Under Votes,0,0,0,0
+Lincoln,D102,Governor,,,Over Votes,0,0,0,0
+Lincoln,D102,Secretary of State,,REP,Michael ADAMS,139,22,113,4
+Lincoln,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,10,32,3
+Lincoln,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,D102,Secretary of State,,,Total Votes,184,32,145,7
+Lincoln,D102,Secretary of State,,,Under Votes,6,1,4,1
+Lincoln,D102,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,D102,Attorney General,,REP,Russell COLEMAN,139,23,113,3
+Lincoln,D102,Attorney General,,DEM,Pamela STEVENSON,48,9,35,4
+Lincoln,D102,Attorney General,,,Total Votes,187,32,148,7
+Lincoln,D102,Attorney General,,,Under Votes,5,1,3,1
+Lincoln,D102,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,D102,Auditor of Public Accounts,,REP,Allison BALL,144,27,116,1
+Lincoln,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",42,5,31,6
+Lincoln,D102,Auditor of Public Accounts,,,Total Votes,186,32,147,7
+Lincoln,D102,Auditor of Public Accounts,,,Under Votes,6,1,4,1
+Lincoln,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,D102,State Treasurer,,REP,Mark H. METCALF,139,25,111,3
+Lincoln,D102,State Treasurer,,DEM,Michael BOWMAN,47,8,35,4
+Lincoln,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,D102,State Treasurer,,,Total Votes,186,33,146,7
+Lincoln,D102,State Treasurer,,,Under Votes,6,0,5,1
+Lincoln,D102,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,142,28,111,3
+Lincoln,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,5,34,4
+Lincoln,D102,Commissioner of Agriculture,,,Total Votes,185,33,145,7
+Lincoln,D102,Commissioner of Agriculture,,,Under Votes,7,0,6,1
+Lincoln,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,D103,STRAIGHT PARTY,,,Republican,327,31,290,6
+Lincoln,D103,STRAIGHT PARTY,,,Democratic,84,18,56,10
+Lincoln,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",576,59,500,17
+Lincoln,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,265,42,202,21
+Lincoln,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,D103,Governor,,,Total Votes,841,101,702,38
+Lincoln,D103,Governor,,,Under Votes,6,1,5,0
+Lincoln,D103,Governor,,,Over Votes,0,0,0,0
+Lincoln,D103,Secretary of State,,REP,Michael ADAMS,670,72,577,21
+Lincoln,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",165,30,118,17
+Lincoln,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,D103,Secretary of State,,,Total Votes,835,102,695,38
+Lincoln,D103,Secretary of State,,,Under Votes,11,0,11,0
+Lincoln,D103,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,D103,Attorney General,,REP,Russell COLEMAN,655,71,564,20
+Lincoln,D103,Attorney General,,DEM,Pamela STEVENSON,178,31,129,18
+Lincoln,D103,Attorney General,,,Total Votes,833,102,693,38
+Lincoln,D103,Attorney General,,,Under Votes,13,0,13,0
+Lincoln,D103,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,D103,Auditor of Public Accounts,,REP,Allison BALL,673,71,581,21
+Lincoln,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",160,31,113,16
+Lincoln,D103,Auditor of Public Accounts,,,Total Votes,833,102,694,37
+Lincoln,D103,Auditor of Public Accounts,,,Under Votes,11,0,10,1
+Lincoln,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,D103,State Treasurer,,REP,Mark H. METCALF,661,72,569,20
+Lincoln,D103,State Treasurer,,DEM,Michael BOWMAN,168,28,123,17
+Lincoln,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,D103,State Treasurer,,,Total Votes,829,100,692,37
+Lincoln,D103,State Treasurer,,,Under Votes,17,2,14,1
+Lincoln,D103,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,671,72,577,22
+Lincoln,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,159,29,115,15
+Lincoln,D103,Commissioner of Agriculture,,,Total Votes,830,101,692,37
+Lincoln,D103,Commissioner of Agriculture,,,Under Votes,14,1,12,1
+Lincoln,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,D105,STRAIGHT PARTY,,,Republican,67,8,55,4
+Lincoln,D105,STRAIGHT PARTY,,,Democratic,37,7,25,5
+Lincoln,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",118,12,102,4
+Lincoln,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,98,14,76,8
+Lincoln,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,D105,Governor,,,Total Votes,216,26,178,12
+Lincoln,D105,Governor,,,Under Votes,0,0,0,0
+Lincoln,D105,Governor,,,Over Votes,0,0,0,0
+Lincoln,D105,Secretary of State,,REP,Michael ADAMS,151,13,133,5
+Lincoln,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",63,13,44,6
+Lincoln,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,D105,Secretary of State,,,Total Votes,214,26,177,11
+Lincoln,D105,Secretary of State,,,Under Votes,5,0,4,1
+Lincoln,D105,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,D105,Attorney General,,REP,Russell COLEMAN,155,15,135,5
+Lincoln,D105,Attorney General,,DEM,Pamela STEVENSON,61,11,44,6
+Lincoln,D105,Attorney General,,,Total Votes,216,26,179,11
+Lincoln,D105,Attorney General,,,Under Votes,3,0,2,1
+Lincoln,D105,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,D105,Auditor of Public Accounts,,REP,Allison BALL,160,16,140,4
+Lincoln,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",56,10,39,7
+Lincoln,D105,Auditor of Public Accounts,,,Total Votes,216,26,179,11
+Lincoln,D105,Auditor of Public Accounts,,,Under Votes,3,0,2,1
+Lincoln,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,D105,State Treasurer,,REP,Mark H. METCALF,148,14,129,5
+Lincoln,D105,State Treasurer,,DEM,Michael BOWMAN,68,12,50,6
+Lincoln,D105,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,D105,State Treasurer,,,Total Votes,216,26,179,11
+Lincoln,D105,State Treasurer,,,Under Votes,3,0,2,1
+Lincoln,D105,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,158,16,137,5
+Lincoln,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,10,41,6
+Lincoln,D105,Commissioner of Agriculture,,,Total Votes,215,26,178,11
+Lincoln,D105,Commissioner of Agriculture,,,Under Votes,4,0,3,1
+Lincoln,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lincoln,D106,STRAIGHT PARTY,,,Republican,89,12,76,1
+Lincoln,D106,STRAIGHT PARTY,,,Democratic,24,4,17,3
+Lincoln,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,20,126,6
+Lincoln,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,7,59,6
+Lincoln,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lincoln,D106,Governor,,,Total Votes,224,27,185,12
+Lincoln,D106,Governor,,,Under Votes,1,0,1,0
+Lincoln,D106,Governor,,,Over Votes,0,0,0,0
+Lincoln,D106,Secretary of State,,REP,Michael ADAMS,176,20,148,8
+Lincoln,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",41,7,31,3
+Lincoln,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lincoln,D106,Secretary of State,,,Total Votes,217,27,179,11
+Lincoln,D106,Secretary of State,,,Under Votes,8,0,7,1
+Lincoln,D106,Secretary of State,,,Over Votes,0,0,0,0
+Lincoln,D106,Attorney General,,REP,Russell COLEMAN,174,21,145,8
+Lincoln,D106,Attorney General,,DEM,Pamela STEVENSON,43,6,34,3
+Lincoln,D106,Attorney General,,,Total Votes,217,27,179,11
+Lincoln,D106,Attorney General,,,Under Votes,8,0,7,1
+Lincoln,D106,Attorney General,,,Over Votes,0,0,0,0
+Lincoln,D106,Auditor of Public Accounts,,REP,Allison BALL,179,21,150,8
+Lincoln,D106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",39,6,30,3
+Lincoln,D106,Auditor of Public Accounts,,,Total Votes,218,27,180,11
+Lincoln,D106,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Lincoln,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lincoln,D106,State Treasurer,,REP,Mark H. METCALF,173,19,146,8
+Lincoln,D106,State Treasurer,,DEM,Michael BOWMAN,46,8,35,3
+Lincoln,D106,State Treasurer,,,Robert Perry,0,0,0,0
+Lincoln,D106,State Treasurer,,,Total Votes,219,27,181,11
+Lincoln,D106,State Treasurer,,,Under Votes,6,0,5,1
+Lincoln,D106,State Treasurer,,,Over Votes,0,0,0,0
+Lincoln,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,174,21,146,7
+Lincoln,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,6,33,5
+Lincoln,D106,Commissioner of Agriculture,,,Total Votes,218,27,179,12
+Lincoln,D106,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Lincoln,D106,Commissioner of Agriculture,,,Over Votes,1,0,1,0

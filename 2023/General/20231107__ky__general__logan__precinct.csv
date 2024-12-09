@@ -1,0 +1,709 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Logan,A101,STRAIGHT PARTY,,,Republican,59,12,45,2
+Logan,A101,STRAIGHT PARTY,,,Democratic,41,11,29,1
+Logan,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",95,16,76,3
+Logan,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,103,28,73,2
+Logan,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,A101,Governor,,,Total Votes,198,44,149,5
+Logan,A101,Governor,,,Under Votes,3,3,0,0
+Logan,A101,Governor,,,Over Votes,0,0,0,0
+Logan,A101,Secretary of State,,REP,Michael ADAMS,121,27,91,3
+Logan,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,18,58,2
+Logan,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,A101,Secretary of State,,,Total Votes,199,45,149,5
+Logan,A101,Secretary of State,,,Under Votes,2,2,0,0
+Logan,A101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,A101,Attorney General,,REP,Russell COLEMAN,123,28,92,3
+Logan,A101,Attorney General,,DEM,Pamela STEVENSON,74,17,55,2
+Logan,A101,Attorney General,,,Total Votes,197,45,147,5
+Logan,A101,Attorney General,,,Under Votes,4,2,2,0
+Logan,A101,Attorney General,,,Over Votes,0,0,0,0
+Logan,A101,Auditor of Public Accounts,,REP,Allison BALL,122,24,95,3
+Logan,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,20,50,2
+Logan,A101,Auditor of Public Accounts,,,Total Votes,194,44,145,5
+Logan,A101,Auditor of Public Accounts,,,Under Votes,7,3,4,0
+Logan,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,A101,State Treasurer,,REP,Mark H. METCALF,117,25,89,3
+Logan,A101,State Treasurer,,DEM,Michael BOWMAN,78,19,57,2
+Logan,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,A101,State Treasurer,,,Total Votes,195,44,146,5
+Logan,A101,State Treasurer,,,Under Votes,6,3,3,0
+Logan,A101,State Treasurer,,,Over Votes,0,0,0,0
+Logan,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,126,29,94,3
+Logan,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,64,14,48,2
+Logan,A101,Commissioner of Agriculture,,,Total Votes,190,43,142,5
+Logan,A101,Commissioner of Agriculture,,,Under Votes,11,4,7,0
+Logan,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,A104,STRAIGHT PARTY,,,Republican,281,52,228,1
+Logan,A104,STRAIGHT PARTY,,,Democratic,81,28,48,5
+Logan,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",419,75,341,3
+Logan,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,211,64,139,8
+Logan,A104,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Logan,A104,Governor,,,Total Votes,631,139,481,11
+Logan,A104,Governor,,,Under Votes,1,1,0,0
+Logan,A104,Governor,,,Over Votes,0,0,0,0
+Logan,A104,Secretary of State,,REP,Michael ADAMS,481,90,386,5
+Logan,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",139,49,84,6
+Logan,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,A104,Secretary of State,,,Total Votes,620,139,470,11
+Logan,A104,Secretary of State,,,Under Votes,12,1,11,0
+Logan,A104,Secretary of State,,,Over Votes,0,0,0,0
+Logan,A104,Attorney General,,REP,Russell COLEMAN,476,93,379,4
+Logan,A104,Attorney General,,DEM,Pamela STEVENSON,146,45,94,7
+Logan,A104,Attorney General,,,Total Votes,622,138,473,11
+Logan,A104,Attorney General,,,Under Votes,9,2,7,0
+Logan,A104,Attorney General,,,Over Votes,1,0,1,0
+Logan,A104,Auditor of Public Accounts,,REP,Allison BALL,475,89,380,6
+Logan,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",146,47,94,5
+Logan,A104,Auditor of Public Accounts,,,Total Votes,621,136,474,11
+Logan,A104,Auditor of Public Accounts,,,Under Votes,11,4,7,0
+Logan,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,A104,State Treasurer,,REP,Mark H. METCALF,469,85,380,4
+Logan,A104,State Treasurer,,DEM,Michael BOWMAN,150,51,92,7
+Logan,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,A104,State Treasurer,,,Total Votes,619,136,472,11
+Logan,A104,State Treasurer,,,Under Votes,13,4,9,0
+Logan,A104,State Treasurer,,,Over Votes,0,0,0,0
+Logan,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,477,90,383,4
+Logan,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,141,46,88,7
+Logan,A104,Commissioner of Agriculture,,,Total Votes,618,136,471,11
+Logan,A104,Commissioner of Agriculture,,,Under Votes,14,4,10,0
+Logan,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,A105,STRAIGHT PARTY,,,Republican,65,11,54,0
+Logan,A105,STRAIGHT PARTY,,,Democratic,52,14,35,3
+Logan,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",113,19,94,0
+Logan,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,104,31,67,6
+Logan,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,A105,Governor,,,Total Votes,217,50,161,6
+Logan,A105,Governor,,,Under Votes,1,1,0,0
+Logan,A105,Governor,,,Over Votes,0,0,0,0
+Logan,A105,Secretary of State,,REP,Michael ADAMS,132,27,102,3
+Logan,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,23,57,3
+Logan,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,A105,Secretary of State,,,Total Votes,215,50,159,6
+Logan,A105,Secretary of State,,,Under Votes,3,1,2,0
+Logan,A105,Secretary of State,,,Over Votes,0,0,0,0
+Logan,A105,Attorney General,,REP,Russell COLEMAN,130,28,101,1
+Logan,A105,Attorney General,,DEM,Pamela STEVENSON,85,22,58,5
+Logan,A105,Attorney General,,,Total Votes,215,50,159,6
+Logan,A105,Attorney General,,,Under Votes,3,1,2,0
+Logan,A105,Attorney General,,,Over Votes,0,0,0,0
+Logan,A105,Auditor of Public Accounts,,REP,Allison BALL,130,26,102,2
+Logan,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",83,23,56,4
+Logan,A105,Auditor of Public Accounts,,,Total Votes,213,49,158,6
+Logan,A105,Auditor of Public Accounts,,,Under Votes,5,2,3,0
+Logan,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,A105,State Treasurer,,REP,Mark H. METCALF,127,25,100,2
+Logan,A105,State Treasurer,,DEM,Michael BOWMAN,81,23,54,4
+Logan,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,A105,State Treasurer,,,Total Votes,208,48,154,6
+Logan,A105,State Treasurer,,,Under Votes,9,2,7,0
+Logan,A105,State Treasurer,,,Over Votes,1,1,0,0
+Logan,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,129,26,102,1
+Logan,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,23,53,5
+Logan,A105,Commissioner of Agriculture,,,Total Votes,210,49,155,6
+Logan,A105,Commissioner of Agriculture,,,Under Votes,8,2,6,0
+Logan,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B101,STRAIGHT PARTY,,,Republican,82,7,75,0
+Logan,B101,STRAIGHT PARTY,,,Democratic,46,1,41,4
+Logan,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",141,12,129,0
+Logan,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,106,7,92,7
+Logan,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,B101,Governor,,,Total Votes,247,19,221,7
+Logan,B101,Governor,,,Under Votes,0,0,0,0
+Logan,B101,Governor,,,Over Votes,0,0,0,0
+Logan,B101,Secretary of State,,REP,Michael ADAMS,164,16,147,1
+Logan,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,3,73,4
+Logan,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,B101,Secretary of State,,,Total Votes,244,19,220,5
+Logan,B101,Secretary of State,,,Under Votes,3,0,1,2
+Logan,B101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,B101,Attorney General,,REP,Russell COLEMAN,164,13,149,2
+Logan,B101,Attorney General,,DEM,Pamela STEVENSON,80,6,70,4
+Logan,B101,Attorney General,,,Total Votes,244,19,219,6
+Logan,B101,Attorney General,,,Under Votes,3,0,2,1
+Logan,B101,Attorney General,,,Over Votes,0,0,0,0
+Logan,B101,Auditor of Public Accounts,,REP,Allison BALL,160,13,145,2
+Logan,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",84,6,74,4
+Logan,B101,Auditor of Public Accounts,,,Total Votes,244,19,219,6
+Logan,B101,Auditor of Public Accounts,,,Under Votes,3,0,2,1
+Logan,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,B101,State Treasurer,,REP,Mark H. METCALF,158,14,143,1
+Logan,B101,State Treasurer,,DEM,Michael BOWMAN,84,5,74,5
+Logan,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,B101,State Treasurer,,,Total Votes,242,19,217,6
+Logan,B101,State Treasurer,,,Under Votes,4,0,3,1
+Logan,B101,State Treasurer,,,Over Votes,1,0,1,0
+Logan,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,157,13,143,1
+Logan,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,86,6,75,5
+Logan,B101,Commissioner of Agriculture,,,Total Votes,243,19,218,6
+Logan,B101,Commissioner of Agriculture,,,Under Votes,4,0,3,1
+Logan,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B101,Commissioner of Agriculture,,,Jane AUSTIN,42,0,42,0
+Logan,B101,Commissioner of Agriculture,,,Total Votes,42,0,42,0
+Logan,B101,Commissioner of Agriculture,,,Under Votes,19,2,17,0
+Logan,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B102,STRAIGHT PARTY,,,Republican,136,10,124,2
+Logan,B102,STRAIGHT PARTY,,,Democratic,48,8,36,4
+Logan,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",184,13,169,2
+Logan,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,93,14,71,8
+Logan,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,B102,Governor,,,Total Votes,277,27,240,10
+Logan,B102,Governor,,,Under Votes,2,0,1,1
+Logan,B102,Governor,,,Over Votes,0,0,0,0
+Logan,B102,Secretary of State,,REP,Michael ADAMS,202,14,184,4
+Logan,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,13,57,7
+Logan,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,B102,Secretary of State,,,Total Votes,279,27,241,11
+Logan,B102,Secretary of State,,,Under Votes,0,0,0,0
+Logan,B102,Secretary of State,,,Over Votes,0,0,0,0
+Logan,B102,Attorney General,,REP,Russell COLEMAN,203,14,184,5
+Logan,B102,Attorney General,,DEM,Pamela STEVENSON,75,13,56,6
+Logan,B102,Attorney General,,,Total Votes,278,27,240,11
+Logan,B102,Attorney General,,,Under Votes,1,0,1,0
+Logan,B102,Attorney General,,,Over Votes,0,0,0,0
+Logan,B102,Auditor of Public Accounts,,REP,Allison BALL,203,14,184,5
+Logan,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",74,13,55,6
+Logan,B102,Auditor of Public Accounts,,,Total Votes,277,27,239,11
+Logan,B102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Logan,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,B102,State Treasurer,,REP,Mark H. METCALF,198,13,181,4
+Logan,B102,State Treasurer,,DEM,Michael BOWMAN,80,14,59,7
+Logan,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,B102,State Treasurer,,,Total Votes,278,27,240,11
+Logan,B102,State Treasurer,,,Under Votes,1,0,1,0
+Logan,B102,State Treasurer,,,Over Votes,0,0,0,0
+Logan,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,205,14,186,5
+Logan,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,73,13,54,6
+Logan,B102,Commissioner of Agriculture,,,Total Votes,278,27,240,11
+Logan,B102,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Logan,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B102,Commissioner of Agriculture,,,Jane AUSTIN,59,1,58,0
+Logan,B102,Commissioner of Agriculture,,,Total Votes,59,1,58,0
+Logan,B102,Commissioner of Agriculture,,,Under Votes,23,2,21,0
+Logan,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B103,STRAIGHT PARTY,,,Republican,104,11,92,1
+Logan,B103,STRAIGHT PARTY,,,Democratic,55,10,43,2
+Logan,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",167,23,142,2
+Logan,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,20,97,3
+Logan,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,B103,Governor,,,Total Votes,287,43,239,5
+Logan,B103,Governor,,,Under Votes,1,0,1,0
+Logan,B103,Governor,,,Over Votes,0,0,0,0
+Logan,B103,Secretary of State,,REP,Michael ADAMS,193,25,165,3
+Logan,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",91,18,71,2
+Logan,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,B103,Secretary of State,,,Total Votes,284,43,236,5
+Logan,B103,Secretary of State,,,Under Votes,4,0,4,0
+Logan,B103,Secretary of State,,,Over Votes,0,0,0,0
+Logan,B103,Attorney General,,REP,Russell COLEMAN,199,27,170,2
+Logan,B103,Attorney General,,DEM,Pamela STEVENSON,86,16,67,3
+Logan,B103,Attorney General,,,Total Votes,285,43,237,5
+Logan,B103,Attorney General,,,Under Votes,3,0,3,0
+Logan,B103,Attorney General,,,Over Votes,0,0,0,0
+Logan,B103,Auditor of Public Accounts,,REP,Allison BALL,194,26,166,2
+Logan,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",90,17,70,3
+Logan,B103,Auditor of Public Accounts,,,Total Votes,284,43,236,5
+Logan,B103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Logan,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,B103,State Treasurer,,REP,Mark H. METCALF,182,24,155,3
+Logan,B103,State Treasurer,,DEM,Michael BOWMAN,101,19,80,2
+Logan,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,B103,State Treasurer,,,Total Votes,283,43,235,5
+Logan,B103,State Treasurer,,,Under Votes,5,0,5,0
+Logan,B103,State Treasurer,,,Over Votes,0,0,0,0
+Logan,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,191,24,165,2
+Logan,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,92,19,70,3
+Logan,B103,Commissioner of Agriculture,,,Total Votes,283,43,235,5
+Logan,B103,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Logan,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,B104,STRAIGHT PARTY,,,Republican,83,13,70,0
+Logan,B104,STRAIGHT PARTY,,,Democratic,53,20,30,3
+Logan,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",131,22,109,0
+Logan,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,102,36,59,7
+Logan,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,B104,Governor,,,Total Votes,233,58,168,7
+Logan,B104,Governor,,,Under Votes,0,0,0,0
+Logan,B104,Governor,,,Over Votes,1,0,1,0
+Logan,B104,Secretary of State,,REP,Michael ADAMS,143,26,114,3
+Logan,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,32,50,3
+Logan,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,B104,Secretary of State,,,Total Votes,228,58,164,6
+Logan,B104,Secretary of State,,,Under Votes,6,0,5,1
+Logan,B104,Secretary of State,,,Over Votes,0,0,0,0
+Logan,B104,Attorney General,,REP,Russell COLEMAN,145,26,116,3
+Logan,B104,Attorney General,,DEM,Pamela STEVENSON,85,32,50,3
+Logan,B104,Attorney General,,,Total Votes,230,58,166,6
+Logan,B104,Attorney General,,,Under Votes,4,0,3,1
+Logan,B104,Attorney General,,,Over Votes,0,0,0,0
+Logan,B104,Auditor of Public Accounts,,REP,Allison BALL,143,26,116,1
+Logan,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",86,31,49,6
+Logan,B104,Auditor of Public Accounts,,,Total Votes,229,57,165,7
+Logan,B104,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Logan,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,B104,State Treasurer,,REP,Mark H. METCALF,141,27,113,1
+Logan,B104,State Treasurer,,DEM,Michael BOWMAN,89,31,52,6
+Logan,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,B104,State Treasurer,,,Total Votes,230,58,165,7
+Logan,B104,State Treasurer,,,Under Votes,4,0,4,0
+Logan,B104,State Treasurer,,,Over Votes,0,0,0,0
+Logan,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,145,27,117,1
+Logan,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,85,31,48,6
+Logan,B104,Commissioner of Agriculture,,,Total Votes,230,58,165,7
+Logan,B104,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Logan,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,C101,STRAIGHT PARTY,,,Republican,133,29,103,1
+Logan,C101,STRAIGHT PARTY,,,Democratic,46,20,25,1
+Logan,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",193,39,153,1
+Logan,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,52,66,2
+Logan,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,C101,Governor,,,Total Votes,313,91,219,3
+Logan,C101,Governor,,,Under Votes,0,0,0,0
+Logan,C101,Governor,,,Over Votes,0,0,0,0
+Logan,C101,Secretary of State,,REP,Michael ADAMS,223,50,172,1
+Logan,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,38,41,2
+Logan,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,C101,Secretary of State,,,Total Votes,304,88,213,3
+Logan,C101,Secretary of State,,,Under Votes,9,3,6,0
+Logan,C101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,C101,Attorney General,,REP,Russell COLEMAN,227,55,171,1
+Logan,C101,Attorney General,,DEM,Pamela STEVENSON,83,35,46,2
+Logan,C101,Attorney General,,,Total Votes,310,90,217,3
+Logan,C101,Attorney General,,,Under Votes,3,1,2,0
+Logan,C101,Attorney General,,,Over Votes,0,0,0,0
+Logan,C101,Auditor of Public Accounts,,REP,Allison BALL,222,52,169,1
+Logan,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",84,36,46,2
+Logan,C101,Auditor of Public Accounts,,,Total Votes,306,88,215,3
+Logan,C101,Auditor of Public Accounts,,,Under Votes,7,3,4,0
+Logan,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,C101,State Treasurer,,REP,Mark H. METCALF,219,50,168,1
+Logan,C101,State Treasurer,,DEM,Michael BOWMAN,84,36,46,2
+Logan,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,C101,State Treasurer,,,Total Votes,303,86,214,3
+Logan,C101,State Treasurer,,,Under Votes,10,5,5,0
+Logan,C101,State Treasurer,,,Over Votes,0,0,0,0
+Logan,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,220,54,165,1
+Logan,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,87,34,51,2
+Logan,C101,Commissioner of Agriculture,,,Total Votes,307,88,216,3
+Logan,C101,Commissioner of Agriculture,,,Under Votes,6,3,3,0
+Logan,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,C102,STRAIGHT PARTY,,,Republican,116,17,99,0
+Logan,C102,STRAIGHT PARTY,,,Democratic,32,14,17,1
+Logan,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",171,20,151,0
+Logan,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,19,50,1
+Logan,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,C102,Governor,,,Total Votes,241,39,201,1
+Logan,C102,Governor,,,Under Votes,1,1,0,0
+Logan,C102,Governor,,,Over Votes,0,0,0,0
+Logan,C102,Secretary of State,,REP,Michael ADAMS,185,23,162,0
+Logan,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,17,35,1
+Logan,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,C102,Secretary of State,,,Total Votes,238,40,197,1
+Logan,C102,Secretary of State,,,Under Votes,4,0,4,0
+Logan,C102,Secretary of State,,,Over Votes,0,0,0,0
+Logan,C102,Attorney General,,REP,Russell COLEMAN,190,23,167,0
+Logan,C102,Attorney General,,DEM,Pamela STEVENSON,46,17,28,1
+Logan,C102,Attorney General,,,Total Votes,236,40,195,1
+Logan,C102,Attorney General,,,Under Votes,6,0,6,0
+Logan,C102,Attorney General,,,Over Votes,0,0,0,0
+Logan,C102,Auditor of Public Accounts,,REP,Allison BALL,188,24,164,0
+Logan,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",49,16,32,1
+Logan,C102,Auditor of Public Accounts,,,Total Votes,237,40,196,1
+Logan,C102,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Logan,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,C102,State Treasurer,,REP,Mark H. METCALF,186,24,162,0
+Logan,C102,State Treasurer,,DEM,Michael BOWMAN,51,16,34,1
+Logan,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,C102,State Treasurer,,,Total Votes,237,40,196,1
+Logan,C102,State Treasurer,,,Under Votes,5,0,5,0
+Logan,C102,State Treasurer,,,Over Votes,0,0,0,0
+Logan,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,188,22,166,0
+Logan,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,50,18,31,1
+Logan,C102,Commissioner of Agriculture,,,Total Votes,238,40,197,1
+Logan,C102,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Logan,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,C103,STRAIGHT PARTY,,,Republican,74,10,64,0
+Logan,C103,STRAIGHT PARTY,,,Democratic,52,20,32,0
+Logan,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",97,17,80,0
+Logan,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,40,66,1
+Logan,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,C103,Governor,,,Total Votes,204,57,146,1
+Logan,C103,Governor,,,Under Votes,1,0,1,0
+Logan,C103,Governor,,,Over Votes,1,0,1,0
+Logan,C103,Secretary of State,,REP,Michael ADAMS,112,23,89,0
+Logan,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",86,31,54,1
+Logan,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,C103,Secretary of State,,,Total Votes,198,54,143,1
+Logan,C103,Secretary of State,,,Under Votes,8,3,5,0
+Logan,C103,Secretary of State,,,Over Votes,0,0,0,0
+Logan,C103,Attorney General,,REP,Russell COLEMAN,117,27,90,0
+Logan,C103,Attorney General,,DEM,Pamela STEVENSON,86,30,55,1
+Logan,C103,Attorney General,,,Total Votes,203,57,145,1
+Logan,C103,Attorney General,,,Under Votes,3,0,3,0
+Logan,C103,Attorney General,,,Over Votes,0,0,0,0
+Logan,C103,Auditor of Public Accounts,,REP,Allison BALL,116,27,89,0
+Logan,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,29,52,1
+Logan,C103,Auditor of Public Accounts,,,Total Votes,198,56,141,1
+Logan,C103,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Logan,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,C103,State Treasurer,,REP,Mark H. METCALF,110,21,89,0
+Logan,C103,State Treasurer,,DEM,Michael BOWMAN,89,34,54,1
+Logan,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,C103,State Treasurer,,,Total Votes,199,55,143,1
+Logan,C103,State Treasurer,,,Under Votes,7,2,5,0
+Logan,C103,State Treasurer,,,Over Votes,0,0,0,0
+Logan,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,119,27,92,0
+Logan,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,83,29,53,1
+Logan,C103,Commissioner of Agriculture,,,Total Votes,202,56,145,1
+Logan,C103,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Logan,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,C104,STRAIGHT PARTY,,,Republican,118,31,87,0
+Logan,C104,STRAIGHT PARTY,,,Democratic,22,2,18,2
+Logan,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,40,145,0
+Logan,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,44,11,31,2
+Logan,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,C104,Governor,,,Total Votes,229,51,176,2
+Logan,C104,Governor,,,Under Votes,0,0,0,0
+Logan,C104,Governor,,,Over Votes,0,0,0,0
+Logan,C104,Secretary of State,,REP,Michael ADAMS,189,43,146,0
+Logan,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",37,7,28,2
+Logan,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,C104,Secretary of State,,,Total Votes,226,50,174,2
+Logan,C104,Secretary of State,,,Under Votes,3,1,2,0
+Logan,C104,Secretary of State,,,Over Votes,0,0,0,0
+Logan,C104,Attorney General,,REP,Russell COLEMAN,190,41,149,0
+Logan,C104,Attorney General,,DEM,Pamela STEVENSON,36,9,25,2
+Logan,C104,Attorney General,,,Total Votes,226,50,174,2
+Logan,C104,Attorney General,,,Under Votes,3,1,2,0
+Logan,C104,Attorney General,,,Over Votes,0,0,0,0
+Logan,C104,Auditor of Public Accounts,,REP,Allison BALL,186,43,143,0
+Logan,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",38,6,30,2
+Logan,C104,Auditor of Public Accounts,,,Total Votes,224,49,173,2
+Logan,C104,Auditor of Public Accounts,,,Under Votes,5,2,3,0
+Logan,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,C104,State Treasurer,,REP,Mark H. METCALF,179,39,140,0
+Logan,C104,State Treasurer,,DEM,Michael BOWMAN,44,10,32,2
+Logan,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,C104,State Treasurer,,,Total Votes,223,49,172,2
+Logan,C104,State Treasurer,,,Under Votes,6,2,4,0
+Logan,C104,State Treasurer,,,Over Votes,0,0,0,0
+Logan,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,191,44,147,0
+Logan,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,6,27,2
+Logan,C104,Commissioner of Agriculture,,,Total Votes,226,50,174,2
+Logan,C104,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Logan,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,D101,STRAIGHT PARTY,,,Republican,199,16,183,0
+Logan,D101,STRAIGHT PARTY,,,Democratic,40,6,31,3
+Logan,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",284,19,265,0
+Logan,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,12,79,4
+Logan,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,D101,Governor,,,Total Votes,379,31,344,4
+Logan,D101,Governor,,,Under Votes,1,0,1,0
+Logan,D101,Governor,,,Over Votes,0,0,0,0
+Logan,D101,Secretary of State,,REP,Michael ADAMS,304,22,282,0
+Logan,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",71,9,58,4
+Logan,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,D101,Secretary of State,,,Total Votes,375,31,340,4
+Logan,D101,Secretary of State,,,Under Votes,5,0,5,0
+Logan,D101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,D101,Attorney General,,REP,Russell COLEMAN,310,23,287,0
+Logan,D101,Attorney General,,DEM,Pamela STEVENSON,67,8,55,4
+Logan,D101,Attorney General,,,Total Votes,377,31,342,4
+Logan,D101,Attorney General,,,Under Votes,3,0,3,0
+Logan,D101,Attorney General,,,Over Votes,0,0,0,0
+Logan,D101,Auditor of Public Accounts,,REP,Allison BALL,303,21,282,0
+Logan,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,10,58,4
+Logan,D101,Auditor of Public Accounts,,,Total Votes,375,31,340,4
+Logan,D101,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Logan,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,D101,State Treasurer,,REP,Mark H. METCALF,294,20,274,0
+Logan,D101,State Treasurer,,DEM,Michael BOWMAN,81,10,67,4
+Logan,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,D101,State Treasurer,,,Total Votes,375,30,341,4
+Logan,D101,State Treasurer,,,Under Votes,5,1,4,0
+Logan,D101,State Treasurer,,,Over Votes,0,0,0,0
+Logan,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,309,22,287,0
+Logan,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,65,8,53,4
+Logan,D101,Commissioner of Agriculture,,,Total Votes,374,30,340,4
+Logan,D101,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Logan,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,D102,STRAIGHT PARTY,,,Republican,230,25,204,1
+Logan,D102,STRAIGHT PARTY,,,Democratic,80,5,70,5
+Logan,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",329,35,292,2
+Logan,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,167,16,138,13
+Logan,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,D102,Governor,,,Total Votes,496,51,430,15
+Logan,D102,Governor,,,Under Votes,3,1,2,0
+Logan,D102,Governor,,,Over Votes,0,0,0,0
+Logan,D102,Secretary of State,,REP,Michael ADAMS,362,39,319,4
+Logan,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",131,12,108,11
+Logan,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,D102,Secretary of State,,,Total Votes,493,51,427,15
+Logan,D102,Secretary of State,,,Under Votes,6,1,5,0
+Logan,D102,Secretary of State,,,Over Votes,0,0,0,0
+Logan,D102,Attorney General,,REP,Russell COLEMAN,369,38,327,4
+Logan,D102,Attorney General,,DEM,Pamela STEVENSON,128,13,104,11
+Logan,D102,Attorney General,,,Total Votes,497,51,431,15
+Logan,D102,Attorney General,,,Under Votes,2,1,1,0
+Logan,D102,Attorney General,,,Over Votes,0,0,0,0
+Logan,D102,Auditor of Public Accounts,,REP,Allison BALL,379,41,334,4
+Logan,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",114,10,93,11
+Logan,D102,Auditor of Public Accounts,,,Total Votes,493,51,427,15
+Logan,D102,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Logan,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,D102,State Treasurer,,REP,Mark H. METCALF,357,38,316,3
+Logan,D102,State Treasurer,,DEM,Michael BOWMAN,135,13,110,12
+Logan,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,D102,State Treasurer,,,Total Votes,492,51,426,15
+Logan,D102,State Treasurer,,,Under Votes,7,1,6,0
+Logan,D102,State Treasurer,,,Over Votes,0,0,0,0
+Logan,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,375,42,329,4
+Logan,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,9,98,11
+Logan,D102,Commissioner of Agriculture,,,Total Votes,493,51,427,15
+Logan,D102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Logan,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,D103,STRAIGHT PARTY,,,Republican,128,21,107,0
+Logan,D103,STRAIGHT PARTY,,,Democratic,16,5,11,0
+Logan,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",190,27,163,0
+Logan,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,50,12,38,0
+Logan,D103,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Logan,D103,Governor,,,Total Votes,241,39,202,0
+Logan,D103,Governor,,,Under Votes,0,0,0,0
+Logan,D103,Governor,,,Over Votes,0,0,0,0
+Logan,D103,Secretary of State,,REP,Michael ADAMS,203,30,173,0
+Logan,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",30,7,23,0
+Logan,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,D103,Secretary of State,,,Total Votes,233,37,196,0
+Logan,D103,Secretary of State,,,Under Votes,8,2,6,0
+Logan,D103,Secretary of State,,,Over Votes,0,0,0,0
+Logan,D103,Attorney General,,REP,Russell COLEMAN,201,29,172,0
+Logan,D103,Attorney General,,DEM,Pamela STEVENSON,33,8,25,0
+Logan,D103,Attorney General,,,Total Votes,234,37,197,0
+Logan,D103,Attorney General,,,Under Votes,7,2,5,0
+Logan,D103,Attorney General,,,Over Votes,0,0,0,0
+Logan,D103,Auditor of Public Accounts,,REP,Allison BALL,199,32,167,0
+Logan,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",35,6,29,0
+Logan,D103,Auditor of Public Accounts,,,Total Votes,234,38,196,0
+Logan,D103,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Logan,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,D103,State Treasurer,,REP,Mark H. METCALF,197,30,167,0
+Logan,D103,State Treasurer,,DEM,Michael BOWMAN,36,7,29,0
+Logan,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,D103,State Treasurer,,,Total Votes,233,37,196,0
+Logan,D103,State Treasurer,,,Under Votes,8,2,6,0
+Logan,D103,State Treasurer,,,Over Votes,0,0,0,0
+Logan,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,203,30,173,0
+Logan,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,8,26,0
+Logan,D103,Commissioner of Agriculture,,,Total Votes,237,38,199,0
+Logan,D103,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Logan,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,E101,STRAIGHT PARTY,,,Republican,83,11,71,1
+Logan,E101,STRAIGHT PARTY,,,Democratic,26,5,17,4
+Logan,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",149,16,130,3
+Logan,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,63,18,41,4
+Logan,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,E101,Governor,,,Total Votes,212,34,171,7
+Logan,E101,Governor,,,Under Votes,1,0,1,0
+Logan,E101,Governor,,,Over Votes,0,0,0,0
+Logan,E101,Secretary of State,,REP,Michael ADAMS,162,22,137,3
+Logan,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",47,12,31,4
+Logan,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,E101,Secretary of State,,,Total Votes,209,34,168,7
+Logan,E101,Secretary of State,,,Under Votes,4,0,4,0
+Logan,E101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,E101,Attorney General,,REP,Russell COLEMAN,163,20,140,3
+Logan,E101,Attorney General,,DEM,Pamela STEVENSON,47,13,30,4
+Logan,E101,Attorney General,,,Total Votes,210,33,170,7
+Logan,E101,Attorney General,,,Under Votes,3,1,2,0
+Logan,E101,Attorney General,,,Over Votes,0,0,0,0
+Logan,E101,Auditor of Public Accounts,,REP,Allison BALL,167,22,142,3
+Logan,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,11,29,3
+Logan,E101,Auditor of Public Accounts,,,Total Votes,210,33,171,6
+Logan,E101,Auditor of Public Accounts,,,Under Votes,2,1,1,0
+Logan,E101,Auditor of Public Accounts,,,Over Votes,1,0,0,1
+Logan,E101,State Treasurer,,REP,Mark H. METCALF,158,19,136,3
+Logan,E101,State Treasurer,,DEM,Michael BOWMAN,53,15,34,4
+Logan,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,E101,State Treasurer,,,Total Votes,211,34,170,7
+Logan,E101,State Treasurer,,,Under Votes,2,0,2,0
+Logan,E101,State Treasurer,,,Over Votes,0,0,0,0
+Logan,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,164,23,139,2
+Logan,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,48,11,32,5
+Logan,E101,Commissioner of Agriculture,,,Total Votes,212,34,171,7
+Logan,E101,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Logan,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,E102,STRAIGHT PARTY,,,Republican,263,26,235,2
+Logan,E102,STRAIGHT PARTY,,,Democratic,98,5,90,3
+Logan,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",411,41,365,5
+Logan,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,236,19,208,9
+Logan,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,E102,Governor,,,Total Votes,647,60,573,14
+Logan,E102,Governor,,,Under Votes,2,0,2,0
+Logan,E102,Governor,,,Over Votes,0,0,0,0
+Logan,E102,Secretary of State,,REP,Michael ADAMS,463,43,415,5
+Logan,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",172,15,148,9
+Logan,E102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Logan,E102,Secretary of State,,,Total Votes,636,58,564,14
+Logan,E102,Secretary of State,,,Under Votes,13,2,11,0
+Logan,E102,Secretary of State,,,Over Votes,0,0,0,0
+Logan,E102,Attorney General,,REP,Russell COLEMAN,454,42,406,6
+Logan,E102,Attorney General,,DEM,Pamela STEVENSON,186,16,162,8
+Logan,E102,Attorney General,,,Total Votes,640,58,568,14
+Logan,E102,Attorney General,,,Under Votes,9,2,7,0
+Logan,E102,Attorney General,,,Over Votes,0,0,0,0
+Logan,E102,Auditor of Public Accounts,,REP,Allison BALL,472,43,422,7
+Logan,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",165,15,143,7
+Logan,E102,Auditor of Public Accounts,,,Total Votes,637,58,565,14
+Logan,E102,Auditor of Public Accounts,,,Under Votes,12,2,10,0
+Logan,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,E102,State Treasurer,,REP,Mark H. METCALF,459,44,407,8
+Logan,E102,State Treasurer,,DEM,Michael BOWMAN,172,14,152,6
+Logan,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,E102,State Treasurer,,,Total Votes,631,58,559,14
+Logan,E102,State Treasurer,,,Under Votes,18,2,16,0
+Logan,E102,State Treasurer,,,Over Votes,0,0,0,0
+Logan,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,460,40,414,6
+Logan,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,178,17,153,8
+Logan,E102,Commissioner of Agriculture,,,Total Votes,638,57,567,14
+Logan,E102,Commissioner of Agriculture,,,Under Votes,10,2,8,0
+Logan,E102,Commissioner of Agriculture,,,Over Votes,1,1,0,0
+Logan,E103,STRAIGHT PARTY,,,Republican,191,26,163,2
+Logan,E103,STRAIGHT PARTY,,,Democratic,47,9,36,2
+Logan,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",282,29,250,3
+Logan,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,129,19,104,6
+Logan,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,E103,Governor,,,Total Votes,411,48,354,9
+Logan,E103,Governor,,,Under Votes,2,0,2,0
+Logan,E103,Governor,,,Over Votes,0,0,0,0
+Logan,E103,Secretary of State,,REP,Michael ADAMS,315,33,277,5
+Logan,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",89,14,71,4
+Logan,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,E103,Secretary of State,,,Total Votes,404,47,348,9
+Logan,E103,Secretary of State,,,Under Votes,9,1,8,0
+Logan,E103,Secretary of State,,,Over Votes,0,0,0,0
+Logan,E103,Attorney General,,REP,Russell COLEMAN,312,31,275,6
+Logan,E103,Attorney General,,DEM,Pamela STEVENSON,92,16,73,3
+Logan,E103,Attorney General,,,Total Votes,404,47,348,9
+Logan,E103,Attorney General,,,Under Votes,9,1,8,0
+Logan,E103,Attorney General,,,Over Votes,0,0,0,0
+Logan,E103,Auditor of Public Accounts,,REP,Allison BALL,322,33,283,6
+Logan,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,15,64,3
+Logan,E103,Auditor of Public Accounts,,,Total Votes,404,48,347,9
+Logan,E103,Auditor of Public Accounts,,,Under Votes,9,0,9,0
+Logan,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,E103,State Treasurer,,REP,Mark H. METCALF,310,31,273,6
+Logan,E103,State Treasurer,,DEM,Michael BOWMAN,93,16,74,3
+Logan,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,E103,State Treasurer,,,Total Votes,403,47,347,9
+Logan,E103,State Treasurer,,,Under Votes,10,1,9,0
+Logan,E103,State Treasurer,,,Over Votes,0,0,0,0
+Logan,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,323,34,283,6
+Logan,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,82,14,66,2
+Logan,E103,Commissioner of Agriculture,,,Total Votes,405,48,349,8
+Logan,E103,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Logan,E103,Commissioner of Agriculture,,,Over Votes,2,0,1,1
+Logan,F101,STRAIGHT PARTY,,,Republican,23,7,16,0
+Logan,F101,STRAIGHT PARTY,,,Democratic,92,26,64,2
+Logan,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",35,9,26,0
+Logan,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,134,34,97,3
+Logan,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,F101,Governor,,,Total Votes,169,43,123,3
+Logan,F101,Governor,,,Under Votes,0,0,0,0
+Logan,F101,Governor,,,Over Votes,0,0,0,0
+Logan,F101,Secretary of State,,REP,Michael ADAMS,47,10,37,0
+Logan,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,33,86,3
+Logan,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,F101,Secretary of State,,,Total Votes,169,43,123,3
+Logan,F101,Secretary of State,,,Under Votes,0,0,0,0
+Logan,F101,Secretary of State,,,Over Votes,0,0,0,0
+Logan,F101,Attorney General,,REP,Russell COLEMAN,45,9,36,0
+Logan,F101,Attorney General,,DEM,Pamela STEVENSON,124,34,87,3
+Logan,F101,Attorney General,,,Total Votes,169,43,123,3
+Logan,F101,Attorney General,,,Under Votes,0,0,0,0
+Logan,F101,Attorney General,,,Over Votes,0,0,0,0
+Logan,F101,Auditor of Public Accounts,,REP,Allison BALL,46,9,37,0
+Logan,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",123,34,86,3
+Logan,F101,Auditor of Public Accounts,,,Total Votes,169,43,123,3
+Logan,F101,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Logan,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,F101,State Treasurer,,REP,Mark H. METCALF,44,9,35,0
+Logan,F101,State Treasurer,,DEM,Michael BOWMAN,124,33,88,3
+Logan,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,F101,State Treasurer,,,Total Votes,168,42,123,3
+Logan,F101,State Treasurer,,,Under Votes,1,1,0,0
+Logan,F101,State Treasurer,,,Over Votes,0,0,0,0
+Logan,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,47,10,37,0
+Logan,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,122,33,86,3
+Logan,F101,Commissioner of Agriculture,,,Total Votes,169,43,123,3
+Logan,F101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Logan,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,F102,STRAIGHT PARTY,,,Republican,248,45,200,3
+Logan,F102,STRAIGHT PARTY,,,Democratic,90,32,55,3
+Logan,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",387,62,322,3
+Logan,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,232,71,152,9
+Logan,F102,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Logan,F102,Governor,,,Total Votes,620,133,475,12
+Logan,F102,Governor,,,Under Votes,2,0,2,0
+Logan,F102,Governor,,,Over Votes,0,0,0,0
+Logan,F102,Secretary of State,,REP,Michael ADAMS,451,78,368,5
+Logan,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,52,95,7
+Logan,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,F102,Secretary of State,,,Total Votes,605,130,463,12
+Logan,F102,Secretary of State,,,Under Votes,17,3,14,0
+Logan,F102,Secretary of State,,,Over Votes,0,0,0,0
+Logan,F102,Attorney General,,REP,Russell COLEMAN,449,83,361,5
+Logan,F102,Attorney General,,DEM,Pamela STEVENSON,165,50,108,7
+Logan,F102,Attorney General,,,Total Votes,614,133,469,12
+Logan,F102,Attorney General,,,Under Votes,8,0,8,0
+Logan,F102,Attorney General,,,Over Votes,0,0,0,0
+Logan,F102,Auditor of Public Accounts,,REP,Allison BALL,445,76,363,6
+Logan,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",159,53,100,6
+Logan,F102,Auditor of Public Accounts,,,Total Votes,604,129,463,12
+Logan,F102,Auditor of Public Accounts,,,Under Votes,17,4,13,0
+Logan,F102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Logan,F102,State Treasurer,,REP,Mark H. METCALF,426,71,351,4
+Logan,F102,State Treasurer,,DEM,Michael BOWMAN,177,59,110,8
+Logan,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,F102,State Treasurer,,,Total Votes,603,130,461,12
+Logan,F102,State Treasurer,,,Under Votes,19,3,16,0
+Logan,F102,State Treasurer,,,Over Votes,0,0,0,0
+Logan,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,432,71,356,5
+Logan,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,169,57,105,7
+Logan,F102,Commissioner of Agriculture,,,Total Votes,601,128,461,12
+Logan,F102,Commissioner of Agriculture,,,Under Votes,21,5,16,0
+Logan,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Logan,F103,STRAIGHT PARTY,,,Republican,94,27,64,3
+Logan,F103,STRAIGHT PARTY,,,Democratic,94,21,64,9
+Logan,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",142,35,104,3
+Logan,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,163,40,110,13
+Logan,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Logan,F103,Governor,,,Total Votes,305,75,214,16
+Logan,F103,Governor,,,Under Votes,0,0,0,0
+Logan,F103,Governor,,,Over Votes,0,0,0,0
+Logan,F103,Secretary of State,,REP,Michael ADAMS,164,42,119,3
+Logan,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",140,33,94,13
+Logan,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Logan,F103,Secretary of State,,,Total Votes,304,75,213,16
+Logan,F103,Secretary of State,,,Under Votes,1,0,1,0
+Logan,F103,Secretary of State,,,Over Votes,0,0,0,0
+Logan,F103,Attorney General,,REP,Russell COLEMAN,165,41,120,4
+Logan,F103,Attorney General,,DEM,Pamela STEVENSON,139,34,93,12
+Logan,F103,Attorney General,,,Total Votes,304,75,213,16
+Logan,F103,Attorney General,,,Under Votes,1,0,1,0
+Logan,F103,Attorney General,,,Over Votes,0,0,0,0
+Logan,F103,Auditor of Public Accounts,,REP,Allison BALL,165,41,120,4
+Logan,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",138,34,92,12
+Logan,F103,Auditor of Public Accounts,,,Total Votes,303,75,212,16
+Logan,F103,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Logan,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Logan,F103,State Treasurer,,REP,Mark H. METCALF,159,39,117,3
+Logan,F103,State Treasurer,,DEM,Michael BOWMAN,144,35,96,13
+Logan,F103,State Treasurer,,,Robert Perry,0,0,0,0
+Logan,F103,State Treasurer,,,Total Votes,303,74,213,16
+Logan,F103,State Treasurer,,,Under Votes,2,1,1,0
+Logan,F103,State Treasurer,,,Over Votes,0,0,0,0
+Logan,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,172,43,125,4
+Logan,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,130,31,87,12
+Logan,F103,Commissioner of Agriculture,,,Total Votes,302,74,212,16
+Logan,F103,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Logan,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

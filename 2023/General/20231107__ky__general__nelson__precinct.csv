@@ -1,0 +1,911 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Nelson,A101,STRAIGHT PARTY,,,Republican,27,4,23,0
+Nelson,A101,STRAIGHT PARTY,,,Democratic,10,0,7,3
+Nelson,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",56,9,47,0
+Nelson,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,32,3,25,4
+Nelson,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A101,Governor,,,Total Votes,88,12,72,4
+Nelson,A101,Governor,,,Under Votes,0,0,0,0
+Nelson,A101,Governor,,,Over Votes,0,0,0,0
+Nelson,A101,Secretary of State,,REP,Michael ADAMS,65,10,54,1
+Nelson,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",20,1,16,3
+Nelson,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A101,Secretary of State,,,Total Votes,85,11,70,4
+Nelson,A101,Secretary of State,,,Under Votes,3,1,2,0
+Nelson,A101,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,A101,Attorney General,,REP,Russell COLEMAN,65,9,56,0
+Nelson,A101,Attorney General,,DEM,Pamela STEVENSON,20,3,13,4
+Nelson,A101,Attorney General,,,Total Votes,85,12,69,4
+Nelson,A101,Attorney General,,,Under Votes,3,0,3,0
+Nelson,A101,Attorney General,,,Over Votes,0,0,0,0
+Nelson,A101,Auditor of Public Accounts,,REP,Allison BALL,66,10,55,1
+Nelson,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",19,2,14,3
+Nelson,A101,Auditor of Public Accounts,,,Total Votes,85,12,69,4
+Nelson,A101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Nelson,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,A101,State Treasurer,,REP,Mark H. METCALF,65,8,56,1
+Nelson,A101,State Treasurer,,DEM,Michael BOWMAN,18,3,12,3
+Nelson,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A101,State Treasurer,,,Total Votes,83,11,68,4
+Nelson,A101,State Treasurer,,,Under Votes,5,1,4,0
+Nelson,A101,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,48,7,41,0
+Nelson,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,40,5,31,4
+Nelson,A101,Commissioner of Agriculture,,,Total Votes,88,12,72,4
+Nelson,A101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Nelson,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,A102,STRAIGHT PARTY,,,Republican,221,23,191,7
+Nelson,A102,STRAIGHT PARTY,,,Democratic,133,19,104,10
+Nelson,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",382,34,338,10
+Nelson,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,355,56,282,17
+Nelson,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A102,Governor,,,Total Votes,737,90,620,27
+Nelson,A102,Governor,,,Under Votes,3,0,3,0
+Nelson,A102,Governor,,,Over Votes,0,0,0,0
+Nelson,A102,Secretary of State,,REP,Michael ADAMS,466,52,401,13
+Nelson,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",250,36,200,14
+Nelson,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A102,Secretary of State,,,Total Votes,716,88,601,27
+Nelson,A102,Secretary of State,,,Under Votes,23,2,21,0
+Nelson,A102,Secretary of State,,,Over Votes,1,0,1,0
+Nelson,A102,Attorney General,,REP,Russell COLEMAN,483,50,420,13
+Nelson,A102,Attorney General,,DEM,Pamela STEVENSON,241,38,189,14
+Nelson,A102,Attorney General,,,Total Votes,724,88,609,27
+Nelson,A102,Attorney General,,,Under Votes,16,2,14,0
+Nelson,A102,Attorney General,,,Over Votes,0,0,0,0
+Nelson,A102,Auditor of Public Accounts,,REP,Allison BALL,481,46,421,14
+Nelson,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",236,41,182,13
+Nelson,A102,Auditor of Public Accounts,,,Total Votes,717,87,603,27
+Nelson,A102,Auditor of Public Accounts,,,Under Votes,23,3,20,0
+Nelson,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,A102,State Treasurer,,REP,Mark H. METCALF,461,46,401,14
+Nelson,A102,State Treasurer,,DEM,Michael BOWMAN,254,41,200,13
+Nelson,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A102,State Treasurer,,,Total Votes,715,87,601,27
+Nelson,A102,State Treasurer,,,Under Votes,25,3,22,0
+Nelson,A102,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,352,41,301,10
+Nelson,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,373,48,308,17
+Nelson,A102,Commissioner of Agriculture,,,Total Votes,725,89,609,27
+Nelson,A102,Commissioner of Agriculture,,,Under Votes,15,1,14,0
+Nelson,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,A103,STRAIGHT PARTY,,,Republican,81,19,59,3
+Nelson,A103,STRAIGHT PARTY,,,Democratic,156,49,92,15
+Nelson,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",140,24,110,6
+Nelson,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,334,91,210,33
+Nelson,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A103,Governor,,,Total Votes,474,115,320,39
+Nelson,A103,Governor,,,Under Votes,0,0,0,0
+Nelson,A103,Governor,,,Over Votes,0,0,0,0
+Nelson,A103,Secretary of State,,REP,Michael ADAMS,213,46,156,11
+Nelson,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",253,66,160,27
+Nelson,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A103,Secretary of State,,,Total Votes,466,112,316,38
+Nelson,A103,Secretary of State,,,Under Votes,8,3,4,1
+Nelson,A103,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,A103,Attorney General,,REP,Russell COLEMAN,196,33,154,9
+Nelson,A103,Attorney General,,DEM,Pamela STEVENSON,265,78,158,29
+Nelson,A103,Attorney General,,,Total Votes,461,111,312,38
+Nelson,A103,Attorney General,,,Under Votes,12,3,8,1
+Nelson,A103,Attorney General,,,Over Votes,1,1,0,0
+Nelson,A103,Auditor of Public Accounts,,REP,Allison BALL,210,44,156,10
+Nelson,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",248,66,154,28
+Nelson,A103,Auditor of Public Accounts,,,Total Votes,458,110,310,38
+Nelson,A103,Auditor of Public Accounts,,,Under Votes,14,4,9,1
+Nelson,A103,Auditor of Public Accounts,,,Over Votes,2,1,1,0
+Nelson,A103,State Treasurer,,REP,Mark H. METCALF,186,32,146,8
+Nelson,A103,State Treasurer,,DEM,Michael BOWMAN,266,76,160,30
+Nelson,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A103,State Treasurer,,,Total Votes,452,108,306,38
+Nelson,A103,State Treasurer,,,Under Votes,21,6,14,1
+Nelson,A103,State Treasurer,,,Over Votes,1,1,0,0
+Nelson,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,183,33,139,11
+Nelson,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,275,80,167,28
+Nelson,A103,Commissioner of Agriculture,,,Total Votes,458,113,306,39
+Nelson,A103,Commissioner of Agriculture,,,Under Votes,16,2,14,0
+Nelson,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,A104,STRAIGHT PARTY,,,Republican,156,26,123,7
+Nelson,A104,STRAIGHT PARTY,,,Democratic,90,17,67,6
+Nelson,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",254,39,206,9
+Nelson,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,215,56,146,13
+Nelson,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A104,Governor,,,Total Votes,469,95,352,22
+Nelson,A104,Governor,,,Under Votes,1,0,1,0
+Nelson,A104,Governor,,,Over Votes,0,0,0,0
+Nelson,A104,Secretary of State,,REP,Michael ADAMS,311,59,242,10
+Nelson,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",148,32,104,12
+Nelson,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A104,Secretary of State,,,Total Votes,459,91,346,22
+Nelson,A104,Secretary of State,,,Under Votes,11,4,7,0
+Nelson,A104,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,A104,Attorney General,,REP,Russell COLEMAN,306,55,241,10
+Nelson,A104,Attorney General,,DEM,Pamela STEVENSON,157,36,109,12
+Nelson,A104,Attorney General,,,Total Votes,463,91,350,22
+Nelson,A104,Attorney General,,,Under Votes,7,4,3,0
+Nelson,A104,Attorney General,,,Over Votes,0,0,0,0
+Nelson,A104,Auditor of Public Accounts,,REP,Allison BALL,325,64,250,11
+Nelson,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",134,27,96,11
+Nelson,A104,Auditor of Public Accounts,,,Total Votes,459,91,346,22
+Nelson,A104,Auditor of Public Accounts,,,Under Votes,10,4,6,0
+Nelson,A104,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Nelson,A104,State Treasurer,,REP,Mark H. METCALF,302,61,228,13
+Nelson,A104,State Treasurer,,DEM,Michael BOWMAN,156,29,118,9
+Nelson,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A104,State Treasurer,,,Total Votes,458,90,346,22
+Nelson,A104,State Treasurer,,,Under Votes,12,5,7,0
+Nelson,A104,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,248,42,195,11
+Nelson,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,214,49,154,11
+Nelson,A104,Commissioner of Agriculture,,,Total Votes,462,91,349,22
+Nelson,A104,Commissioner of Agriculture,,,Under Votes,8,4,4,0
+Nelson,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,A105,STRAIGHT PARTY,,,Republican,225,41,179,5
+Nelson,A105,STRAIGHT PARTY,,,Democratic,164,47,102,15
+Nelson,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",384,72,306,6
+Nelson,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,397,91,280,26
+Nelson,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A105,Governor,,,Total Votes,781,163,586,32
+Nelson,A105,Governor,,,Under Votes,1,0,1,0
+Nelson,A105,Governor,,,Over Votes,0,0,0,0
+Nelson,A105,Secretary of State,,REP,Michael ADAMS,473,96,368,9
+Nelson,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",285,64,198,23
+Nelson,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A105,Secretary of State,,,Total Votes,758,160,566,32
+Nelson,A105,Secretary of State,,,Under Votes,24,3,21,0
+Nelson,A105,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,A105,Attorney General,,REP,Russell COLEMAN,468,92,369,7
+Nelson,A105,Attorney General,,DEM,Pamela STEVENSON,291,68,198,25
+Nelson,A105,Attorney General,,,Total Votes,759,160,567,32
+Nelson,A105,Attorney General,,,Under Votes,23,3,20,0
+Nelson,A105,Attorney General,,,Over Votes,0,0,0,0
+Nelson,A105,Auditor of Public Accounts,,REP,Allison BALL,510,100,398,12
+Nelson,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",247,62,165,20
+Nelson,A105,Auditor of Public Accounts,,,Total Votes,757,162,563,32
+Nelson,A105,Auditor of Public Accounts,,,Under Votes,25,1,24,0
+Nelson,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,A105,State Treasurer,,REP,Mark H. METCALF,458,87,364,7
+Nelson,A105,State Treasurer,,DEM,Michael BOWMAN,293,72,196,25
+Nelson,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A105,State Treasurer,,,Total Votes,751,159,560,32
+Nelson,A105,State Treasurer,,,Under Votes,31,4,27,0
+Nelson,A105,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,411,77,327,7
+Nelson,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,347,83,239,25
+Nelson,A105,Commissioner of Agriculture,,,Total Votes,758,160,566,32
+Nelson,A105,Commissioner of Agriculture,,,Under Votes,24,3,21,0
+Nelson,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,A106,STRAIGHT PARTY,,,Republican,3,0,3,0
+Nelson,A106,STRAIGHT PARTY,,,Democratic,2,0,2,0
+Nelson,A106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",6,1,5,0
+Nelson,A106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,3,0,3,0
+Nelson,A106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,A106,Governor,,,Total Votes,9,1,8,0
+Nelson,A106,Governor,,,Under Votes,0,0,0,0
+Nelson,A106,Governor,,,Over Votes,0,0,0,0
+Nelson,A106,Secretary of State,,REP,Michael ADAMS,6,1,5,0
+Nelson,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",3,0,3,0
+Nelson,A106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,A106,Secretary of State,,,Total Votes,9,1,8,0
+Nelson,A106,Secretary of State,,,Under Votes,0,0,0,0
+Nelson,A106,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,A106,Attorney General,,REP,Russell COLEMAN,7,1,6,0
+Nelson,A106,Attorney General,,DEM,Pamela STEVENSON,2,0,2,0
+Nelson,A106,Attorney General,,,Total Votes,9,1,8,0
+Nelson,A106,Attorney General,,,Under Votes,0,0,0,0
+Nelson,A106,Attorney General,,,Over Votes,0,0,0,0
+Nelson,A106,Auditor of Public Accounts,,REP,Allison BALL,7,1,6,0
+Nelson,A106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",2,0,2,0
+Nelson,A106,Auditor of Public Accounts,,,Total Votes,9,1,8,0
+Nelson,A106,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Nelson,A106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,A106,State Treasurer,,REP,Mark H. METCALF,5,0,5,0
+Nelson,A106,State Treasurer,,DEM,Michael BOWMAN,4,1,3,0
+Nelson,A106,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,A106,State Treasurer,,,Total Votes,9,1,8,0
+Nelson,A106,State Treasurer,,,Under Votes,0,0,0,0
+Nelson,A106,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,5,0,5,0
+Nelson,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,3,0
+Nelson,A106,Commissioner of Agriculture,,,Total Votes,9,1,8,0
+Nelson,A106,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Nelson,A106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,B101,STRAIGHT PARTY,,,Republican,337,41,292,4
+Nelson,B101,STRAIGHT PARTY,,,Democratic,139,33,94,12
+Nelson,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",518,75,436,7
+Nelson,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,406,93,292,21
+Nelson,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,B101,Governor,,,Total Votes,924,168,728,28
+Nelson,B101,Governor,,,Under Votes,4,1,3,0
+Nelson,B101,Governor,,,Over Votes,0,0,0,0
+Nelson,B101,Secretary of State,,REP,Michael ADAMS,628,101,517,10
+Nelson,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",286,65,203,18
+Nelson,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,B101,Secretary of State,,,Total Votes,914,166,720,28
+Nelson,B101,Secretary of State,,,Under Votes,14,3,11,0
+Nelson,B101,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,B101,Attorney General,,REP,Russell COLEMAN,632,97,526,9
+Nelson,B101,Attorney General,,DEM,Pamela STEVENSON,280,68,193,19
+Nelson,B101,Attorney General,,,Total Votes,912,165,719,28
+Nelson,B101,Attorney General,,,Under Votes,16,4,12,0
+Nelson,B101,Attorney General,,,Over Votes,0,0,0,0
+Nelson,B101,Auditor of Public Accounts,,REP,Allison BALL,641,104,526,11
+Nelson,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",263,62,185,16
+Nelson,B101,Auditor of Public Accounts,,,Total Votes,904,166,711,27
+Nelson,B101,Auditor of Public Accounts,,,Under Votes,24,3,20,1
+Nelson,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,B101,State Treasurer,,REP,Mark H. METCALF,603,99,496,8
+Nelson,B101,State Treasurer,,DEM,Michael BOWMAN,299,67,213,19
+Nelson,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,B101,State Treasurer,,,Total Votes,902,166,709,27
+Nelson,B101,State Treasurer,,,Under Votes,26,3,22,1
+Nelson,B101,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,592,96,488,8
+Nelson,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,310,67,224,19
+Nelson,B101,Commissioner of Agriculture,,,Total Votes,902,163,712,27
+Nelson,B101,Commissioner of Agriculture,,,Under Votes,26,6,19,1
+Nelson,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,B102,STRAIGHT PARTY,,,Republican,99,28,67,4
+Nelson,B102,STRAIGHT PARTY,,,Democratic,144,47,84,13
+Nelson,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",161,42,112,7
+Nelson,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,269,87,161,21
+Nelson,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,B102,Governor,,,Total Votes,430,129,273,28
+Nelson,B102,Governor,,,Under Votes,3,1,1,1
+Nelson,B102,Governor,,,Over Votes,0,0,0,0
+Nelson,B102,Secretary of State,,REP,Michael ADAMS,204,57,136,11
+Nelson,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",224,70,136,18
+Nelson,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,B102,Secretary of State,,,Total Votes,428,127,272,29
+Nelson,B102,Secretary of State,,,Under Votes,5,3,2,0
+Nelson,B102,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,B102,Attorney General,,REP,Russell COLEMAN,200,53,137,10
+Nelson,B102,Attorney General,,DEM,Pamela STEVENSON,230,76,135,19
+Nelson,B102,Attorney General,,,Total Votes,430,129,272,29
+Nelson,B102,Attorney General,,,Under Votes,3,1,2,0
+Nelson,B102,Attorney General,,,Over Votes,0,0,0,0
+Nelson,B102,Auditor of Public Accounts,,REP,Allison BALL,208,54,146,8
+Nelson,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",215,73,122,20
+Nelson,B102,Auditor of Public Accounts,,,Total Votes,423,127,268,28
+Nelson,B102,Auditor of Public Accounts,,,Under Votes,10,3,6,1
+Nelson,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,B102,State Treasurer,,REP,Mark H. METCALF,196,51,135,10
+Nelson,B102,State Treasurer,,DEM,Michael BOWMAN,230,76,135,19
+Nelson,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,B102,State Treasurer,,,Total Votes,426,127,270,29
+Nelson,B102,State Treasurer,,,Under Votes,7,3,4,0
+Nelson,B102,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,196,55,130,11
+Nelson,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,229,72,140,17
+Nelson,B102,Commissioner of Agriculture,,,Total Votes,425,127,270,28
+Nelson,B102,Commissioner of Agriculture,,,Under Votes,7,3,3,1
+Nelson,B102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Nelson,B103,STRAIGHT PARTY,,,Republican,296,66,226,4
+Nelson,B103,STRAIGHT PARTY,,,Democratic,146,55,78,13
+Nelson,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",413,98,308,7
+Nelson,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,386,133,225,28
+Nelson,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,B103,Governor,,,Total Votes,799,231,533,35
+Nelson,B103,Governor,,,Under Votes,2,0,2,0
+Nelson,B103,Governor,,,Over Votes,0,0,0,0
+Nelson,B103,Secretary of State,,REP,Michael ADAMS,527,138,376,13
+Nelson,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",260,92,147,21
+Nelson,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,B103,Secretary of State,,,Total Votes,787,230,523,34
+Nelson,B103,Secretary of State,,,Under Votes,14,1,12,1
+Nelson,B103,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,B103,Attorney General,,REP,Russell COLEMAN,502,120,368,14
+Nelson,B103,Attorney General,,DEM,Pamela STEVENSON,287,109,158,20
+Nelson,B103,Attorney General,,,Total Votes,789,229,526,34
+Nelson,B103,Attorney General,,,Under Votes,12,2,9,1
+Nelson,B103,Attorney General,,,Over Votes,0,0,0,0
+Nelson,B103,Auditor of Public Accounts,,REP,Allison BALL,526,134,378,14
+Nelson,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",254,94,141,19
+Nelson,B103,Auditor of Public Accounts,,,Total Votes,780,228,519,33
+Nelson,B103,Auditor of Public Accounts,,,Under Votes,21,3,16,2
+Nelson,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,B103,State Treasurer,,REP,Mark H. METCALF,496,127,354,15
+Nelson,B103,State Treasurer,,DEM,Michael BOWMAN,282,98,166,18
+Nelson,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,B103,State Treasurer,,,Total Votes,778,225,520,33
+Nelson,B103,State Treasurer,,,Under Votes,23,6,15,2
+Nelson,B103,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,476,115,348,13
+Nelson,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,300,111,169,20
+Nelson,B103,Commissioner of Agriculture,,,Total Votes,776,226,517,33
+Nelson,B103,Commissioner of Agriculture,,,Under Votes,25,5,18,2
+Nelson,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,B104,STRAIGHT PARTY,,,Republican,303,54,237,12
+Nelson,B104,STRAIGHT PARTY,,,Democratic,160,34,113,13
+Nelson,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",423,74,331,18
+Nelson,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,406,86,297,23
+Nelson,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,B104,Governor,,,Total Votes,829,160,628,41
+Nelson,B104,Governor,,,Under Votes,5,0,4,1
+Nelson,B104,Governor,,,Over Votes,0,0,0,0
+Nelson,B104,Secretary of State,,REP,Michael ADAMS,518,102,392,24
+Nelson,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",294,54,223,17
+Nelson,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,B104,Secretary of State,,,Total Votes,812,156,615,41
+Nelson,B104,Secretary of State,,,Under Votes,22,4,17,1
+Nelson,B104,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,B104,Attorney General,,REP,Russell COLEMAN,530,100,409,21
+Nelson,B104,Attorney General,,DEM,Pamela STEVENSON,284,57,207,20
+Nelson,B104,Attorney General,,,Total Votes,814,157,616,41
+Nelson,B104,Attorney General,,,Under Votes,20,3,16,1
+Nelson,B104,Attorney General,,,Over Votes,0,0,0,0
+Nelson,B104,Auditor of Public Accounts,,REP,Allison BALL,532,99,409,24
+Nelson,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",276,56,204,16
+Nelson,B104,Auditor of Public Accounts,,,Total Votes,808,155,613,40
+Nelson,B104,Auditor of Public Accounts,,,Under Votes,26,5,19,2
+Nelson,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,B104,State Treasurer,,REP,Mark H. METCALF,504,92,392,20
+Nelson,B104,State Treasurer,,DEM,Michael BOWMAN,302,62,220,20
+Nelson,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,B104,State Treasurer,,,Total Votes,806,154,612,40
+Nelson,B104,State Treasurer,,,Under Votes,28,6,20,2
+Nelson,B104,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,497,98,379,20
+Nelson,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,309,56,233,20
+Nelson,B104,Commissioner of Agriculture,,,Total Votes,806,154,612,40
+Nelson,B104,Commissioner of Agriculture,,,Under Votes,28,6,20,2
+Nelson,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,C101,STRAIGHT PARTY,,,Republican,135,21,105,9
+Nelson,C101,STRAIGHT PARTY,,,Democratic,141,45,92,4
+Nelson,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",212,42,157,13
+Nelson,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,382,100,259,23
+Nelson,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,C101,Governor,,,Total Votes,594,142,416,36
+Nelson,C101,Governor,,,Under Votes,2,1,1,0
+Nelson,C101,Governor,,,Over Votes,0,0,0,0
+Nelson,C101,Secretary of State,,REP,Michael ADAMS,317,62,230,25
+Nelson,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",257,74,173,10
+Nelson,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,C101,Secretary of State,,,Total Votes,574,136,403,35
+Nelson,C101,Secretary of State,,,Under Votes,22,7,14,1
+Nelson,C101,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,C101,Attorney General,,REP,Russell COLEMAN,302,52,227,23
+Nelson,C101,Attorney General,,DEM,Pamela STEVENSON,273,84,179,10
+Nelson,C101,Attorney General,,,Total Votes,575,136,406,33
+Nelson,C101,Attorney General,,,Under Votes,20,6,11,3
+Nelson,C101,Attorney General,,,Over Votes,1,1,0,0
+Nelson,C101,Auditor of Public Accounts,,REP,Allison BALL,324,61,240,23
+Nelson,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",247,76,158,13
+Nelson,C101,Auditor of Public Accounts,,,Total Votes,571,137,398,36
+Nelson,C101,Auditor of Public Accounts,,,Under Votes,25,6,19,0
+Nelson,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,C101,State Treasurer,,REP,Mark H. METCALF,291,54,217,20
+Nelson,C101,State Treasurer,,DEM,Michael BOWMAN,277,84,179,14
+Nelson,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,C101,State Treasurer,,,Total Votes,568,138,396,34
+Nelson,C101,State Treasurer,,,Under Votes,28,5,21,2
+Nelson,C101,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,274,49,207,18
+Nelson,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,303,89,197,17
+Nelson,C101,Commissioner of Agriculture,,,Total Votes,577,138,404,35
+Nelson,C101,Commissioner of Agriculture,,,Under Votes,19,5,13,1
+Nelson,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,C102,STRAIGHT PARTY,,,Republican,150,26,109,15
+Nelson,C102,STRAIGHT PARTY,,,Democratic,141,45,84,12
+Nelson,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",222,41,161,20
+Nelson,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,322,109,179,34
+Nelson,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,C102,Governor,,,Total Votes,544,150,340,54
+Nelson,C102,Governor,,,Under Votes,4,0,4,0
+Nelson,C102,Governor,,,Over Votes,0,0,0,0
+Nelson,C102,Secretary of State,,REP,Michael ADAMS,296,73,197,26
+Nelson,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",243,77,139,27
+Nelson,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,C102,Secretary of State,,,Total Votes,539,150,336,53
+Nelson,C102,Secretary of State,,,Under Votes,9,0,8,1
+Nelson,C102,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,C102,Attorney General,,REP,Russell COLEMAN,270,60,185,25
+Nelson,C102,Attorney General,,DEM,Pamela STEVENSON,269,88,153,28
+Nelson,C102,Attorney General,,,Total Votes,539,148,338,53
+Nelson,C102,Attorney General,,,Under Votes,9,2,6,1
+Nelson,C102,Attorney General,,,Over Votes,0,0,0,0
+Nelson,C102,Auditor of Public Accounts,,REP,Allison BALL,288,63,198,27
+Nelson,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",243,84,135,24
+Nelson,C102,Auditor of Public Accounts,,,Total Votes,531,147,333,51
+Nelson,C102,Auditor of Public Accounts,,,Under Votes,17,3,11,3
+Nelson,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,C102,State Treasurer,,REP,Mark H. METCALF,260,54,182,24
+Nelson,C102,State Treasurer,,DEM,Michael BOWMAN,266,92,149,25
+Nelson,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,C102,State Treasurer,,,Total Votes,526,146,331,49
+Nelson,C102,State Treasurer,,,Under Votes,22,4,13,5
+Nelson,C102,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,269,58,188,23
+Nelson,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,258,87,145,26
+Nelson,C102,Commissioner of Agriculture,,,Total Votes,527,145,333,49
+Nelson,C102,Commissioner of Agriculture,,,Under Votes,21,5,11,5
+Nelson,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,C103,STRAIGHT PARTY,,,Republican,207,26,177,4
+Nelson,C103,STRAIGHT PARTY,,,Democratic,156,51,95,10
+Nelson,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",314,44,264,6
+Nelson,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,314,94,202,18
+Nelson,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,C103,Governor,,,Total Votes,628,138,466,24
+Nelson,C103,Governor,,,Under Votes,2,0,2,0
+Nelson,C103,Governor,,,Over Votes,0,0,0,0
+Nelson,C103,Secretary of State,,REP,Michael ADAMS,371,56,307,8
+Nelson,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",238,77,146,15
+Nelson,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,C103,Secretary of State,,,Total Votes,609,133,453,23
+Nelson,C103,Secretary of State,,,Under Votes,21,5,15,1
+Nelson,C103,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,C103,Attorney General,,REP,Russell COLEMAN,368,60,298,10
+Nelson,C103,Attorney General,,DEM,Pamela STEVENSON,246,74,159,13
+Nelson,C103,Attorney General,,,Total Votes,614,134,457,23
+Nelson,C103,Attorney General,,,Under Votes,16,4,11,1
+Nelson,C103,Attorney General,,,Over Votes,0,0,0,0
+Nelson,C103,Auditor of Public Accounts,,REP,Allison BALL,383,59,316,8
+Nelson,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",227,72,140,15
+Nelson,C103,Auditor of Public Accounts,,,Total Votes,610,131,456,23
+Nelson,C103,Auditor of Public Accounts,,,Under Votes,20,7,12,1
+Nelson,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,C103,State Treasurer,,REP,Mark H. METCALF,361,55,297,9
+Nelson,C103,State Treasurer,,DEM,Michael BOWMAN,248,77,157,14
+Nelson,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,C103,State Treasurer,,,Total Votes,609,132,454,23
+Nelson,C103,State Treasurer,,,Under Votes,21,6,14,1
+Nelson,C103,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,349,54,289,6
+Nelson,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,264,79,167,18
+Nelson,C103,Commissioner of Agriculture,,,Total Votes,613,133,456,24
+Nelson,C103,Commissioner of Agriculture,,,Under Votes,17,5,12,0
+Nelson,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,C104,STRAIGHT PARTY,,,Republican,110,31,74,5
+Nelson,C104,STRAIGHT PARTY,,,Democratic,146,50,75,21
+Nelson,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",174,47,119,8
+Nelson,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,340,124,182,34
+Nelson,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,C104,Governor,,,Total Votes,514,171,301,42
+Nelson,C104,Governor,,,Under Votes,0,0,0,0
+Nelson,C104,Governor,,,Over Votes,0,0,0,0
+Nelson,C104,Secretary of State,,REP,Michael ADAMS,232,71,151,10
+Nelson,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",262,94,138,30
+Nelson,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,C104,Secretary of State,,,Total Votes,494,165,289,40
+Nelson,C104,Secretary of State,,,Under Votes,20,6,12,2
+Nelson,C104,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,C104,Attorney General,,REP,Russell COLEMAN,217,64,145,8
+Nelson,C104,Attorney General,,DEM,Pamela STEVENSON,272,100,139,33
+Nelson,C104,Attorney General,,,Total Votes,489,164,284,41
+Nelson,C104,Attorney General,,,Under Votes,25,7,17,1
+Nelson,C104,Attorney General,,,Over Votes,0,0,0,0
+Nelson,C104,Auditor of Public Accounts,,REP,Allison BALL,235,70,154,11
+Nelson,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",252,93,129,30
+Nelson,C104,Auditor of Public Accounts,,,Total Votes,487,163,283,41
+Nelson,C104,Auditor of Public Accounts,,,Under Votes,27,8,18,1
+Nelson,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,C104,State Treasurer,,REP,Mark H. METCALF,223,60,152,11
+Nelson,C104,State Treasurer,,DEM,Michael BOWMAN,262,102,130,30
+Nelson,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,C104,State Treasurer,,,Total Votes,485,162,282,41
+Nelson,C104,State Treasurer,,,Under Votes,29,9,19,1
+Nelson,C104,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,223,68,144,11
+Nelson,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,265,96,139,30
+Nelson,C104,Commissioner of Agriculture,,,Total Votes,488,164,283,41
+Nelson,C104,Commissioner of Agriculture,,,Under Votes,26,7,18,1
+Nelson,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,C105,STRAIGHT PARTY,,,Republican,220,21,192,7
+Nelson,C105,STRAIGHT PARTY,,,Democratic,103,12,84,7
+Nelson,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",354,35,309,10
+Nelson,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,261,40,211,10
+Nelson,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,C105,Governor,,,Total Votes,615,75,520,20
+Nelson,C105,Governor,,,Under Votes,2,0,2,0
+Nelson,C105,Governor,,,Over Votes,0,0,0,0
+Nelson,C105,Secretary of State,,REP,Michael ADAMS,425,53,362,10
+Nelson,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",168,19,140,9
+Nelson,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,C105,Secretary of State,,,Total Votes,593,72,502,19
+Nelson,C105,Secretary of State,,,Under Votes,24,3,20,1
+Nelson,C105,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,C105,Attorney General,,REP,Russell COLEMAN,401,43,349,9
+Nelson,C105,Attorney General,,DEM,Pamela STEVENSON,198,31,157,10
+Nelson,C105,Attorney General,,,Total Votes,599,74,506,19
+Nelson,C105,Attorney General,,,Under Votes,18,1,16,1
+Nelson,C105,Attorney General,,,Over Votes,0,0,0,0
+Nelson,C105,Auditor of Public Accounts,,REP,Allison BALL,425,45,370,10
+Nelson,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",169,25,135,9
+Nelson,C105,Auditor of Public Accounts,,,Total Votes,594,70,505,19
+Nelson,C105,Auditor of Public Accounts,,,Under Votes,23,5,17,1
+Nelson,C105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,C105,State Treasurer,,REP,Mark H. METCALF,397,37,351,9
+Nelson,C105,State Treasurer,,DEM,Michael BOWMAN,191,32,149,10
+Nelson,C105,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,C105,State Treasurer,,,Total Votes,588,69,500,19
+Nelson,C105,State Treasurer,,,Under Votes,29,6,22,1
+Nelson,C105,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,393,40,345,8
+Nelson,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,201,29,161,11
+Nelson,C105,Commissioner of Agriculture,,,Total Votes,594,69,506,19
+Nelson,C105,Commissioner of Agriculture,,,Under Votes,23,6,16,1
+Nelson,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,D101,STRAIGHT PARTY,,,Republican,244,51,191,2
+Nelson,D101,STRAIGHT PARTY,,,Democratic,102,30,68,4
+Nelson,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",370,71,297,2
+Nelson,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,306,82,215,9
+Nelson,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,D101,Governor,,,Total Votes,676,153,512,11
+Nelson,D101,Governor,,,Under Votes,0,0,0,0
+Nelson,D101,Governor,,,Over Votes,0,0,0,0
+Nelson,D101,Secretary of State,,REP,Michael ADAMS,451,90,355,6
+Nelson,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",207,61,141,5
+Nelson,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,D101,Secretary of State,,,Total Votes,658,151,496,11
+Nelson,D101,Secretary of State,,,Under Votes,17,1,16,0
+Nelson,D101,Secretary of State,,,Over Votes,1,1,0,0
+Nelson,D101,Attorney General,,REP,Russell COLEMAN,438,87,346,5
+Nelson,D101,Attorney General,,DEM,Pamela STEVENSON,222,61,155,6
+Nelson,D101,Attorney General,,,Total Votes,660,148,501,11
+Nelson,D101,Attorney General,,,Under Votes,16,5,11,0
+Nelson,D101,Attorney General,,,Over Votes,0,0,0,0
+Nelson,D101,Auditor of Public Accounts,,REP,Allison BALL,456,92,360,4
+Nelson,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",198,55,136,7
+Nelson,D101,Auditor of Public Accounts,,,Total Votes,654,147,496,11
+Nelson,D101,Auditor of Public Accounts,,,Under Votes,22,6,16,0
+Nelson,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,D101,State Treasurer,,REP,Mark H. METCALF,427,86,335,6
+Nelson,D101,State Treasurer,,DEM,Michael BOWMAN,221,60,156,5
+Nelson,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,D101,State Treasurer,,,Total Votes,648,146,491,11
+Nelson,D101,State Treasurer,,,Under Votes,28,7,21,0
+Nelson,D101,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,412,83,326,3
+Nelson,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,240,65,167,8
+Nelson,D101,Commissioner of Agriculture,,,Total Votes,652,148,493,11
+Nelson,D101,Commissioner of Agriculture,,,Under Votes,24,5,19,0
+Nelson,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,D102,STRAIGHT PARTY,,,Republican,363,47,304,12
+Nelson,D102,STRAIGHT PARTY,,,Democratic,177,66,92,19
+Nelson,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",536,71,450,15
+Nelson,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,488,157,293,38
+Nelson,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,D102,Governor,,,Total Votes,0,228,743,53
+Nelson,D102,Governor,,,Under Votes,0,0,0,0
+Nelson,D102,Governor,,,Over Votes,1,1,0,0
+Nelson,D102,Secretary of State,,REP,Michael ADAMS,659,106,533,20
+Nelson,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",337,116,191,30
+Nelson,D102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Nelson,D102,Secretary of State,,,Total Votes,997,222,725,50
+Nelson,D102,Secretary of State,,,Under Votes,28,7,18,3
+Nelson,D102,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,D102,Attorney General,,REP,Russell COLEMAN,652,99,532,21
+Nelson,D102,Attorney General,,DEM,Pamela STEVENSON,348,123,196,29
+Nelson,D102,Attorney General,,,Total Votes,1000,222,728,50
+Nelson,D102,Attorney General,,,Under Votes,25,7,15,3
+Nelson,D102,Attorney General,,,Over Votes,0,0,0,0
+Nelson,D102,Auditor of Public Accounts,,REP,Allison BALL,657,100,537,20
+Nelson,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",335,124,182,29
+Nelson,D102,Auditor of Public Accounts,,,Total Votes,992,224,719,49
+Nelson,D102,Auditor of Public Accounts,,,Under Votes,33,5,24,4
+Nelson,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,D102,State Treasurer,,REP,Mark H. METCALF,624,92,512,20
+Nelson,D102,State Treasurer,,DEM,Michael BOWMAN,361,129,202,30
+Nelson,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,D102,State Treasurer,,,Total Votes,985,221,714,50
+Nelson,D102,State Treasurer,,,Under Votes,39,8,28,3
+Nelson,D102,State Treasurer,,,Over Votes,1,0,1,0
+Nelson,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,627,90,515,22
+Nelson,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,366,132,207,27
+Nelson,D102,Commissioner of Agriculture,,,Total Votes,993,222,722,49
+Nelson,D102,Commissioner of Agriculture,,,Under Votes,32,7,21,4
+Nelson,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,D103,STRAIGHT PARTY,,,Republican,272,38,223,11
+Nelson,D103,STRAIGHT PARTY,,,Democratic,166,42,77,47
+Nelson,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",417,60,345,12
+Nelson,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,366,82,213,71
+Nelson,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,D103,Governor,,,Total Votes,783,142,558,83
+Nelson,D103,Governor,,,Under Votes,1,0,1,0
+Nelson,D103,Governor,,,Over Votes,0,0,0,0
+Nelson,D103,Secretary of State,,REP,Michael ADAMS,498,77,404,17
+Nelson,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",270,63,141,66
+Nelson,D103,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
+Nelson,D103,Secretary of State,,,Total Votes,770,140,547,83
+Nelson,D103,Secretary of State,,,Under Votes,14,2,12,0
+Nelson,D103,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,D103,Attorney General,,REP,Russell COLEMAN,498,73,406,19
+Nelson,D103,Attorney General,,DEM,Pamela STEVENSON,273,67,142,64
+Nelson,D103,Attorney General,,,Total Votes,771,140,548,83
+Nelson,D103,Attorney General,,,Under Votes,13,2,11,0
+Nelson,D103,Attorney General,,,Over Votes,0,0,0,0
+Nelson,D103,Auditor of Public Accounts,,REP,Allison BALL,510,78,412,20
+Nelson,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",254,63,128,63
+Nelson,D103,Auditor of Public Accounts,,,Total Votes,764,141,540,83
+Nelson,D103,Auditor of Public Accounts,,,Under Votes,19,1,18,0
+Nelson,D103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Nelson,D103,State Treasurer,,REP,Mark H. METCALF,482,71,393,18
+Nelson,D103,State Treasurer,,DEM,Michael BOWMAN,281,70,146,65
+Nelson,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,D103,State Treasurer,,,Total Votes,763,141,539,83
+Nelson,D103,State Treasurer,,,Under Votes,21,1,20,0
+Nelson,D103,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,464,67,380,17
+Nelson,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,302,72,164,66
+Nelson,D103,Commissioner of Agriculture,,,Total Votes,766,139,544,83
+Nelson,D103,Commissioner of Agriculture,,,Under Votes,17,3,14,0
+Nelson,D103,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Nelson,D104,STRAIGHT PARTY,,,Republican,238,29,205,4
+Nelson,D104,STRAIGHT PARTY,,,Democratic,112,29,72,11
+Nelson,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",359,50,299,10
+Nelson,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,264,56,187,21
+Nelson,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,D104,Governor,,,Total Votes,623,106,486,31
+Nelson,D104,Governor,,,Under Votes,2,0,2,0
+Nelson,D104,Governor,,,Over Votes,0,0,0,0
+Nelson,D104,Secretary of State,,REP,Michael ADAMS,429,60,355,14
+Nelson,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",182,46,121,15
+Nelson,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,D104,Secretary of State,,,Total Votes,611,106,476,29
+Nelson,D104,Secretary of State,,,Under Votes,13,0,11,2
+Nelson,D104,Secretary of State,,,Over Votes,1,0,1,0
+Nelson,D104,Attorney General,,REP,Russell COLEMAN,423,60,352,11
+Nelson,D104,Attorney General,,DEM,Pamela STEVENSON,192,46,128,18
+Nelson,D104,Attorney General,,,Total Votes,615,106,480,29
+Nelson,D104,Attorney General,,,Under Votes,10,0,8,2
+Nelson,D104,Attorney General,,,Over Votes,0,0,0,0
+Nelson,D104,Auditor of Public Accounts,,REP,Allison BALL,429,61,354,14
+Nelson,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",180,44,121,15
+Nelson,D104,Auditor of Public Accounts,,,Total Votes,609,105,475,29
+Nelson,D104,Auditor of Public Accounts,,,Under Votes,16,1,13,2
+Nelson,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,D104,State Treasurer,,REP,Mark H. METCALF,408,59,333,16
+Nelson,D104,State Treasurer,,DEM,Michael BOWMAN,197,47,137,13
+Nelson,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,D104,State Treasurer,,,Total Votes,605,106,470,29
+Nelson,D104,State Treasurer,,,Under Votes,20,0,18,2
+Nelson,D104,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,382,53,317,12
+Nelson,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,227,53,158,16
+Nelson,D104,Commissioner of Agriculture,,,Total Votes,609,106,475,28
+Nelson,D104,Commissioner of Agriculture,,,Under Votes,16,0,13,3
+Nelson,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,D105,STRAIGHT PARTY,,,Republican,192,33,151,8
+Nelson,D105,STRAIGHT PARTY,,,Democratic,145,50,85,10
+Nelson,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",332,64,255,13
+Nelson,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,408,122,259,27
+Nelson,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,D105,Governor,,,Total Votes,740,186,514,40
+Nelson,D105,Governor,,,Under Votes,5,0,3,2
+Nelson,D105,Governor,,,Over Votes,0,0,0,0
+Nelson,D105,Secretary of State,,REP,Michael ADAMS,447,103,325,19
+Nelson,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",275,80,174,21
+Nelson,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,D105,Secretary of State,,,Total Votes,722,183,499,40
+Nelson,D105,Secretary of State,,,Under Votes,23,3,18,2
+Nelson,D105,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,D105,Attorney General,,REP,Russell COLEMAN,429,87,326,16
+Nelson,D105,Attorney General,,DEM,Pamela STEVENSON,290,97,169,24
+Nelson,D105,Attorney General,,,Total Votes,719,184,495,40
+Nelson,D105,Attorney General,,,Under Votes,26,2,22,2
+Nelson,D105,Attorney General,,,Over Votes,0,0,0,0
+Nelson,D105,Auditor of Public Accounts,,REP,Allison BALL,444,93,334,17
+Nelson,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",271,89,159,23
+Nelson,D105,Auditor of Public Accounts,,,Total Votes,715,182,493,40
+Nelson,D105,Auditor of Public Accounts,,,Under Votes,30,4,24,2
+Nelson,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,D105,State Treasurer,,REP,Mark H. METCALF,409,88,304,17
+Nelson,D105,State Treasurer,,DEM,Michael BOWMAN,302,95,184,23
+Nelson,D105,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,D105,State Treasurer,,,Total Votes,711,183,488,40
+Nelson,D105,State Treasurer,,,Under Votes,34,3,29,2
+Nelson,D105,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,404,85,302,17
+Nelson,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,314,96,195,23
+Nelson,D105,Commissioner of Agriculture,,,Total Votes,718,181,497,40
+Nelson,D105,Commissioner of Agriculture,,,Under Votes,27,5,20,2
+Nelson,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E101,STRAIGHT PARTY,,,Republican,124,18,102,4
+Nelson,E101,STRAIGHT PARTY,,,Democratic,70,22,42,6
+Nelson,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",209,29,174,6
+Nelson,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,209,60,137,12
+Nelson,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E101,Governor,,,Total Votes,418,89,311,18
+Nelson,E101,Governor,,,Under Votes,2,0,2,0
+Nelson,E101,Governor,,,Over Votes,0,0,0,0
+Nelson,E101,Secretary of State,,REP,Michael ADAMS,268,45,213,10
+Nelson,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",137,41,88,8
+Nelson,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,E101,Secretary of State,,,Total Votes,405,86,301,18
+Nelson,E101,Secretary of State,,,Under Votes,15,3,12,0
+Nelson,E101,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E101,Attorney General,,REP,Russell COLEMAN,272,48,217,7
+Nelson,E101,Attorney General,,DEM,Pamela STEVENSON,138,39,89,10
+Nelson,E101,Attorney General,,,Total Votes,410,87,306,17
+Nelson,E101,Attorney General,,,Under Votes,10,2,7,1
+Nelson,E101,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E101,Auditor of Public Accounts,,REP,Allison BALL,276,46,221,9
+Nelson,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",131,41,82,8
+Nelson,E101,Auditor of Public Accounts,,,Total Votes,407,87,303,17
+Nelson,E101,Auditor of Public Accounts,,,Under Votes,13,2,10,1
+Nelson,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E101,State Treasurer,,REP,Mark H. METCALF,250,41,202,7
+Nelson,E101,State Treasurer,,DEM,Michael BOWMAN,155,45,99,11
+Nelson,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,E101,State Treasurer,,,Total Votes,405,86,301,18
+Nelson,E101,State Treasurer,,,Under Votes,15,3,12,0
+Nelson,E101,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,269,41,219,9
+Nelson,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,140,46,86,8
+Nelson,E101,Commissioner of Agriculture,,,Total Votes,409,87,305,17
+Nelson,E101,Commissioner of Agriculture,,,Under Votes,11,2,8,1
+Nelson,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E102,STRAIGHT PARTY,,,Republican,241,43,191,7
+Nelson,E102,STRAIGHT PARTY,,,Democratic,177,57,114,6
+Nelson,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",376,69,300,7
+Nelson,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,408,114,277,17
+Nelson,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E102,Governor,,,Total Votes,784,183,577,24
+Nelson,E102,Governor,,,Under Votes,0,0,0,0
+Nelson,E102,Governor,,,Over Votes,0,0,0,0
+Nelson,E102,Secretary of State,,REP,Michael ADAMS,456,90,354,12
+Nelson,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",304,87,207,10
+Nelson,E102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Nelson,E102,Secretary of State,,,Total Votes,761,177,562,22
+Nelson,E102,Secretary of State,,,Under Votes,23,6,15,2
+Nelson,E102,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E102,Attorney General,,REP,Russell COLEMAN,440,85,346,9
+Nelson,E102,Attorney General,,DEM,Pamela STEVENSON,327,94,218,15
+Nelson,E102,Attorney General,,,Total Votes,767,179,564,24
+Nelson,E102,Attorney General,,,Under Votes,17,4,13,0
+Nelson,E102,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E102,Auditor of Public Accounts,,REP,Allison BALL,465,88,366,11
+Nelson,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",295,89,195,11
+Nelson,E102,Auditor of Public Accounts,,,Total Votes,760,177,561,22
+Nelson,E102,Auditor of Public Accounts,,,Under Votes,24,6,16,2
+Nelson,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E102,State Treasurer,,REP,Mark H. METCALF,424,72,341,11
+Nelson,E102,State Treasurer,,DEM,Michael BOWMAN,333,105,216,12
+Nelson,E102,State Treasurer,,,Robert Perry,1,0,1,0
+Nelson,E102,State Treasurer,,,Total Votes,758,177,558,23
+Nelson,E102,State Treasurer,,,Under Votes,26,6,19,1
+Nelson,E102,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,426,78,338,10
+Nelson,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,336,99,223,14
+Nelson,E102,Commissioner of Agriculture,,,Total Votes,762,177,561,24
+Nelson,E102,Commissioner of Agriculture,,,Under Votes,22,6,16,0
+Nelson,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E103,STRAIGHT PARTY,,,Republican,194,13,177,4
+Nelson,E103,STRAIGHT PARTY,,,Democratic,97,13,75,9
+Nelson,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",315,18,292,5
+Nelson,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,279,39,229,11
+Nelson,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E103,Governor,,,Total Votes,594,57,521,16
+Nelson,E103,Governor,,,Under Votes,3,0,3,0
+Nelson,E103,Governor,,,Over Votes,0,0,0,0
+Nelson,E103,Secretary of State,,REP,Michael ADAMS,392,28,356,8
+Nelson,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",189,29,152,8
+Nelson,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,E103,Secretary of State,,,Total Votes,581,57,508,16
+Nelson,E103,Secretary of State,,,Under Votes,16,0,16,0
+Nelson,E103,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E103,Attorney General,,REP,Russell COLEMAN,405,29,371,5
+Nelson,E103,Attorney General,,DEM,Pamela STEVENSON,176,27,138,11
+Nelson,E103,Attorney General,,,Total Votes,581,56,509,16
+Nelson,E103,Attorney General,,,Under Votes,16,1,15,0
+Nelson,E103,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E103,Auditor of Public Accounts,,REP,Allison BALL,404,30,368,6
+Nelson,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",172,25,137,10
+Nelson,E103,Auditor of Public Accounts,,,Total Votes,576,55,505,16
+Nelson,E103,Auditor of Public Accounts,,,Under Votes,21,2,19,0
+Nelson,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E103,State Treasurer,,REP,Mark H. METCALF,381,27,349,5
+Nelson,E103,State Treasurer,,DEM,Michael BOWMAN,199,29,159,11
+Nelson,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,E103,State Treasurer,,,Total Votes,580,56,508,16
+Nelson,E103,State Treasurer,,,Under Votes,17,1,16,0
+Nelson,E103,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,383,24,353,6
+Nelson,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,196,31,155,10
+Nelson,E103,Commissioner of Agriculture,,,Total Votes,579,55,508,16
+Nelson,E103,Commissioner of Agriculture,,,Under Votes,18,2,16,0
+Nelson,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E104,STRAIGHT PARTY,,,Republican,242,31,206,5
+Nelson,E104,STRAIGHT PARTY,,,Democratic,63,7,48,8
+Nelson,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",327,39,281,7
+Nelson,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,141,18,110,13
+Nelson,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E104,Governor,,,Total Votes,468,57,391,20
+Nelson,E104,Governor,,,Under Votes,2,0,2,0
+Nelson,E104,Governor,,,Over Votes,0,0,0,0
+Nelson,E104,Secretary of State,,REP,Michael ADAMS,354,40,305,9
+Nelson,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",105,14,80,11
+Nelson,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,E104,Secretary of State,,,Total Votes,459,54,385,20
+Nelson,E104,Secretary of State,,,Under Votes,11,3,8,0
+Nelson,E104,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E104,Attorney General,,REP,Russell COLEMAN,364,44,312,8
+Nelson,E104,Attorney General,,DEM,Pamela STEVENSON,98,13,73,12
+Nelson,E104,Attorney General,,,Total Votes,462,57,385,20
+Nelson,E104,Attorney General,,,Under Votes,8,0,8,0
+Nelson,E104,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E104,Auditor of Public Accounts,,REP,Allison BALL,361,42,311,8
+Nelson,E104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",94,15,67,12
+Nelson,E104,Auditor of Public Accounts,,,Total Votes,455,57,378,20
+Nelson,E104,Auditor of Public Accounts,,,Under Votes,15,0,15,0
+Nelson,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E104,State Treasurer,,REP,Mark H. METCALF,352,42,303,7
+Nelson,E104,State Treasurer,,DEM,Michael BOWMAN,105,15,77,13
+Nelson,E104,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,E104,State Treasurer,,,Total Votes,457,57,380,20
+Nelson,E104,State Treasurer,,,Under Votes,13,0,13,0
+Nelson,E104,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,345,39,299,7
+Nelson,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,109,18,78,13
+Nelson,E104,Commissioner of Agriculture,,,Total Votes,454,57,377,20
+Nelson,E104,Commissioner of Agriculture,,,Under Votes,16,0,16,0
+Nelson,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E105,STRAIGHT PARTY,,,Republican,84,4,80,0
+Nelson,E105,STRAIGHT PARTY,,,Democratic,146,29,111,6
+Nelson,E105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",116,9,107,0
+Nelson,E105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,264,51,204,9
+Nelson,E105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E105,Governor,,,Total Votes,380,60,311,9
+Nelson,E105,Governor,,,Under Votes,0,0,0,0
+Nelson,E105,Governor,,,Over Votes,0,0,0,0
+Nelson,E105,Secretary of State,,REP,Michael ADAMS,150,17,131,2
+Nelson,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",220,42,171,7
+Nelson,E105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,E105,Secretary of State,,,Total Votes,370,59,302,9
+Nelson,E105,Secretary of State,,,Under Votes,10,1,9,0
+Nelson,E105,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E105,Attorney General,,REP,Russell COLEMAN,150,14,136,0
+Nelson,E105,Attorney General,,DEM,Pamela STEVENSON,221,44,168,9
+Nelson,E105,Attorney General,,,Total Votes,371,58,304,9
+Nelson,E105,Attorney General,,,Under Votes,9,2,7,0
+Nelson,E105,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E105,Auditor of Public Accounts,,REP,Allison BALL,154,15,137,2
+Nelson,E105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",216,43,166,7
+Nelson,E105,Auditor of Public Accounts,,,Total Votes,370,58,303,9
+Nelson,E105,Auditor of Public Accounts,,,Under Votes,10,2,8,0
+Nelson,E105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E105,State Treasurer,,REP,Mark H. METCALF,141,12,129,0
+Nelson,E105,State Treasurer,,DEM,Michael BOWMAN,226,46,171,9
+Nelson,E105,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,E105,State Treasurer,,,Total Votes,367,58,300,9
+Nelson,E105,State Treasurer,,,Under Votes,13,2,11,0
+Nelson,E105,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,141,11,130,0
+Nelson,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,228,48,171,9
+Nelson,E105,Commissioner of Agriculture,,,Total Votes,369,59,301,9
+Nelson,E105,Commissioner of Agriculture,,,Under Votes,11,1,10,0
+Nelson,E105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nelson,E106,STRAIGHT PARTY,,,Republican,4,2,2,0
+Nelson,E106,STRAIGHT PARTY,,,Democratic,2,1,1,0
+Nelson,E106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",5,2,3,0
+Nelson,E106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,7,1,6,0
+Nelson,E106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nelson,E106,Governor,,,Total Votes,12,3,9,0
+Nelson,E106,Governor,,,Under Votes,0,0,0,0
+Nelson,E106,Governor,,,Over Votes,0,0,0,0
+Nelson,E106,Secretary of State,,REP,Michael ADAMS,5,2,3,0
+Nelson,E106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",7,1,6,0
+Nelson,E106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nelson,E106,Secretary of State,,,Total Votes,12,3,9,0
+Nelson,E106,Secretary of State,,,Under Votes,0,0,0,0
+Nelson,E106,Secretary of State,,,Over Votes,0,0,0,0
+Nelson,E106,Attorney General,,REP,Russell COLEMAN,5,2,3,0
+Nelson,E106,Attorney General,,DEM,Pamela STEVENSON,7,1,6,0
+Nelson,E106,Attorney General,,,Total Votes,12,3,9,0
+Nelson,E106,Attorney General,,,Under Votes,0,0,0,0
+Nelson,E106,Attorney General,,,Over Votes,0,0,0,0
+Nelson,E106,Auditor of Public Accounts,,REP,Allison BALL,6,2,4,0
+Nelson,E106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",6,1,5,0
+Nelson,E106,Auditor of Public Accounts,,,Total Votes,12,3,9,0
+Nelson,E106,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Nelson,E106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nelson,E106,State Treasurer,,REP,Mark H. METCALF,5,2,3,0
+Nelson,E106,State Treasurer,,DEM,Michael BOWMAN,7,1,6,0
+Nelson,E106,State Treasurer,,,Robert Perry,0,0,0,0
+Nelson,E106,State Treasurer,,,Total Votes,12,3,9,0
+Nelson,E106,State Treasurer,,,Under Votes,0,0,0,0
+Nelson,E106,State Treasurer,,,Over Votes,0,0,0,0
+Nelson,E106,Commissioner of Agriculture,,REP,Jonathan SHELL,5,2,3,0
+Nelson,E106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,1,6,0
+Nelson,E106,Commissioner of Agriculture,,,Total Votes,12,3,9,0
+Nelson,E106,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Nelson,E106,Commissioner of Agriculture,,,Over Votes,0,0,0,0

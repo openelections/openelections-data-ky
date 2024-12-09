@@ -1,0 +1,675 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Meade,A101,STRAIGHT PARTY,,,Republican,159,25,129,5
+Meade,A101,STRAIGHT PARTY,,,Democratic,51,9,41,1
+Meade,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",223,27,189,7
+Meade,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,155,16,135,4
+Meade,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,A101,Governor,,,Total Votes,378,43,324,11
+Meade,A101,Governor,,,Under Votes,7,0,7,0
+Meade,A101,Governor,,,Over Votes,0,0,0,0
+Meade,A101,Secretary of State,,REP,Michael ADAMS,267,32,226,9
+Meade,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",102,11,89,2
+Meade,A101,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Meade,A101,Secretary of State,,,Total Votes,370,43,316,11
+Meade,A101,Secretary of State,,,Under Votes,15,0,15,0
+Meade,A101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,A101,Attorney General,,REP,Russell COLEMAN,266,35,223,8
+Meade,A101,Attorney General,,DEM,Pamela STEVENSON,106,8,95,3
+Meade,A101,Attorney General,,,Total Votes,372,43,318,11
+Meade,A101,Attorney General,,,Under Votes,13,0,13,0
+Meade,A101,Attorney General,,,Over Votes,0,0,0,0
+Meade,A101,Auditor of Public Accounts,,REP,Allison BALL,282,33,239,10
+Meade,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",89,10,78,1
+Meade,A101,Auditor of Public Accounts,,,Total Votes,371,43,317,11
+Meade,A101,Auditor of Public Accounts,,,Under Votes,14,0,14,0
+Meade,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,A101,State Treasurer,,REP,Mark H. METCALF,265,31,225,9
+Meade,A101,State Treasurer,,DEM,Michael BOWMAN,101,12,87,2
+Meade,A101,State Treasurer,,,Robert Perry,1,0,1,0
+Meade,A101,State Treasurer,,,Total Votes,367,43,313,11
+Meade,A101,State Treasurer,,,Under Votes,18,0,18,0
+Meade,A101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,278,32,236,10
+Meade,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,91,11,79,1
+Meade,A101,Commissioner of Agriculture,,,Total Votes,369,43,315,11
+Meade,A101,Commissioner of Agriculture,,,Under Votes,16,0,16,0
+Meade,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,A101,Commissioner of Agriculture,,,Russell COWINS,84,3,78,3
+Meade,A101,Commissioner of Agriculture,,,Anthony LEE,107,5,99,3
+Meade,A101,Commissioner of Agriculture,,,Total Votes,191,8,177,6
+Meade,A101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Meade,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,A102,STRAIGHT PARTY,,,Republican,144,17,123,4
+Meade,A102,STRAIGHT PARTY,,,Democratic,71,4,61,6
+Meade,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,21,159,5
+Meade,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,123,8,105,10
+Meade,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,A102,Governor,,,Total Votes,308,29,264,15
+Meade,A102,Governor,,,Under Votes,1,0,1,0
+Meade,A102,Governor,,,Over Votes,0,0,0,0
+Meade,A102,Secretary of State,,REP,Michael ADAMS,202,23,173,6
+Meade,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",103,5,89,9
+Meade,A102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Meade,A102,Secretary of State,,,Total Votes,306,28,263,15
+Meade,A102,Secretary of State,,,Under Votes,3,1,2,0
+Meade,A102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,A102,Attorney General,,REP,Russell COLEMAN,206,21,179,6
+Meade,A102,Attorney General,,DEM,Pamela STEVENSON,103,8,86,9
+Meade,A102,Attorney General,,,Total Votes,309,29,265,15
+Meade,A102,Attorney General,,,Under Votes,0,0,0,0
+Meade,A102,Attorney General,,,Over Votes,0,0,0,0
+Meade,A102,Auditor of Public Accounts,,REP,Allison BALL,211,23,181,7
+Meade,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",96,6,82,8
+Meade,A102,Auditor of Public Accounts,,,Total Votes,307,29,263,15
+Meade,A102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Meade,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,A102,State Treasurer,,REP,Mark H. METCALF,205,24,174,7
+Meade,A102,State Treasurer,,DEM,Michael BOWMAN,98,5,85,8
+Meade,A102,State Treasurer,,,Robert Perry,2,0,2,0
+Meade,A102,State Treasurer,,,Total Votes,305,29,261,15
+Meade,A102,State Treasurer,,,Under Votes,4,0,4,0
+Meade,A102,State Treasurer,,,Over Votes,0,0,0,0
+Meade,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,206,24,175,7
+Meade,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,102,5,89,8
+Meade,A102,Commissioner of Agriculture,,,Total Votes,308,29,264,15
+Meade,A102,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Meade,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,B101,STRAIGHT PARTY,,,Republican,247,55,186,6
+Meade,B101,STRAIGHT PARTY,,,Democratic,106,39,60,7
+Meade,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",349,73,271,5
+Meade,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,237,75,146,16
+Meade,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,B101,Governor,,,Total Votes,586,148,417,21
+Meade,B101,Governor,,,Under Votes,2,1,1,0
+Meade,B101,Governor,,,Over Votes,0,0,0,0
+Meade,B101,Secretary of State,,REP,Michael ADAMS,395,88,302,5
+Meade,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",183,59,108,16
+Meade,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,B101,Secretary of State,,,Total Votes,578,147,410,21
+Meade,B101,Secretary of State,,,Under Votes,10,2,8,0
+Meade,B101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,B101,Attorney General,,REP,Russell COLEMAN,390,87,291,12
+Meade,B101,Attorney General,,DEM,Pamela STEVENSON,186,60,117,9
+Meade,B101,Attorney General,,,Total Votes,576,147,408,21
+Meade,B101,Attorney General,,,Under Votes,12,2,10,0
+Meade,B101,Attorney General,,,Over Votes,0,0,0,0
+Meade,B101,Auditor of Public Accounts,,REP,Allison BALL,399,89,300,10
+Meade,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",181,58,112,11
+Meade,B101,Auditor of Public Accounts,,,Total Votes,580,147,412,21
+Meade,B101,Auditor of Public Accounts,,,Under Votes,8,2,6,0
+Meade,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,B101,State Treasurer,,REP,Mark H. METCALF,385,83,292,10
+Meade,B101,State Treasurer,,DEM,Michael BOWMAN,192,64,117,11
+Meade,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,B101,State Treasurer,,,Total Votes,577,147,409,21
+Meade,B101,State Treasurer,,,Under Votes,11,2,9,0
+Meade,B101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,394,86,297,11
+Meade,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,182,59,113,10
+Meade,B101,Commissioner of Agriculture,,,Total Votes,576,145,410,21
+Meade,B101,Commissioner of Agriculture,,,Under Votes,12,4,8,0
+Meade,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,B102,STRAIGHT PARTY,,,Republican,261,57,202,2
+Meade,B102,STRAIGHT PARTY,,,Democratic,147,54,89,4
+Meade,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",372,84,285,3
+Meade,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,363,117,230,16
+Meade,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,B102,Governor,,,Total Votes,735,201,515,19
+Meade,B102,Governor,,,Under Votes,2,0,2,0
+Meade,B102,Governor,,,Over Votes,0,0,0,0
+Meade,B102,Secretary of State,,REP,Michael ADAMS,462,109,348,5
+Meade,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",267,91,164,12
+Meade,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,B102,Secretary of State,,,Total Votes,729,200,512,17
+Meade,B102,Secretary of State,,,Under Votes,8,1,5,2
+Meade,B102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,B102,Attorney General,,REP,Russell COLEMAN,439,105,330,4
+Meade,B102,Attorney General,,DEM,Pamela STEVENSON,289,95,180,14
+Meade,B102,Attorney General,,,Total Votes,728,200,510,18
+Meade,B102,Attorney General,,,Under Votes,9,1,7,1
+Meade,B102,Attorney General,,,Over Votes,0,0,0,0
+Meade,B102,Auditor of Public Accounts,,REP,Allison BALL,443,110,328,5
+Meade,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",279,88,180,11
+Meade,B102,Auditor of Public Accounts,,,Total Votes,722,198,508,16
+Meade,B102,Auditor of Public Accounts,,,Under Votes,15,3,9,3
+Meade,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,B102,State Treasurer,,REP,Mark H. METCALF,439,101,333,5
+Meade,B102,State Treasurer,,DEM,Michael BOWMAN,282,98,172,12
+Meade,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,B102,State Treasurer,,,Total Votes,721,199,505,17
+Meade,B102,State Treasurer,,,Under Votes,16,2,12,2
+Meade,B102,State Treasurer,,,Over Votes,0,0,0,0
+Meade,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,448,107,335,6
+Meade,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,272,92,170,10
+Meade,B102,Commissioner of Agriculture,,,Total Votes,720,199,505,16
+Meade,B102,Commissioner of Agriculture,,,Under Votes,17,2,12,3
+Meade,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,B103,STRAIGHT PARTY,,,Republican,151,50,99,2
+Meade,B103,STRAIGHT PARTY,,,Democratic,43,10,32,1
+Meade,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",215,64,146,5
+Meade,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,24,93,3
+Meade,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,B103,Governor,,,Total Votes,335,88,239,8
+Meade,B103,Governor,,,Under Votes,2,0,2,0
+Meade,B103,Governor,,,Over Votes,0,0,0,0
+Meade,B103,Secretary of State,,REP,Michael ADAMS,244,68,172,4
+Meade,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",90,19,67,4
+Meade,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,B103,Secretary of State,,,Total Votes,334,87,239,8
+Meade,B103,Secretary of State,,,Under Votes,3,1,2,0
+Meade,B103,Secretary of State,,,Over Votes,0,0,0,0
+Meade,B103,Attorney General,,REP,Russell COLEMAN,253,69,179,5
+Meade,B103,Attorney General,,DEM,Pamela STEVENSON,80,18,59,3
+Meade,B103,Attorney General,,,Total Votes,333,87,238,8
+Meade,B103,Attorney General,,,Under Votes,4,1,3,0
+Meade,B103,Attorney General,,,Over Votes,0,0,0,0
+Meade,B103,Auditor of Public Accounts,,REP,Allison BALL,253,67,181,5
+Meade,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",79,20,56,3
+Meade,B103,Auditor of Public Accounts,,,Total Votes,332,87,237,8
+Meade,B103,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Meade,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,B103,State Treasurer,,REP,Mark H. METCALF,251,67,179,5
+Meade,B103,State Treasurer,,DEM,Michael BOWMAN,81,20,58,3
+Meade,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,B103,State Treasurer,,,Total Votes,332,87,237,8
+Meade,B103,State Treasurer,,,Under Votes,5,1,4,0
+Meade,B103,State Treasurer,,,Over Votes,0,0,0,0
+Meade,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,253,67,180,6
+Meade,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,80,21,57,2
+Meade,B103,Commissioner of Agriculture,,,Total Votes,333,88,237,8
+Meade,B103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Meade,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,C101,STRAIGHT PARTY,,,Republican,206,18,182,6
+Meade,C101,STRAIGHT PARTY,,,Democratic,66,11,51,4
+Meade,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",311,24,281,6
+Meade,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,183,35,141,7
+Meade,C101,Governor,,,Brian Fishback / William Fishback,2,0,2,0
+Meade,C101,Governor,,,Total Votes,496,59,424,13
+Meade,C101,Governor,,,Under Votes,0,0,0,0
+Meade,C101,Governor,,,Over Votes,0,0,0,0
+Meade,C101,Secretary of State,,REP,Michael ADAMS,351,32,311,8
+Meade,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",138,27,106,5
+Meade,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,C101,Secretary of State,,,Total Votes,489,59,417,13
+Meade,C101,Secretary of State,,,Under Votes,7,0,7,0
+Meade,C101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,C101,Attorney General,,REP,Russell COLEMAN,356,33,315,8
+Meade,C101,Attorney General,,DEM,Pamela STEVENSON,133,26,102,5
+Meade,C101,Attorney General,,,Total Votes,489,59,417,13
+Meade,C101,Attorney General,,,Under Votes,7,0,7,0
+Meade,C101,Attorney General,,,Over Votes,0,0,0,0
+Meade,C101,Auditor of Public Accounts,,REP,Allison BALL,352,36,308,8
+Meade,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",134,21,108,5
+Meade,C101,Auditor of Public Accounts,,,Total Votes,486,57,416,13
+Meade,C101,Auditor of Public Accounts,,,Under Votes,10,2,8,0
+Meade,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,C101,State Treasurer,,REP,Mark H. METCALF,334,28,298,8
+Meade,C101,State Treasurer,,DEM,Michael BOWMAN,147,29,113,5
+Meade,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,C101,State Treasurer,,,Total Votes,481,57,411,13
+Meade,C101,State Treasurer,,,Under Votes,15,2,13,0
+Meade,C101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,349,35,306,8
+Meade,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,133,22,106,5
+Meade,C101,Commissioner of Agriculture,,,Total Votes,482,57,412,13
+Meade,C101,Commissioner of Agriculture,,,Under Votes,14,2,12,0
+Meade,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,C102,STRAIGHT PARTY,,,Republican,224,28,195,1
+Meade,C102,STRAIGHT PARTY,,,Democratic,55,6,45,4
+Meade,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",302,37,263,2
+Meade,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,176,25,143,8
+Meade,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,C102,Governor,,,Total Votes,478,62,406,10
+Meade,C102,Governor,,,Under Votes,0,0,0,0
+Meade,C102,Governor,,,Over Votes,0,0,0,0
+Meade,C102,Secretary of State,,REP,Michael ADAMS,364,46,316,2
+Meade,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",111,16,87,8
+Meade,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,C102,Secretary of State,,,Total Votes,475,62,403,10
+Meade,C102,Secretary of State,,,Under Votes,3,0,3,0
+Meade,C102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,C102,Attorney General,,REP,Russell COLEMAN,365,42,321,2
+Meade,C102,Attorney General,,DEM,Pamela STEVENSON,111,19,84,8
+Meade,C102,Attorney General,,,Total Votes,476,61,405,10
+Meade,C102,Attorney General,,,Under Votes,2,1,1,0
+Meade,C102,Attorney General,,,Over Votes,0,0,0,0
+Meade,C102,Auditor of Public Accounts,,REP,Allison BALL,372,47,322,3
+Meade,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",101,15,79,7
+Meade,C102,Auditor of Public Accounts,,,Total Votes,473,62,401,10
+Meade,C102,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Meade,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,C102,State Treasurer,,REP,Mark H. METCALF,353,39,311,3
+Meade,C102,State Treasurer,,DEM,Michael BOWMAN,119,21,91,7
+Meade,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,C102,State Treasurer,,,Total Votes,472,60,402,10
+Meade,C102,State Treasurer,,,Under Votes,6,2,4,0
+Meade,C102,State Treasurer,,,Over Votes,0,0,0,0
+Meade,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,364,42,320,2
+Meade,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,109,19,82,8
+Meade,C102,Commissioner of Agriculture,,,Total Votes,473,61,402,10
+Meade,C102,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Meade,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,C103,STRAIGHT PARTY,,,Republican,198,23,174,1
+Meade,C103,STRAIGHT PARTY,,,Democratic,59,5,53,1
+Meade,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",266,27,236,3
+Meade,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,171,16,145,10
+Meade,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,C103,Governor,,,Total Votes,437,43,381,13
+Meade,C103,Governor,,,Under Votes,0,0,0,0
+Meade,C103,Governor,,,Over Votes,0,0,0,0
+Meade,C103,Secretary of State,,REP,Michael ADAMS,312,32,276,4
+Meade,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,11,103,8
+Meade,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,C103,Secretary of State,,,Total Votes,434,43,379,12
+Meade,C103,Secretary of State,,,Under Votes,3,0,2,1
+Meade,C103,Secretary of State,,,Over Votes,0,0,0,0
+Meade,C103,Attorney General,,REP,Russell COLEMAN,308,31,271,6
+Meade,C103,Attorney General,,DEM,Pamela STEVENSON,126,11,109,6
+Meade,C103,Attorney General,,,Total Votes,434,42,380,12
+Meade,C103,Attorney General,,,Under Votes,3,1,1,1
+Meade,C103,Attorney General,,,Over Votes,0,0,0,0
+Meade,C103,Auditor of Public Accounts,,REP,Allison BALL,312,33,273,6
+Meade,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",123,10,107,6
+Meade,C103,Auditor of Public Accounts,,,Total Votes,435,43,380,12
+Meade,C103,Auditor of Public Accounts,,,Under Votes,2,0,1,1
+Meade,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,C103,State Treasurer,,REP,Mark H. METCALF,310,29,275,6
+Meade,C103,State Treasurer,,DEM,Michael BOWMAN,124,14,104,6
+Meade,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,C103,State Treasurer,,,Total Votes,434,43,379,12
+Meade,C103,State Treasurer,,,Under Votes,3,0,2,1
+Meade,C103,State Treasurer,,,Over Votes,0,0,0,0
+Meade,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,308,29,274,5
+Meade,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,127,14,106,7
+Meade,C103,Commissioner of Agriculture,,,Total Votes,435,43,380,12
+Meade,C103,Commissioner of Agriculture,,,Under Votes,2,0,1,1
+Meade,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,D101,STRAIGHT PARTY,,,Republican,180,66,110,4
+Meade,D101,STRAIGHT PARTY,,,Democratic,98,48,41,9
+Meade,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",274,86,183,5
+Meade,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,299,129,155,15
+Meade,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,D101,Governor,,,Total Votes,573,215,338,20
+Meade,D101,Governor,,,Under Votes,3,3,0,0
+Meade,D101,Governor,,,Over Votes,0,0,0,0
+Meade,D101,Secretary of State,,REP,Michael ADAMS,354,123,222,9
+Meade,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",204,88,105,11
+Meade,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,D101,Secretary of State,,,Total Votes,558,211,327,20
+Meade,D101,Secretary of State,,,Under Votes,18,7,11,0
+Meade,D101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,D101,Attorney General,,REP,Russell COLEMAN,343,124,212,7
+Meade,D101,Attorney General,,DEM,Pamela STEVENSON,213,88,112,13
+Meade,D101,Attorney General,,,Total Votes,556,212,324,20
+Meade,D101,Attorney General,,,Under Votes,20,6,14,0
+Meade,D101,Attorney General,,,Over Votes,0,0,0,0
+Meade,D101,Auditor of Public Accounts,,REP,Allison BALL,344,119,219,6
+Meade,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",213,95,104,14
+Meade,D101,Auditor of Public Accounts,,,Total Votes,557,214,323,20
+Meade,D101,Auditor of Public Accounts,,,Under Votes,19,4,15,0
+Meade,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,D101,State Treasurer,,REP,Mark H. METCALF,319,104,209,6
+Meade,D101,State Treasurer,,DEM,Michael BOWMAN,231,105,113,13
+Meade,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,D101,State Treasurer,,,Total Votes,550,209,322,19
+Meade,D101,State Treasurer,,,Under Votes,26,9,16,1
+Meade,D101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,334,116,212,6
+Meade,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,218,93,111,14
+Meade,D101,Commissioner of Agriculture,,,Total Votes,552,209,323,20
+Meade,D101,Commissioner of Agriculture,,,Under Votes,24,9,15,0
+Meade,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,D102,STRAIGHT PARTY,,,Republican,192,49,141,2
+Meade,D102,STRAIGHT PARTY,,,Democratic,90,36,46,8
+Meade,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",276,68,205,3
+Meade,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,264,98,153,13
+Meade,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,D102,Governor,,,Total Votes,540,166,358,16
+Meade,D102,Governor,,,Under Votes,1,0,1,0
+Meade,D102,Governor,,,Over Votes,0,0,0,0
+Meade,D102,Secretary of State,,REP,Michael ADAMS,352,97,248,7
+Meade,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",179,66,104,9
+Meade,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,D102,Secretary of State,,,Total Votes,531,163,352,16
+Meade,D102,Secretary of State,,,Under Votes,10,3,7,0
+Meade,D102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,D102,Attorney General,,REP,Russell COLEMAN,359,99,255,5
+Meade,D102,Attorney General,,DEM,Pamela STEVENSON,170,61,98,11
+Meade,D102,Attorney General,,,Total Votes,529,160,353,16
+Meade,D102,Attorney General,,,Under Votes,12,6,6,0
+Meade,D102,Attorney General,,,Over Votes,0,0,0,0
+Meade,D102,Auditor of Public Accounts,,REP,Allison BALL,364,103,254,7
+Meade,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",166,59,98,9
+Meade,D102,Auditor of Public Accounts,,,Total Votes,530,162,352,16
+Meade,D102,Auditor of Public Accounts,,,Under Votes,11,4,7,0
+Meade,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,D102,State Treasurer,,REP,Mark H. METCALF,346,92,249,5
+Meade,D102,State Treasurer,,DEM,Michael BOWMAN,182,70,103,9
+Meade,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,D102,State Treasurer,,,Total Votes,528,162,352,14
+Meade,D102,State Treasurer,,,Under Votes,12,3,7,2
+Meade,D102,State Treasurer,,,Over Votes,1,1,0,0
+Meade,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,355,101,248,6
+Meade,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,172,61,103,8
+Meade,D102,Commissioner of Agriculture,,,Total Votes,527,162,351,14
+Meade,D102,Commissioner of Agriculture,,,Under Votes,14,4,8,2
+Meade,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,D103,STRAIGHT PARTY,,,Republican,114,37,74,3
+Meade,D103,STRAIGHT PARTY,,,Democratic,86,27,47,12
+Meade,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",157,43,110,4
+Meade,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,199,63,119,17
+Meade,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,D103,Governor,,,Total Votes,356,106,229,21
+Meade,D103,Governor,,,Under Votes,1,1,0,0
+Meade,D103,Governor,,,Over Votes,1,1,0,0
+Meade,D103,Secretary of State,,REP,Michael ADAMS,198,56,138,4
+Meade,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",150,47,86,17
+Meade,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,D103,Secretary of State,,,Total Votes,348,103,224,21
+Meade,D103,Secretary of State,,,Under Votes,10,5,5,0
+Meade,D103,Secretary of State,,,Over Votes,0,0,0,0
+Meade,D103,Attorney General,,REP,Russell COLEMAN,194,56,133,5
+Meade,D103,Attorney General,,DEM,Pamela STEVENSON,156,50,90,16
+Meade,D103,Attorney General,,,Total Votes,350,106,223,21
+Meade,D103,Attorney General,,,Under Votes,7,2,5,0
+Meade,D103,Attorney General,,,Over Votes,1,0,1,0
+Meade,D103,Auditor of Public Accounts,,REP,Allison BALL,193,57,132,4
+Meade,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",153,46,90,17
+Meade,D103,Auditor of Public Accounts,,,Total Votes,346,103,222,21
+Meade,D103,Auditor of Public Accounts,,,Under Votes,12,5,7,0
+Meade,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,D103,State Treasurer,,REP,Mark H. METCALF,189,54,130,5
+Meade,D103,State Treasurer,,DEM,Michael BOWMAN,158,49,93,16
+Meade,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,D103,State Treasurer,,,Total Votes,347,103,223,21
+Meade,D103,State Treasurer,,,Under Votes,11,5,6,0
+Meade,D103,State Treasurer,,,Over Votes,0,0,0,0
+Meade,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,197,56,136,5
+Meade,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,151,48,87,16
+Meade,D103,Commissioner of Agriculture,,,Total Votes,348,104,223,21
+Meade,D103,Commissioner of Agriculture,,,Under Votes,10,4,6,0
+Meade,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,E101,STRAIGHT PARTY,,,Republican,171,27,143,1
+Meade,E101,STRAIGHT PARTY,,,Democratic,67,18,47,2
+Meade,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",255,36,217,2
+Meade,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,185,34,148,3
+Meade,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,E101,Governor,,,Total Votes,440,70,365,5
+Meade,E101,Governor,,,Under Votes,1,0,1,0
+Meade,E101,Governor,,,Over Votes,0,0,0,0
+Meade,E101,Secretary of State,,REP,Michael ADAMS,308,45,261,2
+Meade,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,25,100,3
+Meade,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,E101,Secretary of State,,,Total Votes,436,70,361,5
+Meade,E101,Secretary of State,,,Under Votes,5,0,5,0
+Meade,E101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,E101,Attorney General,,REP,Russell COLEMAN,310,41,267,2
+Meade,E101,Attorney General,,DEM,Pamela STEVENSON,124,29,92,3
+Meade,E101,Attorney General,,,Total Votes,434,70,359,5
+Meade,E101,Attorney General,,,Under Votes,6,0,6,0
+Meade,E101,Attorney General,,,Over Votes,1,0,1,0
+Meade,E101,Auditor of Public Accounts,,REP,Allison BALL,310,43,265,2
+Meade,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",124,26,95,3
+Meade,E101,Auditor of Public Accounts,,,Total Votes,434,69,360,5
+Meade,E101,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Meade,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,E101,State Treasurer,,REP,Mark H. METCALF,289,39,248,2
+Meade,E101,State Treasurer,,DEM,Michael BOWMAN,148,31,114,3
+Meade,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,E101,State Treasurer,,,Total Votes,437,70,362,5
+Meade,E101,State Treasurer,,,Under Votes,4,0,4,0
+Meade,E101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,308,39,268,1
+Meade,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,124,30,91,3
+Meade,E101,Commissioner of Agriculture,,,Total Votes,432,69,359,4
+Meade,E101,Commissioner of Agriculture,,,Under Votes,9,1,7,1
+Meade,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,E101,Commissioner of Agriculture,,,,0,0,0,0
+Meade,E101,Commissioner of Agriculture,,,Total Votes,0,0,0,0
+Meade,E101,Commissioner of Agriculture,,,Under Votes,39,4,35,0
+Meade,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,E102,STRAIGHT PARTY,,,Republican,191,19,168,4
+Meade,E102,STRAIGHT PARTY,,,Democratic,59,15,35,9
+Meade,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",272,28,237,7
+Meade,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,192,30,146,16
+Meade,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,E102,Governor,,,Total Votes,464,58,383,23
+Meade,E102,Governor,,,Under Votes,2,0,2,0
+Meade,E102,Governor,,,Over Votes,0,0,0,0
+Meade,E102,Secretary of State,,REP,Michael ADAMS,338,31,296,11
+Meade,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,25,83,12
+Meade,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,E102,Secretary of State,,,Total Votes,458,56,379,23
+Meade,E102,Secretary of State,,,Under Votes,8,2,6,0
+Meade,E102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,E102,Attorney General,,REP,Russell COLEMAN,330,31,292,7
+Meade,E102,Attorney General,,DEM,Pamela STEVENSON,128,26,86,16
+Meade,E102,Attorney General,,,Total Votes,458,57,378,23
+Meade,E102,Attorney General,,,Under Votes,8,1,7,0
+Meade,E102,Attorney General,,,Over Votes,0,0,0,0
+Meade,E102,Auditor of Public Accounts,,REP,Allison BALL,342,33,299,10
+Meade,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",116,24,79,13
+Meade,E102,Auditor of Public Accounts,,,Total Votes,458,57,378,23
+Meade,E102,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Meade,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,E102,State Treasurer,,REP,Mark H. METCALF,323,31,284,8
+Meade,E102,State Treasurer,,DEM,Michael BOWMAN,134,26,94,14
+Meade,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,E102,State Treasurer,,,Total Votes,457,57,378,22
+Meade,E102,State Treasurer,,,Under Votes,9,1,7,1
+Meade,E102,State Treasurer,,,Over Votes,0,0,0,0
+Meade,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,323,31,285,7
+Meade,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,136,26,94,16
+Meade,E102,Commissioner of Agriculture,,,Total Votes,459,57,379,23
+Meade,E102,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Meade,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,E103,STRAIGHT PARTY,,,Republican,205,22,179,4
+Meade,E103,STRAIGHT PARTY,,,Democratic,76,12,60,4
+Meade,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",295,35,253,7
+Meade,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,193,32,156,5
+Meade,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,E103,Governor,,,Total Votes,488,67,409,12
+Meade,E103,Governor,,,Under Votes,1,0,1,0
+Meade,E103,Governor,,,Over Votes,0,0,0,0
+Meade,E103,Secretary of State,,REP,Michael ADAMS,340,41,291,8
+Meade,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",141,24,113,4
+Meade,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,E103,Secretary of State,,,Total Votes,481,65,404,12
+Meade,E103,Secretary of State,,,Under Votes,8,2,6,0
+Meade,E103,Secretary of State,,,Over Votes,0,0,0,0
+Meade,E103,Attorney General,,REP,Russell COLEMAN,342,41,294,7
+Meade,E103,Attorney General,,DEM,Pamela STEVENSON,140,24,111,5
+Meade,E103,Attorney General,,,Total Votes,482,65,405,12
+Meade,E103,Attorney General,,,Under Votes,7,2,5,0
+Meade,E103,Attorney General,,,Over Votes,0,0,0,0
+Meade,E103,Auditor of Public Accounts,,REP,Allison BALL,357,43,308,6
+Meade,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",123,24,93,6
+Meade,E103,Auditor of Public Accounts,,,Total Votes,480,67,401,12
+Meade,E103,Auditor of Public Accounts,,,Under Votes,9,0,9,0
+Meade,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,E103,State Treasurer,,REP,Mark H. METCALF,332,41,284,7
+Meade,E103,State Treasurer,,DEM,Michael BOWMAN,145,25,115,5
+Meade,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,E103,State Treasurer,,,Total Votes,477,66,399,12
+Meade,E103,State Treasurer,,,Under Votes,12,1,11,0
+Meade,E103,State Treasurer,,,Over Votes,0,0,0,0
+Meade,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,350,46,297,7
+Meade,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,128,21,102,5
+Meade,E103,Commissioner of Agriculture,,,Total Votes,478,67,399,12
+Meade,E103,Commissioner of Agriculture,,,Under Votes,11,0,11,0
+Meade,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,F101,STRAIGHT PARTY,,,Republican,105,10,93,2
+Meade,F101,STRAIGHT PARTY,,,Democratic,61,12,45,4
+Meade,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",166,13,150,3
+Meade,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,149,22,120,7
+Meade,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,F101,Governor,,,Total Votes,315,35,270,10
+Meade,F101,Governor,,,Under Votes,0,0,0,0
+Meade,F101,Governor,,,Over Votes,0,0,0,0
+Meade,F101,Secretary of State,,REP,Michael ADAMS,190,19,168,3
+Meade,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,15,94,7
+Meade,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,F101,Secretary of State,,,Total Votes,306,34,262,10
+Meade,F101,Secretary of State,,,Under Votes,9,1,8,0
+Meade,F101,Secretary of State,,,Over Votes,0,0,0,0
+Meade,F101,Attorney General,,REP,Russell COLEMAN,192,17,172,3
+Meade,F101,Attorney General,,DEM,Pamela STEVENSON,112,16,89,7
+Meade,F101,Attorney General,,,Total Votes,304,33,261,10
+Meade,F101,Attorney General,,,Under Votes,10,1,9,0
+Meade,F101,Attorney General,,,Over Votes,1,1,0,0
+Meade,F101,Auditor of Public Accounts,,REP,Allison BALL,192,18,170,4
+Meade,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",116,16,94,6
+Meade,F101,Auditor of Public Accounts,,,Total Votes,308,34,264,10
+Meade,F101,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Meade,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,F101,State Treasurer,,REP,Mark H. METCALF,176,15,158,3
+Meade,F101,State Treasurer,,DEM,Michael BOWMAN,130,19,104,7
+Meade,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,F101,State Treasurer,,,Total Votes,306,34,262,10
+Meade,F101,State Treasurer,,,Under Votes,9,1,8,0
+Meade,F101,State Treasurer,,,Over Votes,0,0,0,0
+Meade,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,208,17,186,5
+Meade,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,96,17,74,5
+Meade,F101,Commissioner of Agriculture,,,Total Votes,304,34,260,10
+Meade,F101,Commissioner of Agriculture,,,Under Votes,11,1,10,0
+Meade,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,F102,STRAIGHT PARTY,,,Republican,96,15,79,2
+Meade,F102,STRAIGHT PARTY,,,Democratic,46,16,29,1
+Meade,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",143,22,119,2
+Meade,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,127,40,84,3
+Meade,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,F102,Governor,,,Total Votes,270,62,203,5
+Meade,F102,Governor,,,Under Votes,0,0,0,0
+Meade,F102,Governor,,,Over Votes,0,0,0,0
+Meade,F102,Secretary of State,,REP,Michael ADAMS,172,32,136,4
+Meade,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,26,67,1
+Meade,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,F102,Secretary of State,,,Total Votes,266,58,203,5
+Meade,F102,Secretary of State,,,Under Votes,4,4,0,0
+Meade,F102,Secretary of State,,,Over Votes,0,0,0,0
+Meade,F102,Attorney General,,REP,Russell COLEMAN,173,29,140,4
+Meade,F102,Attorney General,,DEM,Pamela STEVENSON,93,29,63,1
+Meade,F102,Attorney General,,,Total Votes,266,58,203,5
+Meade,F102,Attorney General,,,Under Votes,4,4,0,0
+Meade,F102,Attorney General,,,Over Votes,0,0,0,0
+Meade,F102,Auditor of Public Accounts,,REP,Allison BALL,172,33,135,4
+Meade,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",93,24,68,1
+Meade,F102,Auditor of Public Accounts,,,Total Votes,265,57,203,5
+Meade,F102,Auditor of Public Accounts,,,Under Votes,5,5,0,0
+Meade,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,F102,State Treasurer,,REP,Mark H. METCALF,165,26,136,3
+Meade,F102,State Treasurer,,DEM,Michael BOWMAN,100,31,67,2
+Meade,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,F102,State Treasurer,,,Total Votes,265,57,203,5
+Meade,F102,State Treasurer,,,Under Votes,5,5,0,0
+Meade,F102,State Treasurer,,,Over Votes,0,0,0,0
+Meade,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,174,33,138,3
+Meade,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,90,23,65,2
+Meade,F102,Commissioner of Agriculture,,,Total Votes,264,56,203,5
+Meade,F102,Commissioner of Agriculture,,,Under Votes,6,6,0,0
+Meade,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,F103,STRAIGHT PARTY,,,Republican,164,24,137,3
+Meade,F103,STRAIGHT PARTY,,,Democratic,56,10,43,3
+Meade,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",253,39,210,4
+Meade,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,153,24,119,10
+Meade,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,F103,Governor,,,Total Votes,406,63,329,14
+Meade,F103,Governor,,,Under Votes,1,0,1,0
+Meade,F103,Governor,,,Over Votes,0,0,0,0
+Meade,F103,Secretary of State,,REP,Michael ADAMS,288,46,237,5
+Meade,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",110,16,86,8
+Meade,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,F103,Secretary of State,,,Total Votes,398,62,323,13
+Meade,F103,Secretary of State,,,Under Votes,9,1,7,1
+Meade,F103,Secretary of State,,,Over Votes,0,0,0,0
+Meade,F103,Attorney General,,REP,Russell COLEMAN,278,42,229,7
+Meade,F103,Attorney General,,DEM,Pamela STEVENSON,119,18,95,6
+Meade,F103,Attorney General,,,Total Votes,397,60,324,13
+Meade,F103,Attorney General,,,Under Votes,10,3,6,1
+Meade,F103,Attorney General,,,Over Votes,0,0,0,0
+Meade,F103,Auditor of Public Accounts,,REP,Allison BALL,295,48,240,7
+Meade,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",100,14,79,7
+Meade,F103,Auditor of Public Accounts,,,Total Votes,395,62,319,14
+Meade,F103,Auditor of Public Accounts,,,Under Votes,12,1,11,0
+Meade,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,F103,State Treasurer,,REP,Mark H. METCALF,281,44,230,7
+Meade,F103,State Treasurer,,DEM,Michael BOWMAN,110,16,88,6
+Meade,F103,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,F103,State Treasurer,,,Total Votes,391,60,318,13
+Meade,F103,State Treasurer,,,Under Votes,16,3,12,1
+Meade,F103,State Treasurer,,,Over Votes,0,0,0,0
+Meade,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,291,46,235,10
+Meade,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,103,15,84,4
+Meade,F103,Commissioner of Agriculture,,,Total Votes,394,61,319,14
+Meade,F103,Commissioner of Agriculture,,,Under Votes,13,2,11,0
+Meade,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,F104,STRAIGHT PARTY,,,Republican,128,30,96,2
+Meade,F104,STRAIGHT PARTY,,,Democratic,44,16,24,4
+Meade,F104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",194,41,149,4
+Meade,F104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,127,41,81,5
+Meade,F104,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Meade,F104,Governor,,,Total Votes,322,82,231,9
+Meade,F104,Governor,,,Under Votes,0,0,0,0
+Meade,F104,Governor,,,Over Votes,0,0,0,0
+Meade,F104,Secretary of State,,REP,Michael ADAMS,239,58,176,5
+Meade,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,23,50,3
+Meade,F104,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Meade,F104,Secretary of State,,,Total Votes,316,81,227,8
+Meade,F104,Secretary of State,,,Under Votes,6,1,4,1
+Meade,F104,Secretary of State,,,Over Votes,0,0,0,0
+Meade,F104,Attorney General,,REP,Russell COLEMAN,230,53,172,5
+Meade,F104,Attorney General,,DEM,Pamela STEVENSON,86,28,55,3
+Meade,F104,Attorney General,,,Total Votes,316,81,227,8
+Meade,F104,Attorney General,,,Under Votes,6,1,4,1
+Meade,F104,Attorney General,,,Over Votes,0,0,0,0
+Meade,F104,Auditor of Public Accounts,,REP,Allison BALL,232,55,173,4
+Meade,F104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,26,52,4
+Meade,F104,Auditor of Public Accounts,,,Total Votes,314,81,225,8
+Meade,F104,Auditor of Public Accounts,,,Under Votes,8,1,6,1
+Meade,F104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Meade,F104,State Treasurer,,REP,Mark H. METCALF,220,52,164,4
+Meade,F104,State Treasurer,,DEM,Michael BOWMAN,92,29,60,3
+Meade,F104,State Treasurer,,,Robert Perry,1,0,1,0
+Meade,F104,State Treasurer,,,Total Votes,313,81,225,7
+Meade,F104,State Treasurer,,,Under Votes,9,1,6,2
+Meade,F104,State Treasurer,,,Over Votes,0,0,0,0
+Meade,F104,Commissioner of Agriculture,,REP,Jonathan SHELL,233,53,174,6
+Meade,F104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,84,28,53,3
+Meade,F104,Commissioner of Agriculture,,,Total Votes,317,81,227,9
+Meade,F104,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Meade,F104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Meade,F105,STRAIGHT PARTY,,,Republican,162,22,137,3
+Meade,F105,STRAIGHT PARTY,,,Democratic,58,13,43,2
+Meade,F105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",234,30,200,4
+Meade,F105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,183,30,145,8
+Meade,F105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Meade,F105,Governor,,,Total Votes,417,60,345,12
+Meade,F105,Governor,,,Under Votes,3,0,3,0
+Meade,F105,Governor,,,Over Votes,0,0,0,0
+Meade,F105,Secretary of State,,REP,Michael ADAMS,289,37,245,7
+Meade,F105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,21,98,5
+Meade,F105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Meade,F105,Secretary of State,,,Total Votes,413,58,343,12
+Meade,F105,Secretary of State,,,Under Votes,7,2,5,0
+Meade,F105,Secretary of State,,,Over Votes,0,0,0,0
+Meade,F105,Attorney General,,REP,Russell COLEMAN,286,37,243,6
+Meade,F105,Attorney General,,DEM,Pamela STEVENSON,126,20,100,6
+Meade,F105,Attorney General,,,Total Votes,412,57,343,12
+Meade,F105,Attorney General,,,Under Votes,8,3,5,0
+Meade,F105,Attorney General,,,Over Votes,0,0,0,0
+Meade,F105,Auditor of Public Accounts,,REP,Allison BALL,298,36,254,8
+Meade,F105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,21,84,4
+Meade,F105,Auditor of Public Accounts,,,Total Votes,407,57,338,12
+Meade,F105,Auditor of Public Accounts,,,Under Votes,12,3,9,0
+Meade,F105,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Meade,F105,State Treasurer,,REP,Mark H. METCALF,284,36,240,8
+Meade,F105,State Treasurer,,DEM,Michael BOWMAN,124,21,99,4
+Meade,F105,State Treasurer,,,Robert Perry,0,0,0,0
+Meade,F105,State Treasurer,,,Total Votes,408,57,339,12
+Meade,F105,State Treasurer,,,Under Votes,12,3,9,0
+Meade,F105,State Treasurer,,,Over Votes,0,0,0,0
+Meade,F105,Commissioner of Agriculture,,REP,Jonathan SHELL,298,37,254,7
+Meade,F105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,111,19,87,5
+Meade,F105,Commissioner of Agriculture,,,Total Votes,409,56,341,12
+Meade,F105,Commissioner of Agriculture,,,Under Votes,11,4,7,0
+Meade,F105,Commissioner of Agriculture,,,Over Votes,0,0,0,0

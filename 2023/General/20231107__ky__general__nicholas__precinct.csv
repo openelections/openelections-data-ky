@@ -1,0 +1,176 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Nicholas,A101,STRAIGHT PARTY,,,Republican,89,5,76,8
+Nicholas,A101,STRAIGHT PARTY,,,Democratic,51,15,36,0
+Nicholas,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",168,17,139,12
+Nicholas,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,185,52,122,11
+Nicholas,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nicholas,A101,Governor,,,Total Votes,353,69,261,23
+Nicholas,A101,Governor,,,Under Votes,8,2,5,1
+Nicholas,A101,Governor,,,Over Votes,0,0,0,0
+Nicholas,A101,Secretary of State,,REP,Michael ADAMS,234,32,186,16
+Nicholas,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",117,36,73,8
+Nicholas,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nicholas,A101,Secretary of State,,,Total Votes,351,68,259,24
+Nicholas,A101,Secretary of State,,,Under Votes,10,3,7,0
+Nicholas,A101,Secretary of State,,,Over Votes,0,0,0,0
+Nicholas,A101,Attorney General,,REP,Russell COLEMAN,229,33,181,15
+Nicholas,A101,Attorney General,,DEM,Pamela STEVENSON,122,36,78,8
+Nicholas,A101,Attorney General,,,Total Votes,351,69,259,23
+Nicholas,A101,Attorney General,,,Under Votes,10,2,7,1
+Nicholas,A101,Attorney General,,,Over Votes,0,0,0,0
+Nicholas,A101,Auditor of Public Accounts,,REP,Allison BALL,241,37,190,14
+Nicholas,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",113,32,71,10
+Nicholas,A101,Auditor of Public Accounts,,,Total Votes,354,69,261,24
+Nicholas,A101,Auditor of Public Accounts,,,Under Votes,7,2,5,0
+Nicholas,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nicholas,A101,State Treasurer,,REP,Mark H. METCALF,219,27,178,14
+Nicholas,A101,State Treasurer,,DEM,Michael BOWMAN,128,42,77,9
+Nicholas,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Nicholas,A101,State Treasurer,,,Total Votes,347,69,255,23
+Nicholas,A101,State Treasurer,,,Under Votes,14,2,11,1
+Nicholas,A101,State Treasurer,,,Over Votes,0,0,0,0
+Nicholas,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,246,33,198,15
+Nicholas,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,105,37,60,8
+Nicholas,A101,Commissioner of Agriculture,,,Total Votes,351,70,258,23
+Nicholas,A101,Commissioner of Agriculture,,,Under Votes,9,1,7,1
+Nicholas,A101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Nicholas,B101,STRAIGHT PARTY,,,Republican,98,21,71,6
+Nicholas,B101,STRAIGHT PARTY,,,Democratic,82,31,44,7
+Nicholas,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",169,38,124,7
+Nicholas,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,217,79,118,20
+Nicholas,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nicholas,B101,Governor,,,Total Votes,386,117,242,27
+Nicholas,B101,Governor,,,Under Votes,1,1,0,0
+Nicholas,B101,Governor,,,Over Votes,0,0,0,0
+Nicholas,B101,Secretary of State,,REP,Michael ADAMS,229,60,156,13
+Nicholas,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",141,54,74,13
+Nicholas,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nicholas,B101,Secretary of State,,,Total Votes,370,114,230,26
+Nicholas,B101,Secretary of State,,,Under Votes,17,4,12,1
+Nicholas,B101,Secretary of State,,,Over Votes,0,0,0,0
+Nicholas,B101,Attorney General,,REP,Russell COLEMAN,218,57,151,10
+Nicholas,B101,Attorney General,,DEM,Pamela STEVENSON,152,59,77,16
+Nicholas,B101,Attorney General,,,Total Votes,370,116,228,26
+Nicholas,B101,Attorney General,,,Under Votes,16,2,13,1
+Nicholas,B101,Attorney General,,,Over Votes,1,0,1,0
+Nicholas,B101,Auditor of Public Accounts,,REP,Allison BALL,234,62,160,12
+Nicholas,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",136,53,70,13
+Nicholas,B101,Auditor of Public Accounts,,,Total Votes,370,115,230,25
+Nicholas,B101,Auditor of Public Accounts,,,Under Votes,17,3,12,2
+Nicholas,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nicholas,B101,State Treasurer,,REP,Mark H. METCALF,200,46,145,9
+Nicholas,B101,State Treasurer,,DEM,Michael BOWMAN,163,64,83,16
+Nicholas,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Nicholas,B101,State Treasurer,,,Total Votes,363,110,228,25
+Nicholas,B101,State Treasurer,,,Under Votes,24,8,14,2
+Nicholas,B101,State Treasurer,,,Over Votes,0,0,0,0
+Nicholas,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,238,58,169,11
+Nicholas,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,132,55,63,14
+Nicholas,B101,Commissioner of Agriculture,,,Total Votes,370,113,232,25
+Nicholas,B101,Commissioner of Agriculture,,,Under Votes,17,5,10,2
+Nicholas,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nicholas,C101,STRAIGHT PARTY,,,Republican,114,25,85,4
+Nicholas,C101,STRAIGHT PARTY,,,Democratic,68,10,43,15
+Nicholas,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",206,44,153,9
+Nicholas,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,227,56,145,26
+Nicholas,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nicholas,C101,Governor,,,Total Votes,433,100,298,35
+Nicholas,C101,Governor,,,Under Votes,2,1,0,1
+Nicholas,C101,Governor,,,Over Votes,0,0,0,0
+Nicholas,C101,Secretary of State,,REP,Michael ADAMS,283,67,200,16
+Nicholas,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",136,29,90,17
+Nicholas,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nicholas,C101,Secretary of State,,,Total Votes,419,96,290,33
+Nicholas,C101,Secretary of State,,,Under Votes,16,5,8,3
+Nicholas,C101,Secretary of State,,,Over Votes,0,0,0,0
+Nicholas,C101,Attorney General,,REP,Russell COLEMAN,269,58,196,15
+Nicholas,C101,Attorney General,,DEM,Pamela STEVENSON,153,39,95,19
+Nicholas,C101,Attorney General,,,Total Votes,422,97,291,34
+Nicholas,C101,Attorney General,,,Under Votes,13,4,7,2
+Nicholas,C101,Attorney General,,,Over Votes,0,0,0,0
+Nicholas,C101,Auditor of Public Accounts,,REP,Allison BALL,299,65,218,16
+Nicholas,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",119,30,71,18
+Nicholas,C101,Auditor of Public Accounts,,,Total Votes,418,95,289,34
+Nicholas,C101,Auditor of Public Accounts,,,Under Votes,17,6,9,2
+Nicholas,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nicholas,C101,State Treasurer,,REP,Mark H. METCALF,254,53,188,13
+Nicholas,C101,State Treasurer,,DEM,Michael BOWMAN,161,43,98,20
+Nicholas,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Nicholas,C101,State Treasurer,,,Total Votes,415,96,286,33
+Nicholas,C101,State Treasurer,,,Under Votes,19,5,11,3
+Nicholas,C101,State Treasurer,,,Over Votes,1,0,1,0
+Nicholas,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,290,63,212,15
+Nicholas,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,131,31,80,20
+Nicholas,C101,Commissioner of Agriculture,,,Total Votes,421,94,292,35
+Nicholas,C101,Commissioner of Agriculture,,,Under Votes,14,7,6,1
+Nicholas,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nicholas,D101,STRAIGHT PARTY,,,Republican,103,29,68,6
+Nicholas,D101,STRAIGHT PARTY,,,Democratic,116,39,57,20
+Nicholas,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",205,49,145,11
+Nicholas,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,284,105,153,26
+Nicholas,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nicholas,D101,Governor,,,Total Votes,489,154,298,37
+Nicholas,D101,Governor,,,Under Votes,0,0,0,0
+Nicholas,D101,Governor,,,Over Votes,0,0,0,0
+Nicholas,D101,Secretary of State,,REP,Michael ADAMS,287,86,187,14
+Nicholas,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",194,66,105,23
+Nicholas,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nicholas,D101,Secretary of State,,,Total Votes,481,152,292,37
+Nicholas,D101,Secretary of State,,,Under Votes,8,2,6,0
+Nicholas,D101,Secretary of State,,,Over Votes,0,0,0,0
+Nicholas,D101,Attorney General,,REP,Russell COLEMAN,266,79,177,10
+Nicholas,D101,Attorney General,,DEM,Pamela STEVENSON,208,68,114,26
+Nicholas,D101,Attorney General,,,Total Votes,474,147,291,36
+Nicholas,D101,Attorney General,,,Under Votes,15,7,7,1
+Nicholas,D101,Attorney General,,,Over Votes,0,0,0,0
+Nicholas,D101,Auditor of Public Accounts,,REP,Allison BALL,303,91,201,11
+Nicholas,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",175,59,90,26
+Nicholas,D101,Auditor of Public Accounts,,,Total Votes,478,150,291,37
+Nicholas,D101,Auditor of Public Accounts,,,Under Votes,11,4,7,0
+Nicholas,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Nicholas,D101,State Treasurer,,REP,Mark H. METCALF,250,66,175,9
+Nicholas,D101,State Treasurer,,DEM,Michael BOWMAN,223,80,115,28
+Nicholas,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Nicholas,D101,State Treasurer,,,Total Votes,473,146,290,37
+Nicholas,D101,State Treasurer,,,Under Votes,16,8,8,0
+Nicholas,D101,State Treasurer,,,Over Votes,0,0,0,0
+Nicholas,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,281,82,189,10
+Nicholas,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,192,64,101,27
+Nicholas,D101,Commissioner of Agriculture,,,Total Votes,473,146,290,37
+Nicholas,D101,Commissioner of Agriculture,,,Under Votes,16,8,8,0
+Nicholas,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Nicholas,E101,STRAIGHT PARTY,,,Republican,73,14,59,0
+Nicholas,E101,STRAIGHT PARTY,,,Democratic,81,21,39,21
+Nicholas,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",149,30,119,0
+Nicholas,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,229,62,135,32
+Nicholas,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Nicholas,E101,Governor,,,Total Votes,378,92,254,32
+Nicholas,E101,Governor,,,Under Votes,2,1,1,0
+Nicholas,E101,Governor,,,Over Votes,1,0,1,0
+Nicholas,E101,Secretary of State,,REP,Michael ADAMS,225,53,166,6
+Nicholas,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",143,36,83,24
+Nicholas,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Nicholas,E101,Secretary of State,,,Total Votes,368,89,249,30
+Nicholas,E101,Secretary of State,,,Under Votes,12,4,6,2
+Nicholas,E101,Secretary of State,,,Over Votes,1,0,1,0
+Nicholas,E101,Attorney General,,REP,Russell COLEMAN,207,49,154,4
+Nicholas,E101,Attorney General,,DEM,Pamela STEVENSON,157,39,91,27
+Nicholas,E101,Attorney General,,,Total Votes,364,88,245,31
+Nicholas,E101,Attorney General,,,Under Votes,16,5,10,1
+Nicholas,E101,Attorney General,,,Over Votes,1,0,1,0
+Nicholas,E101,Auditor of Public Accounts,,REP,Allison BALL,217,50,161,6
+Nicholas,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",144,38,81,25
+Nicholas,E101,Auditor of Public Accounts,,,Total Votes,361,88,242,31
+Nicholas,E101,Auditor of Public Accounts,,,Under Votes,18,5,12,1
+Nicholas,E101,Auditor of Public Accounts,,,Over Votes,2,0,2,0
+Nicholas,E101,State Treasurer,,REP,Mark H. METCALF,187,45,141,1
+Nicholas,E101,State Treasurer,,DEM,Michael BOWMAN,167,40,98,29
+Nicholas,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Nicholas,E101,State Treasurer,,,Total Votes,354,85,239,30
+Nicholas,E101,State Treasurer,,,Under Votes,25,8,15,2
+Nicholas,E101,State Treasurer,,,Over Votes,2,0,2,0
+Nicholas,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,221,49,168,4
+Nicholas,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,139,39,74,26
+Nicholas,E101,Commissioner of Agriculture,,,Total Votes,360,88,242,30
+Nicholas,E101,Commissioner of Agriculture,,,Under Votes,20,5,13,2
+Nicholas,E101,Commissioner of Agriculture,,,Over Votes,1,0,1,0

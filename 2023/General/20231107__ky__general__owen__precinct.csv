@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Owen,A101,STRAIGHT PARTY,,,Republican,58,4,52,2
+Owen,A101,STRAIGHT PARTY,,,Democratic,20,8,11,1
+Owen,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",103,11,89,3
+Owen,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,13,54,3
+Owen,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,A101,Governor,,,Total Votes,173,24,143,6
+Owen,A101,Governor,,,Under Votes,0,0,0,0
+Owen,A101,Governor,,,Over Votes,0,0,0,0
+Owen,A101,Secretary of State,,REP,Michael ADAMS,124,12,107,5
+Owen,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",42,11,30,1
+Owen,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,A101,Secretary of State,,,Total Votes,166,23,137,6
+Owen,A101,Secretary of State,,,Under Votes,6,1,5,0
+Owen,A101,Secretary of State,,,Over Votes,1,0,1,0
+Owen,A101,Attorney General,,REP,Russell COLEMAN,119,12,102,5
+Owen,A101,Attorney General,,DEM,Pamela STEVENSON,45,11,33,1
+Owen,A101,Attorney General,,,Total Votes,164,23,135,6
+Owen,A101,Attorney General,,,Under Votes,9,1,8,0
+Owen,A101,Attorney General,,,Over Votes,0,0,0,0
+Owen,A101,Auditor of Public Accounts,,REP,Allison BALL,122,12,105,5
+Owen,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,10,30,1
+Owen,A101,Auditor of Public Accounts,,,Total Votes,163,22,135,6
+Owen,A101,Auditor of Public Accounts,,,Under Votes,10,2,8,0
+Owen,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,A101,State Treasurer,,REP,Mark H. METCALF,111,12,94,5
+Owen,A101,State Treasurer,,DEM,Michael BOWMAN,51,11,39,1
+Owen,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,A101,State Treasurer,,,Total Votes,162,23,133,6
+Owen,A101,State Treasurer,,,Under Votes,11,1,10,0
+Owen,A101,State Treasurer,,,Over Votes,0,0,0,0
+Owen,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,120,13,102,5
+Owen,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,10,32,1
+Owen,A101,Commissioner of Agriculture,,,Total Votes,163,23,134,6
+Owen,A101,Commissioner of Agriculture,,,Under Votes,10,1,9,0
+Owen,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,A103,STRAIGHT PARTY,,,Republican,117,13,101,3
+Owen,A103,STRAIGHT PARTY,,,Democratic,13,1,11,1
+Owen,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",190,18,169,3
+Owen,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,62,6,52,4
+Owen,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,A103,Governor,,,Total Votes,252,24,221,7
+Owen,A103,Governor,,,Under Votes,1,0,1,0
+Owen,A103,Governor,,,Over Votes,0,0,0,0
+Owen,A103,Secretary of State,,REP,Michael ADAMS,209,21,184,4
+Owen,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,3,30,3
+Owen,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,A103,Secretary of State,,,Total Votes,245,24,214,7
+Owen,A103,Secretary of State,,,Under Votes,8,0,8,0
+Owen,A103,Secretary of State,,,Over Votes,0,0,0,0
+Owen,A103,Attorney General,,REP,Russell COLEMAN,211,21,187,3
+Owen,A103,Attorney General,,DEM,Pamela STEVENSON,38,3,31,4
+Owen,A103,Attorney General,,,Total Votes,249,24,218,7
+Owen,A103,Attorney General,,,Under Votes,4,0,4,0
+Owen,A103,Attorney General,,,Over Votes,0,0,0,0
+Owen,A103,Auditor of Public Accounts,,REP,Allison BALL,208,20,184,4
+Owen,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",39,4,32,3
+Owen,A103,Auditor of Public Accounts,,,Total Votes,247,24,216,7
+Owen,A103,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Owen,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,A103,State Treasurer,,REP,Mark H. METCALF,206,20,183,3
+Owen,A103,State Treasurer,,DEM,Michael BOWMAN,40,3,33,4
+Owen,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,A103,State Treasurer,,,Total Votes,246,23,216,7
+Owen,A103,State Treasurer,,,Under Votes,7,1,6,0
+Owen,A103,State Treasurer,,,Over Votes,0,0,0,0
+Owen,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,210,21,186,3
+Owen,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,2,29,4
+Owen,A103,Commissioner of Agriculture,,,Total Votes,245,23,215,7
+Owen,A103,Commissioner of Agriculture,,,Under Votes,8,1,7,0
+Owen,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,A104,STRAIGHT PARTY,,,Republican,58,9,46,3
+Owen,A104,STRAIGHT PARTY,,,Democratic,12,3,8,1
+Owen,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",81,11,66,4
+Owen,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,26,4,21,1
+Owen,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,A104,Governor,,,Total Votes,107,15,87,5
+Owen,A104,Governor,,,Under Votes,1,0,0,1
+Owen,A104,Governor,,,Over Votes,0,0,0,0
+Owen,A104,Secretary of State,,REP,Michael ADAMS,88,11,73,4
+Owen,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",18,4,13,1
+Owen,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,A104,Secretary of State,,,Total Votes,106,15,86,5
+Owen,A104,Secretary of State,,,Under Votes,2,0,1,1
+Owen,A104,Secretary of State,,,Over Votes,0,0,0,0
+Owen,A104,Attorney General,,REP,Russell COLEMAN,88,11,73,4
+Owen,A104,Attorney General,,DEM,Pamela STEVENSON,18,4,13,1
+Owen,A104,Attorney General,,,Total Votes,106,15,86,5
+Owen,A104,Attorney General,,,Under Votes,2,0,1,1
+Owen,A104,Attorney General,,,Over Votes,0,0,0,0
+Owen,A104,Auditor of Public Accounts,,REP,Allison BALL,87,11,72,4
+Owen,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",20,4,15,1
+Owen,A104,Auditor of Public Accounts,,,Total Votes,107,15,87,5
+Owen,A104,Auditor of Public Accounts,,,Under Votes,1,0,0,1
+Owen,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,A104,State Treasurer,,REP,Mark H. METCALF,84,11,69,4
+Owen,A104,State Treasurer,,DEM,Michael BOWMAN,22,4,17,1
+Owen,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,A104,State Treasurer,,,Total Votes,106,15,86,5
+Owen,A104,State Treasurer,,,Under Votes,2,0,1,1
+Owen,A104,State Treasurer,,,Over Votes,0,0,0,0
+Owen,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,84,11,69,4
+Owen,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,22,4,17,1
+Owen,A104,Commissioner of Agriculture,,,Total Votes,106,15,86,5
+Owen,A104,Commissioner of Agriculture,,,Under Votes,2,0,1,1
+Owen,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,A105,STRAIGHT PARTY,,,Republican,107,17,89,1
+Owen,A105,STRAIGHT PARTY,,,Democratic,45,9,34,2
+Owen,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",216,32,181,3
+Owen,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,186,40,140,6
+Owen,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,A105,Governor,,,Total Votes,402,72,321,9
+Owen,A105,Governor,,,Under Votes,1,1,0,0
+Owen,A105,Governor,,,Over Votes,0,0,0,0
+Owen,A105,Secretary of State,,REP,Michael ADAMS,284,50,230,4
+Owen,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",107,18,84,5
+Owen,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,A105,Secretary of State,,,Total Votes,391,68,314,9
+Owen,A105,Secretary of State,,,Under Votes,12,5,7,0
+Owen,A105,Secretary of State,,,Over Votes,0,0,0,0
+Owen,A105,Attorney General,,REP,Russell COLEMAN,272,43,225,4
+Owen,A105,Attorney General,,DEM,Pamela STEVENSON,118,25,88,5
+Owen,A105,Attorney General,,,Total Votes,390,68,313,9
+Owen,A105,Attorney General,,,Under Votes,13,5,8,0
+Owen,A105,Attorney General,,,Over Votes,0,0,0,0
+Owen,A105,Auditor of Public Accounts,,REP,Allison BALL,290,53,233,4
+Owen,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",99,16,78,5
+Owen,A105,Auditor of Public Accounts,,,Total Votes,389,69,311,9
+Owen,A105,Auditor of Public Accounts,,,Under Votes,14,4,10,0
+Owen,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,A105,State Treasurer,,REP,Mark H. METCALF,266,40,222,4
+Owen,A105,State Treasurer,,DEM,Michael BOWMAN,120,26,89,5
+Owen,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,A105,State Treasurer,,,Total Votes,386,66,311,9
+Owen,A105,State Treasurer,,,Under Votes,17,7,10,0
+Owen,A105,State Treasurer,,,Over Votes,0,0,0,0
+Owen,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,280,43,233,4
+Owen,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,107,22,80,5
+Owen,A105,Commissioner of Agriculture,,,Total Votes,387,65,313,9
+Owen,A105,Commissioner of Agriculture,,,Under Votes,16,8,8,0
+Owen,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,B102,STRAIGHT PARTY,,,Republican,181,19,159,3
+Owen,B102,STRAIGHT PARTY,,,Democratic,72,24,45,3
+Owen,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",328,39,282,7
+Owen,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,261,57,196,8
+Owen,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,B102,Governor,,,Total Votes,589,96,478,15
+Owen,B102,Governor,,,Under Votes,2,0,2,0
+Owen,B102,Governor,,,Over Votes,0,0,0,0
+Owen,B102,Secretary of State,,REP,Michael ADAMS,413,50,355,8
+Owen,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",158,40,111,7
+Owen,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,B102,Secretary of State,,,Total Votes,571,90,466,15
+Owen,B102,Secretary of State,,,Under Votes,20,6,14,0
+Owen,B102,Secretary of State,,,Over Votes,0,0,0,0
+Owen,B102,Attorney General,,REP,Russell COLEMAN,407,47,352,8
+Owen,B102,Attorney General,,DEM,Pamela STEVENSON,162,43,112,7
+Owen,B102,Attorney General,,,Total Votes,569,90,464,15
+Owen,B102,Attorney General,,,Under Votes,22,6,16,0
+Owen,B102,Attorney General,,,Over Votes,0,0,0,0
+Owen,B102,Auditor of Public Accounts,,REP,Allison BALL,419,50,359,10
+Owen,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",147,40,103,4
+Owen,B102,Auditor of Public Accounts,,,Total Votes,566,90,462,14
+Owen,B102,Auditor of Public Accounts,,,Under Votes,25,6,18,1
+Owen,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,B102,State Treasurer,,REP,Mark H. METCALF,384,44,330,10
+Owen,B102,State Treasurer,,DEM,Michael BOWMAN,176,45,127,4
+Owen,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,B102,State Treasurer,,,Total Votes,560,89,457,14
+Owen,B102,State Treasurer,,,Under Votes,31,7,23,1
+Owen,B102,State Treasurer,,,Over Votes,0,0,0,0
+Owen,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,415,50,356,9
+Owen,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,148,39,103,6
+Owen,B102,Commissioner of Agriculture,,,Total Votes,563,89,459,15
+Owen,B102,Commissioner of Agriculture,,,Under Votes,28,7,21,0
+Owen,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,B103,STRAIGHT PARTY,,,Republican,103,9,90,4
+Owen,B103,STRAIGHT PARTY,,,Democratic,69,23,34,12
+Owen,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",190,21,163,6
+Owen,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,193,50,120,23
+Owen,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,B103,Governor,,,Total Votes,383,71,283,29
+Owen,B103,Governor,,,Under Votes,2,1,1,0
+Owen,B103,Governor,,,Over Votes,0,0,0,0
+Owen,B103,Secretary of State,,REP,Michael ADAMS,220,27,184,9
+Owen,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",137,39,81,17
+Owen,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,B103,Secretary of State,,,Total Votes,357,66,265,26
+Owen,B103,Secretary of State,,,Under Votes,28,6,19,3
+Owen,B103,Secretary of State,,,Over Votes,0,0,0,0
+Owen,B103,Attorney General,,REP,Russell COLEMAN,238,30,197,11
+Owen,B103,Attorney General,,DEM,Pamela STEVENSON,128,35,77,16
+Owen,B103,Attorney General,,,Total Votes,366,65,274,27
+Owen,B103,Attorney General,,,Under Votes,19,7,10,2
+Owen,B103,Attorney General,,,Over Votes,0,0,0,0
+Owen,B103,Auditor of Public Accounts,,REP,Allison BALL,240,25,201,14
+Owen,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",123,39,71,13
+Owen,B103,Auditor of Public Accounts,,,Total Votes,363,64,272,27
+Owen,B103,Auditor of Public Accounts,,,Under Votes,22,8,12,2
+Owen,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,B103,State Treasurer,,REP,Mark H. METCALF,222,27,186,9
+Owen,B103,State Treasurer,,DEM,Michael BOWMAN,141,38,86,17
+Owen,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,B103,State Treasurer,,,Total Votes,363,65,272,26
+Owen,B103,State Treasurer,,,Under Votes,21,6,12,3
+Owen,B103,State Treasurer,,,Over Votes,1,1,0,0
+Owen,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,241,29,201,11
+Owen,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,123,37,71,15
+Owen,B103,Commissioner of Agriculture,,,Total Votes,364,66,272,26
+Owen,B103,Commissioner of Agriculture,,,Under Votes,21,6,12,3
+Owen,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,C101,STRAIGHT PARTY,,,Republican,163,2,160,1
+Owen,C101,STRAIGHT PARTY,,,Democratic,31,2,28,1
+Owen,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",235,5,228,2
+Owen,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,88,9,77,2
+Owen,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,C101,Governor,,,Total Votes,323,14,305,4
+Owen,C101,Governor,,,Under Votes,0,0,0,0
+Owen,C101,Governor,,,Over Votes,0,0,0,0
+Owen,C101,Secretary of State,,REP,Michael ADAMS,255,6,247,2
+Owen,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,7,55,2
+Owen,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,C101,Secretary of State,,,Total Votes,319,13,302,4
+Owen,C101,Secretary of State,,,Under Votes,4,1,3,0
+Owen,C101,Secretary of State,,,Over Votes,0,0,0,0
+Owen,C101,Attorney General,,REP,Russell COLEMAN,258,6,251,1
+Owen,C101,Attorney General,,DEM,Pamela STEVENSON,60,8,50,2
+Owen,C101,Attorney General,,,Total Votes,318,14,301,3
+Owen,C101,Attorney General,,,Under Votes,5,0,4,1
+Owen,C101,Attorney General,,,Over Votes,0,0,0,0
+Owen,C101,Auditor of Public Accounts,,REP,Allison BALL,257,7,248,2
+Owen,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",60,6,52,2
+Owen,C101,Auditor of Public Accounts,,,Total Votes,317,13,300,4
+Owen,C101,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Owen,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,C101,State Treasurer,,REP,Mark H. METCALF,254,5,247,2
+Owen,C101,State Treasurer,,DEM,Michael BOWMAN,63,8,53,2
+Owen,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,C101,State Treasurer,,,Total Votes,317,13,300,4
+Owen,C101,State Treasurer,,,Under Votes,6,1,5,0
+Owen,C101,State Treasurer,,,Over Votes,0,0,0,0
+Owen,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,256,6,248,2
+Owen,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,60,7,51,2
+Owen,C101,Commissioner of Agriculture,,,Total Votes,316,13,299,4
+Owen,C101,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Owen,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,C103,STRAIGHT PARTY,,,Republican,99,5,90,4
+Owen,C103,STRAIGHT PARTY,,,Democratic,27,3,24,0
+Owen,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",159,7,146,6
+Owen,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,13,68,2
+Owen,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,C103,Governor,,,Total Votes,242,20,214,8
+Owen,C103,Governor,,,Under Votes,3,0,3,0
+Owen,C103,Governor,,,Over Votes,0,0,0,0
+Owen,C103,Secretary of State,,REP,Michael ADAMS,189,12,172,5
+Owen,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,7,40,2
+Owen,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,C103,Secretary of State,,,Total Votes,238,19,212,7
+Owen,C103,Secretary of State,,,Under Votes,7,1,5,1
+Owen,C103,Secretary of State,,,Over Votes,0,0,0,0
+Owen,C103,Attorney General,,REP,Russell COLEMAN,187,16,166,5
+Owen,C103,Attorney General,,DEM,Pamela STEVENSON,49,4,43,2
+Owen,C103,Attorney General,,,Total Votes,236,20,209,7
+Owen,C103,Attorney General,,,Under Votes,9,0,8,1
+Owen,C103,Attorney General,,,Over Votes,0,0,0,0
+Owen,C103,Auditor of Public Accounts,,REP,Allison BALL,195,12,177,6
+Owen,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,7,35,2
+Owen,C103,Auditor of Public Accounts,,,Total Votes,239,19,212,8
+Owen,C103,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Owen,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,C103,State Treasurer,,REP,Mark H. METCALF,185,10,171,4
+Owen,C103,State Treasurer,,DEM,Michael BOWMAN,49,7,39,3
+Owen,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,C103,State Treasurer,,,Total Votes,234,17,210,7
+Owen,C103,State Treasurer,,,Under Votes,11,3,7,1
+Owen,C103,State Treasurer,,,Over Votes,0,0,0,0
+Owen,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,186,11,170,5
+Owen,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,7,39,1
+Owen,C103,Commissioner of Agriculture,,,Total Votes,233,18,209,6
+Owen,C103,Commissioner of Agriculture,,,Under Votes,12,2,8,2
+Owen,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,C104,STRAIGHT PARTY,,,Republican,117,9,100,8
+Owen,C104,STRAIGHT PARTY,,,Democratic,35,16,19,0
+Owen,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",198,18,168,12
+Owen,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,112,24,85,3
+Owen,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,C104,Governor,,,Total Votes,310,42,253,15
+Owen,C104,Governor,,,Under Votes,4,0,4,0
+Owen,C104,Governor,,,Over Votes,0,0,0,0
+Owen,C104,Secretary of State,,REP,Michael ADAMS,217,20,185,12
+Owen,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,21,60,0
+Owen,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,C104,Secretary of State,,,Total Votes,298,41,245,12
+Owen,C104,Secretary of State,,,Under Votes,16,1,12,3
+Owen,C104,Secretary of State,,,Over Votes,0,0,0,0
+Owen,C104,Attorney General,,REP,Russell COLEMAN,224,20,192,12
+Owen,C104,Attorney General,,DEM,Pamela STEVENSON,79,21,57,1
+Owen,C104,Attorney General,,,Total Votes,303,41,249,13
+Owen,C104,Attorney General,,,Under Votes,11,1,8,2
+Owen,C104,Attorney General,,,Over Votes,0,0,0,0
+Owen,C104,Auditor of Public Accounts,,REP,Allison BALL,231,21,197,13
+Owen,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",67,20,47,0
+Owen,C104,Auditor of Public Accounts,,,Total Votes,298,41,244,13
+Owen,C104,Auditor of Public Accounts,,,Under Votes,16,1,13,2
+Owen,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,C104,State Treasurer,,REP,Mark H. METCALF,211,19,181,11
+Owen,C104,State Treasurer,,DEM,Michael BOWMAN,86,22,63,1
+Owen,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,C104,State Treasurer,,,Total Votes,297,41,244,12
+Owen,C104,State Treasurer,,,Under Votes,17,1,13,3
+Owen,C104,State Treasurer,,,Over Votes,0,0,0,0
+Owen,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,221,20,189,12
+Owen,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,73,20,53,0
+Owen,C104,Commissioner of Agriculture,,,Total Votes,294,40,242,12
+Owen,C104,Commissioner of Agriculture,,,Under Votes,20,2,15,3
+Owen,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,D101,STRAIGHT PARTY,,,Republican,99,3,94,2
+Owen,D101,STRAIGHT PARTY,,,Democratic,62,6,54,2
+Owen,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",184,7,167,10
+Owen,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,198,12,184,2
+Owen,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,D101,Governor,,,Total Votes,382,19,351,12
+Owen,D101,Governor,,,Under Votes,4,1,3,0
+Owen,D101,Governor,,,Over Votes,0,0,0,0
+Owen,D101,Secretary of State,,REP,Michael ADAMS,248,11,226,11
+Owen,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,9,113,1
+Owen,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,D101,Secretary of State,,,Total Votes,371,20,339,12
+Owen,D101,Secretary of State,,,Under Votes,15,0,15,0
+Owen,D101,Secretary of State,,,Over Votes,0,0,0,0
+Owen,D101,Attorney General,,REP,Russell COLEMAN,253,8,235,10
+Owen,D101,Attorney General,,DEM,Pamela STEVENSON,120,10,109,1
+Owen,D101,Attorney General,,,Total Votes,373,18,344,11
+Owen,D101,Attorney General,,,Under Votes,13,2,10,1
+Owen,D101,Attorney General,,,Over Votes,0,0,0,0
+Owen,D101,Auditor of Public Accounts,,REP,Allison BALL,259,10,239,10
+Owen,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",113,8,104,1
+Owen,D101,Auditor of Public Accounts,,,Total Votes,372,18,343,11
+Owen,D101,Auditor of Public Accounts,,,Under Votes,14,2,11,1
+Owen,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,D101,State Treasurer,,REP,Mark H. METCALF,226,8,210,8
+Owen,D101,State Treasurer,,DEM,Michael BOWMAN,145,10,132,3
+Owen,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,D101,State Treasurer,,,Total Votes,371,18,342,11
+Owen,D101,State Treasurer,,,Under Votes,15,2,12,1
+Owen,D101,State Treasurer,,,Over Votes,0,0,0,0
+Owen,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,254,8,236,10
+Owen,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,120,10,108,2
+Owen,D101,Commissioner of Agriculture,,,Total Votes,374,18,344,12
+Owen,D101,Commissioner of Agriculture,,,Under Votes,12,2,10,0
+Owen,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,D102,STRAIGHT PARTY,,,Republican,115,30,74,11
+Owen,D102,STRAIGHT PARTY,,,Democratic,49,10,36,3
+Owen,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",176,35,128,13
+Owen,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,129,24,98,7
+Owen,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,D102,Governor,,,Total Votes,305,59,226,20
+Owen,D102,Governor,,,Under Votes,1,0,1,0
+Owen,D102,Governor,,,Over Votes,0,0,0,0
+Owen,D102,Secretary of State,,REP,Michael ADAMS,209,39,154,16
+Owen,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,19,62,4
+Owen,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,D102,Secretary of State,,,Total Votes,294,58,216,20
+Owen,D102,Secretary of State,,,Under Votes,11,1,10,0
+Owen,D102,Secretary of State,,,Over Votes,1,0,1,0
+Owen,D102,Attorney General,,REP,Russell COLEMAN,201,37,148,16
+Owen,D102,Attorney General,,DEM,Pamela STEVENSON,92,20,68,4
+Owen,D102,Attorney General,,,Total Votes,293,57,216,20
+Owen,D102,Attorney General,,,Under Votes,12,2,10,0
+Owen,D102,Attorney General,,,Over Votes,1,0,1,0
+Owen,D102,Auditor of Public Accounts,,REP,Allison BALL,211,39,155,17
+Owen,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",81,17,61,3
+Owen,D102,Auditor of Public Accounts,,,Total Votes,292,56,216,20
+Owen,D102,Auditor of Public Accounts,,,Under Votes,14,3,11,0
+Owen,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,D102,State Treasurer,,REP,Mark H. METCALF,199,36,147,16
+Owen,D102,State Treasurer,,DEM,Michael BOWMAN,94,21,70,3
+Owen,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,D102,State Treasurer,,,Total Votes,293,57,217,19
+Owen,D102,State Treasurer,,,Under Votes,13,2,10,1
+Owen,D102,State Treasurer,,,Over Votes,0,0,0,0
+Owen,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,211,38,157,16
+Owen,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,19,58,4
+Owen,D102,Commissioner of Agriculture,,,Total Votes,292,57,215,20
+Owen,D102,Commissioner of Agriculture,,,Under Votes,14,2,12,0
+Owen,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Owen,D103,STRAIGHT PARTY,,,Republican,66,5,61,0
+Owen,D103,STRAIGHT PARTY,,,Democratic,35,1,33,1
+Owen,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",130,9,121,0
+Owen,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,86,2,80,4
+Owen,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Owen,D103,Governor,,,Total Votes,216,11,201,4
+Owen,D103,Governor,,,Under Votes,4,0,4,0
+Owen,D103,Governor,,,Over Votes,0,0,0,0
+Owen,D103,Secretary of State,,REP,Michael ADAMS,151,9,141,1
+Owen,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",65,2,60,3
+Owen,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Owen,D103,Secretary of State,,,Total Votes,216,11,201,4
+Owen,D103,Secretary of State,,,Under Votes,4,0,4,0
+Owen,D103,Secretary of State,,,Over Votes,0,0,0,0
+Owen,D103,Attorney General,,REP,Russell COLEMAN,151,10,140,1
+Owen,D103,Attorney General,,DEM,Pamela STEVENSON,66,1,62,3
+Owen,D103,Attorney General,,,Total Votes,217,11,202,4
+Owen,D103,Attorney General,,,Under Votes,3,0,3,0
+Owen,D103,Attorney General,,,Over Votes,0,0,0,0
+Owen,D103,Auditor of Public Accounts,,REP,Allison BALL,158,10,147,1
+Owen,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",59,1,55,3
+Owen,D103,Auditor of Public Accounts,,,Total Votes,217,11,202,4
+Owen,D103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Owen,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Owen,D103,State Treasurer,,REP,Mark H. METCALF,145,10,134,1
+Owen,D103,State Treasurer,,DEM,Michael BOWMAN,72,1,68,3
+Owen,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Owen,D103,State Treasurer,,,Total Votes,217,11,202,4
+Owen,D103,State Treasurer,,,Under Votes,3,0,3,0
+Owen,D103,State Treasurer,,,Over Votes,0,0,0,0
+Owen,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,154,10,143,1
+Owen,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,64,1,60,3
+Owen,D103,Commissioner of Agriculture,,,Total Votes,218,11,203,4
+Owen,D103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Owen,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
