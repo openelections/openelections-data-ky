@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Carter,A101,STRAIGHT PARTY,,,Republican,100,15,83,2
 Carter,A101,STRAIGHT PARTY,,,Democratic,67,10,50,7
-Carter,A101,Govenor,,REP,Daniel CAMERON,168,25,139,4
-Carter,A101,Govenor,,DEM,Andy BESHEAR,184,30,142,12
-Carter,A101,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,A101,Govenor,,,Total Votes,352,55,281,16
-Carter,A101,Govenor,,,Under Votes,3,0,3,0
-Carter,A101,Govenor,,,Over Votes,0,0,0,0
+Carter,A101,Governor,,REP,Daniel CAMERON,168,25,139,4
+Carter,A101,Governor,,DEM,Andy BESHEAR,184,30,142,12
+Carter,A101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A101,Governor,,,Total Votes,352,55,281,16
+Carter,A101,Governor,,,Under Votes,3,0,3,0
+Carter,A101,Governor,,,Over Votes,0,0,0,0
 Carter,A101,Secretary of State,,REP,Michael ADAMS,221,38,178,5
 Carter,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",119,16,94,9
 Carter,A101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -36,12 +36,12 @@ Carter,A101,Commissioner of Agriculture,,,Under Votes,13,1,10,2
 Carter,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A102,STRAIGHT PARTY,,,Republican,63,4,59,0
 Carter,A102,STRAIGHT PARTY,,,Democratic,28,1,23,4
-Carter,A102,Govenor,,REP,Daniel CAMERON,92,7,84,1
-Carter,A102,Govenor,,DEM,Andy BESHEAR,76,6,63,7
-Carter,A102,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,A102,Govenor,,,Total Votes,168,13,147,8
-Carter,A102,Govenor,,,Under Votes,2,1,1,0
-Carter,A102,Govenor,,,Over Votes,0,0,0,0
+Carter,A102,Governor,,REP,Daniel CAMERON,92,7,84,1
+Carter,A102,Governor,,DEM,Andy BESHEAR,76,6,63,7
+Carter,A102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A102,Governor,,,Total Votes,168,13,147,8
+Carter,A102,Governor,,,Under Votes,2,1,1,0
+Carter,A102,Governor,,,Over Votes,0,0,0,0
 Carter,A102,Secretary of State,,REP,Michael ADAMS,109,8,98,3
 Carter,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,6,46,5
 Carter,A102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -71,12 +71,12 @@ Carter,A102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Carter,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A103,STRAIGHT PARTY,,,Republican,71,4,65,2
 Carter,A103,STRAIGHT PARTY,,,Democratic,28,6,21,1
-Carter,A103,Govenor,,REP,Daniel CAMERON,117,9,105,3
-Carter,A103,Govenor,,DEM,Andy BESHEAR,60,12,47,1
-Carter,A103,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,A103,Govenor,,,Total Votes,177,21,152,4
-Carter,A103,Govenor,,,Under Votes,0,0,0,0
-Carter,A103,Govenor,,,Over Votes,0,0,0,0
+Carter,A103,Governor,,REP,Daniel CAMERON,117,9,105,3
+Carter,A103,Governor,,DEM,Andy BESHEAR,60,12,47,1
+Carter,A103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A103,Governor,,,Total Votes,177,21,152,4
+Carter,A103,Governor,,,Under Votes,0,0,0,0
+Carter,A103,Governor,,,Over Votes,0,0,0,0
 Carter,A103,Secretary of State,,REP,Michael ADAMS,130,11,116,3
 Carter,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,10,33,1
 Carter,A103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -106,12 +106,12 @@ Carter,A103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
 Carter,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A104,STRAIGHT PARTY,,,Republican,59,4,46,9
 Carter,A104,STRAIGHT PARTY,,,Democratic,29,3,20,6
-Carter,A104,Govenor,,REP,Daniel CAMERON,84,6,69,9
-Carter,A104,Govenor,,DEM,Andy BESHEAR,83,9,66,8
-Carter,A104,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,A104,Govenor,,,Total Votes,167,15,135,17
-Carter,A104,Govenor,,,Under Votes,1,0,1,0
-Carter,A104,Govenor,,,Over Votes,0,0,0,0
+Carter,A104,Governor,,REP,Daniel CAMERON,84,6,69,9
+Carter,A104,Governor,,DEM,Andy BESHEAR,83,9,66,8
+Carter,A104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A104,Governor,,,Total Votes,167,15,135,17
+Carter,A104,Governor,,,Under Votes,1,0,1,0
+Carter,A104,Governor,,,Over Votes,0,0,0,0
 Carter,A104,Secretary of State,,REP,Michael ADAMS,110,6,95,9
 Carter,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,9,40,7
 Carter,A104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -141,12 +141,12 @@ Carter,A104,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Carter,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A105,STRAIGHT PARTY,,,Republican,115,7,105,3
 Carter,A105,STRAIGHT PARTY,,,Democratic,90,17,66,7
-Carter,A105,Govenor,,REP,Daniel CAMERON,174,12,156,6
-Carter,A105,Govenor,,DEM,Andy BESHEAR,204,32,159,13
-Carter,A105,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,A105,Govenor,,,Total Votes,378,44,315,19
-Carter,A105,Govenor,,,Under Votes,0,0,0,0
-Carter,A105,Govenor,,,Over Votes,0,0,0,0
+Carter,A105,Governor,,REP,Daniel CAMERON,174,12,156,6
+Carter,A105,Governor,,DEM,Andy BESHEAR,204,32,159,13
+Carter,A105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A105,Governor,,,Total Votes,378,44,315,19
+Carter,A105,Governor,,,Under Votes,0,0,0,0
+Carter,A105,Governor,,,Over Votes,0,0,0,0
 Carter,A105,Secretary of State,,REP,Michael ADAMS,229,17,202,10
 Carter,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",143,27,108,8
 Carter,A105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -176,12 +176,12 @@ Carter,A105,Commissioner of Agriculture,,,Under Votes,9,1,7,1
 Carter,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B101,STRAIGHT PARTY,,,Republican,104,2,96,6
 Carter,B101,STRAIGHT PARTY,,,Democratic,75,12,55,8
-Carter,B101,Govenor,,REP,Daniel CAMERON,155,10,137,8
-Carter,B101,Govenor,,DEM,Andy BESHEAR,188,17,160,11
-Carter,B101,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,B101,Govenor,,,Total Votes,343,27,297,19
-Carter,B101,Govenor,,,Under Votes,1,0,1,0
-Carter,B101,Govenor,,,Over Votes,0,0,0,0
+Carter,B101,Governor,,REP,Daniel CAMERON,155,10,137,8
+Carter,B101,Governor,,DEM,Andy BESHEAR,188,17,160,11
+Carter,B101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B101,Governor,,,Total Votes,343,27,297,19
+Carter,B101,Governor,,,Under Votes,1,0,1,0
+Carter,B101,Governor,,,Over Votes,0,0,0,0
 Carter,B101,Secretary of State,,REP,Michael ADAMS,212,11,190,11
 Carter,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,16,99,8
 Carter,B101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -211,12 +211,12 @@ Carter,B101,Commissioner of Agriculture,,,Under Votes,10,0,10,0
 Carter,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B102,STRAIGHT PARTY,,,Republican,83,3,80,0
 Carter,B102,STRAIGHT PARTY,,,Democratic,29,2,25,2
-Carter,B102,Govenor,,REP,Daniel CAMERON,111,6,104,1
-Carter,B102,Govenor,,DEM,Andy BESHEAR,70,6,62,2
-Carter,B102,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,B102,Govenor,,,Total Votes,181,12,166,3
-Carter,B102,Govenor,,,Under Votes,2,0,2,0
-Carter,B102,Govenor,,,Over Votes,0,0,0,0
+Carter,B102,Governor,,REP,Daniel CAMERON,111,6,104,1
+Carter,B102,Governor,,DEM,Andy BESHEAR,70,6,62,2
+Carter,B102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B102,Governor,,,Total Votes,181,12,166,3
+Carter,B102,Governor,,,Under Votes,2,0,2,0
+Carter,B102,Governor,,,Over Votes,0,0,0,0
 Carter,B102,Secretary of State,,REP,Michael ADAMS,130,9,120,1
 Carter,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,3,44,2
 Carter,B102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -246,12 +246,12 @@ Carter,B102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Carter,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B103,STRAIGHT PARTY,,,Republican,109,10,96,3
 Carter,B103,STRAIGHT PARTY,,,Democratic,47,6,34,7
-Carter,B103,Govenor,,REP,Daniel CAMERON,172,19,150,3
-Carter,B103,Govenor,,DEM,Andy BESHEAR,149,19,117,13
-Carter,B103,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,B103,Govenor,,,Total Votes,321,38,267,16
-Carter,B103,Govenor,,,Under Votes,1,0,1,0
-Carter,B103,Govenor,,,Over Votes,0,0,0,0
+Carter,B103,Governor,,REP,Daniel CAMERON,172,19,150,3
+Carter,B103,Governor,,DEM,Andy BESHEAR,149,19,117,13
+Carter,B103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B103,Governor,,,Total Votes,321,38,267,16
+Carter,B103,Governor,,,Under Votes,1,0,1,0
+Carter,B103,Governor,,,Over Votes,0,0,0,0
 Carter,B103,Secretary of State,,REP,Michael ADAMS,211,24,182,5
 Carter,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",105,13,82,10
 Carter,B103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -281,12 +281,12 @@ Carter,B103,Commissioner of Agriculture,,,Under Votes,9,2,6,1
 Carter,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B104,STRAIGHT PARTY,,,Republican,95,7,84,4
 Carter,B104,STRAIGHT PARTY,,,Democratic,38,5,32,1
-Carter,B104,Govenor,,REP,Daniel CAMERON,147,12,128,7
-Carter,B104,Govenor,,DEM,Andy BESHEAR,109,10,98,1
-Carter,B104,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,B104,Govenor,,,Total Votes,256,22,226,8
-Carter,B104,Govenor,,,Under Votes,5,1,4,0
-Carter,B104,Govenor,,,Over Votes,0,0,0,0
+Carter,B104,Governor,,REP,Daniel CAMERON,147,12,128,7
+Carter,B104,Governor,,DEM,Andy BESHEAR,109,10,98,1
+Carter,B104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B104,Governor,,,Total Votes,256,22,226,8
+Carter,B104,Governor,,,Under Votes,5,1,4,0
+Carter,B104,Governor,,,Over Votes,0,0,0,0
 Carter,B104,Secretary of State,,REP,Michael ADAMS,175,16,152,7
 Carter,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,7,69,1
 Carter,B104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -316,12 +316,12 @@ Carter,B104,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B105,STRAIGHT PARTY,,,Republican,91,16,72,3
 Carter,B105,STRAIGHT PARTY,,,Democratic,65,8,55,2
-Carter,B105,Govenor,,REP,Daniel CAMERON,140,23,113,4
-Carter,B105,Govenor,,DEM,Andy BESHEAR,156,22,126,8
-Carter,B105,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,B105,Govenor,,,Total Votes,296,45,239,12
-Carter,B105,Govenor,,,Under Votes,1,1,0,0
-Carter,B105,Govenor,,,Over Votes,0,0,0,0
+Carter,B105,Governor,,REP,Daniel CAMERON,140,23,113,4
+Carter,B105,Governor,,DEM,Andy BESHEAR,156,22,126,8
+Carter,B105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B105,Governor,,,Total Votes,296,45,239,12
+Carter,B105,Governor,,,Under Votes,1,1,0,0
+Carter,B105,Governor,,,Over Votes,0,0,0,0
 Carter,B105,Secretary of State,,REP,Michael ADAMS,186,29,150,7
 Carter,B105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,17,82,5
 Carter,B105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -351,12 +351,12 @@ Carter,B105,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Carter,B105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C101,STRAIGHT PARTY,,,Republican,127,7,119,1
 Carter,C101,STRAIGHT PARTY,,,Democratic,111,10,88,13
-Carter,C101,Govenor,,REP,Daniel CAMERON,199,15,182,2
-Carter,C101,Govenor,,DEM,Andy BESHEAR,242,37,187,18
-Carter,C101,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,C101,Govenor,,,Total Votes,441,52,369,20
-Carter,C101,Govenor,,,Under Votes,2,1,1,0
-Carter,C101,Govenor,,,Over Votes,1,0,1,0
+Carter,C101,Governor,,REP,Daniel CAMERON,199,15,182,2
+Carter,C101,Governor,,DEM,Andy BESHEAR,242,37,187,18
+Carter,C101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C101,Governor,,,Total Votes,441,52,369,20
+Carter,C101,Governor,,,Under Votes,2,1,1,0
+Carter,C101,Governor,,,Over Votes,1,0,1,0
 Carter,C101,Secretary of State,,REP,Michael ADAMS,238,25,208,5
 Carter,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",191,23,153,15
 Carter,C101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -386,12 +386,12 @@ Carter,C101,Commissioner of Agriculture,,,Under Votes,11,1,10,0
 Carter,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C102,STRAIGHT PARTY,,,Republican,20,0,20,0
 Carter,C102,STRAIGHT PARTY,,,Democratic,12,0,12,0
-Carter,C102,Govenor,,REP,Daniel CAMERON,33,2,31,0
-Carter,C102,Govenor,,DEM,Andy BESHEAR,27,4,23,0
-Carter,C102,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,C102,Govenor,,,Total Votes,60,6,54,0
-Carter,C102,Govenor,,,Under Votes,0,0,0,0
-Carter,C102,Govenor,,,Over Votes,0,0,0,0
+Carter,C102,Governor,,REP,Daniel CAMERON,33,2,31,0
+Carter,C102,Governor,,DEM,Andy BESHEAR,27,4,23,0
+Carter,C102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C102,Governor,,,Total Votes,60,6,54,0
+Carter,C102,Governor,,,Under Votes,0,0,0,0
+Carter,C102,Governor,,,Over Votes,0,0,0,0
 Carter,C102,Secretary of State,,REP,Michael ADAMS,38,5,33,0
 Carter,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",22,1,21,0
 Carter,C102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -421,12 +421,12 @@ Carter,C102,Commissioner of Agriculture,,,Under Votes,1,1,0,0
 Carter,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C103,STRAIGHT PARTY,,,Republican,105,10,95,0
 Carter,C103,STRAIGHT PARTY,,,Democratic,54,8,38,8
-Carter,C103,Govenor,,REP,Daniel CAMERON,157,13,144,0
-Carter,C103,Govenor,,DEM,Andy BESHEAR,111,10,91,10
-Carter,C103,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,C103,Govenor,,,Total Votes,268,23,235,10
-Carter,C103,Govenor,,,Under Votes,2,0,2,0
-Carter,C103,Govenor,,,Over Votes,0,0,0,0
+Carter,C103,Governor,,REP,Daniel CAMERON,157,13,144,0
+Carter,C103,Governor,,DEM,Andy BESHEAR,111,10,91,10
+Carter,C103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C103,Governor,,,Total Votes,268,23,235,10
+Carter,C103,Governor,,,Under Votes,2,0,2,0
+Carter,C103,Governor,,,Over Votes,0,0,0,0
 Carter,C103,Secretary of State,,REP,Michael ADAMS,179,14,162,3
 Carter,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,7,68,6
 Carter,C103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -456,12 +456,12 @@ Carter,C103,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Carter,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C104,STRAIGHT PARTY,,,Republican,124,21,99,4
 Carter,C104,STRAIGHT PARTY,,,Democratic,63,6,55,2
-Carter,C104,Govenor,,REP,Daniel CAMERON,196,26,163,7
-Carter,C104,Govenor,,DEM,Andy BESHEAR,142,15,123,4
-Carter,C104,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,C104,Govenor,,,Total Votes,338,41,286,11
-Carter,C104,Govenor,,,Under Votes,0,0,0,0
-Carter,C104,Govenor,,,Over Votes,0,0,0,0
+Carter,C104,Governor,,REP,Daniel CAMERON,196,26,163,7
+Carter,C104,Governor,,DEM,Andy BESHEAR,142,15,123,4
+Carter,C104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C104,Governor,,,Total Votes,338,41,286,11
+Carter,C104,Governor,,,Under Votes,0,0,0,0
+Carter,C104,Governor,,,Over Votes,0,0,0,0
 Carter,C104,Secretary of State,,REP,Michael ADAMS,231,31,192,8
 Carter,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,10,88,3
 Carter,C104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -491,12 +491,12 @@ Carter,C104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Carter,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D101,STRAIGHT PARTY,,,Republican,0,0,0,0
 Carter,D101,STRAIGHT PARTY,,,Democratic,1,0,1,0
-Carter,D101,Govenor,,REP,Daniel CAMERON,0,0,0,0
-Carter,D101,Govenor,,DEM,Andy BESHEAR,2,0,2,0
-Carter,D101,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D101,Govenor,,,Total Votes,2,0,2,0
-Carter,D101,Govenor,,,Under Votes,0,0,0,0
-Carter,D101,Govenor,,,Over Votes,0,0,0,0
+Carter,D101,Governor,,REP,Daniel CAMERON,0,0,0,0
+Carter,D101,Governor,,DEM,Andy BESHEAR,2,0,2,0
+Carter,D101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D101,Governor,,,Total Votes,2,0,2,0
+Carter,D101,Governor,,,Under Votes,0,0,0,0
+Carter,D101,Governor,,,Over Votes,0,0,0,0
 Carter,D101,Secretary of State,,REP,Michael ADAMS,0,0,0,0
 Carter,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",2,0,2,0
 Carter,D101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -526,12 +526,12 @@ Carter,D101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Carter,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D102,STRAIGHT PARTY,,,Republican,75,11,64,0
 Carter,D102,STRAIGHT PARTY,,,Democratic,41,18,18,5
-Carter,D102,Govenor,,REP,Daniel CAMERON,111,13,98,0
-Carter,D102,Govenor,,DEM,Andy BESHEAR,86,28,50,8
-Carter,D102,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D102,Govenor,,,Total Votes,197,41,148,8
-Carter,D102,Govenor,,,Under Votes,1,0,1,0
-Carter,D102,Govenor,,,Over Votes,0,0,0,0
+Carter,D102,Governor,,REP,Daniel CAMERON,111,13,98,0
+Carter,D102,Governor,,DEM,Andy BESHEAR,86,28,50,8
+Carter,D102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D102,Governor,,,Total Votes,197,41,148,8
+Carter,D102,Governor,,,Under Votes,1,0,1,0
+Carter,D102,Governor,,,Over Votes,0,0,0,0
 Carter,D102,Secretary of State,,REP,Michael ADAMS,125,19,105,1
 Carter,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",65,21,37,7
 Carter,D102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -561,12 +561,12 @@ Carter,D102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
 Carter,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D103,STRAIGHT PARTY,,,Republican,45,10,34,1
 Carter,D103,STRAIGHT PARTY,,,Democratic,17,9,8,0
-Carter,D103,Govenor,,REP,Daniel CAMERON,59,11,47,1
-Carter,D103,Govenor,,DEM,Andy BESHEAR,50,16,33,1
-Carter,D103,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D103,Govenor,,,Total Votes,109,27,80,2
-Carter,D103,Govenor,,,Under Votes,0,0,0,0
-Carter,D103,Govenor,,,Over Votes,0,0,0,0
+Carter,D103,Governor,,REP,Daniel CAMERON,59,11,47,1
+Carter,D103,Governor,,DEM,Andy BESHEAR,50,16,33,1
+Carter,D103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D103,Governor,,,Total Votes,109,27,80,2
+Carter,D103,Governor,,,Under Votes,0,0,0,0
+Carter,D103,Governor,,,Over Votes,0,0,0,0
 Carter,D103,Secretary of State,,REP,Michael ADAMS,77,13,62,2
 Carter,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",32,14,18,0
 Carter,D103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -596,12 +596,12 @@ Carter,D103,Commissioner of Agriculture,,,Under Votes,4,2,2,0
 Carter,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D104,STRAIGHT PARTY,,,Republican,64,13,51,0
 Carter,D104,STRAIGHT PARTY,,,Democratic,44,13,28,3
-Carter,D104,Govenor,,REP,Daniel CAMERON,93,18,73,2
-Carter,D104,Govenor,,DEM,Andy BESHEAR,99,19,73,7
-Carter,D104,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D104,Govenor,,,Total Votes,192,37,146,9
-Carter,D104,Govenor,,,Under Votes,2,0,2,0
-Carter,D104,Govenor,,,Over Votes,0,0,0,0
+Carter,D104,Governor,,REP,Daniel CAMERON,93,18,73,2
+Carter,D104,Governor,,DEM,Andy BESHEAR,99,19,73,7
+Carter,D104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D104,Governor,,,Total Votes,192,37,146,9
+Carter,D104,Governor,,,Under Votes,2,0,2,0
+Carter,D104,Governor,,,Over Votes,0,0,0,0
 Carter,D104,Secretary of State,,REP,Michael ADAMS,108,19,86,3
 Carter,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",82,17,59,6
 Carter,D104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -631,12 +631,12 @@ Carter,D104,Commissioner of Agriculture,,,Under Votes,8,2,6,0
 Carter,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D105,STRAIGHT PARTY,,,Republican,49,2,47,0
 Carter,D105,STRAIGHT PARTY,,,Democratic,37,3,28,6
-Carter,D105,Govenor,,REP,Daniel CAMERON,82,2,77,3
-Carter,D105,Govenor,,DEM,Andy BESHEAR,87,5,71,11
-Carter,D105,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D105,Govenor,,,Total Votes,169,7,148,14
-Carter,D105,Govenor,,,Under Votes,1,0,1,0
-Carter,D105,Govenor,,,Over Votes,0,0,0,0
+Carter,D105,Governor,,REP,Daniel CAMERON,82,2,77,3
+Carter,D105,Governor,,DEM,Andy BESHEAR,87,5,71,11
+Carter,D105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D105,Governor,,,Total Votes,169,7,148,14
+Carter,D105,Governor,,,Under Votes,1,0,1,0
+Carter,D105,Governor,,,Over Votes,0,0,0,0
 Carter,D105,Secretary of State,,REP,Michael ADAMS,97,4,87,6
 Carter,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",66,3,55,8
 Carter,D105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -666,12 +666,12 @@ Carter,D105,Commissioner of Agriculture,,,Under Votes,4,0,3,1
 Carter,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D106,STRAIGHT PARTY,,,Republican,25,0,25,0
 Carter,D106,STRAIGHT PARTY,,,Democratic,23,0,19,4
-Carter,D106,Govenor,,REP,Daniel CAMERON,36,0,36,0
-Carter,D106,Govenor,,DEM,Andy BESHEAR,52,0,48,4
-Carter,D106,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D106,Govenor,,,Total Votes,88,0,84,4
-Carter,D106,Govenor,,,Under Votes,0,0,0,0
-Carter,D106,Govenor,,,Over Votes,0,0,0,0
+Carter,D106,Governor,,REP,Daniel CAMERON,36,0,36,0
+Carter,D106,Governor,,DEM,Andy BESHEAR,52,0,48,4
+Carter,D106,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D106,Governor,,,Total Votes,88,0,84,4
+Carter,D106,Governor,,,Under Votes,0,0,0,0
+Carter,D106,Governor,,,Over Votes,0,0,0,0
 Carter,D106,Secretary of State,,REP,Michael ADAMS,45,0,45,0
 Carter,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,0,34,4
 Carter,D106,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -701,12 +701,12 @@ Carter,D106,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Carter,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D107,STRAIGHT PARTY,,,Republican,69,7,62,0
 Carter,D107,STRAIGHT PARTY,,,Democratic,38,11,21,6
-Carter,D107,Govenor,,REP,Daniel CAMERON,116,13,103,0
-Carter,D107,Govenor,,DEM,Andy BESHEAR,104,18,78,8
-Carter,D107,Govenor,,,"Fishback, Brian/ Fishback, William (W)",1,1,0,0
-Carter,D107,Govenor,,,Total Votes,221,32,181,8
-Carter,D107,Govenor,,,Under Votes,2,0,2,0
-Carter,D107,Govenor,,,Over Votes,0,0,0,0
+Carter,D107,Governor,,REP,Daniel CAMERON,116,13,103,0
+Carter,D107,Governor,,DEM,Andy BESHEAR,104,18,78,8
+Carter,D107,Governor,,,"Fishback, Brian/ Fishback, William (W)",1,1,0,0
+Carter,D107,Governor,,,Total Votes,221,32,181,8
+Carter,D107,Governor,,,Under Votes,2,0,2,0
+Carter,D107,Governor,,,Over Votes,0,0,0,0
 Carter,D107,Secretary of State,,REP,Michael ADAMS,137,12,125,0
 Carter,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,19,51,8
 Carter,D107,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",1,1,0,0
@@ -736,12 +736,12 @@ Carter,D107,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Carter,D107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D108,STRAIGHT PARTY,,,Republican,67,11,56,0
 Carter,D108,STRAIGHT PARTY,,,Democratic,52,3,48,1
-Carter,D108,Govenor,,REP,Daniel CAMERON,109,12,97,0
-Carter,D108,Govenor,,DEM,Andy BESHEAR,105,6,98,1
-Carter,D108,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,D108,Govenor,,,Total Votes,214,18,195,1
-Carter,D108,Govenor,,,Under Votes,2,0,2,0
-Carter,D108,Govenor,,,Over Votes,0,0,0,0
+Carter,D108,Governor,,REP,Daniel CAMERON,109,12,97,0
+Carter,D108,Governor,,DEM,Andy BESHEAR,105,6,98,1
+Carter,D108,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D108,Governor,,,Total Votes,214,18,195,1
+Carter,D108,Governor,,,Under Votes,2,0,2,0
+Carter,D108,Governor,,,Over Votes,0,0,0,0
 Carter,D108,Secretary of State,,REP,Michael ADAMS,125,13,112,0
 Carter,D108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,5,79,1
 Carter,D108,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -771,12 +771,12 @@ Carter,D108,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,D108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E101,STRAIGHT PARTY,,,Republican,86,22,62,2
 Carter,E101,STRAIGHT PARTY,,,Democratic,55,16,33,6
-Carter,E101,Govenor,,REP,Daniel CAMERON,137,28,107,2
-Carter,E101,Govenor,,DEM,Andy BESHEAR,143,33,99,11
-Carter,E101,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E101,Govenor,,,Total Votes,280,61,206,13
-Carter,E101,Govenor,,,Under Votes,1,0,1,0
-Carter,E101,Govenor,,,Over Votes,0,0,0,0
+Carter,E101,Governor,,REP,Daniel CAMERON,137,28,107,2
+Carter,E101,Governor,,DEM,Andy BESHEAR,143,33,99,11
+Carter,E101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E101,Governor,,,Total Votes,280,61,206,13
+Carter,E101,Governor,,,Under Votes,1,0,1,0
+Carter,E101,Governor,,,Over Votes,0,0,0,0
 Carter,E101,Secretary of State,,REP,Michael ADAMS,166,33,129,4
 Carter,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",111,27,75,9
 Carter,E101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -806,12 +806,12 @@ Carter,E101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Carter,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E102,STRAIGHT PARTY,,,Republican,95,11,84,0
 Carter,E102,STRAIGHT PARTY,,,Democratic,51,7,41,3
-Carter,E102,Govenor,,REP,Daniel CAMERON,169,14,153,2
-Carter,E102,Govenor,,DEM,Andy BESHEAR,110,10,96,4
-Carter,E102,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E102,Govenor,,,Total Votes,279,24,249,6
-Carter,E102,Govenor,,,Under Votes,1,0,1,0
-Carter,E102,Govenor,,,Over Votes,0,0,0,0
+Carter,E102,Governor,,REP,Daniel CAMERON,169,14,153,2
+Carter,E102,Governor,,DEM,Andy BESHEAR,110,10,96,4
+Carter,E102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E102,Governor,,,Total Votes,279,24,249,6
+Carter,E102,Governor,,,Under Votes,1,0,1,0
+Carter,E102,Governor,,,Over Votes,0,0,0,0
 Carter,E102,Secretary of State,,REP,Michael ADAMS,192,15,174,3
 Carter,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,9,69,3
 Carter,E102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -841,12 +841,12 @@ Carter,E102,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E103,STRAIGHT PARTY,,,Republican,96,31,61,4
 Carter,E103,STRAIGHT PARTY,,,Democratic,45,18,24,3
-Carter,E103,Govenor,,REP,Daniel CAMERON,134,40,89,5
-Carter,E103,Govenor,,DEM,Andy BESHEAR,141,38,100,3
-Carter,E103,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E103,Govenor,,,Total Votes,275,78,189,8
-Carter,E103,Govenor,,,Under Votes,3,0,2,1
-Carter,E103,Govenor,,,Over Votes,0,0,0,0
+Carter,E103,Governor,,REP,Daniel CAMERON,134,40,89,5
+Carter,E103,Governor,,DEM,Andy BESHEAR,141,38,100,3
+Carter,E103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E103,Governor,,,Total Votes,275,78,189,8
+Carter,E103,Governor,,,Under Votes,3,0,2,1
+Carter,E103,Governor,,,Over Votes,0,0,0,0
 Carter,E103,Secretary of State,,REP,Michael ADAMS,178,46,126,6
 Carter,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",91,31,57,3
 Carter,E103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -876,12 +876,12 @@ Carter,E103,Commissioner of Agriculture,,,Under Votes,10,1,8,1
 Carter,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E104,STRAIGHT PARTY,,,Republican,60,7,51,2
 Carter,E104,STRAIGHT PARTY,,,Democratic,3,1,2,0
-Carter,E104,Govenor,,REP,Daniel CAMERON,90,10,78,2
-Carter,E104,Govenor,,DEM,Andy BESHEAR,24,3,21,0
-Carter,E104,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E104,Govenor,,,Total Votes,114,13,99,2
-Carter,E104,Govenor,,,Under Votes,0,0,0,0
-Carter,E104,Govenor,,,Over Votes,0,0,0,0
+Carter,E104,Governor,,REP,Daniel CAMERON,90,10,78,2
+Carter,E104,Governor,,DEM,Andy BESHEAR,24,3,21,0
+Carter,E104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E104,Governor,,,Total Votes,114,13,99,2
+Carter,E104,Governor,,,Under Votes,0,0,0,0
+Carter,E104,Governor,,,Over Votes,0,0,0,0
 Carter,E104,Secretary of State,,REP,Michael ADAMS,103,11,90,2
 Carter,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",10,2,8,0
 Carter,E104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -911,12 +911,12 @@ Carter,E104,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Carter,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E105,STRAIGHT PARTY,,,Republican,90,14,75,1
 Carter,E105,STRAIGHT PARTY,,,Democratic,30,4,25,1
-Carter,E105,Govenor,,REP,Daniel CAMERON,119,14,104,1
-Carter,E105,Govenor,,DEM,Andy BESHEAR,72,13,56,3
-Carter,E105,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E105,Govenor,,,Total Votes,191,27,160,4
-Carter,E105,Govenor,,,Under Votes,2,0,2,0
-Carter,E105,Govenor,,,Over Votes,0,0,0,0
+Carter,E105,Governor,,REP,Daniel CAMERON,119,14,104,1
+Carter,E105,Governor,,DEM,Andy BESHEAR,72,13,56,3
+Carter,E105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E105,Governor,,,Total Votes,191,27,160,4
+Carter,E105,Governor,,,Under Votes,2,0,2,0
+Carter,E105,Governor,,,Over Votes,0,0,0,0
 Carter,E105,Secretary of State,,REP,Michael ADAMS,138,18,119,1
 Carter,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,9,42,3
 Carter,E105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
@@ -946,12 +946,12 @@ Carter,E105,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Carter,E105,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Carter,E106,STRAIGHT PARTY,,,Republican,79,8,71,0
 Carter,E106,STRAIGHT PARTY,,,Democratic,37,9,28,0
-Carter,E106,Govenor,,REP,Daniel CAMERON,121,12,108,1
-Carter,E106,Govenor,,DEM,Andy BESHEAR,102,24,78,0
-Carter,E106,Govenor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
-Carter,E106,Govenor,,,Total Votes,223,36,186,1
-Carter,E106,Govenor,,,Under Votes,2,0,2,0
-Carter,E106,Govenor,,,Over Votes,0,0,0,0
+Carter,E106,Governor,,REP,Daniel CAMERON,121,12,108,1
+Carter,E106,Governor,,DEM,Andy BESHEAR,102,24,78,0
+Carter,E106,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E106,Governor,,,Total Votes,223,36,186,1
+Carter,E106,Governor,,,Under Votes,2,0,2,0
+Carter,E106,Governor,,,Over Votes,0,0,0,0
 Carter,E106,Secretary of State,,REP,Michael ADAMS,152,20,131,1
 Carter,E106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,16,54,0
 Carter,E106,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0

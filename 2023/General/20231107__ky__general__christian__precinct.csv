@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Christian,A101,STRAIGHT PARTY,,,Republican,8,0,8,0
 Christian,A101,STRAIGHT PARTY,,,Democratic,42,8,31,3
-Christian,A101,Govenor,,REP,Daniel CAMERON,14,1,13,0
-Christian,A101,Govenor,,DEM,Andy BESHEAR,74,13,57,4
-Christian,A101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,A101,Govenor,,,Total Votes,88,14,70,4
-Christian,A101,Govenor,,,Under Votes,1,0,1,0
-Christian,A101,Govenor,,,Over Votes,0,0,0,0
+Christian,A101,Governor,,REP,Daniel CAMERON,14,1,13,0
+Christian,A101,Governor,,DEM,Andy BESHEAR,74,13,57,4
+Christian,A101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,A101,Governor,,,Total Votes,88,14,70,4
+Christian,A101,Governor,,,Under Votes,1,0,1,0
+Christian,A101,Governor,,,Over Votes,0,0,0,0
 Christian,A101,Secretary of State,,REP,Michael ADAMS,20,2,18,0
 Christian,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,12,52,4
 Christian,A101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -36,12 +36,12 @@ Christian,A101,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Christian,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,A102,STRAIGHT PARTY,,,Republican,0,0,0,0
 Christian,A102,STRAIGHT PARTY,,,Democratic,103,34,69,0
-Christian,A102,Govenor,,REP,Daniel CAMERON,2,1,1,0
-Christian,A102,Govenor,,DEM,Andy BESHEAR,145,48,96,1
-Christian,A102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,A102,Govenor,,,Total Votes,147,49,97,1
-Christian,A102,Govenor,,,Under Votes,0,0,0,0
-Christian,A102,Govenor,,,Over Votes,0,0,0,0
+Christian,A102,Governor,,REP,Daniel CAMERON,2,1,1,0
+Christian,A102,Governor,,DEM,Andy BESHEAR,145,48,96,1
+Christian,A102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,A102,Governor,,,Total Votes,147,49,97,1
+Christian,A102,Governor,,,Under Votes,0,0,0,0
+Christian,A102,Governor,,,Over Votes,0,0,0,0
 Christian,A102,Secretary of State,,REP,Michael ADAMS,3,2,1,0
 Christian,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",141,46,94,1
 Christian,A102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -71,12 +71,12 @@ Christian,A102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
 Christian,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,A103,STRAIGHT PARTY,,,Republican,8,2,6,0
 Christian,A103,STRAIGHT PARTY,,,Democratic,164,41,119,4
-Christian,A103,Govenor,,REP,Daniel CAMERON,17,5,12,0
-Christian,A103,Govenor,,DEM,Andy BESHEAR,230,53,168,9
-Christian,A103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,A103,Govenor,,,Total Votes,247,58,180,9
-Christian,A103,Govenor,,,Under Votes,0,0,0,0
-Christian,A103,Govenor,,,Over Votes,0,0,0,0
+Christian,A103,Governor,,REP,Daniel CAMERON,17,5,12,0
+Christian,A103,Governor,,DEM,Andy BESHEAR,230,53,168,9
+Christian,A103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,A103,Governor,,,Total Votes,247,58,180,9
+Christian,A103,Governor,,,Under Votes,0,0,0,0
+Christian,A103,Governor,,,Over Votes,0,0,0,0
 Christian,A103,Secretary of State,,REP,Michael ADAMS,20,8,11,1
 Christian,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",222,49,165,8
 Christian,A103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -106,12 +106,12 @@ Christian,A103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Christian,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,A104,STRAIGHT PARTY,,,Republican,71,12,59,0
 Christian,A104,STRAIGHT PARTY,,,Democratic,75,17,57,1
-Christian,A104,Govenor,,REP,Daniel CAMERON,121,23,98,0
-Christian,A104,Govenor,,DEM,Andy BESHEAR,115,25,87,3
-Christian,A104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,A104,Govenor,,,Total Votes,236,48,185,3
-Christian,A104,Govenor,,,Under Votes,0,0,0,0
-Christian,A104,Govenor,,,Over Votes,0,0,0,0
+Christian,A104,Governor,,REP,Daniel CAMERON,121,23,98,0
+Christian,A104,Governor,,DEM,Andy BESHEAR,115,25,87,3
+Christian,A104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,A104,Governor,,,Total Votes,236,48,185,3
+Christian,A104,Governor,,,Under Votes,0,0,0,0
+Christian,A104,Governor,,,Over Votes,0,0,0,0
 Christian,A104,Secretary of State,,REP,Michael ADAMS,127,21,106,0
 Christian,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",107,27,77,3
 Christian,A104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -141,12 +141,12 @@ Christian,A104,Commissioner of Agriculture,,,Under Votes,2,1,1,0
 Christian,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,A105,STRAIGHT PARTY,,,Republican,16,1,15,0
 Christian,A105,STRAIGHT PARTY,,,Democratic,60,18,41,1
-Christian,A105,Govenor,,REP,Daniel CAMERON,29,4,25,0
-Christian,A105,Govenor,,DEM,Andy BESHEAR,101,36,63,2
-Christian,A105,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,A105,Govenor,,,Total Votes,130,40,88,2
-Christian,A105,Govenor,,,Under Votes,1,0,1,0
-Christian,A105,Govenor,,,Over Votes,0,0,0,0
+Christian,A105,Governor,,REP,Daniel CAMERON,29,4,25,0
+Christian,A105,Governor,,DEM,Andy BESHEAR,101,36,63,2
+Christian,A105,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,A105,Governor,,,Total Votes,130,40,88,2
+Christian,A105,Governor,,,Under Votes,1,0,1,0
+Christian,A105,Governor,,,Over Votes,0,0,0,0
 Christian,A105,Secretary of State,,REP,Michael ADAMS,33,8,25,0
 Christian,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",96,32,62,2
 Christian,A105,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -176,12 +176,12 @@ Christian,A105,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Christian,A105,Commissioner of Agriculture,,,Over Votes,1,0,0,1
 Christian,B101,STRAIGHT PARTY,,,Republican,65,16,48,1
 Christian,B101,STRAIGHT PARTY,,,Democratic,126,35,83,8
-Christian,B101,Govenor,,REP,Daniel CAMERON,125,39,85,1
-Christian,B101,Govenor,,DEM,Andy BESHEAR,245,73,160,12
-Christian,B101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,B101,Govenor,,,Total Votes,370,112,245,13
-Christian,B101,Govenor,,,Under Votes,2,0,2,0
-Christian,B101,Govenor,,,Over Votes,0,0,0,0
+Christian,B101,Governor,,REP,Daniel CAMERON,125,39,85,1
+Christian,B101,Governor,,DEM,Andy BESHEAR,245,73,160,12
+Christian,B101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,B101,Governor,,,Total Votes,370,112,245,13
+Christian,B101,Governor,,,Under Votes,2,0,2,0
+Christian,B101,Governor,,,Over Votes,0,0,0,0
 Christian,B101,Secretary of State,,REP,Michael ADAMS,164,58,105,1
 Christian,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",203,53,138,12
 Christian,B101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -211,12 +211,12 @@ Christian,B101,Commissioner of Agriculture,,,Under Votes,9,3,6,0
 Christian,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,B102,STRAIGHT PARTY,,,Republican,88,27,60,1
 Christian,B102,STRAIGHT PARTY,,,Democratic,152,48,103,1
-Christian,B102,Govenor,,REP,Daniel CAMERON,140,44,94,2
-Christian,B102,Govenor,,DEM,Andy BESHEAR,250,74,171,5
-Christian,B102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,B102,Govenor,,,Total Votes,390,118,265,7
-Christian,B102,Govenor,,,Under Votes,1,0,1,0
-Christian,B102,Govenor,,,Over Votes,0,0,0,0
+Christian,B102,Governor,,REP,Daniel CAMERON,140,44,94,2
+Christian,B102,Governor,,DEM,Andy BESHEAR,250,74,171,5
+Christian,B102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,B102,Governor,,,Total Votes,390,118,265,7
+Christian,B102,Governor,,,Under Votes,1,0,1,0
+Christian,B102,Governor,,,Over Votes,0,0,0,0
 Christian,B102,Secretary of State,,REP,Michael ADAMS,152,46,103,3
 Christian,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",235,71,160,4
 Christian,B102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -246,12 +246,12 @@ Christian,B102,Commissioner of Agriculture,,,Under Votes,9,3,6,0
 Christian,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,B103,STRAIGHT PARTY,,,Republican,189,26,163,0
 Christian,B103,STRAIGHT PARTY,,,Democratic,33,5,27,1
-Christian,B103,Govenor,,REP,Daniel CAMERON,277,34,242,1
-Christian,B103,Govenor,,DEM,Andy BESHEAR,107,15,90,2
-Christian,B103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,B103,Govenor,,,Total Votes,384,49,332,3
-Christian,B103,Govenor,,,Under Votes,1,0,1,0
-Christian,B103,Govenor,,,Over Votes,0,0,0,0
+Christian,B103,Governor,,REP,Daniel CAMERON,277,34,242,1
+Christian,B103,Governor,,DEM,Andy BESHEAR,107,15,90,2
+Christian,B103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,B103,Governor,,,Total Votes,384,49,332,3
+Christian,B103,Governor,,,Under Votes,1,0,1,0
+Christian,B103,Governor,,,Over Votes,0,0,0,0
 Christian,B103,Secretary of State,,REP,Michael ADAMS,311,39,271,1
 Christian,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",67,10,55,2
 Christian,B103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -281,12 +281,12 @@ Christian,B103,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Christian,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,B104,STRAIGHT PARTY,,,Republican,94,20,73,1
 Christian,B104,STRAIGHT PARTY,,,Democratic,25,2,21,2
-Christian,B104,Govenor,,REP,Daniel CAMERON,146,36,109,1
-Christian,B104,Govenor,,DEM,Andy BESHEAR,46,7,37,2
-Christian,B104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,B104,Govenor,,,Total Votes,192,43,146,3
-Christian,B104,Govenor,,,Under Votes,0,0,0,0
-Christian,B104,Govenor,,,Over Votes,0,0,0,0
+Christian,B104,Governor,,REP,Daniel CAMERON,146,36,109,1
+Christian,B104,Governor,,DEM,Andy BESHEAR,46,7,37,2
+Christian,B104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,B104,Governor,,,Total Votes,192,43,146,3
+Christian,B104,Governor,,,Under Votes,0,0,0,0
+Christian,B104,Governor,,,Over Votes,0,0,0,0
 Christian,B104,Secretary of State,,REP,Michael ADAMS,150,37,112,1
 Christian,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",39,6,31,2
 Christian,B104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -316,12 +316,12 @@ Christian,B104,Commissioner of Agriculture,,,Under Votes,4,1,3,0
 Christian,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C101,STRAIGHT PARTY,,,Republican,48,14,32,2
 Christian,C101,STRAIGHT PARTY,,,Democratic,34,9,25,0
-Christian,C101,Govenor,,REP,Daniel CAMERON,76,22,52,2
-Christian,C101,Govenor,,DEM,Andy BESHEAR,76,20,56,0
-Christian,C101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C101,Govenor,,,Total Votes,152,42,108,2
-Christian,C101,Govenor,,,Under Votes,0,0,0,0
-Christian,C101,Govenor,,,Over Votes,0,0,0,0
+Christian,C101,Governor,,REP,Daniel CAMERON,76,22,52,2
+Christian,C101,Governor,,DEM,Andy BESHEAR,76,20,56,0
+Christian,C101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C101,Governor,,,Total Votes,152,42,108,2
+Christian,C101,Governor,,,Under Votes,0,0,0,0
+Christian,C101,Governor,,,Over Votes,0,0,0,0
 Christian,C101,Secretary of State,,REP,Michael ADAMS,85,24,59,2
 Christian,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,16,48,0
 Christian,C101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -351,12 +351,12 @@ Christian,C101,Commissioner of Agriculture,,,Under Votes,5,2,3,0
 Christian,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C102,STRAIGHT PARTY,,,Republican,18,8,10,0
 Christian,C102,STRAIGHT PARTY,,,Democratic,66,21,45,0
-Christian,C102,Govenor,,REP,Daniel CAMERON,23,9,14,0
-Christian,C102,Govenor,,DEM,Andy BESHEAR,101,30,71,0
-Christian,C102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C102,Govenor,,,Total Votes,124,39,85,0
-Christian,C102,Govenor,,,Under Votes,0,0,0,0
-Christian,C102,Govenor,,,Over Votes,0,0,0,0
+Christian,C102,Governor,,REP,Daniel CAMERON,23,9,14,0
+Christian,C102,Governor,,DEM,Andy BESHEAR,101,30,71,0
+Christian,C102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C102,Governor,,,Total Votes,124,39,85,0
+Christian,C102,Governor,,,Under Votes,0,0,0,0
+Christian,C102,Governor,,,Over Votes,0,0,0,0
 Christian,C102,Secretary of State,,REP,Michael ADAMS,25,10,15,0
 Christian,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",96,28,68,0
 Christian,C102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -386,12 +386,12 @@ Christian,C102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Christian,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C103,STRAIGHT PARTY,,,Republican,61,13,47,1
 Christian,C103,STRAIGHT PARTY,,,Democratic,55,14,39,2
-Christian,C103,Govenor,,REP,Daniel CAMERON,93,22,70,1
-Christian,C103,Govenor,,DEM,Andy BESHEAR,99,27,68,4
-Christian,C103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C103,Govenor,,,Total Votes,192,49,138,5
-Christian,C103,Govenor,,,Under Votes,0,0,0,0
-Christian,C103,Govenor,,,Over Votes,0,0,0,0
+Christian,C103,Governor,,REP,Daniel CAMERON,93,22,70,1
+Christian,C103,Governor,,DEM,Andy BESHEAR,99,27,68,4
+Christian,C103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C103,Governor,,,Total Votes,192,49,138,5
+Christian,C103,Governor,,,Under Votes,0,0,0,0
+Christian,C103,Governor,,,Over Votes,0,0,0,0
 Christian,C103,Secretary of State,,REP,Michael ADAMS,115,29,83,3
 Christian,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",75,20,53,2
 Christian,C103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -421,12 +421,12 @@ Christian,C103,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Christian,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C104,STRAIGHT PARTY,,,Republican,118,19,97,2
 Christian,C104,STRAIGHT PARTY,,,Democratic,42,11,28,3
-Christian,C104,Govenor,,REP,Daniel CAMERON,207,32,173,2
-Christian,C104,Govenor,,DEM,Andy BESHEAR,114,30,79,5
-Christian,C104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C104,Govenor,,,Total Votes,321,62,252,7
-Christian,C104,Govenor,,,Under Votes,2,1,0,1
-Christian,C104,Govenor,,,Over Votes,0,0,0,0
+Christian,C104,Governor,,REP,Daniel CAMERON,207,32,173,2
+Christian,C104,Governor,,DEM,Andy BESHEAR,114,30,79,5
+Christian,C104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C104,Governor,,,Total Votes,321,62,252,7
+Christian,C104,Governor,,,Under Votes,2,1,0,1
+Christian,C104,Governor,,,Over Votes,0,0,0,0
 Christian,C104,Secretary of State,,REP,Michael ADAMS,230,37,189,4
 Christian,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,23,58,4
 Christian,C104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -456,12 +456,12 @@ Christian,C104,Commissioner of Agriculture,,,Under Votes,12,2,10,0
 Christian,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C105,STRAIGHT PARTY,,,Republican,344,42,299,3
 Christian,C105,STRAIGHT PARTY,,,Democratic,71,16,52,3
-Christian,C105,Govenor,,REP,Daniel CAMERON,591,69,511,11
-Christian,C105,Govenor,,DEM,Andy BESHEAR,179,44,129,6
-Christian,C105,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C105,Govenor,,,Total Votes,770,113,640,17
-Christian,C105,Govenor,,,Under Votes,3,0,3,0
-Christian,C105,Govenor,,,Over Votes,0,0,0,0
+Christian,C105,Governor,,REP,Daniel CAMERON,591,69,511,11
+Christian,C105,Governor,,DEM,Andy BESHEAR,179,44,129,6
+Christian,C105,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C105,Governor,,,Total Votes,770,113,640,17
+Christian,C105,Governor,,,Under Votes,3,0,3,0
+Christian,C105,Governor,,,Over Votes,0,0,0,0
 Christian,C105,Secretary of State,,REP,Michael ADAMS,630,80,538,12
 Christian,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",125,30,90,5
 Christian,C105,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -491,12 +491,12 @@ Christian,C105,Commissioner of Agriculture,,,Under Votes,19,3,16,0
 Christian,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,C106,STRAIGHT PARTY,,,Republican,135,21,109,5
 Christian,C106,STRAIGHT PARTY,,,Democratic,56,19,35,2
-Christian,C106,Govenor,,REP,Daniel CAMERON,221,51,165,5
-Christian,C106,Govenor,,DEM,Andy BESHEAR,166,52,108,6
-Christian,C106,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,C106,Govenor,,,Total Votes,387,103,273,11
-Christian,C106,Govenor,,,Under Votes,3,0,3,0
-Christian,C106,Govenor,,,Over Votes,0,0,0,0
+Christian,C106,Governor,,REP,Daniel CAMERON,221,51,165,5
+Christian,C106,Governor,,DEM,Andy BESHEAR,166,52,108,6
+Christian,C106,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,C106,Governor,,,Total Votes,387,103,273,11
+Christian,C106,Governor,,,Under Votes,3,0,3,0
+Christian,C106,Governor,,,Over Votes,0,0,0,0
 Christian,C106,Secretary of State,,REP,Michael ADAMS,265,59,200,6
 Christian,C106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",119,43,71,5
 Christian,C106,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -526,12 +526,12 @@ Christian,C106,Commissioner of Agriculture,,,Under Votes,13,4,9,0
 Christian,C106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D101,STRAIGHT PARTY,,,Republican,148,25,121,2
 Christian,D101,STRAIGHT PARTY,,,Democratic,52,15,36,1
-Christian,D101,Govenor,,REP,Daniel CAMERON,232,50,176,6
-Christian,D101,Govenor,,DEM,Andy BESHEAR,139,35,100,4
-Christian,D101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D101,Govenor,,,Total Votes,371,85,276,10
-Christian,D101,Govenor,,,Under Votes,0,0,0,0
-Christian,D101,Govenor,,,Over Votes,0,0,0,0
+Christian,D101,Governor,,REP,Daniel CAMERON,232,50,176,6
+Christian,D101,Governor,,DEM,Andy BESHEAR,139,35,100,4
+Christian,D101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D101,Governor,,,Total Votes,371,85,276,10
+Christian,D101,Governor,,,Under Votes,0,0,0,0
+Christian,D101,Governor,,,Over Votes,0,0,0,0
 Christian,D101,Secretary of State,,REP,Michael ADAMS,268,62,199,7
 Christian,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",97,23,72,2
 Christian,D101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -561,12 +561,12 @@ Christian,D101,Commissioner of Agriculture,,,Under Votes,13,3,9,1
 Christian,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D102,STRAIGHT PARTY,,,Republican,157,36,117,4
 Christian,D102,STRAIGHT PARTY,,,Democratic,68,20,44,4
-Christian,D102,Govenor,,REP,Daniel CAMERON,263,67,192,4
-Christian,D102,Govenor,,DEM,Andy BESHEAR,188,47,128,13
-Christian,D102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D102,Govenor,,,Total Votes,451,114,320,17
-Christian,D102,Govenor,,,Under Votes,1,0,1,0
-Christian,D102,Govenor,,,Over Votes,0,0,0,0
+Christian,D102,Governor,,REP,Daniel CAMERON,263,67,192,4
+Christian,D102,Governor,,DEM,Andy BESHEAR,188,47,128,13
+Christian,D102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D102,Governor,,,Total Votes,451,114,320,17
+Christian,D102,Governor,,,Under Votes,1,0,1,0
+Christian,D102,Governor,,,Over Votes,0,0,0,0
 Christian,D102,Secretary of State,,REP,Michael ADAMS,307,77,222,8
 Christian,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,35,85,8
 Christian,D102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -596,12 +596,12 @@ Christian,D102,Commissioner of Agriculture,,,Under Votes,18,4,13,1
 Christian,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D103,STRAIGHT PARTY,,,Republican,132,40,91,1
 Christian,D103,STRAIGHT PARTY,,,Democratic,72,25,45,2
-Christian,D103,Govenor,,REP,Daniel CAMERON,238,63,170,5
-Christian,D103,Govenor,,DEM,Andy BESHEAR,161,52,100,9
-Christian,D103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D103,Govenor,,,Total Votes,399,115,270,14
-Christian,D103,Govenor,,,Under Votes,2,0,2,0
-Christian,D103,Govenor,,,Over Votes,0,0,0,0
+Christian,D103,Governor,,REP,Daniel CAMERON,238,63,170,5
+Christian,D103,Governor,,DEM,Andy BESHEAR,161,52,100,9
+Christian,D103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D103,Governor,,,Total Votes,399,115,270,14
+Christian,D103,Governor,,,Under Votes,2,0,2,0
+Christian,D103,Governor,,,Over Votes,0,0,0,0
 Christian,D103,Secretary of State,,REP,Michael ADAMS,276,72,198,6
 Christian,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,43,69,8
 Christian,D103,Secretary of State,,,Kenneth C. Moellman Jr (W),2,0,2,0
@@ -631,12 +631,12 @@ Christian,D103,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Christian,D103,Commissioner of Agriculture,,,Over Votes,2,0,0,2
 Christian,D104,STRAIGHT PARTY,,,Republican,106,13,92,1
 Christian,D104,STRAIGHT PARTY,,,Democratic,29,9,19,1
-Christian,D104,Govenor,,REP,Daniel CAMERON,189,18,169,2
-Christian,D104,Govenor,,DEM,Andy BESHEAR,76,15,57,4
-Christian,D104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D104,Govenor,,,Total Votes,265,33,226,6
-Christian,D104,Govenor,,,Under Votes,2,0,2,0
-Christian,D104,Govenor,,,Over Votes,0,0,0,0
+Christian,D104,Governor,,REP,Daniel CAMERON,189,18,169,2
+Christian,D104,Governor,,DEM,Andy BESHEAR,76,15,57,4
+Christian,D104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D104,Governor,,,Total Votes,265,33,226,6
+Christian,D104,Governor,,,Under Votes,2,0,2,0
+Christian,D104,Governor,,,Over Votes,0,0,0,0
 Christian,D104,Secretary of State,,REP,Michael ADAMS,210,21,184,5
 Christian,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",52,11,40,1
 Christian,D104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -666,12 +666,12 @@ Christian,D104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Christian,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D105,STRAIGHT PARTY,,,Republican,63,8,55,0
 Christian,D105,STRAIGHT PARTY,,,Democratic,9,0,9,0
-Christian,D105,Govenor,,REP,Daniel CAMERON,116,14,102,0
-Christian,D105,Govenor,,DEM,Andy BESHEAR,25,3,22,0
-Christian,D105,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D105,Govenor,,,Total Votes,141,17,124,0
-Christian,D105,Govenor,,,Under Votes,0,0,0,0
-Christian,D105,Govenor,,,Over Votes,0,0,0,0
+Christian,D105,Governor,,REP,Daniel CAMERON,116,14,102,0
+Christian,D105,Governor,,DEM,Andy BESHEAR,25,3,22,0
+Christian,D105,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D105,Governor,,,Total Votes,141,17,124,0
+Christian,D105,Governor,,,Under Votes,0,0,0,0
+Christian,D105,Governor,,,Over Votes,0,0,0,0
 Christian,D105,Secretary of State,,REP,Michael ADAMS,116,15,101,0
 Christian,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",16,2,14,0
 Christian,D105,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -701,12 +701,12 @@ Christian,D105,Commissioner of Agriculture,,,Under Votes,7,1,6,0
 Christian,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D106,STRAIGHT PARTY,,,Republican,71,23,47,1
 Christian,D106,STRAIGHT PARTY,,,Democratic,15,7,7,1
-Christian,D106,Govenor,,REP,Daniel CAMERON,122,30,91,1
-Christian,D106,Govenor,,DEM,Andy BESHEAR,45,19,24,2
-Christian,D106,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,D106,Govenor,,,Total Votes,167,49,115,3
-Christian,D106,Govenor,,,Under Votes,1,0,1,0
-Christian,D106,Govenor,,,Over Votes,0,0,0,0
+Christian,D106,Governor,,REP,Daniel CAMERON,122,30,91,1
+Christian,D106,Governor,,DEM,Andy BESHEAR,45,19,24,2
+Christian,D106,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,D106,Governor,,,Total Votes,167,49,115,3
+Christian,D106,Governor,,,Under Votes,1,0,1,0
+Christian,D106,Governor,,,Over Votes,0,0,0,0
 Christian,D106,Secretary of State,,REP,Michael ADAMS,138,37,99,2
 Christian,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,11,17,1
 Christian,D106,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -736,12 +736,12 @@ Christian,D106,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Christian,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,D107,STRAIGHT PARTY,,,Republican,156,30,121,5
 Christian,D107,STRAIGHT PARTY,,,Democratic,104,29,74,1
-Christian,D107,Govenor,,REP,Daniel CAMERON,269,57,207,5
-Christian,D107,Govenor,,DEM,Andy BESHEAR,255,75,171,9
-Christian,D107,Govenor,,,Brian Fishback and William Fishback,1,0,1,0
-Christian,D107,Govenor,,,Total Votes,525,132,379,14
-Christian,D107,Govenor,,,Under Votes,2,0,2,0
-Christian,D107,Govenor,,,Over Votes,0,0,0,0
+Christian,D107,Governor,,REP,Daniel CAMERON,269,57,207,5
+Christian,D107,Governor,,DEM,Andy BESHEAR,255,75,171,9
+Christian,D107,Governor,,,Brian Fishback and William Fishback,1,0,1,0
+Christian,D107,Governor,,,Total Votes,525,132,379,14
+Christian,D107,Governor,,,Under Votes,2,0,2,0
+Christian,D107,Governor,,,Over Votes,0,0,0,0
 Christian,D107,Secretary of State,,REP,Michael ADAMS,319,69,242,8
 Christian,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",200,62,133,5
 Christian,D107,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -771,12 +771,12 @@ Christian,D107,Commissioner of Agriculture,,,Under Votes,12,2,9,1
 Christian,D107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,E101,STRAIGHT PARTY,,,Republican,37,8,28,1
 Christian,E101,STRAIGHT PARTY,,,Democratic,79,12,65,2
-Christian,E101,Govenor,,REP,Daniel CAMERON,63,19,43,1
-Christian,E101,Govenor,,DEM,Andy BESHEAR,130,25,99,6
-Christian,E101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,E101,Govenor,,,Total Votes,193,44,142,7
-Christian,E101,Govenor,,,Under Votes,0,0,0,0
-Christian,E101,Govenor,,,Over Votes,0,0,0,0
+Christian,E101,Governor,,REP,Daniel CAMERON,63,19,43,1
+Christian,E101,Governor,,DEM,Andy BESHEAR,130,25,99,6
+Christian,E101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,E101,Governor,,,Total Votes,193,44,142,7
+Christian,E101,Governor,,,Under Votes,0,0,0,0
+Christian,E101,Governor,,,Over Votes,0,0,0,0
 Christian,E101,Secretary of State,,REP,Michael ADAMS,76,25,50,1
 Christian,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,19,91,6
 Christian,E101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -806,12 +806,12 @@ Christian,E101,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Christian,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,E102,STRAIGHT PARTY,,,Republican,111,22,87,2
 Christian,E102,STRAIGHT PARTY,,,Democratic,82,22,56,4
-Christian,E102,Govenor,,REP,Daniel CAMERON,189,45,140,4
-Christian,E102,Govenor,,DEM,Andy BESHEAR,203,55,139,9
-Christian,E102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,E102,Govenor,,,Total Votes,392,100,279,13
-Christian,E102,Govenor,,,Under Votes,0,0,0,0
-Christian,E102,Govenor,,,Over Votes,0,0,0,0
+Christian,E102,Governor,,REP,Daniel CAMERON,189,45,140,4
+Christian,E102,Governor,,DEM,Andy BESHEAR,203,55,139,9
+Christian,E102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,E102,Governor,,,Total Votes,392,100,279,13
+Christian,E102,Governor,,,Under Votes,0,0,0,0
+Christian,E102,Governor,,,Over Votes,0,0,0,0
 Christian,E102,Secretary of State,,REP,Michael ADAMS,234,58,172,4
 Christian,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",155,42,104,9
 Christian,E102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -841,12 +841,12 @@ Christian,E102,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Christian,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,E103,STRAIGHT PARTY,,,Republican,142,31,110,1
 Christian,E103,STRAIGHT PARTY,,,Democratic,75,17,57,1
-Christian,E103,Govenor,,REP,Daniel CAMERON,222,46,175,1
-Christian,E103,Govenor,,DEM,Andy BESHEAR,183,55,126,2
-Christian,E103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,E103,Govenor,,,Total Votes,405,101,301,3
-Christian,E103,Govenor,,,Under Votes,1,0,1,0
-Christian,E103,Govenor,,,Over Votes,0,0,0,0
+Christian,E103,Governor,,REP,Daniel CAMERON,222,46,175,1
+Christian,E103,Governor,,DEM,Andy BESHEAR,183,55,126,2
+Christian,E103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,E103,Governor,,,Total Votes,405,101,301,3
+Christian,E103,Governor,,,Under Votes,1,0,1,0
+Christian,E103,Governor,,,Over Votes,0,0,0,0
 Christian,E103,Secretary of State,,REP,Michael ADAMS,257,59,196,2
 Christian,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",146,40,105,1
 Christian,E103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -876,12 +876,12 @@ Christian,E103,Commissioner of Agriculture,,,Under Votes,6,2,4,0
 Christian,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,E104,STRAIGHT PARTY,,,Republican,101,32,67,2
 Christian,E104,STRAIGHT PARTY,,,Democratic,66,16,49,1
-Christian,E104,Govenor,,REP,Daniel CAMERON,151,36,113,2
-Christian,E104,Govenor,,DEM,Andy BESHEAR,121,27,89,5
-Christian,E104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,E104,Govenor,,,Total Votes,272,63,202,7
-Christian,E104,Govenor,,,Under Votes,0,0,0,0
-Christian,E104,Govenor,,,Over Votes,0,0,0,0
+Christian,E104,Governor,,REP,Daniel CAMERON,151,36,113,2
+Christian,E104,Governor,,DEM,Andy BESHEAR,121,27,89,5
+Christian,E104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,E104,Governor,,,Total Votes,272,63,202,7
+Christian,E104,Governor,,,Under Votes,0,0,0,0
+Christian,E104,Governor,,,Over Votes,0,0,0,0
 Christian,E104,Secretary of State,,REP,Michael ADAMS,155,37,116,2
 Christian,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",109,24,80,5
 Christian,E104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -911,12 +911,12 @@ Christian,E104,Commissioner of Agriculture,,,Under Votes,11,2,9,0
 Christian,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,E105,STRAIGHT PARTY,,,Republican,49,6,41,2
 Christian,E105,STRAIGHT PARTY,,,Democratic,59,11,47,1
-Christian,E105,Govenor,,REP,Daniel CAMERON,82,13,67,2
-Christian,E105,Govenor,,DEM,Andy BESHEAR,110,25,84,1
-Christian,E105,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,E105,Govenor,,,Total Votes,192,38,151,3
-Christian,E105,Govenor,,,Under Votes,0,0,0,0
-Christian,E105,Govenor,,,Over Votes,0,0,0,0
+Christian,E105,Governor,,REP,Daniel CAMERON,82,13,67,2
+Christian,E105,Governor,,DEM,Andy BESHEAR,110,25,84,1
+Christian,E105,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,E105,Governor,,,Total Votes,192,38,151,3
+Christian,E105,Governor,,,Under Votes,0,0,0,0
+Christian,E105,Governor,,,Over Votes,0,0,0,0
 Christian,E105,Secretary of State,,REP,Michael ADAMS,95,19,74,2
 Christian,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",90,18,71,1
 Christian,E105,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -946,12 +946,12 @@ Christian,E105,Commissioner of Agriculture,,,Under Votes,7,2,5,0
 Christian,E105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,F101,STRAIGHT PARTY,,,Republican,41,9,32,0
 Christian,F101,STRAIGHT PARTY,,,Democratic,8,2,6,0
-Christian,F101,Govenor,,REP,Daniel CAMERON,71,13,56,2
-Christian,F101,Govenor,,DEM,Andy BESHEAR,14,5,9,0
-Christian,F101,Govenor,,,Brian Fishback and William Fishback,1,0,1,0
-Christian,F101,Govenor,,,Total Votes,86,18,66,2
-Christian,F101,Govenor,,,Under Votes,1,0,1,0
-Christian,F101,Govenor,,,Over Votes,0,0,0,0
+Christian,F101,Governor,,REP,Daniel CAMERON,71,13,56,2
+Christian,F101,Governor,,DEM,Andy BESHEAR,14,5,9,0
+Christian,F101,Governor,,,Brian Fishback and William Fishback,1,0,1,0
+Christian,F101,Governor,,,Total Votes,86,18,66,2
+Christian,F101,Governor,,,Under Votes,1,0,1,0
+Christian,F101,Governor,,,Over Votes,0,0,0,0
 Christian,F101,Secretary of State,,REP,Michael ADAMS,72,14,56,2
 Christian,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",12,4,8,0
 Christian,F101,Secretary of State,,,Kenneth C. Moellman Jr (W),1,0,1,0
@@ -981,12 +981,12 @@ Christian,F101,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Christian,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,F102,STRAIGHT PARTY,,,Republican,113,5,105,3
 Christian,F102,STRAIGHT PARTY,,,Democratic,75,6,67,2
-Christian,F102,Govenor,,REP,Daniel CAMERON,200,9,188,3
-Christian,F102,Govenor,,DEM,Andy BESHEAR,125,8,115,2
-Christian,F102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,F102,Govenor,,,Total Votes,325,17,303,5
-Christian,F102,Govenor,,,Under Votes,1,0,1,0
-Christian,F102,Govenor,,,Over Votes,1,0,1,0
+Christian,F102,Governor,,REP,Daniel CAMERON,200,9,188,3
+Christian,F102,Governor,,DEM,Andy BESHEAR,125,8,115,2
+Christian,F102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,F102,Governor,,,Total Votes,325,17,303,5
+Christian,F102,Governor,,,Under Votes,1,0,1,0
+Christian,F102,Governor,,,Over Votes,1,0,1,0
 Christian,F102,Secretary of State,,REP,Michael ADAMS,211,9,199,3
 Christian,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",109,8,99,2
 Christian,F102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1016,12 +1016,12 @@ Christian,F102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Christian,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,F103,STRAIGHT PARTY,,,Republican,51,6,45,0
 Christian,F103,STRAIGHT PARTY,,,Democratic,7,3,4,0
-Christian,F103,Govenor,,REP,Daniel CAMERON,78,9,67,2
-Christian,F103,Govenor,,DEM,Andy BESHEAR,24,4,20,0
-Christian,F103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,F103,Govenor,,,Total Votes,102,13,87,2
-Christian,F103,Govenor,,,Under Votes,0,0,0,0
-Christian,F103,Govenor,,,Over Votes,0,0,0,0
+Christian,F103,Governor,,REP,Daniel CAMERON,78,9,67,2
+Christian,F103,Governor,,DEM,Andy BESHEAR,24,4,20,0
+Christian,F103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,F103,Governor,,,Total Votes,102,13,87,2
+Christian,F103,Governor,,,Under Votes,0,0,0,0
+Christian,F103,Governor,,,Over Votes,0,0,0,0
 Christian,F103,Secretary of State,,REP,Michael ADAMS,87,9,76,2
 Christian,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",14,4,10,0
 Christian,F103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1051,12 +1051,12 @@ Christian,F103,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Christian,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,F104,STRAIGHT PARTY,,,Republican,96,9,87,0
 Christian,F104,STRAIGHT PARTY,,,Democratic,79,4,75,0
-Christian,F104,Govenor,,REP,Daniel CAMERON,135,12,123,0
-Christian,F104,Govenor,,DEM,Andy BESHEAR,132,9,122,1
-Christian,F104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,F104,Govenor,,,Total Votes,267,21,245,1
-Christian,F104,Govenor,,,Under Votes,0,0,0,0
-Christian,F104,Govenor,,,Over Votes,0,0,0,0
+Christian,F104,Governor,,REP,Daniel CAMERON,135,12,123,0
+Christian,F104,Governor,,DEM,Andy BESHEAR,132,9,122,1
+Christian,F104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,F104,Governor,,,Total Votes,267,21,245,1
+Christian,F104,Governor,,,Under Votes,0,0,0,0
+Christian,F104,Governor,,,Over Votes,0,0,0,0
 Christian,F104,Secretary of State,,REP,Michael ADAMS,148,15,132,1
 Christian,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",118,6,112,0
 Christian,F104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1086,12 +1086,12 @@ Christian,F104,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Christian,F104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G101,STRAIGHT PARTY,,,Republican,117,42,73,2
 Christian,G101,STRAIGHT PARTY,,,Democratic,33,11,22,0
-Christian,G101,Govenor,,REP,Daniel CAMERON,213,57,153,3
-Christian,G101,Govenor,,DEM,Andy BESHEAR,126,48,74,4
-Christian,G101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G101,Govenor,,,Total Votes,339,105,227,7
-Christian,G101,Govenor,,,Under Votes,3,2,1,0
-Christian,G101,Govenor,,,Over Votes,0,0,0,0
+Christian,G101,Governor,,REP,Daniel CAMERON,213,57,153,3
+Christian,G101,Governor,,DEM,Andy BESHEAR,126,48,74,4
+Christian,G101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G101,Governor,,,Total Votes,339,105,227,7
+Christian,G101,Governor,,,Under Votes,3,2,1,0
+Christian,G101,Governor,,,Over Votes,0,0,0,0
 Christian,G101,Secretary of State,,REP,Michael ADAMS,252,80,169,3
 Christian,G101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,22,50,4
 Christian,G101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1121,12 +1121,12 @@ Christian,G101,Commissioner of Agriculture,,,Under Votes,17,7,10,0
 Christian,G101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G102,STRAIGHT PARTY,,,Republican,28,2,26,0
 Christian,G102,STRAIGHT PARTY,,,Democratic,33,2,29,2
-Christian,G102,Govenor,,REP,Daniel CAMERON,34,2,32,0
-Christian,G102,Govenor,,DEM,Andy BESHEAR,58,3,52,3
-Christian,G102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G102,Govenor,,,Total Votes,92,5,84,3
-Christian,G102,Govenor,,,Under Votes,0,0,0,0
-Christian,G102,Govenor,,,Over Votes,0,0,0,0
+Christian,G102,Governor,,REP,Daniel CAMERON,34,2,32,0
+Christian,G102,Governor,,DEM,Andy BESHEAR,58,3,52,3
+Christian,G102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G102,Governor,,,Total Votes,92,5,84,3
+Christian,G102,Governor,,,Under Votes,0,0,0,0
+Christian,G102,Governor,,,Over Votes,0,0,0,0
 Christian,G102,Secretary of State,,REP,Michael ADAMS,38,3,35,0
 Christian,G102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,2,46,3
 Christian,G102,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1156,12 +1156,12 @@ Christian,G102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Christian,G102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G103,STRAIGHT PARTY,,,Republican,64,11,53,0
 Christian,G103,STRAIGHT PARTY,,,Democratic,39,17,21,1
-Christian,G103,Govenor,,REP,Daniel CAMERON,137,26,110,1
-Christian,G103,Govenor,,DEM,Andy BESHEAR,80,25,51,4
-Christian,G103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G103,Govenor,,,Total Votes,217,51,161,5
-Christian,G103,Govenor,,,Under Votes,1,1,0,0
-Christian,G103,Govenor,,,Over Votes,0,0,0,0
+Christian,G103,Governor,,REP,Daniel CAMERON,137,26,110,1
+Christian,G103,Governor,,DEM,Andy BESHEAR,80,25,51,4
+Christian,G103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G103,Governor,,,Total Votes,217,51,161,5
+Christian,G103,Governor,,,Under Votes,1,1,0,0
+Christian,G103,Governor,,,Over Votes,0,0,0,0
 Christian,G103,Secretary of State,,REP,Michael ADAMS,144,26,115,3
 Christian,G103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,25,42,2
 Christian,G103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1191,12 +1191,12 @@ Christian,G103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Christian,G103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G104,STRAIGHT PARTY,,,Republican,187,61,120,6
 Christian,G104,STRAIGHT PARTY,,,Democratic,118,41,70,7
-Christian,G104,Govenor,,REP,Daniel CAMERON,354,105,243,6
-Christian,G104,Govenor,,DEM,Andy BESHEAR,275,85,180,10
-Christian,G104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G104,Govenor,,,Total Votes,629,190,423,16
-Christian,G104,Govenor,,,Under Votes,0,0,0,0
-Christian,G104,Govenor,,,Over Votes,0,0,0,0
+Christian,G104,Governor,,REP,Daniel CAMERON,354,105,243,6
+Christian,G104,Governor,,DEM,Andy BESHEAR,275,85,180,10
+Christian,G104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G104,Governor,,,Total Votes,629,190,423,16
+Christian,G104,Governor,,,Under Votes,0,0,0,0
+Christian,G104,Governor,,,Over Votes,0,0,0,0
 Christian,G104,Secretary of State,,REP,Michael ADAMS,401,116,276,9
 Christian,G104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",213,70,136,7
 Christian,G104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1226,12 +1226,12 @@ Christian,G104,Commissioner of Agriculture,,,Under Votes,20,3,17,0
 Christian,G104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G105,STRAIGHT PARTY,,,Republican,8,0,8,0
 Christian,G105,STRAIGHT PARTY,,,Democratic,6,0,5,1
-Christian,G105,Govenor,,REP,Daniel CAMERON,8,0,8,0
-Christian,G105,Govenor,,DEM,Andy BESHEAR,14,1,12,1
-Christian,G105,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G105,Govenor,,,Total Votes,22,1,20,1
-Christian,G105,Govenor,,,Under Votes,0,0,0,0
-Christian,G105,Govenor,,,Over Votes,0,0,0,0
+Christian,G105,Governor,,REP,Daniel CAMERON,8,0,8,0
+Christian,G105,Governor,,DEM,Andy BESHEAR,14,1,12,1
+Christian,G105,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G105,Governor,,,Total Votes,22,1,20,1
+Christian,G105,Governor,,,Under Votes,0,0,0,0
+Christian,G105,Governor,,,Over Votes,0,0,0,0
 Christian,G105,Secretary of State,,REP,Michael ADAMS,9,0,9,0
 Christian,G105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",13,1,11,1
 Christian,G105,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1261,12 +1261,12 @@ Christian,G105,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Christian,G105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,G106,STRAIGHT PARTY,,,Republican,130,32,97,1
 Christian,G106,STRAIGHT PARTY,,,Democratic,51,17,30,4
-Christian,G106,Govenor,,REP,Daniel CAMERON,236,53,178,5
-Christian,G106,Govenor,,DEM,Andy BESHEAR,150,47,97,6
-Christian,G106,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,G106,Govenor,,,Total Votes,386,100,275,11
-Christian,G106,Govenor,,,Under Votes,4,2,2,0
-Christian,G106,Govenor,,,Over Votes,0,0,0,0
+Christian,G106,Governor,,REP,Daniel CAMERON,236,53,178,5
+Christian,G106,Governor,,DEM,Andy BESHEAR,150,47,97,6
+Christian,G106,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,G106,Governor,,,Total Votes,386,100,275,11
+Christian,G106,Governor,,,Under Votes,4,2,2,0
+Christian,G106,Governor,,,Over Votes,0,0,0,0
 Christian,G106,Secretary of State,,REP,Michael ADAMS,281,69,205,7
 Christian,G106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",98,33,61,4
 Christian,G106,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1296,12 +1296,12 @@ Christian,G106,Commissioner of Agriculture,,,Under Votes,20,4,15,1
 Christian,G106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,H101,STRAIGHT PARTY,,,Republican,126,24,99,3
 Christian,H101,STRAIGHT PARTY,,,Democratic,39,10,28,1
-Christian,H101,Govenor,,REP,Daniel CAMERON,196,36,157,3
-Christian,H101,Govenor,,DEM,Andy BESHEAR,81,21,58,2
-Christian,H101,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,H101,Govenor,,,Total Votes,277,57,215,5
-Christian,H101,Govenor,,,Under Votes,0,0,0,0
-Christian,H101,Govenor,,,Over Votes,0,0,0,0
+Christian,H101,Governor,,REP,Daniel CAMERON,196,36,157,3
+Christian,H101,Governor,,DEM,Andy BESHEAR,81,21,58,2
+Christian,H101,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,H101,Governor,,,Total Votes,277,57,215,5
+Christian,H101,Governor,,,Under Votes,0,0,0,0
+Christian,H101,Governor,,,Over Votes,0,0,0,0
 Christian,H101,Secretary of State,,REP,Michael ADAMS,210,39,168,3
 Christian,H101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",65,18,45,2
 Christian,H101,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1331,12 +1331,12 @@ Christian,H101,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Christian,H101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,H102,STRAIGHT PARTY,,,Republican,277,15,262,0
 Christian,H102,STRAIGHT PARTY,,,Democratic,55,6,49,0
-Christian,H102,Govenor,,REP,Daniel CAMERON,391,20,370,1
-Christian,H102,Govenor,,DEM,Andy BESHEAR,147,19,126,2
-Christian,H102,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,H102,Govenor,,,Total Votes,538,39,496,3
-Christian,H102,Govenor,,,Under Votes,1,0,1,0
-Christian,H102,Govenor,,,Over Votes,0,0,0,0
+Christian,H102,Governor,,REP,Daniel CAMERON,391,20,370,1
+Christian,H102,Governor,,DEM,Andy BESHEAR,147,19,126,2
+Christian,H102,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,H102,Governor,,,Total Votes,538,39,496,3
+Christian,H102,Governor,,,Under Votes,1,0,1,0
+Christian,H102,Governor,,,Over Votes,0,0,0,0
 Christian,H102,Secretary of State,,REP,Michael ADAMS,422,22,399,1
 Christian,H102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",110,17,91,2
 Christian,H102,Secretary of State,,,Kenneth C. Moellman Jr (W),1,0,1,0
@@ -1366,12 +1366,12 @@ Christian,H102,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Christian,H102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Christian,H103,STRAIGHT PARTY,,,Republican,146,22,123,1
 Christian,H103,STRAIGHT PARTY,,,Democratic,67,14,50,3
-Christian,H103,Govenor,,REP,Daniel CAMERON,231,37,190,4
-Christian,H103,Govenor,,DEM,Andy BESHEAR,131,27,97,7
-Christian,H103,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,H103,Govenor,,,Total Votes,362,64,287,11
-Christian,H103,Govenor,,,Under Votes,1,0,1,0
-Christian,H103,Govenor,,,Over Votes,0,0,0,0
+Christian,H103,Governor,,REP,Daniel CAMERON,231,37,190,4
+Christian,H103,Governor,,DEM,Andy BESHEAR,131,27,97,7
+Christian,H103,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,H103,Governor,,,Total Votes,362,64,287,11
+Christian,H103,Governor,,,Under Votes,1,0,1,0
+Christian,H103,Governor,,,Over Votes,0,0,0,0
 Christian,H103,Secretary of State,,REP,Michael ADAMS,250,37,207,6
 Christian,H103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,26,78,4
 Christian,H103,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0
@@ -1401,12 +1401,12 @@ Christian,H103,Commissioner of Agriculture,,,Under Votes,8,0,5,3
 Christian,H103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Christian,H104,STRAIGHT PARTY,,,Republican,279,28,247,4
 Christian,H104,STRAIGHT PARTY,,,Democratic,32,3,29,0
-Christian,H104,Govenor,,REP,Daniel CAMERON,391,34,351,6
-Christian,H104,Govenor,,DEM,Andy BESHEAR,94,9,84,1
-Christian,H104,Govenor,,,Brian Fishback and William Fishback,0,0,0,0
-Christian,H104,Govenor,,,Total Votes,485,43,435,7
-Christian,H104,Govenor,,,Under Votes,2,1,1,0
-Christian,H104,Govenor,,,Over Votes,0,0,0,0
+Christian,H104,Governor,,REP,Daniel CAMERON,391,34,351,6
+Christian,H104,Governor,,DEM,Andy BESHEAR,94,9,84,1
+Christian,H104,Governor,,,Brian Fishback and William Fishback,0,0,0,0
+Christian,H104,Governor,,,Total Votes,485,43,435,7
+Christian,H104,Governor,,,Under Votes,2,1,1,0
+Christian,H104,Governor,,,Over Votes,0,0,0,0
 Christian,H104,Secretary of State,,REP,Michael ADAMS,408,37,364,7
 Christian,H104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",61,7,54,0
 Christian,H104,Secretary of State,,,Kenneth C. Moellman Jr (W),0,0,0,0

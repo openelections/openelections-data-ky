@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Clark,A101,STRAIGHT PARTY,,,Republican,310,73,231,6
 Clark,A101,STRAIGHT PARTY,,,Democratic,117,45,62,10
-Clark,A101,Govenor,,REP,Daniel CAMERON,501,103,387,11
-Clark,A101,Govenor,,DEM,Andy BESHEAR,461,128,315,18
-Clark,A101,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,A101,Govenor,,,Total Votes,962,231,702,29
-Clark,A101,Govenor,,,Under Votes,6,0,6,0
-Clark,A101,Govenor,,,Over Votes,0,0,0,0
+Clark,A101,Governor,,REP,Daniel CAMERON,501,103,387,11
+Clark,A101,Governor,,DEM,Andy BESHEAR,461,128,315,18
+Clark,A101,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,A101,Governor,,,Total Votes,962,231,702,29
+Clark,A101,Governor,,,Under Votes,6,0,6,0
+Clark,A101,Governor,,,Over Votes,0,0,0,0
 Clark,A101,Secretary of State,,REP,Michael ADAMS,679,145,521,13
 Clark,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",264,79,169,16
 Clark,A101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -36,12 +36,12 @@ Clark,A101,Commissioner of Agriculture,,,Under Votes,31,8,23,0
 Clark,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,A102,STRAIGHT PARTY,,,Republican,130,17,112,1
 Clark,A102,STRAIGHT PARTY,,,Democratic,64,19,40,5
-Clark,A102,Govenor,,REP,Daniel CAMERON,206,31,170,5
-Clark,A102,Govenor,,DEM,Andy BESHEAR,197,50,137,10
-Clark,A102,Govenor,,,Brian FISHBACK  William FISHBACK (W),1,0,1,0
-Clark,A102,Govenor,,,Total Votes,404,81,308,15
-Clark,A102,Govenor,,,Under Votes,3,0,3,0
-Clark,A102,Govenor,,,Over Votes,0,0,0,0
+Clark,A102,Governor,,REP,Daniel CAMERON,206,31,170,5
+Clark,A102,Governor,,DEM,Andy BESHEAR,197,50,137,10
+Clark,A102,Governor,,,Brian FISHBACK  William FISHBACK (W),1,0,1,0
+Clark,A102,Governor,,,Total Votes,404,81,308,15
+Clark,A102,Governor,,,Under Votes,3,0,3,0
+Clark,A102,Governor,,,Over Votes,0,0,0,0
 Clark,A102,Secretary of State,,REP,Michael ADAMS,269,51,212,6
 Clark,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",129,30,92,7
 Clark,A102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -71,12 +71,12 @@ Clark,A102,Commissioner of Agriculture,,,Under Votes,13,3,10,0
 Clark,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,A103,STRAIGHT PARTY,,,Republican,134,29,102,3
 Clark,A103,STRAIGHT PARTY,,,Democratic,87,19,66,2
-Clark,A103,Govenor,,REP,Daniel CAMERON,225,46,173,6
-Clark,A103,Govenor,,DEM,Andy BESHEAR,300,86,206,8
-Clark,A103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,A103,Govenor,,,Total Votes,525,132,379,14
-Clark,A103,Govenor,,,Under Votes,1,1,0,0
-Clark,A103,Govenor,,,Over Votes,0,0,0,0
+Clark,A103,Governor,,REP,Daniel CAMERON,225,46,173,6
+Clark,A103,Governor,,DEM,Andy BESHEAR,300,86,206,8
+Clark,A103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,A103,Governor,,,Total Votes,525,132,379,14
+Clark,A103,Governor,,,Under Votes,1,1,0,0
+Clark,A103,Governor,,,Over Votes,0,0,0,0
 Clark,A103,Secretary of State,,REP,Michael ADAMS,336,89,237,10
 Clark,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",179,41,134,4
 Clark,A103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -106,12 +106,12 @@ Clark,A103,Commissioner of Agriculture,,,Under Votes,15,5,9,1
 Clark,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,A104,STRAIGHT PARTY,,,Republican,178,47,127,4
 Clark,A104,STRAIGHT PARTY,,,Democratic,87,27,56,4
-Clark,A104,Govenor,,REP,Daniel CAMERON,288,63,221,4
-Clark,A104,Govenor,,DEM,Andy BESHEAR,306,78,221,7
-Clark,A104,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,A104,Govenor,,,Total Votes,594,141,442,11
-Clark,A104,Govenor,,,Under Votes,1,0,1,0
-Clark,A104,Govenor,,,Over Votes,0,0,0,0
+Clark,A104,Governor,,REP,Daniel CAMERON,288,63,221,4
+Clark,A104,Governor,,DEM,Andy BESHEAR,306,78,221,7
+Clark,A104,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,A104,Governor,,,Total Votes,594,141,442,11
+Clark,A104,Governor,,,Under Votes,1,0,1,0
+Clark,A104,Governor,,,Over Votes,0,0,0,0
 Clark,A104,Secretary of State,,REP,Michael ADAMS,399,87,307,5
 Clark,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",183,53,124,6
 Clark,A104,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -141,12 +141,12 @@ Clark,A104,Commissioner of Agriculture,,,Under Votes,18,1,17,0
 Clark,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,B101,STRAIGHT PARTY,,,Republican,176,45,129,2
 Clark,B101,STRAIGHT PARTY,,,Democratic,81,27,48,6
-Clark,B101,Govenor,,REP,Daniel CAMERON,272,68,201,3
-Clark,B101,Govenor,,DEM,Andy BESHEAR,241,74,154,13
-Clark,B101,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,B101,Govenor,,,Total Votes,513,142,355,16
-Clark,B101,Govenor,,,Under Votes,2,0,2,0
-Clark,B101,Govenor,,,Over Votes,0,0,0,0
+Clark,B101,Governor,,REP,Daniel CAMERON,272,68,201,3
+Clark,B101,Governor,,DEM,Andy BESHEAR,241,74,154,13
+Clark,B101,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,B101,Governor,,,Total Votes,513,142,355,16
+Clark,B101,Governor,,,Under Votes,2,0,2,0
+Clark,B101,Governor,,,Over Votes,0,0,0,0
 Clark,B101,Secretary of State,,REP,Michael ADAMS,346,91,250,5
 Clark,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",164,49,104,11
 Clark,B101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -176,12 +176,12 @@ Clark,B101,Commissioner of Agriculture,,,Under Votes,16,4,12,0
 Clark,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,B102,STRAIGHT PARTY,,,Republican,228,57,169,2
 Clark,B102,STRAIGHT PARTY,,,Democratic,104,26,74,4
-Clark,B102,Govenor,,REP,Daniel CAMERON,366,87,273,6
-Clark,B102,Govenor,,DEM,Andy BESHEAR,327,83,229,15
-Clark,B102,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,B102,Govenor,,,Total Votes,693,170,502,21
-Clark,B102,Govenor,,,Under Votes,1,0,1,0
-Clark,B102,Govenor,,,Over Votes,0,0,0,0
+Clark,B102,Governor,,REP,Daniel CAMERON,366,87,273,6
+Clark,B102,Governor,,DEM,Andy BESHEAR,327,83,229,15
+Clark,B102,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,B102,Governor,,,Total Votes,693,170,502,21
+Clark,B102,Governor,,,Under Votes,1,0,1,0
+Clark,B102,Governor,,,Over Votes,0,0,0,0
 Clark,B102,Secretary of State,,REP,Michael ADAMS,491,126,351,14
 Clark,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",190,42,141,7
 Clark,B102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -211,12 +211,12 @@ Clark,B102,Commissioner of Agriculture,,,Under Votes,20,2,18,0
 Clark,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,B103,STRAIGHT PARTY,,,Republican,52,10,42,0
 Clark,B103,STRAIGHT PARTY,,,Democratic,55,14,39,2
-Clark,B103,Govenor,,REP,Daniel CAMERON,82,13,68,1
-Clark,B103,Govenor,,DEM,Andy BESHEAR,111,31,74,6
-Clark,B103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,B103,Govenor,,,Total Votes,193,44,142,7
-Clark,B103,Govenor,,,Under Votes,0,0,0,0
-Clark,B103,Govenor,,,Over Votes,0,0,0,0
+Clark,B103,Governor,,REP,Daniel CAMERON,82,13,68,1
+Clark,B103,Governor,,DEM,Andy BESHEAR,111,31,74,6
+Clark,B103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,B103,Governor,,,Total Votes,193,44,142,7
+Clark,B103,Governor,,,Under Votes,0,0,0,0
+Clark,B103,Governor,,,Over Votes,0,0,0,0
 Clark,B103,Secretary of State,,REP,Michael ADAMS,106,21,83,2
 Clark,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,22,56,5
 Clark,B103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -246,12 +246,12 @@ Clark,B103,Commissioner of Agriculture,,,Under Votes,3,2,1,0
 Clark,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,B104,STRAIGHT PARTY,,,Republican,177,16,157,4
 Clark,B104,STRAIGHT PARTY,,,Democratic,47,8,37,2
-Clark,B104,Govenor,,REP,Daniel CAMERON,258,31,223,4
-Clark,B104,Govenor,,DEM,Andy BESHEAR,154,21,128,5
-Clark,B104,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,B104,Govenor,,,Total Votes,412,52,351,9
-Clark,B104,Govenor,,,Under Votes,1,0,1,0
-Clark,B104,Govenor,,,Over Votes,0,0,0,0
+Clark,B104,Governor,,REP,Daniel CAMERON,258,31,223,4
+Clark,B104,Governor,,DEM,Andy BESHEAR,154,21,128,5
+Clark,B104,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,B104,Governor,,,Total Votes,412,52,351,9
+Clark,B104,Governor,,,Under Votes,1,0,1,0
+Clark,B104,Governor,,,Over Votes,0,0,0,0
 Clark,B104,Secretary of State,,REP,Michael ADAMS,314,41,268,5
 Clark,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,11,80,4
 Clark,B104,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -281,12 +281,12 @@ Clark,B104,Commissioner of Agriculture,,,Under Votes,7,1,6,0
 Clark,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,B105,STRAIGHT PARTY,,,Republican,176,20,156,0
 Clark,B105,STRAIGHT PARTY,,,Democratic,74,17,51,6
-Clark,B105,Govenor,,REP,Daniel CAMERON,269,43,226,0
-Clark,B105,Govenor,,DEM,Andy BESHEAR,203,49,145,9
-Clark,B105,Govenor,,,Brian FISHBACK  William FISHBACK (W),1,1,0,0
-Clark,B105,Govenor,,,Total Votes,473,93,371,9
-Clark,B105,Govenor,,,Under Votes,3,3,0,0
-Clark,B105,Govenor,,,Over Votes,0,0,0,0
+Clark,B105,Governor,,REP,Daniel CAMERON,269,43,226,0
+Clark,B105,Governor,,DEM,Andy BESHEAR,203,49,145,9
+Clark,B105,Governor,,,Brian FISHBACK  William FISHBACK (W),1,1,0,0
+Clark,B105,Governor,,,Total Votes,473,93,371,9
+Clark,B105,Governor,,,Under Votes,3,3,0,0
+Clark,B105,Governor,,,Over Votes,0,0,0,0
 Clark,B105,Secretary of State,,REP,Michael ADAMS,335,68,267,0
 Clark,B105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",127,24,94,9
 Clark,B105,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -316,12 +316,12 @@ Clark,B105,Commissioner of Agriculture,,,Under Votes,15,3,12,0
 Clark,B105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,C101,STRAIGHT PARTY,,,Republican,201,39,158,4
 Clark,C101,STRAIGHT PARTY,,,Democratic,78,21,51,6
-Clark,C101,Govenor,,REP,Daniel CAMERON,321,55,262,4
-Clark,C101,Govenor,,DEM,Andy BESHEAR,244,52,182,10
-Clark,C101,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,C101,Govenor,,,Total Votes,565,107,444,14
-Clark,C101,Govenor,,,Under Votes,3,1,2,0
-Clark,C101,Govenor,,,Over Votes,0,0,0,0
+Clark,C101,Governor,,REP,Daniel CAMERON,321,55,262,4
+Clark,C101,Governor,,DEM,Andy BESHEAR,244,52,182,10
+Clark,C101,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,C101,Governor,,,Total Votes,565,107,444,14
+Clark,C101,Governor,,,Under Votes,3,1,2,0
+Clark,C101,Governor,,,Over Votes,0,0,0,0
 Clark,C101,Secretary of State,,REP,Michael ADAMS,398,73,319,6
 Clark,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",157,33,116,8
 Clark,C101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",1,1,0,0
@@ -351,12 +351,12 @@ Clark,C101,Commissioner of Agriculture,,,Under Votes,13,0,13,0
 Clark,C101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Clark,C102,STRAIGHT PARTY,,,Republican,144,23,116,5
 Clark,C102,STRAIGHT PARTY,,,Democratic,89,20,69,0
-Clark,C102,Govenor,,REP,Daniel CAMERON,214,38,170,6
-Clark,C102,Govenor,,DEM,Andy BESHEAR,203,39,160,4
-Clark,C102,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,C102,Govenor,,,Total Votes,417,77,330,10
-Clark,C102,Govenor,,,Under Votes,2,0,2,0
-Clark,C102,Govenor,,,Over Votes,0,0,0,0
+Clark,C102,Governor,,REP,Daniel CAMERON,214,38,170,6
+Clark,C102,Governor,,DEM,Andy BESHEAR,203,39,160,4
+Clark,C102,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,C102,Governor,,,Total Votes,417,77,330,10
+Clark,C102,Governor,,,Under Votes,2,0,2,0
+Clark,C102,Governor,,,Over Votes,0,0,0,0
 Clark,C102,Secretary of State,,REP,Michael ADAMS,261,40,214,7
 Clark,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",153,36,114,3
 Clark,C102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -386,12 +386,12 @@ Clark,C102,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Clark,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,C103,STRAIGHT PARTY,,,Republican,229,57,165,7
 Clark,C103,STRAIGHT PARTY,,,Democratic,86,20,57,9
-Clark,C103,Govenor,,REP,Daniel CAMERON,378,103,266,9
-Clark,C103,Govenor,,DEM,Andy BESHEAR,271,58,196,17
-Clark,C103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,C103,Govenor,,,Total Votes,649,161,462,26
-Clark,C103,Govenor,,,Under Votes,3,0,3,0
-Clark,C103,Govenor,,,Over Votes,0,0,0,0
+Clark,C103,Governor,,REP,Daniel CAMERON,378,103,266,9
+Clark,C103,Governor,,DEM,Andy BESHEAR,271,58,196,17
+Clark,C103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,C103,Governor,,,Total Votes,649,161,462,26
+Clark,C103,Governor,,,Under Votes,3,0,3,0
+Clark,C103,Governor,,,Over Votes,0,0,0,0
 Clark,C103,Secretary of State,,REP,Michael ADAMS,462,116,331,15
 Clark,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",167,35,121,11
 Clark,C103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -421,12 +421,12 @@ Clark,C103,Commissioner of Agriculture,,,Under Votes,16,7,9,0
 Clark,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,C104,STRAIGHT PARTY,,,Republican,233,49,177,7
 Clark,C104,STRAIGHT PARTY,,,Democratic,117,36,72,9
-Clark,C104,Govenor,,REP,Daniel CAMERON,356,71,276,9
-Clark,C104,Govenor,,DEM,Andy BESHEAR,296,68,213,15
-Clark,C104,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,C104,Govenor,,,Total Votes,652,139,489,24
-Clark,C104,Govenor,,,Under Votes,5,0,5,0
-Clark,C104,Govenor,,,Over Votes,0,0,0,0
+Clark,C104,Governor,,REP,Daniel CAMERON,356,71,276,9
+Clark,C104,Governor,,DEM,Andy BESHEAR,296,68,213,15
+Clark,C104,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,C104,Governor,,,Total Votes,652,139,489,24
+Clark,C104,Governor,,,Under Votes,5,0,5,0
+Clark,C104,Governor,,,Over Votes,0,0,0,0
 Clark,C104,Secretary of State,,REP,Michael ADAMS,450,90,347,13
 Clark,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",198,49,138,11
 Clark,C104,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -456,12 +456,12 @@ Clark,C104,Commissioner of Agriculture,,,Under Votes,15,2,13,0
 Clark,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,D101,STRAIGHT PARTY,,,Republican,29,2,23,4
 Clark,D101,STRAIGHT PARTY,,,Democratic,17,4,13,0
-Clark,D101,Govenor,,REP,Daniel CAMERON,35,1,31,3
-Clark,D101,Govenor,,DEM,Andy BESHEAR,42,8,31,3
-Clark,D101,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,D101,Govenor,,,Total Votes,77,9,62,6
-Clark,D101,Govenor,,,Under Votes,2,0,2,0
-Clark,D101,Govenor,,,Over Votes,0,0,0,0
+Clark,D101,Governor,,REP,Daniel CAMERON,35,1,31,3
+Clark,D101,Governor,,DEM,Andy BESHEAR,42,8,31,3
+Clark,D101,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,D101,Governor,,,Total Votes,77,9,62,6
+Clark,D101,Governor,,,Under Votes,2,0,2,0
+Clark,D101,Governor,,,Over Votes,0,0,0,0
 Clark,D101,Secretary of State,,REP,Michael ADAMS,53,5,43,5
 Clark,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",24,4,19,1
 Clark,D101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -491,12 +491,12 @@ Clark,D101,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Clark,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,D102,STRAIGHT PARTY,,,Republican,155,18,135,2
 Clark,D102,STRAIGHT PARTY,,,Democratic,141,23,107,11
-Clark,D102,Govenor,,REP,Daniel CAMERON,215,30,184,1
-Clark,D102,Govenor,,DEM,Andy BESHEAR,330,56,251,23
-Clark,D102,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,D102,Govenor,,,Total Votes,545,86,435,24
-Clark,D102,Govenor,,,Under Votes,1,0,1,0
-Clark,D102,Govenor,,,Over Votes,0,0,0,0
+Clark,D102,Governor,,REP,Daniel CAMERON,215,30,184,1
+Clark,D102,Governor,,DEM,Andy BESHEAR,330,56,251,23
+Clark,D102,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,D102,Governor,,,Total Votes,545,86,435,24
+Clark,D102,Governor,,,Under Votes,1,0,1,0
+Clark,D102,Governor,,,Over Votes,0,0,0,0
 Clark,D102,Secretary of State,,REP,Michael ADAMS,311,47,257,7
 Clark,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",229,39,173,17
 Clark,D102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -526,12 +526,12 @@ Clark,D102,Commissioner of Agriculture,,,Under Votes,17,0,17,0
 Clark,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,D103,STRAIGHT PARTY,,,Republican,156,54,101,1
 Clark,D103,STRAIGHT PARTY,,,Democratic,78,28,45,5
-Clark,D103,Govenor,,REP,Daniel CAMERON,238,72,165,1
-Clark,D103,Govenor,,DEM,Andy BESHEAR,197,55,131,11
-Clark,D103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,D103,Govenor,,,Total Votes,435,127,296,12
-Clark,D103,Govenor,,,Under Votes,3,1,2,0
-Clark,D103,Govenor,,,Over Votes,0,0,0,0
+Clark,D103,Governor,,REP,Daniel CAMERON,238,72,165,1
+Clark,D103,Governor,,DEM,Andy BESHEAR,197,55,131,11
+Clark,D103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,D103,Governor,,,Total Votes,435,127,296,12
+Clark,D103,Governor,,,Under Votes,3,1,2,0
+Clark,D103,Governor,,,Over Votes,0,0,0,0
 Clark,D103,Secretary of State,,REP,Michael ADAMS,301,88,206,7
 Clark,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",127,40,82,5
 Clark,D103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -561,12 +561,12 @@ Clark,D103,Commissioner of Agriculture,,,Under Votes,10,1,9,0
 Clark,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,D104,STRAIGHT PARTY,,,Republican,107,14,89,4
 Clark,D104,STRAIGHT PARTY,,,Democratic,101,26,73,2
-Clark,D104,Govenor,,REP,Daniel CAMERON,144,22,119,3
-Clark,D104,Govenor,,DEM,Andy BESHEAR,248,69,171,8
-Clark,D104,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,D104,Govenor,,,Total Votes,392,91,290,11
-Clark,D104,Govenor,,,Under Votes,1,0,1,0
-Clark,D104,Govenor,,,Over Votes,0,0,0,0
+Clark,D104,Governor,,REP,Daniel CAMERON,144,22,119,3
+Clark,D104,Governor,,DEM,Andy BESHEAR,248,69,171,8
+Clark,D104,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,D104,Governor,,,Total Votes,392,91,290,11
+Clark,D104,Governor,,,Under Votes,1,0,1,0
+Clark,D104,Governor,,,Over Votes,0,0,0,0
 Clark,D104,Secretary of State,,REP,Michael ADAMS,216,44,164,8
 Clark,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",166,45,119,2
 Clark,D104,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -596,12 +596,12 @@ Clark,D104,Commissioner of Agriculture,,,Under Votes,9,2,6,1
 Clark,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,E101,STRAIGHT PARTY,,,Republican,74,23,45,6
 Clark,E101,STRAIGHT PARTY,,,Democratic,68,14,50,4
-Clark,E101,Govenor,,REP,Daniel CAMERON,124,35,83,6
-Clark,E101,Govenor,,DEM,Andy BESHEAR,183,40,135,8
-Clark,E101,Govenor,,,Brian FISHBACK  William FISHBACK (W),1,0,0,1
-Clark,E101,Govenor,,,Total Votes,308,75,218,15
-Clark,E101,Govenor,,,Under Votes,2,0,1,1
-Clark,E101,Govenor,,,Over Votes,0,0,0,0
+Clark,E101,Governor,,REP,Daniel CAMERON,124,35,83,6
+Clark,E101,Governor,,DEM,Andy BESHEAR,183,40,135,8
+Clark,E101,Governor,,,Brian FISHBACK  William FISHBACK (W),1,0,0,1
+Clark,E101,Governor,,,Total Votes,308,75,218,15
+Clark,E101,Governor,,,Under Votes,2,0,1,1
+Clark,E101,Governor,,,Over Votes,0,0,0,0
 Clark,E101,Secretary of State,,REP,Michael ADAMS,191,54,128,9
 Clark,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",115,21,87,7
 Clark,E101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -631,12 +631,12 @@ Clark,E101,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Clark,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,E102,STRAIGHT PARTY,,,Republican,298,86,205,7
 Clark,E102,STRAIGHT PARTY,,,Democratic,198,58,125,15
-Clark,E102,Govenor,,REP,Daniel CAMERON,449,123,317,9
-Clark,E102,Govenor,,DEM,Andy BESHEAR,512,151,322,39
-Clark,E102,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,E102,Govenor,,,Total Votes,961,274,639,48
-Clark,E102,Govenor,,,Under Votes,1,0,1,0
-Clark,E102,Govenor,,,Over Votes,0,0,0,0
+Clark,E102,Governor,,REP,Daniel CAMERON,449,123,317,9
+Clark,E102,Governor,,DEM,Andy BESHEAR,512,151,322,39
+Clark,E102,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,E102,Governor,,,Total Votes,961,274,639,48
+Clark,E102,Governor,,,Under Votes,1,0,1,0
+Clark,E102,Governor,,,Over Votes,0,0,0,0
 Clark,E102,Secretary of State,,REP,Michael ADAMS,599,160,419,20
 Clark,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",345,109,208,28
 Clark,E102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",1,0,1,0
@@ -666,12 +666,12 @@ Clark,E102,Commissioner of Agriculture,,,Under Votes,25,7,17,1
 Clark,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,E103,STRAIGHT PARTY,,,Republican,81,14,66,1
 Clark,E103,STRAIGHT PARTY,,,Democratic,53,12,39,2
-Clark,E103,Govenor,,REP,Daniel CAMERON,118,18,100,0
-Clark,E103,Govenor,,DEM,Andy BESHEAR,141,32,104,5
-Clark,E103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,E103,Govenor,,,Total Votes,259,50,204,5
-Clark,E103,Govenor,,,Under Votes,2,1,1,0
-Clark,E103,Govenor,,,Over Votes,0,0,0,0
+Clark,E103,Governor,,REP,Daniel CAMERON,118,18,100,0
+Clark,E103,Governor,,DEM,Andy BESHEAR,141,32,104,5
+Clark,E103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,E103,Governor,,,Total Votes,259,50,204,5
+Clark,E103,Governor,,,Under Votes,2,1,1,0
+Clark,E103,Governor,,,Over Votes,0,0,0,0
 Clark,E103,Secretary of State,,REP,Michael ADAMS,160,29,128,3
 Clark,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,21,72,2
 Clark,E103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -701,12 +701,12 @@ Clark,E103,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Clark,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,F101,STRAIGHT PARTY,,,Republican,12,2,10,0
 Clark,F101,STRAIGHT PARTY,,,Democratic,82,31,50,1
-Clark,F101,Govenor,,REP,Daniel CAMERON,18,4,14,0
-Clark,F101,Govenor,,DEM,Andy BESHEAR,124,43,78,3
-Clark,F101,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F101,Govenor,,,Total Votes,142,47,92,3
-Clark,F101,Govenor,,,Under Votes,0,0,0,0
-Clark,F101,Govenor,,,Over Votes,0,0,0,0
+Clark,F101,Governor,,REP,Daniel CAMERON,18,4,14,0
+Clark,F101,Governor,,DEM,Andy BESHEAR,124,43,78,3
+Clark,F101,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F101,Governor,,,Total Votes,142,47,92,3
+Clark,F101,Governor,,,Under Votes,0,0,0,0
+Clark,F101,Governor,,,Over Votes,0,0,0,0
 Clark,F101,Secretary of State,,REP,Michael ADAMS,30,7,23,0
 Clark,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,39,66,3
 Clark,F101,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -736,12 +736,12 @@ Clark,F101,Commissioner of Agriculture,,,Under Votes,3,2,1,0
 Clark,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,F102,STRAIGHT PARTY,,,Republican,38,10,28,0
 Clark,F102,STRAIGHT PARTY,,,Democratic,51,22,28,1
-Clark,F102,Govenor,,REP,Daniel CAMERON,66,21,45,0
-Clark,F102,Govenor,,DEM,Andy BESHEAR,107,37,66,4
-Clark,F102,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F102,Govenor,,,Total Votes,173,58,111,4
-Clark,F102,Govenor,,,Under Votes,1,1,0,0
-Clark,F102,Govenor,,,Over Votes,0,0,0,0
+Clark,F102,Governor,,REP,Daniel CAMERON,66,21,45,0
+Clark,F102,Governor,,DEM,Andy BESHEAR,107,37,66,4
+Clark,F102,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F102,Governor,,,Total Votes,173,58,111,4
+Clark,F102,Governor,,,Under Votes,1,1,0,0
+Clark,F102,Governor,,,Over Votes,0,0,0,0
 Clark,F102,Secretary of State,,REP,Michael ADAMS,93,34,57,2
 Clark,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,25,53,2
 Clark,F102,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -771,12 +771,12 @@ Clark,F102,Commissioner of Agriculture,,,Under Votes,1,1,0,0
 Clark,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,F103,STRAIGHT PARTY,,,Republican,88,7,79,2
 Clark,F103,STRAIGHT PARTY,,,Democratic,97,18,75,4
-Clark,F103,Govenor,,REP,Daniel CAMERON,148,17,129,2
-Clark,F103,Govenor,,DEM,Andy BESHEAR,240,49,182,9
-Clark,F103,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F103,Govenor,,,Total Votes,388,66,311,11
-Clark,F103,Govenor,,,Under Votes,0,0,0,0
-Clark,F103,Govenor,,,Over Votes,0,0,0,0
+Clark,F103,Governor,,REP,Daniel CAMERON,148,17,129,2
+Clark,F103,Governor,,DEM,Andy BESHEAR,240,49,182,9
+Clark,F103,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F103,Governor,,,Total Votes,388,66,311,11
+Clark,F103,Governor,,,Under Votes,0,0,0,0
+Clark,F103,Governor,,,Over Votes,0,0,0,0
 Clark,F103,Secretary of State,,REP,Michael ADAMS,203,31,165,7
 Clark,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",179,33,142,4
 Clark,F103,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -806,12 +806,12 @@ Clark,F103,Commissioner of Agriculture,,,Under Votes,10,2,8,0
 Clark,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,F104,STRAIGHT PARTY,,,Republican,17,1,16,0
 Clark,F104,STRAIGHT PARTY,,,Democratic,99,25,67,7
-Clark,F104,Govenor,,REP,Daniel CAMERON,24,3,21,0
-Clark,F104,Govenor,,DEM,Andy BESHEAR,128,35,85,8
-Clark,F104,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F104,Govenor,,,Total Votes,152,38,106,8
-Clark,F104,Govenor,,,Under Votes,0,0,0,0
-Clark,F104,Govenor,,,Over Votes,1,0,1,0
+Clark,F104,Governor,,REP,Daniel CAMERON,24,3,21,0
+Clark,F104,Governor,,DEM,Andy BESHEAR,128,35,85,8
+Clark,F104,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F104,Governor,,,Total Votes,152,38,106,8
+Clark,F104,Governor,,,Under Votes,0,0,0,0
+Clark,F104,Governor,,,Over Votes,1,0,1,0
 Clark,F104,Secretary of State,,REP,Michael ADAMS,35,7,28,0
 Clark,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,31,77,8
 Clark,F104,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -841,12 +841,12 @@ Clark,F104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Clark,F104,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Clark,F105,STRAIGHT PARTY,,,Republican,101,17,84,0
 Clark,F105,STRAIGHT PARTY,,,Democratic,90,22,65,3
-Clark,F105,Govenor,,REP,Daniel CAMERON,136,22,114,0
-Clark,F105,Govenor,,DEM,Andy BESHEAR,194,43,142,9
-Clark,F105,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F105,Govenor,,,Total Votes,330,65,256,9
-Clark,F105,Govenor,,,Under Votes,3,2,1,0
-Clark,F105,Govenor,,,Over Votes,0,0,0,0
+Clark,F105,Governor,,REP,Daniel CAMERON,136,22,114,0
+Clark,F105,Governor,,DEM,Andy BESHEAR,194,43,142,9
+Clark,F105,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F105,Governor,,,Total Votes,330,65,256,9
+Clark,F105,Governor,,,Under Votes,3,2,1,0
+Clark,F105,Governor,,,Over Votes,0,0,0,0
 Clark,F105,Secretary of State,,REP,Michael ADAMS,179,34,144,1
 Clark,F105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",148,30,110,8
 Clark,F105,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0
@@ -876,12 +876,12 @@ Clark,F105,Commissioner of Agriculture,,,Under Votes,6,2,4,0
 Clark,F105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Clark,F106,STRAIGHT PARTY,,,Republican,63,9,53,1
 Clark,F106,STRAIGHT PARTY,,,Democratic,75,23,50,2
-Clark,F106,Govenor,,REP,Daniel CAMERON,110,15,93,2
-Clark,F106,Govenor,,DEM,Andy BESHEAR,178,54,119,5
-Clark,F106,Govenor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
-Clark,F106,Govenor,,,Total Votes,288,69,212,7
-Clark,F106,Govenor,,,Under Votes,1,0,1,0
-Clark,F106,Govenor,,,Over Votes,0,0,0,0
+Clark,F106,Governor,,REP,Daniel CAMERON,110,15,93,2
+Clark,F106,Governor,,DEM,Andy BESHEAR,178,54,119,5
+Clark,F106,Governor,,,Brian FISHBACK  William FISHBACK (W),0,0,0,0
+Clark,F106,Governor,,,Total Votes,288,69,212,7
+Clark,F106,Governor,,,Under Votes,1,0,1,0
+Clark,F106,Governor,,,Over Votes,0,0,0,0
 Clark,F106,Secretary of State,,REP,Michael ADAMS,165,31,130,4
 Clark,F106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",119,36,81,2
 Clark,F106,Secretary of State,,,"MOELLMAN Kenneth C, Jr. (W)",0,0,0,0

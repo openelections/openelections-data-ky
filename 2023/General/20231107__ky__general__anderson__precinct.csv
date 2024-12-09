@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Anderson,A101,STRAIGHT PARTY,,,Republican,177,57,120,0
 Anderson,A101,STRAIGHT PARTY,,,Democratic,114,56,53,5
-Anderson,A101,Govenor,,REP,Daniel CAMERON,252,82,168,2
-Anderson,A101,Govenor,,DEM,Andy BESHEAR,298,123,168,7
-Anderson,A101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,A101,Govenor,,,Total Votes,550,205,336,9
-Anderson,A101,Govenor,,,Under Votes,7,3,4,0
-Anderson,A101,Govenor,,,Over Votes,0,0,0,0
+Anderson,A101,Governor,,REP,Daniel CAMERON,252,82,168,2
+Anderson,A101,Governor,,DEM,Andy BESHEAR,298,123,168,7
+Anderson,A101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,A101,Governor,,,Total Votes,550,205,336,9
+Anderson,A101,Governor,,,Under Votes,7,3,4,0
+Anderson,A101,Governor,,,Over Votes,0,0,0,0
 Anderson,A101,Secretary of State,,REP,Michael ADAMS,346,118,226,2
 Anderson,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",198,84,107,7
 Anderson,A101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -36,12 +36,12 @@ Anderson,A101,Commissioner of Agriculture,,,Under Votes,19,6,13,0
 Anderson,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,A102,STRAIGHT PARTY,,,Republican,193,69,121,3
 Anderson,A102,STRAIGHT PARTY,,,Democratic,86,28,56,2
-Anderson,A102,Govenor,,REP,Daniel CAMERON,248,93,152,3
-Anderson,A102,Govenor,,DEM,Andy BESHEAR,265,80,176,9
-Anderson,A102,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,A102,Govenor,,,Total Votes,513,173,328,12
-Anderson,A102,Govenor,,,Under Votes,4,2,2,0
-Anderson,A102,Govenor,,,Over Votes,2,0,2,0
+Anderson,A102,Governor,,REP,Daniel CAMERON,248,93,152,3
+Anderson,A102,Governor,,DEM,Andy BESHEAR,265,80,176,9
+Anderson,A102,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,A102,Governor,,,Total Votes,513,173,328,12
+Anderson,A102,Governor,,,Under Votes,4,2,2,0
+Anderson,A102,Governor,,,Over Votes,2,0,2,0
 Anderson,A102,Secretary of State,,REP,Michael ADAMS,351,126,218,7
 Anderson,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",159,46,108,5
 Anderson,A102,Secretary of State,,,Kenneth C. Moellman Jr. (W),2,0,2,0
@@ -71,12 +71,12 @@ Anderson,A102,Commissioner of Agriculture,,,Under Votes,10,5,5,0
 Anderson,A102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Anderson,B101,STRAIGHT PARTY,,,Republican,248,102,141,5
 Anderson,B101,STRAIGHT PARTY,,,Democratic,122,60,62,0
-Anderson,B101,Govenor,,REP,Daniel CAMERON,350,137,207,6
-Anderson,B101,Govenor,,DEM,Andy BESHEAR,350,169,176,5
-Anderson,B101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,B101,Govenor,,,Total Votes,700,306,383,11
-Anderson,B101,Govenor,,,Under Votes,2,2,0,0
-Anderson,B101,Govenor,,,Over Votes,0,0,0,0
+Anderson,B101,Governor,,REP,Daniel CAMERON,350,137,207,6
+Anderson,B101,Governor,,DEM,Andy BESHEAR,350,169,176,5
+Anderson,B101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,B101,Governor,,,Total Votes,700,306,383,11
+Anderson,B101,Governor,,,Under Votes,2,2,0,0
+Anderson,B101,Governor,,,Over Votes,0,0,0,0
 Anderson,B101,Secretary of State,,REP,Michael ADAMS,477,202,265,10
 Anderson,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",213,102,110,1
 Anderson,B101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -106,12 +106,12 @@ Anderson,B101,Commissioner of Agriculture,,,Under Votes,18,6,11,1
 Anderson,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,B102,STRAIGHT PARTY,,,Republican,343,120,219,4
 Anderson,B102,STRAIGHT PARTY,,,Democratic,155,70,79,6
-Anderson,B102,Govenor,,REP,Daniel CAMERON,479,166,306,7
-Anderson,B102,Govenor,,DEM,Andy BESHEAR,478,202,261,15
-Anderson,B102,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,B102,Govenor,,,Total Votes,957,368,567,22
-Anderson,B102,Govenor,,,Under Votes,2,1,1,0
-Anderson,B102,Govenor,,,Over Votes,0,0,0,0
+Anderson,B102,Governor,,REP,Daniel CAMERON,479,166,306,7
+Anderson,B102,Governor,,DEM,Andy BESHEAR,478,202,261,15
+Anderson,B102,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,B102,Governor,,,Total Votes,957,368,567,22
+Anderson,B102,Governor,,,Under Votes,2,1,1,0
+Anderson,B102,Governor,,,Over Votes,0,0,0,0
 Anderson,B102,Secretary of State,,REP,Michael ADAMS,668,249,406,13
 Anderson,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",266,108,149,9
 Anderson,B102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -141,12 +141,12 @@ Anderson,B102,Commissioner of Agriculture,,,Under Votes,30,15,14,1
 Anderson,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,C101,STRAIGHT PARTY,,,Republican,226,85,137,4
 Anderson,C101,STRAIGHT PARTY,,,Democratic,129,58,65,6
-Anderson,C101,Govenor,,REP,Daniel CAMERON,316,112,199,5
-Anderson,C101,Govenor,,DEM,Andy BESHEAR,358,163,184,11
-Anderson,C101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,C101,Govenor,,,Total Votes,674,275,383,16
-Anderson,C101,Govenor,,,Under Votes,4,1,2,1
-Anderson,C101,Govenor,,,Over Votes,0,0,0,0
+Anderson,C101,Governor,,REP,Daniel CAMERON,316,112,199,5
+Anderson,C101,Governor,,DEM,Andy BESHEAR,358,163,184,11
+Anderson,C101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,C101,Governor,,,Total Votes,674,275,383,16
+Anderson,C101,Governor,,,Under Votes,4,1,2,1
+Anderson,C101,Governor,,,Over Votes,0,0,0,0
 Anderson,C101,Secretary of State,,REP,Michael ADAMS,438,175,257,6
 Anderson,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",218,93,115,10
 Anderson,C101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -176,12 +176,12 @@ Anderson,C101,Commissioner of Agriculture,,,Under Votes,28,10,17,1
 Anderson,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,C102,STRAIGHT PARTY,,,Republican,234,77,148,9
 Anderson,C102,STRAIGHT PARTY,,,Democratic,141,54,78,9
-Anderson,C102,Govenor,,REP,Daniel CAMERON,319,109,201,9
-Anderson,C102,Govenor,,DEM,Andy BESHEAR,344,123,210,11
-Anderson,C102,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,C102,Govenor,,,Total Votes,663,232,411,20
-Anderson,C102,Govenor,,,Under Votes,2,1,1,0
-Anderson,C102,Govenor,,,Over Votes,0,0,0,0
+Anderson,C102,Governor,,REP,Daniel CAMERON,319,109,201,9
+Anderson,C102,Governor,,DEM,Andy BESHEAR,344,123,210,11
+Anderson,C102,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,C102,Governor,,,Total Votes,663,232,411,20
+Anderson,C102,Governor,,,Under Votes,2,1,1,0
+Anderson,C102,Governor,,,Over Votes,0,0,0,0
 Anderson,C102,Secretary of State,,REP,Michael ADAMS,416,141,264,11
 Anderson,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",238,89,140,9
 Anderson,C102,Secretary of State,,,Kenneth C. Moellman Jr. (W),1,0,1,0
@@ -211,12 +211,12 @@ Anderson,C102,Commissioner of Agriculture,,,Under Votes,12,4,8,0
 Anderson,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,D101,STRAIGHT PARTY,,,Republican,321,132,188,1
 Anderson,D101,STRAIGHT PARTY,,,Democratic,76,46,27,3
-Anderson,D101,Govenor,,REP,Daniel CAMERON,439,184,254,1
-Anderson,D101,Govenor,,DEM,Andy BESHEAR,256,146,105,5
-Anderson,D101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,D101,Govenor,,,Total Votes,695,330,359,6
-Anderson,D101,Govenor,,,Under Votes,2,0,2,0
-Anderson,D101,Govenor,,,Over Votes,0,0,0,0
+Anderson,D101,Governor,,REP,Daniel CAMERON,439,184,254,1
+Anderson,D101,Governor,,DEM,Andy BESHEAR,256,146,105,5
+Anderson,D101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,D101,Governor,,,Total Votes,695,330,359,6
+Anderson,D101,Governor,,,Under Votes,2,0,2,0
+Anderson,D101,Governor,,,Over Votes,0,0,0,0
 Anderson,D101,Secretary of State,,REP,Michael ADAMS,528,237,290,1
 Anderson,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",151,84,63,4
 Anderson,D101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -246,12 +246,12 @@ Anderson,D101,Commissioner of Agriculture,,,Under Votes,19,11,7,1
 Anderson,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,D102,STRAIGHT PARTY,,,Republican,344,113,229,2
 Anderson,D102,STRAIGHT PARTY,,,Democratic,137,66,69,2
-Anderson,D102,Govenor,,REP,Daniel CAMERON,494,172,317,5
-Anderson,D102,Govenor,,DEM,Andy BESHEAR,405,182,210,13
-Anderson,D102,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,D102,Govenor,,,Total Votes,899,354,527,18
-Anderson,D102,Govenor,,,Under Votes,4,0,4,0
-Anderson,D102,Govenor,,,Over Votes,1,0,1,0
+Anderson,D102,Governor,,REP,Daniel CAMERON,494,172,317,5
+Anderson,D102,Governor,,DEM,Andy BESHEAR,405,182,210,13
+Anderson,D102,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,D102,Governor,,,Total Votes,899,354,527,18
+Anderson,D102,Governor,,,Under Votes,4,0,4,0
+Anderson,D102,Governor,,,Over Votes,1,0,1,0
 Anderson,D102,Secretary of State,,REP,Michael ADAMS,645,239,394,12
 Anderson,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",232,106,120,6
 Anderson,D102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -281,12 +281,12 @@ Anderson,D102,Commissioner of Agriculture,,,Under Votes,30,11,19,0
 Anderson,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,E101,STRAIGHT PARTY,,,Republican,461,190,264,7
 Anderson,E101,STRAIGHT PARTY,,,Democratic,147,63,80,4
-Anderson,E101,Govenor,,REP,Daniel CAMERON,659,251,397,11
-Anderson,E101,Govenor,,DEM,Andy BESHEAR,459,205,240,14
-Anderson,E101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,E101,Govenor,,,Total Votes,0,456,637,25
-Anderson,E101,Govenor,,,Under Votes,4,3,1,0
-Anderson,E101,Govenor,,,Over Votes,0,0,0,0
+Anderson,E101,Governor,,REP,Daniel CAMERON,659,251,397,11
+Anderson,E101,Governor,,DEM,Andy BESHEAR,459,205,240,14
+Anderson,E101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,E101,Governor,,,Total Votes,0,456,637,25
+Anderson,E101,Governor,,,Under Votes,4,3,1,0
+Anderson,E101,Governor,,,Over Votes,0,0,0,0
 Anderson,E101,Secretary of State,,REP,Michael ADAMS,811,334,463,14
 Anderson,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",291,118,163,10
 Anderson,E101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -316,12 +316,12 @@ Anderson,E101,Commissioner of Agriculture,,,Under Votes,28,7,19,2
 Anderson,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,E103,STRAIGHT PARTY,,,Republican,324,123,197,4
 Anderson,E103,STRAIGHT PARTY,,,Democratic,121,58,58,5
-Anderson,E103,Govenor,,REP,Daniel CAMERON,464,167,292,5
-Anderson,E103,Govenor,,DEM,Andy BESHEAR,339,142,189,8
-Anderson,E103,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,E103,Govenor,,,Total Votes,803,309,481,13
-Anderson,E103,Govenor,,,Under Votes,4,3,1,0
-Anderson,E103,Govenor,,,Over Votes,0,0,0,0
+Anderson,E103,Governor,,REP,Daniel CAMERON,464,167,292,5
+Anderson,E103,Governor,,DEM,Andy BESHEAR,339,142,189,8
+Anderson,E103,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,E103,Governor,,,Total Votes,803,309,481,13
+Anderson,E103,Governor,,,Under Votes,4,3,1,0
+Anderson,E103,Governor,,,Over Votes,0,0,0,0
 Anderson,E103,Secretary of State,,REP,Michael ADAMS,578,224,349,5
 Anderson,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",209,83,118,8
 Anderson,E103,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -351,12 +351,12 @@ Anderson,E103,Commissioner of Agriculture,,,Under Votes,19,5,14,0
 Anderson,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,F101,STRAIGHT PARTY,,,Republican,312,98,206,8
 Anderson,F101,STRAIGHT PARTY,,,Democratic,96,50,44,2
-Anderson,F101,Govenor,,REP,Daniel CAMERON,388,125,255,8
-Anderson,F101,Govenor,,DEM,Andy BESHEAR,265,131,127,7
-Anderson,F101,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,F101,Govenor,,,Total Votes,653,256,382,15
-Anderson,F101,Govenor,,,Under Votes,3,1,2,0
-Anderson,F101,Govenor,,,Over Votes,0,0,0,0
+Anderson,F101,Governor,,REP,Daniel CAMERON,388,125,255,8
+Anderson,F101,Governor,,DEM,Andy BESHEAR,265,131,127,7
+Anderson,F101,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,F101,Governor,,,Total Votes,653,256,382,15
+Anderson,F101,Governor,,,Under Votes,3,1,2,0
+Anderson,F101,Governor,,,Over Votes,0,0,0,0
 Anderson,F101,Secretary of State,,REP,Michael ADAMS,493,182,301,10
 Anderson,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,70,80,4
 Anderson,F101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -386,12 +386,12 @@ Anderson,F101,Commissioner of Agriculture,,,Under Votes,12,7,5,0
 Anderson,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,F102,STRAIGHT PARTY,,,Republican,218,92,118,8
 Anderson,F102,STRAIGHT PARTY,,,Democratic,60,27,28,5
-Anderson,F102,Govenor,,REP,Daniel CAMERON,293,127,159,7
-Anderson,F102,Govenor,,DEM,Andy BESHEAR,163,66,83,14
-Anderson,F102,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,F102,Govenor,,,Total Votes,456,193,242,21
-Anderson,F102,Govenor,,,Under Votes,6,1,5,0
-Anderson,F102,Govenor,,,Over Votes,0,0,0,0
+Anderson,F102,Governor,,REP,Daniel CAMERON,293,127,159,7
+Anderson,F102,Governor,,DEM,Andy BESHEAR,163,66,83,14
+Anderson,F102,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,F102,Governor,,,Total Votes,456,193,242,21
+Anderson,F102,Governor,,,Under Votes,6,1,5,0
+Anderson,F102,Governor,,,Over Votes,0,0,0,0
 Anderson,F102,Secretary of State,,REP,Michael ADAMS,349,144,194,11
 Anderson,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",103,46,47,10
 Anderson,F102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -421,12 +421,12 @@ Anderson,F102,Commissioner of Agriculture,,,Under Votes,6,3,3,0
 Anderson,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,F104,STRAIGHT PARTY,,,Republican,229,84,141,4
 Anderson,F104,STRAIGHT PARTY,,,Democratic,65,32,33,0
-Anderson,F104,Govenor,,REP,Daniel CAMERON,340,123,212,5
-Anderson,F104,Govenor,,DEM,Andy BESHEAR,195,82,110,3
-Anderson,F104,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,F104,Govenor,,,Total Votes,535,205,322,8
-Anderson,F104,Govenor,,,Under Votes,7,2,5,0
-Anderson,F104,Govenor,,,Over Votes,1,1,0,0
+Anderson,F104,Governor,,REP,Daniel CAMERON,340,123,212,5
+Anderson,F104,Governor,,DEM,Andy BESHEAR,195,82,110,3
+Anderson,F104,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,F104,Governor,,,Total Votes,535,205,322,8
+Anderson,F104,Governor,,,Under Votes,7,2,5,0
+Anderson,F104,Governor,,,Over Votes,1,1,0,0
 Anderson,F104,Secretary of State,,REP,Michael ADAMS,414,157,251,6
 Anderson,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",117,48,67,2
 Anderson,F104,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
@@ -456,12 +456,12 @@ Anderson,F104,Commissioner of Agriculture,,,Under Votes,15,4,11,0
 Anderson,F104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Anderson,F105,STRAIGHT PARTY,,,Republican,33,12,21,0
 Anderson,F105,STRAIGHT PARTY,,,Democratic,8,2,4,2
-Anderson,F105,Govenor,,REP,Daniel CAMERON,37,16,21,0
-Anderson,F105,Govenor,,DEM,Andy BESHEAR,37,15,20,2
-Anderson,F105,Govenor,,,Brian Fishback (W),0,0,0,0
-Anderson,F105,Govenor,,,Total Votes,74,31,41,2
-Anderson,F105,Govenor,,,Under Votes,2,1,1,0
-Anderson,F105,Govenor,,,Over Votes,0,0,0,0
+Anderson,F105,Governor,,REP,Daniel CAMERON,37,16,21,0
+Anderson,F105,Governor,,DEM,Andy BESHEAR,37,15,20,2
+Anderson,F105,Governor,,,Brian Fishback (W),0,0,0,0
+Anderson,F105,Governor,,,Total Votes,74,31,41,2
+Anderson,F105,Governor,,,Under Votes,2,1,1,0
+Anderson,F105,Governor,,,Over Votes,0,0,0,0
 Anderson,F105,Secretary of State,,REP,Michael ADAMS,56,22,34,0
 Anderson,F105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",20,10,8,2
 Anderson,F105,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0
