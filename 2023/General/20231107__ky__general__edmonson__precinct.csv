@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Edmonson,A101,STRAIGHT PARTY,,,Republican,79,4,73,2
 Edmonson,A101,STRAIGHT PARTY,,,Democratic,35,1,34,0
-Edmonson,A101,Governor,,REP,Daniel CAMERON,124,5,118,1
-Edmonson,A101,Governor,,DEM,Andy BESHEAR,100,7,89,4
-Edmonson,A101,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",124,5,118,1
+Edmonson,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,100,7,89,4
+Edmonson,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,A101,Governor,,,Total Votes,224,12,207,5
 Edmonson,A101,Governor,,,Under Votes,0,0,0,0
 Edmonson,A101,Governor,,,Over Votes,0,0,0,0
 Edmonson,A101,Secretary of State,,REP,Michael ADAMS,155,6,146,3
 Edmonson,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,6,54,2
-Edmonson,A101,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,A101,Secretary of State,,,Total Votes,217,12,200,5
 Edmonson,A101,Secretary of State,,,Under Votes,7,0,7,0
 Edmonson,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Edmonson,A101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Edmonson,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,A101,State Treasurer,,REP,Mark H. METCALF,148,7,137,4
 Edmonson,A101,State Treasurer,,DEM,Michael BOWMAN,71,5,65,1
-Edmonson,A101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,A101,State Treasurer,,,Total Votes,219,12,202,5
 Edmonson,A101,State Treasurer,,,Under Votes,5,0,5,0
 Edmonson,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Edmonson,A101,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Edmonson,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,A102,STRAIGHT PARTY,,,Republican,234,18,211,5
 Edmonson,A102,STRAIGHT PARTY,,,Democratic,58,4,49,5
-Edmonson,A102,Governor,,REP,Daniel CAMERON,357,23,327,7
-Edmonson,A102,Governor,,DEM,Andy BESHEAR,197,21,167,9
-Edmonson,A102,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",357,23,327,7
+Edmonson,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,197,21,167,9
+Edmonson,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,A102,Governor,,,Total Votes,554,44,494,16
 Edmonson,A102,Governor,,,Under Votes,2,0,2,0
 Edmonson,A102,Governor,,,Over Votes,0,0,0,0
 Edmonson,A102,Secretary of State,,REP,Michael ADAMS,426,35,384,7
 Edmonson,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",110,7,94,9
-Edmonson,A102,Secretary of State,,,Kenneth Moellman (W),2,0,2,0
+Edmonson,A102,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
 Edmonson,A102,Secretary of State,,,Total Votes,538,42,480,16
 Edmonson,A102,Secretary of State,,,Under Votes,18,2,16,0
 Edmonson,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Edmonson,A102,Auditor of Public Accounts,,,Under Votes,18,2,16,0
 Edmonson,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,A102,State Treasurer,,REP,Mark H. METCALF,411,29,375,7
 Edmonson,A102,State Treasurer,,DEM,Michael BOWMAN,126,11,106,9
-Edmonson,A102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,A102,State Treasurer,,,Total Votes,537,40,481,16
 Edmonson,A102,State Treasurer,,,Under Votes,19,4,15,0
 Edmonson,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Edmonson,A102,Commissioner of Agriculture,,,Under Votes,15,2,13,0
 Edmonson,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,B101,STRAIGHT PARTY,,,Republican,256,38,207,11
 Edmonson,B101,STRAIGHT PARTY,,,Democratic,62,16,42,4
-Edmonson,B101,Governor,,REP,Daniel CAMERON,379,64,303,12
-Edmonson,B101,Governor,,DEM,Andy BESHEAR,228,44,175,9
-Edmonson,B101,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",379,64,303,12
+Edmonson,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,228,44,175,9
+Edmonson,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,B101,Governor,,,Total Votes,607,108,478,21
 Edmonson,B101,Governor,,,Under Votes,4,1,3,0
 Edmonson,B101,Governor,,,Over Votes,0,0,0,0
 Edmonson,B101,Secretary of State,,REP,Michael ADAMS,465,80,372,13
 Edmonson,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,28,88,7
-Edmonson,B101,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,B101,Secretary of State,,,Total Votes,588,108,460,20
 Edmonson,B101,Secretary of State,,,Under Votes,23,1,21,1
 Edmonson,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Edmonson,B101,Auditor of Public Accounts,,,Under Votes,15,2,12,1
 Edmonson,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,B101,State Treasurer,,REP,Mark H. METCALF,444,75,356,13
 Edmonson,B101,State Treasurer,,DEM,Michael BOWMAN,138,28,103,7
-Edmonson,B101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,B101,State Treasurer,,,Total Votes,582,103,459,20
 Edmonson,B101,State Treasurer,,,Under Votes,29,6,22,1
 Edmonson,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Edmonson,B101,Commissioner of Agriculture,,,Under Votes,18,4,13,1
 Edmonson,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,C101,STRAIGHT PARTY,,,Republican,95,16,76,3
 Edmonson,C101,STRAIGHT PARTY,,,Democratic,29,15,13,1
-Edmonson,C101,Governor,,REP,Daniel CAMERON,145,27,113,5
-Edmonson,C101,Governor,,DEM,Andy BESHEAR,97,32,62,3
-Edmonson,C101,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",145,27,113,5
+Edmonson,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,32,62,3
+Edmonson,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,C101,Governor,,,Total Votes,242,59,175,8
 Edmonson,C101,Governor,,,Under Votes,0,0,0,0
 Edmonson,C101,Governor,,,Over Votes,0,0,0,0
 Edmonson,C101,Secretary of State,,REP,Michael ADAMS,183,37,139,7
 Edmonson,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,22,30,1
-Edmonson,C101,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,C101,Secretary of State,,,Total Votes,236,59,169,8
 Edmonson,C101,Secretary of State,,,Under Votes,6,0,6,0
 Edmonson,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Edmonson,C101,Auditor of Public Accounts,,,Under Votes,7,1,5,1
 Edmonson,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,C101,State Treasurer,,REP,Mark H. METCALF,167,31,131,5
 Edmonson,C101,State Treasurer,,DEM,Michael BOWMAN,65,25,37,3
-Edmonson,C101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,C101,State Treasurer,,,Total Votes,232,56,168,8
 Edmonson,C101,State Treasurer,,,Under Votes,10,3,7,0
 Edmonson,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Edmonson,C101,Commissioner of Agriculture,,,Under Votes,9,2,6,1
 Edmonson,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,C102,STRAIGHT PARTY,,,Republican,145,7,131,7
 Edmonson,C102,STRAIGHT PARTY,,,Democratic,38,4,32,2
-Edmonson,C102,Governor,,REP,Daniel CAMERON,202,10,186,6
-Edmonson,C102,Governor,,DEM,Andy BESHEAR,94,17,74,3
-Edmonson,C102,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",202,10,186,6
+Edmonson,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,94,17,74,3
+Edmonson,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,C102,Governor,,,Total Votes,296,27,260,9
 Edmonson,C102,Governor,,,Under Votes,0,0,0,0
 Edmonson,C102,Governor,,,Over Votes,1,0,0,1
 Edmonson,C102,Secretary of State,,REP,Michael ADAMS,231,17,206,8
 Edmonson,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,10,50,2
-Edmonson,C102,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,C102,Secretary of State,,,Total Votes,293,27,256,10
 Edmonson,C102,Secretary of State,,,Under Votes,4,0,4,0
 Edmonson,C102,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Edmonson,C102,Auditor of Public Accounts,,,Under Votes,5,0,4,1
 Edmonson,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,C102,State Treasurer,,REP,Mark H. METCALF,223,14,201,8
 Edmonson,C102,State Treasurer,,DEM,Michael BOWMAN,70,13,55,2
-Edmonson,C102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,C102,State Treasurer,,,Total Votes,293,27,256,10
 Edmonson,C102,State Treasurer,,,Under Votes,4,0,4,0
 Edmonson,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Edmonson,C102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Edmonson,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,D101,STRAIGHT PARTY,,,Republican,268,35,231,2
 Edmonson,D101,STRAIGHT PARTY,,,Democratic,73,10,53,10
-Edmonson,D101,Governor,,REP,Daniel CAMERON,387,48,337,2
-Edmonson,D101,Governor,,DEM,Andy BESHEAR,200,29,156,15
-Edmonson,D101,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",387,48,337,2
+Edmonson,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,200,29,156,15
+Edmonson,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,D101,Governor,,,Total Votes,587,77,493,17
 Edmonson,D101,Governor,,,Under Votes,5,1,4,0
 Edmonson,D101,Governor,,,Over Votes,1,0,1,0
 Edmonson,D101,Secretary of State,,REP,Michael ADAMS,468,59,403,6
 Edmonson,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",106,14,81,11
-Edmonson,D101,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,D101,Secretary of State,,,Total Votes,574,73,484,17
 Edmonson,D101,Secretary of State,,,Under Votes,18,5,13,0
 Edmonson,D101,Secretary of State,,,Over Votes,1,0,1,0
@@ -200,7 +200,7 @@ Edmonson,D101,Auditor of Public Accounts,,,Under Votes,20,4,16,0
 Edmonson,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,D101,State Treasurer,,REP,Mark H. METCALF,437,54,381,2
 Edmonson,D101,State Treasurer,,DEM,Michael BOWMAN,131,17,100,14
-Edmonson,D101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,D101,State Treasurer,,,Total Votes,568,71,481,16
 Edmonson,D101,State Treasurer,,,Under Votes,23,7,16,0
 Edmonson,D101,State Treasurer,,,Over Votes,2,0,1,1
@@ -211,15 +211,15 @@ Edmonson,D101,Commissioner of Agriculture,,,Under Votes,14,3,11,0
 Edmonson,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,E101,STRAIGHT PARTY,,,Republican,234,27,203,4
 Edmonson,E101,STRAIGHT PARTY,,,Democratic,76,12,61,3
-Edmonson,E101,Governor,,REP,Daniel CAMERON,318,36,277,5
-Edmonson,E101,Governor,,DEM,Andy BESHEAR,209,31,173,5
-Edmonson,E101,Governor,,,Brian Fishback (W),3,0,3,0
+Edmonson,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",318,36,277,5
+Edmonson,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,209,31,173,5
+Edmonson,E101,Governor,,,Brian Fishback / William Fishback,3,0,3,0
 Edmonson,E101,Governor,,,Total Votes,530,67,453,10
 Edmonson,E101,Governor,,,Under Votes,8,1,7,0
 Edmonson,E101,Governor,,,Over Votes,0,0,0,0
 Edmonson,E101,Secretary of State,,REP,Michael ADAMS,401,47,347,7
 Edmonson,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,16,101,3
-Edmonson,E101,Secretary of State,,,Kenneth Moellman (W),0,0,0,0
+Edmonson,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Edmonson,E101,Secretary of State,,,Total Votes,521,63,448,10
 Edmonson,E101,Secretary of State,,,Under Votes,17,5,12,0
 Edmonson,E101,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Edmonson,E101,Auditor of Public Accounts,,,Under Votes,18,3,15,0
 Edmonson,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,E101,State Treasurer,,REP,Mark H. METCALF,387,45,336,6
 Edmonson,E101,State Treasurer,,DEM,Michael BOWMAN,129,18,107,4
-Edmonson,E101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,E101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,E101,State Treasurer,,,Total Votes,516,63,443,10
 Edmonson,E101,State Treasurer,,,Under Votes,22,5,17,0
 Edmonson,E101,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Edmonson,E101,Commissioner of Agriculture,,,Under Votes,18,4,14,0
 Edmonson,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Edmonson,F101,STRAIGHT PARTY,,,Republican,265,43,213,9
 Edmonson,F101,STRAIGHT PARTY,,,Democratic,91,7,79,5
-Edmonson,F101,Governor,,REP,Daniel CAMERON,360,54,294,12
-Edmonson,F101,Governor,,DEM,Andy BESHEAR,233,34,188,11
-Edmonson,F101,Governor,,,Brian Fishback (W),0,0,0,0
+Edmonson,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",360,54,294,12
+Edmonson,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,233,34,188,11
+Edmonson,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Edmonson,F101,Governor,,,Total Votes,593,88,482,23
 Edmonson,F101,Governor,,,Under Votes,2,1,0,1
 Edmonson,F101,Governor,,,Over Votes,0,0,0,0
 Edmonson,F101,Secretary of State,,REP,Michael ADAMS,442,71,353,18
 Edmonson,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",140,15,119,6
-Edmonson,F101,Secretary of State,,,Kenneth Moellman (W),1,0,1,0
+Edmonson,F101,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
 Edmonson,F101,Secretary of State,,,Total Votes,583,86,473,24
 Edmonson,F101,Secretary of State,,,Under Votes,12,3,9,0
 Edmonson,F101,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Edmonson,F101,Auditor of Public Accounts,,,Under Votes,20,3,17,0
 Edmonson,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Edmonson,F101,State Treasurer,,REP,Mark H. METCALF,428,67,344,17
 Edmonson,F101,State Treasurer,,DEM,Michael BOWMAN,147,19,121,7
-Edmonson,F101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Edmonson,F101,State Treasurer,,,Robert Perry,0,0,0,0
 Edmonson,F101,State Treasurer,,,Total Votes,575,86,465,24
 Edmonson,F101,State Treasurer,,,Under Votes,20,3,17,0
 Edmonson,F101,State Treasurer,,,Over Votes,0,0,0,0

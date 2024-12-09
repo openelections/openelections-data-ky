@@ -1,0 +1,631 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Lawrence,A101,STRAIGHT PARTY,,,Republican,55,11,40,4
+Lawrence,A101,STRAIGHT PARTY,,,Democratic,29,2,23,4
+Lawrence,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",97,23,70,4
+Lawrence,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,62,7,51,4
+Lawrence,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,A101,Governor,,,Total Votes,159,30,121,8
+Lawrence,A101,Governor,,,Under Votes,2,0,2,0
+Lawrence,A101,Governor,,,Over Votes,0,0,0,0
+Lawrence,A101,Secretary of State,,REP,Michael ADAMS,110,24,81,5
+Lawrence,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,4,38,3
+Lawrence,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,A101,Secretary of State,,,Total Votes,155,28,119,8
+Lawrence,A101,Secretary of State,,,Under Votes,6,2,4,0
+Lawrence,A101,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,A101,Attorney General,,REP,Russell COLEMAN,104,20,80,4
+Lawrence,A101,Attorney General,,DEM,Pamela STEVENSON,49,7,38,4
+Lawrence,A101,Attorney General,,,Total Votes,153,27,118,8
+Lawrence,A101,Attorney General,,,Under Votes,8,3,5,0
+Lawrence,A101,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,A101,Auditor of Public Accounts,,REP,Allison BALL,106,22,79,5
+Lawrence,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",46,6,37,3
+Lawrence,A101,Auditor of Public Accounts,,,Total Votes,152,28,116,8
+Lawrence,A101,Auditor of Public Accounts,,,Under Votes,9,2,7,0
+Lawrence,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,A101,State Treasurer,,REP,Mark H. METCALF,101,20,77,4
+Lawrence,A101,State Treasurer,,DEM,Michael BOWMAN,51,7,40,4
+Lawrence,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,A101,State Treasurer,,,Total Votes,152,27,117,8
+Lawrence,A101,State Treasurer,,,Under Votes,9,3,6,0
+Lawrence,A101,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,101,20,76,5
+Lawrence,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,49,7,39,3
+Lawrence,A101,Commissioner of Agriculture,,,Total Votes,150,27,115,8
+Lawrence,A101,Commissioner of Agriculture,,,Under Votes,11,3,8,0
+Lawrence,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,A102,STRAIGHT PARTY,,,Republican,187,9,171,7
+Lawrence,A102,STRAIGHT PARTY,,,Democratic,76,7,58,11
+Lawrence,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",324,19,295,10
+Lawrence,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,174,13,145,16
+Lawrence,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,A102,Governor,,,Total Votes,498,32,440,26
+Lawrence,A102,Governor,,,Under Votes,5,0,5,0
+Lawrence,A102,Governor,,,Over Votes,0,0,0,0
+Lawrence,A102,Secretary of State,,REP,Michael ADAMS,361,20,329,12
+Lawrence,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,11,99,13
+Lawrence,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,A102,Secretary of State,,,Total Votes,484,31,428,25
+Lawrence,A102,Secretary of State,,,Under Votes,19,1,17,1
+Lawrence,A102,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,A102,Attorney General,,REP,Russell COLEMAN,359,21,325,13
+Lawrence,A102,Attorney General,,DEM,Pamela STEVENSON,126,11,103,12
+Lawrence,A102,Attorney General,,,Total Votes,485,32,428,25
+Lawrence,A102,Attorney General,,,Under Votes,18,0,17,1
+Lawrence,A102,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,A102,Auditor of Public Accounts,,REP,Allison BALL,353,20,321,12
+Lawrence,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",127,11,103,13
+Lawrence,A102,Auditor of Public Accounts,,,Total Votes,480,31,424,25
+Lawrence,A102,Auditor of Public Accounts,,,Under Votes,23,1,21,1
+Lawrence,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,A102,State Treasurer,,REP,Mark H. METCALF,343,19,313,11
+Lawrence,A102,State Treasurer,,DEM,Michael BOWMAN,139,12,113,14
+Lawrence,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,A102,State Treasurer,,,Total Votes,482,31,426,25
+Lawrence,A102,State Treasurer,,,Under Votes,21,1,19,1
+Lawrence,A102,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,354,19,321,14
+Lawrence,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,125,12,102,11
+Lawrence,A102,Commissioner of Agriculture,,,Total Votes,479,31,423,25
+Lawrence,A102,Commissioner of Agriculture,,,Under Votes,24,1,22,1
+Lawrence,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,A103,STRAIGHT PARTY,,,Republican,62,2,57,3
+Lawrence,A103,STRAIGHT PARTY,,,Democratic,33,1,32,0
+Lawrence,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",85,2,80,3
+Lawrence,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,73,2,71,0
+Lawrence,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,A103,Governor,,,Total Votes,158,4,151,3
+Lawrence,A103,Governor,,,Under Votes,2,0,2,0
+Lawrence,A103,Governor,,,Over Votes,0,0,0,0
+Lawrence,A103,Secretary of State,,REP,Michael ADAMS,102,2,97,3
+Lawrence,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,2,54,0
+Lawrence,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,A103,Secretary of State,,,Total Votes,158,4,151,3
+Lawrence,A103,Secretary of State,,,Under Votes,2,0,2,0
+Lawrence,A103,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,A103,Attorney General,,REP,Russell COLEMAN,99,2,94,3
+Lawrence,A103,Attorney General,,DEM,Pamela STEVENSON,59,2,57,0
+Lawrence,A103,Attorney General,,,Total Votes,158,4,151,3
+Lawrence,A103,Attorney General,,,Under Votes,2,0,2,0
+Lawrence,A103,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,A103,Auditor of Public Accounts,,REP,Allison BALL,99,2,94,3
+Lawrence,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,2,56,0
+Lawrence,A103,Auditor of Public Accounts,,,Total Votes,157,4,150,3
+Lawrence,A103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Lawrence,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,A103,State Treasurer,,REP,Mark H. METCALF,102,2,97,3
+Lawrence,A103,State Treasurer,,DEM,Michael BOWMAN,56,2,54,0
+Lawrence,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,A103,State Treasurer,,,Total Votes,158,4,151,3
+Lawrence,A103,State Treasurer,,,Under Votes,2,0,2,0
+Lawrence,A103,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,107,2,102,3
+Lawrence,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,1,50,0
+Lawrence,A103,Commissioner of Agriculture,,,Total Votes,158,3,152,3
+Lawrence,A103,Commissioner of Agriculture,,,Under Votes,2,1,1,0
+Lawrence,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,A104,STRAIGHT PARTY,,,Republican,59,7,49,3
+Lawrence,A104,STRAIGHT PARTY,,,Democratic,18,3,13,2
+Lawrence,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",101,13,83,5
+Lawrence,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,11,34,6
+Lawrence,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,A104,Governor,,,Total Votes,152,24,117,11
+Lawrence,A104,Governor,,,Under Votes,1,0,0,1
+Lawrence,A104,Governor,,,Over Votes,0,0,0,0
+Lawrence,A104,Secretary of State,,REP,Michael ADAMS,111,16,88,7
+Lawrence,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,7,25,4
+Lawrence,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,A104,Secretary of State,,,Total Votes,147,23,113,11
+Lawrence,A104,Secretary of State,,,Under Votes,6,1,4,1
+Lawrence,A104,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,A104,Attorney General,,REP,Russell COLEMAN,113,16,91,6
+Lawrence,A104,Attorney General,,DEM,Pamela STEVENSON,36,8,23,5
+Lawrence,A104,Attorney General,,,Total Votes,149,24,114,11
+Lawrence,A104,Attorney General,,,Under Votes,4,0,3,1
+Lawrence,A104,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,A104,Auditor of Public Accounts,,REP,Allison BALL,112,15,90,7
+Lawrence,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",34,7,23,4
+Lawrence,A104,Auditor of Public Accounts,,,Total Votes,146,22,113,11
+Lawrence,A104,Auditor of Public Accounts,,,Under Votes,6,1,4,1
+Lawrence,A104,Auditor of Public Accounts,,,Over Votes,1,1,0,0
+Lawrence,A104,State Treasurer,,REP,Mark H. METCALF,108,16,85,7
+Lawrence,A104,State Treasurer,,DEM,Michael BOWMAN,40,7,29,4
+Lawrence,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,A104,State Treasurer,,,Total Votes,148,23,114,11
+Lawrence,A104,State Treasurer,,,Under Votes,5,1,3,1
+Lawrence,A104,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,109,15,87,7
+Lawrence,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,7,27,4
+Lawrence,A104,Commissioner of Agriculture,,,Total Votes,147,22,114,11
+Lawrence,A104,Commissioner of Agriculture,,,Under Votes,6,2,3,1
+Lawrence,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,B101,STRAIGHT PARTY,,,Republican,42,5,34,3
+Lawrence,B101,STRAIGHT PARTY,,,Democratic,24,5,16,3
+Lawrence,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",78,8,66,4
+Lawrence,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,82,11,66,5
+Lawrence,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,B101,Governor,,,Total Votes,160,19,132,9
+Lawrence,B101,Governor,,,Under Votes,1,1,0,0
+Lawrence,B101,Governor,,,Over Votes,0,0,0,0
+Lawrence,B101,Secretary of State,,REP,Michael ADAMS,91,10,77,4
+Lawrence,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,8,44,4
+Lawrence,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,B101,Secretary of State,,,Total Votes,147,18,121,8
+Lawrence,B101,Secretary of State,,,Under Votes,14,2,11,1
+Lawrence,B101,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,B101,Attorney General,,REP,Russell COLEMAN,99,10,85,4
+Lawrence,B101,Attorney General,,DEM,Pamela STEVENSON,49,8,37,4
+Lawrence,B101,Attorney General,,,Total Votes,148,18,122,8
+Lawrence,B101,Attorney General,,,Under Votes,13,2,10,1
+Lawrence,B101,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,B101,Auditor of Public Accounts,,REP,Allison BALL,92,10,78,4
+Lawrence,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",57,8,45,4
+Lawrence,B101,Auditor of Public Accounts,,,Total Votes,149,18,123,8
+Lawrence,B101,Auditor of Public Accounts,,,Under Votes,12,2,9,1
+Lawrence,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,B101,State Treasurer,,REP,Mark H. METCALF,91,10,77,4
+Lawrence,B101,State Treasurer,,DEM,Michael BOWMAN,57,8,45,4
+Lawrence,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,B101,State Treasurer,,,Total Votes,148,18,122,8
+Lawrence,B101,State Treasurer,,,Under Votes,13,2,10,1
+Lawrence,B101,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,99,12,83,4
+Lawrence,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,48,7,37,4
+Lawrence,B101,Commissioner of Agriculture,,,Total Votes,147,19,120,8
+Lawrence,B101,Commissioner of Agriculture,,,Under Votes,14,1,12,1
+Lawrence,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,B102,STRAIGHT PARTY,,,Republican,83,18,59,6
+Lawrence,B102,STRAIGHT PARTY,,,Democratic,30,5,23,2
+Lawrence,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",137,26,102,9
+Lawrence,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,15,65,3
+Lawrence,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,B102,Governor,,,Total Votes,220,41,167,12
+Lawrence,B102,Governor,,,Under Votes,3,1,2,0
+Lawrence,B102,Governor,,,Over Votes,0,0,0,0
+Lawrence,B102,Secretary of State,,REP,Michael ADAMS,162,32,121,9
+Lawrence,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,8,40,3
+Lawrence,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,B102,Secretary of State,,,Total Votes,213,40,161,12
+Lawrence,B102,Secretary of State,,,Under Votes,10,2,8,0
+Lawrence,B102,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,B102,Attorney General,,REP,Russell COLEMAN,157,32,116,9
+Lawrence,B102,Attorney General,,DEM,Pamela STEVENSON,57,8,46,3
+Lawrence,B102,Attorney General,,,Total Votes,214,40,162,12
+Lawrence,B102,Attorney General,,,Under Votes,9,2,7,0
+Lawrence,B102,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,B102,Auditor of Public Accounts,,REP,Allison BALL,153,30,114,9
+Lawrence,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,10,41,3
+Lawrence,B102,Auditor of Public Accounts,,,Total Votes,207,40,155,12
+Lawrence,B102,Auditor of Public Accounts,,,Under Votes,16,2,14,0
+Lawrence,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,B102,State Treasurer,,REP,Mark H. METCALF,146,31,106,9
+Lawrence,B102,State Treasurer,,DEM,Michael BOWMAN,58,8,47,3
+Lawrence,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,B102,State Treasurer,,,Total Votes,204,39,153,12
+Lawrence,B102,State Treasurer,,,Under Votes,19,3,16,0
+Lawrence,B102,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,159,31,119,9
+Lawrence,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,7,37,3
+Lawrence,B102,Commissioner of Agriculture,,,Total Votes,206,38,156,12
+Lawrence,B102,Commissioner of Agriculture,,,Under Votes,17,4,13,0
+Lawrence,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,B103,STRAIGHT PARTY,,,Republican,207,33,162,12
+Lawrence,B103,STRAIGHT PARTY,,,Democratic,71,12,52,7
+Lawrence,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",391,61,314,16
+Lawrence,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,248,36,193,19
+Lawrence,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,B103,Governor,,,Total Votes,639,97,507,35
+Lawrence,B103,Governor,,,Under Votes,9,1,6,2
+Lawrence,B103,Governor,,,Over Votes,0,0,0,0
+Lawrence,B103,Secretary of State,,REP,Michael ADAMS,457,71,366,20
+Lawrence,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",160,23,124,13
+Lawrence,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,B103,Secretary of State,,,Total Votes,617,94,490,33
+Lawrence,B103,Secretary of State,,,Under Votes,31,4,23,4
+Lawrence,B103,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,B103,Attorney General,,REP,Russell COLEMAN,450,67,364,19
+Lawrence,B103,Attorney General,,DEM,Pamela STEVENSON,162,26,121,15
+Lawrence,B103,Attorney General,,,Total Votes,612,93,485,34
+Lawrence,B103,Attorney General,,,Under Votes,36,5,28,3
+Lawrence,B103,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,B103,Auditor of Public Accounts,,REP,Allison BALL,454,69,363,22
+Lawrence,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",159,25,123,11
+Lawrence,B103,Auditor of Public Accounts,,,Total Votes,613,94,486,33
+Lawrence,B103,Auditor of Public Accounts,,,Under Votes,35,4,27,4
+Lawrence,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,B103,State Treasurer,,REP,Mark H. METCALF,428,65,344,19
+Lawrence,B103,State Treasurer,,DEM,Michael BOWMAN,178,28,137,13
+Lawrence,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,B103,State Treasurer,,,Total Votes,606,93,481,32
+Lawrence,B103,State Treasurer,,,Under Votes,41,5,31,5
+Lawrence,B103,State Treasurer,,,Over Votes,1,0,1,0
+Lawrence,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,454,68,365,21
+Lawrence,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,156,24,119,13
+Lawrence,B103,Commissioner of Agriculture,,,Total Votes,610,92,484,34
+Lawrence,B103,Commissioner of Agriculture,,,Under Votes,38,6,29,3
+Lawrence,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,C101,STRAIGHT PARTY,,,Republican,34,6,28,0
+Lawrence,C101,STRAIGHT PARTY,,,Democratic,2,0,2,0
+Lawrence,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",50,10,39,1
+Lawrence,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,18,0,17,1
+Lawrence,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,C101,Governor,,,Total Votes,68,10,56,2
+Lawrence,C101,Governor,,,Under Votes,0,0,0,0
+Lawrence,C101,Governor,,,Over Votes,0,0,0,0
+Lawrence,C101,Secretary of State,,REP,Michael ADAMS,55,10,44,1
+Lawrence,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",13,0,12,1
+Lawrence,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,C101,Secretary of State,,,Total Votes,68,10,56,2
+Lawrence,C101,Secretary of State,,,Under Votes,0,0,0,0
+Lawrence,C101,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,C101,Attorney General,,REP,Russell COLEMAN,57,10,45,2
+Lawrence,C101,Attorney General,,DEM,Pamela STEVENSON,11,0,11,0
+Lawrence,C101,Attorney General,,,Total Votes,68,10,56,2
+Lawrence,C101,Attorney General,,,Under Votes,0,0,0,0
+Lawrence,C101,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,C101,Auditor of Public Accounts,,REP,Allison BALL,52,9,42,1
+Lawrence,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",15,0,14,1
+Lawrence,C101,Auditor of Public Accounts,,,Total Votes,67,9,56,2
+Lawrence,C101,Auditor of Public Accounts,,,Under Votes,1,1,0,0
+Lawrence,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,C101,State Treasurer,,REP,Mark H. METCALF,54,9,44,1
+Lawrence,C101,State Treasurer,,DEM,Michael BOWMAN,13,0,12,1
+Lawrence,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,C101,State Treasurer,,,Total Votes,67,9,56,2
+Lawrence,C101,State Treasurer,,,Under Votes,1,1,0,0
+Lawrence,C101,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,53,8,43,2
+Lawrence,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,1,11,0
+Lawrence,C101,Commissioner of Agriculture,,,Total Votes,65,9,54,2
+Lawrence,C101,Commissioner of Agriculture,,,Under Votes,2,1,1,0
+Lawrence,C101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Lawrence,C102,STRAIGHT PARTY,,,Republican,63,1,59,3
+Lawrence,C102,STRAIGHT PARTY,,,Democratic,19,2,15,2
+Lawrence,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",98,1,93,4
+Lawrence,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,46,2,38,6
+Lawrence,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,C102,Governor,,,Total Votes,144,3,131,10
+Lawrence,C102,Governor,,,Under Votes,3,1,2,0
+Lawrence,C102,Governor,,,Over Votes,0,0,0,0
+Lawrence,C102,Secretary of State,,REP,Michael ADAMS,107,2,101,4
+Lawrence,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",32,2,25,5
+Lawrence,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,C102,Secretary of State,,,Total Votes,139,4,126,9
+Lawrence,C102,Secretary of State,,,Under Votes,8,0,7,1
+Lawrence,C102,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,C102,Attorney General,,REP,Russell COLEMAN,108,2,102,4
+Lawrence,C102,Attorney General,,DEM,Pamela STEVENSON,31,2,24,5
+Lawrence,C102,Attorney General,,,Total Votes,139,4,126,9
+Lawrence,C102,Attorney General,,,Under Votes,8,0,7,1
+Lawrence,C102,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,C102,Auditor of Public Accounts,,REP,Allison BALL,108,2,102,4
+Lawrence,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",30,2,23,5
+Lawrence,C102,Auditor of Public Accounts,,,Total Votes,138,4,125,9
+Lawrence,C102,Auditor of Public Accounts,,,Under Votes,9,0,8,1
+Lawrence,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,C102,State Treasurer,,REP,Mark H. METCALF,107,2,101,4
+Lawrence,C102,State Treasurer,,DEM,Michael BOWMAN,29,2,22,5
+Lawrence,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,C102,State Treasurer,,,Total Votes,136,4,123,9
+Lawrence,C102,State Treasurer,,,Under Votes,11,0,10,1
+Lawrence,C102,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,110,2,104,4
+Lawrence,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,2,22,5
+Lawrence,C102,Commissioner of Agriculture,,,Total Votes,139,4,126,9
+Lawrence,C102,Commissioner of Agriculture,,,Under Votes,8,0,7,1
+Lawrence,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,C103,STRAIGHT PARTY,,,Republican,46,2,43,1
+Lawrence,C103,STRAIGHT PARTY,,,Democratic,15,2,13,0
+Lawrence,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",67,3,61,3
+Lawrence,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,34,5,28,1
+Lawrence,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,C103,Governor,,,Total Votes,101,8,89,4
+Lawrence,C103,Governor,,,Under Votes,1,0,1,0
+Lawrence,C103,Governor,,,Over Votes,0,0,0,0
+Lawrence,C103,Secretary of State,,REP,Michael ADAMS,75,5,67,3
+Lawrence,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",21,3,18,0
+Lawrence,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,C103,Secretary of State,,,Total Votes,96,8,85,3
+Lawrence,C103,Secretary of State,,,Under Votes,6,0,5,1
+Lawrence,C103,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,C103,Attorney General,,REP,Russell COLEMAN,72,4,65,3
+Lawrence,C103,Attorney General,,DEM,Pamela STEVENSON,26,4,22,0
+Lawrence,C103,Attorney General,,,Total Votes,98,8,87,3
+Lawrence,C103,Attorney General,,,Under Votes,4,0,3,1
+Lawrence,C103,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,C103,Auditor of Public Accounts,,REP,Allison BALL,73,6,64,3
+Lawrence,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",22,2,20,0
+Lawrence,C103,Auditor of Public Accounts,,,Total Votes,95,8,84,3
+Lawrence,C103,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Lawrence,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,C103,State Treasurer,,REP,Mark H. METCALF,73,4,66,3
+Lawrence,C103,State Treasurer,,DEM,Michael BOWMAN,23,4,19,0
+Lawrence,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,C103,State Treasurer,,,Total Votes,96,8,85,3
+Lawrence,C103,State Treasurer,,,Under Votes,6,0,5,1
+Lawrence,C103,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,72,4,65,3
+Lawrence,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,4,21,0
+Lawrence,C103,Commissioner of Agriculture,,,Total Votes,97,8,86,3
+Lawrence,C103,Commissioner of Agriculture,,,Under Votes,5,0,4,1
+Lawrence,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,C104,STRAIGHT PARTY,,,Republican,169,24,137,8
+Lawrence,C104,STRAIGHT PARTY,,,Democratic,20,6,14,0
+Lawrence,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",249,35,203,11
+Lawrence,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,15,65,3
+Lawrence,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,C104,Governor,,,Total Votes,332,50,268,14
+Lawrence,C104,Governor,,,Under Votes,6,4,2,0
+Lawrence,C104,Governor,,,Over Votes,0,0,0,0
+Lawrence,C104,Secretary of State,,REP,Michael ADAMS,271,42,216,13
+Lawrence,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,8,40,1
+Lawrence,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,C104,Secretary of State,,,Total Votes,320,50,256,14
+Lawrence,C104,Secretary of State,,,Under Votes,18,4,14,0
+Lawrence,C104,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,C104,Attorney General,,REP,Russell COLEMAN,269,41,215,13
+Lawrence,C104,Attorney General,,DEM,Pamela STEVENSON,52,9,42,1
+Lawrence,C104,Attorney General,,,Total Votes,321,50,257,14
+Lawrence,C104,Attorney General,,,Under Votes,17,4,13,0
+Lawrence,C104,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,C104,Auditor of Public Accounts,,REP,Allison BALL,274,42,218,14
+Lawrence,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",46,9,37,0
+Lawrence,C104,Auditor of Public Accounts,,,Total Votes,320,51,255,14
+Lawrence,C104,Auditor of Public Accounts,,,Under Votes,18,3,15,0
+Lawrence,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,C104,State Treasurer,,REP,Mark H. METCALF,263,40,209,14
+Lawrence,C104,State Treasurer,,DEM,Michael BOWMAN,55,11,44,0
+Lawrence,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,C104,State Treasurer,,,Total Votes,318,51,253,14
+Lawrence,C104,State Treasurer,,,Under Votes,20,3,17,0
+Lawrence,C104,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,271,42,216,13
+Lawrence,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,8,37,1
+Lawrence,C104,Commissioner of Agriculture,,,Total Votes,317,50,253,14
+Lawrence,C104,Commissioner of Agriculture,,,Under Votes,21,4,17,0
+Lawrence,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,C105,STRAIGHT PARTY,,,Republican,36,1,35,0
+Lawrence,C105,STRAIGHT PARTY,,,Democratic,9,3,4,2
+Lawrence,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",59,3,56,0
+Lawrence,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,21,5,13,3
+Lawrence,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,C105,Governor,,,Total Votes,80,8,69,3
+Lawrence,C105,Governor,,,Under Votes,5,1,4,0
+Lawrence,C105,Governor,,,Over Votes,0,0,0,0
+Lawrence,C105,Secretary of State,,REP,Michael ADAMS,64,4,59,1
+Lawrence,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",18,4,12,2
+Lawrence,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,C105,Secretary of State,,,Total Votes,82,8,71,3
+Lawrence,C105,Secretary of State,,,Under Votes,3,1,2,0
+Lawrence,C105,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,C105,Attorney General,,REP,Russell COLEMAN,64,4,59,1
+Lawrence,C105,Attorney General,,DEM,Pamela STEVENSON,18,4,12,2
+Lawrence,C105,Attorney General,,,Total Votes,82,8,71,3
+Lawrence,C105,Attorney General,,,Under Votes,3,1,2,0
+Lawrence,C105,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,C105,Auditor of Public Accounts,,REP,Allison BALL,61,3,57,1
+Lawrence,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",19,5,12,2
+Lawrence,C105,Auditor of Public Accounts,,,Total Votes,80,8,69,3
+Lawrence,C105,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Lawrence,C105,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Lawrence,C105,State Treasurer,,REP,Mark H. METCALF,64,4,59,1
+Lawrence,C105,State Treasurer,,DEM,Michael BOWMAN,18,4,12,2
+Lawrence,C105,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,C105,State Treasurer,,,Total Votes,82,8,71,3
+Lawrence,C105,State Treasurer,,,Under Votes,3,1,2,0
+Lawrence,C105,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,65,4,60,1
+Lawrence,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,4,11,2
+Lawrence,C105,Commissioner of Agriculture,,,Total Votes,82,8,71,3
+Lawrence,C105,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Lawrence,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D101,STRAIGHT PARTY,,,Republican,65,3,62,0
+Lawrence,D101,STRAIGHT PARTY,,,Democratic,7,2,3,2
+Lawrence,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",101,6,92,3
+Lawrence,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,50,2,44,4
+Lawrence,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D101,Governor,,,Total Votes,151,8,136,7
+Lawrence,D101,Governor,,,Under Votes,4,0,4,0
+Lawrence,D101,Governor,,,Over Votes,0,0,0,0
+Lawrence,D101,Secretary of State,,REP,Michael ADAMS,126,6,116,4
+Lawrence,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",21,2,16,3
+Lawrence,D101,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Lawrence,D101,Secretary of State,,,Total Votes,148,8,133,7
+Lawrence,D101,Secretary of State,,,Under Votes,7,0,7,0
+Lawrence,D101,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D101,Attorney General,,REP,Russell COLEMAN,121,6,112,3
+Lawrence,D101,Attorney General,,DEM,Pamela STEVENSON,29,2,23,4
+Lawrence,D101,Attorney General,,,Total Votes,150,8,135,7
+Lawrence,D101,Attorney General,,,Under Votes,5,0,5,0
+Lawrence,D101,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D101,Auditor of Public Accounts,,REP,Allison BALL,117,5,109,3
+Lawrence,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",31,3,25,3
+Lawrence,D101,Auditor of Public Accounts,,,Total Votes,148,8,134,6
+Lawrence,D101,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Lawrence,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D101,State Treasurer,,REP,Mark H. METCALF,118,6,109,3
+Lawrence,D101,State Treasurer,,DEM,Michael BOWMAN,30,2,25,3
+Lawrence,D101,State Treasurer,,,Robert Perry,1,0,1,0
+Lawrence,D101,State Treasurer,,,Total Votes,149,8,135,6
+Lawrence,D101,State Treasurer,,,Under Votes,6,0,5,1
+Lawrence,D101,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,122,6,113,3
+Lawrence,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,2,21,4
+Lawrence,D101,Commissioner of Agriculture,,,Total Votes,149,8,134,7
+Lawrence,D101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Lawrence,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D102,STRAIGHT PARTY,,,Republican,43,2,38,3
+Lawrence,D102,STRAIGHT PARTY,,,Democratic,10,0,6,4
+Lawrence,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",75,9,63,3
+Lawrence,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,31,1,25,5
+Lawrence,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D102,Governor,,,Total Votes,106,10,88,8
+Lawrence,D102,Governor,,,Under Votes,1,0,1,0
+Lawrence,D102,Governor,,,Over Votes,0,0,0,0
+Lawrence,D102,Secretary of State,,REP,Michael ADAMS,87,10,73,4
+Lawrence,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",16,0,12,4
+Lawrence,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,D102,Secretary of State,,,Total Votes,103,10,85,8
+Lawrence,D102,Secretary of State,,,Under Votes,4,0,4,0
+Lawrence,D102,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D102,Attorney General,,REP,Russell COLEMAN,85,10,71,4
+Lawrence,D102,Attorney General,,DEM,Pamela STEVENSON,19,0,15,4
+Lawrence,D102,Attorney General,,,Total Votes,104,10,86,8
+Lawrence,D102,Attorney General,,,Under Votes,3,0,3,0
+Lawrence,D102,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D102,Auditor of Public Accounts,,REP,Allison BALL,82,10,68,4
+Lawrence,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",19,0,15,4
+Lawrence,D102,Auditor of Public Accounts,,,Total Votes,101,10,83,8
+Lawrence,D102,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Lawrence,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D102,State Treasurer,,REP,Mark H. METCALF,83,9,70,4
+Lawrence,D102,State Treasurer,,DEM,Michael BOWMAN,22,1,17,4
+Lawrence,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,D102,State Treasurer,,,Total Votes,105,10,87,8
+Lawrence,D102,State Treasurer,,,Under Votes,2,0,2,0
+Lawrence,D102,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,80,10,66,4
+Lawrence,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,0,17,4
+Lawrence,D102,Commissioner of Agriculture,,,Total Votes,101,10,83,8
+Lawrence,D102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Lawrence,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D103,STRAIGHT PARTY,,,Republican,26,6,19,1
+Lawrence,D103,STRAIGHT PARTY,,,Democratic,29,6,23,0
+Lawrence,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",54,10,44,0
+Lawrence,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,76,11,63,2
+Lawrence,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D103,Governor,,,Total Votes,130,21,107,2
+Lawrence,D103,Governor,,,Under Votes,1,1,0,0
+Lawrence,D103,Governor,,,Over Votes,0,0,0,0
+Lawrence,D103,Secretary of State,,REP,Michael ADAMS,72,12,59,1
+Lawrence,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,9,40,0
+Lawrence,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,D103,Secretary of State,,,Total Votes,121,21,99,1
+Lawrence,D103,Secretary of State,,,Under Votes,10,1,8,1
+Lawrence,D103,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D103,Attorney General,,REP,Russell COLEMAN,64,13,50,1
+Lawrence,D103,Attorney General,,DEM,Pamela STEVENSON,54,8,46,0
+Lawrence,D103,Attorney General,,,Total Votes,118,21,96,1
+Lawrence,D103,Attorney General,,,Under Votes,13,1,11,1
+Lawrence,D103,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D103,Auditor of Public Accounts,,REP,Allison BALL,67,13,53,1
+Lawrence,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",52,7,45,0
+Lawrence,D103,Auditor of Public Accounts,,,Total Votes,119,20,98,1
+Lawrence,D103,Auditor of Public Accounts,,,Under Votes,12,2,9,1
+Lawrence,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D103,State Treasurer,,REP,Mark H. METCALF,57,11,45,1
+Lawrence,D103,State Treasurer,,DEM,Michael BOWMAN,60,10,50,0
+Lawrence,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,D103,State Treasurer,,,Total Votes,117,21,95,1
+Lawrence,D103,State Treasurer,,,Under Votes,14,1,12,1
+Lawrence,D103,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,66,13,52,1
+Lawrence,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,52,8,44,0
+Lawrence,D103,Commissioner of Agriculture,,,Total Votes,118,21,96,1
+Lawrence,D103,Commissioner of Agriculture,,,Under Votes,13,1,11,1
+Lawrence,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D104,STRAIGHT PARTY,,,Republican,53,7,45,1
+Lawrence,D104,STRAIGHT PARTY,,,Democratic,25,3,20,2
+Lawrence,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",99,10,87,2
+Lawrence,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,73,14,56,3
+Lawrence,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D104,Governor,,,Total Votes,172,24,143,5
+Lawrence,D104,Governor,,,Under Votes,2,2,0,0
+Lawrence,D104,Governor,,,Over Votes,0,0,0,0
+Lawrence,D104,Secretary of State,,REP,Michael ADAMS,115,14,98,3
+Lawrence,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,10,41,2
+Lawrence,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,D104,Secretary of State,,,Total Votes,168,24,139,5
+Lawrence,D104,Secretary of State,,,Under Votes,6,2,4,0
+Lawrence,D104,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D104,Attorney General,,REP,Russell COLEMAN,118,15,100,3
+Lawrence,D104,Attorney General,,DEM,Pamela STEVENSON,51,9,40,2
+Lawrence,D104,Attorney General,,,Total Votes,169,24,140,5
+Lawrence,D104,Attorney General,,,Under Votes,5,2,3,0
+Lawrence,D104,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D104,Auditor of Public Accounts,,REP,Allison BALL,118,13,102,3
+Lawrence,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",49,10,37,2
+Lawrence,D104,Auditor of Public Accounts,,,Total Votes,167,23,139,5
+Lawrence,D104,Auditor of Public Accounts,,,Under Votes,7,3,4,0
+Lawrence,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D104,State Treasurer,,REP,Mark H. METCALF,114,12,99,3
+Lawrence,D104,State Treasurer,,DEM,Michael BOWMAN,54,11,41,2
+Lawrence,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,D104,State Treasurer,,,Total Votes,168,23,140,5
+Lawrence,D104,State Treasurer,,,Under Votes,6,3,3,0
+Lawrence,D104,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,119,14,103,2
+Lawrence,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,9,35,3
+Lawrence,D104,Commissioner of Agriculture,,,Total Votes,166,23,138,5
+Lawrence,D104,Commissioner of Agriculture,,,Under Votes,8,3,5,0
+Lawrence,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D105,STRAIGHT PARTY,,,Republican,71,11,59,1
+Lawrence,D105,STRAIGHT PARTY,,,Democratic,31,8,18,5
+Lawrence,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",144,25,115,4
+Lawrence,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,19,82,10
+Lawrence,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D105,Governor,,,Total Votes,255,44,197,14
+Lawrence,D105,Governor,,,Under Votes,5,0,5,0
+Lawrence,D105,Governor,,,Over Votes,0,0,0,0
+Lawrence,D105,Secretary of State,,REP,Michael ADAMS,195,35,152,8
+Lawrence,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,9,41,6
+Lawrence,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,D105,Secretary of State,,,Total Votes,251,44,193,14
+Lawrence,D105,Secretary of State,,,Under Votes,9,0,9,0
+Lawrence,D105,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D105,Attorney General,,REP,Russell COLEMAN,181,31,143,7
+Lawrence,D105,Attorney General,,DEM,Pamela STEVENSON,70,13,51,6
+Lawrence,D105,Attorney General,,,Total Votes,251,44,194,13
+Lawrence,D105,Attorney General,,,Under Votes,9,0,8,1
+Lawrence,D105,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D105,Auditor of Public Accounts,,REP,Allison BALL,189,34,148,7
+Lawrence,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",62,10,46,6
+Lawrence,D105,Auditor of Public Accounts,,,Total Votes,251,44,194,13
+Lawrence,D105,Auditor of Public Accounts,,,Under Votes,9,0,8,1
+Lawrence,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D105,State Treasurer,,REP,Mark H. METCALF,185,31,147,7
+Lawrence,D105,State Treasurer,,DEM,Michael BOWMAN,65,12,47,6
+Lawrence,D105,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,D105,State Treasurer,,,Total Votes,250,43,194,13
+Lawrence,D105,State Treasurer,,,Under Votes,10,1,8,1
+Lawrence,D105,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,183,32,144,7
+Lawrence,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,11,51,6
+Lawrence,D105,Commissioner of Agriculture,,,Total Votes,251,43,195,13
+Lawrence,D105,Commissioner of Agriculture,,,Under Votes,9,1,7,1
+Lawrence,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Lawrence,D106,STRAIGHT PARTY,,,Republican,51,8,39,4
+Lawrence,D106,STRAIGHT PARTY,,,Democratic,14,0,11,3
+Lawrence,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",78,11,63,4
+Lawrence,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,45,6,35,4
+Lawrence,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Lawrence,D106,Governor,,,Total Votes,123,17,98,8
+Lawrence,D106,Governor,,,Under Votes,2,0,2,0
+Lawrence,D106,Governor,,,Over Votes,0,0,0,0
+Lawrence,D106,Secretary of State,,REP,Michael ADAMS,95,12,79,4
+Lawrence,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,4,21,4
+Lawrence,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Lawrence,D106,Secretary of State,,,Total Votes,124,16,100,8
+Lawrence,D106,Secretary of State,,,Under Votes,1,1,0,0
+Lawrence,D106,Secretary of State,,,Over Votes,0,0,0,0
+Lawrence,D106,Attorney General,,REP,Russell COLEMAN,93,15,74,4
+Lawrence,D106,Attorney General,,DEM,Pamela STEVENSON,31,1,26,4
+Lawrence,D106,Attorney General,,,Total Votes,124,16,100,8
+Lawrence,D106,Attorney General,,,Under Votes,1,1,0,0
+Lawrence,D106,Attorney General,,,Over Votes,0,0,0,0
+Lawrence,D106,Auditor of Public Accounts,,REP,Allison BALL,95,14,77,4
+Lawrence,D106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",30,3,23,4
+Lawrence,D106,Auditor of Public Accounts,,,Total Votes,125,17,100,8
+Lawrence,D106,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Lawrence,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Lawrence,D106,State Treasurer,,REP,Mark H. METCALF,92,14,74,4
+Lawrence,D106,State Treasurer,,DEM,Michael BOWMAN,31,2,25,4
+Lawrence,D106,State Treasurer,,,Robert Perry,0,0,0,0
+Lawrence,D106,State Treasurer,,,Total Votes,123,16,99,8
+Lawrence,D106,State Treasurer,,,Under Votes,2,1,1,0
+Lawrence,D106,State Treasurer,,,Over Votes,0,0,0,0
+Lawrence,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,95,15,76,4
+Lawrence,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,1,23,4
+Lawrence,D106,Commissioner of Agriculture,,,Total Votes,123,16,99,8
+Lawrence,D106,Commissioner of Agriculture,,,Under Votes,2,1,1,0
+Lawrence,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0

@@ -1,0 +1,106 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Grant,A101,STRAIGHT PARTY,,,Republican,971,142,803,26
+Grant,A101,STRAIGHT PARTY,,,Democratic,262,67,175,20
+Grant,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",0,206,0,27
+Grant,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,747,190,517,40
+Grant,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Grant,A101,Governor,,,Total Votes,0,396,0,67
+Grant,A101,Governor,,,Under Votes,11,0,11,0
+Grant,A101,Governor,,,Over Votes,1,0,0,1
+Grant,A101,Secretary of State,,REP,Michael ADAMS,1613,260,1315,38
+Grant,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",511,130,352,29
+Grant,A101,Secretary of State,,,Kenneth C. Moellman Jr.,3,0,3,0
+Grant,A101,Secretary of State,,,Total Votes,2127,390,1670,67
+Grant,A101,Secretary of State,,,Under Votes,37,6,30,1
+Grant,A101,Secretary of State,,,Over Votes,1,0,1,0
+Grant,A101,Attorney General,,REP,Russell COLEMAN,1581,249,1298,34
+Grant,A101,Attorney General,,DEM,Pamela STEVENSON,550,137,380,33
+Grant,A101,Attorney General,,,Total Votes,2131,386,1678,67
+Grant,A101,Attorney General,,,Under Votes,33,10,22,1
+Grant,A101,Attorney General,,,Over Votes,1,0,1,0
+Grant,A101,Auditor of Public Accounts,,REP,Allison BALL,0,264,0,40
+Grant,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",498,124,347,27
+Grant,A101,Auditor of Public Accounts,,,Total Votes,0,388,0,67
+Grant,A101,Auditor of Public Accounts,,,Under Votes,43,8,34,1
+Grant,A101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Grant,A101,State Treasurer,,REP,Mark H. METCALF,1565,247,1283,35
+Grant,A101,State Treasurer,,DEM,Michael BOWMAN,547,139,377,31
+Grant,A101,State Treasurer,,,Robert Perry,2,0,2,0
+Grant,A101,State Treasurer,,,Total Votes,2114,386,1662,66
+Grant,A101,State Treasurer,,,Under Votes,49,10,38,1
+Grant,A101,State Treasurer,,,Over Votes,2,0,1,1
+Grant,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,0,257,0,36
+Grant,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,508,128,350,30
+Grant,A101,Commissioner of Agriculture,,,Total Votes,0,385,0,66
+Grant,A101,Commissioner of Agriculture,,,Under Votes,46,10,35,1
+Grant,A101,Commissioner of Agriculture,,,Over Votes,2,1,0,1
+Grant,B102,STRAIGHT PARTY,,,Republican,888,148,733,7
+Grant,B102,STRAIGHT PARTY,,,Democratic,281,85,180,16
+Grant,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",0,223,0,12
+Grant,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,764,212,523,29
+Grant,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Grant,B102,Governor,,,Total Votes,0,435,0,41
+Grant,B102,Governor,,,Under Votes,13,0,11,2
+Grant,B102,Governor,,,Over Votes,0,0,0,0
+Grant,B102,Secretary of State,,REP,Michael ADAMS,1488,256,1215,17
+Grant,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",542,170,347,25
+Grant,B102,Secretary of State,,,Kenneth C. Moellman Jr.,5,0,5,0
+Grant,B102,Secretary of State,,,Total Votes,2035,426,1567,42
+Grant,B102,Secretary of State,,,Under Votes,44,9,34,1
+Grant,B102,Secretary of State,,,Over Votes,0,0,0,0
+Grant,B102,Attorney General,,REP,Russell COLEMAN,1480,245,1217,18
+Grant,B102,Attorney General,,DEM,Pamela STEVENSON,561,177,360,24
+Grant,B102,Attorney General,,,Total Votes,2041,422,1577,42
+Grant,B102,Attorney General,,,Under Votes,38,13,24,1
+Grant,B102,Attorney General,,,Over Votes,0,0,0,0
+Grant,B102,Auditor of Public Accounts,,REP,Allison BALL,0,255,0,18
+Grant,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",511,165,322,24
+Grant,B102,Auditor of Public Accounts,,,Total Votes,0,420,0,42
+Grant,B102,Auditor of Public Accounts,,,Under Votes,48,15,32,1
+Grant,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Grant,B102,State Treasurer,,REP,Mark H. METCALF,1486,244,1224,18
+Grant,B102,State Treasurer,,DEM,Michael BOWMAN,535,173,338,24
+Grant,B102,State Treasurer,,,Robert Perry,3,0,3,0
+Grant,B102,State Treasurer,,,Total Votes,2024,417,1565,42
+Grant,B102,State Treasurer,,,Under Votes,55,18,36,1
+Grant,B102,State Treasurer,,,Over Votes,0,0,0,0
+Grant,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,0,250,0,18
+Grant,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,520,165,331,24
+Grant,B102,Commissioner of Agriculture,,,Total Votes,0,415,0,42
+Grant,B102,Commissioner of Agriculture,,,Under Votes,64,20,43,1
+Grant,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Grant,C103,STRAIGHT PARTY,,,Republican,992,97,868,27
+Grant,C103,STRAIGHT PARTY,,,Democratic,285,64,207,14
+Grant,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",0,133,0,30
+Grant,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,709,139,534,36
+Grant,C103,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Grant,C103,Governor,,,Total Votes,0,272,0,66
+Grant,C103,Governor,,,Under Votes,4,0,4,0
+Grant,C103,Governor,,,Over Votes,0,0,0,0
+Grant,C103,Secretary of State,,REP,Michael ADAMS,1562,169,1352,41
+Grant,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",503,101,378,24
+Grant,C103,Secretary of State,,,Kenneth C. Moellman Jr.,6,0,6,0
+Grant,C103,Secretary of State,,,Total Votes,2071,270,1736,65
+Grant,C103,Secretary of State,,,Under Votes,28,2,25,1
+Grant,C103,Secretary of State,,,Over Votes,0,0,0,0
+Grant,C103,Attorney General,,REP,Russell COLEMAN,1542,153,1348,41
+Grant,C103,Attorney General,,DEM,Pamela STEVENSON,540,119,397,24
+Grant,C103,Attorney General,,,Total Votes,2082,272,1745,65
+Grant,C103,Attorney General,,,Under Votes,16,0,15,1
+Grant,C103,Attorney General,,,Over Votes,1,0,1,0
+Grant,C103,Auditor of Public Accounts,,REP,Allison BALL,0,159,0,41
+Grant,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",496,111,362,23
+Grant,C103,Auditor of Public Accounts,,,Total Votes,0,270,0,64
+Grant,C103,Auditor of Public Accounts,,,Under Votes,31,2,27,2
+Grant,C103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Grant,C103,State Treasurer,,REP,Mark H. METCALF,1552,155,1358,39
+Grant,C103,State Treasurer,,DEM,Michael BOWMAN,523,116,382,25
+Grant,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Grant,C103,State Treasurer,,,Total Votes,2075,271,1740,64
+Grant,C103,State Treasurer,,,Under Votes,24,1,21,2
+Grant,C103,State Treasurer,,,Over Votes,0,0,0,0
+Grant,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,0,160,0,40
+Grant,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,498,111,364,23
+Grant,C103,Commissioner of Agriculture,,,Total Votes,0,271,0,63
+Grant,C103,Commissioner of Agriculture,,,Under Votes,34,1,30,3
+Grant,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

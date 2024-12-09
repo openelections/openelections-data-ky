@@ -1,0 +1,1358 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Hardin,A001,STRAIGHT PARTY,,,Republican,77,4,70,3
+Hardin,A001,STRAIGHT PARTY,,,Democratic,39,2,34,3
+Hardin,A001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",123,6,114,3
+Hardin,A001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,4,98,5
+Hardin,A001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A001,Governor,,,Total Votes,230,10,212,8
+Hardin,A001,Secretary of State,,REP,Michael ADAMS,148,6,138,4
+Hardin,A001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,4,70,4
+Hardin,A001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A001,Secretary of State,,,Total Votes,226,10,208,8
+Hardin,A001,Attorney General,,REP,Russell COLEMAN,150,6,141,3
+Hardin,A001,Attorney General,,DEM,Pamela STEVENSON,77,4,68,5
+Hardin,A001,Attorney General,,,Total Votes,227,10,209,8
+Hardin,A001,Auditor of Public Accounts,,REP,Allison BALL,154,6,144,4
+Hardin,A001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",71,4,63,4
+Hardin,A001,Auditor of Public Accounts,,,Total Votes,225,10,207,8
+Hardin,A001,State Treasurer,,REP,Mark H. METCALF,142,6,133,3
+Hardin,A001,State Treasurer,,DEM,Michael BOWMAN,83,4,74,5
+Hardin,A001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A001,State Treasurer,,,Total Votes,225,10,207,8
+Hardin,A001,Commissioner of Agriculture,,REP,Jonathan SHELL,149,6,140,3
+Hardin,A001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,76,4,67,5
+Hardin,A001,Commissioner of Agriculture,,,Total Votes,225,10,207,8
+Hardin,A002,STRAIGHT PARTY,,,Republican,87,26,60,1
+Hardin,A002,STRAIGHT PARTY,,,Democratic,140,60,76,4
+Hardin,A002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,34,84,1
+Hardin,A002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,253,99,143,11
+Hardin,A002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A002,Governor,,,Total Votes,372,133,227,12
+Hardin,A002,Secretary of State,,REP,Michael ADAMS,160,51,106,3
+Hardin,A002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",211,82,120,9
+Hardin,A002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A002,Secretary of State,,,Total Votes,371,133,226,12
+Hardin,A002,Attorney General,,REP,Russell COLEMAN,155,51,102,2
+Hardin,A002,Attorney General,,DEM,Pamela STEVENSON,216,82,124,10
+Hardin,A002,Attorney General,,,Total Votes,371,133,226,12
+Hardin,A002,Auditor of Public Accounts,,REP,Allison BALL,156,50,103,3
+Hardin,A002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",214,82,123,9
+Hardin,A002,Auditor of Public Accounts,,,Total Votes,370,132,226,12
+Hardin,A002,State Treasurer,,REP,Mark H. METCALF,143,43,98,2
+Hardin,A002,State Treasurer,,DEM,Michael BOWMAN,226,88,128,10
+Hardin,A002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A002,State Treasurer,,,Total Votes,369,131,226,12
+Hardin,A002,Commissioner of Agriculture,,REP,Jonathan SHELL,156,48,106,2
+Hardin,A002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,212,82,120,10
+Hardin,A002,Commissioner of Agriculture,,,Total Votes,368,130,226,12
+Hardin,A003,STRAIGHT PARTY,,,Republican,41,11,30,0
+Hardin,A003,STRAIGHT PARTY,,,Democratic,78,27,48,3
+Hardin,A003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",58,19,39,0
+Hardin,A003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,124,38,79,7
+Hardin,A003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A003,Governor,,,Total Votes,182,57,118,7
+Hardin,A003,Secretary of State,,REP,Michael ADAMS,77,22,53,2
+Hardin,A003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,33,63,5
+Hardin,A003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A003,Secretary of State,,,Total Votes,178,55,116,7
+Hardin,A003,Attorney General,,REP,Russell COLEMAN,73,21,51,1
+Hardin,A003,Attorney General,,DEM,Pamela STEVENSON,108,36,66,6
+Hardin,A003,Attorney General,,,Total Votes,181,57,117,7
+Hardin,A003,Auditor of Public Accounts,,REP,Allison BALL,73,19,52,2
+Hardin,A003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",105,35,65,5
+Hardin,A003,Auditor of Public Accounts,,,Total Votes,178,54,117,7
+Hardin,A003,State Treasurer,,REP,Mark H. METCALF,70,19,50,1
+Hardin,A003,State Treasurer,,DEM,Michael BOWMAN,105,34,65,6
+Hardin,A003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A003,State Treasurer,,,Total Votes,175,53,115,7
+Hardin,A003,Commissioner of Agriculture,,REP,Jonathan SHELL,69,20,47,2
+Hardin,A003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,107,34,68,5
+Hardin,A003,Commissioner of Agriculture,,,Total Votes,176,54,115,7
+Hardin,A004,STRAIGHT PARTY,,,Republican,106,27,76,3
+Hardin,A004,STRAIGHT PARTY,,,Democratic,136,59,65,12
+Hardin,A004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",144,33,105,6
+Hardin,A004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,255,93,140,22
+Hardin,A004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A004,Governor,,,Total Votes,399,126,245,28
+Hardin,A004,Secretary of State,,REP,Michael ADAMS,195,56,127,12
+Hardin,A004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",198,69,113,16
+Hardin,A004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A004,Secretary of State,,,Total Votes,393,125,240,28
+Hardin,A004,Attorney General,,REP,Russell COLEMAN,170,42,118,10
+Hardin,A004,Attorney General,,DEM,Pamela STEVENSON,224,84,122,18
+Hardin,A004,Attorney General,,,Total Votes,394,126,240,28
+Hardin,A004,Auditor of Public Accounts,,REP,Allison BALL,191,50,127,14
+Hardin,A004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",200,75,111,14
+Hardin,A004,Auditor of Public Accounts,,,Total Votes,391,125,238,28
+Hardin,A004,State Treasurer,,REP,Mark H. METCALF,183,44,127,12
+Hardin,A004,State Treasurer,,DEM,Michael BOWMAN,209,80,113,16
+Hardin,A004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A004,State Treasurer,,,Total Votes,392,124,240,28
+Hardin,A004,Commissioner of Agriculture,,REP,Jonathan SHELL,187,45,129,13
+Hardin,A004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,206,80,111,15
+Hardin,A004,Commissioner of Agriculture,,,Total Votes,393,125,240,28
+Hardin,A005,STRAIGHT PARTY,,,Republican,114,38,74,2
+Hardin,A005,STRAIGHT PARTY,,,Democratic,112,36,71,5
+Hardin,A005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",151,50,97,4
+Hardin,A005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,221,79,133,9
+Hardin,A005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A005,Governor,,,Total Votes,372,129,230,13
+Hardin,A005,Secretary of State,,REP,Michael ADAMS,196,71,121,4
+Hardin,A005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",172,57,106,9
+Hardin,A005,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A005,Secretary of State,,,Total Votes,368,128,227,13
+Hardin,A005,Attorney General,,REP,Russell COLEMAN,181,56,122,3
+Hardin,A005,Attorney General,,DEM,Pamela STEVENSON,185,71,104,10
+Hardin,A005,Attorney General,,,Total Votes,366,127,226,13
+Hardin,A005,Auditor of Public Accounts,,REP,Allison BALL,191,62,124,5
+Hardin,A005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",174,64,102,8
+Hardin,A005,Auditor of Public Accounts,,,Total Votes,365,126,226,13
+Hardin,A005,State Treasurer,,REP,Mark H. METCALF,183,58,120,5
+Hardin,A005,State Treasurer,,DEM,Michael BOWMAN,183,69,106,8
+Hardin,A005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A005,State Treasurer,,,Total Votes,366,127,226,13
+Hardin,A005,Commissioner of Agriculture,,REP,Jonathan SHELL,191,58,127,6
+Hardin,A005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,174,69,98,7
+Hardin,A005,Commissioner of Agriculture,,,Total Votes,365,127,225,13
+Hardin,A006,STRAIGHT PARTY,,,Republican,88,34,52,2
+Hardin,A006,STRAIGHT PARTY,,,Democratic,194,70,115,9
+Hardin,A006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",159,51,105,3
+Hardin,A006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,297,111,173,13
+Hardin,A006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A006,Governor,,,Total Votes,456,162,278,16
+Hardin,A006,Secretary of State,,REP,Michael ADAMS,182,68,111,3
+Hardin,A006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",265,92,161,12
+Hardin,A006,Secretary of State,,,Kenneth C. Moellman Jr.,3,0,3,0
+Hardin,A006,Secretary of State,,,Total Votes,450,160,275,15
+Hardin,A006,Attorney General,,REP,Russell COLEMAN,178,65,110,3
+Hardin,A006,Attorney General,,DEM,Pamela STEVENSON,274,93,168,13
+Hardin,A006,Attorney General,,,Total Votes,452,158,278,16
+Hardin,A006,Auditor of Public Accounts,,REP,Allison BALL,190,62,125,3
+Hardin,A006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",261,97,151,13
+Hardin,A006,Auditor of Public Accounts,,,Total Votes,451,159,276,16
+Hardin,A006,State Treasurer,,REP,Mark H. METCALF,179,62,114,3
+Hardin,A006,State Treasurer,,DEM,Michael BOWMAN,270,96,161,13
+Hardin,A006,State Treasurer,,,Robert Perry,2,0,2,0
+Hardin,A006,State Treasurer,,,Total Votes,451,158,277,16
+Hardin,A006,Commissioner of Agriculture,,REP,Jonathan SHELL,174,56,115,3
+Hardin,A006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,277,102,162,13
+Hardin,A006,Commissioner of Agriculture,,,Total Votes,451,158,277,16
+Hardin,A007,STRAIGHT PARTY,,,Republican,12,2,9,1
+Hardin,A007,STRAIGHT PARTY,,,Democratic,24,4,12,8
+Hardin,A007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",19,3,14,2
+Hardin,A007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,33,7,18,8
+Hardin,A007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A007,Governor,,,Total Votes,52,10,32,10
+Hardin,A007,Secretary of State,,REP,Michael ADAMS,16,2,12,2
+Hardin,A007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,7,18,8
+Hardin,A007,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A007,Secretary of State,,,Total Votes,49,9,30,10
+Hardin,A007,Attorney General,,REP,Russell COLEMAN,16,2,12,2
+Hardin,A007,Attorney General,,DEM,Pamela STEVENSON,33,7,18,8
+Hardin,A007,Attorney General,,,Total Votes,49,9,30,10
+Hardin,A007,Auditor of Public Accounts,,REP,Allison BALL,16,2,12,2
+Hardin,A007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,7,18,8
+Hardin,A007,Auditor of Public Accounts,,,Total Votes,49,9,30,10
+Hardin,A007,State Treasurer,,REP,Mark H. METCALF,17,2,13,2
+Hardin,A007,State Treasurer,,DEM,Michael BOWMAN,32,7,17,8
+Hardin,A007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A007,State Treasurer,,,Total Votes,49,9,30,10
+Hardin,A007,Commissioner of Agriculture,,REP,Jonathan SHELL,15,2,11,2
+Hardin,A007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,7,19,8
+Hardin,A007,Commissioner of Agriculture,,,Total Votes,49,9,30,10
+Hardin,A008,STRAIGHT PARTY,,,Republican,106,39,66,1
+Hardin,A008,STRAIGHT PARTY,,,Democratic,125,43,75,7
+Hardin,A008,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",154,51,101,2
+Hardin,A008,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,233,78,141,14
+Hardin,A008,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A008,Governor,,,Total Votes,387,129,242,16
+Hardin,A008,Secretary of State,,REP,Michael ADAMS,188,61,123,4
+Hardin,A008,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",192,65,115,12
+Hardin,A008,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A008,Secretary of State,,,Total Votes,380,126,238,16
+Hardin,A008,Attorney General,,REP,Russell COLEMAN,179,62,113,4
+Hardin,A008,Attorney General,,DEM,Pamela STEVENSON,201,66,124,11
+Hardin,A008,Attorney General,,,Total Votes,380,128,237,15
+Hardin,A008,Auditor of Public Accounts,,REP,Allison BALL,189,62,124,3
+Hardin,A008,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",186,62,113,11
+Hardin,A008,Auditor of Public Accounts,,,Total Votes,375,124,237,14
+Hardin,A008,State Treasurer,,REP,Mark H. METCALF,174,56,115,3
+Hardin,A008,State Treasurer,,DEM,Michael BOWMAN,203,69,122,12
+Hardin,A008,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A008,State Treasurer,,,Total Votes,377,125,237,15
+Hardin,A008,Commissioner of Agriculture,,REP,Jonathan SHELL,181,62,114,5
+Hardin,A008,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,196,63,123,10
+Hardin,A008,Commissioner of Agriculture,,,Total Votes,377,125,237,15
+Hardin,A009,STRAIGHT PARTY,,,Republican,48,7,39,2
+Hardin,A009,STRAIGHT PARTY,,,Democratic,56,19,36,1
+Hardin,A009,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",64,10,50,4
+Hardin,A009,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,33,61,3
+Hardin,A009,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A009,Governor,,,Total Votes,161,43,111,7
+Hardin,A009,Secretary of State,,REP,Michael ADAMS,78,14,59,5
+Hardin,A009,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,29,51,1
+Hardin,A009,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A009,Secretary of State,,,Total Votes,159,43,110,6
+Hardin,A009,Attorney General,,REP,Russell COLEMAN,72,12,56,4
+Hardin,A009,Attorney General,,DEM,Pamela STEVENSON,87,31,54,2
+Hardin,A009,Attorney General,,,Total Votes,159,43,110,6
+Hardin,A009,Auditor of Public Accounts,,REP,Allison BALL,75,13,58,4
+Hardin,A009,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,30,50,2
+Hardin,A009,Auditor of Public Accounts,,,Total Votes,157,43,108,6
+Hardin,A009,State Treasurer,,REP,Mark H. METCALF,78,13,61,4
+Hardin,A009,State Treasurer,,DEM,Michael BOWMAN,81,30,49,2
+Hardin,A009,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A009,State Treasurer,,,Total Votes,159,43,110,6
+Hardin,A009,Commissioner of Agriculture,,REP,Jonathan SHELL,76,15,56,5
+Hardin,A009,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,27,53,1
+Hardin,A009,Commissioner of Agriculture,,,Total Votes,157,42,109,6
+Hardin,A010,STRAIGHT PARTY,,,Republican,14,0,1,13
+Hardin,A010,STRAIGHT PARTY,,,Democratic,15,1,4,10
+Hardin,A010,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",18,0,2,16
+Hardin,A010,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,23,1,5,17
+Hardin,A010,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,A010,Governor,,,Total Votes,41,1,7,33
+Hardin,A010,Secretary of State,,REP,Michael ADAMS,23,0,2,21
+Hardin,A010,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",18,1,5,12
+Hardin,A010,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,A010,Secretary of State,,,Total Votes,41,1,7,33
+Hardin,A010,Attorney General,,REP,Russell COLEMAN,23,0,3,20
+Hardin,A010,Attorney General,,DEM,Pamela STEVENSON,18,1,4,13
+Hardin,A010,Attorney General,,,Total Votes,41,1,7,33
+Hardin,A010,Auditor of Public Accounts,,REP,Allison BALL,23,0,3,20
+Hardin,A010,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",18,1,4,13
+Hardin,A010,Auditor of Public Accounts,,,Total Votes,41,1,7,33
+Hardin,A010,State Treasurer,,REP,Mark H. METCALF,22,0,3,19
+Hardin,A010,State Treasurer,,DEM,Michael BOWMAN,19,1,4,14
+Hardin,A010,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,A010,State Treasurer,,,Total Votes,41,1,7,33
+Hardin,A010,Commissioner of Agriculture,,REP,Jonathan SHELL,22,0,2,20
+Hardin,A010,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,1,5,13
+Hardin,A010,Commissioner of Agriculture,,,Total Votes,41,1,7,33
+Hardin,B001,STRAIGHT PARTY,,,Republican,63,14,47,2
+Hardin,B001,STRAIGHT PARTY,,,Democratic,73,25,45,3
+Hardin,B001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",99,20,76,3
+Hardin,B001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,135,50,79,6
+Hardin,B001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B001,Governor,,,Total Votes,234,70,155,9
+Hardin,B001,Secretary of State,,REP,Michael ADAMS,119,30,84,5
+Hardin,B001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",113,40,69,4
+Hardin,B001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,B001,Secretary of State,,,Total Votes,232,70,153,9
+Hardin,B001,Attorney General,,REP,Russell COLEMAN,116,26,85,5
+Hardin,B001,Attorney General,,DEM,Pamela STEVENSON,118,44,70,4
+Hardin,B001,Attorney General,,,Total Votes,234,70,155,9
+Hardin,B001,Auditor of Public Accounts,,REP,Allison BALL,129,33,91,5
+Hardin,B001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",106,37,65,4
+Hardin,B001,Auditor of Public Accounts,,,Total Votes,235,70,156,9
+Hardin,B001,State Treasurer,,REP,Mark H. METCALF,116,28,83,5
+Hardin,B001,State Treasurer,,DEM,Michael BOWMAN,116,42,70,4
+Hardin,B001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B001,State Treasurer,,,Total Votes,232,70,153,9
+Hardin,B001,Commissioner of Agriculture,,REP,Jonathan SHELL,121,31,85,5
+Hardin,B001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,113,39,70,4
+Hardin,B001,Commissioner of Agriculture,,,Total Votes,234,70,155,9
+Hardin,B002,STRAIGHT PARTY,,,Republican,125,34,86,5
+Hardin,B002,STRAIGHT PARTY,,,Democratic,187,75,107,5
+Hardin,B002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",163,42,116,5
+Hardin,B002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,346,145,192,9
+Hardin,B002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B002,Governor,,,Total Votes,509,187,308,14
+Hardin,B002,Secretary of State,,REP,Michael ADAMS,220,65,149,6
+Hardin,B002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",284,120,156,8
+Hardin,B002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,B002,Secretary of State,,,Total Votes,504,185,305,14
+Hardin,B002,Attorney General,,REP,Russell COLEMAN,210,57,145,8
+Hardin,B002,Attorney General,,DEM,Pamela STEVENSON,293,127,160,6
+Hardin,B002,Attorney General,,,Total Votes,503,184,305,14
+Hardin,B002,Auditor of Public Accounts,,REP,Allison BALL,219,64,148,7
+Hardin,B002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",279,119,153,7
+Hardin,B002,Auditor of Public Accounts,,,Total Votes,498,183,301,14
+Hardin,B002,State Treasurer,,REP,Mark H. METCALF,220,61,152,7
+Hardin,B002,State Treasurer,,DEM,Michael BOWMAN,280,123,150,7
+Hardin,B002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B002,State Treasurer,,,Total Votes,500,184,302,14
+Hardin,B002,Commissioner of Agriculture,,REP,Jonathan SHELL,213,58,148,7
+Hardin,B002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,285,125,153,7
+Hardin,B002,Commissioner of Agriculture,,,Total Votes,498,183,301,14
+Hardin,B003,STRAIGHT PARTY,,,Republican,161,41,110,10
+Hardin,B003,STRAIGHT PARTY,,,Democratic,249,91,136,22
+Hardin,B003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",229,57,161,11
+Hardin,B003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,430,164,237,29
+Hardin,B003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B003,Governor,,,Total Votes,659,221,398,40
+Hardin,B003,Secretary of State,,REP,Michael ADAMS,278,76,189,13
+Hardin,B003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",372,141,204,27
+Hardin,B003,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Hardin,B003,Secretary of State,,,Total Votes,651,217,394,40
+Hardin,B003,Attorney General,,REP,Russell COLEMAN,266,68,186,12
+Hardin,B003,Attorney General,,DEM,Pamela STEVENSON,387,151,208,28
+Hardin,B003,Attorney General,,,Total Votes,653,219,394,40
+Hardin,B003,Auditor of Public Accounts,,REP,Allison BALL,279,73,194,12
+Hardin,B003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",372,146,198,28
+Hardin,B003,Auditor of Public Accounts,,,Total Votes,651,219,392,40
+Hardin,B003,State Treasurer,,REP,Mark H. METCALF,267,73,182,12
+Hardin,B003,State Treasurer,,DEM,Michael BOWMAN,385,146,211,28
+Hardin,B003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B003,State Treasurer,,,Total Votes,652,219,393,40
+Hardin,B003,Commissioner of Agriculture,,REP,Jonathan SHELL,272,72,187,13
+Hardin,B003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,381,148,206,27
+Hardin,B003,Commissioner of Agriculture,,,Total Votes,653,220,393,40
+Hardin,B004,STRAIGHT PARTY,,,Republican,97,26,71,0
+Hardin,B004,STRAIGHT PARTY,,,Democratic,185,70,107,8
+Hardin,B004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",122,28,93,1
+Hardin,B004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,313,112,184,17
+Hardin,B004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B004,Governor,,,Total Votes,435,140,277,18
+Hardin,B004,Secretary of State,,REP,Michael ADAMS,176,52,122,2
+Hardin,B004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",258,89,153,16
+Hardin,B004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,B004,Secretary of State,,,Total Votes,434,141,275,18
+Hardin,B004,Attorney General,,REP,Russell COLEMAN,161,43,115,3
+Hardin,B004,Attorney General,,DEM,Pamela STEVENSON,273,97,161,15
+Hardin,B004,Attorney General,,,Total Votes,434,140,276,18
+Hardin,B004,Auditor of Public Accounts,,REP,Allison BALL,168,47,119,2
+Hardin,B004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",260,93,151,16
+Hardin,B004,Auditor of Public Accounts,,,Total Votes,428,140,270,18
+Hardin,B004,State Treasurer,,REP,Mark H. METCALF,165,43,121,1
+Hardin,B004,State Treasurer,,DEM,Michael BOWMAN,265,97,151,17
+Hardin,B004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B004,State Treasurer,,,Total Votes,430,140,272,18
+Hardin,B004,Commissioner of Agriculture,,REP,Jonathan SHELL,163,42,119,2
+Hardin,B004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,266,97,153,16
+Hardin,B004,Commissioner of Agriculture,,,Total Votes,429,139,272,18
+Hardin,B005,STRAIGHT PARTY,,,Republican,135,29,103,3
+Hardin,B005,STRAIGHT PARTY,,,Democratic,74,24,43,7
+Hardin,B005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,44,137,4
+Hardin,B005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,163,57,92,14
+Hardin,B005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B005,Governor,,,Total Votes,348,101,229,18
+Hardin,B005,Secretary of State,,REP,Michael ADAMS,221,56,159,6
+Hardin,B005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",127,45,71,11
+Hardin,B005,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,B005,Secretary of State,,,Total Votes,348,101,230,17
+Hardin,B005,Attorney General,,REP,Russell COLEMAN,216,54,157,5
+Hardin,B005,Attorney General,,DEM,Pamela STEVENSON,131,46,73,12
+Hardin,B005,Attorney General,,,Total Votes,347,100,230,17
+Hardin,B005,Auditor of Public Accounts,,REP,Allison BALL,225,57,163,5
+Hardin,B005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",120,43,65,12
+Hardin,B005,Auditor of Public Accounts,,,Total Votes,345,100,228,17
+Hardin,B005,State Treasurer,,REP,Mark H. METCALF,213,51,157,5
+Hardin,B005,State Treasurer,,DEM,Michael BOWMAN,132,49,71,12
+Hardin,B005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B005,State Treasurer,,,Total Votes,345,100,228,17
+Hardin,B005,Commissioner of Agriculture,,REP,Jonathan SHELL,221,56,158,7
+Hardin,B005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,125,44,71,10
+Hardin,B005,Commissioner of Agriculture,,,Total Votes,346,100,229,17
+Hardin,B006,STRAIGHT PARTY,,,Republican,98,19,73,6
+Hardin,B006,STRAIGHT PARTY,,,Democratic,122,51,56,15
+Hardin,B006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",134,27,101,6
+Hardin,B006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,226,92,115,19
+Hardin,B006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,B006,Governor,,,Total Votes,360,119,216,25
+Hardin,B006,Secretary of State,,REP,Michael ADAMS,171,45,119,7
+Hardin,B006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",183,73,92,18
+Hardin,B006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,B006,Secretary of State,,,Total Votes,354,118,211,25
+Hardin,B006,Attorney General,,REP,Russell COLEMAN,166,42,116,8
+Hardin,B006,Attorney General,,DEM,Pamela STEVENSON,192,76,99,17
+Hardin,B006,Attorney General,,,Total Votes,358,118,215,25
+Hardin,B006,Auditor of Public Accounts,,REP,Allison BALL,178,47,122,9
+Hardin,B006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",179,71,92,16
+Hardin,B006,Auditor of Public Accounts,,,Total Votes,357,118,214,25
+Hardin,B006,State Treasurer,,REP,Mark H. METCALF,165,38,119,8
+Hardin,B006,State Treasurer,,DEM,Michael BOWMAN,193,80,96,17
+Hardin,B006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,B006,State Treasurer,,,Total Votes,358,118,215,25
+Hardin,B006,Commissioner of Agriculture,,REP,Jonathan SHELL,169,43,119,7
+Hardin,B006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,188,75,95,18
+Hardin,B006,Commissioner of Agriculture,,,Total Votes,357,118,214,25
+Hardin,C001,STRAIGHT PARTY,,,Republican,138,52,83,3
+Hardin,C001,STRAIGHT PARTY,,,Democratic,100,24,68,8
+Hardin,C001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",216,78,131,7
+Hardin,C001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,231,61,151,19
+Hardin,C001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C001,Governor,,,Total Votes,447,139,282,26
+Hardin,C001,Secretary of State,,REP,Michael ADAMS,280,96,173,11
+Hardin,C001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",168,44,109,15
+Hardin,C001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C001,Secretary of State,,,Total Votes,448,140,282,26
+Hardin,C001,Attorney General,,REP,Russell COLEMAN,261,88,165,8
+Hardin,C001,Attorney General,,DEM,Pamela STEVENSON,185,52,115,18
+Hardin,C001,Attorney General,,,Total Votes,446,140,280,26
+Hardin,C001,Auditor of Public Accounts,,REP,Allison BALL,263,89,166,8
+Hardin,C001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",182,50,115,17
+Hardin,C001,Auditor of Public Accounts,,,Total Votes,445,139,281,25
+Hardin,C001,State Treasurer,,REP,Mark H. METCALF,254,88,156,10
+Hardin,C001,State Treasurer,,DEM,Michael BOWMAN,189,50,123,16
+Hardin,C001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C001,State Treasurer,,,Total Votes,443,138,279,26
+Hardin,C001,Commissioner of Agriculture,,REP,Jonathan SHELL,261,93,158,10
+Hardin,C001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,185,46,123,16
+Hardin,C001,Commissioner of Agriculture,,,Total Votes,446,139,281,26
+Hardin,C002,STRAIGHT PARTY,,,Republican,120,16,101,3
+Hardin,C002,STRAIGHT PARTY,,,Democratic,132,34,88,10
+Hardin,C002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",162,33,124,5
+Hardin,C002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,268,74,173,21
+Hardin,C002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C002,Governor,,,Total Votes,430,107,297,26
+Hardin,C002,Secretary of State,,REP,Michael ADAMS,212,49,155,8
+Hardin,C002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",210,57,135,18
+Hardin,C002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C002,Secretary of State,,,Total Votes,422,106,290,26
+Hardin,C002,Attorney General,,REP,Russell COLEMAN,203,47,150,6
+Hardin,C002,Attorney General,,DEM,Pamela STEVENSON,220,59,141,20
+Hardin,C002,Attorney General,,,Total Votes,423,106,291,26
+Hardin,C002,Auditor of Public Accounts,,REP,Allison BALL,214,51,154,9
+Hardin,C002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",206,54,136,16
+Hardin,C002,Auditor of Public Accounts,,,Total Votes,420,105,290,25
+Hardin,C002,State Treasurer,,REP,Mark H. METCALF,195,44,144,7
+Hardin,C002,State Treasurer,,DEM,Michael BOWMAN,220,60,143,17
+Hardin,C002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C002,State Treasurer,,,Total Votes,415,104,287,24
+Hardin,C002,Commissioner of Agriculture,,REP,Jonathan SHELL,196,46,141,9
+Hardin,C002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,224,59,149,16
+Hardin,C002,Commissioner of Agriculture,,,Total Votes,420,105,290,25
+Hardin,C003,STRAIGHT PARTY,,,Republican,256,55,186,15
+Hardin,C003,STRAIGHT PARTY,,,Democratic,84,29,50,5
+Hardin,C003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",379,81,280,18
+Hardin,C003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,207,70,127,10
+Hardin,C003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C003,Governor,,,Total Votes,586,151,407,28
+Hardin,C003,Secretary of State,,REP,Michael ADAMS,422,100,302,20
+Hardin,C003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",149,50,91,8
+Hardin,C003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C003,Secretary of State,,,Total Votes,571,150,393,28
+Hardin,C003,Attorney General,,REP,Russell COLEMAN,410,89,302,19
+Hardin,C003,Attorney General,,DEM,Pamela STEVENSON,165,61,95,9
+Hardin,C003,Attorney General,,,Total Votes,575,150,397,28
+Hardin,C003,Auditor of Public Accounts,,REP,Allison BALL,425,100,305,20
+Hardin,C003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",146,48,90,8
+Hardin,C003,Auditor of Public Accounts,,,Total Votes,571,148,395,28
+Hardin,C003,State Treasurer,,REP,Mark H. METCALF,405,91,295,19
+Hardin,C003,State Treasurer,,DEM,Michael BOWMAN,165,58,98,9
+Hardin,C003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C003,State Treasurer,,,Total Votes,570,149,393,28
+Hardin,C003,Commissioner of Agriculture,,REP,Jonathan SHELL,419,98,304,17
+Hardin,C003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,150,50,89,11
+Hardin,C003,Commissioner of Agriculture,,,Total Votes,569,148,393,28
+Hardin,C004,STRAIGHT PARTY,,,Republican,326,96,214,16
+Hardin,C004,STRAIGHT PARTY,,,Democratic,174,56,107,11
+Hardin,C004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",510,145,342,23
+Hardin,C004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,431,153,255,23
+Hardin,C004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C004,Governor,,,Total Votes,941,298,597,46
+Hardin,C004,Secretary of State,,REP,Michael ADAMS,619,195,399,25
+Hardin,C004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",310,104,185,21
+Hardin,C004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C004,Secretary of State,,,Total Votes,929,299,584,46
+Hardin,C004,Attorney General,,REP,Russell COLEMAN,600,180,396,24
+Hardin,C004,Attorney General,,DEM,Pamela STEVENSON,329,115,192,22
+Hardin,C004,Attorney General,,,Total Votes,929,295,588,46
+Hardin,C004,Auditor of Public Accounts,,REP,Allison BALL,611,185,402,24
+Hardin,C004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",312,111,179,22
+Hardin,C004,Auditor of Public Accounts,,,Total Votes,923,296,581,46
+Hardin,C004,State Treasurer,,REP,Mark H. METCALF,581,178,379,24
+Hardin,C004,State Treasurer,,DEM,Michael BOWMAN,339,117,200,22
+Hardin,C004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C004,State Treasurer,,,Total Votes,920,295,579,46
+Hardin,C004,Commissioner of Agriculture,,REP,Jonathan SHELL,589,180,385,24
+Hardin,C004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,331,116,193,22
+Hardin,C004,Commissioner of Agriculture,,,Total Votes,920,296,578,46
+Hardin,C005,STRAIGHT PARTY,,,Republican,172,30,140,2
+Hardin,C005,STRAIGHT PARTY,,,Democratic,67,14,50,3
+Hardin,C005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",252,47,203,2
+Hardin,C005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,172,39,124,9
+Hardin,C005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C005,Governor,,,Total Votes,424,86,327,11
+Hardin,C005,Secretary of State,,REP,Michael ADAMS,294,56,234,4
+Hardin,C005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,27,88,7
+Hardin,C005,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C005,Secretary of State,,,Total Votes,416,83,322,11
+Hardin,C005,Attorney General,,REP,Russell COLEMAN,284,53,229,2
+Hardin,C005,Attorney General,,DEM,Pamela STEVENSON,132,29,94,9
+Hardin,C005,Attorney General,,,Total Votes,416,82,323,11
+Hardin,C005,Auditor of Public Accounts,,REP,Allison BALL,296,57,235,4
+Hardin,C005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",119,25,87,7
+Hardin,C005,Auditor of Public Accounts,,,Total Votes,415,82,322,11
+Hardin,C005,State Treasurer,,REP,Mark H. METCALF,274,49,223,2
+Hardin,C005,State Treasurer,,DEM,Michael BOWMAN,139,32,98,9
+Hardin,C005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C005,State Treasurer,,,Total Votes,413,81,321,11
+Hardin,C005,Commissioner of Agriculture,,REP,Jonathan SHELL,279,51,225,3
+Hardin,C005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,134,30,96,8
+Hardin,C005,Commissioner of Agriculture,,,Total Votes,413,81,321,11
+Hardin,C006,STRAIGHT PARTY,,,Republican,268,42,221,5
+Hardin,C006,STRAIGHT PARTY,,,Democratic,140,21,107,12
+Hardin,C006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",377,66,300,11
+Hardin,C006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,342,64,256,22
+Hardin,C006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C006,Governor,,,Total Votes,719,130,556,33
+Hardin,C006,Secretary of State,,REP,Michael ADAMS,458,86,356,16
+Hardin,C006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",245,40,188,17
+Hardin,C006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C006,Secretary of State,,,Total Votes,703,126,544,33
+Hardin,C006,Attorney General,,REP,Russell COLEMAN,448,83,352,13
+Hardin,C006,Attorney General,,DEM,Pamela STEVENSON,258,44,194,20
+Hardin,C006,Attorney General,,,Total Votes,706,127,546,33
+Hardin,C006,Auditor of Public Accounts,,REP,Allison BALL,455,81,360,14
+Hardin,C006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",244,43,182,19
+Hardin,C006,Auditor of Public Accounts,,,Total Votes,699,124,542,33
+Hardin,C006,State Treasurer,,REP,Mark H. METCALF,434,79,341,14
+Hardin,C006,State Treasurer,,DEM,Michael BOWMAN,265,46,200,19
+Hardin,C006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C006,State Treasurer,,,Total Votes,699,125,541,33
+Hardin,C006,Commissioner of Agriculture,,REP,Jonathan SHELL,438,79,348,11
+Hardin,C006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,261,46,193,22
+Hardin,C006,Commissioner of Agriculture,,,Total Votes,699,125,541,33
+Hardin,C007,STRAIGHT PARTY,,,Republican,59,9,45,5
+Hardin,C007,STRAIGHT PARTY,,,Democratic,108,24,71,13
+Hardin,C007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",109,22,81,6
+Hardin,C007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,210,52,140,18
+Hardin,C007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,C007,Governor,,,Total Votes,319,74,221,24
+Hardin,C007,Secretary of State,,REP,Michael ADAMS,145,35,103,7
+Hardin,C007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",174,40,118,16
+Hardin,C007,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,C007,Secretary of State,,,Total Votes,319,75,221,23
+Hardin,C007,Attorney General,,REP,Russell COLEMAN,131,32,92,7
+Hardin,C007,Attorney General,,DEM,Pamela STEVENSON,185,43,126,16
+Hardin,C007,Attorney General,,,Total Votes,316,75,218,23
+Hardin,C007,Auditor of Public Accounts,,REP,Allison BALL,136,29,99,8
+Hardin,C007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",182,46,120,16
+Hardin,C007,Auditor of Public Accounts,,,Total Votes,318,75,219,24
+Hardin,C007,State Treasurer,,REP,Mark H. METCALF,126,25,94,7
+Hardin,C007,State Treasurer,,DEM,Michael BOWMAN,190,49,125,16
+Hardin,C007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,C007,State Treasurer,,,Total Votes,316,74,219,23
+Hardin,C007,Commissioner of Agriculture,,REP,Jonathan SHELL,124,26,90,8
+Hardin,C007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,191,48,127,16
+Hardin,C007,Commissioner of Agriculture,,,Total Votes,315,74,217,24
+Hardin,D001,STRAIGHT PARTY,,,Republican,97,31,64,2
+Hardin,D001,STRAIGHT PARTY,,,Democratic,96,35,51,10
+Hardin,D001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",148,46,98,4
+Hardin,D001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,195,68,108,19
+Hardin,D001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D001,Governor,,,Total Votes,343,114,206,23
+Hardin,D001,Secretary of State,,REP,Michael ADAMS,185,58,117,10
+Hardin,D001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",156,56,88,12
+Hardin,D001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,D001,Secretary of State,,,Total Votes,341,114,205,22
+Hardin,D001,Attorney General,,REP,Russell COLEMAN,172,55,110,7
+Hardin,D001,Attorney General,,DEM,Pamela STEVENSON,168,58,95,15
+Hardin,D001,Attorney General,,,Total Votes,340,113,205,22
+Hardin,D001,Auditor of Public Accounts,,REP,Allison BALL,175,56,115,4
+Hardin,D001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",161,57,88,16
+Hardin,D001,Auditor of Public Accounts,,,Total Votes,336,113,203,20
+Hardin,D001,State Treasurer,,REP,Mark H. METCALF,165,48,112,5
+Hardin,D001,State Treasurer,,DEM,Michael BOWMAN,171,63,92,16
+Hardin,D001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,D001,State Treasurer,,,Total Votes,336,111,204,21
+Hardin,D001,Commissioner of Agriculture,,REP,Jonathan SHELL,169,54,109,6
+Hardin,D001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,168,58,94,16
+Hardin,D001,Commissioner of Agriculture,,,Total Votes,337,112,203,22
+Hardin,D002,STRAIGHT PARTY,,,Republican,271,73,185,13
+Hardin,D002,STRAIGHT PARTY,,,Democratic,152,51,78,23
+Hardin,D002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",427,119,284,24
+Hardin,D002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,395,137,214,44
+Hardin,D002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D002,Governor,,,Total Votes,822,256,498,68
+Hardin,D002,Secretary of State,,REP,Michael ADAMS,518,156,327,35
+Hardin,D002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",291,98,160,33
+Hardin,D002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,D002,Secretary of State,,,Total Votes,809,254,487,68
+Hardin,D002,Attorney General,,REP,Russell COLEMAN,497,151,319,27
+Hardin,D002,Attorney General,,DEM,Pamela STEVENSON,314,103,171,40
+Hardin,D002,Attorney General,,,Total Votes,811,254,490,67
+Hardin,D002,Auditor of Public Accounts,,REP,Allison BALL,521,149,340,32
+Hardin,D002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",280,104,142,34
+Hardin,D002,Auditor of Public Accounts,,,Total Votes,801,253,482,66
+Hardin,D002,State Treasurer,,REP,Mark H. METCALF,485,137,317,31
+Hardin,D002,State Treasurer,,DEM,Michael BOWMAN,311,115,161,35
+Hardin,D002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,D002,State Treasurer,,,Total Votes,796,252,478,66
+Hardin,D002,Commissioner of Agriculture,,REP,Jonathan SHELL,482,139,314,29
+Hardin,D002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,316,113,166,37
+Hardin,D002,Commissioner of Agriculture,,,Total Votes,798,252,480,66
+Hardin,D003,STRAIGHT PARTY,,,Republican,212,74,128,10
+Hardin,D003,STRAIGHT PARTY,,,Democratic,157,71,79,7
+Hardin,D003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",300,96,188,16
+Hardin,D003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,327,145,164,18
+Hardin,D003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D003,Governor,,,Total Votes,627,241,352,34
+Hardin,D003,Secretary of State,,REP,Michael ADAMS,357,123,213,21
+Hardin,D003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",261,116,133,12
+Hardin,D003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,D003,Secretary of State,,,Total Votes,618,239,346,33
+Hardin,D003,Attorney General,,REP,Russell COLEMAN,357,121,215,21
+Hardin,D003,Attorney General,,DEM,Pamela STEVENSON,261,116,133,12
+Hardin,D003,Attorney General,,,Total Votes,618,237,348,33
+Hardin,D003,Auditor of Public Accounts,,REP,Allison BALL,357,118,218,21
+Hardin,D003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",257,117,128,12
+Hardin,D003,Auditor of Public Accounts,,,Total Votes,614,235,346,33
+Hardin,D003,State Treasurer,,REP,Mark H. METCALF,338,114,207,17
+Hardin,D003,State Treasurer,,DEM,Michael BOWMAN,278,124,138,16
+Hardin,D003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,D003,State Treasurer,,,Total Votes,616,238,345,33
+Hardin,D003,Commissioner of Agriculture,,REP,Jonathan SHELL,342,118,206,18
+Hardin,D003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,269,115,139,15
+Hardin,D003,Commissioner of Agriculture,,,Total Votes,611,233,345,33
+Hardin,D004,STRAIGHT PARTY,,,Republican,306,76,219,11
+Hardin,D004,STRAIGHT PARTY,,,Democratic,253,85,153,15
+Hardin,D004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",475,117,340,18
+Hardin,D004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,572,183,360,29
+Hardin,D004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D004,Governor,,,Total Votes,0,300,700,47
+Hardin,D004,Secretary of State,,REP,Michael ADAMS,587,152,410,25
+Hardin,D004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",449,148,280,21
+Hardin,D004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,D004,Secretary of State,,,Total Votes,1036,300,690,46
+Hardin,D004,Attorney General,,REP,Russell COLEMAN,564,132,407,25
+Hardin,D004,Attorney General,,DEM,Pamela STEVENSON,476,167,288,21
+Hardin,D004,Attorney General,,,Total Votes,1040,299,695,46
+Hardin,D004,Auditor of Public Accounts,,REP,Allison BALL,593,149,420,24
+Hardin,D004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",434,149,263,22
+Hardin,D004,Auditor of Public Accounts,,,Total Votes,0,298,683,46
+Hardin,D004,State Treasurer,,REP,Mark H. METCALF,553,132,402,19
+Hardin,D004,State Treasurer,,DEM,Michael BOWMAN,475,163,285,27
+Hardin,D004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,D004,State Treasurer,,,Total Votes,1028,295,687,46
+Hardin,D004,Commissioner of Agriculture,,REP,Jonathan SHELL,564,134,406,24
+Hardin,D004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,462,161,278,23
+Hardin,D004,Commissioner of Agriculture,,,Total Votes,0,295,684,47
+Hardin,D005,STRAIGHT PARTY,,,Republican,314,111,180,23
+Hardin,D005,STRAIGHT PARTY,,,Democratic,275,108,131,36
+Hardin,D005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",474,172,271,31
+Hardin,D005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,546,224,268,54
+Hardin,D005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D005,Governor,,,Total Votes,0,396,539,85
+Hardin,D005,Secretary of State,,REP,Michael ADAMS,580,223,322,35
+Hardin,D005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",430,173,207,50
+Hardin,D005,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Hardin,D005,Secretary of State,,,Total Votes,1011,396,530,85
+Hardin,D005,Attorney General,,REP,Russell COLEMAN,542,199,309,34
+Hardin,D005,Attorney General,,DEM,Pamela STEVENSON,469,194,224,51
+Hardin,D005,Attorney General,,,Total Votes,1011,393,533,85
+Hardin,D005,Auditor of Public Accounts,,REP,Allison BALL,568,212,317,39
+Hardin,D005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",433,177,210,46
+Hardin,D005,Auditor of Public Accounts,,,Total Votes,0,389,527,85
+Hardin,D005,State Treasurer,,REP,Mark H. METCALF,518,190,296,32
+Hardin,D005,State Treasurer,,DEM,Michael BOWMAN,474,198,227,49
+Hardin,D005,State Treasurer,,,Robert Perry,1,0,1,0
+Hardin,D005,State Treasurer,,,Total Votes,993,388,524,81
+Hardin,D005,Commissioner of Agriculture,,REP,Jonathan SHELL,537,196,303,38
+Hardin,D005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,464,195,225,44
+Hardin,D005,Commissioner of Agriculture,,,Total Votes,0,391,528,82
+Hardin,D006,STRAIGHT PARTY,,,Republican,113,23,85,5
+Hardin,D006,STRAIGHT PARTY,,,Democratic,84,25,57,2
+Hardin,D006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",145,32,108,5
+Hardin,D006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,171,47,119,5
+Hardin,D006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,D006,Governor,,,Total Votes,316,79,227,10
+Hardin,D006,Secretary of State,,REP,Michael ADAMS,172,42,124,6
+Hardin,D006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",141,36,101,4
+Hardin,D006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,D006,Secretary of State,,,Total Votes,313,78,225,10
+Hardin,D006,Attorney General,,REP,Russell COLEMAN,168,33,130,5
+Hardin,D006,Attorney General,,DEM,Pamela STEVENSON,147,45,97,5
+Hardin,D006,Attorney General,,,Total Votes,315,78,227,10
+Hardin,D006,Auditor of Public Accounts,,REP,Allison BALL,175,38,132,5
+Hardin,D006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",137,39,93,5
+Hardin,D006,Auditor of Public Accounts,,,Total Votes,312,77,225,10
+Hardin,D006,State Treasurer,,REP,Mark H. METCALF,160,32,123,5
+Hardin,D006,State Treasurer,,DEM,Michael BOWMAN,154,46,103,5
+Hardin,D006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,D006,State Treasurer,,,Total Votes,314,78,226,10
+Hardin,D006,Commissioner of Agriculture,,REP,Jonathan SHELL,169,37,127,5
+Hardin,D006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,144,41,98,5
+Hardin,D006,Commissioner of Agriculture,,,Total Votes,313,78,225,10
+Hardin,E001,STRAIGHT PARTY,,,Republican,82,25,55,2
+Hardin,E001,STRAIGHT PARTY,,,Democratic,96,33,52,11
+Hardin,E001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",138,36,98,4
+Hardin,E001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,212,80,114,18
+Hardin,E001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E001,Governor,,,Total Votes,350,116,212,22
+Hardin,E001,Secretary of State,,REP,Michael ADAMS,177,52,120,5
+Hardin,E001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,59,85,17
+Hardin,E001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E001,Secretary of State,,,Total Votes,338,111,205,22
+Hardin,E001,Attorney General,,REP,Russell COLEMAN,168,51,113,4
+Hardin,E001,Attorney General,,DEM,Pamela STEVENSON,173,59,96,18
+Hardin,E001,Attorney General,,,Total Votes,341,110,209,22
+Hardin,E001,Auditor of Public Accounts,,REP,Allison BALL,177,57,115,5
+Hardin,E001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",160,53,90,17
+Hardin,E001,Auditor of Public Accounts,,,Total Votes,337,110,205,22
+Hardin,E001,State Treasurer,,REP,Mark H. METCALF,154,41,108,5
+Hardin,E001,State Treasurer,,DEM,Michael BOWMAN,178,67,94,17
+Hardin,E001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E001,State Treasurer,,,Total Votes,332,108,202,22
+Hardin,E001,Commissioner of Agriculture,,REP,Jonathan SHELL,166,54,108,4
+Hardin,E001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,164,52,94,18
+Hardin,E001,Commissioner of Agriculture,,,Total Votes,330,106,202,22
+Hardin,E002,STRAIGHT PARTY,,,Republican,95,17,76,2
+Hardin,E002,STRAIGHT PARTY,,,Democratic,99,34,55,10
+Hardin,E002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",139,31,101,7
+Hardin,E002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,213,60,140,13
+Hardin,E002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E002,Governor,,,Total Votes,352,91,241,20
+Hardin,E002,Secretary of State,,REP,Michael ADAMS,177,40,129,8
+Hardin,E002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",171,50,109,12
+Hardin,E002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E002,Secretary of State,,,Total Votes,348,90,238,20
+Hardin,E002,Attorney General,,REP,Russell COLEMAN,171,36,128,7
+Hardin,E002,Attorney General,,DEM,Pamela STEVENSON,176,53,110,13
+Hardin,E002,Attorney General,,,Total Votes,347,89,238,20
+Hardin,E002,Auditor of Public Accounts,,REP,Allison BALL,173,36,130,7
+Hardin,E002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",169,51,105,13
+Hardin,E002,Auditor of Public Accounts,,,Total Votes,342,87,235,20
+Hardin,E002,State Treasurer,,REP,Mark H. METCALF,164,33,123,8
+Hardin,E002,State Treasurer,,DEM,Michael BOWMAN,176,52,112,12
+Hardin,E002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E002,State Treasurer,,,Total Votes,340,85,235,20
+Hardin,E002,Commissioner of Agriculture,,REP,Jonathan SHELL,170,34,128,8
+Hardin,E002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,174,54,108,12
+Hardin,E002,Commissioner of Agriculture,,,Total Votes,344,88,236,20
+Hardin,E003,STRAIGHT PARTY,,,Republican,266,74,172,20
+Hardin,E003,STRAIGHT PARTY,,,Democratic,194,72,101,21
+Hardin,E003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",402,112,267,23
+Hardin,E003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,434,158,237,39
+Hardin,E003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E003,Governor,,,Total Votes,836,270,504,62
+Hardin,E003,Secretary of State,,REP,Michael ADAMS,498,153,317,28
+Hardin,E003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",322,116,177,29
+Hardin,E003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E003,Secretary of State,,,Total Votes,820,269,494,57
+Hardin,E003,Attorney General,,REP,Russell COLEMAN,491,145,315,31
+Hardin,E003,Attorney General,,DEM,Pamela STEVENSON,333,124,181,28
+Hardin,E003,Attorney General,,,Total Votes,824,269,496,59
+Hardin,E003,Auditor of Public Accounts,,REP,Allison BALL,485,151,308,26
+Hardin,E003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",326,117,180,29
+Hardin,E003,Auditor of Public Accounts,,,Total Votes,811,268,488,55
+Hardin,E003,State Treasurer,,REP,Mark H. METCALF,469,133,311,25
+Hardin,E003,State Treasurer,,DEM,Michael BOWMAN,342,132,178,32
+Hardin,E003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E003,State Treasurer,,,Total Votes,811,265,489,57
+Hardin,E003,Commissioner of Agriculture,,REP,Jonathan SHELL,489,144,321,24
+Hardin,E003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,322,121,167,34
+Hardin,E003,Commissioner of Agriculture,,,Total Votes,811,265,488,58
+Hardin,E004,STRAIGHT PARTY,,,Republican,76,11,64,1
+Hardin,E004,STRAIGHT PARTY,,,Democratic,63,12,46,5
+Hardin,E004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,19,99,1
+Hardin,E004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,151,29,115,7
+Hardin,E004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E004,Governor,,,Total Votes,270,48,214,8
+Hardin,E004,Secretary of State,,REP,Michael ADAMS,151,26,124,1
+Hardin,E004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",115,22,86,7
+Hardin,E004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E004,Secretary of State,,,Total Votes,266,48,210,8
+Hardin,E004,Attorney General,,REP,Russell COLEMAN,142,23,118,1
+Hardin,E004,Attorney General,,DEM,Pamela STEVENSON,127,25,95,7
+Hardin,E004,Attorney General,,,Total Votes,269,48,213,8
+Hardin,E004,Auditor of Public Accounts,,REP,Allison BALL,151,25,124,2
+Hardin,E004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",112,23,83,6
+Hardin,E004,Auditor of Public Accounts,,,Total Votes,263,48,207,8
+Hardin,E004,State Treasurer,,REP,Mark H. METCALF,140,21,118,1
+Hardin,E004,State Treasurer,,DEM,Michael BOWMAN,121,26,88,7
+Hardin,E004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E004,State Treasurer,,,Total Votes,261,47,206,8
+Hardin,E004,Commissioner of Agriculture,,REP,Jonathan SHELL,142,23,118,1
+Hardin,E004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,117,23,87,7
+Hardin,E004,Commissioner of Agriculture,,,Total Votes,259,46,205,8
+Hardin,E005,STRAIGHT PARTY,,,Republican,132,40,88,4
+Hardin,E005,STRAIGHT PARTY,,,Democratic,114,35,70,9
+Hardin,E005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",206,60,144,2
+Hardin,E005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,255,95,140,20
+Hardin,E005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E005,Governor,,,Total Votes,461,155,284,22
+Hardin,E005,Secretary of State,,REP,Michael ADAMS,252,80,169,3
+Hardin,E005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",205,74,112,19
+Hardin,E005,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E005,Secretary of State,,,Total Votes,457,154,281,22
+Hardin,E005,Attorney General,,REP,Russell COLEMAN,254,79,171,4
+Hardin,E005,Attorney General,,DEM,Pamela STEVENSON,203,74,111,18
+Hardin,E005,Attorney General,,,Total Votes,457,153,282,22
+Hardin,E005,Auditor of Public Accounts,,REP,Allison BALL,272,87,176,9
+Hardin,E005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",187,68,106,13
+Hardin,E005,Auditor of Public Accounts,,,Total Votes,459,155,282,22
+Hardin,E005,State Treasurer,,REP,Mark H. METCALF,249,75,165,9
+Hardin,E005,State Treasurer,,DEM,Michael BOWMAN,205,78,114,13
+Hardin,E005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E005,State Treasurer,,,Total Votes,454,153,279,22
+Hardin,E005,Commissioner of Agriculture,,REP,Jonathan SHELL,251,77,167,7
+Hardin,E005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,207,77,115,15
+Hardin,E005,Commissioner of Agriculture,,,Total Votes,458,154,282,22
+Hardin,E006,STRAIGHT PARTY,,,Republican,99,21,76,2
+Hardin,E006,STRAIGHT PARTY,,,Democratic,77,26,46,5
+Hardin,E006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",140,29,108,3
+Hardin,E006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,174,68,98,8
+Hardin,E006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E006,Governor,,,Total Votes,314,97,206,11
+Hardin,E006,Secretary of State,,REP,Michael ADAMS,192,54,133,5
+Hardin,E006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",118,44,68,6
+Hardin,E006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E006,Secretary of State,,,Total Votes,310,98,201,11
+Hardin,E006,Attorney General,,REP,Russell COLEMAN,180,49,127,4
+Hardin,E006,Attorney General,,DEM,Pamela STEVENSON,130,50,74,6
+Hardin,E006,Attorney General,,,Total Votes,310,99,201,10
+Hardin,E006,Auditor of Public Accounts,,REP,Allison BALL,188,53,131,4
+Hardin,E006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",121,43,71,7
+Hardin,E006,Auditor of Public Accounts,,,Total Votes,309,96,202,11
+Hardin,E006,State Treasurer,,REP,Mark H. METCALF,178,44,130,4
+Hardin,E006,State Treasurer,,DEM,Michael BOWMAN,129,51,71,7
+Hardin,E006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E006,State Treasurer,,,Total Votes,307,95,201,11
+Hardin,E006,Commissioner of Agriculture,,REP,Jonathan SHELL,171,44,123,4
+Hardin,E006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,135,50,78,7
+Hardin,E006,Commissioner of Agriculture,,,Total Votes,306,94,201,11
+Hardin,E007,STRAIGHT PARTY,,,Republican,113,17,94,2
+Hardin,E007,STRAIGHT PARTY,,,Democratic,162,44,108,10
+Hardin,E007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",173,26,144,3
+Hardin,E007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,308,82,211,15
+Hardin,E007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,E007,Governor,,,Total Votes,481,108,355,18
+Hardin,E007,Secretary of State,,REP,Michael ADAMS,228,34,189,5
+Hardin,E007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",242,67,162,13
+Hardin,E007,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,E007,Secretary of State,,,Total Votes,470,101,351,18
+Hardin,E007,Attorney General,,REP,Russell COLEMAN,208,34,171,3
+Hardin,E007,Attorney General,,DEM,Pamela STEVENSON,265,70,180,15
+Hardin,E007,Attorney General,,,Total Votes,473,104,351,18
+Hardin,E007,Auditor of Public Accounts,,REP,Allison BALL,230,37,188,5
+Hardin,E007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",239,65,161,13
+Hardin,E007,Auditor of Public Accounts,,,Total Votes,469,102,349,18
+Hardin,E007,State Treasurer,,REP,Mark H. METCALF,216,35,178,3
+Hardin,E007,State Treasurer,,DEM,Michael BOWMAN,252,67,170,15
+Hardin,E007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,E007,State Treasurer,,,Total Votes,468,102,348,18
+Hardin,E007,Commissioner of Agriculture,,REP,Jonathan SHELL,212,32,176,4
+Hardin,E007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,255,69,172,14
+Hardin,E007,Commissioner of Agriculture,,,Total Votes,467,101,348,18
+Hardin,F001,STRAIGHT PARTY,,,Republican,211,48,161,2
+Hardin,F001,STRAIGHT PARTY,,,Democratic,122,37,76,9
+Hardin,F001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",333,69,259,5
+Hardin,F001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,299,93,185,21
+Hardin,F001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F001,Governor,,,Total Votes,632,162,444,26
+Hardin,F001,Secretary of State,,REP,Michael ADAMS,412,100,305,7
+Hardin,F001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",208,61,131,16
+Hardin,F001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F001,Secretary of State,,,Total Votes,620,161,436,23
+Hardin,F001,Attorney General,,REP,Russell COLEMAN,396,95,293,8
+Hardin,F001,Attorney General,,DEM,Pamela STEVENSON,222,65,142,15
+Hardin,F001,Attorney General,,,Total Votes,618,160,435,23
+Hardin,F001,Auditor of Public Accounts,,REP,Allison BALL,415,102,304,9
+Hardin,F001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",199,58,127,14
+Hardin,F001,Auditor of Public Accounts,,,Total Votes,614,160,431,23
+Hardin,F001,State Treasurer,,REP,Mark H. METCALF,378,91,281,6
+Hardin,F001,State Treasurer,,DEM,Michael BOWMAN,236,68,151,17
+Hardin,F001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F001,State Treasurer,,,Total Votes,614,159,432,23
+Hardin,F001,Commissioner of Agriculture,,REP,Jonathan SHELL,389,95,285,9
+Hardin,F001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,227,64,149,14
+Hardin,F001,Commissioner of Agriculture,,,Total Votes,616,159,434,23
+Hardin,F002,STRAIGHT PARTY,,,Republican,198,46,151,1
+Hardin,F002,STRAIGHT PARTY,,,Democratic,63,26,32,5
+Hardin,F002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",313,70,240,3
+Hardin,F002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,196,60,120,16
+Hardin,F002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F002,Governor,,,Total Votes,509,130,360,19
+Hardin,F002,Secretary of State,,REP,Michael ADAMS,364,87,272,5
+Hardin,F002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",133,42,77,14
+Hardin,F002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F002,Secretary of State,,,Total Votes,497,129,349,19
+Hardin,F002,Attorney General,,REP,Russell COLEMAN,373,89,278,6
+Hardin,F002,Attorney General,,DEM,Pamela STEVENSON,126,40,73,13
+Hardin,F002,Attorney General,,,Total Votes,499,129,351,19
+Hardin,F002,Auditor of Public Accounts,,REP,Allison BALL,385,91,286,8
+Hardin,F002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",111,38,62,11
+Hardin,F002,Auditor of Public Accounts,,,Total Votes,496,129,348,19
+Hardin,F002,State Treasurer,,REP,Mark H. METCALF,356,82,268,6
+Hardin,F002,State Treasurer,,DEM,Michael BOWMAN,137,46,78,13
+Hardin,F002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F002,State Treasurer,,,Total Votes,493,128,346,19
+Hardin,F002,Commissioner of Agriculture,,REP,Jonathan SHELL,358,84,268,6
+Hardin,F002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,136,45,79,12
+Hardin,F002,Commissioner of Agriculture,,,Total Votes,494,129,347,18
+Hardin,F003,STRAIGHT PARTY,,,Republican,340,80,243,17
+Hardin,F003,STRAIGHT PARTY,,,Democratic,145,63,78,4
+Hardin,F003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",554,141,391,22
+Hardin,F003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,406,139,250,17
+Hardin,F003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F003,Governor,,,Total Votes,960,280,641,39
+Hardin,F003,Secretary of State,,REP,Michael ADAMS,664,173,461,30
+Hardin,F003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",281,104,168,9
+Hardin,F003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F003,Secretary of State,,,Total Votes,945,277,629,39
+Hardin,F003,Attorney General,,REP,Russell COLEMAN,647,168,452,27
+Hardin,F003,Attorney General,,DEM,Pamela STEVENSON,299,110,177,12
+Hardin,F003,Attorney General,,,Total Votes,946,278,629,39
+Hardin,F003,Auditor of Public Accounts,,REP,Allison BALL,676,181,465,30
+Hardin,F003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",269,97,163,9
+Hardin,F003,Auditor of Public Accounts,,,Total Votes,945,278,628,39
+Hardin,F003,State Treasurer,,REP,Mark H. METCALF,633,167,438,28
+Hardin,F003,State Treasurer,,DEM,Michael BOWMAN,308,111,186,11
+Hardin,F003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F003,State Treasurer,,,Total Votes,941,278,624,39
+Hardin,F003,Commissioner of Agriculture,,REP,Jonathan SHELL,626,161,436,29
+Hardin,F003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,318,116,192,10
+Hardin,F003,Commissioner of Agriculture,,,Total Votes,944,277,628,39
+Hardin,F004,STRAIGHT PARTY,,,Republican,304,47,248,9
+Hardin,F004,STRAIGHT PARTY,,,Democratic,102,32,65,5
+Hardin,F004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",487,78,397,12
+Hardin,F004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,305,74,218,13
+Hardin,F004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F004,Governor,,,Total Votes,792,152,615,25
+Hardin,F004,Secretary of State,,REP,Michael ADAMS,572,104,452,16
+Hardin,F004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",212,49,154,9
+Hardin,F004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F004,Secretary of State,,,Total Votes,784,153,606,25
+Hardin,F004,Attorney General,,REP,Russell COLEMAN,557,91,451,15
+Hardin,F004,Attorney General,,DEM,Pamela STEVENSON,235,62,163,10
+Hardin,F004,Attorney General,,,Total Votes,792,153,614,25
+Hardin,F004,Auditor of Public Accounts,,REP,Allison BALL,575,96,462,17
+Hardin,F004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",208,54,146,8
+Hardin,F004,Auditor of Public Accounts,,,Total Votes,783,150,608,25
+Hardin,F004,State Treasurer,,REP,Mark H. METCALF,542,89,438,15
+Hardin,F004,State Treasurer,,DEM,Michael BOWMAN,244,61,173,10
+Hardin,F004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F004,State Treasurer,,,Total Votes,786,150,611,25
+Hardin,F004,Commissioner of Agriculture,,REP,Jonathan SHELL,548,90,443,15
+Hardin,F004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,231,58,163,10
+Hardin,F004,Commissioner of Agriculture,,,Total Votes,779,148,606,25
+Hardin,F005,STRAIGHT PARTY,,,Republican,240,49,186,5
+Hardin,F005,STRAIGHT PARTY,,,Democratic,74,17,50,7
+Hardin,F005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",374,68,297,9
+Hardin,F005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,202,52,139,11
+Hardin,F005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F005,Governor,,,Total Votes,576,120,436,20
+Hardin,F005,Secretary of State,,REP,Michael ADAMS,431,84,337,10
+Hardin,F005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",135,32,93,10
+Hardin,F005,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F005,Secretary of State,,,Total Votes,566,116,430,20
+Hardin,F005,Attorney General,,REP,Russell COLEMAN,418,80,329,9
+Hardin,F005,Attorney General,,DEM,Pamela STEVENSON,151,37,103,11
+Hardin,F005,Attorney General,,,Total Votes,569,117,432,20
+Hardin,F005,Auditor of Public Accounts,,REP,Allison BALL,439,87,340,12
+Hardin,F005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",129,31,90,8
+Hardin,F005,Auditor of Public Accounts,,,Total Votes,568,118,430,20
+Hardin,F005,State Treasurer,,REP,Mark H. METCALF,405,74,323,8
+Hardin,F005,State Treasurer,,DEM,Michael BOWMAN,161,43,106,12
+Hardin,F005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F005,State Treasurer,,,Total Votes,566,117,429,20
+Hardin,F005,Commissioner of Agriculture,,REP,Jonathan SHELL,409,79,321,9
+Hardin,F005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,163,40,112,11
+Hardin,F005,Commissioner of Agriculture,,,Total Votes,572,119,433,20
+Hardin,F006,STRAIGHT PARTY,,,Republican,195,11,184,0
+Hardin,F006,STRAIGHT PARTY,,,Democratic,78,2,69,7
+Hardin,F006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",325,21,304,0
+Hardin,F006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,231,22,194,15
+Hardin,F006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F006,Governor,,,Total Votes,556,43,498,15
+Hardin,F006,Secretary of State,,REP,Michael ADAMS,382,24,355,3
+Hardin,F006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",162,15,135,12
+Hardin,F006,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
+Hardin,F006,Secretary of State,,,Total Votes,546,39,492,15
+Hardin,F006,Attorney General,,REP,Russell COLEMAN,391,29,361,1
+Hardin,F006,Attorney General,,DEM,Pamela STEVENSON,152,11,127,14
+Hardin,F006,Attorney General,,,Total Votes,543,40,488,15
+Hardin,F006,Auditor of Public Accounts,,REP,Allison BALL,392,29,361,2
+Hardin,F006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",151,12,126,13
+Hardin,F006,Auditor of Public Accounts,,,Total Votes,543,41,487,15
+Hardin,F006,State Treasurer,,REP,Mark H. METCALF,366,24,341,1
+Hardin,F006,State Treasurer,,DEM,Michael BOWMAN,173,16,143,14
+Hardin,F006,State Treasurer,,,Robert Perry,1,0,1,0
+Hardin,F006,State Treasurer,,,Total Votes,540,40,485,15
+Hardin,F006,Commissioner of Agriculture,,REP,Jonathan SHELL,379,23,355,1
+Hardin,F006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,167,19,134,14
+Hardin,F006,Commissioner of Agriculture,,,Total Votes,546,42,489,15
+Hardin,F007,STRAIGHT PARTY,,,Republican,115,5,107,3
+Hardin,F007,STRAIGHT PARTY,,,Democratic,60,11,49,0
+Hardin,F007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",177,12,162,3
+Hardin,F007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,126,13,107,6
+Hardin,F007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F007,Governor,,,Total Votes,303,25,269,9
+Hardin,F007,Secretary of State,,REP,Michael ADAMS,209,13,189,7
+Hardin,F007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",91,12,77,2
+Hardin,F007,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F007,Secretary of State,,,Total Votes,300,25,266,9
+Hardin,F007,Attorney General,,REP,Russell COLEMAN,206,13,187,6
+Hardin,F007,Attorney General,,DEM,Pamela STEVENSON,95,12,80,3
+Hardin,F007,Attorney General,,,Total Votes,301,25,267,9
+Hardin,F007,Auditor of Public Accounts,,REP,Allison BALL,212,13,193,6
+Hardin,F007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",87,12,72,3
+Hardin,F007,Auditor of Public Accounts,,,Total Votes,299,25,265,9
+Hardin,F007,State Treasurer,,REP,Mark H. METCALF,201,13,183,5
+Hardin,F007,State Treasurer,,DEM,Michael BOWMAN,97,12,81,4
+Hardin,F007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F007,State Treasurer,,,Total Votes,298,25,264,9
+Hardin,F007,Commissioner of Agriculture,,REP,Jonathan SHELL,205,14,186,5
+Hardin,F007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,95,11,80,4
+Hardin,F007,Commissioner of Agriculture,,,Total Votes,300,25,266,9
+Hardin,F008,STRAIGHT PARTY,,,Republican,24,2,21,1
+Hardin,F008,STRAIGHT PARTY,,,Democratic,3,1,2,0
+Hardin,F008,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",33,4,28,1
+Hardin,F008,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,14,5,9,0
+Hardin,F008,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,F008,Governor,,,Total Votes,47,9,37,1
+Hardin,F008,Secretary of State,,REP,Michael ADAMS,37,5,31,1
+Hardin,F008,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",10,4,6,0
+Hardin,F008,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,F008,Secretary of State,,,Total Votes,47,9,37,1
+Hardin,F008,Attorney General,,REP,Russell COLEMAN,38,4,33,1
+Hardin,F008,Attorney General,,DEM,Pamela STEVENSON,9,5,4,0
+Hardin,F008,Attorney General,,,Total Votes,47,9,37,1
+Hardin,F008,Auditor of Public Accounts,,REP,Allison BALL,37,4,32,1
+Hardin,F008,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",9,5,4,0
+Hardin,F008,Auditor of Public Accounts,,,Total Votes,46,9,36,1
+Hardin,F008,State Treasurer,,REP,Mark H. METCALF,37,4,32,1
+Hardin,F008,State Treasurer,,DEM,Michael BOWMAN,10,5,5,0
+Hardin,F008,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,F008,State Treasurer,,,Total Votes,47,9,37,1
+Hardin,F008,Commissioner of Agriculture,,REP,Jonathan SHELL,37,3,33,1
+Hardin,F008,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,6,4,0
+Hardin,F008,Commissioner of Agriculture,,,Total Votes,47,9,37,1
+Hardin,G001,STRAIGHT PARTY,,,Republican,121,12,108,1
+Hardin,G001,STRAIGHT PARTY,,,Democratic,40,1,33,6
+Hardin,G001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",182,15,164,3
+Hardin,G001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,102,12,82,8
+Hardin,G001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G001,Governor,,,Total Votes,284,27,246,11
+Hardin,G001,Secretary of State,,REP,Michael ADAMS,211,26,181,4
+Hardin,G001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,1,65,7
+Hardin,G001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G001,Secretary of State,,,Total Votes,284,27,246,11
+Hardin,G001,Attorney General,,REP,Russell COLEMAN,205,19,182,4
+Hardin,G001,Attorney General,,DEM,Pamela STEVENSON,79,8,64,7
+Hardin,G001,Attorney General,,,Total Votes,284,27,246,11
+Hardin,G001,Auditor of Public Accounts,,REP,Allison BALL,219,24,190,5
+Hardin,G001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",64,2,56,6
+Hardin,G001,Auditor of Public Accounts,,,Total Votes,283,26,246,11
+Hardin,G001,State Treasurer,,REP,Mark H. METCALF,200,21,175,4
+Hardin,G001,State Treasurer,,DEM,Michael BOWMAN,83,6,70,7
+Hardin,G001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G001,State Treasurer,,,Total Votes,283,27,245,11
+Hardin,G001,Commissioner of Agriculture,,REP,Jonathan SHELL,204,19,180,5
+Hardin,G001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,80,8,66,6
+Hardin,G001,Commissioner of Agriculture,,,Total Votes,284,27,246,11
+Hardin,G002,STRAIGHT PARTY,,,Republican,159,11,144,4
+Hardin,G002,STRAIGHT PARTY,,,Democratic,49,9,40,0
+Hardin,G002,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",242,19,217,6
+Hardin,G002,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,136,13,118,5
+Hardin,G002,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G002,Governor,,,Total Votes,378,32,335,11
+Hardin,G002,Secretary of State,,REP,Michael ADAMS,272,22,243,7
+Hardin,G002,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,10,82,3
+Hardin,G002,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G002,Secretary of State,,,Total Votes,367,32,325,10
+Hardin,G002,Attorney General,,REP,Russell COLEMAN,285,18,260,7
+Hardin,G002,Attorney General,,DEM,Pamela STEVENSON,89,14,72,3
+Hardin,G002,Attorney General,,,Total Votes,374,32,332,10
+Hardin,G002,Auditor of Public Accounts,,REP,Allison BALL,279,19,253,7
+Hardin,G002,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",89,11,75,3
+Hardin,G002,Auditor of Public Accounts,,,Total Votes,368,30,328,10
+Hardin,G002,State Treasurer,,REP,Mark H. METCALF,271,17,247,7
+Hardin,G002,State Treasurer,,DEM,Michael BOWMAN,98,15,81,2
+Hardin,G002,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G002,State Treasurer,,,Total Votes,369,32,328,9
+Hardin,G002,Commissioner of Agriculture,,REP,Jonathan SHELL,269,20,243,6
+Hardin,G002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,103,12,87,4
+Hardin,G002,Commissioner of Agriculture,,,Total Votes,372,32,330,10
+Hardin,G003,STRAIGHT PARTY,,,Republican,184,4,176,4
+Hardin,G003,STRAIGHT PARTY,,,Democratic,39,4,31,4
+Hardin,G003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",288,15,268,5
+Hardin,G003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,110,6,100,4
+Hardin,G003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G003,Governor,,,Total Votes,398,21,368,9
+Hardin,G003,Secretary of State,,REP,Michael ADAMS,316,16,295,5
+Hardin,G003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,5,64,4
+Hardin,G003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G003,Secretary of State,,,Total Votes,389,21,359,9
+Hardin,G003,Attorney General,,REP,Russell COLEMAN,317,17,295,5
+Hardin,G003,Attorney General,,DEM,Pamela STEVENSON,77,4,69,4
+Hardin,G003,Attorney General,,,Total Votes,394,21,364,9
+Hardin,G003,Auditor of Public Accounts,,REP,Allison BALL,324,16,303,5
+Hardin,G003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",65,5,56,4
+Hardin,G003,Auditor of Public Accounts,,,Total Votes,389,21,359,9
+Hardin,G003,State Treasurer,,REP,Mark H. METCALF,313,16,292,5
+Hardin,G003,State Treasurer,,DEM,Michael BOWMAN,75,5,66,4
+Hardin,G003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G003,State Treasurer,,,Total Votes,388,21,358,9
+Hardin,G003,Commissioner of Agriculture,,REP,Jonathan SHELL,329,17,307,5
+Hardin,G003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,62,4,54,4
+Hardin,G003,Commissioner of Agriculture,,,Total Votes,391,21,361,9
+Hardin,G004,STRAIGHT PARTY,,,Republican,148,17,129,2
+Hardin,G004,STRAIGHT PARTY,,,Democratic,34,7,24,3
+Hardin,G004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",221,22,196,3
+Hardin,G004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,109,16,89,4
+Hardin,G004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G004,Governor,,,Total Votes,330,38,285,7
+Hardin,G004,Secretary of State,,REP,Michael ADAMS,259,27,229,3
+Hardin,G004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",67,11,52,4
+Hardin,G004,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G004,Secretary of State,,,Total Votes,326,38,281,7
+Hardin,G004,Attorney General,,REP,Russell COLEMAN,257,27,226,4
+Hardin,G004,Attorney General,,DEM,Pamela STEVENSON,65,10,52,3
+Hardin,G004,Attorney General,,,Total Votes,322,37,278,7
+Hardin,G004,Auditor of Public Accounts,,REP,Allison BALL,260,25,231,4
+Hardin,G004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",65,11,51,3
+Hardin,G004,Auditor of Public Accounts,,,Total Votes,325,36,282,7
+Hardin,G004,State Treasurer,,REP,Mark H. METCALF,243,24,214,5
+Hardin,G004,State Treasurer,,DEM,Michael BOWMAN,76,10,64,2
+Hardin,G004,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G004,State Treasurer,,,Total Votes,319,34,278,7
+Hardin,G004,Commissioner of Agriculture,,REP,Jonathan SHELL,249,25,221,3
+Hardin,G004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,74,12,58,4
+Hardin,G004,Commissioner of Agriculture,,,Total Votes,323,37,279,7
+Hardin,G006,STRAIGHT PARTY,,,Republican,308,67,231,10
+Hardin,G006,STRAIGHT PARTY,,,Democratic,128,38,76,14
+Hardin,G006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",464,111,340,13
+Hardin,G006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,318,97,194,27
+Hardin,G006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G006,Governor,,,Total Votes,782,208,534,40
+Hardin,G006,Secretary of State,,REP,Michael ADAMS,544,144,381,19
+Hardin,G006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",227,62,145,20
+Hardin,G006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G006,Secretary of State,,,Total Votes,771,206,526,39
+Hardin,G006,Attorney General,,REP,Russell COLEMAN,530,131,383,16
+Hardin,G006,Attorney General,,DEM,Pamela STEVENSON,246,77,145,24
+Hardin,G006,Attorney General,,,Total Votes,776,208,528,40
+Hardin,G006,Auditor of Public Accounts,,REP,Allison BALL,552,135,399,18
+Hardin,G006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",216,72,124,20
+Hardin,G006,Auditor of Public Accounts,,,Total Votes,768,207,523,38
+Hardin,G006,State Treasurer,,REP,Mark H. METCALF,509,125,366,18
+Hardin,G006,State Treasurer,,DEM,Michael BOWMAN,256,79,156,21
+Hardin,G006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G006,State Treasurer,,,Total Votes,765,204,522,39
+Hardin,G006,Commissioner of Agriculture,,REP,Jonathan SHELL,525,135,373,17
+Hardin,G006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,240,72,146,22
+Hardin,G006,Commissioner of Agriculture,,,Total Votes,765,207,519,39
+Hardin,G007,STRAIGHT PARTY,,,Republican,188,60,122,6
+Hardin,G007,STRAIGHT PARTY,,,Democratic,73,32,38,3
+Hardin,G007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",287,93,187,7
+Hardin,G007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,212,97,107,8
+Hardin,G007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G007,Governor,,,Total Votes,499,190,294,15
+Hardin,G007,Secretary of State,,REP,Michael ADAMS,358,133,216,9
+Hardin,G007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",133,56,71,6
+Hardin,G007,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G007,Secretary of State,,,Total Votes,491,189,287,15
+Hardin,G007,Attorney General,,REP,Russell COLEMAN,354,124,221,9
+Hardin,G007,Attorney General,,DEM,Pamela STEVENSON,139,65,68,6
+Hardin,G007,Attorney General,,,Total Votes,493,189,289,15
+Hardin,G007,Auditor of Public Accounts,,REP,Allison BALL,359,130,220,9
+Hardin,G007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",131,60,65,6
+Hardin,G007,Auditor of Public Accounts,,,Total Votes,490,190,285,15
+Hardin,G007,State Treasurer,,REP,Mark H. METCALF,337,116,212,9
+Hardin,G007,State Treasurer,,DEM,Michael BOWMAN,148,72,70,6
+Hardin,G007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G007,State Treasurer,,,Total Votes,485,188,282,15
+Hardin,G007,Commissioner of Agriculture,,REP,Jonathan SHELL,350,124,219,7
+Hardin,G007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,142,64,70,8
+Hardin,G007,Commissioner of Agriculture,,,Total Votes,492,188,289,15
+Hardin,G008,STRAIGHT PARTY,,,Republican,307,64,236,7
+Hardin,G008,STRAIGHT PARTY,,,Democratic,78,21,53,4
+Hardin,G008,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",441,89,344,8
+Hardin,G008,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,186,46,124,16
+Hardin,G008,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G008,Governor,,,Total Votes,627,135,468,24
+Hardin,G008,Secretary of State,,REP,Michael ADAMS,492,99,384,9
+Hardin,G008,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",129,37,78,14
+Hardin,G008,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,G008,Secretary of State,,,Total Votes,621,136,462,23
+Hardin,G008,Attorney General,,REP,Russell COLEMAN,485,101,373,11
+Hardin,G008,Attorney General,,DEM,Pamela STEVENSON,139,35,91,13
+Hardin,G008,Attorney General,,,Total Votes,624,136,464,24
+Hardin,G008,Auditor of Public Accounts,,REP,Allison BALL,489,101,378,10
+Hardin,G008,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",137,35,89,13
+Hardin,G008,Auditor of Public Accounts,,,Total Votes,626,136,467,23
+Hardin,G008,State Treasurer,,REP,Mark H. METCALF,468,98,361,9
+Hardin,G008,State Treasurer,,DEM,Michael BOWMAN,155,37,104,14
+Hardin,G008,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G008,State Treasurer,,,Total Votes,623,135,465,23
+Hardin,G008,Commissioner of Agriculture,,REP,Jonathan SHELL,477,99,369,9
+Hardin,G008,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,142,36,92,14
+Hardin,G008,Commissioner of Agriculture,,,Total Votes,619,135,461,23
+Hardin,G009,STRAIGHT PARTY,,,Republican,145,36,105,4
+Hardin,G009,STRAIGHT PARTY,,,Democratic,95,25,63,7
+Hardin,G009,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",251,61,186,4
+Hardin,G009,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,239,64,164,11
+Hardin,G009,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,G009,Governor,,,Total Votes,490,125,350,15
+Hardin,G009,Secretary of State,,REP,Michael ADAMS,300,72,224,4
+Hardin,G009,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",186,51,124,11
+Hardin,G009,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Hardin,G009,Secretary of State,,,Total Votes,487,123,349,15
+Hardin,G009,Attorney General,,REP,Russell COLEMAN,294,68,222,4
+Hardin,G009,Attorney General,,DEM,Pamela STEVENSON,193,55,127,11
+Hardin,G009,Attorney General,,,Total Votes,487,123,349,15
+Hardin,G009,Auditor of Public Accounts,,REP,Allison BALL,303,74,224,5
+Hardin,G009,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",181,47,124,10
+Hardin,G009,Auditor of Public Accounts,,,Total Votes,484,121,348,15
+Hardin,G009,State Treasurer,,REP,Mark H. METCALF,292,68,220,4
+Hardin,G009,State Treasurer,,DEM,Michael BOWMAN,192,53,128,11
+Hardin,G009,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,G009,State Treasurer,,,Total Votes,484,121,348,15
+Hardin,G009,Commissioner of Agriculture,,REP,Jonathan SHELL,308,76,227,5
+Hardin,G009,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,178,45,123,10
+Hardin,G009,Commissioner of Agriculture,,,Total Votes,486,121,350,15
+Hardin,H001,STRAIGHT PARTY,,,Republican,302,83,214,5
+Hardin,H001,STRAIGHT PARTY,,,Democratic,127,54,66,7
+Hardin,H001,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",418,113,299,6
+Hardin,H001,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,312,115,177,20
+Hardin,H001,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H001,Governor,,,Total Votes,730,228,476,26
+Hardin,H001,Secretary of State,,REP,Michael ADAMS,502,150,341,11
+Hardin,H001,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",218,78,125,15
+Hardin,H001,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,H001,Secretary of State,,,Total Votes,720,228,466,26
+Hardin,H001,Attorney General,,REP,Russell COLEMAN,502,138,354,10
+Hardin,H001,Attorney General,,DEM,Pamela STEVENSON,223,90,117,16
+Hardin,H001,Attorney General,,,Total Votes,725,228,471,26
+Hardin,H001,Auditor of Public Accounts,,REP,Allison BALL,508,145,352,11
+Hardin,H001,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",215,83,117,15
+Hardin,H001,Auditor of Public Accounts,,,Total Votes,723,228,469,26
+Hardin,H001,State Treasurer,,REP,Mark H. METCALF,485,133,343,9
+Hardin,H001,State Treasurer,,DEM,Michael BOWMAN,236,93,126,17
+Hardin,H001,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H001,State Treasurer,,,Total Votes,721,226,469,26
+Hardin,H001,Commissioner of Agriculture,,REP,Jonathan SHELL,504,137,356,11
+Hardin,H001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,215,88,112,15
+Hardin,H001,Commissioner of Agriculture,,,Total Votes,719,225,468,26
+Hardin,H003,STRAIGHT PARTY,,,Republican,24,7,17,0
+Hardin,H003,STRAIGHT PARTY,,,Democratic,4,1,3,0
+Hardin,H003,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",40,12,28,0
+Hardin,H003,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,10,1,9,0
+Hardin,H003,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H003,Governor,,,Total Votes,50,13,37,0
+Hardin,H003,Secretary of State,,REP,Michael ADAMS,38,10,28,0
+Hardin,H003,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",11,2,9,0
+Hardin,H003,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,H003,Secretary of State,,,Total Votes,49,12,37,0
+Hardin,H003,Attorney General,,REP,Russell COLEMAN,39,10,29,0
+Hardin,H003,Attorney General,,DEM,Pamela STEVENSON,10,2,8,0
+Hardin,H003,Attorney General,,,Total Votes,49,12,37,0
+Hardin,H003,Auditor of Public Accounts,,REP,Allison BALL,39,10,29,0
+Hardin,H003,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",10,2,8,0
+Hardin,H003,Auditor of Public Accounts,,,Total Votes,49,12,37,0
+Hardin,H003,State Treasurer,,REP,Mark H. METCALF,36,10,26,0
+Hardin,H003,State Treasurer,,DEM,Michael BOWMAN,13,2,11,0
+Hardin,H003,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H003,State Treasurer,,,Total Votes,49,12,37,0
+Hardin,H003,Commissioner of Agriculture,,REP,Jonathan SHELL,38,10,28,0
+Hardin,H003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,2,9,0
+Hardin,H003,Commissioner of Agriculture,,,Total Votes,49,12,37,0
+Hardin,H004,STRAIGHT PARTY,,,Republican,235,59,168,8
+Hardin,H004,STRAIGHT PARTY,,,Democratic,97,44,46,7
+Hardin,H004,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",386,95,278,13
+Hardin,H004,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,263,105,148,10
+Hardin,H004,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H004,Governor,,,Total Votes,649,200,426,23
+Hardin,H004,Secretary of State,,REP,Michael ADAMS,441,124,302,15
+Hardin,H004,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",186,72,106,8
+Hardin,H004,Secretary of State,,,Kenneth C. Moellman Jr.,3,0,3,0
+Hardin,H004,Secretary of State,,,Total Votes,630,196,411,23
+Hardin,H004,Attorney General,,REP,Russell COLEMAN,441,127,300,14
+Hardin,H004,Attorney General,,DEM,Pamela STEVENSON,200,71,120,9
+Hardin,H004,Attorney General,,,Total Votes,641,198,420,23
+Hardin,H004,Auditor of Public Accounts,,REP,Allison BALL,456,122,319,15
+Hardin,H004,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",183,74,101,8
+Hardin,H004,Auditor of Public Accounts,,,Total Votes,639,196,420,23
+Hardin,H004,State Treasurer,,REP,Mark H. METCALF,439,117,308,14
+Hardin,H004,State Treasurer,,DEM,Michael BOWMAN,196,79,108,9
+Hardin,H004,State Treasurer,,,Robert Perry,2,0,2,0
+Hardin,H004,State Treasurer,,,Total Votes,637,196,418,23
+Hardin,H004,Commissioner of Agriculture,,REP,Jonathan SHELL,451,121,316,14
+Hardin,H004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,189,77,103,9
+Hardin,H004,Commissioner of Agriculture,,,Total Votes,640,198,419,23
+Hardin,H005,STRAIGHT PARTY,,,Republican,283,56,218,9
+Hardin,H005,STRAIGHT PARTY,,,Democratic,305,100,189,16
+Hardin,H005,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",393,91,290,12
+Hardin,H005,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,570,190,353,27
+Hardin,H005,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H005,Governor,,,Total Votes,963,281,643,39
+Hardin,H005,Secretary of State,,REP,Michael ADAMS,492,121,352,19
+Hardin,H005,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",460,156,284,20
+Hardin,H005,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
+Hardin,H005,Secretary of State,,,Total Votes,954,277,638,39
+Hardin,H005,Attorney General,,REP,Russell COLEMAN,472,110,348,14
+Hardin,H005,Attorney General,,DEM,Pamela STEVENSON,484,167,292,25
+Hardin,H005,Attorney General,,,Total Votes,956,277,640,39
+Hardin,H005,Auditor of Public Accounts,,REP,Allison BALL,489,117,356,16
+Hardin,H005,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",466,159,284,23
+Hardin,H005,Auditor of Public Accounts,,,Total Votes,955,276,640,39
+Hardin,H005,State Treasurer,,REP,Mark H. METCALF,469,108,343,18
+Hardin,H005,State Treasurer,,DEM,Michael BOWMAN,481,168,292,21
+Hardin,H005,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H005,State Treasurer,,,Total Votes,950,276,635,39
+Hardin,H005,Commissioner of Agriculture,,REP,Jonathan SHELL,484,114,351,19
+Hardin,H005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,471,162,289,20
+Hardin,H005,Commissioner of Agriculture,,,Total Votes,955,276,640,39
+Hardin,H006,STRAIGHT PARTY,,,Republican,227,53,165,9
+Hardin,H006,STRAIGHT PARTY,,,Democratic,205,55,136,14
+Hardin,H006,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",347,86,247,14
+Hardin,H006,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,455,116,312,27
+Hardin,H006,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H006,Governor,,,Total Votes,802,202,559,41
+Hardin,H006,Secretary of State,,REP,Michael ADAMS,443,114,310,19
+Hardin,H006,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",348,84,241,23
+Hardin,H006,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,H006,Secretary of State,,,Total Votes,791,198,551,42
+Hardin,H006,Attorney General,,REP,Russell COLEMAN,429,100,310,19
+Hardin,H006,Attorney General,,DEM,Pamela STEVENSON,367,98,246,23
+Hardin,H006,Attorney General,,,Total Votes,796,198,556,42
+Hardin,H006,Auditor of Public Accounts,,REP,Allison BALL,469,110,337,22
+Hardin,H006,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",318,85,213,20
+Hardin,H006,Auditor of Public Accounts,,,Total Votes,787,195,550,42
+Hardin,H006,State Treasurer,,REP,Mark H. METCALF,432,100,315,17
+Hardin,H006,State Treasurer,,DEM,Michael BOWMAN,357,95,238,24
+Hardin,H006,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H006,State Treasurer,,,Total Votes,789,195,553,41
+Hardin,H006,Commissioner of Agriculture,,REP,Jonathan SHELL,442,105,322,15
+Hardin,H006,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,349,92,231,26
+Hardin,H006,Commissioner of Agriculture,,,Total Votes,791,197,553,41
+Hardin,H007,STRAIGHT PARTY,,,Republican,278,67,210,1
+Hardin,H007,STRAIGHT PARTY,,,Democratic,99,40,51,8
+Hardin,H007,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",398,95,300,3
+Hardin,H007,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,252,98,143,11
+Hardin,H007,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H007,Governor,,,Total Votes,650,193,443,14
+Hardin,H007,Secretary of State,,REP,Michael ADAMS,461,117,339,5
+Hardin,H007,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",184,76,99,9
+Hardin,H007,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Hardin,H007,Secretary of State,,,Total Votes,646,193,439,14
+Hardin,H007,Attorney General,,REP,Russell COLEMAN,453,117,332,4
+Hardin,H007,Attorney General,,DEM,Pamela STEVENSON,194,76,108,10
+Hardin,H007,Attorney General,,,Total Votes,647,193,440,14
+Hardin,H007,Auditor of Public Accounts,,REP,Allison BALL,474,125,345,4
+Hardin,H007,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",172,68,94,10
+Hardin,H007,Auditor of Public Accounts,,,Total Votes,646,193,439,14
+Hardin,H007,State Treasurer,,REP,Mark H. METCALF,450,112,333,5
+Hardin,H007,State Treasurer,,DEM,Michael BOWMAN,192,79,104,9
+Hardin,H007,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H007,State Treasurer,,,Total Votes,642,191,437,14
+Hardin,H007,Commissioner of Agriculture,,REP,Jonathan SHELL,464,120,340,4
+Hardin,H007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,179,72,97,10
+Hardin,H007,Commissioner of Agriculture,,,Total Votes,643,192,437,14
+Hardin,H008,STRAIGHT PARTY,,,Republican,224,38,180,6
+Hardin,H008,STRAIGHT PARTY,,,Democratic,87,20,60,7
+Hardin,H008,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",325,62,257,6
+Hardin,H008,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,213,48,153,12
+Hardin,H008,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Hardin,H008,Governor,,,Total Votes,538,110,410,18
+Hardin,H008,Secretary of State,,REP,Michael ADAMS,374,72,293,9
+Hardin,H008,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",160,37,114,9
+Hardin,H008,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Hardin,H008,Secretary of State,,,Total Votes,534,109,407,18
+Hardin,H008,Attorney General,,REP,Russell COLEMAN,380,70,304,6
+Hardin,H008,Attorney General,,DEM,Pamela STEVENSON,155,38,105,12
+Hardin,H008,Attorney General,,,Total Votes,535,108,409,18
+Hardin,H008,Auditor of Public Accounts,,REP,Allison BALL,383,74,300,9
+Hardin,H008,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",147,33,106,8
+Hardin,H008,Auditor of Public Accounts,,,Total Votes,530,107,406,17
+Hardin,H008,State Treasurer,,REP,Mark H. METCALF,370,70,292,8
+Hardin,H008,State Treasurer,,DEM,Michael BOWMAN,160,38,112,10
+Hardin,H008,State Treasurer,,,Robert Perry,0,0,0,0
+Hardin,H008,State Treasurer,,,Total Votes,530,108,404,18
+Hardin,H008,Commissioner of Agriculture,,REP,Jonathan SHELL,390,75,308,7
+Hardin,H008,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,141,32,98,11
+Hardin,H008,Commissioner of Agriculture,,,Total Votes,531,107,406,18

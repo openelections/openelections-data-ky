@@ -1,0 +1,421 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Larue,A101,STRAIGHT PARTY,,,Republican,249,61,182,6
+Larue,A101,STRAIGHT PARTY,,,Democratic,92,27,58,7
+Larue,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",468,116,335,17
+Larue,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,298,82,201,15
+Larue,A101,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Larue,A101,Governor,,,Total Votes,767,198,537,32
+Larue,A101,Governor,,,Under Votes,2,1,1,0
+Larue,A101,Governor,,,Over Votes,0,0,0,0
+Larue,A101,Secretary of State,,REP,Michael ADAMS,556,138,399,19
+Larue,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",190,57,123,10
+Larue,A101,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
+Larue,A101,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,A101,Secretary of State,,,Total Votes,748,195,524,29
+Larue,A101,Secretary of State,,,Under Votes,21,4,14,3
+Larue,A101,Secretary of State,,,Over Votes,0,0,0,0
+Larue,A101,Attorney General,,REP,Russell COLEMAN,553,145,389,19
+Larue,A101,Attorney General,,DEM,Pamela STEVENSON,200,51,138,11
+Larue,A101,Attorney General,,,Total Votes,753,196,527,30
+Larue,A101,Attorney General,,,Under Votes,15,3,10,2
+Larue,A101,Attorney General,,,Over Votes,1,0,1,0
+Larue,A101,Auditor of Public Accounts,,REP,Allison BALL,570,148,402,20
+Larue,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",182,49,123,10
+Larue,A101,Auditor of Public Accounts,,,Total Votes,752,197,525,30
+Larue,A101,Auditor of Public Accounts,,,Under Votes,17,2,13,2
+Larue,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,A101,State Treasurer,,REP,Mark H. METCALF,544,137,389,18
+Larue,A101,State Treasurer,,DEM,Michael BOWMAN,197,54,132,11
+Larue,A101,State Treasurer,,,Total Votes,741,191,521,29
+Larue,A101,State Treasurer,,,Under Votes,28,8,17,3
+Larue,A101,State Treasurer,,,Over Votes,0,0,0,0
+Larue,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,443,113,317,13
+Larue,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,314,83,212,19
+Larue,A101,Commissioner of Agriculture,,,Total Votes,757,196,529,32
+Larue,A101,Commissioner of Agriculture,,,Under Votes,12,3,9,0
+Larue,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,A103,STRAIGHT PARTY,,,Republican,153,22,127,4
+Larue,A103,STRAIGHT PARTY,,,Democratic,80,17,60,3
+Larue,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",223,38,180,5
+Larue,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,174,43,122,9
+Larue,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,A103,Governor,,,Total Votes,397,81,302,14
+Larue,A103,Governor,,,Under Votes,0,0,0,0
+Larue,A103,Governor,,,Over Votes,0,0,0,0
+Larue,A103,Secretary of State,,REP,Michael ADAMS,267,49,210,8
+Larue,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",125,32,88,5
+Larue,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,A103,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,A103,Secretary of State,,,Total Votes,392,81,298,13
+Larue,A103,Secretary of State,,,Under Votes,5,0,4,1
+Larue,A103,Secretary of State,,,Over Votes,0,0,0,0
+Larue,A103,Attorney General,,REP,Russell COLEMAN,249,42,198,9
+Larue,A103,Attorney General,,DEM,Pamela STEVENSON,144,39,101,4
+Larue,A103,Attorney General,,,Total Votes,393,81,299,13
+Larue,A103,Attorney General,,,Under Votes,4,0,3,1
+Larue,A103,Attorney General,,,Over Votes,0,0,0,0
+Larue,A103,Auditor of Public Accounts,,REP,Allison BALL,260,47,204,9
+Larue,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",130,34,92,4
+Larue,A103,Auditor of Public Accounts,,,Total Votes,390,81,296,13
+Larue,A103,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Larue,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,A103,State Treasurer,,REP,Mark H. METCALF,252,47,200,5
+Larue,A103,State Treasurer,,DEM,Michael BOWMAN,137,34,95,8
+Larue,A103,State Treasurer,,,Total Votes,389,81,295,13
+Larue,A103,State Treasurer,,,Under Votes,8,0,7,1
+Larue,A103,State Treasurer,,,Over Votes,0,0,0,0
+Larue,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,217,30,181,6
+Larue,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,175,51,117,7
+Larue,A103,Commissioner of Agriculture,,,Total Votes,392,81,298,13
+Larue,A103,Commissioner of Agriculture,,,Under Votes,5,0,4,1
+Larue,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,B101,STRAIGHT PARTY,,,Republican,187,36,149,2
+Larue,B101,STRAIGHT PARTY,,,Democratic,77,39,34,4
+Larue,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",301,62,235,4
+Larue,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,242,87,137,18
+Larue,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,B101,Governor,,,Total Votes,543,149,372,22
+Larue,B101,Governor,,,Under Votes,2,0,2,0
+Larue,B101,Governor,,,Over Votes,1,0,1,0
+Larue,B101,Secretary of State,,REP,Michael ADAMS,371,83,280,8
+Larue,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",164,64,87,13
+Larue,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,B101,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,B101,Secretary of State,,,Total Votes,535,147,367,21
+Larue,B101,Secretary of State,,,Under Votes,10,2,7,1
+Larue,B101,Secretary of State,,,Over Votes,1,0,1,0
+Larue,B101,Attorney General,,REP,Russell COLEMAN,361,77,277,7
+Larue,B101,Attorney General,,DEM,Pamela STEVENSON,173,70,90,13
+Larue,B101,Attorney General,,,Total Votes,534,147,367,20
+Larue,B101,Attorney General,,,Under Votes,12,2,8,2
+Larue,B101,Attorney General,,,Over Votes,0,0,0,0
+Larue,B101,Auditor of Public Accounts,,REP,Allison BALL,364,74,283,7
+Larue,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",162,70,78,14
+Larue,B101,Auditor of Public Accounts,,,Total Votes,526,144,361,21
+Larue,B101,Auditor of Public Accounts,,,Under Votes,20,5,14,1
+Larue,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,B101,State Treasurer,,REP,Mark H. METCALF,355,72,277,6
+Larue,B101,State Treasurer,,DEM,Michael BOWMAN,170,73,82,15
+Larue,B101,State Treasurer,,,Total Votes,525,145,359,21
+Larue,B101,State Treasurer,,,Under Votes,21,4,16,1
+Larue,B101,State Treasurer,,,Over Votes,0,0,0,0
+Larue,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,299,57,238,4
+Larue,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,239,90,132,17
+Larue,B101,Commissioner of Agriculture,,,Total Votes,538,147,370,21
+Larue,B101,Commissioner of Agriculture,,,Under Votes,8,2,5,1
+Larue,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,B102,STRAIGHT PARTY,,,Republican,109,26,77,6
+Larue,B102,STRAIGHT PARTY,,,Democratic,44,19,24,1
+Larue,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",187,40,141,6
+Larue,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,132,45,86,1
+Larue,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,B102,Governor,,,Total Votes,319,85,227,7
+Larue,B102,Governor,,,Under Votes,0,0,0,0
+Larue,B102,Governor,,,Over Votes,0,0,0,0
+Larue,B102,Secretary of State,,REP,Michael ADAMS,218,53,161,4
+Larue,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",89,29,57,3
+Larue,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,B102,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,B102,Secretary of State,,,Total Votes,307,82,218,7
+Larue,B102,Secretary of State,,,Under Votes,12,3,9,0
+Larue,B102,Secretary of State,,,Over Votes,0,0,0,0
+Larue,B102,Attorney General,,REP,Russell COLEMAN,215,50,159,6
+Larue,B102,Attorney General,,DEM,Pamela STEVENSON,97,33,63,1
+Larue,B102,Attorney General,,,Total Votes,312,83,222,7
+Larue,B102,Attorney General,,,Under Votes,7,2,5,0
+Larue,B102,Attorney General,,,Over Votes,0,0,0,0
+Larue,B102,Auditor of Public Accounts,,REP,Allison BALL,228,49,173,6
+Larue,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",80,31,48,1
+Larue,B102,Auditor of Public Accounts,,,Total Votes,308,80,221,7
+Larue,B102,Auditor of Public Accounts,,,Under Votes,11,5,6,0
+Larue,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,B102,State Treasurer,,REP,Mark H. METCALF,212,47,159,6
+Larue,B102,State Treasurer,,DEM,Michael BOWMAN,93,35,57,1
+Larue,B102,State Treasurer,,,Total Votes,305,82,216,7
+Larue,B102,State Treasurer,,,Under Votes,14,3,11,0
+Larue,B102,State Treasurer,,,Over Votes,0,0,0,0
+Larue,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,172,37,129,6
+Larue,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,142,47,94,1
+Larue,B102,Commissioner of Agriculture,,,Total Votes,314,84,223,7
+Larue,B102,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Larue,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,B103,STRAIGHT PARTY,,,Republican,88,5,81,2
+Larue,B103,STRAIGHT PARTY,,,Democratic,30,2,28,0
+Larue,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",151,5,144,2
+Larue,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,81,3,78,0
+Larue,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,B103,Governor,,,Total Votes,232,8,222,2
+Larue,B103,Governor,,,Under Votes,0,0,0,0
+Larue,B103,Governor,,,Over Votes,0,0,0,0
+Larue,B103,Secretary of State,,REP,Michael ADAMS,169,5,162,2
+Larue,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",59,3,56,0
+Larue,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,B103,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,B103,Secretary of State,,,Total Votes,228,8,218,2
+Larue,B103,Secretary of State,,,Under Votes,4,0,4,0
+Larue,B103,Secretary of State,,,Over Votes,0,0,0,0
+Larue,B103,Attorney General,,REP,Russell COLEMAN,176,6,168,2
+Larue,B103,Attorney General,,DEM,Pamela STEVENSON,52,2,50,0
+Larue,B103,Attorney General,,,Total Votes,228,8,218,2
+Larue,B103,Attorney General,,,Under Votes,4,0,4,0
+Larue,B103,Attorney General,,,Over Votes,0,0,0,0
+Larue,B103,Auditor of Public Accounts,,REP,Allison BALL,173,5,166,2
+Larue,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",56,3,53,0
+Larue,B103,Auditor of Public Accounts,,,Total Votes,229,8,219,2
+Larue,B103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Larue,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,B103,State Treasurer,,REP,Mark H. METCALF,173,5,166,2
+Larue,B103,State Treasurer,,DEM,Michael BOWMAN,56,3,53,0
+Larue,B103,State Treasurer,,,Total Votes,229,8,219,2
+Larue,B103,State Treasurer,,,Under Votes,3,0,3,0
+Larue,B103,State Treasurer,,,Over Votes,0,0,0,0
+Larue,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,136,6,128,2
+Larue,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,94,2,92,0
+Larue,B103,Commissioner of Agriculture,,,Total Votes,230,8,220,2
+Larue,B103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Larue,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,C101,STRAIGHT PARTY,,,Republican,276,64,206,6
+Larue,C101,STRAIGHT PARTY,,,Democratic,76,24,47,5
+Larue,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",435,92,331,12
+Larue,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,235,68,159,8
+Larue,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,C101,Governor,,,Total Votes,670,160,490,20
+Larue,C101,Governor,,,Under Votes,2,0,2,0
+Larue,C101,Governor,,,Over Votes,0,0,0,0
+Larue,C101,Secretary of State,,REP,Michael ADAMS,516,112,391,13
+Larue,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",143,45,91,7
+Larue,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,C101,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,C101,Secretary of State,,,Total Votes,659,157,482,20
+Larue,C101,Secretary of State,,,Under Votes,11,3,8,0
+Larue,C101,Secretary of State,,,Over Votes,2,0,2,0
+Larue,C101,Attorney General,,REP,Russell COLEMAN,512,112,387,13
+Larue,C101,Attorney General,,DEM,Pamela STEVENSON,148,46,95,7
+Larue,C101,Attorney General,,,Total Votes,660,158,482,20
+Larue,C101,Attorney General,,,Under Votes,12,2,10,0
+Larue,C101,Attorney General,,,Over Votes,0,0,0,0
+Larue,C101,Auditor of Public Accounts,,REP,Allison BALL,521,110,398,13
+Larue,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",135,46,82,7
+Larue,C101,Auditor of Public Accounts,,,Total Votes,656,156,480,20
+Larue,C101,Auditor of Public Accounts,,,Under Votes,16,4,12,0
+Larue,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,C101,State Treasurer,,REP,Mark H. METCALF,515,112,390,13
+Larue,C101,State Treasurer,,DEM,Michael BOWMAN,141,44,90,7
+Larue,C101,State Treasurer,,,Total Votes,656,156,480,20
+Larue,C101,State Treasurer,,,Under Votes,16,4,12,0
+Larue,C101,State Treasurer,,,Over Votes,0,0,0,0
+Larue,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,429,91,328,10
+Larue,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,237,67,160,10
+Larue,C101,Commissioner of Agriculture,,,Total Votes,666,158,488,20
+Larue,C101,Commissioner of Agriculture,,,Under Votes,6,2,4,0
+Larue,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,C102,STRAIGHT PARTY,,,Republican,132,30,99,3
+Larue,C102,STRAIGHT PARTY,,,Democratic,40,11,26,3
+Larue,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",216,44,168,4
+Larue,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,142,38,95,9
+Larue,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,C102,Governor,,,Total Votes,358,82,263,13
+Larue,C102,Governor,,,Under Votes,1,0,1,0
+Larue,C102,Governor,,,Over Votes,0,0,0,0
+Larue,C102,Secretary of State,,REP,Michael ADAMS,275,61,206,8
+Larue,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,21,51,4
+Larue,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,C102,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,C102,Secretary of State,,,Total Votes,351,82,257,12
+Larue,C102,Secretary of State,,,Under Votes,8,0,7,1
+Larue,C102,Secretary of State,,,Over Votes,0,0,0,0
+Larue,C102,Attorney General,,REP,Russell COLEMAN,267,55,204,8
+Larue,C102,Attorney General,,DEM,Pamela STEVENSON,88,27,56,5
+Larue,C102,Attorney General,,,Total Votes,355,82,260,13
+Larue,C102,Attorney General,,,Under Votes,4,0,4,0
+Larue,C102,Attorney General,,,Over Votes,0,0,0,0
+Larue,C102,Auditor of Public Accounts,,REP,Allison BALL,275,58,208,9
+Larue,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",79,24,51,4
+Larue,C102,Auditor of Public Accounts,,,Total Votes,354,82,259,13
+Larue,C102,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Larue,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,C102,State Treasurer,,REP,Mark H. METCALF,254,50,196,8
+Larue,C102,State Treasurer,,DEM,Michael BOWMAN,95,30,60,5
+Larue,C102,State Treasurer,,,Total Votes,349,80,256,13
+Larue,C102,State Treasurer,,,Under Votes,10,2,8,0
+Larue,C102,State Treasurer,,,Over Votes,0,0,0,0
+Larue,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,219,45,168,6
+Larue,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,136,35,94,7
+Larue,C102,Commissioner of Agriculture,,,Total Votes,355,80,262,13
+Larue,C102,Commissioner of Agriculture,,,Under Votes,4,2,2,0
+Larue,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,C103,STRAIGHT PARTY,,,Republican,64,9,54,1
+Larue,C103,STRAIGHT PARTY,,,Democratic,29,11,16,2
+Larue,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",101,18,82,1
+Larue,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,65,22,37,6
+Larue,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,C103,Governor,,,Total Votes,166,40,119,7
+Larue,C103,Governor,,,Under Votes,1,0,1,0
+Larue,C103,Governor,,,Over Votes,0,0,0,0
+Larue,C103,Secretary of State,,REP,Michael ADAMS,117,22,91,4
+Larue,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,18,28,3
+Larue,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,C103,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,C103,Secretary of State,,,Total Votes,166,40,119,7
+Larue,C103,Secretary of State,,,Under Votes,1,0,1,0
+Larue,C103,Secretary of State,,,Over Votes,0,0,0,0
+Larue,C103,Attorney General,,REP,Russell COLEMAN,107,20,86,1
+Larue,C103,Attorney General,,DEM,Pamela STEVENSON,58,20,32,6
+Larue,C103,Attorney General,,,Total Votes,165,40,118,7
+Larue,C103,Attorney General,,,Under Votes,2,0,2,0
+Larue,C103,Attorney General,,,Over Votes,0,0,0,0
+Larue,C103,Auditor of Public Accounts,,REP,Allison BALL,114,20,91,3
+Larue,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",49,20,25,4
+Larue,C103,Auditor of Public Accounts,,,Total Votes,163,40,116,7
+Larue,C103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Larue,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,C103,State Treasurer,,REP,Mark H. METCALF,110,21,86,3
+Larue,C103,State Treasurer,,DEM,Michael BOWMAN,53,19,30,4
+Larue,C103,State Treasurer,,,Total Votes,163,40,116,7
+Larue,C103,State Treasurer,,,Under Votes,4,0,4,0
+Larue,C103,State Treasurer,,,Over Votes,0,0,0,0
+Larue,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,93,16,76,1
+Larue,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,69,23,40,6
+Larue,C103,Commissioner of Agriculture,,,Total Votes,162,39,116,7
+Larue,C103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Larue,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,D101,STRAIGHT PARTY,,,Republican,171,17,149,5
+Larue,D101,STRAIGHT PARTY,,,Democratic,51,8,38,5
+Larue,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",278,33,238,7
+Larue,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,168,21,140,7
+Larue,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,D101,Governor,,,Total Votes,446,54,378,14
+Larue,D101,Governor,,,Under Votes,1,0,1,0
+Larue,D101,Governor,,,Over Votes,0,0,0,0
+Larue,D101,Secretary of State,,REP,Michael ADAMS,330,42,280,8
+Larue,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",107,11,90,6
+Larue,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,D101,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,D101,Secretary of State,,,Total Votes,437,53,370,14
+Larue,D101,Secretary of State,,,Under Votes,10,1,9,0
+Larue,D101,Secretary of State,,,Over Votes,0,0,0,0
+Larue,D101,Attorney General,,REP,Russell COLEMAN,327,38,281,8
+Larue,D101,Attorney General,,DEM,Pamela STEVENSON,114,16,92,6
+Larue,D101,Attorney General,,,Total Votes,441,54,373,14
+Larue,D101,Attorney General,,,Under Votes,6,0,6,0
+Larue,D101,Attorney General,,,Over Votes,0,0,0,0
+Larue,D101,Auditor of Public Accounts,,REP,Allison BALL,337,41,289,7
+Larue,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",100,13,80,7
+Larue,D101,Auditor of Public Accounts,,,Total Votes,437,54,369,14
+Larue,D101,Auditor of Public Accounts,,,Under Votes,10,0,10,0
+Larue,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,D101,State Treasurer,,REP,Mark H. METCALF,328,36,284,8
+Larue,D101,State Treasurer,,DEM,Michael BOWMAN,109,17,86,6
+Larue,D101,State Treasurer,,,Total Votes,437,53,370,14
+Larue,D101,State Treasurer,,,Under Votes,10,1,9,0
+Larue,D101,State Treasurer,,,Over Votes,0,0,0,0
+Larue,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,274,27,241,6
+Larue,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,169,27,134,8
+Larue,D101,Commissioner of Agriculture,,,Total Votes,443,54,375,14
+Larue,D101,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Larue,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,D102,STRAIGHT PARTY,,,Republican,143,8,134,1
+Larue,D102,STRAIGHT PARTY,,,Democratic,37,4,33,0
+Larue,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",221,21,199,1
+Larue,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,122,8,114,0
+Larue,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,D102,Governor,,,Total Votes,343,29,313,1
+Larue,D102,Governor,,,Under Votes,1,0,1,0
+Larue,D102,Governor,,,Over Votes,0,0,0,0
+Larue,D102,Secretary of State,,REP,Michael ADAMS,268,24,243,1
+Larue,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",71,5,66,0
+Larue,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,D102,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,D102,Secretary of State,,,Total Votes,339,29,309,1
+Larue,D102,Secretary of State,,,Under Votes,4,0,4,0
+Larue,D102,Secretary of State,,,Over Votes,1,0,1,0
+Larue,D102,Attorney General,,REP,Russell COLEMAN,269,23,245,1
+Larue,D102,Attorney General,,DEM,Pamela STEVENSON,70,6,64,0
+Larue,D102,Attorney General,,,Total Votes,339,29,309,1
+Larue,D102,Attorney General,,,Under Votes,5,0,5,0
+Larue,D102,Attorney General,,,Over Votes,0,0,0,0
+Larue,D102,Auditor of Public Accounts,,REP,Allison BALL,264,23,240,1
+Larue,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",74,6,68,0
+Larue,D102,Auditor of Public Accounts,,,Total Votes,338,29,308,1
+Larue,D102,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Larue,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,D102,State Treasurer,,REP,Mark H. METCALF,259,24,234,1
+Larue,D102,State Treasurer,,DEM,Michael BOWMAN,76,5,71,0
+Larue,D102,State Treasurer,,,Total Votes,335,29,305,1
+Larue,D102,State Treasurer,,,Under Votes,8,0,8,0
+Larue,D102,State Treasurer,,,Over Votes,1,0,1,0
+Larue,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,248,19,228,1
+Larue,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,91,10,81,0
+Larue,D102,Commissioner of Agriculture,,,Total Votes,339,29,309,1
+Larue,D102,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Larue,D102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Larue,D103,STRAIGHT PARTY,,,Republican,72,11,58,3
+Larue,D103,STRAIGHT PARTY,,,Democratic,14,2,11,1
+Larue,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",105,18,83,4
+Larue,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,46,11,33,2
+Larue,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,D103,Governor,,,Total Votes,151,29,116,6
+Larue,D103,Governor,,,Under Votes,0,0,0,0
+Larue,D103,Governor,,,Over Votes,0,0,0,0
+Larue,D103,Secretary of State,,REP,Michael ADAMS,120,25,91,4
+Larue,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,4,25,2
+Larue,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,D103,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,D103,Secretary of State,,,Total Votes,151,29,116,6
+Larue,D103,Secretary of State,,,Under Votes,0,0,0,0
+Larue,D103,Secretary of State,,,Over Votes,0,0,0,0
+Larue,D103,Attorney General,,REP,Russell COLEMAN,120,25,91,4
+Larue,D103,Attorney General,,DEM,Pamela STEVENSON,30,4,24,2
+Larue,D103,Attorney General,,,Total Votes,150,29,115,6
+Larue,D103,Attorney General,,,Under Votes,1,0,1,0
+Larue,D103,Attorney General,,,Over Votes,0,0,0,0
+Larue,D103,Auditor of Public Accounts,,REP,Allison BALL,120,24,92,4
+Larue,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",29,5,22,2
+Larue,D103,Auditor of Public Accounts,,,Total Votes,149,29,114,6
+Larue,D103,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Larue,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,D103,State Treasurer,,REP,Mark H. METCALF,115,22,89,4
+Larue,D103,State Treasurer,,DEM,Michael BOWMAN,33,7,24,2
+Larue,D103,State Treasurer,,,Total Votes,148,29,113,6
+Larue,D103,State Treasurer,,,Under Votes,3,0,3,0
+Larue,D103,State Treasurer,,,Over Votes,0,0,0,0
+Larue,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,111,22,85,4
+Larue,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,7,29,2
+Larue,D103,Commissioner of Agriculture,,,Total Votes,149,29,114,6
+Larue,D103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Larue,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Larue,D104,STRAIGHT PARTY,,,Republican,72,14,56,2
+Larue,D104,STRAIGHT PARTY,,,Democratic,16,7,7,2
+Larue,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",110,18,89,3
+Larue,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,14,32,5
+Larue,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Larue,D104,Governor,,,Total Votes,161,32,121,8
+Larue,D104,Governor,,,Under Votes,2,0,2,0
+Larue,D104,Governor,,,Over Votes,0,0,0,0
+Larue,D104,Secretary of State,,REP,Michael ADAMS,127,20,103,4
+Larue,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,11,14,4
+Larue,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Larue,D104,Secretary of State,,,Robert Perry,0,0,0,0
+Larue,D104,Secretary of State,,,Total Votes,156,31,117,8
+Larue,D104,Secretary of State,,,Under Votes,7,1,6,0
+Larue,D104,Secretary of State,,,Over Votes,0,0,0,0
+Larue,D104,Attorney General,,REP,Russell COLEMAN,124,22,99,3
+Larue,D104,Attorney General,,DEM,Pamela STEVENSON,33,9,19,5
+Larue,D104,Attorney General,,,Total Votes,157,31,118,8
+Larue,D104,Attorney General,,,Under Votes,6,1,5,0
+Larue,D104,Attorney General,,,Over Votes,0,0,0,0
+Larue,D104,Auditor of Public Accounts,,REP,Allison BALL,130,22,104,4
+Larue,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",26,8,14,4
+Larue,D104,Auditor of Public Accounts,,,Total Votes,156,30,118,8
+Larue,D104,Auditor of Public Accounts,,,Under Votes,7,2,5,0
+Larue,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Larue,D104,State Treasurer,,REP,Mark H. METCALF,128,20,105,3
+Larue,D104,State Treasurer,,DEM,Michael BOWMAN,29,11,13,5
+Larue,D104,State Treasurer,,,Total Votes,157,31,118,8
+Larue,D104,State Treasurer,,,Under Votes,6,1,5,0
+Larue,D104,State Treasurer,,,Over Votes,0,0,0,0
+Larue,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,118,23,93,2
+Larue,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,9,27,6
+Larue,D104,Commissioner of Agriculture,,,Total Votes,160,32,120,8
+Larue,D104,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Larue,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0

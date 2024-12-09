@@ -1,0 +1,351 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Green,A101,STRAIGHT PARTY,,,Republican,163,47,112,4
+Green,A101,STRAIGHT PARTY,,,Democratic,52,20,30,2
+Green,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",230,60,165,5
+Green,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,141,44,87,10
+Green,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,A101,Governor,,,Total Votes,371,104,252,15
+Green,A101,Governor,,,Under Votes,5,1,4,0
+Green,A101,Governor,,,Over Votes,0,0,0,0
+Green,A101,Secretary of State,,REP,Michael ADAMS,269,71,192,6
+Green,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,30,55,9
+Green,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,A101,Secretary of State,,,Total Votes,363,101,247,15
+Green,A101,Secretary of State,,,Under Votes,13,4,9,0
+Green,A101,Secretary of State,,,Over Votes,0,0,0,0
+Green,A101,Attorney General,,REP,Russell COLEMAN,266,65,192,9
+Green,A101,Attorney General,,DEM,Pamela STEVENSON,95,34,55,6
+Green,A101,Attorney General,,,Total Votes,361,99,247,15
+Green,A101,Attorney General,,,Under Votes,15,6,9,0
+Green,A101,Attorney General,,,Over Votes,0,0,0,0
+Green,A101,Auditor of Public Accounts,,REP,Allison BALL,274,68,197,9
+Green,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",85,30,50,5
+Green,A101,Auditor of Public Accounts,,,Total Votes,359,98,247,14
+Green,A101,Auditor of Public Accounts,,,Under Votes,17,7,9,1
+Green,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,A101,State Treasurer,,REP,Mark H. METCALF,275,69,197,9
+Green,A101,State Treasurer,,DEM,Michael BOWMAN,87,31,51,5
+Green,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Green,A101,State Treasurer,,,Total Votes,362,100,248,14
+Green,A101,State Treasurer,,,Under Votes,14,5,8,1
+Green,A101,State Treasurer,,,Over Votes,0,0,0,0
+Green,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,277,71,198,8
+Green,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,85,29,50,6
+Green,A101,Commissioner of Agriculture,,,Total Votes,362,100,248,14
+Green,A101,Commissioner of Agriculture,,,Under Votes,14,5,8,1
+Green,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,A102,STRAIGHT PARTY,,,Republican,83,14,67,2
+Green,A102,STRAIGHT PARTY,,,Democratic,25,7,17,1
+Green,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",124,22,99,3
+Green,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,16,73,6
+Green,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,A102,Governor,,,Total Votes,219,38,172,9
+Green,A102,Governor,,,Under Votes,4,1,3,0
+Green,A102,Governor,,,Over Votes,0,0,0,0
+Green,A102,Secretary of State,,REP,Michael ADAMS,159,28,125,6
+Green,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,10,45,2
+Green,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,A102,Secretary of State,,,Total Votes,216,38,170,8
+Green,A102,Secretary of State,,,Under Votes,7,1,5,1
+Green,A102,Secretary of State,,,Over Votes,0,0,0,0
+Green,A102,Attorney General,,REP,Russell COLEMAN,151,25,121,5
+Green,A102,Attorney General,,DEM,Pamela STEVENSON,64,13,49,2
+Green,A102,Attorney General,,,Total Votes,215,38,170,7
+Green,A102,Attorney General,,,Under Votes,8,1,5,2
+Green,A102,Attorney General,,,Over Votes,0,0,0,0
+Green,A102,Auditor of Public Accounts,,REP,Allison BALL,159,25,128,6
+Green,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",56,13,42,1
+Green,A102,Auditor of Public Accounts,,,Total Votes,215,38,170,7
+Green,A102,Auditor of Public Accounts,,,Under Votes,8,1,5,2
+Green,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,A102,State Treasurer,,REP,Mark H. METCALF,146,23,118,5
+Green,A102,State Treasurer,,DEM,Michael BOWMAN,67,15,50,2
+Green,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Green,A102,State Treasurer,,,Total Votes,213,38,168,7
+Green,A102,State Treasurer,,,Under Votes,10,1,7,2
+Green,A102,State Treasurer,,,Over Votes,0,0,0,0
+Green,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,156,23,127,6
+Green,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,59,15,43,1
+Green,A102,Commissioner of Agriculture,,,Total Votes,215,38,170,7
+Green,A102,Commissioner of Agriculture,,,Under Votes,8,1,5,2
+Green,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,A103,STRAIGHT PARTY,,,Republican,213,42,162,9
+Green,A103,STRAIGHT PARTY,,,Democratic,46,18,25,3
+Green,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",302,62,230,10
+Green,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,141,41,96,4
+Green,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,A103,Governor,,,Total Votes,443,103,326,14
+Green,A103,Governor,,,Under Votes,2,1,1,0
+Green,A103,Governor,,,Over Votes,0,0,0,0
+Green,A103,Secretary of State,,REP,Michael ADAMS,346,72,264,10
+Green,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",88,29,55,4
+Green,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,A103,Secretary of State,,,Total Votes,434,101,319,14
+Green,A103,Secretary of State,,,Under Votes,11,3,8,0
+Green,A103,Secretary of State,,,Over Votes,0,0,0,0
+Green,A103,Attorney General,,REP,Russell COLEMAN,350,76,264,10
+Green,A103,Attorney General,,DEM,Pamela STEVENSON,89,25,60,4
+Green,A103,Attorney General,,,Total Votes,439,101,324,14
+Green,A103,Attorney General,,,Under Votes,6,3,3,0
+Green,A103,Attorney General,,,Over Votes,0,0,0,0
+Green,A103,Auditor of Public Accounts,,REP,Allison BALL,349,76,263,10
+Green,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",89,26,59,4
+Green,A103,Auditor of Public Accounts,,,Total Votes,438,102,322,14
+Green,A103,Auditor of Public Accounts,,,Under Votes,7,2,5,0
+Green,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,A103,State Treasurer,,REP,Mark H. METCALF,339,70,259,10
+Green,A103,State Treasurer,,DEM,Michael BOWMAN,95,29,62,4
+Green,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Green,A103,State Treasurer,,,Total Votes,434,99,321,14
+Green,A103,State Treasurer,,,Under Votes,11,5,6,0
+Green,A103,State Treasurer,,,Over Votes,0,0,0,0
+Green,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,346,73,263,10
+Green,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,88,26,58,4
+Green,A103,Commissioner of Agriculture,,,Total Votes,434,99,321,14
+Green,A103,Commissioner of Agriculture,,,Under Votes,11,5,6,0
+Green,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,A104,STRAIGHT PARTY,,,Republican,153,35,109,9
+Green,A104,STRAIGHT PARTY,,,Democratic,32,14,16,2
+Green,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",209,52,145,12
+Green,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,100,42,54,4
+Green,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,A104,Governor,,,Total Votes,309,94,199,16
+Green,A104,Governor,,,Under Votes,0,0,0,0
+Green,A104,Governor,,,Over Votes,0,0,0,0
+Green,A104,Secretary of State,,REP,Michael ADAMS,244,71,161,12
+Green,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,23,34,3
+Green,A104,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Green,A104,Secretary of State,,,Total Votes,305,94,196,15
+Green,A104,Secretary of State,,,Under Votes,4,0,3,1
+Green,A104,Secretary of State,,,Over Votes,0,0,0,0
+Green,A104,Attorney General,,REP,Russell COLEMAN,248,69,166,13
+Green,A104,Attorney General,,DEM,Pamela STEVENSON,56,24,30,2
+Green,A104,Attorney General,,,Total Votes,304,93,196,15
+Green,A104,Attorney General,,,Under Votes,5,1,3,1
+Green,A104,Attorney General,,,Over Votes,0,0,0,0
+Green,A104,Auditor of Public Accounts,,REP,Allison BALL,250,72,166,12
+Green,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,22,30,2
+Green,A104,Auditor of Public Accounts,,,Total Votes,304,94,196,14
+Green,A104,Auditor of Public Accounts,,,Under Votes,5,0,3,2
+Green,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,A104,State Treasurer,,REP,Mark H. METCALF,246,68,166,12
+Green,A104,State Treasurer,,DEM,Michael BOWMAN,57,26,29,2
+Green,A104,State Treasurer,,,Robert Perry,1,0,1,0
+Green,A104,State Treasurer,,,Total Votes,304,94,196,14
+Green,A104,State Treasurer,,,Under Votes,5,0,3,2
+Green,A104,State Treasurer,,,Over Votes,0,0,0,0
+Green,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,250,72,165,13
+Green,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,21,28,2
+Green,A104,Commissioner of Agriculture,,,Total Votes,301,93,193,15
+Green,A104,Commissioner of Agriculture,,,Under Votes,8,1,6,1
+Green,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,B101,STRAIGHT PARTY,,,Republican,227,35,184,8
+Green,B101,STRAIGHT PARTY,,,Democratic,40,4,32,4
+Green,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",308,48,249,11
+Green,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,134,24,104,6
+Green,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,B101,Governor,,,Total Votes,442,72,353,17
+Green,B101,Governor,,,Under Votes,3,0,3,0
+Green,B101,Governor,,,Over Votes,0,0,0,0
+Green,B101,Secretary of State,,REP,Michael ADAMS,364,63,289,12
+Green,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,8,55,5
+Green,B101,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
+Green,B101,Secretary of State,,,Total Votes,434,71,346,17
+Green,B101,Secretary of State,,,Under Votes,11,1,10,0
+Green,B101,Secretary of State,,,Over Votes,0,0,0,0
+Green,B101,Attorney General,,REP,Russell COLEMAN,358,61,284,13
+Green,B101,Attorney General,,DEM,Pamela STEVENSON,74,9,61,4
+Green,B101,Attorney General,,,Total Votes,432,70,345,17
+Green,B101,Attorney General,,,Under Votes,13,2,11,0
+Green,B101,Attorney General,,,Over Votes,0,0,0,0
+Green,B101,Auditor of Public Accounts,,REP,Allison BALL,358,62,285,11
+Green,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,9,57,6
+Green,B101,Auditor of Public Accounts,,,Total Votes,430,71,342,17
+Green,B101,Auditor of Public Accounts,,,Under Votes,14,1,13,0
+Green,B101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Green,B101,State Treasurer,,REP,Mark H. METCALF,356,60,283,13
+Green,B101,State Treasurer,,DEM,Michael BOWMAN,72,9,59,4
+Green,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Green,B101,State Treasurer,,,Total Votes,428,69,342,17
+Green,B101,State Treasurer,,,Under Votes,16,3,13,0
+Green,B101,State Treasurer,,,Over Votes,1,0,1,0
+Green,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,360,62,286,12
+Green,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,76,9,63,4
+Green,B101,Commissioner of Agriculture,,,Total Votes,436,71,349,16
+Green,B101,Commissioner of Agriculture,,,Under Votes,9,1,7,1
+Green,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,B102,STRAIGHT PARTY,,,Republican,261,27,221,13
+Green,B102,STRAIGHT PARTY,,,Democratic,39,4,30,5
+Green,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",347,38,296,13
+Green,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,140,24,107,9
+Green,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,B102,Governor,,,Total Votes,487,62,403,22
+Green,B102,Governor,,,Under Votes,0,0,0,0
+Green,B102,Governor,,,Over Votes,0,0,0,0
+Green,B102,Secretary of State,,REP,Michael ADAMS,403,52,336,15
+Green,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",72,9,56,7
+Green,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,B102,Secretary of State,,,Total Votes,475,61,392,22
+Green,B102,Secretary of State,,,Under Votes,12,1,11,0
+Green,B102,Secretary of State,,,Over Votes,0,0,0,0
+Green,B102,Attorney General,,REP,Russell COLEMAN,400,49,335,16
+Green,B102,Attorney General,,DEM,Pamela STEVENSON,72,11,55,6
+Green,B102,Attorney General,,,Total Votes,472,60,390,22
+Green,B102,Attorney General,,,Under Votes,15,2,13,0
+Green,B102,Attorney General,,,Over Votes,0,0,0,0
+Green,B102,Auditor of Public Accounts,,REP,Allison BALL,399,47,336,16
+Green,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",70,11,53,6
+Green,B102,Auditor of Public Accounts,,,Total Votes,469,58,389,22
+Green,B102,Auditor of Public Accounts,,,Under Votes,18,4,14,0
+Green,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,B102,State Treasurer,,REP,Mark H. METCALF,397,46,335,16
+Green,B102,State Treasurer,,DEM,Michael BOWMAN,74,14,54,6
+Green,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Green,B102,State Treasurer,,,Total Votes,471,60,389,22
+Green,B102,State Treasurer,,,Under Votes,16,2,14,0
+Green,B102,State Treasurer,,,Over Votes,0,0,0,0
+Green,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,402,50,336,16
+Green,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,69,10,53,6
+Green,B102,Commissioner of Agriculture,,,Total Votes,471,60,389,22
+Green,B102,Commissioner of Agriculture,,,Under Votes,16,2,14,0
+Green,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,C101,STRAIGHT PARTY,,,Republican,188,30,155,3
+Green,C101,STRAIGHT PARTY,,,Democratic,38,8,24,6
+Green,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",271,41,227,3
+Green,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,99,17,73,9
+Green,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,C101,Governor,,,Total Votes,370,58,300,12
+Green,C101,Governor,,,Under Votes,3,0,3,0
+Green,C101,Governor,,,Over Votes,0,0,0,0
+Green,C101,Secretary of State,,REP,Michael ADAMS,302,43,253,6
+Green,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",58,13,39,6
+Green,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,C101,Secretary of State,,,Total Votes,360,56,292,12
+Green,C101,Secretary of State,,,Under Votes,13,2,11,0
+Green,C101,Secretary of State,,,Over Votes,0,0,0,0
+Green,C101,Attorney General,,REP,Russell COLEMAN,300,43,254,3
+Green,C101,Attorney General,,DEM,Pamela STEVENSON,60,13,38,9
+Green,C101,Attorney General,,,Total Votes,360,56,292,12
+Green,C101,Attorney General,,,Under Votes,13,2,11,0
+Green,C101,Attorney General,,,Over Votes,0,0,0,0
+Green,C101,Auditor of Public Accounts,,REP,Allison BALL,304,44,256,4
+Green,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",57,13,36,8
+Green,C101,Auditor of Public Accounts,,,Total Votes,361,57,292,12
+Green,C101,Auditor of Public Accounts,,,Under Votes,12,1,11,0
+Green,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,C101,State Treasurer,,REP,Mark H. METCALF,296,42,250,4
+Green,C101,State Treasurer,,DEM,Michael BOWMAN,61,13,40,8
+Green,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Green,C101,State Treasurer,,,Total Votes,357,55,290,12
+Green,C101,State Treasurer,,,Under Votes,16,3,13,0
+Green,C101,State Treasurer,,,Over Votes,0,0,0,0
+Green,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,298,43,251,4
+Green,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,64,12,44,8
+Green,C101,Commissioner of Agriculture,,,Total Votes,362,55,295,12
+Green,C101,Commissioner of Agriculture,,,Under Votes,11,3,8,0
+Green,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,C102,STRAIGHT PARTY,,,Republican,172,20,149,3
+Green,C102,STRAIGHT PARTY,,,Democratic,28,3,23,2
+Green,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",232,31,198,3
+Green,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,11,65,4
+Green,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,C102,Governor,,,Total Votes,312,42,263,7
+Green,C102,Governor,,,Under Votes,3,0,3,0
+Green,C102,Governor,,,Over Votes,0,0,0,0
+Green,C102,Secretary of State,,REP,Michael ADAMS,270,33,232,5
+Green,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",37,7,28,2
+Green,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,C102,Secretary of State,,,Total Votes,307,40,260,7
+Green,C102,Secretary of State,,,Under Votes,8,2,6,0
+Green,C102,Secretary of State,,,Over Votes,0,0,0,0
+Green,C102,Attorney General,,REP,Russell COLEMAN,266,36,225,5
+Green,C102,Attorney General,,DEM,Pamela STEVENSON,38,4,32,2
+Green,C102,Attorney General,,,Total Votes,304,40,257,7
+Green,C102,Attorney General,,,Under Votes,11,2,9,0
+Green,C102,Attorney General,,,Over Votes,0,0,0,0
+Green,C102,Auditor of Public Accounts,,REP,Allison BALL,257,32,220,5
+Green,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",46,7,37,2
+Green,C102,Auditor of Public Accounts,,,Total Votes,303,39,257,7
+Green,C102,Auditor of Public Accounts,,,Under Votes,12,3,9,0
+Green,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,C102,State Treasurer,,REP,Mark H. METCALF,258,33,220,5
+Green,C102,State Treasurer,,DEM,Michael BOWMAN,44,6,36,2
+Green,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Green,C102,State Treasurer,,,Total Votes,302,39,256,7
+Green,C102,State Treasurer,,,Under Votes,12,2,10,0
+Green,C102,State Treasurer,,,Over Votes,1,1,0,0
+Green,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,264,37,222,5
+Green,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,4,32,2
+Green,C102,Commissioner of Agriculture,,,Total Votes,302,41,254,7
+Green,C102,Commissioner of Agriculture,,,Under Votes,13,1,12,0
+Green,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,D101,STRAIGHT PARTY,,,Republican,190,11,178,1
+Green,D101,STRAIGHT PARTY,,,Democratic,21,3,14,4
+Green,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",268,20,245,3
+Green,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,60,4,51,5
+Green,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Green,D101,Governor,,,Total Votes,328,24,296,8
+Green,D101,Governor,,,Under Votes,3,1,2,0
+Green,D101,Governor,,,Over Votes,0,0,0,0
+Green,D101,Secretary of State,,REP,Michael ADAMS,282,23,256,3
+Green,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,2,31,5
+Green,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Green,D101,Secretary of State,,,Total Votes,320,25,287,8
+Green,D101,Secretary of State,,,Under Votes,11,0,11,0
+Green,D101,Secretary of State,,,Over Votes,0,0,0,0
+Green,D101,Attorney General,,REP,Russell COLEMAN,279,21,255,3
+Green,D101,Attorney General,,DEM,Pamela STEVENSON,43,4,34,5
+Green,D101,Attorney General,,,Total Votes,322,25,289,8
+Green,D101,Attorney General,,,Under Votes,9,0,9,0
+Green,D101,Attorney General,,,Over Votes,0,0,0,0
+Green,D101,Auditor of Public Accounts,,REP,Allison BALL,281,21,257,3
+Green,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",39,4,30,5
+Green,D101,Auditor of Public Accounts,,,Total Votes,320,25,287,8
+Green,D101,Auditor of Public Accounts,,,Under Votes,11,0,11,0
+Green,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,D101,State Treasurer,,REP,Mark H. METCALF,279,21,255,3
+Green,D101,State Treasurer,,DEM,Michael BOWMAN,41,4,33,4
+Green,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Green,D101,State Treasurer,,,Total Votes,320,25,288,7
+Green,D101,State Treasurer,,,Under Votes,11,0,10,1
+Green,D101,State Treasurer,,,Over Votes,0,0,0,0
+Green,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,280,20,258,2
+Green,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,5,28,5
+Green,D101,Commissioner of Agriculture,,,Total Votes,318,25,286,7
+Green,D101,Commissioner of Agriculture,,,Under Votes,13,0,12,1
+Green,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Green,D102,STRAIGHT PARTY,,,Republican,219,28,187,4
+Green,D102,STRAIGHT PARTY,,,Democratic,29,2,26,1
+Green,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",278,31,243,4
+Green,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,92,10,74,8
+Green,D102,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Green,D102,Governor,,,Total Votes,371,41,318,12
+Green,D102,Governor,,,Under Votes,1,0,1,0
+Green,D102,Governor,,,Over Votes,0,0,0,0
+Green,D102,Secretary of State,,REP,Michael ADAMS,307,35,265,7
+Green,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,6,44,4
+Green,D102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Green,D102,Secretary of State,,,Total Votes,362,41,310,11
+Green,D102,Secretary of State,,,Under Votes,10,0,9,1
+Green,D102,Secretary of State,,,Over Votes,0,0,0,0
+Green,D102,Attorney General,,REP,Russell COLEMAN,307,34,264,9
+Green,D102,Attorney General,,DEM,Pamela STEVENSON,54,7,45,2
+Green,D102,Attorney General,,,Total Votes,361,41,309,11
+Green,D102,Attorney General,,,Under Votes,11,0,10,1
+Green,D102,Attorney General,,,Over Votes,0,0,0,0
+Green,D102,Auditor of Public Accounts,,REP,Allison BALL,306,35,265,6
+Green,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",53,6,44,3
+Green,D102,Auditor of Public Accounts,,,Total Votes,359,41,309,9
+Green,D102,Auditor of Public Accounts,,,Under Votes,13,0,10,3
+Green,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Green,D102,State Treasurer,,REP,Mark H. METCALF,300,34,258,8
+Green,D102,State Treasurer,,DEM,Michael BOWMAN,55,7,46,2
+Green,D102,State Treasurer,,,Robert Perry,1,0,1,0
+Green,D102,State Treasurer,,,Total Votes,356,41,305,10
+Green,D102,State Treasurer,,,Under Votes,16,0,14,2
+Green,D102,State Treasurer,,,Over Votes,0,0,0,0
+Green,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,311,34,269,8
+Green,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,50,7,41,2
+Green,D102,Commissioner of Agriculture,,,Total Votes,361,41,310,10
+Green,D102,Commissioner of Agriculture,,,Under Votes,11,0,9,2
+Green,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0

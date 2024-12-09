@@ -1,0 +1,701 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Henry,A101,STRAIGHT PARTY,,,Republican,134,14,117,3
+Henry,A101,STRAIGHT PARTY,,,Democratic,104,22,78,4
+Henry,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",188,16,169,3
+Henry,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,238,37,194,7
+Henry,A101,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Henry,A101,Governor,,,Total Votes,427,53,364,10
+Henry,A101,Governor,,,Under Votes,2,0,2,0
+Henry,A101,Governor,,,Over Votes,0,0,0,0
+Henry,A101,Secretary of State,,REP,Michael ADAMS,251,21,225,5
+Henry,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",171,32,134,5
+Henry,A101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,A101,Secretary of State,,,Total Votes,422,53,359,10
+Henry,A101,Secretary of State,,,Under Votes,6,0,6,0
+Henry,A101,Secretary of State,,,Over Votes,1,0,1,0
+Henry,A101,Attorney General,,REP,Russell COLEMAN,250,24,222,4
+Henry,A101,Attorney General,,DEM,Pamela STEVENSON,176,29,141,6
+Henry,A101,Attorney General,,,Total Votes,426,53,363,10
+Henry,A101,Attorney General,,,Under Votes,3,0,3,0
+Henry,A101,Attorney General,,,Over Votes,0,0,0,0
+Henry,A101,Auditor of Public Accounts,,REP,Allison BALL,252,20,227,5
+Henry,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",170,32,133,5
+Henry,A101,Auditor of Public Accounts,,,Total Votes,422,52,360,10
+Henry,A101,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Henry,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,A101,State Treasurer,,REP,Mark H. METCALF,235,20,211,4
+Henry,A101,State Treasurer,,DEM,Michael BOWMAN,186,33,147,6
+Henry,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,A101,State Treasurer,,,Total Votes,421,53,358,10
+Henry,A101,State Treasurer,,,Under Votes,7,0,7,0
+Henry,A101,State Treasurer,,,Over Votes,1,0,1,0
+Henry,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,257,23,230,4
+Henry,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,165,30,129,6
+Henry,A101,Commissioner of Agriculture,,,Total Votes,422,53,359,10
+Henry,A101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Henry,A101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Henry,A102,STRAIGHT PARTY,,,Republican,103,11,88,4
+Henry,A102,STRAIGHT PARTY,,,Democratic,63,21,38,4
+Henry,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",157,19,134,4
+Henry,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,175,45,119,11
+Henry,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,A102,Governor,,,Total Votes,332,64,253,15
+Henry,A102,Governor,,,Under Votes,0,0,0,0
+Henry,A102,Governor,,,Over Votes,0,0,0,0
+Henry,A102,Secretary of State,,REP,Michael ADAMS,205,34,164,7
+Henry,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",117,30,79,8
+Henry,A102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,A102,Secretary of State,,,Total Votes,322,64,243,15
+Henry,A102,Secretary of State,,,Under Votes,10,0,10,0
+Henry,A102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,A102,Attorney General,,REP,Russell COLEMAN,203,28,167,8
+Henry,A102,Attorney General,,DEM,Pamela STEVENSON,119,34,78,7
+Henry,A102,Attorney General,,,Total Votes,322,62,245,15
+Henry,A102,Attorney General,,,Under Votes,10,2,8,0
+Henry,A102,Attorney General,,,Over Votes,0,0,0,0
+Henry,A102,Auditor of Public Accounts,,REP,Allison BALL,211,34,170,7
+Henry,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,30,71,8
+Henry,A102,Auditor of Public Accounts,,,Total Votes,320,64,241,15
+Henry,A102,Auditor of Public Accounts,,,Under Votes,12,0,12,0
+Henry,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,A102,State Treasurer,,REP,Mark H. METCALF,201,29,165,7
+Henry,A102,State Treasurer,,DEM,Michael BOWMAN,119,33,78,8
+Henry,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,A102,State Treasurer,,,Total Votes,320,62,243,15
+Henry,A102,State Treasurer,,,Under Votes,12,2,10,0
+Henry,A102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,203,32,163,8
+Henry,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,114,31,76,7
+Henry,A102,Commissioner of Agriculture,,,Total Votes,317,63,239,15
+Henry,A102,Commissioner of Agriculture,,,Under Votes,15,1,14,0
+Henry,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,A103,STRAIGHT PARTY,,,Republican,30,4,25,1
+Henry,A103,STRAIGHT PARTY,,,Democratic,26,6,18,2
+Henry,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",61,5,55,1
+Henry,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,64,12,46,6
+Henry,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,A103,Governor,,,Total Votes,125,17,101,7
+Henry,A103,Governor,,,Under Votes,0,0,0,0
+Henry,A103,Governor,,,Over Votes,0,0,0,0
+Henry,A103,Secretary of State,,REP,Michael ADAMS,77,8,65,4
+Henry,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,9,32,3
+Henry,A103,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,A103,Secretary of State,,,Total Votes,121,17,97,7
+Henry,A103,Secretary of State,,,Under Votes,4,0,4,0
+Henry,A103,Secretary of State,,,Over Votes,0,0,0,0
+Henry,A103,Attorney General,,REP,Russell COLEMAN,65,4,60,1
+Henry,A103,Attorney General,,DEM,Pamela STEVENSON,55,13,37,5
+Henry,A103,Attorney General,,,Total Votes,120,17,97,6
+Henry,A103,Attorney General,,,Under Votes,5,0,4,1
+Henry,A103,Attorney General,,,Over Votes,0,0,0,0
+Henry,A103,Auditor of Public Accounts,,REP,Allison BALL,71,6,64,1
+Henry,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",48,11,32,5
+Henry,A103,Auditor of Public Accounts,,,Total Votes,119,17,96,6
+Henry,A103,Auditor of Public Accounts,,,Under Votes,6,0,5,1
+Henry,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,A103,State Treasurer,,REP,Mark H. METCALF,65,5,59,1
+Henry,A103,State Treasurer,,DEM,Michael BOWMAN,53,12,36,5
+Henry,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,A103,State Treasurer,,,Total Votes,118,17,95,6
+Henry,A103,State Treasurer,,,Under Votes,7,0,6,1
+Henry,A103,State Treasurer,,,Over Votes,0,0,0,0
+Henry,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,73,7,65,1
+Henry,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,10,31,5
+Henry,A103,Commissioner of Agriculture,,,Total Votes,119,17,96,6
+Henry,A103,Commissioner of Agriculture,,,Under Votes,6,0,5,1
+Henry,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,B101,STRAIGHT PARTY,,,Republican,291,28,255,8
+Henry,B101,STRAIGHT PARTY,,,Democratic,85,17,63,5
+Henry,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",391,41,340,10
+Henry,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,219,43,166,10
+Henry,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,B101,Governor,,,Total Votes,610,84,506,20
+Henry,B101,Governor,,,Under Votes,0,0,0,0
+Henry,B101,Governor,,,Over Votes,0,0,0,0
+Henry,B101,Secretary of State,,REP,Michael ADAMS,457,52,393,12
+Henry,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",145,31,106,8
+Henry,B101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,B101,Secretary of State,,,Total Votes,602,83,499,20
+Henry,B101,Secretary of State,,,Under Votes,8,1,7,0
+Henry,B101,Secretary of State,,,Over Votes,0,0,0,0
+Henry,B101,Attorney General,,REP,Russell COLEMAN,443,46,385,12
+Henry,B101,Attorney General,,DEM,Pamela STEVENSON,156,36,112,8
+Henry,B101,Attorney General,,,Total Votes,599,82,497,20
+Henry,B101,Attorney General,,,Under Votes,11,2,9,0
+Henry,B101,Attorney General,,,Over Votes,0,0,0,0
+Henry,B101,Auditor of Public Accounts,,REP,Allison BALL,450,50,388,12
+Henry,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",146,32,106,8
+Henry,B101,Auditor of Public Accounts,,,Total Votes,596,82,494,20
+Henry,B101,Auditor of Public Accounts,,,Under Votes,14,2,12,0
+Henry,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,B101,State Treasurer,,REP,Mark H. METCALF,435,49,375,11
+Henry,B101,State Treasurer,,DEM,Michael BOWMAN,156,31,116,9
+Henry,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,B101,State Treasurer,,,Total Votes,591,80,491,20
+Henry,B101,State Treasurer,,,Under Votes,19,4,15,0
+Henry,B101,State Treasurer,,,Over Votes,0,0,0,0
+Henry,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,444,46,385,13
+Henry,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,151,35,109,7
+Henry,B101,Commissioner of Agriculture,,,Total Votes,595,81,494,20
+Henry,B101,Commissioner of Agriculture,,,Under Votes,15,3,12,0
+Henry,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,B102,STRAIGHT PARTY,,,Republican,41,0,40,1
+Henry,B102,STRAIGHT PARTY,,,Democratic,18,4,12,2
+Henry,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",53,0,52,1
+Henry,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,4,60,3
+Henry,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,B102,Governor,,,Total Votes,120,4,112,4
+Henry,B102,Governor,,,Under Votes,1,0,1,0
+Henry,B102,Governor,,,Over Votes,0,0,0,0
+Henry,B102,Secretary of State,,REP,Michael ADAMS,76,0,75,1
+Henry,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,4,37,3
+Henry,B102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,B102,Secretary of State,,,Total Votes,120,4,112,4
+Henry,B102,Secretary of State,,,Under Votes,1,0,1,0
+Henry,B102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,B102,Attorney General,,REP,Russell COLEMAN,79,0,78,1
+Henry,B102,Attorney General,,DEM,Pamela STEVENSON,41,4,34,3
+Henry,B102,Attorney General,,,Total Votes,120,4,112,4
+Henry,B102,Attorney General,,,Under Votes,1,0,1,0
+Henry,B102,Attorney General,,,Over Votes,0,0,0,0
+Henry,B102,Auditor of Public Accounts,,REP,Allison BALL,77,0,76,1
+Henry,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,4,36,3
+Henry,B102,Auditor of Public Accounts,,,Total Votes,120,4,112,4
+Henry,B102,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Henry,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,B102,State Treasurer,,REP,Mark H. METCALF,75,0,74,1
+Henry,B102,State Treasurer,,DEM,Michael BOWMAN,45,4,38,3
+Henry,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,B102,State Treasurer,,,Total Votes,120,4,112,4
+Henry,B102,State Treasurer,,,Under Votes,1,0,1,0
+Henry,B102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,83,0,82,1
+Henry,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,37,4,30,3
+Henry,B102,Commissioner of Agriculture,,,Total Votes,120,4,112,4
+Henry,B102,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Henry,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,B103,STRAIGHT PARTY,,,Republican,162,19,142,1
+Henry,B103,STRAIGHT PARTY,,,Democratic,56,4,51,1
+Henry,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",232,22,208,2
+Henry,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,161,11,145,5
+Henry,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,B103,Governor,,,Total Votes,393,33,353,7
+Henry,B103,Governor,,,Under Votes,0,0,0,0
+Henry,B103,Governor,,,Over Votes,0,0,0,0
+Henry,B103,Secretary of State,,REP,Michael ADAMS,278,24,250,4
+Henry,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,7,98,3
+Henry,B103,Secretary of State,,,Kenneth C. MOELMAN JR. (W),4,1,3,0
+Henry,B103,Secretary of State,,,Total Votes,390,32,351,7
+Henry,B103,Secretary of State,,,Under Votes,3,1,2,0
+Henry,B103,Secretary of State,,,Over Votes,0,0,0,0
+Henry,B103,Attorney General,,REP,Russell COLEMAN,285,26,255,4
+Henry,B103,Attorney General,,DEM,Pamela STEVENSON,106,6,98,2
+Henry,B103,Attorney General,,,Total Votes,391,32,353,6
+Henry,B103,Attorney General,,,Under Votes,2,1,0,1
+Henry,B103,Attorney General,,,Over Votes,0,0,0,0
+Henry,B103,Auditor of Public Accounts,,REP,Allison BALL,285,26,255,4
+Henry,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",103,6,94,3
+Henry,B103,Auditor of Public Accounts,,,Total Votes,388,32,349,7
+Henry,B103,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Henry,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,B103,State Treasurer,,REP,Mark H. METCALF,278,26,248,4
+Henry,B103,State Treasurer,,DEM,Michael BOWMAN,108,6,100,2
+Henry,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,B103,State Treasurer,,,Total Votes,386,32,348,6
+Henry,B103,State Treasurer,,,Under Votes,7,1,5,1
+Henry,B103,State Treasurer,,,Over Votes,0,0,0,0
+Henry,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,289,26,258,5
+Henry,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,99,6,91,2
+Henry,B103,Commissioner of Agriculture,,,Total Votes,388,32,349,7
+Henry,B103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Henry,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,C101,STRAIGHT PARTY,,,Republican,171,10,160,1
+Henry,C101,STRAIGHT PARTY,,,Democratic,89,14,70,5
+Henry,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",272,20,249,3
+Henry,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,213,35,173,5
+Henry,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,C101,Governor,,,Total Votes,485,55,422,8
+Henry,C101,Governor,,,Under Votes,3,1,2,0
+Henry,C101,Governor,,,Over Votes,0,0,0,0
+Henry,C101,Secretary of State,,REP,Michael ADAMS,305,28,274,3
+Henry,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",166,26,135,5
+Henry,C101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),1,0,1,0
+Henry,C101,Secretary of State,,,Total Votes,472,54,410,8
+Henry,C101,Secretary of State,,,Under Votes,15,2,13,0
+Henry,C101,Secretary of State,,,Over Votes,1,0,1,0
+Henry,C101,Attorney General,,REP,Russell COLEMAN,318,28,287,3
+Henry,C101,Attorney General,,DEM,Pamela STEVENSON,158,26,127,5
+Henry,C101,Attorney General,,,Total Votes,476,54,414,8
+Henry,C101,Attorney General,,,Under Votes,12,2,10,0
+Henry,C101,Attorney General,,,Over Votes,0,0,0,0
+Henry,C101,Auditor of Public Accounts,,REP,Allison BALL,326,29,294,3
+Henry,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",146,24,117,5
+Henry,C101,Auditor of Public Accounts,,,Total Votes,472,53,411,8
+Henry,C101,Auditor of Public Accounts,,,Under Votes,16,3,13,0
+Henry,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,C101,State Treasurer,,REP,Mark H. METCALF,302,25,274,3
+Henry,C101,State Treasurer,,DEM,Michael BOWMAN,168,30,133,5
+Henry,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,C101,State Treasurer,,,Total Votes,470,55,407,8
+Henry,C101,State Treasurer,,,Under Votes,18,1,17,0
+Henry,C101,State Treasurer,,,Over Votes,0,0,0,0
+Henry,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,320,26,291,3
+Henry,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,155,28,122,5
+Henry,C101,Commissioner of Agriculture,,,Total Votes,475,54,413,8
+Henry,C101,Commissioner of Agriculture,,,Under Votes,13,2,11,0
+Henry,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,C102,STRAIGHT PARTY,,,Republican,105,9,96,0
+Henry,C102,STRAIGHT PARTY,,,Democratic,36,7,27,2
+Henry,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",150,14,136,0
+Henry,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,94,11,80,3
+Henry,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,C102,Governor,,,Total Votes,244,25,216,3
+Henry,C102,Governor,,,Under Votes,0,0,0,0
+Henry,C102,Governor,,,Over Votes,0,0,0,0
+Henry,C102,Secretary of State,,REP,Michael ADAMS,174,14,159,1
+Henry,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,11,51,2
+Henry,C102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,C102,Secretary of State,,,Total Votes,238,25,210,3
+Henry,C102,Secretary of State,,,Under Votes,6,0,6,0
+Henry,C102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,C102,Attorney General,,REP,Russell COLEMAN,172,14,157,1
+Henry,C102,Attorney General,,DEM,Pamela STEVENSON,68,11,55,2
+Henry,C102,Attorney General,,,Total Votes,240,25,212,3
+Henry,C102,Attorney General,,,Under Votes,4,0,4,0
+Henry,C102,Attorney General,,,Over Votes,0,0,0,0
+Henry,C102,Auditor of Public Accounts,,REP,Allison BALL,181,16,164,1
+Henry,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,9,47,2
+Henry,C102,Auditor of Public Accounts,,,Total Votes,239,25,211,3
+Henry,C102,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Henry,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,C102,State Treasurer,,REP,Mark H. METCALF,167,15,151,1
+Henry,C102,State Treasurer,,DEM,Michael BOWMAN,72,10,60,2
+Henry,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,C102,State Treasurer,,,Total Votes,239,25,211,3
+Henry,C102,State Treasurer,,,Under Votes,5,0,5,0
+Henry,C102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,171,14,156,1
+Henry,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,11,54,2
+Henry,C102,Commissioner of Agriculture,,,Total Votes,238,25,210,3
+Henry,C102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Henry,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,C103,STRAIGHT PARTY,,,Republican,58,2,53,3
+Henry,C103,STRAIGHT PARTY,,,Democratic,21,2,18,1
+Henry,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",86,4,79,3
+Henry,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,77,3,70,4
+Henry,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,C103,Governor,,,Total Votes,163,7,149,7
+Henry,C103,Governor,,,Under Votes,0,0,0,0
+Henry,C103,Governor,,,Over Votes,0,0,0,0
+Henry,C103,Secretary of State,,REP,Michael ADAMS,103,4,94,5
+Henry,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",58,3,53,2
+Henry,C103,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,C103,Secretary of State,,,Total Votes,161,7,147,7
+Henry,C103,Secretary of State,,,Under Votes,2,0,2,0
+Henry,C103,Secretary of State,,,Over Votes,0,0,0,0
+Henry,C103,Attorney General,,REP,Russell COLEMAN,107,4,98,5
+Henry,C103,Attorney General,,DEM,Pamela STEVENSON,53,3,48,2
+Henry,C103,Attorney General,,,Total Votes,160,7,146,7
+Henry,C103,Attorney General,,,Under Votes,3,0,3,0
+Henry,C103,Attorney General,,,Over Votes,0,0,0,0
+Henry,C103,Auditor of Public Accounts,,REP,Allison BALL,112,4,103,5
+Henry,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",48,3,43,2
+Henry,C103,Auditor of Public Accounts,,,Total Votes,160,7,146,7
+Henry,C103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Henry,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,C103,State Treasurer,,REP,Mark H. METCALF,99,4,91,4
+Henry,C103,State Treasurer,,DEM,Michael BOWMAN,60,3,54,3
+Henry,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,C103,State Treasurer,,,Total Votes,159,7,145,7
+Henry,C103,State Treasurer,,,Under Votes,4,0,4,0
+Henry,C103,State Treasurer,,,Over Votes,0,0,0,0
+Henry,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,111,4,102,5
+Henry,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,3,46,2
+Henry,C103,Commissioner of Agriculture,,,Total Votes,162,7,148,7
+Henry,C103,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Henry,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,D101,STRAIGHT PARTY,,,Republican,216,38,173,5
+Henry,D101,STRAIGHT PARTY,,,Democratic,101,18,67,16
+Henry,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",334,58,270,6
+Henry,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,242,55,166,21
+Henry,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,D101,Governor,,,Total Votes,576,113,436,27
+Henry,D101,Governor,,,Under Votes,4,1,3,0
+Henry,D101,Governor,,,Over Votes,0,0,0,0
+Henry,D101,Secretary of State,,REP,Michael ADAMS,385,77,300,8
+Henry,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",184,34,131,19
+Henry,D101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,D101,Secretary of State,,,Total Votes,569,111,431,27
+Henry,D101,Secretary of State,,,Under Votes,11,3,8,0
+Henry,D101,Secretary of State,,,Over Votes,0,0,0,0
+Henry,D101,Attorney General,,REP,Russell COLEMAN,392,74,308,10
+Henry,D101,Attorney General,,DEM,Pamela STEVENSON,175,37,121,17
+Henry,D101,Attorney General,,,Total Votes,567,111,429,27
+Henry,D101,Attorney General,,,Under Votes,13,3,10,0
+Henry,D101,Attorney General,,,Over Votes,0,0,0,0
+Henry,D101,Auditor of Public Accounts,,REP,Allison BALL,394,74,311,9
+Henry,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",172,35,119,18
+Henry,D101,Auditor of Public Accounts,,,Total Votes,566,109,430,27
+Henry,D101,Auditor of Public Accounts,,,Under Votes,14,5,9,0
+Henry,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,D101,State Treasurer,,REP,Mark H. METCALF,364,72,287,5
+Henry,D101,State Treasurer,,DEM,Michael BOWMAN,198,39,139,20
+Henry,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,D101,State Treasurer,,,Total Votes,562,111,426,25
+Henry,D101,State Treasurer,,,Under Votes,18,3,13,2
+Henry,D101,State Treasurer,,,Over Votes,0,0,0,0
+Henry,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,389,73,310,6
+Henry,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,175,38,118,19
+Henry,D101,Commissioner of Agriculture,,,Total Votes,564,111,428,25
+Henry,D101,Commissioner of Agriculture,,,Under Votes,16,3,11,2
+Henry,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,D102,STRAIGHT PARTY,,,Republican,60,21,38,1
+Henry,D102,STRAIGHT PARTY,,,Democratic,54,11,34,9
+Henry,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",95,32,60,3
+Henry,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,114,36,69,9
+Henry,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,D102,Governor,,,Total Votes,209,68,129,12
+Henry,D102,Governor,,,Under Votes,1,0,1,0
+Henry,D102,Governor,,,Over Votes,0,0,0,0
+Henry,D102,Secretary of State,,REP,Michael ADAMS,129,48,78,3
+Henry,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,18,50,9
+Henry,D102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),1,1,0,0
+Henry,D102,Secretary of State,,,Total Votes,207,67,128,12
+Henry,D102,Secretary of State,,,Under Votes,3,1,2,0
+Henry,D102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,D102,Attorney General,,REP,Russell COLEMAN,130,46,81,3
+Henry,D102,Attorney General,,DEM,Pamela STEVENSON,76,20,47,9
+Henry,D102,Attorney General,,,Total Votes,206,66,128,12
+Henry,D102,Attorney General,,,Under Votes,4,2,2,0
+Henry,D102,Attorney General,,,Over Votes,0,0,0,0
+Henry,D102,Auditor of Public Accounts,,REP,Allison BALL,132,45,84,3
+Henry,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,20,43,9
+Henry,D102,Auditor of Public Accounts,,,Total Votes,204,65,127,12
+Henry,D102,Auditor of Public Accounts,,,Under Votes,6,3,3,0
+Henry,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,D102,State Treasurer,,REP,Mark H. METCALF,113,33,77,3
+Henry,D102,State Treasurer,,DEM,Michael BOWMAN,90,31,50,9
+Henry,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,D102,State Treasurer,,,Total Votes,203,64,127,12
+Henry,D102,State Treasurer,,,Under Votes,7,4,3,0
+Henry,D102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,129,44,82,3
+Henry,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,22,46,9
+Henry,D102,Commissioner of Agriculture,,,Total Votes,206,66,128,12
+Henry,D102,Commissioner of Agriculture,,,Under Votes,4,2,2,0
+Henry,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E101,STRAIGHT PARTY,,,Republican,19,6,13,0
+Henry,E101,STRAIGHT PARTY,,,Democratic,7,5,2,0
+Henry,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",30,9,18,3
+Henry,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,26,14,10,2
+Henry,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E101,Governor,,,Total Votes,56,23,28,5
+Henry,E101,Governor,,,Under Votes,1,1,0,0
+Henry,E101,Governor,,,Over Votes,0,0,0,0
+Henry,E101,Secretary of State,,REP,Michael ADAMS,42,12,26,4
+Henry,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",14,11,2,1
+Henry,E101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,E101,Secretary of State,,,Total Votes,56,23,28,5
+Henry,E101,Secretary of State,,,Under Votes,1,1,0,0
+Henry,E101,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E101,Attorney General,,REP,Russell COLEMAN,41,13,24,4
+Henry,E101,Attorney General,,DEM,Pamela STEVENSON,15,10,4,1
+Henry,E101,Attorney General,,,Total Votes,56,23,28,5
+Henry,E101,Attorney General,,,Under Votes,1,1,0,0
+Henry,E101,Attorney General,,,Over Votes,0,0,0,0
+Henry,E101,Auditor of Public Accounts,,REP,Allison BALL,42,15,23,4
+Henry,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",14,8,5,1
+Henry,E101,Auditor of Public Accounts,,,Total Votes,56,23,28,5
+Henry,E101,Auditor of Public Accounts,,,Under Votes,1,1,0,0
+Henry,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,E101,State Treasurer,,REP,Mark H. METCALF,39,13,23,3
+Henry,E101,State Treasurer,,DEM,Michael BOWMAN,17,10,5,2
+Henry,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,E101,State Treasurer,,,Total Votes,56,23,28,5
+Henry,E101,State Treasurer,,,Under Votes,1,1,0,0
+Henry,E101,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,43,15,25,3
+Henry,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,8,3,2
+Henry,E101,Commissioner of Agriculture,,,Total Votes,56,23,28,5
+Henry,E101,Commissioner of Agriculture,,,Under Votes,1,1,0,0
+Henry,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E102,STRAIGHT PARTY,,,Republican,52,2,49,1
+Henry,E102,STRAIGHT PARTY,,,Democratic,23,3,20,0
+Henry,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",69,5,61,3
+Henry,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,60,6,50,4
+Henry,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E102,Governor,,,Total Votes,129,11,111,7
+Henry,E102,Governor,,,Under Votes,1,0,1,0
+Henry,E102,Governor,,,Over Votes,0,0,0,0
+Henry,E102,Secretary of State,,REP,Michael ADAMS,90,8,76,6
+Henry,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,3,32,1
+Henry,E102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,E102,Secretary of State,,,Total Votes,126,11,108,7
+Henry,E102,Secretary of State,,,Under Votes,4,0,4,0
+Henry,E102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E102,Attorney General,,REP,Russell COLEMAN,84,6,75,3
+Henry,E102,Attorney General,,DEM,Pamela STEVENSON,42,5,33,4
+Henry,E102,Attorney General,,,Total Votes,126,11,108,7
+Henry,E102,Attorney General,,,Under Votes,3,0,3,0
+Henry,E102,Attorney General,,,Over Votes,1,0,1,0
+Henry,E102,Auditor of Public Accounts,,REP,Allison BALL,86,5,75,6
+Henry,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,6,33,1
+Henry,E102,Auditor of Public Accounts,,,Total Votes,126,11,108,7
+Henry,E102,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Henry,E102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Henry,E102,State Treasurer,,REP,Mark H. METCALF,77,5,68,4
+Henry,E102,State Treasurer,,DEM,Michael BOWMAN,49,6,40,3
+Henry,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,E102,State Treasurer,,,Total Votes,126,11,108,7
+Henry,E102,State Treasurer,,,Under Votes,4,0,4,0
+Henry,E102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,87,6,76,5
+Henry,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,41,5,34,2
+Henry,E102,Commissioner of Agriculture,,,Total Votes,128,11,110,7
+Henry,E102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Henry,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E103,STRAIGHT PARTY,,,Republican,62,7,54,1
+Henry,E103,STRAIGHT PARTY,,,Democratic,35,5,29,1
+Henry,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",93,9,83,1
+Henry,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,101,19,80,2
+Henry,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E103,Governor,,,Total Votes,194,28,163,3
+Henry,E103,Governor,,,Under Votes,0,0,0,0
+Henry,E103,Governor,,,Over Votes,0,0,0,0
+Henry,E103,Secretary of State,,REP,Michael ADAMS,132,22,108,2
+Henry,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,6,49,1
+Henry,E103,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,E103,Secretary of State,,,Total Votes,188,28,157,3
+Henry,E103,Secretary of State,,,Under Votes,6,0,6,0
+Henry,E103,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E103,Attorney General,,REP,Russell COLEMAN,127,17,109,1
+Henry,E103,Attorney General,,DEM,Pamela STEVENSON,63,11,50,2
+Henry,E103,Attorney General,,,Total Votes,190,28,159,3
+Henry,E103,Attorney General,,,Under Votes,4,0,4,0
+Henry,E103,Attorney General,,,Over Votes,0,0,0,0
+Henry,E103,Auditor of Public Accounts,,REP,Allison BALL,136,19,115,2
+Henry,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",53,9,43,1
+Henry,E103,Auditor of Public Accounts,,,Total Votes,189,28,158,3
+Henry,E103,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Henry,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,E103,State Treasurer,,REP,Mark H. METCALF,123,18,103,2
+Henry,E103,State Treasurer,,DEM,Michael BOWMAN,64,10,53,1
+Henry,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,E103,State Treasurer,,,Total Votes,187,28,156,3
+Henry,E103,State Treasurer,,,Under Votes,7,0,7,0
+Henry,E103,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,127,19,107,1
+Henry,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,61,9,50,2
+Henry,E103,Commissioner of Agriculture,,,Total Votes,188,28,157,3
+Henry,E103,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Henry,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E104,STRAIGHT PARTY,,,Republican,48,5,43,0
+Henry,E104,STRAIGHT PARTY,,,Democratic,18,4,14,0
+Henry,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",86,9,77,0
+Henry,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,61,10,46,5
+Henry,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E104,Governor,,,Total Votes,147,19,123,5
+Henry,E104,Governor,,,Under Votes,0,0,0,0
+Henry,E104,Governor,,,Over Votes,0,0,0,0
+Henry,E104,Secretary of State,,REP,Michael ADAMS,110,14,94,2
+Henry,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,5,27,2
+Henry,E104,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,E104,Secretary of State,,,Total Votes,144,19,121,4
+Henry,E104,Secretary of State,,,Under Votes,3,0,2,1
+Henry,E104,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E104,Attorney General,,REP,Russell COLEMAN,110,14,95,1
+Henry,E104,Attorney General,,DEM,Pamela STEVENSON,32,5,25,2
+Henry,E104,Attorney General,,,Total Votes,142,19,120,3
+Henry,E104,Attorney General,,,Under Votes,5,0,3,2
+Henry,E104,Attorney General,,,Over Votes,0,0,0,0
+Henry,E104,Auditor of Public Accounts,,REP,Allison BALL,106,13,91,2
+Henry,E104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",34,6,27,1
+Henry,E104,Auditor of Public Accounts,,,Total Votes,140,19,118,3
+Henry,E104,Auditor of Public Accounts,,,Under Votes,7,0,5,2
+Henry,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,E104,State Treasurer,,REP,Mark H. METCALF,98,11,86,1
+Henry,E104,State Treasurer,,DEM,Michael BOWMAN,41,8,32,1
+Henry,E104,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,E104,State Treasurer,,,Total Votes,139,19,118,2
+Henry,E104,State Treasurer,,,Under Votes,8,0,5,3
+Henry,E104,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,112,14,96,2
+Henry,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,5,23,0
+Henry,E104,Commissioner of Agriculture,,,Total Votes,140,19,119,2
+Henry,E104,Commissioner of Agriculture,,,Under Votes,7,0,4,3
+Henry,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E105,STRAIGHT PARTY,,,Republican,43,9,31,3
+Henry,E105,STRAIGHT PARTY,,,Democratic,14,1,12,1
+Henry,E105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",68,12,53,3
+Henry,E105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,39,14,23,2
+Henry,E105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E105,Governor,,,Total Votes,107,26,76,5
+Henry,E105,Governor,,,Under Votes,0,0,0,0
+Henry,E105,Governor,,,Over Votes,0,0,0,0
+Henry,E105,Secretary of State,,REP,Michael ADAMS,79,18,58,3
+Henry,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",26,7,17,2
+Henry,E105,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,E105,Secretary of State,,,Total Votes,105,25,75,5
+Henry,E105,Secretary of State,,,Under Votes,2,1,1,0
+Henry,E105,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E105,Attorney General,,REP,Russell COLEMAN,80,19,58,3
+Henry,E105,Attorney General,,DEM,Pamela STEVENSON,27,7,18,2
+Henry,E105,Attorney General,,,Total Votes,107,26,76,5
+Henry,E105,Attorney General,,,Under Votes,0,0,0,0
+Henry,E105,Attorney General,,,Over Votes,0,0,0,0
+Henry,E105,Auditor of Public Accounts,,REP,Allison BALL,79,17,59,3
+Henry,E105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",25,7,16,2
+Henry,E105,Auditor of Public Accounts,,,Total Votes,104,24,75,5
+Henry,E105,Auditor of Public Accounts,,,Under Votes,3,2,1,0
+Henry,E105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,E105,State Treasurer,,REP,Mark H. METCALF,72,15,54,3
+Henry,E105,State Treasurer,,DEM,Michael BOWMAN,32,9,21,2
+Henry,E105,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,E105,State Treasurer,,,Total Votes,104,24,75,5
+Henry,E105,State Treasurer,,,Under Votes,3,2,1,0
+Henry,E105,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,79,21,55,3
+Henry,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,5,21,2
+Henry,E105,Commissioner of Agriculture,,,Total Votes,107,26,76,5
+Henry,E105,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Henry,E105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,E106,STRAIGHT PARTY,,,Republican,84,9,75,0
+Henry,E106,STRAIGHT PARTY,,,Democratic,44,1,43,0
+Henry,E106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",127,16,110,1
+Henry,E106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,5,89,3
+Henry,E106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,E106,Governor,,,Total Votes,224,21,199,4
+Henry,E106,Governor,,,Under Votes,0,0,0,0
+Henry,E106,Governor,,,Over Votes,0,0,0,0
+Henry,E106,Secretary of State,,REP,Michael ADAMS,137,17,119,1
+Henry,E106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,3,75,3
+Henry,E106,Secretary of State,,,Kenneth C. MOELMAN JR. (W),2,1,1,0
+Henry,E106,Secretary of State,,,Total Votes,220,21,195,4
+Henry,E106,Secretary of State,,,Under Votes,4,0,4,0
+Henry,E106,Secretary of State,,,Over Votes,0,0,0,0
+Henry,E106,Attorney General,,REP,Russell COLEMAN,138,16,121,1
+Henry,E106,Attorney General,,DEM,Pamela STEVENSON,76,5,69,2
+Henry,E106,Attorney General,,,Total Votes,214,21,190,3
+Henry,E106,Attorney General,,,Under Votes,10,0,9,1
+Henry,E106,Attorney General,,,Over Votes,0,0,0,0
+Henry,E106,Auditor of Public Accounts,,REP,Allison BALL,136,16,120,0
+Henry,E106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,5,74,3
+Henry,E106,Auditor of Public Accounts,,,Total Votes,218,21,194,3
+Henry,E106,Auditor of Public Accounts,,,Under Votes,6,0,5,1
+Henry,E106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,E106,State Treasurer,,REP,Mark H. METCALF,128,15,112,1
+Henry,E106,State Treasurer,,DEM,Michael BOWMAN,87,5,79,3
+Henry,E106,State Treasurer,,,Robert Perry,2,1,1,0
+Henry,E106,State Treasurer,,,Total Votes,217,21,192,4
+Henry,E106,State Treasurer,,,Under Votes,7,0,7,0
+Henry,E106,State Treasurer,,,Over Votes,0,0,0,0
+Henry,E106,Commissioner of Agriculture,,REP,Jonathan SHELL,133,16,116,1
+Henry,E106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,5,73,3
+Henry,E106,Commissioner of Agriculture,,,Total Votes,214,21,189,4
+Henry,E106,Commissioner of Agriculture,,,Under Votes,9,0,9,0
+Henry,E106,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Henry,F101,STRAIGHT PARTY,,,Republican,44,9,35,0
+Henry,F101,STRAIGHT PARTY,,,Democratic,26,8,17,1
+Henry,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",67,19,47,1
+Henry,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,16,33,2
+Henry,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,F101,Governor,,,Total Votes,118,35,80,3
+Henry,F101,Governor,,,Under Votes,1,0,1,0
+Henry,F101,Governor,,,Over Votes,0,0,0,0
+Henry,F101,Secretary of State,,REP,Michael ADAMS,80,24,55,1
+Henry,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,11,23,2
+Henry,F101,Secretary of State,,,Kenneth C. MOELMAN JR. (W),1,0,1,0
+Henry,F101,Secretary of State,,,Total Votes,117,35,79,3
+Henry,F101,Secretary of State,,,Under Votes,2,0,2,0
+Henry,F101,Secretary of State,,,Over Votes,0,0,0,0
+Henry,F101,Attorney General,,REP,Russell COLEMAN,77,23,53,1
+Henry,F101,Attorney General,,DEM,Pamela STEVENSON,40,12,26,2
+Henry,F101,Attorney General,,,Total Votes,117,35,79,3
+Henry,F101,Attorney General,,,Under Votes,2,0,2,0
+Henry,F101,Attorney General,,,Over Votes,0,0,0,0
+Henry,F101,Auditor of Public Accounts,,REP,Allison BALL,75,23,51,1
+Henry,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,12,27,2
+Henry,F101,Auditor of Public Accounts,,,Total Votes,116,35,78,3
+Henry,F101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Henry,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,F101,State Treasurer,,REP,Mark H. METCALF,72,22,49,1
+Henry,F101,State Treasurer,,DEM,Michael BOWMAN,44,13,29,2
+Henry,F101,State Treasurer,,,Robert Perry,1,0,1,0
+Henry,F101,State Treasurer,,,Total Votes,117,35,79,3
+Henry,F101,State Treasurer,,,Under Votes,2,0,2,0
+Henry,F101,State Treasurer,,,Over Votes,0,0,0,0
+Henry,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,71,21,49,1
+Henry,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,45,14,29,2
+Henry,F101,Commissioner of Agriculture,,,Total Votes,116,35,78,3
+Henry,F101,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Henry,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,F102,STRAIGHT PARTY,,,Republican,58,5,52,1
+Henry,F102,STRAIGHT PARTY,,,Democratic,19,6,11,2
+Henry,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",83,7,74,2
+Henry,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,13,33,5
+Henry,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,F102,Governor,,,Total Votes,134,20,107,7
+Henry,F102,Governor,,,Under Votes,2,0,2,0
+Henry,F102,Governor,,,Over Votes,0,0,0,0
+Henry,F102,Secretary of State,,REP,Michael ADAMS,94,9,82,3
+Henry,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",37,11,22,4
+Henry,F102,Secretary of State,,,Kenneth C. MOELMAN JR. (W),1,0,1,0
+Henry,F102,Secretary of State,,,Total Votes,132,20,105,7
+Henry,F102,Secretary of State,,,Under Votes,4,0,4,0
+Henry,F102,Secretary of State,,,Over Votes,0,0,0,0
+Henry,F102,Attorney General,,REP,Russell COLEMAN,99,8,87,4
+Henry,F102,Attorney General,,DEM,Pamela STEVENSON,33,11,19,3
+Henry,F102,Attorney General,,,Total Votes,132,19,106,7
+Henry,F102,Attorney General,,,Under Votes,4,1,3,0
+Henry,F102,Attorney General,,,Over Votes,0,0,0,0
+Henry,F102,Auditor of Public Accounts,,REP,Allison BALL,101,10,85,6
+Henry,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",31,10,20,1
+Henry,F102,Auditor of Public Accounts,,,Total Votes,132,20,105,7
+Henry,F102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Henry,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Henry,F102,State Treasurer,,REP,Mark H. METCALF,89,8,79,2
+Henry,F102,State Treasurer,,DEM,Michael BOWMAN,40,11,24,5
+Henry,F102,State Treasurer,,,Robert Perry,1,0,1,0
+Henry,F102,State Treasurer,,,Total Votes,130,19,104,7
+Henry,F102,State Treasurer,,,Under Votes,6,1,5,0
+Henry,F102,State Treasurer,,,Over Votes,0,0,0,0
+Henry,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,103,11,86,6
+Henry,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,9,19,1
+Henry,F102,Commissioner of Agriculture,,,Total Votes,132,20,105,7
+Henry,F102,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Henry,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Henry,F103,STRAIGHT PARTY,,,Republican,135,7,128,0
+Henry,F103,STRAIGHT PARTY,,,Democratic,68,14,50,4
+Henry,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",202,16,186,0
+Henry,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,175,40,130,5
+Henry,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Henry,F103,Governor,,,Total Votes,377,56,316,5
+Henry,F103,Governor,,,Under Votes,0,0,0,0
+Henry,F103,Governor,,,Over Votes,0,0,0,0
+Henry,F103,Secretary of State,,REP,Michael ADAMS,244,28,216,0
+Henry,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,28,95,5
+Henry,F103,Secretary of State,,,Kenneth C. MOELMAN JR. (W),0,0,0,0
+Henry,F103,Secretary of State,,,Total Votes,372,56,311,5
+Henry,F103,Secretary of State,,,Under Votes,5,0,5,0
+Henry,F103,Secretary of State,,,Over Votes,0,0,0,0
+Henry,F103,Attorney General,,REP,Russell COLEMAN,247,28,219,0
+Henry,F103,Attorney General,,DEM,Pamela STEVENSON,126,28,93,5
+Henry,F103,Attorney General,,,Total Votes,373,56,312,5
+Henry,F103,Attorney General,,,Under Votes,4,0,4,0
+Henry,F103,Attorney General,,,Over Votes,0,0,0,0
+Henry,F103,Auditor of Public Accounts,,REP,Allison BALL,248,28,220,0
+Henry,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",120,28,87,5
+Henry,F103,Auditor of Public Accounts,,,Total Votes,368,56,307,5
+Henry,F103,Auditor of Public Accounts,,,Under Votes,8,0,8,0
+Henry,F103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Henry,F103,State Treasurer,,REP,Mark H. METCALF,232,22,210,0
+Henry,F103,State Treasurer,,DEM,Michael BOWMAN,141,34,102,5
+Henry,F103,State Treasurer,,,Robert Perry,0,0,0,0
+Henry,F103,State Treasurer,,,Total Votes,373,56,312,5
+Henry,F103,State Treasurer,,,Under Votes,4,0,4,0
+Henry,F103,State Treasurer,,,Over Votes,0,0,0,0
+Henry,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,250,27,223,0
+Henry,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,123,29,89,5
+Henry,F103,Commissioner of Agriculture,,,Total Votes,373,56,312,5
+Henry,F103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Henry,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

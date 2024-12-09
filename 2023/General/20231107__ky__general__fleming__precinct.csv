@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Fleming,A101,STRAIGHT PARTY,,,Republican,107,13,94,0
 Fleming,A101,STRAIGHT PARTY,,,Democratic,32,5,26,1
-Fleming,A101,Governor,,REP,Daniel CAMERON,172,22,149,1
-Fleming,A101,Governor,,DEM,Andy BESHEAR,114,11,102,1
-Fleming,A101,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",172,22,149,1
+Fleming,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,114,11,102,1
+Fleming,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,A101,Governor,,,Total Votes,286,33,251,2
 Fleming,A101,Governor,,,Under Votes,4,0,4,0
 Fleming,A101,Governor,,,Over Votes,0,0,0,0
 Fleming,A101,Secretary of State,,REP,Michael ADAMS,208,25,182,1
 Fleming,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,7,69,1
-Fleming,A101,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,A101,Secretary of State,,,Total Votes,285,32,251,2
 Fleming,A101,Secretary of State,,,Under Votes,5,1,4,0
 Fleming,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Fleming,A101,Auditor of Public Accounts,,,Under Votes,10,0,10,0
 Fleming,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,A101,State Treasurer,,REP,Mark H. METCALF,196,24,171,1
 Fleming,A101,State Treasurer,,DEM,Michael BOWMAN,79,7,71,1
-Fleming,A101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,A101,State Treasurer,,,Total Votes,275,31,242,2
 Fleming,A101,State Treasurer,,,Under Votes,14,2,12,0
 Fleming,A101,State Treasurer,,,Over Votes,1,0,1,0
@@ -36,15 +36,15 @@ Fleming,A101,Commissioner of Agriculture,,,Under Votes,7,0,7,0
 Fleming,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,A102,STRAIGHT PARTY,,,Republican,76,6,68,2
 Fleming,A102,STRAIGHT PARTY,,,Democratic,17,1,15,1
-Fleming,A102,Governor,,REP,Daniel CAMERON,111,9,100,2
-Fleming,A102,Governor,,DEM,Andy BESHEAR,54,4,48,2
-Fleming,A102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,9,100,2
+Fleming,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,54,4,48,2
+Fleming,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,A102,Governor,,,Total Votes,165,13,148,4
 Fleming,A102,Governor,,,Under Votes,2,0,2,0
 Fleming,A102,Governor,,,Over Votes,0,0,0,0
 Fleming,A102,Secretary of State,,REP,Michael ADAMS,127,9,116,2
 Fleming,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",37,3,32,2
-Fleming,A102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,A102,Secretary of State,,,Total Votes,164,12,148,4
 Fleming,A102,Secretary of State,,,Under Votes,3,1,2,0
 Fleming,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Fleming,A102,Auditor of Public Accounts,,,Under Votes,2,1,1,0
 Fleming,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,A102,State Treasurer,,REP,Mark H. METCALF,127,9,116,2
 Fleming,A102,State Treasurer,,DEM,Michael BOWMAN,38,3,33,2
-Fleming,A102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,A102,State Treasurer,,,Total Votes,165,12,149,4
 Fleming,A102,State Treasurer,,,Under Votes,2,1,1,0
 Fleming,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Fleming,A102,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Fleming,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,A103,STRAIGHT PARTY,,,Republican,71,9,57,5
 Fleming,A103,STRAIGHT PARTY,,,Democratic,46,3,37,6
-Fleming,A103,Governor,,REP,Daniel CAMERON,109,14,85,10
-Fleming,A103,Governor,,DEM,Andy BESHEAR,133,19,98,16
-Fleming,A103,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",109,14,85,10
+Fleming,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,133,19,98,16
+Fleming,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,A103,Governor,,,Total Votes,242,33,183,26
 Fleming,A103,Governor,,,Under Votes,0,0,0,0
 Fleming,A103,Governor,,,Over Votes,0,0,0,0
 Fleming,A103,Secretary of State,,REP,Michael ADAMS,139,17,108,14
 Fleming,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",99,15,72,12
-Fleming,A103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,A103,Secretary of State,,,Total Votes,238,32,180,26
 Fleming,A103,Secretary of State,,,Under Votes,4,1,3,0
 Fleming,A103,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Fleming,A103,Auditor of Public Accounts,,,Under Votes,4,1,3,0
 Fleming,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,A103,State Treasurer,,REP,Mark H. METCALF,134,17,107,10
 Fleming,A103,State Treasurer,,DEM,Michael BOWMAN,104,15,73,16
-Fleming,A103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,A103,State Treasurer,,,Total Votes,238,32,180,26
 Fleming,A103,State Treasurer,,,Under Votes,4,1,3,0
 Fleming,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Fleming,A103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Fleming,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,B101,STRAIGHT PARTY,,,Republican,84,2,81,1
 Fleming,B101,STRAIGHT PARTY,,,Democratic,32,4,26,2
-Fleming,B101,Governor,,REP,Daniel CAMERON,127,7,119,1
-Fleming,B101,Governor,,DEM,Andy BESHEAR,62,5,54,3
-Fleming,B101,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",127,7,119,1
+Fleming,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,62,5,54,3
+Fleming,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,B101,Governor,,,Total Votes,189,12,173,4
 Fleming,B101,Governor,,,Under Votes,2,0,2,0
 Fleming,B101,Governor,,,Over Votes,0,0,0,0
 Fleming,B101,Secretary of State,,REP,Michael ADAMS,141,7,132,2
 Fleming,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",43,5,36,2
-Fleming,B101,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,B101,Secretary of State,,,Total Votes,184,12,168,4
 Fleming,B101,Secretary of State,,,Under Votes,7,0,7,0
 Fleming,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Fleming,B101,Auditor of Public Accounts,,,Under Votes,5,0,5,0
 Fleming,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,B101,State Treasurer,,REP,Mark H. METCALF,131,7,123,1
 Fleming,B101,State Treasurer,,DEM,Michael BOWMAN,51,4,44,3
-Fleming,B101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,B101,State Treasurer,,,Total Votes,182,11,167,4
 Fleming,B101,State Treasurer,,,Under Votes,9,1,8,0
 Fleming,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Fleming,B101,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Fleming,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,B102,STRAIGHT PARTY,,,Republican,159,20,134,5
 Fleming,B102,STRAIGHT PARTY,,,Democratic,60,5,48,7
-Fleming,B102,Governor,,REP,Daniel CAMERON,225,29,191,5
-Fleming,B102,Governor,,DEM,Andy BESHEAR,164,16,137,11
-Fleming,B102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",225,29,191,5
+Fleming,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,164,16,137,11
+Fleming,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,B102,Governor,,,Total Votes,389,45,328,16
 Fleming,B102,Governor,,,Under Votes,4,0,4,0
 Fleming,B102,Governor,,,Over Votes,0,0,0,0
 Fleming,B102,Secretary of State,,REP,Michael ADAMS,280,34,237,9
 Fleming,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",107,10,90,7
-Fleming,B102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,B102,Secretary of State,,,Total Votes,387,44,327,16
 Fleming,B102,Secretary of State,,,Under Votes,6,1,5,0
 Fleming,B102,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Fleming,B102,Auditor of Public Accounts,,,Under Votes,12,3,9,0
 Fleming,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,B102,State Treasurer,,REP,Mark H. METCALF,267,32,229,6
 Fleming,B102,State Treasurer,,DEM,Michael BOWMAN,112,10,92,10
-Fleming,B102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,B102,State Treasurer,,,Total Votes,379,42,321,16
 Fleming,B102,State Treasurer,,,Under Votes,14,3,11,0
 Fleming,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Fleming,B102,Commissioner of Agriculture,,,Under Votes,12,3,9,0
 Fleming,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,B103,STRAIGHT PARTY,,,Republican,79,11,64,4
 Fleming,B103,STRAIGHT PARTY,,,Democratic,19,0,13,6
-Fleming,B103,Governor,,REP,Daniel CAMERON,100,14,83,3
-Fleming,B103,Governor,,DEM,Andy BESHEAR,59,0,50,9
-Fleming,B103,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",100,14,83,3
+Fleming,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,59,0,50,9
+Fleming,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,B103,Governor,,,Total Votes,159,14,133,12
 Fleming,B103,Governor,,,Under Votes,8,0,8,0
 Fleming,B103,Governor,,,Over Votes,0,0,0,0
 Fleming,B103,Secretary of State,,REP,Michael ADAMS,129,14,109,6
 Fleming,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",35,0,29,6
-Fleming,B103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,B103,Secretary of State,,,Total Votes,164,14,138,12
 Fleming,B103,Secretary of State,,,Under Votes,3,0,3,0
 Fleming,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Fleming,B103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Fleming,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,B103,State Treasurer,,REP,Mark H. METCALF,124,14,105,5
 Fleming,B103,State Treasurer,,DEM,Michael BOWMAN,36,0,30,6
-Fleming,B103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,B103,State Treasurer,,,Total Votes,160,14,135,11
 Fleming,B103,State Treasurer,,,Under Votes,7,0,6,1
 Fleming,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Fleming,B103,Commissioner of Agriculture,,,Under Votes,6,0,5,1
 Fleming,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,C101,STRAIGHT PARTY,,,Republican,178,16,159,3
 Fleming,C101,STRAIGHT PARTY,,,Democratic,29,2,25,2
-Fleming,C101,Governor,,REP,Daniel CAMERON,250,24,219,7
-Fleming,C101,Governor,,DEM,Andy BESHEAR,104,13,86,5
-Fleming,C101,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",250,24,219,7
+Fleming,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,104,13,86,5
+Fleming,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,C101,Governor,,,Total Votes,354,37,305,12
 Fleming,C101,Governor,,,Under Votes,1,0,1,0
 Fleming,C101,Governor,,,Over Votes,0,0,0,0
 Fleming,C101,Secretary of State,,REP,Michael ADAMS,275,30,236,9
 Fleming,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,6,60,3
-Fleming,C101,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,C101,Secretary of State,,,Total Votes,344,36,296,12
 Fleming,C101,Secretary of State,,,Under Votes,11,1,10,0
 Fleming,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Fleming,C101,Auditor of Public Accounts,,,Under Votes,11,0,11,0
 Fleming,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,C101,State Treasurer,,REP,Mark H. METCALF,269,31,229,9
 Fleming,C101,State Treasurer,,DEM,Michael BOWMAN,75,6,66,3
-Fleming,C101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,C101,State Treasurer,,,Total Votes,344,37,295,12
 Fleming,C101,State Treasurer,,,Under Votes,11,0,11,0
 Fleming,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Fleming,C101,Commissioner of Agriculture,,,Under Votes,8,1,7,0
 Fleming,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,C102,STRAIGHT PARTY,,,Republican,140,17,120,3
 Fleming,C102,STRAIGHT PARTY,,,Democratic,69,18,40,11
-Fleming,C102,Governor,,REP,Daniel CAMERON,249,31,208,10
-Fleming,C102,Governor,,DEM,Andy BESHEAR,186,47,120,19
-Fleming,C102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",249,31,208,10
+Fleming,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,186,47,120,19
+Fleming,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,C102,Governor,,,Total Votes,435,78,328,29
 Fleming,C102,Governor,,,Under Votes,1,0,1,0
 Fleming,C102,Governor,,,Over Votes,0,0,0,0
 Fleming,C102,Secretary of State,,REP,Michael ADAMS,310,49,247,14
 Fleming,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,28,77,15
-Fleming,C102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,C102,Secretary of State,,,Total Votes,430,77,324,29
 Fleming,C102,Secretary of State,,,Under Votes,5,1,4,0
 Fleming,C102,Secretary of State,,,Over Votes,1,0,1,0
@@ -270,7 +270,7 @@ Fleming,C102,Auditor of Public Accounts,,,Under Votes,6,0,6,0
 Fleming,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,C102,State Treasurer,,REP,Mark H. METCALF,286,41,232,13
 Fleming,C102,State Treasurer,,DEM,Michael BOWMAN,142,35,91,16
-Fleming,C102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,C102,State Treasurer,,,Total Votes,428,76,323,29
 Fleming,C102,State Treasurer,,,Under Votes,8,2,6,0
 Fleming,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Fleming,C102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Fleming,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,D102,STRAIGHT PARTY,,,Republican,87,20,61,6
 Fleming,D102,STRAIGHT PARTY,,,Democratic,63,20,38,5
-Fleming,D102,Governor,,REP,Daniel CAMERON,152,31,111,10
-Fleming,D102,Governor,,DEM,Andy BESHEAR,190,67,110,13
-Fleming,D102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,31,111,10
+Fleming,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,190,67,110,13
+Fleming,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,D102,Governor,,,Total Votes,342,98,221,23
 Fleming,D102,Governor,,,Under Votes,3,0,3,0
 Fleming,D102,Governor,,,Over Votes,0,0,0,0
 Fleming,D102,Secretary of State,,REP,Michael ADAMS,197,48,136,13
 Fleming,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",130,47,77,6
-Fleming,D102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,D102,Secretary of State,,,Total Votes,327,95,213,19
 Fleming,D102,Secretary of State,,,Under Votes,18,3,11,4
 Fleming,D102,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Fleming,D102,Auditor of Public Accounts,,,Under Votes,19,4,11,4
 Fleming,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,D102,State Treasurer,,REP,Mark H. METCALF,191,47,133,11
 Fleming,D102,State Treasurer,,DEM,Michael BOWMAN,131,46,77,8
-Fleming,D102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,D102,State Treasurer,,,Total Votes,322,93,210,19
 Fleming,D102,State Treasurer,,,Under Votes,23,5,14,4
 Fleming,D102,State Treasurer,,,Over Votes,0,0,0,0
@@ -321,15 +321,15 @@ Fleming,D102,Commissioner of Agriculture,,,Under Votes,19,6,12,1
 Fleming,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,D103,STRAIGHT PARTY,,,Republican,92,16,68,8
 Fleming,D103,STRAIGHT PARTY,,,Democratic,58,16,28,14
-Fleming,D103,Governor,,REP,Daniel CAMERON,173,32,129,12
-Fleming,D103,Governor,,DEM,Andy BESHEAR,181,36,116,29
-Fleming,D103,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",173,32,129,12
+Fleming,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,181,36,116,29
+Fleming,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,D103,Governor,,,Total Votes,354,68,245,41
 Fleming,D103,Governor,,,Under Votes,3,1,1,1
 Fleming,D103,Governor,,,Over Votes,0,0,0,0
 Fleming,D103,Secretary of State,,REP,Michael ADAMS,226,42,168,16
 Fleming,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",119,25,71,23
-Fleming,D103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,D103,Secretary of State,,,Total Votes,345,67,239,39
 Fleming,D103,Secretary of State,,,Under Votes,12,2,7,3
 Fleming,D103,Secretary of State,,,Over Votes,0,0,0,0
@@ -345,7 +345,7 @@ Fleming,D103,Auditor of Public Accounts,,,Under Votes,17,5,10,2
 Fleming,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,D103,State Treasurer,,REP,Mark H. METCALF,210,37,156,17
 Fleming,D103,State Treasurer,,DEM,Michael BOWMAN,128,28,77,23
-Fleming,D103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,D103,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,D103,State Treasurer,,,Total Votes,338,65,233,40
 Fleming,D103,State Treasurer,,,Under Votes,19,4,13,2
 Fleming,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -361,15 +361,15 @@ Fleming,D103,Commissioner of Agriculture,,,Under Votes,16,2,10,4
 Fleming,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,E101,STRAIGHT PARTY,,,Republican,79,6,67,6
 Fleming,E101,STRAIGHT PARTY,,,Democratic,50,9,38,3
-Fleming,E101,Governor,,REP,Daniel CAMERON,118,10,101,7
-Fleming,E101,Governor,,DEM,Andy BESHEAR,123,16,98,9
-Fleming,E101,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",118,10,101,7
+Fleming,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,123,16,98,9
+Fleming,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,E101,Governor,,,Total Votes,241,26,199,16
 Fleming,E101,Governor,,,Under Votes,0,0,0,0
 Fleming,E101,Governor,,,Over Votes,0,0,0,0
 Fleming,E101,Secretary of State,,REP,Michael ADAMS,158,14,133,11
 Fleming,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",79,12,62,5
-Fleming,E101,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,E101,Secretary of State,,,Total Votes,237,26,195,16
 Fleming,E101,Secretary of State,,,Under Votes,4,0,4,0
 Fleming,E101,Secretary of State,,,Over Votes,0,0,0,0
@@ -385,7 +385,7 @@ Fleming,E101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Fleming,E101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Fleming,E101,State Treasurer,,REP,Mark H. METCALF,146,12,124,10
 Fleming,E101,State Treasurer,,DEM,Michael BOWMAN,87,13,69,5
-Fleming,E101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,E101,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,E101,State Treasurer,,,Total Votes,233,25,193,15
 Fleming,E101,State Treasurer,,,Under Votes,8,1,6,1
 Fleming,E101,State Treasurer,,,Over Votes,0,0,0,0
@@ -396,15 +396,15 @@ Fleming,E101,Commissioner of Agriculture,,,Under Votes,8,1,5,2
 Fleming,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,E102,STRAIGHT PARTY,,,Republican,75,5,67,3
 Fleming,E102,STRAIGHT PARTY,,,Democratic,35,4,27,4
-Fleming,E102,Governor,,REP,Daniel CAMERON,133,10,117,6
-Fleming,E102,Governor,,DEM,Andy BESHEAR,83,6,72,5
-Fleming,E102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",133,10,117,6
+Fleming,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,6,72,5
+Fleming,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,E102,Governor,,,Total Votes,216,16,189,11
 Fleming,E102,Governor,,,Under Votes,1,1,0,0
 Fleming,E102,Governor,,,Over Votes,0,0,0,0
 Fleming,E102,Secretary of State,,REP,Michael ADAMS,150,10,133,7
 Fleming,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,6,50,4
-Fleming,E102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,E102,Secretary of State,,,Total Votes,210,16,183,11
 Fleming,E102,Secretary of State,,,Under Votes,7,1,6,0
 Fleming,E102,Secretary of State,,,Over Votes,0,0,0,0
@@ -420,7 +420,7 @@ Fleming,E102,Auditor of Public Accounts,,,Under Votes,11,1,10,0
 Fleming,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,E102,State Treasurer,,REP,Mark H. METCALF,149,9,133,7
 Fleming,E102,State Treasurer,,DEM,Michael BOWMAN,53,6,43,4
-Fleming,E102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,E102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,E102,State Treasurer,,,Total Votes,202,15,176,11
 Fleming,E102,State Treasurer,,,Under Votes,15,2,13,0
 Fleming,E102,State Treasurer,,,Over Votes,0,0,0,0
@@ -431,15 +431,15 @@ Fleming,E102,Commissioner of Agriculture,,,Under Votes,16,2,13,1
 Fleming,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,E103,STRAIGHT PARTY,,,Republican,81,2,77,2
 Fleming,E103,STRAIGHT PARTY,,,Democratic,24,1,22,1
-Fleming,E103,Governor,,REP,Daniel CAMERON,113,4,106,3
-Fleming,E103,Governor,,DEM,Andy BESHEAR,56,4,50,2
-Fleming,E103,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",113,4,106,3
+Fleming,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,56,4,50,2
+Fleming,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,E103,Governor,,,Total Votes,169,8,156,5
 Fleming,E103,Governor,,,Under Votes,1,0,1,0
 Fleming,E103,Governor,,,Over Votes,0,0,0,0
 Fleming,E103,Secretary of State,,REP,Michael ADAMS,136,6,126,4
 Fleming,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,2,28,1
-Fleming,E103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,E103,Secretary of State,,,Total Votes,167,8,154,5
 Fleming,E103,Secretary of State,,,Under Votes,3,0,3,0
 Fleming,E103,Secretary of State,,,Over Votes,0,0,0,0
@@ -455,7 +455,7 @@ Fleming,E103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Fleming,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,E103,State Treasurer,,REP,Mark H. METCALF,120,5,112,3
 Fleming,E103,State Treasurer,,DEM,Michael BOWMAN,45,2,41,2
-Fleming,E103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,E103,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,E103,State Treasurer,,,Total Votes,165,7,153,5
 Fleming,E103,State Treasurer,,,Under Votes,5,1,4,0
 Fleming,E103,State Treasurer,,,Over Votes,0,0,0,0
@@ -466,15 +466,15 @@ Fleming,E103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Fleming,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,E104,STRAIGHT PARTY,,,Republican,57,2,55,0
 Fleming,E104,STRAIGHT PARTY,,,Democratic,9,1,8,0
-Fleming,E104,Governor,,REP,Daniel CAMERON,83,3,80,0
-Fleming,E104,Governor,,DEM,Andy BESHEAR,39,7,31,1
-Fleming,E104,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",83,3,80,0
+Fleming,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,39,7,31,1
+Fleming,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,E104,Governor,,,Total Votes,122,10,111,1
 Fleming,E104,Governor,,,Under Votes,0,0,0,0
 Fleming,E104,Governor,,,Over Votes,0,0,0,0
 Fleming,E104,Secretary of State,,REP,Michael ADAMS,97,6,90,1
 Fleming,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",23,3,20,0
-Fleming,E104,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,E104,Secretary of State,,,Total Votes,120,9,110,1
 Fleming,E104,Secretary of State,,,Under Votes,2,1,1,0
 Fleming,E104,Secretary of State,,,Over Votes,0,0,0,0
@@ -490,7 +490,7 @@ Fleming,E104,Auditor of Public Accounts,,,Under Votes,1,1,0,0
 Fleming,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,E104,State Treasurer,,REP,Mark H. METCALF,93,4,88,1
 Fleming,E104,State Treasurer,,DEM,Michael BOWMAN,28,5,23,0
-Fleming,E104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,E104,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,E104,State Treasurer,,,Total Votes,121,9,111,1
 Fleming,E104,State Treasurer,,,Under Votes,1,1,0,0
 Fleming,E104,State Treasurer,,,Over Votes,0,0,0,0
@@ -501,15 +501,15 @@ Fleming,E104,Commissioner of Agriculture,,,Under Votes,2,2,0,0
 Fleming,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,F102,STRAIGHT PARTY,,,Republican,60,9,49,2
 Fleming,F102,STRAIGHT PARTY,,,Democratic,28,7,21,0
-Fleming,F102,Governor,,REP,Daniel CAMERON,91,10,79,2
-Fleming,F102,Governor,,DEM,Andy BESHEAR,85,11,72,2
-Fleming,F102,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",91,10,79,2
+Fleming,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,11,72,2
+Fleming,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,F102,Governor,,,Total Votes,176,21,151,4
 Fleming,F102,Governor,,,Under Votes,1,0,0,1
 Fleming,F102,Governor,,,Over Votes,0,0,0,0
 Fleming,F102,Secretary of State,,REP,Michael ADAMS,119,15,100,4
 Fleming,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,6,47,1
-Fleming,F102,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,F102,Secretary of State,,,Total Votes,173,21,147,5
 Fleming,F102,Secretary of State,,,Under Votes,4,0,4,0
 Fleming,F102,Secretary of State,,,Over Votes,0,0,0,0
@@ -525,7 +525,7 @@ Fleming,F102,Auditor of Public Accounts,,,Under Votes,8,0,7,1
 Fleming,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,F102,State Treasurer,,REP,Mark H. METCALF,104,12,90,2
 Fleming,F102,State Treasurer,,DEM,Michael BOWMAN,62,9,51,2
-Fleming,F102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,F102,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,F102,State Treasurer,,,Total Votes,166,21,141,4
 Fleming,F102,State Treasurer,,,Under Votes,11,0,10,1
 Fleming,F102,State Treasurer,,,Over Votes,0,0,0,0
@@ -536,15 +536,15 @@ Fleming,F102,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Fleming,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,F103,STRAIGHT PARTY,,,Republican,39,2,36,1
 Fleming,F103,STRAIGHT PARTY,,,Democratic,12,2,10,0
-Fleming,F103,Governor,,REP,Daniel CAMERON,54,3,50,1
-Fleming,F103,Governor,,DEM,Andy BESHEAR,21,7,14,0
-Fleming,F103,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",54,3,50,1
+Fleming,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,21,7,14,0
+Fleming,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,F103,Governor,,,Total Votes,75,10,64,1
 Fleming,F103,Governor,,,Under Votes,3,0,3,0
 Fleming,F103,Governor,,,Over Votes,0,0,0,0
 Fleming,F103,Secretary of State,,REP,Michael ADAMS,62,6,55,1
 Fleming,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",12,3,9,0
-Fleming,F103,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,F103,Secretary of State,,,Total Votes,74,9,64,1
 Fleming,F103,Secretary of State,,,Under Votes,4,1,3,0
 Fleming,F103,Secretary of State,,,Over Votes,0,0,0,0
@@ -560,7 +560,7 @@ Fleming,F103,Auditor of Public Accounts,,,Under Votes,4,2,2,0
 Fleming,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,F103,State Treasurer,,REP,Mark H. METCALF,59,6,52,1
 Fleming,F103,State Treasurer,,DEM,Michael BOWMAN,13,3,10,0
-Fleming,F103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,F103,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,F103,State Treasurer,,,Total Votes,72,9,62,1
 Fleming,F103,State Treasurer,,,Under Votes,6,1,5,0
 Fleming,F103,State Treasurer,,,Over Votes,0,0,0,0
@@ -571,15 +571,15 @@ Fleming,F103,Commissioner of Agriculture,,,Under Votes,5,1,4,0
 Fleming,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,F104,STRAIGHT PARTY,,,Republican,111,12,93,6
 Fleming,F104,STRAIGHT PARTY,,,Democratic,55,13,36,6
-Fleming,F104,Governor,,REP,Daniel CAMERON,184,19,157,8
-Fleming,F104,Governor,,DEM,Andy BESHEAR,129,23,96,10
-Fleming,F104,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,F104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",184,19,157,8
+Fleming,F104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,129,23,96,10
+Fleming,F104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,F104,Governor,,,Total Votes,313,42,253,18
 Fleming,F104,Governor,,,Under Votes,1,0,1,0
 Fleming,F104,Governor,,,Over Votes,0,0,0,0
 Fleming,F104,Secretary of State,,REP,Michael ADAMS,217,27,179,11
 Fleming,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",89,14,68,7
-Fleming,F104,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,F104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,F104,Secretary of State,,,Total Votes,306,41,247,18
 Fleming,F104,Secretary of State,,,Under Votes,8,1,7,0
 Fleming,F104,Secretary of State,,,Over Votes,0,0,0,0
@@ -595,7 +595,7 @@ Fleming,F104,Auditor of Public Accounts,,,Under Votes,12,3,9,0
 Fleming,F104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,F104,State Treasurer,,REP,Mark H. METCALF,198,20,170,8
 Fleming,F104,State Treasurer,,DEM,Michael BOWMAN,102,20,73,9
-Fleming,F104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,F104,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,F104,State Treasurer,,,Total Votes,300,40,243,17
 Fleming,F104,State Treasurer,,,Under Votes,14,2,11,1
 Fleming,F104,State Treasurer,,,Over Votes,0,0,0,0
@@ -606,15 +606,15 @@ Fleming,F104,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Fleming,F104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Fleming,F105,STRAIGHT PARTY,,,Republican,85,7,77,1
 Fleming,F105,STRAIGHT PARTY,,,Democratic,29,2,26,1
-Fleming,F105,Governor,,REP,Daniel CAMERON,118,10,106,2
-Fleming,F105,Governor,,DEM,Andy BESHEAR,82,4,77,1
-Fleming,F105,Governor,,,Brian FISHBACK and William FISHBACK,0,0,0,0
+Fleming,F105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",118,10,106,2
+Fleming,F105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,82,4,77,1
+Fleming,F105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Fleming,F105,Governor,,,Total Votes,200,14,183,3
 Fleming,F105,Governor,,,Under Votes,0,0,0,0
 Fleming,F105,Governor,,,Over Votes,0,0,0,0
 Fleming,F105,Secretary of State,,REP,Michael ADAMS,139,9,128,2
 Fleming,F105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,5,50,1
-Fleming,F105,Secretary of State,,,Kenneth C MOELLMAN JR (W),0,0,0,0
+Fleming,F105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Fleming,F105,Secretary of State,,,Total Votes,195,14,178,3
 Fleming,F105,Secretary of State,,,Under Votes,5,0,5,0
 Fleming,F105,Secretary of State,,,Over Votes,0,0,0,0
@@ -630,7 +630,7 @@ Fleming,F105,Auditor of Public Accounts,,,Under Votes,6,0,6,0
 Fleming,F105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Fleming,F105,State Treasurer,,REP,Mark H. METCALF,132,10,120,2
 Fleming,F105,State Treasurer,,DEM,Michael BOWMAN,61,4,56,1
-Fleming,F105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Fleming,F105,State Treasurer,,,Robert Perry,0,0,0,0
 Fleming,F105,State Treasurer,,,Total Votes,193,14,176,3
 Fleming,F105,State Treasurer,,,Under Votes,7,0,7,0
 Fleming,F105,State Treasurer,,,Over Votes,0,0,0,0

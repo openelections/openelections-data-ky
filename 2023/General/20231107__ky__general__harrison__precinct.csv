@@ -1,0 +1,666 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Harrison,A101,STRAIGHT PARTY,,,Republican,55,11,43,1
+Harrison,A101,STRAIGHT PARTY,,,Democratic,51,8,37,6
+Harrison,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",120,24,91,5
+Harrison,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,177,29,136,12
+Harrison,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,A101,Governor,,,Total Votes,297,53,227,17
+Harrison,A101,Governor,,,Under Votes,3,1,2,0
+Harrison,A101,Governor,,,Over Votes,0,0,0,0
+Harrison,A101,Secretary of State,,REP,Michael ADAMS,174,38,128,8
+Harrison,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",121,16,97,8
+Harrison,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,A101,Secretary of State,,,Total Votes,295,54,225,16
+Harrison,A101,Secretary of State,,,Under Votes,5,0,4,1
+Harrison,A101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,A101,Attorney General,,REP,Russell COLEMAN,160,36,117,7
+Harrison,A101,Attorney General,,DEM,Pamela STEVENSON,133,18,106,9
+Harrison,A101,Attorney General,,,Total Votes,293,54,223,16
+Harrison,A101,Attorney General,,,Under Votes,7,0,6,1
+Harrison,A101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,A101,Auditor of Public Accounts,,REP,Allison BALL,176,38,130,8
+Harrison,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",118,16,94,8
+Harrison,A101,Auditor of Public Accounts,,,Total Votes,294,54,224,16
+Harrison,A101,Auditor of Public Accounts,,,Under Votes,6,0,5,1
+Harrison,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,A101,State Treasurer,,REP,Mark H. METCALF,156,36,115,5
+Harrison,A101,State Treasurer,,DEM,Michael BOWMAN,135,16,108,11
+Harrison,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,A101,State Treasurer,,,Total Votes,291,52,223,16
+Harrison,A101,State Treasurer,,,Under Votes,8,2,5,1
+Harrison,A101,State Treasurer,,,Over Votes,1,0,1,0
+Harrison,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,169,40,122,7
+Harrison,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,125,14,102,9
+Harrison,A101,Commissioner of Agriculture,,,Total Votes,294,54,224,16
+Harrison,A101,Commissioner of Agriculture,,,Under Votes,6,0,5,1
+Harrison,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,A102,STRAIGHT PARTY,,,Republican,67,7,49,11
+Harrison,A102,STRAIGHT PARTY,,,Democratic,52,9,20,23
+Harrison,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",95,11,75,9
+Harrison,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,148,18,101,29
+Harrison,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,A102,Governor,,,Total Votes,243,29,176,38
+Harrison,A102,Governor,,,Under Votes,1,0,0,1
+Harrison,A102,Governor,,,Over Votes,0,0,0,0
+Harrison,A102,Secretary of State,,REP,Michael ADAMS,127,13,101,13
+Harrison,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",113,16,73,24
+Harrison,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,A102,Secretary of State,,,Total Votes,240,29,174,37
+Harrison,A102,Secretary of State,,,Under Votes,4,0,2,2
+Harrison,A102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,A102,Attorney General,,REP,Russell COLEMAN,120,13,94,13
+Harrison,A102,Attorney General,,DEM,Pamela STEVENSON,123,16,82,25
+Harrison,A102,Attorney General,,,Total Votes,243,29,176,38
+Harrison,A102,Attorney General,,,Under Votes,1,0,0,1
+Harrison,A102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,A102,Auditor of Public Accounts,,REP,Allison BALL,137,16,108,13
+Harrison,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",105,13,66,26
+Harrison,A102,Auditor of Public Accounts,,,Total Votes,242,29,174,39
+Harrison,A102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Harrison,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,A102,State Treasurer,,REP,Mark H. METCALF,119,14,93,12
+Harrison,A102,State Treasurer,,DEM,Michael BOWMAN,121,15,79,27
+Harrison,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,A102,State Treasurer,,,Total Votes,240,29,172,39
+Harrison,A102,State Treasurer,,,Under Votes,4,0,4,0
+Harrison,A102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,130,14,101,15
+Harrison,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,109,15,70,24
+Harrison,A102,Commissioner of Agriculture,,,Total Votes,239,29,171,39
+Harrison,A102,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Harrison,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,A103,STRAIGHT PARTY,,,Republican,5,2,3,0
+Harrison,A103,STRAIGHT PARTY,,,Democratic,11,0,11,0
+Harrison,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",7,1,6,0
+Harrison,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,21,3,18,0
+Harrison,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,A103,Governor,,,Total Votes,28,4,24,0
+Harrison,A103,Governor,,,Under Votes,0,0,0,0
+Harrison,A103,Governor,,,Over Votes,0,0,0,0
+Harrison,A103,Secretary of State,,REP,Michael ADAMS,12,4,8,0
+Harrison,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",16,0,16,0
+Harrison,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,A103,Secretary of State,,,Total Votes,28,4,24,0
+Harrison,A103,Secretary of State,,,Under Votes,0,0,0,0
+Harrison,A103,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,A103,Attorney General,,REP,Russell COLEMAN,10,3,7,0
+Harrison,A103,Attorney General,,DEM,Pamela STEVENSON,17,1,16,0
+Harrison,A103,Attorney General,,,Total Votes,27,4,23,0
+Harrison,A103,Attorney General,,,Under Votes,1,0,1,0
+Harrison,A103,Attorney General,,,Over Votes,0,0,0,0
+Harrison,A103,Auditor of Public Accounts,,REP,Allison BALL,12,4,8,0
+Harrison,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",16,0,16,0
+Harrison,A103,Auditor of Public Accounts,,,Total Votes,28,4,24,0
+Harrison,A103,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Harrison,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,A103,State Treasurer,,REP,Mark H. METCALF,11,4,7,0
+Harrison,A103,State Treasurer,,DEM,Michael BOWMAN,17,0,17,0
+Harrison,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,A103,State Treasurer,,,Total Votes,28,4,24,0
+Harrison,A103,State Treasurer,,,Under Votes,0,0,0,0
+Harrison,A103,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,13,4,9,0
+Harrison,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,0,15,0
+Harrison,A103,Commissioner of Agriculture,,,Total Votes,28,4,24,0
+Harrison,A103,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Harrison,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,B101,STRAIGHT PARTY,,,Republican,72,9,62,1
+Harrison,B101,STRAIGHT PARTY,,,Democratic,65,23,33,9
+Harrison,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",148,28,117,3
+Harrison,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,207,64,126,17
+Harrison,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,B101,Governor,,,Total Votes,355,92,243,20
+Harrison,B101,Governor,,,Under Votes,1,0,1,0
+Harrison,B101,Governor,,,Over Votes,0,0,0,0
+Harrison,B101,Secretary of State,,REP,Michael ADAMS,216,49,159,8
+Harrison,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",135,43,80,12
+Harrison,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,B101,Secretary of State,,,Total Votes,351,92,239,20
+Harrison,B101,Secretary of State,,,Under Votes,5,0,5,0
+Harrison,B101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,B101,Attorney General,,REP,Russell COLEMAN,203,42,156,5
+Harrison,B101,Attorney General,,DEM,Pamela STEVENSON,144,48,81,15
+Harrison,B101,Attorney General,,,Total Votes,347,90,237,20
+Harrison,B101,Attorney General,,,Under Votes,9,2,7,0
+Harrison,B101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,B101,Auditor of Public Accounts,,REP,Allison BALL,226,54,163,9
+Harrison,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",122,38,73,11
+Harrison,B101,Auditor of Public Accounts,,,Total Votes,348,92,236,20
+Harrison,B101,Auditor of Public Accounts,,,Under Votes,8,0,8,0
+Harrison,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,B101,State Treasurer,,REP,Mark H. METCALF,196,41,150,5
+Harrison,B101,State Treasurer,,DEM,Michael BOWMAN,154,51,88,15
+Harrison,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,B101,State Treasurer,,,Total Votes,350,92,238,20
+Harrison,B101,State Treasurer,,,Under Votes,6,0,6,0
+Harrison,B101,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,212,46,159,7
+Harrison,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,133,45,75,13
+Harrison,B101,Commissioner of Agriculture,,,Total Votes,345,91,234,20
+Harrison,B101,Commissioner of Agriculture,,,Under Votes,11,1,10,0
+Harrison,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,B102,STRAIGHT PARTY,,,Republican,31,5,24,2
+Harrison,B102,STRAIGHT PARTY,,,Democratic,43,12,24,7
+Harrison,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",48,8,38,2
+Harrison,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,25,74,12
+Harrison,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,B102,Governor,,,Total Votes,159,33,112,14
+Harrison,B102,Governor,,,Under Votes,0,0,0,0
+Harrison,B102,Governor,,,Over Votes,0,0,0,0
+Harrison,B102,Secretary of State,,REP,Michael ADAMS,72,14,53,5
+Harrison,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,19,55,9
+Harrison,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,B102,Secretary of State,,,Total Votes,155,33,108,14
+Harrison,B102,Secretary of State,,,Under Votes,4,0,4,0
+Harrison,B102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,B102,Attorney General,,REP,Russell COLEMAN,74,12,58,4
+Harrison,B102,Attorney General,,DEM,Pamela STEVENSON,81,21,50,10
+Harrison,B102,Attorney General,,,Total Votes,155,33,108,14
+Harrison,B102,Attorney General,,,Under Votes,4,0,4,0
+Harrison,B102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,B102,Auditor of Public Accounts,,REP,Allison BALL,79,13,61,5
+Harrison,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",74,18,47,9
+Harrison,B102,Auditor of Public Accounts,,,Total Votes,153,31,108,14
+Harrison,B102,Auditor of Public Accounts,,,Under Votes,6,2,4,0
+Harrison,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,B102,State Treasurer,,REP,Mark H. METCALF,62,11,48,3
+Harrison,B102,State Treasurer,,DEM,Michael BOWMAN,87,20,56,11
+Harrison,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,B102,State Treasurer,,,Total Votes,149,31,104,14
+Harrison,B102,State Treasurer,,,Under Votes,10,2,8,0
+Harrison,B102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,71,10,58,3
+Harrison,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,82,22,49,11
+Harrison,B102,Commissioner of Agriculture,,,Total Votes,153,32,107,14
+Harrison,B102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Harrison,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,B103,STRAIGHT PARTY,,,Republican,7,0,7,0
+Harrison,B103,STRAIGHT PARTY,,,Democratic,14,2,12,0
+Harrison,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",11,0,11,0
+Harrison,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,26,4,22,0
+Harrison,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,B103,Governor,,,Total Votes,37,4,33,0
+Harrison,B103,Governor,,,Under Votes,0,0,0,0
+Harrison,B103,Governor,,,Over Votes,0,0,0,0
+Harrison,B103,Secretary of State,,REP,Michael ADAMS,15,1,14,0
+Harrison,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",22,3,19,0
+Harrison,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,B103,Secretary of State,,,Total Votes,37,4,33,0
+Harrison,B103,Secretary of State,,,Under Votes,0,0,0,0
+Harrison,B103,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,B103,Attorney General,,REP,Russell COLEMAN,14,0,14,0
+Harrison,B103,Attorney General,,DEM,Pamela STEVENSON,23,4,19,0
+Harrison,B103,Attorney General,,,Total Votes,37,4,33,0
+Harrison,B103,Attorney General,,,Under Votes,0,0,0,0
+Harrison,B103,Attorney General,,,Over Votes,0,0,0,0
+Harrison,B103,Auditor of Public Accounts,,REP,Allison BALL,14,0,14,0
+Harrison,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",22,4,18,0
+Harrison,B103,Auditor of Public Accounts,,,Total Votes,36,4,32,0
+Harrison,B103,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Harrison,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,B103,State Treasurer,,REP,Mark H. METCALF,15,0,15,0
+Harrison,B103,State Treasurer,,DEM,Michael BOWMAN,22,4,18,0
+Harrison,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,B103,State Treasurer,,,Total Votes,37,4,33,0
+Harrison,B103,State Treasurer,,,Under Votes,0,0,0,0
+Harrison,B103,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,16,0,16,0
+Harrison,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,4,17,0
+Harrison,B103,Commissioner of Agriculture,,,Total Votes,37,4,33,0
+Harrison,B103,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Harrison,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,C101,STRAIGHT PARTY,,,Republican,114,12,100,2
+Harrison,C101,STRAIGHT PARTY,,,Democratic,66,15,46,5
+Harrison,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",207,21,178,8
+Harrison,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,39,119,12
+Harrison,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,C101,Governor,,,Total Votes,377,60,297,20
+Harrison,C101,Governor,,,Under Votes,2,0,1,1
+Harrison,C101,Governor,,,Over Votes,0,0,0,0
+Harrison,C101,Secretary of State,,REP,Michael ADAMS,257,32,213,12
+Harrison,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",112,25,80,7
+Harrison,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,C101,Secretary of State,,,Total Votes,369,57,293,19
+Harrison,C101,Secretary of State,,,Under Votes,10,3,5,2
+Harrison,C101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,C101,Attorney General,,REP,Russell COLEMAN,256,30,215,11
+Harrison,C101,Attorney General,,DEM,Pamela STEVENSON,115,27,78,10
+Harrison,C101,Attorney General,,,Total Votes,371,57,293,21
+Harrison,C101,Attorney General,,,Under Votes,8,3,5,0
+Harrison,C101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,C101,Auditor of Public Accounts,,REP,Allison BALL,260,31,219,10
+Harrison,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",106,26,71,9
+Harrison,C101,Auditor of Public Accounts,,,Total Votes,366,57,290,19
+Harrison,C101,Auditor of Public Accounts,,,Under Votes,13,3,8,2
+Harrison,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,C101,State Treasurer,,REP,Mark H. METCALF,241,31,199,11
+Harrison,C101,State Treasurer,,DEM,Michael BOWMAN,121,26,87,8
+Harrison,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,C101,State Treasurer,,,Total Votes,362,57,286,19
+Harrison,C101,State Treasurer,,,Under Votes,17,3,12,2
+Harrison,C101,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,255,33,214,8
+Harrison,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,113,24,77,12
+Harrison,C101,Commissioner of Agriculture,,,Total Votes,368,57,291,20
+Harrison,C101,Commissioner of Agriculture,,,Under Votes,11,3,7,1
+Harrison,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,C102,STRAIGHT PARTY,,,Republican,99,17,81,1
+Harrison,C102,STRAIGHT PARTY,,,Democratic,55,20,34,1
+Harrison,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",212,42,163,7
+Harrison,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,248,75,168,5
+Harrison,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,C102,Governor,,,Total Votes,460,117,331,12
+Harrison,C102,Governor,,,Under Votes,6,1,3,2
+Harrison,C102,Governor,,,Over Votes,0,0,0,0
+Harrison,C102,Secretary of State,,REP,Michael ADAMS,296,70,216,10
+Harrison,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",156,46,106,4
+Harrison,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,C102,Secretary of State,,,Total Votes,452,116,322,14
+Harrison,C102,Secretary of State,,,Under Votes,14,2,12,0
+Harrison,C102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,C102,Attorney General,,REP,Russell COLEMAN,288,63,214,11
+Harrison,C102,Attorney General,,DEM,Pamela STEVENSON,165,52,110,3
+Harrison,C102,Attorney General,,,Total Votes,453,115,324,14
+Harrison,C102,Attorney General,,,Under Votes,13,3,10,0
+Harrison,C102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,C102,Auditor of Public Accounts,,REP,Allison BALL,321,72,240,9
+Harrison,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",129,44,80,5
+Harrison,C102,Auditor of Public Accounts,,,Total Votes,450,116,320,14
+Harrison,C102,Auditor of Public Accounts,,,Under Votes,16,2,14,0
+Harrison,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,C102,State Treasurer,,REP,Mark H. METCALF,272,56,205,11
+Harrison,C102,State Treasurer,,DEM,Michael BOWMAN,174,56,115,3
+Harrison,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,C102,State Treasurer,,,Total Votes,446,112,320,14
+Harrison,C102,State Treasurer,,,Under Votes,20,6,14,0
+Harrison,C102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,299,62,226,11
+Harrison,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,152,54,95,3
+Harrison,C102,Commissioner of Agriculture,,,Total Votes,451,116,321,14
+Harrison,C102,Commissioner of Agriculture,,,Under Votes,15,2,13,0
+Harrison,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,D101,STRAIGHT PARTY,,,Republican,75,14,60,1
+Harrison,D101,STRAIGHT PARTY,,,Democratic,40,8,31,1
+Harrison,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",156,23,130,3
+Harrison,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,163,42,118,3
+Harrison,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,D101,Governor,,,Total Votes,319,65,248,6
+Harrison,D101,Governor,,,Under Votes,1,1,0,0
+Harrison,D101,Governor,,,Over Votes,0,0,0,0
+Harrison,D101,Secretary of State,,REP,Michael ADAMS,209,45,161,3
+Harrison,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",105,20,82,3
+Harrison,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,D101,Secretary of State,,,Total Votes,314,65,243,6
+Harrison,D101,Secretary of State,,,Under Votes,6,1,5,0
+Harrison,D101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,D101,Attorney General,,REP,Russell COLEMAN,213,37,173,3
+Harrison,D101,Attorney General,,DEM,Pamela STEVENSON,101,28,70,3
+Harrison,D101,Attorney General,,,Total Votes,314,65,243,6
+Harrison,D101,Attorney General,,,Under Votes,6,1,5,0
+Harrison,D101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,D101,Auditor of Public Accounts,,REP,Allison BALL,219,42,173,4
+Harrison,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",94,23,69,2
+Harrison,D101,Auditor of Public Accounts,,,Total Votes,313,65,242,6
+Harrison,D101,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Harrison,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,D101,State Treasurer,,REP,Mark H. METCALF,196,35,157,4
+Harrison,D101,State Treasurer,,DEM,Michael BOWMAN,116,28,86,2
+Harrison,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,D101,State Treasurer,,,Total Votes,312,63,243,6
+Harrison,D101,State Treasurer,,,Under Votes,8,3,5,0
+Harrison,D101,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,205,38,163,4
+Harrison,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,105,25,78,2
+Harrison,D101,Commissioner of Agriculture,,,Total Votes,310,63,241,6
+Harrison,D101,Commissioner of Agriculture,,,Under Votes,10,3,7,0
+Harrison,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,D102,STRAIGHT PARTY,,,Republican,176,30,138,8
+Harrison,D102,STRAIGHT PARTY,,,Democratic,60,11,41,8
+Harrison,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",279,51,216,12
+Harrison,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,211,50,148,13
+Harrison,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,D102,Governor,,,Total Votes,490,101,364,25
+Harrison,D102,Governor,,,Under Votes,2,2,0,0
+Harrison,D102,Governor,,,Over Votes,0,0,0,0
+Harrison,D102,Secretary of State,,REP,Michael ADAMS,362,73,273,16
+Harrison,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",118,28,81,9
+Harrison,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,D102,Secretary of State,,,Total Votes,480,101,354,25
+Harrison,D102,Secretary of State,,,Under Votes,12,2,10,0
+Harrison,D102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,D102,Attorney General,,REP,Russell COLEMAN,344,65,266,13
+Harrison,D102,Attorney General,,DEM,Pamela STEVENSON,133,33,88,12
+Harrison,D102,Attorney General,,,Total Votes,477,98,354,25
+Harrison,D102,Attorney General,,,Under Votes,15,5,10,0
+Harrison,D102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,D102,Auditor of Public Accounts,,REP,Allison BALL,360,72,273,15
+Harrison,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",115,29,76,10
+Harrison,D102,Auditor of Public Accounts,,,Total Votes,475,101,349,25
+Harrison,D102,Auditor of Public Accounts,,,Under Votes,17,2,15,0
+Harrison,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,D102,State Treasurer,,REP,Mark H. METCALF,328,63,254,11
+Harrison,D102,State Treasurer,,DEM,Michael BOWMAN,146,37,95,14
+Harrison,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,D102,State Treasurer,,,Total Votes,474,100,349,25
+Harrison,D102,State Treasurer,,,Under Votes,18,3,15,0
+Harrison,D102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,349,70,267,12
+Harrison,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,126,31,82,13
+Harrison,D102,Commissioner of Agriculture,,,Total Votes,475,101,349,25
+Harrison,D102,Commissioner of Agriculture,,,Under Votes,17,2,15,0
+Harrison,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,D103,STRAIGHT PARTY,,,Republican,18,3,15,0
+Harrison,D103,STRAIGHT PARTY,,,Democratic,19,4,15,0
+Harrison,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",33,4,29,0
+Harrison,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,61,9,51,1
+Harrison,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,D103,Governor,,,Total Votes,94,13,80,1
+Harrison,D103,Governor,,,Under Votes,1,0,1,0
+Harrison,D103,Governor,,,Over Votes,0,0,0,0
+Harrison,D103,Secretary of State,,REP,Michael ADAMS,47,8,39,0
+Harrison,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,5,39,1
+Harrison,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,D103,Secretary of State,,,Total Votes,92,13,78,1
+Harrison,D103,Secretary of State,,,Under Votes,3,0,3,0
+Harrison,D103,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,D103,Attorney General,,REP,Russell COLEMAN,45,5,40,0
+Harrison,D103,Attorney General,,DEM,Pamela STEVENSON,48,8,39,1
+Harrison,D103,Attorney General,,,Total Votes,93,13,79,1
+Harrison,D103,Attorney General,,,Under Votes,2,0,2,0
+Harrison,D103,Attorney General,,,Over Votes,0,0,0,0
+Harrison,D103,Auditor of Public Accounts,,REP,Allison BALL,47,5,42,0
+Harrison,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,7,35,1
+Harrison,D103,Auditor of Public Accounts,,,Total Votes,90,12,77,1
+Harrison,D103,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Harrison,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,D103,State Treasurer,,REP,Mark H. METCALF,43,5,38,0
+Harrison,D103,State Treasurer,,DEM,Michael BOWMAN,46,8,37,1
+Harrison,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,D103,State Treasurer,,,Total Votes,89,13,75,1
+Harrison,D103,State Treasurer,,,Under Votes,6,0,6,0
+Harrison,D103,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,46,6,40,0
+Harrison,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,7,36,1
+Harrison,D103,Commissioner of Agriculture,,,Total Votes,90,13,76,1
+Harrison,D103,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Harrison,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,E101,STRAIGHT PARTY,,,Republican,90,5,84,1
+Harrison,E101,STRAIGHT PARTY,,,Democratic,49,7,37,5
+Harrison,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",149,12,134,3
+Harrison,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,180,36,131,13
+Harrison,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,E101,Governor,,,Total Votes,329,48,265,16
+Harrison,E101,Governor,,,Under Votes,0,0,0,0
+Harrison,E101,Governor,,,Over Votes,0,0,0,0
+Harrison,E101,Secretary of State,,REP,Michael ADAMS,203,27,170,6
+Harrison,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",114,19,85,10
+Harrison,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,E101,Secretary of State,,,Total Votes,317,46,255,16
+Harrison,E101,Secretary of State,,,Under Votes,12,2,10,0
+Harrison,E101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,E101,Attorney General,,REP,Russell COLEMAN,208,21,182,5
+Harrison,E101,Attorney General,,DEM,Pamela STEVENSON,104,20,74,10
+Harrison,E101,Attorney General,,,Total Votes,312,41,256,15
+Harrison,E101,Attorney General,,,Under Votes,17,7,9,1
+Harrison,E101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,E101,Auditor of Public Accounts,,REP,Allison BALL,217,24,188,5
+Harrison,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",97,19,68,10
+Harrison,E101,Auditor of Public Accounts,,,Total Votes,314,43,256,15
+Harrison,E101,Auditor of Public Accounts,,,Under Votes,15,5,9,1
+Harrison,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,E101,State Treasurer,,REP,Mark H. METCALF,191,21,167,3
+Harrison,E101,State Treasurer,,DEM,Michael BOWMAN,122,22,88,12
+Harrison,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,E101,State Treasurer,,,Total Votes,313,43,255,15
+Harrison,E101,State Treasurer,,,Under Votes,16,5,10,1
+Harrison,E101,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,212,21,186,5
+Harrison,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,100,20,70,10
+Harrison,E101,Commissioner of Agriculture,,,Total Votes,312,41,256,15
+Harrison,E101,Commissioner of Agriculture,,,Under Votes,17,7,9,1
+Harrison,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,E102,STRAIGHT PARTY,,,Republican,102,21,78,3
+Harrison,E102,STRAIGHT PARTY,,,Democratic,59,18,36,5
+Harrison,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",189,42,141,6
+Harrison,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,183,43,130,10
+Harrison,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,E102,Governor,,,Total Votes,372,85,271,16
+Harrison,E102,Governor,,,Under Votes,3,0,3,0
+Harrison,E102,Governor,,,Over Votes,0,0,0,0
+Harrison,E102,Secretary of State,,REP,Michael ADAMS,243,48,190,5
+Harrison,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,33,79,11
+Harrison,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,E102,Secretary of State,,,Total Votes,366,81,269,16
+Harrison,E102,Secretary of State,,,Under Votes,8,3,5,0
+Harrison,E102,Secretary of State,,,Over Votes,1,1,0,0
+Harrison,E102,Attorney General,,REP,Russell COLEMAN,248,53,190,5
+Harrison,E102,Attorney General,,DEM,Pamela STEVENSON,121,30,80,11
+Harrison,E102,Attorney General,,,Total Votes,369,83,270,16
+Harrison,E102,Attorney General,,,Under Votes,6,2,4,0
+Harrison,E102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,E102,Auditor of Public Accounts,,REP,Allison BALL,253,51,195,7
+Harrison,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",113,32,72,9
+Harrison,E102,Auditor of Public Accounts,,,Total Votes,366,83,267,16
+Harrison,E102,Auditor of Public Accounts,,,Under Votes,9,2,7,0
+Harrison,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,E102,State Treasurer,,REP,Mark H. METCALF,237,46,187,4
+Harrison,E102,State Treasurer,,DEM,Michael BOWMAN,129,36,81,12
+Harrison,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,E102,State Treasurer,,,Total Votes,366,82,268,16
+Harrison,E102,State Treasurer,,,Under Votes,9,3,6,0
+Harrison,E102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,257,57,192,8
+Harrison,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,115,28,79,8
+Harrison,E102,Commissioner of Agriculture,,,Total Votes,372,85,271,16
+Harrison,E102,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Harrison,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,F101,STRAIGHT PARTY,,,Republican,115,11,100,4
+Harrison,F101,STRAIGHT PARTY,,,Democratic,43,8,28,7
+Harrison,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",195,24,165,6
+Harrison,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,191,44,139,8
+Harrison,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,F101,Governor,,,Total Votes,386,68,304,14
+Harrison,F101,Governor,,,Under Votes,3,0,3,0
+Harrison,F101,Governor,,,Over Votes,0,0,0,0
+Harrison,F101,Secretary of State,,REP,Michael ADAMS,266,46,214,6
+Harrison,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",113,19,86,8
+Harrison,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,F101,Secretary of State,,,Total Votes,379,65,300,14
+Harrison,F101,Secretary of State,,,Under Votes,10,3,7,0
+Harrison,F101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,F101,Attorney General,,REP,Russell COLEMAN,264,42,215,7
+Harrison,F101,Attorney General,,DEM,Pamela STEVENSON,112,22,83,7
+Harrison,F101,Attorney General,,,Total Votes,376,64,298,14
+Harrison,F101,Attorney General,,,Under Votes,12,4,8,0
+Harrison,F101,Attorney General,,,Over Votes,1,0,1,0
+Harrison,F101,Auditor of Public Accounts,,REP,Allison BALL,273,41,225,7
+Harrison,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,25,77,7
+Harrison,F101,Auditor of Public Accounts,,,Total Votes,382,66,302,14
+Harrison,F101,Auditor of Public Accounts,,,Under Votes,7,2,5,0
+Harrison,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,F101,State Treasurer,,REP,Mark H. METCALF,246,40,199,7
+Harrison,F101,State Treasurer,,DEM,Michael BOWMAN,131,24,100,7
+Harrison,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,F101,State Treasurer,,,Total Votes,377,64,299,14
+Harrison,F101,State Treasurer,,,Under Votes,12,4,8,0
+Harrison,F101,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,277,43,227,7
+Harrison,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,103,22,74,7
+Harrison,F101,Commissioner of Agriculture,,,Total Votes,380,65,301,14
+Harrison,F101,Commissioner of Agriculture,,,Under Votes,9,3,6,0
+Harrison,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,F102,STRAIGHT PARTY,,,Republican,141,19,117,5
+Harrison,F102,STRAIGHT PARTY,,,Democratic,64,11,45,8
+Harrison,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",233,27,201,5
+Harrison,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,207,40,149,18
+Harrison,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,F102,Governor,,,Total Votes,440,67,350,23
+Harrison,F102,Governor,,,Under Votes,2,0,2,0
+Harrison,F102,Governor,,,Over Votes,0,0,0,0
+Harrison,F102,Secretary of State,,REP,Michael ADAMS,301,44,247,10
+Harrison,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",136,23,100,13
+Harrison,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,F102,Secretary of State,,,Total Votes,437,67,347,23
+Harrison,F102,Secretary of State,,,Under Votes,5,0,5,0
+Harrison,F102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,F102,Attorney General,,REP,Russell COLEMAN,291,41,243,7
+Harrison,F102,Attorney General,,DEM,Pamela STEVENSON,144,25,103,16
+Harrison,F102,Attorney General,,,Total Votes,435,66,346,23
+Harrison,F102,Attorney General,,,Under Votes,7,1,6,0
+Harrison,F102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,F102,Auditor of Public Accounts,,REP,Allison BALL,307,43,254,10
+Harrison,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",127,23,92,12
+Harrison,F102,Auditor of Public Accounts,,,Total Votes,434,66,346,22
+Harrison,F102,Auditor of Public Accounts,,,Under Votes,8,1,6,1
+Harrison,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,F102,State Treasurer,,REP,Mark H. METCALF,280,41,230,9
+Harrison,F102,State Treasurer,,DEM,Michael BOWMAN,149,25,112,12
+Harrison,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,F102,State Treasurer,,,Total Votes,429,66,342,21
+Harrison,F102,State Treasurer,,,Under Votes,13,1,10,2
+Harrison,F102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,300,43,248,9
+Harrison,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,132,24,95,13
+Harrison,F102,Commissioner of Agriculture,,,Total Votes,432,67,343,22
+Harrison,F102,Commissioner of Agriculture,,,Under Votes,10,0,9,1
+Harrison,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,G101,STRAIGHT PARTY,,,Republican,156,21,133,2
+Harrison,G101,STRAIGHT PARTY,,,Democratic,51,11,31,9
+Harrison,G101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",260,33,221,6
+Harrison,G101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,142,31,100,11
+Harrison,G101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,G101,Governor,,,Total Votes,402,64,321,17
+Harrison,G101,Governor,,,Under Votes,2,0,2,0
+Harrison,G101,Governor,,,Over Votes,0,0,0,0
+Harrison,G101,Secretary of State,,REP,Michael ADAMS,304,45,252,7
+Harrison,G101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,18,67,9
+Harrison,G101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,G101,Secretary of State,,,Total Votes,398,63,319,16
+Harrison,G101,Secretary of State,,,Under Votes,6,1,4,1
+Harrison,G101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,G101,Attorney General,,REP,Russell COLEMAN,299,40,254,5
+Harrison,G101,Attorney General,,DEM,Pamela STEVENSON,102,23,67,12
+Harrison,G101,Attorney General,,,Total Votes,401,63,321,17
+Harrison,G101,Attorney General,,,Under Votes,3,1,2,0
+Harrison,G101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,G101,Auditor of Public Accounts,,REP,Allison BALL,311,44,261,6
+Harrison,G101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",87,19,59,9
+Harrison,G101,Auditor of Public Accounts,,,Total Votes,398,63,320,15
+Harrison,G101,Auditor of Public Accounts,,,Under Votes,6,1,3,2
+Harrison,G101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,G101,State Treasurer,,REP,Mark H. METCALF,295,42,247,6
+Harrison,G101,State Treasurer,,DEM,Michael BOWMAN,103,21,72,10
+Harrison,G101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,G101,State Treasurer,,,Total Votes,398,63,319,16
+Harrison,G101,State Treasurer,,,Under Votes,5,1,3,1
+Harrison,G101,State Treasurer,,,Over Votes,1,0,1,0
+Harrison,G101,Commissioner of Agriculture,,REP,Jonathan SHELL,303,43,255,5
+Harrison,G101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,94,19,63,12
+Harrison,G101,Commissioner of Agriculture,,,Total Votes,397,62,318,17
+Harrison,G101,Commissioner of Agriculture,,,Under Votes,7,2,5,0
+Harrison,G101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,G102,STRAIGHT PARTY,,,Republican,82,12,65,5
+Harrison,G102,STRAIGHT PARTY,,,Democratic,36,6,30,0
+Harrison,G102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",137,15,115,7
+Harrison,G102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,18,74,3
+Harrison,G102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,G102,Governor,,,Total Votes,232,33,189,10
+Harrison,G102,Governor,,,Under Votes,2,0,2,0
+Harrison,G102,Governor,,,Over Votes,0,0,0,0
+Harrison,G102,Secretary of State,,REP,Michael ADAMS,170,19,142,9
+Harrison,G102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",61,13,47,1
+Harrison,G102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,G102,Secretary of State,,,Total Votes,231,32,189,10
+Harrison,G102,Secretary of State,,,Under Votes,3,1,2,0
+Harrison,G102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,G102,Attorney General,,REP,Russell COLEMAN,168,17,144,7
+Harrison,G102,Attorney General,,DEM,Pamela STEVENSON,63,15,46,2
+Harrison,G102,Attorney General,,,Total Votes,231,32,190,9
+Harrison,G102,Attorney General,,,Under Votes,3,1,1,1
+Harrison,G102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,G102,Auditor of Public Accounts,,REP,Allison BALL,168,18,143,7
+Harrison,G102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",62,14,46,2
+Harrison,G102,Auditor of Public Accounts,,,Total Votes,230,32,189,9
+Harrison,G102,Auditor of Public Accounts,,,Under Votes,4,1,2,1
+Harrison,G102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,G102,State Treasurer,,REP,Mark H. METCALF,158,16,135,7
+Harrison,G102,State Treasurer,,DEM,Michael BOWMAN,70,15,53,2
+Harrison,G102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,G102,State Treasurer,,,Total Votes,228,31,188,9
+Harrison,G102,State Treasurer,,,Under Votes,6,2,3,1
+Harrison,G102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,G102,Commissioner of Agriculture,,REP,Jonathan SHELL,169,17,145,7
+Harrison,G102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,59,14,43,2
+Harrison,G102,Commissioner of Agriculture,,,Total Votes,228,31,188,9
+Harrison,G102,Commissioner of Agriculture,,,Under Votes,6,2,3,1
+Harrison,G102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,H101,STRAIGHT PARTY,,,Republican,145,7,138,0
+Harrison,H101,STRAIGHT PARTY,,,Democratic,34,5,25,4
+Harrison,H101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",247,23,221,3
+Harrison,H101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,124,15,104,5
+Harrison,H101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,H101,Governor,,,Total Votes,371,38,325,8
+Harrison,H101,Governor,,,Under Votes,0,0,0,0
+Harrison,H101,Governor,,,Over Votes,0,0,0,0
+Harrison,H101,Secretary of State,,REP,Michael ADAMS,276,24,249,3
+Harrison,H101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",89,12,72,5
+Harrison,H101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,H101,Secretary of State,,,Total Votes,365,36,321,8
+Harrison,H101,Secretary of State,,,Under Votes,6,2,4,0
+Harrison,H101,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,H101,Attorney General,,REP,Russell COLEMAN,286,24,259,3
+Harrison,H101,Attorney General,,DEM,Pamela STEVENSON,79,11,64,4
+Harrison,H101,Attorney General,,,Total Votes,365,35,323,7
+Harrison,H101,Attorney General,,,Under Votes,6,3,2,1
+Harrison,H101,Attorney General,,,Over Votes,0,0,0,0
+Harrison,H101,Auditor of Public Accounts,,REP,Allison BALL,293,26,264,3
+Harrison,H101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",70,9,57,4
+Harrison,H101,Auditor of Public Accounts,,,Total Votes,363,35,321,7
+Harrison,H101,Auditor of Public Accounts,,,Under Votes,8,3,4,1
+Harrison,H101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,H101,State Treasurer,,REP,Mark H. METCALF,271,26,242,3
+Harrison,H101,State Treasurer,,DEM,Michael BOWMAN,84,9,71,4
+Harrison,H101,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,H101,State Treasurer,,,Total Votes,355,35,313,7
+Harrison,H101,State Treasurer,,,Under Votes,15,3,11,1
+Harrison,H101,State Treasurer,,,Over Votes,1,0,1,0
+Harrison,H101,Commissioner of Agriculture,,REP,Jonathan SHELL,283,24,256,3
+Harrison,H101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,79,12,63,4
+Harrison,H101,Commissioner of Agriculture,,,Total Votes,362,36,319,7
+Harrison,H101,Commissioner of Agriculture,,,Under Votes,9,2,6,1
+Harrison,H101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Harrison,H102,STRAIGHT PARTY,,,Republican,94,13,78,3
+Harrison,H102,STRAIGHT PARTY,,,Democratic,39,11,27,1
+Harrison,H102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,19,129,4
+Harrison,H102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,110,25,77,8
+Harrison,H102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Harrison,H102,Governor,,,Total Votes,262,44,206,12
+Harrison,H102,Governor,,,Under Votes,2,2,0,0
+Harrison,H102,Governor,,,Over Votes,0,0,0,0
+Harrison,H102,Secretary of State,,REP,Michael ADAMS,181,25,149,7
+Harrison,H102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",74,19,51,4
+Harrison,H102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Harrison,H102,Secretary of State,,,Total Votes,255,44,200,11
+Harrison,H102,Secretary of State,,,Under Votes,9,2,6,1
+Harrison,H102,Secretary of State,,,Over Votes,0,0,0,0
+Harrison,H102,Attorney General,,REP,Russell COLEMAN,179,23,150,6
+Harrison,H102,Attorney General,,DEM,Pamela STEVENSON,76,20,50,6
+Harrison,H102,Attorney General,,,Total Votes,255,43,200,12
+Harrison,H102,Attorney General,,,Under Votes,9,3,6,0
+Harrison,H102,Attorney General,,,Over Votes,0,0,0,0
+Harrison,H102,Auditor of Public Accounts,,REP,Allison BALL,181,24,150,7
+Harrison,H102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",74,20,49,5
+Harrison,H102,Auditor of Public Accounts,,,Total Votes,255,44,199,12
+Harrison,H102,Auditor of Public Accounts,,,Under Votes,9,2,7,0
+Harrison,H102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Harrison,H102,State Treasurer,,REP,Mark H. METCALF,172,22,144,6
+Harrison,H102,State Treasurer,,DEM,Michael BOWMAN,81,20,55,6
+Harrison,H102,State Treasurer,,,Robert Perry,0,0,0,0
+Harrison,H102,State Treasurer,,,Total Votes,253,42,199,12
+Harrison,H102,State Treasurer,,,Under Votes,11,4,7,0
+Harrison,H102,State Treasurer,,,Over Votes,0,0,0,0
+Harrison,H102,Commissioner of Agriculture,,REP,Jonathan SHELL,185,23,155,7
+Harrison,H102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,20,43,5
+Harrison,H102,Commissioner of Agriculture,,,Total Votes,253,43,198,12
+Harrison,H102,Commissioner of Agriculture,,,Under Votes,10,3,7,0
+Harrison,H102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
