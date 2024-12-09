@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Cumberland,A101,STRAIGHT PARTY,,,Republican,104,25,72,7
 Cumberland,A101,STRAIGHT PARTY,,,Democratic,22,8,13,1
-Cumberland,A101,Governor,,REP,Daniel CAMERON,151,41,101,9
-Cumberland,A101,Governor,,DEM,Andy BESHEAR,79,22,49,8
-Cumberland,A101,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",151,41,101,9
+Cumberland,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,79,22,49,8
+Cumberland,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,A101,Governor,,,Total Votes,230,63,150,17
 Cumberland,A101,Governor,,,Under Votes,1,0,1,0
 Cumberland,A101,Governor,,,Over Votes,0,0,0,0
 Cumberland,A101,Secretary of State,,REP,Michael ADAMS,177,49,115,13
 Cumberland,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,11,27,2
-Cumberland,A101,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,A101,Secretary of State,,,Total Votes,217,60,142,15
 Cumberland,A101,Secretary of State,,,Under Votes,14,3,9,2
 Cumberland,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Cumberland,A101,Auditor of Public Accounts,,,Under Votes,15,3,10,2
 Cumberland,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,A101,State Treasurer,,REP,Mark H. METCALF,179,50,116,13
 Cumberland,A101,State Treasurer,,DEM,Michael BOWMAN,41,11,26,4
-Cumberland,A101,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,A101,State Treasurer,,,Total Votes,220,61,142,17
 Cumberland,A101,State Treasurer,,,Under Votes,11,2,9,0
 Cumberland,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Cumberland,A101,Commissioner of Agriculture,,,Under Votes,10,3,7,0
 Cumberland,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,A102,STRAIGHT PARTY,,,Republican,153,15,133,5
 Cumberland,A102,STRAIGHT PARTY,,,Democratic,20,8,8,4
-Cumberland,A102,Governor,,REP,Daniel CAMERON,241,26,210,5
-Cumberland,A102,Governor,,DEM,Andy BESHEAR,67,20,41,6
-Cumberland,A102,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",241,26,210,5
+Cumberland,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,20,41,6
+Cumberland,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,A102,Governor,,,Total Votes,308,46,251,11
 Cumberland,A102,Governor,,,Under Votes,1,1,0,0
 Cumberland,A102,Governor,,,Over Votes,0,0,0,0
 Cumberland,A102,Secretary of State,,REP,Michael ADAMS,263,30,226,7
 Cumberland,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,16,16,4
-Cumberland,A102,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,A102,Secretary of State,,,Total Votes,299,46,242,11
 Cumberland,A102,Secretary of State,,,Under Votes,10,1,9,0
 Cumberland,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Cumberland,A102,Auditor of Public Accounts,,,Under Votes,7,1,6,0
 Cumberland,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,A102,State Treasurer,,REP,Mark H. METCALF,256,29,221,6
 Cumberland,A102,State Treasurer,,DEM,Michael BOWMAN,41,17,19,5
-Cumberland,A102,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,A102,State Treasurer,,,Total Votes,297,46,240,11
 Cumberland,A102,State Treasurer,,,Under Votes,12,1,11,0
 Cumberland,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Cumberland,A102,Commissioner of Agriculture,,,Under Votes,12,1,11,0
 Cumberland,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,B101,STRAIGHT PARTY,,,Republican,62,5,50,7
 Cumberland,B101,STRAIGHT PARTY,,,Democratic,7,3,4,0
-Cumberland,B101,Governor,,REP,Daniel CAMERON,88,9,71,8
-Cumberland,B101,Governor,,DEM,Andy BESHEAR,39,7,23,9
-Cumberland,B101,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",88,9,71,8
+Cumberland,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,39,7,23,9
+Cumberland,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,B101,Governor,,,Total Votes,127,16,94,17
 Cumberland,B101,Governor,,,Under Votes,0,0,0,0
 Cumberland,B101,Governor,,,Over Votes,0,0,0,0
 Cumberland,B101,Secretary of State,,REP,Michael ADAMS,99,9,78,12
 Cumberland,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",25,7,13,5
-Cumberland,B101,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,B101,Secretary of State,,,Total Votes,124,16,91,17
 Cumberland,B101,Secretary of State,,,Under Votes,3,0,3,0
 Cumberland,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Cumberland,B101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Cumberland,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,B101,State Treasurer,,REP,Mark H. METCALF,102,10,81,11
 Cumberland,B101,State Treasurer,,DEM,Michael BOWMAN,24,6,12,6
-Cumberland,B101,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,B101,State Treasurer,,,Total Votes,126,16,93,17
 Cumberland,B101,State Treasurer,,,Under Votes,1,0,1,0
 Cumberland,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Cumberland,B101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Cumberland,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,B102,STRAIGHT PARTY,,,Republican,79,12,67,0
 Cumberland,B102,STRAIGHT PARTY,,,Democratic,8,2,6,0
-Cumberland,B102,Governor,,REP,Daniel CAMERON,104,18,86,0
-Cumberland,B102,Governor,,DEM,Andy BESHEAR,29,8,20,1
-Cumberland,B102,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",104,18,86,0
+Cumberland,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,29,8,20,1
+Cumberland,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,B102,Governor,,,Total Votes,133,26,106,1
 Cumberland,B102,Governor,,,Under Votes,0,0,0,0
 Cumberland,B102,Governor,,,Over Votes,0,0,0,0
 Cumberland,B102,Secretary of State,,REP,Michael ADAMS,114,22,91,1
 Cumberland,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",14,3,11,0
-Cumberland,B102,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,B102,Secretary of State,,,Total Votes,128,25,102,1
 Cumberland,B102,Secretary of State,,,Under Votes,4,0,4,0
 Cumberland,B102,Secretary of State,,,Over Votes,1,1,0,0
@@ -130,7 +130,7 @@ Cumberland,B102,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Cumberland,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,B102,State Treasurer,,REP,Mark H. METCALF,115,22,93,0
 Cumberland,B102,State Treasurer,,DEM,Michael BOWMAN,16,4,11,1
-Cumberland,B102,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,B102,State Treasurer,,,Total Votes,131,26,104,1
 Cumberland,B102,State Treasurer,,,Under Votes,2,0,2,0
 Cumberland,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Cumberland,B102,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Cumberland,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,B103,STRAIGHT PARTY,,,Republican,83,24,54,5
 Cumberland,B103,STRAIGHT PARTY,,,Democratic,14,2,12,0
-Cumberland,B103,Governor,,REP,Daniel CAMERON,134,33,96,5
-Cumberland,B103,Governor,,DEM,Andy BESHEAR,46,3,36,7
-Cumberland,B103,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",134,33,96,5
+Cumberland,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,46,3,36,7
+Cumberland,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,B103,Governor,,,Total Votes,180,36,132,12
 Cumberland,B103,Governor,,,Under Votes,2,2,0,0
 Cumberland,B103,Governor,,,Over Votes,0,0,0,0
 Cumberland,B103,Secretary of State,,REP,Michael ADAMS,151,36,108,7
 Cumberland,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",28,2,21,5
-Cumberland,B103,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,B103,Secretary of State,,,Total Votes,179,38,129,12
 Cumberland,B103,Secretary of State,,,Under Votes,3,0,3,0
 Cumberland,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Cumberland,B103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Cumberland,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,B103,State Treasurer,,REP,Mark H. METCALF,153,36,111,6
 Cumberland,B103,State Treasurer,,DEM,Michael BOWMAN,26,2,18,6
-Cumberland,B103,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,B103,State Treasurer,,,Total Votes,179,38,129,12
 Cumberland,B103,State Treasurer,,,Under Votes,3,0,3,0
 Cumberland,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Cumberland,B103,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Cumberland,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,C101,STRAIGHT PARTY,,,Republican,122,18,100,4
 Cumberland,C101,STRAIGHT PARTY,,,Democratic,12,4,5,3
-Cumberland,C101,Governor,,REP,Daniel CAMERON,170,28,136,6
-Cumberland,C101,Governor,,DEM,Andy BESHEAR,45,18,24,3
-Cumberland,C101,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",170,28,136,6
+Cumberland,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,45,18,24,3
+Cumberland,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,C101,Governor,,,Total Votes,215,46,160,9
 Cumberland,C101,Governor,,,Under Votes,2,2,0,0
 Cumberland,C101,Governor,,,Over Votes,0,0,0,0
 Cumberland,C101,Secretary of State,,REP,Michael ADAMS,188,36,146,6
 Cumberland,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",24,10,11,3
-Cumberland,C101,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,C101,Secretary of State,,,Total Votes,212,46,157,9
 Cumberland,C101,Secretary of State,,,Under Votes,5,2,3,0
 Cumberland,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Cumberland,C101,Auditor of Public Accounts,,,Under Votes,11,3,8,0
 Cumberland,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,C101,State Treasurer,,REP,Mark H. METCALF,175,32,137,6
 Cumberland,C101,State Treasurer,,DEM,Michael BOWMAN,30,13,14,3
-Cumberland,C101,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,C101,State Treasurer,,,Total Votes,205,45,151,9
 Cumberland,C101,State Treasurer,,,Under Votes,12,3,9,0
 Cumberland,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Cumberland,C101,Commissioner of Agriculture,,,Under Votes,11,4,7,0
 Cumberland,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,C102,STRAIGHT PARTY,,,Republican,121,14,106,1
 Cumberland,C102,STRAIGHT PARTY,,,Democratic,28,8,19,1
-Cumberland,C102,Governor,,REP,Daniel CAMERON,160,18,141,1
-Cumberland,C102,Governor,,DEM,Andy BESHEAR,66,15,49,2
-Cumberland,C102,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",160,18,141,1
+Cumberland,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,66,15,49,2
+Cumberland,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,C102,Governor,,,Total Votes,226,33,190,3
 Cumberland,C102,Governor,,,Under Votes,0,0,0,0
 Cumberland,C102,Governor,,,Over Votes,0,0,0,0
 Cumberland,C102,Secretary of State,,REP,Michael ADAMS,167,21,144,2
 Cumberland,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,11,33,1
-Cumberland,C102,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,C102,Secretary of State,,,Total Votes,212,32,177,3
 Cumberland,C102,Secretary of State,,,Under Votes,13,1,12,0
 Cumberland,C102,Secretary of State,,,Over Votes,1,0,1,0
@@ -235,7 +235,7 @@ Cumberland,C102,Auditor of Public Accounts,,,Under Votes,13,2,11,0
 Cumberland,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,C102,State Treasurer,,REP,Mark H. METCALF,165,20,144,1
 Cumberland,C102,State Treasurer,,DEM,Michael BOWMAN,48,11,35,2
-Cumberland,C102,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,C102,State Treasurer,,,Total Votes,213,31,179,3
 Cumberland,C102,State Treasurer,,,Under Votes,13,2,11,0
 Cumberland,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Cumberland,C102,Commissioner of Agriculture,,,Under Votes,12,2,10,0
 Cumberland,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,C103,STRAIGHT PARTY,,,Republican,21,6,15,0
 Cumberland,C103,STRAIGHT PARTY,,,Democratic,8,0,8,0
-Cumberland,C103,Governor,,REP,Daniel CAMERON,27,8,18,1
-Cumberland,C103,Governor,,DEM,Andy BESHEAR,15,0,15,0
-Cumberland,C103,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",27,8,18,1
+Cumberland,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,15,0,15,0
+Cumberland,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,C103,Governor,,,Total Votes,42,8,33,1
 Cumberland,C103,Governor,,,Under Votes,0,0,0,0
 Cumberland,C103,Governor,,,Over Votes,0,0,0,0
 Cumberland,C103,Secretary of State,,REP,Michael ADAMS,27,8,18,1
 Cumberland,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",14,0,14,0
-Cumberland,C103,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,C103,Secretary of State,,,Total Votes,41,8,32,1
 Cumberland,C103,Secretary of State,,,Under Votes,1,0,1,0
 Cumberland,C103,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Cumberland,C103,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Cumberland,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,C103,State Treasurer,,REP,Mark H. METCALF,26,8,17,1
 Cumberland,C103,State Treasurer,,DEM,Michael BOWMAN,14,0,14,0
-Cumberland,C103,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,C103,State Treasurer,,,Total Votes,40,8,31,1
 Cumberland,C103,State Treasurer,,,Under Votes,2,0,2,0
 Cumberland,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Cumberland,C103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Cumberland,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,D101,STRAIGHT PARTY,,,Republican,127,8,111,8
 Cumberland,D101,STRAIGHT PARTY,,,Democratic,12,2,10,0
-Cumberland,D101,Governor,,REP,Daniel CAMERON,184,17,159,8
-Cumberland,D101,Governor,,DEM,Andy BESHEAR,57,7,47,3
-Cumberland,D101,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",184,17,159,8
+Cumberland,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,57,7,47,3
+Cumberland,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,D101,Governor,,,Total Votes,241,24,206,11
 Cumberland,D101,Governor,,,Under Votes,0,0,0,0
 Cumberland,D101,Governor,,,Over Votes,0,0,0,0
 Cumberland,D101,Secretary of State,,REP,Michael ADAMS,200,20,170,10
 Cumberland,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,4,31,1
-Cumberland,D101,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,D101,Secretary of State,,,Total Votes,236,24,201,11
 Cumberland,D101,Secretary of State,,,Under Votes,5,0,5,0
 Cumberland,D101,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Cumberland,D101,Auditor of Public Accounts,,,Under Votes,5,0,5,0
 Cumberland,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,D101,State Treasurer,,REP,Mark H. METCALF,199,20,170,9
 Cumberland,D101,State Treasurer,,DEM,Michael BOWMAN,36,4,30,2
-Cumberland,D101,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,D101,State Treasurer,,,Total Votes,235,24,200,11
 Cumberland,D101,State Treasurer,,,Under Votes,6,0,6,0
 Cumberland,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Cumberland,D101,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Cumberland,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Cumberland,D102,STRAIGHT PARTY,,,Republican,111,9,102,0
 Cumberland,D102,STRAIGHT PARTY,,,Democratic,25,1,22,2
-Cumberland,D102,Governor,,REP,Daniel CAMERON,141,12,129,0
-Cumberland,D102,Governor,,DEM,Andy BESHEAR,60,4,54,2
-Cumberland,D102,Governor,,,BRIAN FISHBACK (W),0,0,0,0
+Cumberland,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",141,12,129,0
+Cumberland,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,60,4,54,2
+Cumberland,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Cumberland,D102,Governor,,,Total Votes,201,16,183,2
 Cumberland,D102,Governor,,,Under Votes,2,0,2,0
 Cumberland,D102,Governor,,,Over Votes,0,0,0,0
 Cumberland,D102,Secretary of State,,REP,Michael ADAMS,160,14,146,0
 Cumberland,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,2,36,2
-Cumberland,D102,Secretary of State,,,KENNETH C. MOELLMAN (W),0,0,0,0
+Cumberland,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Cumberland,D102,Secretary of State,,,Total Votes,200,16,182,2
 Cumberland,D102,Secretary of State,,,Under Votes,3,0,3,0
 Cumberland,D102,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Cumberland,D102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
 Cumberland,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Cumberland,D102,State Treasurer,,REP,Mark H. METCALF,160,15,145,0
 Cumberland,D102,State Treasurer,,DEM,Michael BOWMAN,41,1,38,2
-Cumberland,D102,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Cumberland,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Cumberland,D102,State Treasurer,,,Total Votes,201,16,183,2
 Cumberland,D102,State Treasurer,,,Under Votes,2,0,2,0
 Cumberland,D102,State Treasurer,,,Over Votes,0,0,0,0

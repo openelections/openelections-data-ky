@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Bullitt,A101,STRAIGHT PARTY,,,Republican,32,7,25,0
 Bullitt,A101,STRAIGHT PARTY,,,Democratic,28,9,16,3
-Bullitt,A101,Governor,,REP,Daniel CAMERON,42,11,31,0
-Bullitt,A101,Governor,,DEM,Andy BESHEAR,55,15,36,4
-Bullitt,A101,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",42,11,31,0
+Bullitt,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,15,36,4
+Bullitt,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A101,Governor,,,Total Votes,97,26,67,4
 Bullitt,A101,Governor,,,Under Votes,0,0,0,0
 Bullitt,A101,Governor,,,Over Votes,0,0,0,0
 Bullitt,A101,Secretary of State,,REP,Michael ADAMS,54,13,40,1
 Bullitt,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",42,13,26,3
-Bullitt,A101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A101,Secretary of State,,,Total Votes,96,26,66,4
 Bullitt,A101,Secretary of State,,,Under Votes,1,0,1,0
 Bullitt,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Bullitt,A101,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Bullitt,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A101,State Treasurer,,REP,Mark H. METCALF,54,13,40,1
 Bullitt,A101,State Treasurer,,DEM,Michael BOWMAN,41,12,26,3
-Bullitt,A101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A101,State Treasurer,,,Total Votes,95,25,66,4
 Bullitt,A101,State Treasurer,,,Under Votes,2,1,1,0
 Bullitt,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Bullitt,A101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Bullitt,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A102,STRAIGHT PARTY,,,Republican,110,27,81,2
 Bullitt,A102,STRAIGHT PARTY,,,Democratic,39,10,26,3
-Bullitt,A102,Governor,,REP,Daniel CAMERON,151,39,109,3
-Bullitt,A102,Governor,,DEM,Andy BESHEAR,102,28,67,7
-Bullitt,A102,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",151,39,109,3
+Bullitt,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,102,28,67,7
+Bullitt,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A102,Governor,,,Total Votes,253,67,176,10
 Bullitt,A102,Governor,,,Under Votes,1,0,1,0
 Bullitt,A102,Governor,,,Over Votes,0,0,0,0
 Bullitt,A102,Secretary of State,,REP,Michael ADAMS,179,46,129,4
 Bullitt,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",72,21,45,6
-Bullitt,A102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),2,0,2,0
+Bullitt,A102,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
 Bullitt,A102,Secretary of State,,,Total Votes,253,67,176,10
 Bullitt,A102,Secretary of State,,,Under Votes,1,0,1,0
 Bullitt,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Bullitt,A102,Auditor of Public Accounts,,,Under Votes,6,2,3,1
 Bullitt,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A102,State Treasurer,,REP,Mark H. METCALF,173,44,124,5
 Bullitt,A102,State Treasurer,,DEM,Michael BOWMAN,77,22,50,5
-Bullitt,A102,State Treasurer,,,Robert PERRY (W),2,0,2,0
+Bullitt,A102,State Treasurer,,,Robert Perry,2,0,2,0
 Bullitt,A102,State Treasurer,,,Total Votes,252,66,176,10
 Bullitt,A102,State Treasurer,,,Under Votes,2,1,1,0
 Bullitt,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Bullitt,A102,Commissioner of Agriculture,,,Under Votes,5,2,3,0
 Bullitt,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A103,STRAIGHT PARTY,,,Republican,156,29,122,5
 Bullitt,A103,STRAIGHT PARTY,,,Democratic,114,33,68,13
-Bullitt,A103,Governor,,REP,Daniel CAMERON,228,49,170,9
-Bullitt,A103,Governor,,DEM,Andy BESHEAR,260,83,161,16
-Bullitt,A103,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",228,49,170,9
+Bullitt,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,260,83,161,16
+Bullitt,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A103,Governor,,,Total Votes,488,132,331,25
 Bullitt,A103,Governor,,,Under Votes,0,0,0,0
 Bullitt,A103,Governor,,,Over Votes,0,0,0,0
 Bullitt,A103,Secretary of State,,REP,Michael ADAMS,285,70,206,9
 Bullitt,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",194,61,118,15
-Bullitt,A103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A103,Secretary of State,,,Total Votes,479,131,324,24
 Bullitt,A103,Secretary of State,,,Under Votes,9,1,7,1
 Bullitt,A103,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Bullitt,A103,Auditor of Public Accounts,,,Under Votes,14,1,12,1
 Bullitt,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A103,State Treasurer,,REP,Mark H. METCALF,267,71,189,7
 Bullitt,A103,State Treasurer,,DEM,Michael BOWMAN,208,59,132,17
-Bullitt,A103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A103,State Treasurer,,,Total Votes,475,130,321,24
 Bullitt,A103,State Treasurer,,,Under Votes,13,2,10,1
 Bullitt,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Bullitt,A103,Commissioner of Agriculture,,,Under Votes,13,2,10,1
 Bullitt,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A104,STRAIGHT PARTY,,,Republican,196,75,112,9
 Bullitt,A104,STRAIGHT PARTY,,,Democratic,77,30,34,13
-Bullitt,A104,Governor,,REP,Daniel CAMERON,270,104,154,12
-Bullitt,A104,Governor,,DEM,Andy BESHEAR,182,87,74,21
-Bullitt,A104,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",270,104,154,12
+Bullitt,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,182,87,74,21
+Bullitt,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A104,Governor,,,Total Votes,452,191,228,33
 Bullitt,A104,Governor,,,Under Votes,1,1,0,0
 Bullitt,A104,Governor,,,Over Votes,0,0,0,0
 Bullitt,A104,Secretary of State,,REP,Michael ADAMS,316,130,171,15
 Bullitt,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,58,53,17
-Bullitt,A104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A104,Secretary of State,,,Total Votes,444,188,224,32
 Bullitt,A104,Secretary of State,,,Under Votes,9,4,4,1
 Bullitt,A104,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Bullitt,A104,Auditor of Public Accounts,,,Under Votes,12,6,3,3
 Bullitt,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A104,State Treasurer,,REP,Mark H. METCALF,302,123,164,15
 Bullitt,A104,State Treasurer,,DEM,Michael BOWMAN,141,63,61,17
-Bullitt,A104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A104,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A104,State Treasurer,,,Total Votes,443,186,225,32
 Bullitt,A104,State Treasurer,,,Under Votes,10,6,3,1
 Bullitt,A104,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Bullitt,A104,Commissioner of Agriculture,,,Under Votes,9,6,2,1
 Bullitt,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A105,STRAIGHT PARTY,,,Republican,341,25,313,3
 Bullitt,A105,STRAIGHT PARTY,,,Democratic,89,13,67,9
-Bullitt,A105,Governor,,REP,Daniel CAMERON,458,44,409,5
-Bullitt,A105,Governor,,DEM,Andy BESHEAR,236,34,190,12
-Bullitt,A105,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",458,44,409,5
+Bullitt,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,236,34,190,12
+Bullitt,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A105,Governor,,,Total Votes,694,78,599,17
 Bullitt,A105,Governor,,,Under Votes,2,2,0,0
 Bullitt,A105,Governor,,,Over Votes,0,0,0,0
 Bullitt,A105,Secretary of State,,REP,Michael ADAMS,528,55,468,5
 Bullitt,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,22,121,11
-Bullitt,A105,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A105,Secretary of State,,,Total Votes,682,77,589,16
 Bullitt,A105,Secretary of State,,,Under Votes,14,3,10,1
 Bullitt,A105,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Bullitt,A105,Auditor of Public Accounts,,,Under Votes,17,4,13,0
 Bullitt,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A105,State Treasurer,,REP,Mark H. METCALF,527,57,464,6
 Bullitt,A105,State Treasurer,,DEM,Michael BOWMAN,151,19,121,11
-Bullitt,A105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A105,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A105,State Treasurer,,,Total Votes,678,76,585,17
 Bullitt,A105,State Treasurer,,,Under Votes,18,4,14,0
 Bullitt,A105,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Bullitt,A105,Commissioner of Agriculture,,,Under Votes,14,3,11,0
 Bullitt,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A106,STRAIGHT PARTY,,,Republican,281,86,181,14
 Bullitt,A106,STRAIGHT PARTY,,,Democratic,83,20,51,12
-Bullitt,A106,Governor,,REP,Daniel CAMERON,411,121,275,15
-Bullitt,A106,Governor,,DEM,Andy BESHEAR,234,85,126,23
-Bullitt,A106,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",411,121,275,15
+Bullitt,A106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,234,85,126,23
+Bullitt,A106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A106,Governor,,,Total Votes,645,206,401,38
 Bullitt,A106,Governor,,,Under Votes,3,1,2,0
 Bullitt,A106,Governor,,,Over Votes,0,0,0,0
 Bullitt,A106,Secretary of State,,REP,Michael ADAMS,474,152,305,17
 Bullitt,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",165,54,92,19
-Bullitt,A106,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A106,Secretary of State,,,Total Votes,639,206,397,36
 Bullitt,A106,Secretary of State,,,Under Votes,9,1,6,2
 Bullitt,A106,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Bullitt,A106,Auditor of Public Accounts,,,Under Votes,10,4,4,2
 Bullitt,A106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A106,State Treasurer,,REP,Mark H. METCALF,469,145,309,15
 Bullitt,A106,State Treasurer,,DEM,Michael BOWMAN,168,59,89,20
-Bullitt,A106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A106,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A106,State Treasurer,,,Total Votes,637,204,398,35
 Bullitt,A106,State Treasurer,,,Under Votes,11,3,5,3
 Bullitt,A106,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Bullitt,A106,Commissioner of Agriculture,,,Under Votes,13,3,8,2
 Bullitt,A106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A107,STRAIGHT PARTY,,,Republican,310,82,207,21
 Bullitt,A107,STRAIGHT PARTY,,,Democratic,97,36,52,9
-Bullitt,A107,Governor,,REP,Daniel CAMERON,431,112,298,21
-Bullitt,A107,Governor,,DEM,Andy BESHEAR,288,107,158,23
-Bullitt,A107,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",431,112,298,21
+Bullitt,A107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,288,107,158,23
+Bullitt,A107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A107,Governor,,,Total Votes,719,219,456,44
 Bullitt,A107,Governor,,,Under Votes,4,0,3,1
 Bullitt,A107,Governor,,,Over Votes,0,0,0,0
 Bullitt,A107,Secretary of State,,REP,Michael ADAMS,522,147,346,29
 Bullitt,A107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",187,67,104,16
-Bullitt,A107,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A107,Secretary of State,,,Total Votes,709,214,450,45
 Bullitt,A107,Secretary of State,,,Under Votes,14,5,9,0
 Bullitt,A107,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Bullitt,A107,Auditor of Public Accounts,,,Under Votes,14,5,8,1
 Bullitt,A107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A107,State Treasurer,,REP,Mark H. METCALF,510,140,342,28
 Bullitt,A107,State Treasurer,,DEM,Michael BOWMAN,202,76,110,16
-Bullitt,A107,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A107,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A107,State Treasurer,,,Total Votes,712,216,452,44
 Bullitt,A107,State Treasurer,,,Under Votes,11,3,7,1
 Bullitt,A107,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Bullitt,A107,Commissioner of Agriculture,,,Under Votes,14,6,7,1
 Bullitt,A107,Commissioner of Agriculture,,,Over Votes,1,0,0,1
 Bullitt,A108,STRAIGHT PARTY,,,Republican,95,32,58,5
 Bullitt,A108,STRAIGHT PARTY,,,Democratic,66,16,44,6
-Bullitt,A108,Governor,,REP,Daniel CAMERON,126,39,82,5
-Bullitt,A108,Governor,,DEM,Andy BESHEAR,124,29,82,13
-Bullitt,A108,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",126,39,82,5
+Bullitt,A108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,124,29,82,13
+Bullitt,A108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A108,Governor,,,Total Votes,250,68,164,18
 Bullitt,A108,Governor,,,Under Votes,0,0,0,0
 Bullitt,A108,Governor,,,Over Votes,0,0,0,0
 Bullitt,A108,Secretary of State,,REP,Michael ADAMS,152,47,99,6
 Bullitt,A108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,20,63,12
-Bullitt,A108,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A108,Secretary of State,,,Total Votes,247,67,162,18
 Bullitt,A108,Secretary of State,,,Under Votes,3,1,2,0
 Bullitt,A108,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Bullitt,A108,Auditor of Public Accounts,,,Under Votes,5,0,3,2
 Bullitt,A108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A108,State Treasurer,,REP,Mark H. METCALF,145,45,95,5
 Bullitt,A108,State Treasurer,,DEM,Michael BOWMAN,101,22,67,12
-Bullitt,A108,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A108,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A108,State Treasurer,,,Total Votes,246,67,162,17
 Bullitt,A108,State Treasurer,,,Under Votes,4,1,2,1
 Bullitt,A108,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Bullitt,A108,Commissioner of Agriculture,,,Under Votes,6,2,2,2
 Bullitt,A108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A111,STRAIGHT PARTY,,,Republican,142,26,112,4
 Bullitt,A111,STRAIGHT PARTY,,,Democratic,67,10,47,10
-Bullitt,A111,Governor,,REP,Daniel CAMERON,199,38,154,7
-Bullitt,A111,Governor,,DEM,Andy BESHEAR,170,37,119,14
-Bullitt,A111,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A111,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",199,38,154,7
+Bullitt,A111,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,37,119,14
+Bullitt,A111,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A111,Governor,,,Total Votes,369,75,273,21
 Bullitt,A111,Governor,,,Under Votes,2,1,1,0
 Bullitt,A111,Governor,,,Over Votes,0,0,0,0
 Bullitt,A111,Secretary of State,,REP,Michael ADAMS,238,51,179,8
 Bullitt,A111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,25,90,13
-Bullitt,A111,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A111,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A111,Secretary of State,,,Total Votes,366,76,269,21
 Bullitt,A111,Secretary of State,,,Under Votes,5,0,5,0
 Bullitt,A111,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Bullitt,A111,Auditor of Public Accounts,,,Under Votes,8,1,7,0
 Bullitt,A111,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A111,State Treasurer,,REP,Mark H. METCALF,231,49,175,7
 Bullitt,A111,State Treasurer,,DEM,Michael BOWMAN,132,26,92,14
-Bullitt,A111,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A111,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A111,State Treasurer,,,Total Votes,363,75,267,21
 Bullitt,A111,State Treasurer,,,Under Votes,8,1,7,0
 Bullitt,A111,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Bullitt,A111,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Bullitt,A111,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A112,STRAIGHT PARTY,,,Republican,284,90,178,16
 Bullitt,A112,STRAIGHT PARTY,,,Democratic,113,39,55,19
-Bullitt,A112,Governor,,REP,Daniel CAMERON,429,137,272,20
-Bullitt,A112,Governor,,DEM,Andy BESHEAR,260,93,137,30
-Bullitt,A112,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A112,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",429,137,272,20
+Bullitt,A112,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,260,93,137,30
+Bullitt,A112,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A112,Governor,,,Total Votes,689,230,409,50
 Bullitt,A112,Governor,,,Under Votes,3,2,0,1
 Bullitt,A112,Governor,,,Over Votes,0,0,0,0
 Bullitt,A112,Secretary of State,,REP,Michael ADAMS,490,168,295,27
 Bullitt,A112,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",191,63,105,23
-Bullitt,A112,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A112,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A112,Secretary of State,,,Total Votes,681,231,400,50
 Bullitt,A112,Secretary of State,,,Under Votes,11,1,9,1
 Bullitt,A112,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Bullitt,A112,Auditor of Public Accounts,,,Under Votes,15,4,10,1
 Bullitt,A112,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A112,State Treasurer,,REP,Mark H. METCALF,478,154,298,26
 Bullitt,A112,State Treasurer,,DEM,Michael BOWMAN,196,74,98,24
-Bullitt,A112,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A112,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A112,State Treasurer,,,Total Votes,674,228,396,50
 Bullitt,A112,State Treasurer,,,Under Votes,17,4,12,1
 Bullitt,A112,State Treasurer,,,Over Votes,1,0,1,0
@@ -351,15 +351,15 @@ Bullitt,A112,Commissioner of Agriculture,,,Under Votes,13,3,9,1
 Bullitt,A112,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,A113,STRAIGHT PARTY,,,Republican,221,72,139,10
 Bullitt,A113,STRAIGHT PARTY,,,Democratic,86,33,42,11
-Bullitt,A113,Governor,,REP,Daniel CAMERON,325,101,210,14
-Bullitt,A113,Governor,,DEM,Andy BESHEAR,232,109,105,18
-Bullitt,A113,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,A113,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",325,101,210,14
+Bullitt,A113,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,232,109,105,18
+Bullitt,A113,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,A113,Governor,,,Total Votes,557,210,315,32
 Bullitt,A113,Governor,,,Under Votes,2,1,0,1
 Bullitt,A113,Governor,,,Over Votes,0,0,0,0
 Bullitt,A113,Secretary of State,,REP,Michael ADAMS,390,145,229,16
 Bullitt,A113,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",157,65,77,15
-Bullitt,A113,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,A113,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,A113,Secretary of State,,,Total Votes,547,210,306,31
 Bullitt,A113,Secretary of State,,,Under Votes,12,1,9,2
 Bullitt,A113,Secretary of State,,,Over Votes,0,0,0,0
@@ -375,7 +375,7 @@ Bullitt,A113,Auditor of Public Accounts,,,Under Votes,15,3,9,3
 Bullitt,A113,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,A113,State Treasurer,,REP,Mark H. METCALF,365,125,227,13
 Bullitt,A113,State Treasurer,,DEM,Michael BOWMAN,176,82,77,17
-Bullitt,A113,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,A113,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,A113,State Treasurer,,,Total Votes,541,207,304,30
 Bullitt,A113,State Treasurer,,,Under Votes,18,4,11,3
 Bullitt,A113,State Treasurer,,,Over Votes,0,0,0,0
@@ -386,15 +386,15 @@ Bullitt,A113,Commissioner of Agriculture,,,Under Votes,18,5,10,3
 Bullitt,A113,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B101,STRAIGHT PARTY,,,Republican,85,25,55,5
 Bullitt,B101,STRAIGHT PARTY,,,Democratic,34,12,19,3
-Bullitt,B101,Governor,,REP,Daniel CAMERON,126,39,82,5
-Bullitt,B101,Governor,,DEM,Andy BESHEAR,85,29,50,6
-Bullitt,B101,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",126,39,82,5
+Bullitt,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,29,50,6
+Bullitt,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B101,Governor,,,Total Votes,211,68,132,11
 Bullitt,B101,Governor,,,Under Votes,1,0,1,0
 Bullitt,B101,Governor,,,Over Votes,0,0,0,0
 Bullitt,B101,Secretary of State,,REP,Michael ADAMS,143,48,90,5
 Bullitt,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",61,19,36,6
-Bullitt,B101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B101,Secretary of State,,,Total Votes,204,67,126,11
 Bullitt,B101,Secretary of State,,,Under Votes,8,1,7,0
 Bullitt,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -410,7 +410,7 @@ Bullitt,B101,Auditor of Public Accounts,,,Under Votes,10,2,8,0
 Bullitt,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B101,State Treasurer,,REP,Mark H. METCALF,136,41,88,7
 Bullitt,B101,State Treasurer,,DEM,Michael BOWMAN,65,25,36,4
-Bullitt,B101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B101,State Treasurer,,,Total Votes,201,66,124,11
 Bullitt,B101,State Treasurer,,,Under Votes,11,2,9,0
 Bullitt,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -421,15 +421,15 @@ Bullitt,B101,Commissioner of Agriculture,,,Under Votes,11,3,8,0
 Bullitt,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B102,STRAIGHT PARTY,,,Republican,233,103,125,5
 Bullitt,B102,STRAIGHT PARTY,,,Democratic,120,58,38,24
-Bullitt,B102,Governor,,REP,Daniel CAMERON,339,152,182,5
-Bullitt,B102,Governor,,DEM,Andy BESHEAR,317,143,136,38
-Bullitt,B102,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",339,152,182,5
+Bullitt,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,317,143,136,38
+Bullitt,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B102,Governor,,,Total Votes,656,295,318,43
 Bullitt,B102,Governor,,,Under Votes,1,0,1,0
 Bullitt,B102,Governor,,,Over Votes,0,0,0,0
 Bullitt,B102,Secretary of State,,REP,Michael ADAMS,417,189,218,10
 Bullitt,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",229,104,93,32
-Bullitt,B102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),2,0,2,0
+Bullitt,B102,Secretary of State,,,Kenneth C. Moellman Jr.,2,0,2,0
 Bullitt,B102,Secretary of State,,,Total Votes,648,293,313,42
 Bullitt,B102,Secretary of State,,,Under Votes,9,2,6,1
 Bullitt,B102,Secretary of State,,,Over Votes,0,0,0,0
@@ -445,7 +445,7 @@ Bullitt,B102,Auditor of Public Accounts,,,Under Votes,13,5,7,1
 Bullitt,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B102,State Treasurer,,REP,Mark H. METCALF,407,181,219,7
 Bullitt,B102,State Treasurer,,DEM,Michael BOWMAN,235,106,94,35
-Bullitt,B102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B102,State Treasurer,,,Total Votes,642,287,313,42
 Bullitt,B102,State Treasurer,,,Under Votes,15,8,6,1
 Bullitt,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -456,15 +456,15 @@ Bullitt,B102,Commissioner of Agriculture,,,Under Votes,15,7,7,1
 Bullitt,B102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Bullitt,B103,STRAIGHT PARTY,,,Republican,220,81,124,15
 Bullitt,B103,STRAIGHT PARTY,,,Democratic,97,38,47,12
-Bullitt,B103,Governor,,REP,Daniel CAMERON,345,121,205,19
-Bullitt,B103,Governor,,DEM,Andy BESHEAR,277,102,148,27
-Bullitt,B103,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",345,121,205,19
+Bullitt,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,277,102,148,27
+Bullitt,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B103,Governor,,,Total Votes,622,223,353,46
 Bullitt,B103,Governor,,,Under Votes,3,0,0,3
 Bullitt,B103,Governor,,,Over Votes,0,0,0,0
 Bullitt,B103,Secretary of State,,REP,Michael ADAMS,423,155,243,25
 Bullitt,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",179,63,97,19
-Bullitt,B103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B103,Secretary of State,,,Total Votes,602,218,340,44
 Bullitt,B103,Secretary of State,,,Under Votes,23,5,13,5
 Bullitt,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -480,7 +480,7 @@ Bullitt,B103,Auditor of Public Accounts,,,Under Votes,26,6,15,5
 Bullitt,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B103,State Treasurer,,REP,Mark H. METCALF,414,142,248,24
 Bullitt,B103,State Treasurer,,DEM,Michael BOWMAN,186,74,92,20
-Bullitt,B103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B103,State Treasurer,,,Total Votes,600,216,340,44
 Bullitt,B103,State Treasurer,,,Under Votes,25,7,13,5
 Bullitt,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -491,15 +491,15 @@ Bullitt,B103,Commissioner of Agriculture,,,Under Votes,26,7,14,5
 Bullitt,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B104,STRAIGHT PARTY,,,Republican,450,157,253,40
 Bullitt,B104,STRAIGHT PARTY,,,Democratic,167,78,64,25
-Bullitt,B104,Governor,,REP,Daniel CAMERON,628,214,368,46
-Bullitt,B104,Governor,,DEM,Andy BESHEAR,484,201,240,43
-Bullitt,B104,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",628,214,368,46
+Bullitt,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,484,201,240,43
+Bullitt,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B104,Governor,,,Total Votes,0,415,608,89
 Bullitt,B104,Governor,,,Under Votes,6,3,3,0
 Bullitt,B104,Governor,,,Over Votes,0,0,0,0
 Bullitt,B104,Secretary of State,,REP,Michael ADAMS,763,270,440,53
 Bullitt,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",328,141,154,33
-Bullitt,B104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),1,0,1,0
+Bullitt,B104,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
 Bullitt,B104,Secretary of State,,,Total Votes,1092,411,595,86
 Bullitt,B104,Secretary of State,,,Under Votes,26,7,16,3
 Bullitt,B104,Secretary of State,,,Over Votes,0,0,0,0
@@ -515,7 +515,7 @@ Bullitt,B104,Auditor of Public Accounts,,,Under Votes,38,9,26,3
 Bullitt,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B104,State Treasurer,,REP,Mark H. METCALF,734,259,428,47
 Bullitt,B104,State Treasurer,,DEM,Michael BOWMAN,346,148,159,39
-Bullitt,B104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B104,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B104,State Treasurer,,,Total Votes,1080,407,587,86
 Bullitt,B104,State Treasurer,,,Under Votes,38,11,24,3
 Bullitt,B104,State Treasurer,,,Over Votes,0,0,0,0
@@ -526,15 +526,15 @@ Bullitt,B104,Commissioner of Agriculture,,,Under Votes,39,10,26,3
 Bullitt,B104,Commissioner of Agriculture,,,Over Votes,1,0,0,1
 Bullitt,B108,STRAIGHT PARTY,,,Republican,363,123,229,11
 Bullitt,B108,STRAIGHT PARTY,,,Democratic,137,49,76,12
-Bullitt,B108,Governor,,REP,Daniel CAMERON,557,182,357,18
-Bullitt,B108,Governor,,DEM,Andy BESHEAR,416,161,234,21
-Bullitt,B108,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",557,182,357,18
+Bullitt,B108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,416,161,234,21
+Bullitt,B108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B108,Governor,,,Total Votes,973,343,591,39
 Bullitt,B108,Governor,,,Under Votes,3,2,1,0
 Bullitt,B108,Governor,,,Over Votes,0,0,0,0
 Bullitt,B108,Secretary of State,,REP,Michael ADAMS,668,234,411,23
 Bullitt,B108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",287,102,169,16
-Bullitt,B108,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B108,Secretary of State,,,Total Votes,955,336,580,39
 Bullitt,B108,Secretary of State,,,Under Votes,21,9,12,0
 Bullitt,B108,Secretary of State,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Bullitt,B108,Auditor of Public Accounts,,,Under Votes,27,8,19,0
 Bullitt,B108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B108,State Treasurer,,REP,Mark H. METCALF,647,223,404,20
 Bullitt,B108,State Treasurer,,DEM,Michael BOWMAN,298,109,170,19
-Bullitt,B108,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B108,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B108,State Treasurer,,,Total Votes,945,332,574,39
 Bullitt,B108,State Treasurer,,,Under Votes,31,13,18,0
 Bullitt,B108,State Treasurer,,,Over Votes,0,0,0,0
@@ -561,15 +561,15 @@ Bullitt,B108,Commissioner of Agriculture,,,Under Votes,30,10,20,0
 Bullitt,B108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B109,STRAIGHT PARTY,,,Republican,390,132,253,5
 Bullitt,B109,STRAIGHT PARTY,,,Democratic,147,66,60,21
-Bullitt,B109,Governor,,REP,Daniel CAMERON,600,192,402,6
-Bullitt,B109,Governor,,DEM,Andy BESHEAR,396,163,200,33
-Bullitt,B109,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B109,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",600,192,402,6
+Bullitt,B109,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,396,163,200,33
+Bullitt,B109,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B109,Governor,,,Total Votes,996,355,602,39
 Bullitt,B109,Governor,,,Under Votes,2,0,2,0
 Bullitt,B109,Governor,,,Over Votes,0,0,0,0
 Bullitt,B109,Secretary of State,,REP,Michael ADAMS,712,236,462,14
 Bullitt,B109,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",272,116,131,25
-Bullitt,B109,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B109,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B109,Secretary of State,,,Total Votes,984,352,593,39
 Bullitt,B109,Secretary of State,,,Under Votes,14,3,11,0
 Bullitt,B109,Secretary of State,,,Over Votes,0,0,0,0
@@ -585,7 +585,7 @@ Bullitt,B109,Auditor of Public Accounts,,,Under Votes,16,5,11,0
 Bullitt,B109,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B109,State Treasurer,,REP,Mark H. METCALF,675,226,441,8
 Bullitt,B109,State Treasurer,,DEM,Michael BOWMAN,304,126,148,30
-Bullitt,B109,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B109,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B109,State Treasurer,,,Total Votes,979,352,589,38
 Bullitt,B109,State Treasurer,,,Under Votes,19,3,15,1
 Bullitt,B109,State Treasurer,,,Over Votes,0,0,0,0
@@ -596,15 +596,15 @@ Bullitt,B109,Commissioner of Agriculture,,,Under Votes,16,3,13,0
 Bullitt,B109,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B110,STRAIGHT PARTY,,,Republican,206,47,148,11
 Bullitt,B110,STRAIGHT PARTY,,,Democratic,110,35,62,13
-Bullitt,B110,Governor,,REP,Daniel CAMERON,311,75,223,13
-Bullitt,B110,Governor,,DEM,Andy BESHEAR,292,108,159,25
-Bullitt,B110,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B110,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",311,75,223,13
+Bullitt,B110,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,292,108,159,25
+Bullitt,B110,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B110,Governor,,,Total Votes,603,183,382,38
 Bullitt,B110,Governor,,,Under Votes,1,0,1,0
 Bullitt,B110,Governor,,,Over Votes,1,0,0,1
 Bullitt,B110,Secretary of State,,REP,Michael ADAMS,380,105,258,17
 Bullitt,B110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",206,73,111,22
-Bullitt,B110,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B110,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B110,Secretary of State,,,Total Votes,586,178,369,39
 Bullitt,B110,Secretary of State,,,Under Votes,19,5,14,0
 Bullitt,B110,Secretary of State,,,Over Votes,0,0,0,0
@@ -620,7 +620,7 @@ Bullitt,B110,Auditor of Public Accounts,,,Under Votes,22,8,14,0
 Bullitt,B110,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B110,State Treasurer,,REP,Mark H. METCALF,366,94,257,15
 Bullitt,B110,State Treasurer,,DEM,Michael BOWMAN,217,83,111,23
-Bullitt,B110,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B110,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B110,State Treasurer,,,Total Votes,583,177,368,38
 Bullitt,B110,State Treasurer,,,Under Votes,20,6,13,1
 Bullitt,B110,State Treasurer,,,Over Votes,2,0,2,0
@@ -631,15 +631,15 @@ Bullitt,B110,Commissioner of Agriculture,,,Under Votes,21,9,12,0
 Bullitt,B110,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Bullitt,B111,STRAIGHT PARTY,,,Republican,378,130,228,20
 Bullitt,B111,STRAIGHT PARTY,,,Democratic,176,64,86,26
-Bullitt,B111,Governor,,REP,Daniel CAMERON,563,202,335,26
-Bullitt,B111,Governor,,DEM,Andy BESHEAR,449,186,222,41
-Bullitt,B111,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B111,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",563,202,335,26
+Bullitt,B111,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,449,186,222,41
+Bullitt,B111,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B111,Governor,,,Total Votes,0,388,557,67
 Bullitt,B111,Governor,,,Under Votes,4,2,0,2
 Bullitt,B111,Governor,,,Over Votes,0,0,0,0
 Bullitt,B111,Secretary of State,,REP,Michael ADAMS,664,251,380,33
 Bullitt,B111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",322,131,159,32
-Bullitt,B111,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B111,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B111,Secretary of State,,,Total Votes,986,382,539,65
 Bullitt,B111,Secretary of State,,,Under Votes,30,8,18,4
 Bullitt,B111,Secretary of State,,,Over Votes,0,0,0,0
@@ -655,7 +655,7 @@ Bullitt,B111,Auditor of Public Accounts,,,Under Votes,36,10,23,3
 Bullitt,B111,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B111,State Treasurer,,REP,Mark H. METCALF,646,236,379,31
 Bullitt,B111,State Treasurer,,DEM,Michael BOWMAN,330,143,153,34
-Bullitt,B111,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B111,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B111,State Treasurer,,,Total Votes,976,379,532,65
 Bullitt,B111,State Treasurer,,,Under Votes,39,10,25,4
 Bullitt,B111,State Treasurer,,,Over Votes,1,1,0,0
@@ -666,15 +666,15 @@ Bullitt,B111,Commissioner of Agriculture,,,Under Votes,40,11,24,5
 Bullitt,B111,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B112,STRAIGHT PARTY,,,Republican,109,41,67,1
 Bullitt,B112,STRAIGHT PARTY,,,Democratic,58,13,38,7
-Bullitt,B112,Governor,,REP,Daniel CAMERON,161,58,102,1
-Bullitt,B112,Governor,,DEM,Andy BESHEAR,172,56,103,13
-Bullitt,B112,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B112,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",161,58,102,1
+Bullitt,B112,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,172,56,103,13
+Bullitt,B112,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B112,Governor,,,Total Votes,333,114,205,14
 Bullitt,B112,Governor,,,Under Votes,0,0,0,0
 Bullitt,B112,Governor,,,Over Votes,0,0,0,0
 Bullitt,B112,Secretary of State,,REP,Michael ADAMS,206,82,122,2
 Bullitt,B112,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",114,29,75,10
-Bullitt,B112,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B112,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B112,Secretary of State,,,Total Votes,320,111,197,12
 Bullitt,B112,Secretary of State,,,Under Votes,13,3,8,2
 Bullitt,B112,Secretary of State,,,Over Votes,0,0,0,0
@@ -690,7 +690,7 @@ Bullitt,B112,Auditor of Public Accounts,,,Under Votes,19,4,13,2
 Bullitt,B112,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B112,State Treasurer,,REP,Mark H. METCALF,200,77,120,3
 Bullitt,B112,State Treasurer,,DEM,Michael BOWMAN,113,33,71,9
-Bullitt,B112,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B112,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B112,State Treasurer,,,Total Votes,313,110,191,12
 Bullitt,B112,State Treasurer,,,Under Votes,20,4,14,2
 Bullitt,B112,State Treasurer,,,Over Votes,0,0,0,0
@@ -701,15 +701,15 @@ Bullitt,B112,Commissioner of Agriculture,,,Under Votes,20,5,13,2
 Bullitt,B112,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B113,STRAIGHT PARTY,,,Republican,306,103,191,12
 Bullitt,B113,STRAIGHT PARTY,,,Democratic,110,52,47,11
-Bullitt,B113,Governor,,REP,Daniel CAMERON,452,146,290,16
-Bullitt,B113,Governor,,DEM,Andy BESHEAR,334,137,171,26
-Bullitt,B113,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B113,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",452,146,290,16
+Bullitt,B113,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,334,137,171,26
+Bullitt,B113,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B113,Governor,,,Total Votes,786,283,461,42
 Bullitt,B113,Governor,,,Under Votes,1,1,0,0
 Bullitt,B113,Governor,,,Over Votes,0,0,0,0
 Bullitt,B113,Secretary of State,,REP,Michael ADAMS,548,182,347,19
 Bullitt,B113,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",225,98,105,22
-Bullitt,B113,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B113,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B113,Secretary of State,,,Total Votes,773,280,452,41
 Bullitt,B113,Secretary of State,,,Under Votes,14,4,9,1
 Bullitt,B113,Secretary of State,,,Over Votes,0,0,0,0
@@ -725,7 +725,7 @@ Bullitt,B113,Auditor of Public Accounts,,,Under Votes,20,4,14,2
 Bullitt,B113,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B113,State Treasurer,,REP,Mark H. METCALF,535,170,341,24
 Bullitt,B113,State Treasurer,,DEM,Michael BOWMAN,232,108,108,16
-Bullitt,B113,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,B113,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,B113,State Treasurer,,,Total Votes,767,278,449,40
 Bullitt,B113,State Treasurer,,,Under Votes,20,6,12,2
 Bullitt,B113,State Treasurer,,,Over Votes,0,0,0,0
@@ -736,15 +736,15 @@ Bullitt,B113,Commissioner of Agriculture,,,Under Votes,23,6,16,1
 Bullitt,B113,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,B114,STRAIGHT PARTY,,,Republican,234,72,158,4
 Bullitt,B114,STRAIGHT PARTY,,,Democratic,108,35,65,8
-Bullitt,B114,Governor,,REP,Daniel CAMERON,344,97,243,4
-Bullitt,B114,Governor,,DEM,Andy BESHEAR,279,98,164,17
-Bullitt,B114,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,B114,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",344,97,243,4
+Bullitt,B114,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,279,98,164,17
+Bullitt,B114,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,B114,Governor,,,Total Votes,623,195,407,21
 Bullitt,B114,Governor,,,Under Votes,1,0,1,0
 Bullitt,B114,Governor,,,Over Votes,0,0,0,0
 Bullitt,B114,Secretary of State,,REP,Michael ADAMS,394,123,263,8
 Bullitt,B114,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",214,68,133,13
-Bullitt,B114,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,B114,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,B114,Secretary of State,,,Total Votes,608,191,396,21
 Bullitt,B114,Secretary of State,,,Under Votes,16,4,12,0
 Bullitt,B114,Secretary of State,,,Over Votes,0,0,0,0
@@ -760,7 +760,7 @@ Bullitt,B114,Auditor of Public Accounts,,,Under Votes,19,7,12,0
 Bullitt,B114,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,B114,State Treasurer,,REP,Mark H. METCALF,389,114,267,8
 Bullitt,B114,State Treasurer,,DEM,Michael BOWMAN,215,76,126,13
-Bullitt,B114,State Treasurer,,,Robert PERRY (W),1,0,1,0
+Bullitt,B114,State Treasurer,,,Robert Perry,1,0,1,0
 Bullitt,B114,State Treasurer,,,Total Votes,605,190,394,21
 Bullitt,B114,State Treasurer,,,Under Votes,19,5,14,0
 Bullitt,B114,State Treasurer,,,Over Votes,0,0,0,0
@@ -771,15 +771,15 @@ Bullitt,B114,Commissioner of Agriculture,,,Under Votes,23,7,16,0
 Bullitt,B114,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C101,STRAIGHT PARTY,,,Republican,164,50,108,6
 Bullitt,C101,STRAIGHT PARTY,,,Democratic,102,30,62,10
-Bullitt,C101,Governor,,REP,Daniel CAMERON,244,77,158,9
-Bullitt,C101,Governor,,DEM,Andy BESHEAR,267,79,165,23
-Bullitt,C101,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",244,77,158,9
+Bullitt,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,267,79,165,23
+Bullitt,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C101,Governor,,,Total Votes,511,156,323,32
 Bullitt,C101,Governor,,,Under Votes,0,0,0,0
 Bullitt,C101,Governor,,,Over Votes,0,0,0,0
 Bullitt,C101,Secretary of State,,REP,Michael ADAMS,306,101,188,17
 Bullitt,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",199,55,129,15
-Bullitt,C101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C101,Secretary of State,,,Total Votes,505,156,317,32
 Bullitt,C101,Secretary of State,,,Under Votes,6,0,6,0
 Bullitt,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -795,7 +795,7 @@ Bullitt,C101,Auditor of Public Accounts,,,Under Votes,13,1,11,1
 Bullitt,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C101,State Treasurer,,REP,Mark H. METCALF,302,94,193,15
 Bullitt,C101,State Treasurer,,DEM,Michael BOWMAN,199,61,122,16
-Bullitt,C101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C101,State Treasurer,,,Total Votes,501,155,315,31
 Bullitt,C101,State Treasurer,,,Under Votes,10,1,8,1
 Bullitt,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -806,15 +806,15 @@ Bullitt,C101,Commissioner of Agriculture,,,Under Votes,15,1,13,1
 Bullitt,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C102,STRAIGHT PARTY,,,Republican,128,36,88,4
 Bullitt,C102,STRAIGHT PARTY,,,Democratic,81,29,41,11
-Bullitt,C102,Governor,,REP,Daniel CAMERON,176,49,122,5
-Bullitt,C102,Governor,,DEM,Andy BESHEAR,178,62,95,21
-Bullitt,C102,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",176,49,122,5
+Bullitt,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,178,62,95,21
+Bullitt,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C102,Governor,,,Total Votes,354,111,217,26
 Bullitt,C102,Governor,,,Under Votes,2,0,2,0
 Bullitt,C102,Governor,,,Over Votes,0,0,0,0
 Bullitt,C102,Secretary of State,,REP,Michael ADAMS,213,59,145,9
 Bullitt,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",137,48,72,17
-Bullitt,C102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C102,Secretary of State,,,Total Votes,350,107,217,26
 Bullitt,C102,Secretary of State,,,Under Votes,6,4,2,0
 Bullitt,C102,Secretary of State,,,Over Votes,0,0,0,0
@@ -830,7 +830,7 @@ Bullitt,C102,Auditor of Public Accounts,,,Under Votes,6,4,2,0
 Bullitt,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C102,State Treasurer,,REP,Mark H. METCALF,211,62,140,9
 Bullitt,C102,State Treasurer,,DEM,Michael BOWMAN,138,44,77,17
-Bullitt,C102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C102,State Treasurer,,,Total Votes,349,106,217,26
 Bullitt,C102,State Treasurer,,,Under Votes,7,5,2,0
 Bullitt,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -841,15 +841,15 @@ Bullitt,C102,Commissioner of Agriculture,,,Under Votes,6,3,2,1
 Bullitt,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C103,STRAIGHT PARTY,,,Republican,328,87,231,10
 Bullitt,C103,STRAIGHT PARTY,,,Democratic,182,57,102,23
-Bullitt,C103,Governor,,REP,Daniel CAMERON,483,128,340,15
-Bullitt,C103,Governor,,DEM,Andy BESHEAR,427,137,249,41
-Bullitt,C103,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",483,128,340,15
+Bullitt,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,427,137,249,41
+Bullitt,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C103,Governor,,,Total Votes,910,265,589,56
 Bullitt,C103,Governor,,,Under Votes,4,1,2,1
 Bullitt,C103,Governor,,,Over Votes,0,0,0,0
 Bullitt,C103,Secretary of State,,REP,Michael ADAMS,589,172,396,21
 Bullitt,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",310,94,182,34
-Bullitt,C103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C103,Secretary of State,,,Total Votes,899,266,578,55
 Bullitt,C103,Secretary of State,,,Under Votes,14,0,12,2
 Bullitt,C103,Secretary of State,,,Over Votes,1,0,1,0
@@ -865,7 +865,7 @@ Bullitt,C103,Auditor of Public Accounts,,,Under Votes,19,1,15,3
 Bullitt,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C103,State Treasurer,,REP,Mark H. METCALF,557,155,385,17
 Bullitt,C103,State Treasurer,,DEM,Michael BOWMAN,333,111,185,37
-Bullitt,C103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C103,State Treasurer,,,Total Votes,890,266,570,54
 Bullitt,C103,State Treasurer,,,Under Votes,24,0,21,3
 Bullitt,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -876,15 +876,15 @@ Bullitt,C103,Commissioner of Agriculture,,,Under Votes,22,1,18,3
 Bullitt,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C104,STRAIGHT PARTY,,,Republican,136,32,100,4
 Bullitt,C104,STRAIGHT PARTY,,,Democratic,72,23,42,7
-Bullitt,C104,Governor,,REP,Daniel CAMERON,210,49,155,6
-Bullitt,C104,Governor,,DEM,Andy BESHEAR,200,69,122,9
-Bullitt,C104,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",210,49,155,6
+Bullitt,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,200,69,122,9
+Bullitt,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C104,Governor,,,Total Votes,410,118,277,15
 Bullitt,C104,Governor,,,Under Votes,0,0,0,0
 Bullitt,C104,Governor,,,Over Votes,0,0,0,0
 Bullitt,C104,Secretary of State,,REP,Michael ADAMS,276,79,189,8
 Bullitt,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,38,83,7
-Bullitt,C104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C104,Secretary of State,,,Total Votes,404,117,272,15
 Bullitt,C104,Secretary of State,,,Under Votes,6,1,5,0
 Bullitt,C104,Secretary of State,,,Over Votes,0,0,0,0
@@ -900,7 +900,7 @@ Bullitt,C104,Auditor of Public Accounts,,,Under Votes,13,2,11,0
 Bullitt,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C104,State Treasurer,,REP,Mark H. METCALF,254,67,180,7
 Bullitt,C104,State Treasurer,,DEM,Michael BOWMAN,145,50,87,8
-Bullitt,C104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C104,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C104,State Treasurer,,,Total Votes,399,117,267,15
 Bullitt,C104,State Treasurer,,,Under Votes,11,1,10,0
 Bullitt,C104,State Treasurer,,,Over Votes,0,0,0,0
@@ -911,15 +911,15 @@ Bullitt,C104,Commissioner of Agriculture,,,Under Votes,12,1,11,0
 Bullitt,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C105,STRAIGHT PARTY,,,Republican,152,39,106,7
 Bullitt,C105,STRAIGHT PARTY,,,Democratic,59,19,36,4
-Bullitt,C105,Governor,,REP,Daniel CAMERON,219,60,147,12
-Bullitt,C105,Governor,,DEM,Andy BESHEAR,178,56,107,15
-Bullitt,C105,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",219,60,147,12
+Bullitt,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,178,56,107,15
+Bullitt,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C105,Governor,,,Total Votes,397,116,254,27
 Bullitt,C105,Governor,,,Under Votes,1,0,1,0
 Bullitt,C105,Governor,,,Over Votes,0,0,0,0
 Bullitt,C105,Secretary of State,,REP,Michael ADAMS,278,79,181,18
 Bullitt,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",111,36,67,8
-Bullitt,C105,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C105,Secretary of State,,,Total Votes,389,115,248,26
 Bullitt,C105,Secretary of State,,,Under Votes,9,1,7,1
 Bullitt,C105,Secretary of State,,,Over Votes,0,0,0,0
@@ -935,7 +935,7 @@ Bullitt,C105,Auditor of Public Accounts,,,Under Votes,15,5,9,1
 Bullitt,C105,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Bullitt,C105,State Treasurer,,REP,Mark H. METCALF,258,71,173,14
 Bullitt,C105,State Treasurer,,DEM,Michael BOWMAN,129,42,75,12
-Bullitt,C105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C105,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C105,State Treasurer,,,Total Votes,387,113,248,26
 Bullitt,C105,State Treasurer,,,Under Votes,11,3,7,1
 Bullitt,C105,State Treasurer,,,Over Votes,0,0,0,0
@@ -946,15 +946,15 @@ Bullitt,C105,Commissioner of Agriculture,,,Under Votes,14,6,6,2
 Bullitt,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C106,STRAIGHT PARTY,,,Republican,105,36,62,7
 Bullitt,C106,STRAIGHT PARTY,,,Democratic,72,20,51,1
-Bullitt,C106,Governor,,REP,Daniel CAMERON,165,48,107,10
-Bullitt,C106,Governor,,DEM,Andy BESHEAR,173,45,122,6
-Bullitt,C106,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",165,48,107,10
+Bullitt,C106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,173,45,122,6
+Bullitt,C106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C106,Governor,,,Total Votes,338,93,229,16
 Bullitt,C106,Governor,,,Under Votes,3,2,1,0
 Bullitt,C106,Governor,,,Over Votes,0,0,0,0
 Bullitt,C106,Secretary of State,,REP,Michael ADAMS,193,62,120,11
 Bullitt,C106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",138,30,104,4
-Bullitt,C106,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C106,Secretary of State,,,Total Votes,331,92,224,15
 Bullitt,C106,Secretary of State,,,Under Votes,10,3,6,1
 Bullitt,C106,Secretary of State,,,Over Votes,0,0,0,0
@@ -970,7 +970,7 @@ Bullitt,C106,Auditor of Public Accounts,,,Under Votes,7,4,2,1
 Bullitt,C106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C106,State Treasurer,,REP,Mark H. METCALF,198,58,127,13
 Bullitt,C106,State Treasurer,,DEM,Michael BOWMAN,135,32,101,2
-Bullitt,C106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C106,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C106,State Treasurer,,,Total Votes,333,90,228,15
 Bullitt,C106,State Treasurer,,,Under Votes,8,5,2,1
 Bullitt,C106,State Treasurer,,,Over Votes,0,0,0,0
@@ -981,15 +981,15 @@ Bullitt,C106,Commissioner of Agriculture,,,Under Votes,7,4,2,1
 Bullitt,C106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C107,STRAIGHT PARTY,,,Republican,177,47,120,10
 Bullitt,C107,STRAIGHT PARTY,,,Democratic,104,29,68,7
-Bullitt,C107,Governor,,REP,Daniel CAMERON,288,82,191,15
-Bullitt,C107,Governor,,DEM,Andy BESHEAR,277,88,171,18
-Bullitt,C107,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",288,82,191,15
+Bullitt,C107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,277,88,171,18
+Bullitt,C107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C107,Governor,,,Total Votes,565,170,362,33
 Bullitt,C107,Governor,,,Under Votes,2,0,2,0
 Bullitt,C107,Governor,,,Over Votes,0,0,0,0
 Bullitt,C107,Secretary of State,,REP,Michael ADAMS,361,111,227,23
 Bullitt,C107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",191,54,127,10
-Bullitt,C107,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C107,Secretary of State,,,Total Votes,552,165,354,33
 Bullitt,C107,Secretary of State,,,Under Votes,14,5,9,0
 Bullitt,C107,Secretary of State,,,Over Votes,1,0,1,0
@@ -1005,7 +1005,7 @@ Bullitt,C107,Auditor of Public Accounts,,,Under Votes,21,5,15,1
 Bullitt,C107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C107,State Treasurer,,REP,Mark H. METCALF,340,100,222,18
 Bullitt,C107,State Treasurer,,DEM,Michael BOWMAN,207,64,129,14
-Bullitt,C107,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C107,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C107,State Treasurer,,,Total Votes,547,164,351,32
 Bullitt,C107,State Treasurer,,,Under Votes,20,6,13,1
 Bullitt,C107,State Treasurer,,,Over Votes,0,0,0,0
@@ -1016,15 +1016,15 @@ Bullitt,C107,Commissioner of Agriculture,,,Under Votes,22,7,13,2
 Bullitt,C107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C108,STRAIGHT PARTY,,,Republican,284,73,205,6
 Bullitt,C108,STRAIGHT PARTY,,,Democratic,106,45,45,16
-Bullitt,C108,Governor,,REP,Daniel CAMERON,377,102,269,6
-Bullitt,C108,Governor,,DEM,Andy BESHEAR,274,102,149,23
-Bullitt,C108,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",377,102,269,6
+Bullitt,C108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,274,102,149,23
+Bullitt,C108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C108,Governor,,,Total Votes,651,204,418,29
 Bullitt,C108,Governor,,,Under Votes,2,1,1,0
 Bullitt,C108,Governor,,,Over Votes,0,0,0,0
 Bullitt,C108,Secretary of State,,REP,Michael ADAMS,456,128,320,8
 Bullitt,C108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",190,76,94,20
-Bullitt,C108,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C108,Secretary of State,,,Total Votes,646,204,414,28
 Bullitt,C108,Secretary of State,,,Under Votes,7,1,5,1
 Bullitt,C108,Secretary of State,,,Over Votes,0,0,0,0
@@ -1040,7 +1040,7 @@ Bullitt,C108,Auditor of Public Accounts,,,Under Votes,7,1,5,1
 Bullitt,C108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C108,State Treasurer,,REP,Mark H. METCALF,455,126,320,9
 Bullitt,C108,State Treasurer,,DEM,Michael BOWMAN,188,78,91,19
-Bullitt,C108,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C108,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C108,State Treasurer,,,Total Votes,643,204,411,28
 Bullitt,C108,State Treasurer,,,Under Votes,10,1,8,1
 Bullitt,C108,State Treasurer,,,Over Votes,0,0,0,0
@@ -1051,15 +1051,15 @@ Bullitt,C108,Commissioner of Agriculture,,,Under Votes,10,1,8,1
 Bullitt,C108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C109,STRAIGHT PARTY,,,Republican,273,73,188,12
 Bullitt,C109,STRAIGHT PARTY,,,Democratic,63,22,36,5
-Bullitt,C109,Governor,,REP,Daniel CAMERON,361,94,250,17
-Bullitt,C109,Governor,,DEM,Andy BESHEAR,191,57,125,9
-Bullitt,C109,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C109,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",361,94,250,17
+Bullitt,C109,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,191,57,125,9
+Bullitt,C109,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C109,Governor,,,Total Votes,552,151,375,26
 Bullitt,C109,Governor,,,Under Votes,2,1,1,0
 Bullitt,C109,Governor,,,Over Votes,0,0,0,0
 Bullitt,C109,Secretary of State,,REP,Michael ADAMS,414,110,284,20
 Bullitt,C109,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",131,38,87,6
-Bullitt,C109,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C109,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C109,Secretary of State,,,Total Votes,545,148,371,26
 Bullitt,C109,Secretary of State,,,Under Votes,9,4,5,0
 Bullitt,C109,Secretary of State,,,Over Votes,0,0,0,0
@@ -1075,7 +1075,7 @@ Bullitt,C109,Auditor of Public Accounts,,,Under Votes,13,5,8,0
 Bullitt,C109,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C109,State Treasurer,,REP,Mark H. METCALF,403,102,282,19
 Bullitt,C109,State Treasurer,,DEM,Michael BOWMAN,133,42,84,7
-Bullitt,C109,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C109,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C109,State Treasurer,,,Total Votes,536,144,366,26
 Bullitt,C109,State Treasurer,,,Under Votes,18,8,10,0
 Bullitt,C109,State Treasurer,,,Over Votes,0,0,0,0
@@ -1086,15 +1086,15 @@ Bullitt,C109,Commissioner of Agriculture,,,Under Votes,12,6,6,0
 Bullitt,C109,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C110,STRAIGHT PARTY,,,Republican,170,56,110,4
 Bullitt,C110,STRAIGHT PARTY,,,Democratic,91,38,47,6
-Bullitt,C110,Governor,,REP,Daniel CAMERON,257,85,163,9
-Bullitt,C110,Governor,,DEM,Andy BESHEAR,247,92,138,17
-Bullitt,C110,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C110,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",257,85,163,9
+Bullitt,C110,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,247,92,138,17
+Bullitt,C110,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C110,Governor,,,Total Votes,504,177,301,26
 Bullitt,C110,Governor,,,Under Votes,0,0,0,0
 Bullitt,C110,Governor,,,Over Votes,0,0,0,0
 Bullitt,C110,Secretary of State,,REP,Michael ADAMS,322,114,197,11
 Bullitt,C110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",170,62,93,15
-Bullitt,C110,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C110,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C110,Secretary of State,,,Total Votes,492,176,290,26
 Bullitt,C110,Secretary of State,,,Under Votes,12,1,11,0
 Bullitt,C110,Secretary of State,,,Over Votes,0,0,0,0
@@ -1110,7 +1110,7 @@ Bullitt,C110,Auditor of Public Accounts,,,Under Votes,16,4,12,0
 Bullitt,C110,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C110,State Treasurer,,REP,Mark H. METCALF,312,100,201,11
 Bullitt,C110,State Treasurer,,DEM,Michael BOWMAN,177,74,89,14
-Bullitt,C110,State Treasurer,,,Robert PERRY (W),1,0,1,0
+Bullitt,C110,State Treasurer,,,Robert Perry,1,0,1,0
 Bullitt,C110,State Treasurer,,,Total Votes,490,174,291,25
 Bullitt,C110,State Treasurer,,,Under Votes,14,3,10,1
 Bullitt,C110,State Treasurer,,,Over Votes,0,0,0,0
@@ -1121,15 +1121,15 @@ Bullitt,C110,Commissioner of Agriculture,,,Under Votes,21,4,16,1
 Bullitt,C110,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C111,STRAIGHT PARTY,,,Republican,85,25,54,6
 Bullitt,C111,STRAIGHT PARTY,,,Democratic,28,6,17,5
-Bullitt,C111,Governor,,REP,Daniel CAMERON,119,33,77,9
-Bullitt,C111,Governor,,DEM,Andy BESHEAR,85,31,46,8
-Bullitt,C111,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C111,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,33,77,9
+Bullitt,C111,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,31,46,8
+Bullitt,C111,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C111,Governor,,,Total Votes,204,64,123,17
 Bullitt,C111,Governor,,,Under Votes,0,0,0,0
 Bullitt,C111,Governor,,,Over Votes,0,0,0,0
 Bullitt,C111,Secretary of State,,REP,Michael ADAMS,154,48,95,11
 Bullitt,C111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",48,16,26,6
-Bullitt,C111,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C111,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C111,Secretary of State,,,Total Votes,202,64,121,17
 Bullitt,C111,Secretary of State,,,Under Votes,2,0,2,0
 Bullitt,C111,Secretary of State,,,Over Votes,0,0,0,0
@@ -1145,7 +1145,7 @@ Bullitt,C111,Auditor of Public Accounts,,,Under Votes,2,1,1,0
 Bullitt,C111,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C111,State Treasurer,,REP,Mark H. METCALF,143,43,90,10
 Bullitt,C111,State Treasurer,,DEM,Michael BOWMAN,58,20,31,7
-Bullitt,C111,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C111,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C111,State Treasurer,,,Total Votes,201,63,121,17
 Bullitt,C111,State Treasurer,,,Under Votes,3,1,2,0
 Bullitt,C111,State Treasurer,,,Over Votes,0,0,0,0
@@ -1156,15 +1156,15 @@ Bullitt,C111,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Bullitt,C111,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C112,STRAIGHT PARTY,,,Republican,82,24,56,2
 Bullitt,C112,STRAIGHT PARTY,,,Democratic,42,13,26,3
-Bullitt,C112,Governor,,REP,Daniel CAMERON,130,44,82,4
-Bullitt,C112,Governor,,DEM,Andy BESHEAR,109,37,69,3
-Bullitt,C112,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C112,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",130,44,82,4
+Bullitt,C112,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,109,37,69,3
+Bullitt,C112,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C112,Governor,,,Total Votes,239,81,151,7
 Bullitt,C112,Governor,,,Under Votes,2,1,1,0
 Bullitt,C112,Governor,,,Over Votes,0,0,0,0
 Bullitt,C112,Secretary of State,,REP,Michael ADAMS,150,53,93,4
 Bullitt,C112,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,26,54,3
-Bullitt,C112,Secretary of State,,,Kenneth C. MOELLMAN JR (W),3,2,1,0
+Bullitt,C112,Secretary of State,,,Kenneth C. Moellman Jr.,3,2,1,0
 Bullitt,C112,Secretary of State,,,Total Votes,236,81,148,7
 Bullitt,C112,Secretary of State,,,Under Votes,5,1,4,0
 Bullitt,C112,Secretary of State,,,Over Votes,0,0,0,0
@@ -1180,7 +1180,7 @@ Bullitt,C112,Auditor of Public Accounts,,,Under Votes,9,3,6,0
 Bullitt,C112,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C112,State Treasurer,,REP,Mark H. METCALF,147,47,96,4
 Bullitt,C112,State Treasurer,,DEM,Michael BOWMAN,84,30,51,3
-Bullitt,C112,State Treasurer,,,Robert PERRY (W),2,2,0,0
+Bullitt,C112,State Treasurer,,,Robert Perry,2,2,0,0
 Bullitt,C112,State Treasurer,,,Total Votes,233,79,147,7
 Bullitt,C112,State Treasurer,,,Under Votes,8,3,5,0
 Bullitt,C112,State Treasurer,,,Over Votes,0,0,0,0
@@ -1191,15 +1191,15 @@ Bullitt,C112,Commissioner of Agriculture,,,Under Votes,8,3,5,0
 Bullitt,C112,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,C113,STRAIGHT PARTY,,,Republican,127,19,105,3
 Bullitt,C113,STRAIGHT PARTY,,,Democratic,43,11,30,2
-Bullitt,C113,Governor,,REP,Daniel CAMERON,196,36,157,3
-Bullitt,C113,Governor,,DEM,Andy BESHEAR,111,34,71,6
-Bullitt,C113,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,C113,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",196,36,157,3
+Bullitt,C113,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,34,71,6
+Bullitt,C113,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,C113,Governor,,,Total Votes,307,70,228,9
 Bullitt,C113,Governor,,,Under Votes,1,1,0,0
 Bullitt,C113,Governor,,,Over Votes,0,0,0,0
 Bullitt,C113,Secretary of State,,REP,Michael ADAMS,226,48,175,3
 Bullitt,C113,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,22,49,6
-Bullitt,C113,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,C113,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,C113,Secretary of State,,,Total Votes,303,70,224,9
 Bullitt,C113,Secretary of State,,,Under Votes,5,1,4,0
 Bullitt,C113,Secretary of State,,,Over Votes,0,0,0,0
@@ -1215,7 +1215,7 @@ Bullitt,C113,Auditor of Public Accounts,,,Under Votes,8,1,7,0
 Bullitt,C113,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,C113,State Treasurer,,REP,Mark H. METCALF,219,46,169,4
 Bullitt,C113,State Treasurer,,DEM,Michael BOWMAN,79,22,52,5
-Bullitt,C113,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,C113,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,C113,State Treasurer,,,Total Votes,298,68,221,9
 Bullitt,C113,State Treasurer,,,Under Votes,10,3,7,0
 Bullitt,C113,State Treasurer,,,Over Votes,0,0,0,0
@@ -1226,15 +1226,15 @@ Bullitt,C113,Commissioner of Agriculture,,,Under Votes,10,2,8,0
 Bullitt,C113,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D101,STRAIGHT PARTY,,,Republican,85,4,80,1
 Bullitt,D101,STRAIGHT PARTY,,,Democratic,26,6,19,1
-Bullitt,D101,Governor,,REP,Daniel CAMERON,130,8,119,3
-Bullitt,D101,Governor,,DEM,Andy BESHEAR,89,12,73,4
-Bullitt,D101,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",130,8,119,3
+Bullitt,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,89,12,73,4
+Bullitt,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D101,Governor,,,Total Votes,219,20,192,7
 Bullitt,D101,Governor,,,Under Votes,0,0,0,0
 Bullitt,D101,Governor,,,Over Votes,0,0,0,0
 Bullitt,D101,Secretary of State,,REP,Michael ADAMS,152,11,136,5
 Bullitt,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,8,50,2
-Bullitt,D101,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D101,Secretary of State,,,Total Votes,212,19,186,7
 Bullitt,D101,Secretary of State,,,Under Votes,7,1,6,0
 Bullitt,D101,Secretary of State,,,Over Votes,0,0,0,0
@@ -1250,7 +1250,7 @@ Bullitt,D101,Auditor of Public Accounts,,,Under Votes,6,0,6,0
 Bullitt,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D101,State Treasurer,,REP,Mark H. METCALF,148,9,135,4
 Bullitt,D101,State Treasurer,,DEM,Michael BOWMAN,62,10,49,3
-Bullitt,D101,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D101,State Treasurer,,,Total Votes,210,19,184,7
 Bullitt,D101,State Treasurer,,,Under Votes,9,1,8,0
 Bullitt,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -1261,15 +1261,15 @@ Bullitt,D101,Commissioner of Agriculture,,,Under Votes,11,1,10,0
 Bullitt,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D102,STRAIGHT PARTY,,,Republican,188,12,172,4
 Bullitt,D102,STRAIGHT PARTY,,,Democratic,69,6,60,3
-Bullitt,D102,Governor,,REP,Daniel CAMERON,273,16,250,7
-Bullitt,D102,Governor,,DEM,Andy BESHEAR,193,28,162,3
-Bullitt,D102,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",273,16,250,7
+Bullitt,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,193,28,162,3
+Bullitt,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D102,Governor,,,Total Votes,466,44,412,10
 Bullitt,D102,Governor,,,Under Votes,3,0,2,1
 Bullitt,D102,Governor,,,Over Votes,0,0,0,0
 Bullitt,D102,Secretary of State,,REP,Michael ADAMS,324,26,290,8
 Bullitt,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",135,17,115,3
-Bullitt,D102,Secretary of State,,,Kenneth C. MOELLMAN JR (W),1,0,1,0
+Bullitt,D102,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
 Bullitt,D102,Secretary of State,,,Total Votes,460,43,406,11
 Bullitt,D102,Secretary of State,,,Under Votes,9,1,8,0
 Bullitt,D102,Secretary of State,,,Over Votes,0,0,0,0
@@ -1285,7 +1285,7 @@ Bullitt,D102,Auditor of Public Accounts,,,Under Votes,11,1,10,0
 Bullitt,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D102,State Treasurer,,REP,Mark H. METCALF,319,24,287,8
 Bullitt,D102,State Treasurer,,DEM,Michael BOWMAN,137,19,115,3
-Bullitt,D102,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D102,State Treasurer,,,Total Votes,456,43,402,11
 Bullitt,D102,State Treasurer,,,Under Votes,13,1,12,0
 Bullitt,D102,State Treasurer,,,Over Votes,0,0,0,0
@@ -1296,15 +1296,15 @@ Bullitt,D102,Commissioner of Agriculture,,,Under Votes,13,1,12,0
 Bullitt,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D103,STRAIGHT PARTY,,,Republican,188,45,139,4
 Bullitt,D103,STRAIGHT PARTY,,,Democratic,82,37,36,9
-Bullitt,D103,Governor,,REP,Daniel CAMERON,282,79,197,6
-Bullitt,D103,Governor,,DEM,Andy BESHEAR,237,105,111,21
-Bullitt,D103,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",282,79,197,6
+Bullitt,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,237,105,111,21
+Bullitt,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D103,Governor,,,Total Votes,519,184,308,27
 Bullitt,D103,Governor,,,Under Votes,1,1,0,0
 Bullitt,D103,Governor,,,Over Votes,0,0,0,0
 Bullitt,D103,Secretary of State,,REP,Michael ADAMS,347,112,225,10
 Bullitt,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,70,75,16
-Bullitt,D103,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D103,Secretary of State,,,Total Votes,508,182,300,26
 Bullitt,D103,Secretary of State,,,Under Votes,12,3,8,1
 Bullitt,D103,Secretary of State,,,Over Votes,0,0,0,0
@@ -1320,7 +1320,7 @@ Bullitt,D103,Auditor of Public Accounts,,,Under Votes,13,4,7,2
 Bullitt,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D103,State Treasurer,,REP,Mark H. METCALF,343,101,230,12
 Bullitt,D103,State Treasurer,,DEM,Michael BOWMAN,162,79,70,13
-Bullitt,D103,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D103,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D103,State Treasurer,,,Total Votes,505,180,300,25
 Bullitt,D103,State Treasurer,,,Under Votes,15,5,8,2
 Bullitt,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -1331,15 +1331,15 @@ Bullitt,D103,Commissioner of Agriculture,,,Under Votes,9,2,6,1
 Bullitt,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D104,STRAIGHT PARTY,,,Republican,80,24,55,1
 Bullitt,D104,STRAIGHT PARTY,,,Democratic,30,5,23,2
-Bullitt,D104,Governor,,REP,Daniel CAMERON,108,29,75,4
-Bullitt,D104,Governor,,DEM,Andy BESHEAR,81,18,56,7
-Bullitt,D104,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",108,29,75,4
+Bullitt,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,81,18,56,7
+Bullitt,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D104,Governor,,,Total Votes,189,47,131,11
 Bullitt,D104,Governor,,,Under Votes,3,2,1,0
 Bullitt,D104,Governor,,,Over Votes,0,0,0,0
 Bullitt,D104,Secretary of State,,REP,Michael ADAMS,133,39,90,4
 Bullitt,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,10,40,7
-Bullitt,D104,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D104,Secretary of State,,,Total Votes,190,49,130,11
 Bullitt,D104,Secretary of State,,,Under Votes,2,0,2,0
 Bullitt,D104,Secretary of State,,,Over Votes,0,0,0,0
@@ -1355,7 +1355,7 @@ Bullitt,D104,Auditor of Public Accounts,,,Under Votes,5,0,5,0
 Bullitt,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D104,State Treasurer,,REP,Mark H. METCALF,126,36,85,5
 Bullitt,D104,State Treasurer,,DEM,Michael BOWMAN,59,12,41,6
-Bullitt,D104,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D104,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D104,State Treasurer,,,Total Votes,185,48,126,11
 Bullitt,D104,State Treasurer,,,Under Votes,7,1,6,0
 Bullitt,D104,State Treasurer,,,Over Votes,0,0,0,0
@@ -1366,15 +1366,15 @@ Bullitt,D104,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Bullitt,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D105,STRAIGHT PARTY,,,Republican,385,135,233,17
 Bullitt,D105,STRAIGHT PARTY,,,Democratic,118,56,56,6
-Bullitt,D105,Governor,,REP,Daniel CAMERON,533,188,325,20
-Bullitt,D105,Governor,,DEM,Andy BESHEAR,309,134,156,19
-Bullitt,D105,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",533,188,325,20
+Bullitt,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,309,134,156,19
+Bullitt,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D105,Governor,,,Total Votes,842,322,481,39
 Bullitt,D105,Governor,,,Under Votes,2,0,2,0
 Bullitt,D105,Governor,,,Over Votes,0,0,0,0
 Bullitt,D105,Secretary of State,,REP,Michael ADAMS,615,229,360,26
 Bullitt,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",217,91,113,13
-Bullitt,D105,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D105,Secretary of State,,,Total Votes,832,320,473,39
 Bullitt,D105,Secretary of State,,,Under Votes,11,2,9,0
 Bullitt,D105,Secretary of State,,,Over Votes,1,0,1,0
@@ -1390,7 +1390,7 @@ Bullitt,D105,Auditor of Public Accounts,,,Under Votes,9,2,7,0
 Bullitt,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D105,State Treasurer,,REP,Mark H. METCALF,619,227,366,26
 Bullitt,D105,State Treasurer,,DEM,Michael BOWMAN,214,92,109,13
-Bullitt,D105,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D105,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D105,State Treasurer,,,Total Votes,833,319,475,39
 Bullitt,D105,State Treasurer,,,Under Votes,11,3,8,0
 Bullitt,D105,State Treasurer,,,Over Votes,0,0,0,0
@@ -1401,15 +1401,15 @@ Bullitt,D105,Commissioner of Agriculture,,,Under Votes,12,3,9,0
 Bullitt,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D106,STRAIGHT PARTY,,,Republican,231,59,169,3
 Bullitt,D106,STRAIGHT PARTY,,,Democratic,73,25,33,15
-Bullitt,D106,Governor,,REP,Daniel CAMERON,339,90,246,3
-Bullitt,D106,Governor,,DEM,Andy BESHEAR,192,63,96,33
-Bullitt,D106,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",339,90,246,3
+Bullitt,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,192,63,96,33
+Bullitt,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D106,Governor,,,Total Votes,531,153,342,36
 Bullitt,D106,Governor,,,Under Votes,2,1,0,1
 Bullitt,D106,Governor,,,Over Votes,1,0,0,1
 Bullitt,D106,Secretary of State,,REP,Michael ADAMS,378,105,258,15
 Bullitt,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",139,46,70,23
-Bullitt,D106,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D106,Secretary of State,,,Total Votes,517,151,328,38
 Bullitt,D106,Secretary of State,,,Under Votes,17,3,14,0
 Bullitt,D106,Secretary of State,,,Over Votes,0,0,0,0
@@ -1425,7 +1425,7 @@ Bullitt,D106,Auditor of Public Accounts,,,Under Votes,16,3,12,1
 Bullitt,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D106,State Treasurer,,REP,Mark H. METCALF,371,97,262,12
 Bullitt,D106,State Treasurer,,DEM,Michael BOWMAN,146,54,67,25
-Bullitt,D106,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D106,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D106,State Treasurer,,,Total Votes,517,151,329,37
 Bullitt,D106,State Treasurer,,,Under Votes,17,3,13,1
 Bullitt,D106,State Treasurer,,,Over Votes,0,0,0,0
@@ -1436,15 +1436,15 @@ Bullitt,D106,Commissioner of Agriculture,,,Under Votes,21,5,15,1
 Bullitt,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D107,STRAIGHT PARTY,,,Republican,436,162,256,18
 Bullitt,D107,STRAIGHT PARTY,,,Democratic,114,46,52,16
-Bullitt,D107,Governor,,REP,Daniel CAMERON,595,219,354,22
-Bullitt,D107,Governor,,DEM,Andy BESHEAR,296,126,138,32
-Bullitt,D107,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",595,219,354,22
+Bullitt,D107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,296,126,138,32
+Bullitt,D107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D107,Governor,,,Total Votes,891,345,492,54
 Bullitt,D107,Governor,,,Under Votes,3,0,3,0
 Bullitt,D107,Governor,,,Over Votes,0,0,0,0
 Bullitt,D107,Secretary of State,,REP,Michael ADAMS,685,264,391,30
 Bullitt,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",197,77,96,24
-Bullitt,D107,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D107,Secretary of State,,,Total Votes,882,341,487,54
 Bullitt,D107,Secretary of State,,,Under Votes,12,4,8,0
 Bullitt,D107,Secretary of State,,,Over Votes,0,0,0,0
@@ -1460,7 +1460,7 @@ Bullitt,D107,Auditor of Public Accounts,,,Under Votes,17,5,11,1
 Bullitt,D107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D107,State Treasurer,,REP,Mark H. METCALF,667,252,389,26
 Bullitt,D107,State Treasurer,,DEM,Michael BOWMAN,211,88,96,27
-Bullitt,D107,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D107,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D107,State Treasurer,,,Total Votes,878,340,485,53
 Bullitt,D107,State Treasurer,,,Under Votes,16,5,10,1
 Bullitt,D107,State Treasurer,,,Over Votes,0,0,0,0
@@ -1471,15 +1471,15 @@ Bullitt,D107,Commissioner of Agriculture,,,Under Votes,17,6,10,1
 Bullitt,D107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D108,STRAIGHT PARTY,,,Republican,141,43,95,3
 Bullitt,D108,STRAIGHT PARTY,,,Democratic,83,33,39,11
-Bullitt,D108,Governor,,REP,Daniel CAMERON,254,83,164,7
-Bullitt,D108,Governor,,DEM,Andy BESHEAR,195,74,101,20
-Bullitt,D108,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",254,83,164,7
+Bullitt,D108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,195,74,101,20
+Bullitt,D108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D108,Governor,,,Total Votes,449,157,265,27
 Bullitt,D108,Governor,,,Under Votes,2,0,2,0
 Bullitt,D108,Governor,,,Over Votes,0,0,0,0
 Bullitt,D108,Secretary of State,,REP,Michael ADAMS,286,96,181,9
 Bullitt,D108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,56,80,18
-Bullitt,D108,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D108,Secretary of State,,,Total Votes,440,152,261,27
 Bullitt,D108,Secretary of State,,,Under Votes,11,5,6,0
 Bullitt,D108,Secretary of State,,,Over Votes,0,0,0,0
@@ -1495,7 +1495,7 @@ Bullitt,D108,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Bullitt,D108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D108,State Treasurer,,REP,Mark H. METCALF,287,91,186,10
 Bullitt,D108,State Treasurer,,DEM,Michael BOWMAN,155,62,76,17
-Bullitt,D108,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D108,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D108,State Treasurer,,,Total Votes,442,153,262,27
 Bullitt,D108,State Treasurer,,,Under Votes,9,4,5,0
 Bullitt,D108,State Treasurer,,,Over Votes,0,0,0,0
@@ -1506,15 +1506,15 @@ Bullitt,D108,Commissioner of Agriculture,,,Under Votes,9,5,4,0
 Bullitt,D108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D110,STRAIGHT PARTY,,,Republican,372,117,241,14
 Bullitt,D110,STRAIGHT PARTY,,,Democratic,144,59,77,8
-Bullitt,D110,Governor,,REP,Daniel CAMERON,584,182,387,15
-Bullitt,D110,Governor,,DEM,Andy BESHEAR,440,194,223,23
-Bullitt,D110,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D110,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",584,182,387,15
+Bullitt,D110,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,440,194,223,23
+Bullitt,D110,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D110,Governor,,,Total Votes,0,376,610,38
 Bullitt,D110,Governor,,,Under Votes,1,0,1,0
 Bullitt,D110,Governor,,,Over Votes,0,0,0,0
 Bullitt,D110,Secretary of State,,REP,Michael ADAMS,718,253,446,19
 Bullitt,D110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",284,117,151,16
-Bullitt,D110,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D110,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D110,Secretary of State,,,Total Votes,1002,370,597,35
 Bullitt,D110,Secretary of State,,,Under Votes,23,6,14,3
 Bullitt,D110,Secretary of State,,,Over Votes,0,0,0,0
@@ -1530,7 +1530,7 @@ Bullitt,D110,Auditor of Public Accounts,,,Under Votes,26,7,16,3
 Bullitt,D110,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Bullitt,D110,State Treasurer,,REP,Mark H. METCALF,681,223,440,18
 Bullitt,D110,State Treasurer,,DEM,Michael BOWMAN,306,138,152,16
-Bullitt,D110,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D110,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D110,State Treasurer,,,Total Votes,987,361,592,34
 Bullitt,D110,State Treasurer,,,Under Votes,38,15,19,4
 Bullitt,D110,State Treasurer,,,Over Votes,0,0,0,0
@@ -1541,15 +1541,15 @@ Bullitt,D110,Commissioner of Agriculture,,,Under Votes,30,8,20,2
 Bullitt,D110,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D111,STRAIGHT PARTY,,,Republican,135,45,89,1
 Bullitt,D111,STRAIGHT PARTY,,,Democratic,46,24,15,7
-Bullitt,D111,Governor,,REP,Daniel CAMERON,207,67,136,4
-Bullitt,D111,Governor,,DEM,Andy BESHEAR,166,66,89,11
-Bullitt,D111,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D111,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",207,67,136,4
+Bullitt,D111,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,166,66,89,11
+Bullitt,D111,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D111,Governor,,,Total Votes,373,133,225,15
 Bullitt,D111,Governor,,,Under Votes,3,1,2,0
 Bullitt,D111,Governor,,,Over Votes,0,0,0,0
 Bullitt,D111,Secretary of State,,REP,Michael ADAMS,259,91,160,8
 Bullitt,D111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,39,55,7
-Bullitt,D111,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D111,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D111,Secretary of State,,,Total Votes,360,130,215,15
 Bullitt,D111,Secretary of State,,,Under Votes,16,4,12,0
 Bullitt,D111,Secretary of State,,,Over Votes,0,0,0,0
@@ -1565,7 +1565,7 @@ Bullitt,D111,Auditor of Public Accounts,,,Under Votes,20,7,12,1
 Bullitt,D111,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D111,State Treasurer,,REP,Mark H. METCALF,251,83,164,4
 Bullitt,D111,State Treasurer,,DEM,Michael BOWMAN,108,48,49,11
-Bullitt,D111,State Treasurer,,,Robert PERRY (W),1,0,1,0
+Bullitt,D111,State Treasurer,,,Robert Perry,1,0,1,0
 Bullitt,D111,State Treasurer,,,Total Votes,360,131,214,15
 Bullitt,D111,State Treasurer,,,Under Votes,16,3,13,0
 Bullitt,D111,State Treasurer,,,Over Votes,0,0,0,0
@@ -1576,15 +1576,15 @@ Bullitt,D111,Commissioner of Agriculture,,,Under Votes,21,6,15,0
 Bullitt,D111,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D113,STRAIGHT PARTY,,,Republican,85,11,71,3
 Bullitt,D113,STRAIGHT PARTY,,,Democratic,42,14,25,3
-Bullitt,D113,Governor,,REP,Daniel CAMERON,108,16,90,2
-Bullitt,D113,Governor,,DEM,Andy BESHEAR,93,27,60,6
-Bullitt,D113,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D113,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",108,16,90,2
+Bullitt,D113,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,93,27,60,6
+Bullitt,D113,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D113,Governor,,,Total Votes,201,43,150,8
 Bullitt,D113,Governor,,,Under Votes,1,0,1,0
 Bullitt,D113,Governor,,,Over Votes,0,0,0,0
 Bullitt,D113,Secretary of State,,REP,Michael ADAMS,128,20,104,4
 Bullitt,D113,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,23,46,4
-Bullitt,D113,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D113,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D113,Secretary of State,,,Total Votes,201,43,150,8
 Bullitt,D113,Secretary of State,,,Under Votes,1,0,1,0
 Bullitt,D113,Secretary of State,,,Over Votes,0,0,0,0
@@ -1600,7 +1600,7 @@ Bullitt,D113,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Bullitt,D113,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D113,State Treasurer,,REP,Mark H. METCALF,126,18,104,4
 Bullitt,D113,State Treasurer,,DEM,Michael BOWMAN,76,25,47,4
-Bullitt,D113,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D113,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D113,State Treasurer,,,Total Votes,202,43,151,8
 Bullitt,D113,State Treasurer,,,Under Votes,0,0,0,0
 Bullitt,D113,State Treasurer,,,Over Votes,0,0,0,0
@@ -1611,15 +1611,15 @@ Bullitt,D113,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Bullitt,D113,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Bullitt,D114,STRAIGHT PARTY,,,Republican,54,12,38,4
 Bullitt,D114,STRAIGHT PARTY,,,Democratic,31,8,21,2
-Bullitt,D114,Governor,,REP,Daniel CAMERON,101,23,72,6
-Bullitt,D114,Governor,,DEM,Andy BESHEAR,71,22,45,4
-Bullitt,D114,Governor,,,Brian FISHBACK (W),0,0,0,0
+Bullitt,D114,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",101,23,72,6
+Bullitt,D114,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,71,22,45,4
+Bullitt,D114,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Bullitt,D114,Governor,,,Total Votes,172,45,117,10
 Bullitt,D114,Governor,,,Under Votes,0,0,0,0
 Bullitt,D114,Governor,,,Over Votes,0,0,0,0
 Bullitt,D114,Secretary of State,,REP,Michael ADAMS,114,27,81,6
 Bullitt,D114,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,16,34,3
-Bullitt,D114,Secretary of State,,,Kenneth C. MOELLMAN JR (W),0,0,0,0
+Bullitt,D114,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Bullitt,D114,Secretary of State,,,Total Votes,167,43,115,9
 Bullitt,D114,Secretary of State,,,Under Votes,5,2,2,1
 Bullitt,D114,Secretary of State,,,Over Votes,0,0,0,0
@@ -1635,7 +1635,7 @@ Bullitt,D114,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Bullitt,D114,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Bullitt,D114,State Treasurer,,REP,Mark H. METCALF,113,28,79,6
 Bullitt,D114,State Treasurer,,DEM,Michael BOWMAN,54,15,36,3
-Bullitt,D114,State Treasurer,,,Robert PERRY (W),0,0,0,0
+Bullitt,D114,State Treasurer,,,Robert Perry,0,0,0,0
 Bullitt,D114,State Treasurer,,,Total Votes,167,43,115,9
 Bullitt,D114,State Treasurer,,,Under Votes,5,2,2,1
 Bullitt,D114,State Treasurer,,,Over Votes,0,0,0,0

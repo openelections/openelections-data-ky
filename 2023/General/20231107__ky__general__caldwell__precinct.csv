@@ -1,9 +1,9 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Caldwell,A101,STRAIGHT PARTY,,,Republican,127,7,116,4
 Caldwell,A101,STRAIGHT PARTY,,,Democratic,27,4,22,1
-Caldwell,A101,Governor,,REP,Daniel CAMERON,204,9,190,5
-Caldwell,A101,Governor,,DEM,Andy BESHEAR,87,8,78,1
-Caldwell,A101,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",204,9,190,5
+Caldwell,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,87,8,78,1
+Caldwell,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,A101,Governor,,,Total Votes,291,17,268,6
 Caldwell,A101,Governor,,,Under Votes,0,0,0,0
 Caldwell,A101,Governor,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Caldwell,A101,Auditor of Public Accounts,,,Under Votes,2,0,2,0
 Caldwell,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,A101,State Treasurer,,REP,Mark H. METCALF,222,10,207,5
 Caldwell,A101,State Treasurer,,DEM,Michael BOWMAN,64,7,56,1
-Caldwell,A101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,A101,State Treasurer,,,Total Votes,286,17,263,6
 Caldwell,A101,State Treasurer,,,Under Votes,5,0,5,0
 Caldwell,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -40,9 +40,9 @@ Caldwell,A101,Commissioner of Agriculture,,,Under Votes,402,27,369,6
 Caldwell,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,A102,STRAIGHT PARTY,,,Republican,127,14,109,4
 Caldwell,A102,STRAIGHT PARTY,,,Democratic,21,2,16,3
-Caldwell,A102,Governor,,REP,Daniel CAMERON,179,18,156,5
-Caldwell,A102,Governor,,DEM,Andy BESHEAR,79,8,65,6
-Caldwell,A102,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",179,18,156,5
+Caldwell,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,79,8,65,6
+Caldwell,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,A102,Governor,,,Total Votes,258,26,221,11
 Caldwell,A102,Governor,,,Under Votes,0,0,0,0
 Caldwell,A102,Governor,,,Over Votes,0,0,0,0
@@ -64,7 +64,7 @@ Caldwell,A102,Auditor of Public Accounts,,,Under Votes,5,0,5,0
 Caldwell,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,A102,State Treasurer,,REP,Mark H. METCALF,205,23,174,8
 Caldwell,A102,State Treasurer,,DEM,Michael BOWMAN,49,3,43,3
-Caldwell,A102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,A102,State Treasurer,,,Total Votes,254,26,217,11
 Caldwell,A102,State Treasurer,,,Under Votes,4,0,4,0
 Caldwell,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -75,9 +75,9 @@ Caldwell,A102,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Caldwell,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,A103,STRAIGHT PARTY,,,Republican,118,41,72,5
 Caldwell,A103,STRAIGHT PARTY,,,Democratic,61,24,27,10
-Caldwell,A103,Governor,,REP,Daniel CAMERON,185,56,123,6
-Caldwell,A103,Governor,,DEM,Andy BESHEAR,153,56,78,19
-Caldwell,A103,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,56,123,6
+Caldwell,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,153,56,78,19
+Caldwell,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,A103,Governor,,,Total Votes,338,112,201,25
 Caldwell,A103,Governor,,,Under Votes,2,0,2,0
 Caldwell,A103,Governor,,,Over Votes,0,0,0,0
@@ -99,7 +99,7 @@ Caldwell,A103,Auditor of Public Accounts,,,Under Votes,7,1,6,0
 Caldwell,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,A103,State Treasurer,,REP,Mark H. METCALF,215,66,139,10
 Caldwell,A103,State Treasurer,,DEM,Michael BOWMAN,117,44,58,15
-Caldwell,A103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,A103,State Treasurer,,,Total Votes,332,110,197,25
 Caldwell,A103,State Treasurer,,,Under Votes,8,2,6,0
 Caldwell,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -110,9 +110,9 @@ Caldwell,A103,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Caldwell,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,B101,STRAIGHT PARTY,,,Republican,165,45,114,6
 Caldwell,B101,STRAIGHT PARTY,,,Democratic,42,10,26,6
-Caldwell,B101,Governor,,REP,Daniel CAMERON,235,68,154,13
-Caldwell,B101,Governor,,DEM,Andy BESHEAR,119,39,71,9
-Caldwell,B101,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",235,68,154,13
+Caldwell,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,119,39,71,9
+Caldwell,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,B101,Governor,,,Total Votes,354,107,225,22
 Caldwell,B101,Governor,,,Under Votes,0,0,0,0
 Caldwell,B101,Governor,,,Over Votes,0,0,0,0
@@ -134,7 +134,7 @@ Caldwell,B101,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Caldwell,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,B101,State Treasurer,,REP,Mark H. METCALF,261,79,171,11
 Caldwell,B101,State Treasurer,,DEM,Michael BOWMAN,84,27,47,10
-Caldwell,B101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,B101,State Treasurer,,,Total Votes,345,106,218,21
 Caldwell,B101,State Treasurer,,,Under Votes,8,1,7,0
 Caldwell,B101,State Treasurer,,,Over Votes,1,0,0,1
@@ -145,9 +145,9 @@ Caldwell,B101,Commissioner of Agriculture,,,Under Votes,2,1,1,0
 Caldwell,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,B102,STRAIGHT PARTY,,,Republican,123,28,91,4
 Caldwell,B102,STRAIGHT PARTY,,,Democratic,29,4,21,4
-Caldwell,B102,Governor,,REP,Daniel CAMERON,179,45,130,4
-Caldwell,B102,Governor,,DEM,Andy BESHEAR,83,24,53,6
-Caldwell,B102,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",179,45,130,4
+Caldwell,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,24,53,6
+Caldwell,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,B102,Governor,,,Total Votes,262,69,183,10
 Caldwell,B102,Governor,,,Under Votes,2,1,1,0
 Caldwell,B102,Governor,,,Over Votes,0,0,0,0
@@ -169,7 +169,7 @@ Caldwell,B102,Auditor of Public Accounts,,,Under Votes,3,1,2,0
 Caldwell,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,B102,State Treasurer,,REP,Mark H. METCALF,194,49,141,4
 Caldwell,B102,State Treasurer,,DEM,Michael BOWMAN,65,19,40,6
-Caldwell,B102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,B102,State Treasurer,,,Total Votes,259,68,181,10
 Caldwell,B102,State Treasurer,,,Under Votes,5,2,3,0
 Caldwell,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -180,9 +180,9 @@ Caldwell,B102,Commissioner of Agriculture,,,Under Votes,3,0,3,0
 Caldwell,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,B103,STRAIGHT PARTY,,,Republican,55,13,38,4
 Caldwell,B103,STRAIGHT PARTY,,,Democratic,62,10,46,6
-Caldwell,B103,Governor,,REP,Daniel CAMERON,74,21,49,4
-Caldwell,B103,Governor,,DEM,Andy BESHEAR,117,28,79,10
-Caldwell,B103,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",74,21,49,4
+Caldwell,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,117,28,79,10
+Caldwell,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,B103,Governor,,,Total Votes,191,49,128,14
 Caldwell,B103,Governor,,,Under Votes,0,0,0,0
 Caldwell,B103,Governor,,,Over Votes,0,0,0,0
@@ -204,7 +204,7 @@ Caldwell,B103,Auditor of Public Accounts,,,Under Votes,2,2,0,0
 Caldwell,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,B103,State Treasurer,,REP,Mark H. METCALF,94,28,59,7
 Caldwell,B103,State Treasurer,,DEM,Michael BOWMAN,93,19,67,7
-Caldwell,B103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,B103,State Treasurer,,,Total Votes,187,47,126,14
 Caldwell,B103,State Treasurer,,,Under Votes,4,2,2,0
 Caldwell,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -215,9 +215,9 @@ Caldwell,B103,Commissioner of Agriculture,,,Under Votes,6,2,4,0
 Caldwell,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,C101,STRAIGHT PARTY,,,Republican,167,16,149,2
 Caldwell,C101,STRAIGHT PARTY,,,Democratic,57,9,39,9
-Caldwell,C101,Governor,,REP,Daniel CAMERON,233,18,213,2
-Caldwell,C101,Governor,,DEM,Andy BESHEAR,168,21,133,14
-Caldwell,C101,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",233,18,213,2
+Caldwell,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,168,21,133,14
+Caldwell,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,C101,Governor,,,Total Votes,401,39,346,16
 Caldwell,C101,Governor,,,Under Votes,1,0,1,0
 Caldwell,C101,Governor,,,Over Votes,0,0,0,0
@@ -239,7 +239,7 @@ Caldwell,C101,Auditor of Public Accounts,,,Under Votes,9,2,7,0
 Caldwell,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,C101,State Treasurer,,REP,Mark H. METCALF,279,22,254,3
 Caldwell,C101,State Treasurer,,DEM,Michael BOWMAN,110,15,82,13
-Caldwell,C101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,C101,State Treasurer,,,Total Votes,389,37,336,16
 Caldwell,C101,State Treasurer,,,Under Votes,13,2,11,0
 Caldwell,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -250,9 +250,9 @@ Caldwell,C101,Commissioner of Agriculture,,,Under Votes,12,2,10,0
 Caldwell,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,C102,STRAIGHT PARTY,,,Republican,76,16,60,0
 Caldwell,C102,STRAIGHT PARTY,,,Democratic,30,12,16,2
-Caldwell,C102,Governor,,REP,Daniel CAMERON,102,24,78,0
-Caldwell,C102,Governor,,DEM,Andy BESHEAR,80,23,55,2
-Caldwell,C102,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",102,24,78,0
+Caldwell,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,23,55,2
+Caldwell,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,C102,Governor,,,Total Votes,182,47,133,2
 Caldwell,C102,Governor,,,Under Votes,0,0,0,0
 Caldwell,C102,Governor,,,Over Votes,0,0,0,0
@@ -274,7 +274,7 @@ Caldwell,C102,Auditor of Public Accounts,,,Under Votes,7,4,3,0
 Caldwell,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,C102,State Treasurer,,REP,Mark H. METCALF,120,27,93,0
 Caldwell,C102,State Treasurer,,DEM,Michael BOWMAN,54,15,37,2
-Caldwell,C102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,C102,State Treasurer,,,Total Votes,174,42,130,2
 Caldwell,C102,State Treasurer,,,Under Votes,8,5,3,0
 Caldwell,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -285,9 +285,9 @@ Caldwell,C102,Commissioner of Agriculture,,,Under Votes,6,3,3,0
 Caldwell,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,C103,STRAIGHT PARTY,,,Republican,95,27,65,3
 Caldwell,C103,STRAIGHT PARTY,,,Democratic,64,23,34,7
-Caldwell,C103,Governor,,REP,Daniel CAMERON,140,36,100,4
-Caldwell,C103,Governor,,DEM,Andy BESHEAR,155,49,92,14
-Caldwell,C103,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",140,36,100,4
+Caldwell,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,155,49,92,14
+Caldwell,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,C103,Governor,,,Total Votes,295,85,192,18
 Caldwell,C103,Governor,,,Under Votes,2,1,1,0
 Caldwell,C103,Governor,,,Over Votes,0,0,0,0
@@ -309,7 +309,7 @@ Caldwell,C103,Auditor of Public Accounts,,,Under Votes,7,1,5,1
 Caldwell,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,C103,State Treasurer,,REP,Mark H. METCALF,171,43,120,8
 Caldwell,C103,State Treasurer,,DEM,Michael BOWMAN,117,37,70,10
-Caldwell,C103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,C103,State Treasurer,,,Total Votes,288,80,190,18
 Caldwell,C103,State Treasurer,,,Under Votes,9,6,3,0
 Caldwell,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -320,9 +320,9 @@ Caldwell,C103,Commissioner of Agriculture,,,Under Votes,10,6,3,1
 Caldwell,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,D101,STRAIGHT PARTY,,,Republican,124,46,72,6
 Caldwell,D101,STRAIGHT PARTY,,,Democratic,43,20,20,3
-Caldwell,D101,Governor,,REP,Daniel CAMERON,189,61,122,6
-Caldwell,D101,Governor,,DEM,Andy BESHEAR,84,37,42,5
-Caldwell,D101,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",189,61,122,6
+Caldwell,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,84,37,42,5
+Caldwell,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,D101,Governor,,,Total Votes,273,98,164,11
 Caldwell,D101,Governor,,,Under Votes,0,0,0,0
 Caldwell,D101,Governor,,,Over Votes,0,0,0,0
@@ -344,7 +344,7 @@ Caldwell,D101,Auditor of Public Accounts,,,Under Votes,5,1,4,0
 Caldwell,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,D101,State Treasurer,,REP,Mark H. METCALF,196,63,127,6
 Caldwell,D101,State Treasurer,,DEM,Michael BOWMAN,72,34,33,5
-Caldwell,D101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,D101,State Treasurer,,,Total Votes,268,97,160,11
 Caldwell,D101,State Treasurer,,,Under Votes,5,1,4,0
 Caldwell,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -355,9 +355,9 @@ Caldwell,D101,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Caldwell,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,D102,STRAIGHT PARTY,,,Republican,69,17,49,3
 Caldwell,D102,STRAIGHT PARTY,,,Democratic,25,9,12,4
-Caldwell,D102,Governor,,REP,Daniel CAMERON,104,30,71,3
-Caldwell,D102,Governor,,DEM,Andy BESHEAR,85,28,52,5
-Caldwell,D102,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",104,30,71,3
+Caldwell,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,28,52,5
+Caldwell,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,D102,Governor,,,Total Votes,189,58,123,8
 Caldwell,D102,Governor,,,Under Votes,1,0,1,0
 Caldwell,D102,Governor,,,Over Votes,0,0,0,0
@@ -379,7 +379,7 @@ Caldwell,D102,Auditor of Public Accounts,,,Under Votes,7,1,6,0
 Caldwell,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,D102,State Treasurer,,REP,Mark H. METCALF,119,36,80,3
 Caldwell,D102,State Treasurer,,DEM,Michael BOWMAN,62,22,36,4
-Caldwell,D102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,D102,State Treasurer,,,Total Votes,181,58,116,7
 Caldwell,D102,State Treasurer,,,Under Votes,9,0,8,1
 Caldwell,D102,State Treasurer,,,Over Votes,0,0,0,0
@@ -390,9 +390,9 @@ Caldwell,D102,Commissioner of Agriculture,,,Under Votes,8,1,7,0
 Caldwell,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,D103,STRAIGHT PARTY,,,Republican,167,52,103,12
 Caldwell,D103,STRAIGHT PARTY,,,Democratic,64,31,28,5
-Caldwell,D103,Governor,,REP,Daniel CAMERON,273,83,174,16
-Caldwell,D103,Governor,,DEM,Andy BESHEAR,184,81,91,12
-Caldwell,D103,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",273,83,174,16
+Caldwell,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,184,81,91,12
+Caldwell,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,D103,Governor,,,Total Votes,457,164,265,28
 Caldwell,D103,Governor,,,Under Votes,2,1,1,0
 Caldwell,D103,Governor,,,Over Votes,0,0,0,0
@@ -414,7 +414,7 @@ Caldwell,D103,Auditor of Public Accounts,,,Under Votes,17,5,7,5
 Caldwell,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,D103,State Treasurer,,REP,Mark H. METCALF,322,103,203,16
 Caldwell,D103,State Treasurer,,DEM,Michael BOWMAN,116,56,53,7
-Caldwell,D103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,D103,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,D103,State Treasurer,,,Total Votes,438,159,256,23
 Caldwell,D103,State Treasurer,,,Under Votes,21,6,10,5
 Caldwell,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -425,9 +425,9 @@ Caldwell,D103,Commissioner of Agriculture,,,Under Votes,19,3,11,5
 Caldwell,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Caldwell,D104,STRAIGHT PARTY,,,Republican,117,37,79,1
 Caldwell,D104,STRAIGHT PARTY,,,Democratic,52,25,21,6
-Caldwell,D104,Governor,,REP,Daniel CAMERON,182,59,122,1
-Caldwell,D104,Governor,,DEM,Andy BESHEAR,125,50,64,11
-Caldwell,D104,Governor,,,"Fishback, Brian / Fishback, William (W)",0,0,0,0
+Caldwell,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",182,59,122,1
+Caldwell,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,125,50,64,11
+Caldwell,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Caldwell,D104,Governor,,,Total Votes,307,109,186,12
 Caldwell,D104,Governor,,,Under Votes,2,0,2,0
 Caldwell,D104,Governor,,,Over Votes,0,0,0,0
@@ -449,7 +449,7 @@ Caldwell,D104,Auditor of Public Accounts,,,Under Votes,5,3,2,0
 Caldwell,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Caldwell,D104,State Treasurer,,REP,Mark H. METCALF,209,65,141,3
 Caldwell,D104,State Treasurer,,DEM,Michael BOWMAN,94,40,45,9
-Caldwell,D104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Caldwell,D104,State Treasurer,,,Robert Perry,0,0,0,0
 Caldwell,D104,State Treasurer,,,Total Votes,303,105,186,12
 Caldwell,D104,State Treasurer,,,Under Votes,6,4,2,0
 Caldwell,D104,State Treasurer,,,Over Votes,0,0,0,0

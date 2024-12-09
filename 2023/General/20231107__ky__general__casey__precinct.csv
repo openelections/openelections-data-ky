@@ -1,8 +1,8 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Casey,A101,STRAIGHT PARTY,,,Republican,221,21,194,6
 Casey,A101,STRAIGHT PARTY,,,Democratic,20,6,13,1
-Casey,A101,Governor,,REP,Daniel CAMERON,289,33,249,7
-Casey,A101,Governor,,DEM,Andy BESHEAR,83,17,60,6
+Casey,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",289,33,249,7
+Casey,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,17,60,6
 Casey,A101,Governor,,,Total Votes,372,50,309,13
 Casey,A101,Governor,,,Under Votes,2,0,2,0
 Casey,A101,Governor,,,Over Votes,0,0,0,0
@@ -33,8 +33,8 @@ Casey,A101,Commissioner of Agriculture,,,Under Votes,10,2,7,1
 Casey,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,A102,STRAIGHT PARTY,,,Republican,103,28,71,4
 Casey,A102,STRAIGHT PARTY,,,Democratic,13,4,9,0
-Casey,A102,Governor,,REP,Daniel CAMERON,138,41,92,5
-Casey,A102,Governor,,DEM,Andy BESHEAR,59,22,33,4
+Casey,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",138,41,92,5
+Casey,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,59,22,33,4
 Casey,A102,Governor,,,Total Votes,197,63,125,9
 Casey,A102,Governor,,,Under Votes,1,0,1,0
 Casey,A102,Governor,,,Over Votes,0,0,0,0
@@ -65,8 +65,8 @@ Casey,A102,Commissioner of Agriculture,,,Under Votes,3,2,1,0
 Casey,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,A103,STRAIGHT PARTY,,,Republican,201,47,153,1
 Casey,A103,STRAIGHT PARTY,,,Democratic,30,14,12,4
-Casey,A103,Governor,,REP,Daniel CAMERON,267,57,209,1
-Casey,A103,Governor,,DEM,Andy BESHEAR,95,40,49,6
+Casey,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",267,57,209,1
+Casey,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,40,49,6
 Casey,A103,Governor,,,Total Votes,362,97,258,7
 Casey,A103,Governor,,,Under Votes,2,1,1,0
 Casey,A103,Governor,,,Over Votes,0,0,0,0
@@ -97,8 +97,8 @@ Casey,A103,Commissioner of Agriculture,,,Under Votes,8,2,6,0
 Casey,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,A104,STRAIGHT PARTY,,,Republican,88,21,64,3
 Casey,A104,STRAIGHT PARTY,,,Democratic,8,3,5,0
-Casey,A104,Governor,,REP,Daniel CAMERON,111,23,85,3
-Casey,A104,Governor,,DEM,Andy BESHEAR,41,10,30,1
+Casey,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,23,85,3
+Casey,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,41,10,30,1
 Casey,A104,Governor,,,Total Votes,152,33,115,4
 Casey,A104,Governor,,,Under Votes,1,1,0,0
 Casey,A104,Governor,,,Over Votes,0,0,0,0
@@ -129,8 +129,8 @@ Casey,A104,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Casey,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,B101,STRAIGHT PARTY,,,Republican,168,36,130,2
 Casey,B101,STRAIGHT PARTY,,,Democratic,29,9,20,0
-Casey,B101,Governor,,REP,Daniel CAMERON,213,44,164,5
-Casey,B101,Governor,,DEM,Andy BESHEAR,74,29,45,0
+Casey,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",213,44,164,5
+Casey,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,74,29,45,0
 Casey,B101,Governor,,,Total Votes,287,73,209,5
 Casey,B101,Governor,,,Under Votes,0,0,0,0
 Casey,B101,Governor,,,Over Votes,0,0,0,0
@@ -161,8 +161,8 @@ Casey,B101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Casey,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,B102,STRAIGHT PARTY,,,Republican,336,90,240,6
 Casey,B102,STRAIGHT PARTY,,,Democratic,41,17,24,0
-Casey,B102,Governor,,REP,Daniel CAMERON,479,129,341,9
-Casey,B102,Governor,,DEM,Andy BESHEAR,120,44,73,3
+Casey,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",479,129,341,9
+Casey,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,44,73,3
 Casey,B102,Governor,,,Total Votes,599,173,414,12
 Casey,B102,Governor,,,Under Votes,1,1,0,0
 Casey,B102,Governor,,,Over Votes,0,0,0,0
@@ -193,8 +193,8 @@ Casey,B102,Commissioner of Agriculture,,,Under Votes,13,5,8,0
 Casey,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,B103,STRAIGHT PARTY,,,Republican,88,17,69,2
 Casey,B103,STRAIGHT PARTY,,,Democratic,40,14,16,10
-Casey,B103,Governor,,REP,Daniel CAMERON,123,27,93,3
-Casey,B103,Governor,,DEM,Andy BESHEAR,95,28,52,15
+Casey,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",123,27,93,3
+Casey,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,28,52,15
 Casey,B103,Governor,,,Total Votes,218,55,145,18
 Casey,B103,Governor,,,Under Votes,0,0,0,0
 Casey,B103,Governor,,,Over Votes,0,0,0,0
@@ -225,8 +225,8 @@ Casey,B103,Commissioner of Agriculture,,,Under Votes,4,1,2,1
 Casey,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,C101,STRAIGHT PARTY,,,Republican,136,26,109,1
 Casey,C101,STRAIGHT PARTY,,,Democratic,43,16,19,8
-Casey,C101,Governor,,REP,Daniel CAMERON,201,34,165,2
-Casey,C101,Governor,,DEM,Andy BESHEAR,110,40,60,10
+Casey,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",201,34,165,2
+Casey,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,110,40,60,10
 Casey,C101,Governor,,,Total Votes,311,74,225,12
 Casey,C101,Governor,,,Under Votes,1,0,1,0
 Casey,C101,Governor,,,Over Votes,0,0,0,0
@@ -257,8 +257,8 @@ Casey,C101,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Casey,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,C102,STRAIGHT PARTY,,,Republican,218,71,141,6
 Casey,C102,STRAIGHT PARTY,,,Democratic,11,1,8,2
-Casey,C102,Governor,,REP,Daniel CAMERON,296,92,198,6
-Casey,C102,Governor,,DEM,Andy BESHEAR,85,24,53,8
+Casey,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",296,92,198,6
+Casey,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,24,53,8
 Casey,C102,Governor,,,Total Votes,381,116,251,14
 Casey,C102,Governor,,,Under Votes,1,0,1,0
 Casey,C102,Governor,,,Over Votes,0,0,0,0
@@ -289,8 +289,8 @@ Casey,C102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Casey,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,C103,STRAIGHT PARTY,,,Republican,136,20,115,1
 Casey,C103,STRAIGHT PARTY,,,Democratic,10,2,6,2
-Casey,C103,Governor,,REP,Daniel CAMERON,183,32,149,2
-Casey,C103,Governor,,DEM,Andy BESHEAR,44,8,32,4
+Casey,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",183,32,149,2
+Casey,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,44,8,32,4
 Casey,C103,Governor,,,Total Votes,227,40,181,6
 Casey,C103,Governor,,,Under Votes,4,1,3,0
 Casey,C103,Governor,,,Over Votes,0,0,0,0
@@ -321,8 +321,8 @@ Casey,C103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Casey,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,C104,STRAIGHT PARTY,,,Republican,91,20,69,2
 Casey,C104,STRAIGHT PARTY,,,Democratic,20,5,15,0
-Casey,C104,Governor,,REP,Daniel CAMERON,110,25,83,2
-Casey,C104,Governor,,DEM,Andy BESHEAR,61,21,40,0
+Casey,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",110,25,83,2
+Casey,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,61,21,40,0
 Casey,C104,Governor,,,Total Votes,171,46,123,2
 Casey,C104,Governor,,,Under Votes,0,0,0,0
 Casey,C104,Governor,,,Over Votes,0,0,0,0
@@ -353,8 +353,8 @@ Casey,C104,Commissioner of Agriculture,,,Under Votes,7,3,4,0
 Casey,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,D101,STRAIGHT PARTY,,,Republican,241,46,191,4
 Casey,D101,STRAIGHT PARTY,,,Democratic,34,7,22,5
-Casey,D101,Governor,,REP,Daniel CAMERON,325,63,257,5
-Casey,D101,Governor,,DEM,Andy BESHEAR,100,25,69,6
+Casey,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",325,63,257,5
+Casey,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,100,25,69,6
 Casey,D101,Governor,,,Total Votes,425,88,326,11
 Casey,D101,Governor,,,Under Votes,1,0,1,0
 Casey,D101,Governor,,,Over Votes,0,0,0,0
@@ -385,8 +385,8 @@ Casey,D101,Commissioner of Agriculture,,,Under Votes,11,3,8,0
 Casey,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,D102,STRAIGHT PARTY,,,Republican,97,18,75,4
 Casey,D102,STRAIGHT PARTY,,,Democratic,16,2,12,2
-Casey,D102,Governor,,REP,Daniel CAMERON,130,28,98,4
-Casey,D102,Governor,,DEM,Andy BESHEAR,51,12,35,4
+Casey,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",130,28,98,4
+Casey,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,12,35,4
 Casey,D102,Governor,,,Total Votes,181,40,133,8
 Casey,D102,Governor,,,Under Votes,0,0,0,0
 Casey,D102,Governor,,,Over Votes,0,0,0,0
@@ -417,8 +417,8 @@ Casey,D102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
 Casey,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,D103,STRAIGHT PARTY,,,Republican,201,48,151,2
 Casey,D103,STRAIGHT PARTY,,,Democratic,19,1,17,1
-Casey,D103,Governor,,REP,Daniel CAMERON,267,64,200,3
-Casey,D103,Governor,,DEM,Andy BESHEAR,78,18,57,3
+Casey,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",267,64,200,3
+Casey,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,78,18,57,3
 Casey,D103,Governor,,,Total Votes,345,82,257,6
 Casey,D103,Governor,,,Under Votes,1,0,1,0
 Casey,D103,Governor,,,Over Votes,0,0,0,0
@@ -449,8 +449,8 @@ Casey,D103,Commissioner of Agriculture,,,Under Votes,9,3,6,0
 Casey,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Casey,D104,STRAIGHT PARTY,,,Republican,41,14,23,4
 Casey,D104,STRAIGHT PARTY,,,Democratic,15,7,8,0
-Casey,D104,Governor,,REP,Daniel CAMERON,68,21,42,5
-Casey,D104,Governor,,DEM,Andy BESHEAR,33,12,19,2
+Casey,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",68,21,42,5
+Casey,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,33,12,19,2
 Casey,D104,Governor,,,Total Votes,101,33,61,7
 Casey,D104,Governor,,,Under Votes,1,0,1,0
 Casey,D104,Governor,,,Over Votes,1,0,1,0

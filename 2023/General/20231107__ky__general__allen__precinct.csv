@@ -1,469 +1,456 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee,,,,,,,,,,
-Allen,A101,STRAIGHT PARTY,,,Republican,124,13,102,9,,,,,,,,,,
-Allen,A101,STRAIGHT PARTY,,,Democratic,38,8,28,2,,,,,,,,,,
-Allen,A101,Governor,,REP,Daniel CAMERON,211,26,175,10,,,,,,,,,,
-Allen,A101,Governor,,DEM,Andy BESHEAR,108,22,77,9,,,,,,,,,,
-Allen,A101,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,A101,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,A101,Governor,,,Total Votes,319,48,252,19,,,,,,,,,,
-Allen,A101,Governor,,,Under Votes,3,1,2,0,,,,,,,,,,
-Allen,A101,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,`
-Allen,A101,Secretary of State,,REP,Michael ADAMS,248,33,200,15,,,,,,,,,,
-Allen,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,15,51,3,,,,,,,,,,
-Allen,A101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,A101,Secretary of State,,,Total Votes,317,48,251,18,,,,,,,,,,
-Allen,A101,Secretary of State,,,Under Votes,5,1,3,1,,,,,,,,,,
-Allen,A101,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A101,Attorney General,,REP,Russell COLEMAN,239,29,193,17,,,,,,,,,,
-Allen,A101,Attorney General,,DEM,Pamela STEVENSON,79,19,59,1,,,,,,,,,,
-Allen,A101,Attorney General,,,Total Votes,318,48,252,18,,,,,,,,,,
-Allen,A101,Attorney General,,,Under Votes,4,1,2,1,,,,,,,,,,
-Allen,A101,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A101,Auditor of Public Accounts,,REP,Allison BALL,248,34,198,16,,,,,,,,,,
-Allen,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,14,55,3,,,,,,,,,,
-Allen,A101,Auditor of Public Accounts,,,Total Votes,320,48,253,19,,,,,,,,,,
-Allen,A101,Auditor of Public Accounts,,,Under Votes,2,1,1,0,,,,,,,,,,
-Allen,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A101,State Treasurer,,REP,Mark H. METCALF,236,27,192,17,,,,,,,,,,
-Allen,A101,State Treasurer,,DEM,Michael BOWMAN,79,20,58,1,,,,,,,,,,
-Allen,A101,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,A101,State Treasurer,,,Total Votes,315,47,250,18,,,,,,,,,,
-Allen,A101,State Treasurer,,,Under Votes,7,2,4,1,,,,,,,,,,
-Allen,A101,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,251,33,202,16,,,,,,,,,,
-Allen,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,66,15,49,2,,,,,,,,,,
-Allen,A101,Commissioner of Agriculture,,,Total Votes,317,48,251,18,,,,,,,,,,
-Allen,A101,Commissioner of Agriculture,,,Under Votes,5,1,3,1,,,,,,,,,,
-Allen,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,STRAIGHT PARTY,,,Republican,207,44,159,4,,,,,,,,,,
-Allen,A102,STRAIGHT PARTY,,,Democratic,39,7,32,0,,,,,,,,,,
-Allen,A102,Governor,,REP,Daniel CAMERON,284,55,223,6,,,,,,,,,,
-Allen,A102,Governor,,DEM,Andy BESHEAR,100,17,78,5,,,,,,,,,,
-Allen,A102,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,A102,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,A102,Governor,,,Total Votes,384,72,301,11,,,,,,,,,,
-Allen,A102,Governor,,,Under Votes,2,1,1,0,,,,,,,,,,
-Allen,A102,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,Secretary of State,,REP,Michael ADAMS,307,59,241,7,,,,,,,,,,
-Allen,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,14,58,4,,,,,,,,,,
-Allen,A102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,A102,Secretary of State,,,Total Votes,383,73,299,11,,,,,,,,,,
-Allen,A102,Secretary of State,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,A102,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,Attorney General,,REP,Russell COLEMAN,308,59,241,8,,,,,,,,,,
-Allen,A102,Attorney General,,DEM,Pamela STEVENSON,77,14,60,3,,,,,,,,,,
-Allen,A102,Attorney General,,,Total Votes,385,73,301,11,,,,,,,,,,
-Allen,A102,Attorney General,,,Under Votes,1,0,1,0,,,,,,,,,,
-Allen,A102,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,Auditor of Public Accounts,,REP,Allison BALL,312,60,245,7,,,,,,,,,,
-Allen,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",71,13,54,4,,,,,,,,,,
-Allen,A102,Auditor of Public Accounts,,,Total Votes,383,73,299,11,,,,,,,,,,
-Allen,A102,Auditor of Public Accounts,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,State Treasurer,,REP,Mark H. METCALF,306,61,239,6,,,,,,,,,,
-Allen,A102,State Treasurer,,DEM,Michael BOWMAN,77,12,60,5,,,,,,,,,,
-Allen,A102,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,A102,State Treasurer,,,Total Votes,383,73,299,11,,,,,,,,,,
-Allen,A102,State Treasurer,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,A102,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,309,60,241,8,,,,,,,,,,
-Allen,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,73,12,58,3,,,,,,,,,,
-Allen,A102,Commissioner of Agriculture,,,Total Votes,382,72,299,11,,,,,,,,,,
-Allen,A102,Commissioner of Agriculture,,,Under Votes,4,1,3,0,,,,,,,,,,
-Allen,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,STRAIGHT PARTY,,,Republican,178,26,151,1,,,,,,,,,,
-Allen,B101,STRAIGHT PARTY,,,Democratic,40,11,28,1,,,,,,,,,,
-Allen,B101,Governor,,REP,Daniel CAMERON,251,39,211,1,,,,,,,,,,
-Allen,B101,Governor,,DEM,Andy BESHEAR,103,24,76,3,,,,,,,,,,
-Allen,B101,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B101,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B101,Governor,,,Total Votes,354,63,287,4,,,,,,,,,,
-Allen,B101,Governor,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,B101,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,Secretary of State,,REP,Michael ADAMS,280,44,234,2,,,,,,,,,,
-Allen,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,18,48,2,,,,,,,,,,
-Allen,B101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,B101,Secretary of State,,,Total Votes,348,62,282,4,,,,,,,,,,
-Allen,B101,Secretary of State,,,Under Votes,8,1,7,0,,,,,,,,,,
-Allen,B101,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,Attorney General,,REP,Russell COLEMAN,283,45,236,2,,,,,,,,,,
-Allen,B101,Attorney General,,DEM,Pamela STEVENSON,70,18,50,2,,,,,,,,,,
-Allen,B101,Attorney General,,,Total Votes,353,63,286,4,,,,,,,,,,
-Allen,B101,Attorney General,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,B101,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,Auditor of Public Accounts,,REP,Allison BALL,281,44,235,2,,,,,,,,,,
-Allen,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,18,49,2,,,,,,,,,,
-Allen,B101,Auditor of Public Accounts,,,Total Votes,350,62,284,4,,,,,,,,,,
-Allen,B101,Auditor of Public Accounts,,,Under Votes,6,1,5,0,,,,,,,,,,
-Allen,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,State Treasurer,,REP,Mark H. METCALF,269,44,223,2,,,,,,,,,,
-Allen,B101,State Treasurer,,DEM,Michael BOWMAN,78,18,58,2,,,,,,,,,,
-Allen,B101,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,B101,State Treasurer,,,Total Votes,347,62,281,4,,,,,,,,,,
-Allen,B101,State Treasurer,,,Under Votes,9,1,8,0,,,,,,,,,,
-Allen,B101,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,282,44,236,2,,,,,,,,,,
-Allen,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,19,47,2,,,,,,,,,,
-Allen,B101,Commissioner of Agriculture,,,Total Votes,350,63,283,4,,,,,,,,,,
-Allen,B101,Commissioner of Agriculture,,,Under Votes,6,0,6,0,,,,,,,,,,
-Allen,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,STRAIGHT PARTY,,,Republican,172,18,153,1,,,,,,,,,,
-Allen,B102,STRAIGHT PARTY,,,Democratic,22,6,16,0,,,,,,,,,,
-Allen,B102,Governor,,REP,Daniel CAMERON,252,26,224,2,,,,,,,,,,
-Allen,B102,Governor,,DEM,Andy BESHEAR,68,17,50,1,,,,,,,,,,
-Allen,B102,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B102,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B102,Governor,,,Total Votes,320,43,274,3,,,,,,,,,,
-Allen,B102,Governor,,,Under Votes,2,2,0,0,,,,,,,,,,
-Allen,B102,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,Secretary of State,,REP,Michael ADAMS,273,33,238,2,,,,,,,,,,
-Allen,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,11,28,1,,,,,,,,,,
-Allen,B102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,B102,Secretary of State,,,Total Votes,313,44,266,3,,,,,,,,,,
-Allen,B102,Secretary of State,,,Under Votes,9,1,8,0,,,,,,,,,,
-Allen,B102,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,Attorney General,,REP,Russell COLEMAN,267,31,234,2,,,,,,,,,,
-Allen,B102,Attorney General,,DEM,Pamela STEVENSON,45,14,30,1,,,,,,,,,,
-Allen,B102,Attorney General,,,Total Votes,312,45,264,3,,,,,,,,,,
-Allen,B102,Attorney General,,,Under Votes,10,0,10,0,,,,,,,,,,
-Allen,B102,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,Auditor of Public Accounts,,REP,Allison BALL,268,33,233,2,,,,,,,,,,
-Allen,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,10,30,1,,,,,,,,,,
-Allen,B102,Auditor of Public Accounts,,,Total Votes,309,43,263,3,,,,,,,,,,
-Allen,B102,Auditor of Public Accounts,,,Under Votes,13,2,11,0,,,,,,,,,,
-Allen,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,State Treasurer,,REP,Mark H. METCALF,262,31,229,2,,,,,,,,,,
-Allen,B102,State Treasurer,,DEM,Michael BOWMAN,48,13,34,1,,,,,,,,,,
-Allen,B102,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,B102,State Treasurer,,,Total Votes,310,44,263,3,,,,,,,,,,
-Allen,B102,State Treasurer,,,Under Votes,12,1,11,0,,,,,,,,,,
-Allen,B102,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,270,33,235,2,,,,,,,,,,
-Allen,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,39,12,26,1,,,,,,,,,,
-Allen,B102,Commissioner of Agriculture,,,Total Votes,309,45,261,3,,,,,,,,,,
-Allen,B102,Commissioner of Agriculture,,,Under Votes,13,0,13,0,,,,,,,,,,
-Allen,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B103,STRAIGHT PARTY,,,Republican,102,5,94,3,,,,,,,,,,
-Allen,B103,STRAIGHT PARTY,,,Democratic,25,1,23,1,,,,,,,,,,
-Allen,B103,Governor,,REP,Daniel CAMERON,159,8,146,5,,,,,,,,,,
-Allen,B103,Governor,,DEM,Andy BESHEAR,55,8,46,1,,,,,,,,,,
-Allen,B103,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B103,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,B103,Governor,,,Total Votes,214,16,192,6,,,,,,,,,,
-Allen,B103,Governor,,,Under Votes,0,0,0,0,,,,,,,,,,
-Allen,B103,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B103,Secretary of State,,REP,Michael ADAMS,172,11,155,6,,,,,,,,,,
-Allen,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,5,33,0,,,,,,,,,,
-Allen,B103,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,B103,Secretary of State,,,Total Votes,210,16,188,6,,,,,,,,,,
-Allen,B103,Secretary of State,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,B103,Secretary of State,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,B103,Attorney General,,REP,Russell COLEMAN,167,9,152,6,,,,,,,,,,
-Allen,B103,Attorney General,,DEM,Pamela STEVENSON,42,6,36,0,,,,,,,,,,
-Allen,B103,Attorney General,,,Total Votes,209,15,188,6,,,,,,,,,,
-Allen,B103,Attorney General,,,Under Votes,4,1,3,0,,,,,,,,,,
-Allen,B103,Attorney General,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,B103,Auditor of Public Accounts,,REP,Allison BALL,168,10,152,6,,,,,,,,,,
-Allen,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,5,35,0,,,,,,,,,,
-Allen,B103,Auditor of Public Accounts,,,Total Votes,208,15,187,6,,,,,,,,,,
-Allen,B103,Auditor of Public Accounts,,,Under Votes,6,1,5,0,,,,,,,,,,
-Allen,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B103,State Treasurer,,REP,Mark H. METCALF,162,10,147,5,,,,,,,,,,
-Allen,B103,State Treasurer,,DEM,Michael BOWMAN,47,6,40,1,,,,,,,,,,
-Allen,B103,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,B103,State Treasurer,,,Total Votes,209,16,187,6,,,,,,,,,,
-Allen,B103,State Treasurer,,,Under Votes,5,0,5,0,,,,,,,,,,
-Allen,B103,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,174,12,156,6,,,,,,,,,,
-Allen,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,4,34,0,,,,,,,,,,
-Allen,B103,Commissioner of Agriculture,,,Total Votes,212,16,190,6,,,,,,,,,,
-Allen,B103,Commissioner of Agriculture,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C101,STRAIGHT PARTY,,,Republican,206,42,158,6,,,,,,,,,,
-Allen,C101,STRAIGHT PARTY,,,Democratic,69,13,44,12,,,,,,,,,,
-Allen,C101,Governor,,REP,Daniel CAMERON,312,58,238,16,,,,,,,,,,
-Allen,C101,Governor,,DEM,Andy BESHEAR,193,40,135,18,,,,,,,,,,
-Allen,C101,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,C101,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,C101,Governor,,,Total Votes,505,98,373,34,,,,,,,,,,
-Allen,C101,Governor,,,Under Votes,3,0,0,3,,,,,,,,,,
-Allen,C101,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C101,Secretary of State,,REP,Michael ADAMS,372,73,280,19,,,,,,,,,,
-Allen,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,24,85,15,,,,,,,,,,
-Allen,C101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,C101,Secretary of State,,,Total Votes,496,97,365,34,,,,,,,,,,
-Allen,C101,Secretary of State,,,Under Votes,12,1,8,3,,,,,,,,,,
-Allen,C101,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C101,Attorney General,,REP,Russell COLEMAN,360,70,272,18,,,,,,,,,,
-Allen,C101,Attorney General,,DEM,Pamela STEVENSON,132,26,92,14,,,,,,,,,,
-Allen,C101,Attorney General,,,Total Votes,492,96,364,32,,,,,,,,,,
-Allen,C101,Attorney General,,,Under Votes,15,2,9,4,,,,,,,,,,
-Allen,C101,Attorney General,,,Over Votes,1,0,0,1,,,,,,,,,,
-Allen,C101,Auditor of Public Accounts,,REP,Allison BALL,363,73,271,19,,,,,,,,,,
-Allen,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",131,23,94,14,,,,,,,,,,
-Allen,C101,Auditor of Public Accounts,,,Total Votes,494,96,365,33,,,,,,,,,,
-Allen,C101,Auditor of Public Accounts,,,Under Votes,14,2,8,4,,,,,,,,,,
-Allen,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C101,State Treasurer,,REP,Mark H. METCALF,342,72,252,18,,,,,,,,,,
-Allen,C101,State Treasurer,,DEM,Michael BOWMAN,146,24,107,15,,,,,,,,,,
-Allen,C101,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,C101,State Treasurer,,,Total Votes,488,96,359,33,,,,,,,,,,
-Allen,C101,State Treasurer,,,Under Votes,20,2,14,4,,,,,,,,,,
-Allen,C101,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,365,71,275,19,,,,,,,,,,
-Allen,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,126,23,89,14,,,,,,,,,,
-Allen,C101,Commissioner of Agriculture,,,Total Votes,491,94,364,33,,,,,,,,,,
-Allen,C101,Commissioner of Agriculture,,,Under Votes,17,4,9,4,,,,,,,,,,
-Allen,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,STRAIGHT PARTY,,,Republican,256,44,207,5,,,,,,,,,,
-Allen,C102,STRAIGHT PARTY,,,Democratic,68,18,43,7,,,,,,,,,,
-Allen,C102,Governor,,REP,Daniel CAMERON,405,70,327,8,,,,,,,,,,
-Allen,C102,Governor,,DEM,Andy BESHEAR,192,50,131,11,,,,,,,,,,
-Allen,C102,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,C102,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,C102,Governor,,,Total Votes,597,120,458,19,,,,,,,,,,
-Allen,C102,Governor,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,C102,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,Secretary of State,,REP,Michael ADAMS,470,89,372,9,,,,,,,,,,
-Allen,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,28,78,10,,,,,,,,,,
-Allen,C102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,C102,Secretary of State,,,Total Votes,586,117,450,19,,,,,,,,,,
-Allen,C102,Secretary of State,,,Under Votes,13,3,10,0,,,,,,,,,,
-Allen,C102,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,Attorney General,,REP,Russell COLEMAN,464,86,368,10,,,,,,,,,,
-Allen,C102,Attorney General,,DEM,Pamela STEVENSON,121,31,82,8,,,,,,,,,,
-Allen,C102,Attorney General,,,Total Votes,585,117,450,18,,,,,,,,,,
-Allen,C102,Attorney General,,,Under Votes,14,3,10,1,,,,,,,,,,
-Allen,C102,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,Auditor of Public Accounts,,REP,Allison BALL,464,87,368,9,,,,,,,,,,
-Allen,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",121,29,82,10,,,,,,,,,,
-Allen,C102,Auditor of Public Accounts,,,Total Votes,585,116,450,19,,,,,,,,,,
-Allen,C102,Auditor of Public Accounts,,,Under Votes,14,4,10,0,,,,,,,,,,
-Allen,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,State Treasurer,,REP,Mark H. METCALF,441,81,351,9,,,,,,,,,,
-Allen,C102,State Treasurer,,DEM,Michael BOWMAN,137,35,93,9,,,,,,,,,,
-Allen,C102,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,C102,State Treasurer,,,Total Votes,578,116,444,18,,,,,,,,,,
-Allen,C102,State Treasurer,,,Under Votes,21,4,16,1,,,,,,,,,,
-Allen,C102,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,463,87,367,9,,,,,,,,,,
-Allen,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,30,79,9,,,,,,,,,,
-Allen,C102,Commissioner of Agriculture,,,Total Votes,581,117,446,18,,,,,,,,,,
-Allen,C102,Commissioner of Agriculture,,,Under Votes,18,3,14,1,,,,,,,,,,
-Allen,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D101,STRAIGHT PARTY,,,Republican,374,29,334,11,,,,,,,,,,
-Allen,D101,STRAIGHT PARTY,,,Democratic,92,20,68,4,,,,,,,,,,
-Allen,D101,Governor,,REP,Daniel CAMERON,533,39,480,14,,,,,,,,,,
-Allen,D101,Governor,,DEM,Andy BESHEAR,251,57,186,8,,,,,,,,,,
-Allen,D101,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D101,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D101,Governor,,,Total Votes,784,96,666,22,,,,,,,,,,
-Allen,D101,Governor,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,D101,Governor,,,Over Votes,2,0,2,0,,,,,,,,,,
-Allen,D101,Secretary of State,,REP,Michael ADAMS,607,56,535,16,,,,,,,,,,
-Allen,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,37,118,6,,,,,,,,,,
-Allen,D101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,D101,Secretary of State,,,Total Votes,768,93,653,22,,,,,,,,,,
-Allen,D101,Secretary of State,,,Under Votes,20,3,17,0,,,,,,,,,,
-Allen,D101,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D101,Attorney General,,REP,Russell COLEMAN,594,54,523,17,,,,,,,,,,
-Allen,D101,Attorney General,,DEM,Pamela STEVENSON,174,39,130,5,,,,,,,,,,
-Allen,D101,Attorney General,,,Total Votes,768,93,653,22,,,,,,,,,,
-Allen,D101,Attorney General,,,Under Votes,20,3,17,0,,,,,,,,,,
-Allen,D101,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D101,Auditor of Public Accounts,,REP,Allison BALL,616,56,543,17,,,,,,,,,,
-Allen,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",154,36,113,5,,,,,,,,,,
-Allen,D101,Auditor of Public Accounts,,,Total Votes,770,92,656,22,,,,,,,,,,
-Allen,D101,Auditor of Public Accounts,,,Under Votes,18,4,14,0,,,,,,,,,,
-Allen,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D101,State Treasurer,,REP,Mark H. METCALF,601,56,529,16,,,,,,,,,,
-Allen,D101,State Treasurer,,DEM,Michael BOWMAN,167,35,126,6,,,,,,,,,,
-Allen,D101,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,D101,State Treasurer,,,Total Votes,768,91,655,22,,,,,,,,,,
-Allen,D101,State Treasurer,,,Under Votes,20,5,15,0,,,,,,,,,,
-Allen,D101,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,607,57,533,17,,,,,,,,,,
-Allen,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,161,34,122,5,,,,,,,,,,
-Allen,D101,Commissioner of Agriculture,,,Total Votes,768,91,655,22,,,,,,,,,,
-Allen,D101,Commissioner of Agriculture,,,Under Votes,19,5,14,0,,,,,,,,,,
-Allen,D101,Commissioner of Agriculture,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,D102,STRAIGHT PARTY,,,Republican,125,22,102,1,,,,,,,,,,
-Allen,D102,STRAIGHT PARTY,,,Democratic,24,7,14,3,,,,,,,,,,
-Allen,D102,Governor,,REP,Daniel CAMERON,182,29,151,2,,,,,,,,,,
-Allen,D102,Governor,,DEM,Andy BESHEAR,79,22,52,5,,,,,,,,,,
-Allen,D102,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D102,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D102,Governor,,,Total Votes,261,51,203,7,,,,,,,,,,
-Allen,D102,Governor,,,Under Votes,1,0,1,0,,,,,,,,,,
-Allen,D102,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D102,Secretary of State,,REP,Michael ADAMS,204,36,165,3,,,,,,,,,,
-Allen,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",55,15,36,4,,,,,,,,,,
-Allen,D102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,D102,Secretary of State,,,Total Votes,259,51,201,7,,,,,,,,,,
-Allen,D102,Secretary of State,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,D102,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D102,Attorney General,,REP,Russell COLEMAN,193,33,158,2,,,,,,,,,,
-Allen,D102,Attorney General,,DEM,Pamela STEVENSON,65,18,42,5,,,,,,,,,,
-Allen,D102,Attorney General,,,Total Votes,258,51,200,7,,,,,,,,,,
-Allen,D102,Attorney General,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,D102,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D102,Auditor of Public Accounts,,REP,Allison BALL,207,36,166,5,,,,,,,,,,
-Allen,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",50,15,33,2,,,,,,,,,,
-Allen,D102,Auditor of Public Accounts,,,Total Votes,257,51,199,7,,,,,,,,,,
-Allen,D102,Auditor of Public Accounts,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,D102,Auditor of Public Accounts,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,D102,State Treasurer,,REP,Mark H. METCALF,200,34,162,4,,,,,,,,,,
-Allen,D102,State Treasurer,,DEM,Michael BOWMAN,57,17,37,3,,,,,,,,,,
-Allen,D102,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,D102,State Treasurer,,,Total Votes,257,51,199,7,,,,,,,,,,
-Allen,D102,State Treasurer,,,Under Votes,5,0,5,0,,,,,,,,,,
-Allen,D102,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,203,36,163,4,,,,,,,,,,
-Allen,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,53,14,36,3,,,,,,,,,,
-Allen,D102,Commissioner of Agriculture,,,Total Votes,256,50,199,7,,,,,,,,,,
-Allen,D102,Commissioner of Agriculture,,,Under Votes,5,1,4,0,,,,,,,,,,
-Allen,D102,Commissioner of Agriculture,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,D103,STRAIGHT PARTY,,,Republican,289,21,261,7,,,,,,,,,,
-Allen,D103,STRAIGHT PARTY,,,Democratic,66,11,50,5,,,,,,,,,,
-Allen,D103,Governor,,REP,Daniel CAMERON,412,30,371,11,,,,,,,,,,
-Allen,D103,Governor,,DEM,Andy BESHEAR,163,27,126,10,,,,,,,,,,
-Allen,D103,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D103,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,D103,Governor,,,Total Votes,575,57,497,21,,,,,,,,,,
-Allen,D103,Governor,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,D103,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D103,Secretary of State,,REP,Michael ADAMS,469,39,415,15,,,,,,,,,,
-Allen,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,18,80,6,,,,,,,,,,
-Allen,D103,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,D103,Secretary of State,,,Total Votes,573,57,495,21,,,,,,,,,,
-Allen,D103,Secretary of State,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,D103,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D103,Attorney General,,REP,Russell COLEMAN,454,36,405,13,,,,,,,,,,
-Allen,D103,Attorney General,,DEM,Pamela STEVENSON,119,21,91,7,,,,,,,,,,
-Allen,D103,Attorney General,,,Total Votes,573,57,496,20,,,,,,,,,,
-Allen,D103,Attorney General,,,Under Votes,4,0,3,1,,,,,,,,,,
-Allen,D103,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D103,Auditor of Public Accounts,,REP,Allison BALL,462,41,408,13,,,,,,,,,,
-Allen,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,16,85,7,,,,,,,,,,
-Allen,D103,Auditor of Public Accounts,,,Total Votes,570,57,493,20,,,,,,,,,,
-Allen,D103,Auditor of Public Accounts,,,Under Votes,7,0,6,1,,,,,,,,,,
-Allen,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D103,State Treasurer,,REP,Mark H. METCALF,450,36,400,14,,,,,,,,,,
-Allen,D103,State Treasurer,,DEM,Michael BOWMAN,119,20,92,7,,,,,,,,,,
-Allen,D103,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,D103,State Treasurer,,,Total Votes,569,56,492,21,,,,,,,,,,
-Allen,D103,State Treasurer,,,Under Votes,8,1,7,0,,,,,,,,,,
-Allen,D103,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,467,36,416,15,,,,,,,,,,
-Allen,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,104,20,78,6,,,,,,,,,,
-Allen,D103,Commissioner of Agriculture,,,Total Votes,571,56,494,21,,,,,,,,,,
-Allen,D103,Commissioner of Agriculture,,,Under Votes,6,1,5,0,,,,,,,,,,
-Allen,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E101,STRAIGHT PARTY,,,Republican,88,4,83,1,,,,,,,,,,
-Allen,E101,STRAIGHT PARTY,,,Democratic,16,2,14,0,,,,,,,,,,
-Allen,E101,Governor,,REP,Daniel CAMERON,132,4,127,1,,,,,,,,,,
-Allen,E101,Governor,,DEM,Andy BESHEAR,41,7,34,0,,,,,,,,,,
-Allen,E101,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E101,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E101,Governor,,,Total Votes,173,11,161,1,,,,,,,,,,
-Allen,E101,Governor,,,Under Votes,1,0,1,0,,,,,,,,,,
-Allen,E101,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E101,Secretary of State,,REP,Michael ADAMS,142,9,132,1,,,,,,,,,,
-Allen,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,2,29,0,,,,,,,,,,
-Allen,E101,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,E101,Secretary of State,,,Total Votes,173,11,161,1,,,,,,,,,,
-Allen,E101,Secretary of State,,,Under Votes,1,0,1,0,,,,,,,,,,
-Allen,E101,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E101,Attorney General,,REP,Russell COLEMAN,146,9,136,1,,,,,,,,,,
-Allen,E101,Attorney General,,DEM,Pamela STEVENSON,26,2,24,0,,,,,,,,,,
-Allen,E101,Attorney General,,,Total Votes,172,11,160,1,,,,,,,,,,
-Allen,E101,Attorney General,,,Under Votes,2,0,2,0,,,,,,,,,,
-Allen,E101,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E101,Auditor of Public Accounts,,REP,Allison BALL,143,8,134,1,,,,,,,,,,
-Allen,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",27,3,24,0,,,,,,,,,,
-Allen,E101,Auditor of Public Accounts,,,Total Votes,170,11,158,1,,,,,,,,,,
-Allen,E101,Auditor of Public Accounts,,,Under Votes,3,0,3,0,,,,,,,,,,
-Allen,E101,Auditor of Public Accounts,,,Over Votes,1,0,1,0,,,,,,,,,,
-Allen,E101,State Treasurer,,REP,Mark H. METCALF,143,8,134,1,,,,,,,,,,
-Allen,E101,State Treasurer,,DEM,Michael BOWMAN,27,3,24,0,,,,,,,,,,
-Allen,E101,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,E101,State Treasurer,,,Total Votes,170,11,158,1,,,,,,,,,,
-Allen,E101,State Treasurer,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,E101,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,145,9,135,1,,,,,,,,,,
-Allen,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,2,23,0,,,,,,,,,,
-Allen,E101,Commissioner of Agriculture,,,Total Votes,170,11,158,1,,,,,,,,,,
-Allen,E101,Commissioner of Agriculture,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,STRAIGHT PARTY,,,Republican,200,7,193,0,,,,,,,,,,
-Allen,E102,STRAIGHT PARTY,,,Democratic,39,1,37,1,,,,,,,,,,
-Allen,E102,Governor,,REP,Daniel CAMERON,259,17,242,0,,,,,,,,,,
-Allen,E102,Governor,,DEM,Andy BESHEAR,107,7,97,3,,,,,,,,,,
-Allen,E102,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E102,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E102,Governor,,,Total Votes,366,24,339,3,,,,,,,,,,
-Allen,E102,Governor,,,Under Votes,1,0,1,0,,,,,,,,,,
-Allen,E102,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,Secretary of State,,REP,Michael ADAMS,294,20,274,0,,,,,,,,,,
-Allen,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,4,62,3,,,,,,,,,,
-Allen,E102,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,E102,Secretary of State,,,Total Votes,363,24,336,3,,,,,,,,,,
-Allen,E102,Secretary of State,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,E102,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,Attorney General,,REP,Russell COLEMAN,282,19,263,0,,,,,,,,,,
-Allen,E102,Attorney General,,DEM,Pamela STEVENSON,81,5,73,3,,,,,,,,,,
-Allen,E102,Attorney General,,,Total Votes,363,24,336,3,,,,,,,,,,
-Allen,E102,Attorney General,,,Under Votes,4,0,4,0,,,,,,,,,,
-Allen,E102,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,Auditor of Public Accounts,,REP,Allison BALL,286,18,268,0,,,,,,,,,,
-Allen,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",73,5,65,3,,,,,,,,,,
-Allen,E102,Auditor of Public Accounts,,,Total Votes,359,23,333,3,,,,,,,,,,
-Allen,E102,Auditor of Public Accounts,,,Under Votes,8,1,7,0,,,,,,,,,,
-Allen,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,State Treasurer,,REP,Mark H. METCALF,281,19,262,0,,,,,,,,,,
-Allen,E102,State Treasurer,,DEM,Michael BOWMAN,79,5,71,3,,,,,,,,,,
-Allen,E102,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,E102,State Treasurer,,,Total Votes,360,24,333,3,,,,,,,,,,
-Allen,E102,State Treasurer,,,Under Votes,7,0,7,0,,,,,,,,,,
-Allen,E102,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,286,18,267,1,,,,,,,,,,
-Allen,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,75,6,67,2,,,,,,,,,,
-Allen,E102,Commissioner of Agriculture,,,Total Votes,361,24,334,3,,,,,,,,,,
-Allen,E102,Commissioner of Agriculture,,,Under Votes,6,0,6,0,,,,,,,,,,
-Allen,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,STRAIGHT PARTY,,,Republican,153,35,117,1,,,,,,,,,,
-Allen,E103,STRAIGHT PARTY,,,Democratic,22,3,19,0,,,,,,,,,,
-Allen,E103,Governor,,REP,Daniel CAMERON,207,50,155,2,,,,,,,,,,
-Allen,E103,Governor,,DEM,Andy BESHEAR,53,15,38,0,,,,,,,,,,
-Allen,E103,Governor,,,Brian Fishback - Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E103,Governor,,,William Fishback - Lt. Governor (W),0,0,0,0,,,,,,,,,,
-Allen,E103,Governor,,,Total Votes,260,65,193,2,,,,,,,,,,
-Allen,E103,Governor,,,Under Votes,1,1,0,0,,,,,,,,,,
-Allen,E103,Governor,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,Secretary of State,,REP,Michael ADAMS,222,58,162,2,,,,,,,,,,
-Allen,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,7,27,0,,,,,,,,,,
-Allen,E103,Secretary of State,,,Kenneth C. Moellman Jr. (W),0,0,0,0,,,,,,,,,,
-Allen,E103,Secretary of State,,,Total Votes,256,65,189,2,,,,,,,,,,
-Allen,E103,Secretary of State,,,Under Votes,5,1,4,0,,,,,,,,,,
-Allen,E103,Secretary of State,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,Attorney General,,REP,Russell COLEMAN,217,56,159,2,,,,,,,,,,
-Allen,E103,Attorney General,,DEM,Pamela STEVENSON,39,9,30,0,,,,,,,,,,
-Allen,E103,Attorney General,,,Total Votes,256,65,189,2,,,,,,,,,,
-Allen,E103,Attorney General,,,Under Votes,5,1,4,0,,,,,,,,,,
-Allen,E103,Attorney General,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,Auditor of Public Accounts,,REP,Allison BALL,222,56,164,2,,,,,,,,,,
-Allen,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,8,25,0,,,,,,,,,,
-Allen,E103,Auditor of Public Accounts,,,Total Votes,255,64,189,2,,,,,,,,,,
-Allen,E103,Auditor of Public Accounts,,,Under Votes,6,2,4,0,,,,,,,,,,
-Allen,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,State Treasurer,,REP,Mark H. METCALF,211,54,155,2,,,,,,,,,,
-Allen,E103,State Treasurer,,DEM,Michael BOWMAN,43,10,33,0,,,,,,,,,,
-Allen,E103,State Treasurer,,,Robert Perry (W),0,0,0,0,,,,,,,,,,
-Allen,E103,State Treasurer,,,Total Votes,254,64,188,2,,,,,,,,,,
-Allen,E103,State Treasurer,,,Under Votes,7,2,5,0,,,,,,,,,,
-Allen,E103,State Treasurer,,,Over Votes,0,0,0,0,,,,,,,,,,
-Allen,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,219,54,163,2,,,,,,,,,,
-Allen,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,9,26,0,,,,,,,,,,
-Allen,E103,Commissioner of Agriculture,,,Total Votes,254,63,189,2,,,,,,,,,,
-Allen,E103,Commissioner of Agriculture,,,Under Votes,7,3,4,0,,,,,,,,,,
-Allen,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0,,,,,,,,,,
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Allen,A101,STRAIGHT PARTY,,,Republican,124,13,102,9
+Allen,A101,STRAIGHT PARTY,,,Democratic,38,8,28,2
+Allen,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",211,26,175,10
+Allen,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,108,22,77,9
+Allen,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,A101,Governor,,,Total Votes,319,48,252,19
+Allen,A101,Governor,,,Under Votes,3,1,2,0
+Allen,A101,Governor,,,Over Votes,0,0,0,0
+Allen,A101,Secretary of State,,REP,Michael ADAMS,248,33,200,15
+Allen,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,15,51,3
+Allen,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,A101,Secretary of State,,,Total Votes,317,48,251,18
+Allen,A101,Secretary of State,,,Under Votes,5,1,3,1
+Allen,A101,Secretary of State,,,Over Votes,0,0,0,0
+Allen,A101,Attorney General,,REP,Russell COLEMAN,239,29,193,17
+Allen,A101,Attorney General,,DEM,Pamela STEVENSON,79,19,59,1
+Allen,A101,Attorney General,,,Total Votes,318,48,252,18
+Allen,A101,Attorney General,,,Under Votes,4,1,2,1
+Allen,A101,Attorney General,,,Over Votes,0,0,0,0
+Allen,A101,Auditor of Public Accounts,,REP,Allison BALL,248,34,198,16
+Allen,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,14,55,3
+Allen,A101,Auditor of Public Accounts,,,Total Votes,320,48,253,19
+Allen,A101,Auditor of Public Accounts,,,Under Votes,2,1,1,0
+Allen,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,A101,State Treasurer,,REP,Mark H. METCALF,236,27,192,17
+Allen,A101,State Treasurer,,DEM,Michael BOWMAN,79,20,58,1
+Allen,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,A101,State Treasurer,,,Total Votes,315,47,250,18
+Allen,A101,State Treasurer,,,Under Votes,7,2,4,1
+Allen,A101,State Treasurer,,,Over Votes,0,0,0,0
+Allen,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,251,33,202,16
+Allen,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,66,15,49,2
+Allen,A101,Commissioner of Agriculture,,,Total Votes,317,48,251,18
+Allen,A101,Commissioner of Agriculture,,,Under Votes,5,1,3,1
+Allen,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,A102,STRAIGHT PARTY,,,Republican,207,44,159,4
+Allen,A102,STRAIGHT PARTY,,,Democratic,39,7,32,0
+Allen,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",284,55,223,6
+Allen,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,100,17,78,5
+Allen,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,A102,Governor,,,Total Votes,384,72,301,11
+Allen,A102,Governor,,,Under Votes,2,1,1,0
+Allen,A102,Governor,,,Over Votes,0,0,0,0
+Allen,A102,Secretary of State,,REP,Michael ADAMS,307,59,241,7
+Allen,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,14,58,4
+Allen,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,A102,Secretary of State,,,Total Votes,383,73,299,11
+Allen,A102,Secretary of State,,,Under Votes,3,0,3,0
+Allen,A102,Secretary of State,,,Over Votes,0,0,0,0
+Allen,A102,Attorney General,,REP,Russell COLEMAN,308,59,241,8
+Allen,A102,Attorney General,,DEM,Pamela STEVENSON,77,14,60,3
+Allen,A102,Attorney General,,,Total Votes,385,73,301,11
+Allen,A102,Attorney General,,,Under Votes,1,0,1,0
+Allen,A102,Attorney General,,,Over Votes,0,0,0,0
+Allen,A102,Auditor of Public Accounts,,REP,Allison BALL,312,60,245,7
+Allen,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",71,13,54,4
+Allen,A102,Auditor of Public Accounts,,,Total Votes,383,73,299,11
+Allen,A102,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Allen,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,A102,State Treasurer,,REP,Mark H. METCALF,306,61,239,6
+Allen,A102,State Treasurer,,DEM,Michael BOWMAN,77,12,60,5
+Allen,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,A102,State Treasurer,,,Total Votes,383,73,299,11
+Allen,A102,State Treasurer,,,Under Votes,3,0,3,0
+Allen,A102,State Treasurer,,,Over Votes,0,0,0,0
+Allen,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,309,60,241,8
+Allen,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,73,12,58,3
+Allen,A102,Commissioner of Agriculture,,,Total Votes,382,72,299,11
+Allen,A102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Allen,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,B101,STRAIGHT PARTY,,,Republican,178,26,151,1
+Allen,B101,STRAIGHT PARTY,,,Democratic,40,11,28,1
+Allen,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",251,39,211,1
+Allen,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,103,24,76,3
+Allen,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,B101,Governor,,,Total Votes,354,63,287,4
+Allen,B101,Governor,,,Under Votes,2,0,2,0
+Allen,B101,Governor,,,Over Votes,0,0,0,0
+Allen,B101,Secretary of State,,REP,Michael ADAMS,280,44,234,2
+Allen,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,18,48,2
+Allen,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,B101,Secretary of State,,,Total Votes,348,62,282,4
+Allen,B101,Secretary of State,,,Under Votes,8,1,7,0
+Allen,B101,Secretary of State,,,Over Votes,0,0,0,0
+Allen,B101,Attorney General,,REP,Russell COLEMAN,283,45,236,2
+Allen,B101,Attorney General,,DEM,Pamela STEVENSON,70,18,50,2
+Allen,B101,Attorney General,,,Total Votes,353,63,286,4
+Allen,B101,Attorney General,,,Under Votes,3,0,3,0
+Allen,B101,Attorney General,,,Over Votes,0,0,0,0
+Allen,B101,Auditor of Public Accounts,,REP,Allison BALL,281,44,235,2
+Allen,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,18,49,2
+Allen,B101,Auditor of Public Accounts,,,Total Votes,350,62,284,4
+Allen,B101,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Allen,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,B101,State Treasurer,,REP,Mark H. METCALF,269,44,223,2
+Allen,B101,State Treasurer,,DEM,Michael BOWMAN,78,18,58,2
+Allen,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,B101,State Treasurer,,,Total Votes,347,62,281,4
+Allen,B101,State Treasurer,,,Under Votes,9,1,8,0
+Allen,B101,State Treasurer,,,Over Votes,0,0,0,0
+Allen,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,282,44,236,2
+Allen,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,68,19,47,2
+Allen,B101,Commissioner of Agriculture,,,Total Votes,350,63,283,4
+Allen,B101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Allen,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,B102,STRAIGHT PARTY,,,Republican,172,18,153,1
+Allen,B102,STRAIGHT PARTY,,,Democratic,22,6,16,0
+Allen,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",252,26,224,2
+Allen,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,68,17,50,1
+Allen,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,B102,Governor,,,Total Votes,320,43,274,3
+Allen,B102,Governor,,,Under Votes,2,2,0,0
+Allen,B102,Governor,,,Over Votes,0,0,0,0
+Allen,B102,Secretary of State,,REP,Michael ADAMS,273,33,238,2
+Allen,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,11,28,1
+Allen,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,B102,Secretary of State,,,Total Votes,313,44,266,3
+Allen,B102,Secretary of State,,,Under Votes,9,1,8,0
+Allen,B102,Secretary of State,,,Over Votes,0,0,0,0
+Allen,B102,Attorney General,,REP,Russell COLEMAN,267,31,234,2
+Allen,B102,Attorney General,,DEM,Pamela STEVENSON,45,14,30,1
+Allen,B102,Attorney General,,,Total Votes,312,45,264,3
+Allen,B102,Attorney General,,,Under Votes,10,0,10,0
+Allen,B102,Attorney General,,,Over Votes,0,0,0,0
+Allen,B102,Auditor of Public Accounts,,REP,Allison BALL,268,33,233,2
+Allen,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,10,30,1
+Allen,B102,Auditor of Public Accounts,,,Total Votes,309,43,263,3
+Allen,B102,Auditor of Public Accounts,,,Under Votes,13,2,11,0
+Allen,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,B102,State Treasurer,,REP,Mark H. METCALF,262,31,229,2
+Allen,B102,State Treasurer,,DEM,Michael BOWMAN,48,13,34,1
+Allen,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,B102,State Treasurer,,,Total Votes,310,44,263,3
+Allen,B102,State Treasurer,,,Under Votes,12,1,11,0
+Allen,B102,State Treasurer,,,Over Votes,0,0,0,0
+Allen,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,270,33,235,2
+Allen,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,39,12,26,1
+Allen,B102,Commissioner of Agriculture,,,Total Votes,309,45,261,3
+Allen,B102,Commissioner of Agriculture,,,Under Votes,13,0,13,0
+Allen,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,B103,STRAIGHT PARTY,,,Republican,102,5,94,3
+Allen,B103,STRAIGHT PARTY,,,Democratic,25,1,23,1
+Allen,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",159,8,146,5
+Allen,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,8,46,1
+Allen,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,B103,Governor,,,Total Votes,214,16,192,6
+Allen,B103,Governor,,,Under Votes,0,0,0,0
+Allen,B103,Governor,,,Over Votes,0,0,0,0
+Allen,B103,Secretary of State,,REP,Michael ADAMS,172,11,155,6
+Allen,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,5,33,0
+Allen,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,B103,Secretary of State,,,Total Votes,210,16,188,6
+Allen,B103,Secretary of State,,,Under Votes,3,0,3,0
+Allen,B103,Secretary of State,,,Over Votes,1,0,1,0
+Allen,B103,Attorney General,,REP,Russell COLEMAN,167,9,152,6
+Allen,B103,Attorney General,,DEM,Pamela STEVENSON,42,6,36,0
+Allen,B103,Attorney General,,,Total Votes,209,15,188,6
+Allen,B103,Attorney General,,,Under Votes,4,1,3,0
+Allen,B103,Attorney General,,,Over Votes,1,0,1,0
+Allen,B103,Auditor of Public Accounts,,REP,Allison BALL,168,10,152,6
+Allen,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,5,35,0
+Allen,B103,Auditor of Public Accounts,,,Total Votes,208,15,187,6
+Allen,B103,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Allen,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,B103,State Treasurer,,REP,Mark H. METCALF,162,10,147,5
+Allen,B103,State Treasurer,,DEM,Michael BOWMAN,47,6,40,1
+Allen,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,B103,State Treasurer,,,Total Votes,209,16,187,6
+Allen,B103,State Treasurer,,,Under Votes,5,0,5,0
+Allen,B103,State Treasurer,,,Over Votes,0,0,0,0
+Allen,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,174,12,156,6
+Allen,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,4,34,0
+Allen,B103,Commissioner of Agriculture,,,Total Votes,212,16,190,6
+Allen,B103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Allen,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,C101,STRAIGHT PARTY,,,Republican,206,42,158,6
+Allen,C101,STRAIGHT PARTY,,,Democratic,69,13,44,12
+Allen,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",312,58,238,16
+Allen,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,193,40,135,18
+Allen,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,C101,Governor,,,Total Votes,505,98,373,34
+Allen,C101,Governor,,,Under Votes,3,0,0,3
+Allen,C101,Governor,,,Over Votes,0,0,0,0
+Allen,C101,Secretary of State,,REP,Michael ADAMS,372,73,280,19
+Allen,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,24,85,15
+Allen,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,C101,Secretary of State,,,Total Votes,496,97,365,34
+Allen,C101,Secretary of State,,,Under Votes,12,1,8,3
+Allen,C101,Secretary of State,,,Over Votes,0,0,0,0
+Allen,C101,Attorney General,,REP,Russell COLEMAN,360,70,272,18
+Allen,C101,Attorney General,,DEM,Pamela STEVENSON,132,26,92,14
+Allen,C101,Attorney General,,,Total Votes,492,96,364,32
+Allen,C101,Attorney General,,,Under Votes,15,2,9,4
+Allen,C101,Attorney General,,,Over Votes,1,0,0,1
+Allen,C101,Auditor of Public Accounts,,REP,Allison BALL,363,73,271,19
+Allen,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",131,23,94,14
+Allen,C101,Auditor of Public Accounts,,,Total Votes,494,96,365,33
+Allen,C101,Auditor of Public Accounts,,,Under Votes,14,2,8,4
+Allen,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,C101,State Treasurer,,REP,Mark H. METCALF,342,72,252,18
+Allen,C101,State Treasurer,,DEM,Michael BOWMAN,146,24,107,15
+Allen,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,C101,State Treasurer,,,Total Votes,488,96,359,33
+Allen,C101,State Treasurer,,,Under Votes,20,2,14,4
+Allen,C101,State Treasurer,,,Over Votes,0,0,0,0
+Allen,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,365,71,275,19
+Allen,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,126,23,89,14
+Allen,C101,Commissioner of Agriculture,,,Total Votes,491,94,364,33
+Allen,C101,Commissioner of Agriculture,,,Under Votes,17,4,9,4
+Allen,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,C102,STRAIGHT PARTY,,,Republican,256,44,207,5
+Allen,C102,STRAIGHT PARTY,,,Democratic,68,18,43,7
+Allen,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",405,70,327,8
+Allen,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,192,50,131,11
+Allen,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,C102,Governor,,,Total Votes,597,120,458,19
+Allen,C102,Governor,,,Under Votes,2,0,2,0
+Allen,C102,Governor,,,Over Votes,0,0,0,0
+Allen,C102,Secretary of State,,REP,Michael ADAMS,470,89,372,9
+Allen,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,28,78,10
+Allen,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,C102,Secretary of State,,,Total Votes,586,117,450,19
+Allen,C102,Secretary of State,,,Under Votes,13,3,10,0
+Allen,C102,Secretary of State,,,Over Votes,0,0,0,0
+Allen,C102,Attorney General,,REP,Russell COLEMAN,464,86,368,10
+Allen,C102,Attorney General,,DEM,Pamela STEVENSON,121,31,82,8
+Allen,C102,Attorney General,,,Total Votes,585,117,450,18
+Allen,C102,Attorney General,,,Under Votes,14,3,10,1
+Allen,C102,Attorney General,,,Over Votes,0,0,0,0
+Allen,C102,Auditor of Public Accounts,,REP,Allison BALL,464,87,368,9
+Allen,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",121,29,82,10
+Allen,C102,Auditor of Public Accounts,,,Total Votes,585,116,450,19
+Allen,C102,Auditor of Public Accounts,,,Under Votes,14,4,10,0
+Allen,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,C102,State Treasurer,,REP,Mark H. METCALF,441,81,351,9
+Allen,C102,State Treasurer,,DEM,Michael BOWMAN,137,35,93,9
+Allen,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,C102,State Treasurer,,,Total Votes,578,116,444,18
+Allen,C102,State Treasurer,,,Under Votes,21,4,16,1
+Allen,C102,State Treasurer,,,Over Votes,0,0,0,0
+Allen,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,463,87,367,9
+Allen,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,30,79,9
+Allen,C102,Commissioner of Agriculture,,,Total Votes,581,117,446,18
+Allen,C102,Commissioner of Agriculture,,,Under Votes,18,3,14,1
+Allen,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,D101,STRAIGHT PARTY,,,Republican,374,29,334,11
+Allen,D101,STRAIGHT PARTY,,,Democratic,92,20,68,4
+Allen,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",533,39,480,14
+Allen,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,251,57,186,8
+Allen,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,D101,Governor,,,Total Votes,784,96,666,22
+Allen,D101,Governor,,,Under Votes,2,0,2,0
+Allen,D101,Governor,,,Over Votes,2,0,2,0
+Allen,D101,Secretary of State,,REP,Michael ADAMS,607,56,535,16
+Allen,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,37,118,6
+Allen,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,D101,Secretary of State,,,Total Votes,768,93,653,22
+Allen,D101,Secretary of State,,,Under Votes,20,3,17,0
+Allen,D101,Secretary of State,,,Over Votes,0,0,0,0
+Allen,D101,Attorney General,,REP,Russell COLEMAN,594,54,523,17
+Allen,D101,Attorney General,,DEM,Pamela STEVENSON,174,39,130,5
+Allen,D101,Attorney General,,,Total Votes,768,93,653,22
+Allen,D101,Attorney General,,,Under Votes,20,3,17,0
+Allen,D101,Attorney General,,,Over Votes,0,0,0,0
+Allen,D101,Auditor of Public Accounts,,REP,Allison BALL,616,56,543,17
+Allen,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",154,36,113,5
+Allen,D101,Auditor of Public Accounts,,,Total Votes,770,92,656,22
+Allen,D101,Auditor of Public Accounts,,,Under Votes,18,4,14,0
+Allen,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,D101,State Treasurer,,REP,Mark H. METCALF,601,56,529,16
+Allen,D101,State Treasurer,,DEM,Michael BOWMAN,167,35,126,6
+Allen,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,D101,State Treasurer,,,Total Votes,768,91,655,22
+Allen,D101,State Treasurer,,,Under Votes,20,5,15,0
+Allen,D101,State Treasurer,,,Over Votes,0,0,0,0
+Allen,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,607,57,533,17
+Allen,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,161,34,122,5
+Allen,D101,Commissioner of Agriculture,,,Total Votes,768,91,655,22
+Allen,D101,Commissioner of Agriculture,,,Under Votes,19,5,14,0
+Allen,D101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Allen,D102,STRAIGHT PARTY,,,Republican,125,22,102,1
+Allen,D102,STRAIGHT PARTY,,,Democratic,24,7,14,3
+Allen,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",182,29,151,2
+Allen,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,79,22,52,5
+Allen,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,D102,Governor,,,Total Votes,261,51,203,7
+Allen,D102,Governor,,,Under Votes,1,0,1,0
+Allen,D102,Governor,,,Over Votes,0,0,0,0
+Allen,D102,Secretary of State,,REP,Michael ADAMS,204,36,165,3
+Allen,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",55,15,36,4
+Allen,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,D102,Secretary of State,,,Total Votes,259,51,201,7
+Allen,D102,Secretary of State,,,Under Votes,3,0,3,0
+Allen,D102,Secretary of State,,,Over Votes,0,0,0,0
+Allen,D102,Attorney General,,REP,Russell COLEMAN,193,33,158,2
+Allen,D102,Attorney General,,DEM,Pamela STEVENSON,65,18,42,5
+Allen,D102,Attorney General,,,Total Votes,258,51,200,7
+Allen,D102,Attorney General,,,Under Votes,4,0,4,0
+Allen,D102,Attorney General,,,Over Votes,0,0,0,0
+Allen,D102,Auditor of Public Accounts,,REP,Allison BALL,207,36,166,5
+Allen,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",50,15,33,2
+Allen,D102,Auditor of Public Accounts,,,Total Votes,257,51,199,7
+Allen,D102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Allen,D102,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Allen,D102,State Treasurer,,REP,Mark H. METCALF,200,34,162,4
+Allen,D102,State Treasurer,,DEM,Michael BOWMAN,57,17,37,3
+Allen,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,D102,State Treasurer,,,Total Votes,257,51,199,7
+Allen,D102,State Treasurer,,,Under Votes,5,0,5,0
+Allen,D102,State Treasurer,,,Over Votes,0,0,0,0
+Allen,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,203,36,163,4
+Allen,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,53,14,36,3
+Allen,D102,Commissioner of Agriculture,,,Total Votes,256,50,199,7
+Allen,D102,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Allen,D102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Allen,D103,STRAIGHT PARTY,,,Republican,289,21,261,7
+Allen,D103,STRAIGHT PARTY,,,Democratic,66,11,50,5
+Allen,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",412,30,371,11
+Allen,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,163,27,126,10
+Allen,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,D103,Governor,,,Total Votes,575,57,497,21
+Allen,D103,Governor,,,Under Votes,2,0,2,0
+Allen,D103,Governor,,,Over Votes,0,0,0,0
+Allen,D103,Secretary of State,,REP,Michael ADAMS,469,39,415,15
+Allen,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,18,80,6
+Allen,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,D103,Secretary of State,,,Total Votes,573,57,495,21
+Allen,D103,Secretary of State,,,Under Votes,4,0,4,0
+Allen,D103,Secretary of State,,,Over Votes,0,0,0,0
+Allen,D103,Attorney General,,REP,Russell COLEMAN,454,36,405,13
+Allen,D103,Attorney General,,DEM,Pamela STEVENSON,119,21,91,7
+Allen,D103,Attorney General,,,Total Votes,573,57,496,20
+Allen,D103,Attorney General,,,Under Votes,4,0,3,1
+Allen,D103,Attorney General,,,Over Votes,0,0,0,0
+Allen,D103,Auditor of Public Accounts,,REP,Allison BALL,462,41,408,13
+Allen,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,16,85,7
+Allen,D103,Auditor of Public Accounts,,,Total Votes,570,57,493,20
+Allen,D103,Auditor of Public Accounts,,,Under Votes,7,0,6,1
+Allen,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,D103,State Treasurer,,REP,Mark H. METCALF,450,36,400,14
+Allen,D103,State Treasurer,,DEM,Michael BOWMAN,119,20,92,7
+Allen,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,D103,State Treasurer,,,Total Votes,569,56,492,21
+Allen,D103,State Treasurer,,,Under Votes,8,1,7,0
+Allen,D103,State Treasurer,,,Over Votes,0,0,0,0
+Allen,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,467,36,416,15
+Allen,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,104,20,78,6
+Allen,D103,Commissioner of Agriculture,,,Total Votes,571,56,494,21
+Allen,D103,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Allen,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,E101,STRAIGHT PARTY,,,Republican,88,4,83,1
+Allen,E101,STRAIGHT PARTY,,,Democratic,16,2,14,0
+Allen,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",132,4,127,1
+Allen,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,41,7,34,0
+Allen,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,E101,Governor,,,Total Votes,173,11,161,1
+Allen,E101,Governor,,,Under Votes,1,0,1,0
+Allen,E101,Governor,,,Over Votes,0,0,0,0
+Allen,E101,Secretary of State,,REP,Michael ADAMS,142,9,132,1
+Allen,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,2,29,0
+Allen,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,E101,Secretary of State,,,Total Votes,173,11,161,1
+Allen,E101,Secretary of State,,,Under Votes,1,0,1,0
+Allen,E101,Secretary of State,,,Over Votes,0,0,0,0
+Allen,E101,Attorney General,,REP,Russell COLEMAN,146,9,136,1
+Allen,E101,Attorney General,,DEM,Pamela STEVENSON,26,2,24,0
+Allen,E101,Attorney General,,,Total Votes,172,11,160,1
+Allen,E101,Attorney General,,,Under Votes,2,0,2,0
+Allen,E101,Attorney General,,,Over Votes,0,0,0,0
+Allen,E101,Auditor of Public Accounts,,REP,Allison BALL,143,8,134,1
+Allen,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",27,3,24,0
+Allen,E101,Auditor of Public Accounts,,,Total Votes,170,11,158,1
+Allen,E101,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Allen,E101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Allen,E101,State Treasurer,,REP,Mark H. METCALF,143,8,134,1
+Allen,E101,State Treasurer,,DEM,Michael BOWMAN,27,3,24,0
+Allen,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,E101,State Treasurer,,,Total Votes,170,11,158,1
+Allen,E101,State Treasurer,,,Under Votes,4,0,4,0
+Allen,E101,State Treasurer,,,Over Votes,0,0,0,0
+Allen,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,145,9,135,1
+Allen,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,2,23,0
+Allen,E101,Commissioner of Agriculture,,,Total Votes,170,11,158,1
+Allen,E101,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Allen,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,E102,STRAIGHT PARTY,,,Republican,200,7,193,0
+Allen,E102,STRAIGHT PARTY,,,Democratic,39,1,37,1
+Allen,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",259,17,242,0
+Allen,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,7,97,3
+Allen,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,E102,Governor,,,Total Votes,366,24,339,3
+Allen,E102,Governor,,,Under Votes,1,0,1,0
+Allen,E102,Governor,,,Over Votes,0,0,0,0
+Allen,E102,Secretary of State,,REP,Michael ADAMS,294,20,274,0
+Allen,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,4,62,3
+Allen,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,E102,Secretary of State,,,Total Votes,363,24,336,3
+Allen,E102,Secretary of State,,,Under Votes,4,0,4,0
+Allen,E102,Secretary of State,,,Over Votes,0,0,0,0
+Allen,E102,Attorney General,,REP,Russell COLEMAN,282,19,263,0
+Allen,E102,Attorney General,,DEM,Pamela STEVENSON,81,5,73,3
+Allen,E102,Attorney General,,,Total Votes,363,24,336,3
+Allen,E102,Attorney General,,,Under Votes,4,0,4,0
+Allen,E102,Attorney General,,,Over Votes,0,0,0,0
+Allen,E102,Auditor of Public Accounts,,REP,Allison BALL,286,18,268,0
+Allen,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",73,5,65,3
+Allen,E102,Auditor of Public Accounts,,,Total Votes,359,23,333,3
+Allen,E102,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Allen,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,E102,State Treasurer,,REP,Mark H. METCALF,281,19,262,0
+Allen,E102,State Treasurer,,DEM,Michael BOWMAN,79,5,71,3
+Allen,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,E102,State Treasurer,,,Total Votes,360,24,333,3
+Allen,E102,State Treasurer,,,Under Votes,7,0,7,0
+Allen,E102,State Treasurer,,,Over Votes,0,0,0,0
+Allen,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,286,18,267,1
+Allen,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,75,6,67,2
+Allen,E102,Commissioner of Agriculture,,,Total Votes,361,24,334,3
+Allen,E102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Allen,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Allen,E103,STRAIGHT PARTY,,,Republican,153,35,117,1
+Allen,E103,STRAIGHT PARTY,,,Democratic,22,3,19,0
+Allen,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",207,50,155,2
+Allen,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,53,15,38,0
+Allen,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Allen,E103,Governor,,,Total Votes,260,65,193,2
+Allen,E103,Governor,,,Under Votes,1,1,0,0
+Allen,E103,Governor,,,Over Votes,0,0,0,0
+Allen,E103,Secretary of State,,REP,Michael ADAMS,222,58,162,2
+Allen,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,7,27,0
+Allen,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Allen,E103,Secretary of State,,,Total Votes,256,65,189,2
+Allen,E103,Secretary of State,,,Under Votes,5,1,4,0
+Allen,E103,Secretary of State,,,Over Votes,0,0,0,0
+Allen,E103,Attorney General,,REP,Russell COLEMAN,217,56,159,2
+Allen,E103,Attorney General,,DEM,Pamela STEVENSON,39,9,30,0
+Allen,E103,Attorney General,,,Total Votes,256,65,189,2
+Allen,E103,Attorney General,,,Under Votes,5,1,4,0
+Allen,E103,Attorney General,,,Over Votes,0,0,0,0
+Allen,E103,Auditor of Public Accounts,,REP,Allison BALL,222,56,164,2
+Allen,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,8,25,0
+Allen,E103,Auditor of Public Accounts,,,Total Votes,255,64,189,2
+Allen,E103,Auditor of Public Accounts,,,Under Votes,6,2,4,0
+Allen,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Allen,E103,State Treasurer,,REP,Mark H. METCALF,211,54,155,2
+Allen,E103,State Treasurer,,DEM,Michael BOWMAN,43,10,33,0
+Allen,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Allen,E103,State Treasurer,,,Total Votes,254,64,188,2
+Allen,E103,State Treasurer,,,Under Votes,7,2,5,0
+Allen,E103,State Treasurer,,,Over Votes,0,0,0,0
+Allen,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,219,54,163,2
+Allen,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,9,26,0
+Allen,E103,Commissioner of Agriculture,,,Total Votes,254,63,189,2
+Allen,E103,Commissioner of Agriculture,,,Under Votes,7,3,4,0
+Allen,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

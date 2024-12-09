@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Crittenden,A101   CO,STRAIGHT PARTY,,,Republican,30,4,26,0
 Crittenden,A101   CO,STRAIGHT PARTY,,,Democratic,13,8,5,0
-Crittenden,A101   CO,Governor,,REP,Daniel CAMERON,46,7,38,1
-Crittenden,A101   CO,Governor,,DEM,Andy BESHEAR,33,14,19,0
-Crittenden,A101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,A101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",46,7,38,1
+Crittenden,A101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,33,14,19,0
+Crittenden,A101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,A101   CO,Governor,,,Total Votes,79,21,57,1
 Crittenden,A101   CO,Governor,,,Under Votes,1,0,1,0
 Crittenden,A101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,A101   CO,Secretary of State,,REP,Michael ADAMS,56,9,47,0
 Crittenden,A101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",23,12,11,0
-Crittenden,A101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,A101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,A101   CO,Secretary of State,,,Total Votes,79,21,58,0
 Crittenden,A101   CO,Secretary of State,,,Under Votes,1,0,0,1
 Crittenden,A101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Crittenden,A101   CO,Auditor of Public Accounts,,,Under Votes,1,0,0,1
 Crittenden,A101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,A101   CO,State Treasurer,,REP,Mark H. METCALF,53,8,45,0
 Crittenden,A101   CO,State Treasurer,,DEM,Michael BOWMAN,24,13,11,0
-Crittenden,A101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,A101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,A101   CO,State Treasurer,,,Total Votes,77,21,56,0
 Crittenden,A101   CO,State Treasurer,,,Under Votes,3,0,2,1
 Crittenden,A101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Crittenden,A101   CO,Commissioner of Agriculture,,,Under Votes,2,0,1,1
 Crittenden,A101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,A101   MAR,STRAIGHT PARTY,,,Republican,37,8,29,0
 Crittenden,A101   MAR,STRAIGHT PARTY,,,Democratic,18,7,11,0
-Crittenden,A101   MAR,Governor,,REP,Daniel CAMERON,69,13,55,1
-Crittenden,A101   MAR,Governor,,DEM,Andy BESHEAR,55,19,36,0
-Crittenden,A101   MAR,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,A101   MAR,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",69,13,55,1
+Crittenden,A101   MAR,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,19,36,0
+Crittenden,A101   MAR,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,A101   MAR,Governor,,,Total Votes,124,32,91,1
 Crittenden,A101   MAR,Governor,,,Under Votes,1,0,1,0
 Crittenden,A101   MAR,Governor,,,Over Votes,0,0,0,0
 Crittenden,A101   MAR,Secretary of State,,REP,Michael ADAMS,84,20,63,1
 Crittenden,A101   MAR,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",35,10,25,0
-Crittenden,A101   MAR,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,A101   MAR,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,A101   MAR,Secretary of State,,,Total Votes,119,30,88,1
 Crittenden,A101   MAR,Secretary of State,,,Under Votes,6,2,4,0
 Crittenden,A101   MAR,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Crittenden,A101   MAR,Auditor of Public Accounts,,,Under Votes,8,3,5,0
 Crittenden,A101   MAR,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,A101   MAR,State Treasurer,,REP,Mark H. METCALF,83,17,65,1
 Crittenden,A101   MAR,State Treasurer,,DEM,Michael BOWMAN,34,13,21,0
-Crittenden,A101   MAR,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,A101   MAR,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,A101   MAR,State Treasurer,,,Total Votes,117,30,86,1
 Crittenden,A101   MAR,State Treasurer,,,Under Votes,8,2,6,0
 Crittenden,A101   MAR,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Crittenden,A101   MAR,Commissioner of Agriculture,,,Under Votes,11,4,6,1
 Crittenden,A101   MAR,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,A102   CO,STRAIGHT PARTY,,,Republican,75,4,71,0
 Crittenden,A102   CO,STRAIGHT PARTY,,,Democratic,22,3,18,1
-Crittenden,A102   CO,Governor,,REP,Daniel CAMERON,122,8,113,1
-Crittenden,A102   CO,Governor,,DEM,Andy BESHEAR,59,14,43,2
-Crittenden,A102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,A102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",122,8,113,1
+Crittenden,A102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,59,14,43,2
+Crittenden,A102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,A102   CO,Governor,,,Total Votes,181,22,156,3
 Crittenden,A102   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,A102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,A102   CO,Secretary of State,,REP,Michael ADAMS,139,13,125,1
 Crittenden,A102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,9,23,2
-Crittenden,A102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,A102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,A102   CO,Secretary of State,,,Total Votes,173,22,148,3
 Crittenden,A102   CO,Secretary of State,,,Under Votes,8,0,8,0
 Crittenden,A102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Crittenden,A102   CO,Auditor of Public Accounts,,,Under Votes,7,0,7,0
 Crittenden,A102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,A102   CO,State Treasurer,,REP,Mark H. METCALF,135,10,124,1
 Crittenden,A102   CO,State Treasurer,,DEM,Michael BOWMAN,39,12,25,2
-Crittenden,A102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,A102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,A102   CO,State Treasurer,,,Total Votes,174,22,149,3
 Crittenden,A102   CO,State Treasurer,,,Under Votes,7,0,7,0
 Crittenden,A102   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Crittenden,A102   CO,Commissioner of Agriculture,,,Under Votes,10,0,10,0
 Crittenden,A102   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,B101   CO,STRAIGHT PARTY,,,Republican,144,29,114,1
 Crittenden,B101   CO,STRAIGHT PARTY,,,Democratic,31,7,20,4
-Crittenden,B101   CO,Governor,,REP,Daniel CAMERON,220,34,182,4
-Crittenden,B101   CO,Governor,,DEM,Andy BESHEAR,83,14,64,5
-Crittenden,B101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,B101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",220,34,182,4
+Crittenden,B101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,14,64,5
+Crittenden,B101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,B101   CO,Governor,,,Total Votes,303,48,246,9
 Crittenden,B101   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,B101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,B101   CO,Secretary of State,,REP,Michael ADAMS,252,38,210,4
 Crittenden,B101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",43,8,30,5
-Crittenden,B101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,B101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,B101   CO,Secretary of State,,,Total Votes,295,46,240,9
 Crittenden,B101   CO,Secretary of State,,,Under Votes,8,2,6,0
 Crittenden,B101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Crittenden,B101   CO,Auditor of Public Accounts,,,Under Votes,9,2,7,0
 Crittenden,B101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,B101   CO,State Treasurer,,REP,Mark H. METCALF,237,36,197,4
 Crittenden,B101   CO,State Treasurer,,DEM,Michael BOWMAN,54,11,38,5
-Crittenden,B101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,B101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,B101   CO,State Treasurer,,,Total Votes,291,47,235,9
 Crittenden,B101   CO,State Treasurer,,,Under Votes,12,1,11,0
 Crittenden,B101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Crittenden,B101   CO,Commissioner of Agriculture,,,Under Votes,10,1,9,0
 Crittenden,B101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,B102   CO,STRAIGHT PARTY,,,Republican,112,19,93,0
 Crittenden,B102   CO,STRAIGHT PARTY,,,Democratic,19,2,17,0
-Crittenden,B102   CO,Governor,,REP,Daniel CAMERON,134,22,112,0
-Crittenden,B102   CO,Governor,,DEM,Andy BESHEAR,66,11,55,0
-Crittenden,B102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,B102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",134,22,112,0
+Crittenden,B102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,66,11,55,0
+Crittenden,B102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,B102   CO,Governor,,,Total Votes,200,33,167,0
 Crittenden,B102   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,B102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,B102   CO,Secretary of State,,REP,Michael ADAMS,163,28,135,0
 Crittenden,B102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,5,31,0
-Crittenden,B102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,B102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,B102   CO,Secretary of State,,,Total Votes,199,33,166,0
 Crittenden,B102   CO,Secretary of State,,,Under Votes,1,0,1,0
 Crittenden,B102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Crittenden,B102   CO,Auditor of Public Accounts,,,Under Votes,0,0,0,0
 Crittenden,B102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,B102   CO,State Treasurer,,REP,Mark H. METCALF,155,26,129,0
 Crittenden,B102   CO,State Treasurer,,DEM,Michael BOWMAN,41,5,36,0
-Crittenden,B102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,B102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,B102   CO,State Treasurer,,,Total Votes,196,31,165,0
 Crittenden,B102   CO,State Treasurer,,,Under Votes,4,2,2,0
 Crittenden,B102   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Crittenden,B102   CO,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Crittenden,B102   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,C101   CO,STRAIGHT PARTY,,,Republican,15,6,8,1
 Crittenden,C101   CO,STRAIGHT PARTY,,,Democratic,2,0,2,0
-Crittenden,C101   CO,Governor,,REP,Daniel CAMERON,22,6,15,1
-Crittenden,C101   CO,Governor,,DEM,Andy BESHEAR,5,0,4,1
-Crittenden,C101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,C101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",22,6,15,1
+Crittenden,C101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,5,0,4,1
+Crittenden,C101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,C101   CO,Governor,,,Total Votes,27,6,19,2
 Crittenden,C101   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,C101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,C101   CO,Secretary of State,,REP,Michael ADAMS,22,6,15,1
 Crittenden,C101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",4,0,4,0
-Crittenden,C101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,C101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,C101   CO,Secretary of State,,,Total Votes,26,6,19,1
 Crittenden,C101   CO,Secretary of State,,,Under Votes,1,0,0,1
 Crittenden,C101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Crittenden,C101   CO,Auditor of Public Accounts,,,Under Votes,1,0,0,1
 Crittenden,C101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,C101   CO,State Treasurer,,REP,Mark H. METCALF,22,6,15,1
 Crittenden,C101   CO,State Treasurer,,DEM,Michael BOWMAN,4,0,4,0
-Crittenden,C101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,C101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,C101   CO,State Treasurer,,,Total Votes,26,6,19,1
 Crittenden,C101   CO,State Treasurer,,,Under Votes,1,0,0,1
 Crittenden,C101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Crittenden,C101   CO,Commissioner of Agriculture,,,Under Votes,1,0,0,1
 Crittenden,C101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,C101   MAR,STRAIGHT PARTY,,,Republican,71,16,53,2
 Crittenden,C101   MAR,STRAIGHT PARTY,,,Democratic,20,4,16,0
-Crittenden,C101   MAR,Governor,,REP,Daniel CAMERON,106,23,82,1
-Crittenden,C101   MAR,Governor,,DEM,Andy BESHEAR,65,18,45,2
-Crittenden,C101   MAR,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,C101   MAR,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",106,23,82,1
+Crittenden,C101   MAR,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,65,18,45,2
+Crittenden,C101   MAR,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,C101   MAR,Governor,,,Total Votes,171,41,127,3
 Crittenden,C101   MAR,Governor,,,Under Votes,2,2,0,0
 Crittenden,C101   MAR,Governor,,,Over Votes,0,0,0,0
 Crittenden,C101   MAR,Secretary of State,,REP,Michael ADAMS,128,33,92,3
 Crittenden,C101   MAR,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",39,9,30,0
-Crittenden,C101   MAR,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,C101   MAR,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,C101   MAR,Secretary of State,,,Total Votes,167,42,122,3
 Crittenden,C101   MAR,Secretary of State,,,Under Votes,6,1,5,0
 Crittenden,C101   MAR,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Crittenden,C101   MAR,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Crittenden,C101   MAR,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,C101   MAR,State Treasurer,,REP,Mark H. METCALF,117,28,86,3
 Crittenden,C101   MAR,State Treasurer,,DEM,Michael BOWMAN,46,13,33,0
-Crittenden,C101   MAR,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,C101   MAR,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,C101   MAR,State Treasurer,,,Total Votes,163,41,119,3
 Crittenden,C101   MAR,State Treasurer,,,Under Votes,10,2,8,0
 Crittenden,C101   MAR,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Crittenden,C101   MAR,Commissioner of Agriculture,,,Under Votes,7,1,6,0
 Crittenden,C101   MAR,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,C102   CO,STRAIGHT PARTY,,,Republican,29,10,19,0
 Crittenden,C102   CO,STRAIGHT PARTY,,,Democratic,17,8,9,0
-Crittenden,C102   CO,Governor,,REP,Daniel CAMERON,44,13,31,0
-Crittenden,C102   CO,Governor,,DEM,Andy BESHEAR,35,17,18,0
-Crittenden,C102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,C102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",44,13,31,0
+Crittenden,C102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,35,17,18,0
+Crittenden,C102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,C102   CO,Governor,,,Total Votes,79,30,49,0
 Crittenden,C102   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,C102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,C102   CO,Secretary of State,,REP,Michael ADAMS,52,18,34,0
 Crittenden,C102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",24,9,15,0
-Crittenden,C102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,C102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,C102   CO,Secretary of State,,,Total Votes,76,27,49,0
 Crittenden,C102   CO,Secretary of State,,,Under Votes,3,3,0,0
 Crittenden,C102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Crittenden,C102   CO,Auditor of Public Accounts,,,Under Votes,3,3,0,0
 Crittenden,C102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,C102   CO,State Treasurer,,REP,Mark H. METCALF,51,18,33,0
 Crittenden,C102   CO,State Treasurer,,DEM,Michael BOWMAN,25,9,16,0
-Crittenden,C102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,C102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,C102   CO,State Treasurer,,,Total Votes,76,27,49,0
 Crittenden,C102   CO,State Treasurer,,,Under Votes,3,3,0,0
 Crittenden,C102   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Crittenden,C102   CO,Commissioner of Agriculture,,,Under Votes,2,2,0,0
 Crittenden,C102   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,D101   CO,STRAIGHT PARTY,,,Republican,88,26,59,3
 Crittenden,D101   CO,STRAIGHT PARTY,,,Democratic,16,7,9,0
-Crittenden,D101   CO,Governor,,REP,Daniel CAMERON,120,31,85,4
-Crittenden,D101   CO,Governor,,DEM,Andy BESHEAR,54,21,33,0
-Crittenden,D101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,D101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",120,31,85,4
+Crittenden,D101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,54,21,33,0
+Crittenden,D101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,D101   CO,Governor,,,Total Votes,174,52,118,4
 Crittenden,D101   CO,Governor,,,Under Votes,1,0,1,0
 Crittenden,D101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,D101   CO,Secretary of State,,REP,Michael ADAMS,144,39,101,4
 Crittenden,D101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",28,12,16,0
-Crittenden,D101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,D101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,D101   CO,Secretary of State,,,Total Votes,172,51,117,4
 Crittenden,D101   CO,Secretary of State,,,Under Votes,3,1,2,0
 Crittenden,D101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Crittenden,D101   CO,Auditor of Public Accounts,,,Under Votes,4,2,2,0
 Crittenden,D101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,D101   CO,State Treasurer,,REP,Mark H. METCALF,138,37,97,4
 Crittenden,D101   CO,State Treasurer,,DEM,Michael BOWMAN,34,14,20,0
-Crittenden,D101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,D101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,D101   CO,State Treasurer,,,Total Votes,172,51,117,4
 Crittenden,D101   CO,State Treasurer,,,Under Votes,3,1,2,0
 Crittenden,D101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Crittenden,D101   CO,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Crittenden,D101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,D101   MAR,STRAIGHT PARTY,,,Republican,43,7,34,2
 Crittenden,D101   MAR,STRAIGHT PARTY,,,Democratic,10,4,6,0
-Crittenden,D101   MAR,Governor,,REP,Daniel CAMERON,66,14,50,2
-Crittenden,D101   MAR,Governor,,DEM,Andy BESHEAR,38,15,23,0
-Crittenden,D101   MAR,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,D101   MAR,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",66,14,50,2
+Crittenden,D101   MAR,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,38,15,23,0
+Crittenden,D101   MAR,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,D101   MAR,Governor,,,Total Votes,104,29,73,2
 Crittenden,D101   MAR,Governor,,,Under Votes,1,1,0,0
 Crittenden,D101   MAR,Governor,,,Over Votes,0,0,0,0
 Crittenden,D101   MAR,Secretary of State,,REP,Michael ADAMS,88,23,63,2
 Crittenden,D101   MAR,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",16,7,9,0
-Crittenden,D101   MAR,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,D101   MAR,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,D101   MAR,Secretary of State,,,Total Votes,104,30,72,2
 Crittenden,D101   MAR,Secretary of State,,,Under Votes,1,0,1,0
 Crittenden,D101   MAR,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Crittenden,D101   MAR,Auditor of Public Accounts,,,Under Votes,2,1,1,0
 Crittenden,D101   MAR,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,D101   MAR,State Treasurer,,REP,Mark H. METCALF,76,19,55,2
 Crittenden,D101   MAR,State Treasurer,,DEM,Michael BOWMAN,28,11,17,0
-Crittenden,D101   MAR,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,D101   MAR,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,D101   MAR,State Treasurer,,,Total Votes,104,30,72,2
 Crittenden,D101   MAR,State Treasurer,,,Under Votes,1,0,1,0
 Crittenden,D101   MAR,State Treasurer,,,Over Votes,0,0,0,0
@@ -351,15 +351,15 @@ Crittenden,D101   MAR,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Crittenden,D101   MAR,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,D102   CO,STRAIGHT PARTY,,,Republican,40,11,28,1
 Crittenden,D102   CO,STRAIGHT PARTY,,,Democratic,13,3,10,0
-Crittenden,D102   CO,Governor,,REP,Daniel CAMERON,63,18,43,2
-Crittenden,D102   CO,Governor,,DEM,Andy BESHEAR,27,6,18,3
-Crittenden,D102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,D102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",63,18,43,2
+Crittenden,D102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,27,6,18,3
+Crittenden,D102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,D102   CO,Governor,,,Total Votes,90,24,61,5
 Crittenden,D102   CO,Governor,,,Under Votes,1,0,1,0
 Crittenden,D102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,D102   CO,Secretary of State,,REP,Michael ADAMS,68,18,47,3
 Crittenden,D102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",21,5,14,2
-Crittenden,D102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,D102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,D102   CO,Secretary of State,,,Total Votes,89,23,61,5
 Crittenden,D102   CO,Secretary of State,,,Under Votes,2,1,1,0
 Crittenden,D102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -375,7 +375,7 @@ Crittenden,D102   CO,Auditor of Public Accounts,,,Under Votes,2,1,1,0
 Crittenden,D102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,D102   CO,State Treasurer,,REP,Mark H. METCALF,69,19,47,3
 Crittenden,D102   CO,State Treasurer,,DEM,Michael BOWMAN,21,4,15,2
-Crittenden,D102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,D102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,D102   CO,State Treasurer,,,Total Votes,90,23,62,5
 Crittenden,D102   CO,State Treasurer,,,Under Votes,1,1,0,0
 Crittenden,D102   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -386,15 +386,15 @@ Crittenden,D102   CO,Commissioner of Agriculture,,,Under Votes,1,1,0,0
 Crittenden,D102   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,E101   CO,STRAIGHT PARTY,,,Republican,105,13,90,2
 Crittenden,E101   CO,STRAIGHT PARTY,,,Democratic,38,13,25,0
-Crittenden,E101   CO,Governor,,REP,Daniel CAMERON,155,18,133,4
-Crittenden,E101   CO,Governor,,DEM,Andy BESHEAR,88,20,68,0
-Crittenden,E101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,E101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",155,18,133,4
+Crittenden,E101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,88,20,68,0
+Crittenden,E101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,E101   CO,Governor,,,Total Votes,243,38,201,4
 Crittenden,E101   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,E101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,E101   CO,Secretary of State,,REP,Michael ADAMS,176,19,153,4
 Crittenden,E101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",64,19,45,0
-Crittenden,E101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,E101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,E101   CO,Secretary of State,,,Total Votes,240,38,198,4
 Crittenden,E101   CO,Secretary of State,,,Under Votes,3,0,3,0
 Crittenden,E101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -410,7 +410,7 @@ Crittenden,E101   CO,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Crittenden,E101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,E101   CO,State Treasurer,,REP,Mark H. METCALF,176,20,152,4
 Crittenden,E101   CO,State Treasurer,,DEM,Michael BOWMAN,64,18,46,0
-Crittenden,E101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,E101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,E101   CO,State Treasurer,,,Total Votes,240,38,198,4
 Crittenden,E101   CO,State Treasurer,,,Under Votes,3,0,3,0
 Crittenden,E101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -421,15 +421,15 @@ Crittenden,E101   CO,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Crittenden,E101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,E102   CO,STRAIGHT PARTY,,,Republican,147,28,119,0
 Crittenden,E102   CO,STRAIGHT PARTY,,,Democratic,22,9,12,1
-Crittenden,E102   CO,Governor,,REP,Daniel CAMERON,201,37,164,0
-Crittenden,E102   CO,Governor,,DEM,Andy BESHEAR,69,17,50,2
-Crittenden,E102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,E102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",201,37,164,0
+Crittenden,E102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,69,17,50,2
+Crittenden,E102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,E102   CO,Governor,,,Total Votes,270,54,214,2
 Crittenden,E102   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,E102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,E102   CO,Secretary of State,,REP,Michael ADAMS,228,39,188,1
 Crittenden,E102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",41,15,25,1
-Crittenden,E102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,E102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,E102   CO,Secretary of State,,,Total Votes,269,54,213,2
 Crittenden,E102   CO,Secretary of State,,,Under Votes,1,0,1,0
 Crittenden,E102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -445,7 +445,7 @@ Crittenden,E102   CO,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Crittenden,E102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,E102   CO,State Treasurer,,REP,Mark H. METCALF,224,39,185,0
 Crittenden,E102   CO,State Treasurer,,DEM,Michael BOWMAN,46,15,29,2
-Crittenden,E102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,E102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,E102   CO,State Treasurer,,,Total Votes,270,54,214,2
 Crittenden,E102   CO,State Treasurer,,,Under Votes,0,0,0,0
 Crittenden,E102   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -456,15 +456,15 @@ Crittenden,E102   CO,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Crittenden,E102   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,E102   MAR,STRAIGHT PARTY,,,Republican,16,4,12,0
 Crittenden,E102   MAR,STRAIGHT PARTY,,,Democratic,8,3,5,0
-Crittenden,E102   MAR,Governor,,REP,Daniel CAMERON,26,7,19,0
-Crittenden,E102   MAR,Governor,,DEM,Andy BESHEAR,15,5,10,0
-Crittenden,E102   MAR,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,E102   MAR,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",26,7,19,0
+Crittenden,E102   MAR,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,15,5,10,0
+Crittenden,E102   MAR,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,E102   MAR,Governor,,,Total Votes,41,12,29,0
 Crittenden,E102   MAR,Governor,,,Under Votes,0,0,0,0
 Crittenden,E102   MAR,Governor,,,Over Votes,0,0,0,0
 Crittenden,E102   MAR,Secretary of State,,REP,Michael ADAMS,31,8,23,0
 Crittenden,E102   MAR,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",9,4,5,0
-Crittenden,E102   MAR,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,E102   MAR,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,E102   MAR,Secretary of State,,,Total Votes,40,12,28,0
 Crittenden,E102   MAR,Secretary of State,,,Under Votes,1,0,1,0
 Crittenden,E102   MAR,Secretary of State,,,Over Votes,0,0,0,0
@@ -480,7 +480,7 @@ Crittenden,E102   MAR,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Crittenden,E102   MAR,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,E102   MAR,State Treasurer,,REP,Mark H. METCALF,30,8,22,0
 Crittenden,E102   MAR,State Treasurer,,DEM,Michael BOWMAN,10,4,6,0
-Crittenden,E102   MAR,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,E102   MAR,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,E102   MAR,State Treasurer,,,Total Votes,40,12,28,0
 Crittenden,E102   MAR,State Treasurer,,,Under Votes,1,0,1,0
 Crittenden,E102   MAR,State Treasurer,,,Over Votes,0,0,0,0
@@ -491,15 +491,15 @@ Crittenden,E102   MAR,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Crittenden,E102   MAR,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,F101   CO,STRAIGHT PARTY,,,Republican,66,13,52,1
 Crittenden,F101   CO,STRAIGHT PARTY,,,Democratic,7,1,5,1
-Crittenden,F101   CO,Governor,,REP,Daniel CAMERON,89,17,71,1
-Crittenden,F101   CO,Governor,,DEM,Andy BESHEAR,28,7,20,1
-Crittenden,F101   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,F101   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",89,17,71,1
+Crittenden,F101   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,28,7,20,1
+Crittenden,F101   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,F101   CO,Governor,,,Total Votes,117,24,91,2
 Crittenden,F101   CO,Governor,,,Under Votes,1,1,0,0
 Crittenden,F101   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,F101   CO,Secretary of State,,REP,Michael ADAMS,107,22,84,1
 Crittenden,F101   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",9,2,6,1
-Crittenden,F101   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,F101   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,F101   CO,Secretary of State,,,Total Votes,116,24,90,2
 Crittenden,F101   CO,Secretary of State,,,Under Votes,2,1,1,0
 Crittenden,F101   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -515,7 +515,7 @@ Crittenden,F101   CO,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Crittenden,F101   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,F101   CO,State Treasurer,,REP,Mark H. METCALF,105,22,82,1
 Crittenden,F101   CO,State Treasurer,,DEM,Michael BOWMAN,10,2,7,1
-Crittenden,F101   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,F101   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,F101   CO,State Treasurer,,,Total Votes,115,24,89,2
 Crittenden,F101   CO,State Treasurer,,,Under Votes,3,1,2,0
 Crittenden,F101   CO,State Treasurer,,,Over Votes,0,0,0,0
@@ -526,15 +526,15 @@ Crittenden,F101   CO,Commissioner of Agriculture,,,Under Votes,2,1,1,0
 Crittenden,F101   CO,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,F101   MAR,STRAIGHT PARTY,,,Republican,61,11,48,2
 Crittenden,F101   MAR,STRAIGHT PARTY,,,Democratic,23,5,16,2
-Crittenden,F101   MAR,Governor,,REP,Daniel CAMERON,92,19,70,3
-Crittenden,F101   MAR,Governor,,DEM,Andy BESHEAR,78,12,60,6
-Crittenden,F101   MAR,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,F101   MAR,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",92,19,70,3
+Crittenden,F101   MAR,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,78,12,60,6
+Crittenden,F101   MAR,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,F101   MAR,Governor,,,Total Votes,170,31,130,9
 Crittenden,F101   MAR,Governor,,,Under Votes,3,1,2,0
 Crittenden,F101   MAR,Governor,,,Over Votes,0,0,0,0
 Crittenden,F101   MAR,Secretary of State,,REP,Michael ADAMS,117,26,85,6
 Crittenden,F101   MAR,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,5,43,3
-Crittenden,F101   MAR,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,F101   MAR,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,F101   MAR,Secretary of State,,,Total Votes,168,31,128,9
 Crittenden,F101   MAR,Secretary of State,,,Under Votes,5,1,4,0
 Crittenden,F101   MAR,Secretary of State,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Crittenden,F101   MAR,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Crittenden,F101   MAR,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,F101   MAR,State Treasurer,,REP,Mark H. METCALF,116,24,86,6
 Crittenden,F101   MAR,State Treasurer,,DEM,Michael BOWMAN,52,7,42,3
-Crittenden,F101   MAR,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,F101   MAR,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,F101   MAR,State Treasurer,,,Total Votes,168,31,128,9
 Crittenden,F101   MAR,State Treasurer,,,Under Votes,5,1,4,0
 Crittenden,F101   MAR,State Treasurer,,,Over Votes,0,0,0,0
@@ -561,15 +561,15 @@ Crittenden,F101   MAR,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Crittenden,F101   MAR,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Crittenden,F102   CO,STRAIGHT PARTY,,,Republican,68,0,68,0
 Crittenden,F102   CO,STRAIGHT PARTY,,,Democratic,22,2,19,1
-Crittenden,F102   CO,Governor,,REP,Daniel CAMERON,85,1,84,0
-Crittenden,F102   CO,Governor,,DEM,Andy BESHEAR,60,4,55,1
-Crittenden,F102   CO,Governor,,,BRIAN FISHBACK/WILLIAM FISHBACK,0,0,0,0
+Crittenden,F102   CO,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",85,1,84,0
+Crittenden,F102   CO,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,60,4,55,1
+Crittenden,F102   CO,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Crittenden,F102   CO,Governor,,,Total Votes,145,5,139,1
 Crittenden,F102   CO,Governor,,,Under Votes,0,0,0,0
 Crittenden,F102   CO,Governor,,,Over Votes,0,0,0,0
 Crittenden,F102   CO,Secretary of State,,REP,Michael ADAMS,104,2,102,0
 Crittenden,F102   CO,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",35,2,32,1
-Crittenden,F102   CO,Secretary of State,,,KENNETH C. MOELLMAN JR. (W),0,0,0,0
+Crittenden,F102   CO,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Crittenden,F102   CO,Secretary of State,,,Total Votes,139,4,134,1
 Crittenden,F102   CO,Secretary of State,,,Under Votes,6,1,5,0
 Crittenden,F102   CO,Secretary of State,,,Over Votes,0,0,0,0
@@ -585,7 +585,7 @@ Crittenden,F102   CO,Auditor of Public Accounts,,,Under Votes,6,1,5,0
 Crittenden,F102   CO,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Crittenden,F102   CO,State Treasurer,,REP,Mark H. METCALF,102,1,101,0
 Crittenden,F102   CO,State Treasurer,,DEM,Michael BOWMAN,34,2,31,1
-Crittenden,F102   CO,State Treasurer,,,ROBERT PERRY (W),0,0,0,0
+Crittenden,F102   CO,State Treasurer,,,Robert Perry,0,0,0,0
 Crittenden,F102   CO,State Treasurer,,,Total Votes,136,3,132,1
 Crittenden,F102   CO,State Treasurer,,,Under Votes,9,2,7,0
 Crittenden,F102   CO,State Treasurer,,,Over Votes,0,0,0,0

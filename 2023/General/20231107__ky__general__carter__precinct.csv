@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Carter,A101,STRAIGHT PARTY,,,Republican,100,15,83,2
 Carter,A101,STRAIGHT PARTY,,,Democratic,67,10,50,7
-Carter,A101,Governor,,REP,Daniel CAMERON,168,25,139,4
-Carter,A101,Governor,,DEM,Andy BESHEAR,184,30,142,12
-Carter,A101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",168,25,139,4
+Carter,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,184,30,142,12
+Carter,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,A101,Governor,,,Total Votes,352,55,281,16
 Carter,A101,Governor,,,Under Votes,3,0,3,0
 Carter,A101,Governor,,,Over Votes,0,0,0,0
 Carter,A101,Secretary of State,,REP,Michael ADAMS,221,38,178,5
 Carter,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",119,16,94,9
-Carter,A101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,A101,Secretary of State,,,Total Votes,340,54,272,14
 Carter,A101,Secretary of State,,,Under Votes,15,1,12,2
 Carter,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Carter,A101,Auditor of Public Accounts,,,Under Votes,13,1,11,1
 Carter,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,A101,State Treasurer,,REP,Mark H. METCALF,212,33,174,5
 Carter,A101,State Treasurer,,DEM,Michael BOWMAN,125,20,96,9
-Carter,A101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,A101,State Treasurer,,,Total Votes,337,53,270,14
 Carter,A101,State Treasurer,,,Under Votes,18,2,14,2
 Carter,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Carter,A101,Commissioner of Agriculture,,,Under Votes,13,1,10,2
 Carter,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A102,STRAIGHT PARTY,,,Republican,63,4,59,0
 Carter,A102,STRAIGHT PARTY,,,Democratic,28,1,23,4
-Carter,A102,Governor,,REP,Daniel CAMERON,92,7,84,1
-Carter,A102,Governor,,DEM,Andy BESHEAR,76,6,63,7
-Carter,A102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",92,7,84,1
+Carter,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,76,6,63,7
+Carter,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,A102,Governor,,,Total Votes,168,13,147,8
 Carter,A102,Governor,,,Under Votes,2,1,1,0
 Carter,A102,Governor,,,Over Votes,0,0,0,0
 Carter,A102,Secretary of State,,REP,Michael ADAMS,109,8,98,3
 Carter,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,6,46,5
-Carter,A102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,A102,Secretary of State,,,Total Votes,166,14,144,8
 Carter,A102,Secretary of State,,,Under Votes,4,0,4,0
 Carter,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Carter,A102,Auditor of Public Accounts,,,Under Votes,6,0,6,0
 Carter,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,A102,State Treasurer,,REP,Mark H. METCALF,102,9,92,1
 Carter,A102,State Treasurer,,DEM,Michael BOWMAN,61,4,50,7
-Carter,A102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,A102,State Treasurer,,,Total Votes,163,13,142,8
 Carter,A102,State Treasurer,,,Under Votes,7,1,6,0
 Carter,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Carter,A102,Commissioner of Agriculture,,,Under Votes,6,1,5,0
 Carter,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A103,STRAIGHT PARTY,,,Republican,71,4,65,2
 Carter,A103,STRAIGHT PARTY,,,Democratic,28,6,21,1
-Carter,A103,Governor,,REP,Daniel CAMERON,117,9,105,3
-Carter,A103,Governor,,DEM,Andy BESHEAR,60,12,47,1
-Carter,A103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",117,9,105,3
+Carter,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,60,12,47,1
+Carter,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,A103,Governor,,,Total Votes,177,21,152,4
 Carter,A103,Governor,,,Under Votes,0,0,0,0
 Carter,A103,Governor,,,Over Votes,0,0,0,0
 Carter,A103,Secretary of State,,REP,Michael ADAMS,130,11,116,3
 Carter,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,10,33,1
-Carter,A103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,A103,Secretary of State,,,Total Votes,174,21,149,4
 Carter,A103,Secretary of State,,,Under Votes,3,0,3,0
 Carter,A103,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Carter,A103,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Carter,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,A103,State Treasurer,,REP,Mark H. METCALF,124,11,110,3
 Carter,A103,State Treasurer,,DEM,Michael BOWMAN,48,10,37,1
-Carter,A103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,A103,State Treasurer,,,Total Votes,172,21,147,4
 Carter,A103,State Treasurer,,,Under Votes,5,0,5,0
 Carter,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Carter,A103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
 Carter,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A104,STRAIGHT PARTY,,,Republican,59,4,46,9
 Carter,A104,STRAIGHT PARTY,,,Democratic,29,3,20,6
-Carter,A104,Governor,,REP,Daniel CAMERON,84,6,69,9
-Carter,A104,Governor,,DEM,Andy BESHEAR,83,9,66,8
-Carter,A104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",84,6,69,9
+Carter,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,9,66,8
+Carter,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,A104,Governor,,,Total Votes,167,15,135,17
 Carter,A104,Governor,,,Under Votes,1,0,1,0
 Carter,A104,Governor,,,Over Votes,0,0,0,0
 Carter,A104,Secretary of State,,REP,Michael ADAMS,110,6,95,9
 Carter,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,9,40,7
-Carter,A104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,A104,Secretary of State,,,Total Votes,166,15,135,16
 Carter,A104,Secretary of State,,,Under Votes,2,0,1,1
 Carter,A104,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Carter,A104,Auditor of Public Accounts,,,Under Votes,5,2,3,0
 Carter,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,A104,State Treasurer,,REP,Mark H. METCALF,104,6,89,9
 Carter,A104,State Treasurer,,DEM,Michael BOWMAN,61,8,45,8
-Carter,A104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,A104,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,A104,State Treasurer,,,Total Votes,165,14,134,17
 Carter,A104,State Treasurer,,,Under Votes,3,1,2,0
 Carter,A104,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Carter,A104,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Carter,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,A105,STRAIGHT PARTY,,,Republican,115,7,105,3
 Carter,A105,STRAIGHT PARTY,,,Democratic,90,17,66,7
-Carter,A105,Governor,,REP,Daniel CAMERON,174,12,156,6
-Carter,A105,Governor,,DEM,Andy BESHEAR,204,32,159,13
-Carter,A105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",174,12,156,6
+Carter,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,204,32,159,13
+Carter,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,A105,Governor,,,Total Votes,378,44,315,19
 Carter,A105,Governor,,,Under Votes,0,0,0,0
 Carter,A105,Governor,,,Over Votes,0,0,0,0
 Carter,A105,Secretary of State,,REP,Michael ADAMS,229,17,202,10
 Carter,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",143,27,108,8
-Carter,A105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,A105,Secretary of State,,,Total Votes,372,44,310,18
 Carter,A105,Secretary of State,,,Under Votes,6,0,5,1
 Carter,A105,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Carter,A105,Auditor of Public Accounts,,,Under Votes,9,0,8,1
 Carter,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,A105,State Treasurer,,REP,Mark H. METCALF,216,16,190,10
 Carter,A105,State Treasurer,,DEM,Michael BOWMAN,155,28,119,8
-Carter,A105,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,A105,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,A105,State Treasurer,,,Total Votes,371,44,309,18
 Carter,A105,State Treasurer,,,Under Votes,7,0,6,1
 Carter,A105,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Carter,A105,Commissioner of Agriculture,,,Under Votes,9,1,7,1
 Carter,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B101,STRAIGHT PARTY,,,Republican,104,2,96,6
 Carter,B101,STRAIGHT PARTY,,,Democratic,75,12,55,8
-Carter,B101,Governor,,REP,Daniel CAMERON,155,10,137,8
-Carter,B101,Governor,,DEM,Andy BESHEAR,188,17,160,11
-Carter,B101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",155,10,137,8
+Carter,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,188,17,160,11
+Carter,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,B101,Governor,,,Total Votes,343,27,297,19
 Carter,B101,Governor,,,Under Votes,1,0,1,0
 Carter,B101,Governor,,,Over Votes,0,0,0,0
 Carter,B101,Secretary of State,,REP,Michael ADAMS,212,11,190,11
 Carter,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",123,16,99,8
-Carter,B101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,B101,Secretary of State,,,Total Votes,335,27,289,19
 Carter,B101,Secretary of State,,,Under Votes,9,0,9,0
 Carter,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Carter,B101,Auditor of Public Accounts,,,Under Votes,7,0,7,0
 Carter,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,B101,State Treasurer,,REP,Mark H. METCALF,206,12,186,8
 Carter,B101,State Treasurer,,DEM,Michael BOWMAN,128,15,102,11
-Carter,B101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,B101,State Treasurer,,,Total Votes,334,27,288,19
 Carter,B101,State Treasurer,,,Under Votes,10,0,10,0
 Carter,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Carter,B101,Commissioner of Agriculture,,,Under Votes,10,0,10,0
 Carter,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B102,STRAIGHT PARTY,,,Republican,83,3,80,0
 Carter,B102,STRAIGHT PARTY,,,Democratic,29,2,25,2
-Carter,B102,Governor,,REP,Daniel CAMERON,111,6,104,1
-Carter,B102,Governor,,DEM,Andy BESHEAR,70,6,62,2
-Carter,B102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,6,104,1
+Carter,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,6,62,2
+Carter,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,B102,Governor,,,Total Votes,181,12,166,3
 Carter,B102,Governor,,,Under Votes,2,0,2,0
 Carter,B102,Governor,,,Over Votes,0,0,0,0
 Carter,B102,Secretary of State,,REP,Michael ADAMS,130,9,120,1
 Carter,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,3,44,2
-Carter,B102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,B102,Secretary of State,,,Total Votes,179,12,164,3
 Carter,B102,Secretary of State,,,Under Votes,3,0,3,0
 Carter,B102,Secretary of State,,,Over Votes,1,0,1,0
@@ -235,7 +235,7 @@ Carter,B102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Carter,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,B102,State Treasurer,,REP,Mark H. METCALF,127,9,117,1
 Carter,B102,State Treasurer,,DEM,Michael BOWMAN,53,3,48,2
-Carter,B102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,B102,State Treasurer,,,Total Votes,180,12,165,3
 Carter,B102,State Treasurer,,,Under Votes,3,0,3,0
 Carter,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Carter,B102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
 Carter,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B103,STRAIGHT PARTY,,,Republican,109,10,96,3
 Carter,B103,STRAIGHT PARTY,,,Democratic,47,6,34,7
-Carter,B103,Governor,,REP,Daniel CAMERON,172,19,150,3
-Carter,B103,Governor,,DEM,Andy BESHEAR,149,19,117,13
-Carter,B103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",172,19,150,3
+Carter,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,149,19,117,13
+Carter,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,B103,Governor,,,Total Votes,321,38,267,16
 Carter,B103,Governor,,,Under Votes,1,0,1,0
 Carter,B103,Governor,,,Over Votes,0,0,0,0
 Carter,B103,Secretary of State,,REP,Michael ADAMS,211,24,182,5
 Carter,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",105,13,82,10
-Carter,B103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,B103,Secretary of State,,,Total Votes,316,37,264,15
 Carter,B103,Secretary of State,,,Under Votes,6,1,4,1
 Carter,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Carter,B103,Auditor of Public Accounts,,,Under Votes,11,2,8,1
 Carter,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,B103,State Treasurer,,REP,Mark H. METCALF,200,22,174,4
 Carter,B103,State Treasurer,,DEM,Michael BOWMAN,112,14,87,11
-Carter,B103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,B103,State Treasurer,,,Total Votes,312,36,261,15
 Carter,B103,State Treasurer,,,Under Votes,10,2,7,1
 Carter,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Carter,B103,Commissioner of Agriculture,,,Under Votes,9,2,6,1
 Carter,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B104,STRAIGHT PARTY,,,Republican,95,7,84,4
 Carter,B104,STRAIGHT PARTY,,,Democratic,38,5,32,1
-Carter,B104,Governor,,REP,Daniel CAMERON,147,12,128,7
-Carter,B104,Governor,,DEM,Andy BESHEAR,109,10,98,1
-Carter,B104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",147,12,128,7
+Carter,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,109,10,98,1
+Carter,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,B104,Governor,,,Total Votes,256,22,226,8
 Carter,B104,Governor,,,Under Votes,5,1,4,0
 Carter,B104,Governor,,,Over Votes,0,0,0,0
 Carter,B104,Secretary of State,,REP,Michael ADAMS,175,16,152,7
 Carter,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,7,69,1
-Carter,B104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,B104,Secretary of State,,,Total Votes,252,23,221,8
 Carter,B104,Secretary of State,,,Under Votes,9,0,9,0
 Carter,B104,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Carter,B104,Auditor of Public Accounts,,,Under Votes,11,0,11,0
 Carter,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,B104,State Treasurer,,REP,Mark H. METCALF,176,15,154,7
 Carter,B104,State Treasurer,,DEM,Michael BOWMAN,74,8,65,1
-Carter,B104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,B104,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,B104,State Treasurer,,,Total Votes,250,23,219,8
 Carter,B104,State Treasurer,,,Under Votes,11,0,11,0
 Carter,B104,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Carter,B104,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,B105,STRAIGHT PARTY,,,Republican,91,16,72,3
 Carter,B105,STRAIGHT PARTY,,,Democratic,65,8,55,2
-Carter,B105,Governor,,REP,Daniel CAMERON,140,23,113,4
-Carter,B105,Governor,,DEM,Andy BESHEAR,156,22,126,8
-Carter,B105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,B105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",140,23,113,4
+Carter,B105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,156,22,126,8
+Carter,B105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,B105,Governor,,,Total Votes,296,45,239,12
 Carter,B105,Governor,,,Under Votes,1,1,0,0
 Carter,B105,Governor,,,Over Votes,0,0,0,0
 Carter,B105,Secretary of State,,REP,Michael ADAMS,186,29,150,7
 Carter,B105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,17,82,5
-Carter,B105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,B105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,B105,Secretary of State,,,Total Votes,290,46,232,12
 Carter,B105,Secretary of State,,,Under Votes,7,0,7,0
 Carter,B105,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Carter,B105,Auditor of Public Accounts,,,Under Votes,7,0,7,0
 Carter,B105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,B105,State Treasurer,,REP,Mark H. METCALF,177,27,143,7
 Carter,B105,State Treasurer,,DEM,Michael BOWMAN,110,18,87,5
-Carter,B105,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,B105,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,B105,State Treasurer,,,Total Votes,287,45,230,12
 Carter,B105,State Treasurer,,,Under Votes,10,1,9,0
 Carter,B105,State Treasurer,,,Over Votes,0,0,0,0
@@ -351,15 +351,15 @@ Carter,B105,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Carter,B105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C101,STRAIGHT PARTY,,,Republican,127,7,119,1
 Carter,C101,STRAIGHT PARTY,,,Democratic,111,10,88,13
-Carter,C101,Governor,,REP,Daniel CAMERON,199,15,182,2
-Carter,C101,Governor,,DEM,Andy BESHEAR,242,37,187,18
-Carter,C101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",199,15,182,2
+Carter,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,242,37,187,18
+Carter,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,C101,Governor,,,Total Votes,441,52,369,20
 Carter,C101,Governor,,,Under Votes,2,1,1,0
 Carter,C101,Governor,,,Over Votes,1,0,1,0
 Carter,C101,Secretary of State,,REP,Michael ADAMS,238,25,208,5
 Carter,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",191,23,153,15
-Carter,C101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,C101,Secretary of State,,,Total Votes,429,48,361,20
 Carter,C101,Secretary of State,,,Under Votes,15,5,10,0
 Carter,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -375,7 +375,7 @@ Carter,C101,Auditor of Public Accounts,,,Under Votes,14,2,11,1
 Carter,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,C101,State Treasurer,,REP,Mark H. METCALF,238,26,209,3
 Carter,C101,State Treasurer,,DEM,Michael BOWMAN,194,25,153,16
-Carter,C101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,C101,State Treasurer,,,Total Votes,432,51,362,19
 Carter,C101,State Treasurer,,,Under Votes,12,2,9,1
 Carter,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -386,15 +386,15 @@ Carter,C101,Commissioner of Agriculture,,,Under Votes,11,1,10,0
 Carter,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C102,STRAIGHT PARTY,,,Republican,20,0,20,0
 Carter,C102,STRAIGHT PARTY,,,Democratic,12,0,12,0
-Carter,C102,Governor,,REP,Daniel CAMERON,33,2,31,0
-Carter,C102,Governor,,DEM,Andy BESHEAR,27,4,23,0
-Carter,C102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",33,2,31,0
+Carter,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,27,4,23,0
+Carter,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,C102,Governor,,,Total Votes,60,6,54,0
 Carter,C102,Governor,,,Under Votes,0,0,0,0
 Carter,C102,Governor,,,Over Votes,0,0,0,0
 Carter,C102,Secretary of State,,REP,Michael ADAMS,38,5,33,0
 Carter,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",22,1,21,0
-Carter,C102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,C102,Secretary of State,,,Total Votes,60,6,54,0
 Carter,C102,Secretary of State,,,Under Votes,0,0,0,0
 Carter,C102,Secretary of State,,,Over Votes,0,0,0,0
@@ -410,7 +410,7 @@ Carter,C102,Auditor of Public Accounts,,,Under Votes,1,1,0,0
 Carter,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,C102,State Treasurer,,REP,Mark H. METCALF,38,2,36,0
 Carter,C102,State Treasurer,,DEM,Michael BOWMAN,21,3,18,0
-Carter,C102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,C102,State Treasurer,,,Total Votes,59,5,54,0
 Carter,C102,State Treasurer,,,Under Votes,1,1,0,0
 Carter,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -421,15 +421,15 @@ Carter,C102,Commissioner of Agriculture,,,Under Votes,1,1,0,0
 Carter,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C103,STRAIGHT PARTY,,,Republican,105,10,95,0
 Carter,C103,STRAIGHT PARTY,,,Democratic,54,8,38,8
-Carter,C103,Governor,,REP,Daniel CAMERON,157,13,144,0
-Carter,C103,Governor,,DEM,Andy BESHEAR,111,10,91,10
-Carter,C103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",157,13,144,0
+Carter,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,10,91,10
+Carter,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,C103,Governor,,,Total Votes,268,23,235,10
 Carter,C103,Governor,,,Under Votes,2,0,2,0
 Carter,C103,Governor,,,Over Votes,0,0,0,0
 Carter,C103,Secretary of State,,REP,Michael ADAMS,179,14,162,3
 Carter,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,7,68,6
-Carter,C103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,C103,Secretary of State,,,Total Votes,260,21,230,9
 Carter,C103,Secretary of State,,,Under Votes,10,2,7,1
 Carter,C103,Secretary of State,,,Over Votes,0,0,0,0
@@ -445,7 +445,7 @@ Carter,C103,Auditor of Public Accounts,,,Under Votes,7,2,4,1
 Carter,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,C103,State Treasurer,,REP,Mark H. METCALF,180,14,163,3
 Carter,C103,State Treasurer,,DEM,Michael BOWMAN,79,7,66,6
-Carter,C103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,C103,State Treasurer,,,Total Votes,259,21,229,9
 Carter,C103,State Treasurer,,,Under Votes,11,2,8,1
 Carter,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -456,15 +456,15 @@ Carter,C103,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Carter,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,C104,STRAIGHT PARTY,,,Republican,124,21,99,4
 Carter,C104,STRAIGHT PARTY,,,Democratic,63,6,55,2
-Carter,C104,Governor,,REP,Daniel CAMERON,196,26,163,7
-Carter,C104,Governor,,DEM,Andy BESHEAR,142,15,123,4
-Carter,C104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",196,26,163,7
+Carter,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,142,15,123,4
+Carter,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,C104,Governor,,,Total Votes,338,41,286,11
 Carter,C104,Governor,,,Under Votes,0,0,0,0
 Carter,C104,Governor,,,Over Votes,0,0,0,0
 Carter,C104,Secretary of State,,REP,Michael ADAMS,231,31,192,8
 Carter,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,10,88,3
-Carter,C104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,C104,Secretary of State,,,Total Votes,332,41,280,11
 Carter,C104,Secretary of State,,,Under Votes,6,0,6,0
 Carter,C104,Secretary of State,,,Over Votes,0,0,0,0
@@ -480,7 +480,7 @@ Carter,C104,Auditor of Public Accounts,,,Under Votes,7,1,5,1
 Carter,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,C104,State Treasurer,,REP,Mark H. METCALF,225,28,190,7
 Carter,C104,State Treasurer,,DEM,Michael BOWMAN,107,13,91,3
-Carter,C104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,C104,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,C104,State Treasurer,,,Total Votes,332,41,281,10
 Carter,C104,State Treasurer,,,Under Votes,6,0,5,1
 Carter,C104,State Treasurer,,,Over Votes,0,0,0,0
@@ -491,15 +491,15 @@ Carter,C104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Carter,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D101,STRAIGHT PARTY,,,Republican,0,0,0,0
 Carter,D101,STRAIGHT PARTY,,,Democratic,1,0,1,0
-Carter,D101,Governor,,REP,Daniel CAMERON,0,0,0,0
-Carter,D101,Governor,,DEM,Andy BESHEAR,2,0,2,0
-Carter,D101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",0,0,0,0
+Carter,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,2,0,2,0
+Carter,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D101,Governor,,,Total Votes,2,0,2,0
 Carter,D101,Governor,,,Under Votes,0,0,0,0
 Carter,D101,Governor,,,Over Votes,0,0,0,0
 Carter,D101,Secretary of State,,REP,Michael ADAMS,0,0,0,0
 Carter,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",2,0,2,0
-Carter,D101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D101,Secretary of State,,,Total Votes,2,0,2,0
 Carter,D101,Secretary of State,,,Under Votes,0,0,0,0
 Carter,D101,Secretary of State,,,Over Votes,0,0,0,0
@@ -515,7 +515,7 @@ Carter,D101,Auditor of Public Accounts,,,Under Votes,0,0,0,0
 Carter,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D101,State Treasurer,,REP,Mark H. METCALF,0,0,0,0
 Carter,D101,State Treasurer,,DEM,Michael BOWMAN,2,0,2,0
-Carter,D101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D101,State Treasurer,,,Total Votes,2,0,2,0
 Carter,D101,State Treasurer,,,Under Votes,0,0,0,0
 Carter,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -526,15 +526,15 @@ Carter,D101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
 Carter,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D102,STRAIGHT PARTY,,,Republican,75,11,64,0
 Carter,D102,STRAIGHT PARTY,,,Democratic,41,18,18,5
-Carter,D102,Governor,,REP,Daniel CAMERON,111,13,98,0
-Carter,D102,Governor,,DEM,Andy BESHEAR,86,28,50,8
-Carter,D102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,13,98,0
+Carter,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,86,28,50,8
+Carter,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D102,Governor,,,Total Votes,197,41,148,8
 Carter,D102,Governor,,,Under Votes,1,0,1,0
 Carter,D102,Governor,,,Over Votes,0,0,0,0
 Carter,D102,Secretary of State,,REP,Michael ADAMS,125,19,105,1
 Carter,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",65,21,37,7
-Carter,D102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D102,Secretary of State,,,Total Votes,190,40,142,8
 Carter,D102,Secretary of State,,,Under Votes,8,1,7,0
 Carter,D102,Secretary of State,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Carter,D102,Auditor of Public Accounts,,,Under Votes,9,1,8,0
 Carter,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D102,State Treasurer,,REP,Mark H. METCALF,117,17,100,0
 Carter,D102,State Treasurer,,DEM,Michael BOWMAN,75,23,44,8
-Carter,D102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D102,State Treasurer,,,Total Votes,192,40,144,8
 Carter,D102,State Treasurer,,,Under Votes,6,1,5,0
 Carter,D102,State Treasurer,,,Over Votes,0,0,0,0
@@ -561,15 +561,15 @@ Carter,D102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
 Carter,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D103,STRAIGHT PARTY,,,Republican,45,10,34,1
 Carter,D103,STRAIGHT PARTY,,,Democratic,17,9,8,0
-Carter,D103,Governor,,REP,Daniel CAMERON,59,11,47,1
-Carter,D103,Governor,,DEM,Andy BESHEAR,50,16,33,1
-Carter,D103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",59,11,47,1
+Carter,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,50,16,33,1
+Carter,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D103,Governor,,,Total Votes,109,27,80,2
 Carter,D103,Governor,,,Under Votes,0,0,0,0
 Carter,D103,Governor,,,Over Votes,0,0,0,0
 Carter,D103,Secretary of State,,REP,Michael ADAMS,77,13,62,2
 Carter,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",32,14,18,0
-Carter,D103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D103,Secretary of State,,,Total Votes,109,27,80,2
 Carter,D103,Secretary of State,,,Under Votes,0,0,0,0
 Carter,D103,Secretary of State,,,Over Votes,0,0,0,0
@@ -585,7 +585,7 @@ Carter,D103,Auditor of Public Accounts,,,Under Votes,3,2,1,0
 Carter,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D103,State Treasurer,,REP,Mark H. METCALF,76,11,64,1
 Carter,D103,State Treasurer,,DEM,Michael BOWMAN,32,16,15,1
-Carter,D103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D103,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D103,State Treasurer,,,Total Votes,108,27,79,2
 Carter,D103,State Treasurer,,,Under Votes,1,0,1,0
 Carter,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -596,15 +596,15 @@ Carter,D103,Commissioner of Agriculture,,,Under Votes,4,2,2,0
 Carter,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D104,STRAIGHT PARTY,,,Republican,64,13,51,0
 Carter,D104,STRAIGHT PARTY,,,Democratic,44,13,28,3
-Carter,D104,Governor,,REP,Daniel CAMERON,93,18,73,2
-Carter,D104,Governor,,DEM,Andy BESHEAR,99,19,73,7
-Carter,D104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",93,18,73,2
+Carter,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,99,19,73,7
+Carter,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D104,Governor,,,Total Votes,192,37,146,9
 Carter,D104,Governor,,,Under Votes,2,0,2,0
 Carter,D104,Governor,,,Over Votes,0,0,0,0
 Carter,D104,Secretary of State,,REP,Michael ADAMS,108,19,86,3
 Carter,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",82,17,59,6
-Carter,D104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D104,Secretary of State,,,Total Votes,190,36,145,9
 Carter,D104,Secretary of State,,,Under Votes,4,1,3,0
 Carter,D104,Secretary of State,,,Over Votes,0,0,0,0
@@ -620,7 +620,7 @@ Carter,D104,Auditor of Public Accounts,,,Under Votes,7,1,6,0
 Carter,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D104,State Treasurer,,REP,Mark H. METCALF,102,19,81,2
 Carter,D104,State Treasurer,,DEM,Michael BOWMAN,85,16,62,7
-Carter,D104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D104,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D104,State Treasurer,,,Total Votes,187,35,143,9
 Carter,D104,State Treasurer,,,Under Votes,7,2,5,0
 Carter,D104,State Treasurer,,,Over Votes,0,0,0,0
@@ -631,15 +631,15 @@ Carter,D104,Commissioner of Agriculture,,,Under Votes,8,2,6,0
 Carter,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D105,STRAIGHT PARTY,,,Republican,49,2,47,0
 Carter,D105,STRAIGHT PARTY,,,Democratic,37,3,28,6
-Carter,D105,Governor,,REP,Daniel CAMERON,82,2,77,3
-Carter,D105,Governor,,DEM,Andy BESHEAR,87,5,71,11
-Carter,D105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",82,2,77,3
+Carter,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,87,5,71,11
+Carter,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D105,Governor,,,Total Votes,169,7,148,14
 Carter,D105,Governor,,,Under Votes,1,0,1,0
 Carter,D105,Governor,,,Over Votes,0,0,0,0
 Carter,D105,Secretary of State,,REP,Michael ADAMS,97,4,87,6
 Carter,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",66,3,55,8
-Carter,D105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D105,Secretary of State,,,Total Votes,163,7,142,14
 Carter,D105,Secretary of State,,,Under Votes,7,0,7,0
 Carter,D105,Secretary of State,,,Over Votes,0,0,0,0
@@ -655,7 +655,7 @@ Carter,D105,Auditor of Public Accounts,,,Under Votes,3,0,3,0
 Carter,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D105,State Treasurer,,REP,Mark H. METCALF,97,4,89,4
 Carter,D105,State Treasurer,,DEM,Michael BOWMAN,67,3,54,10
-Carter,D105,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D105,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D105,State Treasurer,,,Total Votes,164,7,143,14
 Carter,D105,State Treasurer,,,Under Votes,6,0,6,0
 Carter,D105,State Treasurer,,,Over Votes,0,0,0,0
@@ -666,15 +666,15 @@ Carter,D105,Commissioner of Agriculture,,,Under Votes,4,0,3,1
 Carter,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D106,STRAIGHT PARTY,,,Republican,25,0,25,0
 Carter,D106,STRAIGHT PARTY,,,Democratic,23,0,19,4
-Carter,D106,Governor,,REP,Daniel CAMERON,36,0,36,0
-Carter,D106,Governor,,DEM,Andy BESHEAR,52,0,48,4
-Carter,D106,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",36,0,36,0
+Carter,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,52,0,48,4
+Carter,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D106,Governor,,,Total Votes,88,0,84,4
 Carter,D106,Governor,,,Under Votes,0,0,0,0
 Carter,D106,Governor,,,Over Votes,0,0,0,0
 Carter,D106,Secretary of State,,REP,Michael ADAMS,45,0,45,0
 Carter,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,0,34,4
-Carter,D106,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D106,Secretary of State,,,Total Votes,83,0,79,4
 Carter,D106,Secretary of State,,,Under Votes,5,0,5,0
 Carter,D106,Secretary of State,,,Over Votes,0,0,0,0
@@ -690,7 +690,7 @@ Carter,D106,Auditor of Public Accounts,,,Under Votes,5,0,5,0
 Carter,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D106,State Treasurer,,REP,Mark H. METCALF,40,0,40,0
 Carter,D106,State Treasurer,,DEM,Michael BOWMAN,44,0,40,4
-Carter,D106,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D106,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D106,State Treasurer,,,Total Votes,84,0,80,4
 Carter,D106,State Treasurer,,,Under Votes,4,0,4,0
 Carter,D106,State Treasurer,,,Over Votes,0,0,0,0
@@ -701,15 +701,15 @@ Carter,D106,Commissioner of Agriculture,,,Under Votes,5,0,5,0
 Carter,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D107,STRAIGHT PARTY,,,Republican,69,7,62,0
 Carter,D107,STRAIGHT PARTY,,,Democratic,38,11,21,6
-Carter,D107,Governor,,REP,Daniel CAMERON,116,13,103,0
-Carter,D107,Governor,,DEM,Andy BESHEAR,104,18,78,8
-Carter,D107,Governor,,,"Fishback, Brian/ Fishback, William (W)",1,1,0,0
+Carter,D107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",116,13,103,0
+Carter,D107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,104,18,78,8
+Carter,D107,Governor,,,Brian Fishback / William Fishback,1,1,0,0
 Carter,D107,Governor,,,Total Votes,221,32,181,8
 Carter,D107,Governor,,,Under Votes,2,0,2,0
 Carter,D107,Governor,,,Over Votes,0,0,0,0
 Carter,D107,Secretary of State,,REP,Michael ADAMS,137,12,125,0
 Carter,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",78,19,51,8
-Carter,D107,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",1,1,0,0
+Carter,D107,Secretary of State,,,Kenneth C. Moellman Jr.,1,1,0,0
 Carter,D107,Secretary of State,,,Total Votes,216,32,176,8
 Carter,D107,Secretary of State,,,Under Votes,7,0,7,0
 Carter,D107,Secretary of State,,,Over Votes,0,0,0,0
@@ -725,7 +725,7 @@ Carter,D107,Auditor of Public Accounts,,,Under Votes,8,0,8,0
 Carter,D107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,D107,State Treasurer,,REP,Mark H. METCALF,132,13,119,0
 Carter,D107,State Treasurer,,DEM,Michael BOWMAN,81,18,55,8
-Carter,D107,State Treasurer,,,"Perry, Robert (W)",1,1,0,0
+Carter,D107,State Treasurer,,,Robert Perry,1,1,0,0
 Carter,D107,State Treasurer,,,Total Votes,214,32,174,8
 Carter,D107,State Treasurer,,,Under Votes,9,0,9,0
 Carter,D107,State Treasurer,,,Over Votes,0,0,0,0
@@ -736,15 +736,15 @@ Carter,D107,Commissioner of Agriculture,,,Under Votes,8,0,8,0
 Carter,D107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,D108,STRAIGHT PARTY,,,Republican,67,11,56,0
 Carter,D108,STRAIGHT PARTY,,,Democratic,52,3,48,1
-Carter,D108,Governor,,REP,Daniel CAMERON,109,12,97,0
-Carter,D108,Governor,,DEM,Andy BESHEAR,105,6,98,1
-Carter,D108,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,D108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",109,12,97,0
+Carter,D108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,105,6,98,1
+Carter,D108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,D108,Governor,,,Total Votes,214,18,195,1
 Carter,D108,Governor,,,Under Votes,2,0,2,0
 Carter,D108,Governor,,,Over Votes,0,0,0,0
 Carter,D108,Secretary of State,,REP,Michael ADAMS,125,13,112,0
 Carter,D108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,5,79,1
-Carter,D108,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,D108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,D108,Secretary of State,,,Total Votes,210,18,191,1
 Carter,D108,Secretary of State,,,Under Votes,6,0,6,0
 Carter,D108,Secretary of State,,,Over Votes,0,0,0,0
@@ -760,7 +760,7 @@ Carter,D108,Auditor of Public Accounts,,,Under Votes,4,0,4,0
 Carter,D108,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Carter,D108,State Treasurer,,REP,Mark H. METCALF,118,12,106,0
 Carter,D108,State Treasurer,,DEM,Michael BOWMAN,88,6,81,1
-Carter,D108,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,D108,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,D108,State Treasurer,,,Total Votes,206,18,187,1
 Carter,D108,State Treasurer,,,Under Votes,10,0,10,0
 Carter,D108,State Treasurer,,,Over Votes,0,0,0,0
@@ -771,15 +771,15 @@ Carter,D108,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,D108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E101,STRAIGHT PARTY,,,Republican,86,22,62,2
 Carter,E101,STRAIGHT PARTY,,,Democratic,55,16,33,6
-Carter,E101,Governor,,REP,Daniel CAMERON,137,28,107,2
-Carter,E101,Governor,,DEM,Andy BESHEAR,143,33,99,11
-Carter,E101,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",137,28,107,2
+Carter,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,143,33,99,11
+Carter,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E101,Governor,,,Total Votes,280,61,206,13
 Carter,E101,Governor,,,Under Votes,1,0,1,0
 Carter,E101,Governor,,,Over Votes,0,0,0,0
 Carter,E101,Secretary of State,,REP,Michael ADAMS,166,33,129,4
 Carter,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",111,27,75,9
-Carter,E101,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E101,Secretary of State,,,Total Votes,277,60,204,13
 Carter,E101,Secretary of State,,,Under Votes,4,1,3,0
 Carter,E101,Secretary of State,,,Over Votes,0,0,0,0
@@ -795,7 +795,7 @@ Carter,E101,Auditor of Public Accounts,,,Under Votes,6,1,5,0
 Carter,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,E101,State Treasurer,,REP,Mark H. METCALF,169,34,131,4
 Carter,E101,State Treasurer,,DEM,Michael BOWMAN,107,26,72,9
-Carter,E101,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E101,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E101,State Treasurer,,,Total Votes,276,60,203,13
 Carter,E101,State Treasurer,,,Under Votes,5,1,4,0
 Carter,E101,State Treasurer,,,Over Votes,0,0,0,0
@@ -806,15 +806,15 @@ Carter,E101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
 Carter,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E102,STRAIGHT PARTY,,,Republican,95,11,84,0
 Carter,E102,STRAIGHT PARTY,,,Democratic,51,7,41,3
-Carter,E102,Governor,,REP,Daniel CAMERON,169,14,153,2
-Carter,E102,Governor,,DEM,Andy BESHEAR,110,10,96,4
-Carter,E102,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",169,14,153,2
+Carter,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,110,10,96,4
+Carter,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E102,Governor,,,Total Votes,279,24,249,6
 Carter,E102,Governor,,,Under Votes,1,0,1,0
 Carter,E102,Governor,,,Over Votes,0,0,0,0
 Carter,E102,Secretary of State,,REP,Michael ADAMS,192,15,174,3
 Carter,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,9,69,3
-Carter,E102,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E102,Secretary of State,,,Total Votes,273,24,243,6
 Carter,E102,Secretary of State,,,Under Votes,7,0,7,0
 Carter,E102,Secretary of State,,,Over Votes,0,0,0,0
@@ -830,7 +830,7 @@ Carter,E102,Auditor of Public Accounts,,,Under Votes,10,0,10,0
 Carter,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,E102,State Treasurer,,REP,Mark H. METCALF,185,14,169,2
 Carter,E102,State Treasurer,,DEM,Michael BOWMAN,86,10,72,4
-Carter,E102,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E102,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E102,State Treasurer,,,Total Votes,271,24,241,6
 Carter,E102,State Treasurer,,,Under Votes,9,0,9,0
 Carter,E102,State Treasurer,,,Over Votes,0,0,0,0
@@ -841,15 +841,15 @@ Carter,E102,Commissioner of Agriculture,,,Under Votes,9,0,9,0
 Carter,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E103,STRAIGHT PARTY,,,Republican,96,31,61,4
 Carter,E103,STRAIGHT PARTY,,,Democratic,45,18,24,3
-Carter,E103,Governor,,REP,Daniel CAMERON,134,40,89,5
-Carter,E103,Governor,,DEM,Andy BESHEAR,141,38,100,3
-Carter,E103,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",134,40,89,5
+Carter,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,141,38,100,3
+Carter,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E103,Governor,,,Total Votes,275,78,189,8
 Carter,E103,Governor,,,Under Votes,3,0,2,1
 Carter,E103,Governor,,,Over Votes,0,0,0,0
 Carter,E103,Secretary of State,,REP,Michael ADAMS,178,46,126,6
 Carter,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",91,31,57,3
-Carter,E103,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E103,Secretary of State,,,Total Votes,269,77,183,9
 Carter,E103,Secretary of State,,,Under Votes,9,1,8,0
 Carter,E103,Secretary of State,,,Over Votes,0,0,0,0
@@ -865,7 +865,7 @@ Carter,E103,Auditor of Public Accounts,,,Under Votes,10,3,6,1
 Carter,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,E103,State Treasurer,,REP,Mark H. METCALF,164,45,114,5
 Carter,E103,State Treasurer,,DEM,Michael BOWMAN,100,31,66,3
-Carter,E103,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E103,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E103,State Treasurer,,,Total Votes,264,76,180,8
 Carter,E103,State Treasurer,,,Under Votes,14,2,11,1
 Carter,E103,State Treasurer,,,Over Votes,0,0,0,0
@@ -876,15 +876,15 @@ Carter,E103,Commissioner of Agriculture,,,Under Votes,10,1,8,1
 Carter,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E104,STRAIGHT PARTY,,,Republican,60,7,51,2
 Carter,E104,STRAIGHT PARTY,,,Democratic,3,1,2,0
-Carter,E104,Governor,,REP,Daniel CAMERON,90,10,78,2
-Carter,E104,Governor,,DEM,Andy BESHEAR,24,3,21,0
-Carter,E104,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",90,10,78,2
+Carter,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,24,3,21,0
+Carter,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E104,Governor,,,Total Votes,114,13,99,2
 Carter,E104,Governor,,,Under Votes,0,0,0,0
 Carter,E104,Governor,,,Over Votes,0,0,0,0
 Carter,E104,Secretary of State,,REP,Michael ADAMS,103,11,90,2
 Carter,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",10,2,8,0
-Carter,E104,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E104,Secretary of State,,,Total Votes,113,13,98,2
 Carter,E104,Secretary of State,,,Under Votes,1,0,1,0
 Carter,E104,Secretary of State,,,Over Votes,0,0,0,0
@@ -900,7 +900,7 @@ Carter,E104,Auditor of Public Accounts,,,Under Votes,1,0,1,0
 Carter,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,E104,State Treasurer,,REP,Mark H. METCALF,100,11,87,2
 Carter,E104,State Treasurer,,DEM,Michael BOWMAN,13,2,11,0
-Carter,E104,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E104,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E104,State Treasurer,,,Total Votes,113,13,98,2
 Carter,E104,State Treasurer,,,Under Votes,1,0,1,0
 Carter,E104,State Treasurer,,,Over Votes,0,0,0,0
@@ -911,15 +911,15 @@ Carter,E104,Commissioner of Agriculture,,,Under Votes,1,0,1,0
 Carter,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Carter,E105,STRAIGHT PARTY,,,Republican,90,14,75,1
 Carter,E105,STRAIGHT PARTY,,,Democratic,30,4,25,1
-Carter,E105,Governor,,REP,Daniel CAMERON,119,14,104,1
-Carter,E105,Governor,,DEM,Andy BESHEAR,72,13,56,3
-Carter,E105,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,14,104,1
+Carter,E105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,13,56,3
+Carter,E105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E105,Governor,,,Total Votes,191,27,160,4
 Carter,E105,Governor,,,Under Votes,2,0,2,0
 Carter,E105,Governor,,,Over Votes,0,0,0,0
 Carter,E105,Secretary of State,,REP,Michael ADAMS,138,18,119,1
 Carter,E105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,9,42,3
-Carter,E105,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E105,Secretary of State,,,Total Votes,192,27,161,4
 Carter,E105,Secretary of State,,,Under Votes,1,0,1,0
 Carter,E105,Secretary of State,,,Over Votes,0,0,0,0
@@ -935,7 +935,7 @@ Carter,E105,Auditor of Public Accounts,,,Under Votes,3,1,2,0
 Carter,E105,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Carter,E105,State Treasurer,,REP,Mark H. METCALF,139,17,121,1
 Carter,E105,State Treasurer,,DEM,Michael BOWMAN,51,9,39,3
-Carter,E105,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E105,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E105,State Treasurer,,,Total Votes,190,26,160,4
 Carter,E105,State Treasurer,,,Under Votes,3,1,2,0
 Carter,E105,State Treasurer,,,Over Votes,0,0,0,0
@@ -946,15 +946,15 @@ Carter,E105,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Carter,E105,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Carter,E106,STRAIGHT PARTY,,,Republican,79,8,71,0
 Carter,E106,STRAIGHT PARTY,,,Democratic,37,9,28,0
-Carter,E106,Governor,,REP,Daniel CAMERON,121,12,108,1
-Carter,E106,Governor,,DEM,Andy BESHEAR,102,24,78,0
-Carter,E106,Governor,,,"Fishback, Brian/ Fishback, William (W)",0,0,0,0
+Carter,E106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",121,12,108,1
+Carter,E106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,102,24,78,0
+Carter,E106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Carter,E106,Governor,,,Total Votes,223,36,186,1
 Carter,E106,Governor,,,Under Votes,2,0,2,0
 Carter,E106,Governor,,,Over Votes,0,0,0,0
 Carter,E106,Secretary of State,,REP,Michael ADAMS,152,20,131,1
 Carter,E106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,16,54,0
-Carter,E106,Secretary of State,,,"Moellman, Kenneth C. Jr. (W)",0,0,0,0
+Carter,E106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Carter,E106,Secretary of State,,,Total Votes,222,36,185,1
 Carter,E106,Secretary of State,,,Under Votes,3,0,3,0
 Carter,E106,Secretary of State,,,Over Votes,0,0,0,0
@@ -970,7 +970,7 @@ Carter,E106,Auditor of Public Accounts,,,Under Votes,2,1,1,0
 Carter,E106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Carter,E106,State Treasurer,,REP,Mark H. METCALF,138,15,122,1
 Carter,E106,State Treasurer,,DEM,Michael BOWMAN,83,21,62,0
-Carter,E106,State Treasurer,,,"Perry, Robert (W)",0,0,0,0
+Carter,E106,State Treasurer,,,Robert Perry,0,0,0,0
 Carter,E106,State Treasurer,,,Total Votes,221,36,184,1
 Carter,E106,State Treasurer,,,Under Votes,4,0,4,0
 Carter,E106,State Treasurer,,,Over Votes,0,0,0,0

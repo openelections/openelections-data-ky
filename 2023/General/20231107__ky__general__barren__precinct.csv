@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Barren,A101,STRAIGHT PARTY,,,Republican,153,54,91,8
 Barren,A101,STRAIGHT PARTY,,,Democratic,132,58,46,28
-Barren,A101,Governor,,REP,Daniel CAMERON,243,84,147,12
-Barren,A101,Governor,,DEM,Andy BESHEAR,323,147,130,46
-Barren,A101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",243,84,147,12
+Barren,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,323,147,130,46
+Barren,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,A101,Governor,,,Total Votes,566,231,277,58
 Barren,A101,Governor,,,Under Votes,2,2,0,0
 Barren,A101,Governor,,,Over Votes,0,0,0,0
 Barren,A101,Secretary of State,,REP,Michael ADAMS,323,124,182,17
 Barren,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",229,101,88,40
-Barren,A101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,A101,Secretary of State,,,Total Votes,552,225,270,57
 Barren,A101,Secretary of State,,,Under Votes,16,8,7,1
 Barren,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Barren,A101,Auditor of Public Accounts,,,Under Votes,20,7,12,1
 Barren,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,A101,State Treasurer,,REP,Mark H. METCALF,284,101,168,15
 Barren,A101,State Treasurer,,DEM,Michael BOWMAN,261,124,95,42
-Barren,A101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,A101,State Treasurer,,,Total Votes,545,225,263,57
 Barren,A101,State Treasurer,,,Under Votes,23,8,14,1
 Barren,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Barren,A101,Commissioner of Agriculture,,,Under Votes,23,9,13,1
 Barren,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,A102,STRAIGHT PARTY,,,Republican,72,20,48,4
 Barren,A102,STRAIGHT PARTY,,,Democratic,64,35,25,4
-Barren,A102,Governor,,REP,Daniel CAMERON,95,29,62,4
-Barren,A102,Governor,,DEM,Andy BESHEAR,155,83,63,9
-Barren,A102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",95,29,62,4
+Barren,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,155,83,63,9
+Barren,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,A102,Governor,,,Total Votes,250,112,125,13
 Barren,A102,Governor,,,Under Votes,0,0,0,0
 Barren,A102,Governor,,,Over Votes,0,0,0,0
 Barren,A102,Secretary of State,,REP,Michael ADAMS,120,39,76,5
 Barren,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",120,68,45,7
-Barren,A102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,A102,Secretary of State,,,Total Votes,240,107,121,12
 Barren,A102,Secretary of State,,,Under Votes,10,5,4,1
 Barren,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Barren,A102,Auditor of Public Accounts,,,Under Votes,8,3,4,1
 Barren,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,A102,State Treasurer,,REP,Mark H. METCALF,110,35,70,5
 Barren,A102,State Treasurer,,DEM,Michael BOWMAN,132,74,51,7
-Barren,A102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,A102,State Treasurer,,,Total Votes,242,109,121,12
 Barren,A102,State Treasurer,,,Under Votes,8,3,4,1
 Barren,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Barren,A102,Commissioner of Agriculture,,,Under Votes,7,3,3,1
 Barren,A102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Barren,A103,STRAIGHT PARTY,,,Republican,151,36,113,2
 Barren,A103,STRAIGHT PARTY,,,Democratic,67,20,39,8
-Barren,A103,Governor,,REP,Daniel CAMERON,230,62,167,1
-Barren,A103,Governor,,DEM,Andy BESHEAR,158,47,95,16
-Barren,A103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",230,62,167,1
+Barren,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,158,47,95,16
+Barren,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,A103,Governor,,,Total Votes,388,109,262,17
 Barren,A103,Governor,,,Under Votes,0,0,0,0
 Barren,A103,Governor,,,Over Votes,0,0,0,0
 Barren,A103,Secretary of State,,REP,Michael ADAMS,269,73,194,2
 Barren,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,32,62,14
-Barren,A103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,A103,Secretary of State,,,Total Votes,377,105,256,16
 Barren,A103,Secretary of State,,,Under Votes,11,4,6,1
 Barren,A103,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Barren,A103,Auditor of Public Accounts,,,Under Votes,18,4,12,2
 Barren,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,A103,State Treasurer,,REP,Mark H. METCALF,259,67,190,2
 Barren,A103,State Treasurer,,DEM,Michael BOWMAN,114,38,62,14
-Barren,A103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,A103,State Treasurer,,,Total Votes,373,105,252,16
 Barren,A103,State Treasurer,,,Under Votes,15,4,10,1
 Barren,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Barren,A103,Commissioner of Agriculture,,,Under Votes,10,2,7,1
 Barren,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,A104,STRAIGHT PARTY,,,Republican,55,15,36,4
 Barren,A104,STRAIGHT PARTY,,,Democratic,19,5,12,2
-Barren,A104,Governor,,REP,Daniel CAMERON,83,20,59,4
-Barren,A104,Governor,,DEM,Andy BESHEAR,55,19,32,4
-Barren,A104,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",83,20,59,4
+Barren,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,19,32,4
+Barren,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,A104,Governor,,,Total Votes,138,39,91,8
 Barren,A104,Governor,,,Under Votes,0,0,0,0
 Barren,A104,Governor,,,Over Votes,0,0,0,0
 Barren,A104,Secretary of State,,REP,Michael ADAMS,101,25,72,4
 Barren,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,12,17,4
-Barren,A104,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,A104,Secretary of State,,,Total Votes,134,37,89,8
 Barren,A104,Secretary of State,,,Under Votes,4,2,2,0
 Barren,A104,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Barren,A104,Auditor of Public Accounts,,,Under Votes,5,2,3,0
 Barren,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,A104,State Treasurer,,REP,Mark H. METCALF,97,22,71,4
 Barren,A104,State Treasurer,,DEM,Michael BOWMAN,34,14,16,4
-Barren,A104,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,A104,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,A104,State Treasurer,,,Total Votes,131,36,87,8
 Barren,A104,State Treasurer,,,Under Votes,7,3,4,0
 Barren,A104,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Barren,A104,Commissioner of Agriculture,,,Under Votes,4,2,2,0
 Barren,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,B101,STRAIGHT PARTY,,,Republican,288,77,201,10
 Barren,B101,STRAIGHT PARTY,,,Democratic,88,31,52,5
-Barren,B101,Governor,,REP,Daniel CAMERON,443,107,320,16
-Barren,B101,Governor,,DEM,Andy BESHEAR,292,96,183,13
-Barren,B101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",443,107,320,16
+Barren,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,292,96,183,13
+Barren,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,B101,Governor,,,Total Votes,735,203,503,29
 Barren,B101,Governor,,,Under Votes,2,0,2,0
 Barren,B101,Governor,,,Over Votes,0,0,0,0
 Barren,B101,Secretary of State,,REP,Michael ADAMS,545,144,381,20
 Barren,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",171,54,108,9
-Barren,B101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,B101,Secretary of State,,,Total Votes,716,198,489,29
 Barren,B101,Secretary of State,,,Under Votes,21,5,16,0
 Barren,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Barren,B101,Auditor of Public Accounts,,,Under Votes,23,6,17,0
 Barren,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,B101,State Treasurer,,REP,Mark H. METCALF,499,123,357,19
 Barren,B101,State Treasurer,,DEM,Michael BOWMAN,206,73,123,10
-Barren,B101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,B101,State Treasurer,,,Total Votes,705,196,480,29
 Barren,B101,State Treasurer,,,Under Votes,31,7,24,0
 Barren,B101,State Treasurer,,,Over Votes,1,0,1,0
@@ -176,15 +176,15 @@ Barren,B101,Commissioner of Agriculture,,,Under Votes,23,4,19,0
 Barren,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,B102,STRAIGHT PARTY,,,Republican,252,55,190,7
 Barren,B102,STRAIGHT PARTY,,,Democratic,70,22,46,2
-Barren,B102,Governor,,REP,Daniel CAMERON,377,76,293,8
-Barren,B102,Governor,,DEM,Andy BESHEAR,204,59,137,8
-Barren,B102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",377,76,293,8
+Barren,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,204,59,137,8
+Barren,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,B102,Governor,,,Total Votes,581,135,430,16
 Barren,B102,Governor,,,Under Votes,0,0,0,0
 Barren,B102,Governor,,,Over Votes,0,0,0,0
 Barren,B102,Secretary of State,,REP,Michael ADAMS,429,96,320,13
 Barren,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",135,35,97,3
-Barren,B102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,B102,Secretary of State,,,Total Votes,564,131,417,16
 Barren,B102,Secretary of State,,,Under Votes,17,4,13,0
 Barren,B102,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Barren,B102,Auditor of Public Accounts,,,Under Votes,16,1,15,0
 Barren,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,B102,State Treasurer,,REP,Mark H. METCALF,414,87,315,12
 Barren,B102,State Treasurer,,DEM,Michael BOWMAN,152,47,101,4
-Barren,B102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,B102,State Treasurer,,,Total Votes,566,134,416,16
 Barren,B102,State Treasurer,,,Under Votes,15,1,14,0
 Barren,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Barren,B102,Commissioner of Agriculture,,,Under Votes,14,2,12,0
 Barren,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,B103,STRAIGHT PARTY,,,Republican,139,24,113,2
 Barren,B103,STRAIGHT PARTY,,,Democratic,28,5,23,0
-Barren,B103,Governor,,REP,Daniel CAMERON,217,36,177,4
-Barren,B103,Governor,,DEM,Andy BESHEAR,85,16,65,4
-Barren,B103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",217,36,177,4
+Barren,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,16,65,4
+Barren,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,B103,Governor,,,Total Votes,302,52,242,8
 Barren,B103,Governor,,,Under Votes,0,0,0,0
 Barren,B103,Governor,,,Over Votes,0,0,0,0
 Barren,B103,Secretary of State,,REP,Michael ADAMS,234,39,191,4
 Barren,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",59,11,45,3
-Barren,B103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,B103,Secretary of State,,,Total Votes,293,50,236,7
 Barren,B103,Secretary of State,,,Under Votes,9,2,6,1
 Barren,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Barren,B103,Auditor of Public Accounts,,,Under Votes,8,1,6,1
 Barren,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,B103,State Treasurer,,REP,Mark H. METCALF,219,38,177,4
 Barren,B103,State Treasurer,,DEM,Michael BOWMAN,72,12,57,3
-Barren,B103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,B103,State Treasurer,,,Total Votes,291,50,234,7
 Barren,B103,State Treasurer,,,Under Votes,11,2,8,1
 Barren,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Barren,B103,Commissioner of Agriculture,,,Under Votes,7,0,6,1
 Barren,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,B104,STRAIGHT PARTY,,,Republican,269,25,242,2
 Barren,B104,STRAIGHT PARTY,,,Democratic,64,11,50,3
-Barren,B104,Governor,,REP,Daniel CAMERON,402,36,361,5
-Barren,B104,Governor,,DEM,Andy BESHEAR,175,23,146,6
-Barren,B104,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",402,36,361,5
+Barren,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,175,23,146,6
+Barren,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,B104,Governor,,,Total Votes,577,59,507,11
 Barren,B104,Governor,,,Under Votes,3,0,3,0
 Barren,B104,Governor,,,Over Votes,0,0,0,0
 Barren,B104,Secretary of State,,REP,Michael ADAMS,438,37,395,6
 Barren,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,20,98,4
-Barren,B104,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,B104,Secretary of State,,,Total Votes,560,57,493,10
 Barren,B104,Secretary of State,,,Under Votes,20,2,17,1
 Barren,B104,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Barren,B104,Auditor of Public Accounts,,,Under Votes,19,1,17,1
 Barren,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,B104,State Treasurer,,REP,Mark H. METCALF,426,37,384,5
 Barren,B104,State Treasurer,,DEM,Michael BOWMAN,131,21,105,5
-Barren,B104,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,B104,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,B104,State Treasurer,,,Total Votes,557,58,489,10
 Barren,B104,State Treasurer,,,Under Votes,23,1,21,1
 Barren,B104,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Barren,B104,Commissioner of Agriculture,,,Under Votes,14,0,13,1
 Barren,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,C101,STRAIGHT PARTY,,,Republican,116,38,77,1
 Barren,C101,STRAIGHT PARTY,,,Democratic,30,14,15,1
-Barren,C101,Governor,,REP,Daniel CAMERON,186,62,123,1
-Barren,C101,Governor,,DEM,Andy BESHEAR,108,48,53,7
-Barren,C101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",186,62,123,1
+Barren,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,108,48,53,7
+Barren,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,C101,Governor,,,Total Votes,294,110,176,8
 Barren,C101,Governor,,,Under Votes,3,0,3,0
 Barren,C101,Governor,,,Over Votes,0,0,0,0
 Barren,C101,Secretary of State,,REP,Michael ADAMS,223,83,137,3
 Barren,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",66,25,36,5
-Barren,C101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,C101,Secretary of State,,,Total Votes,289,108,173,8
 Barren,C101,Secretary of State,,,Under Votes,8,2,6,0
 Barren,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Barren,C101,Auditor of Public Accounts,,,Under Votes,6,1,5,0
 Barren,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,C101,State Treasurer,,REP,Mark H. METCALF,207,72,132,3
 Barren,C101,State Treasurer,,DEM,Michael BOWMAN,79,33,41,5
-Barren,C101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,C101,State Treasurer,,,Total Votes,286,105,173,8
 Barren,C101,State Treasurer,,,Under Votes,11,5,6,0
 Barren,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Barren,C101,Commissioner of Agriculture,,,Under Votes,9,3,6,0
 Barren,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,C102,STRAIGHT PARTY,,,Republican,167,60,106,1
 Barren,C102,STRAIGHT PARTY,,,Democratic,58,24,30,4
-Barren,C102,Governor,,REP,Daniel CAMERON,263,88,174,1
-Barren,C102,Governor,,DEM,Andy BESHEAR,174,77,86,11
-Barren,C102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",263,88,174,1
+Barren,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,174,77,86,11
+Barren,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,C102,Governor,,,Total Votes,437,165,260,12
 Barren,C102,Governor,,,Under Votes,2,2,0,0
 Barren,C102,Governor,,,Over Votes,0,0,0,0
 Barren,C102,Secretary of State,,REP,Michael ADAMS,321,120,198,3
 Barren,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",102,40,53,9
-Barren,C102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,C102,Secretary of State,,,Total Votes,423,160,251,12
 Barren,C102,Secretary of State,,,Under Votes,16,7,9,0
 Barren,C102,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Barren,C102,Auditor of Public Accounts,,,Under Votes,18,7,11,0
 Barren,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,C102,State Treasurer,,REP,Mark H. METCALF,293,105,185,3
 Barren,C102,State Treasurer,,DEM,Michael BOWMAN,126,53,64,9
-Barren,C102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,C102,State Treasurer,,,Total Votes,419,158,249,12
 Barren,C102,State Treasurer,,,Under Votes,20,9,11,0
 Barren,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -351,15 +351,15 @@ Barren,C102,Commissioner of Agriculture,,,Under Votes,13,4,9,0
 Barren,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,C103,STRAIGHT PARTY,,,Republican,147,36,107,4
 Barren,C103,STRAIGHT PARTY,,,Democratic,65,31,29,5
-Barren,C103,Governor,,REP,Daniel CAMERON,251,65,182,4
-Barren,C103,Governor,,DEM,Andy BESHEAR,158,76,76,6
-Barren,C103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",251,65,182,4
+Barren,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,158,76,76,6
+Barren,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,C103,Governor,,,Total Votes,409,141,258,10
 Barren,C103,Governor,,,Under Votes,2,0,1,1
 Barren,C103,Governor,,,Over Votes,0,0,0,0
 Barren,C103,Secretary of State,,REP,Michael ADAMS,295,90,200,5
 Barren,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",100,45,49,6
-Barren,C103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,C103,Secretary of State,,,Total Votes,395,135,249,11
 Barren,C103,Secretary of State,,,Under Votes,15,6,9,0
 Barren,C103,Secretary of State,,,Over Votes,1,0,1,0
@@ -375,7 +375,7 @@ Barren,C103,Auditor of Public Accounts,,,Under Votes,8,4,4,0
 Barren,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,C103,State Treasurer,,REP,Mark H. METCALF,288,84,198,6
 Barren,C103,State Treasurer,,DEM,Michael BOWMAN,111,52,54,5
-Barren,C103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,C103,State Treasurer,,,Total Votes,399,136,252,11
 Barren,C103,State Treasurer,,,Under Votes,12,5,7,0
 Barren,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -386,15 +386,15 @@ Barren,C103,Commissioner of Agriculture,,,Under Votes,10,4,6,0
 Barren,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,C104,STRAIGHT PARTY,,,Republican,226,31,194,1
 Barren,C104,STRAIGHT PARTY,,,Democratic,56,22,31,3
-Barren,C104,Governor,,REP,Daniel CAMERON,352,59,292,1
-Barren,C104,Governor,,DEM,Andy BESHEAR,170,48,118,4
-Barren,C104,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",352,59,292,1
+Barren,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,48,118,4
+Barren,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,C104,Governor,,,Total Votes,522,107,410,5
 Barren,C104,Governor,,,Under Votes,1,0,1,0
 Barren,C104,Governor,,,Over Votes,0,0,0,0
 Barren,C104,Secretary of State,,REP,Michael ADAMS,401,68,332,1
 Barren,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",102,33,65,4
-Barren,C104,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,C104,Secretary of State,,,Total Votes,503,101,397,5
 Barren,C104,Secretary of State,,,Under Votes,19,6,13,0
 Barren,C104,Secretary of State,,,Over Votes,1,0,1,0
@@ -410,7 +410,7 @@ Barren,C104,Auditor of Public Accounts,,,Under Votes,14,5,9,0
 Barren,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,C104,State Treasurer,,REP,Mark H. METCALF,382,63,318,1
 Barren,C104,State Treasurer,,DEM,Michael BOWMAN,122,38,80,4
-Barren,C104,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,C104,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,C104,State Treasurer,,,Total Votes,504,101,398,5
 Barren,C104,State Treasurer,,,Under Votes,19,6,13,0
 Barren,C104,State Treasurer,,,Over Votes,0,0,0,0
@@ -421,15 +421,15 @@ Barren,C104,Commissioner of Agriculture,,,Under Votes,18,6,12,0
 Barren,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,D101,STRAIGHT PARTY,,,Republican,207,38,166,3
 Barren,D101,STRAIGHT PARTY,,,Democratic,70,14,51,5
-Barren,D101,Governor,,REP,Daniel CAMERON,306,48,255,3
-Barren,D101,Governor,,DEM,Andy BESHEAR,184,34,140,10
-Barren,D101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",306,48,255,3
+Barren,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,184,34,140,10
+Barren,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,D101,Governor,,,Total Votes,490,82,395,13
 Barren,D101,Governor,,,Under Votes,3,0,3,0
 Barren,D101,Governor,,,Over Votes,0,0,0,0
 Barren,D101,Secretary of State,,REP,Michael ADAMS,379,63,312,4
 Barren,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",105,19,77,9
-Barren,D101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,D101,Secretary of State,,,Total Votes,484,82,389,13
 Barren,D101,Secretary of State,,,Under Votes,9,0,9,0
 Barren,D101,Secretary of State,,,Over Votes,0,0,0,0
@@ -445,7 +445,7 @@ Barren,D101,Auditor of Public Accounts,,,Under Votes,10,1,9,0
 Barren,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,D101,State Treasurer,,REP,Mark H. METCALF,341,53,284,4
 Barren,D101,State Treasurer,,DEM,Michael BOWMAN,139,27,103,9
-Barren,D101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,D101,State Treasurer,,,Total Votes,480,80,387,13
 Barren,D101,State Treasurer,,,Under Votes,13,2,11,0
 Barren,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -456,15 +456,15 @@ Barren,D101,Commissioner of Agriculture,,,Under Votes,13,1,12,0
 Barren,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,D102,STRAIGHT PARTY,,,Republican,344,124,211,9
 Barren,D102,STRAIGHT PARTY,,,Democratic,108,50,48,10
-Barren,D102,Governor,,REP,Daniel CAMERON,547,196,340,11
-Barren,D102,Governor,,DEM,Andy BESHEAR,350,152,183,15
-Barren,D102,Governor,,,Brian Fishback William Fishback (W),1,1,0,0
+Barren,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",547,196,340,11
+Barren,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,350,152,183,15
+Barren,D102,Governor,,,Brian Fishback / William Fishback,1,1,0,0
 Barren,D102,Governor,,,Total Votes,898,349,523,26
 Barren,D102,Governor,,,Under Votes,11,5,5,1
 Barren,D102,Governor,,,Over Votes,0,0,0,0
 Barren,D102,Secretary of State,,REP,Michael ADAMS,655,250,392,13
 Barren,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",215,90,113,12
-Barren,D102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,D102,Secretary of State,,,Total Votes,870,340,505,25
 Barren,D102,Secretary of State,,,Under Votes,38,13,23,2
 Barren,D102,Secretary of State,,,Over Votes,1,1,0,0
@@ -480,7 +480,7 @@ Barren,D102,Auditor of Public Accounts,,,Under Votes,39,16,22,1
 Barren,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,D102,State Treasurer,,REP,Mark H. METCALF,606,230,364,12
 Barren,D102,State Treasurer,,DEM,Michael BOWMAN,245,102,130,13
-Barren,D102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,D102,State Treasurer,,,Total Votes,851,332,494,25
 Barren,D102,State Treasurer,,,Under Votes,58,22,34,2
 Barren,D102,State Treasurer,,,Over Votes,0,0,0,0
@@ -491,15 +491,15 @@ Barren,D102,Commissioner of Agriculture,,,Under Votes,41,15,25,1
 Barren,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,D103,STRAIGHT PARTY,,,Republican,201,67,115,19
 Barren,D103,STRAIGHT PARTY,,,Democratic,136,56,59,21
-Barren,D103,Governor,,REP,Daniel CAMERON,324,109,192,23
-Barren,D103,Governor,,DEM,Andy BESHEAR,359,164,156,39
-Barren,D103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",324,109,192,23
+Barren,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,359,164,156,39
+Barren,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,D103,Governor,,,Total Votes,683,273,348,62
 Barren,D103,Governor,,,Under Votes,7,4,2,1
 Barren,D103,Governor,,,Over Votes,0,0,0,0
 Barren,D103,Secretary of State,,REP,Michael ADAMS,414,152,231,31
 Barren,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",252,113,108,31
-Barren,D103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,D103,Secretary of State,,,Total Votes,666,265,339,62
 Barren,D103,Secretary of State,,,Under Votes,23,11,11,1
 Barren,D103,Secretary of State,,,Over Votes,1,1,0,0
@@ -515,7 +515,7 @@ Barren,D103,Auditor of Public Accounts,,,Under Votes,23,13,8,2
 Barren,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,D103,State Treasurer,,REP,Mark H. METCALF,376,131,218,27
 Barren,D103,State Treasurer,,DEM,Michael BOWMAN,281,131,116,34
-Barren,D103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,D103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,D103,State Treasurer,,,Total Votes,657,262,334,61
 Barren,D103,State Treasurer,,,Under Votes,33,15,16,2
 Barren,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -526,15 +526,15 @@ Barren,D103,Commissioner of Agriculture,,,Under Votes,25,12,12,1
 Barren,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,E101,STRAIGHT PARTY,,,Republican,130,43,82,5
 Barren,E101,STRAIGHT PARTY,,,Democratic,81,31,45,5
-Barren,E101,Governor,,REP,Daniel CAMERON,219,85,127,7
-Barren,E101,Governor,,DEM,Andy BESHEAR,214,89,119,6
-Barren,E101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",219,85,127,7
+Barren,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,214,89,119,6
+Barren,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,E101,Governor,,,Total Votes,433,174,246,13
 Barren,E101,Governor,,,Under Votes,2,1,1,0
 Barren,E101,Governor,,,Over Votes,0,0,0,0
 Barren,E101,Secretary of State,,REP,Michael ADAMS,265,111,147,7
 Barren,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",144,52,87,5
-Barren,E101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,E101,Secretary of State,,,Total Votes,409,163,234,12
 Barren,E101,Secretary of State,,,Under Votes,26,12,13,1
 Barren,E101,Secretary of State,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Barren,E101,Auditor of Public Accounts,,,Under Votes,29,11,17,1
 Barren,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,E101,State Treasurer,,REP,Mark H. METCALF,242,95,140,7
 Barren,E101,State Treasurer,,DEM,Michael BOWMAN,161,64,92,5
-Barren,E101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,E101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,E101,State Treasurer,,,Total Votes,403,159,232,12
 Barren,E101,State Treasurer,,,Under Votes,31,16,14,1
 Barren,E101,State Treasurer,,,Over Votes,1,0,1,0
@@ -561,15 +561,15 @@ Barren,E101,Commissioner of Agriculture,,,Under Votes,25,11,13,1
 Barren,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,E102,STRAIGHT PARTY,,,Republican,134,59,72,3
 Barren,E102,STRAIGHT PARTY,,,Democratic,35,19,14,2
-Barren,E102,Governor,,REP,Daniel CAMERON,212,89,118,5
-Barren,E102,Governor,,DEM,Andy BESHEAR,107,54,48,5
-Barren,E102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",212,89,118,5
+Barren,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,54,48,5
+Barren,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,E102,Governor,,,Total Votes,319,143,166,10
 Barren,E102,Governor,,,Under Votes,4,1,3,0
 Barren,E102,Governor,,,Over Votes,0,0,0,0
 Barren,E102,Secretary of State,,REP,Michael ADAMS,254,110,137,7
 Barren,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",59,29,27,3
-Barren,E102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,E102,Secretary of State,,,Total Votes,313,139,164,10
 Barren,E102,Secretary of State,,,Under Votes,9,4,5,0
 Barren,E102,Secretary of State,,,Over Votes,1,1,0,0
@@ -585,7 +585,7 @@ Barren,E102,Auditor of Public Accounts,,,Under Votes,8,3,5,0
 Barren,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,E102,State Treasurer,,REP,Mark H. METCALF,238,100,132,6
 Barren,E102,State Treasurer,,DEM,Michael BOWMAN,73,38,31,4
-Barren,E102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,E102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,E102,State Treasurer,,,Total Votes,311,138,163,10
 Barren,E102,State Treasurer,,,Under Votes,12,6,6,0
 Barren,E102,State Treasurer,,,Over Votes,0,0,0,0
@@ -596,15 +596,15 @@ Barren,E102,Commissioner of Agriculture,,,Under Votes,8,3,5,0
 Barren,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,E103,STRAIGHT PARTY,,,Republican,216,32,182,2
 Barren,E103,STRAIGHT PARTY,,,Democratic,48,14,32,2
-Barren,E103,Governor,,REP,Daniel CAMERON,326,47,275,4
-Barren,E103,Governor,,DEM,Andy BESHEAR,147,37,107,3
-Barren,E103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",326,47,275,4
+Barren,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,147,37,107,3
+Barren,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,E103,Governor,,,Total Votes,473,84,382,7
 Barren,E103,Governor,,,Under Votes,2,0,2,0
 Barren,E103,Governor,,,Over Votes,0,0,0,0
 Barren,E103,Secretary of State,,REP,Michael ADAMS,371,56,310,5
 Barren,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",94,25,67,2
-Barren,E103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,E103,Secretary of State,,,Total Votes,465,81,377,7
 Barren,E103,Secretary of State,,,Under Votes,10,3,7,0
 Barren,E103,Secretary of State,,,Over Votes,0,0,0,0
@@ -620,7 +620,7 @@ Barren,E103,Auditor of Public Accounts,,,Under Votes,10,3,7,0
 Barren,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,E103,State Treasurer,,REP,Mark H. METCALF,354,50,301,3
 Barren,E103,State Treasurer,,DEM,Michael BOWMAN,110,30,76,4
-Barren,E103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,E103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,E103,State Treasurer,,,Total Votes,464,80,377,7
 Barren,E103,State Treasurer,,,Under Votes,11,4,7,0
 Barren,E103,State Treasurer,,,Over Votes,0,0,0,0
@@ -631,15 +631,15 @@ Barren,E103,Commissioner of Agriculture,,,Under Votes,9,4,5,0
 Barren,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,E104,STRAIGHT PARTY,,,Republican,242,44,196,2
 Barren,E104,STRAIGHT PARTY,,,Democratic,90,28,52,10
-Barren,E104,Governor,,REP,Daniel CAMERON,383,83,295,5
-Barren,E104,Governor,,DEM,Andy BESHEAR,221,77,127,17
-Barren,E104,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",383,83,295,5
+Barren,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,221,77,127,17
+Barren,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,E104,Governor,,,Total Votes,604,160,422,22
 Barren,E104,Governor,,,Under Votes,3,2,1,0
 Barren,E104,Governor,,,Over Votes,0,0,0,0
 Barren,E104,Secretary of State,,REP,Michael ADAMS,444,107,326,11
 Barren,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,52,91,11
-Barren,E104,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,E104,Secretary of State,,,Total Votes,598,159,417,22
 Barren,E104,Secretary of State,,,Under Votes,9,3,6,0
 Barren,E104,Secretary of State,,,Over Votes,0,0,0,0
@@ -655,7 +655,7 @@ Barren,E104,Auditor of Public Accounts,,,Under Votes,18,6,12,0
 Barren,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,E104,State Treasurer,,REP,Mark H. METCALF,402,95,301,6
 Barren,E104,State Treasurer,,DEM,Michael BOWMAN,190,64,110,16
-Barren,E104,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,E104,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,E104,State Treasurer,,,Total Votes,592,159,411,22
 Barren,E104,State Treasurer,,,Under Votes,15,3,12,0
 Barren,E104,State Treasurer,,,Over Votes,0,0,0,0
@@ -666,15 +666,15 @@ Barren,E104,Commissioner of Agriculture,,,Under Votes,13,4,9,0
 Barren,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,F101,STRAIGHT PARTY,,,Republican,133,9,120,4
 Barren,F101,STRAIGHT PARTY,,,Democratic,59,5,51,3
-Barren,F101,Governor,,REP,Daniel CAMERON,188,14,170,4
-Barren,F101,Governor,,DEM,Andy BESHEAR,163,17,136,10
-Barren,F101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",188,14,170,4
+Barren,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,163,17,136,10
+Barren,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,F101,Governor,,,Total Votes,351,31,306,14
 Barren,F101,Governor,,,Under Votes,1,0,1,0
 Barren,F101,Governor,,,Over Votes,0,0,0,0
 Barren,F101,Secretary of State,,REP,Michael ADAMS,239,21,210,8
 Barren,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,9,89,6
-Barren,F101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,F101,Secretary of State,,,Total Votes,343,30,299,14
 Barren,F101,Secretary of State,,,Under Votes,9,1,8,0
 Barren,F101,Secretary of State,,,Over Votes,0,0,0,0
@@ -690,7 +690,7 @@ Barren,F101,Auditor of Public Accounts,,,Under Votes,10,1,9,0
 Barren,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,F101,State Treasurer,,REP,Mark H. METCALF,215,17,191,7
 Barren,F101,State Treasurer,,DEM,Michael BOWMAN,125,13,106,6
-Barren,F101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,F101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,F101,State Treasurer,,,Total Votes,340,30,297,13
 Barren,F101,State Treasurer,,,Under Votes,12,1,10,1
 Barren,F101,State Treasurer,,,Over Votes,0,0,0,0
@@ -701,15 +701,15 @@ Barren,F101,Commissioner of Agriculture,,,Under Votes,12,1,11,0
 Barren,F101,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Barren,F102,STRAIGHT PARTY,,,Republican,162,28,131,3
 Barren,F102,STRAIGHT PARTY,,,Democratic,101,9,88,4
-Barren,F102,Governor,,REP,Daniel CAMERON,251,43,202,6
-Barren,F102,Governor,,DEM,Andy BESHEAR,211,23,180,8
-Barren,F102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",251,43,202,6
+Barren,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,211,23,180,8
+Barren,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,F102,Governor,,,Total Votes,462,66,382,14
 Barren,F102,Governor,,,Under Votes,2,0,2,0
 Barren,F102,Governor,,,Over Votes,0,0,0,0
 Barren,F102,Secretary of State,,REP,Michael ADAMS,296,54,234,8
 Barren,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",151,10,135,6
-Barren,F102,Secretary of State,,,Kenneth C Moellman Jr. (W),3,0,3,0
+Barren,F102,Secretary of State,,,Kenneth C. Moellman Jr.,3,0,3,0
 Barren,F102,Secretary of State,,,Total Votes,450,64,372,14
 Barren,F102,Secretary of State,,,Under Votes,14,2,12,0
 Barren,F102,Secretary of State,,,Over Votes,0,0,0,0
@@ -725,7 +725,7 @@ Barren,F102,Auditor of Public Accounts,,,Under Votes,15,2,13,0
 Barren,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,F102,State Treasurer,,REP,Mark H. METCALF,284,51,226,7
 Barren,F102,State Treasurer,,DEM,Michael BOWMAN,165,13,145,7
-Barren,F102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,F102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,F102,State Treasurer,,,Total Votes,449,64,371,14
 Barren,F102,State Treasurer,,,Under Votes,15,2,13,0
 Barren,F102,State Treasurer,,,Over Votes,0,0,0,0
@@ -736,15 +736,15 @@ Barren,F102,Commissioner of Agriculture,,,Under Votes,14,3,11,0
 Barren,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,F103,STRAIGHT PARTY,,,Republican,226,24,197,5
 Barren,F103,STRAIGHT PARTY,,,Democratic,127,19,103,5
-Barren,F103,Governor,,REP,Daniel CAMERON,356,39,310,7
-Barren,F103,Governor,,DEM,Andy BESHEAR,318,53,254,11
-Barren,F103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",356,39,310,7
+Barren,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,318,53,254,11
+Barren,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,F103,Governor,,,Total Votes,674,92,564,18
 Barren,F103,Governor,,,Under Votes,6,0,6,0
 Barren,F103,Governor,,,Over Votes,0,0,0,0
 Barren,F103,Secretary of State,,REP,Michael ADAMS,445,58,379,8
 Barren,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",214,32,172,10
-Barren,F103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,F103,Secretary of State,,,Total Votes,659,90,551,18
 Barren,F103,Secretary of State,,,Under Votes,21,2,19,0
 Barren,F103,Secretary of State,,,Over Votes,0,0,0,0
@@ -760,7 +760,7 @@ Barren,F103,Auditor of Public Accounts,,,Under Votes,24,0,24,0
 Barren,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,F103,State Treasurer,,REP,Mark H. METCALF,414,53,354,7
 Barren,F103,State Treasurer,,DEM,Michael BOWMAN,242,37,194,11
-Barren,F103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,F103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,F103,State Treasurer,,,Total Votes,656,90,548,18
 Barren,F103,State Treasurer,,,Under Votes,24,2,22,0
 Barren,F103,State Treasurer,,,Over Votes,0,0,0,0
@@ -771,15 +771,15 @@ Barren,F103,Commissioner of Agriculture,,,Under Votes,17,1,16,0
 Barren,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,G101,STRAIGHT PARTY,,,Republican,205,65,135,5
 Barren,G101,STRAIGHT PARTY,,,Democratic,109,38,63,8
-Barren,G101,Governor,,REP,Daniel CAMERON,333,101,225,7
-Barren,G101,Governor,,DEM,Andy BESHEAR,258,92,154,12
-Barren,G101,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,G101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",333,101,225,7
+Barren,G101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,258,92,154,12
+Barren,G101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,G101,Governor,,,Total Votes,591,193,379,19
 Barren,G101,Governor,,,Under Votes,5,0,5,0
 Barren,G101,Governor,,,Over Votes,0,0,0,0
 Barren,G101,Secretary of State,,REP,Michael ADAMS,392,124,260,8
 Barren,G101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",187,64,113,10
-Barren,G101,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,G101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,G101,Secretary of State,,,Total Votes,579,188,373,18
 Barren,G101,Secretary of State,,,Under Votes,16,5,10,1
 Barren,G101,Secretary of State,,,Over Votes,1,0,1,0
@@ -795,7 +795,7 @@ Barren,G101,Auditor of Public Accounts,,,Under Votes,14,5,8,1
 Barren,G101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,G101,State Treasurer,,REP,Mark H. METCALF,367,111,248,8
 Barren,G101,State Treasurer,,DEM,Michael BOWMAN,208,75,123,10
-Barren,G101,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,G101,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,G101,State Treasurer,,,Total Votes,575,186,371,18
 Barren,G101,State Treasurer,,,Under Votes,20,7,12,1
 Barren,G101,State Treasurer,,,Over Votes,1,0,1,0
@@ -806,15 +806,15 @@ Barren,G101,Commissioner of Agriculture,,,Under Votes,23,9,13,1
 Barren,G101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,G102,STRAIGHT PARTY,,,Republican,120,35,82,3
 Barren,G102,STRAIGHT PARTY,,,Democratic,68,25,39,4
-Barren,G102,Governor,,REP,Daniel CAMERON,154,52,98,4
-Barren,G102,Governor,,DEM,Andy BESHEAR,165,58,95,12
-Barren,G102,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,G102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",154,52,98,4
+Barren,G102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,165,58,95,12
+Barren,G102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,G102,Governor,,,Total Votes,319,110,193,16
 Barren,G102,Governor,,,Under Votes,1,0,1,0
 Barren,G102,Governor,,,Over Votes,0,0,0,0
 Barren,G102,Secretary of State,,REP,Michael ADAMS,186,64,117,5
 Barren,G102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,41,75,8
-Barren,G102,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,G102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,G102,Secretary of State,,,Total Votes,310,105,192,13
 Barren,G102,Secretary of State,,,Under Votes,10,5,2,3
 Barren,G102,Secretary of State,,,Over Votes,0,0,0,0
@@ -830,7 +830,7 @@ Barren,G102,Auditor of Public Accounts,,,Under Votes,12,7,2,3
 Barren,G102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,G102,State Treasurer,,REP,Mark H. METCALF,172,52,116,4
 Barren,G102,State Treasurer,,DEM,Michael BOWMAN,135,51,75,9
-Barren,G102,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,G102,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,G102,State Treasurer,,,Total Votes,307,103,191,13
 Barren,G102,State Treasurer,,,Under Votes,13,7,3,3
 Barren,G102,State Treasurer,,,Over Votes,0,0,0,0
@@ -841,15 +841,15 @@ Barren,G102,Commissioner of Agriculture,,,Under Votes,11,6,2,3
 Barren,G102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Barren,G103,STRAIGHT PARTY,,,Republican,124,52,67,5
 Barren,G103,STRAIGHT PARTY,,,Democratic,82,43,29,10
-Barren,G103,Governor,,REP,Daniel CAMERON,177,74,99,4
-Barren,G103,Governor,,DEM,Andy BESHEAR,211,101,91,19
-Barren,G103,Governor,,,Brian Fishback William Fishback (W),0,0,0,0
+Barren,G103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",177,74,99,4
+Barren,G103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,211,101,91,19
+Barren,G103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Barren,G103,Governor,,,Total Votes,388,175,190,23
 Barren,G103,Governor,,,Under Votes,1,1,0,0
 Barren,G103,Governor,,,Over Votes,0,0,0,0
 Barren,G103,Secretary of State,,REP,Michael ADAMS,223,97,116,10
 Barren,G103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",152,73,66,13
-Barren,G103,Secretary of State,,,Kenneth C Moellman Jr. (W),0,0,0,0
+Barren,G103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Barren,G103,Secretary of State,,,Total Votes,375,170,182,23
 Barren,G103,Secretary of State,,,Under Votes,14,6,8,0
 Barren,G103,Secretary of State,,,Over Votes,0,0,0,0
@@ -865,7 +865,7 @@ Barren,G103,Auditor of Public Accounts,,,Under Votes,11,5,6,0
 Barren,G103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Barren,G103,State Treasurer,,REP,Mark H. METCALF,212,91,112,9
 Barren,G103,State Treasurer,,DEM,Michael BOWMAN,163,79,70,14
-Barren,G103,State Treasurer,,,Robert Perry (W),0,0,0,0
+Barren,G103,State Treasurer,,,Robert Perry,0,0,0,0
 Barren,G103,State Treasurer,,,Total Votes,375,170,182,23
 Barren,G103,State Treasurer,,,Under Votes,14,6,8,0
 Barren,G103,State Treasurer,,,Over Votes,0,0,0,0

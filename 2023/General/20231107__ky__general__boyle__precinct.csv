@@ -1,15 +1,15 @@
 county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
 Boyle,A101,STRAIGHT PARTY,,,Republican,154,9,145,0
 Boyle,A101,STRAIGHT PARTY,,,Democratic,53,11,41,1
-Boyle,A101,Governor,,REP,Daniel CAMERON,254,10,243,1
-Boyle,A101,Governor,,DEM,Andy BESHEAR,166,19,145,2
-Boyle,A101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",254,10,243,1
+Boyle,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,166,19,145,2
+Boyle,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,A101,Governor,,,Total Votes,420,29,388,3
 Boyle,A101,Governor,,,Under Votes,5,0,5,0
 Boyle,A101,Governor,,,Over Votes,0,0,0,0
 Boyle,A101,Secretary of State,,REP,Michael ADAMS,315,13,301,1
 Boyle,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",101,16,84,1
-Boyle,A101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,A101,Secretary of State,,,Total Votes,416,29,385,2
 Boyle,A101,Secretary of State,,,Under Votes,9,0,8,1
 Boyle,A101,Secretary of State,,,Over Votes,0,0,0,0
@@ -25,7 +25,7 @@ Boyle,A101,Auditor of Public Accounts,,,Under Votes,11,1,9,1
 Boyle,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,A101,State Treasurer,,REP,Mark H. METCALF,294,10,283,1
 Boyle,A101,State Treasurer,,DEM,Michael BOWMAN,111,18,92,1
-Boyle,A101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,A101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,A101,State Treasurer,,,Total Votes,405,28,375,2
 Boyle,A101,State Treasurer,,,Under Votes,20,1,18,1
 Boyle,A101,State Treasurer,,,Over Votes,0,0,0,0
@@ -36,15 +36,15 @@ Boyle,A101,Commissioner of Agriculture,,,Under Votes,9,1,7,1
 Boyle,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,A102,STRAIGHT PARTY,,,Republican,195,25,165,5
 Boyle,A102,STRAIGHT PARTY,,,Democratic,66,6,59,1
-Boyle,A102,Governor,,REP,Daniel CAMERON,312,43,263,6
-Boyle,A102,Governor,,DEM,Andy BESHEAR,196,23,167,6
-Boyle,A102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",312,43,263,6
+Boyle,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,196,23,167,6
+Boyle,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,A102,Governor,,,Total Votes,508,66,430,12
 Boyle,A102,Governor,,,Under Votes,7,1,6,0
 Boyle,A102,Governor,,,Over Votes,0,0,0,0
 Boyle,A102,Secretary of State,,REP,Michael ADAMS,380,55,317,8
 Boyle,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",125,12,109,4
-Boyle,A102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,A102,Secretary of State,,,Total Votes,505,67,426,12
 Boyle,A102,Secretary of State,,,Under Votes,10,0,10,0
 Boyle,A102,Secretary of State,,,Over Votes,0,0,0,0
@@ -60,7 +60,7 @@ Boyle,A102,Auditor of Public Accounts,,,Under Votes,6,0,6,0
 Boyle,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,A102,State Treasurer,,REP,Mark H. METCALF,368,51,311,6
 Boyle,A102,State Treasurer,,DEM,Michael BOWMAN,135,16,113,6
-Boyle,A102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,A102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,A102,State Treasurer,,,Total Votes,503,67,424,12
 Boyle,A102,State Treasurer,,,Under Votes,12,0,12,0
 Boyle,A102,State Treasurer,,,Over Votes,0,0,0,0
@@ -71,15 +71,15 @@ Boyle,A102,Commissioner of Agriculture,,,Under Votes,7,0,7,0
 Boyle,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,A103,STRAIGHT PARTY,,,Republican,93,13,80,0
 Boyle,A103,STRAIGHT PARTY,,,Democratic,40,5,33,2
-Boyle,A103,Governor,,REP,Daniel CAMERON,137,18,119,0
-Boyle,A103,Governor,,DEM,Andy BESHEAR,98,22,72,4
-Boyle,A103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",137,18,119,0
+Boyle,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,98,22,72,4
+Boyle,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,A103,Governor,,,Total Votes,235,40,191,4
 Boyle,A103,Governor,,,Under Votes,1,0,0,1
 Boyle,A103,Governor,,,Over Votes,0,0,0,0
 Boyle,A103,Secretary of State,,REP,Michael ADAMS,169,21,145,3
 Boyle,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",65,18,45,2
-Boyle,A103,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,A103,Secretary of State,,,Total Votes,234,39,190,5
 Boyle,A103,Secretary of State,,,Under Votes,2,1,1,0
 Boyle,A103,Secretary of State,,,Over Votes,0,0,0,0
@@ -95,7 +95,7 @@ Boyle,A103,Auditor of Public Accounts,,,Under Votes,3,1,2,0
 Boyle,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,A103,State Treasurer,,REP,Mark H. METCALF,156,19,137,0
 Boyle,A103,State Treasurer,,DEM,Michael BOWMAN,78,20,53,5
-Boyle,A103,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,A103,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,A103,State Treasurer,,,Total Votes,234,39,190,5
 Boyle,A103,State Treasurer,,,Under Votes,2,1,1,0
 Boyle,A103,State Treasurer,,,Over Votes,0,0,0,0
@@ -106,15 +106,15 @@ Boyle,A103,Commissioner of Agriculture,,,Under Votes,1,1,0,0
 Boyle,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,A104,STRAIGHT PARTY,,,Republican,185,30,150,5
 Boyle,A104,STRAIGHT PARTY,,,Democratic,44,6,35,3
-Boyle,A104,Governor,,REP,Daniel CAMERON,286,40,240,6
-Boyle,A104,Governor,,DEM,Andy BESHEAR,130,20,107,3
-Boyle,A104,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",286,40,240,6
+Boyle,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,130,20,107,3
+Boyle,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,A104,Governor,,,Total Votes,416,60,347,9
 Boyle,A104,Governor,,,Under Votes,0,0,0,0
 Boyle,A104,Governor,,,Over Votes,0,0,0,0
 Boyle,A104,Secretary of State,,REP,Michael ADAMS,331,49,276,6
 Boyle,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",74,10,61,3
-Boyle,A104,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,A104,Secretary of State,,,Total Votes,405,59,337,9
 Boyle,A104,Secretary of State,,,Under Votes,11,1,10,0
 Boyle,A104,Secretary of State,,,Over Votes,0,0,0,0
@@ -130,7 +130,7 @@ Boyle,A104,Auditor of Public Accounts,,,Under Votes,10,2,8,0
 Boyle,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,A104,State Treasurer,,REP,Mark H. METCALF,328,47,275,6
 Boyle,A104,State Treasurer,,DEM,Michael BOWMAN,79,12,64,3
-Boyle,A104,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,A104,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,A104,State Treasurer,,,Total Votes,407,59,339,9
 Boyle,A104,State Treasurer,,,Under Votes,9,1,8,0
 Boyle,A104,State Treasurer,,,Over Votes,0,0,0,0
@@ -141,15 +141,15 @@ Boyle,A104,Commissioner of Agriculture,,,Under Votes,10,0,10,0
 Boyle,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,A105,STRAIGHT PARTY,,,Republican,80,26,48,6
 Boyle,A105,STRAIGHT PARTY,,,Democratic,10,3,7,0
-Boyle,A105,Governor,,REP,Daniel CAMERON,111,30,74,7
-Boyle,A105,Governor,,DEM,Andy BESHEAR,64,24,40,0
-Boyle,A105,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,30,74,7
+Boyle,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,64,24,40,0
+Boyle,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,A105,Governor,,,Total Votes,175,54,114,7
 Boyle,A105,Governor,,,Under Votes,0,0,0,0
 Boyle,A105,Governor,,,Over Votes,0,0,0,0
 Boyle,A105,Secretary of State,,REP,Michael ADAMS,136,42,87,7
 Boyle,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,10,23,0
-Boyle,A105,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,A105,Secretary of State,,,Total Votes,169,52,110,7
 Boyle,A105,Secretary of State,,,Under Votes,6,2,4,0
 Boyle,A105,Secretary of State,,,Over Votes,0,0,0,0
@@ -165,7 +165,7 @@ Boyle,A105,Auditor of Public Accounts,,,Under Votes,6,1,5,0
 Boyle,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,A105,State Treasurer,,REP,Mark H. METCALF,127,35,85,7
 Boyle,A105,State Treasurer,,DEM,Michael BOWMAN,41,17,24,0
-Boyle,A105,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,A105,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,A105,State Treasurer,,,Total Votes,168,52,109,7
 Boyle,A105,State Treasurer,,,Under Votes,7,2,5,0
 Boyle,A105,State Treasurer,,,Over Votes,0,0,0,0
@@ -176,15 +176,15 @@ Boyle,A105,Commissioner of Agriculture,,,Under Votes,4,0,4,0
 Boyle,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,B101,STRAIGHT PARTY,,,Republican,59,10,49,0
 Boyle,B101,STRAIGHT PARTY,,,Democratic,16,3,12,1
-Boyle,B101,Governor,,REP,Daniel CAMERON,95,13,82,0
-Boyle,B101,Governor,,DEM,Andy BESHEAR,55,10,42,3
-Boyle,B101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",95,13,82,0
+Boyle,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,10,42,3
+Boyle,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,B101,Governor,,,Total Votes,150,23,124,3
 Boyle,B101,Governor,,,Under Votes,1,1,0,0
 Boyle,B101,Governor,,,Over Votes,0,0,0,0
 Boyle,B101,Secretary of State,,REP,Michael ADAMS,117,17,98,2
 Boyle,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,6,26,1
-Boyle,B101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,B101,Secretary of State,,,Total Votes,150,23,124,3
 Boyle,B101,Secretary of State,,,Under Votes,1,1,0,0
 Boyle,B101,Secretary of State,,,Over Votes,0,0,0,0
@@ -200,7 +200,7 @@ Boyle,B101,Auditor of Public Accounts,,,Under Votes,4,1,3,0
 Boyle,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,B101,State Treasurer,,REP,Mark H. METCALF,124,18,104,2
 Boyle,B101,State Treasurer,,DEM,Michael BOWMAN,25,5,19,1
-Boyle,B101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,B101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,B101,State Treasurer,,,Total Votes,149,23,123,3
 Boyle,B101,State Treasurer,,,Under Votes,2,1,1,0
 Boyle,B101,State Treasurer,,,Over Votes,0,0,0,0
@@ -211,15 +211,15 @@ Boyle,B101,Commissioner of Agriculture,,,Under Votes,3,1,2,0
 Boyle,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,B102,STRAIGHT PARTY,,,Republican,136,12,123,1
 Boyle,B102,STRAIGHT PARTY,,,Democratic,56,9,45,2
-Boyle,B102,Governor,,REP,Daniel CAMERON,196,27,168,1
-Boyle,B102,Governor,,DEM,Andy BESHEAR,132,29,98,5
-Boyle,B102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",196,27,168,1
+Boyle,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,132,29,98,5
+Boyle,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,B102,Governor,,,Total Votes,328,56,266,6
 Boyle,B102,Governor,,,Under Votes,6,0,6,0
 Boyle,B102,Governor,,,Over Votes,0,0,0,0
 Boyle,B102,Secretary of State,,REP,Michael ADAMS,236,35,200,1
 Boyle,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,20,70,5
-Boyle,B102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,B102,Secretary of State,,,Total Votes,331,55,270,6
 Boyle,B102,Secretary of State,,,Under Votes,3,1,2,0
 Boyle,B102,Secretary of State,,,Over Votes,0,0,0,0
@@ -235,7 +235,7 @@ Boyle,B102,Auditor of Public Accounts,,,Under Votes,4,3,1,0
 Boyle,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,B102,State Treasurer,,REP,Mark H. METCALF,229,33,195,1
 Boyle,B102,State Treasurer,,DEM,Michael BOWMAN,101,20,76,5
-Boyle,B102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,B102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,B102,State Treasurer,,,Total Votes,330,53,271,6
 Boyle,B102,State Treasurer,,,Under Votes,4,3,1,0
 Boyle,B102,State Treasurer,,,Over Votes,0,0,0,0
@@ -246,15 +246,15 @@ Boyle,B102,Commissioner of Agriculture,,,Under Votes,5,2,3,0
 Boyle,B102,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Boyle,B103,STRAIGHT PARTY,,,Republican,201,22,169,10
 Boyle,B103,STRAIGHT PARTY,,,Democratic,114,18,88,8
-Boyle,B103,Governor,,REP,Daniel CAMERON,296,31,257,8
-Boyle,B103,Governor,,DEM,Andy BESHEAR,278,43,223,12
-Boyle,B103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",296,31,257,8
+Boyle,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,278,43,223,12
+Boyle,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,B103,Governor,,,Total Votes,574,74,480,20
 Boyle,B103,Governor,,,Under Votes,0,0,0,0
 Boyle,B103,Governor,,,Over Votes,0,0,0,0
 Boyle,B103,Secretary of State,,REP,Michael ADAMS,377,42,322,13
 Boyle,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",187,32,148,7
-Boyle,B103,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,B103,Secretary of State,,,Total Votes,564,74,470,20
 Boyle,B103,Secretary of State,,,Under Votes,10,0,10,0
 Boyle,B103,Secretary of State,,,Over Votes,0,0,0,0
@@ -270,7 +270,7 @@ Boyle,B103,Auditor of Public Accounts,,,Under Votes,12,1,11,0
 Boyle,B103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
 Boyle,B103,State Treasurer,,REP,Mark H. METCALF,359,41,307,11
 Boyle,B103,State Treasurer,,DEM,Michael BOWMAN,197,32,156,9
-Boyle,B103,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,B103,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,B103,State Treasurer,,,Total Votes,556,73,463,20
 Boyle,B103,State Treasurer,,,Under Votes,18,1,17,0
 Boyle,B103,State Treasurer,,,Over Votes,0,0,0,0
@@ -281,15 +281,15 @@ Boyle,B103,Commissioner of Agriculture,,,Under Votes,12,1,11,0
 Boyle,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,B104,STRAIGHT PARTY,,,Republican,144,18,123,3
 Boyle,B104,STRAIGHT PARTY,,,Democratic,52,12,39,1
-Boyle,B104,Governor,,REP,Daniel CAMERON,213,28,182,3
-Boyle,B104,Governor,,DEM,Andy BESHEAR,158,26,125,7
-Boyle,B104,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",213,28,182,3
+Boyle,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,158,26,125,7
+Boyle,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,B104,Governor,,,Total Votes,371,54,307,10
 Boyle,B104,Governor,,,Under Votes,2,0,1,1
 Boyle,B104,Governor,,,Over Votes,0,0,0,0
 Boyle,B104,Secretary of State,,REP,Michael ADAMS,260,31,223,6
 Boyle,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",104,23,77,4
-Boyle,B104,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,B104,Secretary of State,,,Total Votes,364,54,300,10
 Boyle,B104,Secretary of State,,,Under Votes,9,0,8,1
 Boyle,B104,Secretary of State,,,Over Votes,0,0,0,0
@@ -305,7 +305,7 @@ Boyle,B104,Auditor of Public Accounts,,,Under Votes,7,0,6,1
 Boyle,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,B104,State Treasurer,,REP,Mark H. METCALF,246,29,213,4
 Boyle,B104,State Treasurer,,DEM,Michael BOWMAN,113,25,82,6
-Boyle,B104,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,B104,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,B104,State Treasurer,,,Total Votes,359,54,295,10
 Boyle,B104,State Treasurer,,,Under Votes,14,0,13,1
 Boyle,B104,State Treasurer,,,Over Votes,0,0,0,0
@@ -316,15 +316,15 @@ Boyle,B104,Commissioner of Agriculture,,,Under Votes,9,0,8,1
 Boyle,B104,Commissioner of Agriculture,,,Over Votes,1,0,1,0
 Boyle,C101,STRAIGHT PARTY,,,Republican,157,44,103,10
 Boyle,C101,STRAIGHT PARTY,,,Democratic,133,37,87,9
-Boyle,C101,Governor,,REP,Daniel CAMERON,205,57,138,10
-Boyle,C101,Governor,,DEM,Andy BESHEAR,250,79,153,18
-Boyle,C101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",205,57,138,10
+Boyle,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,250,79,153,18
+Boyle,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,C101,Governor,,,Total Votes,455,136,291,28
 Boyle,C101,Governor,,,Under Votes,2,0,2,0
 Boyle,C101,Governor,,,Over Votes,0,0,0,0
 Boyle,C101,Secretary of State,,REP,Michael ADAMS,246,75,157,14
 Boyle,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",199,60,125,14
-Boyle,C101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,C101,Secretary of State,,,Total Votes,445,135,282,28
 Boyle,C101,Secretary of State,,,Under Votes,12,1,11,0
 Boyle,C101,Secretary of State,,,Over Votes,0,0,0,0
@@ -340,7 +340,7 @@ Boyle,C101,Auditor of Public Accounts,,,Under Votes,11,1,8,2
 Boyle,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,C101,State Treasurer,,REP,Mark H. METCALF,240,69,158,13
 Boyle,C101,State Treasurer,,DEM,Michael BOWMAN,203,66,124,13
-Boyle,C101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,C101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,C101,State Treasurer,,,Total Votes,443,135,282,26
 Boyle,C101,State Treasurer,,,Under Votes,14,1,11,2
 Boyle,C101,State Treasurer,,,Over Votes,0,0,0,0
@@ -351,15 +351,15 @@ Boyle,C101,Commissioner of Agriculture,,,Under Votes,13,0,12,1
 Boyle,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,C102,STRAIGHT PARTY,,,Republican,87,23,62,2
 Boyle,C102,STRAIGHT PARTY,,,Democratic,114,26,80,8
-Boyle,C102,Governor,,REP,Daniel CAMERON,144,28,112,4
-Boyle,C102,Governor,,DEM,Andy BESHEAR,252,73,164,15
-Boyle,C102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",144,28,112,4
+Boyle,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,252,73,164,15
+Boyle,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,C102,Governor,,,Total Votes,396,101,276,19
 Boyle,C102,Governor,,,Under Votes,1,1,0,0
 Boyle,C102,Governor,,,Over Votes,1,0,0,1
 Boyle,C102,Secretary of State,,REP,Michael ADAMS,210,51,152,7
 Boyle,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",181,48,120,13
-Boyle,C102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,C102,Secretary of State,,,Total Votes,391,99,272,20
 Boyle,C102,Secretary of State,,,Under Votes,7,3,4,0
 Boyle,C102,Secretary of State,,,Over Votes,0,0,0,0
@@ -375,7 +375,7 @@ Boyle,C102,Auditor of Public Accounts,,,Under Votes,9,3,6,0
 Boyle,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,C102,State Treasurer,,REP,Mark H. METCALF,203,50,145,8
 Boyle,C102,State Treasurer,,DEM,Michael BOWMAN,187,50,125,12
-Boyle,C102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,C102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,C102,State Treasurer,,,Total Votes,390,100,270,20
 Boyle,C102,State Treasurer,,,Under Votes,8,2,6,0
 Boyle,C102,State Treasurer,,,Over Votes,0,0,0,0
@@ -386,15 +386,15 @@ Boyle,C102,Commissioner of Agriculture,,,Under Votes,7,3,4,0
 Boyle,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,C103,STRAIGHT PARTY,,,Republican,69,25,38,6
 Boyle,C103,STRAIGHT PARTY,,,Democratic,61,20,32,9
-Boyle,C103,Governor,,REP,Daniel CAMERON,96,31,58,7
-Boyle,C103,Governor,,DEM,Andy BESHEAR,129,42,76,11
-Boyle,C103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",96,31,58,7
+Boyle,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,129,42,76,11
+Boyle,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,C103,Governor,,,Total Votes,225,73,134,18
 Boyle,C103,Governor,,,Under Votes,2,1,1,0
 Boyle,C103,Governor,,,Over Votes,0,0,0,0
 Boyle,C103,Secretary of State,,REP,Michael ADAMS,124,42,73,9
 Boyle,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",97,30,58,9
-Boyle,C103,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,C103,Secretary of State,,,Total Votes,221,72,131,18
 Boyle,C103,Secretary of State,,,Under Votes,6,2,4,0
 Boyle,C103,Secretary of State,,,Over Votes,0,0,0,0
@@ -410,7 +410,7 @@ Boyle,C103,Auditor of Public Accounts,,,Under Votes,6,2,4,0
 Boyle,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,C103,State Treasurer,,REP,Mark H. METCALF,119,38,72,9
 Boyle,C103,State Treasurer,,DEM,Michael BOWMAN,101,34,58,9
-Boyle,C103,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,C103,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,C103,State Treasurer,,,Total Votes,220,72,130,18
 Boyle,C103,State Treasurer,,,Under Votes,7,2,5,0
 Boyle,C103,State Treasurer,,,Over Votes,0,0,0,0
@@ -421,15 +421,15 @@ Boyle,C103,Commissioner of Agriculture,,,Under Votes,5,2,3,0
 Boyle,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,C104,STRAIGHT PARTY,,,Republican,49,9,40,0
 Boyle,C104,STRAIGHT PARTY,,,Democratic,102,33,64,5
-Boyle,C104,Governor,,REP,Daniel CAMERON,75,17,57,1
-Boyle,C104,Governor,,DEM,Andy BESHEAR,178,64,103,11
-Boyle,C104,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",75,17,57,1
+Boyle,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,178,64,103,11
+Boyle,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,C104,Governor,,,Total Votes,253,81,160,12
 Boyle,C104,Governor,,,Under Votes,0,0,0,0
 Boyle,C104,Governor,,,Over Votes,0,0,0,0
 Boyle,C104,Secretary of State,,REP,Michael ADAMS,104,31,70,3
 Boyle,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",141,49,83,9
-Boyle,C104,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,C104,Secretary of State,,,Total Votes,245,80,153,12
 Boyle,C104,Secretary of State,,,Under Votes,8,1,7,0
 Boyle,C104,Secretary of State,,,Over Votes,0,0,0,0
@@ -445,7 +445,7 @@ Boyle,C104,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Boyle,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,C104,State Treasurer,,REP,Mark H. METCALF,90,23,65,2
 Boyle,C104,State Treasurer,,DEM,Michael BOWMAN,153,57,86,10
-Boyle,C104,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,C104,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,C104,State Treasurer,,,Total Votes,243,80,151,12
 Boyle,C104,State Treasurer,,,Under Votes,10,1,9,0
 Boyle,C104,State Treasurer,,,Over Votes,0,0,0,0
@@ -456,15 +456,15 @@ Boyle,C104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
 Boyle,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,D101,STRAIGHT PARTY,,,Republican,137,35,100,2
 Boyle,D101,STRAIGHT PARTY,,,Democratic,120,49,59,12
-Boyle,D101,Governor,,REP,Daniel CAMERON,231,53,174,4
-Boyle,D101,Governor,,DEM,Andy BESHEAR,313,110,187,16
-Boyle,D101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",231,53,174,4
+Boyle,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,313,110,187,16
+Boyle,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,D101,Governor,,,Total Votes,544,163,361,20
 Boyle,D101,Governor,,,Under Votes,1,1,0,0
 Boyle,D101,Governor,,,Over Votes,0,0,0,0
 Boyle,D101,Secretary of State,,REP,Michael ADAMS,321,83,233,5
 Boyle,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",210,78,117,15
-Boyle,D101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,D101,Secretary of State,,,Total Votes,531,161,350,20
 Boyle,D101,Secretary of State,,,Under Votes,14,3,11,0
 Boyle,D101,Secretary of State,,,Over Votes,0,0,0,0
@@ -480,7 +480,7 @@ Boyle,D101,Auditor of Public Accounts,,,Under Votes,16,4,12,0
 Boyle,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,D101,State Treasurer,,REP,Mark H. METCALF,293,69,219,5
 Boyle,D101,State Treasurer,,DEM,Michael BOWMAN,236,91,130,15
-Boyle,D101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,D101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,D101,State Treasurer,,,Total Votes,529,160,349,20
 Boyle,D101,State Treasurer,,,Under Votes,16,4,12,0
 Boyle,D101,State Treasurer,,,Over Votes,0,0,0,0
@@ -491,15 +491,15 @@ Boyle,D101,Commissioner of Agriculture,,,Under Votes,18,4,14,0
 Boyle,D101,Commissioner of Agriculture,,,Over Votes,1,0,0,1
 Boyle,D102,STRAIGHT PARTY,,,Republican,261,69,181,11
 Boyle,D102,STRAIGHT PARTY,,,Democratic,116,42,64,10
-Boyle,D102,Governor,,REP,Daniel CAMERON,382,100,269,13
-Boyle,D102,Governor,,DEM,Andy BESHEAR,328,122,183,23
-Boyle,D102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",382,100,269,13
+Boyle,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,328,122,183,23
+Boyle,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,D102,Governor,,,Total Votes,710,222,452,36
 Boyle,D102,Governor,,,Under Votes,3,1,2,0
 Boyle,D102,Governor,,,Over Votes,0,0,0,0
 Boyle,D102,Secretary of State,,REP,Michael ADAMS,485,139,326,20
 Boyle,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",214,81,117,16
-Boyle,D102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,D102,Secretary of State,,,Total Votes,699,220,443,36
 Boyle,D102,Secretary of State,,,Under Votes,14,3,11,0
 Boyle,D102,Secretary of State,,,Over Votes,0,0,0,0
@@ -515,7 +515,7 @@ Boyle,D102,Auditor of Public Accounts,,,Under Votes,14,5,9,0
 Boyle,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,D102,State Treasurer,,REP,Mark H. METCALF,472,128,324,20
 Boyle,D102,State Treasurer,,DEM,Michael BOWMAN,219,87,118,14
-Boyle,D102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,D102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,D102,State Treasurer,,,Total Votes,691,215,442,34
 Boyle,D102,State Treasurer,,,Under Votes,21,8,12,1
 Boyle,D102,State Treasurer,,,Over Votes,1,0,0,1
@@ -526,15 +526,15 @@ Boyle,D102,Commissioner of Agriculture,,,Under Votes,16,5,11,0
 Boyle,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,D103,STRAIGHT PARTY,,,Republican,176,41,130,5
 Boyle,D103,STRAIGHT PARTY,,,Democratic,106,52,51,3
-Boyle,D103,Governor,,REP,Daniel CAMERON,300,79,215,6
-Boyle,D103,Governor,,DEM,Andy BESHEAR,320,139,167,14
-Boyle,D103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",300,79,215,6
+Boyle,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,320,139,167,14
+Boyle,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,D103,Governor,,,Total Votes,620,218,382,20
 Boyle,D103,Governor,,,Under Votes,0,0,0,0
 Boyle,D103,Governor,,,Over Votes,0,0,0,0
 Boyle,D103,Secretary of State,,REP,Michael ADAMS,420,136,273,11
 Boyle,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",192,80,103,9
-Boyle,D103,Secretary of State,,,MOELLMAN (W),1,0,1,0
+Boyle,D103,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
 Boyle,D103,Secretary of State,,,Total Votes,613,216,377,20
 Boyle,D103,Secretary of State,,,Under Votes,7,2,5,0
 Boyle,D103,Secretary of State,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Boyle,D103,Auditor of Public Accounts,,,Under Votes,8,2,5,1
 Boyle,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,D103,State Treasurer,,REP,Mark H. METCALF,392,118,263,11
 Boyle,D103,State Treasurer,,DEM,Michael BOWMAN,215,95,112,8
-Boyle,D103,State Treasurer,,,PERRY (W),1,0,1,0
+Boyle,D103,State Treasurer,,,Robert Perry,1,0,1,0
 Boyle,D103,State Treasurer,,,Total Votes,608,213,376,19
 Boyle,D103,State Treasurer,,,Under Votes,12,5,6,1
 Boyle,D103,State Treasurer,,,Over Votes,0,0,0,0
@@ -561,15 +561,15 @@ Boyle,D103,Commissioner of Agriculture,,,Under Votes,15,6,8,1
 Boyle,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,E101,STRAIGHT PARTY,,,Republican,90,14,71,5
 Boyle,E101,STRAIGHT PARTY,,,Democratic,93,28,58,7
-Boyle,E101,Governor,,REP,Daniel CAMERON,144,28,111,5
-Boyle,E101,Governor,,DEM,Andy BESHEAR,265,79,171,15
-Boyle,E101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",144,28,111,5
+Boyle,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,265,79,171,15
+Boyle,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,E101,Governor,,,Total Votes,409,107,282,20
 Boyle,E101,Governor,,,Under Votes,1,0,1,0
 Boyle,E101,Governor,,,Over Votes,0,0,0,0
 Boyle,E101,Secretary of State,,REP,Michael ADAMS,212,47,158,7
 Boyle,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",186,59,114,13
-Boyle,E101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,E101,Secretary of State,,,Total Votes,398,106,272,20
 Boyle,E101,Secretary of State,,,Under Votes,12,1,11,0
 Boyle,E101,Secretary of State,,,Over Votes,0,0,0,0
@@ -585,7 +585,7 @@ Boyle,E101,Auditor of Public Accounts,,,Under Votes,17,2,15,0
 Boyle,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,E101,State Treasurer,,REP,Mark H. METCALF,178,34,136,8
 Boyle,E101,State Treasurer,,DEM,Michael BOWMAN,212,68,132,12
-Boyle,E101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,E101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,E101,State Treasurer,,,Total Votes,390,102,268,20
 Boyle,E101,State Treasurer,,,Under Votes,19,5,14,0
 Boyle,E101,State Treasurer,,,Over Votes,1,0,1,0
@@ -596,15 +596,15 @@ Boyle,E101,Commissioner of Agriculture,,,Under Votes,17,2,15,0
 Boyle,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,E102,STRAIGHT PARTY,,,Republican,83,27,54,2
 Boyle,E102,STRAIGHT PARTY,,,Democratic,98,37,52,9
-Boyle,E102,Governor,,REP,Daniel CAMERON,131,44,83,4
-Boyle,E102,Governor,,DEM,Andy BESHEAR,245,105,129,11
-Boyle,E102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",131,44,83,4
+Boyle,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,245,105,129,11
+Boyle,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,E102,Governor,,,Total Votes,376,149,212,15
 Boyle,E102,Governor,,,Under Votes,0,0,0,0
 Boyle,E102,Governor,,,Over Votes,1,1,0,0
 Boyle,E102,Secretary of State,,REP,Michael ADAMS,191,74,112,5
 Boyle,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",181,75,96,10
-Boyle,E102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,E102,Secretary of State,,,Total Votes,372,149,208,15
 Boyle,E102,Secretary of State,,,Under Votes,5,1,4,0
 Boyle,E102,Secretary of State,,,Over Votes,0,0,0,0
@@ -620,7 +620,7 @@ Boyle,E102,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Boyle,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,E102,State Treasurer,,REP,Mark H. METCALF,156,55,97,4
 Boyle,E102,State Treasurer,,DEM,Michael BOWMAN,210,91,108,11
-Boyle,E102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,E102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,E102,State Treasurer,,,Total Votes,366,146,205,15
 Boyle,E102,State Treasurer,,,Under Votes,11,4,7,0
 Boyle,E102,State Treasurer,,,Over Votes,0,0,0,0
@@ -631,15 +631,15 @@ Boyle,E102,Commissioner of Agriculture,,,Under Votes,11,4,7,0
 Boyle,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,E103,STRAIGHT PARTY,,,Republican,32,10,21,1
 Boyle,E103,STRAIGHT PARTY,,,Democratic,62,18,39,5
-Boyle,E103,Governor,,REP,Daniel CAMERON,54,12,40,2
-Boyle,E103,Governor,,DEM,Andy BESHEAR,148,41,100,7
-Boyle,E103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",54,12,40,2
+Boyle,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,148,41,100,7
+Boyle,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,E103,Governor,,,Total Votes,202,53,140,9
 Boyle,E103,Governor,,,Under Votes,0,0,0,0
 Boyle,E103,Governor,,,Over Votes,0,0,0,0
 Boyle,E103,Secretary of State,,REP,Michael ADAMS,81,20,59,2
 Boyle,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",117,32,78,7
-Boyle,E103,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,E103,Secretary of State,,,Total Votes,198,52,137,9
 Boyle,E103,Secretary of State,,,Under Votes,4,1,3,0
 Boyle,E103,Secretary of State,,,Over Votes,0,0,0,0
@@ -655,7 +655,7 @@ Boyle,E103,Auditor of Public Accounts,,,Under Votes,5,2,3,0
 Boyle,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,E103,State Treasurer,,REP,Mark H. METCALF,70,17,51,2
 Boyle,E103,State Treasurer,,DEM,Michael BOWMAN,130,36,87,7
-Boyle,E103,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,E103,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,E103,State Treasurer,,,Total Votes,200,53,138,9
 Boyle,E103,State Treasurer,,,Under Votes,2,0,2,0
 Boyle,E103,State Treasurer,,,Over Votes,0,0,0,0
@@ -666,15 +666,15 @@ Boyle,E103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
 Boyle,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,E104,STRAIGHT PARTY,,,Republican,34,9,23,2
 Boyle,E104,STRAIGHT PARTY,,,Democratic,62,26,30,6
-Boyle,E104,Governor,,REP,Daniel CAMERON,49,15,31,3
-Boyle,E104,Governor,,DEM,Andy BESHEAR,159,59,85,15
-Boyle,E104,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",49,15,31,3
+Boyle,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,159,59,85,15
+Boyle,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,E104,Governor,,,Total Votes,208,74,116,18
 Boyle,E104,Governor,,,Under Votes,2,2,0,0
 Boyle,E104,Governor,,,Over Votes,0,0,0,0
 Boyle,E104,Secretary of State,,REP,Michael ADAMS,79,26,46,7
 Boyle,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",129,49,69,11
-Boyle,E104,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,E104,Secretary of State,,,Total Votes,208,75,115,18
 Boyle,E104,Secretary of State,,,Under Votes,2,1,1,0
 Boyle,E104,Secretary of State,,,Over Votes,0,0,0,0
@@ -690,7 +690,7 @@ Boyle,E104,Auditor of Public Accounts,,,Under Votes,6,1,3,2
 Boyle,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,E104,State Treasurer,,REP,Mark H. METCALF,64,18,42,4
 Boyle,E104,State Treasurer,,DEM,Michael BOWMAN,140,56,73,11
-Boyle,E104,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,E104,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,E104,State Treasurer,,,Total Votes,204,74,115,15
 Boyle,E104,State Treasurer,,,Under Votes,6,2,1,3
 Boyle,E104,State Treasurer,,,Over Votes,0,0,0,0
@@ -701,15 +701,15 @@ Boyle,E104,Commissioner of Agriculture,,,Under Votes,8,2,3,3
 Boyle,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,F101,STRAIGHT PARTY,,,Republican,65,8,57,0
 Boyle,F101,STRAIGHT PARTY,,,Democratic,98,38,52,8
-Boyle,F101,Governor,,REP,Daniel CAMERON,86,15,69,2
-Boyle,F101,Governor,,DEM,Andy BESHEAR,213,71,128,14
-Boyle,F101,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",86,15,69,2
+Boyle,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,213,71,128,14
+Boyle,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,F101,Governor,,,Total Votes,299,86,197,16
 Boyle,F101,Governor,,,Under Votes,0,0,0,0
 Boyle,F101,Governor,,,Over Votes,0,0,0,0
 Boyle,F101,Secretary of State,,REP,Michael ADAMS,132,26,101,5
 Boyle,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",161,59,91,11
-Boyle,F101,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,F101,Secretary of State,,,Total Votes,293,85,192,16
 Boyle,F101,Secretary of State,,,Under Votes,6,1,5,0
 Boyle,F101,Secretary of State,,,Over Votes,0,0,0,0
@@ -725,7 +725,7 @@ Boyle,F101,Auditor of Public Accounts,,,Under Votes,8,1,7,0
 Boyle,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,F101,State Treasurer,,REP,Mark H. METCALF,114,20,90,4
 Boyle,F101,State Treasurer,,DEM,Michael BOWMAN,176,65,99,12
-Boyle,F101,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,F101,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,F101,State Treasurer,,,Total Votes,290,85,189,16
 Boyle,F101,State Treasurer,,,Under Votes,9,1,8,0
 Boyle,F101,State Treasurer,,,Over Votes,0,0,0,0
@@ -736,15 +736,15 @@ Boyle,F101,Commissioner of Agriculture,,,Under Votes,11,2,9,0
 Boyle,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,F102,STRAIGHT PARTY,,,Republican,115,37,75,3
 Boyle,F102,STRAIGHT PARTY,,,Democratic,84,39,40,5
-Boyle,F102,Governor,,REP,Daniel CAMERON,185,61,119,5
-Boyle,F102,Governor,,DEM,Andy BESHEAR,242,97,129,16
-Boyle,F102,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",185,61,119,5
+Boyle,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,242,97,129,16
+Boyle,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,F102,Governor,,,Total Votes,427,158,248,21
 Boyle,F102,Governor,,,Under Votes,1,0,1,0
 Boyle,F102,Governor,,,Over Votes,0,0,0,0
 Boyle,F102,Secretary of State,,REP,Michael ADAMS,274,96,166,12
 Boyle,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",147,60,78,9
-Boyle,F102,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,F102,Secretary of State,,,Total Votes,421,156,244,21
 Boyle,F102,Secretary of State,,,Under Votes,7,2,5,0
 Boyle,F102,Secretary of State,,,Over Votes,0,0,0,0
@@ -760,7 +760,7 @@ Boyle,F102,Auditor of Public Accounts,,,Under Votes,12,2,9,1
 Boyle,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,F102,State Treasurer,,REP,Mark H. METCALF,248,88,154,6
 Boyle,F102,State Treasurer,,DEM,Michael BOWMAN,172,68,89,15
-Boyle,F102,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,F102,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,F102,State Treasurer,,,Total Votes,420,156,243,21
 Boyle,F102,State Treasurer,,,Under Votes,8,2,6,0
 Boyle,F102,State Treasurer,,,Over Votes,0,0,0,0
@@ -771,15 +771,15 @@ Boyle,F102,Commissioner of Agriculture,,,Under Votes,11,3,8,0
 Boyle,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,F103,STRAIGHT PARTY,,,Republican,140,41,84,15
 Boyle,F103,STRAIGHT PARTY,,,Democratic,94,33,50,11
-Boyle,F103,Governor,,REP,Daniel CAMERON,222,65,141,16
-Boyle,F103,Governor,,DEM,Andy BESHEAR,289,114,139,36
-Boyle,F103,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",222,65,141,16
+Boyle,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,289,114,139,36
+Boyle,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,F103,Governor,,,Total Votes,511,179,280,52
 Boyle,F103,Governor,,,Under Votes,5,2,3,0
 Boyle,F103,Governor,,,Over Votes,0,0,0,0
 Boyle,F103,Secretary of State,,REP,Michael ADAMS,333,111,193,29
 Boyle,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",171,67,83,21
-Boyle,F103,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,F103,Secretary of State,,,Total Votes,504,178,276,50
 Boyle,F103,Secretary of State,,,Under Votes,12,3,7,2
 Boyle,F103,Secretary of State,,,Over Votes,0,0,0,0
@@ -795,7 +795,7 @@ Boyle,F103,Auditor of Public Accounts,,,Under Votes,20,4,13,3
 Boyle,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,F103,State Treasurer,,REP,Mark H. METCALF,282,82,175,25
 Boyle,F103,State Treasurer,,DEM,Michael BOWMAN,212,92,96,24
-Boyle,F103,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,F103,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,F103,State Treasurer,,,Total Votes,494,174,271,49
 Boyle,F103,State Treasurer,,,Under Votes,22,7,12,3
 Boyle,F103,State Treasurer,,,Over Votes,0,0,0,0
@@ -806,15 +806,15 @@ Boyle,F103,Commissioner of Agriculture,,,Under Votes,15,4,8,3
 Boyle,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,F104,STRAIGHT PARTY,,,Republican,113,30,71,12
 Boyle,F104,STRAIGHT PARTY,,,Democratic,100,34,53,13
-Boyle,F104,Governor,,REP,Daniel CAMERON,166,50,102,14
-Boyle,F104,Governor,,DEM,Andy BESHEAR,251,97,136,18
-Boyle,F104,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,F104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",166,50,102,14
+Boyle,F104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,251,97,136,18
+Boyle,F104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,F104,Governor,,,Total Votes,417,147,238,32
 Boyle,F104,Governor,,,Under Votes,2,1,0,1
 Boyle,F104,Governor,,,Over Votes,0,0,0,0
 Boyle,F104,Secretary of State,,REP,Michael ADAMS,252,83,150,19
 Boyle,F104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",162,63,85,14
-Boyle,F104,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,F104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,F104,Secretary of State,,,Total Votes,414,146,235,33
 Boyle,F104,Secretary of State,,,Under Votes,4,1,3,0
 Boyle,F104,Secretary of State,,,Over Votes,1,1,0,0
@@ -830,7 +830,7 @@ Boyle,F104,Auditor of Public Accounts,,,Under Votes,8,2,6,0
 Boyle,F104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,F104,State Treasurer,,REP,Mark H. METCALF,218,66,135,17
 Boyle,F104,State Treasurer,,DEM,Michael BOWMAN,186,77,94,15
-Boyle,F104,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,F104,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,F104,State Treasurer,,,Total Votes,404,143,229,32
 Boyle,F104,State Treasurer,,,Under Votes,15,5,9,1
 Boyle,F104,State Treasurer,,,Over Votes,0,0,0,0
@@ -841,15 +841,15 @@ Boyle,F104,Commissioner of Agriculture,,,Under Votes,10,4,6,0
 Boyle,F104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
 Boyle,F105,STRAIGHT PARTY,,,Republican,77,23,53,1
 Boyle,F105,STRAIGHT PARTY,,,Democratic,80,33,43,4
-Boyle,F105,Governor,,REP,Daniel CAMERON,119,41,77,1
-Boyle,F105,Governor,,DEM,Andy BESHEAR,181,61,114,6
-Boyle,F105,Governor,,,FISHBACK (W),0,0,0,0
+Boyle,F105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,41,77,1
+Boyle,F105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,181,61,114,6
+Boyle,F105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
 Boyle,F105,Governor,,,Total Votes,300,102,191,7
 Boyle,F105,Governor,,,Under Votes,1,0,1,0
 Boyle,F105,Governor,,,Over Votes,0,0,0,0
 Boyle,F105,Secretary of State,,REP,Michael ADAMS,156,49,106,1
 Boyle,F105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",137,48,83,6
-Boyle,F105,Secretary of State,,,MOELLMAN (W),0,0,0,0
+Boyle,F105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
 Boyle,F105,Secretary of State,,,Total Votes,293,97,189,7
 Boyle,F105,Secretary of State,,,Under Votes,8,5,3,0
 Boyle,F105,Secretary of State,,,Over Votes,0,0,0,0
@@ -865,7 +865,7 @@ Boyle,F105,Auditor of Public Accounts,,,Under Votes,6,2,4,0
 Boyle,F105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
 Boyle,F105,State Treasurer,,REP,Mark H. METCALF,144,42,100,2
 Boyle,F105,State Treasurer,,DEM,Michael BOWMAN,150,57,88,5
-Boyle,F105,State Treasurer,,,PERRY (W),0,0,0,0
+Boyle,F105,State Treasurer,,,Robert Perry,0,0,0,0
 Boyle,F105,State Treasurer,,,Total Votes,294,99,188,7
 Boyle,F105,State Treasurer,,,Under Votes,7,3,4,0
 Boyle,F105,State Treasurer,,,Over Votes,0,0,0,0
