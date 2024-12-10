@@ -1,0 +1,961 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Knott,A101,STRAIGHT PARTY,,,Republican,58,18,36,4
+Knott,A101,STRAIGHT PARTY,,,Democratic,53,22,24,7
+Knott,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",102,29,64,9
+Knott,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,35,75,10
+Knott,A101,Governor,,,Write-In Totals,1,1,0,0
+Knott,A101,Governor,,,Not Assigned,1,1,0,0
+Knott,A101,Governor,,,Total Votes,225,67,139,19
+Knott,A101,Secretary of State,,REP,Michael ADAMS,135,36,90,9
+Knott,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,26,45,10
+Knott,A101,Secretary of State,,,Write-In Totals,1,1,0,0
+Knott,A101,Secretary of State,,,Not Assigned,1,1,0,0
+Knott,A101,Secretary of State,,,Total Votes,225,67,139,19
+Knott,A101,Attorney General,,REP,Russell COLEMAN,128,33,87,8
+Knott,A101,Attorney General,,DEM,Pamela STEVENSON,86,27,48,11
+Knott,A101,Attorney General,,,Write-In Totals,1,1,0,0
+Knott,A101,Attorney General,,,Not Assigned,1,1,0,0
+Knott,A101,Attorney General,,,Total Votes,225,67,139,19
+Knott,A101,Auditor of Public Accounts,,REP,Allison BALL,131,34,90,7
+Knott,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,26,44,12
+Knott,A101,Auditor of Public Accounts,,,Write-In Totals,1,1,0,0
+Knott,A101,Auditor of Public Accounts,,,Not Assigned,1,1,0,0
+Knott,A101,Auditor of Public Accounts,,,Total Votes,225,67,139,19
+Knott,A101,State Treasurer,,REP,Mark H. METCALF,115,31,78,6
+Knott,A101,State Treasurer,,DEM,Michael BOWMAN,98,29,56,13
+Knott,A101,State Treasurer,,,Write-In Totals,1,1,0,0
+Knott,A101,State Treasurer,,,Not Assigned,1,1,0,0
+Knott,A101,State Treasurer,,,Total Votes,225,67,139,19
+Knott,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,126,35,85,6
+Knott,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,87,26,50,11
+Knott,A101,Commissioner of Agriculture,,,Write-In Totals,1,1,0,0
+Knott,A101,Commissioner of Agriculture,,,Not Assigned,1,1,0,0
+Knott,A101,Commissioner of Agriculture,,,Total Votes,225,67,139,19
+Knott,A103,STRAIGHT PARTY,,,Republican,38,3,33,2
+Knott,A103,STRAIGHT PARTY,,,Democratic,37,2,28,7
+Knott,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",61,5,54,2
+Knott,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,3,67,10
+Knott,A103,Governor,,,Write-In Totals,0,0,0,0
+Knott,A103,Governor,,,Not Assigned,0,0,0,0
+Knott,A103,Governor,,,Total Votes,142,8,122,12
+Knott,A103,Secretary of State,,REP,Michael ADAMS,79,5,71,3
+Knott,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,3,42,9
+Knott,A103,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,A103,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,A103,Secretary of State,,,Total Votes,142,8,122,12
+Knott,A103,Attorney General,,REP,Russell COLEMAN,72,5,64,3
+Knott,A103,Attorney General,,DEM,Pamela STEVENSON,61,3,49,9
+Knott,A103,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,A103,Attorney General,,,Not Assigned,0,0,0,0
+Knott,A103,Attorney General,,,Total Votes,142,8,122,12
+Knott,A103,Auditor of Public Accounts,,REP,Allison BALL,79,4,72,3
+Knott,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,4,41,9
+Knott,A103,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,A103,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,A103,Auditor of Public Accounts,,,Total Votes,142,8,122,12
+Knott,A103,State Treasurer,,REP,Mark H. METCALF,70,4,63,3
+Knott,A103,State Treasurer,,DEM,Michael BOWMAN,63,4,50,9
+Knott,A103,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,A103,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,A103,State Treasurer,,,Total Votes,142,8,122,12
+Knott,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,80,4,73,3
+Knott,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,54,4,41,9
+Knott,A103,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,A103,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,A103,Commissioner of Agriculture,,,Total Votes,142,8,122,12
+Knott,A104,STRAIGHT PARTY,,,Republican,97,16,78,3
+Knott,A104,STRAIGHT PARTY,,,Democratic,47,12,29,6
+Knott,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",170,39,126,5
+Knott,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,159,31,118,10
+Knott,A104,Governor,,,Write-In Totals,0,0,0,0
+Knott,A104,Governor,,,Not Assigned,0,0,0,0
+Knott,A104,Governor,,,Total Votes,333,70,248,15
+Knott,A104,Secretary of State,,REP,Michael ADAMS,221,45,170,6
+Knott,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",95,20,66,9
+Knott,A104,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,A104,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,A104,Secretary of State,,,Total Votes,333,70,248,15
+Knott,A104,Attorney General,,REP,Russell COLEMAN,219,44,169,6
+Knott,A104,Attorney General,,DEM,Pamela STEVENSON,101,22,70,9
+Knott,A104,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,A104,Attorney General,,,Not Assigned,0,0,0,0
+Knott,A104,Attorney General,,,Total Votes,333,70,248,15
+Knott,A104,Auditor of Public Accounts,,REP,Allison BALL,223,47,171,5
+Knott,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",92,18,64,10
+Knott,A104,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,A104,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,A104,Auditor of Public Accounts,,,Total Votes,333,70,248,15
+Knott,A104,State Treasurer,,REP,Mark H. METCALF,210,42,162,6
+Knott,A104,State Treasurer,,DEM,Michael BOWMAN,107,25,73,9
+Knott,A104,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,A104,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,A104,State Treasurer,,,Total Votes,333,70,248,15
+Knott,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,223,41,176,6
+Knott,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,91,23,59,9
+Knott,A104,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,A104,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,A104,Commissioner of Agriculture,,,Total Votes,333,70,248,15
+Knott,A105,STRAIGHT PARTY,,,Republican,38,1,37,0
+Knott,A105,STRAIGHT PARTY,,,Democratic,26,2,24,0
+Knott,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",58,1,56,1
+Knott,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,69,4,64,1
+Knott,A105,Governor,,,Write-In Totals,0,0,0,0
+Knott,A105,Governor,,,Not Assigned,0,0,0,0
+Knott,A105,Governor,,,Total Votes,132,5,125,2
+Knott,A105,Secretary of State,,REP,Michael ADAMS,74,2,71,1
+Knott,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",50,3,46,1
+Knott,A105,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,A105,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,A105,Secretary of State,,,Total Votes,132,5,125,2
+Knott,A105,Attorney General,,REP,Russell COLEMAN,71,3,68,0
+Knott,A105,Attorney General,,DEM,Pamela STEVENSON,53,2,49,2
+Knott,A105,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,A105,Attorney General,,,Not Assigned,0,0,0,0
+Knott,A105,Attorney General,,,Total Votes,132,5,125,2
+Knott,A105,Auditor of Public Accounts,,REP,Allison BALL,75,1,73,1
+Knott,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",48,3,44,1
+Knott,A105,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,A105,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,A105,Auditor of Public Accounts,,,Total Votes,132,5,125,2
+Knott,A105,State Treasurer,,REP,Mark H. METCALF,73,2,70,1
+Knott,A105,State Treasurer,,DEM,Michael BOWMAN,51,3,47,1
+Knott,A105,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,A105,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,A105,State Treasurer,,,Total Votes,132,5,125,2
+Knott,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,78,1,76,1
+Knott,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,4,42,1
+Knott,A105,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,A105,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,A105,Commissioner of Agriculture,,,Total Votes,132,5,125,2
+Knott,A106,STRAIGHT PARTY,,,Republican,27,12,15,0
+Knott,A106,STRAIGHT PARTY,,,Democratic,20,0,17,3
+Knott,A106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",40,14,26,0
+Knott,A106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,49,6,36,7
+Knott,A106,Governor,,,Write-In Totals,1,0,0,1
+Knott,A106,Governor,,,Not Assigned,1,0,0,1
+Knott,A106,Governor,,,Total Votes,93,20,65,8
+Knott,A106,Secretary of State,,REP,Michael ADAMS,56,17,38,1
+Knott,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,3,21,7
+Knott,A106,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,A106,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,A106,Secretary of State,,,Total Votes,93,20,65,8
+Knott,A106,Attorney General,,REP,Russell COLEMAN,51,15,36,0
+Knott,A106,Attorney General,,DEM,Pamela STEVENSON,36,4,24,8
+Knott,A106,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,A106,Attorney General,,,Not Assigned,0,0,0,0
+Knott,A106,Attorney General,,,Total Votes,93,20,65,8
+Knott,A106,Auditor of Public Accounts,,REP,Allison BALL,57,16,41,0
+Knott,A106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",32,4,20,8
+Knott,A106,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,A106,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,A106,Auditor of Public Accounts,,,Total Votes,93,20,65,8
+Knott,A106,State Treasurer,,REP,Mark H. METCALF,47,15,32,0
+Knott,A106,State Treasurer,,DEM,Michael BOWMAN,39,4,27,8
+Knott,A106,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,A106,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,A106,State Treasurer,,,Total Votes,93,20,65,8
+Knott,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,55,15,40,0
+Knott,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,4,21,8
+Knott,A106,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,A106,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,A106,Commissioner of Agriculture,,,Total Votes,93,20,65,8
+Knott,A108,STRAIGHT PARTY,,,Republican,22,7,15,0
+Knott,A108,STRAIGHT PARTY,,,Democratic,12,2,5,5
+Knott,A108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",34,10,24,0
+Knott,A108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,52,12,31,9
+Knott,A108,Governor,,,Write-In Totals,0,0,0,0
+Knott,A108,Governor,,,Not Assigned,0,0,0,0
+Knott,A108,Governor,,,Total Votes,88,22,57,9
+Knott,A108,Secretary of State,,REP,Michael ADAMS,53,15,36,2
+Knott,A108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,7,15,7
+Knott,A108,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,A108,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,A108,Secretary of State,,,Total Votes,88,22,57,9
+Knott,A108,Attorney General,,REP,Russell COLEMAN,53,14,39,0
+Knott,A108,Attorney General,,DEM,Pamela STEVENSON,30,8,13,9
+Knott,A108,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,A108,Attorney General,,,Not Assigned,0,0,0,0
+Knott,A108,Attorney General,,,Total Votes,88,22,57,9
+Knott,A108,Auditor of Public Accounts,,REP,Allison BALL,54,17,37,0
+Knott,A108,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",27,5,14,8
+Knott,A108,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,A108,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,A108,Auditor of Public Accounts,,,Total Votes,88,22,57,9
+Knott,A108,State Treasurer,,REP,Mark H. METCALF,49,13,36,0
+Knott,A108,State Treasurer,,DEM,Michael BOWMAN,32,9,15,8
+Knott,A108,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,A108,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,A108,State Treasurer,,,Total Votes,88,22,57,9
+Knott,A108,Commissioner of Agriculture,,REP,Jonathan SHELL,54,15,39,0
+Knott,A108,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,7,12,8
+Knott,A108,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,A108,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,A108,Commissioner of Agriculture,,,Total Votes,88,22,57,9
+Knott,B101,STRAIGHT PARTY,,,Republican,64,13,44,7
+Knott,B101,STRAIGHT PARTY,,,Democratic,31,5,24,2
+Knott,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",113,19,85,9
+Knott,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,17,71,7
+Knott,B101,Governor,,,Write-In Totals,0,0,0,0
+Knott,B101,Governor,,,Not Assigned,0,0,0,0
+Knott,B101,Governor,,,Total Votes,208,36,156,16
+Knott,B101,Secretary of State,,REP,Michael ADAMS,140,25,104,11
+Knott,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,8,39,4
+Knott,B101,Secretary of State,,,Write-In Totals,2,0,2,0
+Knott,B101,Secretary of State,,,Not Assigned,2,0,2,0
+Knott,B101,Secretary of State,,,Total Votes,208,36,156,16
+Knott,B101,Attorney General,,REP,Russell COLEMAN,132,21,102,9
+Knott,B101,Attorney General,,DEM,Pamela STEVENSON,61,12,43,6
+Knott,B101,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B101,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B101,Attorney General,,,Total Votes,208,36,156,16
+Knott,B101,Auditor of Public Accounts,,REP,Allison BALL,139,24,106,9
+Knott,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",55,10,39,6
+Knott,B101,Auditor of Public Accounts,,,Write-In Totals,1,1,0,0
+Knott,B101,Auditor of Public Accounts,,,Not Assigned,1,1,0,0
+Knott,B101,Auditor of Public Accounts,,,Total Votes,208,36,156,16
+Knott,B101,State Treasurer,,REP,Mark H. METCALF,129,22,98,9
+Knott,B101,State Treasurer,,DEM,Michael BOWMAN,62,10,46,6
+Knott,B101,State Treasurer,,,Write-In Totals,2,1,1,0
+Knott,B101,State Treasurer,,,Not Assigned,2,1,1,0
+Knott,B101,State Treasurer,,,Total Votes,208,36,156,16
+Knott,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,135,24,102,9
+Knott,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,9,42,6
+Knott,B101,Commissioner of Agriculture,,,Write-In Totals,1,1,0,0
+Knott,B101,Commissioner of Agriculture,,,Not Assigned,1,1,0,0
+Knott,B101,Commissioner of Agriculture,,,Total Votes,208,36,156,16
+Knott,B102,STRAIGHT PARTY,,,Republican,49,7,41,1
+Knott,B102,STRAIGHT PARTY,,,Democratic,38,5,27,6
+Knott,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",69,9,58,2
+Knott,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,90,10,64,16
+Knott,B102,Governor,,,Write-In Totals,1,0,0,1
+Knott,B102,Governor,,,Not Assigned,1,0,0,1
+Knott,B102,Governor,,,Total Votes,160,19,122,19
+Knott,B102,Secretary of State,,REP,Michael ADAMS,93,11,76,6
+Knott,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",61,7,42,12
+Knott,B102,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B102,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B102,Secretary of State,,,Total Votes,160,19,122,19
+Knott,B102,Attorney General,,REP,Russell COLEMAN,84,11,68,5
+Knott,B102,Attorney General,,DEM,Pamela STEVENSON,68,7,48,13
+Knott,B102,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B102,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B102,Attorney General,,,Total Votes,160,19,122,19
+Knott,B102,Auditor of Public Accounts,,REP,Allison BALL,91,10,74,7
+Knott,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",59,8,40,11
+Knott,B102,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B102,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B102,Auditor of Public Accounts,,,Total Votes,160,19,122,19
+Knott,B102,State Treasurer,,REP,Mark H. METCALF,79,9,66,4
+Knott,B102,State Treasurer,,DEM,Michael BOWMAN,71,8,49,14
+Knott,B102,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B102,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B102,State Treasurer,,,Total Votes,160,19,122,19
+Knott,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,87,11,69,7
+Knott,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,65,8,46,11
+Knott,B102,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B102,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B102,Commissioner of Agriculture,,,Total Votes,160,19,122,19
+Knott,B103,STRAIGHT PARTY,,,Republican,29,3,26,0
+Knott,B103,STRAIGHT PARTY,,,Democratic,23,4,14,5
+Knott,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",43,4,39,0
+Knott,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,54,9,33,12
+Knott,B103,Governor,,,Write-In Totals,0,0,0,0
+Knott,B103,Governor,,,Not Assigned,0,0,0,0
+Knott,B103,Governor,,,Total Votes,98,13,73,12
+Knott,B103,Secretary of State,,REP,Michael ADAMS,57,4,51,2
+Knott,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",37,7,20,10
+Knott,B103,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B103,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B103,Secretary of State,,,Total Votes,98,13,73,12
+Knott,B103,Attorney General,,REP,Russell COLEMAN,51,5,45,1
+Knott,B103,Attorney General,,DEM,Pamela STEVENSON,42,6,25,11
+Knott,B103,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B103,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B103,Attorney General,,,Total Votes,98,13,73,12
+Knott,B103,Auditor of Public Accounts,,REP,Allison BALL,66,8,55,3
+Knott,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",30,5,16,9
+Knott,B103,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B103,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B103,Auditor of Public Accounts,,,Total Votes,98,13,73,12
+Knott,B103,State Treasurer,,REP,Mark H. METCALF,50,4,44,2
+Knott,B103,State Treasurer,,DEM,Michael BOWMAN,43,7,26,10
+Knott,B103,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B103,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B103,State Treasurer,,,Total Votes,98,13,73,12
+Knott,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,62,5,53,4
+Knott,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,6,17,8
+Knott,B103,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B103,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B103,Commissioner of Agriculture,,,Total Votes,98,13,73,12
+Knott,B104,STRAIGHT PARTY,,,Republican,19,1,18,0
+Knott,B104,STRAIGHT PARTY,,,Democratic,8,0,4,4
+Knott,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",36,5,30,1
+Knott,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,49,12,27,10
+Knott,B104,Governor,,,Write-In Totals,0,0,0,0
+Knott,B104,Governor,,,Not Assigned,0,0,0,0
+Knott,B104,Governor,,,Total Votes,86,17,58,11
+Knott,B104,Secretary of State,,REP,Michael ADAMS,58,13,41,4
+Knott,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",25,3,15,7
+Knott,B104,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B104,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B104,Secretary of State,,,Total Votes,86,17,58,11
+Knott,B104,Attorney General,,REP,Russell COLEMAN,57,15,39,3
+Knott,B104,Attorney General,,DEM,Pamela STEVENSON,27,2,17,8
+Knott,B104,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B104,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B104,Attorney General,,,Total Votes,86,17,58,11
+Knott,B104,Auditor of Public Accounts,,REP,Allison BALL,58,14,42,2
+Knott,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",24,3,12,9
+Knott,B104,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B104,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B104,Auditor of Public Accounts,,,Total Votes,86,17,58,11
+Knott,B104,State Treasurer,,REP,Mark H. METCALF,55,15,38,2
+Knott,B104,State Treasurer,,DEM,Michael BOWMAN,26,2,15,9
+Knott,B104,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B104,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B104,State Treasurer,,,Total Votes,86,17,58,11
+Knott,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,64,15,44,5
+Knott,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,1,11,5
+Knott,B104,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B104,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B104,Commissioner of Agriculture,,,Total Votes,86,17,58,11
+Knott,B105,STRAIGHT PARTY,,,Republican,29,7,21,1
+Knott,B105,STRAIGHT PARTY,,,Democratic,16,5,10,1
+Knott,B105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",35,7,27,1
+Knott,B105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,46,15,30,1
+Knott,B105,Governor,,,Write-In Totals,0,0,0,0
+Knott,B105,Governor,,,Not Assigned,0,0,0,0
+Knott,B105,Governor,,,Total Votes,81,22,57,2
+Knott,B105,Secretary of State,,REP,Michael ADAMS,53,13,39,1
+Knott,B105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",28,9,18,1
+Knott,B105,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B105,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B105,Secretary of State,,,Total Votes,81,22,57,2
+Knott,B105,Attorney General,,REP,Russell COLEMAN,47,9,37,1
+Knott,B105,Attorney General,,DEM,Pamela STEVENSON,32,13,18,1
+Knott,B105,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B105,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B105,Attorney General,,,Total Votes,81,22,57,2
+Knott,B105,Auditor of Public Accounts,,REP,Allison BALL,55,14,40,1
+Knott,B105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",25,8,16,1
+Knott,B105,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B105,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B105,Auditor of Public Accounts,,,Total Votes,81,22,57,2
+Knott,B105,State Treasurer,,REP,Mark H. METCALF,46,10,35,1
+Knott,B105,State Treasurer,,DEM,Michael BOWMAN,34,12,21,1
+Knott,B105,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B105,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B105,State Treasurer,,,Total Votes,81,22,57,2
+Knott,B105,Commissioner of Agriculture,,REP,Jonathan SHELL,55,13,41,1
+Knott,B105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,9,15,1
+Knott,B105,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B105,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B105,Commissioner of Agriculture,,,Total Votes,81,22,57,2
+Knott,B106,STRAIGHT PARTY,,,Republican,16,3,11,2
+Knott,B106,STRAIGHT PARTY,,,Democratic,7,0,7,0
+Knott,B106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",25,3,19,3
+Knott,B106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,18,0,17,1
+Knott,B106,Governor,,,Write-In Totals,0,0,0,0
+Knott,B106,Governor,,,Not Assigned,0,0,0,0
+Knott,B106,Governor,,,Total Votes,44,3,37,4
+Knott,B106,Secretary of State,,REP,Michael ADAMS,31,3,24,4
+Knott,B106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",9,0,9,0
+Knott,B106,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B106,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B106,Secretary of State,,,Total Votes,44,3,37,4
+Knott,B106,Attorney General,,REP,Russell COLEMAN,32,3,25,4
+Knott,B106,Attorney General,,DEM,Pamela STEVENSON,9,0,9,0
+Knott,B106,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B106,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B106,Attorney General,,,Total Votes,44,3,37,4
+Knott,B106,Auditor of Public Accounts,,REP,Allison BALL,31,3,24,4
+Knott,B106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",10,0,10,0
+Knott,B106,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B106,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B106,Auditor of Public Accounts,,,Total Votes,44,3,37,4
+Knott,B106,State Treasurer,,REP,Mark H. METCALF,31,3,24,4
+Knott,B106,State Treasurer,,DEM,Michael BOWMAN,8,0,8,0
+Knott,B106,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B106,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B106,State Treasurer,,,Total Votes,44,3,37,4
+Knott,B106,Commissioner of Agriculture,,REP,Jonathan SHELL,30,3,23,4
+Knott,B106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,0,11,0
+Knott,B106,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B106,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B106,Commissioner of Agriculture,,,Total Votes,44,3,37,4
+Knott,B107,STRAIGHT PARTY,,,Republican,50,8,42,0
+Knott,B107,STRAIGHT PARTY,,,Democratic,37,12,21,4
+Knott,B107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",94,14,80,0
+Knott,B107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,82,22,54,6
+Knott,B107,Governor,,,Write-In Totals,1,0,0,1
+Knott,B107,Governor,,,Not Assigned,1,0,0,1
+Knott,B107,Governor,,,Total Votes,179,36,136,7
+Knott,B107,Secretary of State,,REP,Michael ADAMS,100,15,85,0
+Knott,B107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",71,21,44,6
+Knott,B107,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,B107,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,B107,Secretary of State,,,Total Votes,179,36,136,7
+Knott,B107,Attorney General,,REP,Russell COLEMAN,103,15,88,0
+Knott,B107,Attorney General,,DEM,Pamela STEVENSON,66,19,41,6
+Knott,B107,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,B107,Attorney General,,,Not Assigned,0,0,0,0
+Knott,B107,Attorney General,,,Total Votes,179,36,136,7
+Knott,B107,Auditor of Public Accounts,,REP,Allison BALL,105,15,89,1
+Knott,B107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",66,21,40,5
+Knott,B107,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,B107,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,B107,Auditor of Public Accounts,,,Total Votes,179,36,136,7
+Knott,B107,State Treasurer,,REP,Mark H. METCALF,96,15,81,0
+Knott,B107,State Treasurer,,DEM,Michael BOWMAN,71,20,45,6
+Knott,B107,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,B107,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,B107,State Treasurer,,,Total Votes,179,36,136,7
+Knott,B107,Commissioner of Agriculture,,REP,Jonathan SHELL,107,15,92,0
+Knott,B107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,64,21,37,6
+Knott,B107,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,B107,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,B107,Commissioner of Agriculture,,,Total Votes,179,36,136,7
+Knott,C101,STRAIGHT PARTY,,,Republican,32,8,24,0
+Knott,C101,STRAIGHT PARTY,,,Democratic,16,5,8,3
+Knott,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",52,13,39,0
+Knott,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,47,15,25,7
+Knott,C101,Governor,,,Write-In Totals,0,0,0,0
+Knott,C101,Governor,,,Not Assigned,0,0,0,0
+Knott,C101,Governor,,,Total Votes,100,29,64,7
+Knott,C101,Secretary of State,,REP,Michael ADAMS,61,18,42,1
+Knott,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,8,20,5
+Knott,C101,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C101,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C101,Secretary of State,,,Total Votes,100,29,64,7
+Knott,C101,Attorney General,,REP,Russell COLEMAN,58,19,39,0
+Knott,C101,Attorney General,,DEM,Pamela STEVENSON,34,7,21,6
+Knott,C101,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C101,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C101,Attorney General,,,Total Votes,100,29,64,7
+Knott,C101,Auditor of Public Accounts,,REP,Allison BALL,56,16,39,1
+Knott,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",36,9,22,5
+Knott,C101,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C101,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C101,Auditor of Public Accounts,,,Total Votes,100,29,64,7
+Knott,C101,State Treasurer,,REP,Mark H. METCALF,52,15,37,0
+Knott,C101,State Treasurer,,DEM,Michael BOWMAN,40,11,23,6
+Knott,C101,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C101,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C101,State Treasurer,,,Total Votes,100,29,64,7
+Knott,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,57,16,41,0
+Knott,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,9,19,6
+Knott,C101,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C101,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C101,Commissioner of Agriculture,,,Total Votes,100,29,64,7
+Knott,C102,STRAIGHT PARTY,,,Republican,82,19,63,0
+Knott,C102,STRAIGHT PARTY,,,Democratic,43,15,27,1
+Knott,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",118,24,94,0
+Knott,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,101,25,68,8
+Knott,C102,Governor,,,Write-In Totals,0,0,0,0
+Knott,C102,Governor,,,Not Assigned,0,0,0,0
+Knott,C102,Governor,,,Total Votes,220,49,163,8
+Knott,C102,Secretary of State,,REP,Michael ADAMS,139,26,111,2
+Knott,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",69,21,44,4
+Knott,C102,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C102,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C102,Secretary of State,,,Total Votes,220,49,163,8
+Knott,C102,Attorney General,,REP,Russell COLEMAN,136,26,108,2
+Knott,C102,Attorney General,,DEM,Pamela STEVENSON,75,21,49,5
+Knott,C102,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C102,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C102,Attorney General,,,Total Votes,220,49,163,8
+Knott,C102,Auditor of Public Accounts,,REP,Allison BALL,139,26,111,2
+Knott,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",65,19,42,4
+Knott,C102,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C102,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C102,Auditor of Public Accounts,,,Total Votes,220,49,163,8
+Knott,C102,State Treasurer,,REP,Mark H. METCALF,129,24,105,0
+Knott,C102,State Treasurer,,DEM,Michael BOWMAN,75,22,47,6
+Knott,C102,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C102,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C102,State Treasurer,,,Total Votes,220,49,163,8
+Knott,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,135,24,111,0
+Knott,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,22,43,6
+Knott,C102,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C102,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C102,Commissioner of Agriculture,,,Total Votes,220,49,163,8
+Knott,C103,STRAIGHT PARTY,,,Republican,2,0,2,0
+Knott,C103,STRAIGHT PARTY,,,Democratic,5,2,3,0
+Knott,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",5,1,4,0
+Knott,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,13,2,11,0
+Knott,C103,Governor,,,Write-In Totals,0,0,0,0
+Knott,C103,Governor,,,Not Assigned,0,0,0,0
+Knott,C103,Governor,,,Total Votes,18,3,15,0
+Knott,C103,Secretary of State,,REP,Michael ADAMS,4,1,3,0
+Knott,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",11,2,9,0
+Knott,C103,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C103,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C103,Secretary of State,,,Total Votes,18,3,15,0
+Knott,C103,Attorney General,,REP,Russell COLEMAN,3,1,2,0
+Knott,C103,Attorney General,,DEM,Pamela STEVENSON,12,2,10,0
+Knott,C103,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C103,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C103,Attorney General,,,Total Votes,18,3,15,0
+Knott,C103,Auditor of Public Accounts,,REP,Allison BALL,4,1,3,0
+Knott,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",11,2,9,0
+Knott,C103,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C103,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C103,Auditor of Public Accounts,,,Total Votes,18,3,15,0
+Knott,C103,State Treasurer,,REP,Mark H. METCALF,3,1,2,0
+Knott,C103,State Treasurer,,DEM,Michael BOWMAN,12,2,10,0
+Knott,C103,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C103,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C103,State Treasurer,,,Total Votes,18,3,15,0
+Knott,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,4,1,3,0
+Knott,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Knott,C103,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C103,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C103,Commissioner of Agriculture,,,Total Votes,18,3,15,0
+Knott,C104,STRAIGHT PARTY,,,Republican,8,1,7,0
+Knott,C104,STRAIGHT PARTY,,,Democratic,6,2,4,0
+Knott,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",10,1,9,0
+Knott,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,14,3,11,0
+Knott,C104,Governor,,,Write-In Totals,0,0,0,0
+Knott,C104,Governor,,,Not Assigned,0,0,0,0
+Knott,C104,Governor,,,Total Votes,24,4,20,0
+Knott,C104,Secretary of State,,REP,Michael ADAMS,14,1,13,0
+Knott,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",9,3,6,0
+Knott,C104,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C104,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C104,Secretary of State,,,Total Votes,24,4,20,0
+Knott,C104,Attorney General,,REP,Russell COLEMAN,14,2,12,0
+Knott,C104,Attorney General,,DEM,Pamela STEVENSON,9,2,7,0
+Knott,C104,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C104,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C104,Attorney General,,,Total Votes,24,4,20,0
+Knott,C104,Auditor of Public Accounts,,REP,Allison BALL,14,1,13,0
+Knott,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",8,3,5,0
+Knott,C104,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C104,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C104,Auditor of Public Accounts,,,Total Votes,24,4,20,0
+Knott,C104,State Treasurer,,REP,Mark H. METCALF,12,1,11,0
+Knott,C104,State Treasurer,,DEM,Michael BOWMAN,9,3,6,0
+Knott,C104,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C104,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C104,State Treasurer,,,Total Votes,24,4,20,0
+Knott,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,12,1,11,0
+Knott,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,3,9,0
+Knott,C104,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C104,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C104,Commissioner of Agriculture,,,Total Votes,24,4,20,0
+Knott,C105,STRAIGHT PARTY,,,Republican,23,7,16,0
+Knott,C105,STRAIGHT PARTY,,,Democratic,1,0,0,1
+Knott,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",37,11,26,0
+Knott,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,17,0,16,1
+Knott,C105,Governor,,,Write-In Totals,0,0,0,0
+Knott,C105,Governor,,,Not Assigned,0,0,0,0
+Knott,C105,Governor,,,Total Votes,54,11,42,1
+Knott,C105,Secretary of State,,REP,Michael ADAMS,46,11,35,0
+Knott,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",8,0,7,1
+Knott,C105,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C105,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C105,Secretary of State,,,Total Votes,54,11,42,1
+Knott,C105,Attorney General,,REP,Russell COLEMAN,45,10,35,0
+Knott,C105,Attorney General,,DEM,Pamela STEVENSON,9,1,7,1
+Knott,C105,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C105,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C105,Attorney General,,,Total Votes,54,11,42,1
+Knott,C105,Auditor of Public Accounts,,REP,Allison BALL,46,11,35,0
+Knott,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",7,0,6,1
+Knott,C105,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C105,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C105,Auditor of Public Accounts,,,Total Votes,54,11,42,1
+Knott,C105,State Treasurer,,REP,Mark H. METCALF,44,11,33,0
+Knott,C105,State Treasurer,,DEM,Michael BOWMAN,10,0,9,1
+Knott,C105,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C105,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C105,State Treasurer,,,Total Votes,54,11,42,1
+Knott,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,45,11,34,0
+Knott,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,0,8,1
+Knott,C105,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C105,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C105,Commissioner of Agriculture,,,Total Votes,54,11,42,1
+Knott,C106,STRAIGHT PARTY,,,Republican,6,0,6,0
+Knott,C106,STRAIGHT PARTY,,,Democratic,1,0,1,0
+Knott,C106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",13,0,13,0
+Knott,C106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,7,0,7,0
+Knott,C106,Governor,,,Write-In Totals,0,0,0,0
+Knott,C106,Governor,,,Not Assigned,0,0,0,0
+Knott,C106,Governor,,,Total Votes,21,0,21,0
+Knott,C106,Secretary of State,,REP,Michael ADAMS,17,0,17,0
+Knott,C106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",3,0,3,0
+Knott,C106,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C106,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C106,Secretary of State,,,Total Votes,21,0,21,0
+Knott,C106,Attorney General,,REP,Russell COLEMAN,17,0,17,0
+Knott,C106,Attorney General,,DEM,Pamela STEVENSON,4,0,4,0
+Knott,C106,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C106,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C106,Attorney General,,,Total Votes,21,0,21,0
+Knott,C106,Auditor of Public Accounts,,REP,Allison BALL,18,0,18,0
+Knott,C106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",2,0,2,0
+Knott,C106,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C106,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C106,Auditor of Public Accounts,,,Total Votes,21,0,21,0
+Knott,C106,State Treasurer,,REP,Mark H. METCALF,16,0,16,0
+Knott,C106,State Treasurer,,DEM,Michael BOWMAN,5,0,5,0
+Knott,C106,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C106,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C106,State Treasurer,,,Total Votes,21,0,21,0
+Knott,C106,Commissioner of Agriculture,,REP,Jonathan SHELL,17,0,17,0
+Knott,C106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,4,0
+Knott,C106,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C106,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C106,Commissioner of Agriculture,,,Total Votes,21,0,21,0
+Knott,C107,STRAIGHT PARTY,,,Republican,23,5,18,0
+Knott,C107,STRAIGHT PARTY,,,Democratic,13,3,10,0
+Knott,C107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",34,9,24,1
+Knott,C107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,39,13,26,0
+Knott,C107,Governor,,,Write-In Totals,0,0,0,0
+Knott,C107,Governor,,,Not Assigned,0,0,0,0
+Knott,C107,Governor,,,Total Votes,75,22,51,2
+Knott,C107,Secretary of State,,REP,Michael ADAMS,47,14,31,2
+Knott,C107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",23,7,16,0
+Knott,C107,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C107,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C107,Secretary of State,,,Total Votes,75,22,51,2
+Knott,C107,Attorney General,,REP,Russell COLEMAN,46,13,31,2
+Knott,C107,Attorney General,,DEM,Pamela STEVENSON,25,7,18,0
+Knott,C107,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C107,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C107,Attorney General,,,Total Votes,75,22,51,2
+Knott,C107,Auditor of Public Accounts,,REP,Allison BALL,52,17,33,2
+Knott,C107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",21,5,16,0
+Knott,C107,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C107,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C107,Auditor of Public Accounts,,,Total Votes,75,22,51,2
+Knott,C107,State Treasurer,,REP,Mark H. METCALF,44,12,30,2
+Knott,C107,State Treasurer,,DEM,Michael BOWMAN,26,8,18,0
+Knott,C107,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C107,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C107,State Treasurer,,,Total Votes,75,22,51,2
+Knott,C107,Commissioner of Agriculture,,REP,Jonathan SHELL,44,12,30,2
+Knott,C107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,9,18,0
+Knott,C107,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C107,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C107,Commissioner of Agriculture,,,Total Votes,75,22,51,2
+Knott,C108,STRAIGHT PARTY,,,Republican,24,12,9,3
+Knott,C108,STRAIGHT PARTY,,,Democratic,34,13,17,4
+Knott,C108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",45,21,21,3
+Knott,C108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,68,23,39,6
+Knott,C108,Governor,,,Write-In Totals,0,0,0,0
+Knott,C108,Governor,,,Not Assigned,0,0,0,0
+Knott,C108,Governor,,,Total Votes,113,44,60,9
+Knott,C108,Secretary of State,,REP,Michael ADAMS,59,25,30,4
+Knott,C108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",49,19,26,4
+Knott,C108,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C108,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C108,Secretary of State,,,Total Votes,113,44,60,9
+Knott,C108,Attorney General,,REP,Russell COLEMAN,54,22,29,3
+Knott,C108,Attorney General,,DEM,Pamela STEVENSON,53,20,28,5
+Knott,C108,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C108,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C108,Attorney General,,,Total Votes,113,44,60,9
+Knott,C108,Auditor of Public Accounts,,REP,Allison BALL,57,24,29,4
+Knott,C108,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",50,19,27,4
+Knott,C108,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C108,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C108,Auditor of Public Accounts,,,Total Votes,113,44,60,9
+Knott,C108,State Treasurer,,REP,Mark H. METCALF,48,21,24,3
+Knott,C108,State Treasurer,,DEM,Michael BOWMAN,57,21,31,5
+Knott,C108,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C108,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C108,State Treasurer,,,Total Votes,113,44,60,9
+Knott,C108,Commissioner of Agriculture,,REP,Jonathan SHELL,57,23,31,3
+Knott,C108,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,50,19,26,5
+Knott,C108,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C108,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C108,Commissioner of Agriculture,,,Total Votes,113,44,60,9
+Knott,C109,STRAIGHT PARTY,,,Republican,25,1,24,0
+Knott,C109,STRAIGHT PARTY,,,Democratic,15,0,12,3
+Knott,C109,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",33,3,30,0
+Knott,C109,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,30,0,25,5
+Knott,C109,Governor,,,Write-In Totals,0,0,0,0
+Knott,C109,Governor,,,Not Assigned,0,0,0,0
+Knott,C109,Governor,,,Total Votes,63,3,55,5
+Knott,C109,Secretary of State,,REP,Michael ADAMS,38,3,35,0
+Knott,C109,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",23,0,18,5
+Knott,C109,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C109,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C109,Secretary of State,,,Total Votes,63,3,55,5
+Knott,C109,Attorney General,,REP,Russell COLEMAN,39,3,36,0
+Knott,C109,Attorney General,,DEM,Pamela STEVENSON,23,0,18,5
+Knott,C109,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C109,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C109,Attorney General,,,Total Votes,63,3,55,5
+Knott,C109,Auditor of Public Accounts,,REP,Allison BALL,39,3,36,0
+Knott,C109,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",23,0,18,5
+Knott,C109,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C109,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C109,Auditor of Public Accounts,,,Total Votes,63,3,55,5
+Knott,C109,State Treasurer,,REP,Mark H. METCALF,36,3,33,0
+Knott,C109,State Treasurer,,DEM,Michael BOWMAN,24,0,19,5
+Knott,C109,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C109,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C109,State Treasurer,,,Total Votes,63,3,55,5
+Knott,C109,Commissioner of Agriculture,,REP,Jonathan SHELL,38,2,36,0
+Knott,C109,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,1,17,5
+Knott,C109,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C109,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C109,Commissioner of Agriculture,,,Total Votes,63,3,55,5
+Knott,C110,STRAIGHT PARTY,,,Republican,21,0,20,1
+Knott,C110,STRAIGHT PARTY,,,Democratic,15,4,10,1
+Knott,C110,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",27,1,24,2
+Knott,C110,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,41,9,30,2
+Knott,C110,Governor,,,Write-In Totals,0,0,0,0
+Knott,C110,Governor,,,Not Assigned,0,0,0,0
+Knott,C110,Governor,,,Total Votes,68,10,54,4
+Knott,C110,Secretary of State,,REP,Michael ADAMS,33,2,28,3
+Knott,C110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",29,7,21,1
+Knott,C110,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C110,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C110,Secretary of State,,,Total Votes,68,10,54,4
+Knott,C110,Attorney General,,REP,Russell COLEMAN,33,2,29,2
+Knott,C110,Attorney General,,DEM,Pamela STEVENSON,30,7,21,2
+Knott,C110,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C110,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C110,Attorney General,,,Total Votes,68,10,54,4
+Knott,C110,Auditor of Public Accounts,,REP,Allison BALL,37,2,32,3
+Knott,C110,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",26,7,18,1
+Knott,C110,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C110,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C110,Auditor of Public Accounts,,,Total Votes,68,10,54,4
+Knott,C110,State Treasurer,,REP,Mark H. METCALF,34,2,30,2
+Knott,C110,State Treasurer,,DEM,Michael BOWMAN,30,7,21,2
+Knott,C110,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C110,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C110,State Treasurer,,,Total Votes,68,10,54,4
+Knott,C110,Commissioner of Agriculture,,REP,Jonathan SHELL,36,2,31,3
+Knott,C110,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,7,19,1
+Knott,C110,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C110,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C110,Commissioner of Agriculture,,,Total Votes,68,10,54,4
+Knott,C111,STRAIGHT PARTY,,,Republican,3,0,3,0
+Knott,C111,STRAIGHT PARTY,,,Democratic,6,2,3,1
+Knott,C111,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",6,0,6,0
+Knott,C111,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,12,2,8,2
+Knott,C111,Governor,,,Write-In Totals,0,0,0,0
+Knott,C111,Governor,,,Not Assigned,0,0,0,0
+Knott,C111,Governor,,,Total Votes,18,2,14,2
+Knott,C111,Secretary of State,,REP,Michael ADAMS,8,0,8,0
+Knott,C111,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",10,2,6,2
+Knott,C111,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C111,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C111,Secretary of State,,,Total Votes,18,2,14,2
+Knott,C111,Attorney General,,REP,Russell COLEMAN,12,1,11,0
+Knott,C111,Attorney General,,DEM,Pamela STEVENSON,6,1,3,2
+Knott,C111,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C111,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C111,Attorney General,,,Total Votes,18,2,14,2
+Knott,C111,Auditor of Public Accounts,,REP,Allison BALL,10,1,9,0
+Knott,C111,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",7,1,5,1
+Knott,C111,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C111,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C111,Auditor of Public Accounts,,,Total Votes,18,2,14,2
+Knott,C111,State Treasurer,,REP,Mark H. METCALF,10,1,9,0
+Knott,C111,State Treasurer,,DEM,Michael BOWMAN,8,1,5,2
+Knott,C111,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C111,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C111,State Treasurer,,,Total Votes,18,2,14,2
+Knott,C111,Commissioner of Agriculture,,REP,Jonathan SHELL,11,1,10,0
+Knott,C111,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,1,4,2
+Knott,C111,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C111,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C111,Commissioner of Agriculture,,,Total Votes,18,2,14,2
+Knott,C112,STRAIGHT PARTY,,,Republican,27,0,26,1
+Knott,C112,STRAIGHT PARTY,,,Democratic,39,2,35,2
+Knott,C112,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",37,1,35,1
+Knott,C112,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,5,58,7
+Knott,C112,Governor,,,Write-In Totals,0,0,0,0
+Knott,C112,Governor,,,Not Assigned,0,0,0,0
+Knott,C112,Governor,,,Total Votes,109,6,95,8
+Knott,C112,Secretary of State,,REP,Michael ADAMS,45,2,42,1
+Knott,C112,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",56,4,45,7
+Knott,C112,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,C112,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,C112,Secretary of State,,,Total Votes,109,6,95,8
+Knott,C112,Attorney General,,REP,Russell COLEMAN,45,2,42,1
+Knott,C112,Attorney General,,DEM,Pamela STEVENSON,57,4,46,7
+Knott,C112,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,C112,Attorney General,,,Not Assigned,0,0,0,0
+Knott,C112,Attorney General,,,Total Votes,109,6,95,8
+Knott,C112,Auditor of Public Accounts,,REP,Allison BALL,44,3,40,1
+Knott,C112,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",57,3,47,7
+Knott,C112,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,C112,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,C112,Auditor of Public Accounts,,,Total Votes,109,6,95,8
+Knott,C112,State Treasurer,,REP,Mark H. METCALF,45,2,42,1
+Knott,C112,State Treasurer,,DEM,Michael BOWMAN,56,4,45,7
+Knott,C112,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,C112,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,C112,State Treasurer,,,Total Votes,109,6,95,8
+Knott,C112,Commissioner of Agriculture,,REP,Jonathan SHELL,44,2,41,1
+Knott,C112,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,56,4,45,7
+Knott,C112,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,C112,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,C112,Commissioner of Agriculture,,,Total Votes,109,6,95,8
+Knott,D102,STRAIGHT PARTY,,,Republican,10,0,9,1
+Knott,D102,STRAIGHT PARTY,,,Democratic,19,1,13,5
+Knott,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",22,5,16,1
+Knott,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,44,3,35,6
+Knott,D102,Governor,,,Write-In Totals,0,0,0,0
+Knott,D102,Governor,,,Not Assigned,0,0,0,0
+Knott,D102,Governor,,,Total Votes,67,8,52,7
+Knott,D102,Secretary of State,,REP,Michael ADAMS,33,7,24,2
+Knott,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,1,25,5
+Knott,D102,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,D102,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,D102,Secretary of State,,,Total Votes,67,8,52,7
+Knott,D102,Attorney General,,REP,Russell COLEMAN,29,5,23,1
+Knott,D102,Attorney General,,DEM,Pamela STEVENSON,35,3,26,6
+Knott,D102,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,D102,Attorney General,,,Not Assigned,0,0,0,0
+Knott,D102,Attorney General,,,Total Votes,67,8,52,7
+Knott,D102,Auditor of Public Accounts,,REP,Allison BALL,36,6,29,1
+Knott,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",28,2,20,6
+Knott,D102,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,D102,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,D102,Auditor of Public Accounts,,,Total Votes,67,8,52,7
+Knott,D102,State Treasurer,,REP,Mark H. METCALF,29,6,22,1
+Knott,D102,State Treasurer,,DEM,Michael BOWMAN,33,2,25,6
+Knott,D102,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,D102,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,D102,State Treasurer,,,Total Votes,67,8,52,7
+Knott,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,33,6,26,1
+Knott,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,2,21,6
+Knott,D102,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,D102,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,D102,Commissioner of Agriculture,,,Total Votes,67,8,52,7
+Knott,D103,STRAIGHT PARTY,,,Republican,47,4,34,9
+Knott,D103,STRAIGHT PARTY,,,Democratic,37,0,34,3
+Knott,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",61,7,44,10
+Knott,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,102,6,89,7
+Knott,D103,Governor,,,Write-In Totals,1,0,0,1
+Knott,D103,Governor,,,Not Assigned,1,0,0,1
+Knott,D103,Governor,,,Total Votes,164,13,133,18
+Knott,D103,Secretary of State,,REP,Michael ADAMS,90,10,68,12
+Knott,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",68,3,60,5
+Knott,D103,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,D103,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,D103,Secretary of State,,,Total Votes,164,13,133,18
+Knott,D103,Attorney General,,REP,Russell COLEMAN,86,7,68,11
+Knott,D103,Attorney General,,DEM,Pamela STEVENSON,68,5,57,6
+Knott,D103,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,D103,Attorney General,,,Not Assigned,0,0,0,0
+Knott,D103,Attorney General,,,Total Votes,164,13,133,18
+Knott,D103,Auditor of Public Accounts,,REP,Allison BALL,96,12,70,14
+Knott,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",59,1,55,3
+Knott,D103,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,D103,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,D103,Auditor of Public Accounts,,,Total Votes,164,13,133,18
+Knott,D103,State Treasurer,,REP,Mark H. METCALF,79,7,60,12
+Knott,D103,State Treasurer,,DEM,Michael BOWMAN,75,5,65,5
+Knott,D103,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,D103,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,D103,State Treasurer,,,Total Votes,164,13,133,18
+Knott,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,84,11,61,12
+Knott,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,2,60,5
+Knott,D103,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,D103,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,D103,Commissioner of Agriculture,,,Total Votes,164,13,133,18
+Knott,D104,STRAIGHT PARTY,,,Republican,14,0,14,0
+Knott,D104,STRAIGHT PARTY,,,Democratic,39,3,31,5
+Knott,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",30,0,30,0
+Knott,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,82,4,70,8
+Knott,D104,Governor,,,Write-In Totals,0,0,0,0
+Knott,D104,Governor,,,Not Assigned,0,0,0,0
+Knott,D104,Governor,,,Total Votes,114,4,102,8
+Knott,D104,Secretary of State,,REP,Michael ADAMS,47,1,45,1
+Knott,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,3,51,6
+Knott,D104,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,D104,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,D104,Secretary of State,,,Total Votes,114,4,102,8
+Knott,D104,Attorney General,,REP,Russell COLEMAN,50,0,49,1
+Knott,D104,Attorney General,,DEM,Pamela STEVENSON,56,4,46,6
+Knott,D104,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,D104,Attorney General,,,Not Assigned,0,0,0,0
+Knott,D104,Attorney General,,,Total Votes,114,4,102,8
+Knott,D104,Auditor of Public Accounts,,REP,Allison BALL,53,1,51,1
+Knott,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",52,3,43,6
+Knott,D104,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,D104,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,D104,Auditor of Public Accounts,,,Total Votes,114,4,102,8
+Knott,D104,State Treasurer,,REP,Mark H. METCALF,44,0,43,1
+Knott,D104,State Treasurer,,DEM,Michael BOWMAN,62,4,52,6
+Knott,D104,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,D104,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,D104,State Treasurer,,,Total Votes,114,4,102,8
+Knott,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,49,0,48,1
+Knott,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,4,47,6
+Knott,D104,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,D104,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,D104,Commissioner of Agriculture,,,Total Votes,114,4,102,8
+Knott,D105,STRAIGHT PARTY,,,Republican,57,4,53,0
+Knott,D105,STRAIGHT PARTY,,,Democratic,50,5,36,9
+Knott,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",81,8,72,1
+Knott,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,129,16,100,13
+Knott,D105,Governor,,,Write-In Totals,0,0,0,0
+Knott,D105,Governor,,,Not Assigned,0,0,0,0
+Knott,D105,Governor,,,Total Votes,215,24,176,15
+Knott,D105,Secretary of State,,REP,Michael ADAMS,119,13,105,1
+Knott,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,10,55,12
+Knott,D105,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,D105,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,D105,Secretary of State,,,Total Votes,215,24,176,15
+Knott,D105,Attorney General,,REP,Russell COLEMAN,114,11,101,2
+Knott,D105,Attorney General,,DEM,Pamela STEVENSON,79,10,59,10
+Knott,D105,Attorney General,,,Write-In Totals,3,1,1,1
+Knott,D105,Attorney General,,,Not Assigned,3,1,1,1
+Knott,D105,Attorney General,,,Total Votes,215,24,176,15
+Knott,D105,Auditor of Public Accounts,,REP,Allison BALL,116,12,103,1
+Knott,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",80,10,58,12
+Knott,D105,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,D105,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,D105,Auditor of Public Accounts,,,Total Votes,215,24,176,15
+Knott,D105,State Treasurer,,REP,Mark H. METCALF,106,11,94,1
+Knott,D105,State Treasurer,,DEM,Michael BOWMAN,89,11,66,12
+Knott,D105,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,D105,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,D105,State Treasurer,,,Total Votes,215,24,176,15
+Knott,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,115,9,104,2
+Knott,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,12,58,11
+Knott,D105,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,D105,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,D105,Commissioner of Agriculture,,,Total Votes,215,24,176,15
+Knott,D107,STRAIGHT PARTY,,,Republican,27,1,26,0
+Knott,D107,STRAIGHT PARTY,,,Democratic,28,5,18,5
+Knott,D107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",54,3,49,2
+Knott,D107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,68,9,49,10
+Knott,D107,Governor,,,Write-In Totals,0,0,0,0
+Knott,D107,Governor,,,Not Assigned,0,0,0,0
+Knott,D107,Governor,,,Total Votes,122,12,98,12
+Knott,D107,Secretary of State,,REP,Michael ADAMS,66,4,57,5
+Knott,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",46,8,32,6
+Knott,D107,Secretary of State,,,Write-In Totals,0,0,0,0
+Knott,D107,Secretary of State,,,Not Assigned,0,0,0,0
+Knott,D107,Secretary of State,,,Total Votes,122,12,98,12
+Knott,D107,Attorney General,,REP,Russell COLEMAN,66,3,59,4
+Knott,D107,Attorney General,,DEM,Pamela STEVENSON,41,7,27,7
+Knott,D107,Attorney General,,,Write-In Totals,0,0,0,0
+Knott,D107,Attorney General,,,Not Assigned,0,0,0,0
+Knott,D107,Attorney General,,,Total Votes,122,12,98,12
+Knott,D107,Auditor of Public Accounts,,REP,Allison BALL,69,3,61,5
+Knott,D107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,8,26,6
+Knott,D107,Auditor of Public Accounts,,,Write-In Totals,0,0,0,0
+Knott,D107,Auditor of Public Accounts,,,Not Assigned,0,0,0,0
+Knott,D107,Auditor of Public Accounts,,,Total Votes,122,12,98,12
+Knott,D107,State Treasurer,,REP,Mark H. METCALF,62,2,55,5
+Knott,D107,State Treasurer,,DEM,Michael BOWMAN,47,9,32,6
+Knott,D107,State Treasurer,,,Write-In Totals,0,0,0,0
+Knott,D107,State Treasurer,,,Not Assigned,0,0,0,0
+Knott,D107,State Treasurer,,,Total Votes,122,12,98,12
+Knott,D107,Commissioner of Agriculture,,REP,Jonathan SHELL,66,3,58,5
+Knott,D107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,8,30,6
+Knott,D107,Commissioner of Agriculture,,,Write-In Totals,0,0,0,0
+Knott,D107,Commissioner of Agriculture,,,Not Assigned,0,0,0,0
+Knott,D107,Commissioner of Agriculture,,,Total Votes,122,12,98,12
