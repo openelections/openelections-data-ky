@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Todd,A101,STRAIGHT PARTY,,,Republican,105,11,93,1
+Todd,A101,STRAIGHT PARTY,,,Democratic,24,1,23,0
+Todd,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",154,18,134,2
+Todd,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,43,1,42,0
+Todd,A101,Governor,,,Brian Fishback / William Fishback,1,1,0,0
+Todd,A101,Governor,,,Total Votes,198,20,176,2
+Todd,A101,Governor,,,Under Votes,1,0,1,0
+Todd,A101,Governor,,,Over Votes,0,0,0,0
+Todd,A101,Secretary of State,,REP,Michael ADAMS,157,17,138,2
+Todd,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",34,1,33,0
+Todd,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,A101,Secretary of State,,,Total Votes,191,18,171,2
+Todd,A101,Secretary of State,,,Under Votes,8,2,6,0
+Todd,A101,Secretary of State,,,Over Votes,0,0,0,0
+Todd,A101,Attorney General,,REP,Russell COLEMAN,160,17,141,2
+Todd,A101,Attorney General,,DEM,Pamela STEVENSON,31,1,30,0
+Todd,A101,Attorney General,,,Total Votes,191,18,171,2
+Todd,A101,Attorney General,,,Under Votes,8,2,6,0
+Todd,A101,Attorney General,,,Over Votes,0,0,0,0
+Todd,A101,Auditor of Public Accounts,,REP,Allison BALL,154,17,135,2
+Todd,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",32,1,31,0
+Todd,A101,Auditor of Public Accounts,,,Total Votes,186,18,166,2
+Todd,A101,Auditor of Public Accounts,,,Under Votes,13,2,11,0
+Todd,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,A101,State Treasurer,,REP,Mark H. METCALF,150,17,131,2
+Todd,A101,State Treasurer,,DEM,Michael BOWMAN,37,1,36,0
+Todd,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,A101,State Treasurer,,,Total Votes,187,18,167,2
+Todd,A101,State Treasurer,,,Under Votes,12,2,10,0
+Todd,A101,State Treasurer,,,Over Votes,0,0,0,0
+Todd,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,153,16,135,2
+Todd,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,3,31,0
+Todd,A101,Commissioner of Agriculture,,,Total Votes,187,19,166,2
+Todd,A101,Commissioner of Agriculture,,,Under Votes,12,1,11,0
+Todd,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,A102,STRAIGHT PARTY,,,Republican,67,10,57,0
+Todd,A102,STRAIGHT PARTY,,,Democratic,22,5,16,1
+Todd,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",115,12,99,4
+Todd,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,49,7,41,1
+Todd,A102,Governor,,,Brian Fishback / William Fishback,1,1,0,0
+Todd,A102,Governor,,,Total Votes,165,20,140,5
+Todd,A102,Governor,,,Under Votes,0,0,0,0
+Todd,A102,Governor,,,Over Votes,0,0,0,0
+Todd,A102,Secretary of State,,REP,Michael ADAMS,124,14,106,4
+Todd,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,6,31,1
+Todd,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,A102,Secretary of State,,,Total Votes,162,20,137,5
+Todd,A102,Secretary of State,,,Under Votes,3,0,3,0
+Todd,A102,Secretary of State,,,Over Votes,0,0,0,0
+Todd,A102,Attorney General,,REP,Russell COLEMAN,130,15,111,4
+Todd,A102,Attorney General,,DEM,Pamela STEVENSON,31,5,25,1
+Todd,A102,Attorney General,,,Total Votes,161,20,136,5
+Todd,A102,Attorney General,,,Under Votes,4,0,4,0
+Todd,A102,Attorney General,,,Over Votes,0,0,0,0
+Todd,A102,Auditor of Public Accounts,,REP,Allison BALL,127,14,109,4
+Todd,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",34,6,27,1
+Todd,A102,Auditor of Public Accounts,,,Total Votes,161,20,136,5
+Todd,A102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Todd,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,A102,State Treasurer,,REP,Mark H. METCALF,124,15,105,4
+Todd,A102,State Treasurer,,DEM,Michael BOWMAN,35,5,29,1
+Todd,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,A102,State Treasurer,,,Total Votes,159,20,134,5
+Todd,A102,State Treasurer,,,Under Votes,6,0,6,0
+Todd,A102,State Treasurer,,,Over Votes,0,0,0,0
+Todd,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,130,14,112,4
+Todd,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,6,24,1
+Todd,A102,Commissioner of Agriculture,,,Total Votes,161,20,136,5
+Todd,A102,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Todd,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,A103,STRAIGHT PARTY,,,Republican,78,12,66,0
+Todd,A103,STRAIGHT PARTY,,,Democratic,9,0,9,0
+Todd,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",105,16,88,1
+Todd,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,26,1,24,1
+Todd,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,A103,Governor,,,Total Votes,131,17,112,2
+Todd,A103,Governor,,,Under Votes,0,0,0,0
+Todd,A103,Governor,,,Over Votes,0,0,0,0
+Todd,A103,Secretary of State,,REP,Michael ADAMS,110,15,93,2
+Todd,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",18,2,16,0
+Todd,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,A103,Secretary of State,,,Total Votes,128,17,109,2
+Todd,A103,Secretary of State,,,Under Votes,3,0,3,0
+Todd,A103,Secretary of State,,,Over Votes,0,0,0,0
+Todd,A103,Attorney General,,REP,Russell COLEMAN,110,16,92,2
+Todd,A103,Attorney General,,DEM,Pamela STEVENSON,18,1,17,0
+Todd,A103,Attorney General,,,Total Votes,128,17,109,2
+Todd,A103,Attorney General,,,Under Votes,3,0,3,0
+Todd,A103,Attorney General,,,Over Votes,0,0,0,0
+Todd,A103,Auditor of Public Accounts,,REP,Allison BALL,111,16,93,2
+Todd,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",15,1,14,0
+Todd,A103,Auditor of Public Accounts,,,Total Votes,126,17,107,2
+Todd,A103,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Todd,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,A103,State Treasurer,,REP,Mark H. METCALF,109,16,91,2
+Todd,A103,State Treasurer,,DEM,Michael BOWMAN,18,1,17,0
+Todd,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,A103,State Treasurer,,,Total Votes,127,17,108,2
+Todd,A103,State Treasurer,,,Under Votes,4,0,4,0
+Todd,A103,State Treasurer,,,Over Votes,0,0,0,0
+Todd,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,109,16,91,2
+Todd,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,1,17,0
+Todd,A103,Commissioner of Agriculture,,,Total Votes,127,17,108,2
+Todd,A103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Todd,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,B101,STRAIGHT PARTY,,,Republican,132,8,124,0
+Todd,B101,STRAIGHT PARTY,,,Democratic,15,3,12,0
+Todd,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",202,10,192,0
+Todd,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,53,7,45,1
+Todd,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,B101,Governor,,,Total Votes,255,17,237,1
+Todd,B101,Governor,,,Under Votes,2,0,2,0
+Todd,B101,Governor,,,Over Votes,0,0,0,0
+Todd,B101,Secretary of State,,REP,Michael ADAMS,223,13,210,0
+Todd,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",30,4,25,1
+Todd,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,B101,Secretary of State,,,Total Votes,253,17,235,1
+Todd,B101,Secretary of State,,,Under Votes,4,0,4,0
+Todd,B101,Secretary of State,,,Over Votes,0,0,0,0
+Todd,B101,Attorney General,,REP,Russell COLEMAN,215,13,202,0
+Todd,B101,Attorney General,,DEM,Pamela STEVENSON,34,4,29,1
+Todd,B101,Attorney General,,,Total Votes,249,17,231,1
+Todd,B101,Attorney General,,,Under Votes,8,0,8,0
+Todd,B101,Attorney General,,,Over Votes,0,0,0,0
+Todd,B101,Auditor of Public Accounts,,REP,Allison BALL,221,13,207,1
+Todd,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",29,4,25,0
+Todd,B101,Auditor of Public Accounts,,,Total Votes,250,17,232,1
+Todd,B101,Auditor of Public Accounts,,,Under Votes,7,0,7,0
+Todd,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,B101,State Treasurer,,REP,Mark H. METCALF,216,13,202,1
+Todd,B101,State Treasurer,,DEM,Michael BOWMAN,37,4,33,0
+Todd,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,B101,State Treasurer,,,Total Votes,253,17,235,1
+Todd,B101,State Treasurer,,,Under Votes,4,0,4,0
+Todd,B101,State Treasurer,,,Over Votes,0,0,0,0
+Todd,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,217,13,203,1
+Todd,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,4,29,0
+Todd,B101,Commissioner of Agriculture,,,Total Votes,250,17,232,1
+Todd,B101,Commissioner of Agriculture,,,Under Votes,7,0,7,0
+Todd,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,B102,STRAIGHT PARTY,,,Republican,87,6,81,0
+Todd,B102,STRAIGHT PARTY,,,Democratic,24,4,20,0
+Todd,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,9,143,0
+Todd,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,63,3,59,1
+Todd,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,B102,Governor,,,Total Votes,215,12,202,1
+Todd,B102,Governor,,,Under Votes,2,0,2,0
+Todd,B102,Governor,,,Over Votes,0,0,0,0
+Todd,B102,Secretary of State,,REP,Michael ADAMS,170,9,161,0
+Todd,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",41,3,37,1
+Todd,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,B102,Secretary of State,,,Total Votes,211,12,198,1
+Todd,B102,Secretary of State,,,Under Votes,6,0,6,0
+Todd,B102,Secretary of State,,,Over Votes,0,0,0,0
+Todd,B102,Attorney General,,REP,Russell COLEMAN,173,9,163,1
+Todd,B102,Attorney General,,DEM,Pamela STEVENSON,35,3,32,0
+Todd,B102,Attorney General,,,Total Votes,208,12,195,1
+Todd,B102,Attorney General,,,Under Votes,9,0,9,0
+Todd,B102,Attorney General,,,Over Votes,0,0,0,0
+Todd,B102,Auditor of Public Accounts,,REP,Allison BALL,169,8,160,1
+Todd,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",38,4,34,0
+Todd,B102,Auditor of Public Accounts,,,Total Votes,207,12,194,1
+Todd,B102,Auditor of Public Accounts,,,Under Votes,10,0,10,0
+Todd,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,B102,State Treasurer,,REP,Mark H. METCALF,163,9,154,0
+Todd,B102,State Treasurer,,DEM,Michael BOWMAN,44,3,40,1
+Todd,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,B102,State Treasurer,,,Total Votes,207,12,194,1
+Todd,B102,State Treasurer,,,Under Votes,10,0,10,0
+Todd,B102,State Treasurer,,,Over Votes,0,0,0,0
+Todd,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,170,8,161,1
+Todd,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,4,29,0
+Todd,B102,Commissioner of Agriculture,,,Total Votes,203,12,190,1
+Todd,B102,Commissioner of Agriculture,,,Under Votes,14,0,14,0
+Todd,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,B103,STRAIGHT PARTY,,,Republican,28,2,26,0
+Todd,B103,STRAIGHT PARTY,,,Democratic,5,0,5,0
+Todd,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",49,3,46,0
+Todd,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,18,0,18,0
+Todd,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,B103,Governor,,,Total Votes,67,3,64,0
+Todd,B103,Governor,,,Under Votes,0,0,0,0
+Todd,B103,Governor,,,Over Votes,0,0,0,0
+Todd,B103,Secretary of State,,REP,Michael ADAMS,53,3,50,0
+Todd,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",12,0,12,0
+Todd,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,B103,Secretary of State,,,Total Votes,65,3,62,0
+Todd,B103,Secretary of State,,,Under Votes,2,0,2,0
+Todd,B103,Secretary of State,,,Over Votes,0,0,0,0
+Todd,B103,Attorney General,,REP,Russell COLEMAN,53,3,50,0
+Todd,B103,Attorney General,,DEM,Pamela STEVENSON,12,0,12,0
+Todd,B103,Attorney General,,,Total Votes,65,3,62,0
+Todd,B103,Attorney General,,,Under Votes,2,0,2,0
+Todd,B103,Attorney General,,,Over Votes,0,0,0,0
+Todd,B103,Auditor of Public Accounts,,REP,Allison BALL,50,3,47,0
+Todd,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",14,0,14,0
+Todd,B103,Auditor of Public Accounts,,,Total Votes,64,3,61,0
+Todd,B103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Todd,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,B103,State Treasurer,,REP,Mark H. METCALF,47,3,44,0
+Todd,B103,State Treasurer,,DEM,Michael BOWMAN,17,0,17,0
+Todd,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,B103,State Treasurer,,,Total Votes,64,3,61,0
+Todd,B103,State Treasurer,,,Under Votes,3,0,3,0
+Todd,B103,State Treasurer,,,Over Votes,0,0,0,0
+Todd,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,52,3,49,0
+Todd,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,0,11,0
+Todd,B103,Commissioner of Agriculture,,,Total Votes,63,3,60,0
+Todd,B103,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Todd,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,B104,STRAIGHT PARTY,,,Republican,38,1,37,0
+Todd,B104,STRAIGHT PARTY,,,Democratic,9,0,9,0
+Todd,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",48,2,46,0
+Todd,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,14,0,14,0
+Todd,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,B104,Governor,,,Total Votes,62,2,60,0
+Todd,B104,Governor,,,Under Votes,1,0,1,0
+Todd,B104,Governor,,,Over Votes,0,0,0,0
+Todd,B104,Secretary of State,,REP,Michael ADAMS,51,2,49,0
+Todd,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",12,0,12,0
+Todd,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,B104,Secretary of State,,,Total Votes,63,2,61,0
+Todd,B104,Secretary of State,,,Under Votes,0,0,0,0
+Todd,B104,Secretary of State,,,Over Votes,0,0,0,0
+Todd,B104,Attorney General,,REP,Russell COLEMAN,48,2,46,0
+Todd,B104,Attorney General,,DEM,Pamela STEVENSON,14,0,14,0
+Todd,B104,Attorney General,,,Total Votes,62,2,60,0
+Todd,B104,Attorney General,,,Under Votes,1,0,1,0
+Todd,B104,Attorney General,,,Over Votes,0,0,0,0
+Todd,B104,Auditor of Public Accounts,,REP,Allison BALL,47,2,45,0
+Todd,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",15,0,15,0
+Todd,B104,Auditor of Public Accounts,,,Total Votes,62,2,60,0
+Todd,B104,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Todd,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,B104,State Treasurer,,REP,Mark H. METCALF,47,2,45,0
+Todd,B104,State Treasurer,,DEM,Michael BOWMAN,16,0,16,0
+Todd,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,B104,State Treasurer,,,Total Votes,63,2,61,0
+Todd,B104,State Treasurer,,,Under Votes,0,0,0,0
+Todd,B104,State Treasurer,,,Over Votes,0,0,0,0
+Todd,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,49,2,47,0
+Todd,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,0,14,0
+Todd,B104,Commissioner of Agriculture,,,Total Votes,63,2,61,0
+Todd,B104,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Todd,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,C101,STRAIGHT PARTY,,,Republican,137,23,113,1
+Todd,C101,STRAIGHT PARTY,,,Democratic,81,9,70,2
+Todd,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",220,29,189,2
+Todd,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,147,17,128,2
+Todd,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,C101,Governor,,,Total Votes,367,46,317,4
+Todd,C101,Governor,,,Under Votes,1,0,1,0
+Todd,C101,Governor,,,Over Votes,0,0,0,0
+Todd,C101,Secretary of State,,REP,Michael ADAMS,235,32,201,2
+Todd,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",127,14,111,2
+Todd,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,C101,Secretary of State,,,Total Votes,362,46,312,4
+Todd,C101,Secretary of State,,,Under Votes,6,0,6,0
+Todd,C101,Secretary of State,,,Over Votes,0,0,0,0
+Todd,C101,Attorney General,,REP,Russell COLEMAN,226,31,193,2
+Todd,C101,Attorney General,,DEM,Pamela STEVENSON,136,15,119,2
+Todd,C101,Attorney General,,,Total Votes,362,46,312,4
+Todd,C101,Attorney General,,,Under Votes,6,0,6,0
+Todd,C101,Attorney General,,,Over Votes,0,0,0,0
+Todd,C101,Auditor of Public Accounts,,REP,Allison BALL,238,33,203,2
+Todd,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",123,13,108,2
+Todd,C101,Auditor of Public Accounts,,,Total Votes,361,46,311,4
+Todd,C101,Auditor of Public Accounts,,,Under Votes,7,0,7,0
+Todd,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,C101,State Treasurer,,REP,Mark H. METCALF,231,31,198,2
+Todd,C101,State Treasurer,,DEM,Michael BOWMAN,130,15,113,2
+Todd,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,C101,State Treasurer,,,Total Votes,361,46,311,4
+Todd,C101,State Treasurer,,,Under Votes,7,0,7,0
+Todd,C101,State Treasurer,,,Over Votes,0,0,0,0
+Todd,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,230,31,197,2
+Todd,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,129,15,112,2
+Todd,C101,Commissioner of Agriculture,,,Total Votes,359,46,309,4
+Todd,C101,Commissioner of Agriculture,,,Under Votes,9,0,9,0
+Todd,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,C102,STRAIGHT PARTY,,,Republican,116,8,108,0
+Todd,C102,STRAIGHT PARTY,,,Democratic,39,3,35,1
+Todd,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",187,10,175,2
+Todd,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,4,87,4
+Todd,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,C102,Governor,,,Total Votes,282,14,262,6
+Todd,C102,Governor,,,Under Votes,1,0,1,0
+Todd,C102,Governor,,,Over Votes,0,0,0,0
+Todd,C102,Secretary of State,,REP,Michael ADAMS,208,10,196,2
+Todd,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",72,4,64,4
+Todd,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,C102,Secretary of State,,,Total Votes,280,14,260,6
+Todd,C102,Secretary of State,,,Under Votes,3,0,3,0
+Todd,C102,Secretary of State,,,Over Votes,0,0,0,0
+Todd,C102,Attorney General,,REP,Russell COLEMAN,201,10,189,2
+Todd,C102,Attorney General,,DEM,Pamela STEVENSON,75,4,67,4
+Todd,C102,Attorney General,,,Total Votes,276,14,256,6
+Todd,C102,Attorney General,,,Under Votes,7,0,7,0
+Todd,C102,Attorney General,,,Over Votes,0,0,0,0
+Todd,C102,Auditor of Public Accounts,,REP,Allison BALL,206,10,194,2
+Todd,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",68,4,60,4
+Todd,C102,Auditor of Public Accounts,,,Total Votes,274,14,254,6
+Todd,C102,Auditor of Public Accounts,,,Under Votes,9,0,9,0
+Todd,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,C102,State Treasurer,,REP,Mark H. METCALF,194,10,181,3
+Todd,C102,State Treasurer,,DEM,Michael BOWMAN,78,4,71,3
+Todd,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,C102,State Treasurer,,,Total Votes,272,14,252,6
+Todd,C102,State Treasurer,,,Under Votes,11,0,11,0
+Todd,C102,State Treasurer,,,Over Votes,0,0,0,0
+Todd,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,204,9,194,1
+Todd,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,72,5,62,5
+Todd,C102,Commissioner of Agriculture,,,Total Votes,276,14,256,6
+Todd,C102,Commissioner of Agriculture,,,Under Votes,7,0,7,0
+Todd,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,D101,STRAIGHT PARTY,,,Republican,29,6,23,0
+Todd,D101,STRAIGHT PARTY,,,Democratic,31,4,27,0
+Todd,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",47,9,38,0
+Todd,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,45,7,36,2
+Todd,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,D101,Governor,,,Total Votes,92,16,74,2
+Todd,D101,Governor,,,Under Votes,0,0,0,0
+Todd,D101,Governor,,,Over Votes,0,0,0,0
+Todd,D101,Secretary of State,,REP,Michael ADAMS,54,11,42,1
+Todd,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",38,5,32,1
+Todd,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,D101,Secretary of State,,,Total Votes,92,16,74,2
+Todd,D101,Secretary of State,,,Under Votes,0,0,0,0
+Todd,D101,Secretary of State,,,Over Votes,0,0,0,0
+Todd,D101,Attorney General,,REP,Russell COLEMAN,52,10,42,0
+Todd,D101,Attorney General,,DEM,Pamela STEVENSON,40,6,32,2
+Todd,D101,Attorney General,,,Total Votes,92,16,74,2
+Todd,D101,Attorney General,,,Under Votes,0,0,0,0
+Todd,D101,Attorney General,,,Over Votes,0,0,0,0
+Todd,D101,Auditor of Public Accounts,,REP,Allison BALL,53,10,42,1
+Todd,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",38,6,32,0
+Todd,D101,Auditor of Public Accounts,,,Total Votes,91,16,74,1
+Todd,D101,Auditor of Public Accounts,,,Under Votes,1,0,0,1
+Todd,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,D101,State Treasurer,,REP,Mark H. METCALF,50,10,40,0
+Todd,D101,State Treasurer,,DEM,Michael BOWMAN,40,6,33,1
+Todd,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,D101,State Treasurer,,,Total Votes,90,16,73,1
+Todd,D101,State Treasurer,,,Under Votes,2,0,1,1
+Todd,D101,State Treasurer,,,Over Votes,0,0,0,0
+Todd,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,52,11,40,1
+Todd,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,39,5,33,1
+Todd,D101,Commissioner of Agriculture,,,Total Votes,91,16,73,2
+Todd,D101,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Todd,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,D102,STRAIGHT PARTY,,,Republican,194,38,155,1
+Todd,D102,STRAIGHT PARTY,,,Democratic,90,19,70,1
+Todd,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",285,51,232,2
+Todd,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,210,45,164,1
+Todd,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,D102,Governor,,,Total Votes,495,96,396,3
+Todd,D102,Governor,,,Under Votes,1,0,1,0
+Todd,D102,Governor,,,Over Votes,0,0,0,0
+Todd,D102,Secretary of State,,REP,Michael ADAMS,331,66,263,2
+Todd,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",154,28,125,1
+Todd,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,D102,Secretary of State,,,Total Votes,485,94,388,3
+Todd,D102,Secretary of State,,,Under Votes,11,2,9,0
+Todd,D102,Secretary of State,,,Over Votes,0,0,0,0
+Todd,D102,Attorney General,,REP,Russell COLEMAN,322,60,260,2
+Todd,D102,Attorney General,,DEM,Pamela STEVENSON,159,34,124,1
+Todd,D102,Attorney General,,,Total Votes,481,94,384,3
+Todd,D102,Attorney General,,,Under Votes,15,2,13,0
+Todd,D102,Attorney General,,,Over Votes,0,0,0,0
+Todd,D102,Auditor of Public Accounts,,REP,Allison BALL,322,62,258,2
+Todd,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",159,32,126,1
+Todd,D102,Auditor of Public Accounts,,,Total Votes,481,94,384,3
+Todd,D102,Auditor of Public Accounts,,,Under Votes,15,2,13,0
+Todd,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,D102,State Treasurer,,REP,Mark H. METCALF,320,60,258,2
+Todd,D102,State Treasurer,,DEM,Michael BOWMAN,163,34,128,1
+Todd,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,D102,State Treasurer,,,Total Votes,483,94,386,3
+Todd,D102,State Treasurer,,,Under Votes,13,2,11,0
+Todd,D102,State Treasurer,,,Over Votes,0,0,0,0
+Todd,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,333,59,272,2
+Todd,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,150,34,115,1
+Todd,D102,Commissioner of Agriculture,,,Total Votes,483,93,387,3
+Todd,D102,Commissioner of Agriculture,,,Under Votes,13,3,10,0
+Todd,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,E101,STRAIGHT PARTY,,,Republican,83,9,73,1
+Todd,E101,STRAIGHT PARTY,,,Democratic,25,3,22,0
+Todd,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",111,7,103,1
+Todd,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,49,7,42,0
+Todd,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,E101,Governor,,,Total Votes,160,14,145,1
+Todd,E101,Governor,,,Under Votes,1,0,1,0
+Todd,E101,Governor,,,Over Votes,0,0,0,0
+Todd,E101,Secretary of State,,REP,Michael ADAMS,121,10,110,1
+Todd,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",35,4,31,0
+Todd,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,E101,Secretary of State,,,Total Votes,156,14,141,1
+Todd,E101,Secretary of State,,,Under Votes,5,0,5,0
+Todd,E101,Secretary of State,,,Over Votes,0,0,0,0
+Todd,E101,Attorney General,,REP,Russell COLEMAN,115,9,105,1
+Todd,E101,Attorney General,,DEM,Pamela STEVENSON,40,5,35,0
+Todd,E101,Attorney General,,,Total Votes,155,14,140,1
+Todd,E101,Attorney General,,,Under Votes,6,0,6,0
+Todd,E101,Attorney General,,,Over Votes,0,0,0,0
+Todd,E101,Auditor of Public Accounts,,REP,Allison BALL,111,10,100,1
+Todd,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,4,40,0
+Todd,E101,Auditor of Public Accounts,,,Total Votes,155,14,140,1
+Todd,E101,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Todd,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,E101,State Treasurer,,REP,Mark H. METCALF,110,8,101,1
+Todd,E101,State Treasurer,,DEM,Michael BOWMAN,43,6,37,0
+Todd,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,E101,State Treasurer,,,Total Votes,153,14,138,1
+Todd,E101,State Treasurer,,,Under Votes,8,0,8,0
+Todd,E101,State Treasurer,,,Over Votes,0,0,0,0
+Todd,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,113,9,103,1
+Todd,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,41,5,36,0
+Todd,E101,Commissioner of Agriculture,,,Total Votes,154,14,139,1
+Todd,E101,Commissioner of Agriculture,,,Under Votes,7,0,7,0
+Todd,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Todd,E102,STRAIGHT PARTY,,,Republican,56,1,54,1
+Todd,E102,STRAIGHT PARTY,,,Democratic,63,5,58,0
+Todd,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",78,1,76,1
+Todd,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,95,5,87,3
+Todd,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Todd,E102,Governor,,,Total Votes,173,6,163,4
+Todd,E102,Governor,,,Under Votes,0,0,0,0
+Todd,E102,Governor,,,Over Votes,0,0,0,0
+Todd,E102,Secretary of State,,REP,Michael ADAMS,85,1,82,2
+Todd,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",85,5,79,1
+Todd,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Todd,E102,Secretary of State,,,Total Votes,170,6,161,3
+Todd,E102,Secretary of State,,,Under Votes,3,0,2,1
+Todd,E102,Secretary of State,,,Over Votes,0,0,0,0
+Todd,E102,Attorney General,,REP,Russell COLEMAN,84,1,82,1
+Todd,E102,Attorney General,,DEM,Pamela STEVENSON,85,5,78,2
+Todd,E102,Attorney General,,,Total Votes,169,6,160,3
+Todd,E102,Attorney General,,,Under Votes,4,0,3,1
+Todd,E102,Attorney General,,,Over Votes,0,0,0,0
+Todd,E102,Auditor of Public Accounts,,REP,Allison BALL,87,1,83,3
+Todd,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",82,5,77,0
+Todd,E102,Auditor of Public Accounts,,,Total Votes,169,6,160,3
+Todd,E102,Auditor of Public Accounts,,,Under Votes,4,0,3,1
+Todd,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Todd,E102,State Treasurer,,REP,Mark H. METCALF,85,1,82,2
+Todd,E102,State Treasurer,,DEM,Michael BOWMAN,84,5,78,1
+Todd,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Todd,E102,State Treasurer,,,Total Votes,169,6,160,3
+Todd,E102,State Treasurer,,,Under Votes,4,0,3,1
+Todd,E102,State Treasurer,,,Over Votes,0,0,0,0
+Todd,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,88,1,86,1
+Todd,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,79,5,73,1
+Todd,E102,Commissioner of Agriculture,,,Total Votes,167,6,159,2
+Todd,E102,Commissioner of Agriculture,,,Under Votes,6,0,4,2
+Todd,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0

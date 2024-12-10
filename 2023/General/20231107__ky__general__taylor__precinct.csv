@@ -1,0 +1,701 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Taylor,A101,STRAIGHT PARTY,,,Republican,114,30,84,0
+Taylor,A101,STRAIGHT PARTY,,,Democratic,17,3,9,5
+Taylor,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",170,46,123,1
+Taylor,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,62,17,39,6
+Taylor,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,A101,Governor,,,Total Votes,232,63,162,7
+Taylor,A101,Governor,,,Under Votes,1,0,1,0
+Taylor,A101,Governor,,,Over Votes,0,0,0,0
+Taylor,A101,Secretary of State,,REP,Michael ADAMS,183,52,129,2
+Taylor,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,10,25,5
+Taylor,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,A101,Secretary of State,,,Total Votes,223,62,154,7
+Taylor,A101,Secretary of State,,,Under Votes,10,1,9,0
+Taylor,A101,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,A101,Attorney General,,REP,Russell COLEMAN,183,50,132,1
+Taylor,A101,Attorney General,,DEM,Pamela STEVENSON,42,11,25,6
+Taylor,A101,Attorney General,,,Total Votes,225,61,157,7
+Taylor,A101,Attorney General,,,Under Votes,7,1,6,0
+Taylor,A101,Attorney General,,,Over Votes,1,1,0,0
+Taylor,A101,Auditor of Public Accounts,,REP,Allison BALL,190,53,135,2
+Taylor,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",34,9,20,5
+Taylor,A101,Auditor of Public Accounts,,,Total Votes,224,62,155,7
+Taylor,A101,Auditor of Public Accounts,,,Under Votes,9,1,8,0
+Taylor,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,A101,State Treasurer,,REP,Mark H. METCALF,180,48,131,1
+Taylor,A101,State Treasurer,,DEM,Michael BOWMAN,44,14,24,6
+Taylor,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,A101,State Treasurer,,,Total Votes,224,62,155,7
+Taylor,A101,State Treasurer,,,Under Votes,9,1,8,0
+Taylor,A101,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,185,52,132,1
+Taylor,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,9,23,6
+Taylor,A101,Commissioner of Agriculture,,,Total Votes,223,61,155,7
+Taylor,A101,Commissioner of Agriculture,,,Under Votes,10,2,8,0
+Taylor,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,A102,STRAIGHT PARTY,,,Republican,134,22,110,2
+Taylor,A102,STRAIGHT PARTY,,,Democratic,25,13,10,2
+Taylor,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",216,36,177,3
+Taylor,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,27,77,7
+Taylor,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,A102,Governor,,,Total Votes,327,63,254,10
+Taylor,A102,Governor,,,Under Votes,3,0,3,0
+Taylor,A102,Governor,,,Over Votes,0,0,0,0
+Taylor,A102,Secretary of State,,REP,Michael ADAMS,263,46,211,6
+Taylor,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,15,38,4
+Taylor,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,A102,Secretary of State,,,Total Votes,320,61,249,10
+Taylor,A102,Secretary of State,,,Under Votes,10,2,8,0
+Taylor,A102,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,A102,Attorney General,,REP,Russell COLEMAN,256,44,207,5
+Taylor,A102,Attorney General,,DEM,Pamela STEVENSON,64,19,40,5
+Taylor,A102,Attorney General,,,Total Votes,320,63,247,10
+Taylor,A102,Attorney General,,,Under Votes,10,0,10,0
+Taylor,A102,Attorney General,,,Over Votes,0,0,0,0
+Taylor,A102,Auditor of Public Accounts,,REP,Allison BALL,272,47,219,6
+Taylor,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",47,15,28,4
+Taylor,A102,Auditor of Public Accounts,,,Total Votes,319,62,247,10
+Taylor,A102,Auditor of Public Accounts,,,Under Votes,11,1,10,0
+Taylor,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,A102,State Treasurer,,REP,Mark H. METCALF,253,43,205,5
+Taylor,A102,State Treasurer,,DEM,Michael BOWMAN,63,20,38,5
+Taylor,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,A102,State Treasurer,,,Total Votes,316,63,243,10
+Taylor,A102,State Treasurer,,,Under Votes,14,0,14,0
+Taylor,A102,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,265,46,213,6
+Taylor,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,17,36,4
+Taylor,A102,Commissioner of Agriculture,,,Total Votes,322,63,249,10
+Taylor,A102,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Taylor,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,A104,STRAIGHT PARTY,,,Republican,219,53,161,5
+Taylor,A104,STRAIGHT PARTY,,,Democratic,105,35,68,2
+Taylor,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",381,94,278,9
+Taylor,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,341,99,232,10
+Taylor,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,A104,Governor,,,Total Votes,722,193,510,19
+Taylor,A104,Governor,,,Under Votes,3,1,2,0
+Taylor,A104,Governor,,,Over Votes,0,0,0,0
+Taylor,A104,Secretary of State,,REP,Michael ADAMS,473,117,344,12
+Taylor,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",232,72,153,7
+Taylor,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,A104,Secretary of State,,,Total Votes,705,189,497,19
+Taylor,A104,Secretary of State,,,Under Votes,19,5,14,0
+Taylor,A104,Secretary of State,,,Over Votes,1,0,1,0
+Taylor,A104,Attorney General,,REP,Russell COLEMAN,486,115,360,11
+Taylor,A104,Attorney General,,DEM,Pamela STEVENSON,222,74,140,8
+Taylor,A104,Attorney General,,,Total Votes,708,189,500,19
+Taylor,A104,Attorney General,,,Under Votes,17,5,12,0
+Taylor,A104,Attorney General,,,Over Votes,0,0,0,0
+Taylor,A104,Auditor of Public Accounts,,REP,Allison BALL,512,127,374,11
+Taylor,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",198,62,128,8
+Taylor,A104,Auditor of Public Accounts,,,Total Votes,710,189,502,19
+Taylor,A104,Auditor of Public Accounts,,,Under Votes,15,5,10,0
+Taylor,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,A104,State Treasurer,,REP,Mark H. METCALF,460,109,342,9
+Taylor,A104,State Treasurer,,DEM,Michael BOWMAN,237,79,148,10
+Taylor,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,A104,State Treasurer,,,Total Votes,697,188,490,19
+Taylor,A104,State Treasurer,,,Under Votes,28,6,22,0
+Taylor,A104,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,488,120,358,10
+Taylor,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,214,66,139,9
+Taylor,A104,Commissioner of Agriculture,,,Total Votes,702,186,497,19
+Taylor,A104,Commissioner of Agriculture,,,Under Votes,23,8,15,0
+Taylor,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,B101,STRAIGHT PARTY,,,Republican,192,31,157,4
+Taylor,B101,STRAIGHT PARTY,,,Democratic,56,15,38,3
+Taylor,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",279,48,226,5
+Taylor,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,150,35,109,6
+Taylor,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,B101,Governor,,,Total Votes,429,83,335,11
+Taylor,B101,Governor,,,Under Votes,1,0,1,0
+Taylor,B101,Governor,,,Over Votes,0,0,0,0
+Taylor,B101,Secretary of State,,REP,Michael ADAMS,313,51,256,6
+Taylor,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",103,31,67,5
+Taylor,B101,Secretary of State,,,Kenneth C. Moellman Jr.,1,0,1,0
+Taylor,B101,Secretary of State,,,Total Votes,417,82,324,11
+Taylor,B101,Secretary of State,,,Under Votes,12,1,11,0
+Taylor,B101,Secretary of State,,,Over Votes,1,0,1,0
+Taylor,B101,Attorney General,,REP,Russell COLEMAN,325,56,262,7
+Taylor,B101,Attorney General,,DEM,Pamela STEVENSON,98,27,67,4
+Taylor,B101,Attorney General,,,Total Votes,423,83,329,11
+Taylor,B101,Attorney General,,,Under Votes,7,0,7,0
+Taylor,B101,Attorney General,,,Over Votes,0,0,0,0
+Taylor,B101,Auditor of Public Accounts,,REP,Allison BALL,337,57,273,7
+Taylor,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",87,26,57,4
+Taylor,B101,Auditor of Public Accounts,,,Total Votes,424,83,330,11
+Taylor,B101,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Taylor,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,B101,State Treasurer,,REP,Mark H. METCALF,317,53,257,7
+Taylor,B101,State Treasurer,,DEM,Michael BOWMAN,104,30,70,4
+Taylor,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,B101,State Treasurer,,,Total Votes,421,83,327,11
+Taylor,B101,State Treasurer,,,Under Votes,9,0,9,0
+Taylor,B101,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,328,52,269,7
+Taylor,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,96,31,61,4
+Taylor,B101,Commissioner of Agriculture,,,Total Votes,424,83,330,11
+Taylor,B101,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Taylor,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,B102,STRAIGHT PARTY,,,Republican,163,41,119,3
+Taylor,B102,STRAIGHT PARTY,,,Democratic,90,21,66,3
+Taylor,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",276,65,206,5
+Taylor,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,261,80,175,6
+Taylor,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,B102,Governor,,,Total Votes,537,145,381,11
+Taylor,B102,Governor,,,Under Votes,3,1,2,0
+Taylor,B102,Governor,,,Over Votes,0,0,0,0
+Taylor,B102,Secretary of State,,REP,Michael ADAMS,349,99,244,6
+Taylor,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",177,45,127,5
+Taylor,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,B102,Secretary of State,,,Total Votes,526,144,371,11
+Taylor,B102,Secretary of State,,,Under Votes,14,2,12,0
+Taylor,B102,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,B102,Attorney General,,REP,Russell COLEMAN,351,97,248,6
+Taylor,B102,Attorney General,,DEM,Pamela STEVENSON,174,46,123,5
+Taylor,B102,Attorney General,,,Total Votes,525,143,371,11
+Taylor,B102,Attorney General,,,Under Votes,15,3,12,0
+Taylor,B102,Attorney General,,,Over Votes,0,0,0,0
+Taylor,B102,Auditor of Public Accounts,,REP,Allison BALL,369,106,257,6
+Taylor,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",155,36,115,4
+Taylor,B102,Auditor of Public Accounts,,,Total Votes,524,142,372,10
+Taylor,B102,Auditor of Public Accounts,,,Under Votes,16,4,11,1
+Taylor,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,B102,State Treasurer,,REP,Mark H. METCALF,333,94,233,6
+Taylor,B102,State Treasurer,,DEM,Michael BOWMAN,188,47,136,5
+Taylor,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,B102,State Treasurer,,,Total Votes,521,141,369,11
+Taylor,B102,State Treasurer,,,Under Votes,19,5,14,0
+Taylor,B102,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,365,97,261,7
+Taylor,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,157,44,109,4
+Taylor,B102,Commissioner of Agriculture,,,Total Votes,522,141,370,11
+Taylor,B102,Commissioner of Agriculture,,,Under Votes,18,5,13,0
+Taylor,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,B103,STRAIGHT PARTY,,,Republican,31,5,25,1
+Taylor,B103,STRAIGHT PARTY,,,Democratic,45,8,34,3
+Taylor,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",42,9,33,0
+Taylor,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,17,50,5
+Taylor,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,B103,Governor,,,Total Votes,114,26,83,5
+Taylor,B103,Governor,,,Under Votes,0,0,0,0
+Taylor,B103,Governor,,,Over Votes,1,0,1,0
+Taylor,B103,Secretary of State,,REP,Michael ADAMS,51,10,40,1
+Taylor,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,16,43,3
+Taylor,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,B103,Secretary of State,,,Total Votes,113,26,83,4
+Taylor,B103,Secretary of State,,,Under Votes,1,0,0,1
+Taylor,B103,Secretary of State,,,Over Votes,1,0,1,0
+Taylor,B103,Attorney General,,REP,Russell COLEMAN,46,10,36,0
+Taylor,B103,Attorney General,,DEM,Pamela STEVENSON,63,14,45,4
+Taylor,B103,Attorney General,,,Total Votes,109,24,81,4
+Taylor,B103,Attorney General,,,Under Votes,5,2,2,1
+Taylor,B103,Attorney General,,,Over Votes,1,0,1,0
+Taylor,B103,Auditor of Public Accounts,,REP,Allison BALL,55,13,42,0
+Taylor,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",52,11,37,4
+Taylor,B103,Auditor of Public Accounts,,,Total Votes,107,24,79,4
+Taylor,B103,Auditor of Public Accounts,,,Under Votes,7,2,4,1
+Taylor,B103,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Taylor,B103,State Treasurer,,REP,Mark H. METCALF,45,9,36,0
+Taylor,B103,State Treasurer,,DEM,Michael BOWMAN,65,16,45,4
+Taylor,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,B103,State Treasurer,,,Total Votes,110,25,81,4
+Taylor,B103,State Treasurer,,,Under Votes,5,1,3,1
+Taylor,B103,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,49,11,38,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,60,13,43,4
+Taylor,B103,Commissioner of Agriculture,,,Total Votes,109,24,81,4
+Taylor,B103,Commissioner of Agriculture,,,Under Votes,6,2,3,1
+Taylor,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,B104,STRAIGHT PARTY,,,Republican,101,19,79,3
+Taylor,B104,STRAIGHT PARTY,,,Democratic,39,11,25,3
+Taylor,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",147,28,116,3
+Taylor,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,128,39,82,7
+Taylor,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,B104,Governor,,,Total Votes,275,67,198,10
+Taylor,B104,Governor,,,Under Votes,1,0,1,0
+Taylor,B104,Governor,,,Over Votes,0,0,0,0
+Taylor,B104,Secretary of State,,REP,Michael ADAMS,191,44,141,6
+Taylor,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",77,20,53,4
+Taylor,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,B104,Secretary of State,,,Total Votes,268,64,194,10
+Taylor,B104,Secretary of State,,,Under Votes,8,3,5,0
+Taylor,B104,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,B104,Attorney General,,REP,Russell COLEMAN,184,38,140,6
+Taylor,B104,Attorney General,,DEM,Pamela STEVENSON,85,26,55,4
+Taylor,B104,Attorney General,,,Total Votes,269,64,195,10
+Taylor,B104,Attorney General,,,Under Votes,7,3,4,0
+Taylor,B104,Attorney General,,,Over Votes,0,0,0,0
+Taylor,B104,Auditor of Public Accounts,,REP,Allison BALL,188,44,139,5
+Taylor,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",80,20,55,5
+Taylor,B104,Auditor of Public Accounts,,,Total Votes,268,64,194,10
+Taylor,B104,Auditor of Public Accounts,,,Under Votes,8,3,5,0
+Taylor,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,B104,State Treasurer,,REP,Mark H. METCALF,180,35,139,6
+Taylor,B104,State Treasurer,,DEM,Michael BOWMAN,86,29,53,4
+Taylor,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,B104,State Treasurer,,,Total Votes,266,64,192,10
+Taylor,B104,State Treasurer,,,Under Votes,10,3,7,0
+Taylor,B104,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,178,37,137,4
+Taylor,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,89,27,56,6
+Taylor,B104,Commissioner of Agriculture,,,Total Votes,267,64,193,10
+Taylor,B104,Commissioner of Agriculture,,,Under Votes,9,3,6,0
+Taylor,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,C101,STRAIGHT PARTY,,,Republican,64,7,53,4
+Taylor,C101,STRAIGHT PARTY,,,Democratic,12,1,11,0
+Taylor,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",86,12,72,2
+Taylor,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,45,5,38,2
+Taylor,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,C101,Governor,,,Total Votes,131,17,110,4
+Taylor,C101,Governor,,,Under Votes,2,2,0,0
+Taylor,C101,Governor,,,Over Votes,0,0,0,0
+Taylor,C101,Secretary of State,,REP,Michael ADAMS,101,17,80,4
+Taylor,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",31,2,29,0
+Taylor,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,C101,Secretary of State,,,Total Votes,132,19,109,4
+Taylor,C101,Secretary of State,,,Under Votes,1,0,1,0
+Taylor,C101,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,C101,Attorney General,,REP,Russell COLEMAN,108,16,88,4
+Taylor,C101,Attorney General,,DEM,Pamela STEVENSON,24,3,21,0
+Taylor,C101,Attorney General,,,Total Votes,132,19,109,4
+Taylor,C101,Attorney General,,,Under Votes,1,0,1,0
+Taylor,C101,Attorney General,,,Over Votes,0,0,0,0
+Taylor,C101,Auditor of Public Accounts,,REP,Allison BALL,110,17,89,4
+Taylor,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",22,2,20,0
+Taylor,C101,Auditor of Public Accounts,,,Total Votes,132,19,109,4
+Taylor,C101,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Taylor,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,C101,State Treasurer,,REP,Mark H. METCALF,99,15,80,4
+Taylor,C101,State Treasurer,,DEM,Michael BOWMAN,33,3,30,0
+Taylor,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,C101,State Treasurer,,,Total Votes,132,18,110,4
+Taylor,C101,State Treasurer,,,Under Votes,1,1,0,0
+Taylor,C101,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,105,15,86,4
+Taylor,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,4,24,0
+Taylor,C101,Commissioner of Agriculture,,,Total Votes,133,19,110,4
+Taylor,C101,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Taylor,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,C103,STRAIGHT PARTY,,,Republican,82,10,71,1
+Taylor,C103,STRAIGHT PARTY,,,Democratic,19,1,18,0
+Taylor,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",113,12,100,1
+Taylor,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,47,8,39,0
+Taylor,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,C103,Governor,,,Total Votes,160,20,139,1
+Taylor,C103,Governor,,,Under Votes,2,0,2,0
+Taylor,C103,Governor,,,Over Votes,0,0,0,0
+Taylor,C103,Secretary of State,,REP,Michael ADAMS,125,12,112,1
+Taylor,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",30,4,26,0
+Taylor,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,C103,Secretary of State,,,Total Votes,155,16,138,1
+Taylor,C103,Secretary of State,,,Under Votes,7,4,3,0
+Taylor,C103,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,C103,Attorney General,,REP,Russell COLEMAN,122,11,110,1
+Taylor,C103,Attorney General,,DEM,Pamela STEVENSON,33,4,29,0
+Taylor,C103,Attorney General,,,Total Votes,155,15,139,1
+Taylor,C103,Attorney General,,,Under Votes,7,5,2,0
+Taylor,C103,Attorney General,,,Over Votes,0,0,0,0
+Taylor,C103,Auditor of Public Accounts,,REP,Allison BALL,129,14,114,1
+Taylor,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",27,2,25,0
+Taylor,C103,Auditor of Public Accounts,,,Total Votes,156,16,139,1
+Taylor,C103,Auditor of Public Accounts,,,Under Votes,6,4,2,0
+Taylor,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,C103,State Treasurer,,REP,Mark H. METCALF,120,11,108,1
+Taylor,C103,State Treasurer,,DEM,Michael BOWMAN,33,3,30,0
+Taylor,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,C103,State Treasurer,,,Total Votes,153,14,138,1
+Taylor,C103,State Treasurer,,,Under Votes,9,6,3,0
+Taylor,C103,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,122,12,109,1
+Taylor,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,3,30,0
+Taylor,C103,Commissioner of Agriculture,,,Total Votes,155,15,139,1
+Taylor,C103,Commissioner of Agriculture,,,Under Votes,7,5,2,0
+Taylor,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,C104,STRAIGHT PARTY,,,Republican,110,24,86,0
+Taylor,C104,STRAIGHT PARTY,,,Democratic,53,9,44,0
+Taylor,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",157,31,126,0
+Taylor,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,116,20,94,2
+Taylor,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,C104,Governor,,,Total Votes,273,51,220,2
+Taylor,C104,Governor,,,Under Votes,1,1,0,0
+Taylor,C104,Governor,,,Over Votes,0,0,0,0
+Taylor,C104,Secretary of State,,REP,Michael ADAMS,186,37,149,0
+Taylor,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,15,67,1
+Taylor,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,C104,Secretary of State,,,Total Votes,269,52,216,1
+Taylor,C104,Secretary of State,,,Under Votes,5,0,4,1
+Taylor,C104,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,C104,Attorney General,,REP,Russell COLEMAN,186,37,148,1
+Taylor,C104,Attorney General,,DEM,Pamela STEVENSON,83,14,68,1
+Taylor,C104,Attorney General,,,Total Votes,269,51,216,2
+Taylor,C104,Attorney General,,,Under Votes,5,1,4,0
+Taylor,C104,Attorney General,,,Over Votes,0,0,0,0
+Taylor,C104,Auditor of Public Accounts,,REP,Allison BALL,188,36,152,0
+Taylor,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",79,15,62,2
+Taylor,C104,Auditor of Public Accounts,,,Total Votes,267,51,214,2
+Taylor,C104,Auditor of Public Accounts,,,Under Votes,7,1,6,0
+Taylor,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,C104,State Treasurer,,REP,Mark H. METCALF,177,33,144,0
+Taylor,C104,State Treasurer,,DEM,Michael BOWMAN,90,18,71,1
+Taylor,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,C104,State Treasurer,,,Total Votes,267,51,215,1
+Taylor,C104,State Treasurer,,,Under Votes,7,1,5,1
+Taylor,C104,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,190,37,152,1
+Taylor,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,14,62,1
+Taylor,C104,Commissioner of Agriculture,,,Total Votes,267,51,214,2
+Taylor,C104,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Taylor,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,C105,STRAIGHT PARTY,,,Republican,246,59,177,10
+Taylor,C105,STRAIGHT PARTY,,,Democratic,66,14,50,2
+Taylor,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",365,88,266,11
+Taylor,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,219,62,150,7
+Taylor,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,C105,Governor,,,Total Votes,584,150,416,18
+Taylor,C105,Governor,,,Under Votes,2,0,2,0
+Taylor,C105,Governor,,,Over Votes,0,0,0,0
+Taylor,C105,Secretary of State,,REP,Michael ADAMS,435,114,307,14
+Taylor,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",134,31,99,4
+Taylor,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,C105,Secretary of State,,,Total Votes,569,145,406,18
+Taylor,C105,Secretary of State,,,Under Votes,17,5,12,0
+Taylor,C105,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,C105,Attorney General,,REP,Russell COLEMAN,424,108,301,15
+Taylor,C105,Attorney General,,DEM,Pamela STEVENSON,143,39,101,3
+Taylor,C105,Attorney General,,,Total Votes,567,147,402,18
+Taylor,C105,Attorney General,,,Under Votes,19,3,16,0
+Taylor,C105,Attorney General,,,Over Votes,0,0,0,0
+Taylor,C105,Auditor of Public Accounts,,REP,Allison BALL,440,107,319,14
+Taylor,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",124,35,85,4
+Taylor,C105,Auditor of Public Accounts,,,Total Votes,564,142,404,18
+Taylor,C105,Auditor of Public Accounts,,,Under Votes,22,8,14,0
+Taylor,C105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,C105,State Treasurer,,REP,Mark H. METCALF,423,108,303,12
+Taylor,C105,State Treasurer,,DEM,Michael BOWMAN,135,34,95,6
+Taylor,C105,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,C105,State Treasurer,,,Total Votes,558,142,398,18
+Taylor,C105,State Treasurer,,,Under Votes,28,8,20,0
+Taylor,C105,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,435,113,309,13
+Taylor,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,128,30,93,5
+Taylor,C105,Commissioner of Agriculture,,,Total Votes,563,143,402,18
+Taylor,C105,Commissioner of Agriculture,,,Under Votes,23,7,16,0
+Taylor,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,D101,STRAIGHT PARTY,,,Republican,81,18,62,1
+Taylor,D101,STRAIGHT PARTY,,,Democratic,4,2,2,0
+Taylor,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",117,25,89,3
+Taylor,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,31,8,22,1
+Taylor,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,D101,Governor,,,Total Votes,148,33,111,4
+Taylor,D101,Governor,,,Under Votes,0,0,0,0
+Taylor,D101,Governor,,,Over Votes,0,0,0,0
+Taylor,D101,Secretary of State,,REP,Michael ADAMS,130,30,96,4
+Taylor,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",15,2,13,0
+Taylor,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,D101,Secretary of State,,,Total Votes,145,32,109,4
+Taylor,D101,Secretary of State,,,Under Votes,3,1,2,0
+Taylor,D101,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,D101,Attorney General,,REP,Russell COLEMAN,129,26,99,4
+Taylor,D101,Attorney General,,DEM,Pamela STEVENSON,17,6,11,0
+Taylor,D101,Attorney General,,,Total Votes,146,32,110,4
+Taylor,D101,Attorney General,,,Under Votes,2,1,1,0
+Taylor,D101,Attorney General,,,Over Votes,0,0,0,0
+Taylor,D101,Auditor of Public Accounts,,REP,Allison BALL,130,26,100,4
+Taylor,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",14,5,9,0
+Taylor,D101,Auditor of Public Accounts,,,Total Votes,144,31,109,4
+Taylor,D101,Auditor of Public Accounts,,,Under Votes,4,2,2,0
+Taylor,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,D101,State Treasurer,,REP,Mark H. METCALF,125,27,94,4
+Taylor,D101,State Treasurer,,DEM,Michael BOWMAN,19,5,14,0
+Taylor,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,D101,State Treasurer,,,Total Votes,144,32,108,4
+Taylor,D101,State Treasurer,,,Under Votes,4,1,3,0
+Taylor,D101,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,126,27,96,3
+Taylor,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,5,13,1
+Taylor,D101,Commissioner of Agriculture,,,Total Votes,145,32,109,4
+Taylor,D101,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Taylor,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,D102,STRAIGHT PARTY,,,Republican,277,54,216,7
+Taylor,D102,STRAIGHT PARTY,,,Democratic,68,10,54,4
+Taylor,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",435,78,347,10
+Taylor,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,245,55,180,10
+Taylor,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,D102,Governor,,,Total Votes,680,133,527,20
+Taylor,D102,Governor,,,Under Votes,2,1,1,0
+Taylor,D102,Governor,,,Over Votes,0,0,0,0
+Taylor,D102,Secretary of State,,REP,Michael ADAMS,526,106,406,14
+Taylor,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",148,27,115,6
+Taylor,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,D102,Secretary of State,,,Total Votes,674,133,521,20
+Taylor,D102,Secretary of State,,,Under Votes,8,1,7,0
+Taylor,D102,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,D102,Attorney General,,REP,Russell COLEMAN,514,104,399,11
+Taylor,D102,Attorney General,,DEM,Pamela STEVENSON,161,30,122,9
+Taylor,D102,Attorney General,,,Total Votes,675,134,521,20
+Taylor,D102,Attorney General,,,Under Votes,7,0,7,0
+Taylor,D102,Attorney General,,,Over Votes,0,0,0,0
+Taylor,D102,Auditor of Public Accounts,,REP,Allison BALL,537,106,420,11
+Taylor,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",136,27,101,8
+Taylor,D102,Auditor of Public Accounts,,,Total Votes,673,133,521,19
+Taylor,D102,Auditor of Public Accounts,,,Under Votes,9,1,7,1
+Taylor,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,D102,State Treasurer,,REP,Mark H. METCALF,506,96,398,12
+Taylor,D102,State Treasurer,,DEM,Michael BOWMAN,160,32,120,8
+Taylor,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,D102,State Treasurer,,,Total Votes,666,128,518,20
+Taylor,D102,State Treasurer,,,Under Votes,16,6,10,0
+Taylor,D102,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,526,103,412,11
+Taylor,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,146,30,107,9
+Taylor,D102,Commissioner of Agriculture,,,Total Votes,672,133,519,20
+Taylor,D102,Commissioner of Agriculture,,,Under Votes,10,1,9,0
+Taylor,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,D104,STRAIGHT PARTY,,,Republican,159,34,123,2
+Taylor,D104,STRAIGHT PARTY,,,Democratic,67,12,55,0
+Taylor,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",243,47,192,4
+Taylor,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,212,42,168,2
+Taylor,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,D104,Governor,,,Total Votes,455,89,360,6
+Taylor,D104,Governor,,,Under Votes,5,1,4,0
+Taylor,D104,Governor,,,Over Votes,0,0,0,0
+Taylor,D104,Secretary of State,,REP,Michael ADAMS,307,60,242,5
+Taylor,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",136,26,109,1
+Taylor,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,D104,Secretary of State,,,Total Votes,443,86,351,6
+Taylor,D104,Secretary of State,,,Under Votes,17,4,13,0
+Taylor,D104,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,D104,Attorney General,,REP,Russell COLEMAN,315,63,248,4
+Taylor,D104,Attorney General,,DEM,Pamela STEVENSON,134,24,108,2
+Taylor,D104,Attorney General,,,Total Votes,449,87,356,6
+Taylor,D104,Attorney General,,,Under Votes,11,3,8,0
+Taylor,D104,Attorney General,,,Over Votes,0,0,0,0
+Taylor,D104,Auditor of Public Accounts,,REP,Allison BALL,313,60,248,5
+Taylor,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",129,24,104,1
+Taylor,D104,Auditor of Public Accounts,,,Total Votes,442,84,352,6
+Taylor,D104,Auditor of Public Accounts,,,Under Votes,18,6,12,0
+Taylor,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,D104,State Treasurer,,REP,Mark H. METCALF,289,54,231,4
+Taylor,D104,State Treasurer,,DEM,Michael BOWMAN,151,32,117,2
+Taylor,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,D104,State Treasurer,,,Total Votes,440,86,348,6
+Taylor,D104,State Treasurer,,,Under Votes,20,4,16,0
+Taylor,D104,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,314,60,250,4
+Taylor,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,128,26,100,2
+Taylor,D104,Commissioner of Agriculture,,,Total Votes,442,86,350,6
+Taylor,D104,Commissioner of Agriculture,,,Under Votes,18,4,14,0
+Taylor,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,E101,STRAIGHT PARTY,,,Republican,270,75,190,5
+Taylor,E101,STRAIGHT PARTY,,,Democratic,89,30,55,4
+Taylor,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",403,107,285,11
+Taylor,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,260,82,164,14
+Taylor,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,E101,Governor,,,Total Votes,663,189,449,25
+Taylor,E101,Governor,,,Under Votes,2,1,1,0
+Taylor,E101,Governor,,,Over Votes,0,0,0,0
+Taylor,E101,Secretary of State,,REP,Michael ADAMS,478,132,331,15
+Taylor,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",171,54,108,9
+Taylor,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,E101,Secretary of State,,,Total Votes,649,186,439,24
+Taylor,E101,Secretary of State,,,Under Votes,16,4,11,1
+Taylor,E101,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,E101,Attorney General,,REP,Russell COLEMAN,479,132,331,16
+Taylor,E101,Attorney General,,DEM,Pamela STEVENSON,170,55,107,8
+Taylor,E101,Attorney General,,,Total Votes,649,187,438,24
+Taylor,E101,Attorney General,,,Under Votes,16,3,12,1
+Taylor,E101,Attorney General,,,Over Votes,0,0,0,0
+Taylor,E101,Auditor of Public Accounts,,REP,Allison BALL,492,136,338,18
+Taylor,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",153,51,96,6
+Taylor,E101,Auditor of Public Accounts,,,Total Votes,645,187,434,24
+Taylor,E101,Auditor of Public Accounts,,,Under Votes,19,2,16,1
+Taylor,E101,Auditor of Public Accounts,,,Over Votes,1,1,0,0
+Taylor,E101,State Treasurer,,REP,Mark H. METCALF,459,122,323,14
+Taylor,E101,State Treasurer,,DEM,Michael BOWMAN,177,59,108,10
+Taylor,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,E101,State Treasurer,,,Total Votes,636,181,431,24
+Taylor,E101,State Treasurer,,,Under Votes,28,8,19,1
+Taylor,E101,State Treasurer,,,Over Votes,1,1,0,0
+Taylor,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,481,134,334,13
+Taylor,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,159,51,97,11
+Taylor,E101,Commissioner of Agriculture,,,Total Votes,640,185,431,24
+Taylor,E101,Commissioner of Agriculture,,,Under Votes,25,5,19,1
+Taylor,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,E102,STRAIGHT PARTY,,,Republican,106,26,76,4
+Taylor,E102,STRAIGHT PARTY,,,Democratic,66,19,43,4
+Taylor,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",154,41,109,4
+Taylor,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,156,43,103,10
+Taylor,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,E102,Governor,,,Total Votes,310,84,212,14
+Taylor,E102,Governor,,,Under Votes,0,0,0,0
+Taylor,E102,Governor,,,Over Votes,0,0,0,0
+Taylor,E102,Secretary of State,,REP,Michael ADAMS,179,45,126,8
+Taylor,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",122,36,80,6
+Taylor,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,E102,Secretary of State,,,Total Votes,301,81,206,14
+Taylor,E102,Secretary of State,,,Under Votes,9,3,6,0
+Taylor,E102,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,E102,Attorney General,,REP,Russell COLEMAN,183,48,125,10
+Taylor,E102,Attorney General,,DEM,Pamela STEVENSON,118,33,81,4
+Taylor,E102,Attorney General,,,Total Votes,301,81,206,14
+Taylor,E102,Attorney General,,,Under Votes,9,3,6,0
+Taylor,E102,Attorney General,,,Over Votes,0,0,0,0
+Taylor,E102,Auditor of Public Accounts,,REP,Allison BALL,189,46,133,10
+Taylor,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,32,72,4
+Taylor,E102,Auditor of Public Accounts,,,Total Votes,297,78,205,14
+Taylor,E102,Auditor of Public Accounts,,,Under Votes,13,6,7,0
+Taylor,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,E102,State Treasurer,,REP,Mark H. METCALF,177,46,122,9
+Taylor,E102,State Treasurer,,DEM,Michael BOWMAN,121,34,82,5
+Taylor,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,E102,State Treasurer,,,Total Votes,298,80,204,14
+Taylor,E102,State Treasurer,,,Under Votes,12,4,8,0
+Taylor,E102,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,184,49,124,11
+Taylor,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,112,31,78,3
+Taylor,E102,Commissioner of Agriculture,,,Total Votes,296,80,202,14
+Taylor,E102,Commissioner of Agriculture,,,Under Votes,14,4,10,0
+Taylor,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,E103,STRAIGHT PARTY,,,Republican,102,23,76,3
+Taylor,E103,STRAIGHT PARTY,,,Democratic,40,15,22,3
+Taylor,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",169,38,127,4
+Taylor,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,41,52,4
+Taylor,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,E103,Governor,,,Total Votes,266,79,179,8
+Taylor,E103,Governor,,,Under Votes,2,1,1,0
+Taylor,E103,Governor,,,Over Votes,0,0,0,0
+Taylor,E103,Secretary of State,,REP,Michael ADAMS,190,52,134,4
+Taylor,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",72,27,41,4
+Taylor,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,E103,Secretary of State,,,Total Votes,262,79,175,8
+Taylor,E103,Secretary of State,,,Under Votes,6,1,5,0
+Taylor,E103,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,E103,Attorney General,,REP,Russell COLEMAN,194,47,143,4
+Taylor,E103,Attorney General,,DEM,Pamela STEVENSON,68,30,34,4
+Taylor,E103,Attorney General,,,Total Votes,262,77,177,8
+Taylor,E103,Attorney General,,,Under Votes,6,3,3,0
+Taylor,E103,Attorney General,,,Over Votes,0,0,0,0
+Taylor,E103,Auditor of Public Accounts,,REP,Allison BALL,201,51,146,4
+Taylor,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",59,25,30,4
+Taylor,E103,Auditor of Public Accounts,,,Total Votes,260,76,176,8
+Taylor,E103,Auditor of Public Accounts,,,Under Votes,8,4,4,0
+Taylor,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,E103,State Treasurer,,REP,Mark H. METCALF,194,48,142,4
+Taylor,E103,State Treasurer,,DEM,Michael BOWMAN,65,30,31,4
+Taylor,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,E103,State Treasurer,,,Total Votes,259,78,173,8
+Taylor,E103,State Treasurer,,,Under Votes,9,2,7,0
+Taylor,E103,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,199,49,146,4
+Taylor,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,64,29,31,4
+Taylor,E103,Commissioner of Agriculture,,,Total Votes,263,78,177,8
+Taylor,E103,Commissioner of Agriculture,,,Under Votes,5,2,3,0
+Taylor,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,F101,STRAIGHT PARTY,,,Republican,117,18,93,6
+Taylor,F101,STRAIGHT PARTY,,,Democratic,33,2,30,1
+Taylor,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",214,35,170,9
+Taylor,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,126,14,109,3
+Taylor,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,F101,Governor,,,Total Votes,340,49,279,12
+Taylor,F101,Governor,,,Under Votes,2,1,1,0
+Taylor,F101,Governor,,,Over Votes,0,0,0,0
+Taylor,F101,Secretary of State,,REP,Michael ADAMS,246,36,201,9
+Taylor,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",86,10,73,3
+Taylor,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,F101,Secretary of State,,,Total Votes,332,46,274,12
+Taylor,F101,Secretary of State,,,Under Votes,10,4,6,0
+Taylor,F101,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,F101,Attorney General,,REP,Russell COLEMAN,258,42,207,9
+Taylor,F101,Attorney General,,DEM,Pamela STEVENSON,75,5,67,3
+Taylor,F101,Attorney General,,,Total Votes,333,47,274,12
+Taylor,F101,Attorney General,,,Under Votes,9,3,6,0
+Taylor,F101,Attorney General,,,Over Votes,0,0,0,0
+Taylor,F101,Auditor of Public Accounts,,REP,Allison BALL,263,43,211,9
+Taylor,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",67,4,60,3
+Taylor,F101,Auditor of Public Accounts,,,Total Votes,330,47,271,12
+Taylor,F101,Auditor of Public Accounts,,,Under Votes,12,3,9,0
+Taylor,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,F101,State Treasurer,,REP,Mark H. METCALF,253,37,206,10
+Taylor,F101,State Treasurer,,DEM,Michael BOWMAN,76,9,65,2
+Taylor,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,F101,State Treasurer,,,Total Votes,329,46,271,12
+Taylor,F101,State Treasurer,,,Under Votes,13,4,9,0
+Taylor,F101,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,266,44,213,9
+Taylor,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,69,3,63,3
+Taylor,F101,Commissioner of Agriculture,,,Total Votes,335,47,276,12
+Taylor,F101,Commissioner of Agriculture,,,Under Votes,7,3,4,0
+Taylor,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,F102,STRAIGHT PARTY,,,Republican,276,75,196,5
+Taylor,F102,STRAIGHT PARTY,,,Democratic,78,29,42,7
+Taylor,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",405,98,300,7
+Taylor,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,287,112,161,14
+Taylor,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,F102,Governor,,,Total Votes,692,210,461,21
+Taylor,F102,Governor,,,Under Votes,3,1,2,0
+Taylor,F102,Governor,,,Over Votes,0,0,0,0
+Taylor,F102,Secretary of State,,REP,Michael ADAMS,498,143,345,10
+Taylor,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",172,62,99,11
+Taylor,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,F102,Secretary of State,,,Total Votes,670,205,444,21
+Taylor,F102,Secretary of State,,,Under Votes,25,6,19,0
+Taylor,F102,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,F102,Attorney General,,REP,Russell COLEMAN,496,143,343,10
+Taylor,F102,Attorney General,,DEM,Pamela STEVENSON,168,58,99,11
+Taylor,F102,Attorney General,,,Total Votes,664,201,442,21
+Taylor,F102,Attorney General,,,Under Votes,31,10,21,0
+Taylor,F102,Attorney General,,,Over Votes,0,0,0,0
+Taylor,F102,Auditor of Public Accounts,,REP,Allison BALL,525,149,366,10
+Taylor,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",146,55,80,11
+Taylor,F102,Auditor of Public Accounts,,,Total Votes,671,204,446,21
+Taylor,F102,Auditor of Public Accounts,,,Under Votes,24,7,17,0
+Taylor,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,F102,State Treasurer,,REP,Mark H. METCALF,484,135,340,9
+Taylor,F102,State Treasurer,,DEM,Michael BOWMAN,175,67,96,12
+Taylor,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,F102,State Treasurer,,,Total Votes,659,202,436,21
+Taylor,F102,State Treasurer,,,Under Votes,36,9,27,0
+Taylor,F102,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,509,147,352,10
+Taylor,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,158,57,90,11
+Taylor,F102,Commissioner of Agriculture,,,Total Votes,667,204,442,21
+Taylor,F102,Commissioner of Agriculture,,,Under Votes,28,7,21,0
+Taylor,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Taylor,F103,STRAIGHT PARTY,,,Republican,189,54,130,5
+Taylor,F103,STRAIGHT PARTY,,,Democratic,103,24,75,4
+Taylor,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",269,75,189,5
+Taylor,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,232,49,175,8
+Taylor,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Taylor,F103,Governor,,,Total Votes,501,124,364,13
+Taylor,F103,Governor,,,Under Votes,1,0,1,0
+Taylor,F103,Governor,,,Over Votes,0,0,0,0
+Taylor,F103,Secretary of State,,REP,Michael ADAMS,321,85,230,6
+Taylor,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",164,38,120,6
+Taylor,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Taylor,F103,Secretary of State,,,Total Votes,485,123,350,12
+Taylor,F103,Secretary of State,,,Under Votes,17,1,15,1
+Taylor,F103,Secretary of State,,,Over Votes,0,0,0,0
+Taylor,F103,Attorney General,,REP,Russell COLEMAN,310,82,221,7
+Taylor,F103,Attorney General,,DEM,Pamela STEVENSON,176,40,130,6
+Taylor,F103,Attorney General,,,Total Votes,486,122,351,13
+Taylor,F103,Attorney General,,,Under Votes,16,2,14,0
+Taylor,F103,Attorney General,,,Over Votes,0,0,0,0
+Taylor,F103,Auditor of Public Accounts,,REP,Allison BALL,332,84,242,6
+Taylor,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",153,37,111,5
+Taylor,F103,Auditor of Public Accounts,,,Total Votes,485,121,353,11
+Taylor,F103,Auditor of Public Accounts,,,Under Votes,17,3,12,2
+Taylor,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Taylor,F103,State Treasurer,,REP,Mark H. METCALF,296,80,211,5
+Taylor,F103,State Treasurer,,DEM,Michael BOWMAN,178,40,133,5
+Taylor,F103,State Treasurer,,,Robert Perry,0,0,0,0
+Taylor,F103,State Treasurer,,,Total Votes,474,120,344,10
+Taylor,F103,State Treasurer,,,Under Votes,28,4,21,3
+Taylor,F103,State Treasurer,,,Over Votes,0,0,0,0
+Taylor,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,312,84,222,6
+Taylor,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,173,38,129,6
+Taylor,F103,Commissioner of Agriculture,,,Total Votes,485,122,351,12
+Taylor,F103,Commissioner of Agriculture,,,Under Votes,17,2,14,1
+Taylor,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

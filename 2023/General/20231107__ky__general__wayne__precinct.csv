@@ -1,0 +1,666 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Wayne,A101,STRAIGHT PARTY,,,Republican,44,15,28,1
+Wayne,A101,STRAIGHT PARTY,,,Democratic,27,5,18,4
+Wayne,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",72,18,51,3
+Wayne,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,16,51,13
+Wayne,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,A101,Governor,,,Total Votes,152,34,102,16
+Wayne,A101,Governor,,,Under Votes,2,0,1,1
+Wayne,A101,Governor,,,Over Votes,0,0,0,0
+Wayne,A101,Secretary of State,,REP,Michael ADAMS,98,22,68,8
+Wayne,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",51,11,31,9
+Wayne,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,A101,Secretary of State,,,Total Votes,149,33,99,17
+Wayne,A101,Secretary of State,,,Under Votes,5,1,4,0
+Wayne,A101,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,A101,Attorney General,,REP,Russell COLEMAN,95,22,65,8
+Wayne,A101,Attorney General,,DEM,Pamela STEVENSON,53,11,33,9
+Wayne,A101,Attorney General,,,Total Votes,148,33,98,17
+Wayne,A101,Attorney General,,,Under Votes,6,1,5,0
+Wayne,A101,Attorney General,,,Over Votes,0,0,0,0
+Wayne,A101,Auditor of Public Accounts,,REP,Allison BALL,106,22,75,9
+Wayne,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,11,25,8
+Wayne,A101,Auditor of Public Accounts,,,Total Votes,150,33,100,17
+Wayne,A101,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Wayne,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,A101,State Treasurer,,REP,Mark H. METCALF,95,22,65,8
+Wayne,A101,State Treasurer,,DEM,Michael BOWMAN,54,10,35,9
+Wayne,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,A101,State Treasurer,,,Total Votes,149,32,100,17
+Wayne,A101,State Treasurer,,,Under Votes,5,2,3,0
+Wayne,A101,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,91,22,63,6
+Wayne,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,10,36,11
+Wayne,A101,Commissioner of Agriculture,,,Total Votes,148,32,99,17
+Wayne,A101,Commissioner of Agriculture,,,Under Votes,6,2,4,0
+Wayne,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,A102,STRAIGHT PARTY,,,Republican,39,3,34,2
+Wayne,A102,STRAIGHT PARTY,,,Democratic,25,10,13,2
+Wayne,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",48,6,39,3
+Wayne,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,55,14,37,4
+Wayne,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,A102,Governor,,,Total Votes,103,20,76,7
+Wayne,A102,Governor,,,Under Votes,0,0,0,0
+Wayne,A102,Governor,,,Over Votes,0,0,0,0
+Wayne,A102,Secretary of State,,REP,Michael ADAMS,69,9,56,4
+Wayne,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",30,11,16,3
+Wayne,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,A102,Secretary of State,,,Total Votes,99,20,72,7
+Wayne,A102,Secretary of State,,,Under Votes,4,0,4,0
+Wayne,A102,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,A102,Attorney General,,REP,Russell COLEMAN,64,8,52,4
+Wayne,A102,Attorney General,,DEM,Pamela STEVENSON,36,12,21,3
+Wayne,A102,Attorney General,,,Total Votes,100,20,73,7
+Wayne,A102,Attorney General,,,Under Votes,3,0,3,0
+Wayne,A102,Attorney General,,,Over Votes,0,0,0,0
+Wayne,A102,Auditor of Public Accounts,,REP,Allison BALL,66,7,55,4
+Wayne,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,13,17,3
+Wayne,A102,Auditor of Public Accounts,,,Total Votes,99,20,72,7
+Wayne,A102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Wayne,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,A102,State Treasurer,,REP,Mark H. METCALF,62,5,53,4
+Wayne,A102,State Treasurer,,DEM,Michael BOWMAN,38,15,20,3
+Wayne,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,A102,State Treasurer,,,Total Votes,100,20,73,7
+Wayne,A102,State Treasurer,,,Under Votes,3,0,3,0
+Wayne,A102,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,64,7,54,3
+Wayne,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,13,18,4
+Wayne,A102,Commissioner of Agriculture,,,Total Votes,99,20,72,7
+Wayne,A102,Commissioner of Agriculture,,,Under Votes,4,0,4,0
+Wayne,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,A103,STRAIGHT PARTY,,,Republican,172,27,140,5
+Wayne,A103,STRAIGHT PARTY,,,Democratic,46,10,32,4
+Wayne,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",252,41,206,5
+Wayne,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,146,20,118,8
+Wayne,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,A103,Governor,,,Total Votes,398,61,324,13
+Wayne,A103,Governor,,,Under Votes,0,0,0,0
+Wayne,A103,Governor,,,Over Votes,0,0,0,0
+Wayne,A103,Secretary of State,,REP,Michael ADAMS,292,44,241,7
+Wayne,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",84,12,66,6
+Wayne,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,A103,Secretary of State,,,Total Votes,376,56,307,13
+Wayne,A103,Secretary of State,,,Under Votes,22,5,17,0
+Wayne,A103,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,A103,Attorney General,,REP,Russell COLEMAN,285,43,235,7
+Wayne,A103,Attorney General,,DEM,Pamela STEVENSON,91,14,71,6
+Wayne,A103,Attorney General,,,Total Votes,376,57,306,13
+Wayne,A103,Attorney General,,,Under Votes,22,4,18,0
+Wayne,A103,Attorney General,,,Over Votes,0,0,0,0
+Wayne,A103,Auditor of Public Accounts,,REP,Allison BALL,290,42,241,7
+Wayne,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",84,15,63,6
+Wayne,A103,Auditor of Public Accounts,,,Total Votes,374,57,304,13
+Wayne,A103,Auditor of Public Accounts,,,Under Votes,24,4,20,0
+Wayne,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,A103,State Treasurer,,REP,Mark H. METCALF,276,40,230,6
+Wayne,A103,State Treasurer,,DEM,Michael BOWMAN,95,17,71,7
+Wayne,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,A103,State Treasurer,,,Total Votes,371,57,301,13
+Wayne,A103,State Treasurer,,,Under Votes,27,4,23,0
+Wayne,A103,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,296,44,245,7
+Wayne,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,79,13,60,6
+Wayne,A103,Commissioner of Agriculture,,,Total Votes,375,57,305,13
+Wayne,A103,Commissioner of Agriculture,,,Under Votes,23,4,19,0
+Wayne,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,A106,STRAIGHT PARTY,,,Republican,58,18,33,7
+Wayne,A106,STRAIGHT PARTY,,,Democratic,20,5,12,3
+Wayne,A106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",92,21,60,11
+Wayne,A106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,28,38,6
+Wayne,A106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,A106,Governor,,,Total Votes,164,49,98,17
+Wayne,A106,Governor,,,Under Votes,3,2,1,0
+Wayne,A106,Governor,,,Over Votes,0,0,0,0
+Wayne,A106,Secretary of State,,REP,Michael ADAMS,123,38,75,10
+Wayne,A106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",33,9,20,4
+Wayne,A106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,A106,Secretary of State,,,Total Votes,156,47,95,14
+Wayne,A106,Secretary of State,,,Under Votes,11,4,4,3
+Wayne,A106,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,A106,Attorney General,,REP,Russell COLEMAN,110,30,70,10
+Wayne,A106,Attorney General,,DEM,Pamela STEVENSON,44,17,23,4
+Wayne,A106,Attorney General,,,Total Votes,154,47,93,14
+Wayne,A106,Attorney General,,,Under Votes,13,4,6,3
+Wayne,A106,Attorney General,,,Over Votes,0,0,0,0
+Wayne,A106,Auditor of Public Accounts,,REP,Allison BALL,122,37,74,11
+Wayne,A106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",36,11,21,4
+Wayne,A106,Auditor of Public Accounts,,,Total Votes,158,48,95,15
+Wayne,A106,Auditor of Public Accounts,,,Under Votes,9,3,4,2
+Wayne,A106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,A106,State Treasurer,,REP,Mark H. METCALF,106,28,69,9
+Wayne,A106,State Treasurer,,DEM,Michael BOWMAN,48,19,24,5
+Wayne,A106,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,A106,State Treasurer,,,Total Votes,154,47,93,14
+Wayne,A106,State Treasurer,,,Under Votes,13,4,6,3
+Wayne,A106,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,115,31,74,10
+Wayne,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,17,21,4
+Wayne,A106,Commissioner of Agriculture,,,Total Votes,157,48,95,14
+Wayne,A106,Commissioner of Agriculture,,,Under Votes,10,3,4,3
+Wayne,A106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,A107,STRAIGHT PARTY,,,Republican,59,18,41,0
+Wayne,A107,STRAIGHT PARTY,,,Democratic,27,7,17,3
+Wayne,A107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",87,27,58,2
+Wayne,A107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,20,39,11
+Wayne,A107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,A107,Governor,,,Total Votes,157,47,97,13
+Wayne,A107,Governor,,,Under Votes,5,3,2,0
+Wayne,A107,Governor,,,Over Votes,0,0,0,0
+Wayne,A107,Secretary of State,,REP,Michael ADAMS,112,37,70,5
+Wayne,A107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",44,9,27,8
+Wayne,A107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,A107,Secretary of State,,,Total Votes,156,46,97,13
+Wayne,A107,Secretary of State,,,Under Votes,6,4,2,0
+Wayne,A107,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,A107,Attorney General,,REP,Russell COLEMAN,111,34,74,3
+Wayne,A107,Attorney General,,DEM,Pamela STEVENSON,47,14,23,10
+Wayne,A107,Attorney General,,,Total Votes,158,48,97,13
+Wayne,A107,Attorney General,,,Under Votes,4,2,2,0
+Wayne,A107,Attorney General,,,Over Votes,0,0,0,0
+Wayne,A107,Auditor of Public Accounts,,REP,Allison BALL,113,38,72,3
+Wayne,A107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,10,23,10
+Wayne,A107,Auditor of Public Accounts,,,Total Votes,156,48,95,13
+Wayne,A107,Auditor of Public Accounts,,,Under Votes,6,2,4,0
+Wayne,A107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,A107,State Treasurer,,REP,Mark H. METCALF,106,37,66,3
+Wayne,A107,State Treasurer,,DEM,Michael BOWMAN,49,11,29,9
+Wayne,A107,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,A107,State Treasurer,,,Total Votes,155,48,95,12
+Wayne,A107,State Treasurer,,,Under Votes,7,2,4,1
+Wayne,A107,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,A107,Commissioner of Agriculture,,REP,Jonathan SHELL,116,38,74,4
+Wayne,A107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,39,10,21,8
+Wayne,A107,Commissioner of Agriculture,,,Total Votes,155,48,95,12
+Wayne,A107,Commissioner of Agriculture,,,Under Votes,7,2,4,1
+Wayne,A107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,B101,STRAIGHT PARTY,,,Republican,115,20,92,3
+Wayne,B101,STRAIGHT PARTY,,,Democratic,38,11,26,1
+Wayne,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",163,28,129,6
+Wayne,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,130,26,97,7
+Wayne,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,B101,Governor,,,Total Votes,293,54,226,13
+Wayne,B101,Governor,,,Under Votes,3,0,1,2
+Wayne,B101,Governor,,,Over Votes,0,0,0,0
+Wayne,B101,Secretary of State,,REP,Michael ADAMS,211,35,162,14
+Wayne,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",75,17,57,1
+Wayne,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,B101,Secretary of State,,,Total Votes,286,52,219,15
+Wayne,B101,Secretary of State,,,Under Votes,10,2,8,0
+Wayne,B101,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,B101,Attorney General,,REP,Russell COLEMAN,204,34,157,13
+Wayne,B101,Attorney General,,DEM,Pamela STEVENSON,82,19,61,2
+Wayne,B101,Attorney General,,,Total Votes,286,53,218,15
+Wayne,B101,Attorney General,,,Under Votes,10,1,9,0
+Wayne,B101,Attorney General,,,Over Votes,0,0,0,0
+Wayne,B101,Auditor of Public Accounts,,REP,Allison BALL,217,33,170,14
+Wayne,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,18,50,1
+Wayne,B101,Auditor of Public Accounts,,,Total Votes,286,51,220,15
+Wayne,B101,Auditor of Public Accounts,,,Under Votes,10,3,7,0
+Wayne,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,B101,State Treasurer,,REP,Mark H. METCALF,187,31,143,13
+Wayne,B101,State Treasurer,,DEM,Michael BOWMAN,96,21,73,2
+Wayne,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,B101,State Treasurer,,,Total Votes,283,52,216,15
+Wayne,B101,State Treasurer,,,Under Votes,13,2,11,0
+Wayne,B101,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,200,32,155,13
+Wayne,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,19,60,2
+Wayne,B101,Commissioner of Agriculture,,,Total Votes,281,51,215,15
+Wayne,B101,Commissioner of Agriculture,,,Under Votes,15,3,12,0
+Wayne,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,B102,STRAIGHT PARTY,,,Republican,90,6,84,0
+Wayne,B102,STRAIGHT PARTY,,,Democratic,16,3,13,0
+Wayne,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",137,16,121,0
+Wayne,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,8,53,6
+Wayne,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,B102,Governor,,,Total Votes,204,24,174,6
+Wayne,B102,Governor,,,Under Votes,1,0,1,0
+Wayne,B102,Governor,,,Over Votes,0,0,0,0
+Wayne,B102,Secretary of State,,REP,Michael ADAMS,157,16,136,5
+Wayne,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",42,8,33,1
+Wayne,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,B102,Secretary of State,,,Total Votes,199,24,169,6
+Wayne,B102,Secretary of State,,,Under Votes,6,0,6,0
+Wayne,B102,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,B102,Attorney General,,REP,Russell COLEMAN,162,17,141,4
+Wayne,B102,Attorney General,,DEM,Pamela STEVENSON,37,6,29,2
+Wayne,B102,Attorney General,,,Total Votes,199,23,170,6
+Wayne,B102,Attorney General,,,Under Votes,6,1,5,0
+Wayne,B102,Attorney General,,,Over Votes,0,0,0,0
+Wayne,B102,Auditor of Public Accounts,,REP,Allison BALL,162,16,141,5
+Wayne,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",35,7,27,1
+Wayne,B102,Auditor of Public Accounts,,,Total Votes,197,23,168,6
+Wayne,B102,Auditor of Public Accounts,,,Under Votes,8,1,7,0
+Wayne,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,B102,State Treasurer,,REP,Mark H. METCALF,158,17,138,3
+Wayne,B102,State Treasurer,,DEM,Michael BOWMAN,41,7,31,3
+Wayne,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,B102,State Treasurer,,,Total Votes,199,24,169,6
+Wayne,B102,State Treasurer,,,Under Votes,6,0,6,0
+Wayne,B102,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,164,17,142,5
+Wayne,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,7,27,1
+Wayne,B102,Commissioner of Agriculture,,,Total Votes,199,24,169,6
+Wayne,B102,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Wayne,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,B103,STRAIGHT PARTY,,,Republican,157,17,137,3
+Wayne,B103,STRAIGHT PARTY,,,Democratic,26,6,19,1
+Wayne,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",226,25,196,5
+Wayne,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,96,16,76,4
+Wayne,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,B103,Governor,,,Total Votes,322,41,272,9
+Wayne,B103,Governor,,,Under Votes,2,0,2,0
+Wayne,B103,Governor,,,Over Votes,1,1,0,0
+Wayne,B103,Secretary of State,,REP,Michael ADAMS,258,28,223,7
+Wayne,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,12,40,2
+Wayne,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,B103,Secretary of State,,,Total Votes,312,40,263,9
+Wayne,B103,Secretary of State,,,Under Votes,13,2,11,0
+Wayne,B103,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,B103,Attorney General,,REP,Russell COLEMAN,255,28,220,7
+Wayne,B103,Attorney General,,DEM,Pamela STEVENSON,58,12,44,2
+Wayne,B103,Attorney General,,,Total Votes,313,40,264,9
+Wayne,B103,Attorney General,,,Under Votes,12,2,10,0
+Wayne,B103,Attorney General,,,Over Votes,0,0,0,0
+Wayne,B103,Auditor of Public Accounts,,REP,Allison BALL,259,32,220,7
+Wayne,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",52,9,41,2
+Wayne,B103,Auditor of Public Accounts,,,Total Votes,311,41,261,9
+Wayne,B103,Auditor of Public Accounts,,,Under Votes,14,1,13,0
+Wayne,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,B103,State Treasurer,,REP,Mark H. METCALF,244,27,210,7
+Wayne,B103,State Treasurer,,DEM,Michael BOWMAN,59,11,46,2
+Wayne,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,B103,State Treasurer,,,Total Votes,303,38,256,9
+Wayne,B103,State Treasurer,,,Under Votes,22,4,18,0
+Wayne,B103,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,266,32,227,7
+Wayne,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,8,34,2
+Wayne,B103,Commissioner of Agriculture,,,Total Votes,310,40,261,9
+Wayne,B103,Commissioner of Agriculture,,,Under Votes,15,2,13,0
+Wayne,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,B106,STRAIGHT PARTY,,,Republican,116,17,89,10
+Wayne,B106,STRAIGHT PARTY,,,Democratic,17,4,13,0
+Wayne,B106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",157,27,116,14
+Wayne,B106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,52,7,40,5
+Wayne,B106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,B106,Governor,,,Total Votes,209,34,156,19
+Wayne,B106,Governor,,,Under Votes,1,0,1,0
+Wayne,B106,Governor,,,Over Votes,0,0,0,0
+Wayne,B106,Secretary of State,,REP,Michael ADAMS,179,29,131,19
+Wayne,B106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",27,5,22,0
+Wayne,B106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,B106,Secretary of State,,,Total Votes,206,34,153,19
+Wayne,B106,Secretary of State,,,Under Votes,4,0,4,0
+Wayne,B106,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,B106,Attorney General,,REP,Russell COLEMAN,178,28,134,16
+Wayne,B106,Attorney General,,DEM,Pamela STEVENSON,26,6,17,3
+Wayne,B106,Attorney General,,,Total Votes,204,34,151,19
+Wayne,B106,Attorney General,,,Under Votes,6,0,6,0
+Wayne,B106,Attorney General,,,Over Votes,0,0,0,0
+Wayne,B106,Auditor of Public Accounts,,REP,Allison BALL,181,28,134,19
+Wayne,B106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",24,6,18,0
+Wayne,B106,Auditor of Public Accounts,,,Total Votes,205,34,152,19
+Wayne,B106,Auditor of Public Accounts,,,Under Votes,5,0,5,0
+Wayne,B106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,B106,State Treasurer,,REP,Mark H. METCALF,169,26,125,18
+Wayne,B106,State Treasurer,,DEM,Michael BOWMAN,34,8,25,1
+Wayne,B106,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,B106,State Treasurer,,,Total Votes,203,34,150,19
+Wayne,B106,State Treasurer,,,Under Votes,7,0,7,0
+Wayne,B106,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,B106,Commissioner of Agriculture,,REP,Jonathan SHELL,172,28,126,18
+Wayne,B106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,30,6,23,1
+Wayne,B106,Commissioner of Agriculture,,,Total Votes,202,34,149,19
+Wayne,B106,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Wayne,B106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,B109,STRAIGHT PARTY,,,Republican,51,12,39,0
+Wayne,B109,STRAIGHT PARTY,,,Democratic,18,4,14,0
+Wayne,B109,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",79,20,59,0
+Wayne,B109,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,51,12,36,3
+Wayne,B109,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,B109,Governor,,,Total Votes,130,32,95,3
+Wayne,B109,Governor,,,Under Votes,2,0,2,0
+Wayne,B109,Governor,,,Over Votes,0,0,0,0
+Wayne,B109,Secretary of State,,REP,Michael ADAMS,100,24,75,1
+Wayne,B109,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",24,6,18,0
+Wayne,B109,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,B109,Secretary of State,,,Total Votes,124,30,93,1
+Wayne,B109,Secretary of State,,,Under Votes,8,2,4,2
+Wayne,B109,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,B109,Attorney General,,REP,Russell COLEMAN,95,25,70,0
+Wayne,B109,Attorney General,,DEM,Pamela STEVENSON,30,6,23,1
+Wayne,B109,Attorney General,,,Total Votes,125,31,93,1
+Wayne,B109,Attorney General,,,Under Votes,7,1,4,2
+Wayne,B109,Attorney General,,,Over Votes,0,0,0,0
+Wayne,B109,Auditor of Public Accounts,,REP,Allison BALL,102,25,76,1
+Wayne,B109,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",22,5,17,0
+Wayne,B109,Auditor of Public Accounts,,,Total Votes,124,30,93,1
+Wayne,B109,Auditor of Public Accounts,,,Under Votes,8,2,4,2
+Wayne,B109,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,B109,State Treasurer,,REP,Mark H. METCALF,95,25,69,1
+Wayne,B109,State Treasurer,,DEM,Michael BOWMAN,27,4,23,0
+Wayne,B109,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,B109,State Treasurer,,,Total Votes,122,29,92,1
+Wayne,B109,State Treasurer,,,Under Votes,10,3,5,2
+Wayne,B109,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,B109,Commissioner of Agriculture,,REP,Jonathan SHELL,102,26,75,1
+Wayne,B109,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,5,20,0
+Wayne,B109,Commissioner of Agriculture,,,Total Votes,127,31,95,1
+Wayne,B109,Commissioner of Agriculture,,,Under Votes,5,1,2,2
+Wayne,B109,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,D104,STRAIGHT PARTY,,,Republican,89,14,72,3
+Wayne,D104,STRAIGHT PARTY,,,Democratic,17,7,8,2
+Wayne,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",131,23,104,4
+Wayne,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,70,13,46,11
+Wayne,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,D104,Governor,,,Total Votes,201,36,150,15
+Wayne,D104,Governor,,,Under Votes,0,0,0,0
+Wayne,D104,Governor,,,Over Votes,0,0,0,0
+Wayne,D104,Secretary of State,,REP,Michael ADAMS,157,29,118,10
+Wayne,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",36,7,25,4
+Wayne,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,D104,Secretary of State,,,Total Votes,193,36,143,14
+Wayne,D104,Secretary of State,,,Under Votes,8,0,7,1
+Wayne,D104,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,D104,Attorney General,,REP,Russell COLEMAN,152,27,117,8
+Wayne,D104,Attorney General,,DEM,Pamela STEVENSON,41,8,27,6
+Wayne,D104,Attorney General,,,Total Votes,193,35,144,14
+Wayne,D104,Attorney General,,,Under Votes,8,1,6,1
+Wayne,D104,Attorney General,,,Over Votes,0,0,0,0
+Wayne,D104,Auditor of Public Accounts,,REP,Allison BALL,151,28,115,8
+Wayne,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,7,29,5
+Wayne,D104,Auditor of Public Accounts,,,Total Votes,192,35,144,13
+Wayne,D104,Auditor of Public Accounts,,,Under Votes,9,1,6,2
+Wayne,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,D104,State Treasurer,,REP,Mark H. METCALF,145,28,109,8
+Wayne,D104,State Treasurer,,DEM,Michael BOWMAN,43,7,30,6
+Wayne,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,D104,State Treasurer,,,Total Votes,188,35,139,14
+Wayne,D104,State Treasurer,,,Under Votes,13,1,11,1
+Wayne,D104,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,153,28,116,9
+Wayne,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,37,7,25,5
+Wayne,D104,Commissioner of Agriculture,,,Total Votes,190,35,141,14
+Wayne,D104,Commissioner of Agriculture,,,Under Votes,11,1,9,1
+Wayne,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,D105,STRAIGHT PARTY,,,Republican,115,25,89,1
+Wayne,D105,STRAIGHT PARTY,,,Democratic,22,6,14,2
+Wayne,D105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",162,29,132,1
+Wayne,D105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,64,16,43,5
+Wayne,D105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,D105,Governor,,,Total Votes,226,45,175,6
+Wayne,D105,Governor,,,Under Votes,4,0,4,0
+Wayne,D105,Governor,,,Over Votes,1,1,0,0
+Wayne,D105,Secretary of State,,REP,Michael ADAMS,182,34,146,2
+Wayne,D105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,10,26,4
+Wayne,D105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,D105,Secretary of State,,,Total Votes,222,44,172,6
+Wayne,D105,Secretary of State,,,Under Votes,9,2,7,0
+Wayne,D105,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,D105,Attorney General,,REP,Russell COLEMAN,180,33,146,1
+Wayne,D105,Attorney General,,DEM,Pamela STEVENSON,43,12,27,4
+Wayne,D105,Attorney General,,,Total Votes,223,45,173,5
+Wayne,D105,Attorney General,,,Under Votes,8,1,6,1
+Wayne,D105,Attorney General,,,Over Votes,0,0,0,0
+Wayne,D105,Auditor of Public Accounts,,REP,Allison BALL,185,32,151,2
+Wayne,D105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,12,24,4
+Wayne,D105,Auditor of Public Accounts,,,Total Votes,225,44,175,6
+Wayne,D105,Auditor of Public Accounts,,,Under Votes,6,2,4,0
+Wayne,D105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,D105,State Treasurer,,REP,Mark H. METCALF,174,30,142,2
+Wayne,D105,State Treasurer,,DEM,Michael BOWMAN,47,13,30,4
+Wayne,D105,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,D105,State Treasurer,,,Total Votes,221,43,172,6
+Wayne,D105,State Treasurer,,,Under Votes,10,3,7,0
+Wayne,D105,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,D105,Commissioner of Agriculture,,REP,Jonathan SHELL,183,32,148,3
+Wayne,D105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,13,26,3
+Wayne,D105,Commissioner of Agriculture,,,Total Votes,225,45,174,6
+Wayne,D105,Commissioner of Agriculture,,,Under Votes,6,1,5,0
+Wayne,D105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,D106,STRAIGHT PARTY,,,Republican,83,12,65,6
+Wayne,D106,STRAIGHT PARTY,,,Democratic,36,3,30,3
+Wayne,D106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",120,17,96,7
+Wayne,D106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,25,77,9
+Wayne,D106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,D106,Governor,,,Total Votes,231,42,173,16
+Wayne,D106,Governor,,,Under Votes,4,1,2,1
+Wayne,D106,Governor,,,Over Votes,0,0,0,0
+Wayne,D106,Secretary of State,,REP,Michael ADAMS,166,28,127,11
+Wayne,D106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",62,12,44,6
+Wayne,D106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,D106,Secretary of State,,,Total Votes,228,40,171,17
+Wayne,D106,Secretary of State,,,Under Votes,7,3,4,0
+Wayne,D106,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,D106,Attorney General,,REP,Russell COLEMAN,154,25,118,11
+Wayne,D106,Attorney General,,DEM,Pamela STEVENSON,74,15,53,6
+Wayne,D106,Attorney General,,,Total Votes,228,40,171,17
+Wayne,D106,Attorney General,,,Under Votes,7,3,4,0
+Wayne,D106,Attorney General,,,Over Votes,0,0,0,0
+Wayne,D106,Auditor of Public Accounts,,REP,Allison BALL,168,32,125,11
+Wayne,D106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",61,10,45,6
+Wayne,D106,Auditor of Public Accounts,,,Total Votes,229,42,170,17
+Wayne,D106,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Wayne,D106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,D106,State Treasurer,,REP,Mark H. METCALF,149,27,112,10
+Wayne,D106,State Treasurer,,DEM,Michael BOWMAN,79,13,59,7
+Wayne,D106,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,D106,State Treasurer,,,Total Votes,228,40,171,17
+Wayne,D106,State Treasurer,,,Under Votes,7,3,4,0
+Wayne,D106,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,158,28,118,12
+Wayne,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,10,52,5
+Wayne,D106,Commissioner of Agriculture,,,Total Votes,225,38,170,17
+Wayne,D106,Commissioner of Agriculture,,,Under Votes,10,5,5,0
+Wayne,D106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,D107,STRAIGHT PARTY,,,Republican,116,34,67,15
+Wayne,D107,STRAIGHT PARTY,,,Democratic,11,1,7,3
+Wayne,D107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",153,41,95,17
+Wayne,D107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,42,15,22,5
+Wayne,D107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,D107,Governor,,,Total Votes,195,56,117,22
+Wayne,D107,Governor,,,Under Votes,3,0,1,2
+Wayne,D107,Governor,,,Over Votes,0,0,0,0
+Wayne,D107,Secretary of State,,REP,Michael ADAMS,171,48,104,19
+Wayne,D107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",22,7,11,4
+Wayne,D107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,D107,Secretary of State,,,Total Votes,193,55,115,23
+Wayne,D107,Secretary of State,,,Under Votes,5,1,3,1
+Wayne,D107,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,D107,Attorney General,,REP,Russell COLEMAN,168,47,101,20
+Wayne,D107,Attorney General,,DEM,Pamela STEVENSON,27,8,16,3
+Wayne,D107,Attorney General,,,Total Votes,195,55,117,23
+Wayne,D107,Attorney General,,,Under Votes,3,1,1,1
+Wayne,D107,Attorney General,,,Over Votes,0,0,0,0
+Wayne,D107,Auditor of Public Accounts,,REP,Allison BALL,173,49,104,20
+Wayne,D107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",20,5,12,3
+Wayne,D107,Auditor of Public Accounts,,,Total Votes,193,54,116,23
+Wayne,D107,Auditor of Public Accounts,,,Under Votes,5,2,2,1
+Wayne,D107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,D107,State Treasurer,,REP,Mark H. METCALF,163,45,98,20
+Wayne,D107,State Treasurer,,DEM,Michael BOWMAN,29,9,17,3
+Wayne,D107,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,D107,State Treasurer,,,Total Votes,192,54,115,23
+Wayne,D107,State Treasurer,,,Under Votes,6,2,3,1
+Wayne,D107,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,D107,Commissioner of Agriculture,,REP,Jonathan SHELL,169,47,102,20
+Wayne,D107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,24,8,13,3
+Wayne,D107,Commissioner of Agriculture,,,Total Votes,193,55,115,23
+Wayne,D107,Commissioner of Agriculture,,,Under Votes,5,1,3,1
+Wayne,D107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,D110,STRAIGHT PARTY,,,Republican,66,13,52,1
+Wayne,D110,STRAIGHT PARTY,,,Democratic,29,9,15,5
+Wayne,D110,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",105,18,85,2
+Wayne,D110,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,83,18,56,9
+Wayne,D110,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,D110,Governor,,,Total Votes,188,36,141,11
+Wayne,D110,Governor,,,Under Votes,3,3,0,0
+Wayne,D110,Governor,,,Over Votes,0,0,0,0
+Wayne,D110,Secretary of State,,REP,Michael ADAMS,139,26,108,5
+Wayne,D110,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",46,13,28,5
+Wayne,D110,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,D110,Secretary of State,,,Total Votes,185,39,136,10
+Wayne,D110,Secretary of State,,,Under Votes,6,0,5,1
+Wayne,D110,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,D110,Attorney General,,REP,Russell COLEMAN,135,25,106,4
+Wayne,D110,Attorney General,,DEM,Pamela STEVENSON,52,13,33,6
+Wayne,D110,Attorney General,,,Total Votes,187,38,139,10
+Wayne,D110,Attorney General,,,Under Votes,4,1,2,1
+Wayne,D110,Attorney General,,,Over Votes,0,0,0,0
+Wayne,D110,Auditor of Public Accounts,,REP,Allison BALL,142,26,112,4
+Wayne,D110,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",44,12,26,6
+Wayne,D110,Auditor of Public Accounts,,,Total Votes,186,38,138,10
+Wayne,D110,Auditor of Public Accounts,,,Under Votes,5,1,3,1
+Wayne,D110,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,D110,State Treasurer,,REP,Mark H. METCALF,128,24,101,3
+Wayne,D110,State Treasurer,,DEM,Michael BOWMAN,57,14,36,7
+Wayne,D110,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,D110,State Treasurer,,,Total Votes,185,38,137,10
+Wayne,D110,State Treasurer,,,Under Votes,6,1,4,1
+Wayne,D110,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,D110,Commissioner of Agriculture,,REP,Jonathan SHELL,136,25,106,5
+Wayne,D110,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,49,13,31,5
+Wayne,D110,Commissioner of Agriculture,,,Total Votes,185,38,137,10
+Wayne,D110,Commissioner of Agriculture,,,Under Votes,6,1,4,1
+Wayne,D110,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,G101,STRAIGHT PARTY,,,Republican,247,47,190,10
+Wayne,G101,STRAIGHT PARTY,,,Democratic,70,15,46,9
+Wayne,G101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",348,70,261,17
+Wayne,G101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,211,46,146,19
+Wayne,G101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,G101,Governor,,,Total Votes,559,116,407,36
+Wayne,G101,Governor,,,Under Votes,3,0,2,1
+Wayne,G101,Governor,,,Over Votes,0,0,0,0
+Wayne,G101,Secretary of State,,REP,Michael ADAMS,418,87,307,24
+Wayne,G101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",130,23,94,13
+Wayne,G101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,G101,Secretary of State,,,Total Votes,548,110,401,37
+Wayne,G101,Secretary of State,,,Under Votes,13,5,8,0
+Wayne,G101,Secretary of State,,,Over Votes,1,1,0,0
+Wayne,G101,Attorney General,,REP,Russell COLEMAN,410,85,304,21
+Wayne,G101,Attorney General,,DEM,Pamela STEVENSON,135,25,96,14
+Wayne,G101,Attorney General,,,Total Votes,545,110,400,35
+Wayne,G101,Attorney General,,,Under Votes,17,6,9,2
+Wayne,G101,Attorney General,,,Over Votes,0,0,0,0
+Wayne,G101,Auditor of Public Accounts,,REP,Allison BALL,425,89,315,21
+Wayne,G101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",124,22,87,15
+Wayne,G101,Auditor of Public Accounts,,,Total Votes,549,111,402,36
+Wayne,G101,Auditor of Public Accounts,,,Under Votes,13,5,7,1
+Wayne,G101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,G101,State Treasurer,,REP,Mark H. METCALF,391,78,293,20
+Wayne,G101,State Treasurer,,DEM,Michael BOWMAN,152,31,107,14
+Wayne,G101,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,G101,State Treasurer,,,Total Votes,543,109,400,34
+Wayne,G101,State Treasurer,,,Under Votes,18,6,9,3
+Wayne,G101,State Treasurer,,,Over Votes,1,1,0,0
+Wayne,G101,Commissioner of Agriculture,,REP,Jonathan SHELL,415,83,311,21
+Wayne,G101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,130,26,89,15
+Wayne,G101,Commissioner of Agriculture,,,Total Votes,545,109,400,36
+Wayne,G101,Commissioner of Agriculture,,,Under Votes,17,7,9,1
+Wayne,G101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,G103,STRAIGHT PARTY,,,Republican,45,1,43,1
+Wayne,G103,STRAIGHT PARTY,,,Democratic,26,1,24,1
+Wayne,G103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",61,2,58,1
+Wayne,G103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,72,10,49,13
+Wayne,G103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,G103,Governor,,,Total Votes,133,12,107,14
+Wayne,G103,Governor,,,Under Votes,0,0,0,0
+Wayne,G103,Governor,,,Over Votes,0,0,0,0
+Wayne,G103,Secretary of State,,REP,Michael ADAMS,87,8,71,8
+Wayne,G103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",45,4,35,6
+Wayne,G103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,G103,Secretary of State,,,Total Votes,132,12,106,14
+Wayne,G103,Secretary of State,,,Under Votes,1,0,1,0
+Wayne,G103,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,G103,Attorney General,,REP,Russell COLEMAN,85,5,74,6
+Wayne,G103,Attorney General,,DEM,Pamela STEVENSON,47,7,32,8
+Wayne,G103,Attorney General,,,Total Votes,132,12,106,14
+Wayne,G103,Attorney General,,,Under Votes,1,0,1,0
+Wayne,G103,Attorney General,,,Over Votes,0,0,0,0
+Wayne,G103,Auditor of Public Accounts,,REP,Allison BALL,92,7,77,8
+Wayne,G103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",40,5,29,6
+Wayne,G103,Auditor of Public Accounts,,,Total Votes,132,12,106,14
+Wayne,G103,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Wayne,G103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,G103,State Treasurer,,REP,Mark H. METCALF,87,6,74,7
+Wayne,G103,State Treasurer,,DEM,Michael BOWMAN,45,6,32,7
+Wayne,G103,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,G103,State Treasurer,,,Total Votes,132,12,106,14
+Wayne,G103,State Treasurer,,,Under Votes,1,0,1,0
+Wayne,G103,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,G103,Commissioner of Agriculture,,REP,Jonathan SHELL,86,5,73,8
+Wayne,G103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,7,33,6
+Wayne,G103,Commissioner of Agriculture,,,Total Votes,132,12,106,14
+Wayne,G103,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Wayne,G103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,G104,STRAIGHT PARTY,,,Republican,187,39,142,6
+Wayne,G104,STRAIGHT PARTY,,,Democratic,44,14,22,8
+Wayne,G104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",268,54,203,11
+Wayne,G104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,131,39,80,12
+Wayne,G104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,G104,Governor,,,Total Votes,399,93,283,23
+Wayne,G104,Governor,,,Under Votes,4,2,2,0
+Wayne,G104,Governor,,,Over Votes,0,0,0,0
+Wayne,G104,Secretary of State,,REP,Michael ADAMS,309,67,230,12
+Wayne,G104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",74,25,38,11
+Wayne,G104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,G104,Secretary of State,,,Total Votes,383,92,268,23
+Wayne,G104,Secretary of State,,,Under Votes,20,3,17,0
+Wayne,G104,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,G104,Attorney General,,REP,Russell COLEMAN,308,70,226,12
+Wayne,G104,Attorney General,,DEM,Pamela STEVENSON,78,21,46,11
+Wayne,G104,Attorney General,,,Total Votes,386,91,272,23
+Wayne,G104,Attorney General,,,Under Votes,17,4,13,0
+Wayne,G104,Attorney General,,,Over Votes,0,0,0,0
+Wayne,G104,Auditor of Public Accounts,,REP,Allison BALL,323,74,236,13
+Wayne,G104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",64,18,36,10
+Wayne,G104,Auditor of Public Accounts,,,Total Votes,387,92,272,23
+Wayne,G104,Auditor of Public Accounts,,,Under Votes,16,3,13,0
+Wayne,G104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,G104,State Treasurer,,REP,Mark H. METCALF,287,63,212,12
+Wayne,G104,State Treasurer,,DEM,Michael BOWMAN,91,26,54,11
+Wayne,G104,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,G104,State Treasurer,,,Total Votes,378,89,266,23
+Wayne,G104,State Treasurer,,,Under Votes,25,6,19,0
+Wayne,G104,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,G104,Commissioner of Agriculture,,REP,Jonathan SHELL,309,68,228,13
+Wayne,G104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,24,43,10
+Wayne,G104,Commissioner of Agriculture,,,Total Votes,386,92,271,23
+Wayne,G104,Commissioner of Agriculture,,,Under Votes,17,3,14,0
+Wayne,G104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Wayne,G106,STRAIGHT PARTY,,,Republican,133,18,106,9
+Wayne,G106,STRAIGHT PARTY,,,Democratic,40,15,20,5
+Wayne,G106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",224,27,182,15
+Wayne,G106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,151,41,98,12
+Wayne,G106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Wayne,G106,Governor,,,Total Votes,375,68,280,27
+Wayne,G106,Governor,,,Under Votes,4,0,4,0
+Wayne,G106,Governor,,,Over Votes,0,0,0,0
+Wayne,G106,Secretary of State,,REP,Michael ADAMS,279,38,228,13
+Wayne,G106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",86,28,49,9
+Wayne,G106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Wayne,G106,Secretary of State,,,Total Votes,365,66,277,22
+Wayne,G106,Secretary of State,,,Under Votes,14,2,7,5
+Wayne,G106,Secretary of State,,,Over Votes,0,0,0,0
+Wayne,G106,Attorney General,,REP,Russell COLEMAN,263,37,212,14
+Wayne,G106,Attorney General,,DEM,Pamela STEVENSON,102,30,63,9
+Wayne,G106,Attorney General,,,Total Votes,365,67,275,23
+Wayne,G106,Attorney General,,,Under Votes,14,1,9,4
+Wayne,G106,Attorney General,,,Over Votes,0,0,0,0
+Wayne,G106,Auditor of Public Accounts,,REP,Allison BALL,287,40,233,14
+Wayne,G106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",80,26,46,8
+Wayne,G106,Auditor of Public Accounts,,,Total Votes,367,66,279,22
+Wayne,G106,Auditor of Public Accounts,,,Under Votes,12,2,5,5
+Wayne,G106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Wayne,G106,State Treasurer,,REP,Mark H. METCALF,257,35,208,14
+Wayne,G106,State Treasurer,,DEM,Michael BOWMAN,103,31,64,8
+Wayne,G106,State Treasurer,,,Robert Perry,0,0,0,0
+Wayne,G106,State Treasurer,,,Total Votes,360,66,272,22
+Wayne,G106,State Treasurer,,,Under Votes,19,2,12,5
+Wayne,G106,State Treasurer,,,Over Votes,0,0,0,0
+Wayne,G106,Commissioner of Agriculture,,REP,Jonathan SHELL,274,40,221,13
+Wayne,G106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,87,26,51,10
+Wayne,G106,Commissioner of Agriculture,,,Total Votes,361,66,272,23
+Wayne,G106,Commissioner of Agriculture,,,Under Votes,18,2,12,4
+Wayne,G106,Commissioner of Agriculture,,,Over Votes,0,0,0,0

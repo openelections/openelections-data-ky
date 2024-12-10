@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Simpson,A101,STRAIGHT PARTY,,,Republican,196,41,150,5
+Simpson,A101,STRAIGHT PARTY,,,Democratic,77,22,49,6
+Simpson,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",291,61,225,5
+Simpson,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,165,44,107,14
+Simpson,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,A101,Governor,,,Total Votes,456,105,332,19
+Simpson,A101,Governor,,,Under Votes,6,0,6,0
+Simpson,A101,Governor,,,Over Votes,0,0,0,0
+Simpson,A101,Secretary of State,,REP,Michael ADAMS,324,68,249,7
+Simpson,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",131,35,84,12
+Simpson,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,A101,Secretary of State,,,Total Votes,455,103,333,19
+Simpson,A101,Secretary of State,,,Under Votes,7,2,5,0
+Simpson,A101,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,A101,Attorney General,,REP,Russell COLEMAN,312,62,243,7
+Simpson,A101,Attorney General,,DEM,Pamela STEVENSON,144,41,91,12
+Simpson,A101,Attorney General,,,Total Votes,456,103,334,19
+Simpson,A101,Attorney General,,,Under Votes,6,2,4,0
+Simpson,A101,Attorney General,,,Over Votes,0,0,0,0
+Simpson,A101,Auditor of Public Accounts,,REP,Allison BALL,333,68,258,7
+Simpson,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",120,35,73,12
+Simpson,A101,Auditor of Public Accounts,,,Total Votes,453,103,331,19
+Simpson,A101,Auditor of Public Accounts,,,Under Votes,9,2,7,0
+Simpson,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,A101,State Treasurer,,REP,Mark H. METCALF,312,63,242,7
+Simpson,A101,State Treasurer,,DEM,Michael BOWMAN,140,40,88,12
+Simpson,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,A101,State Treasurer,,,Total Votes,452,103,330,19
+Simpson,A101,State Treasurer,,,Under Votes,10,2,8,0
+Simpson,A101,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,327,65,255,7
+Simpson,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,126,37,77,12
+Simpson,A101,Commissioner of Agriculture,,,Total Votes,453,102,332,19
+Simpson,A101,Commissioner of Agriculture,,,Under Votes,9,3,6,0
+Simpson,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,A102,STRAIGHT PARTY,,,Republican,203,29,169,5
+Simpson,A102,STRAIGHT PARTY,,,Democratic,52,23,26,3
+Simpson,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",293,40,248,5
+Simpson,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,100,45,50,5
+Simpson,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,A102,Governor,,,Total Votes,393,85,298,10
+Simpson,A102,Governor,,,Under Votes,1,1,0,0
+Simpson,A102,Governor,,,Over Votes,0,0,0,0
+Simpson,A102,Secretary of State,,REP,Michael ADAMS,306,51,250,5
+Simpson,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,34,41,5
+Simpson,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,A102,Secretary of State,,,Total Votes,386,85,291,10
+Simpson,A102,Secretary of State,,,Under Votes,8,1,7,0
+Simpson,A102,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,A102,Attorney General,,REP,Russell COLEMAN,301,48,247,6
+Simpson,A102,Attorney General,,DEM,Pamela STEVENSON,85,37,44,4
+Simpson,A102,Attorney General,,,Total Votes,386,85,291,10
+Simpson,A102,Attorney General,,,Under Votes,8,1,7,0
+Simpson,A102,Attorney General,,,Over Votes,0,0,0,0
+Simpson,A102,Auditor of Public Accounts,,REP,Allison BALL,306,51,250,5
+Simpson,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",80,35,40,5
+Simpson,A102,Auditor of Public Accounts,,,Total Votes,386,86,290,10
+Simpson,A102,Auditor of Public Accounts,,,Under Votes,8,0,8,0
+Simpson,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,A102,State Treasurer,,REP,Mark H. METCALF,297,46,246,5
+Simpson,A102,State Treasurer,,DEM,Michael BOWMAN,87,39,43,5
+Simpson,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,A102,State Treasurer,,,Total Votes,384,85,289,10
+Simpson,A102,State Treasurer,,,Under Votes,10,1,9,0
+Simpson,A102,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,307,49,251,7
+Simpson,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,80,36,41,3
+Simpson,A102,Commissioner of Agriculture,,,Total Votes,387,85,292,10
+Simpson,A102,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Simpson,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,A103,STRAIGHT PARTY,,,Republican,87,21,66,0
+Simpson,A103,STRAIGHT PARTY,,,Democratic,65,16,47,2
+Simpson,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",127,28,99,0
+Simpson,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,121,29,89,3
+Simpson,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,A103,Governor,,,Total Votes,248,57,188,3
+Simpson,A103,Governor,,,Under Votes,0,0,0,0
+Simpson,A103,Governor,,,Over Votes,0,0,0,0
+Simpson,A103,Secretary of State,,REP,Michael ADAMS,141,31,109,1
+Simpson,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",103,25,76,2
+Simpson,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,A103,Secretary of State,,,Total Votes,244,56,185,3
+Simpson,A103,Secretary of State,,,Under Votes,4,1,3,0
+Simpson,A103,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,A103,Attorney General,,REP,Russell COLEMAN,146,32,113,1
+Simpson,A103,Attorney General,,DEM,Pamela STEVENSON,98,24,72,2
+Simpson,A103,Attorney General,,,Total Votes,244,56,185,3
+Simpson,A103,Attorney General,,,Under Votes,4,1,3,0
+Simpson,A103,Attorney General,,,Over Votes,0,0,0,0
+Simpson,A103,Auditor of Public Accounts,,REP,Allison BALL,150,32,118,0
+Simpson,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",94,24,67,3
+Simpson,A103,Auditor of Public Accounts,,,Total Votes,244,56,185,3
+Simpson,A103,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Simpson,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,A103,State Treasurer,,REP,Mark H. METCALF,144,32,111,1
+Simpson,A103,State Treasurer,,DEM,Michael BOWMAN,101,24,75,2
+Simpson,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,A103,State Treasurer,,,Total Votes,245,56,186,3
+Simpson,A103,State Treasurer,,,Under Votes,3,1,2,0
+Simpson,A103,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,149,30,118,1
+Simpson,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,95,26,67,2
+Simpson,A103,Commissioner of Agriculture,,,Total Votes,244,56,185,3
+Simpson,A103,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Simpson,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,B101,STRAIGHT PARTY,,,Republican,171,45,122,4
+Simpson,B101,STRAIGHT PARTY,,,Democratic,66,21,41,4
+Simpson,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",261,62,192,7
+Simpson,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,154,40,105,9
+Simpson,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,B101,Governor,,,Total Votes,415,102,297,16
+Simpson,B101,Governor,,,Under Votes,0,0,0,0
+Simpson,B101,Governor,,,Over Votes,0,0,0,0
+Simpson,B101,Secretary of State,,REP,Michael ADAMS,289,66,214,9
+Simpson,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",117,35,75,7
+Simpson,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,B101,Secretary of State,,,Total Votes,406,101,289,16
+Simpson,B101,Secretary of State,,,Under Votes,9,1,8,0
+Simpson,B101,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,B101,Attorney General,,REP,Russell COLEMAN,279,61,210,8
+Simpson,B101,Attorney General,,DEM,Pamela STEVENSON,130,41,81,8
+Simpson,B101,Attorney General,,,Total Votes,409,102,291,16
+Simpson,B101,Attorney General,,,Under Votes,6,0,6,0
+Simpson,B101,Attorney General,,,Over Votes,0,0,0,0
+Simpson,B101,Auditor of Public Accounts,,REP,Allison BALL,291,69,213,9
+Simpson,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",115,32,76,7
+Simpson,B101,Auditor of Public Accounts,,,Total Votes,406,101,289,16
+Simpson,B101,Auditor of Public Accounts,,,Under Votes,9,1,8,0
+Simpson,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,B101,State Treasurer,,REP,Mark H. METCALF,278,63,207,8
+Simpson,B101,State Treasurer,,DEM,Michael BOWMAN,129,38,83,8
+Simpson,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,B101,State Treasurer,,,Total Votes,407,101,290,16
+Simpson,B101,State Treasurer,,,Under Votes,8,1,7,0
+Simpson,B101,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,283,65,209,9
+Simpson,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,124,37,80,7
+Simpson,B101,Commissioner of Agriculture,,,Total Votes,407,102,289,16
+Simpson,B101,Commissioner of Agriculture,,,Under Votes,8,0,8,0
+Simpson,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,B102,STRAIGHT PARTY,,,Republican,43,13,30,0
+Simpson,B102,STRAIGHT PARTY,,,Democratic,52,15,34,3
+Simpson,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",68,18,49,1
+Simpson,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,74,22,48,4
+Simpson,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,B102,Governor,,,Total Votes,142,40,97,5
+Simpson,B102,Governor,,,Under Votes,2,0,2,0
+Simpson,B102,Governor,,,Over Votes,0,0,0,0
+Simpson,B102,Secretary of State,,REP,Michael ADAMS,73,19,53,1
+Simpson,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,21,46,3
+Simpson,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,B102,Secretary of State,,,Total Votes,143,40,99,4
+Simpson,B102,Secretary of State,,,Under Votes,1,0,0,1
+Simpson,B102,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,B102,Attorney General,,REP,Russell COLEMAN,73,19,53,1
+Simpson,B102,Attorney General,,DEM,Pamela STEVENSON,70,21,46,3
+Simpson,B102,Attorney General,,,Total Votes,143,40,99,4
+Simpson,B102,Attorney General,,,Under Votes,1,0,0,1
+Simpson,B102,Attorney General,,,Over Votes,0,0,0,0
+Simpson,B102,Auditor of Public Accounts,,REP,Allison BALL,73,20,52,1
+Simpson,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,20,46,3
+Simpson,B102,Auditor of Public Accounts,,,Total Votes,142,40,98,4
+Simpson,B102,Auditor of Public Accounts,,,Under Votes,2,0,1,1
+Simpson,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,B102,State Treasurer,,REP,Mark H. METCALF,76,19,56,1
+Simpson,B102,State Treasurer,,DEM,Michael BOWMAN,67,21,43,3
+Simpson,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,B102,State Treasurer,,,Total Votes,143,40,99,4
+Simpson,B102,State Treasurer,,,Under Votes,1,0,0,1
+Simpson,B102,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,77,20,56,1
+Simpson,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,66,20,43,3
+Simpson,B102,Commissioner of Agriculture,,,Total Votes,143,40,99,4
+Simpson,B102,Commissioner of Agriculture,,,Under Votes,1,0,0,1
+Simpson,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,B103,STRAIGHT PARTY,,,Republican,200,58,137,5
+Simpson,B103,STRAIGHT PARTY,,,Democratic,141,46,86,9
+Simpson,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",321,73,239,9
+Simpson,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,301,101,187,13
+Simpson,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,B103,Governor,,,Total Votes,622,174,426,22
+Simpson,B103,Governor,,,Under Votes,1,0,1,0
+Simpson,B103,Governor,,,Over Votes,0,0,0,0
+Simpson,B103,Secretary of State,,REP,Michael ADAMS,381,89,283,9
+Simpson,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",230,84,133,13
+Simpson,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,B103,Secretary of State,,,Total Votes,611,173,416,22
+Simpson,B103,Secretary of State,,,Under Votes,12,1,11,0
+Simpson,B103,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,B103,Attorney General,,REP,Russell COLEMAN,352,84,260,8
+Simpson,B103,Attorney General,,DEM,Pamela STEVENSON,261,89,158,14
+Simpson,B103,Attorney General,,,Total Votes,613,173,418,22
+Simpson,B103,Attorney General,,,Under Votes,10,1,9,0
+Simpson,B103,Attorney General,,,Over Votes,0,0,0,0
+Simpson,B103,Auditor of Public Accounts,,REP,Allison BALL,370,89,273,8
+Simpson,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",239,84,141,14
+Simpson,B103,Auditor of Public Accounts,,,Total Votes,609,173,414,22
+Simpson,B103,Auditor of Public Accounts,,,Under Votes,14,1,13,0
+Simpson,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,B103,State Treasurer,,REP,Mark H. METCALF,363,88,266,9
+Simpson,B103,State Treasurer,,DEM,Michael BOWMAN,244,85,146,13
+Simpson,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,B103,State Treasurer,,,Total Votes,607,173,412,22
+Simpson,B103,State Treasurer,,,Under Votes,16,1,15,0
+Simpson,B103,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,366,85,272,9
+Simpson,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,240,88,139,13
+Simpson,B103,Commissioner of Agriculture,,,Total Votes,606,173,411,22
+Simpson,B103,Commissioner of Agriculture,,,Under Votes,17,1,16,0
+Simpson,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,C101,STRAIGHT PARTY,,,Republican,97,16,81,0
+Simpson,C101,STRAIGHT PARTY,,,Democratic,37,11,26,0
+Simpson,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",131,20,109,2
+Simpson,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,23,43,1
+Simpson,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,C101,Governor,,,Total Votes,198,43,152,3
+Simpson,C101,Governor,,,Under Votes,1,0,1,0
+Simpson,C101,Governor,,,Over Votes,0,0,0,0
+Simpson,C101,Secretary of State,,REP,Michael ADAMS,138,24,111,3
+Simpson,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,17,37,0
+Simpson,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,C101,Secretary of State,,,Total Votes,192,41,148,3
+Simpson,C101,Secretary of State,,,Under Votes,7,2,5,0
+Simpson,C101,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,C101,Attorney General,,REP,Russell COLEMAN,136,22,112,2
+Simpson,C101,Attorney General,,DEM,Pamela STEVENSON,54,18,35,1
+Simpson,C101,Attorney General,,,Total Votes,190,40,147,3
+Simpson,C101,Attorney General,,,Under Votes,8,3,5,0
+Simpson,C101,Attorney General,,,Over Votes,1,0,1,0
+Simpson,C101,Auditor of Public Accounts,,REP,Allison BALL,135,25,108,2
+Simpson,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",55,17,37,1
+Simpson,C101,Auditor of Public Accounts,,,Total Votes,190,42,145,3
+Simpson,C101,Auditor of Public Accounts,,,Under Votes,9,1,8,0
+Simpson,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,C101,State Treasurer,,REP,Mark H. METCALF,136,22,112,2
+Simpson,C101,State Treasurer,,DEM,Michael BOWMAN,55,19,35,1
+Simpson,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,C101,State Treasurer,,,Total Votes,191,41,147,3
+Simpson,C101,State Treasurer,,,Under Votes,8,2,6,0
+Simpson,C101,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,135,23,110,2
+Simpson,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,55,18,36,1
+Simpson,C101,Commissioner of Agriculture,,,Total Votes,190,41,146,3
+Simpson,C101,Commissioner of Agriculture,,,Under Votes,9,2,7,0
+Simpson,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,C103,STRAIGHT PARTY,,,Republican,127,31,94,2
+Simpson,C103,STRAIGHT PARTY,,,Democratic,73,20,43,10
+Simpson,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",179,37,139,3
+Simpson,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,154,51,91,12
+Simpson,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,C103,Governor,,,Total Votes,333,88,230,15
+Simpson,C103,Governor,,,Under Votes,2,0,1,1
+Simpson,C103,Governor,,,Over Votes,0,0,0,0
+Simpson,C103,Secretary of State,,REP,Michael ADAMS,203,48,152,3
+Simpson,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",124,39,73,12
+Simpson,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,C103,Secretary of State,,,Total Votes,327,87,225,15
+Simpson,C103,Secretary of State,,,Under Votes,8,1,6,1
+Simpson,C103,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,C103,Attorney General,,REP,Russell COLEMAN,198,46,149,3
+Simpson,C103,Attorney General,,DEM,Pamela STEVENSON,129,41,76,12
+Simpson,C103,Attorney General,,,Total Votes,327,87,225,15
+Simpson,C103,Attorney General,,,Under Votes,7,1,5,1
+Simpson,C103,Attorney General,,,Over Votes,1,0,1,0
+Simpson,C103,Auditor of Public Accounts,,REP,Allison BALL,207,49,155,3
+Simpson,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",120,37,71,12
+Simpson,C103,Auditor of Public Accounts,,,Total Votes,327,86,226,15
+Simpson,C103,Auditor of Public Accounts,,,Under Votes,8,2,5,1
+Simpson,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,C103,State Treasurer,,REP,Mark H. METCALF,207,49,155,3
+Simpson,C103,State Treasurer,,DEM,Michael BOWMAN,118,36,71,11
+Simpson,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,C103,State Treasurer,,,Total Votes,325,85,226,14
+Simpson,C103,State Treasurer,,,Under Votes,10,3,5,2
+Simpson,C103,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,207,49,155,3
+Simpson,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,36,70,12
+Simpson,C103,Commissioner of Agriculture,,,Total Votes,325,85,225,15
+Simpson,C103,Commissioner of Agriculture,,,Under Votes,10,3,6,1
+Simpson,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,C104,STRAIGHT PARTY,,,Republican,367,103,263,1
+Simpson,C104,STRAIGHT PARTY,,,Democratic,124,36,81,7
+Simpson,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",521,140,377,4
+Simpson,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,297,77,204,16
+Simpson,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,C104,Governor,,,Total Votes,818,217,581,20
+Simpson,C104,Governor,,,Under Votes,3,0,3,0
+Simpson,C104,Governor,,,Over Votes,0,0,0,0
+Simpson,C104,Secretary of State,,REP,Michael ADAMS,583,149,427,7
+Simpson,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",219,65,141,13
+Simpson,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,C104,Secretary of State,,,Total Votes,802,214,568,20
+Simpson,C104,Secretary of State,,,Under Votes,19,3,16,0
+Simpson,C104,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,C104,Attorney General,,REP,Russell COLEMAN,572,145,423,4
+Simpson,C104,Attorney General,,DEM,Pamela STEVENSON,234,68,150,16
+Simpson,C104,Attorney General,,,Total Votes,806,213,573,20
+Simpson,C104,Attorney General,,,Under Votes,15,4,11,0
+Simpson,C104,Attorney General,,,Over Votes,0,0,0,0
+Simpson,C104,Auditor of Public Accounts,,REP,Allison BALL,574,145,423,6
+Simpson,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",226,68,144,14
+Simpson,C104,Auditor of Public Accounts,,,Total Votes,800,213,567,20
+Simpson,C104,Auditor of Public Accounts,,,Under Votes,21,4,17,0
+Simpson,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,C104,State Treasurer,,REP,Mark H. METCALF,569,146,419,4
+Simpson,C104,State Treasurer,,DEM,Michael BOWMAN,232,67,149,16
+Simpson,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,C104,State Treasurer,,,Total Votes,801,213,568,20
+Simpson,C104,State Treasurer,,,Under Votes,20,4,16,0
+Simpson,C104,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,600,154,442,4
+Simpson,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,204,61,127,16
+Simpson,C104,Commissioner of Agriculture,,,Total Votes,804,215,569,20
+Simpson,C104,Commissioner of Agriculture,,,Under Votes,16,2,14,0
+Simpson,C104,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Simpson,D101,STRAIGHT PARTY,,,Republican,78,16,58,4
+Simpson,D101,STRAIGHT PARTY,,,Democratic,28,7,19,2
+Simpson,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",113,18,91,4
+Simpson,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,67,20,45,2
+Simpson,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,D101,Governor,,,Total Votes,180,38,136,6
+Simpson,D101,Governor,,,Under Votes,0,0,0,0
+Simpson,D101,Governor,,,Over Votes,0,0,0,0
+Simpson,D101,Secretary of State,,REP,Michael ADAMS,121,19,98,4
+Simpson,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,18,34,2
+Simpson,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,D101,Secretary of State,,,Total Votes,175,37,132,6
+Simpson,D101,Secretary of State,,,Under Votes,5,1,4,0
+Simpson,D101,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,D101,Attorney General,,REP,Russell COLEMAN,117,18,95,4
+Simpson,D101,Attorney General,,DEM,Pamela STEVENSON,59,19,38,2
+Simpson,D101,Attorney General,,,Total Votes,176,37,133,6
+Simpson,D101,Attorney General,,,Under Votes,4,1,3,0
+Simpson,D101,Attorney General,,,Over Votes,0,0,0,0
+Simpson,D101,Auditor of Public Accounts,,REP,Allison BALL,123,18,101,4
+Simpson,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,19,33,2
+Simpson,D101,Auditor of Public Accounts,,,Total Votes,177,37,134,6
+Simpson,D101,Auditor of Public Accounts,,,Under Votes,3,1,2,0
+Simpson,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,D101,State Treasurer,,REP,Mark H. METCALF,116,18,94,4
+Simpson,D101,State Treasurer,,DEM,Michael BOWMAN,60,19,39,2
+Simpson,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,D101,State Treasurer,,,Total Votes,176,37,133,6
+Simpson,D101,State Treasurer,,,Under Votes,4,1,3,0
+Simpson,D101,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,120,20,96,4
+Simpson,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,58,18,38,2
+Simpson,D101,Commissioner of Agriculture,,,Total Votes,178,38,134,6
+Simpson,D101,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Simpson,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,D102,STRAIGHT PARTY,,,Republican,123,27,96,0
+Simpson,D102,STRAIGHT PARTY,,,Democratic,46,22,22,2
+Simpson,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",194,43,148,3
+Simpson,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,97,35,56,6
+Simpson,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,D102,Governor,,,Total Votes,291,78,204,9
+Simpson,D102,Governor,,,Under Votes,0,0,0,0
+Simpson,D102,Governor,,,Over Votes,0,0,0,0
+Simpson,D102,Secretary of State,,REP,Michael ADAMS,214,48,163,3
+Simpson,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",71,27,38,6
+Simpson,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,D102,Secretary of State,,,Total Votes,285,75,201,9
+Simpson,D102,Secretary of State,,,Under Votes,5,2,3,0
+Simpson,D102,Secretary of State,,,Over Votes,1,1,0,0
+Simpson,D102,Attorney General,,REP,Russell COLEMAN,211,49,158,4
+Simpson,D102,Attorney General,,DEM,Pamela STEVENSON,74,28,41,5
+Simpson,D102,Attorney General,,,Total Votes,285,77,199,9
+Simpson,D102,Attorney General,,,Under Votes,6,1,5,0
+Simpson,D102,Attorney General,,,Over Votes,0,0,0,0
+Simpson,D102,Auditor of Public Accounts,,REP,Allison BALL,223,50,168,5
+Simpson,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",64,26,34,4
+Simpson,D102,Auditor of Public Accounts,,,Total Votes,287,76,202,9
+Simpson,D102,Auditor of Public Accounts,,,Under Votes,4,2,2,0
+Simpson,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,D102,State Treasurer,,REP,Mark H. METCALF,213,50,159,4
+Simpson,D102,State Treasurer,,DEM,Michael BOWMAN,73,26,42,5
+Simpson,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,D102,State Treasurer,,,Total Votes,286,76,201,9
+Simpson,D102,State Treasurer,,,Under Votes,5,2,3,0
+Simpson,D102,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,218,48,164,6
+Simpson,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,70,29,38,3
+Simpson,D102,Commissioner of Agriculture,,,Total Votes,288,77,202,9
+Simpson,D102,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Simpson,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,D103,STRAIGHT PARTY,,,Republican,56,12,41,3
+Simpson,D103,STRAIGHT PARTY,,,Democratic,121,41,74,6
+Simpson,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",78,19,55,4
+Simpson,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,161,56,98,7
+Simpson,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,D103,Governor,,,Total Votes,239,75,153,11
+Simpson,D103,Governor,,,Under Votes,0,0,0,0
+Simpson,D103,Governor,,,Over Votes,0,0,0,0
+Simpson,D103,Secretary of State,,REP,Michael ADAMS,80,20,56,4
+Simpson,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",153,53,93,7
+Simpson,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,D103,Secretary of State,,,Total Votes,233,73,149,11
+Simpson,D103,Secretary of State,,,Under Votes,6,2,4,0
+Simpson,D103,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,D103,Attorney General,,REP,Russell COLEMAN,78,19,55,4
+Simpson,D103,Attorney General,,DEM,Pamela STEVENSON,155,53,95,7
+Simpson,D103,Attorney General,,,Total Votes,233,72,150,11
+Simpson,D103,Attorney General,,,Under Votes,5,2,3,0
+Simpson,D103,Attorney General,,,Over Votes,1,1,0,0
+Simpson,D103,Auditor of Public Accounts,,REP,Allison BALL,77,19,54,4
+Simpson,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",156,54,95,7
+Simpson,D103,Auditor of Public Accounts,,,Total Votes,233,73,149,11
+Simpson,D103,Auditor of Public Accounts,,,Under Votes,6,2,4,0
+Simpson,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,D103,State Treasurer,,REP,Mark H. METCALF,78,18,56,4
+Simpson,D103,State Treasurer,,DEM,Michael BOWMAN,155,55,93,7
+Simpson,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,D103,State Treasurer,,,Total Votes,233,73,149,11
+Simpson,D103,State Treasurer,,,Under Votes,6,2,4,0
+Simpson,D103,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,79,20,55,4
+Simpson,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,154,53,94,7
+Simpson,D103,Commissioner of Agriculture,,,Total Votes,233,73,149,11
+Simpson,D103,Commissioner of Agriculture,,,Under Votes,6,2,4,0
+Simpson,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Simpson,D104,STRAIGHT PARTY,,,Republican,95,18,75,2
+Simpson,D104,STRAIGHT PARTY,,,Democratic,71,5,58,8
+Simpson,D104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",141,25,115,1
+Simpson,D104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,147,21,116,10
+Simpson,D104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Simpson,D104,Governor,,,Total Votes,288,46,231,11
+Simpson,D104,Governor,,,Under Votes,1,0,1,0
+Simpson,D104,Governor,,,Over Votes,0,0,0,0
+Simpson,D104,Secretary of State,,REP,Michael ADAMS,167,28,135,4
+Simpson,D104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",111,16,88,7
+Simpson,D104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Simpson,D104,Secretary of State,,,Total Votes,278,44,223,11
+Simpson,D104,Secretary of State,,,Under Votes,11,2,9,0
+Simpson,D104,Secretary of State,,,Over Votes,0,0,0,0
+Simpson,D104,Attorney General,,REP,Russell COLEMAN,162,27,131,4
+Simpson,D104,Attorney General,,DEM,Pamela STEVENSON,118,17,94,7
+Simpson,D104,Attorney General,,,Total Votes,280,44,225,11
+Simpson,D104,Attorney General,,,Under Votes,9,2,7,0
+Simpson,D104,Attorney General,,,Over Votes,0,0,0,0
+Simpson,D104,Auditor of Public Accounts,,REP,Allison BALL,170,30,136,4
+Simpson,D104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,13,88,7
+Simpson,D104,Auditor of Public Accounts,,,Total Votes,278,43,224,11
+Simpson,D104,Auditor of Public Accounts,,,Under Votes,11,3,8,0
+Simpson,D104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Simpson,D104,State Treasurer,,REP,Mark H. METCALF,162,28,132,2
+Simpson,D104,State Treasurer,,DEM,Michael BOWMAN,119,16,94,9
+Simpson,D104,State Treasurer,,,Robert Perry,0,0,0,0
+Simpson,D104,State Treasurer,,,Total Votes,281,44,226,11
+Simpson,D104,State Treasurer,,,Under Votes,8,2,6,0
+Simpson,D104,State Treasurer,,,Over Votes,0,0,0,0
+Simpson,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,167,28,136,3
+Simpson,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,111,15,88,8
+Simpson,D104,Commissioner of Agriculture,,,Total Votes,278,43,224,11
+Simpson,D104,Commissioner of Agriculture,,,Under Votes,11,3,8,0
+Simpson,D104,Commissioner of Agriculture,,,Over Votes,0,0,0,0

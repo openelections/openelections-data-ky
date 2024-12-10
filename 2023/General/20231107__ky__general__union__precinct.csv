@@ -1,0 +1,561 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Union,A101,STRAIGHT PARTY,,,Republican,152,32,117,3
+Union,A101,STRAIGHT PARTY,,,Democratic,55,19,36,0
+Union,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",241,44,194,3
+Union,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,157,55,102,0
+Union,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,A101,Governor,,,Total Votes,398,99,296,3
+Union,A101,Governor,,,Under Votes,0,0,0,0
+Union,A101,Governor,,,Over Votes,0,0,0,0
+Union,A101,Secretary of State,,REP,Michael ADAMS,275,55,217,3
+Union,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",102,36,66,0
+Union,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,A101,Secretary of State,,,Total Votes,377,91,283,3
+Union,A101,Secretary of State,,,Under Votes,21,8,13,0
+Union,A101,Secretary of State,,,Over Votes,0,0,0,0
+Union,A101,Attorney General,,REP,Russell COLEMAN,286,62,221,3
+Union,A101,Attorney General,,DEM,Pamela STEVENSON,95,31,64,0
+Union,A101,Attorney General,,,Total Votes,381,93,285,3
+Union,A101,Attorney General,,,Under Votes,17,6,11,0
+Union,A101,Attorney General,,,Over Votes,0,0,0,0
+Union,A101,Auditor of Public Accounts,,REP,Allison BALL,277,58,216,3
+Union,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",95,33,62,0
+Union,A101,Auditor of Public Accounts,,,Total Votes,372,91,278,3
+Union,A101,Auditor of Public Accounts,,,Under Votes,26,8,18,0
+Union,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,A101,State Treasurer,,REP,Mark H. METCALF,271,57,211,3
+Union,A101,State Treasurer,,DEM,Michael BOWMAN,101,32,69,0
+Union,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Union,A101,State Treasurer,,,Total Votes,372,89,280,3
+Union,A101,State Treasurer,,,Under Votes,26,10,16,0
+Union,A101,State Treasurer,,,Over Votes,0,0,0,0
+Union,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,284,59,222,3
+Union,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,90,32,58,0
+Union,A101,Commissioner of Agriculture,,,Total Votes,374,91,280,3
+Union,A101,Commissioner of Agriculture,,,Under Votes,24,8,16,0
+Union,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,A103,STRAIGHT PARTY,,,Republican,89,15,73,1
+Union,A103,STRAIGHT PARTY,,,Democratic,68,19,46,3
+Union,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",131,21,107,3
+Union,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,134,40,90,4
+Union,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,A103,Governor,,,Total Votes,265,61,197,7
+Union,A103,Governor,,,Under Votes,3,0,3,0
+Union,A103,Governor,,,Over Votes,0,0,0,0
+Union,A103,Secretary of State,,REP,Michael ADAMS,152,30,119,3
+Union,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",106,30,72,4
+Union,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,A103,Secretary of State,,,Total Votes,258,60,191,7
+Union,A103,Secretary of State,,,Under Votes,10,1,9,0
+Union,A103,Secretary of State,,,Over Votes,0,0,0,0
+Union,A103,Attorney General,,REP,Russell COLEMAN,156,32,121,3
+Union,A103,Attorney General,,DEM,Pamela STEVENSON,104,28,72,4
+Union,A103,Attorney General,,,Total Votes,260,60,193,7
+Union,A103,Attorney General,,,Under Votes,8,1,7,0
+Union,A103,Attorney General,,,Over Votes,0,0,0,0
+Union,A103,Auditor of Public Accounts,,REP,Allison BALL,156,31,122,3
+Union,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",102,29,69,4
+Union,A103,Auditor of Public Accounts,,,Total Votes,258,60,191,7
+Union,A103,Auditor of Public Accounts,,,Under Votes,10,1,9,0
+Union,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,A103,State Treasurer,,REP,Mark H. METCALF,149,28,119,2
+Union,A103,State Treasurer,,DEM,Michael BOWMAN,108,31,72,5
+Union,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Union,A103,State Treasurer,,,Total Votes,257,59,191,7
+Union,A103,State Treasurer,,,Under Votes,11,2,9,0
+Union,A103,State Treasurer,,,Over Votes,0,0,0,0
+Union,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,158,31,125,2
+Union,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,103,29,69,5
+Union,A103,Commissioner of Agriculture,,,Total Votes,261,60,194,7
+Union,A103,Commissioner of Agriculture,,,Under Votes,7,1,6,0
+Union,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,A104,STRAIGHT PARTY,,,Republican,68,18,50,0
+Union,A104,STRAIGHT PARTY,,,Democratic,45,18,26,1
+Union,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",102,24,78,0
+Union,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,111,38,68,5
+Union,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,A104,Governor,,,Total Votes,213,62,146,5
+Union,A104,Governor,,,Under Votes,0,0,0,0
+Union,A104,Governor,,,Over Votes,0,0,0,0
+Union,A104,Secretary of State,,REP,Michael ADAMS,127,30,95,2
+Union,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,29,49,2
+Union,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,A104,Secretary of State,,,Total Votes,207,59,144,4
+Union,A104,Secretary of State,,,Under Votes,6,3,2,1
+Union,A104,Secretary of State,,,Over Votes,0,0,0,0
+Union,A104,Attorney General,,REP,Russell COLEMAN,130,37,91,2
+Union,A104,Attorney General,,DEM,Pamela STEVENSON,78,22,53,3
+Union,A104,Attorney General,,,Total Votes,208,59,144,5
+Union,A104,Attorney General,,,Under Votes,5,3,2,0
+Union,A104,Attorney General,,,Over Votes,0,0,0,0
+Union,A104,Auditor of Public Accounts,,REP,Allison BALL,132,30,99,3
+Union,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",75,29,45,1
+Union,A104,Auditor of Public Accounts,,,Total Votes,207,59,144,4
+Union,A104,Auditor of Public Accounts,,,Under Votes,6,3,2,1
+Union,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,A104,State Treasurer,,REP,Mark H. METCALF,125,30,93,2
+Union,A104,State Treasurer,,DEM,Michael BOWMAN,81,28,51,2
+Union,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Union,A104,State Treasurer,,,Total Votes,206,58,144,4
+Union,A104,State Treasurer,,,Under Votes,7,4,2,1
+Union,A104,State Treasurer,,,Over Votes,0,0,0,0
+Union,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,130,34,94,2
+Union,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,76,24,50,2
+Union,A104,Commissioner of Agriculture,,,Total Votes,206,58,144,4
+Union,A104,Commissioner of Agriculture,,,Under Votes,7,4,2,1
+Union,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,B101,STRAIGHT PARTY,,,Republican,100,8,91,1
+Union,B101,STRAIGHT PARTY,,,Democratic,41,8,32,1
+Union,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",172,11,160,1
+Union,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,105,14,86,5
+Union,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,B101,Governor,,,Total Votes,277,25,246,6
+Union,B101,Governor,,,Under Votes,1,0,1,0
+Union,B101,Governor,,,Over Votes,0,0,0,0
+Union,B101,Secretary of State,,REP,Michael ADAMS,185,13,169,3
+Union,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,10,67,3
+Union,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,B101,Secretary of State,,,Total Votes,265,23,236,6
+Union,B101,Secretary of State,,,Under Votes,13,2,11,0
+Union,B101,Secretary of State,,,Over Votes,0,0,0,0
+Union,B101,Attorney General,,REP,Russell COLEMAN,192,12,175,5
+Union,B101,Attorney General,,DEM,Pamela STEVENSON,77,11,65,1
+Union,B101,Attorney General,,,Total Votes,269,23,240,6
+Union,B101,Attorney General,,,Under Votes,9,2,7,0
+Union,B101,Attorney General,,,Over Votes,0,0,0,0
+Union,B101,Auditor of Public Accounts,,REP,Allison BALL,183,13,168,2
+Union,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",78,10,64,4
+Union,B101,Auditor of Public Accounts,,,Total Votes,261,23,232,6
+Union,B101,Auditor of Public Accounts,,,Under Votes,17,2,15,0
+Union,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,B101,State Treasurer,,REP,Mark H. METCALF,188,14,171,3
+Union,B101,State Treasurer,,DEM,Michael BOWMAN,77,9,65,3
+Union,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Union,B101,State Treasurer,,,Total Votes,265,23,236,6
+Union,B101,State Treasurer,,,Under Votes,13,2,11,0
+Union,B101,State Treasurer,,,Over Votes,0,0,0,0
+Union,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,196,14,178,4
+Union,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,69,9,58,2
+Union,B101,Commissioner of Agriculture,,,Total Votes,265,23,236,6
+Union,B101,Commissioner of Agriculture,,,Under Votes,13,2,11,0
+Union,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,B102,STRAIGHT PARTY,,,Republican,91,7,84,0
+Union,B102,STRAIGHT PARTY,,,Democratic,37,4,32,1
+Union,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",119,8,111,0
+Union,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,113,15,94,4
+Union,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,B102,Governor,,,Total Votes,232,23,205,4
+Union,B102,Governor,,,Under Votes,0,0,0,0
+Union,B102,Governor,,,Over Votes,0,0,0,0
+Union,B102,Secretary of State,,REP,Michael ADAMS,154,12,142,0
+Union,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,11,58,4
+Union,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,B102,Secretary of State,,,Total Votes,227,23,200,4
+Union,B102,Secretary of State,,,Under Votes,5,0,5,0
+Union,B102,Secretary of State,,,Over Votes,0,0,0,0
+Union,B102,Attorney General,,REP,Russell COLEMAN,151,12,139,0
+Union,B102,Attorney General,,DEM,Pamela STEVENSON,74,11,59,4
+Union,B102,Attorney General,,,Total Votes,225,23,198,4
+Union,B102,Attorney General,,,Under Votes,7,0,7,0
+Union,B102,Attorney General,,,Over Votes,0,0,0,0
+Union,B102,Auditor of Public Accounts,,REP,Allison BALL,153,12,141,0
+Union,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",72,11,57,4
+Union,B102,Auditor of Public Accounts,,,Total Votes,225,23,198,4
+Union,B102,Auditor of Public Accounts,,,Under Votes,7,0,7,0
+Union,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,B102,State Treasurer,,REP,Mark H. METCALF,145,11,134,0
+Union,B102,State Treasurer,,DEM,Michael BOWMAN,79,12,63,4
+Union,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Union,B102,State Treasurer,,,Total Votes,224,23,197,4
+Union,B102,State Treasurer,,,Under Votes,8,0,8,0
+Union,B102,State Treasurer,,,Over Votes,0,0,0,0
+Union,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,154,12,142,0
+Union,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,11,56,4
+Union,B102,Commissioner of Agriculture,,,Total Votes,225,23,198,4
+Union,B102,Commissioner of Agriculture,,,Under Votes,7,0,7,0
+Union,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,B103,STRAIGHT PARTY,,,Republican,48,10,38,0
+Union,B103,STRAIGHT PARTY,,,Democratic,62,26,34,2
+Union,B103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",71,14,57,0
+Union,B103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,107,41,63,3
+Union,B103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,B103,Governor,,,Total Votes,178,55,120,3
+Union,B103,Governor,,,Under Votes,0,0,0,0
+Union,B103,Governor,,,Over Votes,0,0,0,0
+Union,B103,Secretary of State,,REP,Michael ADAMS,86,17,69,0
+Union,B103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",90,38,49,3
+Union,B103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,B103,Secretary of State,,,Total Votes,176,55,118,3
+Union,B103,Secretary of State,,,Under Votes,2,0,2,0
+Union,B103,Secretary of State,,,Over Votes,0,0,0,0
+Union,B103,Attorney General,,REP,Russell COLEMAN,88,18,70,0
+Union,B103,Attorney General,,DEM,Pamela STEVENSON,88,37,48,3
+Union,B103,Attorney General,,,Total Votes,176,55,118,3
+Union,B103,Attorney General,,,Under Votes,2,0,2,0
+Union,B103,Attorney General,,,Over Votes,0,0,0,0
+Union,B103,Auditor of Public Accounts,,REP,Allison BALL,86,18,68,0
+Union,B103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",88,36,49,3
+Union,B103,Auditor of Public Accounts,,,Total Votes,174,54,117,3
+Union,B103,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Union,B103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,B103,State Treasurer,,REP,Mark H. METCALF,84,18,66,0
+Union,B103,State Treasurer,,DEM,Michael BOWMAN,88,36,49,3
+Union,B103,State Treasurer,,,Robert Perry,0,0,0,0
+Union,B103,State Treasurer,,,Total Votes,172,54,115,3
+Union,B103,State Treasurer,,,Under Votes,6,1,5,0
+Union,B103,State Treasurer,,,Over Votes,0,0,0,0
+Union,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,92,17,75,0
+Union,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,82,37,42,3
+Union,B103,Commissioner of Agriculture,,,Total Votes,174,54,117,3
+Union,B103,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Union,B103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,C101,STRAIGHT PARTY,,,Republican,106,12,90,4
+Union,C101,STRAIGHT PARTY,,,Democratic,40,6,34,0
+Union,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",176,18,152,6
+Union,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,120,13,106,1
+Union,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,C101,Governor,,,Total Votes,296,31,258,7
+Union,C101,Governor,,,Under Votes,0,0,0,0
+Union,C101,Governor,,,Over Votes,0,0,0,0
+Union,C101,Secretary of State,,REP,Michael ADAMS,201,17,178,6
+Union,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",84,13,70,1
+Union,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,C101,Secretary of State,,,Total Votes,285,30,248,7
+Union,C101,Secretary of State,,,Under Votes,11,1,10,0
+Union,C101,Secretary of State,,,Over Votes,0,0,0,0
+Union,C101,Attorney General,,REP,Russell COLEMAN,208,19,183,6
+Union,C101,Attorney General,,DEM,Pamela STEVENSON,80,11,68,1
+Union,C101,Attorney General,,,Total Votes,288,30,251,7
+Union,C101,Attorney General,,,Under Votes,8,1,7,0
+Union,C101,Attorney General,,,Over Votes,0,0,0,0
+Union,C101,Auditor of Public Accounts,,REP,Allison BALL,206,19,181,6
+Union,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",76,11,64,1
+Union,C101,Auditor of Public Accounts,,,Total Votes,282,30,245,7
+Union,C101,Auditor of Public Accounts,,,Under Votes,13,1,12,0
+Union,C101,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Union,C101,State Treasurer,,REP,Mark H. METCALF,198,19,173,6
+Union,C101,State Treasurer,,DEM,Michael BOWMAN,85,11,73,1
+Union,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Union,C101,State Treasurer,,,Total Votes,283,30,246,7
+Union,C101,State Treasurer,,,Under Votes,13,1,12,0
+Union,C101,State Treasurer,,,Over Votes,0,0,0,0
+Union,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,208,19,182,7
+Union,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,78,11,67,0
+Union,C101,Commissioner of Agriculture,,,Total Votes,286,30,249,7
+Union,C101,Commissioner of Agriculture,,,Under Votes,10,1,9,0
+Union,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,C102,STRAIGHT PARTY,,,Republican,61,4,54,3
+Union,C102,STRAIGHT PARTY,,,Democratic,32,5,23,4
+Union,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",89,4,81,4
+Union,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,9,67,4
+Union,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,C102,Governor,,,Total Votes,169,13,148,8
+Union,C102,Governor,,,Under Votes,0,0,0,0
+Union,C102,Governor,,,Over Votes,0,0,0,0
+Union,C102,Secretary of State,,REP,Michael ADAMS,110,7,99,4
+Union,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",57,6,47,4
+Union,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,C102,Secretary of State,,,Total Votes,167,13,146,8
+Union,C102,Secretary of State,,,Under Votes,2,0,2,0
+Union,C102,Secretary of State,,,Over Votes,0,0,0,0
+Union,C102,Attorney General,,REP,Russell COLEMAN,111,8,100,3
+Union,C102,Attorney General,,DEM,Pamela STEVENSON,54,5,44,5
+Union,C102,Attorney General,,,Total Votes,165,13,144,8
+Union,C102,Attorney General,,,Under Votes,4,0,4,0
+Union,C102,Attorney General,,,Over Votes,0,0,0,0
+Union,C102,Auditor of Public Accounts,,REP,Allison BALL,113,8,102,3
+Union,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",52,5,42,5
+Union,C102,Auditor of Public Accounts,,,Total Votes,165,13,144,8
+Union,C102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Union,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,C102,State Treasurer,,REP,Mark H. METCALF,111,8,100,3
+Union,C102,State Treasurer,,DEM,Michael BOWMAN,54,5,44,5
+Union,C102,State Treasurer,,,Robert Perry,0,0,0,0
+Union,C102,State Treasurer,,,Total Votes,165,13,144,8
+Union,C102,State Treasurer,,,Under Votes,4,0,4,0
+Union,C102,State Treasurer,,,Over Votes,0,0,0,0
+Union,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,113,8,102,3
+Union,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,5,41,5
+Union,C102,Commissioner of Agriculture,,,Total Votes,164,13,143,8
+Union,C102,Commissioner of Agriculture,,,Under Votes,5,0,5,0
+Union,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,C103,STRAIGHT PARTY,,,Republican,63,9,53,1
+Union,C103,STRAIGHT PARTY,,,Democratic,32,3,24,5
+Union,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",102,10,90,2
+Union,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,77,7,61,9
+Union,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,C103,Governor,,,Total Votes,179,17,151,11
+Union,C103,Governor,,,Under Votes,1,0,1,0
+Union,C103,Governor,,,Over Votes,0,0,0,0
+Union,C103,Secretary of State,,REP,Michael ADAMS,125,13,109,3
+Union,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",53,4,41,8
+Union,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,C103,Secretary of State,,,Total Votes,178,17,150,11
+Union,C103,Secretary of State,,,Under Votes,2,0,2,0
+Union,C103,Secretary of State,,,Over Votes,0,0,0,0
+Union,C103,Attorney General,,REP,Russell COLEMAN,122,12,108,2
+Union,C103,Attorney General,,DEM,Pamela STEVENSON,57,5,43,9
+Union,C103,Attorney General,,,Total Votes,179,17,151,11
+Union,C103,Attorney General,,,Under Votes,1,0,1,0
+Union,C103,Attorney General,,,Over Votes,0,0,0,0
+Union,C103,Auditor of Public Accounts,,REP,Allison BALL,126,13,110,3
+Union,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",51,4,39,8
+Union,C103,Auditor of Public Accounts,,,Total Votes,177,17,149,11
+Union,C103,Auditor of Public Accounts,,,Under Votes,3,0,3,0
+Union,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,C103,State Treasurer,,REP,Mark H. METCALF,120,11,107,2
+Union,C103,State Treasurer,,DEM,Michael BOWMAN,56,6,42,8
+Union,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Union,C103,State Treasurer,,,Total Votes,176,17,149,10
+Union,C103,State Treasurer,,,Under Votes,3,0,3,0
+Union,C103,State Treasurer,,,Over Votes,1,0,0,1
+Union,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,123,11,110,2
+Union,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,55,6,40,9
+Union,C103,Commissioner of Agriculture,,,Total Votes,178,17,150,11
+Union,C103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Union,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,C104,STRAIGHT PARTY,,,Republican,45,4,40,1
+Union,C104,STRAIGHT PARTY,,,Democratic,16,1,15,0
+Union,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",67,4,62,1
+Union,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,45,4,40,1
+Union,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,C104,Governor,,,Total Votes,112,8,102,2
+Union,C104,Governor,,,Under Votes,0,0,0,0
+Union,C104,Governor,,,Over Votes,0,0,0,0
+Union,C104,Secretary of State,,REP,Michael ADAMS,78,4,73,1
+Union,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",30,3,26,1
+Union,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,C104,Secretary of State,,,Total Votes,108,7,99,2
+Union,C104,Secretary of State,,,Under Votes,4,1,3,0
+Union,C104,Secretary of State,,,Over Votes,0,0,0,0
+Union,C104,Attorney General,,REP,Russell COLEMAN,83,4,78,1
+Union,C104,Attorney General,,DEM,Pamela STEVENSON,27,3,23,1
+Union,C104,Attorney General,,,Total Votes,110,7,101,2
+Union,C104,Attorney General,,,Under Votes,2,1,1,0
+Union,C104,Attorney General,,,Over Votes,0,0,0,0
+Union,C104,Auditor of Public Accounts,,REP,Allison BALL,74,4,69,1
+Union,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",33,3,29,1
+Union,C104,Auditor of Public Accounts,,,Total Votes,107,7,98,2
+Union,C104,Auditor of Public Accounts,,,Under Votes,4,1,3,0
+Union,C104,Auditor of Public Accounts,,,Over Votes,1,0,1,0
+Union,C104,State Treasurer,,REP,Mark H. METCALF,76,4,71,1
+Union,C104,State Treasurer,,DEM,Michael BOWMAN,31,3,27,1
+Union,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Union,C104,State Treasurer,,,Total Votes,107,7,98,2
+Union,C104,State Treasurer,,,Under Votes,5,1,4,0
+Union,C104,State Treasurer,,,Over Votes,0,0,0,0
+Union,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,80,4,75,1
+Union,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,3,25,1
+Union,C104,Commissioner of Agriculture,,,Total Votes,109,7,100,2
+Union,C104,Commissioner of Agriculture,,,Under Votes,3,1,2,0
+Union,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,E102,STRAIGHT PARTY,,,Republican,101,13,82,6
+Union,E102,STRAIGHT PARTY,,,Democratic,53,9,40,4
+Union,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",132,17,106,9
+Union,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,116,17,94,5
+Union,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,E102,Governor,,,Total Votes,248,34,200,14
+Union,E102,Governor,,,Under Votes,0,0,0,0
+Union,E102,Governor,,,Over Votes,0,0,0,0
+Union,E102,Secretary of State,,REP,Michael ADAMS,165,23,133,9
+Union,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",76,11,60,5
+Union,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,E102,Secretary of State,,,Total Votes,241,34,193,14
+Union,E102,Secretary of State,,,Under Votes,7,0,7,0
+Union,E102,Secretary of State,,,Over Votes,0,0,0,0
+Union,E102,Attorney General,,REP,Russell COLEMAN,163,16,138,9
+Union,E102,Attorney General,,DEM,Pamela STEVENSON,78,18,55,5
+Union,E102,Attorney General,,,Total Votes,241,34,193,14
+Union,E102,Attorney General,,,Under Votes,7,0,7,0
+Union,E102,Attorney General,,,Over Votes,0,0,0,0
+Union,E102,Auditor of Public Accounts,,REP,Allison BALL,160,20,131,9
+Union,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",78,14,59,5
+Union,E102,Auditor of Public Accounts,,,Total Votes,238,34,190,14
+Union,E102,Auditor of Public Accounts,,,Under Votes,10,0,10,0
+Union,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,E102,State Treasurer,,REP,Mark H. METCALF,155,18,130,7
+Union,E102,State Treasurer,,DEM,Michael BOWMAN,83,15,61,7
+Union,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Union,E102,State Treasurer,,,Total Votes,238,33,191,14
+Union,E102,State Treasurer,,,Under Votes,10,1,9,0
+Union,E102,State Treasurer,,,Over Votes,0,0,0,0
+Union,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,168,18,142,8
+Union,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,71,15,50,6
+Union,E102,Commissioner of Agriculture,,,Total Votes,239,33,192,14
+Union,E102,Commissioner of Agriculture,,,Under Votes,9,1,8,0
+Union,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,E103,STRAIGHT PARTY,,,Republican,103,11,92,0
+Union,E103,STRAIGHT PARTY,,,Democratic,30,3,25,2
+Union,E103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",162,12,150,0
+Union,E103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,86,6,78,2
+Union,E103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,E103,Governor,,,Total Votes,248,18,228,2
+Union,E103,Governor,,,Under Votes,1,1,0,0
+Union,E103,Governor,,,Over Votes,0,0,0,0
+Union,E103,Secretary of State,,REP,Michael ADAMS,180,13,167,0
+Union,E103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",59,6,51,2
+Union,E103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,E103,Secretary of State,,,Total Votes,239,19,218,2
+Union,E103,Secretary of State,,,Under Votes,9,0,9,0
+Union,E103,Secretary of State,,,Over Votes,1,0,1,0
+Union,E103,Attorney General,,REP,Russell COLEMAN,185,13,172,0
+Union,E103,Attorney General,,DEM,Pamela STEVENSON,53,6,45,2
+Union,E103,Attorney General,,,Total Votes,238,19,217,2
+Union,E103,Attorney General,,,Under Votes,11,0,11,0
+Union,E103,Attorney General,,,Over Votes,0,0,0,0
+Union,E103,Auditor of Public Accounts,,REP,Allison BALL,181,13,168,0
+Union,E103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",54,6,46,2
+Union,E103,Auditor of Public Accounts,,,Total Votes,235,19,214,2
+Union,E103,Auditor of Public Accounts,,,Under Votes,14,0,14,0
+Union,E103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,E103,State Treasurer,,REP,Mark H. METCALF,183,13,170,0
+Union,E103,State Treasurer,,DEM,Michael BOWMAN,54,6,46,2
+Union,E103,State Treasurer,,,Robert Perry,0,0,0,0
+Union,E103,State Treasurer,,,Total Votes,237,19,216,2
+Union,E103,State Treasurer,,,Under Votes,12,0,12,0
+Union,E103,State Treasurer,,,Over Votes,0,0,0,0
+Union,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,189,15,174,0
+Union,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,49,4,43,2
+Union,E103,Commissioner of Agriculture,,,Total Votes,238,19,217,2
+Union,E103,Commissioner of Agriculture,,,Under Votes,11,0,11,0
+Union,E103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,E104,STRAIGHT PARTY,,,Republican,93,8,83,2
+Union,E104,STRAIGHT PARTY,,,Democratic,42,7,33,2
+Union,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,16,134,2
+Union,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,92,13,76,3
+Union,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,E104,Governor,,,Total Votes,244,29,210,5
+Union,E104,Governor,,,Under Votes,1,0,1,0
+Union,E104,Governor,,,Over Votes,0,0,0,0
+Union,E104,Secretary of State,,REP,Michael ADAMS,167,17,148,2
+Union,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",73,12,58,3
+Union,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,E104,Secretary of State,,,Total Votes,240,29,206,5
+Union,E104,Secretary of State,,,Under Votes,5,0,5,0
+Union,E104,Secretary of State,,,Over Votes,0,0,0,0
+Union,E104,Attorney General,,REP,Russell COLEMAN,172,17,153,2
+Union,E104,Attorney General,,DEM,Pamela STEVENSON,68,12,53,3
+Union,E104,Attorney General,,,Total Votes,240,29,206,5
+Union,E104,Attorney General,,,Under Votes,5,0,5,0
+Union,E104,Attorney General,,,Over Votes,0,0,0,0
+Union,E104,Auditor of Public Accounts,,REP,Allison BALL,166,18,145,3
+Union,E104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",71,11,58,2
+Union,E104,Auditor of Public Accounts,,,Total Votes,237,29,203,5
+Union,E104,Auditor of Public Accounts,,,Under Votes,8,0,8,0
+Union,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,E104,State Treasurer,,REP,Mark H. METCALF,165,17,145,3
+Union,E104,State Treasurer,,DEM,Michael BOWMAN,72,12,58,2
+Union,E104,State Treasurer,,,Robert Perry,0,0,0,0
+Union,E104,State Treasurer,,,Total Votes,237,29,203,5
+Union,E104,State Treasurer,,,Under Votes,8,0,8,0
+Union,E104,State Treasurer,,,Over Votes,0,0,0,0
+Union,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,176,18,155,3
+Union,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,62,11,49,2
+Union,E104,Commissioner of Agriculture,,,Total Votes,238,29,204,5
+Union,E104,Commissioner of Agriculture,,,Under Votes,6,0,6,0
+Union,E104,Commissioner of Agriculture,,,Over Votes,1,0,1,0
+Union,F101,STRAIGHT PARTY,,,Republican,108,17,88,3
+Union,F101,STRAIGHT PARTY,,,Democratic,76,9,66,1
+Union,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",193,23,165,5
+Union,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,170,19,149,2
+Union,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,F101,Governor,,,Total Votes,363,42,314,7
+Union,F101,Governor,,,Under Votes,1,0,1,0
+Union,F101,Governor,,,Over Votes,1,0,1,0
+Union,F101,Secretary of State,,REP,Michael ADAMS,223,27,190,6
+Union,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",134,14,119,1
+Union,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,F101,Secretary of State,,,Total Votes,357,41,309,7
+Union,F101,Secretary of State,,,Under Votes,7,0,7,0
+Union,F101,Secretary of State,,,Over Votes,1,1,0,0
+Union,F101,Attorney General,,REP,Russell COLEMAN,217,26,185,6
+Union,F101,Attorney General,,DEM,Pamela STEVENSON,136,14,121,1
+Union,F101,Attorney General,,,Total Votes,353,40,306,7
+Union,F101,Attorney General,,,Under Votes,11,1,10,0
+Union,F101,Attorney General,,,Over Votes,1,1,0,0
+Union,F101,Auditor of Public Accounts,,REP,Allison BALL,210,26,178,6
+Union,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",141,14,126,1
+Union,F101,Auditor of Public Accounts,,,Total Votes,351,40,304,7
+Union,F101,Auditor of Public Accounts,,,Under Votes,14,2,12,0
+Union,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,F101,State Treasurer,,REP,Mark H. METCALF,214,24,185,5
+Union,F101,State Treasurer,,DEM,Michael BOWMAN,139,17,120,2
+Union,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Union,F101,State Treasurer,,,Total Votes,353,41,305,7
+Union,F101,State Treasurer,,,Under Votes,12,1,11,0
+Union,F101,State Treasurer,,,Over Votes,0,0,0,0
+Union,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,223,24,193,6
+Union,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,133,17,115,1
+Union,F101,Commissioner of Agriculture,,,Total Votes,356,41,308,7
+Union,F101,Commissioner of Agriculture,,,Under Votes,9,1,8,0
+Union,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,F102,STRAIGHT PARTY,,,Republican,28,8,20,0
+Union,F102,STRAIGHT PARTY,,,Democratic,27,13,14,0
+Union,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",46,10,36,0
+Union,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,56,25,30,1
+Union,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,F102,Governor,,,Total Votes,102,35,66,1
+Union,F102,Governor,,,Under Votes,0,0,0,0
+Union,F102,Governor,,,Over Votes,0,0,0,0
+Union,F102,Secretary of State,,REP,Michael ADAMS,56,17,38,1
+Union,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",42,18,24,0
+Union,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,F102,Secretary of State,,,Total Votes,98,35,62,1
+Union,F102,Secretary of State,,,Under Votes,4,0,4,0
+Union,F102,Secretary of State,,,Over Votes,0,0,0,0
+Union,F102,Attorney General,,REP,Russell COLEMAN,56,17,39,0
+Union,F102,Attorney General,,DEM,Pamela STEVENSON,44,18,25,1
+Union,F102,Attorney General,,,Total Votes,100,35,64,1
+Union,F102,Attorney General,,,Under Votes,2,0,2,0
+Union,F102,Attorney General,,,Over Votes,0,0,0,0
+Union,F102,Auditor of Public Accounts,,REP,Allison BALL,55,18,36,1
+Union,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",43,17,26,0
+Union,F102,Auditor of Public Accounts,,,Total Votes,98,35,62,1
+Union,F102,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Union,F102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,F102,State Treasurer,,REP,Mark H. METCALF,54,15,39,0
+Union,F102,State Treasurer,,DEM,Michael BOWMAN,44,19,24,1
+Union,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Union,F102,State Treasurer,,,Total Votes,98,34,63,1
+Union,F102,State Treasurer,,,Under Votes,4,1,3,0
+Union,F102,State Treasurer,,,Over Votes,0,0,0,0
+Union,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,56,15,40,1
+Union,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,19,23,0
+Union,F102,Commissioner of Agriculture,,,Total Votes,98,34,63,1
+Union,F102,Commissioner of Agriculture,,,Under Votes,4,1,3,0
+Union,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Union,F103,STRAIGHT PARTY,,,Republican,105,20,83,2
+Union,F103,STRAIGHT PARTY,,,Democratic,77,19,52,6
+Union,F103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",152,27,120,5
+Union,F103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,153,41,104,8
+Union,F103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Union,F103,Governor,,,Total Votes,305,68,224,13
+Union,F103,Governor,,,Under Votes,1,1,0,0
+Union,F103,Governor,,,Over Votes,0,0,0,0
+Union,F103,Secretary of State,,REP,Michael ADAMS,187,33,149,5
+Union,F103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",116,36,73,7
+Union,F103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Union,F103,Secretary of State,,,Total Votes,303,69,222,12
+Union,F103,Secretary of State,,,Under Votes,3,0,2,1
+Union,F103,Secretary of State,,,Over Votes,0,0,0,0
+Union,F103,Attorney General,,REP,Russell COLEMAN,194,38,151,5
+Union,F103,Attorney General,,DEM,Pamela STEVENSON,109,31,71,7
+Union,F103,Attorney General,,,Total Votes,303,69,222,12
+Union,F103,Attorney General,,,Under Votes,3,0,2,1
+Union,F103,Attorney General,,,Over Votes,0,0,0,0
+Union,F103,Auditor of Public Accounts,,REP,Allison BALL,189,35,148,6
+Union,F103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",108,32,70,6
+Union,F103,Auditor of Public Accounts,,,Total Votes,297,67,218,12
+Union,F103,Auditor of Public Accounts,,,Under Votes,9,2,6,1
+Union,F103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Union,F103,State Treasurer,,REP,Mark H. METCALF,181,33,143,5
+Union,F103,State Treasurer,,DEM,Michael BOWMAN,116,34,75,7
+Union,F103,State Treasurer,,,Robert Perry,0,0,0,0
+Union,F103,State Treasurer,,,Total Votes,297,67,218,12
+Union,F103,State Treasurer,,,Under Votes,9,2,6,1
+Union,F103,State Treasurer,,,Over Votes,0,0,0,0
+Union,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,195,35,154,6
+Union,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,104,31,67,6
+Union,F103,Commissioner of Agriculture,,,Total Votes,299,66,221,12
+Union,F103,Commissioner of Agriculture,,,Under Votes,7,3,3,1
+Union,F103,Commissioner of Agriculture,,,Over Votes,0,0,0,0

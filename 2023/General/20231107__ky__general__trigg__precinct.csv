@@ -1,0 +1,526 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Trigg,A101,STRAIGHT PARTY,,,Republican,207,56,144,7
+Trigg,A101,STRAIGHT PARTY,,,Democratic,110,37,67,6
+Trigg,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",285,82,192,11
+Trigg,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,224,77,138,9
+Trigg,A101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,A101,Governor,,,Total Votes,509,159,330,20
+Trigg,A101,Governor,,,Under Votes,0,0,0,0
+Trigg,A101,Governor,,,Over Votes,0,0,0,0
+Trigg,A101,Secretary of State,,REP,Michael ADAMS,334,97,226,11
+Trigg,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",168,62,98,8
+Trigg,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,A101,Secretary of State,,,Total Votes,502,159,324,19
+Trigg,A101,Secretary of State,,,Under Votes,6,0,6,0
+Trigg,A101,Secretary of State,,,Over Votes,1,0,0,1
+Trigg,A101,Attorney General,,REP,Russell COLEMAN,316,89,217,10
+Trigg,A101,Attorney General,,DEM,Pamela STEVENSON,184,70,104,10
+Trigg,A101,Attorney General,,,Total Votes,500,159,321,20
+Trigg,A101,Attorney General,,,Under Votes,9,0,9,0
+Trigg,A101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,A101,Auditor of Public Accounts,,REP,Allison BALL,323,92,220,11
+Trigg,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",176,66,102,8
+Trigg,A101,Auditor of Public Accounts,,,Total Votes,499,158,322,19
+Trigg,A101,Auditor of Public Accounts,,,Under Votes,10,1,8,1
+Trigg,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,A101,State Treasurer,,REP,Mark H. METCALF,318,94,215,9
+Trigg,A101,State Treasurer,,DEM,Michael BOWMAN,182,64,108,10
+Trigg,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,A101,State Treasurer,,,Total Votes,500,158,323,19
+Trigg,A101,State Treasurer,,,Under Votes,9,1,7,1
+Trigg,A101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,326,90,224,12
+Trigg,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,174,68,99,7
+Trigg,A101,Commissioner of Agriculture,,,Total Votes,500,158,323,19
+Trigg,A101,Commissioner of Agriculture,,,Under Votes,9,1,7,1
+Trigg,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,A102,STRAIGHT PARTY,,,Republican,45,9,36,0
+Trigg,A102,STRAIGHT PARTY,,,Democratic,10,1,9,0
+Trigg,A102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",56,12,44,0
+Trigg,A102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,24,3,19,2
+Trigg,A102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,A102,Governor,,,Total Votes,80,15,63,2
+Trigg,A102,Governor,,,Under Votes,0,0,0,0
+Trigg,A102,Governor,,,Over Votes,0,0,0,0
+Trigg,A102,Secretary of State,,REP,Michael ADAMS,63,12,50,1
+Trigg,A102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",15,3,11,1
+Trigg,A102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,A102,Secretary of State,,,Total Votes,78,15,61,2
+Trigg,A102,Secretary of State,,,Under Votes,2,0,2,0
+Trigg,A102,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,A102,Attorney General,,REP,Russell COLEMAN,62,13,48,1
+Trigg,A102,Attorney General,,DEM,Pamela STEVENSON,16,2,13,1
+Trigg,A102,Attorney General,,,Total Votes,78,15,61,2
+Trigg,A102,Attorney General,,,Under Votes,2,0,2,0
+Trigg,A102,Attorney General,,,Over Votes,0,0,0,0
+Trigg,A102,Auditor of Public Accounts,,REP,Allison BALL,64,13,50,1
+Trigg,A102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",14,2,11,1
+Trigg,A102,Auditor of Public Accounts,,,Total Votes,78,15,61,2
+Trigg,A102,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Trigg,A102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,A102,State Treasurer,,REP,Mark H. METCALF,59,12,46,1
+Trigg,A102,State Treasurer,,DEM,Michael BOWMAN,19,3,15,1
+Trigg,A102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,A102,State Treasurer,,,Total Votes,78,15,61,2
+Trigg,A102,State Treasurer,,,Under Votes,2,0,2,0
+Trigg,A102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,62,14,47,1
+Trigg,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,1,14,1
+Trigg,A102,Commissioner of Agriculture,,,Total Votes,78,15,61,2
+Trigg,A102,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Trigg,A102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,B101,STRAIGHT PARTY,,,Republican,108,29,79,0
+Trigg,B101,STRAIGHT PARTY,,,Democratic,33,15,14,4
+Trigg,B101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",147,38,109,0
+Trigg,B101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,81,28,47,6
+Trigg,B101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,B101,Governor,,,Total Votes,228,66,156,6
+Trigg,B101,Governor,,,Under Votes,1,1,0,0
+Trigg,B101,Governor,,,Over Votes,0,0,0,0
+Trigg,B101,Secretary of State,,REP,Michael ADAMS,164,44,118,2
+Trigg,B101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,22,34,4
+Trigg,B101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,B101,Secretary of State,,,Total Votes,224,66,152,6
+Trigg,B101,Secretary of State,,,Under Votes,5,1,4,0
+Trigg,B101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,B101,Attorney General,,REP,Russell COLEMAN,159,42,117,0
+Trigg,B101,Attorney General,,DEM,Pamela STEVENSON,65,25,34,6
+Trigg,B101,Attorney General,,,Total Votes,224,67,151,6
+Trigg,B101,Attorney General,,,Under Votes,5,0,5,0
+Trigg,B101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,B101,Auditor of Public Accounts,,REP,Allison BALL,164,44,118,2
+Trigg,B101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",56,21,31,4
+Trigg,B101,Auditor of Public Accounts,,,Total Votes,220,65,149,6
+Trigg,B101,Auditor of Public Accounts,,,Under Votes,9,2,7,0
+Trigg,B101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,B101,State Treasurer,,REP,Mark H. METCALF,162,44,118,0
+Trigg,B101,State Treasurer,,DEM,Michael BOWMAN,62,22,34,6
+Trigg,B101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,B101,State Treasurer,,,Total Votes,224,66,152,6
+Trigg,B101,State Treasurer,,,Under Votes,5,1,4,0
+Trigg,B101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,167,44,122,1
+Trigg,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,56,21,30,5
+Trigg,B101,Commissioner of Agriculture,,,Total Votes,223,65,152,6
+Trigg,B101,Commissioner of Agriculture,,,Under Votes,6,2,4,0
+Trigg,B101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,B102,STRAIGHT PARTY,,,Republican,228,52,174,2
+Trigg,B102,STRAIGHT PARTY,,,Democratic,77,27,45,5
+Trigg,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",329,65,259,5
+Trigg,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,178,51,121,6
+Trigg,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,B102,Governor,,,Total Votes,507,116,380,11
+Trigg,B102,Governor,,,Under Votes,0,0,0,0
+Trigg,B102,Governor,,,Over Votes,0,0,0,0
+Trigg,B102,Secretary of State,,REP,Michael ADAMS,366,74,286,6
+Trigg,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",131,42,84,5
+Trigg,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,B102,Secretary of State,,,Total Votes,497,116,370,11
+Trigg,B102,Secretary of State,,,Under Votes,10,0,10,0
+Trigg,B102,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,B102,Attorney General,,REP,Russell COLEMAN,356,71,279,6
+Trigg,B102,Attorney General,,DEM,Pamela STEVENSON,144,45,94,5
+Trigg,B102,Attorney General,,,Total Votes,500,116,373,11
+Trigg,B102,Attorney General,,,Under Votes,7,0,7,0
+Trigg,B102,Attorney General,,,Over Votes,0,0,0,0
+Trigg,B102,Auditor of Public Accounts,,REP,Allison BALL,354,72,276,6
+Trigg,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",142,43,94,5
+Trigg,B102,Auditor of Public Accounts,,,Total Votes,496,115,370,11
+Trigg,B102,Auditor of Public Accounts,,,Under Votes,11,1,10,0
+Trigg,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,B102,State Treasurer,,REP,Mark H. METCALF,355,70,279,6
+Trigg,B102,State Treasurer,,DEM,Michael BOWMAN,139,45,89,5
+Trigg,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,B102,State Treasurer,,,Total Votes,494,115,368,11
+Trigg,B102,State Treasurer,,,Under Votes,13,1,12,0
+Trigg,B102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,361,71,284,6
+Trigg,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,133,44,84,5
+Trigg,B102,Commissioner of Agriculture,,,Total Votes,494,115,368,11
+Trigg,B102,Commissioner of Agriculture,,,Under Votes,13,1,12,0
+Trigg,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,C101,STRAIGHT PARTY,,,Republican,176,39,133,4
+Trigg,C101,STRAIGHT PARTY,,,Democratic,93,25,64,4
+Trigg,C101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",281,61,211,9
+Trigg,C101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,213,63,140,10
+Trigg,C101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,C101,Governor,,,Total Votes,494,124,351,19
+Trigg,C101,Governor,,,Under Votes,1,1,0,0
+Trigg,C101,Governor,,,Over Votes,0,0,0,0
+Trigg,C101,Secretary of State,,REP,Michael ADAMS,325,81,231,13
+Trigg,C101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",164,43,117,4
+Trigg,C101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,C101,Secretary of State,,,Total Votes,489,124,348,17
+Trigg,C101,Secretary of State,,,Under Votes,6,1,3,2
+Trigg,C101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,C101,Attorney General,,REP,Russell COLEMAN,305,71,221,13
+Trigg,C101,Attorney General,,DEM,Pamela STEVENSON,183,52,127,4
+Trigg,C101,Attorney General,,,Total Votes,488,123,348,17
+Trigg,C101,Attorney General,,,Under Votes,7,2,3,2
+Trigg,C101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,C101,Auditor of Public Accounts,,REP,Allison BALL,317,75,232,10
+Trigg,C101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",169,48,114,7
+Trigg,C101,Auditor of Public Accounts,,,Total Votes,486,123,346,17
+Trigg,C101,Auditor of Public Accounts,,,Under Votes,9,2,5,2
+Trigg,C101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,C101,State Treasurer,,REP,Mark H. METCALF,304,70,226,8
+Trigg,C101,State Treasurer,,DEM,Michael BOWMAN,185,54,122,9
+Trigg,C101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,C101,State Treasurer,,,Total Votes,489,124,348,17
+Trigg,C101,State Treasurer,,,Under Votes,6,1,3,2
+Trigg,C101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,313,76,227,10
+Trigg,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,174,47,120,7
+Trigg,C101,Commissioner of Agriculture,,,Total Votes,487,123,347,17
+Trigg,C101,Commissioner of Agriculture,,,Under Votes,8,2,4,2
+Trigg,C101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,D101,STRAIGHT PARTY,,,Republican,146,17,128,1
+Trigg,D101,STRAIGHT PARTY,,,Democratic,68,13,54,1
+Trigg,D101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",218,22,195,1
+Trigg,D101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,128,21,103,4
+Trigg,D101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,D101,Governor,,,Total Votes,346,43,298,5
+Trigg,D101,Governor,,,Under Votes,0,0,0,0
+Trigg,D101,Governor,,,Over Votes,0,0,0,0
+Trigg,D101,Secretary of State,,REP,Michael ADAMS,237,24,212,1
+Trigg,D101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",108,19,85,4
+Trigg,D101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,D101,Secretary of State,,,Total Votes,345,43,297,5
+Trigg,D101,Secretary of State,,,Under Votes,1,0,1,0
+Trigg,D101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,D101,Attorney General,,REP,Russell COLEMAN,235,25,209,1
+Trigg,D101,Attorney General,,DEM,Pamela STEVENSON,109,18,87,4
+Trigg,D101,Attorney General,,,Total Votes,344,43,296,5
+Trigg,D101,Attorney General,,,Under Votes,2,0,2,0
+Trigg,D101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,D101,Auditor of Public Accounts,,REP,Allison BALL,242,25,216,1
+Trigg,D101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",102,17,81,4
+Trigg,D101,Auditor of Public Accounts,,,Total Votes,344,42,297,5
+Trigg,D101,Auditor of Public Accounts,,,Under Votes,2,1,1,0
+Trigg,D101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,D101,State Treasurer,,REP,Mark H. METCALF,231,22,208,1
+Trigg,D101,State Treasurer,,DEM,Michael BOWMAN,112,20,88,4
+Trigg,D101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,D101,State Treasurer,,,Total Votes,343,42,296,5
+Trigg,D101,State Treasurer,,,Under Votes,3,1,2,0
+Trigg,D101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,234,24,209,1
+Trigg,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,110,18,88,4
+Trigg,D101,Commissioner of Agriculture,,,Total Votes,344,42,297,5
+Trigg,D101,Commissioner of Agriculture,,,Under Votes,2,1,1,0
+Trigg,D101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,D102,STRAIGHT PARTY,,,Republican,10,2,8,0
+Trigg,D102,STRAIGHT PARTY,,,Democratic,2,0,0,2
+Trigg,D102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",10,3,7,0
+Trigg,D102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,5,0,3,2
+Trigg,D102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,D102,Governor,,,Total Votes,15,3,10,2
+Trigg,D102,Governor,,,Under Votes,0,0,0,0
+Trigg,D102,Governor,,,Over Votes,0,0,0,0
+Trigg,D102,Secretary of State,,REP,Michael ADAMS,11,3,8,0
+Trigg,D102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",4,0,2,2
+Trigg,D102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,D102,Secretary of State,,,Total Votes,15,3,10,2
+Trigg,D102,Secretary of State,,,Under Votes,0,0,0,0
+Trigg,D102,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,D102,Attorney General,,REP,Russell COLEMAN,10,3,7,0
+Trigg,D102,Attorney General,,DEM,Pamela STEVENSON,5,0,3,2
+Trigg,D102,Attorney General,,,Total Votes,15,3,10,2
+Trigg,D102,Attorney General,,,Under Votes,0,0,0,0
+Trigg,D102,Attorney General,,,Over Votes,0,0,0,0
+Trigg,D102,Auditor of Public Accounts,,REP,Allison BALL,10,3,7,0
+Trigg,D102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",5,0,3,2
+Trigg,D102,Auditor of Public Accounts,,,Total Votes,15,3,10,2
+Trigg,D102,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Trigg,D102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,D102,State Treasurer,,REP,Mark H. METCALF,11,3,8,0
+Trigg,D102,State Treasurer,,DEM,Michael BOWMAN,4,0,2,2
+Trigg,D102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,D102,State Treasurer,,,Total Votes,15,3,10,2
+Trigg,D102,State Treasurer,,,Under Votes,0,0,0,0
+Trigg,D102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,12,3,9,0
+Trigg,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,1,2
+Trigg,D102,Commissioner of Agriculture,,,Total Votes,15,3,10,2
+Trigg,D102,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Trigg,D102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,D103,STRAIGHT PARTY,,,Republican,50,8,37,5
+Trigg,D103,STRAIGHT PARTY,,,Democratic,40,4,30,6
+Trigg,D103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",59,8,48,3
+Trigg,D103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,62,10,43,9
+Trigg,D103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,D103,Governor,,,Total Votes,121,18,91,12
+Trigg,D103,Governor,,,Under Votes,0,0,0,0
+Trigg,D103,Governor,,,Over Votes,0,0,0,0
+Trigg,D103,Secretary of State,,REP,Michael ADAMS,72,11,55,6
+Trigg,D103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",47,7,34,6
+Trigg,D103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,D103,Secretary of State,,,Total Votes,119,18,89,12
+Trigg,D103,Secretary of State,,,Under Votes,2,0,2,0
+Trigg,D103,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,D103,Attorney General,,REP,Russell COLEMAN,67,10,52,5
+Trigg,D103,Attorney General,,DEM,Pamela STEVENSON,52,8,37,7
+Trigg,D103,Attorney General,,,Total Votes,119,18,89,12
+Trigg,D103,Attorney General,,,Under Votes,2,0,2,0
+Trigg,D103,Attorney General,,,Over Votes,0,0,0,0
+Trigg,D103,Auditor of Public Accounts,,REP,Allison BALL,69,12,51,6
+Trigg,D103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",51,6,39,6
+Trigg,D103,Auditor of Public Accounts,,,Total Votes,120,18,90,12
+Trigg,D103,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Trigg,D103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,D103,State Treasurer,,REP,Mark H. METCALF,61,8,48,5
+Trigg,D103,State Treasurer,,DEM,Michael BOWMAN,57,10,41,6
+Trigg,D103,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,D103,State Treasurer,,,Total Votes,118,18,89,11
+Trigg,D103,State Treasurer,,,Under Votes,3,0,2,1
+Trigg,D103,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,68,11,50,7
+Trigg,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,7,39,5
+Trigg,D103,Commissioner of Agriculture,,,Total Votes,119,18,89,12
+Trigg,D103,Commissioner of Agriculture,,,Under Votes,2,0,2,0
+Trigg,D103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,E101,STRAIGHT PARTY,,,Republican,73,17,54,2
+Trigg,E101,STRAIGHT PARTY,,,Democratic,48,17,31,0
+Trigg,E101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",133,31,99,3
+Trigg,E101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,88,29,56,3
+Trigg,E101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,E101,Governor,,,Total Votes,221,60,155,6
+Trigg,E101,Governor,,,Under Votes,1,0,1,0
+Trigg,E101,Governor,,,Over Votes,0,0,0,0
+Trigg,E101,Secretary of State,,REP,Michael ADAMS,146,36,106,4
+Trigg,E101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",70,21,47,2
+Trigg,E101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,E101,Secretary of State,,,Total Votes,216,57,153,6
+Trigg,E101,Secretary of State,,,Under Votes,6,3,3,0
+Trigg,E101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,E101,Attorney General,,REP,Russell COLEMAN,136,31,102,3
+Trigg,E101,Attorney General,,DEM,Pamela STEVENSON,80,25,52,3
+Trigg,E101,Attorney General,,,Total Votes,216,56,154,6
+Trigg,E101,Attorney General,,,Under Votes,6,4,2,0
+Trigg,E101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,E101,Auditor of Public Accounts,,REP,Allison BALL,144,35,106,3
+Trigg,E101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",69,21,45,3
+Trigg,E101,Auditor of Public Accounts,,,Total Votes,213,56,151,6
+Trigg,E101,Auditor of Public Accounts,,,Under Votes,9,4,5,0
+Trigg,E101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,E101,State Treasurer,,REP,Mark H. METCALF,140,33,104,3
+Trigg,E101,State Treasurer,,DEM,Michael BOWMAN,74,23,48,3
+Trigg,E101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,E101,State Treasurer,,,Total Votes,214,56,152,6
+Trigg,E101,State Treasurer,,,Under Votes,8,4,4,0
+Trigg,E101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,139,33,101,5
+Trigg,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,77,24,52,1
+Trigg,E101,Commissioner of Agriculture,,,Total Votes,216,57,153,6
+Trigg,E101,Commissioner of Agriculture,,,Under Votes,6,3,3,0
+Trigg,E101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,E102,STRAIGHT PARTY,,,Republican,72,12,60,0
+Trigg,E102,STRAIGHT PARTY,,,Democratic,26,12,12,2
+Trigg,E102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",116,25,90,1
+Trigg,E102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,48,21,24,3
+Trigg,E102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,E102,Governor,,,Total Votes,164,46,114,4
+Trigg,E102,Governor,,,Under Votes,0,0,0,0
+Trigg,E102,Governor,,,Over Votes,0,0,0,0
+Trigg,E102,Secretary of State,,REP,Michael ADAMS,124,29,93,2
+Trigg,E102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,17,21,2
+Trigg,E102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,E102,Secretary of State,,,Total Votes,164,46,114,4
+Trigg,E102,Secretary of State,,,Under Votes,0,0,0,0
+Trigg,E102,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,E102,Attorney General,,REP,Russell COLEMAN,118,25,92,1
+Trigg,E102,Attorney General,,DEM,Pamela STEVENSON,45,20,22,3
+Trigg,E102,Attorney General,,,Total Votes,163,45,114,4
+Trigg,E102,Attorney General,,,Under Votes,1,1,0,0
+Trigg,E102,Attorney General,,,Over Votes,0,0,0,0
+Trigg,E102,Auditor of Public Accounts,,REP,Allison BALL,120,27,91,2
+Trigg,E102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,17,22,2
+Trigg,E102,Auditor of Public Accounts,,,Total Votes,161,44,113,4
+Trigg,E102,Auditor of Public Accounts,,,Under Votes,3,2,1,0
+Trigg,E102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,E102,State Treasurer,,REP,Mark H. METCALF,116,25,90,1
+Trigg,E102,State Treasurer,,DEM,Michael BOWMAN,46,20,23,3
+Trigg,E102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,E102,State Treasurer,,,Total Votes,162,45,113,4
+Trigg,E102,State Treasurer,,,Under Votes,2,1,1,0
+Trigg,E102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,121,28,92,1
+Trigg,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,18,22,3
+Trigg,E102,Commissioner of Agriculture,,,Total Votes,164,46,114,4
+Trigg,E102,Commissioner of Agriculture,,,Under Votes,0,0,0,0
+Trigg,E102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,E104,STRAIGHT PARTY,,,Republican,56,6,47,3
+Trigg,E104,STRAIGHT PARTY,,,Democratic,14,2,11,1
+Trigg,E104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",80,11,66,3
+Trigg,E104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,32,7,24,1
+Trigg,E104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,E104,Governor,,,Total Votes,112,18,90,4
+Trigg,E104,Governor,,,Under Votes,1,0,1,0
+Trigg,E104,Governor,,,Over Votes,0,0,0,0
+Trigg,E104,Secretary of State,,REP,Michael ADAMS,87,14,70,3
+Trigg,E104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",26,4,21,1
+Trigg,E104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,E104,Secretary of State,,,Total Votes,113,18,91,4
+Trigg,E104,Secretary of State,,,Under Votes,0,0,0,0
+Trigg,E104,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,E104,Attorney General,,REP,Russell COLEMAN,85,13,69,3
+Trigg,E104,Attorney General,,DEM,Pamela STEVENSON,27,5,21,1
+Trigg,E104,Attorney General,,,Total Votes,112,18,90,4
+Trigg,E104,Attorney General,,,Under Votes,1,0,1,0
+Trigg,E104,Attorney General,,,Over Votes,0,0,0,0
+Trigg,E104,Auditor of Public Accounts,,REP,Allison BALL,86,13,70,3
+Trigg,E104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",26,5,20,1
+Trigg,E104,Auditor of Public Accounts,,,Total Votes,112,18,90,4
+Trigg,E104,Auditor of Public Accounts,,,Under Votes,1,0,1,0
+Trigg,E104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,E104,State Treasurer,,REP,Mark H. METCALF,82,12,67,3
+Trigg,E104,State Treasurer,,DEM,Michael BOWMAN,30,6,23,1
+Trigg,E104,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,E104,State Treasurer,,,Total Votes,112,18,90,4
+Trigg,E104,State Treasurer,,,Under Votes,1,0,1,0
+Trigg,E104,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,89,14,72,3
+Trigg,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,4,18,1
+Trigg,E104,Commissioner of Agriculture,,,Total Votes,112,18,90,4
+Trigg,E104,Commissioner of Agriculture,,,Under Votes,1,0,1,0
+Trigg,E104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,F101,STRAIGHT PARTY,,,Republican,95,18,74,3
+Trigg,F101,STRAIGHT PARTY,,,Democratic,27,6,20,1
+Trigg,F101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",127,21,100,6
+Trigg,F101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,43,11,30,2
+Trigg,F101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,F101,Governor,,,Total Votes,170,32,130,8
+Trigg,F101,Governor,,,Under Votes,1,0,1,0
+Trigg,F101,Governor,,,Over Votes,0,0,0,0
+Trigg,F101,Secretary of State,,REP,Michael ADAMS,131,23,102,6
+Trigg,F101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",40,9,29,2
+Trigg,F101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,F101,Secretary of State,,,Total Votes,171,32,131,8
+Trigg,F101,Secretary of State,,,Under Votes,0,0,0,0
+Trigg,F101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,F101,Attorney General,,REP,Russell COLEMAN,132,22,104,6
+Trigg,F101,Attorney General,,DEM,Pamela STEVENSON,39,10,27,2
+Trigg,F101,Attorney General,,,Total Votes,171,32,131,8
+Trigg,F101,Attorney General,,,Under Votes,0,0,0,0
+Trigg,F101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,F101,Auditor of Public Accounts,,REP,Allison BALL,130,22,102,6
+Trigg,F101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",41,10,29,2
+Trigg,F101,Auditor of Public Accounts,,,Total Votes,171,32,131,8
+Trigg,F101,Auditor of Public Accounts,,,Under Votes,0,0,0,0
+Trigg,F101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,F101,State Treasurer,,REP,Mark H. METCALF,130,23,101,6
+Trigg,F101,State Treasurer,,DEM,Michael BOWMAN,41,9,30,2
+Trigg,F101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,F101,State Treasurer,,,Total Votes,171,32,131,8
+Trigg,F101,State Treasurer,,,Under Votes,0,0,0,0
+Trigg,F101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,129,22,102,5
+Trigg,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,41,10,29,2
+Trigg,F101,Commissioner of Agriculture,,,Total Votes,170,32,131,7
+Trigg,F101,Commissioner of Agriculture,,,Under Votes,1,0,0,1
+Trigg,F101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,F102,STRAIGHT PARTY,,,Republican,256,46,208,2
+Trigg,F102,STRAIGHT PARTY,,,Democratic,77,18,54,5
+Trigg,F102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",365,66,297,2
+Trigg,F102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,184,38,138,8
+Trigg,F102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,F102,Governor,,,Total Votes,549,104,435,10
+Trigg,F102,Governor,,,Under Votes,1,0,1,0
+Trigg,F102,Governor,,,Over Votes,0,0,0,0
+Trigg,F102,Secretary of State,,REP,Michael ADAMS,409,75,332,2
+Trigg,F102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",132,27,97,8
+Trigg,F102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,F102,Secretary of State,,,Total Votes,541,102,429,10
+Trigg,F102,Secretary of State,,,Under Votes,8,1,7,0
+Trigg,F102,Secretary of State,,,Over Votes,1,1,0,0
+Trigg,F102,Attorney General,,REP,Russell COLEMAN,393,70,321,2
+Trigg,F102,Attorney General,,DEM,Pamela STEVENSON,149,33,108,8
+Trigg,F102,Attorney General,,,Total Votes,542,103,429,10
+Trigg,F102,Attorney General,,,Under Votes,8,1,7,0
+Trigg,F102,Attorney General,,,Over Votes,0,0,0,0
+Trigg,F102,Auditor of Public Accounts,,REP,Allison BALL,402,71,329,2
+Trigg,F102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",140,32,100,8
+Trigg,F102,Auditor of Public Accounts,,,Total Votes,542,103,429,10
+Trigg,F102,Auditor of Public Accounts,,,Under Votes,7,0,7,0
+Trigg,F102,Auditor of Public Accounts,,,Over Votes,1,1,0,0
+Trigg,F102,State Treasurer,,REP,Mark H. METCALF,393,69,322,2
+Trigg,F102,State Treasurer,,DEM,Michael BOWMAN,149,34,107,8
+Trigg,F102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,F102,State Treasurer,,,Total Votes,542,103,429,10
+Trigg,F102,State Treasurer,,,Under Votes,8,1,7,0
+Trigg,F102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,401,71,328,2
+Trigg,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,138,31,99,8
+Trigg,F102,Commissioner of Agriculture,,,Total Votes,539,102,427,10
+Trigg,F102,Commissioner of Agriculture,,,Under Votes,11,2,9,0
+Trigg,F102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,G101,STRAIGHT PARTY,,,Republican,184,25,156,3
+Trigg,G101,STRAIGHT PARTY,,,Democratic,58,12,46,0
+Trigg,G101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",249,32,214,3
+Trigg,G101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,128,20,104,4
+Trigg,G101,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,G101,Governor,,,Total Votes,377,52,318,7
+Trigg,G101,Governor,,,Under Votes,0,0,0,0
+Trigg,G101,Governor,,,Over Votes,0,0,0,0
+Trigg,G101,Secretary of State,,REP,Michael ADAMS,277,34,239,4
+Trigg,G101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",97,18,76,3
+Trigg,G101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,G101,Secretary of State,,,Total Votes,374,52,315,7
+Trigg,G101,Secretary of State,,,Under Votes,3,0,3,0
+Trigg,G101,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,G101,Attorney General,,REP,Russell COLEMAN,264,34,226,4
+Trigg,G101,Attorney General,,DEM,Pamela STEVENSON,112,18,91,3
+Trigg,G101,Attorney General,,,Total Votes,376,52,317,7
+Trigg,G101,Attorney General,,,Under Votes,1,0,1,0
+Trigg,G101,Attorney General,,,Over Votes,0,0,0,0
+Trigg,G101,Auditor of Public Accounts,,REP,Allison BALL,269,34,230,5
+Trigg,G101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",104,18,84,2
+Trigg,G101,Auditor of Public Accounts,,,Total Votes,373,52,314,7
+Trigg,G101,Auditor of Public Accounts,,,Under Votes,4,0,4,0
+Trigg,G101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,G101,State Treasurer,,REP,Mark H. METCALF,269,34,231,4
+Trigg,G101,State Treasurer,,DEM,Michael BOWMAN,104,18,83,3
+Trigg,G101,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,G101,State Treasurer,,,Total Votes,373,52,314,7
+Trigg,G101,State Treasurer,,,Under Votes,4,0,4,0
+Trigg,G101,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,G101,Commissioner of Agriculture,,REP,Jonathan SHELL,274,34,236,4
+Trigg,G101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,100,18,79,3
+Trigg,G101,Commissioner of Agriculture,,,Total Votes,374,52,315,7
+Trigg,G101,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Trigg,G101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Trigg,G102,STRAIGHT PARTY,,,Republican,91,16,73,2
+Trigg,G102,STRAIGHT PARTY,,,Democratic,49,14,32,3
+Trigg,G102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",136,24,110,2
+Trigg,G102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,94,24,66,4
+Trigg,G102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Trigg,G102,Governor,,,Total Votes,230,48,176,6
+Trigg,G102,Governor,,,Under Votes,2,1,1,0
+Trigg,G102,Governor,,,Over Votes,0,0,0,0
+Trigg,G102,Secretary of State,,REP,Michael ADAMS,149,26,121,2
+Trigg,G102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",79,21,54,4
+Trigg,G102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Trigg,G102,Secretary of State,,,Total Votes,228,47,175,6
+Trigg,G102,Secretary of State,,,Under Votes,4,2,2,0
+Trigg,G102,Secretary of State,,,Over Votes,0,0,0,0
+Trigg,G102,Attorney General,,REP,Russell COLEMAN,144,26,115,3
+Trigg,G102,Attorney General,,DEM,Pamela STEVENSON,85,22,60,3
+Trigg,G102,Attorney General,,,Total Votes,229,48,175,6
+Trigg,G102,Attorney General,,,Under Votes,2,1,1,0
+Trigg,G102,Attorney General,,,Over Votes,1,0,1,0
+Trigg,G102,Auditor of Public Accounts,,REP,Allison BALL,150,28,119,3
+Trigg,G102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",77,19,55,3
+Trigg,G102,Auditor of Public Accounts,,,Total Votes,227,47,174,6
+Trigg,G102,Auditor of Public Accounts,,,Under Votes,5,2,3,0
+Trigg,G102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Trigg,G102,State Treasurer,,REP,Mark H. METCALF,143,26,115,2
+Trigg,G102,State Treasurer,,DEM,Michael BOWMAN,84,22,58,4
+Trigg,G102,State Treasurer,,,Robert Perry,0,0,0,0
+Trigg,G102,State Treasurer,,,Total Votes,227,48,173,6
+Trigg,G102,State Treasurer,,,Under Votes,5,1,4,0
+Trigg,G102,State Treasurer,,,Over Votes,0,0,0,0
+Trigg,G102,Commissioner of Agriculture,,REP,Jonathan SHELL,146,27,116,3
+Trigg,G102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,81,21,57,3
+Trigg,G102,Commissioner of Agriculture,,,Total Votes,227,48,173,6
+Trigg,G102,Commissioner of Agriculture,,,Under Votes,5,1,4,0
+Trigg,G102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
