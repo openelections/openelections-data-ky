@@ -1,0 +1,577 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Monroe,A101,Governor,,REP,Daniel CAMERON,13,0,13,0
+Monroe,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,A101,Governor,,REP,David O. COOPER,1,0,1,0
+Monroe,A101,Governor,,REP,Kelly CRAFT,16,0,16,0
+Monroe,A101,Governor,,REP,Eric DETERS,3,1,2,0
+Monroe,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,A101,Governor,,REP,Mike HARMON,2,0,2,0
+Monroe,A101,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,A101,Governor,,REP,Ryan QUARLES,28,0,28,0
+Monroe,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,A101,Governor,,REP,Total Votes Cast,63,1,62,0
+Monroe,A101,Governor,,REP,Under Votes,0,0,0,0
+Monroe,A101,Governor,,REP,Over Votes,0,0,0,0
+Monroe,A101,Secretary of State,,REP,Michael ADAMS,27,1,26,0
+Monroe,A101,Secretary of State,,REP,Stephen L. KNIPPER,14,0,14,0
+Monroe,A101,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Monroe,A101,Secretary of State,,REP,Total Votes Cast,43,1,42,0
+Monroe,A101,Secretary of State,,REP,Under Votes,20,0,20,0
+Monroe,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,A101,Auditor of Public Accounts,,REP,Allison BALL,39,0,39,0
+Monroe,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,5,1,4,0
+Monroe,A101,Auditor of Public Accounts,,REP,Total Votes Cast,44,1,43,0
+Monroe,A101,Auditor of Public Accounts,,REP,Under Votes,19,0,19,0
+Monroe,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,A101,State Treasurer,,REP,Andrew COOPERRIDER,14,0,14,0
+Monroe,A101,State Treasurer,,REP,Mark H. METCALF,28,1,27,0
+Monroe,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Monroe,A101,State Treasurer,,REP,Total Votes Cast,44,1,43,0
+Monroe,A101,State Treasurer,,REP,Under Votes,19,0,19,0
+Monroe,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,A101,Commissioner of Agriculture,,REP,Richard HEATH,16,0,16,0
+Monroe,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,36,1,35,0
+Monroe,A101,Commissioner of Agriculture,,REP,Total Votes Cast,52,1,51,0
+Monroe,A101,Commissioner of Agriculture,,REP,Under Votes,11,0,11,0
+Monroe,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,A101,Governor,,DEM,Andy BESHEAR,7,0,7,0
+Monroe,A101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,A101,Governor,,DEM,Total Votes Cast,7,0,7,0
+Monroe,A101,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,A101,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,4,0
+Monroe,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Monroe,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,7,0,7,0
+Monroe,A101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,A102,Governor,,REP,Daniel CAMERON,51,2,48,1
+Monroe,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,A102,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,A102,Governor,,REP,Kelly CRAFT,114,4,110,0
+Monroe,A102,Governor,,REP,Eric DETERS,6,0,6,0
+Monroe,A102,Governor,,REP,Bob DeVORE,1,0,1,0
+Monroe,A102,Governor,,REP,Mike HARMON,1,0,1,0
+Monroe,A102,Governor,,REP,Alan KECK,5,0,5,0
+Monroe,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,A102,Governor,,REP,Ryan QUARLES,95,7,87,1
+Monroe,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,A102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,A102,Governor,,REP,Total Votes Cast,273,13,258,2
+Monroe,A102,Governor,,REP,Under Votes,0,0,0,0
+Monroe,A102,Governor,,REP,Over Votes,0,0,0,0
+Monroe,A102,Secretary of State,,REP,Michael ADAMS,142,8,133,1
+Monroe,A102,Secretary of State,,REP,Stephen L. KNIPPER,55,2,53,0
+Monroe,A102,Secretary of State,,REP,Allen MARICLE,20,1,19,0
+Monroe,A102,Secretary of State,,REP,Total Votes Cast,217,11,205,1
+Monroe,A102,Secretary of State,,REP,Under Votes,56,2,53,1
+Monroe,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,A102,Auditor of Public Accounts,,REP,Allison BALL,178,12,165,1
+Monroe,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,40,0,39,1
+Monroe,A102,Auditor of Public Accounts,,REP,Total Votes Cast,218,12,204,2
+Monroe,A102,Auditor of Public Accounts,,REP,Under Votes,55,1,54,0
+Monroe,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,A102,State Treasurer,,REP,Andrew COOPERRIDER,80,3,77,0
+Monroe,A102,State Treasurer,,REP,Mark H. METCALF,106,5,101,0
+Monroe,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,3,18,0
+Monroe,A102,State Treasurer,,REP,Total Votes Cast,207,11,196,0
+Monroe,A102,State Treasurer,,REP,Under Votes,66,2,62,2
+Monroe,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,A102,Commissioner of Agriculture,,REP,Richard HEATH,101,5,95,1
+Monroe,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,138,6,132,0
+Monroe,A102,Commissioner of Agriculture,,REP,Total Votes Cast,239,11,227,1
+Monroe,A102,Commissioner of Agriculture,,REP,Under Votes,34,2,31,1
+Monroe,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,A102,Governor,,DEM,Andy BESHEAR,8,0,7,1
+Monroe,A102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,A102,Governor,,DEM,Total Votes Cast,8,0,7,1
+Monroe,A102,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,A102,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,0,5,1
+Monroe,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Monroe,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,8,0,7,1
+Monroe,A102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,A103,Governor,,REP,Daniel CAMERON,8,0,8,0
+Monroe,A103,Governor,,REP,Jacob CLARK,1,0,1,0
+Monroe,A103,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,A103,Governor,,REP,Kelly CRAFT,12,0,12,0
+Monroe,A103,Governor,,REP,Eric DETERS,3,0,2,1
+Monroe,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,A103,Governor,,REP,Mike HARMON,0,0,0,0
+Monroe,A103,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,A103,Governor,,REP,Ryan QUARLES,13,0,13,0
+Monroe,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,A103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,A103,Governor,,REP,Total Votes Cast,37,0,36,1
+Monroe,A103,Governor,,REP,Under Votes,0,0,0,0
+Monroe,A103,Governor,,REP,Over Votes,0,0,0,0
+Monroe,A103,Secretary of State,,REP,Michael ADAMS,19,0,19,0
+Monroe,A103,Secretary of State,,REP,Stephen L. KNIPPER,10,0,9,1
+Monroe,A103,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Monroe,A103,Secretary of State,,REP,Total Votes Cast,29,0,28,1
+Monroe,A103,Secretary of State,,REP,Under Votes,8,0,8,0
+Monroe,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,A103,Auditor of Public Accounts,,REP,Allison BALL,25,0,24,1
+Monroe,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Monroe,A103,Auditor of Public Accounts,,REP,Total Votes Cast,30,0,29,1
+Monroe,A103,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Monroe,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,A103,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Monroe,A103,State Treasurer,,REP,Mark H. METCALF,14,0,13,1
+Monroe,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Monroe,A103,State Treasurer,,REP,Total Votes Cast,30,0,29,1
+Monroe,A103,State Treasurer,,REP,Under Votes,7,0,7,0
+Monroe,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,A103,Commissioner of Agriculture,,REP,Richard HEATH,13,0,12,1
+Monroe,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,18,0,18,0
+Monroe,A103,Commissioner of Agriculture,,REP,Total Votes Cast,31,0,30,1
+Monroe,A103,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Monroe,A103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,A103,Governor,,DEM,Andy BESHEAR,3,0,2,1
+Monroe,A103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,A103,Governor,,DEM,Total Votes Cast,3,0,2,1
+Monroe,A103,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,A103,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Monroe,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,2,1
+Monroe,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,3,0,2,1
+Monroe,A103,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,B101,Governor,,REP,Daniel CAMERON,37,1,36,0
+Monroe,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,B101,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,B101,Governor,,REP,Kelly CRAFT,92,5,87,0
+Monroe,B101,Governor,,REP,Eric DETERS,10,0,10,0
+Monroe,B101,Governor,,REP,Bob DeVORE,3,0,3,0
+Monroe,B101,Governor,,REP,Mike HARMON,2,0,2,0
+Monroe,B101,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,B101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Monroe,B101,Governor,,REP,Ryan QUARLES,59,3,55,1
+Monroe,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,B101,Governor,,REP,Total Votes Cast,204,9,194,1
+Monroe,B101,Governor,,REP,Under Votes,1,0,1,0
+Monroe,B101,Governor,,REP,Over Votes,0,0,0,0
+Monroe,B101,Secretary of State,,REP,Michael ADAMS,98,6,91,1
+Monroe,B101,Secretary of State,,REP,Stephen L. KNIPPER,55,1,54,0
+Monroe,B101,Secretary of State,,REP,Allen MARICLE,13,0,13,0
+Monroe,B101,Secretary of State,,REP,Total Votes Cast,166,7,158,1
+Monroe,B101,Secretary of State,,REP,Under Votes,39,2,37,0
+Monroe,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,B101,Auditor of Public Accounts,,REP,Allison BALL,125,7,117,1
+Monroe,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,39,1,38,0
+Monroe,B101,Auditor of Public Accounts,,REP,Total Votes Cast,164,8,155,1
+Monroe,B101,Auditor of Public Accounts,,REP,Under Votes,40,1,39,0
+Monroe,B101,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Monroe,B101,State Treasurer,,REP,Andrew COOPERRIDER,72,4,68,0
+Monroe,B101,State Treasurer,,REP,Mark H. METCALF,81,1,80,0
+Monroe,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,0,9,0
+Monroe,B101,State Treasurer,,REP,Total Votes Cast,162,5,157,0
+Monroe,B101,State Treasurer,,REP,Under Votes,43,4,38,1
+Monroe,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,B101,Commissioner of Agriculture,,REP,Richard HEATH,80,7,72,1
+Monroe,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,89,0,89,0
+Monroe,B101,Commissioner of Agriculture,,REP,Total Votes Cast,169,7,161,1
+Monroe,B101,Commissioner of Agriculture,,REP,Under Votes,35,2,33,0
+Monroe,B101,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Monroe,B101,Governor,,DEM,Andy BESHEAR,0,0,0,0
+Monroe,B101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Monroe,B101,Governor,,DEM,Total Votes Cast,1,0,1,0
+Monroe,B101,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,B101,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Monroe,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Monroe,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,1,0,1,0
+Monroe,B101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,B102,Governor,,REP,Daniel CAMERON,23,3,20,0
+Monroe,B102,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,B102,Governor,,REP,Kelly CRAFT,53,1,50,2
+Monroe,B102,Governor,,REP,Eric DETERS,1,0,1,0
+Monroe,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,B102,Governor,,REP,Mike HARMON,1,0,1,0
+Monroe,B102,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,B102,Governor,,REP,Ryan QUARLES,33,2,31,0
+Monroe,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,B102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Monroe,B102,Governor,,REP,Total Votes Cast,112,6,104,2
+Monroe,B102,Governor,,REP,Under Votes,0,0,0,0
+Monroe,B102,Governor,,REP,Over Votes,0,0,0,0
+Monroe,B102,Secretary of State,,REP,Michael ADAMS,49,4,45,0
+Monroe,B102,Secretary of State,,REP,Stephen L. KNIPPER,31,2,29,0
+Monroe,B102,Secretary of State,,REP,Allen MARICLE,7,0,5,2
+Monroe,B102,Secretary of State,,REP,Total Votes Cast,87,6,79,2
+Monroe,B102,Secretary of State,,REP,Under Votes,25,0,25,0
+Monroe,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,B102,Auditor of Public Accounts,,REP,Allison BALL,67,5,60,2
+Monroe,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,23,1,22,0
+Monroe,B102,Auditor of Public Accounts,,REP,Total Votes Cast,90,6,82,2
+Monroe,B102,Auditor of Public Accounts,,REP,Under Votes,22,0,22,0
+Monroe,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,B102,State Treasurer,,REP,Andrew COOPERRIDER,30,3,27,0
+Monroe,B102,State Treasurer,,REP,Mark H. METCALF,42,1,39,2
+Monroe,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,2,7,0
+Monroe,B102,State Treasurer,,REP,Total Votes Cast,81,6,73,2
+Monroe,B102,State Treasurer,,REP,Under Votes,31,0,31,0
+Monroe,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,B102,Commissioner of Agriculture,,REP,Richard HEATH,38,1,37,0
+Monroe,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,53,3,48,2
+Monroe,B102,Commissioner of Agriculture,,REP,Total Votes Cast,91,4,85,2
+Monroe,B102,Commissioner of Agriculture,,REP,Under Votes,20,2,18,0
+Monroe,B102,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Monroe,B102,Governor,,DEM,Andy BESHEAR,7,1,6,0
+Monroe,B102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,B102,Governor,,DEM,Total Votes Cast,7,1,6,0
+Monroe,B102,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,B102,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Monroe,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Monroe,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,4,0,4,0
+Monroe,B102,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Monroe,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,C101,Governor,,REP,Daniel CAMERON,36,0,36,0
+Monroe,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,C101,Governor,,REP,Kelly CRAFT,95,3,92,0
+Monroe,C101,Governor,,REP,Eric DETERS,5,0,5,0
+Monroe,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,C101,Governor,,REP,Mike HARMON,0,0,0,0
+Monroe,C101,Governor,,REP,Alan KECK,1,0,1,0
+Monroe,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,C101,Governor,,REP,Ryan QUARLES,41,1,40,0
+Monroe,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,C101,Governor,,REP,Total Votes Cast,178,4,174,0
+Monroe,C101,Governor,,REP,Under Votes,0,0,0,0
+Monroe,C101,Governor,,REP,Over Votes,1,0,1,0
+Monroe,C101,Secretary of State,,REP,Michael ADAMS,84,3,81,0
+Monroe,C101,Secretary of State,,REP,Stephen L. KNIPPER,38,0,38,0
+Monroe,C101,Secretary of State,,REP,Allen MARICLE,13,0,13,0
+Monroe,C101,Secretary of State,,REP,Total Votes Cast,135,3,132,0
+Monroe,C101,Secretary of State,,REP,Under Votes,44,1,43,0
+Monroe,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,C101,Auditor of Public Accounts,,REP,Allison BALL,101,3,98,0
+Monroe,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,33,0,33,0
+Monroe,C101,Auditor of Public Accounts,,REP,Total Votes Cast,134,3,131,0
+Monroe,C101,Auditor of Public Accounts,,REP,Under Votes,45,1,44,0
+Monroe,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,C101,State Treasurer,,REP,Andrew COOPERRIDER,45,0,45,0
+Monroe,C101,State Treasurer,,REP,Mark H. METCALF,75,0,75,0
+Monroe,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,3,10,0
+Monroe,C101,State Treasurer,,REP,Total Votes Cast,133,3,130,0
+Monroe,C101,State Treasurer,,REP,Under Votes,46,1,45,0
+Monroe,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,C101,Commissioner of Agriculture,,REP,Richard HEATH,71,0,71,0
+Monroe,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,71,3,68,0
+Monroe,C101,Commissioner of Agriculture,,REP,Total Votes Cast,142,3,139,0
+Monroe,C101,Commissioner of Agriculture,,REP,Under Votes,37,1,36,0
+Monroe,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,C101,Governor,,DEM,Andy BESHEAR,6,3,3,0
+Monroe,C101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,C101,Governor,,DEM,Total Votes Cast,6,3,3,0
+Monroe,C101,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,C101,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,3,0
+Monroe,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,2,2,0,0
+Monroe,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,6,3,3,0
+Monroe,C101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,C102,Governor,,REP,Daniel CAMERON,16,1,15,0
+Monroe,C102,Governor,,REP,Jacob CLARK,1,0,1,0
+Monroe,C102,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,C102,Governor,,REP,Kelly CRAFT,49,2,46,1
+Monroe,C102,Governor,,REP,Eric DETERS,3,0,3,0
+Monroe,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,C102,Governor,,REP,Mike HARMON,3,0,3,0
+Monroe,C102,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,C102,Governor,,REP,Ryan QUARLES,37,1,36,0
+Monroe,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,C102,Governor,,REP,Total Votes Cast,109,4,104,1
+Monroe,C102,Governor,,REP,Under Votes,0,0,0,0
+Monroe,C102,Governor,,REP,Over Votes,0,0,0,0
+Monroe,C102,Secretary of State,,REP,Michael ADAMS,51,3,47,1
+Monroe,C102,Secretary of State,,REP,Stephen L. KNIPPER,32,1,31,0
+Monroe,C102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Monroe,C102,Secretary of State,,REP,Total Votes Cast,86,4,81,1
+Monroe,C102,Secretary of State,,REP,Under Votes,23,0,23,0
+Monroe,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,C102,Auditor of Public Accounts,,REP,Allison BALL,66,3,62,1
+Monroe,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,23,1,22,0
+Monroe,C102,Auditor of Public Accounts,,REP,Total Votes Cast,89,4,84,1
+Monroe,C102,Auditor of Public Accounts,,REP,Under Votes,20,0,20,0
+Monroe,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,C102,State Treasurer,,REP,Andrew COOPERRIDER,34,1,32,1
+Monroe,C102,State Treasurer,,REP,Mark H. METCALF,45,2,43,0
+Monroe,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,1,5,0
+Monroe,C102,State Treasurer,,REP,Total Votes Cast,85,4,80,1
+Monroe,C102,State Treasurer,,REP,Under Votes,24,0,24,0
+Monroe,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,C102,Commissioner of Agriculture,,REP,Richard HEATH,30,1,29,0
+Monroe,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,51,3,47,1
+Monroe,C102,Commissioner of Agriculture,,REP,Total Votes Cast,81,4,76,1
+Monroe,C102,Commissioner of Agriculture,,REP,Under Votes,28,0,28,0
+Monroe,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,C102,Governor,,DEM,Andy BESHEAR,1,0,1,0
+Monroe,C102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Monroe,C102,Governor,,DEM,Total Votes Cast,2,0,2,0
+Monroe,C102,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,C102,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Monroe,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Monroe,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,2,0,2,0
+Monroe,C102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,C103,Governor,,REP,Daniel CAMERON,26,0,25,1
+Monroe,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,C103,Governor,,REP,Kelly CRAFT,68,4,60,4
+Monroe,C103,Governor,,REP,Eric DETERS,3,0,3,0
+Monroe,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,C103,Governor,,REP,Mike HARMON,2,0,2,0
+Monroe,C103,Governor,,REP,Alan KECK,1,1,0,0
+Monroe,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,C103,Governor,,REP,Ryan QUARLES,22,0,21,1
+Monroe,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,C103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Monroe,C103,Governor,,REP,Total Votes Cast,123,5,112,6
+Monroe,C103,Governor,,REP,Under Votes,0,0,0,0
+Monroe,C103,Governor,,REP,Over Votes,0,0,0,0
+Monroe,C103,Secretary of State,,REP,Michael ADAMS,59,3,54,2
+Monroe,C103,Secretary of State,,REP,Stephen L. KNIPPER,31,1,29,1
+Monroe,C103,Secretary of State,,REP,Allen MARICLE,11,0,10,1
+Monroe,C103,Secretary of State,,REP,Total Votes Cast,101,4,93,4
+Monroe,C103,Secretary of State,,REP,Under Votes,22,1,19,2
+Monroe,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,C103,Auditor of Public Accounts,,REP,Allison BALL,80,4,71,5
+Monroe,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,25,0,25,0
+Monroe,C103,Auditor of Public Accounts,,REP,Total Votes Cast,105,4,96,5
+Monroe,C103,Auditor of Public Accounts,,REP,Under Votes,18,1,16,1
+Monroe,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,C103,State Treasurer,,REP,Andrew COOPERRIDER,32,4,27,1
+Monroe,C103,State Treasurer,,REP,Mark H. METCALF,56,0,54,2
+Monroe,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,0,11,2
+Monroe,C103,State Treasurer,,REP,Total Votes Cast,101,4,92,5
+Monroe,C103,State Treasurer,,REP,Under Votes,22,1,20,1
+Monroe,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,C103,Commissioner of Agriculture,,REP,Richard HEATH,46,2,39,5
+Monroe,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,57,2,55,0
+Monroe,C103,Commissioner of Agriculture,,REP,Total Votes Cast,103,4,94,5
+Monroe,C103,Commissioner of Agriculture,,REP,Under Votes,20,1,18,1
+Monroe,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,C103,Governor,,DEM,Andy BESHEAR,10,0,10,0
+Monroe,C103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Monroe,C103,Governor,,DEM,Total Votes Cast,11,0,11,0
+Monroe,C103,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,C103,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Monroe,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,4,0,4,0
+Monroe,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,7,0,7,0
+Monroe,C103,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Monroe,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,D101,Governor,,REP,Daniel CAMERON,44,1,42,1
+Monroe,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,D101,Governor,,REP,David O. COOPER,1,0,1,0
+Monroe,D101,Governor,,REP,Kelly CRAFT,68,5,61,2
+Monroe,D101,Governor,,REP,Eric DETERS,6,0,6,0
+Monroe,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,D101,Governor,,REP,Mike HARMON,0,0,0,0
+Monroe,D101,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,D101,Governor,,REP,Ryan QUARLES,55,2,52,1
+Monroe,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,D101,Governor,,REP,Total Votes Cast,174,8,162,4
+Monroe,D101,Governor,,REP,Under Votes,0,0,0,0
+Monroe,D101,Governor,,REP,Over Votes,0,0,0,0
+Monroe,D101,Secretary of State,,REP,Michael ADAMS,86,4,79,3
+Monroe,D101,Secretary of State,,REP,Stephen L. KNIPPER,41,2,39,0
+Monroe,D101,Secretary of State,,REP,Allen MARICLE,15,0,14,1
+Monroe,D101,Secretary of State,,REP,Total Votes Cast,142,6,132,4
+Monroe,D101,Secretary of State,,REP,Under Votes,32,2,30,0
+Monroe,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,D101,Auditor of Public Accounts,,REP,Allison BALL,103,5,95,3
+Monroe,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,38,2,35,1
+Monroe,D101,Auditor of Public Accounts,,REP,Total Votes Cast,141,7,130,4
+Monroe,D101,Auditor of Public Accounts,,REP,Under Votes,33,1,32,0
+Monroe,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,D101,State Treasurer,,REP,Andrew COOPERRIDER,36,2,32,2
+Monroe,D101,State Treasurer,,REP,Mark H. METCALF,84,5,77,2
+Monroe,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,0,21,0
+Monroe,D101,State Treasurer,,REP,Total Votes Cast,141,7,130,4
+Monroe,D101,State Treasurer,,REP,Under Votes,33,1,32,0
+Monroe,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,D101,Commissioner of Agriculture,,REP,Richard HEATH,65,3,60,2
+Monroe,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,86,4,80,2
+Monroe,D101,Commissioner of Agriculture,,REP,Total Votes Cast,151,7,140,4
+Monroe,D101,Commissioner of Agriculture,,REP,Under Votes,23,1,22,0
+Monroe,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,D101,Governor,,DEM,Andy BESHEAR,8,0,8,0
+Monroe,D101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Monroe,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,D101,Governor,,DEM,Total Votes Cast,9,0,9,0
+Monroe,D101,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,D101,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Monroe,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,0,6,0
+Monroe,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,9,0,9,0
+Monroe,D101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,D102,Governor,,REP,Daniel CAMERON,49,2,43,4
+Monroe,D102,Governor,,REP,Jacob CLARK,1,0,1,0
+Monroe,D102,Governor,,REP,David O. COOPER,2,0,2,0
+Monroe,D102,Governor,,REP,Kelly CRAFT,105,9,95,1
+Monroe,D102,Governor,,REP,Eric DETERS,6,0,6,0
+Monroe,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,D102,Governor,,REP,Mike HARMON,0,0,0,0
+Monroe,D102,Governor,,REP,Alan KECK,0,0,0,0
+Monroe,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,D102,Governor,,REP,Ryan QUARLES,36,2,33,1
+Monroe,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,D102,Governor,,REP,Total Votes Cast,199,13,180,6
+Monroe,D102,Governor,,REP,Under Votes,0,0,0,0
+Monroe,D102,Governor,,REP,Over Votes,0,0,0,0
+Monroe,D102,Secretary of State,,REP,Michael ADAMS,104,10,91,3
+Monroe,D102,Secretary of State,,REP,Stephen L. KNIPPER,44,1,43,0
+Monroe,D102,Secretary of State,,REP,Allen MARICLE,12,1,9,2
+Monroe,D102,Secretary of State,,REP,Total Votes Cast,160,12,143,5
+Monroe,D102,Secretary of State,,REP,Under Votes,39,1,37,1
+Monroe,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,D102,Auditor of Public Accounts,,REP,Allison BALL,133,12,119,2
+Monroe,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,31,0,28,3
+Monroe,D102,Auditor of Public Accounts,,REP,Total Votes Cast,164,12,147,5
+Monroe,D102,Auditor of Public Accounts,,REP,Under Votes,35,1,33,1
+Monroe,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,D102,State Treasurer,,REP,Andrew COOPERRIDER,53,5,48,0
+Monroe,D102,State Treasurer,,REP,Mark H. METCALF,79,4,70,5
+Monroe,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",24,3,21,0
+Monroe,D102,State Treasurer,,REP,Total Votes Cast,156,12,139,5
+Monroe,D102,State Treasurer,,REP,Under Votes,43,1,41,1
+Monroe,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,D102,Commissioner of Agriculture,,REP,Richard HEATH,69,6,61,2
+Monroe,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,94,7,84,3
+Monroe,D102,Commissioner of Agriculture,,REP,Total Votes Cast,163,13,145,5
+Monroe,D102,Commissioner of Agriculture,,REP,Under Votes,36,0,35,1
+Monroe,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,D102,Governor,,DEM,Andy BESHEAR,7,1,6,0
+Monroe,D102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,D102,Governor,,DEM,Total Votes Cast,7,1,6,0
+Monroe,D102,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,D102,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Monroe,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,5,1,4,0
+Monroe,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,7,1,6,0
+Monroe,D102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,E101,Governor,,REP,Daniel CAMERON,24,0,24,0
+Monroe,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,E101,Governor,,REP,David O. COOPER,1,0,1,0
+Monroe,E101,Governor,,REP,Kelly CRAFT,74,8,65,1
+Monroe,E101,Governor,,REP,Eric DETERS,9,0,9,0
+Monroe,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,E101,Governor,,REP,Mike HARMON,0,0,0,0
+Monroe,E101,Governor,,REP,Alan KECK,2,2,0,0
+Monroe,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,E101,Governor,,REP,Ryan QUARLES,45,2,42,1
+Monroe,E101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Monroe,E101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Monroe,E101,Governor,,REP,Total Votes Cast,157,12,143,2
+Monroe,E101,Governor,,REP,Under Votes,1,0,1,0
+Monroe,E101,Governor,,REP,Over Votes,0,0,0,0
+Monroe,E101,Secretary of State,,REP,Michael ADAMS,69,4,65,0
+Monroe,E101,Secretary of State,,REP,Stephen L. KNIPPER,44,3,41,0
+Monroe,E101,Secretary of State,,REP,Allen MARICLE,19,4,13,2
+Monroe,E101,Secretary of State,,REP,Total Votes Cast,132,11,119,2
+Monroe,E101,Secretary of State,,REP,Under Votes,26,1,25,0
+Monroe,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,E101,Auditor of Public Accounts,,REP,Allison BALL,98,8,88,2
+Monroe,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,27,3,24,0
+Monroe,E101,Auditor of Public Accounts,,REP,Total Votes Cast,125,11,112,2
+Monroe,E101,Auditor of Public Accounts,,REP,Under Votes,33,1,32,0
+Monroe,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,E101,State Treasurer,,REP,Andrew COOPERRIDER,43,3,39,1
+Monroe,E101,State Treasurer,,REP,Mark H. METCALF,63,4,59,0
+Monroe,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,4,16,1
+Monroe,E101,State Treasurer,,REP,Total Votes Cast,127,11,114,2
+Monroe,E101,State Treasurer,,REP,Under Votes,31,1,30,0
+Monroe,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,E101,Commissioner of Agriculture,,REP,Richard HEATH,53,3,48,2
+Monroe,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,68,7,61,0
+Monroe,E101,Commissioner of Agriculture,,REP,Total Votes Cast,121,10,109,2
+Monroe,E101,Commissioner of Agriculture,,REP,Under Votes,37,2,35,0
+Monroe,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,E101,Governor,,DEM,Andy BESHEAR,12,1,11,0
+Monroe,E101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,E101,Governor,,DEM,Total Votes Cast,12,1,11,0
+Monroe,E101,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,E101,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,8,0,8,0
+Monroe,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,4,1,3,0
+Monroe,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,12,1,11,0
+Monroe,E101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Monroe,E102,Governor,,REP,Daniel CAMERON,34,1,33,0
+Monroe,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Monroe,E102,Governor,,REP,David O. COOPER,0,0,0,0
+Monroe,E102,Governor,,REP,Kelly CRAFT,95,8,84,3
+Monroe,E102,Governor,,REP,Eric DETERS,5,0,5,0
+Monroe,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Monroe,E102,Governor,,REP,Mike HARMON,2,0,2,0
+Monroe,E102,Governor,,REP,Alan KECK,1,0,1,0
+Monroe,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Monroe,E102,Governor,,REP,Ryan QUARLES,46,4,39,3
+Monroe,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Monroe,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Monroe,E102,Governor,,REP,Total Votes Cast,183,13,164,6
+Monroe,E102,Governor,,REP,Under Votes,1,0,1,0
+Monroe,E102,Governor,,REP,Over Votes,0,0,0,0
+Monroe,E102,Secretary of State,,REP,Michael ADAMS,93,7,82,4
+Monroe,E102,Secretary of State,,REP,Stephen L. KNIPPER,40,3,37,0
+Monroe,E102,Secretary of State,,REP,Allen MARICLE,9,1,8,0
+Monroe,E102,Secretary of State,,REP,Total Votes Cast,142,11,127,4
+Monroe,E102,Secretary of State,,REP,Under Votes,42,2,38,2
+Monroe,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Monroe,E102,Auditor of Public Accounts,,REP,Allison BALL,114,8,102,4
+Monroe,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,30,3,27,0
+Monroe,E102,Auditor of Public Accounts,,REP,Total Votes Cast,144,11,129,4
+Monroe,E102,Auditor of Public Accounts,,REP,Under Votes,40,2,36,2
+Monroe,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Monroe,E102,State Treasurer,,REP,Andrew COOPERRIDER,59,3,55,1
+Monroe,E102,State Treasurer,,REP,Mark H. METCALF,65,7,55,3
+Monroe,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,1,16,0
+Monroe,E102,State Treasurer,,REP,Total Votes Cast,141,11,126,4
+Monroe,E102,State Treasurer,,REP,Under Votes,43,2,39,2
+Monroe,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Monroe,E102,Commissioner of Agriculture,,REP,Richard HEATH,58,1,54,3
+Monroe,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,90,9,79,2
+Monroe,E102,Commissioner of Agriculture,,REP,Total Votes Cast,148,10,133,5
+Monroe,E102,Commissioner of Agriculture,,REP,Under Votes,36,3,32,1
+Monroe,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Monroe,E102,Governor,,DEM,Andy BESHEAR,11,0,11,0
+Monroe,E102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Monroe,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Monroe,E102,Governor,,DEM,Total Votes Cast,11,0,11,0
+Monroe,E102,Governor,,DEM,Under Votes,0,0,0,0
+Monroe,E102,Governor,,DEM,Over Votes,0,0,0,0
+Monroe,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,8,0,8,0
+Monroe,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Monroe,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,11,0,11,0
+Monroe,E102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Monroe,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

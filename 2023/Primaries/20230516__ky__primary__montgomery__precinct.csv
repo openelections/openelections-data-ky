@@ -1,0 +1,865 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Montgomery,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A101,Governor,,REP,Mike HARMON,4,2,2,0
+Montgomery,A101,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A101,Governor,,REP,Ryan QUARLES,13,5,8,0
+Montgomery,A101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Montgomery,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,A101,Governor,,REP,Daniel CAMERON,25,4,21,0
+Montgomery,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A101,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,A101,Governor,,REP,Kelly CRAFT,3,0,3,0
+Montgomery,A101,Governor,,REP,Eric DETERS,1,0,1,0
+Montgomery,A101,Governor,,REP,Total Votes Cast,47,11,36,0
+Montgomery,A101,Governor,,REP,Under Votes,5,0,5,0
+Montgomery,A101,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,A101,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Montgomery,A101,Secretary of State,,REP,Michael ADAMS,24,6,18,0
+Montgomery,A101,Secretary of State,,REP,Stephen L. KNIPPER,12,5,7,0
+Montgomery,A101,Secretary of State,,REP,Total Votes Cast,39,11,28,0
+Montgomery,A101,Secretary of State,,REP,Under Votes,13,0,13,0
+Montgomery,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,10,2,8,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Allison BALL,27,7,20,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Total Votes Cast,37,9,28,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Under Votes,15,2,13,0
+Montgomery,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Montgomery,A101,State Treasurer,,REP,Andrew COOPERRIDER,16,6,10,0
+Montgomery,A101,State Treasurer,,REP,Mark H. METCALF,18,2,16,0
+Montgomery,A101,State Treasurer,,REP,Total Votes Cast,36,8,28,0
+Montgomery,A101,State Treasurer,,REP,Under Votes,16,3,13,0
+Montgomery,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,24,4,20,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Richard HEATH,11,1,10,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Total Votes Cast,35,5,30,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Under Votes,17,6,11,0
+Montgomery,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Montgomery,A101,Governor,,DEM,Andy BESHEAR,35,14,18,3
+Montgomery,A101,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Montgomery,A101,Governor,,DEM,Total Votes Cast,38,14,21,3
+Montgomery,A101,Governor,,DEM,Under Votes,2,0,2,0
+Montgomery,A101,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,12,4,6,2
+Montgomery,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,5,12,0
+Montgomery,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,29,9,18,2
+Montgomery,A101,Commissioner of Agriculture,,DEM,Under Votes,11,5,5,1
+Montgomery,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A102,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,A102,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A102,Governor,,REP,Ryan QUARLES,34,7,27,0
+Montgomery,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,A102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Montgomery,A102,Governor,,REP,Daniel CAMERON,26,5,20,1
+Montgomery,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A102,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,A102,Governor,,REP,Kelly CRAFT,8,0,8,0
+Montgomery,A102,Governor,,REP,Eric DETERS,3,2,1,0
+Montgomery,A102,Governor,,REP,Total Votes Cast,72,14,57,1
+Montgomery,A102,Governor,,REP,Under Votes,0,0,0,0
+Montgomery,A102,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,A102,Secretary of State,,REP,Allen MARICLE,8,2,5,1
+Montgomery,A102,Secretary of State,,REP,Michael ADAMS,42,10,32,0
+Montgomery,A102,Secretary of State,,REP,Stephen L. KNIPPER,12,1,11,0
+Montgomery,A102,Secretary of State,,REP,Total Votes Cast,62,13,48,1
+Montgomery,A102,Secretary of State,,REP,Under Votes,10,1,9,0
+Montgomery,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,15,4,11,0
+Montgomery,A102,Auditor of Public Accounts,,REP,Allison BALL,44,9,34,1
+Montgomery,A102,Auditor of Public Accounts,,REP,Total Votes Cast,59,13,45,1
+Montgomery,A102,Auditor of Public Accounts,,REP,Under Votes,13,1,12,0
+Montgomery,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,2,9,0
+Montgomery,A102,State Treasurer,,REP,Andrew COOPERRIDER,17,5,12,0
+Montgomery,A102,State Treasurer,,REP,Mark H. METCALF,29,5,23,1
+Montgomery,A102,State Treasurer,,REP,Total Votes Cast,57,12,44,1
+Montgomery,A102,State Treasurer,,REP,Under Votes,15,2,13,0
+Montgomery,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,34,8,26,0
+Montgomery,A102,Commissioner of Agriculture,,REP,Richard HEATH,22,3,18,1
+Montgomery,A102,Commissioner of Agriculture,,REP,Total Votes Cast,56,11,44,1
+Montgomery,A102,Commissioner of Agriculture,,REP,Under Votes,16,3,13,0
+Montgomery,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,1,2,0
+Montgomery,A102,Governor,,DEM,Andy BESHEAR,89,30,54,5
+Montgomery,A102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Montgomery,A102,Governor,,DEM,Total Votes Cast,92,31,56,5
+Montgomery,A102,Governor,,DEM,Under Votes,5,2,2,1
+Montgomery,A102,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,33,11,17,5
+Montgomery,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,12,26,0
+Montgomery,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,71,23,43,5
+Montgomery,A102,Commissioner of Agriculture,,DEM,Under Votes,26,10,15,1
+Montgomery,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A103,Governor,,REP,Mike HARMON,1,0,1,0
+Montgomery,A103,Governor,,REP,Alan KECK,5,4,1,0
+Montgomery,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A103,Governor,,REP,Ryan QUARLES,57,20,33,4
+Montgomery,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,A103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,A103,Governor,,REP,Daniel CAMERON,53,12,39,2
+Montgomery,A103,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A103,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,A103,Governor,,REP,Kelly CRAFT,11,4,7,0
+Montgomery,A103,Governor,,REP,Eric DETERS,3,2,1,0
+Montgomery,A103,Governor,,REP,Total Votes Cast,130,42,82,6
+Montgomery,A103,Governor,,REP,Under Votes,2,1,1,0
+Montgomery,A103,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,A103,Secretary of State,,REP,Allen MARICLE,16,6,10,0
+Montgomery,A103,Secretary of State,,REP,Michael ADAMS,77,28,43,6
+Montgomery,A103,Secretary of State,,REP,Stephen L. KNIPPER,11,4,7,0
+Montgomery,A103,Secretary of State,,REP,Total Votes Cast,104,38,60,6
+Montgomery,A103,Secretary of State,,REP,Under Votes,28,5,23,0
+Montgomery,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,25,8,15,2
+Montgomery,A103,Auditor of Public Accounts,,REP,Allison BALL,80,29,47,4
+Montgomery,A103,Auditor of Public Accounts,,REP,Total Votes Cast,105,37,62,6
+Montgomery,A103,Auditor of Public Accounts,,REP,Under Votes,27,6,21,0
+Montgomery,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",25,10,14,1
+Montgomery,A103,State Treasurer,,REP,Andrew COOPERRIDER,21,8,13,0
+Montgomery,A103,State Treasurer,,REP,Mark H. METCALF,56,17,36,3
+Montgomery,A103,State Treasurer,,REP,Total Votes Cast,102,35,63,4
+Montgomery,A103,State Treasurer,,REP,Under Votes,30,8,20,2
+Montgomery,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,62,22,38,2
+Montgomery,A103,Commissioner of Agriculture,,REP,Richard HEATH,40,14,24,2
+Montgomery,A103,Commissioner of Agriculture,,REP,Total Votes Cast,102,36,62,4
+Montgomery,A103,Commissioner of Agriculture,,REP,Under Votes,30,7,21,2
+Montgomery,A103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",8,4,4,0
+Montgomery,A103,Governor,,DEM,Andy BESHEAR,108,37,68,3
+Montgomery,A103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Montgomery,A103,Governor,,DEM,Total Votes Cast,116,41,72,3
+Montgomery,A103,Governor,,DEM,Under Votes,7,2,5,0
+Montgomery,A103,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,49,21,27,1
+Montgomery,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,11,34,1
+Montgomery,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,95,32,61,2
+Montgomery,A103,Commissioner of Agriculture,,DEM,Under Votes,28,11,16,1
+Montgomery,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,A104,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A104,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,A104,Governor,,REP,Alan KECK,3,1,2,0
+Montgomery,A104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A104,Governor,,REP,Ryan QUARLES,31,11,20,0
+Montgomery,A104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,A104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,A104,Governor,,REP,Daniel CAMERON,28,9,19,0
+Montgomery,A104,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A104,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,A104,Governor,,REP,Kelly CRAFT,20,6,12,2
+Montgomery,A104,Governor,,REP,Eric DETERS,2,1,1,0
+Montgomery,A104,Governor,,REP,Total Votes Cast,85,28,55,2
+Montgomery,A104,Governor,,REP,Under Votes,0,0,0,0
+Montgomery,A104,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,A104,Secretary of State,,REP,Allen MARICLE,14,5,8,1
+Montgomery,A104,Secretary of State,,REP,Michael ADAMS,54,22,31,1
+Montgomery,A104,Secretary of State,,REP,Stephen L. KNIPPER,10,1,9,0
+Montgomery,A104,Secretary of State,,REP,Total Votes Cast,78,28,48,2
+Montgomery,A104,Secretary of State,,REP,Under Votes,7,0,7,0
+Montgomery,A104,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A104,Auditor of Public Accounts,,REP,Derek PETTEYS,29,9,20,0
+Montgomery,A104,Auditor of Public Accounts,,REP,Allison BALL,47,19,26,2
+Montgomery,A104,Auditor of Public Accounts,,REP,Total Votes Cast,76,28,46,2
+Montgomery,A104,Auditor of Public Accounts,,REP,Under Votes,9,0,9,0
+Montgomery,A104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,6,5,0
+Montgomery,A104,State Treasurer,,REP,Andrew COOPERRIDER,22,8,14,0
+Montgomery,A104,State Treasurer,,REP,Mark H. METCALF,39,12,25,2
+Montgomery,A104,State Treasurer,,REP,Total Votes Cast,72,26,44,2
+Montgomery,A104,State Treasurer,,REP,Under Votes,13,2,11,0
+Montgomery,A104,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,45,18,26,1
+Montgomery,A104,Commissioner of Agriculture,,REP,Richard HEATH,28,8,19,1
+Montgomery,A104,Commissioner of Agriculture,,REP,Total Votes Cast,73,26,45,2
+Montgomery,A104,Commissioner of Agriculture,,REP,Under Votes,12,2,10,0
+Montgomery,A104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,1,5,0
+Montgomery,A104,Governor,,DEM,Andy BESHEAR,92,21,70,1
+Montgomery,A104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Montgomery,A104,Governor,,DEM,Total Votes Cast,98,22,75,1
+Montgomery,A104,Governor,,DEM,Under Votes,8,4,4,0
+Montgomery,A104,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A104,Commissioner of Agriculture,,DEM,Mikael MALONE,35,2,32,1
+Montgomery,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,47,15,32,0
+Montgomery,A104,Commissioner of Agriculture,,DEM,Total Votes Cast,82,17,64,1
+Montgomery,A104,Commissioner of Agriculture,,DEM,Under Votes,24,9,15,0
+Montgomery,A104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,A105,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A105,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,A105,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,A105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A105,Governor,,REP,Ryan QUARLES,3,1,2,0
+Montgomery,A105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,A105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,A105,Governor,,REP,Daniel CAMERON,3,1,2,0
+Montgomery,A105,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A105,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,A105,Governor,,REP,Kelly CRAFT,0,0,0,0
+Montgomery,A105,Governor,,REP,Eric DETERS,1,0,1,0
+Montgomery,A105,Governor,,REP,Total Votes Cast,7,2,5,0
+Montgomery,A105,Governor,,REP,Under Votes,0,0,0,0
+Montgomery,A105,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,A105,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Montgomery,A105,Secretary of State,,REP,Michael ADAMS,3,2,1,0
+Montgomery,A105,Secretary of State,,REP,Stephen L. KNIPPER,2,0,2,0
+Montgomery,A105,Secretary of State,,REP,Total Votes Cast,7,2,5,0
+Montgomery,A105,Secretary of State,,REP,Under Votes,0,0,0,0
+Montgomery,A105,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Derek PETTEYS,2,0,2,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Allison BALL,5,2,3,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Total Votes Cast,7,2,5,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Under Votes,0,0,0,0
+Montgomery,A105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Montgomery,A105,State Treasurer,,REP,Andrew COOPERRIDER,2,2,0,0
+Montgomery,A105,State Treasurer,,REP,Mark H. METCALF,4,0,4,0
+Montgomery,A105,State Treasurer,,REP,Total Votes Cast,7,2,5,0
+Montgomery,A105,State Treasurer,,REP,Under Votes,0,0,0,0
+Montgomery,A105,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,4,1,3,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Richard HEATH,3,1,2,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Total Votes Cast,7,2,5,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Under Votes,0,0,0,0
+Montgomery,A105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Montgomery,A105,Governor,,DEM,Andy BESHEAR,36,7,29,0
+Montgomery,A105,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Montgomery,A105,Governor,,DEM,Total Votes Cast,38,7,31,0
+Montgomery,A105,Governor,,DEM,Under Votes,0,0,0,0
+Montgomery,A105,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A105,Commissioner of Agriculture,,DEM,Mikael MALONE,14,4,10,0
+Montgomery,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,0,12,0
+Montgomery,A105,Commissioner of Agriculture,,DEM,Total Votes Cast,26,4,22,0
+Montgomery,A105,Commissioner of Agriculture,,DEM,Under Votes,12,3,9,0
+Montgomery,A105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,A106,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,A106,Governor,,REP,Mike HARMON,2,1,0,1
+Montgomery,A106,Governor,,REP,Alan KECK,2,0,2,0
+Montgomery,A106,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,A106,Governor,,REP,Ryan QUARLES,33,9,23,1
+Montgomery,A106,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,A106,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Montgomery,A106,Governor,,REP,Daniel CAMERON,31,4,24,3
+Montgomery,A106,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,A106,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,A106,Governor,,REP,Kelly CRAFT,4,2,2,0
+Montgomery,A106,Governor,,REP,Eric DETERS,3,1,2,0
+Montgomery,A106,Governor,,REP,Total Votes Cast,77,17,55,5
+Montgomery,A106,Governor,,REP,Under Votes,0,0,0,0
+Montgomery,A106,Governor,,REP,Over Votes,1,1,0,0
+Montgomery,A106,Secretary of State,,REP,Allen MARICLE,8,3,3,2
+Montgomery,A106,Secretary of State,,REP,Michael ADAMS,47,8,37,2
+Montgomery,A106,Secretary of State,,REP,Stephen L. KNIPPER,13,4,9,0
+Montgomery,A106,Secretary of State,,REP,Total Votes Cast,68,15,49,4
+Montgomery,A106,Secretary of State,,REP,Under Votes,10,3,6,1
+Montgomery,A106,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,A106,Auditor of Public Accounts,,REP,Derek PETTEYS,16,5,9,2
+Montgomery,A106,Auditor of Public Accounts,,REP,Allison BALL,50,10,38,2
+Montgomery,A106,Auditor of Public Accounts,,REP,Total Votes Cast,66,15,47,4
+Montgomery,A106,Auditor of Public Accounts,,REP,Under Votes,12,3,8,1
+Montgomery,A106,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,A106,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",15,3,11,1
+Montgomery,A106,State Treasurer,,REP,Andrew COOPERRIDER,14,5,8,1
+Montgomery,A106,State Treasurer,,REP,Mark H. METCALF,39,9,29,1
+Montgomery,A106,State Treasurer,,REP,Total Votes Cast,68,17,48,3
+Montgomery,A106,State Treasurer,,REP,Under Votes,10,1,7,2
+Montgomery,A106,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,50,15,32,3
+Montgomery,A106,Commissioner of Agriculture,,REP,Richard HEATH,17,2,14,1
+Montgomery,A106,Commissioner of Agriculture,,REP,Total Votes Cast,67,17,46,4
+Montgomery,A106,Commissioner of Agriculture,,REP,Under Votes,11,1,9,1
+Montgomery,A106,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,A106,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Montgomery,A106,Governor,,DEM,Andy BESHEAR,74,19,45,10
+Montgomery,A106,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Montgomery,A106,Governor,,DEM,Total Votes Cast,77,19,48,10
+Montgomery,A106,Governor,,DEM,Under Votes,8,2,6,0
+Montgomery,A106,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,A106,Commissioner of Agriculture,,DEM,Mikael MALONE,40,14,22,4
+Montgomery,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,3,19,3
+Montgomery,A106,Commissioner of Agriculture,,DEM,Total Votes Cast,65,17,41,7
+Montgomery,A106,Commissioner of Agriculture,,DEM,Under Votes,20,4,13,3
+Montgomery,A106,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,B101,Governor,,REP,Mike HARMON,3,0,3,0
+Montgomery,B101,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,B101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Montgomery,B101,Governor,,REP,Ryan QUARLES,45,14,30,1
+Montgomery,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,B101,Governor,,REP,Daniel CAMERON,71,6,65,0
+Montgomery,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,B101,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,B101,Governor,,REP,Kelly CRAFT,14,2,12,0
+Montgomery,B101,Governor,,REP,Eric DETERS,8,1,7,0
+Montgomery,B101,Governor,,REP,Total Votes Cast,143,23,119,1
+Montgomery,B101,Governor,,REP,Under Votes,2,0,1,1
+Montgomery,B101,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B101,Secretary of State,,REP,Allen MARICLE,12,0,12,0
+Montgomery,B101,Secretary of State,,REP,Michael ADAMS,77,10,66,1
+Montgomery,B101,Secretary of State,,REP,Stephen L. KNIPPER,29,6,23,0
+Montgomery,B101,Secretary of State,,REP,Total Votes Cast,118,16,101,1
+Montgomery,B101,Secretary of State,,REP,Under Votes,27,7,19,1
+Montgomery,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,32,3,29,0
+Montgomery,B101,Auditor of Public Accounts,,REP,Allison BALL,83,14,68,1
+Montgomery,B101,Auditor of Public Accounts,,REP,Total Votes Cast,115,17,97,1
+Montgomery,B101,Auditor of Public Accounts,,REP,Under Votes,30,6,23,1
+Montgomery,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,2,15,0
+Montgomery,B101,State Treasurer,,REP,Andrew COOPERRIDER,26,4,22,0
+Montgomery,B101,State Treasurer,,REP,Mark H. METCALF,71,12,59,0
+Montgomery,B101,State Treasurer,,REP,Total Votes Cast,114,18,96,0
+Montgomery,B101,State Treasurer,,REP,Under Votes,31,5,24,2
+Montgomery,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,64,8,55,1
+Montgomery,B101,Commissioner of Agriculture,,REP,Richard HEATH,57,9,48,0
+Montgomery,B101,Commissioner of Agriculture,,REP,Total Votes Cast,121,17,103,1
+Montgomery,B101,Commissioner of Agriculture,,REP,Under Votes,24,6,17,1
+Montgomery,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",18,5,12,1
+Montgomery,B101,Governor,,DEM,Andy BESHEAR,79,16,62,1
+Montgomery,B101,Governor,,DEM,Peppy MARTIN,6,0,6,0
+Montgomery,B101,Governor,,DEM,Total Votes Cast,103,21,80,2
+Montgomery,B101,Governor,,DEM,Under Votes,11,0,11,0
+Montgomery,B101,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,54,12,41,1
+Montgomery,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,6,25,0
+Montgomery,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,85,18,66,1
+Montgomery,B101,Commissioner of Agriculture,,DEM,Under Votes,29,3,25,1
+Montgomery,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,B102,Governor,,REP,Mike HARMON,1,0,1,0
+Montgomery,B102,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,B102,Governor,,REP,Ryan QUARLES,43,14,29,0
+Montgomery,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,B102,Governor,,REP,Daniel CAMERON,61,16,45,0
+Montgomery,B102,Governor,,REP,Jacob CLARK,1,0,1,0
+Montgomery,B102,Governor,,REP,David O. COOPER,2,0,2,0
+Montgomery,B102,Governor,,REP,Kelly CRAFT,18,4,14,0
+Montgomery,B102,Governor,,REP,Eric DETERS,14,3,11,0
+Montgomery,B102,Governor,,REP,Total Votes Cast,140,37,103,0
+Montgomery,B102,Governor,,REP,Under Votes,3,0,3,0
+Montgomery,B102,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B102,Secretary of State,,REP,Allen MARICLE,16,4,12,0
+Montgomery,B102,Secretary of State,,REP,Michael ADAMS,75,19,56,0
+Montgomery,B102,Secretary of State,,REP,Stephen L. KNIPPER,35,9,26,0
+Montgomery,B102,Secretary of State,,REP,Total Votes Cast,126,32,94,0
+Montgomery,B102,Secretary of State,,REP,Under Votes,17,5,12,0
+Montgomery,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,53,8,45,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Allison BALL,69,21,48,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Total Votes Cast,122,29,93,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Under Votes,21,8,13,0
+Montgomery,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",22,3,19,0
+Montgomery,B102,State Treasurer,,REP,Andrew COOPERRIDER,33,11,22,0
+Montgomery,B102,State Treasurer,,REP,Mark H. METCALF,70,14,56,0
+Montgomery,B102,State Treasurer,,REP,Total Votes Cast,125,28,97,0
+Montgomery,B102,State Treasurer,,REP,Under Votes,18,9,9,0
+Montgomery,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,75,23,52,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Richard HEATH,52,7,45,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Total Votes Cast,127,30,97,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Under Votes,16,7,9,0
+Montgomery,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",17,2,14,1
+Montgomery,B102,Governor,,DEM,Andy BESHEAR,69,17,50,2
+Montgomery,B102,Governor,,DEM,Peppy MARTIN,7,2,5,0
+Montgomery,B102,Governor,,DEM,Total Votes Cast,93,21,69,3
+Montgomery,B102,Governor,,DEM,Under Votes,10,1,9,0
+Montgomery,B102,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,63,13,48,2
+Montgomery,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,24,4,20,0
+Montgomery,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,87,17,68,2
+Montgomery,B102,Commissioner of Agriculture,,DEM,Under Votes,16,5,10,1
+Montgomery,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B103,Governor,,REP,Bob DeVORE,1,0,1,0
+Montgomery,B103,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,B103,Governor,,REP,Alan KECK,2,1,1,0
+Montgomery,B103,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Montgomery,B103,Governor,,REP,Ryan QUARLES,38,12,26,0
+Montgomery,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,B103,Governor,,REP,Daniel CAMERON,51,19,32,0
+Montgomery,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,B103,Governor,,REP,Kelly CRAFT,11,0,11,0
+Montgomery,B103,Governor,,REP,Eric DETERS,18,3,15,0
+Montgomery,B103,Governor,,REP,Total Votes Cast,122,35,87,0
+Montgomery,B103,Governor,,REP,Under Votes,3,1,2,0
+Montgomery,B103,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B103,Secretary of State,,REP,Allen MARICLE,17,4,13,0
+Montgomery,B103,Secretary of State,,REP,Michael ADAMS,59,16,43,0
+Montgomery,B103,Secretary of State,,REP,Stephen L. KNIPPER,33,11,22,0
+Montgomery,B103,Secretary of State,,REP,Total Votes Cast,109,31,78,0
+Montgomery,B103,Secretary of State,,REP,Under Votes,15,5,10,0
+Montgomery,B103,Secretary of State,,REP,Over Votes,1,0,1,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,44,12,32,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Allison BALL,59,16,43,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Total Votes Cast,103,28,75,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Under Votes,22,8,14,0
+Montgomery,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",15,5,10,0
+Montgomery,B103,State Treasurer,,REP,Andrew COOPERRIDER,33,14,19,0
+Montgomery,B103,State Treasurer,,REP,Mark H. METCALF,61,11,50,0
+Montgomery,B103,State Treasurer,,REP,Total Votes Cast,109,30,79,0
+Montgomery,B103,State Treasurer,,REP,Under Votes,16,6,10,0
+Montgomery,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,70,20,50,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Richard HEATH,38,10,28,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Total Votes Cast,108,30,78,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Under Votes,17,6,11,0
+Montgomery,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,3,4,0
+Montgomery,B103,Governor,,DEM,Andy BESHEAR,62,18,41,3
+Montgomery,B103,Governor,,DEM,Peppy MARTIN,4,1,3,0
+Montgomery,B103,Governor,,DEM,Total Votes Cast,73,22,48,3
+Montgomery,B103,Governor,,DEM,Under Votes,8,3,5,0
+Montgomery,B103,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,39,15,23,1
+Montgomery,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,30,7,21,2
+Montgomery,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,69,22,44,3
+Montgomery,B103,Commissioner of Agriculture,,DEM,Under Votes,12,3,9,0
+Montgomery,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B104,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,B104,Governor,,REP,Mike HARMON,11,2,8,1
+Montgomery,B104,Governor,,REP,Alan KECK,1,0,1,0
+Montgomery,B104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,B104,Governor,,REP,Ryan QUARLES,53,19,33,1
+Montgomery,B104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,B104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,B104,Governor,,REP,Daniel CAMERON,76,19,57,0
+Montgomery,B104,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,B104,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,B104,Governor,,REP,Kelly CRAFT,14,5,9,0
+Montgomery,B104,Governor,,REP,Eric DETERS,4,2,2,0
+Montgomery,B104,Governor,,REP,Total Votes Cast,159,47,110,2
+Montgomery,B104,Governor,,REP,Under Votes,2,0,2,0
+Montgomery,B104,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B104,Secretary of State,,REP,Allen MARICLE,15,1,14,0
+Montgomery,B104,Secretary of State,,REP,Michael ADAMS,102,34,66,2
+Montgomery,B104,Secretary of State,,REP,Stephen L. KNIPPER,26,7,19,0
+Montgomery,B104,Secretary of State,,REP,Total Votes Cast,143,42,99,2
+Montgomery,B104,Secretary of State,,REP,Under Votes,18,5,13,0
+Montgomery,B104,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,B104,Auditor of Public Accounts,,REP,Derek PETTEYS,42,11,30,1
+Montgomery,B104,Auditor of Public Accounts,,REP,Allison BALL,100,31,68,1
+Montgomery,B104,Auditor of Public Accounts,,REP,Total Votes Cast,142,42,98,2
+Montgomery,B104,Auditor of Public Accounts,,REP,Under Votes,19,5,14,0
+Montgomery,B104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",29,8,21,0
+Montgomery,B104,State Treasurer,,REP,Andrew COOPERRIDER,30,8,22,0
+Montgomery,B104,State Treasurer,,REP,Mark H. METCALF,84,27,55,2
+Montgomery,B104,State Treasurer,,REP,Total Votes Cast,143,43,98,2
+Montgomery,B104,State Treasurer,,REP,Under Votes,18,4,14,0
+Montgomery,B104,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,85,24,60,1
+Montgomery,B104,Commissioner of Agriculture,,REP,Richard HEATH,54,16,37,1
+Montgomery,B104,Commissioner of Agriculture,,REP,Total Votes Cast,139,40,97,2
+Montgomery,B104,Commissioner of Agriculture,,REP,Under Votes,22,7,15,0
+Montgomery,B104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",16,4,12,0
+Montgomery,B104,Governor,,DEM,Andy BESHEAR,110,34,73,3
+Montgomery,B104,Governor,,DEM,Peppy MARTIN,5,1,3,1
+Montgomery,B104,Governor,,DEM,Total Votes Cast,131,39,88,4
+Montgomery,B104,Governor,,DEM,Under Votes,6,1,4,1
+Montgomery,B104,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B104,Commissioner of Agriculture,,DEM,Mikael MALONE,58,14,43,1
+Montgomery,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,51,18,31,2
+Montgomery,B104,Commissioner of Agriculture,,DEM,Total Votes Cast,109,32,74,3
+Montgomery,B104,Commissioner of Agriculture,,DEM,Under Votes,28,8,18,2
+Montgomery,B104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B105,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,B105,Governor,,REP,Mike HARMON,1,0,1,0
+Montgomery,B105,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,B105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,B105,Governor,,REP,Ryan QUARLES,45,13,32,0
+Montgomery,B105,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Montgomery,B105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,B105,Governor,,REP,Daniel CAMERON,63,7,53,3
+Montgomery,B105,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,B105,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,B105,Governor,,REP,Kelly CRAFT,20,5,15,0
+Montgomery,B105,Governor,,REP,Eric DETERS,14,3,9,2
+Montgomery,B105,Governor,,REP,Total Votes Cast,144,28,111,5
+Montgomery,B105,Governor,,REP,Under Votes,4,0,4,0
+Montgomery,B105,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B105,Secretary of State,,REP,Allen MARICLE,11,0,10,1
+Montgomery,B105,Secretary of State,,REP,Michael ADAMS,87,22,62,3
+Montgomery,B105,Secretary of State,,REP,Stephen L. KNIPPER,25,0,24,1
+Montgomery,B105,Secretary of State,,REP,Total Votes Cast,123,22,96,5
+Montgomery,B105,Secretary of State,,REP,Under Votes,25,6,19,0
+Montgomery,B105,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,B105,Auditor of Public Accounts,,REP,Derek PETTEYS,37,9,25,3
+Montgomery,B105,Auditor of Public Accounts,,REP,Allison BALL,87,14,71,2
+Montgomery,B105,Auditor of Public Accounts,,REP,Total Votes Cast,124,23,96,5
+Montgomery,B105,Auditor of Public Accounts,,REP,Under Votes,24,5,19,0
+Montgomery,B105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",32,7,22,3
+Montgomery,B105,State Treasurer,,REP,Andrew COOPERRIDER,29,3,25,1
+Montgomery,B105,State Treasurer,,REP,Mark H. METCALF,62,13,49,0
+Montgomery,B105,State Treasurer,,REP,Total Votes Cast,123,23,96,4
+Montgomery,B105,State Treasurer,,REP,Under Votes,25,5,19,1
+Montgomery,B105,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B105,Commissioner of Agriculture,,REP,Jonathan SHELL,84,16,65,3
+Montgomery,B105,Commissioner of Agriculture,,REP,Richard HEATH,41,5,35,1
+Montgomery,B105,Commissioner of Agriculture,,REP,Total Votes Cast,125,21,100,4
+Montgomery,B105,Commissioner of Agriculture,,REP,Under Votes,23,7,15,1
+Montgomery,B105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",15,4,11,0
+Montgomery,B105,Governor,,DEM,Andy BESHEAR,80,16,56,8
+Montgomery,B105,Governor,,DEM,Peppy MARTIN,3,0,2,1
+Montgomery,B105,Governor,,DEM,Total Votes Cast,98,20,69,9
+Montgomery,B105,Governor,,DEM,Under Votes,8,0,8,0
+Montgomery,B105,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B105,Commissioner of Agriculture,,DEM,Mikael MALONE,59,13,43,3
+Montgomery,B105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,26,2,19,5
+Montgomery,B105,Commissioner of Agriculture,,DEM,Total Votes Cast,85,15,62,8
+Montgomery,B105,Commissioner of Agriculture,,DEM,Under Votes,21,5,15,1
+Montgomery,B105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B107,Governor,,REP,Bob DeVORE,3,3,0,0
+Montgomery,B107,Governor,,REP,Mike HARMON,2,1,1,0
+Montgomery,B107,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,B107,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,B107,Governor,,REP,Ryan QUARLES,39,10,28,1
+Montgomery,B107,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Montgomery,B107,Governor,,REP,Robbie C. SMITH,3,0,3,0
+Montgomery,B107,Governor,,REP,Daniel CAMERON,64,15,49,0
+Montgomery,B107,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,B107,Governor,,REP,David O. COOPER,2,0,2,0
+Montgomery,B107,Governor,,REP,Kelly CRAFT,7,0,7,0
+Montgomery,B107,Governor,,REP,Eric DETERS,11,2,9,0
+Montgomery,B107,Governor,,REP,Total Votes Cast,132,31,100,1
+Montgomery,B107,Governor,,REP,Under Votes,2,0,2,0
+Montgomery,B107,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B107,Secretary of State,,REP,Allen MARICLE,20,5,15,0
+Montgomery,B107,Secretary of State,,REP,Michael ADAMS,59,12,46,1
+Montgomery,B107,Secretary of State,,REP,Stephen L. KNIPPER,24,7,17,0
+Montgomery,B107,Secretary of State,,REP,Total Votes Cast,103,24,78,1
+Montgomery,B107,Secretary of State,,REP,Under Votes,30,7,23,0
+Montgomery,B107,Secretary of State,,REP,Over Votes,1,0,1,0
+Montgomery,B107,Auditor of Public Accounts,,REP,Derek PETTEYS,47,12,34,1
+Montgomery,B107,Auditor of Public Accounts,,REP,Allison BALL,53,13,40,0
+Montgomery,B107,Auditor of Public Accounts,,REP,Total Votes Cast,100,25,74,1
+Montgomery,B107,Auditor of Public Accounts,,REP,Under Votes,34,6,28,0
+Montgomery,B107,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B107,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",26,11,15,0
+Montgomery,B107,State Treasurer,,REP,Andrew COOPERRIDER,27,2,25,0
+Montgomery,B107,State Treasurer,,REP,Mark H. METCALF,54,12,41,1
+Montgomery,B107,State Treasurer,,REP,Total Votes Cast,107,25,81,1
+Montgomery,B107,State Treasurer,,REP,Under Votes,27,6,21,0
+Montgomery,B107,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B107,Commissioner of Agriculture,,REP,Jonathan SHELL,69,23,46,0
+Montgomery,B107,Commissioner of Agriculture,,REP,Richard HEATH,40,3,36,1
+Montgomery,B107,Commissioner of Agriculture,,REP,Total Votes Cast,109,26,82,1
+Montgomery,B107,Commissioner of Agriculture,,REP,Under Votes,25,5,20,0
+Montgomery,B107,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B107,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",16,7,9,0
+Montgomery,B107,Governor,,DEM,Andy BESHEAR,66,26,34,6
+Montgomery,B107,Governor,,DEM,Peppy MARTIN,8,2,6,0
+Montgomery,B107,Governor,,DEM,Total Votes Cast,90,35,49,6
+Montgomery,B107,Governor,,DEM,Under Votes,21,3,18,0
+Montgomery,B107,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B107,Commissioner of Agriculture,,DEM,Mikael MALONE,46,13,30,3
+Montgomery,B107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,12,15,1
+Montgomery,B107,Commissioner of Agriculture,,DEM,Total Votes Cast,74,25,45,4
+Montgomery,B107,Commissioner of Agriculture,,DEM,Under Votes,37,13,22,2
+Montgomery,B107,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,B108,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,B108,Governor,,REP,Mike HARMON,3,1,2,0
+Montgomery,B108,Governor,,REP,Alan KECK,2,1,1,0
+Montgomery,B108,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,B108,Governor,,REP,Ryan QUARLES,43,11,32,0
+Montgomery,B108,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,B108,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Montgomery,B108,Governor,,REP,Daniel CAMERON,45,13,32,0
+Montgomery,B108,Governor,,REP,Jacob CLARK,1,0,1,0
+Montgomery,B108,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,B108,Governor,,REP,Kelly CRAFT,15,3,12,0
+Montgomery,B108,Governor,,REP,Eric DETERS,13,4,9,0
+Montgomery,B108,Governor,,REP,Total Votes Cast,124,33,91,0
+Montgomery,B108,Governor,,REP,Under Votes,2,0,2,0
+Montgomery,B108,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,B108,Secretary of State,,REP,Allen MARICLE,14,5,9,0
+Montgomery,B108,Secretary of State,,REP,Michael ADAMS,68,18,50,0
+Montgomery,B108,Secretary of State,,REP,Stephen L. KNIPPER,32,9,23,0
+Montgomery,B108,Secretary of State,,REP,Total Votes Cast,114,32,82,0
+Montgomery,B108,Secretary of State,,REP,Under Votes,12,1,11,0
+Montgomery,B108,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Derek PETTEYS,39,7,32,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Allison BALL,69,21,48,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Total Votes Cast,108,28,80,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Under Votes,18,5,13,0
+Montgomery,B108,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,B108,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",30,5,25,0
+Montgomery,B108,State Treasurer,,REP,Andrew COOPERRIDER,31,6,25,0
+Montgomery,B108,State Treasurer,,REP,Mark H. METCALF,49,16,33,0
+Montgomery,B108,State Treasurer,,REP,Total Votes Cast,110,27,83,0
+Montgomery,B108,State Treasurer,,REP,Under Votes,16,6,10,0
+Montgomery,B108,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Jonathan SHELL,61,18,43,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Richard HEATH,49,11,38,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Total Votes Cast,110,29,81,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Under Votes,16,4,12,0
+Montgomery,B108,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,B108,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,3,6,0
+Montgomery,B108,Governor,,DEM,Andy BESHEAR,87,23,59,5
+Montgomery,B108,Governor,,DEM,Peppy MARTIN,5,1,4,0
+Montgomery,B108,Governor,,DEM,Total Votes Cast,101,27,69,5
+Montgomery,B108,Governor,,DEM,Under Votes,11,1,10,0
+Montgomery,B108,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,B108,Commissioner of Agriculture,,DEM,Mikael MALONE,41,10,29,2
+Montgomery,B108,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,13,26,3
+Montgomery,B108,Commissioner of Agriculture,,DEM,Total Votes Cast,83,23,55,5
+Montgomery,B108,Commissioner of Agriculture,,DEM,Under Votes,29,5,24,0
+Montgomery,B108,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,C101,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,C101,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,C101,Governor,,REP,Ryan QUARLES,33,8,25,0
+Montgomery,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,C101,Governor,,REP,Daniel CAMERON,37,11,26,0
+Montgomery,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,C101,Governor,,REP,Kelly CRAFT,12,2,10,0
+Montgomery,C101,Governor,,REP,Eric DETERS,5,2,3,0
+Montgomery,C101,Governor,,REP,Total Votes Cast,87,23,64,0
+Montgomery,C101,Governor,,REP,Under Votes,1,0,1,0
+Montgomery,C101,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,C101,Secretary of State,,REP,Allen MARICLE,6,0,6,0
+Montgomery,C101,Secretary of State,,REP,Michael ADAMS,49,15,34,0
+Montgomery,C101,Secretary of State,,REP,Stephen L. KNIPPER,23,8,15,0
+Montgomery,C101,Secretary of State,,REP,Total Votes Cast,78,23,55,0
+Montgomery,C101,Secretary of State,,REP,Under Votes,10,0,10,0
+Montgomery,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,6,13,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Allison BALL,56,17,39,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Total Votes Cast,75,23,52,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Under Votes,13,0,13,0
+Montgomery,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",20,8,12,0
+Montgomery,C101,State Treasurer,,REP,Andrew COOPERRIDER,18,4,14,0
+Montgomery,C101,State Treasurer,,REP,Mark H. METCALF,40,11,29,0
+Montgomery,C101,State Treasurer,,REP,Total Votes Cast,78,23,55,0
+Montgomery,C101,State Treasurer,,REP,Under Votes,10,0,10,0
+Montgomery,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,46,14,32,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Richard HEATH,27,8,19,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Total Votes Cast,73,22,51,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Under Votes,15,1,14,0
+Montgomery,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",11,1,10,0
+Montgomery,C101,Governor,,DEM,Andy BESHEAR,34,12,19,3
+Montgomery,C101,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Montgomery,C101,Governor,,DEM,Total Votes Cast,46,14,29,3
+Montgomery,C101,Governor,,DEM,Under Votes,6,0,6,0
+Montgomery,C101,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,19,4,13,2
+Montgomery,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,22,8,13,1
+Montgomery,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,41,12,26,3
+Montgomery,C101,Commissioner of Agriculture,,DEM,Under Votes,11,2,9,0
+Montgomery,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,C102,Governor,,REP,Mike HARMON,4,0,4,0
+Montgomery,C102,Governor,,REP,Alan KECK,0,0,0,0
+Montgomery,C102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Montgomery,C102,Governor,,REP,Ryan QUARLES,50,16,34,0
+Montgomery,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,C102,Governor,,REP,Daniel CAMERON,62,11,51,0
+Montgomery,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,C102,Governor,,REP,David O. COOPER,2,0,2,0
+Montgomery,C102,Governor,,REP,Kelly CRAFT,18,3,15,0
+Montgomery,C102,Governor,,REP,Eric DETERS,8,2,6,0
+Montgomery,C102,Governor,,REP,Total Votes Cast,145,32,113,0
+Montgomery,C102,Governor,,REP,Under Votes,2,0,2,0
+Montgomery,C102,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,C102,Secretary of State,,REP,Allen MARICLE,11,0,11,0
+Montgomery,C102,Secretary of State,,REP,Michael ADAMS,85,18,67,0
+Montgomery,C102,Secretary of State,,REP,Stephen L. KNIPPER,30,8,22,0
+Montgomery,C102,Secretary of State,,REP,Total Votes Cast,126,26,100,0
+Montgomery,C102,Secretary of State,,REP,Under Votes,21,6,15,0
+Montgomery,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,33,7,26,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Allison BALL,91,17,74,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Total Votes Cast,124,24,100,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Under Votes,23,8,15,0
+Montgomery,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",20,4,16,0
+Montgomery,C102,State Treasurer,,REP,Andrew COOPERRIDER,28,7,21,0
+Montgomery,C102,State Treasurer,,REP,Mark H. METCALF,79,14,65,0
+Montgomery,C102,State Treasurer,,REP,Total Votes Cast,127,25,102,0
+Montgomery,C102,State Treasurer,,REP,Under Votes,20,7,13,0
+Montgomery,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,69,10,59,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Richard HEATH,48,10,38,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Total Votes Cast,117,20,97,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Under Votes,30,12,18,0
+Montgomery,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",10,1,9,0
+Montgomery,C102,Governor,,DEM,Andy BESHEAR,100,23,76,1
+Montgomery,C102,Governor,,DEM,Peppy MARTIN,9,3,6,0
+Montgomery,C102,Governor,,DEM,Total Votes Cast,119,27,91,1
+Montgomery,C102,Governor,,DEM,Under Votes,9,4,5,0
+Montgomery,C102,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,51,18,32,1
+Montgomery,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,52,5,47,0
+Montgomery,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,103,23,79,1
+Montgomery,C102,Commissioner of Agriculture,,DEM,Under Votes,25,8,17,0
+Montgomery,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,C103,Governor,,REP,Bob DeVORE,2,1,1,0
+Montgomery,C103,Governor,,REP,Mike HARMON,8,1,7,0
+Montgomery,C103,Governor,,REP,Alan KECK,8,1,7,0
+Montgomery,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,C103,Governor,,REP,Ryan QUARLES,90,21,67,2
+Montgomery,C103,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Montgomery,C103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Montgomery,C103,Governor,,REP,Daniel CAMERON,99,16,83,0
+Montgomery,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Montgomery,C103,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,C103,Governor,,REP,Kelly CRAFT,21,7,12,2
+Montgomery,C103,Governor,,REP,Eric DETERS,20,2,18,0
+Montgomery,C103,Governor,,REP,Total Votes Cast,251,49,198,4
+Montgomery,C103,Governor,,REP,Under Votes,2,2,0,0
+Montgomery,C103,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,C103,Secretary of State,,REP,Allen MARICLE,26,6,19,1
+Montgomery,C103,Secretary of State,,REP,Michael ADAMS,146,29,116,1
+Montgomery,C103,Secretary of State,,REP,Stephen L. KNIPPER,40,8,30,2
+Montgomery,C103,Secretary of State,,REP,Total Votes Cast,212,43,165,4
+Montgomery,C103,Secretary of State,,REP,Under Votes,41,8,33,0
+Montgomery,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,62,11,51,0
+Montgomery,C103,Auditor of Public Accounts,,REP,Allison BALL,138,29,105,4
+Montgomery,C103,Auditor of Public Accounts,,REP,Total Votes Cast,200,40,156,4
+Montgomery,C103,Auditor of Public Accounts,,REP,Under Votes,53,11,42,0
+Montgomery,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",55,12,42,1
+Montgomery,C103,State Treasurer,,REP,Andrew COOPERRIDER,55,10,44,1
+Montgomery,C103,State Treasurer,,REP,Mark H. METCALF,104,20,82,2
+Montgomery,C103,State Treasurer,,REP,Total Votes Cast,214,42,168,4
+Montgomery,C103,State Treasurer,,REP,Under Votes,39,9,30,0
+Montgomery,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,122,26,94,2
+Montgomery,C103,Commissioner of Agriculture,,REP,Richard HEATH,86,13,71,2
+Montgomery,C103,Commissioner of Agriculture,,REP,Total Votes Cast,208,39,165,4
+Montgomery,C103,Commissioner of Agriculture,,REP,Under Votes,45,12,33,0
+Montgomery,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Montgomery,C103,Governor,,DEM,Andy BESHEAR,116,33,80,3
+Montgomery,C103,Governor,,DEM,Peppy MARTIN,3,2,1,0
+Montgomery,C103,Governor,,DEM,Total Votes Cast,128,35,90,3
+Montgomery,C103,Governor,,DEM,Under Votes,12,1,11,0
+Montgomery,C103,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,55,15,40,0
+Montgomery,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,57,16,41,0
+Montgomery,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,112,31,81,0
+Montgomery,C103,Commissioner of Agriculture,,DEM,Under Votes,28,5,20,3
+Montgomery,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,C104,Governor,,REP,Bob DeVORE,1,0,1,0
+Montgomery,C104,Governor,,REP,Mike HARMON,1,0,1,0
+Montgomery,C104,Governor,,REP,Alan KECK,3,0,3,0
+Montgomery,C104,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Montgomery,C104,Governor,,REP,Ryan QUARLES,51,19,32,0
+Montgomery,C104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,C104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,C104,Governor,,REP,Daniel CAMERON,58,12,45,1
+Montgomery,C104,Governor,,REP,Jacob CLARK,1,0,1,0
+Montgomery,C104,Governor,,REP,David O. COOPER,1,0,1,0
+Montgomery,C104,Governor,,REP,Kelly CRAFT,16,6,10,0
+Montgomery,C104,Governor,,REP,Eric DETERS,15,5,10,0
+Montgomery,C104,Governor,,REP,Total Votes Cast,148,42,105,1
+Montgomery,C104,Governor,,REP,Under Votes,5,1,2,2
+Montgomery,C104,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,C104,Secretary of State,,REP,Allen MARICLE,10,3,7,0
+Montgomery,C104,Secretary of State,,REP,Michael ADAMS,96,27,67,2
+Montgomery,C104,Secretary of State,,REP,Stephen L. KNIPPER,27,9,17,1
+Montgomery,C104,Secretary of State,,REP,Total Votes Cast,133,39,91,3
+Montgomery,C104,Secretary of State,,REP,Under Votes,20,4,16,0
+Montgomery,C104,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,27,10,17,0
+Montgomery,C104,Auditor of Public Accounts,,REP,Allison BALL,105,27,75,3
+Montgomery,C104,Auditor of Public Accounts,,REP,Total Votes Cast,132,37,92,3
+Montgomery,C104,Auditor of Public Accounts,,REP,Under Votes,21,6,15,0
+Montgomery,C104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,6,12,1
+Montgomery,C104,State Treasurer,,REP,Andrew COOPERRIDER,36,13,21,2
+Montgomery,C104,State Treasurer,,REP,Mark H. METCALF,78,17,61,0
+Montgomery,C104,State Treasurer,,REP,Total Votes Cast,133,36,94,3
+Montgomery,C104,State Treasurer,,REP,Under Votes,20,7,13,0
+Montgomery,C104,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,74,20,52,2
+Montgomery,C104,Commissioner of Agriculture,,REP,Richard HEATH,57,16,41,0
+Montgomery,C104,Commissioner of Agriculture,,REP,Total Votes Cast,131,36,93,2
+Montgomery,C104,Commissioner of Agriculture,,REP,Under Votes,22,7,14,1
+Montgomery,C104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",19,5,14,0
+Montgomery,C104,Governor,,DEM,Andy BESHEAR,102,26,74,2
+Montgomery,C104,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Montgomery,C104,Governor,,DEM,Total Votes Cast,127,32,93,2
+Montgomery,C104,Governor,,DEM,Under Votes,4,1,3,0
+Montgomery,C104,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,69,17,50,2
+Montgomery,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,41,9,32,0
+Montgomery,C104,Commissioner of Agriculture,,DEM,Total Votes Cast,110,26,82,2
+Montgomery,C104,Commissioner of Agriculture,,DEM,Under Votes,21,7,14,0
+Montgomery,C104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Montgomery,C105,Governor,,REP,Bob DeVORE,0,0,0,0
+Montgomery,C105,Governor,,REP,Mike HARMON,0,0,0,0
+Montgomery,C105,Governor,,REP,Alan KECK,1,0,1,0
+Montgomery,C105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Montgomery,C105,Governor,,REP,Ryan QUARLES,15,3,12,0
+Montgomery,C105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Montgomery,C105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Montgomery,C105,Governor,,REP,Daniel CAMERON,22,7,15,0
+Montgomery,C105,Governor,,REP,Jacob CLARK,1,0,1,0
+Montgomery,C105,Governor,,REP,David O. COOPER,0,0,0,0
+Montgomery,C105,Governor,,REP,Kelly CRAFT,6,0,6,0
+Montgomery,C105,Governor,,REP,Eric DETERS,6,3,3,0
+Montgomery,C105,Governor,,REP,Total Votes Cast,51,13,38,0
+Montgomery,C105,Governor,,REP,Under Votes,4,0,4,0
+Montgomery,C105,Governor,,REP,Over Votes,0,0,0,0
+Montgomery,C105,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Montgomery,C105,Secretary of State,,REP,Michael ADAMS,34,8,26,0
+Montgomery,C105,Secretary of State,,REP,Stephen L. KNIPPER,13,2,11,0
+Montgomery,C105,Secretary of State,,REP,Total Votes Cast,50,10,40,0
+Montgomery,C105,Secretary of State,,REP,Under Votes,5,3,2,0
+Montgomery,C105,Secretary of State,,REP,Over Votes,0,0,0,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Derek PETTEYS,20,5,15,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Allison BALL,27,5,22,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Total Votes Cast,47,10,37,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Under Votes,8,3,5,0
+Montgomery,C105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Montgomery,C105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,4,7,0
+Montgomery,C105,State Treasurer,,REP,Andrew COOPERRIDER,10,4,6,0
+Montgomery,C105,State Treasurer,,REP,Mark H. METCALF,25,2,23,0
+Montgomery,C105,State Treasurer,,REP,Total Votes Cast,46,10,36,0
+Montgomery,C105,State Treasurer,,REP,Under Votes,9,3,6,0
+Montgomery,C105,State Treasurer,,REP,Over Votes,0,0,0,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,28,6,22,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Richard HEATH,17,4,13,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Total Votes Cast,45,10,35,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Under Votes,10,3,7,0
+Montgomery,C105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Montgomery,C105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Montgomery,C105,Governor,,DEM,Andy BESHEAR,30,3,23,4
+Montgomery,C105,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Montgomery,C105,Governor,,DEM,Total Votes Cast,35,3,28,4
+Montgomery,C105,Governor,,DEM,Under Votes,1,1,0,0
+Montgomery,C105,Governor,,DEM,Over Votes,0,0,0,0
+Montgomery,C105,Commissioner of Agriculture,,DEM,Mikael MALONE,14,1,13,0
+Montgomery,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,2,12,4
+Montgomery,C105,Commissioner of Agriculture,,DEM,Total Votes Cast,32,3,25,4
+Montgomery,C105,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Montgomery,C105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

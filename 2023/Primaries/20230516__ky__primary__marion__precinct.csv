@@ -1,0 +1,817 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Marion,A101,Governor,,REP,Daniel CAMERON,20,0,20,0
+Marion,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,A101,Governor,,REP,David O. COOPER,1,0,1,0
+Marion,A101,Governor,,REP,Kelly CRAFT,2,0,2,0
+Marion,A101,Governor,,REP,Eric DETERS,5,0,5,0
+Marion,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,A101,Governor,,REP,Mike HARMON,3,0,3,0
+Marion,A101,Governor,,REP,Alan KECK,0,0,0,0
+Marion,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,A101,Governor,,REP,Ryan QUARLES,10,1,9,0
+Marion,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,A101,Governor,,REP,Total Votes Cast,41,1,40,0
+Marion,A101,Governor,,REP,Under Votes,0,0,0,0
+Marion,A101,Governor,,REP,Over Votes,0,0,0,0
+Marion,A101,Secretary of State,,REP,Michael ADAMS,25,1,24,0
+Marion,A101,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Marion,A101,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Marion,A101,Secretary of State,,REP,Total Votes Cast,36,1,35,0
+Marion,A101,Secretary of State,,REP,Under Votes,5,0,5,0
+Marion,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,A101,Auditor of Public Accounts,,REP,Allison BALL,24,1,23,0
+Marion,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,14,0,14,0
+Marion,A101,Auditor of Public Accounts,,REP,Total Votes Cast,38,1,37,0
+Marion,A101,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Marion,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,A101,State Treasurer,,REP,Andrew COOPERRIDER,13,0,13,0
+Marion,A101,State Treasurer,,REP,Mark H. METCALF,17,1,16,0
+Marion,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,0,8,0
+Marion,A101,State Treasurer,,REP,Total Votes Cast,38,1,37,0
+Marion,A101,State Treasurer,,REP,Under Votes,3,0,3,0
+Marion,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,A101,Commissioner of Agriculture,,REP,Richard HEATH,19,1,18,0
+Marion,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,17,0,17,0
+Marion,A101,Commissioner of Agriculture,,REP,Total Votes Cast,36,1,35,0
+Marion,A101,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Marion,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,A101,Governor,,DEM,Andy BESHEAR,25,0,25,0
+Marion,A101,Governor,,DEM,Peppy MARTIN,3,0,2,1
+Marion,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Marion,A101,Governor,,DEM,Total Votes Cast,33,0,32,1
+Marion,A101,Governor,,DEM,Under Votes,1,0,1,0
+Marion,A101,Governor,,DEM,Over Votes,0,0,0,0
+Marion,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,0,18,0
+Marion,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,13,0,12,1
+Marion,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,31,0,30,1
+Marion,A101,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Marion,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,A102,Governor,,REP,Daniel CAMERON,28,6,22,0
+Marion,A102,Governor,,REP,Jacob CLARK,1,0,1,0
+Marion,A102,Governor,,REP,David O. COOPER,1,0,1,0
+Marion,A102,Governor,,REP,Kelly CRAFT,1,0,1,0
+Marion,A102,Governor,,REP,Eric DETERS,1,0,1,0
+Marion,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,A102,Governor,,REP,Mike HARMON,1,0,1,0
+Marion,A102,Governor,,REP,Alan KECK,0,0,0,0
+Marion,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,A102,Governor,,REP,Ryan QUARLES,9,0,9,0
+Marion,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,A102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,A102,Governor,,REP,Total Votes Cast,42,6,36,0
+Marion,A102,Governor,,REP,Under Votes,1,0,1,0
+Marion,A102,Governor,,REP,Over Votes,0,0,0,0
+Marion,A102,Secretary of State,,REP,Michael ADAMS,26,5,21,0
+Marion,A102,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Marion,A102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Marion,A102,Secretary of State,,REP,Total Votes Cast,37,5,32,0
+Marion,A102,Secretary of State,,REP,Under Votes,6,1,5,0
+Marion,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,A102,Auditor of Public Accounts,,REP,Allison BALL,21,3,18,0
+Marion,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,16,3,13,0
+Marion,A102,Auditor of Public Accounts,,REP,Total Votes Cast,37,6,31,0
+Marion,A102,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Marion,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,A102,State Treasurer,,REP,Andrew COOPERRIDER,10,4,6,0
+Marion,A102,State Treasurer,,REP,Mark H. METCALF,20,0,20,0
+Marion,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,2,5,0
+Marion,A102,State Treasurer,,REP,Total Votes Cast,37,6,31,0
+Marion,A102,State Treasurer,,REP,Under Votes,6,0,6,0
+Marion,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,A102,Commissioner of Agriculture,,REP,Richard HEATH,19,4,15,0
+Marion,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,15,2,13,0
+Marion,A102,Commissioner of Agriculture,,REP,Total Votes Cast,34,6,28,0
+Marion,A102,Commissioner of Agriculture,,REP,Under Votes,9,0,9,0
+Marion,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,A102,Governor,,DEM,Andy BESHEAR,23,0,22,1
+Marion,A102,Governor,,DEM,Peppy MARTIN,5,0,5,0
+Marion,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Marion,A102,Governor,,DEM,Total Votes Cast,34,0,33,1
+Marion,A102,Governor,,DEM,Under Votes,2,0,2,0
+Marion,A102,Governor,,DEM,Over Votes,0,0,0,0
+Marion,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,0,14,1
+Marion,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,19,0,19,0
+Marion,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,34,0,33,1
+Marion,A102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Marion,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,A103,Governor,,REP,Daniel CAMERON,18,2,16,0
+Marion,A103,Governor,,REP,Jacob CLARK,1,0,1,0
+Marion,A103,Governor,,REP,David O. COOPER,1,0,1,0
+Marion,A103,Governor,,REP,Kelly CRAFT,10,2,8,0
+Marion,A103,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,A103,Governor,,REP,Mike HARMON,3,3,0,0
+Marion,A103,Governor,,REP,Alan KECK,0,0,0,0
+Marion,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,A103,Governor,,REP,Ryan QUARLES,8,1,7,0
+Marion,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,A103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,A103,Governor,,REP,Total Votes Cast,41,8,33,0
+Marion,A103,Governor,,REP,Under Votes,0,0,0,0
+Marion,A103,Governor,,REP,Over Votes,0,0,0,0
+Marion,A103,Secretary of State,,REP,Michael ADAMS,20,3,17,0
+Marion,A103,Secretary of State,,REP,Stephen L. KNIPPER,5,2,3,0
+Marion,A103,Secretary of State,,REP,Allen MARICLE,5,2,3,0
+Marion,A103,Secretary of State,,REP,Total Votes Cast,30,7,23,0
+Marion,A103,Secretary of State,,REP,Under Votes,11,1,10,0
+Marion,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,A103,Auditor of Public Accounts,,REP,Allison BALL,25,4,21,0
+Marion,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,5,3,2,0
+Marion,A103,Auditor of Public Accounts,,REP,Total Votes Cast,30,7,23,0
+Marion,A103,Auditor of Public Accounts,,REP,Under Votes,11,1,10,0
+Marion,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,A103,State Treasurer,,REP,Andrew COOPERRIDER,10,3,7,0
+Marion,A103,State Treasurer,,REP,Mark H. METCALF,17,2,15,0
+Marion,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,2,5,0
+Marion,A103,State Treasurer,,REP,Total Votes Cast,34,7,27,0
+Marion,A103,State Treasurer,,REP,Under Votes,7,1,6,0
+Marion,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,A103,Commissioner of Agriculture,,REP,Richard HEATH,16,3,13,0
+Marion,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,15,4,11,0
+Marion,A103,Commissioner of Agriculture,,REP,Total Votes Cast,31,7,24,0
+Marion,A103,Commissioner of Agriculture,,REP,Under Votes,9,1,8,0
+Marion,A103,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Marion,A103,Governor,,DEM,Andy BESHEAR,26,2,24,0
+Marion,A103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Marion,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",11,3,8,0
+Marion,A103,Governor,,DEM,Total Votes Cast,37,5,32,0
+Marion,A103,Governor,,DEM,Under Votes,2,0,2,0
+Marion,A103,Governor,,DEM,Over Votes,0,0,0,0
+Marion,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,1,15,0
+Marion,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,20,3,17,0
+Marion,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,36,4,32,0
+Marion,A103,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Marion,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,A104,Governor,,REP,Daniel CAMERON,5,0,5,0
+Marion,A104,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,A104,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,A104,Governor,,REP,Kelly CRAFT,1,0,1,0
+Marion,A104,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,A104,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,A104,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,A104,Governor,,REP,Alan KECK,0,0,0,0
+Marion,A104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,A104,Governor,,REP,Ryan QUARLES,4,0,4,0
+Marion,A104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,A104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,A104,Governor,,REP,Total Votes Cast,10,0,10,0
+Marion,A104,Governor,,REP,Under Votes,0,0,0,0
+Marion,A104,Governor,,REP,Over Votes,0,0,0,0
+Marion,A104,Secretary of State,,REP,Michael ADAMS,8,0,8,0
+Marion,A104,Secretary of State,,REP,Stephen L. KNIPPER,1,0,1,0
+Marion,A104,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Marion,A104,Secretary of State,,REP,Total Votes Cast,9,0,9,0
+Marion,A104,Secretary of State,,REP,Under Votes,1,0,1,0
+Marion,A104,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,A104,Auditor of Public Accounts,,REP,Allison BALL,8,0,8,0
+Marion,A104,Auditor of Public Accounts,,REP,Derek PETTEYS,0,0,0,0
+Marion,A104,Auditor of Public Accounts,,REP,Total Votes Cast,8,0,8,0
+Marion,A104,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Marion,A104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,A104,State Treasurer,,REP,Andrew COOPERRIDER,2,0,2,0
+Marion,A104,State Treasurer,,REP,Mark H. METCALF,2,0,2,0
+Marion,A104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Marion,A104,State Treasurer,,REP,Total Votes Cast,9,0,9,0
+Marion,A104,State Treasurer,,REP,Under Votes,1,0,1,0
+Marion,A104,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,A104,Commissioner of Agriculture,,REP,Richard HEATH,2,0,2,0
+Marion,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,6,0,6,0
+Marion,A104,Commissioner of Agriculture,,REP,Total Votes Cast,8,0,8,0
+Marion,A104,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Marion,A104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,A104,Governor,,DEM,Andy BESHEAR,50,4,44,2
+Marion,A104,Governor,,DEM,Peppy MARTIN,3,0,2,1
+Marion,A104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Marion,A104,Governor,,DEM,Total Votes Cast,57,4,50,3
+Marion,A104,Governor,,DEM,Under Votes,2,0,2,0
+Marion,A104,Governor,,DEM,Over Votes,0,0,0,0
+Marion,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,30,3,26,1
+Marion,A104,Commissioner of Agriculture,,DEM,Mikael MALONE,21,1,18,2
+Marion,A104,Commissioner of Agriculture,,DEM,Total Votes Cast,51,4,44,3
+Marion,A104,Commissioner of Agriculture,,DEM,Under Votes,8,0,8,0
+Marion,A104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,C102,Governor,,REP,Daniel CAMERON,30,5,25,0
+Marion,C102,Governor,,REP,Jacob CLARK,1,1,0,0
+Marion,C102,Governor,,REP,David O. COOPER,2,0,2,0
+Marion,C102,Governor,,REP,Kelly CRAFT,6,2,3,1
+Marion,C102,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,C102,Governor,,REP,Mike HARMON,2,0,2,0
+Marion,C102,Governor,,REP,Alan KECK,0,0,0,0
+Marion,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,C102,Governor,,REP,Ryan QUARLES,9,1,8,0
+Marion,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,C102,Governor,,REP,Total Votes Cast,50,9,40,1
+Marion,C102,Governor,,REP,Under Votes,0,0,0,0
+Marion,C102,Governor,,REP,Over Votes,0,0,0,0
+Marion,C102,Secretary of State,,REP,Michael ADAMS,37,7,29,1
+Marion,C102,Secretary of State,,REP,Stephen L. KNIPPER,4,0,4,0
+Marion,C102,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Marion,C102,Secretary of State,,REP,Total Votes Cast,44,8,35,1
+Marion,C102,Secretary of State,,REP,Under Votes,6,1,5,0
+Marion,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,C102,Auditor of Public Accounts,,REP,Allison BALL,33,7,25,1
+Marion,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,12,2,10,0
+Marion,C102,Auditor of Public Accounts,,REP,Total Votes Cast,45,9,35,1
+Marion,C102,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Marion,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,C102,State Treasurer,,REP,Andrew COOPERRIDER,12,1,10,1
+Marion,C102,State Treasurer,,REP,Mark H. METCALF,25,5,20,0
+Marion,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,2,5,0
+Marion,C102,State Treasurer,,REP,Total Votes Cast,44,8,35,1
+Marion,C102,State Treasurer,,REP,Under Votes,6,1,5,0
+Marion,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,C102,Commissioner of Agriculture,,REP,Richard HEATH,19,1,17,1
+Marion,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,23,6,17,0
+Marion,C102,Commissioner of Agriculture,,REP,Total Votes Cast,42,7,34,1
+Marion,C102,Commissioner of Agriculture,,REP,Under Votes,8,2,6,0
+Marion,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,C102,Governor,,DEM,Andy BESHEAR,89,17,66,6
+Marion,C102,Governor,,DEM,Peppy MARTIN,4,0,2,2
+Marion,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,2,3,1
+Marion,C102,Governor,,DEM,Total Votes Cast,99,19,71,9
+Marion,C102,Governor,,DEM,Under Votes,2,0,2,0
+Marion,C102,Governor,,DEM,Over Votes,0,0,0,0
+Marion,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,4,38,2
+Marion,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,44,9,30,5
+Marion,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,88,13,68,7
+Marion,C102,Commissioner of Agriculture,,DEM,Under Votes,13,6,5,2
+Marion,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,C103,Governor,,REP,Daniel CAMERON,12,1,11,0
+Marion,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,C103,Governor,,REP,Kelly CRAFT,7,0,7,0
+Marion,C103,Governor,,REP,Eric DETERS,3,2,1,0
+Marion,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,C103,Governor,,REP,Mike HARMON,2,0,2,0
+Marion,C103,Governor,,REP,Alan KECK,2,0,2,0
+Marion,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,C103,Governor,,REP,Ryan QUARLES,8,1,7,0
+Marion,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,C103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,C103,Governor,,REP,Total Votes Cast,34,4,30,0
+Marion,C103,Governor,,REP,Under Votes,0,0,0,0
+Marion,C103,Governor,,REP,Over Votes,0,0,0,0
+Marion,C103,Secretary of State,,REP,Michael ADAMS,21,2,19,0
+Marion,C103,Secretary of State,,REP,Stephen L. KNIPPER,7,2,5,0
+Marion,C103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Marion,C103,Secretary of State,,REP,Total Votes Cast,30,4,26,0
+Marion,C103,Secretary of State,,REP,Under Votes,4,0,4,0
+Marion,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,C103,Auditor of Public Accounts,,REP,Allison BALL,22,2,20,0
+Marion,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,10,2,8,0
+Marion,C103,Auditor of Public Accounts,,REP,Total Votes Cast,32,4,28,0
+Marion,C103,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Marion,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,C103,State Treasurer,,REP,Andrew COOPERRIDER,9,2,7,0
+Marion,C103,State Treasurer,,REP,Mark H. METCALF,18,1,17,0
+Marion,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,1,2,0
+Marion,C103,State Treasurer,,REP,Total Votes Cast,30,4,26,0
+Marion,C103,State Treasurer,,REP,Under Votes,4,0,4,0
+Marion,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,C103,Commissioner of Agriculture,,REP,Richard HEATH,11,1,10,0
+Marion,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,21,2,19,0
+Marion,C103,Commissioner of Agriculture,,REP,Total Votes Cast,32,3,29,0
+Marion,C103,Commissioner of Agriculture,,REP,Under Votes,2,1,1,0
+Marion,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,C103,Governor,,DEM,Andy BESHEAR,39,6,33,0
+Marion,C103,Governor,,DEM,Peppy MARTIN,6,2,4,0
+Marion,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,1,4,0
+Marion,C103,Governor,,DEM,Total Votes Cast,50,9,41,0
+Marion,C103,Governor,,DEM,Under Votes,0,0,0,0
+Marion,C103,Governor,,DEM,Over Votes,0,0,0,0
+Marion,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,3,20,0
+Marion,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,21,5,16,0
+Marion,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,44,8,36,0
+Marion,C103,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Marion,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,C105,Governor,,REP,Daniel CAMERON,9,0,9,0
+Marion,C105,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,C105,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,C105,Governor,,REP,Kelly CRAFT,1,0,1,0
+Marion,C105,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,C105,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,C105,Governor,,REP,Mike HARMON,1,0,1,0
+Marion,C105,Governor,,REP,Alan KECK,0,0,0,0
+Marion,C105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,C105,Governor,,REP,Ryan QUARLES,7,4,3,0
+Marion,C105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,C105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,C105,Governor,,REP,Total Votes Cast,18,4,14,0
+Marion,C105,Governor,,REP,Under Votes,0,0,0,0
+Marion,C105,Governor,,REP,Over Votes,0,0,0,0
+Marion,C105,Secretary of State,,REP,Michael ADAMS,12,4,8,0
+Marion,C105,Secretary of State,,REP,Stephen L. KNIPPER,3,0,3,0
+Marion,C105,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Marion,C105,Secretary of State,,REP,Total Votes Cast,16,4,12,0
+Marion,C105,Secretary of State,,REP,Under Votes,2,0,2,0
+Marion,C105,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,C105,Auditor of Public Accounts,,REP,Allison BALL,9,0,9,0
+Marion,C105,Auditor of Public Accounts,,REP,Derek PETTEYS,5,2,3,0
+Marion,C105,Auditor of Public Accounts,,REP,Total Votes Cast,14,2,12,0
+Marion,C105,Auditor of Public Accounts,,REP,Under Votes,4,2,2,0
+Marion,C105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,C105,State Treasurer,,REP,Andrew COOPERRIDER,3,0,3,0
+Marion,C105,State Treasurer,,REP,Mark H. METCALF,11,3,8,0
+Marion,C105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Marion,C105,State Treasurer,,REP,Total Votes Cast,14,3,11,0
+Marion,C105,State Treasurer,,REP,Under Votes,4,1,3,0
+Marion,C105,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,C105,Commissioner of Agriculture,,REP,Richard HEATH,10,1,9,0
+Marion,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,7,2,5,0
+Marion,C105,Commissioner of Agriculture,,REP,Total Votes Cast,17,3,14,0
+Marion,C105,Commissioner of Agriculture,,REP,Under Votes,1,1,0,0
+Marion,C105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,C105,Governor,,DEM,Andy BESHEAR,18,2,16,0
+Marion,C105,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Marion,C105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,1,5,0
+Marion,C105,Governor,,DEM,Total Votes Cast,24,3,21,0
+Marion,C105,Governor,,DEM,Under Votes,0,0,0,0
+Marion,C105,Governor,,DEM,Over Votes,0,0,0,0
+Marion,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Marion,C105,Commissioner of Agriculture,,DEM,Mikael MALONE,9,1,8,0
+Marion,C105,Commissioner of Agriculture,,DEM,Total Votes Cast,19,3,16,0
+Marion,C105,Commissioner of Agriculture,,DEM,Under Votes,5,0,5,0
+Marion,C105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,D102,Governor,,REP,Daniel CAMERON,29,2,27,0
+Marion,D102,Governor,,REP,Jacob CLARK,1,1,0,0
+Marion,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,D102,Governor,,REP,Kelly CRAFT,18,1,16,1
+Marion,D102,Governor,,REP,Eric DETERS,3,2,1,0
+Marion,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,D102,Governor,,REP,Mike HARMON,1,0,1,0
+Marion,D102,Governor,,REP,Alan KECK,1,0,1,0
+Marion,D102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Marion,D102,Governor,,REP,Ryan QUARLES,17,3,14,0
+Marion,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,D102,Governor,,REP,Total Votes Cast,71,9,61,1
+Marion,D102,Governor,,REP,Under Votes,0,0,0,0
+Marion,D102,Governor,,REP,Over Votes,0,0,0,0
+Marion,D102,Secretary of State,,REP,Michael ADAMS,50,5,44,1
+Marion,D102,Secretary of State,,REP,Stephen L. KNIPPER,11,4,7,0
+Marion,D102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Marion,D102,Secretary of State,,REP,Total Votes Cast,64,9,54,1
+Marion,D102,Secretary of State,,REP,Under Votes,7,0,7,0
+Marion,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,D102,Auditor of Public Accounts,,REP,Allison BALL,53,6,46,1
+Marion,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,11,3,8,0
+Marion,D102,Auditor of Public Accounts,,REP,Total Votes Cast,64,9,54,1
+Marion,D102,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Marion,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,D102,State Treasurer,,REP,Andrew COOPERRIDER,13,2,11,0
+Marion,D102,State Treasurer,,REP,Mark H. METCALF,39,4,34,1
+Marion,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,3,10,0
+Marion,D102,State Treasurer,,REP,Total Votes Cast,65,9,55,1
+Marion,D102,State Treasurer,,REP,Under Votes,6,0,6,0
+Marion,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,D102,Commissioner of Agriculture,,REP,Richard HEATH,36,5,30,1
+Marion,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,28,4,24,0
+Marion,D102,Commissioner of Agriculture,,REP,Total Votes Cast,64,9,54,1
+Marion,D102,Commissioner of Agriculture,,REP,Under Votes,7,0,7,0
+Marion,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,D102,Governor,,DEM,Andy BESHEAR,75,5,68,2
+Marion,D102,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Marion,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",8,0,8,0
+Marion,D102,Governor,,DEM,Total Votes Cast,89,6,81,2
+Marion,D102,Governor,,DEM,Under Votes,0,0,0,0
+Marion,D102,Governor,,DEM,Over Votes,0,0,0,0
+Marion,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,4,30,0
+Marion,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,41,1,38,2
+Marion,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,75,5,68,2
+Marion,D102,Commissioner of Agriculture,,DEM,Under Votes,14,1,13,0
+Marion,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,D103,Governor,,REP,Daniel CAMERON,30,2,28,0
+Marion,D103,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,D103,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,D103,Governor,,REP,Kelly CRAFT,15,0,15,0
+Marion,D103,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,D103,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,D103,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,D103,Governor,,REP,Alan KECK,0,0,0,0
+Marion,D103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,D103,Governor,,REP,Ryan QUARLES,4,0,4,0
+Marion,D103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,D103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,D103,Governor,,REP,Total Votes Cast,49,2,47,0
+Marion,D103,Governor,,REP,Under Votes,0,0,0,0
+Marion,D103,Governor,,REP,Over Votes,0,0,0,0
+Marion,D103,Secretary of State,,REP,Michael ADAMS,34,0,34,0
+Marion,D103,Secretary of State,,REP,Stephen L. KNIPPER,5,2,3,0
+Marion,D103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Marion,D103,Secretary of State,,REP,Total Votes Cast,41,2,39,0
+Marion,D103,Secretary of State,,REP,Under Votes,8,0,8,0
+Marion,D103,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,D103,Auditor of Public Accounts,,REP,Allison BALL,29,2,27,0
+Marion,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,12,0,12,0
+Marion,D103,Auditor of Public Accounts,,REP,Total Votes Cast,41,2,39,0
+Marion,D103,Auditor of Public Accounts,,REP,Under Votes,8,0,8,0
+Marion,D103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,D103,State Treasurer,,REP,Andrew COOPERRIDER,12,0,12,0
+Marion,D103,State Treasurer,,REP,Mark H. METCALF,24,2,22,0
+Marion,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Marion,D103,State Treasurer,,REP,Total Votes Cast,41,2,39,0
+Marion,D103,State Treasurer,,REP,Under Votes,8,0,8,0
+Marion,D103,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,D103,Commissioner of Agriculture,,REP,Richard HEATH,22,0,22,0
+Marion,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,20,2,18,0
+Marion,D103,Commissioner of Agriculture,,REP,Total Votes Cast,42,2,40,0
+Marion,D103,Commissioner of Agriculture,,REP,Under Votes,7,0,7,0
+Marion,D103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,D103,Governor,,DEM,Andy BESHEAR,57,2,54,1
+Marion,D103,Governor,,DEM,Peppy MARTIN,5,1,4,0
+Marion,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",12,0,12,0
+Marion,D103,Governor,,DEM,Total Votes Cast,74,3,70,1
+Marion,D103,Governor,,DEM,Under Votes,2,0,2,0
+Marion,D103,Governor,,DEM,Over Votes,0,0,0,0
+Marion,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,2,29,0
+Marion,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,37,1,36,0
+Marion,D103,Commissioner of Agriculture,,DEM,Total Votes Cast,68,3,65,0
+Marion,D103,Commissioner of Agriculture,,DEM,Under Votes,8,0,7,1
+Marion,D103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,D104,Governor,,REP,Daniel CAMERON,7,1,6,0
+Marion,D104,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,D104,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,D104,Governor,,REP,Kelly CRAFT,4,0,4,0
+Marion,D104,Governor,,REP,Eric DETERS,1,0,1,0
+Marion,D104,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,D104,Governor,,REP,Mike HARMON,1,0,0,1
+Marion,D104,Governor,,REP,Alan KECK,1,1,0,0
+Marion,D104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,D104,Governor,,REP,Ryan QUARLES,6,0,6,0
+Marion,D104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,D104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,D104,Governor,,REP,Total Votes Cast,20,2,17,1
+Marion,D104,Governor,,REP,Under Votes,1,1,0,0
+Marion,D104,Governor,,REP,Over Votes,0,0,0,0
+Marion,D104,Secretary of State,,REP,Michael ADAMS,11,0,11,0
+Marion,D104,Secretary of State,,REP,Stephen L. KNIPPER,4,2,2,0
+Marion,D104,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Marion,D104,Secretary of State,,REP,Total Votes Cast,15,2,13,0
+Marion,D104,Secretary of State,,REP,Under Votes,6,1,4,1
+Marion,D104,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,D104,Auditor of Public Accounts,,REP,Allison BALL,17,3,14,0
+Marion,D104,Auditor of Public Accounts,,REP,Derek PETTEYS,1,0,1,0
+Marion,D104,Auditor of Public Accounts,,REP,Total Votes Cast,18,3,15,0
+Marion,D104,Auditor of Public Accounts,,REP,Under Votes,3,0,2,1
+Marion,D104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,D104,State Treasurer,,REP,Andrew COOPERRIDER,0,0,0,0
+Marion,D104,State Treasurer,,REP,Mark H. METCALF,9,0,9,0
+Marion,D104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,2,6,0
+Marion,D104,State Treasurer,,REP,Total Votes Cast,17,2,15,0
+Marion,D104,State Treasurer,,REP,Under Votes,4,1,2,1
+Marion,D104,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,D104,Commissioner of Agriculture,,REP,Richard HEATH,4,1,3,0
+Marion,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,13,2,11,0
+Marion,D104,Commissioner of Agriculture,,REP,Total Votes Cast,17,3,14,0
+Marion,D104,Commissioner of Agriculture,,REP,Under Votes,4,0,3,1
+Marion,D104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,D104,Governor,,DEM,Andy BESHEAR,37,14,20,3
+Marion,D104,Governor,,DEM,Peppy MARTIN,7,0,5,2
+Marion,D104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,0,1
+Marion,D104,Governor,,DEM,Total Votes Cast,45,14,25,6
+Marion,D104,Governor,,DEM,Under Votes,1,0,1,0
+Marion,D104,Governor,,DEM,Over Votes,0,0,0,0
+Marion,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,5,11,1
+Marion,D104,Commissioner of Agriculture,,DEM,Mikael MALONE,18,4,10,4
+Marion,D104,Commissioner of Agriculture,,DEM,Total Votes Cast,35,9,21,5
+Marion,D104,Commissioner of Agriculture,,DEM,Under Votes,11,5,5,1
+Marion,D104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,E101,Governor,,REP,Daniel CAMERON,16,3,13,0
+Marion,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,E101,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,E101,Governor,,REP,Kelly CRAFT,14,1,13,0
+Marion,E101,Governor,,REP,Eric DETERS,5,2,3,0
+Marion,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,E101,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,E101,Governor,,REP,Alan KECK,0,0,0,0
+Marion,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,E101,Governor,,REP,Ryan QUARLES,6,3,3,0
+Marion,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,E101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Marion,E101,Governor,,REP,Total Votes Cast,42,9,33,0
+Marion,E101,Governor,,REP,Under Votes,0,0,0,0
+Marion,E101,Governor,,REP,Over Votes,0,0,0,0
+Marion,E101,Secretary of State,,REP,Michael ADAMS,27,8,19,0
+Marion,E101,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Marion,E101,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Marion,E101,Secretary of State,,REP,Total Votes Cast,37,8,29,0
+Marion,E101,Secretary of State,,REP,Under Votes,5,1,4,0
+Marion,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,E101,Auditor of Public Accounts,,REP,Allison BALL,30,7,23,0
+Marion,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,9,2,7,0
+Marion,E101,Auditor of Public Accounts,,REP,Total Votes Cast,39,9,30,0
+Marion,E101,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Marion,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,E101,State Treasurer,,REP,Andrew COOPERRIDER,12,4,8,0
+Marion,E101,State Treasurer,,REP,Mark H. METCALF,22,3,19,0
+Marion,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,2,3,0
+Marion,E101,State Treasurer,,REP,Total Votes Cast,39,9,30,0
+Marion,E101,State Treasurer,,REP,Under Votes,3,0,3,0
+Marion,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,E101,Commissioner of Agriculture,,REP,Richard HEATH,25,6,19,0
+Marion,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,14,3,11,0
+Marion,E101,Commissioner of Agriculture,,REP,Total Votes Cast,39,9,30,0
+Marion,E101,Commissioner of Agriculture,,REP,Under Votes,3,0,3,0
+Marion,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,E101,Governor,,DEM,Andy BESHEAR,37,4,30,3
+Marion,E101,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Marion,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Marion,E101,Governor,,DEM,Total Votes Cast,49,5,41,3
+Marion,E101,Governor,,DEM,Under Votes,2,0,2,0
+Marion,E101,Governor,,DEM,Over Votes,0,0,0,0
+Marion,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,3,16,0
+Marion,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,28,2,23,3
+Marion,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,47,5,39,3
+Marion,E101,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Marion,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,E102,Governor,,REP,Daniel CAMERON,17,2,15,0
+Marion,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,E102,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,E102,Governor,,REP,Kelly CRAFT,7,0,7,0
+Marion,E102,Governor,,REP,Eric DETERS,2,1,1,0
+Marion,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,E102,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,E102,Governor,,REP,Alan KECK,0,0,0,0
+Marion,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,E102,Governor,,REP,Ryan QUARLES,8,2,6,0
+Marion,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,E102,Governor,,REP,Total Votes Cast,34,5,29,0
+Marion,E102,Governor,,REP,Under Votes,0,0,0,0
+Marion,E102,Governor,,REP,Over Votes,0,0,0,0
+Marion,E102,Secretary of State,,REP,Michael ADAMS,24,2,22,0
+Marion,E102,Secretary of State,,REP,Stephen L. KNIPPER,4,2,2,0
+Marion,E102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Marion,E102,Secretary of State,,REP,Total Votes Cast,31,4,27,0
+Marion,E102,Secretary of State,,REP,Under Votes,3,1,2,0
+Marion,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,E102,Auditor of Public Accounts,,REP,Allison BALL,27,3,24,0
+Marion,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,4,1,3,0
+Marion,E102,Auditor of Public Accounts,,REP,Total Votes Cast,31,4,27,0
+Marion,E102,Auditor of Public Accounts,,REP,Under Votes,3,1,2,0
+Marion,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,E102,State Treasurer,,REP,Andrew COOPERRIDER,7,2,5,0
+Marion,E102,State Treasurer,,REP,Mark H. METCALF,17,2,15,0
+Marion,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Marion,E102,State Treasurer,,REP,Total Votes Cast,29,4,25,0
+Marion,E102,State Treasurer,,REP,Under Votes,5,1,4,0
+Marion,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,E102,Commissioner of Agriculture,,REP,Richard HEATH,14,2,12,0
+Marion,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,17,2,15,0
+Marion,E102,Commissioner of Agriculture,,REP,Total Votes Cast,31,4,27,0
+Marion,E102,Commissioner of Agriculture,,REP,Under Votes,3,1,2,0
+Marion,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,E102,Governor,,DEM,Andy BESHEAR,73,16,54,3
+Marion,E102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Marion,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,2,4,0
+Marion,E102,Governor,,DEM,Total Votes Cast,79,18,58,3
+Marion,E102,Governor,,DEM,Under Votes,2,0,2,0
+Marion,E102,Governor,,DEM,Over Votes,0,0,0,0
+Marion,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,10,32,1
+Marion,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,26,4,20,2
+Marion,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,69,14,52,3
+Marion,E102,Commissioner of Agriculture,,DEM,Under Votes,12,4,8,0
+Marion,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,E103,Governor,,REP,Daniel CAMERON,32,1,31,0
+Marion,E103,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,E103,Governor,,REP,David O. COOPER,1,0,1,0
+Marion,E103,Governor,,REP,Kelly CRAFT,5,0,5,0
+Marion,E103,Governor,,REP,Eric DETERS,9,0,9,0
+Marion,E103,Governor,,REP,Bob DeVORE,1,0,1,0
+Marion,E103,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,E103,Governor,,REP,Alan KECK,0,0,0,0
+Marion,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,E103,Governor,,REP,Ryan QUARLES,11,1,10,0
+Marion,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,E103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,E103,Governor,,REP,Total Votes Cast,59,2,57,0
+Marion,E103,Governor,,REP,Under Votes,0,0,0,0
+Marion,E103,Governor,,REP,Over Votes,0,0,0,0
+Marion,E103,Secretary of State,,REP,Michael ADAMS,29,2,27,0
+Marion,E103,Secretary of State,,REP,Stephen L. KNIPPER,14,0,14,0
+Marion,E103,Secretary of State,,REP,Allen MARICLE,6,0,6,0
+Marion,E103,Secretary of State,,REP,Total Votes Cast,49,2,47,0
+Marion,E103,Secretary of State,,REP,Under Votes,10,0,10,0
+Marion,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,E103,Auditor of Public Accounts,,REP,Allison BALL,27,2,25,0
+Marion,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,23,0,23,0
+Marion,E103,Auditor of Public Accounts,,REP,Total Votes Cast,50,2,48,0
+Marion,E103,Auditor of Public Accounts,,REP,Under Votes,9,0,9,0
+Marion,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,E103,State Treasurer,,REP,Andrew COOPERRIDER,16,1,15,0
+Marion,E103,State Treasurer,,REP,Mark H. METCALF,27,1,26,0
+Marion,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Marion,E103,State Treasurer,,REP,Total Votes Cast,50,2,48,0
+Marion,E103,State Treasurer,,REP,Under Votes,9,0,9,0
+Marion,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,E103,Commissioner of Agriculture,,REP,Richard HEATH,24,0,24,0
+Marion,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,25,2,23,0
+Marion,E103,Commissioner of Agriculture,,REP,Total Votes Cast,49,2,47,0
+Marion,E103,Commissioner of Agriculture,,REP,Under Votes,10,0,10,0
+Marion,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,E103,Governor,,DEM,Andy BESHEAR,78,3,73,2
+Marion,E103,Governor,,DEM,Peppy MARTIN,5,2,3,0
+Marion,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Marion,E103,Governor,,DEM,Total Votes Cast,92,5,85,2
+Marion,E103,Governor,,DEM,Under Votes,1,1,0,0
+Marion,E103,Governor,,DEM,Over Votes,0,0,0,0
+Marion,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,52,3,49,0
+Marion,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,30,1,28,1
+Marion,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,82,4,77,1
+Marion,E103,Commissioner of Agriculture,,DEM,Under Votes,11,2,8,1
+Marion,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,H101,Governor,,REP,Daniel CAMERON,20,4,15,1
+Marion,H101,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,H101,Governor,,REP,David O. COOPER,1,0,1,0
+Marion,H101,Governor,,REP,Kelly CRAFT,1,0,1,0
+Marion,H101,Governor,,REP,Eric DETERS,3,1,2,0
+Marion,H101,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,H101,Governor,,REP,Mike HARMON,2,0,2,0
+Marion,H101,Governor,,REP,Alan KECK,3,0,2,1
+Marion,H101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,H101,Governor,,REP,Ryan QUARLES,12,0,12,0
+Marion,H101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,H101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,H101,Governor,,REP,Total Votes Cast,42,5,35,2
+Marion,H101,Governor,,REP,Under Votes,0,0,0,0
+Marion,H101,Governor,,REP,Over Votes,0,0,0,0
+Marion,H101,Secretary of State,,REP,Michael ADAMS,29,4,24,1
+Marion,H101,Secretary of State,,REP,Stephen L. KNIPPER,9,0,8,1
+Marion,H101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Marion,H101,Secretary of State,,REP,Total Votes Cast,39,4,33,2
+Marion,H101,Secretary of State,,REP,Under Votes,3,1,2,0
+Marion,H101,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,H101,Auditor of Public Accounts,,REP,Allison BALL,30,2,26,2
+Marion,H101,Auditor of Public Accounts,,REP,Derek PETTEYS,6,2,4,0
+Marion,H101,Auditor of Public Accounts,,REP,Total Votes Cast,36,4,30,2
+Marion,H101,Auditor of Public Accounts,,REP,Under Votes,6,1,5,0
+Marion,H101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,H101,State Treasurer,,REP,Andrew COOPERRIDER,14,2,12,0
+Marion,H101,State Treasurer,,REP,Mark H. METCALF,17,0,16,1
+Marion,H101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,2,5,1
+Marion,H101,State Treasurer,,REP,Total Votes Cast,39,4,33,2
+Marion,H101,State Treasurer,,REP,Under Votes,3,1,2,0
+Marion,H101,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,H101,Commissioner of Agriculture,,REP,Richard HEATH,19,1,18,0
+Marion,H101,Commissioner of Agriculture,,REP,Jonathan SHELL,20,2,16,2
+Marion,H101,Commissioner of Agriculture,,REP,Total Votes Cast,39,3,34,2
+Marion,H101,Commissioner of Agriculture,,REP,Under Votes,3,2,1,0
+Marion,H101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,H101,Governor,,DEM,Andy BESHEAR,90,2,64,24
+Marion,H101,Governor,,DEM,Peppy MARTIN,10,0,10,0
+Marion,H101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Marion,H101,Governor,,DEM,Total Votes Cast,104,2,78,24
+Marion,H101,Governor,,DEM,Under Votes,1,0,1,0
+Marion,H101,Governor,,DEM,Over Votes,0,0,0,0
+Marion,H101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,67,2,43,22
+Marion,H101,Commissioner of Agriculture,,DEM,Mikael MALONE,32,0,30,2
+Marion,H101,Commissioner of Agriculture,,DEM,Total Votes Cast,99,2,73,24
+Marion,H101,Commissioner of Agriculture,,DEM,Under Votes,6,0,6,0
+Marion,H101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,H102,Governor,,REP,Daniel CAMERON,8,0,8,0
+Marion,H102,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,H102,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,H102,Governor,,REP,Kelly CRAFT,4,0,4,0
+Marion,H102,Governor,,REP,Eric DETERS,3,0,3,0
+Marion,H102,Governor,,REP,Bob DeVORE,1,1,0,0
+Marion,H102,Governor,,REP,Mike HARMON,1,0,1,0
+Marion,H102,Governor,,REP,Alan KECK,0,0,0,0
+Marion,H102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,H102,Governor,,REP,Ryan QUARLES,10,1,9,0
+Marion,H102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,H102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,H102,Governor,,REP,Total Votes Cast,27,2,25,0
+Marion,H102,Governor,,REP,Under Votes,0,0,0,0
+Marion,H102,Governor,,REP,Over Votes,0,0,0,0
+Marion,H102,Secretary of State,,REP,Michael ADAMS,15,2,13,0
+Marion,H102,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Marion,H102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Marion,H102,Secretary of State,,REP,Total Votes Cast,23,2,21,0
+Marion,H102,Secretary of State,,REP,Under Votes,4,0,4,0
+Marion,H102,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,H102,Auditor of Public Accounts,,REP,Allison BALL,18,2,16,0
+Marion,H102,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Marion,H102,Auditor of Public Accounts,,REP,Total Votes Cast,23,2,21,0
+Marion,H102,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Marion,H102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,H102,State Treasurer,,REP,Andrew COOPERRIDER,6,1,5,0
+Marion,H102,State Treasurer,,REP,Mark H. METCALF,13,1,12,0
+Marion,H102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Marion,H102,State Treasurer,,REP,Total Votes Cast,22,2,20,0
+Marion,H102,State Treasurer,,REP,Under Votes,4,0,4,0
+Marion,H102,State Treasurer,,REP,Over Votes,1,0,1,0
+Marion,H102,Commissioner of Agriculture,,REP,Richard HEATH,11,1,10,0
+Marion,H102,Commissioner of Agriculture,,REP,Jonathan SHELL,12,1,11,0
+Marion,H102,Commissioner of Agriculture,,REP,Total Votes Cast,23,2,21,0
+Marion,H102,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Marion,H102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,H102,Governor,,DEM,Andy BESHEAR,36,4,32,0
+Marion,H102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Marion,H102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",10,1,9,0
+Marion,H102,Governor,,DEM,Total Votes Cast,48,5,43,0
+Marion,H102,Governor,,DEM,Under Votes,0,0,0,0
+Marion,H102,Governor,,DEM,Over Votes,0,0,0,0
+Marion,H102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,2,19,0
+Marion,H102,Commissioner of Agriculture,,DEM,Mikael MALONE,23,2,21,0
+Marion,H102,Commissioner of Agriculture,,DEM,Total Votes Cast,44,4,40,0
+Marion,H102,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Marion,H102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,H103,Governor,,REP,Daniel CAMERON,7,0,7,0
+Marion,H103,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,H103,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,H103,Governor,,REP,Kelly CRAFT,6,0,6,0
+Marion,H103,Governor,,REP,Eric DETERS,0,0,0,0
+Marion,H103,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,H103,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,H103,Governor,,REP,Alan KECK,0,0,0,0
+Marion,H103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,H103,Governor,,REP,Ryan QUARLES,3,0,3,0
+Marion,H103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,H103,Governor,,REP,Robbie C. SMITH,1,1,0,0
+Marion,H103,Governor,,REP,Total Votes Cast,17,1,16,0
+Marion,H103,Governor,,REP,Under Votes,0,0,0,0
+Marion,H103,Governor,,REP,Over Votes,0,0,0,0
+Marion,H103,Secretary of State,,REP,Michael ADAMS,9,1,8,0
+Marion,H103,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Marion,H103,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Marion,H103,Secretary of State,,REP,Total Votes Cast,15,1,14,0
+Marion,H103,Secretary of State,,REP,Under Votes,2,0,2,0
+Marion,H103,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,H103,Auditor of Public Accounts,,REP,Allison BALL,10,1,9,0
+Marion,H103,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Marion,H103,Auditor of Public Accounts,,REP,Total Votes Cast,14,1,13,0
+Marion,H103,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Marion,H103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,H103,State Treasurer,,REP,Andrew COOPERRIDER,4,0,4,0
+Marion,H103,State Treasurer,,REP,Mark H. METCALF,8,1,7,0
+Marion,H103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Marion,H103,State Treasurer,,REP,Total Votes Cast,15,1,14,0
+Marion,H103,State Treasurer,,REP,Under Votes,2,0,2,0
+Marion,H103,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,H103,Commissioner of Agriculture,,REP,Richard HEATH,6,1,5,0
+Marion,H103,Commissioner of Agriculture,,REP,Jonathan SHELL,10,0,10,0
+Marion,H103,Commissioner of Agriculture,,REP,Total Votes Cast,16,1,15,0
+Marion,H103,Commissioner of Agriculture,,REP,Under Votes,1,0,1,0
+Marion,H103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,H103,Governor,,DEM,Andy BESHEAR,20,0,19,1
+Marion,H103,Governor,,DEM,Peppy MARTIN,6,0,6,0
+Marion,H103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,1,6,0
+Marion,H103,Governor,,DEM,Total Votes Cast,33,1,31,1
+Marion,H103,Governor,,DEM,Under Votes,1,0,1,0
+Marion,H103,Governor,,DEM,Over Votes,0,0,0,0
+Marion,H103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,0,13,0
+Marion,H103,Commissioner of Agriculture,,DEM,Mikael MALONE,20,1,18,1
+Marion,H103,Commissioner of Agriculture,,DEM,Total Votes Cast,33,1,31,1
+Marion,H103,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Marion,H103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Marion,H104,Governor,,REP,Daniel CAMERON,15,2,12,1
+Marion,H104,Governor,,REP,Jacob CLARK,0,0,0,0
+Marion,H104,Governor,,REP,David O. COOPER,0,0,0,0
+Marion,H104,Governor,,REP,Kelly CRAFT,4,0,3,1
+Marion,H104,Governor,,REP,Eric DETERS,1,0,1,0
+Marion,H104,Governor,,REP,Bob DeVORE,0,0,0,0
+Marion,H104,Governor,,REP,Mike HARMON,0,0,0,0
+Marion,H104,Governor,,REP,Alan KECK,1,0,1,0
+Marion,H104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Marion,H104,Governor,,REP,Ryan QUARLES,4,0,4,0
+Marion,H104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Marion,H104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Marion,H104,Governor,,REP,Total Votes Cast,25,2,21,2
+Marion,H104,Governor,,REP,Under Votes,0,0,0,0
+Marion,H104,Governor,,REP,Over Votes,0,0,0,0
+Marion,H104,Secretary of State,,REP,Michael ADAMS,20,2,17,1
+Marion,H104,Secretary of State,,REP,Stephen L. KNIPPER,4,0,3,1
+Marion,H104,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Marion,H104,Secretary of State,,REP,Total Votes Cast,24,2,20,2
+Marion,H104,Secretary of State,,REP,Under Votes,1,0,1,0
+Marion,H104,Secretary of State,,REP,Over Votes,0,0,0,0
+Marion,H104,Auditor of Public Accounts,,REP,Allison BALL,21,2,17,2
+Marion,H104,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Marion,H104,Auditor of Public Accounts,,REP,Total Votes Cast,25,2,21,2
+Marion,H104,Auditor of Public Accounts,,REP,Under Votes,0,0,0,0
+Marion,H104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Marion,H104,State Treasurer,,REP,Andrew COOPERRIDER,4,1,3,0
+Marion,H104,State Treasurer,,REP,Mark H. METCALF,15,0,13,2
+Marion,H104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Marion,H104,State Treasurer,,REP,Total Votes Cast,23,2,19,2
+Marion,H104,State Treasurer,,REP,Under Votes,2,0,2,0
+Marion,H104,State Treasurer,,REP,Over Votes,0,0,0,0
+Marion,H104,Commissioner of Agriculture,,REP,Richard HEATH,9,1,7,1
+Marion,H104,Commissioner of Agriculture,,REP,Jonathan SHELL,11,1,10,0
+Marion,H104,Commissioner of Agriculture,,REP,Total Votes Cast,20,2,17,1
+Marion,H104,Commissioner of Agriculture,,REP,Under Votes,5,0,4,1
+Marion,H104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Marion,H104,Governor,,DEM,Andy BESHEAR,30,1,29,0
+Marion,H104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Marion,H104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Marion,H104,Governor,,DEM,Total Votes Cast,36,1,35,0
+Marion,H104,Governor,,DEM,Under Votes,1,1,0,0
+Marion,H104,Governor,,DEM,Over Votes,0,0,0,0
+Marion,H104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,1,10,0
+Marion,H104,Commissioner of Agriculture,,DEM,Mikael MALONE,17,1,16,0
+Marion,H104,Commissioner of Agriculture,,DEM,Total Votes Cast,28,2,26,0
+Marion,H104,Commissioner of Agriculture,,DEM,Under Votes,9,0,9,0
+Marion,H104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
