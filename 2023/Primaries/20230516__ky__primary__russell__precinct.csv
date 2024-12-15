@@ -1,0 +1,769 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Russell,A101,Governor,,REP,Daniel CAMERON,78,18,55,5
+Russell,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,A101,Governor,,REP,David O. COOPER,2,0,2,0
+Russell,A101,Governor,,REP,Kelly CRAFT,60,20,35,5
+Russell,A101,Governor,,REP,Eric DETERS,10,1,9,0
+Russell,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Russell,A101,Governor,,REP,Alan KECK,7,1,6,0
+Russell,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,A101,Governor,,REP,Ryan QUARLES,23,6,16,1
+Russell,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,A101,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Russell,A101,Governor,,REP,Total Votes Cast,183,46,126,11
+Russell,A101,Governor,,REP,Under Votes,0,0,0,0
+Russell,A101,Governor,,REP,Over Votes,0,0,0,0
+Russell,A101,Secretary of State,,REP,Michael ADAMS,107,27,73,7
+Russell,A101,Secretary of State,,REP,Stephen L. KNIPPER,38,9,26,3
+Russell,A101,Secretary of State,,REP,Allen MARICLE,7,1,5,1
+Russell,A101,Secretary of State,,REP,Total Votes Cast,152,37,104,11
+Russell,A101,Secretary of State,,REP,Under Votes,31,9,22,0
+Russell,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,A101,Auditor of Public Accounts,,REP,Allison BALL,117,29,82,6
+Russell,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,34,6,24,4
+Russell,A101,Auditor of Public Accounts,,REP,Total Votes Cast,151,35,106,10
+Russell,A101,Auditor of Public Accounts,,REP,Under Votes,32,11,20,1
+Russell,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,A101,State Treasurer,,REP,Andrew COOPERRIDER,45,6,37,2
+Russell,A101,State Treasurer,,REP,Mark H. METCALF,79,20,53,6
+Russell,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",29,9,18,2
+Russell,A101,State Treasurer,,REP,Total Votes Cast,153,35,108,10
+Russell,A101,State Treasurer,,REP,Under Votes,30,11,18,1
+Russell,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,A101,Commissioner of Agriculture,,REP,Richard HEATH,75,17,51,7
+Russell,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,76,20,53,3
+Russell,A101,Commissioner of Agriculture,,REP,Total Votes Cast,151,37,104,10
+Russell,A101,Commissioner of Agriculture,,REP,Under Votes,32,9,22,1
+Russell,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,A101,Governor,,DEM,Andy BESHEAR,17,4,13,0
+Russell,A101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,A101,Governor,,DEM,Total Votes Cast,18,4,14,0
+Russell,A101,Governor,,DEM,Under Votes,1,0,1,0
+Russell,A101,Governor,,DEM,Over Votes,0,0,0,0
+Russell,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,4,7,0
+Russell,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,0,6,0
+Russell,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,17,4,13,0
+Russell,A101,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Russell,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,A102,Governor,,REP,Daniel CAMERON,72,25,46,1
+Russell,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,A102,Governor,,REP,David O. COOPER,1,1,0,0
+Russell,A102,Governor,,REP,Kelly CRAFT,36,18,16,2
+Russell,A102,Governor,,REP,Eric DETERS,3,1,2,0
+Russell,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,A102,Governor,,REP,Mike HARMON,3,0,3,0
+Russell,A102,Governor,,REP,Alan KECK,3,0,3,0
+Russell,A102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Russell,A102,Governor,,REP,Ryan QUARLES,28,9,19,0
+Russell,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,A102,Governor,,REP,Robbie C. SMITH,4,0,4,0
+Russell,A102,Governor,,REP,Total Votes Cast,151,54,94,3
+Russell,A102,Governor,,REP,Under Votes,0,0,0,0
+Russell,A102,Governor,,REP,Over Votes,0,0,0,0
+Russell,A102,Secretary of State,,REP,Michael ADAMS,97,31,64,2
+Russell,A102,Secretary of State,,REP,Stephen L. KNIPPER,27,11,15,1
+Russell,A102,Secretary of State,,REP,Allen MARICLE,8,6,2,0
+Russell,A102,Secretary of State,,REP,Total Votes Cast,132,48,81,3
+Russell,A102,Secretary of State,,REP,Under Votes,19,6,13,0
+Russell,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,A102,Auditor of Public Accounts,,REP,Allison BALL,102,35,64,3
+Russell,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,25,11,14,0
+Russell,A102,Auditor of Public Accounts,,REP,Total Votes Cast,127,46,78,3
+Russell,A102,Auditor of Public Accounts,,REP,Under Votes,22,8,14,0
+Russell,A102,Auditor of Public Accounts,,REP,Over Votes,2,0,2,0
+Russell,A102,State Treasurer,,REP,Andrew COOPERRIDER,42,18,22,2
+Russell,A102,State Treasurer,,REP,Mark H. METCALF,54,18,35,1
+Russell,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",37,11,26,0
+Russell,A102,State Treasurer,,REP,Total Votes Cast,133,47,83,3
+Russell,A102,State Treasurer,,REP,Under Votes,18,7,11,0
+Russell,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,A102,Commissioner of Agriculture,,REP,Richard HEATH,59,19,38,2
+Russell,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,70,27,42,1
+Russell,A102,Commissioner of Agriculture,,REP,Total Votes Cast,129,46,80,3
+Russell,A102,Commissioner of Agriculture,,REP,Under Votes,22,8,14,0
+Russell,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,A102,Governor,,DEM,Andy BESHEAR,16,5,7,4
+Russell,A102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Russell,A102,Governor,,DEM,Total Votes Cast,19,6,9,4
+Russell,A102,Governor,,DEM,Under Votes,0,0,0,0
+Russell,A102,Governor,,DEM,Over Votes,0,0,0,0
+Russell,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,2,4,1
+Russell,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,9,3,4,2
+Russell,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,16,5,8,3
+Russell,A102,Commissioner of Agriculture,,DEM,Under Votes,3,1,1,1
+Russell,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,A103,Governor,,REP,Daniel CAMERON,87,22,63,2
+Russell,A103,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,A103,Governor,,REP,David O. COOPER,1,1,0,0
+Russell,A103,Governor,,REP,Kelly CRAFT,66,27,37,2
+Russell,A103,Governor,,REP,Eric DETERS,6,1,5,0
+Russell,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,A103,Governor,,REP,Mike HARMON,6,2,4,0
+Russell,A103,Governor,,REP,Alan KECK,3,1,1,1
+Russell,A103,Governor,,REP,Dennis Ray ORMEROD,2,2,0,0
+Russell,A103,Governor,,REP,Ryan QUARLES,41,12,29,0
+Russell,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,A103,Governor,,REP,Robbie C. SMITH,2,1,1,0
+Russell,A103,Governor,,REP,Total Votes Cast,214,69,140,5
+Russell,A103,Governor,,REP,Under Votes,2,0,2,0
+Russell,A103,Governor,,REP,Over Votes,1,0,1,0
+Russell,A103,Secretary of State,,REP,Michael ADAMS,143,45,93,5
+Russell,A103,Secretary of State,,REP,Stephen L. KNIPPER,29,9,20,0
+Russell,A103,Secretary of State,,REP,Allen MARICLE,19,5,14,0
+Russell,A103,Secretary of State,,REP,Total Votes Cast,191,59,127,5
+Russell,A103,Secretary of State,,REP,Under Votes,26,10,16,0
+Russell,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,A103,Auditor of Public Accounts,,REP,Allison BALL,135,44,86,5
+Russell,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,55,17,38,0
+Russell,A103,Auditor of Public Accounts,,REP,Total Votes Cast,190,61,124,5
+Russell,A103,Auditor of Public Accounts,,REP,Under Votes,27,8,19,0
+Russell,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,A103,State Treasurer,,REP,Andrew COOPERRIDER,58,20,36,2
+Russell,A103,State Treasurer,,REP,Mark H. METCALF,97,29,67,1
+Russell,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",33,10,21,2
+Russell,A103,State Treasurer,,REP,Total Votes Cast,188,59,124,5
+Russell,A103,State Treasurer,,REP,Under Votes,29,10,19,0
+Russell,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,A103,Commissioner of Agriculture,,REP,Richard HEATH,77,25,50,2
+Russell,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,111,32,76,3
+Russell,A103,Commissioner of Agriculture,,REP,Total Votes Cast,188,57,126,5
+Russell,A103,Commissioner of Agriculture,,REP,Under Votes,28,12,16,0
+Russell,A103,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Russell,A103,Governor,,DEM,Andy BESHEAR,15,7,8,0
+Russell,A103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,A103,Governor,,DEM,Total Votes Cast,17,7,10,0
+Russell,A103,Governor,,DEM,Under Votes,0,0,0,0
+Russell,A103,Governor,,DEM,Over Votes,0,0,0,0
+Russell,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,4,6,0
+Russell,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,6,3,3,0
+Russell,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,16,7,9,0
+Russell,A103,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Russell,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,B101,Governor,,REP,Daniel CAMERON,52,18,31,3
+Russell,B101,Governor,,REP,Jacob CLARK,3,1,2,0
+Russell,B101,Governor,,REP,David O. COOPER,0,0,0,0
+Russell,B101,Governor,,REP,Kelly CRAFT,49,24,21,4
+Russell,B101,Governor,,REP,Eric DETERS,4,2,2,0
+Russell,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,B101,Governor,,REP,Mike HARMON,4,1,3,0
+Russell,B101,Governor,,REP,Alan KECK,3,0,3,0
+Russell,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,B101,Governor,,REP,Ryan QUARLES,36,17,15,4
+Russell,B101,Governor,,REP,Johnny Ray RICE,1,1,0,0
+Russell,B101,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Russell,B101,Governor,,REP,Total Votes Cast,154,64,79,11
+Russell,B101,Governor,,REP,Under Votes,0,0,0,0
+Russell,B101,Governor,,REP,Over Votes,0,0,0,0
+Russell,B101,Secretary of State,,REP,Michael ADAMS,91,35,47,9
+Russell,B101,Secretary of State,,REP,Stephen L. KNIPPER,28,12,16,0
+Russell,B101,Secretary of State,,REP,Allen MARICLE,9,4,5,0
+Russell,B101,Secretary of State,,REP,Total Votes Cast,128,51,68,9
+Russell,B101,Secretary of State,,REP,Under Votes,26,13,11,2
+Russell,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,B101,Auditor of Public Accounts,,REP,Allison BALL,94,36,50,8
+Russell,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,32,15,17,0
+Russell,B101,Auditor of Public Accounts,,REP,Total Votes Cast,126,51,67,8
+Russell,B101,Auditor of Public Accounts,,REP,Under Votes,28,13,12,3
+Russell,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,B101,State Treasurer,,REP,Andrew COOPERRIDER,55,19,34,2
+Russell,B101,State Treasurer,,REP,Mark H. METCALF,59,25,28,6
+Russell,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,8,5,0
+Russell,B101,State Treasurer,,REP,Total Votes Cast,127,52,67,8
+Russell,B101,State Treasurer,,REP,Under Votes,27,12,12,3
+Russell,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,B101,Commissioner of Agriculture,,REP,Richard HEATH,64,23,36,5
+Russell,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,65,27,33,5
+Russell,B101,Commissioner of Agriculture,,REP,Total Votes Cast,129,50,69,10
+Russell,B101,Commissioner of Agriculture,,REP,Under Votes,24,14,9,1
+Russell,B101,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Russell,B101,Governor,,DEM,Andy BESHEAR,15,2,10,3
+Russell,B101,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Russell,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Russell,B101,Governor,,DEM,Total Votes Cast,18,4,11,3
+Russell,B101,Governor,,DEM,Under Votes,0,0,0,0
+Russell,B101,Governor,,DEM,Over Votes,0,0,0,0
+Russell,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,3,8,1
+Russell,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,5,1,2,2
+Russell,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,17,4,10,3
+Russell,B101,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Russell,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,B102,Governor,,REP,Daniel CAMERON,47,12,30,5
+Russell,B102,Governor,,REP,Jacob CLARK,5,1,4,0
+Russell,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Russell,B102,Governor,,REP,Kelly CRAFT,40,14,22,4
+Russell,B102,Governor,,REP,Eric DETERS,7,6,1,0
+Russell,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,B102,Governor,,REP,Mike HARMON,7,4,3,0
+Russell,B102,Governor,,REP,Alan KECK,5,1,4,0
+Russell,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,B102,Governor,,REP,Ryan QUARLES,26,11,12,3
+Russell,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Russell,B102,Governor,,REP,Total Votes Cast,137,49,76,12
+Russell,B102,Governor,,REP,Under Votes,0,0,0,0
+Russell,B102,Governor,,REP,Over Votes,0,0,0,0
+Russell,B102,Secretary of State,,REP,Michael ADAMS,85,31,44,10
+Russell,B102,Secretary of State,,REP,Stephen L. KNIPPER,28,11,17,0
+Russell,B102,Secretary of State,,REP,Allen MARICLE,10,3,6,1
+Russell,B102,Secretary of State,,REP,Total Votes Cast,123,45,67,11
+Russell,B102,Secretary of State,,REP,Under Votes,14,4,9,1
+Russell,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,B102,Auditor of Public Accounts,,REP,Allison BALL,96,34,51,11
+Russell,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,27,11,16,0
+Russell,B102,Auditor of Public Accounts,,REP,Total Votes Cast,123,45,67,11
+Russell,B102,Auditor of Public Accounts,,REP,Under Votes,14,4,9,1
+Russell,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,B102,State Treasurer,,REP,Andrew COOPERRIDER,44,15,24,5
+Russell,B102,State Treasurer,,REP,Mark H. METCALF,59,17,36,6
+Russell,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",18,11,6,1
+Russell,B102,State Treasurer,,REP,Total Votes Cast,121,43,66,12
+Russell,B102,State Treasurer,,REP,Under Votes,16,6,10,0
+Russell,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,B102,Commissioner of Agriculture,,REP,Richard HEATH,57,21,31,5
+Russell,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,58,22,29,7
+Russell,B102,Commissioner of Agriculture,,REP,Total Votes Cast,115,43,60,12
+Russell,B102,Commissioner of Agriculture,,REP,Under Votes,22,6,16,0
+Russell,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,B102,Governor,,DEM,Andy BESHEAR,12,6,4,2
+Russell,B102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Russell,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,B102,Governor,,DEM,Total Votes Cast,15,6,7,2
+Russell,B102,Governor,,DEM,Under Votes,0,0,0,0
+Russell,B102,Governor,,DEM,Over Votes,0,0,0,0
+Russell,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,1,0,1
+Russell,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,12,4,7,1
+Russell,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,14,5,7,2
+Russell,B102,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Russell,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,B103,Governor,,REP,Daniel CAMERON,107,25,80,2
+Russell,B103,Governor,,REP,Jacob CLARK,2,0,2,0
+Russell,B103,Governor,,REP,David O. COOPER,1,0,1,0
+Russell,B103,Governor,,REP,Kelly CRAFT,94,24,65,5
+Russell,B103,Governor,,REP,Eric DETERS,14,1,9,4
+Russell,B103,Governor,,REP,Bob DeVORE,2,0,2,0
+Russell,B103,Governor,,REP,Mike HARMON,8,1,6,1
+Russell,B103,Governor,,REP,Alan KECK,6,4,2,0
+Russell,B103,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Russell,B103,Governor,,REP,Ryan QUARLES,76,33,41,2
+Russell,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Russell,B103,Governor,,REP,Total Votes Cast,311,89,208,14
+Russell,B103,Governor,,REP,Under Votes,1,0,1,0
+Russell,B103,Governor,,REP,Over Votes,0,0,0,0
+Russell,B103,Secretary of State,,REP,Michael ADAMS,217,62,144,11
+Russell,B103,Secretary of State,,REP,Stephen L. KNIPPER,47,14,32,1
+Russell,B103,Secretary of State,,REP,Allen MARICLE,13,3,9,1
+Russell,B103,Secretary of State,,REP,Total Votes Cast,277,79,185,13
+Russell,B103,Secretary of State,,REP,Under Votes,35,10,24,1
+Russell,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,B103,Auditor of Public Accounts,,REP,Allison BALL,207,50,145,12
+Russell,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,69,29,39,1
+Russell,B103,Auditor of Public Accounts,,REP,Total Votes Cast,276,79,184,13
+Russell,B103,Auditor of Public Accounts,,REP,Under Votes,36,10,25,1
+Russell,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,B103,State Treasurer,,REP,Andrew COOPERRIDER,103,29,71,3
+Russell,B103,State Treasurer,,REP,Mark H. METCALF,131,35,86,10
+Russell,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",46,17,29,0
+Russell,B103,State Treasurer,,REP,Total Votes Cast,280,81,186,13
+Russell,B103,State Treasurer,,REP,Under Votes,32,8,23,1
+Russell,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,B103,Commissioner of Agriculture,,REP,Richard HEATH,106,37,63,6
+Russell,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,170,43,120,7
+Russell,B103,Commissioner of Agriculture,,REP,Total Votes Cast,276,80,183,13
+Russell,B103,Commissioner of Agriculture,,REP,Under Votes,36,9,26,1
+Russell,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,B103,Governor,,DEM,Andy BESHEAR,28,8,17,3
+Russell,B103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Russell,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,B103,Governor,,DEM,Total Votes Cast,28,8,17,3
+Russell,B103,Governor,,DEM,Under Votes,1,0,1,0
+Russell,B103,Governor,,DEM,Over Votes,0,0,0,0
+Russell,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,3,8,0
+Russell,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,15,3,9,3
+Russell,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,26,6,17,3
+Russell,B103,Commissioner of Agriculture,,DEM,Under Votes,3,2,1,0
+Russell,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,C101,Governor,,REP,Daniel CAMERON,97,16,75,6
+Russell,C101,Governor,,REP,Jacob CLARK,2,0,2,0
+Russell,C101,Governor,,REP,David O. COOPER,1,0,1,0
+Russell,C101,Governor,,REP,Kelly CRAFT,62,15,47,0
+Russell,C101,Governor,,REP,Eric DETERS,8,2,6,0
+Russell,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,C101,Governor,,REP,Mike HARMON,6,2,4,0
+Russell,C101,Governor,,REP,Alan KECK,8,1,7,0
+Russell,C101,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Russell,C101,Governor,,REP,Ryan QUARLES,59,13,45,1
+Russell,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,C101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Russell,C101,Governor,,REP,Total Votes Cast,245,50,188,7
+Russell,C101,Governor,,REP,Under Votes,2,0,2,0
+Russell,C101,Governor,,REP,Over Votes,0,0,0,0
+Russell,C101,Secretary of State,,REP,Michael ADAMS,174,37,132,5
+Russell,C101,Secretary of State,,REP,Stephen L. KNIPPER,38,7,30,1
+Russell,C101,Secretary of State,,REP,Allen MARICLE,9,3,5,1
+Russell,C101,Secretary of State,,REP,Total Votes Cast,221,47,167,7
+Russell,C101,Secretary of State,,REP,Under Votes,26,3,23,0
+Russell,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,C101,Auditor of Public Accounts,,REP,Allison BALL,175,36,132,7
+Russell,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,49,10,39,0
+Russell,C101,Auditor of Public Accounts,,REP,Total Votes Cast,224,46,171,7
+Russell,C101,Auditor of Public Accounts,,REP,Under Votes,23,4,19,0
+Russell,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,C101,State Treasurer,,REP,Andrew COOPERRIDER,92,14,77,1
+Russell,C101,State Treasurer,,REP,Mark H. METCALF,103,27,72,4
+Russell,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",26,5,19,2
+Russell,C101,State Treasurer,,REP,Total Votes Cast,221,46,168,7
+Russell,C101,State Treasurer,,REP,Under Votes,26,4,22,0
+Russell,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,C101,Commissioner of Agriculture,,REP,Richard HEATH,91,20,67,4
+Russell,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,123,24,96,3
+Russell,C101,Commissioner of Agriculture,,REP,Total Votes Cast,214,44,163,7
+Russell,C101,Commissioner of Agriculture,,REP,Under Votes,33,6,27,0
+Russell,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,C101,Governor,,DEM,Andy BESHEAR,11,3,8,0
+Russell,C101,Governor,,DEM,Peppy MARTIN,2,2,0,0
+Russell,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,C101,Governor,,DEM,Total Votes Cast,14,5,9,0
+Russell,C101,Governor,,DEM,Under Votes,0,0,0,0
+Russell,C101,Governor,,DEM,Over Votes,0,0,0,0
+Russell,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,2,4,0
+Russell,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,3,3,0
+Russell,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,12,5,7,0
+Russell,C101,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Russell,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,C102,Governor,,REP,Daniel CAMERON,49,11,34,4
+Russell,C102,Governor,,REP,Jacob CLARK,1,0,1,0
+Russell,C102,Governor,,REP,David O. COOPER,1,1,0,0
+Russell,C102,Governor,,REP,Kelly CRAFT,36,9,24,3
+Russell,C102,Governor,,REP,Eric DETERS,4,0,4,0
+Russell,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,C102,Governor,,REP,Mike HARMON,2,0,2,0
+Russell,C102,Governor,,REP,Alan KECK,1,0,0,1
+Russell,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,C102,Governor,,REP,Ryan QUARLES,33,7,24,2
+Russell,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Russell,C102,Governor,,REP,Total Votes Cast,127,28,89,10
+Russell,C102,Governor,,REP,Under Votes,0,0,0,0
+Russell,C102,Governor,,REP,Over Votes,0,0,0,0
+Russell,C102,Secretary of State,,REP,Michael ADAMS,80,18,58,4
+Russell,C102,Secretary of State,,REP,Stephen L. KNIPPER,26,2,21,3
+Russell,C102,Secretary of State,,REP,Allen MARICLE,9,6,3,0
+Russell,C102,Secretary of State,,REP,Total Votes Cast,115,26,82,7
+Russell,C102,Secretary of State,,REP,Under Votes,12,2,7,3
+Russell,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,C102,Auditor of Public Accounts,,REP,Allison BALL,77,16,59,2
+Russell,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,34,10,19,5
+Russell,C102,Auditor of Public Accounts,,REP,Total Votes Cast,111,26,78,7
+Russell,C102,Auditor of Public Accounts,,REP,Under Votes,16,2,11,3
+Russell,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,C102,State Treasurer,,REP,Andrew COOPERRIDER,46,10,30,6
+Russell,C102,State Treasurer,,REP,Mark H. METCALF,55,13,41,1
+Russell,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,3,7,1
+Russell,C102,State Treasurer,,REP,Total Votes Cast,112,26,78,8
+Russell,C102,State Treasurer,,REP,Under Votes,15,2,11,2
+Russell,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,C102,Commissioner of Agriculture,,REP,Richard HEATH,47,12,34,1
+Russell,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,61,13,42,6
+Russell,C102,Commissioner of Agriculture,,REP,Total Votes Cast,108,25,76,7
+Russell,C102,Commissioner of Agriculture,,REP,Under Votes,19,3,13,3
+Russell,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,C102,Governor,,DEM,Andy BESHEAR,12,0,8,4
+Russell,C102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,C102,Governor,,DEM,Total Votes Cast,14,0,10,4
+Russell,C102,Governor,,DEM,Under Votes,0,0,0,0
+Russell,C102,Governor,,DEM,Over Votes,0,0,0,0
+Russell,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,0,7,4
+Russell,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Russell,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,14,0,10,4
+Russell,C102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Russell,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,C103,Governor,,REP,Daniel CAMERON,61,10,50,1
+Russell,C103,Governor,,REP,Jacob CLARK,2,1,1,0
+Russell,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Russell,C103,Governor,,REP,Kelly CRAFT,47,5,42,0
+Russell,C103,Governor,,REP,Eric DETERS,4,2,2,0
+Russell,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,C103,Governor,,REP,Mike HARMON,7,0,7,0
+Russell,C103,Governor,,REP,Alan KECK,7,1,6,0
+Russell,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,C103,Governor,,REP,Ryan QUARLES,65,10,52,3
+Russell,C103,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Russell,C103,Governor,,REP,Robbie C. SMITH,2,1,1,0
+Russell,C103,Governor,,REP,Total Votes Cast,196,30,162,4
+Russell,C103,Governor,,REP,Under Votes,1,0,1,0
+Russell,C103,Governor,,REP,Over Votes,0,0,0,0
+Russell,C103,Secretary of State,,REP,Michael ADAMS,139,23,113,3
+Russell,C103,Secretary of State,,REP,Stephen L. KNIPPER,23,1,22,0
+Russell,C103,Secretary of State,,REP,Allen MARICLE,7,1,6,0
+Russell,C103,Secretary of State,,REP,Total Votes Cast,169,25,141,3
+Russell,C103,Secretary of State,,REP,Under Votes,28,5,22,1
+Russell,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,C103,Auditor of Public Accounts,,REP,Allison BALL,137,23,112,2
+Russell,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,33,3,29,1
+Russell,C103,Auditor of Public Accounts,,REP,Total Votes Cast,170,26,141,3
+Russell,C103,Auditor of Public Accounts,,REP,Under Votes,27,4,22,1
+Russell,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,C103,State Treasurer,,REP,Andrew COOPERRIDER,73,11,61,1
+Russell,C103,State Treasurer,,REP,Mark H. METCALF,62,8,53,1
+Russell,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",33,7,25,1
+Russell,C103,State Treasurer,,REP,Total Votes Cast,168,26,139,3
+Russell,C103,State Treasurer,,REP,Under Votes,29,4,24,1
+Russell,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,C103,Commissioner of Agriculture,,REP,Richard HEATH,67,11,55,1
+Russell,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,108,12,93,3
+Russell,C103,Commissioner of Agriculture,,REP,Total Votes Cast,175,23,148,4
+Russell,C103,Commissioner of Agriculture,,REP,Under Votes,22,7,15,0
+Russell,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,C103,Governor,,DEM,Andy BESHEAR,16,2,13,1
+Russell,C103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Russell,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,C103,Governor,,DEM,Total Votes Cast,16,2,13,1
+Russell,C103,Governor,,DEM,Under Votes,2,0,2,0
+Russell,C103,Governor,,DEM,Over Votes,0,0,0,0
+Russell,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,1,11,1
+Russell,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,4,1,3,0
+Russell,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,17,2,14,1
+Russell,C103,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Russell,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,C104,Governor,,REP,Daniel CAMERON,28,7,21,0
+Russell,C104,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,C104,Governor,,REP,David O. COOPER,0,0,0,0
+Russell,C104,Governor,,REP,Kelly CRAFT,11,4,6,1
+Russell,C104,Governor,,REP,Eric DETERS,0,0,0,0
+Russell,C104,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,C104,Governor,,REP,Mike HARMON,0,0,0,0
+Russell,C104,Governor,,REP,Alan KECK,3,0,3,0
+Russell,C104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,C104,Governor,,REP,Ryan QUARLES,18,4,14,0
+Russell,C104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,C104,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Russell,C104,Governor,,REP,Total Votes Cast,61,15,45,1
+Russell,C104,Governor,,REP,Under Votes,0,0,0,0
+Russell,C104,Governor,,REP,Over Votes,0,0,0,0
+Russell,C104,Secretary of State,,REP,Michael ADAMS,39,11,28,0
+Russell,C104,Secretary of State,,REP,Stephen L. KNIPPER,10,3,6,1
+Russell,C104,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Russell,C104,Secretary of State,,REP,Total Votes Cast,49,14,34,1
+Russell,C104,Secretary of State,,REP,Under Votes,12,1,11,0
+Russell,C104,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,C104,Auditor of Public Accounts,,REP,Allison BALL,33,6,26,1
+Russell,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,16,7,9,0
+Russell,C104,Auditor of Public Accounts,,REP,Total Votes Cast,49,13,35,1
+Russell,C104,Auditor of Public Accounts,,REP,Under Votes,12,2,10,0
+Russell,C104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,C104,State Treasurer,,REP,Andrew COOPERRIDER,12,1,10,1
+Russell,C104,State Treasurer,,REP,Mark H. METCALF,30,8,22,0
+Russell,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,5,4,0
+Russell,C104,State Treasurer,,REP,Total Votes Cast,51,14,36,1
+Russell,C104,State Treasurer,,REP,Under Votes,10,1,9,0
+Russell,C104,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,C104,Commissioner of Agriculture,,REP,Richard HEATH,19,6,12,1
+Russell,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,29,8,21,0
+Russell,C104,Commissioner of Agriculture,,REP,Total Votes Cast,48,14,33,1
+Russell,C104,Commissioner of Agriculture,,REP,Under Votes,13,1,12,0
+Russell,C104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,C104,Governor,,DEM,Andy BESHEAR,3,3,0,0
+Russell,C104,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,C104,Governor,,DEM,Total Votes Cast,4,3,1,0
+Russell,C104,Governor,,DEM,Under Votes,0,0,0,0
+Russell,C104,Governor,,DEM,Over Votes,0,0,0,0
+Russell,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,1,0,0
+Russell,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,3,2,1,0
+Russell,C104,Commissioner of Agriculture,,DEM,Total Votes Cast,4,3,1,0
+Russell,C104,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Russell,C104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,D101,Governor,,REP,Daniel CAMERON,89,22,67,0
+Russell,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,D101,Governor,,REP,David O. COOPER,2,1,1,0
+Russell,D101,Governor,,REP,Kelly CRAFT,36,9,25,2
+Russell,D101,Governor,,REP,Eric DETERS,1,1,0,0
+Russell,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,D101,Governor,,REP,Mike HARMON,10,3,6,1
+Russell,D101,Governor,,REP,Alan KECK,7,2,5,0
+Russell,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,D101,Governor,,REP,Ryan QUARLES,67,19,46,2
+Russell,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Russell,D101,Governor,,REP,Total Votes Cast,212,57,150,5
+Russell,D101,Governor,,REP,Under Votes,0,0,0,0
+Russell,D101,Governor,,REP,Over Votes,0,0,0,0
+Russell,D101,Secretary of State,,REP,Michael ADAMS,146,43,98,5
+Russell,D101,Secretary of State,,REP,Stephen L. KNIPPER,33,5,28,0
+Russell,D101,Secretary of State,,REP,Allen MARICLE,14,5,9,0
+Russell,D101,Secretary of State,,REP,Total Votes Cast,193,53,135,5
+Russell,D101,Secretary of State,,REP,Under Votes,19,4,15,0
+Russell,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,D101,Auditor of Public Accounts,,REP,Allison BALL,137,39,95,3
+Russell,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,47,12,33,2
+Russell,D101,Auditor of Public Accounts,,REP,Total Votes Cast,184,51,128,5
+Russell,D101,Auditor of Public Accounts,,REP,Under Votes,28,6,22,0
+Russell,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,D101,State Treasurer,,REP,Andrew COOPERRIDER,84,20,60,4
+Russell,D101,State Treasurer,,REP,Mark H. METCALF,86,26,59,1
+Russell,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,8,13,0
+Russell,D101,State Treasurer,,REP,Total Votes Cast,191,54,132,5
+Russell,D101,State Treasurer,,REP,Under Votes,21,3,18,0
+Russell,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,D101,Commissioner of Agriculture,,REP,Richard HEATH,92,22,67,3
+Russell,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,102,31,69,2
+Russell,D101,Commissioner of Agriculture,,REP,Total Votes Cast,194,53,136,5
+Russell,D101,Commissioner of Agriculture,,REP,Under Votes,18,4,14,0
+Russell,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,D101,Governor,,DEM,Andy BESHEAR,10,3,7,0
+Russell,D101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,D101,Governor,,DEM,Total Votes Cast,12,3,9,0
+Russell,D101,Governor,,DEM,Under Votes,0,0,0,0
+Russell,D101,Governor,,DEM,Over Votes,0,0,0,0
+Russell,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,2,2,0
+Russell,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,1,5,0
+Russell,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,10,3,7,0
+Russell,D101,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Russell,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,D102,Governor,,REP,Daniel CAMERON,85,12,72,1
+Russell,D102,Governor,,REP,Jacob CLARK,2,0,2,0
+Russell,D102,Governor,,REP,David O. COOPER,2,1,1,0
+Russell,D102,Governor,,REP,Kelly CRAFT,56,21,34,1
+Russell,D102,Governor,,REP,Eric DETERS,5,1,4,0
+Russell,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,D102,Governor,,REP,Mike HARMON,25,4,21,0
+Russell,D102,Governor,,REP,Alan KECK,1,0,1,0
+Russell,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,D102,Governor,,REP,Ryan QUARLES,40,11,27,2
+Russell,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,D102,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Russell,D102,Governor,,REP,Total Votes Cast,218,50,164,4
+Russell,D102,Governor,,REP,Under Votes,0,0,0,0
+Russell,D102,Governor,,REP,Over Votes,0,0,0,0
+Russell,D102,Secretary of State,,REP,Michael ADAMS,144,35,105,4
+Russell,D102,Secretary of State,,REP,Stephen L. KNIPPER,33,4,29,0
+Russell,D102,Secretary of State,,REP,Allen MARICLE,10,1,9,0
+Russell,D102,Secretary of State,,REP,Total Votes Cast,187,40,143,4
+Russell,D102,Secretary of State,,REP,Under Votes,31,10,21,0
+Russell,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,D102,Auditor of Public Accounts,,REP,Allison BALL,133,27,103,3
+Russell,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,48,11,36,1
+Russell,D102,Auditor of Public Accounts,,REP,Total Votes Cast,181,38,139,4
+Russell,D102,Auditor of Public Accounts,,REP,Under Votes,37,12,25,0
+Russell,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,D102,State Treasurer,,REP,Andrew COOPERRIDER,79,19,60,0
+Russell,D102,State Treasurer,,REP,Mark H. METCALF,80,18,58,4
+Russell,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",20,4,16,0
+Russell,D102,State Treasurer,,REP,Total Votes Cast,179,41,134,4
+Russell,D102,State Treasurer,,REP,Under Votes,39,9,30,0
+Russell,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,D102,Commissioner of Agriculture,,REP,Richard HEATH,82,26,56,0
+Russell,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,109,16,89,4
+Russell,D102,Commissioner of Agriculture,,REP,Total Votes Cast,191,42,145,4
+Russell,D102,Commissioner of Agriculture,,REP,Under Votes,27,8,19,0
+Russell,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,D102,Governor,,DEM,Andy BESHEAR,14,3,10,1
+Russell,D102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,D102,Governor,,DEM,Total Votes Cast,15,3,11,1
+Russell,D102,Governor,,DEM,Under Votes,0,0,0,0
+Russell,D102,Governor,,DEM,Over Votes,0,0,0,0
+Russell,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,3,0
+Russell,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,8,2,5,1
+Russell,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,12,3,8,1
+Russell,D102,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Russell,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,D103,Governor,,REP,Daniel CAMERON,55,10,45,0
+Russell,D103,Governor,,REP,Jacob CLARK,1,1,0,0
+Russell,D103,Governor,,REP,David O. COOPER,4,0,4,0
+Russell,D103,Governor,,REP,Kelly CRAFT,57,15,42,0
+Russell,D103,Governor,,REP,Eric DETERS,2,0,2,0
+Russell,D103,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,D103,Governor,,REP,Mike HARMON,7,2,5,0
+Russell,D103,Governor,,REP,Alan KECK,2,0,2,0
+Russell,D103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,D103,Governor,,REP,Ryan QUARLES,33,11,21,1
+Russell,D103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,D103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Russell,D103,Governor,,REP,Total Votes Cast,161,39,121,1
+Russell,D103,Governor,,REP,Under Votes,1,0,1,0
+Russell,D103,Governor,,REP,Over Votes,0,0,0,0
+Russell,D103,Secretary of State,,REP,Michael ADAMS,107,26,80,1
+Russell,D103,Secretary of State,,REP,Stephen L. KNIPPER,26,4,22,0
+Russell,D103,Secretary of State,,REP,Allen MARICLE,9,3,6,0
+Russell,D103,Secretary of State,,REP,Total Votes Cast,142,33,108,1
+Russell,D103,Secretary of State,,REP,Under Votes,20,6,14,0
+Russell,D103,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,D103,Auditor of Public Accounts,,REP,Allison BALL,107,26,80,1
+Russell,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,32,5,27,0
+Russell,D103,Auditor of Public Accounts,,REP,Total Votes Cast,139,31,107,1
+Russell,D103,Auditor of Public Accounts,,REP,Under Votes,23,8,15,0
+Russell,D103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,D103,State Treasurer,,REP,Andrew COOPERRIDER,49,8,41,0
+Russell,D103,State Treasurer,,REP,Mark H. METCALF,66,17,48,1
+Russell,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",22,6,16,0
+Russell,D103,State Treasurer,,REP,Total Votes Cast,137,31,105,1
+Russell,D103,State Treasurer,,REP,Under Votes,25,8,17,0
+Russell,D103,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,D103,Commissioner of Agriculture,,REP,Richard HEATH,61,13,48,0
+Russell,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,69,18,50,1
+Russell,D103,Commissioner of Agriculture,,REP,Total Votes Cast,130,31,98,1
+Russell,D103,Commissioner of Agriculture,,REP,Under Votes,32,8,24,0
+Russell,D103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,D103,Governor,,DEM,Andy BESHEAR,13,8,5,0
+Russell,D103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Russell,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,D103,Governor,,DEM,Total Votes Cast,13,8,5,0
+Russell,D103,Governor,,DEM,Under Votes,0,0,0,0
+Russell,D103,Governor,,DEM,Over Votes,0,0,0,0
+Russell,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,3,3,0
+Russell,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,6,5,1,0
+Russell,D103,Commissioner of Agriculture,,DEM,Total Votes Cast,12,8,4,0
+Russell,D103,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Russell,D103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,E101,Governor,,REP,Daniel CAMERON,91,22,67,2
+Russell,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,E101,Governor,,REP,David O. COOPER,2,0,2,0
+Russell,E101,Governor,,REP,Kelly CRAFT,59,9,46,4
+Russell,E101,Governor,,REP,Eric DETERS,3,0,3,0
+Russell,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,E101,Governor,,REP,Mike HARMON,11,5,6,0
+Russell,E101,Governor,,REP,Alan KECK,7,5,2,0
+Russell,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,E101,Governor,,REP,Ryan QUARLES,41,11,28,2
+Russell,E101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Russell,E101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Russell,E101,Governor,,REP,Total Votes Cast,216,52,156,8
+Russell,E101,Governor,,REP,Under Votes,0,0,0,0
+Russell,E101,Governor,,REP,Over Votes,0,0,0,0
+Russell,E101,Secretary of State,,REP,Michael ADAMS,170,41,122,7
+Russell,E101,Secretary of State,,REP,Stephen L. KNIPPER,20,8,12,0
+Russell,E101,Secretary of State,,REP,Allen MARICLE,5,0,5,0
+Russell,E101,Secretary of State,,REP,Total Votes Cast,195,49,139,7
+Russell,E101,Secretary of State,,REP,Under Votes,21,3,17,1
+Russell,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,E101,Auditor of Public Accounts,,REP,Allison BALL,150,36,107,7
+Russell,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,41,10,31,0
+Russell,E101,Auditor of Public Accounts,,REP,Total Votes Cast,191,46,138,7
+Russell,E101,Auditor of Public Accounts,,REP,Under Votes,25,6,18,1
+Russell,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,E101,State Treasurer,,REP,Andrew COOPERRIDER,67,19,46,2
+Russell,E101,State Treasurer,,REP,Mark H. METCALF,88,19,66,3
+Russell,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",33,9,23,1
+Russell,E101,State Treasurer,,REP,Total Votes Cast,188,47,135,6
+Russell,E101,State Treasurer,,REP,Under Votes,28,5,21,2
+Russell,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,E101,Commissioner of Agriculture,,REP,Richard HEATH,85,23,61,1
+Russell,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,105,24,75,6
+Russell,E101,Commissioner of Agriculture,,REP,Total Votes Cast,190,47,136,7
+Russell,E101,Commissioner of Agriculture,,REP,Under Votes,26,5,20,1
+Russell,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,E101,Governor,,DEM,Andy BESHEAR,29,6,19,4
+Russell,E101,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Russell,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Russell,E101,Governor,,DEM,Total Votes Cast,34,7,23,4
+Russell,E101,Governor,,DEM,Under Votes,0,0,0,0
+Russell,E101,Governor,,DEM,Over Votes,0,0,0,0
+Russell,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,6,12,2
+Russell,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,11,1,10,0
+Russell,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,31,7,22,2
+Russell,E101,Commissioner of Agriculture,,DEM,Under Votes,3,0,1,2
+Russell,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,E102,Governor,,REP,Daniel CAMERON,37,8,28,1
+Russell,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Russell,E102,Governor,,REP,David O. COOPER,0,0,0,0
+Russell,E102,Governor,,REP,Kelly CRAFT,24,9,13,2
+Russell,E102,Governor,,REP,Eric DETERS,5,2,3,0
+Russell,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,E102,Governor,,REP,Mike HARMON,3,2,1,0
+Russell,E102,Governor,,REP,Alan KECK,3,1,2,0
+Russell,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,E102,Governor,,REP,Ryan QUARLES,14,9,5,0
+Russell,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,E102,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Russell,E102,Governor,,REP,Total Votes Cast,88,31,54,3
+Russell,E102,Governor,,REP,Under Votes,0,0,0,0
+Russell,E102,Governor,,REP,Over Votes,1,1,0,0
+Russell,E102,Secretary of State,,REP,Michael ADAMS,74,28,43,3
+Russell,E102,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Russell,E102,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Russell,E102,Secretary of State,,REP,Total Votes Cast,82,29,50,3
+Russell,E102,Secretary of State,,REP,Under Votes,7,3,4,0
+Russell,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,E102,Auditor of Public Accounts,,REP,Allison BALL,64,25,36,3
+Russell,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,14,3,11,0
+Russell,E102,Auditor of Public Accounts,,REP,Total Votes Cast,78,28,47,3
+Russell,E102,Auditor of Public Accounts,,REP,Under Votes,11,4,7,0
+Russell,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,E102,State Treasurer,,REP,Andrew COOPERRIDER,36,11,25,0
+Russell,E102,State Treasurer,,REP,Mark H. METCALF,33,13,18,2
+Russell,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,3,5,0
+Russell,E102,State Treasurer,,REP,Total Votes Cast,77,27,48,2
+Russell,E102,State Treasurer,,REP,Under Votes,12,5,6,1
+Russell,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,E102,Commissioner of Agriculture,,REP,Richard HEATH,31,9,22,0
+Russell,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,44,19,24,1
+Russell,E102,Commissioner of Agriculture,,REP,Total Votes Cast,75,28,46,1
+Russell,E102,Commissioner of Agriculture,,REP,Under Votes,14,4,8,2
+Russell,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,E102,Governor,,DEM,Andy BESHEAR,9,0,8,1
+Russell,E102,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Russell,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Russell,E102,Governor,,DEM,Total Votes Cast,11,1,9,1
+Russell,E102,Governor,,DEM,Under Votes,0,0,0,0
+Russell,E102,Governor,,DEM,Over Votes,0,0,0,0
+Russell,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,0,5,1
+Russell,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,4,0,4,0
+Russell,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,10,0,9,1
+Russell,E102,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Russell,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Russell,E103,Governor,,REP,Daniel CAMERON,38,9,27,2
+Russell,E103,Governor,,REP,Jacob CLARK,1,0,1,0
+Russell,E103,Governor,,REP,David O. COOPER,1,1,0,0
+Russell,E103,Governor,,REP,Kelly CRAFT,31,13,16,2
+Russell,E103,Governor,,REP,Eric DETERS,1,0,1,0
+Russell,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Russell,E103,Governor,,REP,Mike HARMON,5,0,5,0
+Russell,E103,Governor,,REP,Alan KECK,5,0,5,0
+Russell,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Russell,E103,Governor,,REP,Ryan QUARLES,28,4,24,0
+Russell,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Russell,E103,Governor,,REP,Robbie C. SMITH,2,2,0,0
+Russell,E103,Governor,,REP,Total Votes Cast,112,29,79,4
+Russell,E103,Governor,,REP,Under Votes,1,1,0,0
+Russell,E103,Governor,,REP,Over Votes,0,0,0,0
+Russell,E103,Secretary of State,,REP,Michael ADAMS,84,23,57,4
+Russell,E103,Secretary of State,,REP,Stephen L. KNIPPER,14,2,12,0
+Russell,E103,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Russell,E103,Secretary of State,,REP,Total Votes Cast,102,26,72,4
+Russell,E103,Secretary of State,,REP,Under Votes,11,4,7,0
+Russell,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Russell,E103,Auditor of Public Accounts,,REP,Allison BALL,81,22,55,4
+Russell,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,20,4,16,0
+Russell,E103,Auditor of Public Accounts,,REP,Total Votes Cast,101,26,71,4
+Russell,E103,Auditor of Public Accounts,,REP,Under Votes,12,4,8,0
+Russell,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Russell,E103,State Treasurer,,REP,Andrew COOPERRIDER,32,8,23,1
+Russell,E103,State Treasurer,,REP,Mark H. METCALF,51,14,34,3
+Russell,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,5,12,0
+Russell,E103,State Treasurer,,REP,Total Votes Cast,100,27,69,4
+Russell,E103,State Treasurer,,REP,Under Votes,13,3,10,0
+Russell,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Russell,E103,Commissioner of Agriculture,,REP,Richard HEATH,42,9,32,1
+Russell,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,56,15,38,3
+Russell,E103,Commissioner of Agriculture,,REP,Total Votes Cast,98,24,70,4
+Russell,E103,Commissioner of Agriculture,,REP,Under Votes,15,6,9,0
+Russell,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Russell,E103,Governor,,DEM,Andy BESHEAR,13,6,7,0
+Russell,E103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Russell,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Russell,E103,Governor,,DEM,Total Votes Cast,14,6,8,0
+Russell,E103,Governor,,DEM,Under Votes,0,0,0,0
+Russell,E103,Governor,,DEM,Over Votes,0,0,0,0
+Russell,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,4,0
+Russell,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,6,4,2,0
+Russell,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,10,4,6,0
+Russell,E103,Commissioner of Agriculture,,DEM,Under Votes,4,2,2,0
+Russell,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

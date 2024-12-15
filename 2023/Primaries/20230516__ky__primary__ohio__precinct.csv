@@ -1,0 +1,913 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Ohio,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Ohio,A101,Governor,,REP,David O. COOPER,4,0,4,0
+Ohio,A101,Governor,,REP,Kelly CRAFT,14,3,11,0
+Ohio,A101,Governor,,REP,Eric DETERS,6,2,4,0
+Ohio,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Ohio,A101,Governor,,REP,Alan KECK,2,1,1,0
+Ohio,A101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Ohio,A101,Governor,,REP,Ryan QUARLES,37,7,30,0
+Ohio,A101,Governor,,REP,Johnny Ray RICE,1,1,0,0
+Ohio,A101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,A101,Governor,,REP,Daniel CAMERON,39,3,34,2
+Ohio,A101,Governor,,REP,Total Votes Cast,106,17,87,2
+Ohio,A101,Governor,,REP,Under Votes,1,0,1,0
+Ohio,A101,Governor,,REP,Over Votes,0,0,0,0
+Ohio,A101,Secretary of State,,REP,Stephen L. KNIPPER,15,0,15,0
+Ohio,A101,Secretary of State,,REP,Allen MARICLE,11,3,8,0
+Ohio,A101,Secretary of State,,REP,Michael ADAMS,60,12,46,2
+Ohio,A101,Secretary of State,,REP,Total Votes Cast,86,15,69,2
+Ohio,A101,Secretary of State,,REP,Under Votes,21,2,19,0
+Ohio,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,28,2,26,0
+Ohio,A101,Auditor of Public Accounts,,REP,Allison BALL,57,13,42,2
+Ohio,A101,Auditor of Public Accounts,,REP,Total Votes Cast,85,15,68,2
+Ohio,A101,Auditor of Public Accounts,,REP,Under Votes,22,2,20,0
+Ohio,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,A101,State Treasurer,,REP,Mark H. METCALF,49,8,41,0
+Ohio,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,3,10,0
+Ohio,A101,State Treasurer,,REP,Andrew COOPERRIDER,22,3,17,2
+Ohio,A101,State Treasurer,,REP,Total Votes Cast,84,14,68,2
+Ohio,A101,State Treasurer,,REP,Under Votes,23,3,20,0
+Ohio,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,52,7,45,0
+Ohio,A101,Commissioner of Agriculture,,REP,Richard HEATH,33,8,23,2
+Ohio,A101,Commissioner of Agriculture,,REP,Total Votes Cast,85,15,68,2
+Ohio,A101,Commissioner of Agriculture,,REP,Under Votes,22,2,20,0
+Ohio,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,A101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Ohio,A101,Governor,,DEM,Andy BESHEAR,43,16,26,1
+Ohio,A101,Governor,,DEM,Total Votes Cast,44,16,27,1
+Ohio,A101,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,A101,Governor,,DEM,Over Votes,1,0,0,1
+Ohio,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,21,8,13,0
+Ohio,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,6,11,1
+Ohio,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,39,14,24,1
+Ohio,A101,Commissioner of Agriculture,,DEM,Under Votes,6,2,3,1
+Ohio,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,A102,Governor,,REP,Jacob CLARK,2,0,2,0
+Ohio,A102,Governor,,REP,David O. COOPER,4,2,1,1
+Ohio,A102,Governor,,REP,Kelly CRAFT,11,2,7,2
+Ohio,A102,Governor,,REP,Eric DETERS,4,2,2,0
+Ohio,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,A102,Governor,,REP,Mike HARMON,4,1,2,1
+Ohio,A102,Governor,,REP,Alan KECK,1,0,0,1
+Ohio,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,A102,Governor,,REP,Ryan QUARLES,16,6,10,0
+Ohio,A102,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Ohio,A102,Governor,,REP,Robbie C. SMITH,2,1,0,1
+Ohio,A102,Governor,,REP,Daniel CAMERON,41,6,35,0
+Ohio,A102,Governor,,REP,Total Votes Cast,87,20,61,6
+Ohio,A102,Governor,,REP,Under Votes,0,0,0,0
+Ohio,A102,Governor,,REP,Over Votes,0,0,0,0
+Ohio,A102,Secretary of State,,REP,Stephen L. KNIPPER,31,5,24,2
+Ohio,A102,Secretary of State,,REP,Allen MARICLE,5,3,2,0
+Ohio,A102,Secretary of State,,REP,Michael ADAMS,41,9,28,4
+Ohio,A102,Secretary of State,,REP,Total Votes Cast,77,17,54,6
+Ohio,A102,Secretary of State,,REP,Under Votes,10,3,7,0
+Ohio,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,25,2,22,1
+Ohio,A102,Auditor of Public Accounts,,REP,Allison BALL,50,15,30,5
+Ohio,A102,Auditor of Public Accounts,,REP,Total Votes Cast,75,17,52,6
+Ohio,A102,Auditor of Public Accounts,,REP,Under Votes,12,3,9,0
+Ohio,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,A102,State Treasurer,,REP,Mark H. METCALF,42,12,28,2
+Ohio,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,2,4,1
+Ohio,A102,State Treasurer,,REP,Andrew COOPERRIDER,27,2,22,3
+Ohio,A102,State Treasurer,,REP,Total Votes Cast,76,16,54,6
+Ohio,A102,State Treasurer,,REP,Under Votes,11,4,7,0
+Ohio,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,45,11,32,2
+Ohio,A102,Commissioner of Agriculture,,REP,Richard HEATH,27,4,21,2
+Ohio,A102,Commissioner of Agriculture,,REP,Total Votes Cast,72,15,53,4
+Ohio,A102,Commissioner of Agriculture,,REP,Under Votes,14,4,8,2
+Ohio,A102,Commissioner of Agriculture,,REP,Over Votes,1,1,0,0
+Ohio,A102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Ohio,A102,Governor,,DEM,Andy BESHEAR,41,11,28,2
+Ohio,A102,Governor,,DEM,Total Votes Cast,44,11,31,2
+Ohio,A102,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,A102,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,22,7,14,1
+Ohio,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,3,16,1
+Ohio,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,42,10,30,2
+Ohio,A102,Commissioner of Agriculture,,DEM,Under Votes,2,1,1,0
+Ohio,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,A104,Governor,,REP,Jacob CLARK,0,0,0,0
+Ohio,A104,Governor,,REP,David O. COOPER,0,0,0,0
+Ohio,A104,Governor,,REP,Kelly CRAFT,12,7,5,0
+Ohio,A104,Governor,,REP,Eric DETERS,3,1,2,0
+Ohio,A104,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,A104,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,A104,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,A104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,A104,Governor,,REP,Ryan QUARLES,24,5,19,0
+Ohio,A104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,A104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,A104,Governor,,REP,Daniel CAMERON,37,3,34,0
+Ohio,A104,Governor,,REP,Total Votes Cast,76,16,60,0
+Ohio,A104,Governor,,REP,Under Votes,0,0,0,0
+Ohio,A104,Governor,,REP,Over Votes,1,0,1,0
+Ohio,A104,Secretary of State,,REP,Stephen L. KNIPPER,16,3,13,0
+Ohio,A104,Secretary of State,,REP,Allen MARICLE,8,2,6,0
+Ohio,A104,Secretary of State,,REP,Michael ADAMS,42,9,33,0
+Ohio,A104,Secretary of State,,REP,Total Votes Cast,66,14,52,0
+Ohio,A104,Secretary of State,,REP,Under Votes,11,2,9,0
+Ohio,A104,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,A104,Auditor of Public Accounts,,REP,Derek PETTEYS,24,4,20,0
+Ohio,A104,Auditor of Public Accounts,,REP,Allison BALL,46,11,35,0
+Ohio,A104,Auditor of Public Accounts,,REP,Total Votes Cast,70,15,55,0
+Ohio,A104,Auditor of Public Accounts,,REP,Under Votes,7,1,6,0
+Ohio,A104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,A104,State Treasurer,,REP,Mark H. METCALF,41,9,32,0
+Ohio,A104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,1,7,0
+Ohio,A104,State Treasurer,,REP,Andrew COOPERRIDER,20,4,16,0
+Ohio,A104,State Treasurer,,REP,Total Votes Cast,69,14,55,0
+Ohio,A104,State Treasurer,,REP,Under Votes,8,2,6,0
+Ohio,A104,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,40,12,28,0
+Ohio,A104,Commissioner of Agriculture,,REP,Richard HEATH,29,4,25,0
+Ohio,A104,Commissioner of Agriculture,,REP,Total Votes Cast,69,16,53,0
+Ohio,A104,Commissioner of Agriculture,,REP,Under Votes,8,0,8,0
+Ohio,A104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,A104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,A104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Ohio,A104,Governor,,DEM,Andy BESHEAR,9,2,6,1
+Ohio,A104,Governor,,DEM,Total Votes Cast,10,2,7,1
+Ohio,A104,Governor,,DEM,Under Votes,2,0,2,0
+Ohio,A104,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,A104,Commissioner of Agriculture,,DEM,Mikael MALONE,7,2,4,1
+Ohio,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Ohio,A104,Commissioner of Agriculture,,DEM,Total Votes Cast,9,2,6,1
+Ohio,A104,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Ohio,A104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,A105,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,A105,Governor,,REP,David O. COOPER,3,0,3,0
+Ohio,A105,Governor,,REP,Kelly CRAFT,17,1,15,1
+Ohio,A105,Governor,,REP,Eric DETERS,6,1,5,0
+Ohio,A105,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,A105,Governor,,REP,Mike HARMON,2,0,2,0
+Ohio,A105,Governor,,REP,Alan KECK,1,0,1,0
+Ohio,A105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,A105,Governor,,REP,Ryan QUARLES,27,6,21,0
+Ohio,A105,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Ohio,A105,Governor,,REP,Robbie C. SMITH,1,1,0,0
+Ohio,A105,Governor,,REP,Daniel CAMERON,56,2,52,2
+Ohio,A105,Governor,,REP,Total Votes Cast,115,11,101,3
+Ohio,A105,Governor,,REP,Under Votes,1,0,1,0
+Ohio,A105,Governor,,REP,Over Votes,0,0,0,0
+Ohio,A105,Secretary of State,,REP,Stephen L. KNIPPER,23,2,21,0
+Ohio,A105,Secretary of State,,REP,Allen MARICLE,14,1,13,0
+Ohio,A105,Secretary of State,,REP,Michael ADAMS,61,5,53,3
+Ohio,A105,Secretary of State,,REP,Total Votes Cast,98,8,87,3
+Ohio,A105,Secretary of State,,REP,Under Votes,18,3,15,0
+Ohio,A105,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,A105,Auditor of Public Accounts,,REP,Derek PETTEYS,27,2,25,0
+Ohio,A105,Auditor of Public Accounts,,REP,Allison BALL,73,8,62,3
+Ohio,A105,Auditor of Public Accounts,,REP,Total Votes Cast,100,10,87,3
+Ohio,A105,Auditor of Public Accounts,,REP,Under Votes,16,1,15,0
+Ohio,A105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,A105,State Treasurer,,REP,Mark H. METCALF,63,6,56,1
+Ohio,A105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,0,11,2
+Ohio,A105,State Treasurer,,REP,Andrew COOPERRIDER,21,2,19,0
+Ohio,A105,State Treasurer,,REP,Total Votes Cast,97,8,86,3
+Ohio,A105,State Treasurer,,REP,Under Votes,19,3,16,0
+Ohio,A105,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,50,5,43,2
+Ohio,A105,Commissioner of Agriculture,,REP,Richard HEATH,47,3,44,0
+Ohio,A105,Commissioner of Agriculture,,REP,Total Votes Cast,97,8,87,2
+Ohio,A105,Commissioner of Agriculture,,REP,Under Votes,19,3,15,1
+Ohio,A105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,A105,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Ohio,A105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Ohio,A105,Governor,,DEM,Andy BESHEAR,29,1,28,0
+Ohio,A105,Governor,,DEM,Total Votes Cast,32,1,31,0
+Ohio,A105,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,A105,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Mikael MALONE,16,0,16,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,1,12,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Total Votes Cast,29,1,28,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Ohio,A105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,B101,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,B101,Governor,,REP,David O. COOPER,2,0,2,0
+Ohio,B101,Governor,,REP,Kelly CRAFT,14,2,12,0
+Ohio,B101,Governor,,REP,Eric DETERS,4,0,4,0
+Ohio,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,B101,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,B101,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,B101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Ohio,B101,Governor,,REP,Ryan QUARLES,34,6,27,1
+Ohio,B101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Ohio,B101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,B101,Governor,,REP,Daniel CAMERON,35,4,31,0
+Ohio,B101,Governor,,REP,Total Votes Cast,93,12,80,1
+Ohio,B101,Governor,,REP,Under Votes,0,0,0,0
+Ohio,B101,Governor,,REP,Over Votes,0,0,0,0
+Ohio,B101,Secretary of State,,REP,Stephen L. KNIPPER,15,0,15,0
+Ohio,B101,Secretary of State,,REP,Allen MARICLE,8,1,7,0
+Ohio,B101,Secretary of State,,REP,Michael ADAMS,64,10,53,1
+Ohio,B101,Secretary of State,,REP,Total Votes Cast,87,11,75,1
+Ohio,B101,Secretary of State,,REP,Under Votes,6,1,5,0
+Ohio,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,0,19,0
+Ohio,B101,Auditor of Public Accounts,,REP,Allison BALL,65,11,53,1
+Ohio,B101,Auditor of Public Accounts,,REP,Total Votes Cast,84,11,72,1
+Ohio,B101,Auditor of Public Accounts,,REP,Under Votes,9,1,8,0
+Ohio,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,B101,State Treasurer,,REP,Mark H. METCALF,57,9,47,1
+Ohio,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,1,8,0
+Ohio,B101,State Treasurer,,REP,Andrew COOPERRIDER,17,1,16,0
+Ohio,B101,State Treasurer,,REP,Total Votes Cast,83,11,71,1
+Ohio,B101,State Treasurer,,REP,Under Votes,10,1,9,0
+Ohio,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,47,6,41,0
+Ohio,B101,Commissioner of Agriculture,,REP,Richard HEATH,33,4,28,1
+Ohio,B101,Commissioner of Agriculture,,REP,Total Votes Cast,80,10,69,1
+Ohio,B101,Commissioner of Agriculture,,REP,Under Votes,13,2,11,0
+Ohio,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,B101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Ohio,B101,Governor,,DEM,Andy BESHEAR,31,8,23,0
+Ohio,B101,Governor,,DEM,Total Votes Cast,33,8,25,0
+Ohio,B101,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,B101,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,14,2,12,0
+Ohio,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,4,10,0
+Ohio,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,28,6,22,0
+Ohio,B101,Commissioner of Agriculture,,DEM,Under Votes,5,2,3,0
+Ohio,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,B102,Governor,,REP,Jacob CLARK,5,3,2,0
+Ohio,B102,Governor,,REP,David O. COOPER,6,0,6,0
+Ohio,B102,Governor,,REP,Kelly CRAFT,42,3,39,0
+Ohio,B102,Governor,,REP,Eric DETERS,6,0,6,0
+Ohio,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,B102,Governor,,REP,Mike HARMON,5,1,4,0
+Ohio,B102,Governor,,REP,Alan KECK,2,1,1,0
+Ohio,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,B102,Governor,,REP,Ryan QUARLES,44,2,40,2
+Ohio,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,B102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,B102,Governor,,REP,Daniel CAMERON,77,17,57,3
+Ohio,B102,Governor,,REP,Total Votes Cast,188,27,156,5
+Ohio,B102,Governor,,REP,Under Votes,1,0,1,0
+Ohio,B102,Governor,,REP,Over Votes,0,0,0,0
+Ohio,B102,Secretary of State,,REP,Stephen L. KNIPPER,49,11,38,0
+Ohio,B102,Secretary of State,,REP,Allen MARICLE,21,1,19,1
+Ohio,B102,Secretary of State,,REP,Michael ADAMS,96,14,78,4
+Ohio,B102,Secretary of State,,REP,Total Votes Cast,166,26,135,5
+Ohio,B102,Secretary of State,,REP,Under Votes,23,1,22,0
+Ohio,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,44,7,33,4
+Ohio,B102,Auditor of Public Accounts,,REP,Allison BALL,126,19,106,1
+Ohio,B102,Auditor of Public Accounts,,REP,Total Votes Cast,170,26,139,5
+Ohio,B102,Auditor of Public Accounts,,REP,Under Votes,19,1,18,0
+Ohio,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,B102,State Treasurer,,REP,Mark H. METCALF,97,13,79,5
+Ohio,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",20,0,20,0
+Ohio,B102,State Treasurer,,REP,Andrew COOPERRIDER,44,13,31,0
+Ohio,B102,State Treasurer,,REP,Total Votes Cast,161,26,130,5
+Ohio,B102,State Treasurer,,REP,Under Votes,28,1,27,0
+Ohio,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,91,10,78,3
+Ohio,B102,Commissioner of Agriculture,,REP,Richard HEATH,68,16,50,2
+Ohio,B102,Commissioner of Agriculture,,REP,Total Votes Cast,159,26,128,5
+Ohio,B102,Commissioner of Agriculture,,REP,Under Votes,30,1,29,0
+Ohio,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,B102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,1,3,0
+Ohio,B102,Governor,,DEM,Andy BESHEAR,71,14,52,5
+Ohio,B102,Governor,,DEM,Total Votes Cast,75,15,55,5
+Ohio,B102,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,B102,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,22,7,12,3
+Ohio,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,43,7,35,1
+Ohio,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,65,14,47,4
+Ohio,B102,Commissioner of Agriculture,,DEM,Under Votes,10,1,8,1
+Ohio,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,B103,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Ohio,B103,Governor,,REP,Kelly CRAFT,4,1,3,0
+Ohio,B103,Governor,,REP,Eric DETERS,10,2,8,0
+Ohio,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,B103,Governor,,REP,Mike HARMON,3,1,2,0
+Ohio,B103,Governor,,REP,Alan KECK,2,0,2,0
+Ohio,B103,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Ohio,B103,Governor,,REP,Ryan QUARLES,30,8,22,0
+Ohio,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,B103,Governor,,REP,Daniel CAMERON,41,5,36,0
+Ohio,B103,Governor,,REP,Total Votes Cast,92,17,75,0
+Ohio,B103,Governor,,REP,Under Votes,0,0,0,0
+Ohio,B103,Governor,,REP,Over Votes,0,0,0,0
+Ohio,B103,Secretary of State,,REP,Stephen L. KNIPPER,11,2,9,0
+Ohio,B103,Secretary of State,,REP,Allen MARICLE,9,0,9,0
+Ohio,B103,Secretary of State,,REP,Michael ADAMS,53,12,41,0
+Ohio,B103,Secretary of State,,REP,Total Votes Cast,73,14,59,0
+Ohio,B103,Secretary of State,,REP,Under Votes,19,3,16,0
+Ohio,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,17,3,14,0
+Ohio,B103,Auditor of Public Accounts,,REP,Allison BALL,54,10,44,0
+Ohio,B103,Auditor of Public Accounts,,REP,Total Votes Cast,71,13,58,0
+Ohio,B103,Auditor of Public Accounts,,REP,Under Votes,21,4,17,0
+Ohio,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,B103,State Treasurer,,REP,Mark H. METCALF,45,9,36,0
+Ohio,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,1,7,0
+Ohio,B103,State Treasurer,,REP,Andrew COOPERRIDER,15,2,13,0
+Ohio,B103,State Treasurer,,REP,Total Votes Cast,68,12,56,0
+Ohio,B103,State Treasurer,,REP,Under Votes,24,5,19,0
+Ohio,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,46,8,38,0
+Ohio,B103,Commissioner of Agriculture,,REP,Richard HEATH,23,3,20,0
+Ohio,B103,Commissioner of Agriculture,,REP,Total Votes Cast,69,11,58,0
+Ohio,B103,Commissioner of Agriculture,,REP,Under Votes,23,6,17,0
+Ohio,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,B103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Ohio,B103,Governor,,DEM,Andy BESHEAR,21,2,16,3
+Ohio,B103,Governor,,DEM,Total Votes Cast,23,2,18,3
+Ohio,B103,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,B103,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,9,1,8,0
+Ohio,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,1,10,1
+Ohio,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,21,2,18,1
+Ohio,B103,Commissioner of Agriculture,,DEM,Under Votes,2,0,0,2
+Ohio,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,C101,Governor,,REP,Jacob CLARK,2,0,2,0
+Ohio,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Ohio,C101,Governor,,REP,Kelly CRAFT,8,0,8,0
+Ohio,C101,Governor,,REP,Eric DETERS,6,1,4,1
+Ohio,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,C101,Governor,,REP,Mike HARMON,1,0,1,0
+Ohio,C101,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,C101,Governor,,REP,Ryan QUARLES,14,2,12,0
+Ohio,C101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Ohio,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,C101,Governor,,REP,Daniel CAMERON,18,1,17,0
+Ohio,C101,Governor,,REP,Total Votes Cast,50,4,45,1
+Ohio,C101,Governor,,REP,Under Votes,0,0,0,0
+Ohio,C101,Governor,,REP,Over Votes,0,0,0,0
+Ohio,C101,Secretary of State,,REP,Stephen L. KNIPPER,16,0,16,0
+Ohio,C101,Secretary of State,,REP,Allen MARICLE,7,0,7,0
+Ohio,C101,Secretary of State,,REP,Michael ADAMS,17,3,14,0
+Ohio,C101,Secretary of State,,REP,Total Votes Cast,40,3,37,0
+Ohio,C101,Secretary of State,,REP,Under Votes,10,1,8,1
+Ohio,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,13,1,12,0
+Ohio,C101,Auditor of Public Accounts,,REP,Allison BALL,28,2,26,0
+Ohio,C101,Auditor of Public Accounts,,REP,Total Votes Cast,41,3,38,0
+Ohio,C101,Auditor of Public Accounts,,REP,Under Votes,9,1,7,1
+Ohio,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,C101,State Treasurer,,REP,Mark H. METCALF,28,2,26,0
+Ohio,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Ohio,C101,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Ohio,C101,State Treasurer,,REP,Total Votes Cast,40,2,38,0
+Ohio,C101,State Treasurer,,REP,Under Votes,10,2,7,1
+Ohio,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,29,3,26,0
+Ohio,C101,Commissioner of Agriculture,,REP,Richard HEATH,10,0,10,0
+Ohio,C101,Commissioner of Agriculture,,REP,Total Votes Cast,39,3,36,0
+Ohio,C101,Commissioner of Agriculture,,REP,Under Votes,11,1,9,1
+Ohio,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,C101,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Ohio,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Ohio,C101,Governor,,DEM,Andy BESHEAR,30,3,27,0
+Ohio,C101,Governor,,DEM,Total Votes Cast,35,4,31,0
+Ohio,C101,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,C101,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,17,2,15,0
+Ohio,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,2,12,0
+Ohio,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,31,4,27,0
+Ohio,C101,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Ohio,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Ohio,C102,Governor,,REP,David O. COOPER,9,2,7,0
+Ohio,C102,Governor,,REP,Kelly CRAFT,27,7,20,0
+Ohio,C102,Governor,,REP,Eric DETERS,7,1,6,0
+Ohio,C102,Governor,,REP,Bob DeVORE,1,0,1,0
+Ohio,C102,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,C102,Governor,,REP,Alan KECK,1,0,1,0
+Ohio,C102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Ohio,C102,Governor,,REP,Ryan QUARLES,12,2,10,0
+Ohio,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,C102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,C102,Governor,,REP,Daniel CAMERON,48,9,36,3
+Ohio,C102,Governor,,REP,Total Votes Cast,107,21,83,3
+Ohio,C102,Governor,,REP,Under Votes,0,0,0,0
+Ohio,C102,Governor,,REP,Over Votes,0,0,0,0
+Ohio,C102,Secretary of State,,REP,Stephen L. KNIPPER,22,7,15,0
+Ohio,C102,Secretary of State,,REP,Allen MARICLE,22,4,17,1
+Ohio,C102,Secretary of State,,REP,Michael ADAMS,51,8,41,2
+Ohio,C102,Secretary of State,,REP,Total Votes Cast,95,19,73,3
+Ohio,C102,Secretary of State,,REP,Under Votes,12,2,10,0
+Ohio,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,21,5,14,2
+Ohio,C102,Auditor of Public Accounts,,REP,Allison BALL,74,15,58,1
+Ohio,C102,Auditor of Public Accounts,,REP,Total Votes Cast,95,20,72,3
+Ohio,C102,Auditor of Public Accounts,,REP,Under Votes,12,1,11,0
+Ohio,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,C102,State Treasurer,,REP,Mark H. METCALF,64,15,48,1
+Ohio,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,2,7,2
+Ohio,C102,State Treasurer,,REP,Andrew COOPERRIDER,23,3,20,0
+Ohio,C102,State Treasurer,,REP,Total Votes Cast,98,20,75,3
+Ohio,C102,State Treasurer,,REP,Under Votes,9,1,8,0
+Ohio,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,54,7,44,3
+Ohio,C102,Commissioner of Agriculture,,REP,Richard HEATH,37,11,26,0
+Ohio,C102,Commissioner of Agriculture,,REP,Total Votes Cast,91,18,70,3
+Ohio,C102,Commissioner of Agriculture,,REP,Under Votes,16,3,13,0
+Ohio,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,C102,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Ohio,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,1,2,0
+Ohio,C102,Governor,,DEM,Andy BESHEAR,23,1,22,0
+Ohio,C102,Governor,,DEM,Total Votes Cast,29,2,27,0
+Ohio,C102,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,C102,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,13,1,12,0
+Ohio,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,1,13,0
+Ohio,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,27,2,25,0
+Ohio,C102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Ohio,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,C103,Governor,,REP,Jacob CLARK,5,2,3,0
+Ohio,C103,Governor,,REP,David O. COOPER,4,0,4,0
+Ohio,C103,Governor,,REP,Kelly CRAFT,31,7,22,2
+Ohio,C103,Governor,,REP,Eric DETERS,11,0,11,0
+Ohio,C103,Governor,,REP,Bob DeVORE,1,0,1,0
+Ohio,C103,Governor,,REP,Mike HARMON,4,0,4,0
+Ohio,C103,Governor,,REP,Alan KECK,2,1,1,0
+Ohio,C103,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Ohio,C103,Governor,,REP,Ryan QUARLES,49,7,42,0
+Ohio,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,C103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,C103,Governor,,REP,Daniel CAMERON,86,13,72,1
+Ohio,C103,Governor,,REP,Total Votes Cast,194,31,160,3
+Ohio,C103,Governor,,REP,Under Votes,0,0,0,0
+Ohio,C103,Governor,,REP,Over Votes,0,0,0,0
+Ohio,C103,Secretary of State,,REP,Stephen L. KNIPPER,42,8,34,0
+Ohio,C103,Secretary of State,,REP,Allen MARICLE,19,5,13,1
+Ohio,C103,Secretary of State,,REP,Michael ADAMS,109,15,92,2
+Ohio,C103,Secretary of State,,REP,Total Votes Cast,170,28,139,3
+Ohio,C103,Secretary of State,,REP,Under Votes,23,3,20,0
+Ohio,C103,Secretary of State,,REP,Over Votes,1,0,1,0
+Ohio,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,56,9,47,0
+Ohio,C103,Auditor of Public Accounts,,REP,Allison BALL,111,20,88,3
+Ohio,C103,Auditor of Public Accounts,,REP,Total Votes Cast,167,29,135,3
+Ohio,C103,Auditor of Public Accounts,,REP,Under Votes,26,2,24,0
+Ohio,C103,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Ohio,C103,State Treasurer,,REP,Mark H. METCALF,104,13,88,3
+Ohio,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",29,5,24,0
+Ohio,C103,State Treasurer,,REP,Andrew COOPERRIDER,35,9,26,0
+Ohio,C103,State Treasurer,,REP,Total Votes Cast,168,27,138,3
+Ohio,C103,State Treasurer,,REP,Under Votes,26,4,22,0
+Ohio,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,101,18,81,2
+Ohio,C103,Commissioner of Agriculture,,REP,Richard HEATH,65,8,56,1
+Ohio,C103,Commissioner of Agriculture,,REP,Total Votes Cast,166,26,137,3
+Ohio,C103,Commissioner of Agriculture,,REP,Under Votes,27,5,22,0
+Ohio,C103,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Ohio,C103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Ohio,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Ohio,C103,Governor,,DEM,Andy BESHEAR,61,11,48,2
+Ohio,C103,Governor,,DEM,Total Votes Cast,64,11,51,2
+Ohio,C103,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,C103,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,33,4,29,0
+Ohio,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,5,18,2
+Ohio,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,58,9,47,2
+Ohio,C103,Commissioner of Agriculture,,DEM,Under Votes,6,2,4,0
+Ohio,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,C104,Governor,,REP,Jacob CLARK,0,0,0,0
+Ohio,C104,Governor,,REP,David O. COOPER,3,1,2,0
+Ohio,C104,Governor,,REP,Kelly CRAFT,6,2,3,1
+Ohio,C104,Governor,,REP,Eric DETERS,7,0,7,0
+Ohio,C104,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,C104,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,C104,Governor,,REP,Alan KECK,1,1,0,0
+Ohio,C104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,C104,Governor,,REP,Ryan QUARLES,27,6,21,0
+Ohio,C104,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Ohio,C104,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Ohio,C104,Governor,,REP,Daniel CAMERON,52,7,43,2
+Ohio,C104,Governor,,REP,Total Votes Cast,99,17,79,3
+Ohio,C104,Governor,,REP,Under Votes,0,0,0,0
+Ohio,C104,Governor,,REP,Over Votes,0,0,0,0
+Ohio,C104,Secretary of State,,REP,Stephen L. KNIPPER,18,3,15,0
+Ohio,C104,Secretary of State,,REP,Allen MARICLE,8,0,8,0
+Ohio,C104,Secretary of State,,REP,Michael ADAMS,60,10,47,3
+Ohio,C104,Secretary of State,,REP,Total Votes Cast,86,13,70,3
+Ohio,C104,Secretary of State,,REP,Under Votes,13,4,9,0
+Ohio,C104,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,22,1,21,0
+Ohio,C104,Auditor of Public Accounts,,REP,Allison BALL,62,13,46,3
+Ohio,C104,Auditor of Public Accounts,,REP,Total Votes Cast,84,14,67,3
+Ohio,C104,Auditor of Public Accounts,,REP,Under Votes,15,3,12,0
+Ohio,C104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,C104,State Treasurer,,REP,Mark H. METCALF,58,7,48,3
+Ohio,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,4,9,0
+Ohio,C104,State Treasurer,,REP,Andrew COOPERRIDER,14,2,12,0
+Ohio,C104,State Treasurer,,REP,Total Votes Cast,85,13,69,3
+Ohio,C104,State Treasurer,,REP,Under Votes,14,4,10,0
+Ohio,C104,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,57,8,49,0
+Ohio,C104,Commissioner of Agriculture,,REP,Richard HEATH,26,5,18,3
+Ohio,C104,Commissioner of Agriculture,,REP,Total Votes Cast,83,13,67,3
+Ohio,C104,Commissioner of Agriculture,,REP,Under Votes,16,4,12,0
+Ohio,C104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,C104,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Ohio,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,4,1
+Ohio,C104,Governor,,DEM,Andy BESHEAR,35,9,26,0
+Ohio,C104,Governor,,DEM,Total Votes Cast,43,9,33,1
+Ohio,C104,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,C104,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,29,6,22,1
+Ohio,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,2,9,0
+Ohio,C104,Commissioner of Agriculture,,DEM,Total Votes Cast,40,8,31,1
+Ohio,C104,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Ohio,C104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,D101,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,D101,Governor,,REP,David O. COOPER,1,1,0,0
+Ohio,D101,Governor,,REP,Kelly CRAFT,9,0,9,0
+Ohio,D101,Governor,,REP,Eric DETERS,7,2,5,0
+Ohio,D101,Governor,,REP,Bob DeVORE,1,0,1,0
+Ohio,D101,Governor,,REP,Mike HARMON,2,0,2,0
+Ohio,D101,Governor,,REP,Alan KECK,2,0,1,1
+Ohio,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,D101,Governor,,REP,Ryan QUARLES,25,1,24,0
+Ohio,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,D101,Governor,,REP,Daniel CAMERON,44,3,41,0
+Ohio,D101,Governor,,REP,Total Votes Cast,92,7,84,1
+Ohio,D101,Governor,,REP,Under Votes,0,0,0,0
+Ohio,D101,Governor,,REP,Over Votes,0,0,0,0
+Ohio,D101,Secretary of State,,REP,Stephen L. KNIPPER,18,1,17,0
+Ohio,D101,Secretary of State,,REP,Allen MARICLE,7,1,6,0
+Ohio,D101,Secretary of State,,REP,Michael ADAMS,63,5,57,1
+Ohio,D101,Secretary of State,,REP,Total Votes Cast,88,7,80,1
+Ohio,D101,Secretary of State,,REP,Under Votes,4,0,4,0
+Ohio,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,24,3,21,0
+Ohio,D101,Auditor of Public Accounts,,REP,Allison BALL,63,4,58,1
+Ohio,D101,Auditor of Public Accounts,,REP,Total Votes Cast,87,7,79,1
+Ohio,D101,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Ohio,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,D101,State Treasurer,,REP,Mark H. METCALF,54,6,47,1
+Ohio,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",18,0,18,0
+Ohio,D101,State Treasurer,,REP,Andrew COOPERRIDER,15,1,14,0
+Ohio,D101,State Treasurer,,REP,Total Votes Cast,87,7,79,1
+Ohio,D101,State Treasurer,,REP,Under Votes,5,0,5,0
+Ohio,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,37,3,33,1
+Ohio,D101,Commissioner of Agriculture,,REP,Richard HEATH,46,4,42,0
+Ohio,D101,Commissioner of Agriculture,,REP,Total Votes Cast,83,7,75,1
+Ohio,D101,Commissioner of Agriculture,,REP,Under Votes,9,0,9,0
+Ohio,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,D101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Ohio,D101,Governor,,DEM,Andy BESHEAR,17,0,17,0
+Ohio,D101,Governor,,DEM,Total Votes Cast,23,0,23,0
+Ohio,D101,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,D101,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,10,0,10,0
+Ohio,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,0,13,0
+Ohio,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,23,0,23,0
+Ohio,D101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Ohio,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,D102,Governor,,REP,Jacob CLARK,2,0,2,0
+Ohio,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Ohio,D102,Governor,,REP,Kelly CRAFT,19,0,19,0
+Ohio,D102,Governor,,REP,Eric DETERS,11,0,11,0
+Ohio,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,D102,Governor,,REP,Mike HARMON,9,0,9,0
+Ohio,D102,Governor,,REP,Alan KECK,1,0,1,0
+Ohio,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,D102,Governor,,REP,Ryan QUARLES,64,1,63,0
+Ohio,D102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Ohio,D102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,D102,Governor,,REP,Daniel CAMERON,65,9,56,0
+Ohio,D102,Governor,,REP,Total Votes Cast,173,10,163,0
+Ohio,D102,Governor,,REP,Under Votes,0,0,0,0
+Ohio,D102,Governor,,REP,Over Votes,0,0,0,0
+Ohio,D102,Secretary of State,,REP,Stephen L. KNIPPER,67,2,65,0
+Ohio,D102,Secretary of State,,REP,Allen MARICLE,15,0,15,0
+Ohio,D102,Secretary of State,,REP,Michael ADAMS,71,7,64,0
+Ohio,D102,Secretary of State,,REP,Total Votes Cast,153,9,144,0
+Ohio,D102,Secretary of State,,REP,Under Votes,20,1,19,0
+Ohio,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,61,1,60,0
+Ohio,D102,Auditor of Public Accounts,,REP,Allison BALL,91,8,83,0
+Ohio,D102,Auditor of Public Accounts,,REP,Total Votes Cast,152,9,143,0
+Ohio,D102,Auditor of Public Accounts,,REP,Under Votes,21,1,20,0
+Ohio,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,D102,State Treasurer,,REP,Mark H. METCALF,77,6,71,0
+Ohio,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,2,10,0
+Ohio,D102,State Treasurer,,REP,Andrew COOPERRIDER,65,1,64,0
+Ohio,D102,State Treasurer,,REP,Total Votes Cast,154,9,145,0
+Ohio,D102,State Treasurer,,REP,Under Votes,19,1,18,0
+Ohio,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,86,4,82,0
+Ohio,D102,Commissioner of Agriculture,,REP,Richard HEATH,67,6,61,0
+Ohio,D102,Commissioner of Agriculture,,REP,Total Votes Cast,153,10,143,0
+Ohio,D102,Commissioner of Agriculture,,REP,Under Votes,20,0,20,0
+Ohio,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,D102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Ohio,D102,Governor,,DEM,Andy BESHEAR,38,2,31,5
+Ohio,D102,Governor,,DEM,Total Votes Cast,41,2,34,5
+Ohio,D102,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,D102,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,23,0,20,3
+Ohio,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,2,10,2
+Ohio,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,37,2,30,5
+Ohio,D102,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Ohio,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,D104,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,D104,Governor,,REP,David O. COOPER,0,0,0,0
+Ohio,D104,Governor,,REP,Kelly CRAFT,6,0,6,0
+Ohio,D104,Governor,,REP,Eric DETERS,4,0,4,0
+Ohio,D104,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,D104,Governor,,REP,Mike HARMON,1,0,1,0
+Ohio,D104,Governor,,REP,Alan KECK,7,0,7,0
+Ohio,D104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,D104,Governor,,REP,Ryan QUARLES,18,2,16,0
+Ohio,D104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,D104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,D104,Governor,,REP,Daniel CAMERON,36,3,33,0
+Ohio,D104,Governor,,REP,Total Votes Cast,73,5,68,0
+Ohio,D104,Governor,,REP,Under Votes,0,0,0,0
+Ohio,D104,Governor,,REP,Over Votes,0,0,0,0
+Ohio,D104,Secretary of State,,REP,Stephen L. KNIPPER,24,1,23,0
+Ohio,D104,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Ohio,D104,Secretary of State,,REP,Michael ADAMS,35,4,31,0
+Ohio,D104,Secretary of State,,REP,Total Votes Cast,62,5,57,0
+Ohio,D104,Secretary of State,,REP,Under Votes,11,0,11,0
+Ohio,D104,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,D104,Auditor of Public Accounts,,REP,Derek PETTEYS,23,3,20,0
+Ohio,D104,Auditor of Public Accounts,,REP,Allison BALL,40,2,38,0
+Ohio,D104,Auditor of Public Accounts,,REP,Total Votes Cast,63,5,58,0
+Ohio,D104,Auditor of Public Accounts,,REP,Under Votes,10,0,10,0
+Ohio,D104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,D104,State Treasurer,,REP,Mark H. METCALF,32,2,30,0
+Ohio,D104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",15,2,13,0
+Ohio,D104,State Treasurer,,REP,Andrew COOPERRIDER,15,1,14,0
+Ohio,D104,State Treasurer,,REP,Total Votes Cast,62,5,57,0
+Ohio,D104,State Treasurer,,REP,Under Votes,11,0,11,0
+Ohio,D104,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,37,5,32,0
+Ohio,D104,Commissioner of Agriculture,,REP,Richard HEATH,22,0,22,0
+Ohio,D104,Commissioner of Agriculture,,REP,Total Votes Cast,59,5,54,0
+Ohio,D104,Commissioner of Agriculture,,REP,Under Votes,14,0,14,0
+Ohio,D104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,D104,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Ohio,D104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Ohio,D104,Governor,,DEM,Andy BESHEAR,15,1,13,1
+Ohio,D104,Governor,,DEM,Total Votes Cast,19,2,16,1
+Ohio,D104,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,D104,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,D104,Commissioner of Agriculture,,DEM,Mikael MALONE,8,0,7,1
+Ohio,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Ohio,D104,Commissioner of Agriculture,,DEM,Total Votes Cast,18,2,15,1
+Ohio,D104,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Ohio,D104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,D106,Governor,,REP,Jacob CLARK,2,0,2,0
+Ohio,D106,Governor,,REP,David O. COOPER,1,0,1,0
+Ohio,D106,Governor,,REP,Kelly CRAFT,7,0,7,0
+Ohio,D106,Governor,,REP,Eric DETERS,0,0,0,0
+Ohio,D106,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,D106,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,D106,Governor,,REP,Alan KECK,1,0,1,0
+Ohio,D106,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,D106,Governor,,REP,Ryan QUARLES,13,0,12,1
+Ohio,D106,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,D106,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Ohio,D106,Governor,,REP,Daniel CAMERON,29,3,23,3
+Ohio,D106,Governor,,REP,Total Votes Cast,53,3,46,4
+Ohio,D106,Governor,,REP,Under Votes,0,0,0,0
+Ohio,D106,Governor,,REP,Over Votes,0,0,0,0
+Ohio,D106,Secretary of State,,REP,Stephen L. KNIPPER,12,0,11,1
+Ohio,D106,Secretary of State,,REP,Allen MARICLE,5,0,5,0
+Ohio,D106,Secretary of State,,REP,Michael ADAMS,31,3,25,3
+Ohio,D106,Secretary of State,,REP,Total Votes Cast,48,3,41,4
+Ohio,D106,Secretary of State,,REP,Under Votes,5,0,5,0
+Ohio,D106,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,D106,Auditor of Public Accounts,,REP,Derek PETTEYS,19,2,16,1
+Ohio,D106,Auditor of Public Accounts,,REP,Allison BALL,27,1,23,3
+Ohio,D106,Auditor of Public Accounts,,REP,Total Votes Cast,46,3,39,4
+Ohio,D106,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Ohio,D106,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,D106,State Treasurer,,REP,Mark H. METCALF,29,2,23,4
+Ohio,D106,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Ohio,D106,State Treasurer,,REP,Andrew COOPERRIDER,16,1,15,0
+Ohio,D106,State Treasurer,,REP,Total Votes Cast,47,3,40,4
+Ohio,D106,State Treasurer,,REP,Under Votes,6,0,6,0
+Ohio,D106,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,D106,Commissioner of Agriculture,,REP,Jonathan SHELL,24,3,19,2
+Ohio,D106,Commissioner of Agriculture,,REP,Richard HEATH,22,0,21,1
+Ohio,D106,Commissioner of Agriculture,,REP,Total Votes Cast,46,3,40,3
+Ohio,D106,Commissioner of Agriculture,,REP,Under Votes,7,0,6,1
+Ohio,D106,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,D106,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,D106,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,2,1,0
+Ohio,D106,Governor,,DEM,Andy BESHEAR,19,5,13,1
+Ohio,D106,Governor,,DEM,Total Votes Cast,22,7,14,1
+Ohio,D106,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,D106,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,D106,Commissioner of Agriculture,,DEM,Mikael MALONE,15,4,11,0
+Ohio,D106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,3,3,1
+Ohio,D106,Commissioner of Agriculture,,DEM,Total Votes Cast,22,7,14,1
+Ohio,D106,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Ohio,D106,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,E101,Governor,,REP,Jacob CLARK,2,0,2,0
+Ohio,E101,Governor,,REP,David O. COOPER,4,0,4,0
+Ohio,E101,Governor,,REP,Kelly CRAFT,21,0,21,0
+Ohio,E101,Governor,,REP,Eric DETERS,1,0,1,0
+Ohio,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,E101,Governor,,REP,Mike HARMON,3,0,3,0
+Ohio,E101,Governor,,REP,Alan KECK,1,0,1,0
+Ohio,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,E101,Governor,,REP,Ryan QUARLES,49,5,44,0
+Ohio,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,E101,Governor,,REP,Robbie C. SMITH,5,0,5,0
+Ohio,E101,Governor,,REP,Daniel CAMERON,96,11,82,3
+Ohio,E101,Governor,,REP,Total Votes Cast,182,16,163,3
+Ohio,E101,Governor,,REP,Under Votes,1,0,1,0
+Ohio,E101,Governor,,REP,Over Votes,0,0,0,0
+Ohio,E101,Secretary of State,,REP,Stephen L. KNIPPER,41,3,38,0
+Ohio,E101,Secretary of State,,REP,Allen MARICLE,17,1,16,0
+Ohio,E101,Secretary of State,,REP,Michael ADAMS,91,8,80,3
+Ohio,E101,Secretary of State,,REP,Total Votes Cast,149,12,134,3
+Ohio,E101,Secretary of State,,REP,Under Votes,34,4,30,0
+Ohio,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,57,5,52,0
+Ohio,E101,Auditor of Public Accounts,,REP,Allison BALL,97,7,87,3
+Ohio,E101,Auditor of Public Accounts,,REP,Total Votes Cast,154,12,139,3
+Ohio,E101,Auditor of Public Accounts,,REP,Under Votes,29,4,25,0
+Ohio,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,E101,State Treasurer,,REP,Mark H. METCALF,99,6,90,3
+Ohio,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,1,16,0
+Ohio,E101,State Treasurer,,REP,Andrew COOPERRIDER,36,5,31,0
+Ohio,E101,State Treasurer,,REP,Total Votes Cast,152,12,137,3
+Ohio,E101,State Treasurer,,REP,Under Votes,31,4,27,0
+Ohio,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,115,11,101,3
+Ohio,E101,Commissioner of Agriculture,,REP,Richard HEATH,43,2,41,0
+Ohio,E101,Commissioner of Agriculture,,REP,Total Votes Cast,158,13,142,3
+Ohio,E101,Commissioner of Agriculture,,REP,Under Votes,25,3,22,0
+Ohio,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,E101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Ohio,E101,Governor,,DEM,Andy BESHEAR,35,4,30,1
+Ohio,E101,Governor,,DEM,Total Votes Cast,40,4,35,1
+Ohio,E101,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,E101,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,17,1,15,1
+Ohio,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,2,18,0
+Ohio,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,37,3,33,1
+Ohio,E101,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Ohio,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Ohio,E102,Governor,,REP,David O. COOPER,4,0,4,0
+Ohio,E102,Governor,,REP,Kelly CRAFT,14,3,11,0
+Ohio,E102,Governor,,REP,Eric DETERS,11,0,11,0
+Ohio,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,E102,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,E102,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,E102,Governor,,REP,Ryan QUARLES,23,1,22,0
+Ohio,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,E102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,E102,Governor,,REP,Daniel CAMERON,86,1,85,0
+Ohio,E102,Governor,,REP,Total Votes Cast,139,5,134,0
+Ohio,E102,Governor,,REP,Under Votes,0,0,0,0
+Ohio,E102,Governor,,REP,Over Votes,0,0,0,0
+Ohio,E102,Secretary of State,,REP,Stephen L. KNIPPER,28,1,27,0
+Ohio,E102,Secretary of State,,REP,Allen MARICLE,14,1,13,0
+Ohio,E102,Secretary of State,,REP,Michael ADAMS,75,2,73,0
+Ohio,E102,Secretary of State,,REP,Total Votes Cast,117,4,113,0
+Ohio,E102,Secretary of State,,REP,Under Votes,22,1,21,0
+Ohio,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,39,0,39,0
+Ohio,E102,Auditor of Public Accounts,,REP,Allison BALL,77,5,72,0
+Ohio,E102,Auditor of Public Accounts,,REP,Total Votes Cast,116,5,111,0
+Ohio,E102,Auditor of Public Accounts,,REP,Under Votes,23,0,23,0
+Ohio,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,E102,State Treasurer,,REP,Mark H. METCALF,81,3,78,0
+Ohio,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,1,7,0
+Ohio,E102,State Treasurer,,REP,Andrew COOPERRIDER,30,1,29,0
+Ohio,E102,State Treasurer,,REP,Total Votes Cast,119,5,114,0
+Ohio,E102,State Treasurer,,REP,Under Votes,20,0,20,0
+Ohio,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,76,2,74,0
+Ohio,E102,Commissioner of Agriculture,,REP,Richard HEATH,42,3,39,0
+Ohio,E102,Commissioner of Agriculture,,REP,Total Votes Cast,118,5,113,0
+Ohio,E102,Commissioner of Agriculture,,REP,Under Votes,21,0,21,0
+Ohio,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,E102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Ohio,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Ohio,E102,Governor,,DEM,Andy BESHEAR,24,2,22,0
+Ohio,E102,Governor,,DEM,Total Votes Cast,27,2,25,0
+Ohio,E102,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,E102,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,16,0,16,0
+Ohio,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Ohio,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,26,2,24,0
+Ohio,E102,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Ohio,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,E103,Governor,,REP,Jacob CLARK,1,0,1,0
+Ohio,E103,Governor,,REP,David O. COOPER,2,0,2,0
+Ohio,E103,Governor,,REP,Kelly CRAFT,12,2,10,0
+Ohio,E103,Governor,,REP,Eric DETERS,6,0,6,0
+Ohio,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,E103,Governor,,REP,Mike HARMON,3,2,1,0
+Ohio,E103,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,E103,Governor,,REP,Ryan QUARLES,34,9,25,0
+Ohio,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,E103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,E103,Governor,,REP,Daniel CAMERON,70,8,62,0
+Ohio,E103,Governor,,REP,Total Votes Cast,129,21,108,0
+Ohio,E103,Governor,,REP,Under Votes,0,0,0,0
+Ohio,E103,Governor,,REP,Over Votes,0,0,0,0
+Ohio,E103,Secretary of State,,REP,Stephen L. KNIPPER,24,2,22,0
+Ohio,E103,Secretary of State,,REP,Allen MARICLE,13,4,9,0
+Ohio,E103,Secretary of State,,REP,Michael ADAMS,70,13,57,0
+Ohio,E103,Secretary of State,,REP,Total Votes Cast,107,19,88,0
+Ohio,E103,Secretary of State,,REP,Under Votes,22,2,20,0
+Ohio,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,45,4,41,0
+Ohio,E103,Auditor of Public Accounts,,REP,Allison BALL,63,15,48,0
+Ohio,E103,Auditor of Public Accounts,,REP,Total Votes Cast,108,19,89,0
+Ohio,E103,Auditor of Public Accounts,,REP,Under Votes,21,2,19,0
+Ohio,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,E103,State Treasurer,,REP,Mark H. METCALF,69,15,54,0
+Ohio,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,1,10,0
+Ohio,E103,State Treasurer,,REP,Andrew COOPERRIDER,26,3,23,0
+Ohio,E103,State Treasurer,,REP,Total Votes Cast,106,19,87,0
+Ohio,E103,State Treasurer,,REP,Under Votes,23,2,21,0
+Ohio,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,73,14,59,0
+Ohio,E103,Commissioner of Agriculture,,REP,Richard HEATH,31,6,25,0
+Ohio,E103,Commissioner of Agriculture,,REP,Total Votes Cast,104,20,84,0
+Ohio,E103,Commissioner of Agriculture,,REP,Under Votes,25,1,24,0
+Ohio,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,E103,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Ohio,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Ohio,E103,Governor,,DEM,Andy BESHEAR,23,3,20,0
+Ohio,E103,Governor,,DEM,Total Votes Cast,27,4,23,0
+Ohio,E103,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,E103,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,11,2,9,0
+Ohio,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,1,11,0
+Ohio,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,23,3,20,0
+Ohio,E103,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Ohio,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Ohio,E105,Governor,,REP,Jacob CLARK,3,0,3,0
+Ohio,E105,Governor,,REP,David O. COOPER,1,0,1,0
+Ohio,E105,Governor,,REP,Kelly CRAFT,3,0,2,1
+Ohio,E105,Governor,,REP,Eric DETERS,1,0,1,0
+Ohio,E105,Governor,,REP,Bob DeVORE,0,0,0,0
+Ohio,E105,Governor,,REP,Mike HARMON,0,0,0,0
+Ohio,E105,Governor,,REP,Alan KECK,0,0,0,0
+Ohio,E105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Ohio,E105,Governor,,REP,Ryan QUARLES,22,2,20,0
+Ohio,E105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Ohio,E105,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Ohio,E105,Governor,,REP,Daniel CAMERON,14,3,11,0
+Ohio,E105,Governor,,REP,Total Votes Cast,45,5,39,1
+Ohio,E105,Governor,,REP,Under Votes,0,0,0,0
+Ohio,E105,Governor,,REP,Over Votes,0,0,0,0
+Ohio,E105,Secretary of State,,REP,Stephen L. KNIPPER,7,1,6,0
+Ohio,E105,Secretary of State,,REP,Allen MARICLE,8,1,7,0
+Ohio,E105,Secretary of State,,REP,Michael ADAMS,20,3,16,1
+Ohio,E105,Secretary of State,,REP,Total Votes Cast,35,5,29,1
+Ohio,E105,Secretary of State,,REP,Under Votes,10,0,10,0
+Ohio,E105,Secretary of State,,REP,Over Votes,0,0,0,0
+Ohio,E105,Auditor of Public Accounts,,REP,Derek PETTEYS,14,1,12,1
+Ohio,E105,Auditor of Public Accounts,,REP,Allison BALL,22,3,19,0
+Ohio,E105,Auditor of Public Accounts,,REP,Total Votes Cast,36,4,31,1
+Ohio,E105,Auditor of Public Accounts,,REP,Under Votes,9,1,8,0
+Ohio,E105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Ohio,E105,State Treasurer,,REP,Mark H. METCALF,23,4,19,0
+Ohio,E105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Ohio,E105,State Treasurer,,REP,Andrew COOPERRIDER,9,0,8,1
+Ohio,E105,State Treasurer,,REP,Total Votes Cast,36,4,31,1
+Ohio,E105,State Treasurer,,REP,Under Votes,9,1,8,0
+Ohio,E105,State Treasurer,,REP,Over Votes,0,0,0,0
+Ohio,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,21,2,18,1
+Ohio,E105,Commissioner of Agriculture,,REP,Richard HEATH,18,2,16,0
+Ohio,E105,Commissioner of Agriculture,,REP,Total Votes Cast,39,4,34,1
+Ohio,E105,Commissioner of Agriculture,,REP,Under Votes,6,1,5,0
+Ohio,E105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Ohio,E105,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Ohio,E105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Ohio,E105,Governor,,DEM,Andy BESHEAR,13,2,10,1
+Ohio,E105,Governor,,DEM,Total Votes Cast,13,2,10,1
+Ohio,E105,Governor,,DEM,Under Votes,0,0,0,0
+Ohio,E105,Governor,,DEM,Over Votes,0,0,0,0
+Ohio,E105,Commissioner of Agriculture,,DEM,Mikael MALONE,7,1,6,0
+Ohio,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,2,1
+Ohio,E105,Commissioner of Agriculture,,DEM,Total Votes Cast,11,2,8,1
+Ohio,E105,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Ohio,E105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

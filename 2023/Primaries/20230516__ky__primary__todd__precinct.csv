@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Todd,A101,Governor,,REP,Daniel CAMERON,14,0,14,0
+Todd,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,A101,Governor,,REP,David O. COOPER,1,1,0,0
+Todd,A101,Governor,,REP,Kelly CRAFT,8,1,7,0
+Todd,A101,Governor,,REP,Eric DETERS,2,0,2,0
+Todd,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,A101,Governor,,REP,Alan KECK,0,0,0,0
+Todd,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,A101,Governor,,REP,Ryan QUARLES,2,1,1,0
+Todd,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,A101,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Todd,A101,Governor,,REP,Total Votes Cast,30,3,27,0
+Todd,A101,Governor,,REP,Under Votes,0,0,0,0
+Todd,A101,Governor,,REP,Over Votes,0,0,0,0
+Todd,A101,Secretary of State,,REP,Michael ADAMS,18,1,17,0
+Todd,A101,Secretary of State,,REP,Stephen L. KNIPPER,8,1,7,0
+Todd,A101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Todd,A101,Secretary of State,,REP,Total Votes Cast,27,2,25,0
+Todd,A101,Secretary of State,,REP,Under Votes,3,1,2,0
+Todd,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,A101,Auditor of Public Accounts,,REP,Allison BALL,16,2,14,0
+Todd,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,10,0,10,0
+Todd,A101,Auditor of Public Accounts,,REP,Total Votes Cast,26,2,24,0
+Todd,A101,Auditor of Public Accounts,,REP,Under Votes,4,1,3,0
+Todd,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,A101,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Todd,A101,State Treasurer,,REP,Mark H. METCALF,10,1,9,0
+Todd,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,0,6,0
+Todd,A101,State Treasurer,,REP,Total Votes Cast,25,1,24,0
+Todd,A101,State Treasurer,,REP,Under Votes,5,2,3,0
+Todd,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,A101,Commissioner of Agriculture,,REP,Richard HEATH,15,1,14,0
+Todd,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,8,1,7,0
+Todd,A101,Commissioner of Agriculture,,REP,Total Votes Cast,23,2,21,0
+Todd,A101,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Todd,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,A101,Governor,,DEM,Andy BESHEAR,19,0,18,1
+Todd,A101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Todd,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,0,7,0
+Todd,A101,Governor,,DEM,Total Votes Cast,30,0,29,1
+Todd,A101,Governor,,DEM,Under Votes,0,0,0,0
+Todd,A101,Governor,,DEM,Over Votes,0,0,0,0
+Todd,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,0,9,1
+Todd,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,16,0,16,0
+Todd,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,26,0,25,1
+Todd,A101,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Todd,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,A102,Governor,,REP,Daniel CAMERON,18,3,15,0
+Todd,A102,Governor,,REP,Jacob CLARK,1,0,1,0
+Todd,A102,Governor,,REP,David O. COOPER,1,0,1,0
+Todd,A102,Governor,,REP,Kelly CRAFT,6,2,4,0
+Todd,A102,Governor,,REP,Eric DETERS,0,0,0,0
+Todd,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,A102,Governor,,REP,Mike HARMON,0,0,0,0
+Todd,A102,Governor,,REP,Alan KECK,0,0,0,0
+Todd,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,A102,Governor,,REP,Ryan QUARLES,8,0,8,0
+Todd,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,A102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,A102,Governor,,REP,Total Votes Cast,34,5,29,0
+Todd,A102,Governor,,REP,Under Votes,0,0,0,0
+Todd,A102,Governor,,REP,Over Votes,0,0,0,0
+Todd,A102,Secretary of State,,REP,Michael ADAMS,25,2,23,0
+Todd,A102,Secretary of State,,REP,Stephen L. KNIPPER,2,0,2,0
+Todd,A102,Secretary of State,,REP,Allen MARICLE,3,3,0,0
+Todd,A102,Secretary of State,,REP,Total Votes Cast,30,5,25,0
+Todd,A102,Secretary of State,,REP,Under Votes,4,0,4,0
+Todd,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,A102,Auditor of Public Accounts,,REP,Allison BALL,19,1,18,0
+Todd,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,11,4,7,0
+Todd,A102,Auditor of Public Accounts,,REP,Total Votes Cast,30,5,25,0
+Todd,A102,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Todd,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,A102,State Treasurer,,REP,Andrew COOPERRIDER,15,3,12,0
+Todd,A102,State Treasurer,,REP,Mark H. METCALF,11,2,9,0
+Todd,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Todd,A102,State Treasurer,,REP,Total Votes Cast,30,5,25,0
+Todd,A102,State Treasurer,,REP,Under Votes,4,0,4,0
+Todd,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,A102,Commissioner of Agriculture,,REP,Richard HEATH,19,1,18,0
+Todd,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,9,4,5,0
+Todd,A102,Commissioner of Agriculture,,REP,Total Votes Cast,28,5,23,0
+Todd,A102,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Todd,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,A102,Governor,,DEM,Andy BESHEAR,10,1,9,0
+Todd,A102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Todd,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Todd,A102,Governor,,DEM,Total Votes Cast,12,1,11,0
+Todd,A102,Governor,,DEM,Under Votes,1,1,0,0
+Todd,A102,Governor,,DEM,Over Votes,0,0,0,0
+Todd,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,0,5,0
+Todd,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,7,1,6,0
+Todd,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,12,1,11,0
+Todd,A102,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Todd,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,A103,Governor,,REP,Daniel CAMERON,12,0,12,0
+Todd,A103,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,A103,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,A103,Governor,,REP,Kelly CRAFT,2,1,1,0
+Todd,A103,Governor,,REP,Eric DETERS,0,0,0,0
+Todd,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,A103,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,A103,Governor,,REP,Alan KECK,1,0,1,0
+Todd,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,A103,Governor,,REP,Ryan QUARLES,8,2,6,0
+Todd,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,A103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Todd,A103,Governor,,REP,Total Votes Cast,25,3,22,0
+Todd,A103,Governor,,REP,Under Votes,0,0,0,0
+Todd,A103,Governor,,REP,Over Votes,0,0,0,0
+Todd,A103,Secretary of State,,REP,Michael ADAMS,16,2,14,0
+Todd,A103,Secretary of State,,REP,Stephen L. KNIPPER,3,1,2,0
+Todd,A103,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Todd,A103,Secretary of State,,REP,Total Votes Cast,19,3,16,0
+Todd,A103,Secretary of State,,REP,Under Votes,6,0,6,0
+Todd,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,A103,Auditor of Public Accounts,,REP,Allison BALL,14,3,11,0
+Todd,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Todd,A103,Auditor of Public Accounts,,REP,Total Votes Cast,20,3,17,0
+Todd,A103,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Todd,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,A103,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Todd,A103,State Treasurer,,REP,Mark H. METCALF,6,3,3,0
+Todd,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Todd,A103,State Treasurer,,REP,Total Votes Cast,17,3,14,0
+Todd,A103,State Treasurer,,REP,Under Votes,8,0,8,0
+Todd,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,A103,Commissioner of Agriculture,,REP,Richard HEATH,10,1,9,0
+Todd,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,10,2,8,0
+Todd,A103,Commissioner of Agriculture,,REP,Total Votes Cast,20,3,17,0
+Todd,A103,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Todd,A103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,A103,Governor,,DEM,Andy BESHEAR,5,1,4,0
+Todd,A103,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Todd,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Todd,A103,Governor,,DEM,Total Votes Cast,9,1,8,0
+Todd,A103,Governor,,DEM,Under Votes,0,0,0,0
+Todd,A103,Governor,,DEM,Over Votes,0,0,0,0
+Todd,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,1,2,0
+Todd,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,6,0,6,0
+Todd,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,9,1,8,0
+Todd,A103,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Todd,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,B101,Governor,,REP,Daniel CAMERON,27,1,25,1
+Todd,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,B101,Governor,,REP,David O. COOPER,2,0,2,0
+Todd,B101,Governor,,REP,Kelly CRAFT,6,0,6,0
+Todd,B101,Governor,,REP,Eric DETERS,2,0,2,0
+Todd,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,B101,Governor,,REP,Mike HARMON,0,0,0,0
+Todd,B101,Governor,,REP,Alan KECK,0,0,0,0
+Todd,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,B101,Governor,,REP,Ryan QUARLES,8,0,8,0
+Todd,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,B101,Governor,,REP,Total Votes Cast,45,1,43,1
+Todd,B101,Governor,,REP,Under Votes,0,0,0,0
+Todd,B101,Governor,,REP,Over Votes,0,0,0,0
+Todd,B101,Secretary of State,,REP,Michael ADAMS,31,1,29,1
+Todd,B101,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Todd,B101,Secretary of State,,REP,Allen MARICLE,5,0,5,0
+Todd,B101,Secretary of State,,REP,Total Votes Cast,43,1,41,1
+Todd,B101,Secretary of State,,REP,Under Votes,2,0,2,0
+Todd,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,B101,Auditor of Public Accounts,,REP,Allison BALL,25,1,23,1
+Todd,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,17,0,17,0
+Todd,B101,Auditor of Public Accounts,,REP,Total Votes Cast,42,1,40,1
+Todd,B101,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Todd,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,B101,State Treasurer,,REP,Andrew COOPERRIDER,12,0,11,1
+Todd,B101,State Treasurer,,REP,Mark H. METCALF,29,1,28,0
+Todd,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Todd,B101,State Treasurer,,REP,Total Votes Cast,41,1,39,1
+Todd,B101,State Treasurer,,REP,Under Votes,4,0,4,0
+Todd,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,B101,Commissioner of Agriculture,,REP,Richard HEATH,21,1,20,0
+Todd,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,16,0,16,0
+Todd,B101,Commissioner of Agriculture,,REP,Total Votes Cast,37,1,36,0
+Todd,B101,Commissioner of Agriculture,,REP,Under Votes,8,0,7,1
+Todd,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,B101,Governor,,DEM,Andy BESHEAR,18,2,16,0
+Todd,B101,Governor,,DEM,Peppy MARTIN,5,0,5,0
+Todd,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Todd,B101,Governor,,DEM,Total Votes Cast,25,2,23,0
+Todd,B101,Governor,,DEM,Under Votes,2,0,2,0
+Todd,B101,Governor,,DEM,Over Votes,0,0,0,0
+Todd,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,2,10,0
+Todd,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,12,0,12,0
+Todd,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,24,2,22,0
+Todd,B101,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Todd,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,B102,Governor,,REP,Daniel CAMERON,13,1,12,0
+Todd,B102,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,B102,Governor,,REP,Kelly CRAFT,1,0,1,0
+Todd,B102,Governor,,REP,Eric DETERS,3,0,3,0
+Todd,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,B102,Governor,,REP,Mike HARMON,4,0,4,0
+Todd,B102,Governor,,REP,Alan KECK,1,0,1,0
+Todd,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,B102,Governor,,REP,Ryan QUARLES,4,0,4,0
+Todd,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,B102,Governor,,REP,Total Votes Cast,26,1,25,0
+Todd,B102,Governor,,REP,Under Votes,0,0,0,0
+Todd,B102,Governor,,REP,Over Votes,0,0,0,0
+Todd,B102,Secretary of State,,REP,Michael ADAMS,18,1,17,0
+Todd,B102,Secretary of State,,REP,Stephen L. KNIPPER,6,0,6,0
+Todd,B102,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Todd,B102,Secretary of State,,REP,Total Votes Cast,24,1,23,0
+Todd,B102,Secretary of State,,REP,Under Votes,2,0,2,0
+Todd,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,B102,Auditor of Public Accounts,,REP,Allison BALL,16,0,16,0
+Todd,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,5,1,4,0
+Todd,B102,Auditor of Public Accounts,,REP,Total Votes Cast,21,1,20,0
+Todd,B102,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Todd,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,B102,State Treasurer,,REP,Andrew COOPERRIDER,5,0,5,0
+Todd,B102,State Treasurer,,REP,Mark H. METCALF,12,1,11,0
+Todd,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Todd,B102,State Treasurer,,REP,Total Votes Cast,20,1,19,0
+Todd,B102,State Treasurer,,REP,Under Votes,6,0,6,0
+Todd,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,B102,Commissioner of Agriculture,,REP,Richard HEATH,7,0,7,0
+Todd,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,13,1,12,0
+Todd,B102,Commissioner of Agriculture,,REP,Total Votes Cast,20,1,19,0
+Todd,B102,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Todd,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,B102,Governor,,DEM,Andy BESHEAR,13,0,13,0
+Todd,B102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Todd,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,1,8,0
+Todd,B102,Governor,,DEM,Total Votes Cast,24,1,23,0
+Todd,B102,Governor,,DEM,Under Votes,2,0,2,0
+Todd,B102,Governor,,DEM,Over Votes,0,0,0,0
+Todd,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,0,9,0
+Todd,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,14,1,13,0
+Todd,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,23,1,22,0
+Todd,B102,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Todd,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,B103,Governor,,REP,Daniel CAMERON,4,1,3,0
+Todd,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,B103,Governor,,REP,David O. COOPER,1,0,1,0
+Todd,B103,Governor,,REP,Kelly CRAFT,0,0,0,0
+Todd,B103,Governor,,REP,Eric DETERS,0,0,0,0
+Todd,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,B103,Governor,,REP,Mike HARMON,0,0,0,0
+Todd,B103,Governor,,REP,Alan KECK,0,0,0,0
+Todd,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,B103,Governor,,REP,Ryan QUARLES,3,0,3,0
+Todd,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,B103,Governor,,REP,Total Votes Cast,8,1,7,0
+Todd,B103,Governor,,REP,Under Votes,0,0,0,0
+Todd,B103,Governor,,REP,Over Votes,0,0,0,0
+Todd,B103,Secretary of State,,REP,Michael ADAMS,4,1,3,0
+Todd,B103,Secretary of State,,REP,Stephen L. KNIPPER,3,0,3,0
+Todd,B103,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Todd,B103,Secretary of State,,REP,Total Votes Cast,7,1,6,0
+Todd,B103,Secretary of State,,REP,Under Votes,1,0,1,0
+Todd,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,B103,Auditor of Public Accounts,,REP,Allison BALL,4,0,4,0
+Todd,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,3,1,2,0
+Todd,B103,Auditor of Public Accounts,,REP,Total Votes Cast,7,1,6,0
+Todd,B103,Auditor of Public Accounts,,REP,Under Votes,1,0,1,0
+Todd,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,B103,State Treasurer,,REP,Andrew COOPERRIDER,0,0,0,0
+Todd,B103,State Treasurer,,REP,Mark H. METCALF,6,1,5,0
+Todd,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Todd,B103,State Treasurer,,REP,Total Votes Cast,6,1,5,0
+Todd,B103,State Treasurer,,REP,Under Votes,2,0,2,0
+Todd,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,B103,Commissioner of Agriculture,,REP,Richard HEATH,3,1,2,0
+Todd,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,4,0,4,0
+Todd,B103,Commissioner of Agriculture,,REP,Total Votes Cast,7,1,6,0
+Todd,B103,Commissioner of Agriculture,,REP,Under Votes,1,0,1,0
+Todd,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,B103,Governor,,DEM,Andy BESHEAR,6,0,6,0
+Todd,B103,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Todd,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Todd,B103,Governor,,DEM,Total Votes Cast,12,0,12,0
+Todd,B103,Governor,,DEM,Under Votes,0,0,0,0
+Todd,B103,Governor,,DEM,Over Votes,0,0,0,0
+Todd,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Todd,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,9,0,9,0
+Todd,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,11,0,11,0
+Todd,B103,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Todd,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,B104,Governor,,REP,Daniel CAMERON,5,0,5,0
+Todd,B104,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,B104,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,B104,Governor,,REP,Kelly CRAFT,2,0,2,0
+Todd,B104,Governor,,REP,Eric DETERS,1,0,1,0
+Todd,B104,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,B104,Governor,,REP,Mike HARMON,0,0,0,0
+Todd,B104,Governor,,REP,Alan KECK,0,0,0,0
+Todd,B104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,B104,Governor,,REP,Ryan QUARLES,5,1,4,0
+Todd,B104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,B104,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Todd,B104,Governor,,REP,Total Votes Cast,15,1,14,0
+Todd,B104,Governor,,REP,Under Votes,0,0,0,0
+Todd,B104,Governor,,REP,Over Votes,0,0,0,0
+Todd,B104,Secretary of State,,REP,Michael ADAMS,5,1,4,0
+Todd,B104,Secretary of State,,REP,Stephen L. KNIPPER,3,0,3,0
+Todd,B104,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Todd,B104,Secretary of State,,REP,Total Votes Cast,12,1,11,0
+Todd,B104,Secretary of State,,REP,Under Votes,3,0,3,0
+Todd,B104,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,B104,Auditor of Public Accounts,,REP,Allison BALL,8,1,7,0
+Todd,B104,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Todd,B104,Auditor of Public Accounts,,REP,Total Votes Cast,12,1,11,0
+Todd,B104,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Todd,B104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,B104,State Treasurer,,REP,Andrew COOPERRIDER,7,1,6,0
+Todd,B104,State Treasurer,,REP,Mark H. METCALF,5,0,5,0
+Todd,B104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Todd,B104,State Treasurer,,REP,Total Votes Cast,12,1,11,0
+Todd,B104,State Treasurer,,REP,Under Votes,3,0,3,0
+Todd,B104,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,B104,Commissioner of Agriculture,,REP,Richard HEATH,7,0,7,0
+Todd,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,5,1,4,0
+Todd,B104,Commissioner of Agriculture,,REP,Total Votes Cast,12,1,11,0
+Todd,B104,Commissioner of Agriculture,,REP,Under Votes,3,0,3,0
+Todd,B104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,B104,Governor,,DEM,Andy BESHEAR,4,0,4,0
+Todd,B104,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Todd,B104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Todd,B104,Governor,,DEM,Total Votes Cast,6,0,6,0
+Todd,B104,Governor,,DEM,Under Votes,0,0,0,0
+Todd,B104,Governor,,DEM,Over Votes,0,0,0,0
+Todd,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Todd,B104,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Todd,B104,Commissioner of Agriculture,,DEM,Total Votes Cast,6,0,6,0
+Todd,B104,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Todd,B104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,C101,Governor,,REP,Daniel CAMERON,31,2,29,0
+Todd,C101,Governor,,REP,Jacob CLARK,1,0,1,0
+Todd,C101,Governor,,REP,David O. COOPER,1,0,1,0
+Todd,C101,Governor,,REP,Kelly CRAFT,14,4,10,0
+Todd,C101,Governor,,REP,Eric DETERS,0,0,0,0
+Todd,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,C101,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,C101,Governor,,REP,Alan KECK,1,0,1,0
+Todd,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,C101,Governor,,REP,Ryan QUARLES,12,0,12,0
+Todd,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,C101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Todd,C101,Governor,,REP,Total Votes Cast,62,6,56,0
+Todd,C101,Governor,,REP,Under Votes,0,0,0,0
+Todd,C101,Governor,,REP,Over Votes,0,0,0,0
+Todd,C101,Secretary of State,,REP,Michael ADAMS,45,6,39,0
+Todd,C101,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Todd,C101,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Todd,C101,Secretary of State,,REP,Total Votes Cast,56,6,50,0
+Todd,C101,Secretary of State,,REP,Under Votes,6,0,6,0
+Todd,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,C101,Auditor of Public Accounts,,REP,Allison BALL,47,6,41,0
+Todd,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,7,0,7,0
+Todd,C101,Auditor of Public Accounts,,REP,Total Votes Cast,54,6,48,0
+Todd,C101,Auditor of Public Accounts,,REP,Under Votes,8,0,8,0
+Todd,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,C101,State Treasurer,,REP,Andrew COOPERRIDER,12,2,10,0
+Todd,C101,State Treasurer,,REP,Mark H. METCALF,28,1,27,0
+Todd,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,1,9,0
+Todd,C101,State Treasurer,,REP,Total Votes Cast,50,4,46,0
+Todd,C101,State Treasurer,,REP,Under Votes,12,2,10,0
+Todd,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,C101,Commissioner of Agriculture,,REP,Richard HEATH,25,3,22,0
+Todd,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,22,1,21,0
+Todd,C101,Commissioner of Agriculture,,REP,Total Votes Cast,47,4,43,0
+Todd,C101,Commissioner of Agriculture,,REP,Under Votes,15,2,13,0
+Todd,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,C101,Governor,,DEM,Andy BESHEAR,35,2,30,3
+Todd,C101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Todd,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Todd,C101,Governor,,DEM,Total Votes Cast,38,2,33,3
+Todd,C101,Governor,,DEM,Under Votes,0,0,0,0
+Todd,C101,Governor,,DEM,Over Votes,0,0,0,0
+Todd,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,2,19,2
+Todd,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,13,0,12,1
+Todd,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,36,2,31,3
+Todd,C101,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Todd,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,C102,Governor,,REP,Daniel CAMERON,13,0,13,0
+Todd,C102,Governor,,REP,Jacob CLARK,1,0,1,0
+Todd,C102,Governor,,REP,David O. COOPER,2,0,2,0
+Todd,C102,Governor,,REP,Kelly CRAFT,14,0,12,2
+Todd,C102,Governor,,REP,Eric DETERS,1,0,1,0
+Todd,C102,Governor,,REP,Bob DeVORE,2,0,2,0
+Todd,C102,Governor,,REP,Mike HARMON,5,0,5,0
+Todd,C102,Governor,,REP,Alan KECK,2,0,1,1
+Todd,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,C102,Governor,,REP,Ryan QUARLES,19,0,19,0
+Todd,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,C102,Governor,,REP,Total Votes Cast,59,0,56,3
+Todd,C102,Governor,,REP,Under Votes,0,0,0,0
+Todd,C102,Governor,,REP,Over Votes,0,0,0,0
+Todd,C102,Secretary of State,,REP,Michael ADAMS,35,0,33,2
+Todd,C102,Secretary of State,,REP,Stephen L. KNIPPER,10,0,10,0
+Todd,C102,Secretary of State,,REP,Allen MARICLE,6,0,5,1
+Todd,C102,Secretary of State,,REP,Total Votes Cast,51,0,48,3
+Todd,C102,Secretary of State,,REP,Under Votes,8,0,8,0
+Todd,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,C102,Auditor of Public Accounts,,REP,Allison BALL,38,0,35,3
+Todd,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,18,0,18,0
+Todd,C102,Auditor of Public Accounts,,REP,Total Votes Cast,56,0,53,3
+Todd,C102,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Todd,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,C102,State Treasurer,,REP,Andrew COOPERRIDER,18,0,18,0
+Todd,C102,State Treasurer,,REP,Mark H. METCALF,27,0,25,2
+Todd,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,6,1
+Todd,C102,State Treasurer,,REP,Total Votes Cast,52,0,49,3
+Todd,C102,State Treasurer,,REP,Under Votes,7,0,7,0
+Todd,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,C102,Commissioner of Agriculture,,REP,Richard HEATH,23,0,20,3
+Todd,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,27,0,27,0
+Todd,C102,Commissioner of Agriculture,,REP,Total Votes Cast,50,0,47,3
+Todd,C102,Commissioner of Agriculture,,REP,Under Votes,9,0,9,0
+Todd,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,C102,Governor,,DEM,Andy BESHEAR,41,1,40,0
+Todd,C102,Governor,,DEM,Peppy MARTIN,5,0,5,0
+Todd,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Todd,C102,Governor,,DEM,Total Votes Cast,50,1,49,0
+Todd,C102,Governor,,DEM,Under Votes,0,0,0,0
+Todd,C102,Governor,,DEM,Over Votes,0,0,0,0
+Todd,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,1,19,0
+Todd,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,26,0,26,0
+Todd,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,46,1,45,0
+Todd,C102,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Todd,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,D101,Governor,,REP,Daniel CAMERON,10,0,10,0
+Todd,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Todd,D101,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,D101,Governor,,REP,Kelly CRAFT,1,0,1,0
+Todd,D101,Governor,,REP,Eric DETERS,2,2,0,0
+Todd,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,D101,Governor,,REP,Mike HARMON,0,0,0,0
+Todd,D101,Governor,,REP,Alan KECK,0,0,0,0
+Todd,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,D101,Governor,,REP,Ryan QUARLES,2,0,2,0
+Todd,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,D101,Governor,,REP,Total Votes Cast,15,2,13,0
+Todd,D101,Governor,,REP,Under Votes,0,0,0,0
+Todd,D101,Governor,,REP,Over Votes,0,0,0,0
+Todd,D101,Secretary of State,,REP,Michael ADAMS,4,0,4,0
+Todd,D101,Secretary of State,,REP,Stephen L. KNIPPER,7,2,5,0
+Todd,D101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Todd,D101,Secretary of State,,REP,Total Votes Cast,12,2,10,0
+Todd,D101,Secretary of State,,REP,Under Votes,3,0,3,0
+Todd,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,D101,Auditor of Public Accounts,,REP,Allison BALL,8,1,7,0
+Todd,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,4,1,3,0
+Todd,D101,Auditor of Public Accounts,,REP,Total Votes Cast,12,2,10,0
+Todd,D101,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Todd,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,D101,State Treasurer,,REP,Andrew COOPERRIDER,7,1,6,0
+Todd,D101,State Treasurer,,REP,Mark H. METCALF,4,1,3,0
+Todd,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Todd,D101,State Treasurer,,REP,Total Votes Cast,12,2,10,0
+Todd,D101,State Treasurer,,REP,Under Votes,3,0,3,0
+Todd,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,D101,Commissioner of Agriculture,,REP,Richard HEATH,5,1,4,0
+Todd,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,6,1,5,0
+Todd,D101,Commissioner of Agriculture,,REP,Total Votes Cast,11,2,9,0
+Todd,D101,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Todd,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,D101,Governor,,DEM,Andy BESHEAR,11,1,10,0
+Todd,D101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Todd,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Todd,D101,Governor,,DEM,Total Votes Cast,14,2,12,0
+Todd,D101,Governor,,DEM,Under Votes,0,0,0,0
+Todd,D101,Governor,,DEM,Over Votes,0,0,0,0
+Todd,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,0,5,0
+Todd,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,8,2,6,0
+Todd,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,13,2,11,0
+Todd,D101,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Todd,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,D102,Governor,,REP,Daniel CAMERON,34,2,32,0
+Todd,D102,Governor,,REP,Jacob CLARK,3,0,3,0
+Todd,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,D102,Governor,,REP,Kelly CRAFT,13,1,12,0
+Todd,D102,Governor,,REP,Eric DETERS,8,2,6,0
+Todd,D102,Governor,,REP,Bob DeVORE,1,0,1,0
+Todd,D102,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,D102,Governor,,REP,Alan KECK,0,0,0,0
+Todd,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,D102,Governor,,REP,Ryan QUARLES,29,4,24,1
+Todd,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,D102,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Todd,D102,Governor,,REP,Total Votes Cast,91,9,81,1
+Todd,D102,Governor,,REP,Under Votes,0,0,0,0
+Todd,D102,Governor,,REP,Over Votes,0,0,0,0
+Todd,D102,Secretary of State,,REP,Michael ADAMS,66,7,58,1
+Todd,D102,Secretary of State,,REP,Stephen L. KNIPPER,12,0,12,0
+Todd,D102,Secretary of State,,REP,Allen MARICLE,8,1,7,0
+Todd,D102,Secretary of State,,REP,Total Votes Cast,86,8,77,1
+Todd,D102,Secretary of State,,REP,Under Votes,5,1,4,0
+Todd,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,D102,Auditor of Public Accounts,,REP,Allison BALL,54,5,48,1
+Todd,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,28,2,26,0
+Todd,D102,Auditor of Public Accounts,,REP,Total Votes Cast,82,7,74,1
+Todd,D102,Auditor of Public Accounts,,REP,Under Votes,9,2,7,0
+Todd,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,D102,State Treasurer,,REP,Andrew COOPERRIDER,29,5,24,0
+Todd,D102,State Treasurer,,REP,Mark H. METCALF,46,3,43,0
+Todd,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,0,7,1
+Todd,D102,State Treasurer,,REP,Total Votes Cast,83,8,74,1
+Todd,D102,State Treasurer,,REP,Under Votes,8,1,7,0
+Todd,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,D102,Commissioner of Agriculture,,REP,Richard HEATH,43,4,38,1
+Todd,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,36,2,34,0
+Todd,D102,Commissioner of Agriculture,,REP,Total Votes Cast,79,6,72,1
+Todd,D102,Commissioner of Agriculture,,REP,Under Votes,12,3,9,0
+Todd,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,D102,Governor,,DEM,Andy BESHEAR,66,11,54,1
+Todd,D102,Governor,,DEM,Peppy MARTIN,5,0,5,0
+Todd,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",11,0,11,0
+Todd,D102,Governor,,DEM,Total Votes Cast,82,11,70,1
+Todd,D102,Governor,,DEM,Under Votes,0,0,0,0
+Todd,D102,Governor,,DEM,Over Votes,0,0,0,0
+Todd,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,44,5,38,1
+Todd,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,30,4,26,0
+Todd,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,74,9,64,1
+Todd,D102,Commissioner of Agriculture,,DEM,Under Votes,8,2,6,0
+Todd,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,E101,Governor,,REP,Daniel CAMERON,10,0,10,0
+Todd,E101,Governor,,REP,Jacob CLARK,1,0,1,0
+Todd,E101,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,E101,Governor,,REP,Kelly CRAFT,4,0,4,0
+Todd,E101,Governor,,REP,Eric DETERS,3,0,3,0
+Todd,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,E101,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,E101,Governor,,REP,Alan KECK,0,0,0,0
+Todd,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,E101,Governor,,REP,Ryan QUARLES,3,0,3,0
+Todd,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,E101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,E101,Governor,,REP,Total Votes Cast,22,0,22,0
+Todd,E101,Governor,,REP,Under Votes,0,0,0,0
+Todd,E101,Governor,,REP,Over Votes,0,0,0,0
+Todd,E101,Secretary of State,,REP,Michael ADAMS,10,0,10,0
+Todd,E101,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Todd,E101,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Todd,E101,Secretary of State,,REP,Total Votes Cast,18,0,18,0
+Todd,E101,Secretary of State,,REP,Under Votes,4,0,4,0
+Todd,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,E101,Auditor of Public Accounts,,REP,Allison BALL,11,0,11,0
+Todd,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,7,0,7,0
+Todd,E101,Auditor of Public Accounts,,REP,Total Votes Cast,18,0,18,0
+Todd,E101,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Todd,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,E101,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Todd,E101,State Treasurer,,REP,Mark H. METCALF,9,0,9,0
+Todd,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Todd,E101,State Treasurer,,REP,Total Votes Cast,18,0,18,0
+Todd,E101,State Treasurer,,REP,Under Votes,4,0,4,0
+Todd,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,E101,Commissioner of Agriculture,,REP,Richard HEATH,10,0,10,0
+Todd,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,7,0,7,0
+Todd,E101,Commissioner of Agriculture,,REP,Total Votes Cast,17,0,17,0
+Todd,E101,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Todd,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,E101,Governor,,DEM,Andy BESHEAR,10,0,10,0
+Todd,E101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Todd,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Todd,E101,Governor,,DEM,Total Votes Cast,15,0,15,0
+Todd,E101,Governor,,DEM,Under Votes,1,0,1,0
+Todd,E101,Governor,,DEM,Over Votes,0,0,0,0
+Todd,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,0,7,0
+Todd,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,0,6,0
+Todd,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,13,0,13,0
+Todd,E101,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Todd,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Todd,E102,Governor,,REP,Daniel CAMERON,6,0,6,0
+Todd,E102,Governor,,REP,Jacob CLARK,3,0,3,0
+Todd,E102,Governor,,REP,David O. COOPER,0,0,0,0
+Todd,E102,Governor,,REP,Kelly CRAFT,3,0,3,0
+Todd,E102,Governor,,REP,Eric DETERS,3,0,3,0
+Todd,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Todd,E102,Governor,,REP,Mike HARMON,1,0,1,0
+Todd,E102,Governor,,REP,Alan KECK,0,0,0,0
+Todd,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Todd,E102,Governor,,REP,Ryan QUARLES,3,1,2,0
+Todd,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Todd,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Todd,E102,Governor,,REP,Total Votes Cast,19,1,18,0
+Todd,E102,Governor,,REP,Under Votes,0,0,0,0
+Todd,E102,Governor,,REP,Over Votes,0,0,0,0
+Todd,E102,Secretary of State,,REP,Michael ADAMS,10,1,9,0
+Todd,E102,Secretary of State,,REP,Stephen L. KNIPPER,4,0,4,0
+Todd,E102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Todd,E102,Secretary of State,,REP,Total Votes Cast,17,1,16,0
+Todd,E102,Secretary of State,,REP,Under Votes,2,0,2,0
+Todd,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Todd,E102,Auditor of Public Accounts,,REP,Allison BALL,13,1,12,0
+Todd,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Todd,E102,Auditor of Public Accounts,,REP,Total Votes Cast,17,1,16,0
+Todd,E102,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Todd,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Todd,E102,State Treasurer,,REP,Andrew COOPERRIDER,7,0,7,0
+Todd,E102,State Treasurer,,REP,Mark H. METCALF,9,1,8,0
+Todd,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Todd,E102,State Treasurer,,REP,Total Votes Cast,17,1,16,0
+Todd,E102,State Treasurer,,REP,Under Votes,2,0,2,0
+Todd,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Todd,E102,Commissioner of Agriculture,,REP,Richard HEATH,7,0,7,0
+Todd,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,10,1,9,0
+Todd,E102,Commissioner of Agriculture,,REP,Total Votes Cast,17,1,16,0
+Todd,E102,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Todd,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Todd,E102,Governor,,DEM,Andy BESHEAR,11,1,10,0
+Todd,E102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Todd,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Todd,E102,Governor,,DEM,Total Votes Cast,16,1,15,0
+Todd,E102,Governor,,DEM,Under Votes,1,0,1,0
+Todd,E102,Governor,,DEM,Over Votes,0,0,0,0
+Todd,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,1,6,0
+Todd,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,7,0,7,0
+Todd,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,14,1,13,0
+Todd,E102,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Todd,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

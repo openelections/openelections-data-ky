@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Simpson,A101,Governor,,REP,Daniel CAMERON,47,4,43,0
+Simpson,A101,Governor,,REP,Jacob CLARK,2,1,1,0
+Simpson,A101,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,A101,Governor,,REP,Kelly CRAFT,12,1,11,0
+Simpson,A101,Governor,,REP,Eric DETERS,4,1,3,0
+Simpson,A101,Governor,,REP,Bob DeVORE,1,0,1,0
+Simpson,A101,Governor,,REP,Mike HARMON,7,1,6,0
+Simpson,A101,Governor,,REP,Alan KECK,2,0,2,0
+Simpson,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,A101,Governor,,REP,Ryan QUARLES,46,14,32,0
+Simpson,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,A101,Governor,,REP,Total Votes Cast,121,22,99,0
+Simpson,A101,Governor,,REP,Under Votes,0,0,0,0
+Simpson,A101,Governor,,REP,Over Votes,0,0,0,0
+Simpson,A101,Secretary of State,,REP,Michael ADAMS,56,12,44,0
+Simpson,A101,Secretary of State,,REP,Stephen L. KNIPPER,49,10,39,0
+Simpson,A101,Secretary of State,,REP,Allen MARICLE,7,0,7,0
+Simpson,A101,Secretary of State,,REP,Total Votes Cast,112,22,90,0
+Simpson,A101,Secretary of State,,REP,Under Votes,9,0,9,0
+Simpson,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,A101,Auditor of Public Accounts,,REP,Allison BALL,89,20,69,0
+Simpson,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,26,2,24,0
+Simpson,A101,Auditor of Public Accounts,,REP,Total Votes Cast,115,22,93,0
+Simpson,A101,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Simpson,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,A101,State Treasurer,,REP,Andrew COOPERRIDER,57,11,46,0
+Simpson,A101,State Treasurer,,REP,Mark H. METCALF,43,10,33,0
+Simpson,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,1,16,0
+Simpson,A101,State Treasurer,,REP,Total Votes Cast,117,22,95,0
+Simpson,A101,State Treasurer,,REP,Under Votes,4,0,4,0
+Simpson,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,A101,Commissioner of Agriculture,,REP,Richard HEATH,33,7,26,0
+Simpson,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,78,13,65,0
+Simpson,A101,Commissioner of Agriculture,,REP,Total Votes Cast,111,20,91,0
+Simpson,A101,Commissioner of Agriculture,,REP,Under Votes,10,2,8,0
+Simpson,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,A101,Governor,,DEM,Andy BESHEAR,36,11,24,1
+Simpson,A101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Simpson,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Simpson,A101,Governor,,DEM,Total Votes Cast,45,11,33,1
+Simpson,A101,Governor,,DEM,Under Votes,2,1,1,0
+Simpson,A101,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,24,8,15,1
+Simpson,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,19,3,16,0
+Simpson,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,43,11,31,1
+Simpson,A101,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Simpson,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,A102,Governor,,REP,Daniel CAMERON,38,8,29,1
+Simpson,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,A102,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,A102,Governor,,REP,Kelly CRAFT,22,5,17,0
+Simpson,A102,Governor,,REP,Eric DETERS,3,0,3,0
+Simpson,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,A102,Governor,,REP,Mike HARMON,4,1,3,0
+Simpson,A102,Governor,,REP,Alan KECK,1,0,1,0
+Simpson,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,A102,Governor,,REP,Ryan QUARLES,38,8,29,1
+Simpson,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,A102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Simpson,A102,Governor,,REP,Total Votes Cast,107,22,83,2
+Simpson,A102,Governor,,REP,Under Votes,0,0,0,0
+Simpson,A102,Governor,,REP,Over Votes,0,0,0,0
+Simpson,A102,Secretary of State,,REP,Michael ADAMS,53,15,37,1
+Simpson,A102,Secretary of State,,REP,Stephen L. KNIPPER,38,5,32,1
+Simpson,A102,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Simpson,A102,Secretary of State,,REP,Total Votes Cast,95,21,72,2
+Simpson,A102,Secretary of State,,REP,Under Votes,12,1,11,0
+Simpson,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,A102,Auditor of Public Accounts,,REP,Allison BALL,78,14,62,2
+Simpson,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,18,7,11,0
+Simpson,A102,Auditor of Public Accounts,,REP,Total Votes Cast,96,21,73,2
+Simpson,A102,Auditor of Public Accounts,,REP,Under Votes,11,1,10,0
+Simpson,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,A102,State Treasurer,,REP,Andrew COOPERRIDER,70,10,59,1
+Simpson,A102,State Treasurer,,REP,Mark H. METCALF,24,8,15,1
+Simpson,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,3,1,0
+Simpson,A102,State Treasurer,,REP,Total Votes Cast,98,21,75,2
+Simpson,A102,State Treasurer,,REP,Under Votes,9,1,8,0
+Simpson,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,A102,Commissioner of Agriculture,,REP,Richard HEATH,45,8,36,1
+Simpson,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,51,12,38,1
+Simpson,A102,Commissioner of Agriculture,,REP,Total Votes Cast,96,20,74,2
+Simpson,A102,Commissioner of Agriculture,,REP,Under Votes,11,2,9,0
+Simpson,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,A102,Governor,,DEM,Andy BESHEAR,22,7,15,0
+Simpson,A102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Simpson,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,4,1
+Simpson,A102,Governor,,DEM,Total Votes Cast,29,7,21,1
+Simpson,A102,Governor,,DEM,Under Votes,1,0,1,0
+Simpson,A102,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,4,7,1
+Simpson,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,12,2,10,0
+Simpson,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,24,6,17,1
+Simpson,A102,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Simpson,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,A103,Governor,,REP,Daniel CAMERON,16,2,14,0
+Simpson,A103,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,A103,Governor,,REP,David O. COOPER,1,0,1,0
+Simpson,A103,Governor,,REP,Kelly CRAFT,8,1,7,0
+Simpson,A103,Governor,,REP,Eric DETERS,2,0,2,0
+Simpson,A103,Governor,,REP,Bob DeVORE,1,0,1,0
+Simpson,A103,Governor,,REP,Mike HARMON,9,0,9,0
+Simpson,A103,Governor,,REP,Alan KECK,1,0,1,0
+Simpson,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,A103,Governor,,REP,Ryan QUARLES,13,2,11,0
+Simpson,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,A103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,A103,Governor,,REP,Total Votes Cast,51,5,46,0
+Simpson,A103,Governor,,REP,Under Votes,0,0,0,0
+Simpson,A103,Governor,,REP,Over Votes,0,0,0,0
+Simpson,A103,Secretary of State,,REP,Michael ADAMS,19,4,15,0
+Simpson,A103,Secretary of State,,REP,Stephen L. KNIPPER,25,0,25,0
+Simpson,A103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Simpson,A103,Secretary of State,,REP,Total Votes Cast,46,4,42,0
+Simpson,A103,Secretary of State,,REP,Under Votes,5,1,4,0
+Simpson,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,A103,Auditor of Public Accounts,,REP,Allison BALL,34,4,30,0
+Simpson,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,12,0,12,0
+Simpson,A103,Auditor of Public Accounts,,REP,Total Votes Cast,46,4,42,0
+Simpson,A103,Auditor of Public Accounts,,REP,Under Votes,5,1,4,0
+Simpson,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,A103,State Treasurer,,REP,Andrew COOPERRIDER,28,2,26,0
+Simpson,A103,State Treasurer,,REP,Mark H. METCALF,16,2,14,0
+Simpson,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Simpson,A103,State Treasurer,,REP,Total Votes Cast,46,4,42,0
+Simpson,A103,State Treasurer,,REP,Under Votes,5,1,4,0
+Simpson,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,A103,Commissioner of Agriculture,,REP,Richard HEATH,22,3,19,0
+Simpson,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,25,2,23,0
+Simpson,A103,Commissioner of Agriculture,,REP,Total Votes Cast,47,5,42,0
+Simpson,A103,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Simpson,A103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,A103,Governor,,DEM,Andy BESHEAR,17,5,12,0
+Simpson,A103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Simpson,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Simpson,A103,Governor,,DEM,Total Votes Cast,22,5,17,0
+Simpson,A103,Governor,,DEM,Under Votes,1,0,1,0
+Simpson,A103,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Simpson,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,11,3,8,0
+Simpson,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,21,5,16,0
+Simpson,A103,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Simpson,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,B101,Governor,,REP,Daniel CAMERON,23,2,20,1
+Simpson,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,B101,Governor,,REP,David O. COOPER,2,0,2,0
+Simpson,B101,Governor,,REP,Kelly CRAFT,7,1,5,1
+Simpson,B101,Governor,,REP,Eric DETERS,3,0,3,0
+Simpson,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,B101,Governor,,REP,Mike HARMON,1,0,1,0
+Simpson,B101,Governor,,REP,Alan KECK,0,0,0,0
+Simpson,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,B101,Governor,,REP,Ryan QUARLES,66,21,43,2
+Simpson,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,B101,Governor,,REP,Total Votes Cast,102,24,74,4
+Simpson,B101,Governor,,REP,Under Votes,0,0,0,0
+Simpson,B101,Governor,,REP,Over Votes,0,0,0,0
+Simpson,B101,Secretary of State,,REP,Michael ADAMS,47,16,27,4
+Simpson,B101,Secretary of State,,REP,Stephen L. KNIPPER,35,5,30,0
+Simpson,B101,Secretary of State,,REP,Allen MARICLE,6,1,5,0
+Simpson,B101,Secretary of State,,REP,Total Votes Cast,88,22,62,4
+Simpson,B101,Secretary of State,,REP,Under Votes,14,2,12,0
+Simpson,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,B101,Auditor of Public Accounts,,REP,Allison BALL,72,23,45,4
+Simpson,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,1,18,0
+Simpson,B101,Auditor of Public Accounts,,REP,Total Votes Cast,91,24,63,4
+Simpson,B101,Auditor of Public Accounts,,REP,Under Votes,11,0,11,0
+Simpson,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,B101,State Treasurer,,REP,Andrew COOPERRIDER,55,13,42,0
+Simpson,B101,State Treasurer,,REP,Mark H. METCALF,25,2,21,2
+Simpson,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,7,3,2
+Simpson,B101,State Treasurer,,REP,Total Votes Cast,92,22,66,4
+Simpson,B101,State Treasurer,,REP,Under Votes,10,2,8,0
+Simpson,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,B101,Commissioner of Agriculture,,REP,Richard HEATH,25,1,23,1
+Simpson,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,69,21,45,3
+Simpson,B101,Commissioner of Agriculture,,REP,Total Votes Cast,94,22,68,4
+Simpson,B101,Commissioner of Agriculture,,REP,Under Votes,8,2,6,0
+Simpson,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,B101,Governor,,DEM,Andy BESHEAR,39,8,30,1
+Simpson,B101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Simpson,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Simpson,B101,Governor,,DEM,Total Votes Cast,45,8,36,1
+Simpson,B101,Governor,,DEM,Under Votes,0,0,0,0
+Simpson,B101,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,26,5,20,1
+Simpson,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,17,3,14,0
+Simpson,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,43,8,34,1
+Simpson,B101,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Simpson,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,B102,Governor,,REP,Daniel CAMERON,11,2,8,1
+Simpson,B102,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,B102,Governor,,REP,Kelly CRAFT,4,0,4,0
+Simpson,B102,Governor,,REP,Eric DETERS,1,0,1,0
+Simpson,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,B102,Governor,,REP,Mike HARMON,4,0,4,0
+Simpson,B102,Governor,,REP,Alan KECK,0,0,0,0
+Simpson,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,B102,Governor,,REP,Ryan QUARLES,11,2,9,0
+Simpson,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,B102,Governor,,REP,Total Votes Cast,31,4,26,1
+Simpson,B102,Governor,,REP,Under Votes,0,0,0,0
+Simpson,B102,Governor,,REP,Over Votes,0,0,0,0
+Simpson,B102,Secretary of State,,REP,Michael ADAMS,9,0,9,0
+Simpson,B102,Secretary of State,,REP,Stephen L. KNIPPER,16,2,13,1
+Simpson,B102,Secretary of State,,REP,Allen MARICLE,3,2,1,0
+Simpson,B102,Secretary of State,,REP,Total Votes Cast,28,4,23,1
+Simpson,B102,Secretary of State,,REP,Under Votes,3,0,3,0
+Simpson,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,B102,Auditor of Public Accounts,,REP,Allison BALL,19,1,17,1
+Simpson,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,9,3,6,0
+Simpson,B102,Auditor of Public Accounts,,REP,Total Votes Cast,28,4,23,1
+Simpson,B102,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Simpson,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,B102,State Treasurer,,REP,Andrew COOPERRIDER,18,2,15,1
+Simpson,B102,State Treasurer,,REP,Mark H. METCALF,3,0,3,0
+Simpson,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,2,6,0
+Simpson,B102,State Treasurer,,REP,Total Votes Cast,29,4,24,1
+Simpson,B102,State Treasurer,,REP,Under Votes,2,0,2,0
+Simpson,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,B102,Commissioner of Agriculture,,REP,Richard HEATH,7,1,6,0
+Simpson,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,22,3,18,1
+Simpson,B102,Commissioner of Agriculture,,REP,Total Votes Cast,29,4,24,1
+Simpson,B102,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Simpson,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,B102,Governor,,DEM,Andy BESHEAR,18,1,16,1
+Simpson,B102,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Simpson,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Simpson,B102,Governor,,DEM,Total Votes Cast,19,2,16,1
+Simpson,B102,Governor,,DEM,Under Votes,0,0,0,0
+Simpson,B102,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,1,11,0
+Simpson,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,7,1,5,1
+Simpson,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,19,2,16,1
+Simpson,B102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Simpson,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,B103,Governor,,REP,Daniel CAMERON,50,9,39,2
+Simpson,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,B103,Governor,,REP,Kelly CRAFT,28,5,23,0
+Simpson,B103,Governor,,REP,Eric DETERS,5,3,2,0
+Simpson,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,B103,Governor,,REP,Mike HARMON,4,2,2,0
+Simpson,B103,Governor,,REP,Alan KECK,2,1,1,0
+Simpson,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,B103,Governor,,REP,Ryan QUARLES,45,17,27,1
+Simpson,B103,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Simpson,B103,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Simpson,B103,Governor,,REP,Total Votes Cast,137,37,97,3
+Simpson,B103,Governor,,REP,Under Votes,0,0,0,0
+Simpson,B103,Governor,,REP,Over Votes,0,0,0,0
+Simpson,B103,Secretary of State,,REP,Michael ADAMS,81,25,54,2
+Simpson,B103,Secretary of State,,REP,Stephen L. KNIPPER,39,7,31,1
+Simpson,B103,Secretary of State,,REP,Allen MARICLE,9,4,5,0
+Simpson,B103,Secretary of State,,REP,Total Votes Cast,129,36,90,3
+Simpson,B103,Secretary of State,,REP,Under Votes,8,1,7,0
+Simpson,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,B103,Auditor of Public Accounts,,REP,Allison BALL,106,32,71,3
+Simpson,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,18,4,14,0
+Simpson,B103,Auditor of Public Accounts,,REP,Total Votes Cast,124,36,85,3
+Simpson,B103,Auditor of Public Accounts,,REP,Under Votes,13,1,12,0
+Simpson,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,B103,State Treasurer,,REP,Andrew COOPERRIDER,61,20,40,1
+Simpson,B103,State Treasurer,,REP,Mark H. METCALF,46,11,33,2
+Simpson,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",16,4,12,0
+Simpson,B103,State Treasurer,,REP,Total Votes Cast,123,35,85,3
+Simpson,B103,State Treasurer,,REP,Under Votes,13,2,11,0
+Simpson,B103,State Treasurer,,REP,Over Votes,1,0,1,0
+Simpson,B103,Commissioner of Agriculture,,REP,Richard HEATH,50,13,37,0
+Simpson,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,75,23,49,3
+Simpson,B103,Commissioner of Agriculture,,REP,Total Votes Cast,125,36,86,3
+Simpson,B103,Commissioner of Agriculture,,REP,Under Votes,12,1,11,0
+Simpson,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,B103,Governor,,DEM,Andy BESHEAR,56,12,42,2
+Simpson,B103,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Simpson,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,2,2,0
+Simpson,B103,Governor,,DEM,Total Votes Cast,64,14,48,2
+Simpson,B103,Governor,,DEM,Under Votes,2,0,2,0
+Simpson,B103,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,11,22,0
+Simpson,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,25,3,20,2
+Simpson,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,58,14,42,2
+Simpson,B103,Commissioner of Agriculture,,DEM,Under Votes,8,0,8,0
+Simpson,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,C101,Governor,,REP,Daniel CAMERON,10,1,9,0
+Simpson,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,C101,Governor,,REP,Kelly CRAFT,5,2,3,0
+Simpson,C101,Governor,,REP,Eric DETERS,1,0,1,0
+Simpson,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,C101,Governor,,REP,Mike HARMON,2,0,2,0
+Simpson,C101,Governor,,REP,Alan KECK,1,0,1,0
+Simpson,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,C101,Governor,,REP,Ryan QUARLES,11,1,9,1
+Simpson,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,C101,Governor,,REP,Total Votes Cast,30,4,25,1
+Simpson,C101,Governor,,REP,Under Votes,0,0,0,0
+Simpson,C101,Governor,,REP,Over Votes,0,0,0,0
+Simpson,C101,Secretary of State,,REP,Michael ADAMS,13,2,10,1
+Simpson,C101,Secretary of State,,REP,Stephen L. KNIPPER,12,2,10,0
+Simpson,C101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Simpson,C101,Secretary of State,,REP,Total Votes Cast,26,4,21,1
+Simpson,C101,Secretary of State,,REP,Under Votes,4,0,4,0
+Simpson,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,C101,Auditor of Public Accounts,,REP,Allison BALL,18,4,13,1
+Simpson,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Simpson,C101,Auditor of Public Accounts,,REP,Total Votes Cast,23,4,18,1
+Simpson,C101,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Simpson,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,C101,State Treasurer,,REP,Andrew COOPERRIDER,13,2,10,1
+Simpson,C101,State Treasurer,,REP,Mark H. METCALF,10,1,9,0
+Simpson,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,1,2,0
+Simpson,C101,State Treasurer,,REP,Total Votes Cast,26,4,21,1
+Simpson,C101,State Treasurer,,REP,Under Votes,4,0,4,0
+Simpson,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,C101,Commissioner of Agriculture,,REP,Richard HEATH,5,1,4,0
+Simpson,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,18,3,14,1
+Simpson,C101,Commissioner of Agriculture,,REP,Total Votes Cast,23,4,18,1
+Simpson,C101,Commissioner of Agriculture,,REP,Under Votes,7,0,7,0
+Simpson,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,C101,Governor,,DEM,Andy BESHEAR,17,8,8,1
+Simpson,C101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Simpson,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Simpson,C101,Governor,,DEM,Total Votes Cast,19,8,10,1
+Simpson,C101,Governor,,DEM,Under Votes,0,0,0,0
+Simpson,C101,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,6,3,0
+Simpson,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,1,4,1
+Simpson,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,15,7,7,1
+Simpson,C101,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Simpson,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,C103,Governor,,REP,Daniel CAMERON,17,1,16,0
+Simpson,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,C103,Governor,,REP,Kelly CRAFT,14,0,14,0
+Simpson,C103,Governor,,REP,Eric DETERS,2,0,2,0
+Simpson,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,C103,Governor,,REP,Mike HARMON,1,0,1,0
+Simpson,C103,Governor,,REP,Alan KECK,0,0,0,0
+Simpson,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,C103,Governor,,REP,Ryan QUARLES,25,6,19,0
+Simpson,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,C103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,C103,Governor,,REP,Total Votes Cast,59,7,52,0
+Simpson,C103,Governor,,REP,Under Votes,0,0,0,0
+Simpson,C103,Governor,,REP,Over Votes,0,0,0,0
+Simpson,C103,Secretary of State,,REP,Michael ADAMS,28,5,23,0
+Simpson,C103,Secretary of State,,REP,Stephen L. KNIPPER,20,1,19,0
+Simpson,C103,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Simpson,C103,Secretary of State,,REP,Total Votes Cast,49,6,43,0
+Simpson,C103,Secretary of State,,REP,Under Votes,10,1,9,0
+Simpson,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,C103,Auditor of Public Accounts,,REP,Allison BALL,35,5,30,0
+Simpson,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,12,2,10,0
+Simpson,C103,Auditor of Public Accounts,,REP,Total Votes Cast,47,7,40,0
+Simpson,C103,Auditor of Public Accounts,,REP,Under Votes,12,0,12,0
+Simpson,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,C103,State Treasurer,,REP,Andrew COOPERRIDER,26,2,24,0
+Simpson,C103,State Treasurer,,REP,Mark H. METCALF,14,4,10,0
+Simpson,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Simpson,C103,State Treasurer,,REP,Total Votes Cast,43,6,37,0
+Simpson,C103,State Treasurer,,REP,Under Votes,16,1,15,0
+Simpson,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,C103,Commissioner of Agriculture,,REP,Richard HEATH,22,2,20,0
+Simpson,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,24,4,20,0
+Simpson,C103,Commissioner of Agriculture,,REP,Total Votes Cast,46,6,40,0
+Simpson,C103,Commissioner of Agriculture,,REP,Under Votes,13,1,12,0
+Simpson,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,C103,Governor,,DEM,Andy BESHEAR,35,9,23,3
+Simpson,C103,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Simpson,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Simpson,C103,Governor,,DEM,Total Votes Cast,39,9,27,3
+Simpson,C103,Governor,,DEM,Under Votes,0,0,0,0
+Simpson,C103,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,6,16,3
+Simpson,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,12,2,10,0
+Simpson,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,37,8,26,3
+Simpson,C103,Commissioner of Agriculture,,DEM,Under Votes,2,1,1,0
+Simpson,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,C104,Governor,,REP,Daniel CAMERON,80,11,68,1
+Simpson,C104,Governor,,REP,Jacob CLARK,1,0,1,0
+Simpson,C104,Governor,,REP,David O. COOPER,2,1,0,1
+Simpson,C104,Governor,,REP,Kelly CRAFT,34,8,26,0
+Simpson,C104,Governor,,REP,Eric DETERS,1,1,0,0
+Simpson,C104,Governor,,REP,Bob DeVORE,1,1,0,0
+Simpson,C104,Governor,,REP,Mike HARMON,9,0,8,1
+Simpson,C104,Governor,,REP,Alan KECK,3,1,2,0
+Simpson,C104,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Simpson,C104,Governor,,REP,Ryan QUARLES,84,17,65,2
+Simpson,C104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,C104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,C104,Governor,,REP,Total Votes Cast,216,40,171,5
+Simpson,C104,Governor,,REP,Under Votes,0,0,0,0
+Simpson,C104,Governor,,REP,Over Votes,0,0,0,0
+Simpson,C104,Secretary of State,,REP,Michael ADAMS,107,23,80,4
+Simpson,C104,Secretary of State,,REP,Stephen L. KNIPPER,76,11,64,1
+Simpson,C104,Secretary of State,,REP,Allen MARICLE,10,1,9,0
+Simpson,C104,Secretary of State,,REP,Total Votes Cast,193,35,153,5
+Simpson,C104,Secretary of State,,REP,Under Votes,23,5,18,0
+Simpson,C104,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,C104,Auditor of Public Accounts,,REP,Allison BALL,152,29,119,4
+Simpson,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,40,7,32,1
+Simpson,C104,Auditor of Public Accounts,,REP,Total Votes Cast,192,36,151,5
+Simpson,C104,Auditor of Public Accounts,,REP,Under Votes,24,4,20,0
+Simpson,C104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,C104,State Treasurer,,REP,Andrew COOPERRIDER,103,18,83,2
+Simpson,C104,State Treasurer,,REP,Mark H. METCALF,78,17,60,1
+Simpson,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",20,3,15,2
+Simpson,C104,State Treasurer,,REP,Total Votes Cast,201,38,158,5
+Simpson,C104,State Treasurer,,REP,Under Votes,15,2,13,0
+Simpson,C104,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,C104,Commissioner of Agriculture,,REP,Richard HEATH,81,17,62,2
+Simpson,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,111,19,89,3
+Simpson,C104,Commissioner of Agriculture,,REP,Total Votes Cast,192,36,151,5
+Simpson,C104,Commissioner of Agriculture,,REP,Under Votes,24,4,20,0
+Simpson,C104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,C104,Governor,,DEM,Andy BESHEAR,68,13,53,2
+Simpson,C104,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Simpson,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Simpson,C104,Governor,,DEM,Total Votes Cast,79,14,63,2
+Simpson,C104,Governor,,DEM,Under Votes,3,1,2,0
+Simpson,C104,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,50,10,39,1
+Simpson,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,22,4,18,0
+Simpson,C104,Commissioner of Agriculture,,DEM,Total Votes Cast,72,14,57,1
+Simpson,C104,Commissioner of Agriculture,,DEM,Under Votes,10,1,8,1
+Simpson,C104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,D101,Governor,,REP,Daniel CAMERON,12,1,11,0
+Simpson,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,D101,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,D101,Governor,,REP,Kelly CRAFT,6,2,3,1
+Simpson,D101,Governor,,REP,Eric DETERS,0,0,0,0
+Simpson,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,D101,Governor,,REP,Mike HARMON,3,0,3,0
+Simpson,D101,Governor,,REP,Alan KECK,1,0,1,0
+Simpson,D101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Simpson,D101,Governor,,REP,Ryan QUARLES,20,3,17,0
+Simpson,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,D101,Governor,,REP,Total Votes Cast,43,6,36,1
+Simpson,D101,Governor,,REP,Under Votes,0,0,0,0
+Simpson,D101,Governor,,REP,Over Votes,0,0,0,0
+Simpson,D101,Secretary of State,,REP,Michael ADAMS,14,2,11,1
+Simpson,D101,Secretary of State,,REP,Stephen L. KNIPPER,19,1,18,0
+Simpson,D101,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Simpson,D101,Secretary of State,,REP,Total Votes Cast,35,3,31,1
+Simpson,D101,Secretary of State,,REP,Under Votes,8,3,5,0
+Simpson,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,D101,Auditor of Public Accounts,,REP,Allison BALL,29,4,24,1
+Simpson,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Simpson,D101,Auditor of Public Accounts,,REP,Total Votes Cast,38,4,33,1
+Simpson,D101,Auditor of Public Accounts,,REP,Under Votes,5,2,3,0
+Simpson,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,D101,State Treasurer,,REP,Andrew COOPERRIDER,14,2,11,1
+Simpson,D101,State Treasurer,,REP,Mark H. METCALF,21,2,19,0
+Simpson,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Simpson,D101,State Treasurer,,REP,Total Votes Cast,36,4,31,1
+Simpson,D101,State Treasurer,,REP,Under Votes,7,2,5,0
+Simpson,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,D101,Commissioner of Agriculture,,REP,Richard HEATH,13,1,11,1
+Simpson,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,24,3,21,0
+Simpson,D101,Commissioner of Agriculture,,REP,Total Votes Cast,37,4,32,1
+Simpson,D101,Commissioner of Agriculture,,REP,Under Votes,5,2,3,0
+Simpson,D101,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Simpson,D101,Governor,,DEM,Andy BESHEAR,13,4,9,0
+Simpson,D101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Simpson,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Simpson,D101,Governor,,DEM,Total Votes Cast,14,4,10,0
+Simpson,D101,Governor,,DEM,Under Votes,1,0,1,0
+Simpson,D101,Governor,,DEM,Over Votes,1,0,1,0
+Simpson,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,4,8,0
+Simpson,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Simpson,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,15,4,11,0
+Simpson,D101,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Simpson,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,D102,Governor,,REP,Daniel CAMERON,17,3,14,0
+Simpson,D102,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Simpson,D102,Governor,,REP,Kelly CRAFT,5,2,3,0
+Simpson,D102,Governor,,REP,Eric DETERS,1,0,1,0
+Simpson,D102,Governor,,REP,Bob DeVORE,1,0,1,0
+Simpson,D102,Governor,,REP,Mike HARMON,4,0,4,0
+Simpson,D102,Governor,,REP,Alan KECK,4,2,2,0
+Simpson,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,D102,Governor,,REP,Ryan QUARLES,29,7,22,0
+Simpson,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,D102,Governor,,REP,Total Votes Cast,61,14,47,0
+Simpson,D102,Governor,,REP,Under Votes,0,0,0,0
+Simpson,D102,Governor,,REP,Over Votes,0,0,0,0
+Simpson,D102,Secretary of State,,REP,Michael ADAMS,30,8,22,0
+Simpson,D102,Secretary of State,,REP,Stephen L. KNIPPER,23,5,18,0
+Simpson,D102,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Simpson,D102,Secretary of State,,REP,Total Votes Cast,53,13,40,0
+Simpson,D102,Secretary of State,,REP,Under Votes,8,1,7,0
+Simpson,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,D102,Auditor of Public Accounts,,REP,Allison BALL,41,10,31,0
+Simpson,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,12,3,9,0
+Simpson,D102,Auditor of Public Accounts,,REP,Total Votes Cast,53,13,40,0
+Simpson,D102,Auditor of Public Accounts,,REP,Under Votes,8,1,7,0
+Simpson,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,D102,State Treasurer,,REP,Andrew COOPERRIDER,25,5,20,0
+Simpson,D102,State Treasurer,,REP,Mark H. METCALF,21,6,15,0
+Simpson,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,2,5,0
+Simpson,D102,State Treasurer,,REP,Total Votes Cast,53,13,40,0
+Simpson,D102,State Treasurer,,REP,Under Votes,8,1,7,0
+Simpson,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,D102,Commissioner of Agriculture,,REP,Richard HEATH,23,8,15,0
+Simpson,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,31,5,26,0
+Simpson,D102,Commissioner of Agriculture,,REP,Total Votes Cast,54,13,41,0
+Simpson,D102,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Simpson,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,D102,Governor,,DEM,Andy BESHEAR,20,2,18,0
+Simpson,D102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Simpson,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Simpson,D102,Governor,,DEM,Total Votes Cast,23,2,21,0
+Simpson,D102,Governor,,DEM,Under Votes,1,0,1,0
+Simpson,D102,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,8,0,8,0
+Simpson,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,16,2,14,0
+Simpson,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,24,2,22,0
+Simpson,D102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Simpson,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,D103,Governor,,REP,Daniel CAMERON,10,0,10,0
+Simpson,D103,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,D103,Governor,,REP,David O. COOPER,1,0,1,0
+Simpson,D103,Governor,,REP,Kelly CRAFT,5,0,5,0
+Simpson,D103,Governor,,REP,Eric DETERS,1,1,0,0
+Simpson,D103,Governor,,REP,Bob DeVORE,0,0,0,0
+Simpson,D103,Governor,,REP,Mike HARMON,4,1,3,0
+Simpson,D103,Governor,,REP,Alan KECK,0,0,0,0
+Simpson,D103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,D103,Governor,,REP,Ryan QUARLES,7,3,3,1
+Simpson,D103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,D103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Simpson,D103,Governor,,REP,Total Votes Cast,28,5,22,1
+Simpson,D103,Governor,,REP,Under Votes,0,0,0,0
+Simpson,D103,Governor,,REP,Over Votes,0,0,0,0
+Simpson,D103,Secretary of State,,REP,Michael ADAMS,18,3,15,0
+Simpson,D103,Secretary of State,,REP,Stephen L. KNIPPER,6,2,3,1
+Simpson,D103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Simpson,D103,Secretary of State,,REP,Total Votes Cast,26,5,20,1
+Simpson,D103,Secretary of State,,REP,Under Votes,2,0,2,0
+Simpson,D103,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,D103,Auditor of Public Accounts,,REP,Allison BALL,19,3,15,1
+Simpson,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,6,2,4,0
+Simpson,D103,Auditor of Public Accounts,,REP,Total Votes Cast,25,5,19,1
+Simpson,D103,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Simpson,D103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,D103,State Treasurer,,REP,Andrew COOPERRIDER,10,4,5,1
+Simpson,D103,State Treasurer,,REP,Mark H. METCALF,8,1,7,0
+Simpson,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Simpson,D103,State Treasurer,,REP,Total Votes Cast,25,5,19,1
+Simpson,D103,State Treasurer,,REP,Under Votes,3,0,3,0
+Simpson,D103,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,D103,Commissioner of Agriculture,,REP,Richard HEATH,16,4,11,1
+Simpson,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,10,1,9,0
+Simpson,D103,Commissioner of Agriculture,,REP,Total Votes Cast,26,5,20,1
+Simpson,D103,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Simpson,D103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,D103,Governor,,DEM,Andy BESHEAR,45,17,27,1
+Simpson,D103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Simpson,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Simpson,D103,Governor,,DEM,Total Votes Cast,49,17,31,1
+Simpson,D103,Governor,,DEM,Under Votes,0,0,0,0
+Simpson,D103,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,28,9,18,1
+Simpson,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,16,4,12,0
+Simpson,D103,Commissioner of Agriculture,,DEM,Total Votes Cast,44,13,30,1
+Simpson,D103,Commissioner of Agriculture,,DEM,Under Votes,5,4,1,0
+Simpson,D103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Simpson,D104,Governor,,REP,Daniel CAMERON,13,0,13,0
+Simpson,D104,Governor,,REP,Jacob CLARK,0,0,0,0
+Simpson,D104,Governor,,REP,David O. COOPER,1,0,1,0
+Simpson,D104,Governor,,REP,Kelly CRAFT,18,7,11,0
+Simpson,D104,Governor,,REP,Eric DETERS,3,1,2,0
+Simpson,D104,Governor,,REP,Bob DeVORE,1,0,1,0
+Simpson,D104,Governor,,REP,Mike HARMON,2,0,2,0
+Simpson,D104,Governor,,REP,Alan KECK,2,0,2,0
+Simpson,D104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Simpson,D104,Governor,,REP,Ryan QUARLES,10,3,7,0
+Simpson,D104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Simpson,D104,Governor,,REP,Robbie C. SMITH,3,0,3,0
+Simpson,D104,Governor,,REP,Total Votes Cast,53,11,42,0
+Simpson,D104,Governor,,REP,Under Votes,1,1,0,0
+Simpson,D104,Governor,,REP,Over Votes,0,0,0,0
+Simpson,D104,Secretary of State,,REP,Michael ADAMS,24,5,19,0
+Simpson,D104,Secretary of State,,REP,Stephen L. KNIPPER,18,2,16,0
+Simpson,D104,Secretary of State,,REP,Allen MARICLE,6,1,5,0
+Simpson,D104,Secretary of State,,REP,Total Votes Cast,48,8,40,0
+Simpson,D104,Secretary of State,,REP,Under Votes,6,4,2,0
+Simpson,D104,Secretary of State,,REP,Over Votes,0,0,0,0
+Simpson,D104,Auditor of Public Accounts,,REP,Allison BALL,34,4,30,0
+Simpson,D104,Auditor of Public Accounts,,REP,Derek PETTEYS,12,2,10,0
+Simpson,D104,Auditor of Public Accounts,,REP,Total Votes Cast,46,6,40,0
+Simpson,D104,Auditor of Public Accounts,,REP,Under Votes,8,6,2,0
+Simpson,D104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Simpson,D104,State Treasurer,,REP,Andrew COOPERRIDER,31,5,26,0
+Simpson,D104,State Treasurer,,REP,Mark H. METCALF,10,1,9,0
+Simpson,D104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Simpson,D104,State Treasurer,,REP,Total Votes Cast,44,6,38,0
+Simpson,D104,State Treasurer,,REP,Under Votes,10,6,4,0
+Simpson,D104,State Treasurer,,REP,Over Votes,0,0,0,0
+Simpson,D104,Commissioner of Agriculture,,REP,Richard HEATH,24,1,23,0
+Simpson,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,21,5,16,0
+Simpson,D104,Commissioner of Agriculture,,REP,Total Votes Cast,45,6,39,0
+Simpson,D104,Commissioner of Agriculture,,REP,Under Votes,9,6,3,0
+Simpson,D104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Simpson,D104,Governor,,DEM,Andy BESHEAR,28,1,26,1
+Simpson,D104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Simpson,D104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Simpson,D104,Governor,,DEM,Total Votes Cast,29,1,27,1
+Simpson,D104,Governor,,DEM,Under Votes,1,0,1,0
+Simpson,D104,Governor,,DEM,Over Votes,0,0,0,0
+Simpson,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,1,13,1
+Simpson,D104,Commissioner of Agriculture,,DEM,Mikael MALONE,12,0,12,0
+Simpson,D104,Commissioner of Agriculture,,DEM,Total Votes Cast,27,1,25,1
+Simpson,D104,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Simpson,D104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

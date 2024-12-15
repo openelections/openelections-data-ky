@@ -1,0 +1,961 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Taylor,A101,Governor,,REP,Daniel CAMERON,39,6,31,2
+Taylor,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,A101,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,A101,Governor,,REP,Kelly CRAFT,33,5,28,0
+Taylor,A101,Governor,,REP,Eric DETERS,1,0,1,0
+Taylor,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Taylor,A101,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,A101,Governor,,REP,Ryan QUARLES,20,9,11,0
+Taylor,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,A101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Taylor,A101,Governor,,REP,Total Votes Cast,95,20,73,2
+Taylor,A101,Governor,,REP,Under Votes,0,0,0,0
+Taylor,A101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,A101,Secretary of State,,REP,Michael ADAMS,55,14,39,2
+Taylor,A101,Secretary of State,,REP,Stephen L. KNIPPER,23,1,22,0
+Taylor,A101,Secretary of State,,REP,Allen MARICLE,6,2,4,0
+Taylor,A101,Secretary of State,,REP,Total Votes Cast,84,17,65,2
+Taylor,A101,Secretary of State,,REP,Under Votes,11,3,8,0
+Taylor,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,A101,Auditor of Public Accounts,,REP,Allison BALL,66,15,49,2
+Taylor,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,16,2,14,0
+Taylor,A101,Auditor of Public Accounts,,REP,Total Votes Cast,82,17,63,2
+Taylor,A101,Auditor of Public Accounts,,REP,Under Votes,13,3,10,0
+Taylor,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,A101,State Treasurer,,REP,Andrew COOPERRIDER,21,3,18,0
+Taylor,A101,State Treasurer,,REP,Mark H. METCALF,53,15,36,2
+Taylor,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Taylor,A101,State Treasurer,,REP,Total Votes Cast,81,18,61,2
+Taylor,A101,State Treasurer,,REP,Under Votes,14,2,12,0
+Taylor,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,A101,Commissioner of Agriculture,,REP,Richard HEATH,38,7,31,0
+Taylor,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,47,13,32,2
+Taylor,A101,Commissioner of Agriculture,,REP,Total Votes Cast,85,20,63,2
+Taylor,A101,Commissioner of Agriculture,,REP,Under Votes,10,0,10,0
+Taylor,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,A101,Governor,,DEM,Andy BESHEAR,11,5,3,3
+Taylor,A101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Taylor,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Taylor,A101,Governor,,DEM,Total Votes Cast,12,5,4,3
+Taylor,A101,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,A101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,2,1,2
+Taylor,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,4,2,2,0
+Taylor,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,9,4,3,2
+Taylor,A101,Commissioner of Agriculture,,DEM,Under Votes,3,1,1,1
+Taylor,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,A102,Governor,,REP,Daniel CAMERON,30,7,23,0
+Taylor,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,A102,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,A102,Governor,,REP,Kelly CRAFT,77,9,67,1
+Taylor,A102,Governor,,REP,Eric DETERS,3,0,3,0
+Taylor,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,A102,Governor,,REP,Mike HARMON,1,0,1,0
+Taylor,A102,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,A102,Governor,,REP,Ryan QUARLES,38,8,29,1
+Taylor,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,A102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Taylor,A102,Governor,,REP,Total Votes Cast,150,24,124,2
+Taylor,A102,Governor,,REP,Under Votes,0,0,0,0
+Taylor,A102,Governor,,REP,Over Votes,0,0,0,0
+Taylor,A102,Secretary of State,,REP,Michael ADAMS,101,19,80,2
+Taylor,A102,Secretary of State,,REP,Stephen L. KNIPPER,21,3,18,0
+Taylor,A102,Secretary of State,,REP,Allen MARICLE,10,2,8,0
+Taylor,A102,Secretary of State,,REP,Total Votes Cast,132,24,106,2
+Taylor,A102,Secretary of State,,REP,Under Votes,18,0,18,0
+Taylor,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,A102,Auditor of Public Accounts,,REP,Allison BALL,104,18,84,2
+Taylor,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,29,5,24,0
+Taylor,A102,Auditor of Public Accounts,,REP,Total Votes Cast,133,23,108,2
+Taylor,A102,Auditor of Public Accounts,,REP,Under Votes,17,1,16,0
+Taylor,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,A102,State Treasurer,,REP,Andrew COOPERRIDER,32,6,26,0
+Taylor,A102,State Treasurer,,REP,Mark H. METCALF,74,12,62,0
+Taylor,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,6,13,2
+Taylor,A102,State Treasurer,,REP,Total Votes Cast,127,24,101,2
+Taylor,A102,State Treasurer,,REP,Under Votes,23,0,23,0
+Taylor,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,A102,Commissioner of Agriculture,,REP,Richard HEATH,83,7,75,1
+Taylor,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,55,16,38,1
+Taylor,A102,Commissioner of Agriculture,,REP,Total Votes Cast,138,23,113,2
+Taylor,A102,Commissioner of Agriculture,,REP,Under Votes,12,1,11,0
+Taylor,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,A102,Governor,,DEM,Andy BESHEAR,29,10,19,0
+Taylor,A102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Taylor,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Taylor,A102,Governor,,DEM,Total Votes Cast,32,10,22,0
+Taylor,A102,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,A102,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,5,13,0
+Taylor,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,12,5,7,0
+Taylor,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,30,10,20,0
+Taylor,A102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Taylor,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,A104,Governor,,REP,Daniel CAMERON,83,14,69,0
+Taylor,A104,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,A104,Governor,,REP,David O. COOPER,1,1,0,0
+Taylor,A104,Governor,,REP,Kelly CRAFT,151,39,110,2
+Taylor,A104,Governor,,REP,Eric DETERS,5,1,4,0
+Taylor,A104,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,A104,Governor,,REP,Mike HARMON,4,4,0,0
+Taylor,A104,Governor,,REP,Alan KECK,5,0,3,2
+Taylor,A104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,A104,Governor,,REP,Ryan QUARLES,44,7,37,0
+Taylor,A104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,A104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,A104,Governor,,REP,Total Votes Cast,293,66,223,4
+Taylor,A104,Governor,,REP,Under Votes,1,0,1,0
+Taylor,A104,Governor,,REP,Over Votes,0,0,0,0
+Taylor,A104,Secretary of State,,REP,Michael ADAMS,176,46,127,3
+Taylor,A104,Secretary of State,,REP,Stephen L. KNIPPER,41,5,35,1
+Taylor,A104,Secretary of State,,REP,Allen MARICLE,10,1,9,0
+Taylor,A104,Secretary of State,,REP,Total Votes Cast,227,52,171,4
+Taylor,A104,Secretary of State,,REP,Under Votes,67,14,53,0
+Taylor,A104,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,A104,Auditor of Public Accounts,,REP,Allison BALL,190,44,142,4
+Taylor,A104,Auditor of Public Accounts,,REP,Derek PETTEYS,54,12,42,0
+Taylor,A104,Auditor of Public Accounts,,REP,Total Votes Cast,244,56,184,4
+Taylor,A104,Auditor of Public Accounts,,REP,Under Votes,50,10,40,0
+Taylor,A104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,A104,State Treasurer,,REP,Andrew COOPERRIDER,63,18,44,1
+Taylor,A104,State Treasurer,,REP,Mark H. METCALF,123,27,95,1
+Taylor,A104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",41,9,30,2
+Taylor,A104,State Treasurer,,REP,Total Votes Cast,227,54,169,4
+Taylor,A104,State Treasurer,,REP,Under Votes,67,12,55,0
+Taylor,A104,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,A104,Commissioner of Agriculture,,REP,Richard HEATH,110,30,79,1
+Taylor,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,121,24,94,3
+Taylor,A104,Commissioner of Agriculture,,REP,Total Votes Cast,231,54,173,4
+Taylor,A104,Commissioner of Agriculture,,REP,Under Votes,63,12,51,0
+Taylor,A104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,A104,Governor,,DEM,Andy BESHEAR,74,18,55,1
+Taylor,A104,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Taylor,A104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Taylor,A104,Governor,,DEM,Total Votes Cast,86,19,66,1
+Taylor,A104,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,A104,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,42,9,32,1
+Taylor,A104,Commissioner of Agriculture,,DEM,Mikael MALONE,32,6,26,0
+Taylor,A104,Commissioner of Agriculture,,DEM,Total Votes Cast,74,15,58,1
+Taylor,A104,Commissioner of Agriculture,,DEM,Under Votes,12,4,8,0
+Taylor,A104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,B101,Governor,,REP,Daniel CAMERON,51,8,41,2
+Taylor,B101,Governor,,REP,Jacob CLARK,1,0,1,0
+Taylor,B101,Governor,,REP,David O. COOPER,1,0,1,0
+Taylor,B101,Governor,,REP,Kelly CRAFT,61,13,48,0
+Taylor,B101,Governor,,REP,Eric DETERS,14,2,12,0
+Taylor,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,B101,Governor,,REP,Mike HARMON,3,0,3,0
+Taylor,B101,Governor,,REP,Alan KECK,2,0,1,1
+Taylor,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,B101,Governor,,REP,Ryan QUARLES,21,4,17,0
+Taylor,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,B101,Governor,,REP,Total Votes Cast,154,27,124,3
+Taylor,B101,Governor,,REP,Under Votes,1,1,0,0
+Taylor,B101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,B101,Secretary of State,,REP,Michael ADAMS,90,18,69,3
+Taylor,B101,Secretary of State,,REP,Stephen L. KNIPPER,36,3,33,0
+Taylor,B101,Secretary of State,,REP,Allen MARICLE,11,1,10,0
+Taylor,B101,Secretary of State,,REP,Total Votes Cast,137,22,112,3
+Taylor,B101,Secretary of State,,REP,Under Votes,18,6,12,0
+Taylor,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,B101,Auditor of Public Accounts,,REP,Allison BALL,107,20,85,2
+Taylor,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,35,5,29,1
+Taylor,B101,Auditor of Public Accounts,,REP,Total Votes Cast,142,25,114,3
+Taylor,B101,Auditor of Public Accounts,,REP,Under Votes,13,3,10,0
+Taylor,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,B101,State Treasurer,,REP,Andrew COOPERRIDER,37,7,30,0
+Taylor,B101,State Treasurer,,REP,Mark H. METCALF,82,11,68,3
+Taylor,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",14,2,12,0
+Taylor,B101,State Treasurer,,REP,Total Votes Cast,133,20,110,3
+Taylor,B101,State Treasurer,,REP,Under Votes,22,8,14,0
+Taylor,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,B101,Commissioner of Agriculture,,REP,Richard HEATH,65,15,47,3
+Taylor,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,70,7,63,0
+Taylor,B101,Commissioner of Agriculture,,REP,Total Votes Cast,135,22,110,3
+Taylor,B101,Commissioner of Agriculture,,REP,Under Votes,20,6,14,0
+Taylor,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,B101,Governor,,DEM,Andy BESHEAR,25,7,18,0
+Taylor,B101,Governor,,DEM,Peppy MARTIN,2,0,1,1
+Taylor,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Taylor,B101,Governor,,DEM,Total Votes Cast,29,7,21,1
+Taylor,B101,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,B101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,3,11,0
+Taylor,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,15,4,10,1
+Taylor,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,29,7,21,1
+Taylor,B101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Taylor,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,B102,Governor,,REP,Daniel CAMERON,60,14,44,2
+Taylor,B102,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,B102,Governor,,REP,Kelly CRAFT,88,23,64,1
+Taylor,B102,Governor,,REP,Eric DETERS,5,2,3,0
+Taylor,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,B102,Governor,,REP,Mike HARMON,5,0,5,0
+Taylor,B102,Governor,,REP,Alan KECK,1,0,1,0
+Taylor,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,B102,Governor,,REP,Ryan QUARLES,28,8,19,1
+Taylor,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,B102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Taylor,B102,Governor,,REP,Total Votes Cast,188,47,137,4
+Taylor,B102,Governor,,REP,Under Votes,0,0,0,0
+Taylor,B102,Governor,,REP,Over Votes,0,0,0,0
+Taylor,B102,Secretary of State,,REP,Michael ADAMS,126,39,85,2
+Taylor,B102,Secretary of State,,REP,Stephen L. KNIPPER,21,1,18,2
+Taylor,B102,Secretary of State,,REP,Allen MARICLE,19,3,16,0
+Taylor,B102,Secretary of State,,REP,Total Votes Cast,166,43,119,4
+Taylor,B102,Secretary of State,,REP,Under Votes,22,4,18,0
+Taylor,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,B102,Auditor of Public Accounts,,REP,Allison BALL,141,39,99,3
+Taylor,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,32,5,26,1
+Taylor,B102,Auditor of Public Accounts,,REP,Total Votes Cast,173,44,125,4
+Taylor,B102,Auditor of Public Accounts,,REP,Under Votes,15,3,12,0
+Taylor,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,B102,State Treasurer,,REP,Andrew COOPERRIDER,41,10,30,1
+Taylor,B102,State Treasurer,,REP,Mark H. METCALF,103,24,77,2
+Taylor,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,7,12,0
+Taylor,B102,State Treasurer,,REP,Total Votes Cast,163,41,119,3
+Taylor,B102,State Treasurer,,REP,Under Votes,25,6,18,1
+Taylor,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,B102,Commissioner of Agriculture,,REP,Richard HEATH,93,27,63,3
+Taylor,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,72,18,54,0
+Taylor,B102,Commissioner of Agriculture,,REP,Total Votes Cast,165,45,117,3
+Taylor,B102,Commissioner of Agriculture,,REP,Under Votes,23,2,20,1
+Taylor,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,B102,Governor,,DEM,Andy BESHEAR,48,9,36,3
+Taylor,B102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Taylor,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,1,1,1
+Taylor,B102,Governor,,DEM,Total Votes Cast,53,10,39,4
+Taylor,B102,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,B102,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,4,23,2
+Taylor,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,19,5,12,2
+Taylor,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,48,9,35,4
+Taylor,B102,Commissioner of Agriculture,,DEM,Under Votes,5,1,4,0
+Taylor,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,B103,Governor,,REP,Daniel CAMERON,7,2,5,0
+Taylor,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,B103,Governor,,REP,Kelly CRAFT,7,1,6,0
+Taylor,B103,Governor,,REP,Eric DETERS,0,0,0,0
+Taylor,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,B103,Governor,,REP,Mike HARMON,1,1,0,0
+Taylor,B103,Governor,,REP,Alan KECK,1,1,0,0
+Taylor,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,B103,Governor,,REP,Ryan QUARLES,2,0,2,0
+Taylor,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,B103,Governor,,REP,Total Votes Cast,18,5,13,0
+Taylor,B103,Governor,,REP,Under Votes,0,0,0,0
+Taylor,B103,Governor,,REP,Over Votes,0,0,0,0
+Taylor,B103,Secretary of State,,REP,Michael ADAMS,11,3,8,0
+Taylor,B103,Secretary of State,,REP,Stephen L. KNIPPER,2,1,1,0
+Taylor,B103,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Taylor,B103,Secretary of State,,REP,Total Votes Cast,16,5,11,0
+Taylor,B103,Secretary of State,,REP,Under Votes,2,0,2,0
+Taylor,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,B103,Auditor of Public Accounts,,REP,Allison BALL,11,4,7,0
+Taylor,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Taylor,B103,Auditor of Public Accounts,,REP,Total Votes Cast,15,4,11,0
+Taylor,B103,Auditor of Public Accounts,,REP,Under Votes,3,1,2,0
+Taylor,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,B103,State Treasurer,,REP,Andrew COOPERRIDER,5,1,4,0
+Taylor,B103,State Treasurer,,REP,Mark H. METCALF,8,2,6,0
+Taylor,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,2,1,0
+Taylor,B103,State Treasurer,,REP,Total Votes Cast,16,5,11,0
+Taylor,B103,State Treasurer,,REP,Under Votes,2,0,2,0
+Taylor,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,B103,Commissioner of Agriculture,,REP,Richard HEATH,5,2,3,0
+Taylor,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,12,3,9,0
+Taylor,B103,Commissioner of Agriculture,,REP,Total Votes Cast,17,5,12,0
+Taylor,B103,Commissioner of Agriculture,,REP,Under Votes,1,0,1,0
+Taylor,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,B103,Governor,,DEM,Andy BESHEAR,25,5,20,0
+Taylor,B103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Taylor,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Taylor,B103,Governor,,DEM,Total Votes Cast,25,5,20,0
+Taylor,B103,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,B103,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,3,9,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,9,2,7,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,21,5,16,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Taylor,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,B104,Governor,,REP,Daniel CAMERON,23,6,17,0
+Taylor,B104,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,B104,Governor,,REP,David O. COOPER,1,1,0,0
+Taylor,B104,Governor,,REP,Kelly CRAFT,67,10,57,0
+Taylor,B104,Governor,,REP,Eric DETERS,6,1,5,0
+Taylor,B104,Governor,,REP,Bob DeVORE,1,0,1,0
+Taylor,B104,Governor,,REP,Mike HARMON,0,0,0,0
+Taylor,B104,Governor,,REP,Alan KECK,1,1,0,0
+Taylor,B104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,B104,Governor,,REP,Ryan QUARLES,5,0,5,0
+Taylor,B104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,B104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,B104,Governor,,REP,Total Votes Cast,104,19,85,0
+Taylor,B104,Governor,,REP,Under Votes,0,0,0,0
+Taylor,B104,Governor,,REP,Over Votes,0,0,0,0
+Taylor,B104,Secretary of State,,REP,Michael ADAMS,60,11,49,0
+Taylor,B104,Secretary of State,,REP,Stephen L. KNIPPER,14,1,13,0
+Taylor,B104,Secretary of State,,REP,Allen MARICLE,5,1,4,0
+Taylor,B104,Secretary of State,,REP,Total Votes Cast,79,13,66,0
+Taylor,B104,Secretary of State,,REP,Under Votes,25,6,19,0
+Taylor,B104,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,B104,Auditor of Public Accounts,,REP,Allison BALL,66,11,55,0
+Taylor,B104,Auditor of Public Accounts,,REP,Derek PETTEYS,18,3,15,0
+Taylor,B104,Auditor of Public Accounts,,REP,Total Votes Cast,84,14,70,0
+Taylor,B104,Auditor of Public Accounts,,REP,Under Votes,20,5,15,0
+Taylor,B104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,B104,State Treasurer,,REP,Andrew COOPERRIDER,28,5,23,0
+Taylor,B104,State Treasurer,,REP,Mark H. METCALF,42,7,35,0
+Taylor,B104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,2,8,0
+Taylor,B104,State Treasurer,,REP,Total Votes Cast,80,14,66,0
+Taylor,B104,State Treasurer,,REP,Under Votes,24,5,19,0
+Taylor,B104,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,B104,Commissioner of Agriculture,,REP,Richard HEATH,44,7,37,0
+Taylor,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,40,7,33,0
+Taylor,B104,Commissioner of Agriculture,,REP,Total Votes Cast,84,14,70,0
+Taylor,B104,Commissioner of Agriculture,,REP,Under Votes,20,5,15,0
+Taylor,B104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,B104,Governor,,DEM,Andy BESHEAR,29,12,16,1
+Taylor,B104,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Taylor,B104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,1,2,0
+Taylor,B104,Governor,,DEM,Total Votes Cast,33,14,18,1
+Taylor,B104,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,B104,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,9,8,1
+Taylor,B104,Commissioner of Agriculture,,DEM,Mikael MALONE,14,4,10,0
+Taylor,B104,Commissioner of Agriculture,,DEM,Total Votes Cast,32,13,18,1
+Taylor,B104,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Taylor,B104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,C101,Governor,,REP,Daniel CAMERON,20,2,18,0
+Taylor,C101,Governor,,REP,Jacob CLARK,1,0,1,0
+Taylor,C101,Governor,,REP,David O. COOPER,1,0,1,0
+Taylor,C101,Governor,,REP,Kelly CRAFT,22,0,22,0
+Taylor,C101,Governor,,REP,Eric DETERS,0,0,0,0
+Taylor,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,C101,Governor,,REP,Mike HARMON,1,0,1,0
+Taylor,C101,Governor,,REP,Alan KECK,3,0,3,0
+Taylor,C101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Taylor,C101,Governor,,REP,Ryan QUARLES,5,1,4,0
+Taylor,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,C101,Governor,,REP,Total Votes Cast,54,3,51,0
+Taylor,C101,Governor,,REP,Under Votes,0,0,0,0
+Taylor,C101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,C101,Secretary of State,,REP,Michael ADAMS,33,1,32,0
+Taylor,C101,Secretary of State,,REP,Stephen L. KNIPPER,10,1,9,0
+Taylor,C101,Secretary of State,,REP,Allen MARICLE,6,1,5,0
+Taylor,C101,Secretary of State,,REP,Total Votes Cast,49,3,46,0
+Taylor,C101,Secretary of State,,REP,Under Votes,5,0,5,0
+Taylor,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,C101,Auditor of Public Accounts,,REP,Allison BALL,33,2,31,0
+Taylor,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,15,1,14,0
+Taylor,C101,Auditor of Public Accounts,,REP,Total Votes Cast,48,3,45,0
+Taylor,C101,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Taylor,C101,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Taylor,C101,State Treasurer,,REP,Andrew COOPERRIDER,9,1,8,0
+Taylor,C101,State Treasurer,,REP,Mark H. METCALF,31,0,31,0
+Taylor,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,2,8,0
+Taylor,C101,State Treasurer,,REP,Total Votes Cast,50,3,47,0
+Taylor,C101,State Treasurer,,REP,Under Votes,4,0,4,0
+Taylor,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,C101,Commissioner of Agriculture,,REP,Richard HEATH,21,2,19,0
+Taylor,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,28,0,28,0
+Taylor,C101,Commissioner of Agriculture,,REP,Total Votes Cast,49,2,47,0
+Taylor,C101,Commissioner of Agriculture,,REP,Under Votes,5,1,4,0
+Taylor,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,C101,Governor,,DEM,Andy BESHEAR,9,3,6,0
+Taylor,C101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Taylor,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Taylor,C101,Governor,,DEM,Total Votes Cast,11,3,8,0
+Taylor,C101,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,C101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,2,4,0
+Taylor,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,4,0,4,0
+Taylor,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,10,2,8,0
+Taylor,C101,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Taylor,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,C103,Governor,,REP,Daniel CAMERON,27,5,22,0
+Taylor,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,C103,Governor,,REP,Kelly CRAFT,36,4,30,2
+Taylor,C103,Governor,,REP,Eric DETERS,4,1,3,0
+Taylor,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,C103,Governor,,REP,Mike HARMON,4,0,4,0
+Taylor,C103,Governor,,REP,Alan KECK,1,0,1,0
+Taylor,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,C103,Governor,,REP,Ryan QUARLES,7,0,7,0
+Taylor,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,C103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,C103,Governor,,REP,Total Votes Cast,79,10,67,2
+Taylor,C103,Governor,,REP,Under Votes,0,0,0,0
+Taylor,C103,Governor,,REP,Over Votes,0,0,0,0
+Taylor,C103,Secretary of State,,REP,Michael ADAMS,38,7,31,0
+Taylor,C103,Secretary of State,,REP,Stephen L. KNIPPER,25,2,23,0
+Taylor,C103,Secretary of State,,REP,Allen MARICLE,7,0,7,0
+Taylor,C103,Secretary of State,,REP,Total Votes Cast,70,9,61,0
+Taylor,C103,Secretary of State,,REP,Under Votes,9,1,6,2
+Taylor,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,C103,Auditor of Public Accounts,,REP,Allison BALL,49,4,43,2
+Taylor,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,24,4,20,0
+Taylor,C103,Auditor of Public Accounts,,REP,Total Votes Cast,73,8,63,2
+Taylor,C103,Auditor of Public Accounts,,REP,Under Votes,6,2,4,0
+Taylor,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,C103,State Treasurer,,REP,Andrew COOPERRIDER,18,0,18,0
+Taylor,C103,State Treasurer,,REP,Mark H. METCALF,38,6,32,0
+Taylor,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,1,6,0
+Taylor,C103,State Treasurer,,REP,Total Votes Cast,63,7,56,0
+Taylor,C103,State Treasurer,,REP,Under Votes,16,3,11,2
+Taylor,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,C103,Commissioner of Agriculture,,REP,Richard HEATH,49,4,45,0
+Taylor,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,22,4,18,0
+Taylor,C103,Commissioner of Agriculture,,REP,Total Votes Cast,71,8,63,0
+Taylor,C103,Commissioner of Agriculture,,REP,Under Votes,8,2,4,2
+Taylor,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,C103,Governor,,DEM,Andy BESHEAR,11,1,10,0
+Taylor,C103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Taylor,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Taylor,C103,Governor,,DEM,Total Votes Cast,12,1,11,0
+Taylor,C103,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,C103,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,0,6,0
+Taylor,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,6,1,5,0
+Taylor,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,12,1,11,0
+Taylor,C103,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Taylor,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,C104,Governor,,REP,Daniel CAMERON,49,1,48,0
+Taylor,C104,Governor,,REP,Jacob CLARK,4,1,3,0
+Taylor,C104,Governor,,REP,David O. COOPER,3,0,3,0
+Taylor,C104,Governor,,REP,Kelly CRAFT,43,5,36,2
+Taylor,C104,Governor,,REP,Eric DETERS,2,0,2,0
+Taylor,C104,Governor,,REP,Bob DeVORE,1,0,1,0
+Taylor,C104,Governor,,REP,Mike HARMON,3,1,2,0
+Taylor,C104,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,C104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,C104,Governor,,REP,Ryan QUARLES,10,1,9,0
+Taylor,C104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,C104,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Taylor,C104,Governor,,REP,Total Votes Cast,116,9,105,2
+Taylor,C104,Governor,,REP,Under Votes,3,0,3,0
+Taylor,C104,Governor,,REP,Over Votes,0,0,0,0
+Taylor,C104,Secretary of State,,REP,Michael ADAMS,67,7,60,0
+Taylor,C104,Secretary of State,,REP,Stephen L. KNIPPER,19,0,17,2
+Taylor,C104,Secretary of State,,REP,Allen MARICLE,9,1,8,0
+Taylor,C104,Secretary of State,,REP,Total Votes Cast,95,8,85,2
+Taylor,C104,Secretary of State,,REP,Under Votes,24,1,23,0
+Taylor,C104,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,C104,Auditor of Public Accounts,,REP,Allison BALL,68,7,60,1
+Taylor,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,34,2,31,1
+Taylor,C104,Auditor of Public Accounts,,REP,Total Votes Cast,102,9,91,2
+Taylor,C104,Auditor of Public Accounts,,REP,Under Votes,17,0,17,0
+Taylor,C104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,C104,State Treasurer,,REP,Andrew COOPERRIDER,33,2,31,0
+Taylor,C104,State Treasurer,,REP,Mark H. METCALF,59,5,52,2
+Taylor,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,1,8,0
+Taylor,C104,State Treasurer,,REP,Total Votes Cast,101,8,91,2
+Taylor,C104,State Treasurer,,REP,Under Votes,18,1,17,0
+Taylor,C104,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,C104,Commissioner of Agriculture,,REP,Richard HEATH,44,3,40,1
+Taylor,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,53,4,48,1
+Taylor,C104,Commissioner of Agriculture,,REP,Total Votes Cast,97,7,88,2
+Taylor,C104,Commissioner of Agriculture,,REP,Under Votes,22,2,20,0
+Taylor,C104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,C104,Governor,,DEM,Andy BESHEAR,48,11,37,0
+Taylor,C104,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Taylor,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,0,7,0
+Taylor,C104,Governor,,DEM,Total Votes Cast,57,11,46,0
+Taylor,C104,Governor,,DEM,Under Votes,5,1,4,0
+Taylor,C104,Governor,,DEM,Over Votes,1,0,1,0
+Taylor,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,3,17,0
+Taylor,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,27,7,20,0
+Taylor,C104,Commissioner of Agriculture,,DEM,Total Votes Cast,47,10,37,0
+Taylor,C104,Commissioner of Agriculture,,DEM,Under Votes,16,2,14,0
+Taylor,C104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,C105,Governor,,REP,Daniel CAMERON,71,22,49,0
+Taylor,C105,Governor,,REP,Jacob CLARK,1,0,1,0
+Taylor,C105,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,C105,Governor,,REP,Kelly CRAFT,89,32,55,2
+Taylor,C105,Governor,,REP,Eric DETERS,2,2,0,0
+Taylor,C105,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,C105,Governor,,REP,Mike HARMON,2,0,2,0
+Taylor,C105,Governor,,REP,Alan KECK,1,0,1,0
+Taylor,C105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,C105,Governor,,REP,Ryan QUARLES,31,13,18,0
+Taylor,C105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,C105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,C105,Governor,,REP,Total Votes Cast,197,69,126,2
+Taylor,C105,Governor,,REP,Under Votes,2,1,1,0
+Taylor,C105,Governor,,REP,Over Votes,0,0,0,0
+Taylor,C105,Secretary of State,,REP,Michael ADAMS,130,42,86,2
+Taylor,C105,Secretary of State,,REP,Stephen L. KNIPPER,28,7,21,0
+Taylor,C105,Secretary of State,,REP,Allen MARICLE,12,8,4,0
+Taylor,C105,Secretary of State,,REP,Total Votes Cast,170,57,111,2
+Taylor,C105,Secretary of State,,REP,Under Votes,29,13,16,0
+Taylor,C105,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,C105,Auditor of Public Accounts,,REP,Allison BALL,134,48,84,2
+Taylor,C105,Auditor of Public Accounts,,REP,Derek PETTEYS,41,12,29,0
+Taylor,C105,Auditor of Public Accounts,,REP,Total Votes Cast,175,60,113,2
+Taylor,C105,Auditor of Public Accounts,,REP,Under Votes,24,10,14,0
+Taylor,C105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,C105,State Treasurer,,REP,Andrew COOPERRIDER,50,16,33,1
+Taylor,C105,State Treasurer,,REP,Mark H. METCALF,100,38,61,1
+Taylor,C105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",23,8,15,0
+Taylor,C105,State Treasurer,,REP,Total Votes Cast,173,62,109,2
+Taylor,C105,State Treasurer,,REP,Under Votes,26,8,18,0
+Taylor,C105,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,C105,Commissioner of Agriculture,,REP,Richard HEATH,96,32,62,2
+Taylor,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,79,26,53,0
+Taylor,C105,Commissioner of Agriculture,,REP,Total Votes Cast,175,58,115,2
+Taylor,C105,Commissioner of Agriculture,,REP,Under Votes,24,12,12,0
+Taylor,C105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,C105,Governor,,DEM,Andy BESHEAR,37,10,27,0
+Taylor,C105,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Taylor,C105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,2,0,0
+Taylor,C105,Governor,,DEM,Total Votes Cast,39,12,27,0
+Taylor,C105,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,C105,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,5,10,0
+Taylor,C105,Commissioner of Agriculture,,DEM,Mikael MALONE,16,6,10,0
+Taylor,C105,Commissioner of Agriculture,,DEM,Total Votes Cast,31,11,20,0
+Taylor,C105,Commissioner of Agriculture,,DEM,Under Votes,8,1,7,0
+Taylor,C105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,D101,Governor,,REP,Daniel CAMERON,24,5,19,0
+Taylor,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,D101,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,D101,Governor,,REP,Kelly CRAFT,26,8,18,0
+Taylor,D101,Governor,,REP,Eric DETERS,1,0,1,0
+Taylor,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,D101,Governor,,REP,Mike HARMON,0,0,0,0
+Taylor,D101,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,D101,Governor,,REP,Ryan QUARLES,14,2,12,0
+Taylor,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,D101,Governor,,REP,Total Votes Cast,65,15,50,0
+Taylor,D101,Governor,,REP,Under Votes,1,0,1,0
+Taylor,D101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,D101,Secretary of State,,REP,Michael ADAMS,45,14,31,0
+Taylor,D101,Secretary of State,,REP,Stephen L. KNIPPER,6,1,5,0
+Taylor,D101,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Taylor,D101,Secretary of State,,REP,Total Votes Cast,55,15,40,0
+Taylor,D101,Secretary of State,,REP,Under Votes,11,0,11,0
+Taylor,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,D101,Auditor of Public Accounts,,REP,Allison BALL,49,15,34,0
+Taylor,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,8,0,8,0
+Taylor,D101,Auditor of Public Accounts,,REP,Total Votes Cast,57,15,42,0
+Taylor,D101,Auditor of Public Accounts,,REP,Under Votes,9,0,9,0
+Taylor,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,D101,State Treasurer,,REP,Andrew COOPERRIDER,10,5,5,0
+Taylor,D101,State Treasurer,,REP,Mark H. METCALF,31,6,25,0
+Taylor,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,3,8,0
+Taylor,D101,State Treasurer,,REP,Total Votes Cast,52,14,38,0
+Taylor,D101,State Treasurer,,REP,Under Votes,14,1,13,0
+Taylor,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,D101,Commissioner of Agriculture,,REP,Richard HEATH,20,4,16,0
+Taylor,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,34,8,26,0
+Taylor,D101,Commissioner of Agriculture,,REP,Total Votes Cast,54,12,42,0
+Taylor,D101,Commissioner of Agriculture,,REP,Under Votes,12,3,9,0
+Taylor,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,D101,Governor,,DEM,Andy BESHEAR,3,2,1,0
+Taylor,D101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Taylor,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Taylor,D101,Governor,,DEM,Total Votes Cast,5,2,3,0
+Taylor,D101,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,D101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,1,0,0
+Taylor,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Taylor,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,4,1,3,0
+Taylor,D101,Commissioner of Agriculture,,DEM,Under Votes,1,1,0,0
+Taylor,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,D102,Governor,,REP,Daniel CAMERON,100,22,78,0
+Taylor,D102,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,D102,Governor,,REP,David O. COOPER,3,1,2,0
+Taylor,D102,Governor,,REP,Kelly CRAFT,111,19,91,1
+Taylor,D102,Governor,,REP,Eric DETERS,7,4,3,0
+Taylor,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,D102,Governor,,REP,Mike HARMON,1,0,1,0
+Taylor,D102,Governor,,REP,Alan KECK,2,0,2,0
+Taylor,D102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Taylor,D102,Governor,,REP,Ryan QUARLES,69,15,53,1
+Taylor,D102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Taylor,D102,Governor,,REP,Robbie C. SMITH,2,0,1,1
+Taylor,D102,Governor,,REP,Total Votes Cast,297,61,233,3
+Taylor,D102,Governor,,REP,Under Votes,0,0,0,0
+Taylor,D102,Governor,,REP,Over Votes,0,0,0,0
+Taylor,D102,Secretary of State,,REP,Michael ADAMS,187,42,143,2
+Taylor,D102,Secretary of State,,REP,Stephen L. KNIPPER,34,4,29,1
+Taylor,D102,Secretary of State,,REP,Allen MARICLE,30,6,24,0
+Taylor,D102,Secretary of State,,REP,Total Votes Cast,251,52,196,3
+Taylor,D102,Secretary of State,,REP,Under Votes,46,9,37,0
+Taylor,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,D102,Auditor of Public Accounts,,REP,Allison BALL,220,43,174,3
+Taylor,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,44,9,35,0
+Taylor,D102,Auditor of Public Accounts,,REP,Total Votes Cast,264,52,209,3
+Taylor,D102,Auditor of Public Accounts,,REP,Under Votes,33,9,24,0
+Taylor,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,D102,State Treasurer,,REP,Andrew COOPERRIDER,60,10,50,0
+Taylor,D102,State Treasurer,,REP,Mark H. METCALF,147,33,112,2
+Taylor,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",44,8,35,1
+Taylor,D102,State Treasurer,,REP,Total Votes Cast,251,51,197,3
+Taylor,D102,State Treasurer,,REP,Under Votes,46,10,36,0
+Taylor,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,D102,Commissioner of Agriculture,,REP,Richard HEATH,138,24,113,1
+Taylor,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,120,31,87,2
+Taylor,D102,Commissioner of Agriculture,,REP,Total Votes Cast,258,55,200,3
+Taylor,D102,Commissioner of Agriculture,,REP,Under Votes,38,6,32,0
+Taylor,D102,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Taylor,D102,Governor,,DEM,Andy BESHEAR,56,19,37,0
+Taylor,D102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Taylor,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",10,3,7,0
+Taylor,D102,Governor,,DEM,Total Votes Cast,66,22,44,0
+Taylor,D102,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,D102,Governor,,DEM,Over Votes,1,0,1,0
+Taylor,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,37,13,24,0
+Taylor,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,28,7,21,0
+Taylor,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,65,20,45,0
+Taylor,D102,Commissioner of Agriculture,,DEM,Under Votes,2,2,0,0
+Taylor,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,D104,Governor,,REP,Daniel CAMERON,39,6,33,0
+Taylor,D104,Governor,,REP,Jacob CLARK,1,1,0,0
+Taylor,D104,Governor,,REP,David O. COOPER,1,0,1,0
+Taylor,D104,Governor,,REP,Kelly CRAFT,84,12,71,1
+Taylor,D104,Governor,,REP,Eric DETERS,5,2,3,0
+Taylor,D104,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,D104,Governor,,REP,Mike HARMON,3,2,1,0
+Taylor,D104,Governor,,REP,Alan KECK,2,1,1,0
+Taylor,D104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,D104,Governor,,REP,Ryan QUARLES,16,5,11,0
+Taylor,D104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,D104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,D104,Governor,,REP,Total Votes Cast,151,29,121,1
+Taylor,D104,Governor,,REP,Under Votes,0,0,0,0
+Taylor,D104,Governor,,REP,Over Votes,0,0,0,0
+Taylor,D104,Secretary of State,,REP,Michael ADAMS,95,21,73,1
+Taylor,D104,Secretary of State,,REP,Stephen L. KNIPPER,17,1,16,0
+Taylor,D104,Secretary of State,,REP,Allen MARICLE,16,3,13,0
+Taylor,D104,Secretary of State,,REP,Total Votes Cast,128,25,102,1
+Taylor,D104,Secretary of State,,REP,Under Votes,23,4,19,0
+Taylor,D104,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,D104,Auditor of Public Accounts,,REP,Allison BALL,105,19,86,0
+Taylor,D104,Auditor of Public Accounts,,REP,Derek PETTEYS,24,5,18,1
+Taylor,D104,Auditor of Public Accounts,,REP,Total Votes Cast,129,24,104,1
+Taylor,D104,Auditor of Public Accounts,,REP,Under Votes,22,5,17,0
+Taylor,D104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,D104,State Treasurer,,REP,Andrew COOPERRIDER,38,6,32,0
+Taylor,D104,State Treasurer,,REP,Mark H. METCALF,63,13,49,1
+Taylor,D104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,5,16,0
+Taylor,D104,State Treasurer,,REP,Total Votes Cast,122,24,97,1
+Taylor,D104,State Treasurer,,REP,Under Votes,29,5,24,0
+Taylor,D104,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,D104,Commissioner of Agriculture,,REP,Richard HEATH,65,14,50,1
+Taylor,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,54,8,46,0
+Taylor,D104,Commissioner of Agriculture,,REP,Total Votes Cast,119,22,96,1
+Taylor,D104,Commissioner of Agriculture,,REP,Under Votes,32,7,25,0
+Taylor,D104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,D104,Governor,,DEM,Andy BESHEAR,41,4,37,0
+Taylor,D104,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Taylor,D104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,0,6,1
+Taylor,D104,Governor,,DEM,Total Votes Cast,54,5,48,1
+Taylor,D104,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,D104,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,3,22,0
+Taylor,D104,Commissioner of Agriculture,,DEM,Mikael MALONE,26,1,24,1
+Taylor,D104,Commissioner of Agriculture,,DEM,Total Votes Cast,51,4,46,1
+Taylor,D104,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Taylor,D104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,E101,Governor,,REP,Daniel CAMERON,95,19,73,3
+Taylor,E101,Governor,,REP,Jacob CLARK,1,0,1,0
+Taylor,E101,Governor,,REP,David O. COOPER,2,1,1,0
+Taylor,E101,Governor,,REP,Kelly CRAFT,150,47,97,6
+Taylor,E101,Governor,,REP,Eric DETERS,10,2,8,0
+Taylor,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,E101,Governor,,REP,Mike HARMON,7,0,7,0
+Taylor,E101,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,E101,Governor,,REP,Ryan QUARLES,43,11,32,0
+Taylor,E101,Governor,,REP,Johnny Ray RICE,2,1,1,0
+Taylor,E101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,E101,Governor,,REP,Total Votes Cast,310,81,220,9
+Taylor,E101,Governor,,REP,Under Votes,0,0,0,0
+Taylor,E101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,E101,Secretary of State,,REP,Michael ADAMS,203,60,136,7
+Taylor,E101,Secretary of State,,REP,Stephen L. KNIPPER,44,9,35,0
+Taylor,E101,Secretary of State,,REP,Allen MARICLE,17,3,14,0
+Taylor,E101,Secretary of State,,REP,Total Votes Cast,264,72,185,7
+Taylor,E101,Secretary of State,,REP,Under Votes,46,9,35,2
+Taylor,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,E101,Auditor of Public Accounts,,REP,Allison BALL,215,64,146,5
+Taylor,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,52,8,43,1
+Taylor,E101,Auditor of Public Accounts,,REP,Total Votes Cast,267,72,189,6
+Taylor,E101,Auditor of Public Accounts,,REP,Under Votes,43,9,31,3
+Taylor,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,E101,State Treasurer,,REP,Andrew COOPERRIDER,90,18,69,3
+Taylor,E101,State Treasurer,,REP,Mark H. METCALF,131,42,85,4
+Taylor,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",40,11,28,1
+Taylor,E101,State Treasurer,,REP,Total Votes Cast,261,71,182,8
+Taylor,E101,State Treasurer,,REP,Under Votes,49,10,38,1
+Taylor,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,E101,Commissioner of Agriculture,,REP,Richard HEATH,124,27,94,3
+Taylor,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,124,39,83,2
+Taylor,E101,Commissioner of Agriculture,,REP,Total Votes Cast,248,66,177,5
+Taylor,E101,Commissioner of Agriculture,,REP,Under Votes,62,15,43,4
+Taylor,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,E101,Governor,,DEM,Andy BESHEAR,57,10,46,1
+Taylor,E101,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Taylor,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,1,4,0
+Taylor,E101,Governor,,DEM,Total Votes Cast,65,11,53,1
+Taylor,E101,Governor,,DEM,Under Votes,1,0,1,0
+Taylor,E101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,3,27,1
+Taylor,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,29,7,22,0
+Taylor,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,60,10,49,1
+Taylor,E101,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Taylor,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,E102,Governor,,REP,Daniel CAMERON,28,6,21,1
+Taylor,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,E102,Governor,,REP,David O. COOPER,1,0,1,0
+Taylor,E102,Governor,,REP,Kelly CRAFT,52,15,37,0
+Taylor,E102,Governor,,REP,Eric DETERS,2,0,2,0
+Taylor,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,E102,Governor,,REP,Mike HARMON,4,1,2,1
+Taylor,E102,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,E102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Taylor,E102,Governor,,REP,Ryan QUARLES,15,7,8,0
+Taylor,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,E102,Governor,,REP,Total Votes Cast,103,29,72,2
+Taylor,E102,Governor,,REP,Under Votes,1,0,1,0
+Taylor,E102,Governor,,REP,Over Votes,0,0,0,0
+Taylor,E102,Secretary of State,,REP,Michael ADAMS,68,24,43,1
+Taylor,E102,Secretary of State,,REP,Stephen L. KNIPPER,15,2,13,0
+Taylor,E102,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Taylor,E102,Secretary of State,,REP,Total Votes Cast,87,27,59,1
+Taylor,E102,Secretary of State,,REP,Under Votes,17,2,14,1
+Taylor,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,E102,Auditor of Public Accounts,,REP,Allison BALL,73,20,51,2
+Taylor,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,20,7,13,0
+Taylor,E102,Auditor of Public Accounts,,REP,Total Votes Cast,93,27,64,2
+Taylor,E102,Auditor of Public Accounts,,REP,Under Votes,11,2,9,0
+Taylor,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,E102,State Treasurer,,REP,Andrew COOPERRIDER,32,11,21,0
+Taylor,E102,State Treasurer,,REP,Mark H. METCALF,49,14,34,1
+Taylor,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,1,7,0
+Taylor,E102,State Treasurer,,REP,Total Votes Cast,89,26,62,1
+Taylor,E102,State Treasurer,,REP,Under Votes,15,3,11,1
+Taylor,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,E102,Commissioner of Agriculture,,REP,Richard HEATH,48,13,34,1
+Taylor,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,43,14,28,1
+Taylor,E102,Commissioner of Agriculture,,REP,Total Votes Cast,91,27,62,2
+Taylor,E102,Commissioner of Agriculture,,REP,Under Votes,13,2,11,0
+Taylor,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,E102,Governor,,DEM,Andy BESHEAR,32,8,23,1
+Taylor,E102,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Taylor,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Taylor,E102,Governor,,DEM,Total Votes Cast,34,9,24,1
+Taylor,E102,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,E102,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,5,10,1
+Taylor,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,13,2,11,0
+Taylor,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,29,7,21,1
+Taylor,E102,Commissioner of Agriculture,,DEM,Under Votes,5,2,3,0
+Taylor,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,E103,Governor,,REP,Daniel CAMERON,37,9,28,0
+Taylor,E103,Governor,,REP,Jacob CLARK,3,0,3,0
+Taylor,E103,Governor,,REP,David O. COOPER,1,0,1,0
+Taylor,E103,Governor,,REP,Kelly CRAFT,35,8,27,0
+Taylor,E103,Governor,,REP,Eric DETERS,1,0,1,0
+Taylor,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,E103,Governor,,REP,Mike HARMON,0,0,0,0
+Taylor,E103,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,E103,Governor,,REP,Ryan QUARLES,22,5,16,1
+Taylor,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,E103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Taylor,E103,Governor,,REP,Total Votes Cast,100,22,77,1
+Taylor,E103,Governor,,REP,Under Votes,0,0,0,0
+Taylor,E103,Governor,,REP,Over Votes,0,0,0,0
+Taylor,E103,Secretary of State,,REP,Michael ADAMS,54,12,41,1
+Taylor,E103,Secretary of State,,REP,Stephen L. KNIPPER,25,6,19,0
+Taylor,E103,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Taylor,E103,Secretary of State,,REP,Total Votes Cast,83,19,63,1
+Taylor,E103,Secretary of State,,REP,Under Votes,17,3,14,0
+Taylor,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,E103,Auditor of Public Accounts,,REP,Allison BALL,62,14,47,1
+Taylor,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,17,3,14,0
+Taylor,E103,Auditor of Public Accounts,,REP,Total Votes Cast,79,17,61,1
+Taylor,E103,Auditor of Public Accounts,,REP,Under Votes,21,5,16,0
+Taylor,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,E103,State Treasurer,,REP,Andrew COOPERRIDER,26,1,25,0
+Taylor,E103,State Treasurer,,REP,Mark H. METCALF,44,15,28,1
+Taylor,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,2,11,0
+Taylor,E103,State Treasurer,,REP,Total Votes Cast,83,18,64,1
+Taylor,E103,State Treasurer,,REP,Under Votes,17,4,13,0
+Taylor,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,E103,Commissioner of Agriculture,,REP,Richard HEATH,44,9,34,1
+Taylor,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,36,9,27,0
+Taylor,E103,Commissioner of Agriculture,,REP,Total Votes Cast,80,18,61,1
+Taylor,E103,Commissioner of Agriculture,,REP,Under Votes,20,4,16,0
+Taylor,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,E103,Governor,,DEM,Andy BESHEAR,27,11,16,0
+Taylor,E103,Governor,,DEM,Peppy MARTIN,4,1,3,0
+Taylor,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,1,0,0
+Taylor,E103,Governor,,DEM,Total Votes Cast,32,13,19,0
+Taylor,E103,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,E103,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,5,8,0
+Taylor,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,16,8,8,0
+Taylor,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,29,13,16,0
+Taylor,E103,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Taylor,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,F101,Governor,,REP,Daniel CAMERON,39,1,38,0
+Taylor,F101,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,F101,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,F101,Governor,,REP,Kelly CRAFT,72,17,51,4
+Taylor,F101,Governor,,REP,Eric DETERS,1,0,1,0
+Taylor,F101,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,F101,Governor,,REP,Mike HARMON,0,0,0,0
+Taylor,F101,Governor,,REP,Alan KECK,1,0,1,0
+Taylor,F101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,F101,Governor,,REP,Ryan QUARLES,34,4,30,0
+Taylor,F101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,F101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,F101,Governor,,REP,Total Votes Cast,147,22,121,4
+Taylor,F101,Governor,,REP,Under Votes,0,0,0,0
+Taylor,F101,Governor,,REP,Over Votes,0,0,0,0
+Taylor,F101,Secretary of State,,REP,Michael ADAMS,93,13,76,4
+Taylor,F101,Secretary of State,,REP,Stephen L. KNIPPER,24,4,20,0
+Taylor,F101,Secretary of State,,REP,Allen MARICLE,10,2,8,0
+Taylor,F101,Secretary of State,,REP,Total Votes Cast,127,19,104,4
+Taylor,F101,Secretary of State,,REP,Under Votes,20,3,17,0
+Taylor,F101,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,F101,Auditor of Public Accounts,,REP,Allison BALL,106,14,88,4
+Taylor,F101,Auditor of Public Accounts,,REP,Derek PETTEYS,23,3,20,0
+Taylor,F101,Auditor of Public Accounts,,REP,Total Votes Cast,129,17,108,4
+Taylor,F101,Auditor of Public Accounts,,REP,Under Votes,18,5,13,0
+Taylor,F101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,F101,State Treasurer,,REP,Andrew COOPERRIDER,27,2,25,0
+Taylor,F101,State Treasurer,,REP,Mark H. METCALF,74,12,58,4
+Taylor,F101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",16,4,12,0
+Taylor,F101,State Treasurer,,REP,Total Votes Cast,117,18,95,4
+Taylor,F101,State Treasurer,,REP,Under Votes,29,3,26,0
+Taylor,F101,State Treasurer,,REP,Over Votes,1,1,0,0
+Taylor,F101,Commissioner of Agriculture,,REP,Richard HEATH,69,14,53,2
+Taylor,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,66,6,59,1
+Taylor,F101,Commissioner of Agriculture,,REP,Total Votes Cast,135,20,112,3
+Taylor,F101,Commissioner of Agriculture,,REP,Under Votes,12,2,9,1
+Taylor,F101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,F101,Governor,,DEM,Andy BESHEAR,33,6,26,1
+Taylor,F101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Taylor,F101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Taylor,F101,Governor,,DEM,Total Votes Cast,35,6,28,1
+Taylor,F101,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,F101,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,1,13,0
+Taylor,F101,Commissioner of Agriculture,,DEM,Mikael MALONE,19,4,15,0
+Taylor,F101,Commissioner of Agriculture,,DEM,Total Votes Cast,33,5,28,0
+Taylor,F101,Commissioner of Agriculture,,DEM,Under Votes,2,1,0,1
+Taylor,F101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,F102,Governor,,REP,Daniel CAMERON,86,16,70,0
+Taylor,F102,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,F102,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,F102,Governor,,REP,Kelly CRAFT,132,45,85,2
+Taylor,F102,Governor,,REP,Eric DETERS,10,4,6,0
+Taylor,F102,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,F102,Governor,,REP,Mike HARMON,3,0,3,0
+Taylor,F102,Governor,,REP,Alan KECK,0,0,0,0
+Taylor,F102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,F102,Governor,,REP,Ryan QUARLES,54,18,36,0
+Taylor,F102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,F102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Taylor,F102,Governor,,REP,Total Votes Cast,285,83,200,2
+Taylor,F102,Governor,,REP,Under Votes,1,0,1,0
+Taylor,F102,Governor,,REP,Over Votes,0,0,0,0
+Taylor,F102,Secretary of State,,REP,Michael ADAMS,173,57,114,2
+Taylor,F102,Secretary of State,,REP,Stephen L. KNIPPER,40,11,29,0
+Taylor,F102,Secretary of State,,REP,Allen MARICLE,17,4,13,0
+Taylor,F102,Secretary of State,,REP,Total Votes Cast,230,72,156,2
+Taylor,F102,Secretary of State,,REP,Under Votes,56,11,45,0
+Taylor,F102,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,F102,Auditor of Public Accounts,,REP,Allison BALL,194,59,133,2
+Taylor,F102,Auditor of Public Accounts,,REP,Derek PETTEYS,52,14,38,0
+Taylor,F102,Auditor of Public Accounts,,REP,Total Votes Cast,246,73,171,2
+Taylor,F102,Auditor of Public Accounts,,REP,Under Votes,40,10,30,0
+Taylor,F102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,F102,State Treasurer,,REP,Andrew COOPERRIDER,56,15,41,0
+Taylor,F102,State Treasurer,,REP,Mark H. METCALF,126,41,84,1
+Taylor,F102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",45,13,31,1
+Taylor,F102,State Treasurer,,REP,Total Votes Cast,227,69,156,2
+Taylor,F102,State Treasurer,,REP,Under Votes,58,14,44,0
+Taylor,F102,State Treasurer,,REP,Over Votes,1,0,1,0
+Taylor,F102,Commissioner of Agriculture,,REP,Richard HEATH,103,26,76,1
+Taylor,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,121,42,78,1
+Taylor,F102,Commissioner of Agriculture,,REP,Total Votes Cast,224,68,154,2
+Taylor,F102,Commissioner of Agriculture,,REP,Under Votes,61,15,46,0
+Taylor,F102,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Taylor,F102,Governor,,DEM,Andy BESHEAR,60,22,38,0
+Taylor,F102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Taylor,F102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,3,0,0
+Taylor,F102,Governor,,DEM,Total Votes Cast,64,25,39,0
+Taylor,F102,Governor,,DEM,Under Votes,0,0,0,0
+Taylor,F102,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,6,19,0
+Taylor,F102,Commissioner of Agriculture,,DEM,Mikael MALONE,28,13,15,0
+Taylor,F102,Commissioner of Agriculture,,DEM,Total Votes Cast,53,19,34,0
+Taylor,F102,Commissioner of Agriculture,,DEM,Under Votes,11,6,5,0
+Taylor,F102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Taylor,F103,Governor,,REP,Daniel CAMERON,61,19,41,1
+Taylor,F103,Governor,,REP,Jacob CLARK,0,0,0,0
+Taylor,F103,Governor,,REP,David O. COOPER,0,0,0,0
+Taylor,F103,Governor,,REP,Kelly CRAFT,69,19,49,1
+Taylor,F103,Governor,,REP,Eric DETERS,0,0,0,0
+Taylor,F103,Governor,,REP,Bob DeVORE,0,0,0,0
+Taylor,F103,Governor,,REP,Mike HARMON,3,0,3,0
+Taylor,F103,Governor,,REP,Alan KECK,5,1,4,0
+Taylor,F103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Taylor,F103,Governor,,REP,Ryan QUARLES,20,4,16,0
+Taylor,F103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Taylor,F103,Governor,,REP,Robbie C. SMITH,3,2,1,0
+Taylor,F103,Governor,,REP,Total Votes Cast,161,45,114,2
+Taylor,F103,Governor,,REP,Under Votes,1,0,1,0
+Taylor,F103,Governor,,REP,Over Votes,0,0,0,0
+Taylor,F103,Secretary of State,,REP,Michael ADAMS,94,27,65,2
+Taylor,F103,Secretary of State,,REP,Stephen L. KNIPPER,28,1,27,0
+Taylor,F103,Secretary of State,,REP,Allen MARICLE,7,3,4,0
+Taylor,F103,Secretary of State,,REP,Total Votes Cast,129,31,96,2
+Taylor,F103,Secretary of State,,REP,Under Votes,33,14,19,0
+Taylor,F103,Secretary of State,,REP,Over Votes,0,0,0,0
+Taylor,F103,Auditor of Public Accounts,,REP,Allison BALL,101,20,79,2
+Taylor,F103,Auditor of Public Accounts,,REP,Derek PETTEYS,32,11,21,0
+Taylor,F103,Auditor of Public Accounts,,REP,Total Votes Cast,133,31,100,2
+Taylor,F103,Auditor of Public Accounts,,REP,Under Votes,29,14,15,0
+Taylor,F103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Taylor,F103,State Treasurer,,REP,Andrew COOPERRIDER,31,6,25,0
+Taylor,F103,State Treasurer,,REP,Mark H. METCALF,63,17,45,1
+Taylor,F103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",35,8,26,1
+Taylor,F103,State Treasurer,,REP,Total Votes Cast,129,31,96,2
+Taylor,F103,State Treasurer,,REP,Under Votes,33,14,19,0
+Taylor,F103,State Treasurer,,REP,Over Votes,0,0,0,0
+Taylor,F103,Commissioner of Agriculture,,REP,Richard HEATH,76,24,52,0
+Taylor,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,53,7,44,2
+Taylor,F103,Commissioner of Agriculture,,REP,Total Votes Cast,129,31,96,2
+Taylor,F103,Commissioner of Agriculture,,REP,Under Votes,33,14,19,0
+Taylor,F103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Taylor,F103,Governor,,DEM,Andy BESHEAR,48,14,34,0
+Taylor,F103,Governor,,DEM,Peppy MARTIN,3,1,2,0
+Taylor,F103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Taylor,F103,Governor,,DEM,Total Votes Cast,53,16,37,0
+Taylor,F103,Governor,,DEM,Under Votes,1,0,1,0
+Taylor,F103,Governor,,DEM,Over Votes,0,0,0,0
+Taylor,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,6,17,0
+Taylor,F103,Commissioner of Agriculture,,DEM,Mikael MALONE,22,6,16,0
+Taylor,F103,Commissioner of Agriculture,,DEM,Total Votes Cast,45,12,33,0
+Taylor,F103,Commissioner of Agriculture,,DEM,Under Votes,9,4,5,0
+Taylor,F103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
