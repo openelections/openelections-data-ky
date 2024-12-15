@@ -1,0 +1,961 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Henry,A101,Governor,,REP,Kelly CRAFT,10,2,7,1
+Henry,A101,Governor,,REP,Eric DETERS,7,1,6,0
+Henry,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,A101,Governor,,REP,Alan KECK,6,0,6,0
+Henry,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,A101,Governor,,REP,Ryan QUARLES,19,2,17,0
+Henry,A101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Henry,A101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Henry,A101,Governor,,REP,Daniel CAMERON,33,3,30,0
+Henry,A101,Governor,,REP,Jacob CLARK,1,0,1,0
+Henry,A101,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,A101,Governor,,REP,Total Votes Cast,79,8,70,1
+Henry,A101,Governor,,REP,Under Votes,0,0,0,0
+Henry,A101,Governor,,REP,Over Votes,0,0,0,0
+Henry,A101,Secretary of State,,REP,Michael ADAMS,38,7,30,1
+Henry,A101,Secretary of State,,REP,Stephen L. KNIPPER,26,1,25,0
+Henry,A101,Secretary of State,,REP,Allen MARICLE,7,0,7,0
+Henry,A101,Secretary of State,,REP,Total Votes Cast,71,8,62,1
+Henry,A101,Secretary of State,,REP,Under Votes,8,0,8,0
+Henry,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,22,3,19,0
+Henry,A101,Auditor of Public Accounts,,REP,Allison BALL,50,5,44,1
+Henry,A101,Auditor of Public Accounts,,REP,Total Votes Cast,72,8,63,1
+Henry,A101,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Henry,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,A101,State Treasurer,,REP,Andrew COOPERRIDER,21,6,15,0
+Henry,A101,State Treasurer,,REP,Mark H. METCALF,27,1,25,1
+Henry,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",21,0,21,0
+Henry,A101,State Treasurer,,REP,Total Votes Cast,69,7,61,1
+Henry,A101,State Treasurer,,REP,Under Votes,10,1,9,0
+Henry,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,40,5,35,0
+Henry,A101,Commissioner of Agriculture,,REP,Richard HEATH,30,3,26,1
+Henry,A101,Commissioner of Agriculture,,REP,Total Votes Cast,70,8,61,1
+Henry,A101,Commissioner of Agriculture,,REP,Under Votes,9,0,9,0
+Henry,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,A101,Governor,,DEM,Andy BESHEAR,71,11,60,0
+Henry,A101,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Henry,A101,Governor,,DEM,Total Votes Cast,77,11,66,0
+Henry,A101,Governor,,DEM,Under Votes,1,0,1,0
+Henry,A101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,38,3,35,0
+Henry,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,32,6,26,0
+Henry,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,70,9,61,0
+Henry,A101,Commissioner of Agriculture,,DEM,Under Votes,8,2,6,0
+Henry,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,A102,Governor,,REP,Kelly CRAFT,2,0,2,0
+Henry,A102,Governor,,REP,Eric DETERS,2,1,1,0
+Henry,A102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,A102,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,A102,Governor,,REP,Alan KECK,4,0,4,0
+Henry,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,A102,Governor,,REP,Ryan QUARLES,12,1,11,0
+Henry,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,A102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Henry,A102,Governor,,REP,Daniel CAMERON,56,5,51,0
+Henry,A102,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,A102,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,A102,Governor,,REP,Total Votes Cast,77,7,70,0
+Henry,A102,Governor,,REP,Under Votes,0,0,0,0
+Henry,A102,Governor,,REP,Over Votes,0,0,0,0
+Henry,A102,Secretary of State,,REP,Michael ADAMS,53,6,47,0
+Henry,A102,Secretary of State,,REP,Stephen L. KNIPPER,12,0,12,0
+Henry,A102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Henry,A102,Secretary of State,,REP,Total Votes Cast,68,6,62,0
+Henry,A102,Secretary of State,,REP,Under Votes,9,1,8,0
+Henry,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,15,0,15,0
+Henry,A102,Auditor of Public Accounts,,REP,Allison BALL,55,7,48,0
+Henry,A102,Auditor of Public Accounts,,REP,Total Votes Cast,70,7,63,0
+Henry,A102,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Henry,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,A102,State Treasurer,,REP,Andrew COOPERRIDER,23,3,20,0
+Henry,A102,State Treasurer,,REP,Mark H. METCALF,30,4,26,0
+Henry,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",16,0,16,0
+Henry,A102,State Treasurer,,REP,Total Votes Cast,69,7,62,0
+Henry,A102,State Treasurer,,REP,Under Votes,8,0,8,0
+Henry,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,39,4,35,0
+Henry,A102,Commissioner of Agriculture,,REP,Richard HEATH,30,3,27,0
+Henry,A102,Commissioner of Agriculture,,REP,Total Votes Cast,69,7,62,0
+Henry,A102,Commissioner of Agriculture,,REP,Under Votes,8,0,8,0
+Henry,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,A102,Governor,,DEM,Andy BESHEAR,42,7,35,0
+Henry,A102,Governor,,DEM,Peppy MARTIN,5,1,4,0
+Henry,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,1,3,0
+Henry,A102,Governor,,DEM,Total Votes Cast,51,9,42,0
+Henry,A102,Governor,,DEM,Under Votes,0,0,0,0
+Henry,A102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,31,5,26,0
+Henry,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,4,14,0
+Henry,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,49,9,40,0
+Henry,A102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,A103,Governor,,REP,Kelly CRAFT,4,0,4,0
+Henry,A103,Governor,,REP,Eric DETERS,3,0,3,0
+Henry,A103,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,A103,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,A103,Governor,,REP,Alan KECK,0,0,0,0
+Henry,A103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,A103,Governor,,REP,Ryan QUARLES,7,0,7,0
+Henry,A103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,A103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,A103,Governor,,REP,Daniel CAMERON,18,1,17,0
+Henry,A103,Governor,,REP,Jacob CLARK,1,0,1,0
+Henry,A103,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,A103,Governor,,REP,Total Votes Cast,33,1,32,0
+Henry,A103,Governor,,REP,Under Votes,0,0,0,0
+Henry,A103,Governor,,REP,Over Votes,0,0,0,0
+Henry,A103,Secretary of State,,REP,Michael ADAMS,16,0,16,0
+Henry,A103,Secretary of State,,REP,Stephen L. KNIPPER,11,1,10,0
+Henry,A103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,A103,Secretary of State,,REP,Total Votes Cast,29,1,28,0
+Henry,A103,Secretary of State,,REP,Under Votes,4,0,4,0
+Henry,A103,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,A103,Auditor of Public Accounts,,REP,Derek PETTEYS,12,1,11,0
+Henry,A103,Auditor of Public Accounts,,REP,Allison BALL,19,0,19,0
+Henry,A103,Auditor of Public Accounts,,REP,Total Votes Cast,31,1,30,0
+Henry,A103,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Henry,A103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,A103,State Treasurer,,REP,Andrew COOPERRIDER,11,1,10,0
+Henry,A103,State Treasurer,,REP,Mark H. METCALF,14,0,14,0
+Henry,A103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Henry,A103,State Treasurer,,REP,Total Votes Cast,30,1,29,0
+Henry,A103,State Treasurer,,REP,Under Votes,3,0,3,0
+Henry,A103,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,13,0,13,0
+Henry,A103,Commissioner of Agriculture,,REP,Richard HEATH,16,1,15,0
+Henry,A103,Commissioner of Agriculture,,REP,Total Votes Cast,29,1,28,0
+Henry,A103,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Henry,A103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,A103,Governor,,DEM,Andy BESHEAR,18,1,15,2
+Henry,A103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Henry,A103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Henry,A103,Governor,,DEM,Total Votes Cast,19,1,16,2
+Henry,A103,Governor,,DEM,Under Votes,0,0,0,0
+Henry,A103,Governor,,DEM,Over Votes,0,0,0,0
+Henry,A103,Commissioner of Agriculture,,DEM,Mikael MALONE,7,0,7,0
+Henry,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,1,7,2
+Henry,A103,Commissioner of Agriculture,,DEM,Total Votes Cast,17,1,14,2
+Henry,A103,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,A103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,B101,Governor,,REP,Kelly CRAFT,30,0,29,1
+Henry,B101,Governor,,REP,Eric DETERS,10,0,10,0
+Henry,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,B101,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,B101,Governor,,REP,Alan KECK,1,0,1,0
+Henry,B101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Henry,B101,Governor,,REP,Ryan QUARLES,20,6,14,0
+Henry,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,B101,Governor,,REP,Robbie C. SMITH,2,0,1,1
+Henry,B101,Governor,,REP,Daniel CAMERON,108,19,85,4
+Henry,B101,Governor,,REP,Jacob CLARK,2,0,2,0
+Henry,B101,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,B101,Governor,,REP,Total Votes Cast,175,25,144,6
+Henry,B101,Governor,,REP,Under Votes,1,0,1,0
+Henry,B101,Governor,,REP,Over Votes,0,0,0,0
+Henry,B101,Secretary of State,,REP,Michael ADAMS,96,12,80,4
+Henry,B101,Secretary of State,,REP,Stephen L. KNIPPER,48,5,42,1
+Henry,B101,Secretary of State,,REP,Allen MARICLE,8,0,8,0
+Henry,B101,Secretary of State,,REP,Total Votes Cast,152,17,130,5
+Henry,B101,Secretary of State,,REP,Under Votes,24,8,15,1
+Henry,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,42,5,33,4
+Henry,B101,Auditor of Public Accounts,,REP,Allison BALL,108,13,93,2
+Henry,B101,Auditor of Public Accounts,,REP,Total Votes Cast,150,18,126,6
+Henry,B101,Auditor of Public Accounts,,REP,Under Votes,25,7,18,0
+Henry,B101,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Henry,B101,State Treasurer,,REP,Andrew COOPERRIDER,43,4,36,3
+Henry,B101,State Treasurer,,REP,Mark H. METCALF,72,8,63,1
+Henry,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",30,5,24,1
+Henry,B101,State Treasurer,,REP,Total Votes Cast,145,17,123,5
+Henry,B101,State Treasurer,,REP,Under Votes,31,8,22,1
+Henry,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,99,15,82,2
+Henry,B101,Commissioner of Agriculture,,REP,Richard HEATH,53,6,44,3
+Henry,B101,Commissioner of Agriculture,,REP,Total Votes Cast,152,21,126,5
+Henry,B101,Commissioner of Agriculture,,REP,Under Votes,24,4,19,1
+Henry,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,B101,Governor,,DEM,Andy BESHEAR,38,2,35,1
+Henry,B101,Governor,,DEM,Peppy MARTIN,2,2,0,0
+Henry,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Henry,B101,Governor,,DEM,Total Votes Cast,41,4,36,1
+Henry,B101,Governor,,DEM,Under Votes,1,0,1,0
+Henry,B101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,19,2,17,0
+Henry,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,2,17,1
+Henry,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,39,4,34,1
+Henry,B101,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Henry,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,B102,Governor,,REP,Kelly CRAFT,3,0,3,0
+Henry,B102,Governor,,REP,Eric DETERS,5,0,5,0
+Henry,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,B102,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,B102,Governor,,REP,Alan KECK,1,0,1,0
+Henry,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,B102,Governor,,REP,Ryan QUARLES,2,0,2,0
+Henry,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,B102,Governor,,REP,Daniel CAMERON,12,0,12,0
+Henry,B102,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,B102,Governor,,REP,Total Votes Cast,24,0,24,0
+Henry,B102,Governor,,REP,Under Votes,0,0,0,0
+Henry,B102,Governor,,REP,Over Votes,0,0,0,0
+Henry,B102,Secretary of State,,REP,Michael ADAMS,14,0,14,0
+Henry,B102,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Henry,B102,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Henry,B102,Secretary of State,,REP,Total Votes Cast,22,0,22,0
+Henry,B102,Secretary of State,,REP,Under Votes,2,0,2,0
+Henry,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,3,0,3,0
+Henry,B102,Auditor of Public Accounts,,REP,Allison BALL,18,0,18,0
+Henry,B102,Auditor of Public Accounts,,REP,Total Votes Cast,21,0,21,0
+Henry,B102,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Henry,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,B102,State Treasurer,,REP,Andrew COOPERRIDER,1,0,1,0
+Henry,B102,State Treasurer,,REP,Mark H. METCALF,16,0,16,0
+Henry,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Henry,B102,State Treasurer,,REP,Total Votes Cast,22,0,22,0
+Henry,B102,State Treasurer,,REP,Under Votes,2,0,2,0
+Henry,B102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,15,0,15,0
+Henry,B102,Commissioner of Agriculture,,REP,Richard HEATH,7,0,7,0
+Henry,B102,Commissioner of Agriculture,,REP,Total Votes Cast,22,0,22,0
+Henry,B102,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Henry,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,B102,Governor,,DEM,Andy BESHEAR,19,0,19,0
+Henry,B102,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Henry,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,B102,Governor,,DEM,Total Votes Cast,23,1,22,0
+Henry,B102,Governor,,DEM,Under Votes,0,0,0,0
+Henry,B102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,8,0,8,0
+Henry,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,1,12,0
+Henry,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,21,1,20,0
+Henry,B102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,B102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,B103,Governor,,REP,Kelly CRAFT,14,2,11,1
+Henry,B103,Governor,,REP,Eric DETERS,2,2,0,0
+Henry,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,B103,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,B103,Governor,,REP,Alan KECK,2,0,2,0
+Henry,B103,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Henry,B103,Governor,,REP,Ryan QUARLES,21,3,17,1
+Henry,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,B103,Governor,,REP,Daniel CAMERON,58,4,54,0
+Henry,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,B103,Governor,,REP,Total Votes Cast,99,11,86,2
+Henry,B103,Governor,,REP,Under Votes,2,0,2,0
+Henry,B103,Governor,,REP,Over Votes,0,0,0,0
+Henry,B103,Secretary of State,,REP,Michael ADAMS,52,5,47,0
+Henry,B103,Secretary of State,,REP,Stephen L. KNIPPER,33,5,26,2
+Henry,B103,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Henry,B103,Secretary of State,,REP,Total Votes Cast,89,11,76,2
+Henry,B103,Secretary of State,,REP,Under Votes,12,0,12,0
+Henry,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,26,5,21,0
+Henry,B103,Auditor of Public Accounts,,REP,Allison BALL,65,5,58,2
+Henry,B103,Auditor of Public Accounts,,REP,Total Votes Cast,91,10,79,2
+Henry,B103,Auditor of Public Accounts,,REP,Under Votes,10,1,9,0
+Henry,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,B103,State Treasurer,,REP,Andrew COOPERRIDER,18,2,15,1
+Henry,B103,State Treasurer,,REP,Mark H. METCALF,49,4,45,0
+Henry,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",22,4,17,1
+Henry,B103,State Treasurer,,REP,Total Votes Cast,89,10,77,2
+Henry,B103,State Treasurer,,REP,Under Votes,12,1,11,0
+Henry,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,46,7,37,2
+Henry,B103,Commissioner of Agriculture,,REP,Richard HEATH,39,4,35,0
+Henry,B103,Commissioner of Agriculture,,REP,Total Votes Cast,85,11,72,2
+Henry,B103,Commissioner of Agriculture,,REP,Under Votes,16,0,16,0
+Henry,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,B103,Governor,,DEM,Andy BESHEAR,32,1,30,1
+Henry,B103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Henry,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,B103,Governor,,DEM,Total Votes Cast,36,1,34,1
+Henry,B103,Governor,,DEM,Under Votes,0,0,0,0
+Henry,B103,Governor,,DEM,Over Votes,0,0,0,0
+Henry,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,11,0,11,0
+Henry,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,22,1,20,1
+Henry,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,33,1,31,1
+Henry,B103,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Henry,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,C101,Governor,,REP,Kelly CRAFT,9,0,9,0
+Henry,C101,Governor,,REP,Eric DETERS,7,1,5,1
+Henry,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,C101,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,C101,Governor,,REP,Alan KECK,1,0,1,0
+Henry,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,C101,Governor,,REP,Ryan QUARLES,20,1,19,0
+Henry,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,C101,Governor,,REP,Daniel CAMERON,67,6,61,0
+Henry,C101,Governor,,REP,Jacob CLARK,2,2,0,0
+Henry,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,C101,Governor,,REP,Total Votes Cast,106,10,95,1
+Henry,C101,Governor,,REP,Under Votes,0,0,0,0
+Henry,C101,Governor,,REP,Over Votes,0,0,0,0
+Henry,C101,Secretary of State,,REP,Michael ADAMS,45,7,38,0
+Henry,C101,Secretary of State,,REP,Stephen L. KNIPPER,35,1,33,1
+Henry,C101,Secretary of State,,REP,Allen MARICLE,11,1,10,0
+Henry,C101,Secretary of State,,REP,Total Votes Cast,91,9,81,1
+Henry,C101,Secretary of State,,REP,Under Votes,15,1,14,0
+Henry,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,25,1,24,0
+Henry,C101,Auditor of Public Accounts,,REP,Allison BALL,65,7,57,1
+Henry,C101,Auditor of Public Accounts,,REP,Total Votes Cast,90,8,81,1
+Henry,C101,Auditor of Public Accounts,,REP,Under Votes,16,2,14,0
+Henry,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,C101,State Treasurer,,REP,Andrew COOPERRIDER,24,4,20,0
+Henry,C101,State Treasurer,,REP,Mark H. METCALF,47,3,43,1
+Henry,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",22,2,20,0
+Henry,C101,State Treasurer,,REP,Total Votes Cast,93,9,83,1
+Henry,C101,State Treasurer,,REP,Under Votes,13,1,12,0
+Henry,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,47,4,43,0
+Henry,C101,Commissioner of Agriculture,,REP,Richard HEATH,43,5,37,1
+Henry,C101,Commissioner of Agriculture,,REP,Total Votes Cast,90,9,80,1
+Henry,C101,Commissioner of Agriculture,,REP,Under Votes,16,1,15,0
+Henry,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,C101,Governor,,DEM,Andy BESHEAR,48,1,47,0
+Henry,C101,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Henry,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",10,0,10,0
+Henry,C101,Governor,,DEM,Total Votes Cast,61,1,60,0
+Henry,C101,Governor,,DEM,Under Votes,2,0,2,0
+Henry,C101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,36,0,36,0
+Henry,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,22,1,21,0
+Henry,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,58,1,57,0
+Henry,C101,Commissioner of Agriculture,,DEM,Under Votes,5,0,5,0
+Henry,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,C102,Governor,,REP,Kelly CRAFT,4,0,4,0
+Henry,C102,Governor,,REP,Eric DETERS,5,0,3,2
+Henry,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,C102,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,C102,Governor,,REP,Alan KECK,1,0,1,0
+Henry,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,C102,Governor,,REP,Ryan QUARLES,7,1,6,0
+Henry,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,C102,Governor,,REP,Daniel CAMERON,37,2,35,0
+Henry,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,C102,Governor,,REP,David O. COOPER,1,0,1,0
+Henry,C102,Governor,,REP,Total Votes Cast,56,3,51,2
+Henry,C102,Governor,,REP,Under Votes,1,0,1,0
+Henry,C102,Governor,,REP,Over Votes,0,0,0,0
+Henry,C102,Secretary of State,,REP,Michael ADAMS,34,2,30,2
+Henry,C102,Secretary of State,,REP,Stephen L. KNIPPER,15,1,14,0
+Henry,C102,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,C102,Secretary of State,,REP,Total Votes Cast,51,3,46,2
+Henry,C102,Secretary of State,,REP,Under Votes,6,0,6,0
+Henry,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,18,0,16,2
+Henry,C102,Auditor of Public Accounts,,REP,Allison BALL,32,3,29,0
+Henry,C102,Auditor of Public Accounts,,REP,Total Votes Cast,50,3,45,2
+Henry,C102,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Henry,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,C102,State Treasurer,,REP,Andrew COOPERRIDER,14,1,13,0
+Henry,C102,State Treasurer,,REP,Mark H. METCALF,26,1,25,0
+Henry,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,1,6,2
+Henry,C102,State Treasurer,,REP,Total Votes Cast,49,3,44,2
+Henry,C102,State Treasurer,,REP,Under Votes,8,0,8,0
+Henry,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,31,3,28,0
+Henry,C102,Commissioner of Agriculture,,REP,Richard HEATH,18,0,17,1
+Henry,C102,Commissioner of Agriculture,,REP,Total Votes Cast,49,3,45,1
+Henry,C102,Commissioner of Agriculture,,REP,Under Votes,8,0,7,1
+Henry,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,C102,Governor,,DEM,Andy BESHEAR,25,2,23,0
+Henry,C102,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Henry,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,C102,Governor,,DEM,Total Votes Cast,31,2,29,0
+Henry,C102,Governor,,DEM,Under Votes,1,0,1,0
+Henry,C102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,18,1,17,0
+Henry,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,1,11,0
+Henry,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,30,2,28,0
+Henry,C102,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,C103,Governor,,REP,Kelly CRAFT,7,2,5,0
+Henry,C103,Governor,,REP,Eric DETERS,2,0,2,0
+Henry,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,C103,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,C103,Governor,,REP,Alan KECK,0,0,0,0
+Henry,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,C103,Governor,,REP,Ryan QUARLES,11,0,11,0
+Henry,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,C103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,C103,Governor,,REP,Daniel CAMERON,15,3,11,1
+Henry,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,C103,Governor,,REP,Total Votes Cast,36,5,30,1
+Henry,C103,Governor,,REP,Under Votes,0,0,0,0
+Henry,C103,Governor,,REP,Over Votes,0,0,0,0
+Henry,C103,Secretary of State,,REP,Michael ADAMS,29,4,25,0
+Henry,C103,Secretary of State,,REP,Stephen L. KNIPPER,4,0,4,0
+Henry,C103,Secretary of State,,REP,Allen MARICLE,1,1,0,0
+Henry,C103,Secretary of State,,REP,Total Votes Cast,34,5,29,0
+Henry,C103,Secretary of State,,REP,Under Votes,2,0,1,1
+Henry,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,6,2,4,0
+Henry,C103,Auditor of Public Accounts,,REP,Allison BALL,30,3,26,1
+Henry,C103,Auditor of Public Accounts,,REP,Total Votes Cast,36,5,30,1
+Henry,C103,Auditor of Public Accounts,,REP,Under Votes,0,0,0,0
+Henry,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,C103,State Treasurer,,REP,Andrew COOPERRIDER,9,1,8,0
+Henry,C103,State Treasurer,,REP,Mark H. METCALF,17,4,13,0
+Henry,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Henry,C103,State Treasurer,,REP,Total Votes Cast,33,5,28,0
+Henry,C103,State Treasurer,,REP,Under Votes,3,0,2,1
+Henry,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,19,3,16,0
+Henry,C103,Commissioner of Agriculture,,REP,Richard HEATH,13,2,10,1
+Henry,C103,Commissioner of Agriculture,,REP,Total Votes Cast,32,5,26,1
+Henry,C103,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Henry,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,C103,Governor,,DEM,Andy BESHEAR,23,0,23,0
+Henry,C103,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Henry,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,C103,Governor,,DEM,Total Votes Cast,29,0,29,0
+Henry,C103,Governor,,DEM,Under Votes,0,0,0,0
+Henry,C103,Governor,,DEM,Over Votes,0,0,0,0
+Henry,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,15,0,15,0
+Henry,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,0,12,0
+Henry,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,27,0,27,0
+Henry,C103,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,D101,Governor,,REP,Kelly CRAFT,14,0,14,0
+Henry,D101,Governor,,REP,Eric DETERS,4,0,4,0
+Henry,D101,Governor,,REP,Bob DeVORE,1,0,1,0
+Henry,D101,Governor,,REP,Mike HARMON,2,1,1,0
+Henry,D101,Governor,,REP,Alan KECK,2,0,2,0
+Henry,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,D101,Governor,,REP,Ryan QUARLES,52,15,36,1
+Henry,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,D101,Governor,,REP,Daniel CAMERON,62,7,55,0
+Henry,D101,Governor,,REP,Jacob CLARK,2,0,2,0
+Henry,D101,Governor,,REP,David O. COOPER,2,0,2,0
+Henry,D101,Governor,,REP,Total Votes Cast,141,23,117,1
+Henry,D101,Governor,,REP,Under Votes,0,0,0,0
+Henry,D101,Governor,,REP,Over Votes,0,0,0,0
+Henry,D101,Secretary of State,,REP,Michael ADAMS,79,13,66,0
+Henry,D101,Secretary of State,,REP,Stephen L. KNIPPER,34,7,27,0
+Henry,D101,Secretary of State,,REP,Allen MARICLE,8,0,8,0
+Henry,D101,Secretary of State,,REP,Total Votes Cast,121,20,101,0
+Henry,D101,Secretary of State,,REP,Under Votes,20,3,16,1
+Henry,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,28,1,27,0
+Henry,D101,Auditor of Public Accounts,,REP,Allison BALL,85,19,66,0
+Henry,D101,Auditor of Public Accounts,,REP,Total Votes Cast,113,20,93,0
+Henry,D101,Auditor of Public Accounts,,REP,Under Votes,28,3,24,1
+Henry,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,D101,State Treasurer,,REP,Andrew COOPERRIDER,49,10,39,0
+Henry,D101,State Treasurer,,REP,Mark H. METCALF,55,8,47,0
+Henry,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,1,11,0
+Henry,D101,State Treasurer,,REP,Total Votes Cast,116,19,97,0
+Henry,D101,State Treasurer,,REP,Under Votes,25,4,20,1
+Henry,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,66,11,55,0
+Henry,D101,Commissioner of Agriculture,,REP,Richard HEATH,55,9,46,0
+Henry,D101,Commissioner of Agriculture,,REP,Total Votes Cast,121,20,101,0
+Henry,D101,Commissioner of Agriculture,,REP,Under Votes,20,3,16,1
+Henry,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,D101,Governor,,DEM,Andy BESHEAR,78,20,54,4
+Henry,D101,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,2,7,0
+Henry,D101,Governor,,DEM,Total Votes Cast,89,22,63,4
+Henry,D101,Governor,,DEM,Under Votes,0,0,0,0
+Henry,D101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,40,12,26,2
+Henry,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,41,8,31,2
+Henry,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,81,20,57,4
+Henry,D101,Commissioner of Agriculture,,DEM,Under Votes,8,2,6,0
+Henry,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,D102,Governor,,REP,Kelly CRAFT,2,0,2,0
+Henry,D102,Governor,,REP,Eric DETERS,0,0,0,0
+Henry,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,D102,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,D102,Governor,,REP,Alan KECK,0,0,0,0
+Henry,D102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Henry,D102,Governor,,REP,Ryan QUARLES,9,0,9,0
+Henry,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,D102,Governor,,REP,Daniel CAMERON,27,8,19,0
+Henry,D102,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,D102,Governor,,REP,David O. COOPER,1,0,1,0
+Henry,D102,Governor,,REP,Total Votes Cast,40,8,32,0
+Henry,D102,Governor,,REP,Under Votes,0,0,0,0
+Henry,D102,Governor,,REP,Over Votes,0,0,0,0
+Henry,D102,Secretary of State,,REP,Michael ADAMS,24,5,19,0
+Henry,D102,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Henry,D102,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Henry,D102,Secretary of State,,REP,Total Votes Cast,35,6,29,0
+Henry,D102,Secretary of State,,REP,Under Votes,5,2,3,0
+Henry,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,11,0,11,0
+Henry,D102,Auditor of Public Accounts,,REP,Allison BALL,24,4,20,0
+Henry,D102,Auditor of Public Accounts,,REP,Total Votes Cast,35,4,31,0
+Henry,D102,Auditor of Public Accounts,,REP,Under Votes,5,4,1,0
+Henry,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,D102,State Treasurer,,REP,Andrew COOPERRIDER,11,2,9,0
+Henry,D102,State Treasurer,,REP,Mark H. METCALF,15,2,13,0
+Henry,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,0,6,0
+Henry,D102,State Treasurer,,REP,Total Votes Cast,32,4,28,0
+Henry,D102,State Treasurer,,REP,Under Votes,8,4,4,0
+Henry,D102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,15,4,11,0
+Henry,D102,Commissioner of Agriculture,,REP,Richard HEATH,17,2,15,0
+Henry,D102,Commissioner of Agriculture,,REP,Total Votes Cast,32,6,26,0
+Henry,D102,Commissioner of Agriculture,,REP,Under Votes,8,2,6,0
+Henry,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,D102,Governor,,DEM,Andy BESHEAR,40,11,29,0
+Henry,D102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,1,5,0
+Henry,D102,Governor,,DEM,Total Votes Cast,48,12,36,0
+Henry,D102,Governor,,DEM,Under Votes,0,0,0,0
+Henry,D102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,24,7,17,0
+Henry,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,4,16,0
+Henry,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,44,11,33,0
+Henry,D102,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Henry,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E101,Governor,,REP,Kelly CRAFT,1,1,0,0
+Henry,E101,Governor,,REP,Eric DETERS,3,0,3,0
+Henry,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E101,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,E101,Governor,,REP,Alan KECK,0,0,0,0
+Henry,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E101,Governor,,REP,Ryan QUARLES,5,0,5,0
+Henry,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,E101,Governor,,REP,Daniel CAMERON,7,2,5,0
+Henry,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,E101,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,E101,Governor,,REP,Total Votes Cast,16,3,13,0
+Henry,E101,Governor,,REP,Under Votes,0,0,0,0
+Henry,E101,Governor,,REP,Over Votes,0,0,0,0
+Henry,E101,Secretary of State,,REP,Michael ADAMS,12,2,10,0
+Henry,E101,Secretary of State,,REP,Stephen L. KNIPPER,1,0,1,0
+Henry,E101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Henry,E101,Secretary of State,,REP,Total Votes Cast,14,2,12,0
+Henry,E101,Secretary of State,,REP,Under Votes,2,1,1,0
+Henry,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,4,1,3,0
+Henry,E101,Auditor of Public Accounts,,REP,Allison BALL,9,1,8,0
+Henry,E101,Auditor of Public Accounts,,REP,Total Votes Cast,13,2,11,0
+Henry,E101,Auditor of Public Accounts,,REP,Under Votes,3,1,2,0
+Henry,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E101,State Treasurer,,REP,Andrew COOPERRIDER,4,0,4,0
+Henry,E101,State Treasurer,,REP,Mark H. METCALF,4,0,4,0
+Henry,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,2,4,0
+Henry,E101,State Treasurer,,REP,Total Votes Cast,14,2,12,0
+Henry,E101,State Treasurer,,REP,Under Votes,2,1,1,0
+Henry,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,9,0,9,0
+Henry,E101,Commissioner of Agriculture,,REP,Richard HEATH,5,2,3,0
+Henry,E101,Commissioner of Agriculture,,REP,Total Votes Cast,14,2,12,0
+Henry,E101,Commissioner of Agriculture,,REP,Under Votes,2,1,1,0
+Henry,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E101,Governor,,DEM,Andy BESHEAR,10,4,6,0
+Henry,E101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Henry,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Henry,E101,Governor,,DEM,Total Votes Cast,10,4,6,0
+Henry,E101,Governor,,DEM,Under Votes,0,0,0,0
+Henry,E101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,5,2,3,0
+Henry,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,2,3,0
+Henry,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,10,4,6,0
+Henry,E101,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Henry,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E102,Governor,,REP,Kelly CRAFT,5,0,5,0
+Henry,E102,Governor,,REP,Eric DETERS,3,0,3,0
+Henry,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E102,Governor,,REP,Mike HARMON,1,0,1,0
+Henry,E102,Governor,,REP,Alan KECK,0,0,0,0
+Henry,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E102,Governor,,REP,Ryan QUARLES,12,0,11,1
+Henry,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,E102,Governor,,REP,Daniel CAMERON,8,0,8,0
+Henry,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,E102,Governor,,REP,David O. COOPER,1,0,1,0
+Henry,E102,Governor,,REP,Total Votes Cast,30,0,29,1
+Henry,E102,Governor,,REP,Under Votes,0,0,0,0
+Henry,E102,Governor,,REP,Over Votes,0,0,0,0
+Henry,E102,Secretary of State,,REP,Michael ADAMS,18,0,18,0
+Henry,E102,Secretary of State,,REP,Stephen L. KNIPPER,7,0,6,1
+Henry,E102,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,E102,Secretary of State,,REP,Total Votes Cast,27,0,26,1
+Henry,E102,Secretary of State,,REP,Under Votes,3,0,3,0
+Henry,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Henry,E102,Auditor of Public Accounts,,REP,Allison BALL,18,0,17,1
+Henry,E102,Auditor of Public Accounts,,REP,Total Votes Cast,27,0,26,1
+Henry,E102,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Henry,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E102,State Treasurer,,REP,Andrew COOPERRIDER,10,0,10,0
+Henry,E102,State Treasurer,,REP,Mark H. METCALF,16,0,15,1
+Henry,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Henry,E102,State Treasurer,,REP,Total Votes Cast,27,0,26,1
+Henry,E102,State Treasurer,,REP,Under Votes,3,0,3,0
+Henry,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,19,0,18,1
+Henry,E102,Commissioner of Agriculture,,REP,Richard HEATH,9,0,9,0
+Henry,E102,Commissioner of Agriculture,,REP,Total Votes Cast,28,0,27,1
+Henry,E102,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Henry,E102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E102,Governor,,DEM,Andy BESHEAR,24,2,21,1
+Henry,E102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Henry,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Henry,E102,Governor,,DEM,Total Votes Cast,27,2,24,1
+Henry,E102,Governor,,DEM,Under Votes,0,0,0,0
+Henry,E102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,15,0,15,0
+Henry,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,2,9,1
+Henry,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,27,2,24,1
+Henry,E102,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Henry,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E103,Governor,,REP,Kelly CRAFT,6,1,5,0
+Henry,E103,Governor,,REP,Eric DETERS,2,0,2,0
+Henry,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E103,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,E103,Governor,,REP,Alan KECK,0,0,0,0
+Henry,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E103,Governor,,REP,Ryan QUARLES,26,3,23,0
+Henry,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,E103,Governor,,REP,Daniel CAMERON,23,0,22,1
+Henry,E103,Governor,,REP,Jacob CLARK,1,0,1,0
+Henry,E103,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,E103,Governor,,REP,Total Votes Cast,58,4,53,1
+Henry,E103,Governor,,REP,Under Votes,0,0,0,0
+Henry,E103,Governor,,REP,Over Votes,0,0,0,0
+Henry,E103,Secretary of State,,REP,Michael ADAMS,31,4,26,1
+Henry,E103,Secretary of State,,REP,Stephen L. KNIPPER,17,0,17,0
+Henry,E103,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,E103,Secretary of State,,REP,Total Votes Cast,50,4,45,1
+Henry,E103,Secretary of State,,REP,Under Votes,8,0,8,0
+Henry,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,15,0,15,0
+Henry,E103,Auditor of Public Accounts,,REP,Allison BALL,37,4,32,1
+Henry,E103,Auditor of Public Accounts,,REP,Total Votes Cast,52,4,47,1
+Henry,E103,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Henry,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E103,State Treasurer,,REP,Andrew COOPERRIDER,22,2,20,0
+Henry,E103,State Treasurer,,REP,Mark H. METCALF,22,0,21,1
+Henry,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,1,6,0
+Henry,E103,State Treasurer,,REP,Total Votes Cast,51,3,47,1
+Henry,E103,State Treasurer,,REP,Under Votes,7,1,6,0
+Henry,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,35,2,32,1
+Henry,E103,Commissioner of Agriculture,,REP,Richard HEATH,17,2,15,0
+Henry,E103,Commissioner of Agriculture,,REP,Total Votes Cast,52,4,47,1
+Henry,E103,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Henry,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E103,Governor,,DEM,Andy BESHEAR,27,3,20,4
+Henry,E103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Henry,E103,Governor,,DEM,Total Votes Cast,30,3,23,4
+Henry,E103,Governor,,DEM,Under Votes,0,0,0,0
+Henry,E103,Governor,,DEM,Over Votes,1,0,1,0
+Henry,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,15,2,11,2
+Henry,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,1,11,2
+Henry,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,29,3,22,4
+Henry,E103,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Henry,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E104,Governor,,REP,Kelly CRAFT,2,0,2,0
+Henry,E104,Governor,,REP,Eric DETERS,7,2,5,0
+Henry,E104,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E104,Governor,,REP,Mike HARMON,3,0,3,0
+Henry,E104,Governor,,REP,Alan KECK,1,0,1,0
+Henry,E104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E104,Governor,,REP,Ryan QUARLES,10,0,10,0
+Henry,E104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E104,Governor,,REP,Robbie C. SMITH,2,1,1,0
+Henry,E104,Governor,,REP,Daniel CAMERON,17,0,17,0
+Henry,E104,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,E104,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,E104,Governor,,REP,Total Votes Cast,42,3,39,0
+Henry,E104,Governor,,REP,Under Votes,0,0,0,0
+Henry,E104,Governor,,REP,Over Votes,0,0,0,0
+Henry,E104,Secretary of State,,REP,Michael ADAMS,29,1,28,0
+Henry,E104,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Henry,E104,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Henry,E104,Secretary of State,,REP,Total Votes Cast,40,1,39,0
+Henry,E104,Secretary of State,,REP,Under Votes,2,2,0,0
+Henry,E104,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E104,Auditor of Public Accounts,,REP,Derek PETTEYS,16,2,14,0
+Henry,E104,Auditor of Public Accounts,,REP,Allison BALL,24,0,24,0
+Henry,E104,Auditor of Public Accounts,,REP,Total Votes Cast,40,2,38,0
+Henry,E104,Auditor of Public Accounts,,REP,Under Votes,2,1,1,0
+Henry,E104,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E104,State Treasurer,,REP,Andrew COOPERRIDER,10,1,9,0
+Henry,E104,State Treasurer,,REP,Mark H. METCALF,22,0,22,0
+Henry,E104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Henry,E104,State Treasurer,,REP,Total Votes Cast,37,1,36,0
+Henry,E104,State Treasurer,,REP,Under Votes,5,2,3,0
+Henry,E104,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,19,1,18,0
+Henry,E104,Commissioner of Agriculture,,REP,Richard HEATH,20,1,19,0
+Henry,E104,Commissioner of Agriculture,,REP,Total Votes Cast,39,2,37,0
+Henry,E104,Commissioner of Agriculture,,REP,Under Votes,3,1,2,0
+Henry,E104,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E104,Governor,,DEM,Andy BESHEAR,19,4,15,0
+Henry,E104,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Henry,E104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,E104,Governor,,DEM,Total Votes Cast,23,4,19,0
+Henry,E104,Governor,,DEM,Under Votes,0,0,0,0
+Henry,E104,Governor,,DEM,Over Votes,0,0,0,0
+Henry,E104,Commissioner of Agriculture,,DEM,Mikael MALONE,11,2,9,0
+Henry,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,2,9,0
+Henry,E104,Commissioner of Agriculture,,DEM,Total Votes Cast,22,4,18,0
+Henry,E104,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Henry,E104,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E105,Governor,,REP,Kelly CRAFT,3,0,3,0
+Henry,E105,Governor,,REP,Eric DETERS,7,0,7,0
+Henry,E105,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E105,Governor,,REP,Mike HARMON,1,1,0,0
+Henry,E105,Governor,,REP,Alan KECK,0,0,0,0
+Henry,E105,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E105,Governor,,REP,Ryan QUARLES,10,2,6,2
+Henry,E105,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E105,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,E105,Governor,,REP,Daniel CAMERON,21,1,20,0
+Henry,E105,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,E105,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,E105,Governor,,REP,Total Votes Cast,42,4,36,2
+Henry,E105,Governor,,REP,Under Votes,0,0,0,0
+Henry,E105,Governor,,REP,Over Votes,0,0,0,0
+Henry,E105,Secretary of State,,REP,Michael ADAMS,27,3,22,2
+Henry,E105,Secretary of State,,REP,Stephen L. KNIPPER,10,1,9,0
+Henry,E105,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,E105,Secretary of State,,REP,Total Votes Cast,39,4,33,2
+Henry,E105,Secretary of State,,REP,Under Votes,3,0,3,0
+Henry,E105,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E105,Auditor of Public Accounts,,REP,Derek PETTEYS,14,2,10,2
+Henry,E105,Auditor of Public Accounts,,REP,Allison BALL,24,2,22,0
+Henry,E105,Auditor of Public Accounts,,REP,Total Votes Cast,38,4,32,2
+Henry,E105,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Henry,E105,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E105,State Treasurer,,REP,Andrew COOPERRIDER,10,0,8,2
+Henry,E105,State Treasurer,,REP,Mark H. METCALF,19,3,16,0
+Henry,E105,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,0,6,0
+Henry,E105,State Treasurer,,REP,Total Votes Cast,35,3,30,2
+Henry,E105,State Treasurer,,REP,Under Votes,7,1,6,0
+Henry,E105,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E105,Commissioner of Agriculture,,REP,Jonathan SHELL,19,0,17,2
+Henry,E105,Commissioner of Agriculture,,REP,Richard HEATH,18,3,15,0
+Henry,E105,Commissioner of Agriculture,,REP,Total Votes Cast,37,3,32,2
+Henry,E105,Commissioner of Agriculture,,REP,Under Votes,5,1,4,0
+Henry,E105,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E105,Governor,,DEM,Andy BESHEAR,10,1,9,0
+Henry,E105,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,E105,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,E105,Governor,,DEM,Total Votes Cast,15,1,14,0
+Henry,E105,Governor,,DEM,Under Votes,1,0,1,0
+Henry,E105,Governor,,DEM,Over Votes,0,0,0,0
+Henry,E105,Commissioner of Agriculture,,DEM,Mikael MALONE,5,0,5,0
+Henry,E105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,1,10,0
+Henry,E105,Commissioner of Agriculture,,DEM,Total Votes Cast,16,1,15,0
+Henry,E105,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Henry,E105,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,E106,Governor,,REP,Kelly CRAFT,12,2,10,0
+Henry,E106,Governor,,REP,Eric DETERS,3,0,3,0
+Henry,E106,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,E106,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,E106,Governor,,REP,Alan KECK,1,0,1,0
+Henry,E106,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,E106,Governor,,REP,Ryan QUARLES,9,2,7,0
+Henry,E106,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,E106,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,E106,Governor,,REP,Daniel CAMERON,20,1,19,0
+Henry,E106,Governor,,REP,Jacob CLARK,1,0,1,0
+Henry,E106,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,E106,Governor,,REP,Total Votes Cast,46,5,41,0
+Henry,E106,Governor,,REP,Under Votes,0,0,0,0
+Henry,E106,Governor,,REP,Over Votes,0,0,0,0
+Henry,E106,Secretary of State,,REP,Michael ADAMS,29,2,27,0
+Henry,E106,Secretary of State,,REP,Stephen L. KNIPPER,10,0,10,0
+Henry,E106,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Henry,E106,Secretary of State,,REP,Total Votes Cast,41,2,39,0
+Henry,E106,Secretary of State,,REP,Under Votes,5,3,2,0
+Henry,E106,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,E106,Auditor of Public Accounts,,REP,Derek PETTEYS,9,1,8,0
+Henry,E106,Auditor of Public Accounts,,REP,Allison BALL,31,2,29,0
+Henry,E106,Auditor of Public Accounts,,REP,Total Votes Cast,40,3,37,0
+Henry,E106,Auditor of Public Accounts,,REP,Under Votes,6,2,4,0
+Henry,E106,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,E106,State Treasurer,,REP,Andrew COOPERRIDER,13,0,13,0
+Henry,E106,State Treasurer,,REP,Mark H. METCALF,21,2,19,0
+Henry,E106,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Henry,E106,State Treasurer,,REP,Total Votes Cast,39,2,37,0
+Henry,E106,State Treasurer,,REP,Under Votes,7,3,4,0
+Henry,E106,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,E106,Commissioner of Agriculture,,REP,Jonathan SHELL,21,5,16,0
+Henry,E106,Commissioner of Agriculture,,REP,Richard HEATH,21,0,21,0
+Henry,E106,Commissioner of Agriculture,,REP,Total Votes Cast,42,5,37,0
+Henry,E106,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Henry,E106,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,E106,Governor,,DEM,Andy BESHEAR,26,3,23,0
+Henry,E106,Governor,,DEM,Peppy MARTIN,4,1,3,0
+Henry,E106,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Henry,E106,Governor,,DEM,Total Votes Cast,33,4,29,0
+Henry,E106,Governor,,DEM,Under Votes,0,0,0,0
+Henry,E106,Governor,,DEM,Over Votes,0,0,0,0
+Henry,E106,Commissioner of Agriculture,,DEM,Mikael MALONE,15,3,12,0
+Henry,E106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,1,17,0
+Henry,E106,Commissioner of Agriculture,,DEM,Total Votes Cast,33,4,29,0
+Henry,E106,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Henry,E106,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,F101,Governor,,REP,Kelly CRAFT,3,3,0,0
+Henry,F101,Governor,,REP,Eric DETERS,2,0,2,0
+Henry,F101,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,F101,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,F101,Governor,,REP,Alan KECK,0,0,0,0
+Henry,F101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,F101,Governor,,REP,Ryan QUARLES,8,4,4,0
+Henry,F101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,F101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,F101,Governor,,REP,Daniel CAMERON,31,3,28,0
+Henry,F101,Governor,,REP,Jacob CLARK,2,0,2,0
+Henry,F101,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,F101,Governor,,REP,Total Votes Cast,46,10,36,0
+Henry,F101,Governor,,REP,Under Votes,0,0,0,0
+Henry,F101,Governor,,REP,Over Votes,0,0,0,0
+Henry,F101,Secretary of State,,REP,Michael ADAMS,26,7,19,0
+Henry,F101,Secretary of State,,REP,Stephen L. KNIPPER,13,2,11,0
+Henry,F101,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Henry,F101,Secretary of State,,REP,Total Votes Cast,40,9,31,0
+Henry,F101,Secretary of State,,REP,Under Votes,6,1,5,0
+Henry,F101,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,F101,Auditor of Public Accounts,,REP,Derek PETTEYS,15,2,13,0
+Henry,F101,Auditor of Public Accounts,,REP,Allison BALL,27,7,20,0
+Henry,F101,Auditor of Public Accounts,,REP,Total Votes Cast,42,9,33,0
+Henry,F101,Auditor of Public Accounts,,REP,Under Votes,4,1,3,0
+Henry,F101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,F101,State Treasurer,,REP,Andrew COOPERRIDER,13,2,11,0
+Henry,F101,State Treasurer,,REP,Mark H. METCALF,18,5,13,0
+Henry,F101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Henry,F101,State Treasurer,,REP,Total Votes Cast,36,7,29,0
+Henry,F101,State Treasurer,,REP,Under Votes,10,3,7,0
+Henry,F101,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,26,5,21,0
+Henry,F101,Commissioner of Agriculture,,REP,Richard HEATH,12,3,9,0
+Henry,F101,Commissioner of Agriculture,,REP,Total Votes Cast,38,8,30,0
+Henry,F101,Commissioner of Agriculture,,REP,Under Votes,8,2,6,0
+Henry,F101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,F101,Governor,,DEM,Andy BESHEAR,20,3,17,0
+Henry,F101,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,F101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,1,2,1
+Henry,F101,Governor,,DEM,Total Votes Cast,26,4,21,1
+Henry,F101,Governor,,DEM,Under Votes,0,0,0,0
+Henry,F101,Governor,,DEM,Over Votes,0,0,0,0
+Henry,F101,Commissioner of Agriculture,,DEM,Mikael MALONE,13,2,10,1
+Henry,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,2,10,0
+Henry,F101,Commissioner of Agriculture,,DEM,Total Votes Cast,25,4,20,1
+Henry,F101,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Henry,F101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,F102,Governor,,REP,Kelly CRAFT,4,0,4,0
+Henry,F102,Governor,,REP,Eric DETERS,2,0,2,0
+Henry,F102,Governor,,REP,Bob DeVORE,0,0,0,0
+Henry,F102,Governor,,REP,Mike HARMON,0,0,0,0
+Henry,F102,Governor,,REP,Alan KECK,0,0,0,0
+Henry,F102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,F102,Governor,,REP,Ryan QUARLES,7,0,7,0
+Henry,F102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,F102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,F102,Governor,,REP,Daniel CAMERON,15,0,15,0
+Henry,F102,Governor,,REP,Jacob CLARK,2,0,2,0
+Henry,F102,Governor,,REP,David O. COOPER,1,0,1,0
+Henry,F102,Governor,,REP,Total Votes Cast,31,0,31,0
+Henry,F102,Governor,,REP,Under Votes,0,0,0,0
+Henry,F102,Governor,,REP,Over Votes,0,0,0,0
+Henry,F102,Secretary of State,,REP,Michael ADAMS,15,0,15,0
+Henry,F102,Secretary of State,,REP,Stephen L. KNIPPER,6,0,6,0
+Henry,F102,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Henry,F102,Secretary of State,,REP,Total Votes Cast,24,0,24,0
+Henry,F102,Secretary of State,,REP,Under Votes,7,0,7,0
+Henry,F102,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,F102,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Henry,F102,Auditor of Public Accounts,,REP,Allison BALL,16,0,16,0
+Henry,F102,Auditor of Public Accounts,,REP,Total Votes Cast,25,0,25,0
+Henry,F102,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Henry,F102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,F102,State Treasurer,,REP,Andrew COOPERRIDER,7,0,7,0
+Henry,F102,State Treasurer,,REP,Mark H. METCALF,12,0,12,0
+Henry,F102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Henry,F102,State Treasurer,,REP,Total Votes Cast,26,0,26,0
+Henry,F102,State Treasurer,,REP,Under Votes,5,0,5,0
+Henry,F102,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,10,0,10,0
+Henry,F102,Commissioner of Agriculture,,REP,Richard HEATH,14,0,14,0
+Henry,F102,Commissioner of Agriculture,,REP,Total Votes Cast,24,0,24,0
+Henry,F102,Commissioner of Agriculture,,REP,Under Votes,7,0,7,0
+Henry,F102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,F102,Governor,,DEM,Andy BESHEAR,17,3,14,0
+Henry,F102,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Henry,F102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Henry,F102,Governor,,DEM,Total Votes Cast,25,3,22,0
+Henry,F102,Governor,,DEM,Under Votes,1,0,1,0
+Henry,F102,Governor,,DEM,Over Votes,0,0,0,0
+Henry,F102,Commissioner of Agriculture,,DEM,Mikael MALONE,14,2,12,0
+Henry,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,1,8,0
+Henry,F102,Commissioner of Agriculture,,DEM,Total Votes Cast,23,3,20,0
+Henry,F102,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Henry,F102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Henry,F103,Governor,,REP,Kelly CRAFT,4,0,4,0
+Henry,F103,Governor,,REP,Eric DETERS,4,1,3,0
+Henry,F103,Governor,,REP,Bob DeVORE,1,0,1,0
+Henry,F103,Governor,,REP,Mike HARMON,4,0,4,0
+Henry,F103,Governor,,REP,Alan KECK,1,0,1,0
+Henry,F103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Henry,F103,Governor,,REP,Ryan QUARLES,30,0,30,0
+Henry,F103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Henry,F103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Henry,F103,Governor,,REP,Daniel CAMERON,29,5,24,0
+Henry,F103,Governor,,REP,Jacob CLARK,0,0,0,0
+Henry,F103,Governor,,REP,David O. COOPER,0,0,0,0
+Henry,F103,Governor,,REP,Total Votes Cast,73,6,67,0
+Henry,F103,Governor,,REP,Under Votes,0,0,0,0
+Henry,F103,Governor,,REP,Over Votes,0,0,0,0
+Henry,F103,Secretary of State,,REP,Michael ADAMS,39,3,36,0
+Henry,F103,Secretary of State,,REP,Stephen L. KNIPPER,22,0,22,0
+Henry,F103,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Henry,F103,Secretary of State,,REP,Total Votes Cast,65,4,61,0
+Henry,F103,Secretary of State,,REP,Under Votes,8,2,6,0
+Henry,F103,Secretary of State,,REP,Over Votes,0,0,0,0
+Henry,F103,Auditor of Public Accounts,,REP,Derek PETTEYS,24,2,22,0
+Henry,F103,Auditor of Public Accounts,,REP,Allison BALL,43,2,41,0
+Henry,F103,Auditor of Public Accounts,,REP,Total Votes Cast,67,4,63,0
+Henry,F103,Auditor of Public Accounts,,REP,Under Votes,6,2,4,0
+Henry,F103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Henry,F103,State Treasurer,,REP,Andrew COOPERRIDER,23,2,21,0
+Henry,F103,State Treasurer,,REP,Mark H. METCALF,34,1,33,0
+Henry,F103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Henry,F103,State Treasurer,,REP,Total Votes Cast,64,3,61,0
+Henry,F103,State Treasurer,,REP,Under Votes,9,3,6,0
+Henry,F103,State Treasurer,,REP,Over Votes,0,0,0,0
+Henry,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,32,3,29,0
+Henry,F103,Commissioner of Agriculture,,REP,Richard HEATH,31,0,31,0
+Henry,F103,Commissioner of Agriculture,,REP,Total Votes Cast,63,3,60,0
+Henry,F103,Commissioner of Agriculture,,REP,Under Votes,10,3,7,0
+Henry,F103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Henry,F103,Governor,,DEM,Andy BESHEAR,73,6,67,0
+Henry,F103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Henry,F103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Henry,F103,Governor,,DEM,Total Votes Cast,84,6,78,0
+Henry,F103,Governor,,DEM,Under Votes,0,0,0,0
+Henry,F103,Governor,,DEM,Over Votes,0,0,0,0
+Henry,F103,Commissioner of Agriculture,,DEM,Mikael MALONE,40,4,36,0
+Henry,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,0,34,0
+Henry,F103,Commissioner of Agriculture,,DEM,Total Votes Cast,74,4,70,0
+Henry,F103,Commissioner of Agriculture,,DEM,Under Votes,10,2,8,0
+Henry,F103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

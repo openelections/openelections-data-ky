@@ -1,0 +1,769 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Bourbon,B101,Governor,,REP,Bob DeVORE,1,0,1,0
+Bourbon,B101,Governor,,REP,Mike HARMON,6,0,6,0
+Bourbon,B101,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,B101,Governor,,REP,Ryan QUARLES,51,5,46,0
+Bourbon,B101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Bourbon,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,B101,Governor,,REP,Daniel CAMERON,34,0,34,0
+Bourbon,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,B101,Governor,,REP,David O. COOPER,1,0,1,0
+Bourbon,B101,Governor,,REP,Kelly CRAFT,11,3,8,0
+Bourbon,B101,Governor,,REP,Eric DETERS,5,0,5,0
+Bourbon,B101,Governor,,REP,Total Votes Cast,111,8,103,0
+Bourbon,B101,Governor,,REP,Under Votes,1,0,1,0
+Bourbon,B101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,B101,Secretary of State,,REP,Allen MARICLE,5,0,5,0
+Bourbon,B101,Secretary of State,,REP,Michael ADAMS,65,7,58,0
+Bourbon,B101,Secretary of State,,REP,Stephen L. KNIPPER,31,0,31,0
+Bourbon,B101,Secretary of State,,REP,Total Votes Cast,101,7,94,0
+Bourbon,B101,Secretary of State,,REP,Under Votes,11,1,10,0
+Bourbon,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,26,1,25,0
+Bourbon,B101,Auditor of Public Accounts,,REP,Allison BALL,67,6,61,0
+Bourbon,B101,Auditor of Public Accounts,,REP,Total Votes Cast,93,7,86,0
+Bourbon,B101,Auditor of Public Accounts,,REP,Under Votes,19,1,18,0
+Bourbon,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",32,4,28,0
+Bourbon,B101,State Treasurer,,REP,Andrew COOPERRIDER,26,0,26,0
+Bourbon,B101,State Treasurer,,REP,Mark H. METCALF,39,2,37,0
+Bourbon,B101,State Treasurer,,REP,Total Votes Cast,97,6,91,0
+Bourbon,B101,State Treasurer,,REP,Under Votes,15,2,13,0
+Bourbon,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,57,6,51,0
+Bourbon,B101,Commissioner of Agriculture,,REP,Richard HEATH,39,1,38,0
+Bourbon,B101,Commissioner of Agriculture,,REP,Total Votes Cast,96,7,89,0
+Bourbon,B101,Commissioner of Agriculture,,REP,Under Votes,16,1,15,0
+Bourbon,B101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Bourbon,B101,Governor,,DEM,Andy BESHEAR,57,9,44,4
+Bourbon,B101,Governor,,DEM,Peppy MARTIN,6,0,6,0
+Bourbon,B101,Governor,,DEM,Total Votes Cast,72,9,59,4
+Bourbon,B101,Governor,,DEM,Under Votes,2,0,2,0
+Bourbon,B101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,38,3,33,2
+Bourbon,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,5,25,1
+Bourbon,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,69,8,58,3
+Bourbon,B101,Commissioner of Agriculture,,DEM,Under Votes,5,1,3,1
+Bourbon,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,B103,Governor,,REP,Mike HARMON,1,0,1,0
+Bourbon,B103,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,B103,Governor,,REP,Ryan QUARLES,8,2,4,2
+Bourbon,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,B103,Governor,,REP,Daniel CAMERON,20,5,14,1
+Bourbon,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,B103,Governor,,REP,Kelly CRAFT,5,2,3,0
+Bourbon,B103,Governor,,REP,Eric DETERS,3,1,2,0
+Bourbon,B103,Governor,,REP,Total Votes Cast,38,10,25,3
+Bourbon,B103,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,B103,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,B103,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Bourbon,B103,Secretary of State,,REP,Michael ADAMS,27,7,17,3
+Bourbon,B103,Secretary of State,,REP,Stephen L. KNIPPER,6,2,4,0
+Bourbon,B103,Secretary of State,,REP,Total Votes Cast,34,9,22,3
+Bourbon,B103,Secretary of State,,REP,Under Votes,4,1,3,0
+Bourbon,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,14,4,9,1
+Bourbon,B103,Auditor of Public Accounts,,REP,Allison BALL,19,5,12,2
+Bourbon,B103,Auditor of Public Accounts,,REP,Total Votes Cast,33,9,21,3
+Bourbon,B103,Auditor of Public Accounts,,REP,Under Votes,5,1,4,0
+Bourbon,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,3,6,2
+Bourbon,B103,State Treasurer,,REP,Andrew COOPERRIDER,9,3,6,0
+Bourbon,B103,State Treasurer,,REP,Mark H. METCALF,15,3,11,1
+Bourbon,B103,State Treasurer,,REP,Total Votes Cast,35,9,23,3
+Bourbon,B103,State Treasurer,,REP,Under Votes,3,1,2,0
+Bourbon,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,19,4,14,1
+Bourbon,B103,Commissioner of Agriculture,,REP,Richard HEATH,13,4,7,2
+Bourbon,B103,Commissioner of Agriculture,,REP,Total Votes Cast,32,8,21,3
+Bourbon,B103,Commissioner of Agriculture,,REP,Under Votes,6,2,4,0
+Bourbon,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,1,1,0
+Bourbon,B103,Governor,,DEM,Andy BESHEAR,50,16,28,6
+Bourbon,B103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Bourbon,B103,Governor,,DEM,Total Votes Cast,54,17,31,6
+Bourbon,B103,Governor,,DEM,Under Votes,1,1,0,0
+Bourbon,B103,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,24,7,13,4
+Bourbon,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,9,14,2
+Bourbon,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,49,16,27,6
+Bourbon,B103,Commissioner of Agriculture,,DEM,Under Votes,6,2,4,0
+Bourbon,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,C101,Governor,,REP,Bob DeVORE,1,0,1,0
+Bourbon,C101,Governor,,REP,Mike HARMON,0,0,0,0
+Bourbon,C101,Governor,,REP,Alan KECK,2,0,2,0
+Bourbon,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,C101,Governor,,REP,Ryan QUARLES,31,5,26,0
+Bourbon,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,C101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Bourbon,C101,Governor,,REP,Daniel CAMERON,40,5,30,5
+Bourbon,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,C101,Governor,,REP,Kelly CRAFT,6,1,4,1
+Bourbon,C101,Governor,,REP,Eric DETERS,4,0,4,0
+Bourbon,C101,Governor,,REP,Total Votes Cast,85,11,68,6
+Bourbon,C101,Governor,,REP,Under Votes,1,0,1,0
+Bourbon,C101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,C101,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Bourbon,C101,Secretary of State,,REP,Michael ADAMS,46,10,31,5
+Bourbon,C101,Secretary of State,,REP,Stephen L. KNIPPER,27,0,26,1
+Bourbon,C101,Secretary of State,,REP,Total Votes Cast,77,10,61,6
+Bourbon,C101,Secretary of State,,REP,Under Votes,9,1,8,0
+Bourbon,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,26,1,25,0
+Bourbon,C101,Auditor of Public Accounts,,REP,Allison BALL,45,8,31,6
+Bourbon,C101,Auditor of Public Accounts,,REP,Total Votes Cast,71,9,56,6
+Bourbon,C101,Auditor of Public Accounts,,REP,Under Votes,15,2,13,0
+Bourbon,C101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",14,3,11,0
+Bourbon,C101,State Treasurer,,REP,Andrew COOPERRIDER,25,2,20,3
+Bourbon,C101,State Treasurer,,REP,Mark H. METCALF,33,5,25,3
+Bourbon,C101,State Treasurer,,REP,Total Votes Cast,72,10,56,6
+Bourbon,C101,State Treasurer,,REP,Under Votes,14,1,13,0
+Bourbon,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,48,10,36,2
+Bourbon,C101,Commissioner of Agriculture,,REP,Richard HEATH,29,1,24,4
+Bourbon,C101,Commissioner of Agriculture,,REP,Total Votes Cast,77,11,60,6
+Bourbon,C101,Commissioner of Agriculture,,REP,Under Votes,9,0,9,0
+Bourbon,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Bourbon,C101,Governor,,DEM,Andy BESHEAR,47,11,33,3
+Bourbon,C101,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Bourbon,C101,Governor,,DEM,Total Votes Cast,54,11,40,3
+Bourbon,C101,Governor,,DEM,Under Votes,1,0,1,0
+Bourbon,C101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,20,5,14,1
+Bourbon,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,30,5,23,2
+Bourbon,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,50,10,37,3
+Bourbon,C101,Commissioner of Agriculture,,DEM,Under Votes,5,1,4,0
+Bourbon,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,C102,Governor,,REP,Mike HARMON,0,0,0,0
+Bourbon,C102,Governor,,REP,Alan KECK,0,0,0,0
+Bourbon,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,C102,Governor,,REP,Ryan QUARLES,17,3,13,1
+Bourbon,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,C102,Governor,,REP,Daniel CAMERON,23,5,18,0
+Bourbon,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,C102,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,C102,Governor,,REP,Kelly CRAFT,4,3,1,0
+Bourbon,C102,Governor,,REP,Eric DETERS,0,0,0,0
+Bourbon,C102,Governor,,REP,Total Votes Cast,44,11,32,1
+Bourbon,C102,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,C102,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,C102,Secretary of State,,REP,Allen MARICLE,2,1,1,0
+Bourbon,C102,Secretary of State,,REP,Michael ADAMS,29,8,21,0
+Bourbon,C102,Secretary of State,,REP,Stephen L. KNIPPER,10,2,7,1
+Bourbon,C102,Secretary of State,,REP,Total Votes Cast,41,11,29,1
+Bourbon,C102,Secretary of State,,REP,Under Votes,3,0,3,0
+Bourbon,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Bourbon,C102,Auditor of Public Accounts,,REP,Allison BALL,30,10,19,1
+Bourbon,C102,Auditor of Public Accounts,,REP,Total Votes Cast,39,10,28,1
+Bourbon,C102,Auditor of Public Accounts,,REP,Under Votes,5,1,4,0
+Bourbon,C102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,2,10,0
+Bourbon,C102,State Treasurer,,REP,Andrew COOPERRIDER,5,2,2,1
+Bourbon,C102,State Treasurer,,REP,Mark H. METCALF,21,6,15,0
+Bourbon,C102,State Treasurer,,REP,Total Votes Cast,38,10,27,1
+Bourbon,C102,State Treasurer,,REP,Under Votes,6,1,5,0
+Bourbon,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,24,6,18,0
+Bourbon,C102,Commissioner of Agriculture,,REP,Richard HEATH,13,4,8,1
+Bourbon,C102,Commissioner of Agriculture,,REP,Total Votes Cast,37,10,26,1
+Bourbon,C102,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Bourbon,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Bourbon,C102,Governor,,DEM,Andy BESHEAR,15,4,9,2
+Bourbon,C102,Governor,,DEM,Peppy MARTIN,3,1,2,0
+Bourbon,C102,Governor,,DEM,Total Votes Cast,18,5,11,2
+Bourbon,C102,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,C102,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,5,0,4,1
+Bourbon,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,4,5,1
+Bourbon,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,15,4,9,2
+Bourbon,C102,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Bourbon,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,C103,Governor,,REP,Bob DeVORE,1,0,1,0
+Bourbon,C103,Governor,,REP,Mike HARMON,1,0,1,0
+Bourbon,C103,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,C103,Governor,,REP,Ryan QUARLES,18,2,15,1
+Bourbon,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,C103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Bourbon,C103,Governor,,REP,Daniel CAMERON,16,2,13,1
+Bourbon,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,C103,Governor,,REP,Kelly CRAFT,7,0,6,1
+Bourbon,C103,Governor,,REP,Eric DETERS,4,1,3,0
+Bourbon,C103,Governor,,REP,Total Votes Cast,49,5,41,3
+Bourbon,C103,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,C103,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,C103,Secretary of State,,REP,Allen MARICLE,5,1,4,0
+Bourbon,C103,Secretary of State,,REP,Michael ADAMS,33,2,28,3
+Bourbon,C103,Secretary of State,,REP,Stephen L. KNIPPER,9,2,7,0
+Bourbon,C103,Secretary of State,,REP,Total Votes Cast,47,5,39,3
+Bourbon,C103,Secretary of State,,REP,Under Votes,2,0,2,0
+Bourbon,C103,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,14,0,14,0
+Bourbon,C103,Auditor of Public Accounts,,REP,Allison BALL,31,4,24,3
+Bourbon,C103,Auditor of Public Accounts,,REP,Total Votes Cast,45,4,38,3
+Bourbon,C103,Auditor of Public Accounts,,REP,Under Votes,4,1,3,0
+Bourbon,C103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,3,8,0
+Bourbon,C103,State Treasurer,,REP,Andrew COOPERRIDER,12,1,11,0
+Bourbon,C103,State Treasurer,,REP,Mark H. METCALF,23,1,19,3
+Bourbon,C103,State Treasurer,,REP,Total Votes Cast,46,5,38,3
+Bourbon,C103,State Treasurer,,REP,Under Votes,3,0,3,0
+Bourbon,C103,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,31,5,24,2
+Bourbon,C103,Commissioner of Agriculture,,REP,Richard HEATH,16,0,15,1
+Bourbon,C103,Commissioner of Agriculture,,REP,Total Votes Cast,47,5,39,3
+Bourbon,C103,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Bourbon,C103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Bourbon,C103,Governor,,DEM,Andy BESHEAR,79,20,57,2
+Bourbon,C103,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Bourbon,C103,Governor,,DEM,Total Votes Cast,86,20,64,2
+Bourbon,C103,Governor,,DEM,Under Votes,1,0,1,0
+Bourbon,C103,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,45,12,31,2
+Bourbon,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,6,29,0
+Bourbon,C103,Commissioner of Agriculture,,DEM,Total Votes Cast,80,18,60,2
+Bourbon,C103,Commissioner of Agriculture,,DEM,Under Votes,7,2,5,0
+Bourbon,C103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,D101,Governor,,REP,Mike HARMON,3,1,2,0
+Bourbon,D101,Governor,,REP,Alan KECK,2,0,2,0
+Bourbon,D101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Bourbon,D101,Governor,,REP,Ryan QUARLES,42,3,39,0
+Bourbon,D101,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Bourbon,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,D101,Governor,,REP,Daniel CAMERON,33,0,32,1
+Bourbon,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,D101,Governor,,REP,David O. COOPER,1,0,1,0
+Bourbon,D101,Governor,,REP,Kelly CRAFT,12,1,9,2
+Bourbon,D101,Governor,,REP,Eric DETERS,9,0,9,0
+Bourbon,D101,Governor,,REP,Total Votes Cast,105,5,97,3
+Bourbon,D101,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,D101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,D101,Secretary of State,,REP,Allen MARICLE,7,0,7,0
+Bourbon,D101,Secretary of State,,REP,Michael ADAMS,71,3,65,3
+Bourbon,D101,Secretary of State,,REP,Stephen L. KNIPPER,21,1,20,0
+Bourbon,D101,Secretary of State,,REP,Total Votes Cast,99,4,92,3
+Bourbon,D101,Secretary of State,,REP,Under Votes,6,1,5,0
+Bourbon,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,41,2,39,0
+Bourbon,D101,Auditor of Public Accounts,,REP,Allison BALL,58,3,52,3
+Bourbon,D101,Auditor of Public Accounts,,REP,Total Votes Cast,99,5,91,3
+Bourbon,D101,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Bourbon,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",24,0,21,3
+Bourbon,D101,State Treasurer,,REP,Andrew COOPERRIDER,27,2,25,0
+Bourbon,D101,State Treasurer,,REP,Mark H. METCALF,49,3,46,0
+Bourbon,D101,State Treasurer,,REP,Total Votes Cast,100,5,92,3
+Bourbon,D101,State Treasurer,,REP,Under Votes,5,0,5,0
+Bourbon,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,57,2,54,1
+Bourbon,D101,Commissioner of Agriculture,,REP,Richard HEATH,43,1,40,2
+Bourbon,D101,Commissioner of Agriculture,,REP,Total Votes Cast,100,3,94,3
+Bourbon,D101,Commissioner of Agriculture,,REP,Under Votes,5,2,3,0
+Bourbon,D101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,1,5,0
+Bourbon,D101,Governor,,DEM,Andy BESHEAR,53,5,47,1
+Bourbon,D101,Governor,,DEM,Peppy MARTIN,4,0,3,1
+Bourbon,D101,Governor,,DEM,Total Votes Cast,63,6,55,2
+Bourbon,D101,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,D101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,40,5,34,1
+Bourbon,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,1,18,1
+Bourbon,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,60,6,52,2
+Bourbon,D101,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Bourbon,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,D103,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,D103,Governor,,REP,Mike HARMON,0,0,0,0
+Bourbon,D103,Governor,,REP,Alan KECK,0,0,0,0
+Bourbon,D103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,D103,Governor,,REP,Ryan QUARLES,11,2,9,0
+Bourbon,D103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,D103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,D103,Governor,,REP,Daniel CAMERON,21,0,21,0
+Bourbon,D103,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,D103,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,D103,Governor,,REP,Kelly CRAFT,6,1,5,0
+Bourbon,D103,Governor,,REP,Eric DETERS,1,0,1,0
+Bourbon,D103,Governor,,REP,Total Votes Cast,39,3,36,0
+Bourbon,D103,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,D103,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,D103,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Bourbon,D103,Secretary of State,,REP,Michael ADAMS,23,1,22,0
+Bourbon,D103,Secretary of State,,REP,Stephen L. KNIPPER,8,2,6,0
+Bourbon,D103,Secretary of State,,REP,Total Votes Cast,34,3,31,0
+Bourbon,D103,Secretary of State,,REP,Under Votes,5,0,5,0
+Bourbon,D103,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,12,1,11,0
+Bourbon,D103,Auditor of Public Accounts,,REP,Allison BALL,23,2,21,0
+Bourbon,D103,Auditor of Public Accounts,,REP,Total Votes Cast,35,3,32,0
+Bourbon,D103,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Bourbon,D103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Bourbon,D103,State Treasurer,,REP,Andrew COOPERRIDER,9,1,8,0
+Bourbon,D103,State Treasurer,,REP,Mark H. METCALF,21,2,19,0
+Bourbon,D103,State Treasurer,,REP,Total Votes Cast,34,3,31,0
+Bourbon,D103,State Treasurer,,REP,Under Votes,5,0,5,0
+Bourbon,D103,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,20,1,19,0
+Bourbon,D103,Commissioner of Agriculture,,REP,Richard HEATH,15,2,13,0
+Bourbon,D103,Commissioner of Agriculture,,REP,Total Votes Cast,35,3,32,0
+Bourbon,D103,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Bourbon,D103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Bourbon,D103,Governor,,DEM,Andy BESHEAR,49,8,39,2
+Bourbon,D103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Bourbon,D103,Governor,,DEM,Total Votes Cast,53,8,43,2
+Bourbon,D103,Governor,,DEM,Under Votes,1,0,1,0
+Bourbon,D103,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,31,7,22,2
+Bourbon,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,1,18,0
+Bourbon,D103,Commissioner of Agriculture,,DEM,Total Votes Cast,50,8,40,2
+Bourbon,D103,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Bourbon,D103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,E101,Governor,,REP,Mike HARMON,4,0,4,0
+Bourbon,E101,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,E101,Governor,,REP,Ryan QUARLES,47,11,35,1
+Bourbon,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,E101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,E101,Governor,,REP,Daniel CAMERON,51,11,39,1
+Bourbon,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,E101,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,E101,Governor,,REP,Kelly CRAFT,8,2,4,2
+Bourbon,E101,Governor,,REP,Eric DETERS,7,1,6,0
+Bourbon,E101,Governor,,REP,Total Votes Cast,118,25,89,4
+Bourbon,E101,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,E101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,E101,Secretary of State,,REP,Allen MARICLE,5,3,2,0
+Bourbon,E101,Secretary of State,,REP,Michael ADAMS,69,17,50,2
+Bourbon,E101,Secretary of State,,REP,Stephen L. KNIPPER,27,3,23,1
+Bourbon,E101,Secretary of State,,REP,Total Votes Cast,101,23,75,3
+Bourbon,E101,Secretary of State,,REP,Under Votes,17,2,14,1
+Bourbon,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,28,3,24,1
+Bourbon,E101,Auditor of Public Accounts,,REP,Allison BALL,66,19,45,2
+Bourbon,E101,Auditor of Public Accounts,,REP,Total Votes Cast,94,22,69,3
+Bourbon,E101,Auditor of Public Accounts,,REP,Under Votes,24,3,20,1
+Bourbon,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,2,10,1
+Bourbon,E101,State Treasurer,,REP,Andrew COOPERRIDER,27,5,22,0
+Bourbon,E101,State Treasurer,,REP,Mark H. METCALF,58,15,42,1
+Bourbon,E101,State Treasurer,,REP,Total Votes Cast,98,22,74,2
+Bourbon,E101,State Treasurer,,REP,Under Votes,20,3,15,2
+Bourbon,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,64,16,45,3
+Bourbon,E101,Commissioner of Agriculture,,REP,Richard HEATH,33,5,28,0
+Bourbon,E101,Commissioner of Agriculture,,REP,Total Votes Cast,97,21,73,3
+Bourbon,E101,Commissioner of Agriculture,,REP,Under Votes,21,4,16,1
+Bourbon,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",10,4,5,1
+Bourbon,E101,Governor,,DEM,Andy BESHEAR,47,9,31,7
+Bourbon,E101,Governor,,DEM,Peppy MARTIN,6,4,1,1
+Bourbon,E101,Governor,,DEM,Total Votes Cast,63,17,37,9
+Bourbon,E101,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,E101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,28,10,14,4
+Bourbon,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,5,18,4
+Bourbon,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,55,15,32,8
+Bourbon,E101,Commissioner of Agriculture,,DEM,Under Votes,8,2,5,1
+Bourbon,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,E103,Governor,,REP,Mike HARMON,4,0,1,3
+Bourbon,E103,Governor,,REP,Alan KECK,2,0,2,0
+Bourbon,E103,Governor,,REP,Dennis Ray ORMEROD,1,0,0,1
+Bourbon,E103,Governor,,REP,Ryan QUARLES,22,1,19,2
+Bourbon,E103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,E103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,E103,Governor,,REP,Daniel CAMERON,26,3,23,0
+Bourbon,E103,Governor,,REP,Jacob CLARK,1,0,1,0
+Bourbon,E103,Governor,,REP,David O. COOPER,1,0,0,1
+Bourbon,E103,Governor,,REP,Kelly CRAFT,10,1,7,2
+Bourbon,E103,Governor,,REP,Eric DETERS,6,1,2,3
+Bourbon,E103,Governor,,REP,Total Votes Cast,73,6,55,12
+Bourbon,E103,Governor,,REP,Under Votes,3,0,1,2
+Bourbon,E103,Governor,,REP,Over Votes,1,0,0,1
+Bourbon,E103,Secretary of State,,REP,Allen MARICLE,8,1,5,2
+Bourbon,E103,Secretary of State,,REP,Michael ADAMS,49,3,37,9
+Bourbon,E103,Secretary of State,,REP,Stephen L. KNIPPER,17,2,12,3
+Bourbon,E103,Secretary of State,,REP,Total Votes Cast,74,6,54,14
+Bourbon,E103,Secretary of State,,REP,Under Votes,3,0,2,1
+Bourbon,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,16,1,13,2
+Bourbon,E103,Auditor of Public Accounts,,REP,Allison BALL,53,4,39,10
+Bourbon,E103,Auditor of Public Accounts,,REP,Total Votes Cast,69,5,52,12
+Bourbon,E103,Auditor of Public Accounts,,REP,Under Votes,8,1,4,3
+Bourbon,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,0,15,2
+Bourbon,E103,State Treasurer,,REP,Andrew COOPERRIDER,14,0,11,3
+Bourbon,E103,State Treasurer,,REP,Mark H. METCALF,42,5,29,8
+Bourbon,E103,State Treasurer,,REP,Total Votes Cast,73,5,55,13
+Bourbon,E103,State Treasurer,,REP,Under Votes,4,1,1,2
+Bourbon,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,39,2,34,3
+Bourbon,E103,Commissioner of Agriculture,,REP,Richard HEATH,30,3,19,8
+Bourbon,E103,Commissioner of Agriculture,,REP,Total Votes Cast,69,5,53,11
+Bourbon,E103,Commissioner of Agriculture,,REP,Under Votes,8,1,3,4
+Bourbon,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,1,2
+Bourbon,E103,Governor,,DEM,Andy BESHEAR,74,8,44,22
+Bourbon,E103,Governor,,DEM,Peppy MARTIN,4,1,2,1
+Bourbon,E103,Governor,,DEM,Total Votes Cast,81,9,47,25
+Bourbon,E103,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,E103,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,47,8,24,15
+Bourbon,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,1,18,4
+Bourbon,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,70,9,42,19
+Bourbon,E103,Commissioner of Agriculture,,DEM,Under Votes,10,0,5,5
+Bourbon,E103,Commissioner of Agriculture,,DEM,Over Votes,1,0,0,1
+Bourbon,F101,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,F101,Governor,,REP,Mike HARMON,1,1,0,0
+Bourbon,F101,Governor,,REP,Alan KECK,3,0,3,0
+Bourbon,F101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Bourbon,F101,Governor,,REP,Ryan QUARLES,37,13,22,2
+Bourbon,F101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,F101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,F101,Governor,,REP,Daniel CAMERON,27,5,22,0
+Bourbon,F101,Governor,,REP,Jacob CLARK,1,0,1,0
+Bourbon,F101,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,F101,Governor,,REP,Kelly CRAFT,13,1,11,1
+Bourbon,F101,Governor,,REP,Eric DETERS,4,0,4,0
+Bourbon,F101,Governor,,REP,Total Votes Cast,87,20,64,3
+Bourbon,F101,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,F101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,F101,Secretary of State,,REP,Allen MARICLE,10,0,10,0
+Bourbon,F101,Secretary of State,,REP,Michael ADAMS,59,19,37,3
+Bourbon,F101,Secretary of State,,REP,Stephen L. KNIPPER,11,1,10,0
+Bourbon,F101,Secretary of State,,REP,Total Votes Cast,80,20,57,3
+Bourbon,F101,Secretary of State,,REP,Under Votes,7,0,7,0
+Bourbon,F101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,F101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,2,17,0
+Bourbon,F101,Auditor of Public Accounts,,REP,Allison BALL,58,16,39,3
+Bourbon,F101,Auditor of Public Accounts,,REP,Total Votes Cast,77,18,56,3
+Bourbon,F101,Auditor of Public Accounts,,REP,Under Votes,10,2,8,0
+Bourbon,F101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,F101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,4,13,2
+Bourbon,F101,State Treasurer,,REP,Andrew COOPERRIDER,18,2,16,0
+Bourbon,F101,State Treasurer,,REP,Mark H. METCALF,45,13,31,1
+Bourbon,F101,State Treasurer,,REP,Total Votes Cast,82,19,60,3
+Bourbon,F101,State Treasurer,,REP,Under Votes,5,1,4,0
+Bourbon,F101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,51,13,35,3
+Bourbon,F101,Commissioner of Agriculture,,REP,Richard HEATH,26,6,20,0
+Bourbon,F101,Commissioner of Agriculture,,REP,Total Votes Cast,77,19,55,3
+Bourbon,F101,Commissioner of Agriculture,,REP,Under Votes,10,1,9,0
+Bourbon,F101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,F101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Bourbon,F101,Governor,,DEM,Andy BESHEAR,54,13,39,2
+Bourbon,F101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Bourbon,F101,Governor,,DEM,Total Votes Cast,61,13,46,2
+Bourbon,F101,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,F101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,F101,Commissioner of Agriculture,,DEM,Mikael MALONE,32,8,24,0
+Bourbon,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,3,17,1
+Bourbon,F101,Commissioner of Agriculture,,DEM,Total Votes Cast,53,11,41,1
+Bourbon,F101,Commissioner of Agriculture,,DEM,Under Votes,8,2,5,1
+Bourbon,F101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,F102,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,F102,Governor,,REP,Mike HARMON,1,0,1,0
+Bourbon,F102,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,F102,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Bourbon,F102,Governor,,REP,Ryan QUARLES,48,14,34,0
+Bourbon,F102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,F102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,F102,Governor,,REP,Daniel CAMERON,39,7,32,0
+Bourbon,F102,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,F102,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,F102,Governor,,REP,Kelly CRAFT,13,2,10,1
+Bourbon,F102,Governor,,REP,Eric DETERS,7,0,7,0
+Bourbon,F102,Governor,,REP,Total Votes Cast,110,24,85,1
+Bourbon,F102,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,F102,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,F102,Secretary of State,,REP,Allen MARICLE,11,1,10,0
+Bourbon,F102,Secretary of State,,REP,Michael ADAMS,69,16,52,1
+Bourbon,F102,Secretary of State,,REP,Stephen L. KNIPPER,19,2,17,0
+Bourbon,F102,Secretary of State,,REP,Total Votes Cast,99,19,79,1
+Bourbon,F102,Secretary of State,,REP,Under Votes,11,5,6,0
+Bourbon,F102,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,F102,Auditor of Public Accounts,,REP,Derek PETTEYS,28,5,23,0
+Bourbon,F102,Auditor of Public Accounts,,REP,Allison BALL,67,13,53,1
+Bourbon,F102,Auditor of Public Accounts,,REP,Total Votes Cast,95,18,76,1
+Bourbon,F102,Auditor of Public Accounts,,REP,Under Votes,15,6,9,0
+Bourbon,F102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,F102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",23,7,16,0
+Bourbon,F102,State Treasurer,,REP,Andrew COOPERRIDER,33,4,28,1
+Bourbon,F102,State Treasurer,,REP,Mark H. METCALF,40,7,33,0
+Bourbon,F102,State Treasurer,,REP,Total Votes Cast,96,18,77,1
+Bourbon,F102,State Treasurer,,REP,Under Votes,14,6,8,0
+Bourbon,F102,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,64,14,49,1
+Bourbon,F102,Commissioner of Agriculture,,REP,Richard HEATH,33,7,26,0
+Bourbon,F102,Commissioner of Agriculture,,REP,Total Votes Cast,97,21,75,1
+Bourbon,F102,Commissioner of Agriculture,,REP,Under Votes,13,3,10,0
+Bourbon,F102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,F102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Bourbon,F102,Governor,,DEM,Andy BESHEAR,68,12,53,3
+Bourbon,F102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Bourbon,F102,Governor,,DEM,Total Votes Cast,74,12,59,3
+Bourbon,F102,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,F102,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,F102,Commissioner of Agriculture,,DEM,Mikael MALONE,42,8,32,2
+Bourbon,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,4,24,1
+Bourbon,F102,Commissioner of Agriculture,,DEM,Total Votes Cast,71,12,56,3
+Bourbon,F102,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Bourbon,F102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,F103,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,F103,Governor,,REP,Mike HARMON,0,0,0,0
+Bourbon,F103,Governor,,REP,Alan KECK,2,0,2,0
+Bourbon,F103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,F103,Governor,,REP,Ryan QUARLES,30,8,22,0
+Bourbon,F103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,F103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,F103,Governor,,REP,Daniel CAMERON,26,5,21,0
+Bourbon,F103,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,F103,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,F103,Governor,,REP,Kelly CRAFT,8,0,8,0
+Bourbon,F103,Governor,,REP,Eric DETERS,2,0,2,0
+Bourbon,F103,Governor,,REP,Total Votes Cast,68,13,55,0
+Bourbon,F103,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,F103,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,F103,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Bourbon,F103,Secretary of State,,REP,Michael ADAMS,46,12,34,0
+Bourbon,F103,Secretary of State,,REP,Stephen L. KNIPPER,9,1,8,0
+Bourbon,F103,Secretary of State,,REP,Total Votes Cast,58,13,45,0
+Bourbon,F103,Secretary of State,,REP,Under Votes,10,0,10,0
+Bourbon,F103,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,F103,Auditor of Public Accounts,,REP,Derek PETTEYS,17,4,13,0
+Bourbon,F103,Auditor of Public Accounts,,REP,Allison BALL,38,7,31,0
+Bourbon,F103,Auditor of Public Accounts,,REP,Total Votes Cast,55,11,44,0
+Bourbon,F103,Auditor of Public Accounts,,REP,Under Votes,13,2,11,0
+Bourbon,F103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,F103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",22,3,19,0
+Bourbon,F103,State Treasurer,,REP,Andrew COOPERRIDER,9,2,7,0
+Bourbon,F103,State Treasurer,,REP,Mark H. METCALF,31,8,23,0
+Bourbon,F103,State Treasurer,,REP,Total Votes Cast,62,13,49,0
+Bourbon,F103,State Treasurer,,REP,Under Votes,6,0,6,0
+Bourbon,F103,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,F103,Commissioner of Agriculture,,REP,Jonathan SHELL,43,8,35,0
+Bourbon,F103,Commissioner of Agriculture,,REP,Richard HEATH,19,5,14,0
+Bourbon,F103,Commissioner of Agriculture,,REP,Total Votes Cast,62,13,49,0
+Bourbon,F103,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Bourbon,F103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,F103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Bourbon,F103,Governor,,DEM,Andy BESHEAR,35,8,25,2
+Bourbon,F103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Bourbon,F103,Governor,,DEM,Total Votes Cast,39,8,29,2
+Bourbon,F103,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,F103,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,F103,Commissioner of Agriculture,,DEM,Mikael MALONE,18,2,14,2
+Bourbon,F103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,4,9,0
+Bourbon,F103,Commissioner of Agriculture,,DEM,Total Votes Cast,31,6,23,2
+Bourbon,F103,Commissioner of Agriculture,,DEM,Under Votes,8,2,6,0
+Bourbon,F103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,G101,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,G101,Governor,,REP,Mike HARMON,0,0,0,0
+Bourbon,G101,Governor,,REP,Alan KECK,1,0,1,0
+Bourbon,G101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,G101,Governor,,REP,Ryan QUARLES,45,11,32,2
+Bourbon,G101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,G101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,G101,Governor,,REP,Daniel CAMERON,37,6,30,1
+Bourbon,G101,Governor,,REP,Jacob CLARK,2,0,2,0
+Bourbon,G101,Governor,,REP,David O. COOPER,2,0,2,0
+Bourbon,G101,Governor,,REP,Kelly CRAFT,12,3,9,0
+Bourbon,G101,Governor,,REP,Eric DETERS,6,2,4,0
+Bourbon,G101,Governor,,REP,Total Votes Cast,105,22,80,3
+Bourbon,G101,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,G101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,G101,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Bourbon,G101,Secretary of State,,REP,Michael ADAMS,64,17,44,3
+Bourbon,G101,Secretary of State,,REP,Stephen L. KNIPPER,27,5,22,0
+Bourbon,G101,Secretary of State,,REP,Total Votes Cast,95,22,70,3
+Bourbon,G101,Secretary of State,,REP,Under Votes,10,0,10,0
+Bourbon,G101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,G101,Auditor of Public Accounts,,REP,Derek PETTEYS,25,5,19,1
+Bourbon,G101,Auditor of Public Accounts,,REP,Allison BALL,68,14,52,2
+Bourbon,G101,Auditor of Public Accounts,,REP,Total Votes Cast,93,19,71,3
+Bourbon,G101,Auditor of Public Accounts,,REP,Under Votes,12,3,9,0
+Bourbon,G101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,G101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",25,8,15,2
+Bourbon,G101,State Treasurer,,REP,Andrew COOPERRIDER,27,4,22,1
+Bourbon,G101,State Treasurer,,REP,Mark H. METCALF,43,8,35,0
+Bourbon,G101,State Treasurer,,REP,Total Votes Cast,95,20,72,3
+Bourbon,G101,State Treasurer,,REP,Under Votes,10,2,8,0
+Bourbon,G101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,G101,Commissioner of Agriculture,,REP,Jonathan SHELL,64,18,44,2
+Bourbon,G101,Commissioner of Agriculture,,REP,Richard HEATH,29,2,26,1
+Bourbon,G101,Commissioner of Agriculture,,REP,Total Votes Cast,93,20,70,3
+Bourbon,G101,Commissioner of Agriculture,,REP,Under Votes,12,2,10,0
+Bourbon,G101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,G101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,8,1
+Bourbon,G101,Governor,,DEM,Andy BESHEAR,59,14,42,3
+Bourbon,G101,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Bourbon,G101,Governor,,DEM,Total Votes Cast,69,15,50,4
+Bourbon,G101,Governor,,DEM,Under Votes,1,1,0,0
+Bourbon,G101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,G101,Commissioner of Agriculture,,DEM,Mikael MALONE,26,2,21,3
+Bourbon,G101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,40,11,28,1
+Bourbon,G101,Commissioner of Agriculture,,DEM,Total Votes Cast,66,13,49,4
+Bourbon,G101,Commissioner of Agriculture,,DEM,Under Votes,4,3,1,0
+Bourbon,G101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,G102,Governor,,REP,Bob DeVORE,1,0,1,0
+Bourbon,G102,Governor,,REP,Mike HARMON,1,0,1,0
+Bourbon,G102,Governor,,REP,Alan KECK,1,1,0,0
+Bourbon,G102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,G102,Governor,,REP,Ryan QUARLES,36,5,26,5
+Bourbon,G102,Governor,,REP,Johnny Ray RICE,2,2,0,0
+Bourbon,G102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,G102,Governor,,REP,Daniel CAMERON,26,4,22,0
+Bourbon,G102,Governor,,REP,Jacob CLARK,2,1,1,0
+Bourbon,G102,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,G102,Governor,,REP,Kelly CRAFT,10,0,10,0
+Bourbon,G102,Governor,,REP,Eric DETERS,6,1,5,0
+Bourbon,G102,Governor,,REP,Total Votes Cast,85,14,66,5
+Bourbon,G102,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,G102,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,G102,Secretary of State,,REP,Allen MARICLE,7,1,6,0
+Bourbon,G102,Secretary of State,,REP,Michael ADAMS,52,9,39,4
+Bourbon,G102,Secretary of State,,REP,Stephen L. KNIPPER,19,2,16,1
+Bourbon,G102,Secretary of State,,REP,Total Votes Cast,78,12,61,5
+Bourbon,G102,Secretary of State,,REP,Under Votes,7,2,5,0
+Bourbon,G102,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,G102,Auditor of Public Accounts,,REP,Derek PETTEYS,21,4,14,3
+Bourbon,G102,Auditor of Public Accounts,,REP,Allison BALL,54,8,44,2
+Bourbon,G102,Auditor of Public Accounts,,REP,Total Votes Cast,75,12,58,5
+Bourbon,G102,Auditor of Public Accounts,,REP,Under Votes,10,2,8,0
+Bourbon,G102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,G102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,4,15,0
+Bourbon,G102,State Treasurer,,REP,Andrew COOPERRIDER,19,3,15,1
+Bourbon,G102,State Treasurer,,REP,Mark H. METCALF,39,4,31,4
+Bourbon,G102,State Treasurer,,REP,Total Votes Cast,77,11,61,5
+Bourbon,G102,State Treasurer,,REP,Under Votes,8,3,5,0
+Bourbon,G102,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,G102,Commissioner of Agriculture,,REP,Jonathan SHELL,49,6,41,2
+Bourbon,G102,Commissioner of Agriculture,,REP,Richard HEATH,28,6,19,3
+Bourbon,G102,Commissioner of Agriculture,,REP,Total Votes Cast,77,12,60,5
+Bourbon,G102,Commissioner of Agriculture,,REP,Under Votes,8,2,6,0
+Bourbon,G102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,G102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,3,1
+Bourbon,G102,Governor,,DEM,Andy BESHEAR,61,5,51,5
+Bourbon,G102,Governor,,DEM,Peppy MARTIN,5,2,3,0
+Bourbon,G102,Governor,,DEM,Total Votes Cast,70,7,57,6
+Bourbon,G102,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,G102,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,G102,Commissioner of Agriculture,,DEM,Mikael MALONE,32,2,27,3
+Bourbon,G102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,3,23,3
+Bourbon,G102,Commissioner of Agriculture,,DEM,Total Votes Cast,61,5,50,6
+Bourbon,G102,Commissioner of Agriculture,,DEM,Under Votes,9,2,7,0
+Bourbon,G102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,H101,Governor,,REP,Bob DeVORE,1,0,1,0
+Bourbon,H101,Governor,,REP,Mike HARMON,3,0,3,0
+Bourbon,H101,Governor,,REP,Alan KECK,0,0,0,0
+Bourbon,H101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,H101,Governor,,REP,Ryan QUARLES,64,16,45,3
+Bourbon,H101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,H101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,H101,Governor,,REP,Daniel CAMERON,33,7,23,3
+Bourbon,H101,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,H101,Governor,,REP,David O. COOPER,1,0,1,0
+Bourbon,H101,Governor,,REP,Kelly CRAFT,16,5,11,0
+Bourbon,H101,Governor,,REP,Eric DETERS,16,2,13,1
+Bourbon,H101,Governor,,REP,Total Votes Cast,134,30,97,7
+Bourbon,H101,Governor,,REP,Under Votes,1,0,1,0
+Bourbon,H101,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,H101,Secretary of State,,REP,Allen MARICLE,7,3,4,0
+Bourbon,H101,Secretary of State,,REP,Michael ADAMS,84,23,55,6
+Bourbon,H101,Secretary of State,,REP,Stephen L. KNIPPER,28,3,25,0
+Bourbon,H101,Secretary of State,,REP,Total Votes Cast,119,29,84,6
+Bourbon,H101,Secretary of State,,REP,Under Votes,16,1,14,1
+Bourbon,H101,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,H101,Auditor of Public Accounts,,REP,Derek PETTEYS,35,5,30,0
+Bourbon,H101,Auditor of Public Accounts,,REP,Allison BALL,81,20,54,7
+Bourbon,H101,Auditor of Public Accounts,,REP,Total Votes Cast,116,25,84,7
+Bourbon,H101,Auditor of Public Accounts,,REP,Under Votes,19,5,14,0
+Bourbon,H101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,H101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",34,13,20,1
+Bourbon,H101,State Treasurer,,REP,Andrew COOPERRIDER,30,2,27,1
+Bourbon,H101,State Treasurer,,REP,Mark H. METCALF,53,13,37,3
+Bourbon,H101,State Treasurer,,REP,Total Votes Cast,117,28,84,5
+Bourbon,H101,State Treasurer,,REP,Under Votes,18,2,14,2
+Bourbon,H101,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,H101,Commissioner of Agriculture,,REP,Jonathan SHELL,75,16,54,5
+Bourbon,H101,Commissioner of Agriculture,,REP,Richard HEATH,48,11,36,1
+Bourbon,H101,Commissioner of Agriculture,,REP,Total Votes Cast,123,27,90,6
+Bourbon,H101,Commissioner of Agriculture,,REP,Under Votes,12,3,8,1
+Bourbon,H101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,H101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,2,7,0
+Bourbon,H101,Governor,,DEM,Andy BESHEAR,71,17,40,14
+Bourbon,H101,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Bourbon,H101,Governor,,DEM,Total Votes Cast,82,20,48,14
+Bourbon,H101,Governor,,DEM,Under Votes,0,0,0,0
+Bourbon,H101,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,H101,Commissioner of Agriculture,,DEM,Mikael MALONE,42,13,22,7
+Bourbon,H101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,36,6,23,7
+Bourbon,H101,Commissioner of Agriculture,,DEM,Total Votes Cast,78,19,45,14
+Bourbon,H101,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Bourbon,H101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Bourbon,H102,Governor,,REP,Bob DeVORE,0,0,0,0
+Bourbon,H102,Governor,,REP,Mike HARMON,1,0,1,0
+Bourbon,H102,Governor,,REP,Alan KECK,2,2,0,0
+Bourbon,H102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Bourbon,H102,Governor,,REP,Ryan QUARLES,9,4,5,0
+Bourbon,H102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Bourbon,H102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Bourbon,H102,Governor,,REP,Daniel CAMERON,12,0,12,0
+Bourbon,H102,Governor,,REP,Jacob CLARK,0,0,0,0
+Bourbon,H102,Governor,,REP,David O. COOPER,0,0,0,0
+Bourbon,H102,Governor,,REP,Kelly CRAFT,6,3,3,0
+Bourbon,H102,Governor,,REP,Eric DETERS,0,0,0,0
+Bourbon,H102,Governor,,REP,Total Votes Cast,30,9,21,0
+Bourbon,H102,Governor,,REP,Under Votes,0,0,0,0
+Bourbon,H102,Governor,,REP,Over Votes,0,0,0,0
+Bourbon,H102,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Bourbon,H102,Secretary of State,,REP,Michael ADAMS,18,6,12,0
+Bourbon,H102,Secretary of State,,REP,Stephen L. KNIPPER,5,1,4,0
+Bourbon,H102,Secretary of State,,REP,Total Votes Cast,24,7,17,0
+Bourbon,H102,Secretary of State,,REP,Under Votes,6,2,4,0
+Bourbon,H102,Secretary of State,,REP,Over Votes,0,0,0,0
+Bourbon,H102,Auditor of Public Accounts,,REP,Derek PETTEYS,5,1,4,0
+Bourbon,H102,Auditor of Public Accounts,,REP,Allison BALL,20,6,14,0
+Bourbon,H102,Auditor of Public Accounts,,REP,Total Votes Cast,25,7,18,0
+Bourbon,H102,Auditor of Public Accounts,,REP,Under Votes,5,2,3,0
+Bourbon,H102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Bourbon,H102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,2,6,0
+Bourbon,H102,State Treasurer,,REP,Andrew COOPERRIDER,4,0,4,0
+Bourbon,H102,State Treasurer,,REP,Mark H. METCALF,14,6,8,0
+Bourbon,H102,State Treasurer,,REP,Total Votes Cast,26,8,18,0
+Bourbon,H102,State Treasurer,,REP,Under Votes,4,1,3,0
+Bourbon,H102,State Treasurer,,REP,Over Votes,0,0,0,0
+Bourbon,H102,Commissioner of Agriculture,,REP,Jonathan SHELL,18,5,13,0
+Bourbon,H102,Commissioner of Agriculture,,REP,Richard HEATH,9,4,5,0
+Bourbon,H102,Commissioner of Agriculture,,REP,Total Votes Cast,27,9,18,0
+Bourbon,H102,Commissioner of Agriculture,,REP,Under Votes,3,0,3,0
+Bourbon,H102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Bourbon,H102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Bourbon,H102,Governor,,DEM,Andy BESHEAR,71,12,53,6
+Bourbon,H102,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Bourbon,H102,Governor,,DEM,Total Votes Cast,76,13,57,6
+Bourbon,H102,Governor,,DEM,Under Votes,1,0,1,0
+Bourbon,H102,Governor,,DEM,Over Votes,0,0,0,0
+Bourbon,H102,Commissioner of Agriculture,,DEM,Mikael MALONE,35,5,26,4
+Bourbon,H102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,33,7,26,0
+Bourbon,H102,Commissioner of Agriculture,,DEM,Total Votes Cast,68,12,52,4
+Bourbon,H102,Commissioner of Agriculture,,DEM,Under Votes,9,1,6,2
+Bourbon,H102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

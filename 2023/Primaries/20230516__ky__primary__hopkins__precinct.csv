@@ -1,0 +1,2401 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Hopkins,A001,Governor,,REP,Daniel CAMERON,26,1,25,0
+Hopkins,A001,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,A001,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A001,Governor,,REP,Kelly CRAFT,5,0,5,0
+Hopkins,A001,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,A001,Governor,,REP,Bob DeVORE,1,0,1,0
+Hopkins,A001,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,A001,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A001,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A001,Governor,,REP,Ryan QUARLES,2,0,2,0
+Hopkins,A001,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A001,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Hopkins,A001,Governor,,REP,Total Votes Cast,40,1,39,0
+Hopkins,A001,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,A001,Governor,,REP,Over Votes,1,0,1,0
+Hopkins,A001,Secretary of State,,REP,Michael ADAMS,26,1,25,0
+Hopkins,A001,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Hopkins,A001,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,A001,Secretary of State,,REP,Total Votes Cast,35,1,34,0
+Hopkins,A001,Secretary of State,,REP,Under Votes,6,0,6,0
+Hopkins,A001,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A001,Auditor of Public Accounts,,REP,Allison BALL,27,1,26,0
+Hopkins,A001,Auditor of Public Accounts,,REP,Derek PETTEYS,8,0,8,0
+Hopkins,A001,Auditor of Public Accounts,,REP,Total Votes Cast,35,1,34,0
+Hopkins,A001,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Hopkins,A001,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A001,State Treasurer,,REP,Andrew COOPERRIDER,8,0,8,0
+Hopkins,A001,State Treasurer,,REP,Mark H. METCALF,23,0,23,0
+Hopkins,A001,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,1,2,0
+Hopkins,A001,State Treasurer,,REP,Total Votes Cast,34,1,33,0
+Hopkins,A001,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,A001,State Treasurer,,REP,Over Votes,1,0,1,0
+Hopkins,A001,Commissioner of Agriculture,,REP,Richard HEATH,22,1,21,0
+Hopkins,A001,Commissioner of Agriculture,,REP,Jonathan SHELL,13,0,13,0
+Hopkins,A001,Commissioner of Agriculture,,REP,Total Votes Cast,35,1,34,0
+Hopkins,A001,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Hopkins,A001,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A001,Governor,,DEM,Andy BESHEAR,28,0,28,0
+Hopkins,A001,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Hopkins,A001,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,A001,Governor,,DEM,Total Votes Cast,33,0,33,0
+Hopkins,A001,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,A001,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A001,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,0,13,0
+Hopkins,A001,Commissioner of Agriculture,,DEM,Mikael MALONE,18,0,18,0
+Hopkins,A001,Commissioner of Agriculture,,DEM,Total Votes Cast,31,0,31,0
+Hopkins,A001,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,A001,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A002,Governor,,REP,Daniel CAMERON,16,1,15,0
+Hopkins,A002,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,A002,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A002,Governor,,REP,Kelly CRAFT,2,2,0,0
+Hopkins,A002,Governor,,REP,Eric DETERS,5,1,4,0
+Hopkins,A002,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A002,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,A002,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,A002,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A002,Governor,,REP,Ryan QUARLES,6,1,5,0
+Hopkins,A002,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A002,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A002,Governor,,REP,Total Votes Cast,31,5,26,0
+Hopkins,A002,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,A002,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A002,Secretary of State,,REP,Michael ADAMS,18,3,15,0
+Hopkins,A002,Secretary of State,,REP,Stephen L. KNIPPER,8,2,6,0
+Hopkins,A002,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,A002,Secretary of State,,REP,Total Votes Cast,29,5,24,0
+Hopkins,A002,Secretary of State,,REP,Under Votes,2,0,2,0
+Hopkins,A002,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A002,Auditor of Public Accounts,,REP,Allison BALL,20,4,16,0
+Hopkins,A002,Auditor of Public Accounts,,REP,Derek PETTEYS,9,1,8,0
+Hopkins,A002,Auditor of Public Accounts,,REP,Total Votes Cast,29,5,24,0
+Hopkins,A002,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Hopkins,A002,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A002,State Treasurer,,REP,Andrew COOPERRIDER,10,3,7,0
+Hopkins,A002,State Treasurer,,REP,Mark H. METCALF,16,2,14,0
+Hopkins,A002,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Hopkins,A002,State Treasurer,,REP,Total Votes Cast,29,5,24,0
+Hopkins,A002,State Treasurer,,REP,Under Votes,2,0,2,0
+Hopkins,A002,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A002,Commissioner of Agriculture,,REP,Richard HEATH,15,2,13,0
+Hopkins,A002,Commissioner of Agriculture,,REP,Jonathan SHELL,13,2,11,0
+Hopkins,A002,Commissioner of Agriculture,,REP,Total Votes Cast,28,4,24,0
+Hopkins,A002,Commissioner of Agriculture,,REP,Under Votes,3,1,2,0
+Hopkins,A002,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A002,Governor,,DEM,Andy BESHEAR,22,2,18,2
+Hopkins,A002,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,A002,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",8,0,8,0
+Hopkins,A002,Governor,,DEM,Total Votes Cast,32,2,28,2
+Hopkins,A002,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,A002,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A002,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,1,13,0
+Hopkins,A002,Commissioner of Agriculture,,DEM,Mikael MALONE,18,1,15,2
+Hopkins,A002,Commissioner of Agriculture,,DEM,Total Votes Cast,32,2,28,2
+Hopkins,A002,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,A002,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A003,Governor,,REP,Daniel CAMERON,47,0,45,2
+Hopkins,A003,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,A003,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A003,Governor,,REP,Kelly CRAFT,22,1,21,0
+Hopkins,A003,Governor,,REP,Eric DETERS,6,0,6,0
+Hopkins,A003,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A003,Governor,,REP,Mike HARMON,2,1,1,0
+Hopkins,A003,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A003,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A003,Governor,,REP,Ryan QUARLES,10,0,10,0
+Hopkins,A003,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A003,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A003,Governor,,REP,Total Votes Cast,88,2,84,2
+Hopkins,A003,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,A003,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A003,Secretary of State,,REP,Michael ADAMS,53,1,51,1
+Hopkins,A003,Secretary of State,,REP,Stephen L. KNIPPER,18,0,18,0
+Hopkins,A003,Secretary of State,,REP,Allen MARICLE,6,1,5,0
+Hopkins,A003,Secretary of State,,REP,Total Votes Cast,77,2,74,1
+Hopkins,A003,Secretary of State,,REP,Under Votes,12,0,11,1
+Hopkins,A003,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A003,Auditor of Public Accounts,,REP,Allison BALL,53,2,51,0
+Hopkins,A003,Auditor of Public Accounts,,REP,Derek PETTEYS,23,0,23,0
+Hopkins,A003,Auditor of Public Accounts,,REP,Total Votes Cast,76,2,74,0
+Hopkins,A003,Auditor of Public Accounts,,REP,Under Votes,13,0,11,2
+Hopkins,A003,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A003,State Treasurer,,REP,Andrew COOPERRIDER,34,2,32,0
+Hopkins,A003,State Treasurer,,REP,Mark H. METCALF,37,0,37,0
+Hopkins,A003,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Hopkins,A003,State Treasurer,,REP,Total Votes Cast,75,2,73,0
+Hopkins,A003,State Treasurer,,REP,Under Votes,14,0,12,2
+Hopkins,A003,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A003,Commissioner of Agriculture,,REP,Richard HEATH,41,1,40,0
+Hopkins,A003,Commissioner of Agriculture,,REP,Jonathan SHELL,34,0,34,0
+Hopkins,A003,Commissioner of Agriculture,,REP,Total Votes Cast,75,1,74,0
+Hopkins,A003,Commissioner of Agriculture,,REP,Under Votes,14,1,11,2
+Hopkins,A003,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A003,Governor,,DEM,Andy BESHEAR,46,4,41,1
+Hopkins,A003,Governor,,DEM,Peppy MARTIN,4,1,3,0
+Hopkins,A003,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,0,7,0
+Hopkins,A003,Governor,,DEM,Total Votes Cast,57,5,51,1
+Hopkins,A003,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,A003,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A003,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,27,1,25,1
+Hopkins,A003,Commissioner of Agriculture,,DEM,Mikael MALONE,26,4,22,0
+Hopkins,A003,Commissioner of Agriculture,,DEM,Total Votes Cast,53,5,47,1
+Hopkins,A003,Commissioner of Agriculture,,DEM,Under Votes,6,0,6,0
+Hopkins,A003,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A004,Governor,,REP,Daniel CAMERON,13,0,13,0
+Hopkins,A004,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,A004,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A004,Governor,,REP,Kelly CRAFT,7,0,7,0
+Hopkins,A004,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,A004,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A004,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,A004,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A004,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A004,Governor,,REP,Ryan QUARLES,4,0,4,0
+Hopkins,A004,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A004,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A004,Governor,,REP,Total Votes Cast,28,0,28,0
+Hopkins,A004,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,A004,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A004,Secretary of State,,REP,Michael ADAMS,17,0,17,0
+Hopkins,A004,Secretary of State,,REP,Stephen L. KNIPPER,3,0,3,0
+Hopkins,A004,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,A004,Secretary of State,,REP,Total Votes Cast,21,0,21,0
+Hopkins,A004,Secretary of State,,REP,Under Votes,7,0,7,0
+Hopkins,A004,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A004,Auditor of Public Accounts,,REP,Allison BALL,17,0,17,0
+Hopkins,A004,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Hopkins,A004,Auditor of Public Accounts,,REP,Total Votes Cast,22,0,22,0
+Hopkins,A004,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Hopkins,A004,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A004,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Hopkins,A004,State Treasurer,,REP,Mark H. METCALF,13,0,13,0
+Hopkins,A004,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Hopkins,A004,State Treasurer,,REP,Total Votes Cast,22,0,22,0
+Hopkins,A004,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,A004,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A004,Commissioner of Agriculture,,REP,Richard HEATH,12,0,12,0
+Hopkins,A004,Commissioner of Agriculture,,REP,Jonathan SHELL,11,0,11,0
+Hopkins,A004,Commissioner of Agriculture,,REP,Total Votes Cast,23,0,23,0
+Hopkins,A004,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Hopkins,A004,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A004,Governor,,DEM,Andy BESHEAR,5,0,5,0
+Hopkins,A004,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,A004,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,A004,Governor,,DEM,Total Votes Cast,7,0,7,0
+Hopkins,A004,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,A004,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A004,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,0,5,0
+Hopkins,A004,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Hopkins,A004,Commissioner of Agriculture,,DEM,Total Votes Cast,6,0,6,0
+Hopkins,A004,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Hopkins,A004,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A005,Governor,,REP,Daniel CAMERON,25,2,23,0
+Hopkins,A005,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,A005,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A005,Governor,,REP,Kelly CRAFT,6,0,6,0
+Hopkins,A005,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,A005,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A005,Governor,,REP,Mike HARMON,2,2,0,0
+Hopkins,A005,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A005,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A005,Governor,,REP,Ryan QUARLES,1,0,1,0
+Hopkins,A005,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A005,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A005,Governor,,REP,Total Votes Cast,35,4,31,0
+Hopkins,A005,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,A005,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A005,Secretary of State,,REP,Michael ADAMS,25,2,23,0
+Hopkins,A005,Secretary of State,,REP,Stephen L. KNIPPER,5,2,3,0
+Hopkins,A005,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,A005,Secretary of State,,REP,Total Votes Cast,30,4,26,0
+Hopkins,A005,Secretary of State,,REP,Under Votes,5,0,5,0
+Hopkins,A005,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A005,Auditor of Public Accounts,,REP,Allison BALL,22,0,22,0
+Hopkins,A005,Auditor of Public Accounts,,REP,Derek PETTEYS,6,4,2,0
+Hopkins,A005,Auditor of Public Accounts,,REP,Total Votes Cast,28,4,24,0
+Hopkins,A005,Auditor of Public Accounts,,REP,Under Votes,7,0,7,0
+Hopkins,A005,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A005,State Treasurer,,REP,Andrew COOPERRIDER,10,2,8,0
+Hopkins,A005,State Treasurer,,REP,Mark H. METCALF,15,2,13,0
+Hopkins,A005,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Hopkins,A005,State Treasurer,,REP,Total Votes Cast,29,4,25,0
+Hopkins,A005,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,A005,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A005,Commissioner of Agriculture,,REP,Richard HEATH,20,3,17,0
+Hopkins,A005,Commissioner of Agriculture,,REP,Jonathan SHELL,9,1,8,0
+Hopkins,A005,Commissioner of Agriculture,,REP,Total Votes Cast,29,4,25,0
+Hopkins,A005,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Hopkins,A005,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A005,Governor,,DEM,Andy BESHEAR,8,2,6,0
+Hopkins,A005,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Hopkins,A005,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,A005,Governor,,DEM,Total Votes Cast,11,3,8,0
+Hopkins,A005,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,A005,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A005,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,3,4,0
+Hopkins,A005,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Hopkins,A005,Commissioner of Agriculture,,DEM,Total Votes Cast,10,3,7,0
+Hopkins,A005,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Hopkins,A005,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Daniel CAMERON,24,2,22,0
+Hopkins,A006MG,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,A006MG,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,A006MG,Governor,,REP,Kelly CRAFT,2,0,2,0
+Hopkins,A006MG,Governor,,REP,Eric DETERS,2,1,1,0
+Hopkins,A006MG,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Mike HARMON,4,0,4,0
+Hopkins,A006MG,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Ryan QUARLES,3,0,3,0
+Hopkins,A006MG,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A006MG,Governor,,REP,Total Votes Cast,36,3,33,0
+Hopkins,A006MG,Governor,,REP,Under Votes,2,0,2,0
+Hopkins,A006MG,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A006MG,Secretary of State,,REP,Michael ADAMS,20,3,17,0
+Hopkins,A006MG,Secretary of State,,REP,Stephen L. KNIPPER,8,0,8,0
+Hopkins,A006MG,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,A006MG,Secretary of State,,REP,Total Votes Cast,30,3,27,0
+Hopkins,A006MG,Secretary of State,,REP,Under Votes,8,0,8,0
+Hopkins,A006MG,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A006MG,Auditor of Public Accounts,,REP,Allison BALL,23,3,20,0
+Hopkins,A006MG,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Hopkins,A006MG,Auditor of Public Accounts,,REP,Total Votes Cast,29,3,26,0
+Hopkins,A006MG,Auditor of Public Accounts,,REP,Under Votes,9,0,9,0
+Hopkins,A006MG,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A006MG,State Treasurer,,REP,Andrew COOPERRIDER,8,0,8,0
+Hopkins,A006MG,State Treasurer,,REP,Mark H. METCALF,16,1,15,0
+Hopkins,A006MG,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,2,1,0
+Hopkins,A006MG,State Treasurer,,REP,Total Votes Cast,27,3,24,0
+Hopkins,A006MG,State Treasurer,,REP,Under Votes,11,0,11,0
+Hopkins,A006MG,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A006MG,Commissioner of Agriculture,,REP,Richard HEATH,16,2,14,0
+Hopkins,A006MG,Commissioner of Agriculture,,REP,Jonathan SHELL,11,1,10,0
+Hopkins,A006MG,Commissioner of Agriculture,,REP,Total Votes Cast,27,3,24,0
+Hopkins,A006MG,Commissioner of Agriculture,,REP,Under Votes,11,0,11,0
+Hopkins,A006MG,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A006MG,Governor,,DEM,Andy BESHEAR,29,0,29,0
+Hopkins,A006MG,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,A006MG,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Hopkins,A006MG,Governor,,DEM,Total Votes Cast,35,0,35,0
+Hopkins,A006MG,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,A006MG,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A006MG,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,0,15,0
+Hopkins,A006MG,Commissioner of Agriculture,,DEM,Mikael MALONE,11,0,11,0
+Hopkins,A006MG,Commissioner of Agriculture,,DEM,Total Votes Cast,26,0,26,0
+Hopkins,A006MG,Commissioner of Agriculture,,DEM,Under Votes,9,0,9,0
+Hopkins,A006MG,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,A007,Governor,,REP,Daniel CAMERON,27,2,25,0
+Hopkins,A007,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,A007,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,A007,Governor,,REP,Kelly CRAFT,15,5,10,0
+Hopkins,A007,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,A007,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,A007,Governor,,REP,Mike HARMON,6,0,6,0
+Hopkins,A007,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,A007,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Hopkins,A007,Governor,,REP,Ryan QUARLES,7,0,7,0
+Hopkins,A007,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,A007,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,A007,Governor,,REP,Total Votes Cast,58,7,51,0
+Hopkins,A007,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,A007,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,A007,Secretary of State,,REP,Michael ADAMS,42,5,37,0
+Hopkins,A007,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Hopkins,A007,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Hopkins,A007,Secretary of State,,REP,Total Votes Cast,52,6,46,0
+Hopkins,A007,Secretary of State,,REP,Under Votes,6,1,5,0
+Hopkins,A007,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,A007,Auditor of Public Accounts,,REP,Allison BALL,42,5,37,0
+Hopkins,A007,Auditor of Public Accounts,,REP,Derek PETTEYS,11,2,9,0
+Hopkins,A007,Auditor of Public Accounts,,REP,Total Votes Cast,53,7,46,0
+Hopkins,A007,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Hopkins,A007,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,A007,State Treasurer,,REP,Andrew COOPERRIDER,14,1,13,0
+Hopkins,A007,State Treasurer,,REP,Mark H. METCALF,35,5,30,0
+Hopkins,A007,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Hopkins,A007,State Treasurer,,REP,Total Votes Cast,53,7,46,0
+Hopkins,A007,State Treasurer,,REP,Under Votes,5,0,5,0
+Hopkins,A007,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,A007,Commissioner of Agriculture,,REP,Richard HEATH,24,3,21,0
+Hopkins,A007,Commissioner of Agriculture,,REP,Jonathan SHELL,29,4,25,0
+Hopkins,A007,Commissioner of Agriculture,,REP,Total Votes Cast,53,7,46,0
+Hopkins,A007,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Hopkins,A007,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,A007,Governor,,DEM,Andy BESHEAR,30,4,26,0
+Hopkins,A007,Governor,,DEM,Peppy MARTIN,6,1,5,0
+Hopkins,A007,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Hopkins,A007,Governor,,DEM,Total Votes Cast,40,5,35,0
+Hopkins,A007,Governor,,DEM,Under Votes,3,0,3,0
+Hopkins,A007,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,A007,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,0,14,0
+Hopkins,A007,Commissioner of Agriculture,,DEM,Mikael MALONE,21,5,16,0
+Hopkins,A007,Commissioner of Agriculture,,DEM,Total Votes Cast,35,5,30,0
+Hopkins,A007,Commissioner of Agriculture,,DEM,Under Votes,8,0,8,0
+Hopkins,A007,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B008,Governor,,REP,Daniel CAMERON,24,3,21,0
+Hopkins,B008,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B008,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B008,Governor,,REP,Kelly CRAFT,6,3,3,0
+Hopkins,B008,Governor,,REP,Eric DETERS,3,1,2,0
+Hopkins,B008,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B008,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,B008,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,B008,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B008,Governor,,REP,Ryan QUARLES,4,0,4,0
+Hopkins,B008,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B008,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B008,Governor,,REP,Total Votes Cast,38,7,31,0
+Hopkins,B008,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B008,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B008,Secretary of State,,REP,Michael ADAMS,25,5,20,0
+Hopkins,B008,Secretary of State,,REP,Stephen L. KNIPPER,10,1,9,0
+Hopkins,B008,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,B008,Secretary of State,,REP,Total Votes Cast,35,6,29,0
+Hopkins,B008,Secretary of State,,REP,Under Votes,3,1,2,0
+Hopkins,B008,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B008,Auditor of Public Accounts,,REP,Allison BALL,30,6,24,0
+Hopkins,B008,Auditor of Public Accounts,,REP,Derek PETTEYS,7,1,6,0
+Hopkins,B008,Auditor of Public Accounts,,REP,Total Votes Cast,37,7,30,0
+Hopkins,B008,Auditor of Public Accounts,,REP,Under Votes,1,0,1,0
+Hopkins,B008,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B008,State Treasurer,,REP,Andrew COOPERRIDER,12,3,9,0
+Hopkins,B008,State Treasurer,,REP,Mark H. METCALF,19,2,17,0
+Hopkins,B008,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,2,4,0
+Hopkins,B008,State Treasurer,,REP,Total Votes Cast,37,7,30,0
+Hopkins,B008,State Treasurer,,REP,Under Votes,1,0,1,0
+Hopkins,B008,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B008,Commissioner of Agriculture,,REP,Richard HEATH,20,1,19,0
+Hopkins,B008,Commissioner of Agriculture,,REP,Jonathan SHELL,16,6,10,0
+Hopkins,B008,Commissioner of Agriculture,,REP,Total Votes Cast,36,7,29,0
+Hopkins,B008,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Hopkins,B008,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B008,Governor,,DEM,Andy BESHEAR,45,7,35,3
+Hopkins,B008,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,B008,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,B008,Governor,,DEM,Total Votes Cast,48,7,38,3
+Hopkins,B008,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,B008,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B008,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,32,5,24,3
+Hopkins,B008,Commissioner of Agriculture,,DEM,Mikael MALONE,12,2,10,0
+Hopkins,B008,Commissioner of Agriculture,,DEM,Total Votes Cast,44,7,34,3
+Hopkins,B008,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Hopkins,B008,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B009,Governor,,REP,Daniel CAMERON,30,3,27,0
+Hopkins,B009,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B009,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B009,Governor,,REP,Kelly CRAFT,17,6,10,1
+Hopkins,B009,Governor,,REP,Eric DETERS,8,0,8,0
+Hopkins,B009,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B009,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,B009,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,B009,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B009,Governor,,REP,Ryan QUARLES,2,0,2,0
+Hopkins,B009,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B009,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B009,Governor,,REP,Total Votes Cast,57,9,47,1
+Hopkins,B009,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B009,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B009,Secretary of State,,REP,Michael ADAMS,32,5,26,1
+Hopkins,B009,Secretary of State,,REP,Stephen L. KNIPPER,17,0,17,0
+Hopkins,B009,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,B009,Secretary of State,,REP,Total Votes Cast,52,5,46,1
+Hopkins,B009,Secretary of State,,REP,Under Votes,5,4,1,0
+Hopkins,B009,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B009,Auditor of Public Accounts,,REP,Allison BALL,35,3,31,1
+Hopkins,B009,Auditor of Public Accounts,,REP,Derek PETTEYS,17,2,15,0
+Hopkins,B009,Auditor of Public Accounts,,REP,Total Votes Cast,52,5,46,1
+Hopkins,B009,Auditor of Public Accounts,,REP,Under Votes,5,4,1,0
+Hopkins,B009,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B009,State Treasurer,,REP,Andrew COOPERRIDER,23,2,21,0
+Hopkins,B009,State Treasurer,,REP,Mark H. METCALF,24,3,20,1
+Hopkins,B009,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Hopkins,B009,State Treasurer,,REP,Total Votes Cast,51,6,44,1
+Hopkins,B009,State Treasurer,,REP,Under Votes,6,3,3,0
+Hopkins,B009,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B009,Commissioner of Agriculture,,REP,Richard HEATH,28,2,25,1
+Hopkins,B009,Commissioner of Agriculture,,REP,Jonathan SHELL,18,3,15,0
+Hopkins,B009,Commissioner of Agriculture,,REP,Total Votes Cast,46,5,40,1
+Hopkins,B009,Commissioner of Agriculture,,REP,Under Votes,11,4,7,0
+Hopkins,B009,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B009,Governor,,DEM,Andy BESHEAR,29,7,22,0
+Hopkins,B009,Governor,,DEM,Peppy MARTIN,3,0,2,1
+Hopkins,B009,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,B009,Governor,,DEM,Total Votes Cast,34,7,26,1
+Hopkins,B009,Governor,,DEM,Under Votes,3,0,3,0
+Hopkins,B009,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B009,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,2,18,0
+Hopkins,B009,Commissioner of Agriculture,,DEM,Mikael MALONE,12,4,7,1
+Hopkins,B009,Commissioner of Agriculture,,DEM,Total Votes Cast,32,6,25,1
+Hopkins,B009,Commissioner of Agriculture,,DEM,Under Votes,5,1,4,0
+Hopkins,B009,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B010,Governor,,REP,Daniel CAMERON,23,3,20,0
+Hopkins,B010,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B010,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B010,Governor,,REP,Kelly CRAFT,6,2,4,0
+Hopkins,B010,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,B010,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B010,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,B010,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,B010,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B010,Governor,,REP,Ryan QUARLES,5,0,5,0
+Hopkins,B010,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B010,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B010,Governor,,REP,Total Votes Cast,36,5,31,0
+Hopkins,B010,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B010,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B010,Secretary of State,,REP,Michael ADAMS,21,3,18,0
+Hopkins,B010,Secretary of State,,REP,Stephen L. KNIPPER,5,1,4,0
+Hopkins,B010,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,B010,Secretary of State,,REP,Total Votes Cast,29,4,25,0
+Hopkins,B010,Secretary of State,,REP,Under Votes,7,1,6,0
+Hopkins,B010,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B010,Auditor of Public Accounts,,REP,Allison BALL,19,3,16,0
+Hopkins,B010,Auditor of Public Accounts,,REP,Derek PETTEYS,11,1,10,0
+Hopkins,B010,Auditor of Public Accounts,,REP,Total Votes Cast,30,4,26,0
+Hopkins,B010,Auditor of Public Accounts,,REP,Under Votes,6,1,5,0
+Hopkins,B010,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B010,State Treasurer,,REP,Andrew COOPERRIDER,9,2,7,0
+Hopkins,B010,State Treasurer,,REP,Mark H. METCALF,16,2,14,0
+Hopkins,B010,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Hopkins,B010,State Treasurer,,REP,Total Votes Cast,29,4,25,0
+Hopkins,B010,State Treasurer,,REP,Under Votes,7,1,6,0
+Hopkins,B010,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B010,Commissioner of Agriculture,,REP,Richard HEATH,13,2,11,0
+Hopkins,B010,Commissioner of Agriculture,,REP,Jonathan SHELL,16,1,15,0
+Hopkins,B010,Commissioner of Agriculture,,REP,Total Votes Cast,29,3,26,0
+Hopkins,B010,Commissioner of Agriculture,,REP,Under Votes,7,2,5,0
+Hopkins,B010,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B010,Governor,,DEM,Andy BESHEAR,24,3,20,1
+Hopkins,B010,Governor,,DEM,Peppy MARTIN,5,3,2,0
+Hopkins,B010,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,B010,Governor,,DEM,Total Votes Cast,31,6,24,1
+Hopkins,B010,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,B010,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B010,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,2,11,1
+Hopkins,B010,Commissioner of Agriculture,,DEM,Mikael MALONE,17,4,13,0
+Hopkins,B010,Commissioner of Agriculture,,DEM,Total Votes Cast,31,6,24,1
+Hopkins,B010,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Hopkins,B010,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B011,Governor,,REP,Daniel CAMERON,31,9,22,0
+Hopkins,B011,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,B011,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B011,Governor,,REP,Kelly CRAFT,11,2,9,0
+Hopkins,B011,Governor,,REP,Eric DETERS,9,0,9,0
+Hopkins,B011,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B011,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,B011,Governor,,REP,Alan KECK,2,0,2,0
+Hopkins,B011,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B011,Governor,,REP,Ryan QUARLES,5,1,4,0
+Hopkins,B011,Governor,,REP,Johnny Ray RICE,1,1,0,0
+Hopkins,B011,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B011,Governor,,REP,Total Votes Cast,60,13,47,0
+Hopkins,B011,Governor,,REP,Under Votes,2,0,2,0
+Hopkins,B011,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B011,Secretary of State,,REP,Michael ADAMS,32,9,23,0
+Hopkins,B011,Secretary of State,,REP,Stephen L. KNIPPER,16,2,14,0
+Hopkins,B011,Secretary of State,,REP,Allen MARICLE,5,1,4,0
+Hopkins,B011,Secretary of State,,REP,Total Votes Cast,53,12,41,0
+Hopkins,B011,Secretary of State,,REP,Under Votes,9,1,8,0
+Hopkins,B011,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B011,Auditor of Public Accounts,,REP,Allison BALL,34,9,25,0
+Hopkins,B011,Auditor of Public Accounts,,REP,Derek PETTEYS,17,2,15,0
+Hopkins,B011,Auditor of Public Accounts,,REP,Total Votes Cast,51,11,40,0
+Hopkins,B011,Auditor of Public Accounts,,REP,Under Votes,11,2,9,0
+Hopkins,B011,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B011,State Treasurer,,REP,Andrew COOPERRIDER,13,4,9,0
+Hopkins,B011,State Treasurer,,REP,Mark H. METCALF,36,5,31,0
+Hopkins,B011,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,3,1,0
+Hopkins,B011,State Treasurer,,REP,Total Votes Cast,53,12,41,0
+Hopkins,B011,State Treasurer,,REP,Under Votes,9,1,8,0
+Hopkins,B011,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B011,Commissioner of Agriculture,,REP,Richard HEATH,28,4,24,0
+Hopkins,B011,Commissioner of Agriculture,,REP,Jonathan SHELL,24,6,18,0
+Hopkins,B011,Commissioner of Agriculture,,REP,Total Votes Cast,52,10,42,0
+Hopkins,B011,Commissioner of Agriculture,,REP,Under Votes,10,3,7,0
+Hopkins,B011,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B011,Governor,,DEM,Andy BESHEAR,34,7,27,0
+Hopkins,B011,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Hopkins,B011,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Hopkins,B011,Governor,,DEM,Total Votes Cast,38,8,30,0
+Hopkins,B011,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,B011,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B011,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,4,15,0
+Hopkins,B011,Commissioner of Agriculture,,DEM,Mikael MALONE,13,3,10,0
+Hopkins,B011,Commissioner of Agriculture,,DEM,Total Votes Cast,32,7,25,0
+Hopkins,B011,Commissioner of Agriculture,,DEM,Under Votes,8,1,7,0
+Hopkins,B011,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B012,Governor,,REP,Daniel CAMERON,30,8,22,0
+Hopkins,B012,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B012,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B012,Governor,,REP,Kelly CRAFT,5,0,5,0
+Hopkins,B012,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,B012,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B012,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,B012,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,B012,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B012,Governor,,REP,Ryan QUARLES,9,5,4,0
+Hopkins,B012,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B012,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B012,Governor,,REP,Total Votes Cast,46,13,33,0
+Hopkins,B012,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B012,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B012,Secretary of State,,REP,Michael ADAMS,36,11,25,0
+Hopkins,B012,Secretary of State,,REP,Stephen L. KNIPPER,5,1,4,0
+Hopkins,B012,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,B012,Secretary of State,,REP,Total Votes Cast,43,12,31,0
+Hopkins,B012,Secretary of State,,REP,Under Votes,3,1,2,0
+Hopkins,B012,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B012,Auditor of Public Accounts,,REP,Allison BALL,32,9,23,0
+Hopkins,B012,Auditor of Public Accounts,,REP,Derek PETTEYS,9,3,6,0
+Hopkins,B012,Auditor of Public Accounts,,REP,Total Votes Cast,41,12,29,0
+Hopkins,B012,Auditor of Public Accounts,,REP,Under Votes,5,1,4,0
+Hopkins,B012,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B012,State Treasurer,,REP,Andrew COOPERRIDER,13,5,8,0
+Hopkins,B012,State Treasurer,,REP,Mark H. METCALF,23,5,18,0
+Hopkins,B012,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,2,4,0
+Hopkins,B012,State Treasurer,,REP,Total Votes Cast,42,12,30,0
+Hopkins,B012,State Treasurer,,REP,Under Votes,4,1,3,0
+Hopkins,B012,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B012,Commissioner of Agriculture,,REP,Richard HEATH,25,8,17,0
+Hopkins,B012,Commissioner of Agriculture,,REP,Jonathan SHELL,13,2,11,0
+Hopkins,B012,Commissioner of Agriculture,,REP,Total Votes Cast,38,10,28,0
+Hopkins,B012,Commissioner of Agriculture,,REP,Under Votes,8,3,5,0
+Hopkins,B012,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B012,Governor,,DEM,Andy BESHEAR,20,8,12,0
+Hopkins,B012,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,B012,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,1,3,0
+Hopkins,B012,Governor,,DEM,Total Votes Cast,25,9,16,0
+Hopkins,B012,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,B012,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B012,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,5,7,0
+Hopkins,B012,Commissioner of Agriculture,,DEM,Mikael MALONE,12,4,8,0
+Hopkins,B012,Commissioner of Agriculture,,DEM,Total Votes Cast,24,9,15,0
+Hopkins,B012,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Hopkins,B012,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B013M,Governor,,REP,Daniel CAMERON,9,2,7,0
+Hopkins,B013M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B013M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B013M,Governor,,REP,Kelly CRAFT,13,0,13,0
+Hopkins,B013M,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,B013M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B013M,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,B013M,Governor,,REP,Alan KECK,3,2,1,0
+Hopkins,B013M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B013M,Governor,,REP,Ryan QUARLES,10,2,8,0
+Hopkins,B013M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B013M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B013M,Governor,,REP,Total Votes Cast,36,6,30,0
+Hopkins,B013M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B013M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B013M,Secretary of State,,REP,Michael ADAMS,21,6,15,0
+Hopkins,B013M,Secretary of State,,REP,Stephen L. KNIPPER,9,0,9,0
+Hopkins,B013M,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,B013M,Secretary of State,,REP,Total Votes Cast,32,6,26,0
+Hopkins,B013M,Secretary of State,,REP,Under Votes,4,0,4,0
+Hopkins,B013M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B013M,Auditor of Public Accounts,,REP,Allison BALL,24,5,19,0
+Hopkins,B013M,Auditor of Public Accounts,,REP,Derek PETTEYS,8,1,7,0
+Hopkins,B013M,Auditor of Public Accounts,,REP,Total Votes Cast,32,6,26,0
+Hopkins,B013M,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Hopkins,B013M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B013M,State Treasurer,,REP,Andrew COOPERRIDER,9,1,8,0
+Hopkins,B013M,State Treasurer,,REP,Mark H. METCALF,17,5,12,0
+Hopkins,B013M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Hopkins,B013M,State Treasurer,,REP,Total Votes Cast,31,6,25,0
+Hopkins,B013M,State Treasurer,,REP,Under Votes,5,0,5,0
+Hopkins,B013M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B013M,Commissioner of Agriculture,,REP,Richard HEATH,9,1,8,0
+Hopkins,B013M,Commissioner of Agriculture,,REP,Jonathan SHELL,20,4,16,0
+Hopkins,B013M,Commissioner of Agriculture,,REP,Total Votes Cast,29,5,24,0
+Hopkins,B013M,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Hopkins,B013M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B013M,Governor,,DEM,Andy BESHEAR,14,2,12,0
+Hopkins,B013M,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Hopkins,B013M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,B013M,Governor,,DEM,Total Votes Cast,18,2,16,0
+Hopkins,B013M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,B013M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B013M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Hopkins,B013M,Commissioner of Agriculture,,DEM,Mikael MALONE,8,0,8,0
+Hopkins,B013M,Commissioner of Agriculture,,DEM,Total Votes Cast,18,2,16,0
+Hopkins,B013M,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Hopkins,B013M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B014M,Governor,,REP,Daniel CAMERON,12,2,10,0
+Hopkins,B014M,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,B014M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B014M,Governor,,REP,Kelly CRAFT,4,1,3,0
+Hopkins,B014M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,B014M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B014M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,B014M,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,B014M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B014M,Governor,,REP,Ryan QUARLES,3,1,2,0
+Hopkins,B014M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B014M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B014M,Governor,,REP,Total Votes Cast,22,4,18,0
+Hopkins,B014M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B014M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B014M,Secretary of State,,REP,Michael ADAMS,15,3,12,0
+Hopkins,B014M,Secretary of State,,REP,Stephen L. KNIPPER,2,0,2,0
+Hopkins,B014M,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,B014M,Secretary of State,,REP,Total Votes Cast,19,3,16,0
+Hopkins,B014M,Secretary of State,,REP,Under Votes,3,1,2,0
+Hopkins,B014M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B014M,Auditor of Public Accounts,,REP,Allison BALL,17,4,13,0
+Hopkins,B014M,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Hopkins,B014M,Auditor of Public Accounts,,REP,Total Votes Cast,21,4,17,0
+Hopkins,B014M,Auditor of Public Accounts,,REP,Under Votes,1,0,1,0
+Hopkins,B014M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B014M,State Treasurer,,REP,Andrew COOPERRIDER,6,1,5,0
+Hopkins,B014M,State Treasurer,,REP,Mark H. METCALF,12,2,10,0
+Hopkins,B014M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,1,1,0
+Hopkins,B014M,State Treasurer,,REP,Total Votes Cast,20,4,16,0
+Hopkins,B014M,State Treasurer,,REP,Under Votes,2,0,2,0
+Hopkins,B014M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B014M,Commissioner of Agriculture,,REP,Richard HEATH,12,3,9,0
+Hopkins,B014M,Commissioner of Agriculture,,REP,Jonathan SHELL,7,1,6,0
+Hopkins,B014M,Commissioner of Agriculture,,REP,Total Votes Cast,19,4,15,0
+Hopkins,B014M,Commissioner of Agriculture,,REP,Under Votes,3,0,3,0
+Hopkins,B014M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B014M,Governor,,DEM,Andy BESHEAR,29,8,21,0
+Hopkins,B014M,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Hopkins,B014M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,B014M,Governor,,DEM,Total Votes Cast,31,9,22,0
+Hopkins,B014M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,B014M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B014M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,8,15,0
+Hopkins,B014M,Commissioner of Agriculture,,DEM,Mikael MALONE,7,1,6,0
+Hopkins,B014M,Commissioner of Agriculture,,DEM,Total Votes Cast,30,9,21,0
+Hopkins,B014M,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Hopkins,B014M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,B015E,Governor,,REP,Daniel CAMERON,16,1,15,0
+Hopkins,B015E,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,B015E,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,B015E,Governor,,REP,Kelly CRAFT,8,4,4,0
+Hopkins,B015E,Governor,,REP,Eric DETERS,3,2,1,0
+Hopkins,B015E,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,B015E,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,B015E,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,B015E,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,B015E,Governor,,REP,Ryan QUARLES,3,1,1,1
+Hopkins,B015E,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,B015E,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,B015E,Governor,,REP,Total Votes Cast,30,8,21,1
+Hopkins,B015E,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,B015E,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,B015E,Secretary of State,,REP,Michael ADAMS,18,5,12,1
+Hopkins,B015E,Secretary of State,,REP,Stephen L. KNIPPER,4,1,3,0
+Hopkins,B015E,Secretary of State,,REP,Allen MARICLE,2,1,1,0
+Hopkins,B015E,Secretary of State,,REP,Total Votes Cast,24,7,16,1
+Hopkins,B015E,Secretary of State,,REP,Under Votes,6,1,5,0
+Hopkins,B015E,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,B015E,Auditor of Public Accounts,,REP,Allison BALL,20,6,13,1
+Hopkins,B015E,Auditor of Public Accounts,,REP,Derek PETTEYS,7,1,6,0
+Hopkins,B015E,Auditor of Public Accounts,,REP,Total Votes Cast,27,7,19,1
+Hopkins,B015E,Auditor of Public Accounts,,REP,Under Votes,3,1,2,0
+Hopkins,B015E,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,B015E,State Treasurer,,REP,Andrew COOPERRIDER,7,2,5,0
+Hopkins,B015E,State Treasurer,,REP,Mark H. METCALF,13,5,7,1
+Hopkins,B015E,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,1,4,0
+Hopkins,B015E,State Treasurer,,REP,Total Votes Cast,25,8,16,1
+Hopkins,B015E,State Treasurer,,REP,Under Votes,5,0,5,0
+Hopkins,B015E,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,B015E,Commissioner of Agriculture,,REP,Richard HEATH,20,6,14,0
+Hopkins,B015E,Commissioner of Agriculture,,REP,Jonathan SHELL,8,2,5,1
+Hopkins,B015E,Commissioner of Agriculture,,REP,Total Votes Cast,28,8,19,1
+Hopkins,B015E,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Hopkins,B015E,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,B015E,Governor,,DEM,Andy BESHEAR,25,1,23,1
+Hopkins,B015E,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,B015E,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,B015E,Governor,,DEM,Total Votes Cast,27,1,25,1
+Hopkins,B015E,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,B015E,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,B015E,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,0,12,0
+Hopkins,B015E,Commissioner of Agriculture,,DEM,Mikael MALONE,14,1,12,1
+Hopkins,B015E,Commissioner of Agriculture,,DEM,Total Votes Cast,26,1,24,1
+Hopkins,B015E,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,B015E,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C016,Governor,,REP,Daniel CAMERON,36,7,26,3
+Hopkins,C016,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C016,Governor,,REP,David O. COOPER,2,0,1,1
+Hopkins,C016,Governor,,REP,Kelly CRAFT,13,4,8,1
+Hopkins,C016,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,C016,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C016,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,C016,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,C016,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C016,Governor,,REP,Ryan QUARLES,9,0,9,0
+Hopkins,C016,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C016,Governor,,REP,Robbie C. SMITH,3,0,3,0
+Hopkins,C016,Governor,,REP,Total Votes Cast,66,11,50,5
+Hopkins,C016,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C016,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C016,Secretary of State,,REP,Michael ADAMS,36,7,25,4
+Hopkins,C016,Secretary of State,,REP,Stephen L. KNIPPER,10,2,8,0
+Hopkins,C016,Secretary of State,,REP,Allen MARICLE,2,0,1,1
+Hopkins,C016,Secretary of State,,REP,Total Votes Cast,48,9,34,5
+Hopkins,C016,Secretary of State,,REP,Under Votes,18,2,16,0
+Hopkins,C016,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C016,Auditor of Public Accounts,,REP,Allison BALL,36,9,23,4
+Hopkins,C016,Auditor of Public Accounts,,REP,Derek PETTEYS,11,0,10,1
+Hopkins,C016,Auditor of Public Accounts,,REP,Total Votes Cast,47,9,33,5
+Hopkins,C016,Auditor of Public Accounts,,REP,Under Votes,19,2,17,0
+Hopkins,C016,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C016,State Treasurer,,REP,Andrew COOPERRIDER,12,2,8,2
+Hopkins,C016,State Treasurer,,REP,Mark H. METCALF,28,4,22,2
+Hopkins,C016,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,3,4,1
+Hopkins,C016,State Treasurer,,REP,Total Votes Cast,48,9,34,5
+Hopkins,C016,State Treasurer,,REP,Under Votes,18,2,16,0
+Hopkins,C016,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C016,Commissioner of Agriculture,,REP,Richard HEATH,23,3,16,4
+Hopkins,C016,Commissioner of Agriculture,,REP,Jonathan SHELL,24,7,16,1
+Hopkins,C016,Commissioner of Agriculture,,REP,Total Votes Cast,47,10,32,5
+Hopkins,C016,Commissioner of Agriculture,,REP,Under Votes,19,1,18,0
+Hopkins,C016,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C016,Governor,,DEM,Andy BESHEAR,43,12,29,2
+Hopkins,C016,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Hopkins,C016,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Hopkins,C016,Governor,,DEM,Total Votes Cast,51,13,36,2
+Hopkins,C016,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,C016,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C016,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,6,21,2
+Hopkins,C016,Commissioner of Agriculture,,DEM,Mikael MALONE,20,7,13,0
+Hopkins,C016,Commissioner of Agriculture,,DEM,Total Votes Cast,49,13,34,2
+Hopkins,C016,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,C016,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C017,Governor,,REP,Daniel CAMERON,25,1,24,0
+Hopkins,C017,Governor,,REP,Jacob CLARK,2,0,2,0
+Hopkins,C017,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,C017,Governor,,REP,Kelly CRAFT,9,0,9,0
+Hopkins,C017,Governor,,REP,Eric DETERS,8,2,6,0
+Hopkins,C017,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C017,Governor,,REP,Mike HARMON,4,0,4,0
+Hopkins,C017,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,C017,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C017,Governor,,REP,Ryan QUARLES,9,1,8,0
+Hopkins,C017,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C017,Governor,,REP,Robbie C. SMITH,1,1,0,0
+Hopkins,C017,Governor,,REP,Total Votes Cast,59,5,54,0
+Hopkins,C017,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,C017,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C017,Secretary of State,,REP,Michael ADAMS,35,3,32,0
+Hopkins,C017,Secretary of State,,REP,Stephen L. KNIPPER,14,2,12,0
+Hopkins,C017,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,C017,Secretary of State,,REP,Total Votes Cast,52,5,47,0
+Hopkins,C017,Secretary of State,,REP,Under Votes,8,0,8,0
+Hopkins,C017,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C017,Auditor of Public Accounts,,REP,Allison BALL,29,1,28,0
+Hopkins,C017,Auditor of Public Accounts,,REP,Derek PETTEYS,22,3,19,0
+Hopkins,C017,Auditor of Public Accounts,,REP,Total Votes Cast,51,4,47,0
+Hopkins,C017,Auditor of Public Accounts,,REP,Under Votes,9,1,8,0
+Hopkins,C017,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C017,State Treasurer,,REP,Andrew COOPERRIDER,18,1,17,0
+Hopkins,C017,State Treasurer,,REP,Mark H. METCALF,29,3,26,0
+Hopkins,C017,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Hopkins,C017,State Treasurer,,REP,Total Votes Cast,51,5,46,0
+Hopkins,C017,State Treasurer,,REP,Under Votes,9,0,9,0
+Hopkins,C017,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C017,Commissioner of Agriculture,,REP,Richard HEATH,24,2,22,0
+Hopkins,C017,Commissioner of Agriculture,,REP,Jonathan SHELL,28,3,25,0
+Hopkins,C017,Commissioner of Agriculture,,REP,Total Votes Cast,52,5,47,0
+Hopkins,C017,Commissioner of Agriculture,,REP,Under Votes,8,0,8,0
+Hopkins,C017,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C017,Governor,,DEM,Andy BESHEAR,26,6,19,1
+Hopkins,C017,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Hopkins,C017,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Hopkins,C017,Governor,,DEM,Total Votes Cast,33,6,26,1
+Hopkins,C017,Governor,,DEM,Under Votes,1,1,0,0
+Hopkins,C017,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C017,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,6,11,0
+Hopkins,C017,Commissioner of Agriculture,,DEM,Mikael MALONE,13,0,13,0
+Hopkins,C017,Commissioner of Agriculture,,DEM,Total Votes Cast,30,6,24,0
+Hopkins,C017,Commissioner of Agriculture,,DEM,Under Votes,4,1,2,1
+Hopkins,C017,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C018,Governor,,REP,Daniel CAMERON,68,12,56,0
+Hopkins,C018,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C018,Governor,,REP,David O. COOPER,1,1,0,0
+Hopkins,C018,Governor,,REP,Kelly CRAFT,37,7,30,0
+Hopkins,C018,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,C018,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C018,Governor,,REP,Mike HARMON,1,1,0,0
+Hopkins,C018,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,C018,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Hopkins,C018,Governor,,REP,Ryan QUARLES,6,0,6,0
+Hopkins,C018,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C018,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,C018,Governor,,REP,Total Votes Cast,116,21,95,0
+Hopkins,C018,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C018,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C018,Secretary of State,,REP,Michael ADAMS,75,15,60,0
+Hopkins,C018,Secretary of State,,REP,Stephen L. KNIPPER,16,1,15,0
+Hopkins,C018,Secretary of State,,REP,Allen MARICLE,4,1,3,0
+Hopkins,C018,Secretary of State,,REP,Total Votes Cast,95,17,78,0
+Hopkins,C018,Secretary of State,,REP,Under Votes,21,4,17,0
+Hopkins,C018,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C018,Auditor of Public Accounts,,REP,Allison BALL,72,15,57,0
+Hopkins,C018,Auditor of Public Accounts,,REP,Derek PETTEYS,19,2,17,0
+Hopkins,C018,Auditor of Public Accounts,,REP,Total Votes Cast,91,17,74,0
+Hopkins,C018,Auditor of Public Accounts,,REP,Under Votes,25,4,21,0
+Hopkins,C018,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C018,State Treasurer,,REP,Andrew COOPERRIDER,22,3,19,0
+Hopkins,C018,State Treasurer,,REP,Mark H. METCALF,59,11,48,0
+Hopkins,C018,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,3,9,0
+Hopkins,C018,State Treasurer,,REP,Total Votes Cast,93,17,76,0
+Hopkins,C018,State Treasurer,,REP,Under Votes,23,4,19,0
+Hopkins,C018,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C018,Commissioner of Agriculture,,REP,Richard HEATH,44,5,39,0
+Hopkins,C018,Commissioner of Agriculture,,REP,Jonathan SHELL,43,9,34,0
+Hopkins,C018,Commissioner of Agriculture,,REP,Total Votes Cast,87,14,73,0
+Hopkins,C018,Commissioner of Agriculture,,REP,Under Votes,29,7,22,0
+Hopkins,C018,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C018,Governor,,DEM,Andy BESHEAR,52,7,45,0
+Hopkins,C018,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,C018,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Hopkins,C018,Governor,,DEM,Total Votes Cast,57,7,50,0
+Hopkins,C018,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,C018,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C018,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,7,31,0
+Hopkins,C018,Commissioner of Agriculture,,DEM,Mikael MALONE,17,0,17,0
+Hopkins,C018,Commissioner of Agriculture,,DEM,Total Votes Cast,55,7,48,0
+Hopkins,C018,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,C018,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C019M,Governor,,REP,Daniel CAMERON,27,3,24,0
+Hopkins,C019M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C019M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,C019M,Governor,,REP,Kelly CRAFT,18,3,15,0
+Hopkins,C019M,Governor,,REP,Eric DETERS,3,1,2,0
+Hopkins,C019M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C019M,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,C019M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,C019M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C019M,Governor,,REP,Ryan QUARLES,7,0,7,0
+Hopkins,C019M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C019M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,C019M,Governor,,REP,Total Votes Cast,56,7,49,0
+Hopkins,C019M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C019M,Governor,,REP,Over Votes,1,0,0,1
+Hopkins,C019M,Secretary of State,,REP,Michael ADAMS,41,6,35,0
+Hopkins,C019M,Secretary of State,,REP,Stephen L. KNIPPER,11,1,10,0
+Hopkins,C019M,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,C019M,Secretary of State,,REP,Total Votes Cast,53,7,46,0
+Hopkins,C019M,Secretary of State,,REP,Under Votes,4,0,3,1
+Hopkins,C019M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C019M,Auditor of Public Accounts,,REP,Allison BALL,44,4,40,0
+Hopkins,C019M,Auditor of Public Accounts,,REP,Derek PETTEYS,8,3,5,0
+Hopkins,C019M,Auditor of Public Accounts,,REP,Total Votes Cast,52,7,45,0
+Hopkins,C019M,Auditor of Public Accounts,,REP,Under Votes,5,0,4,1
+Hopkins,C019M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C019M,State Treasurer,,REP,Andrew COOPERRIDER,14,1,13,0
+Hopkins,C019M,State Treasurer,,REP,Mark H. METCALF,38,5,33,0
+Hopkins,C019M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,1,0,0
+Hopkins,C019M,State Treasurer,,REP,Total Votes Cast,53,7,46,0
+Hopkins,C019M,State Treasurer,,REP,Under Votes,4,0,3,1
+Hopkins,C019M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C019M,Commissioner of Agriculture,,REP,Richard HEATH,34,2,32,0
+Hopkins,C019M,Commissioner of Agriculture,,REP,Jonathan SHELL,17,5,12,0
+Hopkins,C019M,Commissioner of Agriculture,,REP,Total Votes Cast,51,7,44,0
+Hopkins,C019M,Commissioner of Agriculture,,REP,Under Votes,6,0,5,1
+Hopkins,C019M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C019M,Governor,,DEM,Andy BESHEAR,30,8,22,0
+Hopkins,C019M,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Hopkins,C019M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,2,4,0
+Hopkins,C019M,Governor,,DEM,Total Votes Cast,37,11,26,0
+Hopkins,C019M,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,C019M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C019M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,4,12,0
+Hopkins,C019M,Commissioner of Agriculture,,DEM,Mikael MALONE,17,6,11,0
+Hopkins,C019M,Commissioner of Agriculture,,DEM,Total Votes Cast,33,10,23,0
+Hopkins,C019M,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Hopkins,C019M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C020M,Governor,,REP,Daniel CAMERON,23,3,18,2
+Hopkins,C020M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C020M,Governor,,REP,David O. COOPER,1,1,0,0
+Hopkins,C020M,Governor,,REP,Kelly CRAFT,10,1,9,0
+Hopkins,C020M,Governor,,REP,Eric DETERS,2,1,1,0
+Hopkins,C020M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C020M,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,C020M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,C020M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C020M,Governor,,REP,Ryan QUARLES,4,2,2,0
+Hopkins,C020M,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Hopkins,C020M,Governor,,REP,Robbie C. SMITH,3,2,1,0
+Hopkins,C020M,Governor,,REP,Total Votes Cast,45,10,33,2
+Hopkins,C020M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C020M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C020M,Secretary of State,,REP,Michael ADAMS,31,7,24,0
+Hopkins,C020M,Secretary of State,,REP,Stephen L. KNIPPER,8,3,5,0
+Hopkins,C020M,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,C020M,Secretary of State,,REP,Total Votes Cast,39,10,29,0
+Hopkins,C020M,Secretary of State,,REP,Under Votes,6,0,4,2
+Hopkins,C020M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C020M,Auditor of Public Accounts,,REP,Allison BALL,34,9,25,0
+Hopkins,C020M,Auditor of Public Accounts,,REP,Derek PETTEYS,4,1,3,0
+Hopkins,C020M,Auditor of Public Accounts,,REP,Total Votes Cast,38,10,28,0
+Hopkins,C020M,Auditor of Public Accounts,,REP,Under Votes,7,0,5,2
+Hopkins,C020M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C020M,State Treasurer,,REP,Andrew COOPERRIDER,11,1,10,0
+Hopkins,C020M,State Treasurer,,REP,Mark H. METCALF,25,8,15,2
+Hopkins,C020M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Hopkins,C020M,State Treasurer,,REP,Total Votes Cast,38,9,27,2
+Hopkins,C020M,State Treasurer,,REP,Under Votes,7,1,6,0
+Hopkins,C020M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C020M,Commissioner of Agriculture,,REP,Richard HEATH,25,4,21,0
+Hopkins,C020M,Commissioner of Agriculture,,REP,Jonathan SHELL,14,5,7,2
+Hopkins,C020M,Commissioner of Agriculture,,REP,Total Votes Cast,39,9,28,2
+Hopkins,C020M,Commissioner of Agriculture,,REP,Under Votes,6,1,5,0
+Hopkins,C020M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C020M,Governor,,DEM,Andy BESHEAR,28,9,18,1
+Hopkins,C020M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,C020M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,C020M,Governor,,DEM,Total Votes Cast,30,9,20,1
+Hopkins,C020M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,C020M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C020M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,18,3,15,0
+Hopkins,C020M,Commissioner of Agriculture,,DEM,Mikael MALONE,7,3,3,1
+Hopkins,C020M,Commissioner of Agriculture,,DEM,Total Votes Cast,25,6,18,1
+Hopkins,C020M,Commissioner of Agriculture,,DEM,Under Votes,5,3,2,0
+Hopkins,C020M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C021M,Governor,,REP,Daniel CAMERON,49,11,38,0
+Hopkins,C021M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C021M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,C021M,Governor,,REP,Kelly CRAFT,17,7,10,0
+Hopkins,C021M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,C021M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C021M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,C021M,Governor,,REP,Alan KECK,4,2,2,0
+Hopkins,C021M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C021M,Governor,,REP,Ryan QUARLES,13,4,9,0
+Hopkins,C021M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C021M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,C021M,Governor,,REP,Total Votes Cast,84,24,60,0
+Hopkins,C021M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C021M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C021M,Secretary of State,,REP,Michael ADAMS,57,18,39,0
+Hopkins,C021M,Secretary of State,,REP,Stephen L. KNIPPER,14,3,11,0
+Hopkins,C021M,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Hopkins,C021M,Secretary of State,,REP,Total Votes Cast,75,21,54,0
+Hopkins,C021M,Secretary of State,,REP,Under Votes,9,3,6,0
+Hopkins,C021M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C021M,Auditor of Public Accounts,,REP,Allison BALL,53,15,38,0
+Hopkins,C021M,Auditor of Public Accounts,,REP,Derek PETTEYS,18,5,13,0
+Hopkins,C021M,Auditor of Public Accounts,,REP,Total Votes Cast,71,20,51,0
+Hopkins,C021M,Auditor of Public Accounts,,REP,Under Votes,13,4,9,0
+Hopkins,C021M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C021M,State Treasurer,,REP,Andrew COOPERRIDER,19,6,13,0
+Hopkins,C021M,State Treasurer,,REP,Mark H. METCALF,41,10,31,0
+Hopkins,C021M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,3,8,0
+Hopkins,C021M,State Treasurer,,REP,Total Votes Cast,71,19,52,0
+Hopkins,C021M,State Treasurer,,REP,Under Votes,13,5,8,0
+Hopkins,C021M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C021M,Commissioner of Agriculture,,REP,Richard HEATH,28,6,22,0
+Hopkins,C021M,Commissioner of Agriculture,,REP,Jonathan SHELL,44,15,29,0
+Hopkins,C021M,Commissioner of Agriculture,,REP,Total Votes Cast,72,21,51,0
+Hopkins,C021M,Commissioner of Agriculture,,REP,Under Votes,12,3,9,0
+Hopkins,C021M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C021M,Governor,,DEM,Andy BESHEAR,55,14,39,2
+Hopkins,C021M,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Hopkins,C021M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Hopkins,C021M,Governor,,DEM,Total Votes Cast,60,15,43,2
+Hopkins,C021M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,C021M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C021M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,29,8,20,1
+Hopkins,C021M,Commissioner of Agriculture,,DEM,Mikael MALONE,19,5,14,0
+Hopkins,C021M,Commissioner of Agriculture,,DEM,Total Votes Cast,48,13,34,1
+Hopkins,C021M,Commissioner of Agriculture,,DEM,Under Votes,12,2,9,1
+Hopkins,C021M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,C022M,Governor,,REP,Daniel CAMERON,9,5,4,0
+Hopkins,C022M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,C022M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,C022M,Governor,,REP,Kelly CRAFT,4,0,4,0
+Hopkins,C022M,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,C022M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,C022M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,C022M,Governor,,REP,Alan KECK,1,1,0,0
+Hopkins,C022M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,C022M,Governor,,REP,Ryan QUARLES,1,0,1,0
+Hopkins,C022M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,C022M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,C022M,Governor,,REP,Total Votes Cast,15,6,9,0
+Hopkins,C022M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,C022M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,C022M,Secretary of State,,REP,Michael ADAMS,12,5,7,0
+Hopkins,C022M,Secretary of State,,REP,Stephen L. KNIPPER,0,0,0,0
+Hopkins,C022M,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,C022M,Secretary of State,,REP,Total Votes Cast,13,5,8,0
+Hopkins,C022M,Secretary of State,,REP,Under Votes,2,1,1,0
+Hopkins,C022M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,C022M,Auditor of Public Accounts,,REP,Allison BALL,10,4,6,0
+Hopkins,C022M,Auditor of Public Accounts,,REP,Derek PETTEYS,3,1,2,0
+Hopkins,C022M,Auditor of Public Accounts,,REP,Total Votes Cast,13,5,8,0
+Hopkins,C022M,Auditor of Public Accounts,,REP,Under Votes,2,1,1,0
+Hopkins,C022M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,C022M,State Treasurer,,REP,Andrew COOPERRIDER,4,0,4,0
+Hopkins,C022M,State Treasurer,,REP,Mark H. METCALF,8,5,3,0
+Hopkins,C022M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Hopkins,C022M,State Treasurer,,REP,Total Votes Cast,13,5,8,0
+Hopkins,C022M,State Treasurer,,REP,Under Votes,2,1,1,0
+Hopkins,C022M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,C022M,Commissioner of Agriculture,,REP,Richard HEATH,6,1,5,0
+Hopkins,C022M,Commissioner of Agriculture,,REP,Jonathan SHELL,7,4,3,0
+Hopkins,C022M,Commissioner of Agriculture,,REP,Total Votes Cast,13,5,8,0
+Hopkins,C022M,Commissioner of Agriculture,,REP,Under Votes,2,1,1,0
+Hopkins,C022M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,C022M,Governor,,DEM,Andy BESHEAR,32,9,20,3
+Hopkins,C022M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,C022M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,C022M,Governor,,DEM,Total Votes Cast,33,9,21,3
+Hopkins,C022M,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,C022M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,C022M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,22,6,14,2
+Hopkins,C022M,Commissioner of Agriculture,,DEM,Mikael MALONE,7,1,5,1
+Hopkins,C022M,Commissioner of Agriculture,,DEM,Total Votes Cast,29,7,19,3
+Hopkins,C022M,Commissioner of Agriculture,,DEM,Under Votes,5,2,3,0
+Hopkins,C022M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D023,Governor,,REP,Daniel CAMERON,64,10,53,1
+Hopkins,D023,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D023,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D023,Governor,,REP,Kelly CRAFT,25,6,19,0
+Hopkins,D023,Governor,,REP,Eric DETERS,4,0,3,1
+Hopkins,D023,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,D023,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,D023,Governor,,REP,Alan KECK,5,0,5,0
+Hopkins,D023,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D023,Governor,,REP,Ryan QUARLES,15,5,10,0
+Hopkins,D023,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D023,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D023,Governor,,REP,Total Votes Cast,114,21,91,2
+Hopkins,D023,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,D023,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D023,Secretary of State,,REP,Michael ADAMS,65,14,50,1
+Hopkins,D023,Secretary of State,,REP,Stephen L. KNIPPER,20,4,16,0
+Hopkins,D023,Secretary of State,,REP,Allen MARICLE,8,1,6,1
+Hopkins,D023,Secretary of State,,REP,Total Votes Cast,93,19,72,2
+Hopkins,D023,Secretary of State,,REP,Under Votes,21,2,19,0
+Hopkins,D023,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D023,Auditor of Public Accounts,,REP,Allison BALL,61,13,46,2
+Hopkins,D023,Auditor of Public Accounts,,REP,Derek PETTEYS,29,6,23,0
+Hopkins,D023,Auditor of Public Accounts,,REP,Total Votes Cast,90,19,69,2
+Hopkins,D023,Auditor of Public Accounts,,REP,Under Votes,24,2,22,0
+Hopkins,D023,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D023,State Treasurer,,REP,Andrew COOPERRIDER,31,5,25,1
+Hopkins,D023,State Treasurer,,REP,Mark H. METCALF,54,13,40,1
+Hopkins,D023,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,1,2,0
+Hopkins,D023,State Treasurer,,REP,Total Votes Cast,88,19,67,2
+Hopkins,D023,State Treasurer,,REP,Under Votes,26,2,24,0
+Hopkins,D023,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D023,Commissioner of Agriculture,,REP,Richard HEATH,35,7,27,1
+Hopkins,D023,Commissioner of Agriculture,,REP,Jonathan SHELL,51,10,40,1
+Hopkins,D023,Commissioner of Agriculture,,REP,Total Votes Cast,86,17,67,2
+Hopkins,D023,Commissioner of Agriculture,,REP,Under Votes,28,4,24,0
+Hopkins,D023,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D023,Governor,,DEM,Andy BESHEAR,42,8,34,0
+Hopkins,D023,Governor,,DEM,Peppy MARTIN,5,3,2,0
+Hopkins,D023,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,0,6,0
+Hopkins,D023,Governor,,DEM,Total Votes Cast,53,11,42,0
+Hopkins,D023,Governor,,DEM,Under Votes,4,0,4,0
+Hopkins,D023,Governor,,DEM,Over Votes,1,0,0,1
+Hopkins,D023,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,32,7,24,1
+Hopkins,D023,Commissioner of Agriculture,,DEM,Mikael MALONE,21,3,18,0
+Hopkins,D023,Commissioner of Agriculture,,DEM,Total Votes Cast,53,10,42,1
+Hopkins,D023,Commissioner of Agriculture,,DEM,Under Votes,5,1,4,0
+Hopkins,D023,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D024,Governor,,REP,Daniel CAMERON,40,7,33,0
+Hopkins,D024,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D024,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D024,Governor,,REP,Kelly CRAFT,21,3,18,0
+Hopkins,D024,Governor,,REP,Eric DETERS,6,0,6,0
+Hopkins,D024,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,D024,Governor,,REP,Mike HARMON,2,0,2,0
+Hopkins,D024,Governor,,REP,Alan KECK,2,0,2,0
+Hopkins,D024,Governor,,REP,Dennis Ray ORMEROD,2,0,2,0
+Hopkins,D024,Governor,,REP,Ryan QUARLES,12,1,11,0
+Hopkins,D024,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D024,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D024,Governor,,REP,Total Votes Cast,85,11,74,0
+Hopkins,D024,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,D024,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D024,Secretary of State,,REP,Michael ADAMS,48,8,40,0
+Hopkins,D024,Secretary of State,,REP,Stephen L. KNIPPER,26,2,24,0
+Hopkins,D024,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,D024,Secretary of State,,REP,Total Votes Cast,77,10,67,0
+Hopkins,D024,Secretary of State,,REP,Under Votes,9,1,8,0
+Hopkins,D024,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D024,Auditor of Public Accounts,,REP,Allison BALL,55,9,46,0
+Hopkins,D024,Auditor of Public Accounts,,REP,Derek PETTEYS,22,1,21,0
+Hopkins,D024,Auditor of Public Accounts,,REP,Total Votes Cast,77,10,67,0
+Hopkins,D024,Auditor of Public Accounts,,REP,Under Votes,9,1,8,0
+Hopkins,D024,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D024,State Treasurer,,REP,Andrew COOPERRIDER,28,6,22,0
+Hopkins,D024,State Treasurer,,REP,Mark H. METCALF,39,4,35,0
+Hopkins,D024,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,0,10,0
+Hopkins,D024,State Treasurer,,REP,Total Votes Cast,77,10,67,0
+Hopkins,D024,State Treasurer,,REP,Under Votes,9,1,8,0
+Hopkins,D024,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D024,Commissioner of Agriculture,,REP,Richard HEATH,41,4,37,0
+Hopkins,D024,Commissioner of Agriculture,,REP,Jonathan SHELL,34,5,29,0
+Hopkins,D024,Commissioner of Agriculture,,REP,Total Votes Cast,75,9,66,0
+Hopkins,D024,Commissioner of Agriculture,,REP,Under Votes,11,2,9,0
+Hopkins,D024,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D024,Governor,,DEM,Andy BESHEAR,44,5,38,1
+Hopkins,D024,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Hopkins,D024,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,2,1,0
+Hopkins,D024,Governor,,DEM,Total Votes Cast,51,7,43,1
+Hopkins,D024,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,D024,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D024,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,2,22,1
+Hopkins,D024,Commissioner of Agriculture,,DEM,Mikael MALONE,22,3,19,0
+Hopkins,D024,Commissioner of Agriculture,,DEM,Total Votes Cast,47,5,41,1
+Hopkins,D024,Commissioner of Agriculture,,DEM,Under Votes,6,2,4,0
+Hopkins,D024,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D025M,Governor,,REP,Daniel CAMERON,13,1,12,0
+Hopkins,D025M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D025M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D025M,Governor,,REP,Kelly CRAFT,5,0,4,1
+Hopkins,D025M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,D025M,Governor,,REP,Bob DeVORE,1,1,0,0
+Hopkins,D025M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,D025M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,D025M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D025M,Governor,,REP,Ryan QUARLES,2,1,1,0
+Hopkins,D025M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D025M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D025M,Governor,,REP,Total Votes Cast,22,3,18,1
+Hopkins,D025M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,D025M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D025M,Secretary of State,,REP,Michael ADAMS,17,2,14,1
+Hopkins,D025M,Secretary of State,,REP,Stephen L. KNIPPER,3,1,2,0
+Hopkins,D025M,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,D025M,Secretary of State,,REP,Total Votes Cast,21,3,17,1
+Hopkins,D025M,Secretary of State,,REP,Under Votes,1,0,1,0
+Hopkins,D025M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D025M,Auditor of Public Accounts,,REP,Allison BALL,19,3,15,1
+Hopkins,D025M,Auditor of Public Accounts,,REP,Derek PETTEYS,2,0,2,0
+Hopkins,D025M,Auditor of Public Accounts,,REP,Total Votes Cast,21,3,17,1
+Hopkins,D025M,Auditor of Public Accounts,,REP,Under Votes,1,0,1,0
+Hopkins,D025M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D025M,State Treasurer,,REP,Andrew COOPERRIDER,8,0,7,1
+Hopkins,D025M,State Treasurer,,REP,Mark H. METCALF,11,2,9,0
+Hopkins,D025M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,1,1,0
+Hopkins,D025M,State Treasurer,,REP,Total Votes Cast,21,3,17,1
+Hopkins,D025M,State Treasurer,,REP,Under Votes,1,0,1,0
+Hopkins,D025M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D025M,Commissioner of Agriculture,,REP,Richard HEATH,15,1,13,1
+Hopkins,D025M,Commissioner of Agriculture,,REP,Jonathan SHELL,6,2,4,0
+Hopkins,D025M,Commissioner of Agriculture,,REP,Total Votes Cast,21,3,17,1
+Hopkins,D025M,Commissioner of Agriculture,,REP,Under Votes,1,0,1,0
+Hopkins,D025M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D025M,Governor,,DEM,Andy BESHEAR,45,1,43,1
+Hopkins,D025M,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,D025M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,D025M,Governor,,DEM,Total Votes Cast,48,1,46,1
+Hopkins,D025M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,D025M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D025M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,31,0,30,1
+Hopkins,D025M,Commissioner of Agriculture,,DEM,Mikael MALONE,15,1,14,0
+Hopkins,D025M,Commissioner of Agriculture,,DEM,Total Votes Cast,46,1,44,1
+Hopkins,D025M,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,D025M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D026,Governor,,REP,Daniel CAMERON,15,2,13,0
+Hopkins,D026,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D026,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D026,Governor,,REP,Kelly CRAFT,9,1,8,0
+Hopkins,D026,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,D026,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,D026,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,D026,Governor,,REP,Alan KECK,1,1,0,0
+Hopkins,D026,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D026,Governor,,REP,Ryan QUARLES,9,4,5,0
+Hopkins,D026,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D026,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D026,Governor,,REP,Total Votes Cast,37,8,29,0
+Hopkins,D026,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,D026,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D026,Secretary of State,,REP,Michael ADAMS,21,5,16,0
+Hopkins,D026,Secretary of State,,REP,Stephen L. KNIPPER,7,1,6,0
+Hopkins,D026,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,D026,Secretary of State,,REP,Total Votes Cast,29,6,23,0
+Hopkins,D026,Secretary of State,,REP,Under Votes,8,2,6,0
+Hopkins,D026,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D026,Auditor of Public Accounts,,REP,Allison BALL,21,6,15,0
+Hopkins,D026,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Hopkins,D026,Auditor of Public Accounts,,REP,Total Votes Cast,30,6,24,0
+Hopkins,D026,Auditor of Public Accounts,,REP,Under Votes,7,2,5,0
+Hopkins,D026,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D026,State Treasurer,,REP,Andrew COOPERRIDER,8,2,6,0
+Hopkins,D026,State Treasurer,,REP,Mark H. METCALF,16,2,14,0
+Hopkins,D026,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,2,2,0
+Hopkins,D026,State Treasurer,,REP,Total Votes Cast,28,6,22,0
+Hopkins,D026,State Treasurer,,REP,Under Votes,9,2,7,0
+Hopkins,D026,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D026,Commissioner of Agriculture,,REP,Richard HEATH,11,0,11,0
+Hopkins,D026,Commissioner of Agriculture,,REP,Jonathan SHELL,14,6,8,0
+Hopkins,D026,Commissioner of Agriculture,,REP,Total Votes Cast,25,6,19,0
+Hopkins,D026,Commissioner of Agriculture,,REP,Under Votes,12,2,10,0
+Hopkins,D026,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D026,Governor,,DEM,Andy BESHEAR,13,3,10,0
+Hopkins,D026,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,D026,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,D026,Governor,,DEM,Total Votes Cast,15,3,12,0
+Hopkins,D026,Governor,,DEM,Under Votes,1,1,0,0
+Hopkins,D026,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D026,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,7,1,6,0
+Hopkins,D026,Commissioner of Agriculture,,DEM,Mikael MALONE,6,2,4,0
+Hopkins,D026,Commissioner of Agriculture,,DEM,Total Votes Cast,13,3,10,0
+Hopkins,D026,Commissioner of Agriculture,,DEM,Under Votes,3,1,2,0
+Hopkins,D026,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D027M,Governor,,REP,Daniel CAMERON,50,5,45,0
+Hopkins,D027M,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,D027M,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,D027M,Governor,,REP,Kelly CRAFT,42,10,32,0
+Hopkins,D027M,Governor,,REP,Eric DETERS,4,1,3,0
+Hopkins,D027M,Governor,,REP,Bob DeVORE,1,0,1,0
+Hopkins,D027M,Governor,,REP,Mike HARMON,1,1,0,0
+Hopkins,D027M,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,D027M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D027M,Governor,,REP,Ryan QUARLES,33,9,23,1
+Hopkins,D027M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D027M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D027M,Governor,,REP,Total Votes Cast,134,26,107,1
+Hopkins,D027M,Governor,,REP,Under Votes,2,0,2,0
+Hopkins,D027M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D027M,Secretary of State,,REP,Michael ADAMS,82,16,65,1
+Hopkins,D027M,Secretary of State,,REP,Stephen L. KNIPPER,26,4,22,0
+Hopkins,D027M,Secretary of State,,REP,Allen MARICLE,7,3,4,0
+Hopkins,D027M,Secretary of State,,REP,Total Votes Cast,115,23,91,1
+Hopkins,D027M,Secretary of State,,REP,Under Votes,21,3,18,0
+Hopkins,D027M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D027M,Auditor of Public Accounts,,REP,Allison BALL,88,17,70,1
+Hopkins,D027M,Auditor of Public Accounts,,REP,Derek PETTEYS,24,4,20,0
+Hopkins,D027M,Auditor of Public Accounts,,REP,Total Votes Cast,112,21,90,1
+Hopkins,D027M,Auditor of Public Accounts,,REP,Under Votes,24,5,19,0
+Hopkins,D027M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D027M,State Treasurer,,REP,Andrew COOPERRIDER,33,5,28,0
+Hopkins,D027M,State Treasurer,,REP,Mark H. METCALF,64,15,48,1
+Hopkins,D027M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,1,12,0
+Hopkins,D027M,State Treasurer,,REP,Total Votes Cast,110,21,88,1
+Hopkins,D027M,State Treasurer,,REP,Under Votes,26,5,21,0
+Hopkins,D027M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D027M,Commissioner of Agriculture,,REP,Richard HEATH,48,6,42,0
+Hopkins,D027M,Commissioner of Agriculture,,REP,Jonathan SHELL,63,15,47,1
+Hopkins,D027M,Commissioner of Agriculture,,REP,Total Votes Cast,111,21,89,1
+Hopkins,D027M,Commissioner of Agriculture,,REP,Under Votes,25,5,20,0
+Hopkins,D027M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D027M,Governor,,DEM,Andy BESHEAR,107,34,72,1
+Hopkins,D027M,Governor,,DEM,Peppy MARTIN,3,1,2,0
+Hopkins,D027M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,1,4,0
+Hopkins,D027M,Governor,,DEM,Total Votes Cast,115,36,78,1
+Hopkins,D027M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,D027M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D027M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,60,22,38,0
+Hopkins,D027M,Commissioner of Agriculture,,DEM,Mikael MALONE,35,11,23,1
+Hopkins,D027M,Commissioner of Agriculture,,DEM,Total Votes Cast,95,33,61,1
+Hopkins,D027M,Commissioner of Agriculture,,DEM,Under Votes,20,3,17,0
+Hopkins,D027M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D028M,Governor,,REP,Daniel CAMERON,32,4,28,0
+Hopkins,D028M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D028M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D028M,Governor,,REP,Kelly CRAFT,9,1,8,0
+Hopkins,D028M,Governor,,REP,Eric DETERS,5,0,5,0
+Hopkins,D028M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,D028M,Governor,,REP,Mike HARMON,3,0,3,0
+Hopkins,D028M,Governor,,REP,Alan KECK,2,1,1,0
+Hopkins,D028M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D028M,Governor,,REP,Ryan QUARLES,8,2,6,0
+Hopkins,D028M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D028M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D028M,Governor,,REP,Total Votes Cast,59,8,51,0
+Hopkins,D028M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,D028M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D028M,Secretary of State,,REP,Michael ADAMS,33,5,28,0
+Hopkins,D028M,Secretary of State,,REP,Stephen L. KNIPPER,15,2,13,0
+Hopkins,D028M,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Hopkins,D028M,Secretary of State,,REP,Total Votes Cast,52,7,45,0
+Hopkins,D028M,Secretary of State,,REP,Under Votes,7,1,6,0
+Hopkins,D028M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D028M,Auditor of Public Accounts,,REP,Allison BALL,40,8,32,0
+Hopkins,D028M,Auditor of Public Accounts,,REP,Derek PETTEYS,13,0,13,0
+Hopkins,D028M,Auditor of Public Accounts,,REP,Total Votes Cast,53,8,45,0
+Hopkins,D028M,Auditor of Public Accounts,,REP,Under Votes,6,0,6,0
+Hopkins,D028M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D028M,State Treasurer,,REP,Andrew COOPERRIDER,20,2,18,0
+Hopkins,D028M,State Treasurer,,REP,Mark H. METCALF,25,2,23,0
+Hopkins,D028M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,3,5,0
+Hopkins,D028M,State Treasurer,,REP,Total Votes Cast,53,7,46,0
+Hopkins,D028M,State Treasurer,,REP,Under Votes,5,1,4,0
+Hopkins,D028M,State Treasurer,,REP,Over Votes,1,0,1,0
+Hopkins,D028M,Commissioner of Agriculture,,REP,Richard HEATH,16,1,15,0
+Hopkins,D028M,Commissioner of Agriculture,,REP,Jonathan SHELL,36,6,30,0
+Hopkins,D028M,Commissioner of Agriculture,,REP,Total Votes Cast,52,7,45,0
+Hopkins,D028M,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Hopkins,D028M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D028M,Governor,,DEM,Andy BESHEAR,43,9,34,0
+Hopkins,D028M,Governor,,DEM,Peppy MARTIN,5,1,4,0
+Hopkins,D028M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,2,4,0
+Hopkins,D028M,Governor,,DEM,Total Votes Cast,54,12,42,0
+Hopkins,D028M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,D028M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D028M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,30,8,22,0
+Hopkins,D028M,Commissioner of Agriculture,,DEM,Mikael MALONE,20,3,17,0
+Hopkins,D028M,Commissioner of Agriculture,,DEM,Total Votes Cast,50,11,39,0
+Hopkins,D028M,Commissioner of Agriculture,,DEM,Under Votes,4,1,3,0
+Hopkins,D028M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,D029M,Governor,,REP,Daniel CAMERON,10,4,6,0
+Hopkins,D029M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,D029M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,D029M,Governor,,REP,Kelly CRAFT,3,0,3,0
+Hopkins,D029M,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,D029M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,D029M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,D029M,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,D029M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,D029M,Governor,,REP,Ryan QUARLES,7,2,5,0
+Hopkins,D029M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,D029M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,D029M,Governor,,REP,Total Votes Cast,21,6,15,0
+Hopkins,D029M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,D029M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,D029M,Secretary of State,,REP,Michael ADAMS,13,3,10,0
+Hopkins,D029M,Secretary of State,,REP,Stephen L. KNIPPER,5,3,2,0
+Hopkins,D029M,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,D029M,Secretary of State,,REP,Total Votes Cast,18,6,12,0
+Hopkins,D029M,Secretary of State,,REP,Under Votes,3,0,3,0
+Hopkins,D029M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,D029M,Auditor of Public Accounts,,REP,Allison BALL,11,5,6,0
+Hopkins,D029M,Auditor of Public Accounts,,REP,Derek PETTEYS,4,0,4,0
+Hopkins,D029M,Auditor of Public Accounts,,REP,Total Votes Cast,15,5,10,0
+Hopkins,D029M,Auditor of Public Accounts,,REP,Under Votes,6,1,5,0
+Hopkins,D029M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,D029M,State Treasurer,,REP,Andrew COOPERRIDER,10,4,6,0
+Hopkins,D029M,State Treasurer,,REP,Mark H. METCALF,4,1,3,0
+Hopkins,D029M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Hopkins,D029M,State Treasurer,,REP,Total Votes Cast,17,5,12,0
+Hopkins,D029M,State Treasurer,,REP,Under Votes,4,1,3,0
+Hopkins,D029M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,D029M,Commissioner of Agriculture,,REP,Richard HEATH,6,1,5,0
+Hopkins,D029M,Commissioner of Agriculture,,REP,Jonathan SHELL,9,3,6,0
+Hopkins,D029M,Commissioner of Agriculture,,REP,Total Votes Cast,15,4,11,0
+Hopkins,D029M,Commissioner of Agriculture,,REP,Under Votes,6,2,4,0
+Hopkins,D029M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,D029M,Governor,,DEM,Andy BESHEAR,13,0,13,0
+Hopkins,D029M,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,D029M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Hopkins,D029M,Governor,,DEM,Total Votes Cast,15,0,15,0
+Hopkins,D029M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,D029M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,D029M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,0,10,0
+Hopkins,D029M,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Hopkins,D029M,Commissioner of Agriculture,,DEM,Total Votes Cast,13,0,13,0
+Hopkins,D029M,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,D029M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E030,Governor,,REP,Daniel CAMERON,30,2,28,0
+Hopkins,E030,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,E030,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,E030,Governor,,REP,Kelly CRAFT,9,0,9,0
+Hopkins,E030,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,E030,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E030,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,E030,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,E030,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,E030,Governor,,REP,Ryan QUARLES,7,0,7,0
+Hopkins,E030,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E030,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E030,Governor,,REP,Total Votes Cast,46,2,44,0
+Hopkins,E030,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E030,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E030,Secretary of State,,REP,Michael ADAMS,28,2,26,0
+Hopkins,E030,Secretary of State,,REP,Stephen L. KNIPPER,6,0,6,0
+Hopkins,E030,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,E030,Secretary of State,,REP,Total Votes Cast,35,2,33,0
+Hopkins,E030,Secretary of State,,REP,Under Votes,11,0,11,0
+Hopkins,E030,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E030,Auditor of Public Accounts,,REP,Allison BALL,26,2,24,0
+Hopkins,E030,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Hopkins,E030,Auditor of Public Accounts,,REP,Total Votes Cast,32,2,30,0
+Hopkins,E030,Auditor of Public Accounts,,REP,Under Votes,14,0,14,0
+Hopkins,E030,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E030,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Hopkins,E030,State Treasurer,,REP,Mark H. METCALF,23,2,21,0
+Hopkins,E030,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Hopkins,E030,State Treasurer,,REP,Total Votes Cast,32,2,30,0
+Hopkins,E030,State Treasurer,,REP,Under Votes,14,0,14,0
+Hopkins,E030,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E030,Commissioner of Agriculture,,REP,Richard HEATH,17,2,15,0
+Hopkins,E030,Commissioner of Agriculture,,REP,Jonathan SHELL,12,0,12,0
+Hopkins,E030,Commissioner of Agriculture,,REP,Total Votes Cast,29,2,27,0
+Hopkins,E030,Commissioner of Agriculture,,REP,Under Votes,17,0,17,0
+Hopkins,E030,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E030,Governor,,DEM,Andy BESHEAR,17,3,14,0
+Hopkins,E030,Governor,,DEM,Peppy MARTIN,7,0,7,0
+Hopkins,E030,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Hopkins,E030,Governor,,DEM,Total Votes Cast,28,3,25,0
+Hopkins,E030,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,E030,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E030,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,3,16,0
+Hopkins,E030,Commissioner of Agriculture,,DEM,Mikael MALONE,7,0,7,0
+Hopkins,E030,Commissioner of Agriculture,,DEM,Total Votes Cast,26,3,23,0
+Hopkins,E030,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,E030,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E031,Governor,,REP,Daniel CAMERON,28,3,25,0
+Hopkins,E031,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,E031,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,E031,Governor,,REP,Kelly CRAFT,11,2,9,0
+Hopkins,E031,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,E031,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E031,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,E031,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,E031,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Hopkins,E031,Governor,,REP,Ryan QUARLES,3,0,3,0
+Hopkins,E031,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E031,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E031,Governor,,REP,Total Votes Cast,47,5,42,0
+Hopkins,E031,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E031,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E031,Secretary of State,,REP,Michael ADAMS,35,2,33,0
+Hopkins,E031,Secretary of State,,REP,Stephen L. KNIPPER,6,1,5,0
+Hopkins,E031,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,E031,Secretary of State,,REP,Total Votes Cast,42,3,39,0
+Hopkins,E031,Secretary of State,,REP,Under Votes,5,2,3,0
+Hopkins,E031,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E031,Auditor of Public Accounts,,REP,Allison BALL,23,3,20,0
+Hopkins,E031,Auditor of Public Accounts,,REP,Derek PETTEYS,17,0,17,0
+Hopkins,E031,Auditor of Public Accounts,,REP,Total Votes Cast,40,3,37,0
+Hopkins,E031,Auditor of Public Accounts,,REP,Under Votes,7,2,5,0
+Hopkins,E031,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E031,State Treasurer,,REP,Andrew COOPERRIDER,19,1,18,0
+Hopkins,E031,State Treasurer,,REP,Mark H. METCALF,22,2,20,0
+Hopkins,E031,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Hopkins,E031,State Treasurer,,REP,Total Votes Cast,43,3,40,0
+Hopkins,E031,State Treasurer,,REP,Under Votes,4,2,2,0
+Hopkins,E031,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E031,Commissioner of Agriculture,,REP,Richard HEATH,19,1,18,0
+Hopkins,E031,Commissioner of Agriculture,,REP,Jonathan SHELL,19,1,18,0
+Hopkins,E031,Commissioner of Agriculture,,REP,Total Votes Cast,38,2,36,0
+Hopkins,E031,Commissioner of Agriculture,,REP,Under Votes,9,3,6,0
+Hopkins,E031,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E031,Governor,,DEM,Andy BESHEAR,28,7,20,1
+Hopkins,E031,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Hopkins,E031,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,E031,Governor,,DEM,Total Votes Cast,34,7,26,1
+Hopkins,E031,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,E031,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E031,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,15,2,13,0
+Hopkins,E031,Commissioner of Agriculture,,DEM,Mikael MALONE,14,2,11,1
+Hopkins,E031,Commissioner of Agriculture,,DEM,Total Votes Cast,29,4,24,1
+Hopkins,E031,Commissioner of Agriculture,,DEM,Under Votes,6,3,3,0
+Hopkins,E031,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E032,Governor,,REP,Daniel CAMERON,23,1,21,1
+Hopkins,E032,Governor,,REP,Jacob CLARK,2,0,2,0
+Hopkins,E032,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,E032,Governor,,REP,Kelly CRAFT,2,0,2,0
+Hopkins,E032,Governor,,REP,Eric DETERS,3,1,2,0
+Hopkins,E032,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E032,Governor,,REP,Mike HARMON,2,0,2,0
+Hopkins,E032,Governor,,REP,Alan KECK,2,0,0,2
+Hopkins,E032,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,E032,Governor,,REP,Ryan QUARLES,8,0,5,3
+Hopkins,E032,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E032,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E032,Governor,,REP,Total Votes Cast,42,2,34,6
+Hopkins,E032,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E032,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E032,Secretary of State,,REP,Michael ADAMS,22,1,19,2
+Hopkins,E032,Secretary of State,,REP,Stephen L. KNIPPER,8,0,5,3
+Hopkins,E032,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Hopkins,E032,Secretary of State,,REP,Total Votes Cast,33,2,26,5
+Hopkins,E032,Secretary of State,,REP,Under Votes,9,0,8,1
+Hopkins,E032,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E032,Auditor of Public Accounts,,REP,Allison BALL,16,0,16,0
+Hopkins,E032,Auditor of Public Accounts,,REP,Derek PETTEYS,17,2,10,5
+Hopkins,E032,Auditor of Public Accounts,,REP,Total Votes Cast,33,2,26,5
+Hopkins,E032,Auditor of Public Accounts,,REP,Under Votes,9,0,8,1
+Hopkins,E032,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E032,State Treasurer,,REP,Andrew COOPERRIDER,9,1,5,3
+Hopkins,E032,State Treasurer,,REP,Mark H. METCALF,21,1,18,2
+Hopkins,E032,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Hopkins,E032,State Treasurer,,REP,Total Votes Cast,33,2,26,5
+Hopkins,E032,State Treasurer,,REP,Under Votes,9,0,8,1
+Hopkins,E032,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E032,Commissioner of Agriculture,,REP,Richard HEATH,21,2,17,2
+Hopkins,E032,Commissioner of Agriculture,,REP,Jonathan SHELL,11,0,8,3
+Hopkins,E032,Commissioner of Agriculture,,REP,Total Votes Cast,32,2,25,5
+Hopkins,E032,Commissioner of Agriculture,,REP,Under Votes,10,0,9,1
+Hopkins,E032,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E032,Governor,,DEM,Andy BESHEAR,22,4,18,0
+Hopkins,E032,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,E032,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,E032,Governor,,DEM,Total Votes Cast,26,4,22,0
+Hopkins,E032,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,E032,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E032,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,8,2,6,0
+Hopkins,E032,Commissioner of Agriculture,,DEM,Mikael MALONE,13,0,13,0
+Hopkins,E032,Commissioner of Agriculture,,DEM,Total Votes Cast,21,2,19,0
+Hopkins,E032,Commissioner of Agriculture,,DEM,Under Votes,5,2,3,0
+Hopkins,E032,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E033,Governor,,REP,Daniel CAMERON,38,0,38,0
+Hopkins,E033,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,E033,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,E033,Governor,,REP,Kelly CRAFT,11,2,9,0
+Hopkins,E033,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,E033,Governor,,REP,Bob DeVORE,1,0,1,0
+Hopkins,E033,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,E033,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,E033,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,E033,Governor,,REP,Ryan QUARLES,10,2,8,0
+Hopkins,E033,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Hopkins,E033,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E033,Governor,,REP,Total Votes Cast,64,4,60,0
+Hopkins,E033,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E033,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E033,Secretary of State,,REP,Michael ADAMS,36,2,34,0
+Hopkins,E033,Secretary of State,,REP,Stephen L. KNIPPER,13,0,13,0
+Hopkins,E033,Secretary of State,,REP,Allen MARICLE,7,2,5,0
+Hopkins,E033,Secretary of State,,REP,Total Votes Cast,56,4,52,0
+Hopkins,E033,Secretary of State,,REP,Under Votes,8,0,8,0
+Hopkins,E033,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E033,Auditor of Public Accounts,,REP,Allison BALL,43,2,41,0
+Hopkins,E033,Auditor of Public Accounts,,REP,Derek PETTEYS,11,2,9,0
+Hopkins,E033,Auditor of Public Accounts,,REP,Total Votes Cast,54,4,50,0
+Hopkins,E033,Auditor of Public Accounts,,REP,Under Votes,10,0,10,0
+Hopkins,E033,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E033,State Treasurer,,REP,Andrew COOPERRIDER,22,2,20,0
+Hopkins,E033,State Treasurer,,REP,Mark H. METCALF,33,2,31,0
+Hopkins,E033,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Hopkins,E033,State Treasurer,,REP,Total Votes Cast,55,4,51,0
+Hopkins,E033,State Treasurer,,REP,Under Votes,9,0,9,0
+Hopkins,E033,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E033,Commissioner of Agriculture,,REP,Richard HEATH,28,1,27,0
+Hopkins,E033,Commissioner of Agriculture,,REP,Jonathan SHELL,25,3,22,0
+Hopkins,E033,Commissioner of Agriculture,,REP,Total Votes Cast,53,4,49,0
+Hopkins,E033,Commissioner of Agriculture,,REP,Under Votes,11,0,11,0
+Hopkins,E033,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E033,Governor,,DEM,Andy BESHEAR,37,3,34,0
+Hopkins,E033,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Hopkins,E033,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,E033,Governor,,DEM,Total Votes Cast,42,3,39,0
+Hopkins,E033,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,E033,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E033,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,1,19,0
+Hopkins,E033,Commissioner of Agriculture,,DEM,Mikael MALONE,21,2,19,0
+Hopkins,E033,Commissioner of Agriculture,,DEM,Total Votes Cast,41,3,38,0
+Hopkins,E033,Commissioner of Agriculture,,DEM,Under Votes,1,0,1,0
+Hopkins,E033,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E034M,Governor,,REP,Daniel CAMERON,27,5,22,0
+Hopkins,E034M,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,E034M,Governor,,REP,David O. COOPER,1,1,0,0
+Hopkins,E034M,Governor,,REP,Kelly CRAFT,13,5,8,0
+Hopkins,E034M,Governor,,REP,Eric DETERS,4,0,4,0
+Hopkins,E034M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E034M,Governor,,REP,Mike HARMON,3,0,3,0
+Hopkins,E034M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,E034M,Governor,,REP,Dennis Ray ORMEROD,2,0,2,0
+Hopkins,E034M,Governor,,REP,Ryan QUARLES,5,2,3,0
+Hopkins,E034M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E034M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E034M,Governor,,REP,Total Votes Cast,56,13,43,0
+Hopkins,E034M,Governor,,REP,Under Votes,1,0,0,1
+Hopkins,E034M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E034M,Secretary of State,,REP,Michael ADAMS,33,8,24,1
+Hopkins,E034M,Secretary of State,,REP,Stephen L. KNIPPER,15,3,12,0
+Hopkins,E034M,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Hopkins,E034M,Secretary of State,,REP,Total Votes Cast,51,12,38,1
+Hopkins,E034M,Secretary of State,,REP,Under Votes,6,1,5,0
+Hopkins,E034M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E034M,Auditor of Public Accounts,,REP,Allison BALL,30,6,23,1
+Hopkins,E034M,Auditor of Public Accounts,,REP,Derek PETTEYS,19,6,13,0
+Hopkins,E034M,Auditor of Public Accounts,,REP,Total Votes Cast,49,12,36,1
+Hopkins,E034M,Auditor of Public Accounts,,REP,Under Votes,8,1,7,0
+Hopkins,E034M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E034M,State Treasurer,,REP,Andrew COOPERRIDER,13,4,9,0
+Hopkins,E034M,State Treasurer,,REP,Mark H. METCALF,31,7,24,0
+Hopkins,E034M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,1,7,1
+Hopkins,E034M,State Treasurer,,REP,Total Votes Cast,53,12,40,1
+Hopkins,E034M,State Treasurer,,REP,Under Votes,4,1,3,0
+Hopkins,E034M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E034M,Commissioner of Agriculture,,REP,Richard HEATH,28,6,21,1
+Hopkins,E034M,Commissioner of Agriculture,,REP,Jonathan SHELL,22,6,16,0
+Hopkins,E034M,Commissioner of Agriculture,,REP,Total Votes Cast,50,12,37,1
+Hopkins,E034M,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Hopkins,E034M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E034M,Governor,,DEM,Andy BESHEAR,49,16,30,3
+Hopkins,E034M,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,E034M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,1,3,0
+Hopkins,E034M,Governor,,DEM,Total Votes Cast,54,17,34,3
+Hopkins,E034M,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,E034M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E034M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,8,24,2
+Hopkins,E034M,Commissioner of Agriculture,,DEM,Mikael MALONE,15,7,7,1
+Hopkins,E034M,Commissioner of Agriculture,,DEM,Total Votes Cast,49,15,31,3
+Hopkins,E034M,Commissioner of Agriculture,,DEM,Under Votes,6,2,4,0
+Hopkins,E034M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E035M,Governor,,REP,Daniel CAMERON,10,0,10,0
+Hopkins,E035M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,E035M,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,E035M,Governor,,REP,Kelly CRAFT,3,1,2,0
+Hopkins,E035M,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,E035M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E035M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,E035M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,E035M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,E035M,Governor,,REP,Ryan QUARLES,4,1,3,0
+Hopkins,E035M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E035M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E035M,Governor,,REP,Total Votes Cast,21,2,19,0
+Hopkins,E035M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E035M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E035M,Secretary of State,,REP,Michael ADAMS,14,2,12,0
+Hopkins,E035M,Secretary of State,,REP,Stephen L. KNIPPER,2,0,2,0
+Hopkins,E035M,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Hopkins,E035M,Secretary of State,,REP,Total Votes Cast,20,2,18,0
+Hopkins,E035M,Secretary of State,,REP,Under Votes,1,0,1,0
+Hopkins,E035M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E035M,Auditor of Public Accounts,,REP,Allison BALL,13,1,12,0
+Hopkins,E035M,Auditor of Public Accounts,,REP,Derek PETTEYS,8,1,7,0
+Hopkins,E035M,Auditor of Public Accounts,,REP,Total Votes Cast,21,2,19,0
+Hopkins,E035M,Auditor of Public Accounts,,REP,Under Votes,0,0,0,0
+Hopkins,E035M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E035M,State Treasurer,,REP,Andrew COOPERRIDER,2,0,2,0
+Hopkins,E035M,State Treasurer,,REP,Mark H. METCALF,11,2,9,0
+Hopkins,E035M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,0,8,0
+Hopkins,E035M,State Treasurer,,REP,Total Votes Cast,21,2,19,0
+Hopkins,E035M,State Treasurer,,REP,Under Votes,0,0,0,0
+Hopkins,E035M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E035M,Commissioner of Agriculture,,REP,Richard HEATH,9,2,7,0
+Hopkins,E035M,Commissioner of Agriculture,,REP,Jonathan SHELL,11,0,11,0
+Hopkins,E035M,Commissioner of Agriculture,,REP,Total Votes Cast,20,2,18,0
+Hopkins,E035M,Commissioner of Agriculture,,REP,Under Votes,1,0,1,0
+Hopkins,E035M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E035M,Governor,,DEM,Andy BESHEAR,19,6,12,1
+Hopkins,E035M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,E035M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,1,0,0
+Hopkins,E035M,Governor,,DEM,Total Votes Cast,20,7,12,1
+Hopkins,E035M,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,E035M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E035M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,16,5,10,1
+Hopkins,E035M,Commissioner of Agriculture,,DEM,Mikael MALONE,3,2,1,0
+Hopkins,E035M,Commissioner of Agriculture,,DEM,Total Votes Cast,19,7,11,1
+Hopkins,E035M,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Hopkins,E035M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,E036,Governor,,REP,Daniel CAMERON,24,4,20,0
+Hopkins,E036,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,E036,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,E036,Governor,,REP,Kelly CRAFT,4,0,4,0
+Hopkins,E036,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,E036,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,E036,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,E036,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,E036,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,E036,Governor,,REP,Ryan QUARLES,0,0,0,0
+Hopkins,E036,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,E036,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,E036,Governor,,REP,Total Votes Cast,30,4,26,0
+Hopkins,E036,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,E036,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,E036,Secretary of State,,REP,Michael ADAMS,13,3,10,0
+Hopkins,E036,Secretary of State,,REP,Stephen L. KNIPPER,8,1,7,0
+Hopkins,E036,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,E036,Secretary of State,,REP,Total Votes Cast,24,4,20,0
+Hopkins,E036,Secretary of State,,REP,Under Votes,6,0,6,0
+Hopkins,E036,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,E036,Auditor of Public Accounts,,REP,Allison BALL,14,2,12,0
+Hopkins,E036,Auditor of Public Accounts,,REP,Derek PETTEYS,8,2,6,0
+Hopkins,E036,Auditor of Public Accounts,,REP,Total Votes Cast,22,4,18,0
+Hopkins,E036,Auditor of Public Accounts,,REP,Under Votes,8,0,8,0
+Hopkins,E036,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,E036,State Treasurer,,REP,Andrew COOPERRIDER,10,2,8,0
+Hopkins,E036,State Treasurer,,REP,Mark H. METCALF,10,1,9,0
+Hopkins,E036,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Hopkins,E036,State Treasurer,,REP,Total Votes Cast,24,4,20,0
+Hopkins,E036,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,E036,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,E036,Commissioner of Agriculture,,REP,Richard HEATH,14,2,12,0
+Hopkins,E036,Commissioner of Agriculture,,REP,Jonathan SHELL,10,2,8,0
+Hopkins,E036,Commissioner of Agriculture,,REP,Total Votes Cast,24,4,20,0
+Hopkins,E036,Commissioner of Agriculture,,REP,Under Votes,6,0,6,0
+Hopkins,E036,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,E036,Governor,,DEM,Andy BESHEAR,13,3,10,0
+Hopkins,E036,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,E036,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,0,5,0
+Hopkins,E036,Governor,,DEM,Total Votes Cast,19,3,16,0
+Hopkins,E036,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,E036,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,E036,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,3,8,0
+Hopkins,E036,Commissioner of Agriculture,,DEM,Mikael MALONE,7,0,7,0
+Hopkins,E036,Commissioner of Agriculture,,DEM,Total Votes Cast,18,3,15,0
+Hopkins,E036,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,E036,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F037,Governor,,REP,Daniel CAMERON,5,0,5,0
+Hopkins,F037,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F037,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F037,Governor,,REP,Kelly CRAFT,2,0,2,0
+Hopkins,F037,Governor,,REP,Eric DETERS,4,0,4,0
+Hopkins,F037,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F037,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,F037,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,F037,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F037,Governor,,REP,Ryan QUARLES,2,0,2,0
+Hopkins,F037,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F037,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Hopkins,F037,Governor,,REP,Total Votes Cast,14,0,14,0
+Hopkins,F037,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,F037,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F037,Secretary of State,,REP,Michael ADAMS,8,0,8,0
+Hopkins,F037,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Hopkins,F037,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,F037,Secretary of State,,REP,Total Votes Cast,13,0,13,0
+Hopkins,F037,Secretary of State,,REP,Under Votes,1,0,1,0
+Hopkins,F037,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F037,Auditor of Public Accounts,,REP,Allison BALL,9,0,9,0
+Hopkins,F037,Auditor of Public Accounts,,REP,Derek PETTEYS,3,0,3,0
+Hopkins,F037,Auditor of Public Accounts,,REP,Total Votes Cast,12,0,12,0
+Hopkins,F037,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Hopkins,F037,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F037,State Treasurer,,REP,Andrew COOPERRIDER,5,0,5,0
+Hopkins,F037,State Treasurer,,REP,Mark H. METCALF,6,0,6,0
+Hopkins,F037,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Hopkins,F037,State Treasurer,,REP,Total Votes Cast,12,0,12,0
+Hopkins,F037,State Treasurer,,REP,Under Votes,2,0,2,0
+Hopkins,F037,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F037,Commissioner of Agriculture,,REP,Richard HEATH,9,0,9,0
+Hopkins,F037,Commissioner of Agriculture,,REP,Jonathan SHELL,3,0,3,0
+Hopkins,F037,Commissioner of Agriculture,,REP,Total Votes Cast,12,0,12,0
+Hopkins,F037,Commissioner of Agriculture,,REP,Under Votes,2,0,2,0
+Hopkins,F037,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F037,Governor,,DEM,Andy BESHEAR,8,0,8,0
+Hopkins,F037,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,F037,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,0,3,0
+Hopkins,F037,Governor,,DEM,Total Votes Cast,13,0,13,0
+Hopkins,F037,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,F037,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F037,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,4,0
+Hopkins,F037,Commissioner of Agriculture,,DEM,Mikael MALONE,9,0,9,0
+Hopkins,F037,Commissioner of Agriculture,,DEM,Total Votes Cast,13,0,13,0
+Hopkins,F037,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Hopkins,F037,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F038D,Governor,,REP,Daniel CAMERON,17,4,13,0
+Hopkins,F038D,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F038D,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F038D,Governor,,REP,Kelly CRAFT,1,0,1,0
+Hopkins,F038D,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,F038D,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F038D,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,F038D,Governor,,REP,Alan KECK,2,0,2,0
+Hopkins,F038D,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F038D,Governor,,REP,Ryan QUARLES,0,0,0,0
+Hopkins,F038D,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F038D,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Hopkins,F038D,Governor,,REP,Total Votes Cast,26,4,22,0
+Hopkins,F038D,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,F038D,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F038D,Secretary of State,,REP,Michael ADAMS,14,2,12,0
+Hopkins,F038D,Secretary of State,,REP,Stephen L. KNIPPER,6,0,6,0
+Hopkins,F038D,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,F038D,Secretary of State,,REP,Total Votes Cast,23,2,21,0
+Hopkins,F038D,Secretary of State,,REP,Under Votes,4,2,2,0
+Hopkins,F038D,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F038D,Auditor of Public Accounts,,REP,Allison BALL,14,1,13,0
+Hopkins,F038D,Auditor of Public Accounts,,REP,Derek PETTEYS,10,1,9,0
+Hopkins,F038D,Auditor of Public Accounts,,REP,Total Votes Cast,24,2,22,0
+Hopkins,F038D,Auditor of Public Accounts,,REP,Under Votes,3,2,1,0
+Hopkins,F038D,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F038D,State Treasurer,,REP,Andrew COOPERRIDER,9,0,9,0
+Hopkins,F038D,State Treasurer,,REP,Mark H. METCALF,12,2,10,0
+Hopkins,F038D,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Hopkins,F038D,State Treasurer,,REP,Total Votes Cast,23,2,21,0
+Hopkins,F038D,State Treasurer,,REP,Under Votes,4,2,2,0
+Hopkins,F038D,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F038D,Commissioner of Agriculture,,REP,Richard HEATH,10,2,8,0
+Hopkins,F038D,Commissioner of Agriculture,,REP,Jonathan SHELL,11,0,11,0
+Hopkins,F038D,Commissioner of Agriculture,,REP,Total Votes Cast,21,2,19,0
+Hopkins,F038D,Commissioner of Agriculture,,REP,Under Votes,6,2,4,0
+Hopkins,F038D,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F038D,Governor,,DEM,Andy BESHEAR,40,2,38,0
+Hopkins,F038D,Governor,,DEM,Peppy MARTIN,5,0,5,0
+Hopkins,F038D,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,F038D,Governor,,DEM,Total Votes Cast,47,2,45,0
+Hopkins,F038D,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,F038D,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F038D,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,1,18,0
+Hopkins,F038D,Commissioner of Agriculture,,DEM,Mikael MALONE,21,1,20,0
+Hopkins,F038D,Commissioner of Agriculture,,DEM,Total Votes Cast,40,2,38,0
+Hopkins,F038D,Commissioner of Agriculture,,DEM,Under Votes,7,0,7,0
+Hopkins,F038D,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F039D,Governor,,REP,Daniel CAMERON,28,1,27,0
+Hopkins,F039D,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F039D,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F039D,Governor,,REP,Kelly CRAFT,5,2,3,0
+Hopkins,F039D,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,F039D,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F039D,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,F039D,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,F039D,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F039D,Governor,,REP,Ryan QUARLES,2,0,2,0
+Hopkins,F039D,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F039D,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Hopkins,F039D,Governor,,REP,Total Votes Cast,37,3,34,0
+Hopkins,F039D,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,F039D,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F039D,Secretary of State,,REP,Michael ADAMS,23,0,23,0
+Hopkins,F039D,Secretary of State,,REP,Stephen L. KNIPPER,8,3,5,0
+Hopkins,F039D,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,F039D,Secretary of State,,REP,Total Votes Cast,34,3,31,0
+Hopkins,F039D,Secretary of State,,REP,Under Votes,4,0,4,0
+Hopkins,F039D,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F039D,Auditor of Public Accounts,,REP,Allison BALL,24,3,21,0
+Hopkins,F039D,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Hopkins,F039D,Auditor of Public Accounts,,REP,Total Votes Cast,30,3,27,0
+Hopkins,F039D,Auditor of Public Accounts,,REP,Under Votes,8,0,8,0
+Hopkins,F039D,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F039D,State Treasurer,,REP,Andrew COOPERRIDER,15,2,13,0
+Hopkins,F039D,State Treasurer,,REP,Mark H. METCALF,16,1,15,0
+Hopkins,F039D,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Hopkins,F039D,State Treasurer,,REP,Total Votes Cast,32,3,29,0
+Hopkins,F039D,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,F039D,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F039D,Commissioner of Agriculture,,REP,Richard HEATH,20,1,19,0
+Hopkins,F039D,Commissioner of Agriculture,,REP,Jonathan SHELL,10,1,9,0
+Hopkins,F039D,Commissioner of Agriculture,,REP,Total Votes Cast,30,2,28,0
+Hopkins,F039D,Commissioner of Agriculture,,REP,Under Votes,8,1,7,0
+Hopkins,F039D,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F039D,Governor,,DEM,Andy BESHEAR,38,0,38,0
+Hopkins,F039D,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,F039D,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Hopkins,F039D,Governor,,DEM,Total Votes Cast,39,0,39,0
+Hopkins,F039D,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,F039D,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F039D,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,12,0,12,0
+Hopkins,F039D,Commissioner of Agriculture,,DEM,Mikael MALONE,20,0,20,0
+Hopkins,F039D,Commissioner of Agriculture,,DEM,Total Votes Cast,32,0,32,0
+Hopkins,F039D,Commissioner of Agriculture,,DEM,Under Votes,7,0,7,0
+Hopkins,F039D,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F040,Governor,,REP,Daniel CAMERON,38,0,37,1
+Hopkins,F040,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F040,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F040,Governor,,REP,Kelly CRAFT,6,1,5,0
+Hopkins,F040,Governor,,REP,Eric DETERS,3,0,3,0
+Hopkins,F040,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F040,Governor,,REP,Mike HARMON,3,0,3,0
+Hopkins,F040,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,F040,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F040,Governor,,REP,Ryan QUARLES,5,3,2,0
+Hopkins,F040,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F040,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Hopkins,F040,Governor,,REP,Total Votes Cast,57,4,52,1
+Hopkins,F040,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,F040,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F040,Secretary of State,,REP,Michael ADAMS,36,4,32,0
+Hopkins,F040,Secretary of State,,REP,Stephen L. KNIPPER,11,0,11,0
+Hopkins,F040,Secretary of State,,REP,Allen MARICLE,6,0,5,1
+Hopkins,F040,Secretary of State,,REP,Total Votes Cast,53,4,48,1
+Hopkins,F040,Secretary of State,,REP,Under Votes,4,0,4,0
+Hopkins,F040,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F040,Auditor of Public Accounts,,REP,Allison BALL,33,4,28,1
+Hopkins,F040,Auditor of Public Accounts,,REP,Derek PETTEYS,19,0,19,0
+Hopkins,F040,Auditor of Public Accounts,,REP,Total Votes Cast,52,4,47,1
+Hopkins,F040,Auditor of Public Accounts,,REP,Under Votes,5,0,5,0
+Hopkins,F040,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F040,State Treasurer,,REP,Andrew COOPERRIDER,18,0,18,0
+Hopkins,F040,State Treasurer,,REP,Mark H. METCALF,27,3,23,1
+Hopkins,F040,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,1,6,0
+Hopkins,F040,State Treasurer,,REP,Total Votes Cast,52,4,47,1
+Hopkins,F040,State Treasurer,,REP,Under Votes,5,0,5,0
+Hopkins,F040,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F040,Commissioner of Agriculture,,REP,Richard HEATH,28,3,24,1
+Hopkins,F040,Commissioner of Agriculture,,REP,Jonathan SHELL,24,1,23,0
+Hopkins,F040,Commissioner of Agriculture,,REP,Total Votes Cast,52,4,47,1
+Hopkins,F040,Commissioner of Agriculture,,REP,Under Votes,5,0,5,0
+Hopkins,F040,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F040,Governor,,DEM,Andy BESHEAR,19,1,18,0
+Hopkins,F040,Governor,,DEM,Peppy MARTIN,1,0,0,1
+Hopkins,F040,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",5,1,4,0
+Hopkins,F040,Governor,,DEM,Total Votes Cast,25,2,22,1
+Hopkins,F040,Governor,,DEM,Under Votes,2,0,2,0
+Hopkins,F040,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F040,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,1,11,1
+Hopkins,F040,Commissioner of Agriculture,,DEM,Mikael MALONE,11,1,10,0
+Hopkins,F040,Commissioner of Agriculture,,DEM,Total Votes Cast,24,2,21,1
+Hopkins,F040,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Hopkins,F040,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F041,Governor,,REP,Daniel CAMERON,16,2,14,0
+Hopkins,F041,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F041,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F041,Governor,,REP,Kelly CRAFT,6,0,6,0
+Hopkins,F041,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,F041,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F041,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,F041,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,F041,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F041,Governor,,REP,Ryan QUARLES,0,0,0,0
+Hopkins,F041,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F041,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Hopkins,F041,Governor,,REP,Total Votes Cast,23,2,21,0
+Hopkins,F041,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,F041,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F041,Secretary of State,,REP,Michael ADAMS,16,2,14,0
+Hopkins,F041,Secretary of State,,REP,Stephen L. KNIPPER,3,0,3,0
+Hopkins,F041,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,F041,Secretary of State,,REP,Total Votes Cast,21,2,19,0
+Hopkins,F041,Secretary of State,,REP,Under Votes,2,0,2,0
+Hopkins,F041,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F041,Auditor of Public Accounts,,REP,Allison BALL,16,2,14,0
+Hopkins,F041,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Hopkins,F041,Auditor of Public Accounts,,REP,Total Votes Cast,21,2,19,0
+Hopkins,F041,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Hopkins,F041,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F041,State Treasurer,,REP,Andrew COOPERRIDER,7,1,6,0
+Hopkins,F041,State Treasurer,,REP,Mark H. METCALF,14,1,13,0
+Hopkins,F041,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Hopkins,F041,State Treasurer,,REP,Total Votes Cast,21,2,19,0
+Hopkins,F041,State Treasurer,,REP,Under Votes,2,0,2,0
+Hopkins,F041,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F041,Commissioner of Agriculture,,REP,Richard HEATH,11,0,11,0
+Hopkins,F041,Commissioner of Agriculture,,REP,Jonathan SHELL,9,2,7,0
+Hopkins,F041,Commissioner of Agriculture,,REP,Total Votes Cast,20,2,18,0
+Hopkins,F041,Commissioner of Agriculture,,REP,Under Votes,3,0,3,0
+Hopkins,F041,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F041,Governor,,DEM,Andy BESHEAR,7,1,6,0
+Hopkins,F041,Governor,,DEM,Peppy MARTIN,5,1,4,0
+Hopkins,F041,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,2,5,0
+Hopkins,F041,Governor,,DEM,Total Votes Cast,19,4,15,0
+Hopkins,F041,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,F041,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F041,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,4,0
+Hopkins,F041,Commissioner of Agriculture,,DEM,Mikael MALONE,14,3,11,0
+Hopkins,F041,Commissioner of Agriculture,,DEM,Total Votes Cast,18,3,15,0
+Hopkins,F041,Commissioner of Agriculture,,DEM,Under Votes,2,1,1,0
+Hopkins,F041,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F042,Governor,,REP,Daniel CAMERON,31,3,28,0
+Hopkins,F042,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,F042,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F042,Governor,,REP,Kelly CRAFT,10,1,9,0
+Hopkins,F042,Governor,,REP,Eric DETERS,2,0,2,0
+Hopkins,F042,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,F042,Governor,,REP,Mike HARMON,1,0,1,0
+Hopkins,F042,Governor,,REP,Alan KECK,4,0,4,0
+Hopkins,F042,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F042,Governor,,REP,Ryan QUARLES,2,0,2,0
+Hopkins,F042,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F042,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,F042,Governor,,REP,Total Votes Cast,50,4,46,0
+Hopkins,F042,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,F042,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F042,Secretary of State,,REP,Michael ADAMS,32,3,29,0
+Hopkins,F042,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Hopkins,F042,Secretary of State,,REP,Allen MARICLE,6,1,5,0
+Hopkins,F042,Secretary of State,,REP,Total Votes Cast,45,4,41,0
+Hopkins,F042,Secretary of State,,REP,Under Votes,5,0,5,0
+Hopkins,F042,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F042,Auditor of Public Accounts,,REP,Allison BALL,33,3,30,0
+Hopkins,F042,Auditor of Public Accounts,,REP,Derek PETTEYS,14,1,13,0
+Hopkins,F042,Auditor of Public Accounts,,REP,Total Votes Cast,47,4,43,0
+Hopkins,F042,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Hopkins,F042,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F042,State Treasurer,,REP,Andrew COOPERRIDER,17,4,13,0
+Hopkins,F042,State Treasurer,,REP,Mark H. METCALF,22,0,22,0
+Hopkins,F042,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Hopkins,F042,State Treasurer,,REP,Total Votes Cast,44,4,40,0
+Hopkins,F042,State Treasurer,,REP,Under Votes,6,0,6,0
+Hopkins,F042,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F042,Commissioner of Agriculture,,REP,Richard HEATH,25,3,22,0
+Hopkins,F042,Commissioner of Agriculture,,REP,Jonathan SHELL,18,1,17,0
+Hopkins,F042,Commissioner of Agriculture,,REP,Total Votes Cast,43,4,39,0
+Hopkins,F042,Commissioner of Agriculture,,REP,Under Votes,7,0,7,0
+Hopkins,F042,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F042,Governor,,DEM,Andy BESHEAR,32,10,20,2
+Hopkins,F042,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Hopkins,F042,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",3,1,2,0
+Hopkins,F042,Governor,,DEM,Total Votes Cast,39,11,26,2
+Hopkins,F042,Governor,,DEM,Under Votes,1,0,1,0
+Hopkins,F042,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F042,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,6,12,2
+Hopkins,F042,Commissioner of Agriculture,,DEM,Mikael MALONE,16,5,11,0
+Hopkins,F042,Commissioner of Agriculture,,DEM,Total Votes Cast,36,11,23,2
+Hopkins,F042,Commissioner of Agriculture,,DEM,Under Votes,4,0,4,0
+Hopkins,F042,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,F043M,Governor,,REP,Daniel CAMERON,32,1,31,0
+Hopkins,F043M,Governor,,REP,Jacob CLARK,1,0,1,0
+Hopkins,F043M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,F043M,Governor,,REP,Kelly CRAFT,22,8,10,4
+Hopkins,F043M,Governor,,REP,Eric DETERS,2,1,1,0
+Hopkins,F043M,Governor,,REP,Bob DeVORE,1,0,1,0
+Hopkins,F043M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,F043M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,F043M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,F043M,Governor,,REP,Ryan QUARLES,6,0,6,0
+Hopkins,F043M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,F043M,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Hopkins,F043M,Governor,,REP,Total Votes Cast,65,10,51,4
+Hopkins,F043M,Governor,,REP,Under Votes,1,0,1,0
+Hopkins,F043M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,F043M,Secretary of State,,REP,Michael ADAMS,39,4,32,3
+Hopkins,F043M,Secretary of State,,REP,Stephen L. KNIPPER,15,3,12,0
+Hopkins,F043M,Secretary of State,,REP,Allen MARICLE,2,0,1,1
+Hopkins,F043M,Secretary of State,,REP,Total Votes Cast,56,7,45,4
+Hopkins,F043M,Secretary of State,,REP,Under Votes,10,3,7,0
+Hopkins,F043M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,F043M,Auditor of Public Accounts,,REP,Allison BALL,47,7,36,4
+Hopkins,F043M,Auditor of Public Accounts,,REP,Derek PETTEYS,11,0,11,0
+Hopkins,F043M,Auditor of Public Accounts,,REP,Total Votes Cast,58,7,47,4
+Hopkins,F043M,Auditor of Public Accounts,,REP,Under Votes,8,3,5,0
+Hopkins,F043M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,F043M,State Treasurer,,REP,Andrew COOPERRIDER,25,3,20,2
+Hopkins,F043M,State Treasurer,,REP,Mark H. METCALF,23,4,17,2
+Hopkins,F043M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,0,8,0
+Hopkins,F043M,State Treasurer,,REP,Total Votes Cast,56,7,45,4
+Hopkins,F043M,State Treasurer,,REP,Under Votes,10,3,7,0
+Hopkins,F043M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,F043M,Commissioner of Agriculture,,REP,Richard HEATH,20,2,15,3
+Hopkins,F043M,Commissioner of Agriculture,,REP,Jonathan SHELL,27,3,23,1
+Hopkins,F043M,Commissioner of Agriculture,,REP,Total Votes Cast,47,5,38,4
+Hopkins,F043M,Commissioner of Agriculture,,REP,Under Votes,19,5,14,0
+Hopkins,F043M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,F043M,Governor,,DEM,Andy BESHEAR,54,9,41,4
+Hopkins,F043M,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Hopkins,F043M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",4,0,4,0
+Hopkins,F043M,Governor,,DEM,Total Votes Cast,59,9,46,4
+Hopkins,F043M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,F043M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,F043M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,34,5,26,3
+Hopkins,F043M,Commissioner of Agriculture,,DEM,Mikael MALONE,19,3,15,1
+Hopkins,F043M,Commissioner of Agriculture,,DEM,Total Votes Cast,53,8,41,4
+Hopkins,F043M,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Hopkins,F043M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G044M,Governor,,REP,Daniel CAMERON,13,1,12,0
+Hopkins,G044M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G044M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,G044M,Governor,,REP,Kelly CRAFT,4,1,3,0
+Hopkins,G044M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,G044M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,G044M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,G044M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,G044M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G044M,Governor,,REP,Ryan QUARLES,1,1,0,0
+Hopkins,G044M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G044M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G044M,Governor,,REP,Total Votes Cast,19,3,16,0
+Hopkins,G044M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G044M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G044M,Secretary of State,,REP,Michael ADAMS,9,0,9,0
+Hopkins,G044M,Secretary of State,,REP,Stephen L. KNIPPER,7,2,5,0
+Hopkins,G044M,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,G044M,Secretary of State,,REP,Total Votes Cast,18,2,16,0
+Hopkins,G044M,Secretary of State,,REP,Under Votes,1,1,0,0
+Hopkins,G044M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G044M,Auditor of Public Accounts,,REP,Allison BALL,17,2,15,0
+Hopkins,G044M,Auditor of Public Accounts,,REP,Derek PETTEYS,1,0,1,0
+Hopkins,G044M,Auditor of Public Accounts,,REP,Total Votes Cast,18,2,16,0
+Hopkins,G044M,Auditor of Public Accounts,,REP,Under Votes,1,1,0,0
+Hopkins,G044M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G044M,State Treasurer,,REP,Andrew COOPERRIDER,2,0,2,0
+Hopkins,G044M,State Treasurer,,REP,Mark H. METCALF,12,2,10,0
+Hopkins,G044M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Hopkins,G044M,State Treasurer,,REP,Total Votes Cast,18,2,16,0
+Hopkins,G044M,State Treasurer,,REP,Under Votes,1,1,0,0
+Hopkins,G044M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G044M,Commissioner of Agriculture,,REP,Richard HEATH,11,1,10,0
+Hopkins,G044M,Commissioner of Agriculture,,REP,Jonathan SHELL,7,1,6,0
+Hopkins,G044M,Commissioner of Agriculture,,REP,Total Votes Cast,18,2,16,0
+Hopkins,G044M,Commissioner of Agriculture,,REP,Under Votes,1,1,0,0
+Hopkins,G044M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G044M,Governor,,DEM,Andy BESHEAR,14,2,12,0
+Hopkins,G044M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,G044M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Hopkins,G044M,Governor,,DEM,Total Votes Cast,14,2,12,0
+Hopkins,G044M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,G044M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G044M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,10,2,8,0
+Hopkins,G044M,Commissioner of Agriculture,,DEM,Mikael MALONE,4,0,4,0
+Hopkins,G044M,Commissioner of Agriculture,,DEM,Total Votes Cast,14,2,12,0
+Hopkins,G044M,Commissioner of Agriculture,,DEM,Under Votes,0,0,0,0
+Hopkins,G044M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G045M,Governor,,REP,Daniel CAMERON,22,2,20,0
+Hopkins,G045M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G045M,Governor,,REP,David O. COOPER,1,0,1,0
+Hopkins,G045M,Governor,,REP,Kelly CRAFT,5,1,4,0
+Hopkins,G045M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,G045M,Governor,,REP,Bob DeVORE,2,0,2,0
+Hopkins,G045M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,G045M,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,G045M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G045M,Governor,,REP,Ryan QUARLES,1,0,1,0
+Hopkins,G045M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G045M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G045M,Governor,,REP,Total Votes Cast,33,3,30,0
+Hopkins,G045M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G045M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G045M,Secretary of State,,REP,Michael ADAMS,20,2,18,0
+Hopkins,G045M,Secretary of State,,REP,Stephen L. KNIPPER,7,0,7,0
+Hopkins,G045M,Secretary of State,,REP,Allen MARICLE,0,0,0,0
+Hopkins,G045M,Secretary of State,,REP,Total Votes Cast,27,2,25,0
+Hopkins,G045M,Secretary of State,,REP,Under Votes,6,1,5,0
+Hopkins,G045M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G045M,Auditor of Public Accounts,,REP,Allison BALL,26,2,24,0
+Hopkins,G045M,Auditor of Public Accounts,,REP,Derek PETTEYS,3,1,2,0
+Hopkins,G045M,Auditor of Public Accounts,,REP,Total Votes Cast,29,3,26,0
+Hopkins,G045M,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Hopkins,G045M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G045M,State Treasurer,,REP,Andrew COOPERRIDER,4,1,3,0
+Hopkins,G045M,State Treasurer,,REP,Mark H. METCALF,21,2,19,0
+Hopkins,G045M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,0,3,0
+Hopkins,G045M,State Treasurer,,REP,Total Votes Cast,28,3,25,0
+Hopkins,G045M,State Treasurer,,REP,Under Votes,5,0,5,0
+Hopkins,G045M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G045M,Commissioner of Agriculture,,REP,Richard HEATH,14,1,13,0
+Hopkins,G045M,Commissioner of Agriculture,,REP,Jonathan SHELL,15,2,13,0
+Hopkins,G045M,Commissioner of Agriculture,,REP,Total Votes Cast,29,3,26,0
+Hopkins,G045M,Commissioner of Agriculture,,REP,Under Votes,4,0,4,0
+Hopkins,G045M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G045M,Governor,,DEM,Andy BESHEAR,19,7,12,0
+Hopkins,G045M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,G045M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,G045M,Governor,,DEM,Total Votes Cast,20,7,13,0
+Hopkins,G045M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,G045M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G045M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,8,1,7,0
+Hopkins,G045M,Commissioner of Agriculture,,DEM,Mikael MALONE,10,4,6,0
+Hopkins,G045M,Commissioner of Agriculture,,DEM,Total Votes Cast,18,5,13,0
+Hopkins,G045M,Commissioner of Agriculture,,DEM,Under Votes,2,2,0,0
+Hopkins,G045M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G046M,Governor,,REP,Daniel CAMERON,7,1,5,1
+Hopkins,G046M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G046M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,G046M,Governor,,REP,Kelly CRAFT,9,4,5,0
+Hopkins,G046M,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,G046M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,G046M,Governor,,REP,Mike HARMON,2,0,2,0
+Hopkins,G046M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,G046M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G046M,Governor,,REP,Ryan QUARLES,2,1,1,0
+Hopkins,G046M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G046M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G046M,Governor,,REP,Total Votes Cast,20,6,13,1
+Hopkins,G046M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G046M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G046M,Secretary of State,,REP,Michael ADAMS,15,5,9,1
+Hopkins,G046M,Secretary of State,,REP,Stephen L. KNIPPER,0,0,0,0
+Hopkins,G046M,Secretary of State,,REP,Allen MARICLE,2,0,2,0
+Hopkins,G046M,Secretary of State,,REP,Total Votes Cast,17,5,11,1
+Hopkins,G046M,Secretary of State,,REP,Under Votes,3,1,2,0
+Hopkins,G046M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G046M,Auditor of Public Accounts,,REP,Allison BALL,17,5,11,1
+Hopkins,G046M,Auditor of Public Accounts,,REP,Derek PETTEYS,1,1,0,0
+Hopkins,G046M,Auditor of Public Accounts,,REP,Total Votes Cast,18,6,11,1
+Hopkins,G046M,Auditor of Public Accounts,,REP,Under Votes,2,0,2,0
+Hopkins,G046M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G046M,State Treasurer,,REP,Andrew COOPERRIDER,5,1,4,0
+Hopkins,G046M,State Treasurer,,REP,Mark H. METCALF,12,4,7,1
+Hopkins,G046M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",0,0,0,0
+Hopkins,G046M,State Treasurer,,REP,Total Votes Cast,17,5,11,1
+Hopkins,G046M,State Treasurer,,REP,Under Votes,3,1,2,0
+Hopkins,G046M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G046M,Commissioner of Agriculture,,REP,Richard HEATH,12,5,6,1
+Hopkins,G046M,Commissioner of Agriculture,,REP,Jonathan SHELL,5,0,5,0
+Hopkins,G046M,Commissioner of Agriculture,,REP,Total Votes Cast,17,5,11,1
+Hopkins,G046M,Commissioner of Agriculture,,REP,Under Votes,3,1,2,0
+Hopkins,G046M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G046M,Governor,,DEM,Andy BESHEAR,23,11,11,1
+Hopkins,G046M,Governor,,DEM,Peppy MARTIN,3,0,3,0
+Hopkins,G046M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Hopkins,G046M,Governor,,DEM,Total Votes Cast,26,11,14,1
+Hopkins,G046M,Governor,,DEM,Under Votes,1,1,0,0
+Hopkins,G046M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G046M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,3,11,0
+Hopkins,G046M,Commissioner of Agriculture,,DEM,Mikael MALONE,11,9,1,1
+Hopkins,G046M,Commissioner of Agriculture,,DEM,Total Votes Cast,25,12,12,1
+Hopkins,G046M,Commissioner of Agriculture,,DEM,Under Votes,2,0,2,0
+Hopkins,G046M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G047M,Governor,,REP,Daniel CAMERON,20,2,18,0
+Hopkins,G047M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G047M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,G047M,Governor,,REP,Kelly CRAFT,7,1,5,1
+Hopkins,G047M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,G047M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,G047M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,G047M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,G047M,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Hopkins,G047M,Governor,,REP,Ryan QUARLES,3,0,3,0
+Hopkins,G047M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G047M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G047M,Governor,,REP,Total Votes Cast,32,4,27,1
+Hopkins,G047M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G047M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G047M,Secretary of State,,REP,Michael ADAMS,23,2,21,0
+Hopkins,G047M,Secretary of State,,REP,Stephen L. KNIPPER,4,1,3,0
+Hopkins,G047M,Secretary of State,,REP,Allen MARICLE,3,1,2,0
+Hopkins,G047M,Secretary of State,,REP,Total Votes Cast,30,4,26,0
+Hopkins,G047M,Secretary of State,,REP,Under Votes,2,0,1,1
+Hopkins,G047M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G047M,Auditor of Public Accounts,,REP,Allison BALL,14,2,12,0
+Hopkins,G047M,Auditor of Public Accounts,,REP,Derek PETTEYS,14,1,13,0
+Hopkins,G047M,Auditor of Public Accounts,,REP,Total Votes Cast,28,3,25,0
+Hopkins,G047M,Auditor of Public Accounts,,REP,Under Votes,4,1,2,1
+Hopkins,G047M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G047M,State Treasurer,,REP,Andrew COOPERRIDER,8,0,8,0
+Hopkins,G047M,State Treasurer,,REP,Mark H. METCALF,16,1,15,0
+Hopkins,G047M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,3,1,0
+Hopkins,G047M,State Treasurer,,REP,Total Votes Cast,28,4,24,0
+Hopkins,G047M,State Treasurer,,REP,Under Votes,4,0,3,1
+Hopkins,G047M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G047M,Commissioner of Agriculture,,REP,Richard HEATH,13,0,13,0
+Hopkins,G047M,Commissioner of Agriculture,,REP,Jonathan SHELL,17,4,13,0
+Hopkins,G047M,Commissioner of Agriculture,,REP,Total Votes Cast,30,4,26,0
+Hopkins,G047M,Commissioner of Agriculture,,REP,Under Votes,2,0,1,1
+Hopkins,G047M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G047M,Governor,,DEM,Andy BESHEAR,25,9,15,1
+Hopkins,G047M,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Hopkins,G047M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,G047M,Governor,,DEM,Total Votes Cast,28,9,18,1
+Hopkins,G047M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,G047M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G047M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,20,6,14,0
+Hopkins,G047M,Commissioner of Agriculture,,DEM,Mikael MALONE,5,1,3,1
+Hopkins,G047M,Commissioner of Agriculture,,DEM,Total Votes Cast,25,7,17,1
+Hopkins,G047M,Commissioner of Agriculture,,DEM,Under Votes,3,2,1,0
+Hopkins,G047M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G048M,Governor,,REP,Daniel CAMERON,21,2,19,0
+Hopkins,G048M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G048M,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,G048M,Governor,,REP,Kelly CRAFT,8,4,4,0
+Hopkins,G048M,Governor,,REP,Eric DETERS,1,0,1,0
+Hopkins,G048M,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,G048M,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,G048M,Governor,,REP,Alan KECK,0,0,0,0
+Hopkins,G048M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G048M,Governor,,REP,Ryan QUARLES,6,0,6,0
+Hopkins,G048M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G048M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G048M,Governor,,REP,Total Votes Cast,36,6,30,0
+Hopkins,G048M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G048M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G048M,Secretary of State,,REP,Michael ADAMS,23,5,18,0
+Hopkins,G048M,Secretary of State,,REP,Stephen L. KNIPPER,6,1,5,0
+Hopkins,G048M,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Hopkins,G048M,Secretary of State,,REP,Total Votes Cast,32,6,26,0
+Hopkins,G048M,Secretary of State,,REP,Under Votes,4,0,4,0
+Hopkins,G048M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G048M,Auditor of Public Accounts,,REP,Allison BALL,28,6,22,0
+Hopkins,G048M,Auditor of Public Accounts,,REP,Derek PETTEYS,5,0,5,0
+Hopkins,G048M,Auditor of Public Accounts,,REP,Total Votes Cast,33,6,27,0
+Hopkins,G048M,Auditor of Public Accounts,,REP,Under Votes,3,0,3,0
+Hopkins,G048M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G048M,State Treasurer,,REP,Andrew COOPERRIDER,9,1,8,0
+Hopkins,G048M,State Treasurer,,REP,Mark H. METCALF,19,3,16,0
+Hopkins,G048M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Hopkins,G048M,State Treasurer,,REP,Total Votes Cast,32,5,27,0
+Hopkins,G048M,State Treasurer,,REP,Under Votes,4,1,3,0
+Hopkins,G048M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G048M,Commissioner of Agriculture,,REP,Richard HEATH,14,0,14,0
+Hopkins,G048M,Commissioner of Agriculture,,REP,Jonathan SHELL,19,5,14,0
+Hopkins,G048M,Commissioner of Agriculture,,REP,Total Votes Cast,33,5,28,0
+Hopkins,G048M,Commissioner of Agriculture,,REP,Under Votes,3,1,2,0
+Hopkins,G048M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G048M,Governor,,DEM,Andy BESHEAR,36,11,25,0
+Hopkins,G048M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,G048M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Hopkins,G048M,Governor,,DEM,Total Votes Cast,37,11,26,0
+Hopkins,G048M,Governor,,DEM,Under Votes,2,0,1,1
+Hopkins,G048M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G048M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,23,7,16,0
+Hopkins,G048M,Commissioner of Agriculture,,DEM,Mikael MALONE,9,3,5,1
+Hopkins,G048M,Commissioner of Agriculture,,DEM,Total Votes Cast,32,10,21,1
+Hopkins,G048M,Commissioner of Agriculture,,DEM,Under Votes,7,1,6,0
+Hopkins,G048M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G049M,Governor,,REP,Daniel CAMERON,29,0,29,0
+Hopkins,G049M,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G049M,Governor,,REP,David O. COOPER,2,0,2,0
+Hopkins,G049M,Governor,,REP,Kelly CRAFT,11,1,9,1
+Hopkins,G049M,Governor,,REP,Eric DETERS,5,2,3,0
+Hopkins,G049M,Governor,,REP,Bob DeVORE,2,0,2,0
+Hopkins,G049M,Governor,,REP,Mike HARMON,4,1,3,0
+Hopkins,G049M,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,G049M,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G049M,Governor,,REP,Ryan QUARLES,3,0,3,0
+Hopkins,G049M,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G049M,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G049M,Governor,,REP,Total Votes Cast,57,4,52,1
+Hopkins,G049M,Governor,,REP,Under Votes,0,0,0,0
+Hopkins,G049M,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G049M,Secretary of State,,REP,Michael ADAMS,24,1,22,1
+Hopkins,G049M,Secretary of State,,REP,Stephen L. KNIPPER,14,1,13,0
+Hopkins,G049M,Secretary of State,,REP,Allen MARICLE,5,0,5,0
+Hopkins,G049M,Secretary of State,,REP,Total Votes Cast,43,2,40,1
+Hopkins,G049M,Secretary of State,,REP,Under Votes,14,2,12,0
+Hopkins,G049M,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G049M,Auditor of Public Accounts,,REP,Allison BALL,25,1,23,1
+Hopkins,G049M,Auditor of Public Accounts,,REP,Derek PETTEYS,17,1,16,0
+Hopkins,G049M,Auditor of Public Accounts,,REP,Total Votes Cast,42,2,39,1
+Hopkins,G049M,Auditor of Public Accounts,,REP,Under Votes,15,2,13,0
+Hopkins,G049M,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G049M,State Treasurer,,REP,Andrew COOPERRIDER,16,2,14,0
+Hopkins,G049M,State Treasurer,,REP,Mark H. METCALF,20,0,19,1
+Hopkins,G049M,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,1,9,0
+Hopkins,G049M,State Treasurer,,REP,Total Votes Cast,46,3,42,1
+Hopkins,G049M,State Treasurer,,REP,Under Votes,11,1,10,0
+Hopkins,G049M,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G049M,Commissioner of Agriculture,,REP,Richard HEATH,19,1,17,1
+Hopkins,G049M,Commissioner of Agriculture,,REP,Jonathan SHELL,25,1,24,0
+Hopkins,G049M,Commissioner of Agriculture,,REP,Total Votes Cast,44,2,41,1
+Hopkins,G049M,Commissioner of Agriculture,,REP,Under Votes,13,2,11,0
+Hopkins,G049M,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G049M,Governor,,DEM,Andy BESHEAR,33,2,28,3
+Hopkins,G049M,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,G049M,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,G049M,Governor,,DEM,Total Votes Cast,35,2,30,3
+Hopkins,G049M,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,G049M,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G049M,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,14,1,10,3
+Hopkins,G049M,Commissioner of Agriculture,,DEM,Mikael MALONE,18,1,17,0
+Hopkins,G049M,Commissioner of Agriculture,,DEM,Total Votes Cast,32,2,27,3
+Hopkins,G049M,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Hopkins,G049M,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Hopkins,G050,Governor,,REP,Daniel CAMERON,9,3,6,0
+Hopkins,G050,Governor,,REP,Jacob CLARK,0,0,0,0
+Hopkins,G050,Governor,,REP,David O. COOPER,0,0,0,0
+Hopkins,G050,Governor,,REP,Kelly CRAFT,4,0,4,0
+Hopkins,G050,Governor,,REP,Eric DETERS,0,0,0,0
+Hopkins,G050,Governor,,REP,Bob DeVORE,0,0,0,0
+Hopkins,G050,Governor,,REP,Mike HARMON,0,0,0,0
+Hopkins,G050,Governor,,REP,Alan KECK,1,0,1,0
+Hopkins,G050,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Hopkins,G050,Governor,,REP,Ryan QUARLES,1,0,1,0
+Hopkins,G050,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Hopkins,G050,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Hopkins,G050,Governor,,REP,Total Votes Cast,15,3,12,0
+Hopkins,G050,Governor,,REP,Under Votes,3,0,3,0
+Hopkins,G050,Governor,,REP,Over Votes,0,0,0,0
+Hopkins,G050,Secretary of State,,REP,Michael ADAMS,13,2,11,0
+Hopkins,G050,Secretary of State,,REP,Stephen L. KNIPPER,2,1,1,0
+Hopkins,G050,Secretary of State,,REP,Allen MARICLE,1,0,1,0
+Hopkins,G050,Secretary of State,,REP,Total Votes Cast,16,3,13,0
+Hopkins,G050,Secretary of State,,REP,Under Votes,2,0,2,0
+Hopkins,G050,Secretary of State,,REP,Over Votes,0,0,0,0
+Hopkins,G050,Auditor of Public Accounts,,REP,Allison BALL,11,2,9,0
+Hopkins,G050,Auditor of Public Accounts,,REP,Derek PETTEYS,3,1,2,0
+Hopkins,G050,Auditor of Public Accounts,,REP,Total Votes Cast,14,3,11,0
+Hopkins,G050,Auditor of Public Accounts,,REP,Under Votes,4,0,4,0
+Hopkins,G050,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Hopkins,G050,State Treasurer,,REP,Andrew COOPERRIDER,3,1,2,0
+Hopkins,G050,State Treasurer,,REP,Mark H. METCALF,11,1,10,0
+Hopkins,G050,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,1,1,0
+Hopkins,G050,State Treasurer,,REP,Total Votes Cast,16,3,13,0
+Hopkins,G050,State Treasurer,,REP,Under Votes,2,0,2,0
+Hopkins,G050,State Treasurer,,REP,Over Votes,0,0,0,0
+Hopkins,G050,Commissioner of Agriculture,,REP,Richard HEATH,6,1,5,0
+Hopkins,G050,Commissioner of Agriculture,,REP,Jonathan SHELL,5,1,4,0
+Hopkins,G050,Commissioner of Agriculture,,REP,Total Votes Cast,11,2,9,0
+Hopkins,G050,Commissioner of Agriculture,,REP,Under Votes,7,1,6,0
+Hopkins,G050,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Hopkins,G050,Governor,,DEM,Andy BESHEAR,13,0,13,0
+Hopkins,G050,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Hopkins,G050,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Hopkins,G050,Governor,,DEM,Total Votes Cast,15,0,15,0
+Hopkins,G050,Governor,,DEM,Under Votes,0,0,0,0
+Hopkins,G050,Governor,,DEM,Over Votes,0,0,0,0
+Hopkins,G050,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,0,6,0
+Hopkins,G050,Commissioner of Agriculture,,DEM,Mikael MALONE,6,0,6,0
+Hopkins,G050,Commissioner of Agriculture,,DEM,Total Votes Cast,12,0,12,0
+Hopkins,G050,Commissioner of Agriculture,,DEM,Under Votes,3,0,3,0
+Hopkins,G050,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0

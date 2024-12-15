@@ -1,0 +1,625 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Allen,A101,Governor,,REP,Daniel CAMERON,95,9,84,2
+Allen,A101,Governor,,REP,Jacob CLARK,8,0,7,1
+Allen,A101,Governor,,REP,David O. COOPER,11,1,9,1
+Allen,A101,Governor,,REP,Kelly CRAFT,66,11,51,4
+Allen,A101,Governor,,REP,Eric DETERS,21,3,18,0
+Allen,A101,Governor,,REP,Bob DeVORE,3,0,3,0
+Allen,A101,Governor,,REP,Mike HARMON,7,1,6,0
+Allen,A101,Governor,,REP,Alan KECK,3,0,3,0
+Allen,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Allen,A101,Governor,,REP,Ryan QUARLES,47,9,35,3
+Allen,A101,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Allen,A101,Governor,,REP,Robbie C. SMITH,5,0,5,0
+Allen,A101,Governor,,REP,Total Votes Cast,268,34,223,11
+Allen,A101,Governor,,REP,Under Votes,18,3,14,1
+Allen,A101,Governor,,REP,Over Votes,0,0,0,0
+Allen,A101,Secretary of State,,REP,Michael ADAMS,147,19,123,5
+Allen,A101,Secretary of State,,REP,Stephen L. KNIPPER,52,5,43,4
+Allen,A101,Secretary of State,,REP,Allen MARICLE,28,4,23,1
+Allen,A101,Secretary of State,,REP,Total Votes Cast,227,28,189,10
+Allen,A101,Secretary of State,,REP,Under Votes,59,9,48,2
+Allen,A101,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,A101,Auditor of Public Accounts,,REP,Allison BALL,164,24,133,7
+Allen,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,59,4,52,3
+Allen,A101,Auditor of Public Accounts,,REP,Total Votes Cast,223,28,185,10
+Allen,A101,Auditor of Public Accounts,,REP,Under Votes,63,9,52,2
+Allen,A101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,A101,State Treasurer,,REP,Andrew COOPERRIDER,69,8,59,2
+Allen,A101,State Treasurer,,REP,Mark H. METCALF,124,12,104,8
+Allen,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",32,7,25,0
+Allen,A101,State Treasurer,,REP,Total Votes Cast,225,27,188,10
+Allen,A101,State Treasurer,,REP,Under Votes,61,10,49,2
+Allen,A101,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,A101,Commissioner of Agriculture,,REP,Richard HEATH,131,13,113,5
+Allen,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,94,16,74,4
+Allen,A101,Commissioner of Agriculture,,REP,Total Votes Cast,225,29,187,9
+Allen,A101,Commissioner of Agriculture,,REP,Under Votes,61,8,50,3
+Allen,A101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,A101,Governor,,DEM,Andy BESHEAR,52,7,43,2
+Allen,A101,Governor,,DEM,Peppy MARTIN,4,2,2,0
+Allen,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",16,2,14,0
+Allen,A101,Governor,,DEM,Total Votes Cast,72,11,59,2
+Allen,A101,Governor,,DEM,Under Votes,5,3,2,0
+Allen,A101,Governor,,DEM,Over Votes,0,0,0,0
+Allen,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,35,3,31,1
+Allen,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,28,6,22,0
+Allen,A101,Commissioner of Agriculture,,DEM,Total Votes Cast,63,9,53,1
+Allen,A101,Commissioner of Agriculture,,DEM,Under Votes,14,5,8,1
+Allen,A101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,A102,Governor,,REP,Daniel CAMERON,148,35,107,6
+Allen,A102,Governor,,REP,Jacob CLARK,3,0,3,0
+Allen,A102,Governor,,REP,David O. COOPER,7,1,6,0
+Allen,A102,Governor,,REP,Kelly CRAFT,67,12,55,0
+Allen,A102,Governor,,REP,Eric DETERS,21,0,20,1
+Allen,A102,Governor,,REP,Bob DeVORE,2,1,1,0
+Allen,A102,Governor,,REP,Mike HARMON,8,0,8,0
+Allen,A102,Governor,,REP,Alan KECK,2,0,2,0
+Allen,A102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Allen,A102,Governor,,REP,Ryan QUARLES,78,16,59,3
+Allen,A102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Allen,A102,Governor,,REP,Robbie C. SMITH,8,0,7,1
+Allen,A102,Governor,,REP,Total Votes Cast,344,65,268,11
+Allen,A102,Governor,,REP,Under Votes,8,1,7,0
+Allen,A102,Governor,,REP,Over Votes,0,0,0,0
+Allen,A102,Secretary of State,,REP,Michael ADAMS,191,32,154,5
+Allen,A102,Secretary of State,,REP,Stephen L. KNIPPER,79,25,51,3
+Allen,A102,Secretary of State,,REP,Allen MARICLE,30,1,27,2
+Allen,A102,Secretary of State,,REP,Total Votes Cast,300,58,232,10
+Allen,A102,Secretary of State,,REP,Under Votes,52,8,43,1
+Allen,A102,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,A102,Auditor of Public Accounts,,REP,Allison BALL,240,48,183,9
+Allen,A102,Auditor of Public Accounts,,REP,Derek PETTEYS,63,11,51,1
+Allen,A102,Auditor of Public Accounts,,REP,Total Votes Cast,303,59,234,10
+Allen,A102,Auditor of Public Accounts,,REP,Under Votes,49,7,41,1
+Allen,A102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,A102,State Treasurer,,REP,Andrew COOPERRIDER,114,14,94,6
+Allen,A102,State Treasurer,,REP,Mark H. METCALF,130,18,109,3
+Allen,A102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",51,22,28,1
+Allen,A102,State Treasurer,,REP,Total Votes Cast,295,54,231,10
+Allen,A102,State Treasurer,,REP,Under Votes,57,12,44,1
+Allen,A102,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,A102,Commissioner of Agriculture,,REP,Richard HEATH,177,27,141,9
+Allen,A102,Commissioner of Agriculture,,REP,Jonathan SHELL,131,34,96,1
+Allen,A102,Commissioner of Agriculture,,REP,Total Votes Cast,308,61,237,10
+Allen,A102,Commissioner of Agriculture,,REP,Under Votes,44,5,38,1
+Allen,A102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,A102,Governor,,DEM,Andy BESHEAR,55,7,42,6
+Allen,A102,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Allen,A102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",7,0,7,0
+Allen,A102,Governor,,DEM,Total Votes Cast,66,7,53,6
+Allen,A102,Governor,,DEM,Under Votes,7,0,7,0
+Allen,A102,Governor,,DEM,Over Votes,0,0,0,0
+Allen,A102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,32,4,25,3
+Allen,A102,Commissioner of Agriculture,,DEM,Mikael MALONE,26,3,20,3
+Allen,A102,Commissioner of Agriculture,,DEM,Total Votes Cast,58,7,45,6
+Allen,A102,Commissioner of Agriculture,,DEM,Under Votes,15,0,15,0
+Allen,A102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,B101,Governor,,REP,Daniel CAMERON,125,22,100,3
+Allen,B101,Governor,,REP,Jacob CLARK,7,0,7,0
+Allen,B101,Governor,,REP,David O. COOPER,7,1,6,0
+Allen,B101,Governor,,REP,Kelly CRAFT,51,4,46,1
+Allen,B101,Governor,,REP,Eric DETERS,9,2,7,0
+Allen,B101,Governor,,REP,Bob DeVORE,3,0,3,0
+Allen,B101,Governor,,REP,Mike HARMON,12,0,11,1
+Allen,B101,Governor,,REP,Alan KECK,5,1,4,0
+Allen,B101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,B101,Governor,,REP,Ryan QUARLES,89,16,72,1
+Allen,B101,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Allen,B101,Governor,,REP,Robbie C. SMITH,5,0,5,0
+Allen,B101,Governor,,REP,Total Votes Cast,316,46,264,6
+Allen,B101,Governor,,REP,Under Votes,23,1,20,2
+Allen,B101,Governor,,REP,Over Votes,0,0,0,0
+Allen,B101,Secretary of State,,REP,Michael ADAMS,197,23,170,4
+Allen,B101,Secretary of State,,REP,Stephen L. KNIPPER,62,12,50,0
+Allen,B101,Secretary of State,,REP,Allen MARICLE,22,4,17,1
+Allen,B101,Secretary of State,,REP,Total Votes Cast,281,39,237,5
+Allen,B101,Secretary of State,,REP,Under Votes,58,8,47,3
+Allen,B101,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,B101,Auditor of Public Accounts,,REP,Allison BALL,221,31,187,3
+Allen,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,64,10,52,2
+Allen,B101,Auditor of Public Accounts,,REP,Total Votes Cast,285,41,239,5
+Allen,B101,Auditor of Public Accounts,,REP,Under Votes,54,6,45,3
+Allen,B101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,B101,State Treasurer,,REP,Andrew COOPERRIDER,105,10,92,3
+Allen,B101,State Treasurer,,REP,Mark H. METCALF,142,22,119,1
+Allen,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",31,7,23,1
+Allen,B101,State Treasurer,,REP,Total Votes Cast,278,39,234,5
+Allen,B101,State Treasurer,,REP,Under Votes,61,8,50,3
+Allen,B101,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,B101,Commissioner of Agriculture,,REP,Richard HEATH,166,20,142,4
+Allen,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,105,19,84,2
+Allen,B101,Commissioner of Agriculture,,REP,Total Votes Cast,271,39,226,6
+Allen,B101,Commissioner of Agriculture,,REP,Under Votes,67,8,57,2
+Allen,B101,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Allen,B101,Governor,,DEM,Andy BESHEAR,59,5,54,0
+Allen,B101,Governor,,DEM,Peppy MARTIN,8,2,6,0
+Allen,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Allen,B101,Governor,,DEM,Total Votes Cast,76,7,69,0
+Allen,B101,Governor,,DEM,Under Votes,3,1,2,0
+Allen,B101,Governor,,DEM,Over Votes,0,0,0,0
+Allen,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,38,4,34,0
+Allen,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,35,3,32,0
+Allen,B101,Commissioner of Agriculture,,DEM,Total Votes Cast,73,7,66,0
+Allen,B101,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Allen,B101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,B102,Governor,,REP,Daniel CAMERON,116,23,89,4
+Allen,B102,Governor,,REP,Jacob CLARK,4,0,4,0
+Allen,B102,Governor,,REP,David O. COOPER,7,0,7,0
+Allen,B102,Governor,,REP,Kelly CRAFT,61,13,47,1
+Allen,B102,Governor,,REP,Eric DETERS,10,1,9,0
+Allen,B102,Governor,,REP,Bob DeVORE,3,1,2,0
+Allen,B102,Governor,,REP,Mike HARMON,10,1,7,2
+Allen,B102,Governor,,REP,Alan KECK,4,1,3,0
+Allen,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Allen,B102,Governor,,REP,Ryan QUARLES,56,8,42,6
+Allen,B102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Allen,B102,Governor,,REP,Robbie C. SMITH,3,1,2,0
+Allen,B102,Governor,,REP,Total Votes Cast,275,49,213,13
+Allen,B102,Governor,,REP,Under Votes,12,2,7,3
+Allen,B102,Governor,,REP,Over Votes,0,0,0,0
+Allen,B102,Secretary of State,,REP,Michael ADAMS,162,33,123,6
+Allen,B102,Secretary of State,,REP,Stephen L. KNIPPER,63,12,50,1
+Allen,B102,Secretary of State,,REP,Allen MARICLE,16,1,15,0
+Allen,B102,Secretary of State,,REP,Total Votes Cast,241,46,188,7
+Allen,B102,Secretary of State,,REP,Under Votes,46,5,32,9
+Allen,B102,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,B102,Auditor of Public Accounts,,REP,Allison BALL,172,34,132,6
+Allen,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,61,8,52,1
+Allen,B102,Auditor of Public Accounts,,REP,Total Votes Cast,233,42,184,7
+Allen,B102,Auditor of Public Accounts,,REP,Under Votes,54,9,36,9
+Allen,B102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,B102,State Treasurer,,REP,Andrew COOPERRIDER,85,12,69,4
+Allen,B102,State Treasurer,,REP,Mark H. METCALF,108,22,84,2
+Allen,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",35,8,27,0
+Allen,B102,State Treasurer,,REP,Total Votes Cast,228,42,180,6
+Allen,B102,State Treasurer,,REP,Under Votes,58,9,39,10
+Allen,B102,State Treasurer,,REP,Over Votes,1,0,1,0
+Allen,B102,Commissioner of Agriculture,,REP,Richard HEATH,128,24,98,6
+Allen,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,92,16,75,1
+Allen,B102,Commissioner of Agriculture,,REP,Total Votes Cast,220,40,173,7
+Allen,B102,Commissioner of Agriculture,,REP,Under Votes,67,11,47,9
+Allen,B102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,B102,Governor,,DEM,Andy BESHEAR,37,9,26,2
+Allen,B102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Allen,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",6,1,5,0
+Allen,B102,Governor,,DEM,Total Votes Cast,44,10,32,2
+Allen,B102,Governor,,DEM,Under Votes,3,1,2,0
+Allen,B102,Governor,,DEM,Over Votes,0,0,0,0
+Allen,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,19,4,15,0
+Allen,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,18,5,11,2
+Allen,B102,Commissioner of Agriculture,,DEM,Total Votes Cast,37,9,26,2
+Allen,B102,Commissioner of Agriculture,,DEM,Under Votes,9,1,8,0
+Allen,B102,Commissioner of Agriculture,,DEM,Over Votes,1,1,0,0
+Allen,B103,Governor,,REP,Daniel CAMERON,42,3,39,0
+Allen,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Allen,B103,Governor,,REP,David O. COOPER,6,1,3,2
+Allen,B103,Governor,,REP,Kelly CRAFT,23,2,21,0
+Allen,B103,Governor,,REP,Eric DETERS,4,0,3,1
+Allen,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Allen,B103,Governor,,REP,Mike HARMON,2,1,1,0
+Allen,B103,Governor,,REP,Alan KECK,0,0,0,0
+Allen,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Allen,B103,Governor,,REP,Ryan QUARLES,47,3,43,1
+Allen,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Allen,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Allen,B103,Governor,,REP,Total Votes Cast,124,10,110,4
+Allen,B103,Governor,,REP,Under Votes,10,2,8,0
+Allen,B103,Governor,,REP,Over Votes,0,0,0,0
+Allen,B103,Secretary of State,,REP,Michael ADAMS,75,7,64,4
+Allen,B103,Secretary of State,,REP,Stephen L. KNIPPER,17,2,15,0
+Allen,B103,Secretary of State,,REP,Allen MARICLE,9,0,9,0
+Allen,B103,Secretary of State,,REP,Total Votes Cast,101,9,88,4
+Allen,B103,Secretary of State,,REP,Under Votes,33,3,30,0
+Allen,B103,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,B103,Auditor of Public Accounts,,REP,Allison BALL,84,8,74,2
+Allen,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,21,1,18,2
+Allen,B103,Auditor of Public Accounts,,REP,Total Votes Cast,105,9,92,4
+Allen,B103,Auditor of Public Accounts,,REP,Under Votes,29,3,26,0
+Allen,B103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,B103,State Treasurer,,REP,Andrew COOPERRIDER,33,4,27,2
+Allen,B103,State Treasurer,,REP,Mark H. METCALF,52,3,47,2
+Allen,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,2,17,0
+Allen,B103,State Treasurer,,REP,Total Votes Cast,104,9,91,4
+Allen,B103,State Treasurer,,REP,Under Votes,30,3,27,0
+Allen,B103,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,B103,Commissioner of Agriculture,,REP,Richard HEATH,44,6,37,1
+Allen,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,65,2,60,3
+Allen,B103,Commissioner of Agriculture,,REP,Total Votes Cast,109,8,97,4
+Allen,B103,Commissioner of Agriculture,,REP,Under Votes,25,4,21,0
+Allen,B103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,B103,Governor,,DEM,Andy BESHEAR,34,3,30,1
+Allen,B103,Governor,,DEM,Peppy MARTIN,2,1,1,0
+Allen,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",8,0,8,0
+Allen,B103,Governor,,DEM,Total Votes Cast,44,4,39,1
+Allen,B103,Governor,,DEM,Under Votes,7,0,7,0
+Allen,B103,Governor,,DEM,Over Votes,0,0,0,0
+Allen,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,17,2,15,0
+Allen,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,22,2,19,1
+Allen,B103,Commissioner of Agriculture,,DEM,Total Votes Cast,39,4,34,1
+Allen,B103,Commissioner of Agriculture,,DEM,Under Votes,12,0,12,0
+Allen,B103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,C101,Governor,,REP,Daniel CAMERON,169,25,134,10
+Allen,C101,Governor,,REP,Jacob CLARK,5,1,2,2
+Allen,C101,Governor,,REP,David O. COOPER,4,2,2,0
+Allen,C101,Governor,,REP,Kelly CRAFT,91,15,70,6
+Allen,C101,Governor,,REP,Eric DETERS,6,2,4,0
+Allen,C101,Governor,,REP,Bob DeVORE,5,0,5,0
+Allen,C101,Governor,,REP,Mike HARMON,19,2,16,1
+Allen,C101,Governor,,REP,Alan KECK,4,2,2,0
+Allen,C101,Governor,,REP,Dennis Ray ORMEROD,2,0,2,0
+Allen,C101,Governor,,REP,Ryan QUARLES,88,24,58,6
+Allen,C101,Governor,,REP,Johnny Ray RICE,4,0,4,0
+Allen,C101,Governor,,REP,Robbie C. SMITH,10,1,6,3
+Allen,C101,Governor,,REP,Total Votes Cast,407,74,305,28
+Allen,C101,Governor,,REP,Under Votes,21,1,17,3
+Allen,C101,Governor,,REP,Over Votes,1,0,1,0
+Allen,C101,Secretary of State,,REP,Michael ADAMS,229,40,172,17
+Allen,C101,Secretary of State,,REP,Stephen L. KNIPPER,77,17,57,3
+Allen,C101,Secretary of State,,REP,Allen MARICLE,39,7,29,3
+Allen,C101,Secretary of State,,REP,Total Votes Cast,345,64,258,23
+Allen,C101,Secretary of State,,REP,Under Votes,84,11,65,8
+Allen,C101,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,C101,Auditor of Public Accounts,,REP,Allison BALL,263,56,190,17
+Allen,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,80,11,64,5
+Allen,C101,Auditor of Public Accounts,,REP,Total Votes Cast,343,67,254,22
+Allen,C101,Auditor of Public Accounts,,REP,Under Votes,83,8,67,8
+Allen,C101,Auditor of Public Accounts,,REP,Over Votes,3,0,2,1
+Allen,C101,State Treasurer,,REP,Andrew COOPERRIDER,108,21,83,4
+Allen,C101,State Treasurer,,REP,Mark H. METCALF,188,33,138,17
+Allen,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",38,10,26,2
+Allen,C101,State Treasurer,,REP,Total Votes Cast,334,64,247,23
+Allen,C101,State Treasurer,,REP,Under Votes,95,11,76,8
+Allen,C101,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,C101,Commissioner of Agriculture,,REP,Richard HEATH,176,32,133,11
+Allen,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,153,30,114,9
+Allen,C101,Commissioner of Agriculture,,REP,Total Votes Cast,329,62,247,20
+Allen,C101,Commissioner of Agriculture,,REP,Under Votes,100,13,76,11
+Allen,C101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,C101,Governor,,DEM,Andy BESHEAR,131,18,100,13
+Allen,C101,Governor,,DEM,Peppy MARTIN,6,0,6,0
+Allen,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",8,1,7,0
+Allen,C101,Governor,,DEM,Total Votes Cast,145,19,113,13
+Allen,C101,Governor,,DEM,Under Votes,7,1,6,0
+Allen,C101,Governor,,DEM,Over Votes,0,0,0,0
+Allen,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,60,11,45,4
+Allen,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,55,7,45,3
+Allen,C101,Commissioner of Agriculture,,DEM,Total Votes Cast,115,18,90,7
+Allen,C101,Commissioner of Agriculture,,DEM,Under Votes,37,2,29,6
+Allen,C101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,C102,Governor,,REP,Daniel CAMERON,197,34,157,6
+Allen,C102,Governor,,REP,Jacob CLARK,6,1,5,0
+Allen,C102,Governor,,REP,David O. COOPER,8,0,8,0
+Allen,C102,Governor,,REP,Kelly CRAFT,116,14,98,4
+Allen,C102,Governor,,REP,Eric DETERS,18,1,16,1
+Allen,C102,Governor,,REP,Bob DeVORE,1,0,1,0
+Allen,C102,Governor,,REP,Mike HARMON,14,3,11,0
+Allen,C102,Governor,,REP,Alan KECK,9,0,9,0
+Allen,C102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,C102,Governor,,REP,Ryan QUARLES,134,23,108,3
+Allen,C102,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Allen,C102,Governor,,REP,Robbie C. SMITH,7,0,7,0
+Allen,C102,Governor,,REP,Total Votes Cast,513,76,423,14
+Allen,C102,Governor,,REP,Under Votes,31,6,23,2
+Allen,C102,Governor,,REP,Over Votes,0,0,0,0
+Allen,C102,Secretary of State,,REP,Michael ADAMS,310,48,251,11
+Allen,C102,Secretary of State,,REP,Stephen L. KNIPPER,106,16,89,1
+Allen,C102,Secretary of State,,REP,Allen MARICLE,26,2,23,1
+Allen,C102,Secretary of State,,REP,Total Votes Cast,442,66,363,13
+Allen,C102,Secretary of State,,REP,Under Votes,102,16,83,3
+Allen,C102,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,C102,Auditor of Public Accounts,,REP,Allison BALL,338,52,274,12
+Allen,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,106,15,90,1
+Allen,C102,Auditor of Public Accounts,,REP,Total Votes Cast,444,67,364,13
+Allen,C102,Auditor of Public Accounts,,REP,Under Votes,99,15,81,3
+Allen,C102,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Allen,C102,State Treasurer,,REP,Andrew COOPERRIDER,172,20,144,8
+Allen,C102,State Treasurer,,REP,Mark H. METCALF,209,35,170,4
+Allen,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",45,8,36,1
+Allen,C102,State Treasurer,,REP,Total Votes Cast,426,63,350,13
+Allen,C102,State Treasurer,,REP,Under Votes,118,19,96,3
+Allen,C102,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,C102,Commissioner of Agriculture,,REP,Richard HEATH,228,29,191,8
+Allen,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,206,38,163,5
+Allen,C102,Commissioner of Agriculture,,REP,Total Votes Cast,434,67,354,13
+Allen,C102,Commissioner of Agriculture,,REP,Under Votes,110,15,92,3
+Allen,C102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,C102,Governor,,DEM,Andy BESHEAR,106,10,90,6
+Allen,C102,Governor,,DEM,Peppy MARTIN,6,0,6,0
+Allen,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",12,1,11,0
+Allen,C102,Governor,,DEM,Total Votes Cast,124,11,107,6
+Allen,C102,Governor,,DEM,Under Votes,3,0,3,0
+Allen,C102,Governor,,DEM,Over Votes,0,0,0,0
+Allen,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,55,4,47,4
+Allen,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,50,5,44,1
+Allen,C102,Commissioner of Agriculture,,DEM,Total Votes Cast,105,9,91,5
+Allen,C102,Commissioner of Agriculture,,DEM,Under Votes,22,2,19,1
+Allen,C102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,D101,Governor,,REP,Daniel CAMERON,201,13,181,7
+Allen,D101,Governor,,REP,Jacob CLARK,8,0,7,1
+Allen,D101,Governor,,REP,David O. COOPER,13,0,13,0
+Allen,D101,Governor,,REP,Kelly CRAFT,97,6,85,6
+Allen,D101,Governor,,REP,Eric DETERS,22,3,17,2
+Allen,D101,Governor,,REP,Bob DeVORE,2,0,2,0
+Allen,D101,Governor,,REP,Mike HARMON,8,1,6,1
+Allen,D101,Governor,,REP,Alan KECK,3,0,2,1
+Allen,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Allen,D101,Governor,,REP,Ryan QUARLES,127,17,103,7
+Allen,D101,Governor,,REP,Johnny Ray RICE,2,0,2,0
+Allen,D101,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Allen,D101,Governor,,REP,Total Votes Cast,485,40,420,25
+Allen,D101,Governor,,REP,Under Votes,22,2,18,2
+Allen,D101,Governor,,REP,Over Votes,1,0,1,0
+Allen,D101,Secretary of State,,REP,Michael ADAMS,279,21,244,14
+Allen,D101,Secretary of State,,REP,Stephen L. KNIPPER,96,13,78,5
+Allen,D101,Secretary of State,,REP,Allen MARICLE,36,2,31,3
+Allen,D101,Secretary of State,,REP,Total Votes Cast,411,36,353,22
+Allen,D101,Secretary of State,,REP,Under Votes,97,6,86,5
+Allen,D101,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,D101,Auditor of Public Accounts,,REP,Allison BALL,315,31,275,9
+Allen,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,97,4,81,12
+Allen,D101,Auditor of Public Accounts,,REP,Total Votes Cast,412,35,356,21
+Allen,D101,Auditor of Public Accounts,,REP,Under Votes,96,7,83,6
+Allen,D101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,D101,State Treasurer,,REP,Andrew COOPERRIDER,137,10,122,5
+Allen,D101,State Treasurer,,REP,Mark H. METCALF,226,19,192,15
+Allen,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",37,3,32,2
+Allen,D101,State Treasurer,,REP,Total Votes Cast,400,32,346,22
+Allen,D101,State Treasurer,,REP,Under Votes,108,10,93,5
+Allen,D101,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,D101,Commissioner of Agriculture,,REP,Richard HEATH,229,11,208,10
+Allen,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,184,24,148,12
+Allen,D101,Commissioner of Agriculture,,REP,Total Votes Cast,413,35,356,22
+Allen,D101,Commissioner of Agriculture,,REP,Under Votes,94,7,82,5
+Allen,D101,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Allen,D101,Governor,,DEM,Andy BESHEAR,104,20,77,7
+Allen,D101,Governor,,DEM,Peppy MARTIN,10,0,10,0
+Allen,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Allen,D101,Governor,,DEM,Total Votes Cast,123,20,96,7
+Allen,D101,Governor,,DEM,Under Votes,6,1,5,0
+Allen,D101,Governor,,DEM,Over Votes,0,0,0,0
+Allen,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,58,11,45,2
+Allen,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,46,7,38,1
+Allen,D101,Commissioner of Agriculture,,DEM,Total Votes Cast,104,18,83,3
+Allen,D101,Commissioner of Agriculture,,DEM,Under Votes,25,3,18,4
+Allen,D101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,D102,Governor,,REP,Daniel CAMERON,81,19,60,2
+Allen,D102,Governor,,REP,Jacob CLARK,2,1,1,0
+Allen,D102,Governor,,REP,David O. COOPER,1,1,0,0
+Allen,D102,Governor,,REP,Kelly CRAFT,43,4,39,0
+Allen,D102,Governor,,REP,Eric DETERS,9,3,6,0
+Allen,D102,Governor,,REP,Bob DeVORE,1,0,1,0
+Allen,D102,Governor,,REP,Mike HARMON,5,0,5,0
+Allen,D102,Governor,,REP,Alan KECK,5,1,4,0
+Allen,D102,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Allen,D102,Governor,,REP,Ryan QUARLES,50,12,35,3
+Allen,D102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Allen,D102,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Allen,D102,Governor,,REP,Total Votes Cast,201,42,154,5
+Allen,D102,Governor,,REP,Under Votes,10,2,6,2
+Allen,D102,Governor,,REP,Over Votes,0,0,0,0
+Allen,D102,Secretary of State,,REP,Michael ADAMS,125,28,94,3
+Allen,D102,Secretary of State,,REP,Stephen L. KNIPPER,29,6,23,0
+Allen,D102,Secretary of State,,REP,Allen MARICLE,17,1,15,1
+Allen,D102,Secretary of State,,REP,Total Votes Cast,171,35,132,4
+Allen,D102,Secretary of State,,REP,Under Votes,40,9,28,3
+Allen,D102,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,D102,Auditor of Public Accounts,,REP,Allison BALL,149,35,109,5
+Allen,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,25,1,23,1
+Allen,D102,Auditor of Public Accounts,,REP,Total Votes Cast,174,36,132,6
+Allen,D102,Auditor of Public Accounts,,REP,Under Votes,37,8,28,1
+Allen,D102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,D102,State Treasurer,,REP,Andrew COOPERRIDER,66,17,45,4
+Allen,D102,State Treasurer,,REP,Mark H. METCALF,81,11,70,0
+Allen,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",24,6,18,0
+Allen,D102,State Treasurer,,REP,Total Votes Cast,171,34,133,4
+Allen,D102,State Treasurer,,REP,Under Votes,39,9,27,3
+Allen,D102,State Treasurer,,REP,Over Votes,1,1,0,0
+Allen,D102,Commissioner of Agriculture,,REP,Richard HEATH,91,16,73,2
+Allen,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,82,20,59,3
+Allen,D102,Commissioner of Agriculture,,REP,Total Votes Cast,173,36,132,5
+Allen,D102,Commissioner of Agriculture,,REP,Under Votes,38,8,28,2
+Allen,D102,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,D102,Governor,,DEM,Andy BESHEAR,43,5,34,4
+Allen,D102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Allen,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",11,1,10,0
+Allen,D102,Governor,,DEM,Total Votes Cast,55,6,45,4
+Allen,D102,Governor,,DEM,Under Votes,4,0,3,1
+Allen,D102,Governor,,DEM,Over Votes,0,0,0,0
+Allen,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,25,3,20,2
+Allen,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,24,2,20,2
+Allen,D102,Commissioner of Agriculture,,DEM,Total Votes Cast,49,5,40,4
+Allen,D102,Commissioner of Agriculture,,DEM,Under Votes,10,1,8,1
+Allen,D102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,D103,Governor,,REP,Daniel CAMERON,162,22,137,3
+Allen,D103,Governor,,REP,Jacob CLARK,6,1,5,0
+Allen,D103,Governor,,REP,David O. COOPER,8,0,8,0
+Allen,D103,Governor,,REP,Kelly CRAFT,110,12,92,6
+Allen,D103,Governor,,REP,Eric DETERS,17,0,16,1
+Allen,D103,Governor,,REP,Bob DeVORE,2,0,2,0
+Allen,D103,Governor,,REP,Mike HARMON,9,2,7,0
+Allen,D103,Governor,,REP,Alan KECK,1,0,1,0
+Allen,D103,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,D103,Governor,,REP,Ryan QUARLES,110,12,91,7
+Allen,D103,Governor,,REP,Johnny Ray RICE,5,0,5,0
+Allen,D103,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Allen,D103,Governor,,REP,Total Votes Cast,433,49,367,17
+Allen,D103,Governor,,REP,Under Votes,20,1,19,0
+Allen,D103,Governor,,REP,Over Votes,1,0,1,0
+Allen,D103,Secretary of State,,REP,Michael ADAMS,274,26,236,12
+Allen,D103,Secretary of State,,REP,Stephen L. KNIPPER,85,15,66,4
+Allen,D103,Secretary of State,,REP,Allen MARICLE,24,3,21,0
+Allen,D103,Secretary of State,,REP,Total Votes Cast,383,44,323,16
+Allen,D103,Secretary of State,,REP,Under Votes,70,6,64,0
+Allen,D103,Secretary of State,,REP,Over Votes,1,0,0,1
+Allen,D103,Auditor of Public Accounts,,REP,Allison BALL,282,33,236,13
+Allen,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,96,9,84,3
+Allen,D103,Auditor of Public Accounts,,REP,Total Votes Cast,378,42,320,16
+Allen,D103,Auditor of Public Accounts,,REP,Under Votes,75,8,66,1
+Allen,D103,Auditor of Public Accounts,,REP,Over Votes,1,0,1,0
+Allen,D103,State Treasurer,,REP,Andrew COOPERRIDER,136,19,113,4
+Allen,D103,State Treasurer,,REP,Mark H. METCALF,192,11,172,9
+Allen,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",43,11,30,2
+Allen,D103,State Treasurer,,REP,Total Votes Cast,371,41,315,15
+Allen,D103,State Treasurer,,REP,Under Votes,82,9,71,2
+Allen,D103,State Treasurer,,REP,Over Votes,1,0,1,0
+Allen,D103,Commissioner of Agriculture,,REP,Richard HEATH,222,25,188,9
+Allen,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,146,16,122,8
+Allen,D103,Commissioner of Agriculture,,REP,Total Votes Cast,368,41,310,17
+Allen,D103,Commissioner of Agriculture,,REP,Under Votes,86,9,77,0
+Allen,D103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,D103,Governor,,DEM,Andy BESHEAR,98,11,83,4
+Allen,D103,Governor,,DEM,Peppy MARTIN,7,1,6,0
+Allen,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",12,2,10,0
+Allen,D103,Governor,,DEM,Total Votes Cast,117,14,99,4
+Allen,D103,Governor,,DEM,Under Votes,8,2,6,0
+Allen,D103,Governor,,DEM,Over Votes,0,0,0,0
+Allen,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,54,8,42,4
+Allen,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,43,4,39,0
+Allen,D103,Commissioner of Agriculture,,DEM,Total Votes Cast,97,12,81,4
+Allen,D103,Commissioner of Agriculture,,DEM,Under Votes,28,4,24,0
+Allen,D103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,E101,Governor,,REP,Daniel CAMERON,55,4,51,0
+Allen,E101,Governor,,REP,Jacob CLARK,2,0,2,0
+Allen,E101,Governor,,REP,David O. COOPER,5,0,5,0
+Allen,E101,Governor,,REP,Kelly CRAFT,19,1,18,0
+Allen,E101,Governor,,REP,Eric DETERS,5,0,4,1
+Allen,E101,Governor,,REP,Bob DeVORE,1,0,1,0
+Allen,E101,Governor,,REP,Mike HARMON,5,0,5,0
+Allen,E101,Governor,,REP,Alan KECK,1,0,1,0
+Allen,E101,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,E101,Governor,,REP,Ryan QUARLES,27,1,26,0
+Allen,E101,Governor,,REP,Johnny Ray RICE,1,0,0,1
+Allen,E101,Governor,,REP,Robbie C. SMITH,4,0,4,0
+Allen,E101,Governor,,REP,Total Votes Cast,126,6,118,2
+Allen,E101,Governor,,REP,Under Votes,8,0,8,0
+Allen,E101,Governor,,REP,Over Votes,0,0,0,0
+Allen,E101,Secretary of State,,REP,Michael ADAMS,62,3,58,1
+Allen,E101,Secretary of State,,REP,Stephen L. KNIPPER,39,2,37,0
+Allen,E101,Secretary of State,,REP,Allen MARICLE,16,0,15,1
+Allen,E101,Secretary of State,,REP,Total Votes Cast,117,5,110,2
+Allen,E101,Secretary of State,,REP,Under Votes,17,1,16,0
+Allen,E101,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,E101,Auditor of Public Accounts,,REP,Allison BALL,73,5,68,0
+Allen,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,40,0,38,2
+Allen,E101,Auditor of Public Accounts,,REP,Total Votes Cast,113,5,106,2
+Allen,E101,Auditor of Public Accounts,,REP,Under Votes,21,1,20,0
+Allen,E101,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,E101,State Treasurer,,REP,Andrew COOPERRIDER,46,0,45,1
+Allen,E101,State Treasurer,,REP,Mark H. METCALF,55,5,49,1
+Allen,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",13,0,13,0
+Allen,E101,State Treasurer,,REP,Total Votes Cast,114,5,107,2
+Allen,E101,State Treasurer,,REP,Under Votes,20,1,19,0
+Allen,E101,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,E101,Commissioner of Agriculture,,REP,Richard HEATH,66,4,61,1
+Allen,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,51,1,49,1
+Allen,E101,Commissioner of Agriculture,,REP,Total Votes Cast,117,5,110,2
+Allen,E101,Commissioner of Agriculture,,REP,Under Votes,17,1,16,0
+Allen,E101,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,E101,Governor,,DEM,Andy BESHEAR,20,2,18,0
+Allen,E101,Governor,,DEM,Peppy MARTIN,4,0,4,0
+Allen,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",13,1,12,0
+Allen,E101,Governor,,DEM,Total Votes Cast,37,3,34,0
+Allen,E101,Governor,,DEM,Under Votes,5,0,5,0
+Allen,E101,Governor,,DEM,Over Votes,0,0,0,0
+Allen,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,13,2,11,0
+Allen,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,22,1,21,0
+Allen,E101,Commissioner of Agriculture,,DEM,Total Votes Cast,35,3,32,0
+Allen,E101,Commissioner of Agriculture,,DEM,Under Votes,7,0,7,0
+Allen,E101,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,E102,Governor,,REP,Daniel CAMERON,86,8,78,0
+Allen,E102,Governor,,REP,Jacob CLARK,9,0,9,0
+Allen,E102,Governor,,REP,David O. COOPER,8,1,7,0
+Allen,E102,Governor,,REP,Kelly CRAFT,53,2,50,1
+Allen,E102,Governor,,REP,Eric DETERS,27,2,25,0
+Allen,E102,Governor,,REP,Bob DeVORE,1,0,1,0
+Allen,E102,Governor,,REP,Mike HARMON,17,0,17,0
+Allen,E102,Governor,,REP,Alan KECK,0,0,0,0
+Allen,E102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,E102,Governor,,REP,Ryan QUARLES,38,4,34,0
+Allen,E102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Allen,E102,Governor,,REP,Robbie C. SMITH,3,0,3,0
+Allen,E102,Governor,,REP,Total Votes Cast,244,17,226,1
+Allen,E102,Governor,,REP,Under Votes,11,0,11,0
+Allen,E102,Governor,,REP,Over Votes,0,0,0,0
+Allen,E102,Secretary of State,,REP,Michael ADAMS,121,9,111,1
+Allen,E102,Secretary of State,,REP,Stephen L. KNIPPER,79,4,75,0
+Allen,E102,Secretary of State,,REP,Allen MARICLE,17,3,14,0
+Allen,E102,Secretary of State,,REP,Total Votes Cast,217,16,200,1
+Allen,E102,Secretary of State,,REP,Under Votes,38,1,37,0
+Allen,E102,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,E102,Auditor of Public Accounts,,REP,Allison BALL,146,13,132,1
+Allen,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,60,2,58,0
+Allen,E102,Auditor of Public Accounts,,REP,Total Votes Cast,206,15,190,1
+Allen,E102,Auditor of Public Accounts,,REP,Under Votes,49,2,47,0
+Allen,E102,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,E102,State Treasurer,,REP,Andrew COOPERRIDER,101,4,97,0
+Allen,E102,State Treasurer,,REP,Mark H. METCALF,90,10,79,1
+Allen,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",19,2,17,0
+Allen,E102,State Treasurer,,REP,Total Votes Cast,210,16,193,1
+Allen,E102,State Treasurer,,REP,Under Votes,45,1,44,0
+Allen,E102,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,E102,Commissioner of Agriculture,,REP,Richard HEATH,117,6,111,0
+Allen,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,84,11,72,1
+Allen,E102,Commissioner of Agriculture,,REP,Total Votes Cast,201,17,183,1
+Allen,E102,Commissioner of Agriculture,,REP,Under Votes,53,0,53,0
+Allen,E102,Commissioner of Agriculture,,REP,Over Votes,1,0,1,0
+Allen,E102,Governor,,DEM,Andy BESHEAR,53,5,47,1
+Allen,E102,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Allen,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",9,0,9,0
+Allen,E102,Governor,,DEM,Total Votes Cast,64,5,58,1
+Allen,E102,Governor,,DEM,Under Votes,4,2,2,0
+Allen,E102,Governor,,DEM,Over Votes,0,0,0,0
+Allen,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,40,3,37,0
+Allen,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,22,3,18,1
+Allen,E102,Commissioner of Agriculture,,DEM,Total Votes Cast,62,6,55,1
+Allen,E102,Commissioner of Agriculture,,DEM,Under Votes,6,1,5,0
+Allen,E102,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
+Allen,E103,Governor,,REP,Daniel CAMERON,90,14,74,2
+Allen,E103,Governor,,REP,Jacob CLARK,2,0,2,0
+Allen,E103,Governor,,REP,David O. COOPER,1,0,0,1
+Allen,E103,Governor,,REP,Kelly CRAFT,31,11,20,0
+Allen,E103,Governor,,REP,Eric DETERS,6,0,6,0
+Allen,E103,Governor,,REP,Bob DeVORE,0,0,0,0
+Allen,E103,Governor,,REP,Mike HARMON,2,0,2,0
+Allen,E103,Governor,,REP,Alan KECK,0,0,0,0
+Allen,E103,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Allen,E103,Governor,,REP,Ryan QUARLES,53,13,40,0
+Allen,E103,Governor,,REP,Johnny Ray RICE,1,0,0,1
+Allen,E103,Governor,,REP,Robbie C. SMITH,3,0,3,0
+Allen,E103,Governor,,REP,Total Votes Cast,190,38,148,4
+Allen,E103,Governor,,REP,Under Votes,8,0,8,0
+Allen,E103,Governor,,REP,Over Votes,0,0,0,0
+Allen,E103,Secretary of State,,REP,Michael ADAMS,114,27,86,1
+Allen,E103,Secretary of State,,REP,Stephen L. KNIPPER,40,4,34,2
+Allen,E103,Secretary of State,,REP,Allen MARICLE,12,0,11,1
+Allen,E103,Secretary of State,,REP,Total Votes Cast,166,31,131,4
+Allen,E103,Secretary of State,,REP,Under Votes,32,7,25,0
+Allen,E103,Secretary of State,,REP,Over Votes,0,0,0,0
+Allen,E103,Auditor of Public Accounts,,REP,Allison BALL,117,22,94,1
+Allen,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,48,9,36,3
+Allen,E103,Auditor of Public Accounts,,REP,Total Votes Cast,165,31,130,4
+Allen,E103,Auditor of Public Accounts,,REP,Under Votes,33,7,26,0
+Allen,E103,Auditor of Public Accounts,,REP,Over Votes,0,0,0,0
+Allen,E103,State Treasurer,,REP,Andrew COOPERRIDER,61,6,51,4
+Allen,E103,State Treasurer,,REP,Mark H. METCALF,79,20,59,0
+Allen,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",15,1,14,0
+Allen,E103,State Treasurer,,REP,Total Votes Cast,155,27,124,4
+Allen,E103,State Treasurer,,REP,Under Votes,43,11,32,0
+Allen,E103,State Treasurer,,REP,Over Votes,0,0,0,0
+Allen,E103,Commissioner of Agriculture,,REP,Richard HEATH,93,15,77,1
+Allen,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,71,11,57,3
+Allen,E103,Commissioner of Agriculture,,REP,Total Votes Cast,164,26,134,4
+Allen,E103,Commissioner of Agriculture,,REP,Under Votes,34,12,22,0
+Allen,E103,Commissioner of Agriculture,,REP,Over Votes,0,0,0,0
+Allen,E103,Governor,,DEM,Andy BESHEAR,32,6,26,0
+Allen,E103,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Allen,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",2,0,2,0
+Allen,E103,Governor,,DEM,Total Votes Cast,36,6,30,0
+Allen,E103,Governor,,DEM,Under Votes,1,1,0,0
+Allen,E103,Governor,,DEM,Over Votes,0,0,0,0
+Allen,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,21,1,20,0
+Allen,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,12,4,8,0
+Allen,E103,Commissioner of Agriculture,,DEM,Total Votes Cast,33,5,28,0
+Allen,E103,Commissioner of Agriculture,,DEM,Under Votes,4,2,2,0
+Allen,E103,Commissioner of Agriculture,,DEM,Over Votes,0,0,0,0
