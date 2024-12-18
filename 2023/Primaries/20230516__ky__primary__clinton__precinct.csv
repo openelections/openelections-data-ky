@@ -1,0 +1,443 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Clinton,A101,Governor,,REP,Daniel CAMERON,43,11,31,1
+Clinton,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,A101,Governor,,REP,David O. COOPER,1,0,1,0
+Clinton,A101,Governor,,REP,Kelly CRAFT,100,44,38,18
+Clinton,A101,Governor,,REP,Eric DETERS,11,2,9,0
+Clinton,A101,Governor,,REP,Bob DeVORE,3,0,1,2
+Clinton,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Clinton,A101,Governor,,REP,Alan KECK,1,0,0,1
+Clinton,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,A101,Governor,,REP,Ryan QUARLES,12,3,6,3
+Clinton,A101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Clinton,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,A101,Governor,,REP,Total Votes,173,60,88,25
+Clinton,A101,Secretary of State,,REP,Michael ADAMS,121,42,57,22
+Clinton,A101,Secretary of State,,REP,Stephen L. KNIPPER,25,10,15,0
+Clinton,A101,Secretary of State,,REP,Allen MARICLE,9,1,8,0
+Clinton,A101,Secretary of State,,REP,Total Votes,173,60,88,25
+Clinton,A101,Auditor of Public Accounts,,REP,Allison BALL,113,42,53,18
+Clinton,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,36,10,23,3
+Clinton,A101,Auditor of Public Accounts,,REP,Total Votes,173,60,88,25
+Clinton,A101,State Treasurer,,REP,Andrew COOPERRIDER,40,13,26,1
+Clinton,A101,State Treasurer,,REP,Mark H. METCALF,100,37,45,18
+Clinton,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,2,7,2
+Clinton,A101,State Treasurer,,REP,Total Votes,173,60,88,25
+Clinton,A101,Commissioner of Agriculture,,REP,Richard HEATH,61,22,31,8
+Clinton,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,97,30,50,17
+Clinton,A101,Commissioner of Agriculture,,REP,Total Votes,173,60,88,25
+Clinton,A101,Governor,,DEM,Andy BESHEAR,17,5,7,5
+Clinton,A101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,1,0,0
+Clinton,A101,Governor,,DEM,Total Votes,18,6,7,5
+Clinton,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,2,3,4
+Clinton,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,8,4,3,1
+Clinton,A101,Commissioner of Agriculture,,DEM,Total Votes,18,6,7,5
+Clinton,A104,Governor,,REP,Daniel CAMERON,31,8,22,1
+Clinton,A104,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,A104,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,A104,Governor,,REP,Kelly CRAFT,88,21,53,14
+Clinton,A104,Governor,,REP,Eric DETERS,6,0,6,0
+Clinton,A104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,A104,Governor,,REP,Mike HARMON,3,1,0,2
+Clinton,A104,Governor,,REP,Alan KECK,2,1,1,0
+Clinton,A104,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Clinton,A104,Governor,,REP,Ryan QUARLES,13,4,8,1
+Clinton,A104,Governor,,REP,Johnny Ray RICE,1,1,0,0
+Clinton,A104,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Clinton,A104,Governor,,REP,Total Votes,147,36,93,18
+Clinton,A104,Secretary of State,,REP,Michael ADAMS,104,28,62,14
+Clinton,A104,Secretary of State,,REP,Stephen L. KNIPPER,18,3,15,0
+Clinton,A104,Secretary of State,,REP,Allen MARICLE,4,3,1,0
+Clinton,A104,Secretary of State,,REP,Total Votes,147,36,93,18
+Clinton,A104,Auditor of Public Accounts,,REP,Allison BALL,104,24,66,14
+Clinton,A104,Auditor of Public Accounts,,REP,Derek PETTEYS,24,10,14,0
+Clinton,A104,Auditor of Public Accounts,,REP,Total Votes,147,36,93,18
+Clinton,A104,State Treasurer,,REP,Andrew COOPERRIDER,38,13,24,1
+Clinton,A104,State Treasurer,,REP,Mark H. METCALF,86,21,51,14
+Clinton,A104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,0,5,0
+Clinton,A104,State Treasurer,,REP,Total Votes,147,36,93,18
+Clinton,A104,Commissioner of Agriculture,,REP,Richard HEATH,40,10,25,5
+Clinton,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,96,25,58,13
+Clinton,A104,Commissioner of Agriculture,,REP,Total Votes,147,36,93,18
+Clinton,A104,Governor,,DEM,Andy BESHEAR,10,5,5,0
+Clinton,A104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,A104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Clinton,A104,Governor,,DEM,Total Votes,11,5,6,0
+Clinton,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,2,1,0
+Clinton,A104,Commissioner of Agriculture,,DEM,Mikael MALONE,7,3,4,0
+Clinton,A104,Commissioner of Agriculture,,DEM,Total Votes,11,5,6,0
+Clinton,B101,Governor,,REP,Daniel CAMERON,23,7,14,2
+Clinton,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,B101,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,B101,Governor,,REP,Kelly CRAFT,76,32,29,15
+Clinton,B101,Governor,,REP,Eric DETERS,3,2,1,0
+Clinton,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,B101,Governor,,REP,Mike HARMON,1,1,0,0
+Clinton,B101,Governor,,REP,Alan KECK,1,0,1,0
+Clinton,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,B101,Governor,,REP,Ryan QUARLES,14,5,7,2
+Clinton,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,B101,Governor,,REP,Robbie C. SMITH,1,1,0,0
+Clinton,B101,Governor,,REP,Total Votes,119,48,52,19
+Clinton,B101,Secretary of State,,REP,Michael ADAMS,94,36,43,15
+Clinton,B101,Secretary of State,,REP,Stephen L. KNIPPER,9,6,3,0
+Clinton,B101,Secretary of State,,REP,Allen MARICLE,9,5,2,2
+Clinton,B101,Secretary of State,,REP,Total Votes,119,48,52,19
+Clinton,B101,Auditor of Public Accounts,,REP,Allison BALL,88,36,37,15
+Clinton,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,24,11,11,2
+Clinton,B101,Auditor of Public Accounts,,REP,Total Votes,119,48,52,19
+Clinton,B101,State Treasurer,,REP,Andrew COOPERRIDER,35,17,12,6
+Clinton,B101,State Treasurer,,REP,Mark H. METCALF,70,28,32,10
+Clinton,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,1,3,0
+Clinton,B101,State Treasurer,,REP,Total Votes,119,48,52,19
+Clinton,B101,Commissioner of Agriculture,,REP,Richard HEATH,35,17,12,6
+Clinton,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,78,30,37,11
+Clinton,B101,Commissioner of Agriculture,,REP,Total Votes,119,48,52,19
+Clinton,B101,Governor,,DEM,Andy BESHEAR,3,0,3,0
+Clinton,B101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,B101,Governor,,DEM,Total Votes,3,0,3,0
+Clinton,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Clinton,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Clinton,B101,Commissioner of Agriculture,,DEM,Total Votes,3,0,3,0
+Clinton,B102,Governor,,REP,Daniel CAMERON,30,6,22,2
+Clinton,B102,Governor,,REP,Jacob CLARK,1,0,1,0
+Clinton,B102,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,B102,Governor,,REP,Kelly CRAFT,56,24,28,4
+Clinton,B102,Governor,,REP,Eric DETERS,5,1,4,0
+Clinton,B102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,B102,Governor,,REP,Mike HARMON,0,0,0,0
+Clinton,B102,Governor,,REP,Alan KECK,0,0,0,0
+Clinton,B102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,B102,Governor,,REP,Ryan QUARLES,24,12,12,0
+Clinton,B102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,B102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,B102,Governor,,REP,Total Votes,116,43,67,6
+Clinton,B102,Secretary of State,,REP,Michael ADAMS,85,31,50,4
+Clinton,B102,Secretary of State,,REP,Stephen L. KNIPPER,18,5,11,2
+Clinton,B102,Secretary of State,,REP,Allen MARICLE,8,3,5,0
+Clinton,B102,Secretary of State,,REP,Total Votes,116,43,67,6
+Clinton,B102,Auditor of Public Accounts,,REP,Allison BALL,85,33,46,6
+Clinton,B102,Auditor of Public Accounts,,REP,Derek PETTEYS,22,7,15,0
+Clinton,B102,Auditor of Public Accounts,,REP,Total Votes,116,43,67,6
+Clinton,B102,State Treasurer,,REP,Andrew COOPERRIDER,26,8,18,0
+Clinton,B102,State Treasurer,,REP,Mark H. METCALF,76,26,45,5
+Clinton,B102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,6,1,1
+Clinton,B102,State Treasurer,,REP,Total Votes,116,43,67,6
+Clinton,B102,Commissioner of Agriculture,,REP,Richard HEATH,44,14,28,2
+Clinton,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,68,28,36,4
+Clinton,B102,Commissioner of Agriculture,,REP,Total Votes,116,43,67,6
+Clinton,B102,Governor,,DEM,Andy BESHEAR,6,3,2,1
+Clinton,B102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,B102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,B102,Governor,,DEM,Total Votes,6,3,2,1
+Clinton,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,1,2,0
+Clinton,B102,Commissioner of Agriculture,,DEM,Mikael MALONE,1,1,0,0
+Clinton,B102,Commissioner of Agriculture,,DEM,Total Votes,6,3,2,1
+Clinton,C101,Governor,,REP,Daniel CAMERON,25,8,17,0
+Clinton,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,C101,Governor,,REP,Kelly CRAFT,61,14,38,9
+Clinton,C101,Governor,,REP,Eric DETERS,2,1,1,0
+Clinton,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,C101,Governor,,REP,Mike HARMON,1,0,1,0
+Clinton,C101,Governor,,REP,Alan KECK,0,0,0,0
+Clinton,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,C101,Governor,,REP,Ryan QUARLES,17,10,6,1
+Clinton,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,C101,Governor,,REP,Total Votes,106,33,63,10
+Clinton,C101,Secretary of State,,REP,Michael ADAMS,77,27,43,7
+Clinton,C101,Secretary of State,,REP,Stephen L. KNIPPER,14,2,11,1
+Clinton,C101,Secretary of State,,REP,Allen MARICLE,6,2,3,1
+Clinton,C101,Secretary of State,,REP,Total Votes,106,33,63,10
+Clinton,C101,Auditor of Public Accounts,,REP,Allison BALL,79,26,44,9
+Clinton,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,5,13,1
+Clinton,C101,Auditor of Public Accounts,,REP,Total Votes,106,33,63,10
+Clinton,C101,State Treasurer,,REP,Andrew COOPERRIDER,38,13,25,0
+Clinton,C101,State Treasurer,,REP,Mark H. METCALF,57,16,33,8
+Clinton,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",1,0,1,0
+Clinton,C101,State Treasurer,,REP,Total Votes,106,33,63,10
+Clinton,C101,Commissioner of Agriculture,,REP,Richard HEATH,32,7,24,1
+Clinton,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,68,23,36,9
+Clinton,C101,Commissioner of Agriculture,,REP,Total Votes,106,33,63,10
+Clinton,C101,Governor,,DEM,Andy BESHEAR,13,3,8,2
+Clinton,C101,Governor,,DEM,Peppy MARTIN,2,0,2,0
+Clinton,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,C101,Governor,,DEM,Total Votes,15,3,10,2
+Clinton,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,2,7,2
+Clinton,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,1,2,0
+Clinton,C101,Commissioner of Agriculture,,DEM,Total Votes,15,3,10,2
+Clinton,C102,Governor,,REP,Daniel CAMERON,25,11,13,1
+Clinton,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,C102,Governor,,REP,David O. COOPER,1,0,0,1
+Clinton,C102,Governor,,REP,Kelly CRAFT,59,20,31,8
+Clinton,C102,Governor,,REP,Eric DETERS,1,1,0,0
+Clinton,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,C102,Governor,,REP,Mike HARMON,2,1,1,0
+Clinton,C102,Governor,,REP,Alan KECK,1,0,1,0
+Clinton,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,C102,Governor,,REP,Ryan QUARLES,15,3,8,4
+Clinton,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,C102,Governor,,REP,Robbie C. SMITH,1,1,0,0
+Clinton,C102,Governor,,REP,Total Votes,106,38,54,14
+Clinton,C102,Secretary of State,,REP,Michael ADAMS,71,28,34,9
+Clinton,C102,Secretary of State,,REP,Stephen L. KNIPPER,21,6,13,2
+Clinton,C102,Secretary of State,,REP,Allen MARICLE,9,1,5,3
+Clinton,C102,Secretary of State,,REP,Total Votes,106,38,54,14
+Clinton,C102,Auditor of Public Accounts,,REP,Allison BALL,76,26,37,13
+Clinton,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,21,6,14,1
+Clinton,C102,Auditor of Public Accounts,,REP,Total Votes,106,38,54,14
+Clinton,C102,State Treasurer,,REP,Andrew COOPERRIDER,36,12,22,2
+Clinton,C102,State Treasurer,,REP,Mark H. METCALF,59,20,28,11
+Clinton,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,3,1,1
+Clinton,C102,State Treasurer,,REP,Total Votes,106,38,54,14
+Clinton,C102,Commissioner of Agriculture,,REP,Richard HEATH,44,14,27,3
+Clinton,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,56,20,25,11
+Clinton,C102,Commissioner of Agriculture,,REP,Total Votes,106,38,54,14
+Clinton,C102,Governor,,DEM,Andy BESHEAR,10,4,6,0
+Clinton,C102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Clinton,C102,Governor,,DEM,Total Votes,11,4,7,0
+Clinton,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,2,3,0
+Clinton,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,6,2,4,0
+Clinton,C102,Commissioner of Agriculture,,DEM,Total Votes,11,4,7,0
+Clinton,C103,Governor,,REP,Daniel CAMERON,31,9,21,1
+Clinton,C103,Governor,,REP,Jacob CLARK,1,1,0,0
+Clinton,C103,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,C103,Governor,,REP,Kelly CRAFT,80,16,58,6
+Clinton,C103,Governor,,REP,Eric DETERS,7,5,2,0
+Clinton,C103,Governor,,REP,Bob DeVORE,1,0,1,0
+Clinton,C103,Governor,,REP,Mike HARMON,1,1,0,0
+Clinton,C103,Governor,,REP,Alan KECK,0,0,0,0
+Clinton,C103,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Clinton,C103,Governor,,REP,Ryan QUARLES,21,10,11,0
+Clinton,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,C103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clinton,C103,Governor,,REP,Total Votes,144,43,94,7
+Clinton,C103,Secretary of State,,REP,Michael ADAMS,104,33,64,7
+Clinton,C103,Secretary of State,,REP,Stephen L. KNIPPER,22,5,17,0
+Clinton,C103,Secretary of State,,REP,Allen MARICLE,8,1,7,0
+Clinton,C103,Secretary of State,,REP,Total Votes,144,43,94,7
+Clinton,C103,Auditor of Public Accounts,,REP,Allison BALL,109,31,71,7
+Clinton,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,23,7,16,0
+Clinton,C103,Auditor of Public Accounts,,REP,Total Votes,144,43,94,7
+Clinton,C103,State Treasurer,,REP,Andrew COOPERRIDER,40,12,27,1
+Clinton,C103,State Treasurer,,REP,Mark H. METCALF,85,27,52,6
+Clinton,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",8,0,8,0
+Clinton,C103,State Treasurer,,REP,Total Votes,144,43,94,7
+Clinton,C103,Commissioner of Agriculture,,REP,Richard HEATH,49,11,37,1
+Clinton,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,84,27,51,6
+Clinton,C103,Commissioner of Agriculture,,REP,Total Votes,144,43,94,7
+Clinton,C103,Governor,,DEM,Andy BESHEAR,13,8,5,0
+Clinton,C103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,C103,Governor,,DEM,Total Votes,13,8,5,0
+Clinton,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,9,5,4,0
+Clinton,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,3,2,1,0
+Clinton,C103,Commissioner of Agriculture,,DEM,Total Votes,13,8,5,0
+Clinton,D101,Governor,,REP,Daniel CAMERON,38,11,24,3
+Clinton,D101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,D101,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,D101,Governor,,REP,Kelly CRAFT,62,12,40,10
+Clinton,D101,Governor,,REP,Eric DETERS,2,2,0,0
+Clinton,D101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,D101,Governor,,REP,Mike HARMON,3,1,2,0
+Clinton,D101,Governor,,REP,Alan KECK,3,0,3,0
+Clinton,D101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,D101,Governor,,REP,Ryan QUARLES,23,5,18,0
+Clinton,D101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,D101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,D101,Governor,,REP,Total Votes,131,31,87,13
+Clinton,D101,Secretary of State,,REP,Michael ADAMS,83,20,53,10
+Clinton,D101,Secretary of State,,REP,Stephen L. KNIPPER,21,3,16,2
+Clinton,D101,Secretary of State,,REP,Allen MARICLE,12,4,7,1
+Clinton,D101,Secretary of State,,REP,Total Votes,131,31,87,13
+Clinton,D101,Auditor of Public Accounts,,REP,Allison BALL,93,21,59,13
+Clinton,D101,Auditor of Public Accounts,,REP,Derek PETTEYS,23,7,16,0
+Clinton,D101,Auditor of Public Accounts,,REP,Total Votes,131,31,87,13
+Clinton,D101,State Treasurer,,REP,Andrew COOPERRIDER,44,14,29,1
+Clinton,D101,State Treasurer,,REP,Mark H. METCALF,68,14,42,12
+Clinton,D101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,2,8,0
+Clinton,D101,State Treasurer,,REP,Total Votes,131,31,87,13
+Clinton,D101,Commissioner of Agriculture,,REP,Richard HEATH,43,9,29,5
+Clinton,D101,Commissioner of Agriculture,,REP,Jonathan SHELL,72,18,46,8
+Clinton,D101,Commissioner of Agriculture,,REP,Total Votes,131,31,87,13
+Clinton,D101,Governor,,DEM,Andy BESHEAR,6,0,4,2
+Clinton,D101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,D101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,D101,Governor,,DEM,Total Votes,6,0,4,2
+Clinton,D101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,0,2,2
+Clinton,D101,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Clinton,D101,Commissioner of Agriculture,,DEM,Total Votes,6,0,4,2
+Clinton,D102,Governor,,REP,Daniel CAMERON,47,20,25,2
+Clinton,D102,Governor,,REP,Jacob CLARK,2,1,1,0
+Clinton,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,D102,Governor,,REP,Kelly CRAFT,120,40,65,15
+Clinton,D102,Governor,,REP,Eric DETERS,3,0,2,1
+Clinton,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,D102,Governor,,REP,Mike HARMON,0,0,0,0
+Clinton,D102,Governor,,REP,Alan KECK,2,0,2,0
+Clinton,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,D102,Governor,,REP,Ryan QUARLES,26,10,12,4
+Clinton,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,D102,Governor,,REP,Total Votes,201,71,108,22
+Clinton,D102,Secretary of State,,REP,Michael ADAMS,147,55,83,9
+Clinton,D102,Secretary of State,,REP,Stephen L. KNIPPER,24,4,17,3
+Clinton,D102,Secretary of State,,REP,Allen MARICLE,10,6,3,1
+Clinton,D102,Secretary of State,,REP,Total Votes,201,71,108,22
+Clinton,D102,Auditor of Public Accounts,,REP,Allison BALL,150,59,81,10
+Clinton,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,32,7,22,3
+Clinton,D102,Auditor of Public Accounts,,REP,Total Votes,201,71,108,22
+Clinton,D102,State Treasurer,,REP,Andrew COOPERRIDER,45,14,30,1
+Clinton,D102,State Treasurer,,REP,Mark H. METCALF,128,46,69,13
+Clinton,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,4,6,0
+Clinton,D102,State Treasurer,,REP,Total Votes,201,71,108,22
+Clinton,D102,Commissioner of Agriculture,,REP,Richard HEATH,55,16,38,1
+Clinton,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,132,48,67,17
+Clinton,D102,Commissioner of Agriculture,,REP,Total Votes,201,71,108,22
+Clinton,D102,Governor,,DEM,Andy BESHEAR,4,2,2,0
+Clinton,D102,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Clinton,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,1,0,0
+Clinton,D102,Governor,,DEM,Total Votes,6,3,3,0
+Clinton,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,2,1,0
+Clinton,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,2,1,1,0
+Clinton,D102,Commissioner of Agriculture,,DEM,Total Votes,6,3,3,0
+Clinton,E101,Governor,,REP,Daniel CAMERON,28,5,21,2
+Clinton,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,E101,Governor,,REP,David O. COOPER,1,1,0,0
+Clinton,E101,Governor,,REP,Kelly CRAFT,83,17,57,9
+Clinton,E101,Governor,,REP,Eric DETERS,3,2,1,0
+Clinton,E101,Governor,,REP,Bob DeVORE,1,1,0,0
+Clinton,E101,Governor,,REP,Mike HARMON,0,0,0,0
+Clinton,E101,Governor,,REP,Alan KECK,1,0,1,0
+Clinton,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,E101,Governor,,REP,Ryan QUARLES,26,8,18,0
+Clinton,E101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,E101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clinton,E101,Governor,,REP,Total Votes,144,34,99,11
+Clinton,E101,Secretary of State,,REP,Michael ADAMS,105,27,68,10
+Clinton,E101,Secretary of State,,REP,Stephen L. KNIPPER,19,4,15,0
+Clinton,E101,Secretary of State,,REP,Allen MARICLE,7,2,4,1
+Clinton,E101,Secretary of State,,REP,Total Votes,144,34,99,11
+Clinton,E101,Auditor of Public Accounts,,REP,Allison BALL,116,29,77,10
+Clinton,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,17,4,12,1
+Clinton,E101,Auditor of Public Accounts,,REP,Total Votes,144,34,99,11
+Clinton,E101,State Treasurer,,REP,Andrew COOPERRIDER,39,12,25,2
+Clinton,E101,State Treasurer,,REP,Mark H. METCALF,84,21,54,9
+Clinton,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,1,9,0
+Clinton,E101,State Treasurer,,REP,Total Votes,144,34,99,11
+Clinton,E101,Commissioner of Agriculture,,REP,Richard HEATH,48,11,35,2
+Clinton,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,86,22,55,9
+Clinton,E101,Commissioner of Agriculture,,REP,Total Votes,144,34,99,11
+Clinton,E101,Governor,,DEM,Andy BESHEAR,5,2,2,1
+Clinton,E101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,E101,Governor,,DEM,Total Votes,5,2,2,1
+Clinton,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,2,1,0
+Clinton,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,1,1
+Clinton,E101,Commissioner of Agriculture,,DEM,Total Votes,5,2,2,1
+Clinton,E102,Governor,,REP,Daniel CAMERON,27,10,17,0
+Clinton,E102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,E102,Governor,,REP,David O. COOPER,1,0,1,0
+Clinton,E102,Governor,,REP,Kelly CRAFT,68,24,37,7
+Clinton,E102,Governor,,REP,Eric DETERS,1,0,1,0
+Clinton,E102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,E102,Governor,,REP,Mike HARMON,1,0,1,0
+Clinton,E102,Governor,,REP,Alan KECK,1,0,1,0
+Clinton,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,E102,Governor,,REP,Ryan QUARLES,34,8,26,0
+Clinton,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,E102,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clinton,E102,Governor,,REP,Total Votes,134,42,85,7
+Clinton,E102,Secretary of State,,REP,Michael ADAMS,87,32,48,7
+Clinton,E102,Secretary of State,,REP,Stephen L. KNIPPER,20,2,18,0
+Clinton,E102,Secretary of State,,REP,Allen MARICLE,11,6,5,0
+Clinton,E102,Secretary of State,,REP,Total Votes,134,42,85,7
+Clinton,E102,Auditor of Public Accounts,,REP,Allison BALL,95,34,56,5
+Clinton,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,24,7,15,2
+Clinton,E102,Auditor of Public Accounts,,REP,Total Votes,134,42,85,7
+Clinton,E102,State Treasurer,,REP,Andrew COOPERRIDER,46,12,34,0
+Clinton,E102,State Treasurer,,REP,Mark H. METCALF,66,26,35,5
+Clinton,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,3,3,0
+Clinton,E102,State Treasurer,,REP,Total Votes,134,42,85,7
+Clinton,E102,Commissioner of Agriculture,,REP,Richard HEATH,52,20,30,2
+Clinton,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,68,22,41,5
+Clinton,E102,Commissioner of Agriculture,,REP,Total Votes,134,42,85,7
+Clinton,E102,Governor,,DEM,Andy BESHEAR,4,2,1,1
+Clinton,E102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,E102,Governor,,DEM,Total Votes,4,2,1,1
+Clinton,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,2,0,1
+Clinton,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Clinton,E102,Commissioner of Agriculture,,DEM,Total Votes,4,2,1,1
+Clinton,F101,Governor,,REP,Daniel CAMERON,23,2,20,1
+Clinton,F101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,F101,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,F101,Governor,,REP,Kelly CRAFT,66,27,27,12
+Clinton,F101,Governor,,REP,Eric DETERS,1,0,1,0
+Clinton,F101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,F101,Governor,,REP,Mike HARMON,1,1,0,0
+Clinton,F101,Governor,,REP,Alan KECK,3,3,0,0
+Clinton,F101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clinton,F101,Governor,,REP,Ryan QUARLES,18,5,12,1
+Clinton,F101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,F101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,F101,Governor,,REP,Total Votes,112,38,60,14
+Clinton,F101,Secretary of State,,REP,Michael ADAMS,78,29,39,10
+Clinton,F101,Secretary of State,,REP,Stephen L. KNIPPER,12,2,8,2
+Clinton,F101,Secretary of State,,REP,Allen MARICLE,9,2,6,1
+Clinton,F101,Secretary of State,,REP,Total Votes,112,38,60,14
+Clinton,F101,Auditor of Public Accounts,,REP,Allison BALL,73,24,40,9
+Clinton,F101,Auditor of Public Accounts,,REP,Derek PETTEYS,19,6,12,1
+Clinton,F101,Auditor of Public Accounts,,REP,Total Votes,112,38,60,14
+Clinton,F101,State Treasurer,,REP,Andrew COOPERRIDER,25,8,16,1
+Clinton,F101,State Treasurer,,REP,Mark H. METCALF,72,24,36,12
+Clinton,F101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",3,1,2,0
+Clinton,F101,State Treasurer,,REP,Total Votes,112,38,60,14
+Clinton,F101,Commissioner of Agriculture,,REP,Richard HEATH,25,4,19,2
+Clinton,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,78,31,36,11
+Clinton,F101,Commissioner of Agriculture,,REP,Total Votes,112,38,60,14
+Clinton,F101,Governor,,DEM,Andy BESHEAR,2,1,1,0
+Clinton,F101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clinton,F101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,1,0,0
+Clinton,F101,Governor,,DEM,Total Votes,4,2,2,0
+Clinton,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clinton,F101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,1,2,0
+Clinton,F101,Commissioner of Agriculture,,DEM,Total Votes,4,2,2,0
+Clinton,F102,Governor,,REP,Daniel CAMERON,27,7,20,0
+Clinton,F102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clinton,F102,Governor,,REP,David O. COOPER,0,0,0,0
+Clinton,F102,Governor,,REP,Kelly CRAFT,79,26,43,10
+Clinton,F102,Governor,,REP,Eric DETERS,9,5,4,0
+Clinton,F102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clinton,F102,Governor,,REP,Mike HARMON,0,0,0,0
+Clinton,F102,Governor,,REP,Alan KECK,3,1,2,0
+Clinton,F102,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Clinton,F102,Governor,,REP,Ryan QUARLES,22,5,16,1
+Clinton,F102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clinton,F102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clinton,F102,Governor,,REP,Total Votes,141,44,86,11
+Clinton,F102,Secretary of State,,REP,Michael ADAMS,96,30,56,10
+Clinton,F102,Secretary of State,,REP,Stephen L. KNIPPER,25,7,18,0
+Clinton,F102,Secretary of State,,REP,Allen MARICLE,9,3,6,0
+Clinton,F102,Secretary of State,,REP,Total Votes,141,44,86,11
+Clinton,F102,Auditor of Public Accounts,,REP,Allison BALL,97,26,62,9
+Clinton,F102,Auditor of Public Accounts,,REP,Derek PETTEYS,37,16,20,1
+Clinton,F102,Auditor of Public Accounts,,REP,Total Votes,141,44,86,11
+Clinton,F102,State Treasurer,,REP,Andrew COOPERRIDER,48,14,32,2
+Clinton,F102,State Treasurer,,REP,Mark H. METCALF,81,25,47,9
+Clinton,F102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",5,2,3,0
+Clinton,F102,State Treasurer,,REP,Total Votes,141,44,86,11
+Clinton,F102,Commissioner of Agriculture,,REP,Richard HEATH,46,12,31,3
+Clinton,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,91,30,53,8
+Clinton,F102,Commissioner of Agriculture,,REP,Total Votes,141,44,86,11
+Clinton,F102,Governor,,DEM,Andy BESHEAR,7,2,3,2
+Clinton,F102,Governor,,DEM,Peppy MARTIN,1,1,0,0
+Clinton,F102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clinton,F102,Governor,,DEM,Total Votes,8,3,3,2
+Clinton,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,2,1
+Clinton,F102,Commissioner of Agriculture,,DEM,Mikael MALONE,2,1,0,1
+Clinton,F102,Commissioner of Agriculture,,DEM,Total Votes,8,3,3,2

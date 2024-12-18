@@ -1,0 +1,681 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Clay,A101,Governor,,REP,Eric DETERS,5,1,4,0
+Clay,A101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,A101,Governor,,REP,Mike HARMON,1,0,1,0
+Clay,A101,Governor,,REP,Alan KECK,0,0,0,0
+Clay,A101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,A101,Governor,,REP,Ryan QUARLES,25,4,21,0
+Clay,A101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,A101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,A101,Governor,,REP,Daniel CAMERON,54,6,46,2
+Clay,A101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,A101,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,A101,Governor,,REP,Kelly CRAFT,23,3,20,0
+Clay,A101,Governor,,REP,Total Votes,109,14,93,2
+Clay,A101,Secretary of State,,REP,Stephen L. KNIPPER,16,0,16,0
+Clay,A101,Secretary of State,,REP,Allen MARICLE,13,1,12,0
+Clay,A101,Secretary of State,,REP,Michael ADAMS,69,10,57,2
+Clay,A101,Secretary of State,,REP,Total Votes,109,14,93,2
+Clay,A101,Auditor of Public Accounts,,REP,Allison BALL,78,10,66,2
+Clay,A101,Auditor of Public Accounts,,REP,Derek PETTEYS,20,1,19,0
+Clay,A101,Auditor of Public Accounts,,REP,Total Votes,109,14,93,2
+Clay,A101,State Treasurer,,REP,Mark H. METCALF,66,9,56,1
+Clay,A101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",14,1,13,0
+Clay,A101,State Treasurer,,REP,Andrew COOPERRIDER,13,0,12,1
+Clay,A101,State Treasurer,,REP,Total Votes,109,14,93,2
+Clay,A101,Commissioner of Agriculture,,REP,Richard HEATH,40,3,35,2
+Clay,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,58,9,49,0
+Clay,A101,Commissioner of Agriculture,,REP,Total Votes,109,14,93,2
+Clay,A101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,A101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Clay,A101,Governor,,DEM,Andy BESHEAR,21,2,19,0
+Clay,A101,Governor,,DEM,Total Votes,23,2,20,1
+Clay,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,11,2,8,1
+Clay,A101,Commissioner of Agriculture,,DEM,Mikael MALONE,11,0,11,0
+Clay,A101,Commissioner of Agriculture,,DEM,Total Votes,23,2,20,1
+Clay,A106,Governor,,REP,Eric DETERS,6,0,6,0
+Clay,A106,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,A106,Governor,,REP,Mike HARMON,3,0,3,0
+Clay,A106,Governor,,REP,Alan KECK,0,0,0,0
+Clay,A106,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,A106,Governor,,REP,Ryan QUARLES,25,3,22,0
+Clay,A106,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,A106,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clay,A106,Governor,,REP,Daniel CAMERON,74,3,71,0
+Clay,A106,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,A106,Governor,,REP,David O. COOPER,1,0,0,1
+Clay,A106,Governor,,REP,Kelly CRAFT,19,1,18,0
+Clay,A106,Governor,,REP,Total Votes,130,7,122,1
+Clay,A106,Secretary of State,,REP,Stephen L. KNIPPER,31,0,31,0
+Clay,A106,Secretary of State,,REP,Allen MARICLE,12,0,12,0
+Clay,A106,Secretary of State,,REP,Michael ADAMS,73,6,66,1
+Clay,A106,Secretary of State,,REP,Total Votes,130,7,122,1
+Clay,A106,Auditor of Public Accounts,,REP,Allison BALL,87,4,83,0
+Clay,A106,Auditor of Public Accounts,,REP,Derek PETTEYS,30,2,27,1
+Clay,A106,Auditor of Public Accounts,,REP,Total Votes,130,7,122,1
+Clay,A106,State Treasurer,,REP,Mark H. METCALF,73,3,69,1
+Clay,A106,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",27,3,24,0
+Clay,A106,State Treasurer,,REP,Andrew COOPERRIDER,17,0,17,0
+Clay,A106,State Treasurer,,REP,Total Votes,130,7,122,1
+Clay,A106,Commissioner of Agriculture,,REP,Richard HEATH,49,2,47,0
+Clay,A106,Commissioner of Agriculture,,REP,Jonathan SHELL,70,4,65,1
+Clay,A106,Commissioner of Agriculture,,REP,Total Votes,130,7,122,1
+Clay,A106,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,A106,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",1,0,1,0
+Clay,A106,Governor,,DEM,Andy BESHEAR,7,2,4,1
+Clay,A106,Governor,,DEM,Total Votes,8,2,5,1
+Clay,A106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,1,2,0
+Clay,A106,Commissioner of Agriculture,,DEM,Mikael MALONE,5,1,3,1
+Clay,A106,Commissioner of Agriculture,,DEM,Total Votes,8,2,5,1
+Clay,A107,Governor,,REP,Eric DETERS,2,0,2,0
+Clay,A107,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,A107,Governor,,REP,Mike HARMON,0,0,0,0
+Clay,A107,Governor,,REP,Alan KECK,3,0,2,1
+Clay,A107,Governor,,REP,Dennis Ray ORMEROD,1,1,0,0
+Clay,A107,Governor,,REP,Ryan QUARLES,12,0,12,0
+Clay,A107,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,A107,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,A107,Governor,,REP,Daniel CAMERON,26,4,21,1
+Clay,A107,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,A107,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,A107,Governor,,REP,Kelly CRAFT,15,3,10,2
+Clay,A107,Governor,,REP,Total Votes,59,8,47,4
+Clay,A107,Secretary of State,,REP,Stephen L. KNIPPER,10,2,8,0
+Clay,A107,Secretary of State,,REP,Allen MARICLE,10,0,10,0
+Clay,A107,Secretary of State,,REP,Michael ADAMS,34,5,25,4
+Clay,A107,Secretary of State,,REP,Total Votes,59,8,47,4
+Clay,A107,Auditor of Public Accounts,,REP,Allison BALL,41,5,33,3
+Clay,A107,Auditor of Public Accounts,,REP,Derek PETTEYS,12,1,10,1
+Clay,A107,Auditor of Public Accounts,,REP,Total Votes,59,8,47,4
+Clay,A107,State Treasurer,,REP,Mark H. METCALF,40,4,32,4
+Clay,A107,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,1,6,0
+Clay,A107,State Treasurer,,REP,Andrew COOPERRIDER,7,2,5,0
+Clay,A107,State Treasurer,,REP,Total Votes,59,8,47,4
+Clay,A107,Commissioner of Agriculture,,REP,Richard HEATH,20,2,17,1
+Clay,A107,Commissioner of Agriculture,,REP,Jonathan SHELL,37,6,28,3
+Clay,A107,Commissioner of Agriculture,,REP,Total Votes,59,8,47,4
+Clay,A107,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,A107,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,A107,Governor,,DEM,Andy BESHEAR,7,3,4,0
+Clay,A107,Governor,,DEM,Total Votes,7,3,4,0
+Clay,A107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Clay,A107,Commissioner of Agriculture,,DEM,Mikael MALONE,5,3,2,0
+Clay,A107,Commissioner of Agriculture,,DEM,Total Votes,7,3,4,0
+Clay,B101,Governor,,REP,Eric DETERS,6,0,6,0
+Clay,B101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,B101,Governor,,REP,Mike HARMON,2,0,2,0
+Clay,B101,Governor,,REP,Alan KECK,1,0,1,0
+Clay,B101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,B101,Governor,,REP,Ryan QUARLES,11,0,11,0
+Clay,B101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,B101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,B101,Governor,,REP,Daniel CAMERON,81,8,73,0
+Clay,B101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,B101,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,B101,Governor,,REP,Kelly CRAFT,19,1,18,0
+Clay,B101,Governor,,REP,Total Votes,121,9,112,0
+Clay,B101,Secretary of State,,REP,Stephen L. KNIPPER,30,1,29,0
+Clay,B101,Secretary of State,,REP,Allen MARICLE,25,0,25,0
+Clay,B101,Secretary of State,,REP,Michael ADAMS,56,5,51,0
+Clay,B101,Secretary of State,,REP,Total Votes,121,9,112,0
+Clay,B101,Auditor of Public Accounts,,REP,Allison BALL,72,4,68,0
+Clay,B101,Auditor of Public Accounts,,REP,Derek PETTEYS,33,3,30,0
+Clay,B101,Auditor of Public Accounts,,REP,Total Votes,121,9,112,0
+Clay,B101,State Treasurer,,REP,Mark H. METCALF,82,7,75,0
+Clay,B101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,0,12,0
+Clay,B101,State Treasurer,,REP,Andrew COOPERRIDER,10,0,10,0
+Clay,B101,State Treasurer,,REP,Total Votes,121,9,112,0
+Clay,B101,Commissioner of Agriculture,,REP,Richard HEATH,48,1,47,0
+Clay,B101,Commissioner of Agriculture,,REP,Jonathan SHELL,59,6,53,0
+Clay,B101,Commissioner of Agriculture,,REP,Total Votes,121,9,112,0
+Clay,B101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,B101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,B101,Governor,,DEM,Andy BESHEAR,8,2,6,0
+Clay,B101,Governor,,DEM,Total Votes,9,2,7,0
+Clay,B101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,4,1,3,0
+Clay,B101,Commissioner of Agriculture,,DEM,Mikael MALONE,3,1,2,0
+Clay,B101,Commissioner of Agriculture,,DEM,Total Votes,9,2,7,0
+Clay,B103,Governor,,REP,Eric DETERS,4,0,4,0
+Clay,B103,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,B103,Governor,,REP,Mike HARMON,0,0,0,0
+Clay,B103,Governor,,REP,Alan KECK,2,0,2,0
+Clay,B103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,B103,Governor,,REP,Ryan QUARLES,10,1,9,0
+Clay,B103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,B103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,B103,Governor,,REP,Daniel CAMERON,39,2,36,1
+Clay,B103,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,B103,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,B103,Governor,,REP,Kelly CRAFT,10,0,10,0
+Clay,B103,Governor,,REP,Total Votes,65,3,61,1
+Clay,B103,Secretary of State,,REP,Stephen L. KNIPPER,16,0,16,0
+Clay,B103,Secretary of State,,REP,Allen MARICLE,11,0,11,0
+Clay,B103,Secretary of State,,REP,Michael ADAMS,33,2,30,1
+Clay,B103,Secretary of State,,REP,Total Votes,65,3,61,1
+Clay,B103,Auditor of Public Accounts,,REP,Allison BALL,45,2,42,1
+Clay,B103,Auditor of Public Accounts,,REP,Derek PETTEYS,9,0,9,0
+Clay,B103,Auditor of Public Accounts,,REP,Total Votes,65,3,61,1
+Clay,B103,State Treasurer,,REP,Mark H. METCALF,35,2,32,1
+Clay,B103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",6,0,6,0
+Clay,B103,State Treasurer,,REP,Andrew COOPERRIDER,15,0,15,0
+Clay,B103,State Treasurer,,REP,Total Votes,65,3,61,1
+Clay,B103,Commissioner of Agriculture,,REP,Richard HEATH,25,1,24,0
+Clay,B103,Commissioner of Agriculture,,REP,Jonathan SHELL,37,2,34,1
+Clay,B103,Commissioner of Agriculture,,REP,Total Votes,65,3,61,1
+Clay,B103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,B103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,B103,Governor,,DEM,Andy BESHEAR,12,3,9,0
+Clay,B103,Governor,,DEM,Total Votes,12,3,9,0
+Clay,B103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,2,4,0
+Clay,B103,Commissioner of Agriculture,,DEM,Mikael MALONE,4,1,3,0
+Clay,B103,Commissioner of Agriculture,,DEM,Total Votes,12,3,9,0
+Clay,B104,Governor,,REP,Eric DETERS,11,1,10,0
+Clay,B104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,B104,Governor,,REP,Mike HARMON,3,0,2,1
+Clay,B104,Governor,,REP,Alan KECK,6,1,4,1
+Clay,B104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,B104,Governor,,REP,Ryan QUARLES,54,6,48,0
+Clay,B104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,B104,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clay,B104,Governor,,REP,Daniel CAMERON,91,11,80,0
+Clay,B104,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,B104,Governor,,REP,David O. COOPER,2,0,2,0
+Clay,B104,Governor,,REP,Kelly CRAFT,41,3,36,2
+Clay,B104,Governor,,REP,Total Votes,211,22,185,4
+Clay,B104,Secretary of State,,REP,Stephen L. KNIPPER,40,5,35,0
+Clay,B104,Secretary of State,,REP,Allen MARICLE,23,2,21,0
+Clay,B104,Secretary of State,,REP,Michael ADAMS,131,15,112,4
+Clay,B104,Secretary of State,,REP,Total Votes,211,22,185,4
+Clay,B104,Auditor of Public Accounts,,REP,Allison BALL,147,16,129,2
+Clay,B104,Auditor of Public Accounts,,REP,Derek PETTEYS,51,6,43,2
+Clay,B104,Auditor of Public Accounts,,REP,Total Votes,211,22,185,4
+Clay,B104,State Treasurer,,REP,Mark H. METCALF,118,10,106,2
+Clay,B104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",37,5,30,2
+Clay,B104,State Treasurer,,REP,Andrew COOPERRIDER,39,6,33,0
+Clay,B104,State Treasurer,,REP,Total Votes,211,22,185,4
+Clay,B104,Commissioner of Agriculture,,REP,Richard HEATH,83,13,68,2
+Clay,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,117,9,106,2
+Clay,B104,Commissioner of Agriculture,,REP,Total Votes,211,22,185,4
+Clay,B104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,B104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,B104,Governor,,DEM,Andy BESHEAR,9,2,7,0
+Clay,B104,Governor,,DEM,Total Votes,10,3,7,0
+Clay,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,6,2,4,0
+Clay,B104,Commissioner of Agriculture,,DEM,Mikael MALONE,3,1,2,0
+Clay,B104,Commissioner of Agriculture,,DEM,Total Votes,10,3,7,0
+Clay,C101,Governor,,REP,Eric DETERS,3,1,2,0
+Clay,C101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,C101,Governor,,REP,Mike HARMON,0,0,0,0
+Clay,C101,Governor,,REP,Alan KECK,1,0,1,0
+Clay,C101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,C101,Governor,,REP,Ryan QUARLES,8,0,8,0
+Clay,C101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,C101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,C101,Governor,,REP,Daniel CAMERON,23,2,21,0
+Clay,C101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,C101,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,C101,Governor,,REP,Kelly CRAFT,19,0,19,0
+Clay,C101,Governor,,REP,Total Votes,55,3,52,0
+Clay,C101,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Clay,C101,Secretary of State,,REP,Allen MARICLE,9,1,8,0
+Clay,C101,Secretary of State,,REP,Michael ADAMS,39,2,37,0
+Clay,C101,Secretary of State,,REP,Total Votes,55,3,52,0
+Clay,C101,Auditor of Public Accounts,,REP,Allison BALL,44,3,41,0
+Clay,C101,Auditor of Public Accounts,,REP,Derek PETTEYS,10,0,10,0
+Clay,C101,Auditor of Public Accounts,,REP,Total Votes,55,3,52,0
+Clay,C101,State Treasurer,,REP,Mark H. METCALF,38,0,38,0
+Clay,C101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",12,2,10,0
+Clay,C101,State Treasurer,,REP,Andrew COOPERRIDER,4,1,3,0
+Clay,C101,State Treasurer,,REP,Total Votes,55,3,52,0
+Clay,C101,Commissioner of Agriculture,,REP,Richard HEATH,18,3,15,0
+Clay,C101,Commissioner of Agriculture,,REP,Jonathan SHELL,36,0,36,0
+Clay,C101,Commissioner of Agriculture,,REP,Total Votes,55,3,52,0
+Clay,C101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,C101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,C101,Governor,,DEM,Andy BESHEAR,3,0,3,0
+Clay,C101,Governor,,DEM,Total Votes,3,0,3,0
+Clay,C101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,0,1,0
+Clay,C101,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Clay,C101,Commissioner of Agriculture,,DEM,Total Votes,3,0,3,0
+Clay,C102,Governor,,REP,Eric DETERS,2,0,2,0
+Clay,C102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,C102,Governor,,REP,Mike HARMON,2,0,2,0
+Clay,C102,Governor,,REP,Alan KECK,1,0,1,0
+Clay,C102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,C102,Governor,,REP,Ryan QUARLES,14,0,13,1
+Clay,C102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,C102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,C102,Governor,,REP,Daniel CAMERON,42,3,39,0
+Clay,C102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,C102,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,C102,Governor,,REP,Kelly CRAFT,8,0,8,0
+Clay,C102,Governor,,REP,Total Votes,70,3,66,1
+Clay,C102,Secretary of State,,REP,Stephen L. KNIPPER,10,0,10,0
+Clay,C102,Secretary of State,,REP,Allen MARICLE,13,0,12,1
+Clay,C102,Secretary of State,,REP,Michael ADAMS,37,2,35,0
+Clay,C102,Secretary of State,,REP,Total Votes,70,3,66,1
+Clay,C102,Auditor of Public Accounts,,REP,Allison BALL,39,2,36,1
+Clay,C102,Auditor of Public Accounts,,REP,Derek PETTEYS,21,0,21,0
+Clay,C102,Auditor of Public Accounts,,REP,Total Votes,70,3,66,1
+Clay,C102,State Treasurer,,REP,Mark H. METCALF,42,2,39,1
+Clay,C102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",9,0,9,0
+Clay,C102,State Treasurer,,REP,Andrew COOPERRIDER,8,0,8,0
+Clay,C102,State Treasurer,,REP,Total Votes,70,3,66,1
+Clay,C102,Commissioner of Agriculture,,REP,Richard HEATH,31,2,28,1
+Clay,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,27,0,27,0
+Clay,C102,Commissioner of Agriculture,,REP,Total Votes,70,3,66,1
+Clay,C102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,C102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,C102,Governor,,DEM,Andy BESHEAR,0,0,0,0
+Clay,C102,Governor,,DEM,Total Votes,0,0,0,0
+Clay,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clay,C102,Commissioner of Agriculture,,DEM,Mikael MALONE,0,0,0,0
+Clay,C102,Commissioner of Agriculture,,DEM,Total Votes,0,0,0,0
+Clay,C103,Governor,,REP,Eric DETERS,3,0,3,0
+Clay,C103,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,C103,Governor,,REP,Mike HARMON,4,1,3,0
+Clay,C103,Governor,,REP,Alan KECK,6,4,2,0
+Clay,C103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,C103,Governor,,REP,Ryan QUARLES,12,3,8,1
+Clay,C103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,C103,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clay,C103,Governor,,REP,Daniel CAMERON,36,5,31,0
+Clay,C103,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,C103,Governor,,REP,David O. COOPER,1,0,1,0
+Clay,C103,Governor,,REP,Kelly CRAFT,8,1,7,0
+Clay,C103,Governor,,REP,Total Votes,71,14,56,1
+Clay,C103,Secretary of State,,REP,Stephen L. KNIPPER,11,0,11,0
+Clay,C103,Secretary of State,,REP,Allen MARICLE,10,0,10,0
+Clay,C103,Secretary of State,,REP,Michael ADAMS,46,14,31,1
+Clay,C103,Secretary of State,,REP,Total Votes,71,14,56,1
+Clay,C103,Auditor of Public Accounts,,REP,Allison BALL,40,12,27,1
+Clay,C103,Auditor of Public Accounts,,REP,Derek PETTEYS,22,2,20,0
+Clay,C103,Auditor of Public Accounts,,REP,Total Votes,71,14,56,1
+Clay,C103,State Treasurer,,REP,Mark H. METCALF,35,5,29,1
+Clay,C103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",16,7,9,0
+Clay,C103,State Treasurer,,REP,Andrew COOPERRIDER,12,1,11,0
+Clay,C103,State Treasurer,,REP,Total Votes,71,14,56,1
+Clay,C103,Commissioner of Agriculture,,REP,Richard HEATH,25,3,22,0
+Clay,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,38,10,27,1
+Clay,C103,Commissioner of Agriculture,,REP,Total Votes,71,14,56,1
+Clay,C103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,C103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,C103,Governor,,DEM,Andy BESHEAR,2,0,2,0
+Clay,C103,Governor,,DEM,Total Votes,2,0,2,0
+Clay,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clay,C103,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Clay,C103,Commissioner of Agriculture,,DEM,Total Votes,2,0,2,0
+Clay,C104,Governor,,REP,Eric DETERS,8,4,4,0
+Clay,C104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,C104,Governor,,REP,Mike HARMON,3,1,2,0
+Clay,C104,Governor,,REP,Alan KECK,1,0,1,0
+Clay,C104,Governor,,REP,Dennis Ray ORMEROD,1,0,1,0
+Clay,C104,Governor,,REP,Ryan QUARLES,17,0,16,1
+Clay,C104,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Clay,C104,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clay,C104,Governor,,REP,Daniel CAMERON,79,3,73,3
+Clay,C104,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,C104,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,C104,Governor,,REP,Kelly CRAFT,16,0,15,1
+Clay,C104,Governor,,REP,Total Votes,128,8,114,6
+Clay,C104,Secretary of State,,REP,Stephen L. KNIPPER,24,0,24,0
+Clay,C104,Secretary of State,,REP,Allen MARICLE,21,0,21,0
+Clay,C104,Secretary of State,,REP,Michael ADAMS,69,6,59,4
+Clay,C104,Secretary of State,,REP,Total Votes,128,8,114,6
+Clay,C104,Auditor of Public Accounts,,REP,Allison BALL,82,4,74,4
+Clay,C104,Auditor of Public Accounts,,REP,Derek PETTEYS,34,2,32,0
+Clay,C104,Auditor of Public Accounts,,REP,Total Votes,128,8,114,6
+Clay,C104,State Treasurer,,REP,Mark H. METCALF,64,4,59,1
+Clay,C104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,2,15,0
+Clay,C104,State Treasurer,,REP,Andrew COOPERRIDER,33,0,30,3
+Clay,C104,State Treasurer,,REP,Total Votes,128,8,114,6
+Clay,C104,Commissioner of Agriculture,,REP,Richard HEATH,51,1,50,0
+Clay,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,64,5,54,5
+Clay,C104,Commissioner of Agriculture,,REP,Total Votes,128,8,114,6
+Clay,C104,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Clay,C104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,C104,Governor,,DEM,Andy BESHEAR,2,1,1,0
+Clay,C104,Governor,,DEM,Total Votes,3,1,2,0
+Clay,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,0,1,0
+Clay,C104,Commissioner of Agriculture,,DEM,Mikael MALONE,2,1,1,0
+Clay,C104,Commissioner of Agriculture,,DEM,Total Votes,3,1,2,0
+Clay,D102,Governor,,REP,Eric DETERS,0,0,0,0
+Clay,D102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,D102,Governor,,REP,Mike HARMON,0,0,0,0
+Clay,D102,Governor,,REP,Alan KECK,1,0,1,0
+Clay,D102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,D102,Governor,,REP,Ryan QUARLES,1,0,1,0
+Clay,D102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,D102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,D102,Governor,,REP,Daniel CAMERON,12,2,10,0
+Clay,D102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,D102,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,D102,Governor,,REP,Kelly CRAFT,20,0,20,0
+Clay,D102,Governor,,REP,Total Votes,34,2,32,0
+Clay,D102,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Clay,D102,Secretary of State,,REP,Allen MARICLE,4,0,4,0
+Clay,D102,Secretary of State,,REP,Michael ADAMS,17,2,15,0
+Clay,D102,Secretary of State,,REP,Total Votes,34,2,32,0
+Clay,D102,Auditor of Public Accounts,,REP,Allison BALL,22,2,20,0
+Clay,D102,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Clay,D102,Auditor of Public Accounts,,REP,Total Votes,34,2,32,0
+Clay,D102,State Treasurer,,REP,Mark H. METCALF,16,1,15,0
+Clay,D102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,1,1,0
+Clay,D102,State Treasurer,,REP,Andrew COOPERRIDER,8,0,8,0
+Clay,D102,State Treasurer,,REP,Total Votes,34,2,32,0
+Clay,D102,Commissioner of Agriculture,,REP,Richard HEATH,14,1,13,0
+Clay,D102,Commissioner of Agriculture,,REP,Jonathan SHELL,14,1,13,0
+Clay,D102,Commissioner of Agriculture,,REP,Total Votes,34,2,32,0
+Clay,D102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,D102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,D102,Governor,,DEM,Andy BESHEAR,3,0,3,0
+Clay,D102,Governor,,DEM,Total Votes,3,0,3,0
+Clay,D102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,0,1,0
+Clay,D102,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Clay,D102,Commissioner of Agriculture,,DEM,Total Votes,3,0,3,0
+Clay,D103,Governor,,REP,Eric DETERS,1,0,1,0
+Clay,D103,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,D103,Governor,,REP,Mike HARMON,1,0,1,0
+Clay,D103,Governor,,REP,Alan KECK,1,0,1,0
+Clay,D103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,D103,Governor,,REP,Ryan QUARLES,12,1,11,0
+Clay,D103,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,D103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,D103,Governor,,REP,Daniel CAMERON,49,1,45,3
+Clay,D103,Governor,,REP,Jacob CLARK,1,1,0,0
+Clay,D103,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,D103,Governor,,REP,Kelly CRAFT,15,0,15,0
+Clay,D103,Governor,,REP,Total Votes,80,3,74,3
+Clay,D103,Secretary of State,,REP,Stephen L. KNIPPER,9,0,9,0
+Clay,D103,Secretary of State,,REP,Allen MARICLE,18,2,16,0
+Clay,D103,Secretary of State,,REP,Michael ADAMS,41,1,37,3
+Clay,D103,Secretary of State,,REP,Total Votes,80,3,74,3
+Clay,D103,Auditor of Public Accounts,,REP,Allison BALL,55,3,49,3
+Clay,D103,Auditor of Public Accounts,,REP,Derek PETTEYS,13,0,13,0
+Clay,D103,Auditor of Public Accounts,,REP,Total Votes,80,3,74,3
+Clay,D103,State Treasurer,,REP,Mark H. METCALF,45,3,40,2
+Clay,D103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,0,10,0
+Clay,D103,State Treasurer,,REP,Andrew COOPERRIDER,13,0,12,1
+Clay,D103,State Treasurer,,REP,Total Votes,80,3,74,3
+Clay,D103,Commissioner of Agriculture,,REP,Richard HEATH,39,1,37,1
+Clay,D103,Commissioner of Agriculture,,REP,Jonathan SHELL,29,2,25,2
+Clay,D103,Commissioner of Agriculture,,REP,Total Votes,80,3,74,3
+Clay,D103,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,D103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,D103,Governor,,DEM,Andy BESHEAR,4,0,4,0
+Clay,D103,Governor,,DEM,Total Votes,4,0,4,0
+Clay,D103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,0,1,0
+Clay,D103,Commissioner of Agriculture,,DEM,Mikael MALONE,3,0,3,0
+Clay,D103,Commissioner of Agriculture,,DEM,Total Votes,4,0,4,0
+Clay,D104,Governor,,REP,Eric DETERS,3,0,3,0
+Clay,D104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,D104,Governor,,REP,Mike HARMON,4,0,4,0
+Clay,D104,Governor,,REP,Alan KECK,1,0,1,0
+Clay,D104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,D104,Governor,,REP,Ryan QUARLES,5,0,5,0
+Clay,D104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,D104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,D104,Governor,,REP,Daniel CAMERON,45,1,44,0
+Clay,D104,Governor,,REP,Jacob CLARK,1,0,1,0
+Clay,D104,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,D104,Governor,,REP,Kelly CRAFT,5,0,5,0
+Clay,D104,Governor,,REP,Total Votes,65,1,64,0
+Clay,D104,Secretary of State,,REP,Stephen L. KNIPPER,15,0,15,0
+Clay,D104,Secretary of State,,REP,Allen MARICLE,14,0,14,0
+Clay,D104,Secretary of State,,REP,Michael ADAMS,31,1,30,0
+Clay,D104,Secretary of State,,REP,Total Votes,65,1,64,0
+Clay,D104,Auditor of Public Accounts,,REP,Allison BALL,39,0,39,0
+Clay,D104,Auditor of Public Accounts,,REP,Derek PETTEYS,21,1,20,0
+Clay,D104,Auditor of Public Accounts,,REP,Total Votes,65,1,64,0
+Clay,D104,State Treasurer,,REP,Mark H. METCALF,42,0,42,0
+Clay,D104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",4,0,4,0
+Clay,D104,State Treasurer,,REP,Andrew COOPERRIDER,13,1,12,0
+Clay,D104,State Treasurer,,REP,Total Votes,65,1,64,0
+Clay,D104,Commissioner of Agriculture,,REP,Richard HEATH,32,0,32,0
+Clay,D104,Commissioner of Agriculture,,REP,Jonathan SHELL,27,1,26,0
+Clay,D104,Commissioner of Agriculture,,REP,Total Votes,65,1,64,0
+Clay,D104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,D104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,D104,Governor,,DEM,Andy BESHEAR,2,0,2,0
+Clay,D104,Governor,,DEM,Total Votes,2,0,2,0
+Clay,D104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clay,D104,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Clay,D104,Commissioner of Agriculture,,DEM,Total Votes,2,0,2,0
+Clay,E101,Governor,,REP,Eric DETERS,1,0,1,0
+Clay,E101,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,E101,Governor,,REP,Mike HARMON,4,0,4,0
+Clay,E101,Governor,,REP,Alan KECK,0,0,0,0
+Clay,E101,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,E101,Governor,,REP,Ryan QUARLES,7,0,7,0
+Clay,E101,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Clay,E101,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,E101,Governor,,REP,Daniel CAMERON,30,0,30,0
+Clay,E101,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,E101,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,E101,Governor,,REP,Kelly CRAFT,8,0,8,0
+Clay,E101,Governor,,REP,Total Votes,52,0,52,0
+Clay,E101,Secretary of State,,REP,Stephen L. KNIPPER,9,0,9,0
+Clay,E101,Secretary of State,,REP,Allen MARICLE,8,0,8,0
+Clay,E101,Secretary of State,,REP,Michael ADAMS,28,0,28,0
+Clay,E101,Secretary of State,,REP,Total Votes,52,0,52,0
+Clay,E101,Auditor of Public Accounts,,REP,Allison BALL,28,0,28,0
+Clay,E101,Auditor of Public Accounts,,REP,Derek PETTEYS,15,0,15,0
+Clay,E101,Auditor of Public Accounts,,REP,Total Votes,52,0,52,0
+Clay,E101,State Treasurer,,REP,Mark H. METCALF,25,0,25,0
+Clay,E101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",10,0,10,0
+Clay,E101,State Treasurer,,REP,Andrew COOPERRIDER,7,0,7,0
+Clay,E101,State Treasurer,,REP,Total Votes,52,0,52,0
+Clay,E101,Commissioner of Agriculture,,REP,Richard HEATH,18,0,18,0
+Clay,E101,Commissioner of Agriculture,,REP,Jonathan SHELL,24,0,24,0
+Clay,E101,Commissioner of Agriculture,,REP,Total Votes,52,0,52,0
+Clay,E101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,E101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,E101,Governor,,DEM,Andy BESHEAR,2,0,2,0
+Clay,E101,Governor,,DEM,Total Votes,2,0,2,0
+Clay,E101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clay,E101,Commissioner of Agriculture,,DEM,Mikael MALONE,1,0,1,0
+Clay,E101,Commissioner of Agriculture,,DEM,Total Votes,2,0,2,0
+Clay,E102,Governor,,REP,Eric DETERS,6,1,5,0
+Clay,E102,Governor,,REP,Bob DeVORE,1,0,1,0
+Clay,E102,Governor,,REP,Mike HARMON,1,1,0,0
+Clay,E102,Governor,,REP,Alan KECK,3,0,2,1
+Clay,E102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,E102,Governor,,REP,Ryan QUARLES,9,4,5,0
+Clay,E102,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,E102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,E102,Governor,,REP,Daniel CAMERON,27,0,25,2
+Clay,E102,Governor,,REP,Jacob CLARK,2,0,2,0
+Clay,E102,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,E102,Governor,,REP,Kelly CRAFT,9,0,9,0
+Clay,E102,Governor,,REP,Total Votes,58,6,49,3
+Clay,E102,Secretary of State,,REP,Stephen L. KNIPPER,12,0,12,0
+Clay,E102,Secretary of State,,REP,Allen MARICLE,6,0,6,0
+Clay,E102,Secretary of State,,REP,Michael ADAMS,34,5,26,3
+Clay,E102,Secretary of State,,REP,Total Votes,58,6,49,3
+Clay,E102,Auditor of Public Accounts,,REP,Allison BALL,38,4,31,3
+Clay,E102,Auditor of Public Accounts,,REP,Derek PETTEYS,11,1,10,0
+Clay,E102,Auditor of Public Accounts,,REP,Total Votes,58,6,49,3
+Clay,E102,State Treasurer,,REP,Mark H. METCALF,38,5,30,3
+Clay,E102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",7,0,7,0
+Clay,E102,State Treasurer,,REP,Andrew COOPERRIDER,7,0,7,0
+Clay,E102,State Treasurer,,REP,Total Votes,58,6,49,3
+Clay,E102,Commissioner of Agriculture,,REP,Richard HEATH,15,1,14,0
+Clay,E102,Commissioner of Agriculture,,REP,Jonathan SHELL,38,4,31,3
+Clay,E102,Commissioner of Agriculture,,REP,Total Votes,58,6,49,3
+Clay,E102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,E102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,E102,Governor,,DEM,Andy BESHEAR,7,1,6,0
+Clay,E102,Governor,,DEM,Total Votes,7,1,6,0
+Clay,E102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,1,0,1,0
+Clay,E102,Commissioner of Agriculture,,DEM,Mikael MALONE,5,0,5,0
+Clay,E102,Commissioner of Agriculture,,DEM,Total Votes,7,1,6,0
+Clay,E103,Governor,,REP,Eric DETERS,8,1,7,0
+Clay,E103,Governor,,REP,Bob DeVORE,1,0,1,0
+Clay,E103,Governor,,REP,Mike HARMON,5,0,5,0
+Clay,E103,Governor,,REP,Alan KECK,8,2,6,0
+Clay,E103,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,E103,Governor,,REP,Ryan QUARLES,27,6,21,0
+Clay,E103,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Clay,E103,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,E103,Governor,,REP,Daniel CAMERON,93,7,83,3
+Clay,E103,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,E103,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,E103,Governor,,REP,Kelly CRAFT,31,3,28,0
+Clay,E103,Governor,,REP,Total Votes,175,19,153,3
+Clay,E103,Secretary of State,,REP,Stephen L. KNIPPER,30,2,28,0
+Clay,E103,Secretary of State,,REP,Allen MARICLE,31,3,28,0
+Clay,E103,Secretary of State,,REP,Michael ADAMS,104,14,89,1
+Clay,E103,Secretary of State,,REP,Total Votes,175,19,153,3
+Clay,E103,Auditor of Public Accounts,,REP,Allison BALL,111,15,96,0
+Clay,E103,Auditor of Public Accounts,,REP,Derek PETTEYS,49,4,45,0
+Clay,E103,Auditor of Public Accounts,,REP,Total Votes,175,19,153,3
+Clay,E103,State Treasurer,,REP,Mark H. METCALF,101,12,88,1
+Clay,E103,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",28,3,25,0
+Clay,E103,State Treasurer,,REP,Andrew COOPERRIDER,31,4,27,0
+Clay,E103,State Treasurer,,REP,Total Votes,175,19,153,3
+Clay,E103,Commissioner of Agriculture,,REP,Richard HEATH,76,6,70,0
+Clay,E103,Commissioner of Agriculture,,REP,Jonathan SHELL,86,13,72,1
+Clay,E103,Commissioner of Agriculture,,REP,Total Votes,175,19,153,3
+Clay,E103,Governor,,DEM,Peppy MARTIN,1,0,1,0
+Clay,E103,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,E103,Governor,,DEM,Andy BESHEAR,10,1,9,0
+Clay,E103,Governor,,DEM,Total Votes,11,1,10,0
+Clay,E103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Clay,E103,Commissioner of Agriculture,,DEM,Mikael MALONE,8,1,7,0
+Clay,E103,Commissioner of Agriculture,,DEM,Total Votes,11,1,10,0
+Clay,E104,Governor,,REP,Eric DETERS,1,0,1,0
+Clay,E104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,E104,Governor,,REP,Mike HARMON,1,0,1,0
+Clay,E104,Governor,,REP,Alan KECK,0,0,0,0
+Clay,E104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,E104,Governor,,REP,Ryan QUARLES,3,1,2,0
+Clay,E104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,E104,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,E104,Governor,,REP,Daniel CAMERON,10,0,10,0
+Clay,E104,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,E104,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,E104,Governor,,REP,Kelly CRAFT,6,0,6,0
+Clay,E104,Governor,,REP,Total Votes,21,1,20,0
+Clay,E104,Secretary of State,,REP,Stephen L. KNIPPER,5,0,5,0
+Clay,E104,Secretary of State,,REP,Allen MARICLE,3,0,3,0
+Clay,E104,Secretary of State,,REP,Michael ADAMS,10,0,10,0
+Clay,E104,Secretary of State,,REP,Total Votes,21,1,20,0
+Clay,E104,Auditor of Public Accounts,,REP,Allison BALL,12,1,11,0
+Clay,E104,Auditor of Public Accounts,,REP,Derek PETTEYS,6,0,6,0
+Clay,E104,Auditor of Public Accounts,,REP,Total Votes,21,1,20,0
+Clay,E104,State Treasurer,,REP,Mark H. METCALF,15,0,15,0
+Clay,E104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",2,0,2,0
+Clay,E104,State Treasurer,,REP,Andrew COOPERRIDER,1,0,1,0
+Clay,E104,State Treasurer,,REP,Total Votes,21,1,20,0
+Clay,E104,Commissioner of Agriculture,,REP,Richard HEATH,8,0,8,0
+Clay,E104,Commissioner of Agriculture,,REP,Jonathan SHELL,10,0,10,0
+Clay,E104,Commissioner of Agriculture,,REP,Total Votes,21,1,20,0
+Clay,E104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,E104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,E104,Governor,,DEM,Andy BESHEAR,2,0,2,0
+Clay,E104,Governor,,DEM,Total Votes,2,0,2,0
+Clay,E104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,0,0,0,0
+Clay,E104,Commissioner of Agriculture,,DEM,Mikael MALONE,2,0,2,0
+Clay,E104,Commissioner of Agriculture,,DEM,Total Votes,2,0,2,0
+Clay,F101,Governor,,REP,Eric DETERS,3,0,3,0
+Clay,F101,Governor,,REP,Bob DeVORE,2,0,2,0
+Clay,F101,Governor,,REP,Mike HARMON,1,0,1,0
+Clay,F101,Governor,,REP,Alan KECK,1,0,1,0
+Clay,F101,Governor,,REP,Dennis Ray ORMEROD,2,0,2,0
+Clay,F101,Governor,,REP,Ryan QUARLES,30,0,29,1
+Clay,F101,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,F101,Governor,,REP,Robbie C. SMITH,1,0,1,0
+Clay,F101,Governor,,REP,Daniel CAMERON,57,4,53,0
+Clay,F101,Governor,,REP,Jacob CLARK,1,0,1,0
+Clay,F101,Governor,,REP,David O. COOPER,0,0,0,0
+Clay,F101,Governor,,REP,Kelly CRAFT,19,0,19,0
+Clay,F101,Governor,,REP,Total Votes,117,4,112,1
+Clay,F101,Secretary of State,,REP,Stephen L. KNIPPER,19,4,15,0
+Clay,F101,Secretary of State,,REP,Allen MARICLE,18,0,18,0
+Clay,F101,Secretary of State,,REP,Michael ADAMS,67,0,66,1
+Clay,F101,Secretary of State,,REP,Total Votes,117,4,112,1
+Clay,F101,Auditor of Public Accounts,,REP,Allison BALL,68,1,66,1
+Clay,F101,Auditor of Public Accounts,,REP,Derek PETTEYS,36,3,33,0
+Clay,F101,Auditor of Public Accounts,,REP,Total Votes,117,4,112,1
+Clay,F101,State Treasurer,,REP,Mark H. METCALF,65,4,60,1
+Clay,F101,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",17,0,17,0
+Clay,F101,State Treasurer,,REP,Andrew COOPERRIDER,19,0,19,0
+Clay,F101,State Treasurer,,REP,Total Votes,117,4,112,1
+Clay,F101,Commissioner of Agriculture,,REP,Richard HEATH,48,4,44,0
+Clay,F101,Commissioner of Agriculture,,REP,Jonathan SHELL,58,0,57,1
+Clay,F101,Commissioner of Agriculture,,REP,Total Votes,117,4,112,1
+Clay,F101,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,F101,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,F101,Governor,,DEM,Andy BESHEAR,9,1,8,0
+Clay,F101,Governor,,DEM,Total Votes,9,1,8,0
+Clay,F101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,2,0,2,0
+Clay,F101,Commissioner of Agriculture,,DEM,Mikael MALONE,6,1,5,0
+Clay,F101,Commissioner of Agriculture,,DEM,Total Votes,9,1,8,0
+Clay,F102,Governor,,REP,Eric DETERS,2,0,2,0
+Clay,F102,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,F102,Governor,,REP,Mike HARMON,8,1,7,0
+Clay,F102,Governor,,REP,Alan KECK,6,1,5,0
+Clay,F102,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,F102,Governor,,REP,Ryan QUARLES,20,1,19,0
+Clay,F102,Governor,,REP,Johnny Ray RICE,1,0,1,0
+Clay,F102,Governor,,REP,Robbie C. SMITH,0,0,0,0
+Clay,F102,Governor,,REP,Daniel CAMERON,56,4,51,1
+Clay,F102,Governor,,REP,Jacob CLARK,0,0,0,0
+Clay,F102,Governor,,REP,David O. COOPER,1,1,0,0
+Clay,F102,Governor,,REP,Kelly CRAFT,19,0,19,0
+Clay,F102,Governor,,REP,Total Votes,113,8,104,1
+Clay,F102,Secretary of State,,REP,Stephen L. KNIPPER,27,1,26,0
+Clay,F102,Secretary of State,,REP,Allen MARICLE,18,1,17,0
+Clay,F102,Secretary of State,,REP,Michael ADAMS,52,6,45,1
+Clay,F102,Secretary of State,,REP,Total Votes,113,8,104,1
+Clay,F102,Auditor of Public Accounts,,REP,Allison BALL,84,6,77,1
+Clay,F102,Auditor of Public Accounts,,REP,Derek PETTEYS,20,2,18,0
+Clay,F102,Auditor of Public Accounts,,REP,Total Votes,113,8,104,1
+Clay,F102,State Treasurer,,REP,Mark H. METCALF,64,5,59,0
+Clay,F102,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",11,2,8,1
+Clay,F102,State Treasurer,,REP,Andrew COOPERRIDER,23,1,22,0
+Clay,F102,State Treasurer,,REP,Total Votes,113,8,104,1
+Clay,F102,Commissioner of Agriculture,,REP,Richard HEATH,41,2,39,0
+Clay,F102,Commissioner of Agriculture,,REP,Jonathan SHELL,59,6,52,1
+Clay,F102,Commissioner of Agriculture,,REP,Total Votes,113,8,104,1
+Clay,F102,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,F102,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,F102,Governor,,DEM,Andy BESHEAR,3,0,3,0
+Clay,F102,Governor,,DEM,Total Votes,3,0,3,0
+Clay,F102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,3,0,3,0
+Clay,F102,Commissioner of Agriculture,,DEM,Mikael MALONE,0,0,0,0
+Clay,F102,Commissioner of Agriculture,,DEM,Total Votes,3,0,3,0
+Clay,F104,Governor,,REP,Eric DETERS,4,0,4,0
+Clay,F104,Governor,,REP,Bob DeVORE,0,0,0,0
+Clay,F104,Governor,,REP,Mike HARMON,3,0,3,0
+Clay,F104,Governor,,REP,Alan KECK,0,0,0,0
+Clay,F104,Governor,,REP,Dennis Ray ORMEROD,0,0,0,0
+Clay,F104,Governor,,REP,Ryan QUARLES,20,0,20,0
+Clay,F104,Governor,,REP,Johnny Ray RICE,0,0,0,0
+Clay,F104,Governor,,REP,Robbie C. SMITH,2,0,2,0
+Clay,F104,Governor,,REP,Daniel CAMERON,47,2,45,0
+Clay,F104,Governor,,REP,Jacob CLARK,1,0,1,0
+Clay,F104,Governor,,REP,David O. COOPER,1,0,1,0
+Clay,F104,Governor,,REP,Kelly CRAFT,23,0,23,0
+Clay,F104,Governor,,REP,Total Votes,101,2,99,0
+Clay,F104,Secretary of State,,REP,Stephen L. KNIPPER,18,0,18,0
+Clay,F104,Secretary of State,,REP,Allen MARICLE,18,0,18,0
+Clay,F104,Secretary of State,,REP,Michael ADAMS,61,2,59,0
+Clay,F104,Secretary of State,,REP,Total Votes,101,2,99,0
+Clay,F104,Auditor of Public Accounts,,REP,Allison BALL,76,2,74,0
+Clay,F104,Auditor of Public Accounts,,REP,Derek PETTEYS,20,0,20,0
+Clay,F104,Auditor of Public Accounts,,REP,Total Votes,101,2,99,0
+Clay,F104,State Treasurer,,REP,Mark H. METCALF,58,2,56,0
+Clay,F104,State Treasurer,,REP,"O. C. ""OJ"" OLEKA",23,0,23,0
+Clay,F104,State Treasurer,,REP,Andrew COOPERRIDER,16,0,16,0
+Clay,F104,State Treasurer,,REP,Total Votes,101,2,99,0
+Clay,F104,Commissioner of Agriculture,,REP,Richard HEATH,46,1,45,0
+Clay,F104,Commissioner of Agriculture,,REP,Jonathan SHELL,49,1,48,0
+Clay,F104,Commissioner of Agriculture,,REP,Total Votes,101,2,99,0
+Clay,F104,Governor,,DEM,Peppy MARTIN,0,0,0,0
+Clay,F104,Governor,,DEM,"Geoffrey M. ""Geoff"" YOUNG",0,0,0,0
+Clay,F104,Governor,,DEM,Andy BESHEAR,5,0,5,0
+Clay,F104,Governor,,DEM,Total Votes,5,0,5,0
+Clay,F104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,5,0,5,0
+Clay,F104,Commissioner of Agriculture,,DEM,Mikael MALONE,0,0,0,0
+Clay,F104,Commissioner of Agriculture,,DEM,Total Votes,5,0,5,0
