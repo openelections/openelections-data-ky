@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Mason,A101,STRAIGHT PARTY,,,Republican,40,11,28,1
+Mason,A101,STRAIGHT PARTY,,,Democratic,100,31,61,8
+Mason,A101,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",66,18,47,1
+Mason,A101,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,178,49,119,10
+Mason,A101,Governor,,,Brian Fishback / William Fishback,1,0,1,0
+Mason,A101,Governor,,,Total Votes,245,67,167,11
+Mason,A101,Governor,,,Under Votes,2,0,2,0
+Mason,A101,Governor,,,Over Votes,0,0,0,0
+Mason,A101,Secretary of State,,REP,Michael ADAMS,86,23,62,1
+Mason,A101,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",156,42,104,10
+Mason,A101,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,A101,Secretary of State,,,Total Votes,242,65,166,11
+Mason,A101,Secretary of State,,,Under Votes,5,2,3,0
+Mason,A101,Secretary of State,,,Over Votes,0,0,0,0
+Mason,A101,Attorney General,,REP,Russell COLEMAN,80,24,55,1
+Mason,A101,Attorney General,,DEM,Pamela STEVENSON,161,42,109,10
+Mason,A101,Attorney General,,,Total Votes,241,66,164,11
+Mason,A101,Attorney General,,,Under Votes,6,1,5,0
+Mason,A101,Attorney General,,,Over Votes,0,0,0,0
+Mason,A101,Auditor of Public Accounts,,REP,Allison BALL,85,25,59,1
+Mason,A101,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",157,41,106,10
+Mason,A101,Auditor of Public Accounts,,,Total Votes,242,66,165,11
+Mason,A101,Auditor of Public Accounts,,,Under Votes,5,1,4,0
+Mason,A101,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,A101,State Treasurer,,REP,Mark H. METCALF,79,23,55,1
+Mason,A101,State Treasurer,,DEM,Michael BOWMAN,159,41,108,10
+Mason,A101,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,A101,State Treasurer,,,Total Votes,238,64,163,11
+Mason,A101,State Treasurer,,,Under Votes,9,3,6,0
+Mason,A101,State Treasurer,,,Over Votes,0,0,0,0
+Mason,A101,Commissioner of Agriculture,,REP,Jonathan SHELL,81,20,60,1
+Mason,A101,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,158,45,103,10
+Mason,A101,Commissioner of Agriculture,,,Total Votes,239,65,163,11
+Mason,A101,Commissioner of Agriculture,,,Under Votes,8,2,6,0
+Mason,A101,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,A103,STRAIGHT PARTY,,,Republican,83,23,59,1
+Mason,A103,STRAIGHT PARTY,,,Democratic,110,46,60,4
+Mason,A103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",123,30,90,3
+Mason,A103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,202,67,127,8
+Mason,A103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,A103,Governor,,,Total Votes,325,97,217,11
+Mason,A103,Governor,,,Under Votes,1,0,1,0
+Mason,A103,Governor,,,Over Votes,0,0,0,0
+Mason,A103,Secretary of State,,REP,Michael ADAMS,148,37,107,4
+Mason,A103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",172,60,105,7
+Mason,A103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,A103,Secretary of State,,,Total Votes,320,97,212,11
+Mason,A103,Secretary of State,,,Under Votes,0,0,6,0
+Mason,A103,Secretary of State,,,Over Votes,0,0,0,0
+Mason,A103,Attorney General,,REP,Russell COLEMAN,145,33,108,4
+Mason,A103,Attorney General,,DEM,Pamela STEVENSON,174,63,104,7
+Mason,A103,Attorney General,,,Total Votes,319,96,212,11
+Mason,A103,Attorney General,,,Under Votes,7,1,6,0
+Mason,A103,Attorney General,,,Over Votes,0,0,0,0
+Mason,A103,Auditor of Public Accounts,,REP,Allison BALL,149,34,111,2
+Mason,A103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",171,62,102,7
+Mason,A103,Auditor of Public Accounts,,,Total Votes,320,96,213,11
+Mason,A103,Auditor of Public Accounts,,,Under Votes,6,1,5,0
+Mason,A103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,A103,State Treasurer,,REP,Mark H. METCALF,138,33,102,3
+Mason,A103,State Treasurer,,DEM,Michael BOWMAN,182,64,110,8
+Mason,A103,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,A103,State Treasurer,,,Total Votes,320,97,212,11
+Mason,A103,State Treasurer,,,Under Votes,6,0,6,0
+Mason,A103,State Treasurer,,,Over Votes,0,0,0,0
+Mason,A103,Commissioner of Agriculture,,REP,Jonathan SHELL,152,37,110,6
+Mason,A103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,165,59,100,6
+Mason,A103,Commissioner of Agriculture,,,Total Votes,317,96,210,11
+Mason,A103,Commissioner of Agriculture,,,Under Votes,9,1,8,0
+Mason,A103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,A104,STRAIGHT PARTY,,,Republican,63,9,52,2
+Mason,A104,STRAIGHT PARTY,,,Democratic,86,17,61,8
+Mason,A104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",89,10,77,2
+Mason,A104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,153,39,101,13
+Mason,A104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,A104,Governor,,,Total Votes,242,49,178,15
+Mason,A104,Governor,,,Under Votes,1,1,0,0
+Mason,A104,Governor,,,Over Votes,0,0,0,0
+Mason,A104,Secretary of State,,REP,Michael ADAMS,114,21,89,4
+Mason,A104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",128,28,89,11
+Mason,A104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,A104,Secretary of State,,,Total Votes,242,49,178,15
+Mason,A104,Secretary of State,,,Under Votes,1,1,0,0
+Mason,A104,Secretary of State,,,Over Votes,0,0,0,0
+Mason,A104,Attorney General,,REP,Russell COLEMAN,113,17,91,5
+Mason,A104,Attorney General,,DEM,Pamela STEVENSON,128,31,87,10
+Mason,A104,Attorney General,,,Total Votes,241,48,178,15
+Mason,A104,Attorney General,,,Under Votes,2,2,0,0
+Mason,A104,Attorney General,,,Over Votes,0,0,0,0
+Mason,A104,Auditor of Public Accounts,,REP,Allison BALL,116,18,94,4
+Mason,A104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",124,30,83,11
+Mason,A104,Auditor of Public Accounts,,,Total Votes,240,48,177,15
+Mason,A104,Auditor of Public Accounts,,,Under Votes,3,2,1,0
+Mason,A104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,A104,State Treasurer,,REP,Mark H. METCALF,111,16,90,5
+Mason,A104,State Treasurer,,DEM,Michael BOWMAN,130,32,88,10
+Mason,A104,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,A104,State Treasurer,,,Total Votes,241,48,178,15
+Mason,A104,State Treasurer,,,Under Votes,2,2,0,0
+Mason,A104,State Treasurer,,,Over Votes,0,0,0,0
+Mason,A104,Commissioner of Agriculture,,REP,Jonathan SHELL,112,17,92,3
+Mason,A104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,128,31,85,12
+Mason,A104,Commissioner of Agriculture,,,Total Votes,240,48,177,15
+Mason,A104,Commissioner of Agriculture,,,Under Votes,3,2,1,0
+Mason,A104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,A105,STRAIGHT PARTY,,,Republican,98,10,87,1
+Mason,A105,STRAIGHT PARTY,,,Democratic,37,11,23,3
+Mason,A105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",155,15,138,2
+Mason,A105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,109,28,78,3
+Mason,A105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,A105,Governor,,,Total Votes,264,43,216,5
+Mason,A105,Governor,,,Under Votes,0,0,0,0
+Mason,A105,Governor,,,Over Votes,0,0,0,0
+Mason,A105,Secretary of State,,REP,Michael ADAMS,181,22,157,2
+Mason,A105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",80,20,57,3
+Mason,A105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,A105,Secretary of State,,,Total Votes,261,42,214,5
+Mason,A105,Secretary of State,,,Under Votes,3,1,2,0
+Mason,A105,Secretary of State,,,Over Votes,0,0,0,0
+Mason,A105,Attorney General,,REP,Russell COLEMAN,179,17,160,2
+Mason,A105,Attorney General,,DEM,Pamela STEVENSON,79,23,53,3
+Mason,A105,Attorney General,,,Total Votes,258,40,213,5
+Mason,A105,Attorney General,,,Under Votes,6,3,3,0
+Mason,A105,Attorney General,,,Over Votes,0,0,0,0
+Mason,A105,Auditor of Public Accounts,,REP,Allison BALL,180,17,162,1
+Mason,A105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",76,23,49,4
+Mason,A105,Auditor of Public Accounts,,,Total Votes,256,40,211,5
+Mason,A105,Auditor of Public Accounts,,,Under Votes,8,3,5,0
+Mason,A105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,A105,State Treasurer,,REP,Mark H. METCALF,175,19,154,2
+Mason,A105,State Treasurer,,DEM,Michael BOWMAN,83,22,58,3
+Mason,A105,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,A105,State Treasurer,,,Total Votes,258,41,212,5
+Mason,A105,State Treasurer,,,Under Votes,6,2,4,0
+Mason,A105,State Treasurer,,,Over Votes,0,0,0,0
+Mason,A105,Commissioner of Agriculture,,REP,Jonathan SHELL,184,19,163,2
+Mason,A105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,74,22,49,3
+Mason,A105,Commissioner of Agriculture,,,Total Votes,258,41,212,5
+Mason,A105,Commissioner of Agriculture,,,Under Votes,6,2,4,0
+Mason,A105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,B102,STRAIGHT PARTY,,,Republican,108,15,92,1
+Mason,B102,STRAIGHT PARTY,,,Democratic,31,4,23,5
+Mason,B102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",150,23,125,150
+Mason,B102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,85,10,70,85
+Mason,B102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,B102,Governor,,,Total Votes,235,33,195,235
+Mason,B102,Governor,,,Under Votes,0,0,0,0
+Mason,B102,Governor,,,Over Votes,0,0,0,0
+Mason,B102,Secretary of State,,REP,Michael ADAMS,167,24,140,3
+Mason,B102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",60,8,48,4
+Mason,B102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,B102,Secretary of State,,,Total Votes,227,32,188,7
+Mason,B102,Secretary of State,,,Under Votes,8,1,7,0
+Mason,B102,Secretary of State,,,Over Votes,0,0,0,0
+Mason,B102,Attorney General,,REP,Russell COLEMAN,163,26,134,3
+Mason,B102,Attorney General,,DEM,Pamela STEVENSON,65,6,55,4
+Mason,B102,Attorney General,,,Total Votes,228,32,189,7
+Mason,B102,Attorney General,,,Under Votes,7,1,6,0
+Mason,B102,Attorney General,,,Over Votes,0,0,0,0
+Mason,B102,Auditor of Public Accounts,,REP,Allison BALL,162,21,138,3
+Mason,B102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",61,11,46,4
+Mason,B102,Auditor of Public Accounts,,,Total Votes,223,32,184,7
+Mason,B102,Auditor of Public Accounts,,,Under Votes,12,1,11,0
+Mason,B102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,B102,State Treasurer,,REP,Mark H. METCALF,167,25,139,3
+Mason,B102,State Treasurer,,DEM,Michael BOWMAN,58,7,47,4
+Mason,B102,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,B102,State Treasurer,,,Total Votes,225,32,186,7
+Mason,B102,State Treasurer,,,Under Votes,10,1,9,0
+Mason,B102,State Treasurer,,,Over Votes,0,0,0,0
+Mason,B102,Commissioner of Agriculture,,REP,Jonathan SHELL,172,25,172,3
+Mason,B102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,54,7,54,4
+Mason,B102,Commissioner of Agriculture,,,Total Votes,226,32,226,7
+Mason,B102,Commissioner of Agriculture,,,Under Votes,9,1,9,0
+Mason,B102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,B104,STRAIGHT PARTY,,,Republican,102,3,99,0
+Mason,B104,STRAIGHT PARTY,,,Democratic,31,2,26,3
+Mason,B104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",159,6,153,0
+Mason,B104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,80,5,71,4
+Mason,B104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,B104,Governor,,,Total Votes,239,11,224,4
+Mason,B104,Governor,,,Under Votes,1,0,1,0
+Mason,B104,Governor,,,Over Votes,0,0,0,0
+Mason,B104,Secretary of State,,REP,Michael ADAMS,180,8,172,0
+Mason,B104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",54,3,47,4
+Mason,B104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,B104,Secretary of State,,,Total Votes,234,11,219,4
+Mason,B104,Secretary of State,,,Under Votes,6,0,6,0
+Mason,B104,Secretary of State,,,Over Votes,0,0,0,0
+Mason,B104,Attorney General,,REP,Russell COLEMAN,181,8,173,0
+Mason,B104,Attorney General,,DEM,Pamela STEVENSON,53,3,46,4
+Mason,B104,Attorney General,,,Total Votes,234,11,219,4
+Mason,B104,Attorney General,,,Under Votes,6,0,6,0
+Mason,B104,Attorney General,,,Over Votes,0,0,0,0
+Mason,B104,Auditor of Public Accounts,,REP,Allison BALL,176,8,168,0
+Mason,B104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",58,3,51,4
+Mason,B104,Auditor of Public Accounts,,,Total Votes,234,11,219,4
+Mason,B104,Auditor of Public Accounts,,,Under Votes,6,0,6,0
+Mason,B104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,B104,State Treasurer,,REP,Mark H. METCALF,174,8,166,0
+Mason,B104,State Treasurer,,DEM,Michael BOWMAN,58,3,51,4
+Mason,B104,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,B104,State Treasurer,,,Total Votes,232,11,217,4
+Mason,B104,State Treasurer,,,Under Votes,8,0,8,0
+Mason,B104,State Treasurer,,,Over Votes,0,0,0,0
+Mason,B104,Commissioner of Agriculture,,REP,Jonathan SHELL,186,7,179,0
+Mason,B104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,46,3,39,4
+Mason,B104,Commissioner of Agriculture,,,Total Votes,232,10,218,4
+Mason,B104,Commissioner of Agriculture,,,Under Votes,8,1,7,0
+Mason,B104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,B106,STRAIGHT PARTY,,,Republican,187,10,175,2
+Mason,B106,STRAIGHT PARTY,,,Democratic,67,6,57,4
+Mason,B106,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",319,19,295,5
+Mason,B106,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,174,16,151,7
+Mason,B106,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,B106,Governor,,,Total Votes,493,35,446,12
+Mason,B106,Governor,,,Under Votes,4,0,4,0
+Mason,B106,Governor,,,Over Votes,0,0,0,0
+Mason,B106,Secretary of State,,REP,Michael ADAMS,367,23,337,7
+Mason,B106,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",112,11,97,4
+Mason,B106,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,B106,Secretary of State,,,Total Votes,479,34,434,11
+Mason,B106,Secretary of State,,,Under Votes,18,1,16,1
+Mason,B106,Secretary of State,,,Over Votes,0,0,0,0
+Mason,B106,Attorney General,,REP,Russell COLEMAN,356,22,327,7
+Mason,B106,Attorney General,,DEM,Pamela STEVENSON,130,13,113,4
+Mason,B106,Attorney General,,,Total Votes,486,35,440,11
+Mason,B106,Attorney General,,,Under Votes,11,0,10,1
+Mason,B106,Attorney General,,,Over Votes,0,0,0,0
+Mason,B106,Auditor of Public Accounts,,REP,Allison BALL,371,23,341,7
+Mason,B106,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",109,12,93,4
+Mason,B106,Auditor of Public Accounts,,,Total Votes,480,35,434,11
+Mason,B106,Auditor of Public Accounts,,,Under Votes,17,0,16,1
+Mason,B106,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,B106,State Treasurer,,REP,Mark H. METCALF,358,23,328,7
+Mason,B106,State Treasurer,,DEM,Michael BOWMAN,122,11,107,4
+Mason,B106,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,B106,State Treasurer,,,Total Votes,480,34,435,11
+Mason,B106,State Treasurer,,,Under Votes,17,1,15,1
+Mason,B106,State Treasurer,,,Over Votes,0,0,0,0
+Mason,B106,Commissioner of Agriculture,,REP,Jonathan SHELL,364,22,235,7
+Mason,B106,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,118,12,102,4
+Mason,B106,Commissioner of Agriculture,,,Total Votes,482,34,437,11
+Mason,B106,Commissioner of Agriculture,,,Under Votes,15,1,13,1
+Mason,B106,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,B107,STRAIGHT PARTY,,,Republican,204,29,174,1
+Mason,B107,STRAIGHT PARTY,,,Democratic,102,30,65,7
+Mason,B107,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",306,42,262,2
+Mason,B107,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,268,69,182,17
+Mason,B107,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,B107,Governor,,,Total Votes,574,111,444,19
+Mason,B107,Governor,,,Under Votes,1,0,1,0
+Mason,B107,Governor,,,Over Votes,0,0,0,0
+Mason,B107,Secretary of State,,REP,Michael ADAMS,383,62,315,6
+Mason,B107,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",177,47,117,13
+Mason,B107,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,B107,Secretary of State,,,Total Votes,560,109,432,19
+Mason,B107,Secretary of State,,,Under Votes,15,2,13,0
+Mason,B107,Secretary of State,,,Over Votes,0,0,0,0
+Mason,B107,Attorney General,,REP,Russell COLEMAN,160,57,299,4
+Mason,B107,Attorney General,,DEM,Pamela STEVENSON,196,51,131,14
+Mason,B107,Attorney General,,,Total Votes,556,108,430,18
+Mason,B107,Attorney General,,,Under Votes,1,3,15,1
+Mason,B107,Attorney General,,,Over Votes,0,0,0,0
+Mason,B107,Auditor of Public Accounts,,REP,Allison BALL,364,52,305,7
+Mason,B107,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",187,54,122,11
+Mason,B107,Auditor of Public Accounts,,,Total Votes,551,106,427,18
+Mason,B107,Auditor of Public Accounts,,,Under Votes,24,5,18,1
+Mason,B107,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,B107,State Treasurer,,REP,Mark H. METCALF,301,48,289,4
+Mason,B107,State Treasurer,,DEM,Michael BOWMAN,204,56,134,14
+Mason,B107,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,B107,State Treasurer,,,Total Votes,545,104,423,18
+Mason,B107,State Treasurer,,,Under Votes,30,7,22,1
+Mason,B107,State Treasurer,,,Over Votes,0,0,0,0
+Mason,B107,Commissioner of Agriculture,,REP,Jonathan SHELL,366,55,304,7
+Mason,B107,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,182,49,121,12
+Mason,B107,Commissioner of Agriculture,,,Total Votes,548,104,425,19
+Mason,B107,Commissioner of Agriculture,,,Under Votes,27,7,20,0
+Mason,B107,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,B108,STRAIGHT PARTY,,,Republican,213,33,164,16
+Mason,B108,STRAIGHT PARTY,,,Democratic,118,29,71,18
+Mason,B108,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",328,50,257,21
+Mason,B108,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,312,81,200,31
+Mason,B108,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,B108,Governor,,,Total Votes,640,131,457,52
+Mason,B108,Governor,,,Under Votes,0,0,0,0
+Mason,B108,Governor,,,Over Votes,0,0,0,0
+Mason,B108,Secretary of State,,REP,Michael ADAMS,415,80,308,27
+Mason,B108,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",202,44,135,23
+Mason,B108,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,B108,Secretary of State,,,Total Votes,617,124,443,50
+Mason,B108,Secretary of State,,,Under Votes,23,7,14,2
+Mason,B108,Secretary of State,,,Over Votes,0,0,0,0
+Mason,B108,Attorney General,,REP,Russell COLEMAN,393,72,297,24
+Mason,B108,Attorney General,,DEM,Pamela STEVENSON,217,48,143,26
+Mason,B108,Attorney General,,,Total Votes,610,120,440,50
+Mason,B108,Attorney General,,,Under Votes,30,11,17,2
+Mason,B108,Attorney General,,,Over Votes,0,0,0,0
+Mason,B108,Auditor of Public Accounts,,REP,Allison BALL,397,70,303,24
+Mason,B108,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",217,50,139,25
+Mason,B108,Auditor of Public Accounts,,,Total Votes,610,120,442,49
+Mason,B108,Auditor of Public Accounts,,,Under Votes,30,11,15,3
+Mason,B108,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,B108,State Treasurer,,REP,Mark H. METCALF,382,71,287,26
+Mason,B108,State Treasurer,,DEM,Michael BOWMAN,225,49,151,25
+Mason,B108,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,B108,State Treasurer,,,Total Votes,607,120,438,49
+Mason,B108,State Treasurer,,,Under Votes,33,11,19,3
+Mason,B108,State Treasurer,,,Over Votes,0,0,0,0
+Mason,B108,Commissioner of Agriculture,,REP,Jonathan SHELL,402,72,304,26
+Mason,B108,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,205,47,134,24
+Mason,B108,Commissioner of Agriculture,,,Total Votes,607,119,438,50
+Mason,B108,Commissioner of Agriculture,,,Under Votes,33,12,19,2
+Mason,B108,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,C102,STRAIGHT PARTY,,,Republican,185,30,148,7
+Mason,C102,STRAIGHT PARTY,,,Democratic,136,43,79,14
+Mason,C102,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",318,51,255,12
+Mason,C102,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,319,85,210,24
+Mason,C102,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,C102,Governor,,,Total Votes,637,136,465,36
+Mason,C102,Governor,,,Under Votes,2,1,1,0
+Mason,C102,Governor,,,Over Votes,0,0,0,0
+Mason,C102,Secretary of State,,REP,Michael ADAMS,384,63,307,14
+Mason,C102,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",239,68,151,20
+Mason,C102,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,C102,Secretary of State,,,Total Votes,623,131,458,34
+Mason,C102,Secretary of State,,,Under Votes,16,6,8,2
+Mason,C102,Secretary of State,,,Over Votes,0,0,0,0
+Mason,C102,Attorney General,,REP,Russell COLEMAN,367,61,293,13
+Mason,C102,Attorney General,,DEM,Pamela STEVENSON,255,72,163,20
+Mason,C102,Attorney General,,,Total Votes,622,133,456,33
+Mason,C102,Attorney General,,,Under Votes,17,4,10,3
+Mason,C102,Attorney General,,,Over Votes,0,0,0,0
+Mason,C102,Auditor of Public Accounts,,REP,Allison BALL,366,61,292,13
+Mason,C102,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",249,67,163,19
+Mason,C102,Auditor of Public Accounts,,,Total Votes,615,128,455,32
+Mason,C102,Auditor of Public Accounts,,,Under Votes,24,9,11,4
+Mason,C102,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,C102,State Treasurer,,REP,Mark H. METCALF,357,58,285,14
+Mason,C102,State Treasurer,,DEM,Michael BOWMAN,256,71,165,20
+Mason,C102,State Treasurer,,,Robert Perry,1,0,1,0
+Mason,C102,State Treasurer,,,Total Votes,614,129,451,34
+Mason,C102,State Treasurer,,,Under Votes,25,8,15,2
+Mason,C102,State Treasurer,,,Over Votes,0,0,0,0
+Mason,C102,Commissioner of Agriculture,,REP,Jonathan SHELL,379,65,300,14
+Mason,C102,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,232,64,149,19
+Mason,C102,Commissioner of Agriculture,,,Total Votes,611,129,449,33
+Mason,C102,Commissioner of Agriculture,,,Under Votes,28,8,17,3
+Mason,C102,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,C103,STRAIGHT PARTY,,,Republican,107,11,93,3
+Mason,C103,STRAIGHT PARTY,,,Democratic,47,9,36,2
+Mason,C103,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",183,23,155,5
+Mason,C103,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,116,25,85,6
+Mason,C103,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,C103,Governor,,,Total Votes,299,48,240,11
+Mason,C103,Governor,,,Under Votes,0,0,0,0
+Mason,C103,Governor,,,Over Votes,0,0,0,0
+Mason,C103,Secretary of State,,REP,Michael ADAMS,213,30,178,5
+Mason,C103,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",83,17,60,6
+Mason,C103,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,C103,Secretary of State,,,Total Votes,296,47,238,11
+Mason,C103,Secretary of State,,,Under Votes,3,1,2,0
+Mason,C103,Secretary of State,,,Over Votes,0,0,0,0
+Mason,C103,Attorney General,,REP,Russell COLEMAN,204,27,171,6
+Mason,C103,Attorney General,,DEM,Pamela STEVENSON,93,21,67,5
+Mason,C103,Attorney General,,,Total Votes,297,48,238,11
+Mason,C103,Attorney General,,,Under Votes,2,0,2,0
+Mason,C103,Attorney General,,,Over Votes,0,0,0,0
+Mason,C103,Auditor of Public Accounts,,REP,Allison BALL,210,29,174,7
+Mason,C103,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",87,19,64,4
+Mason,C103,Auditor of Public Accounts,,,Total Votes,297,48,238,11
+Mason,C103,Auditor of Public Accounts,,,Under Votes,2,0,2,0
+Mason,C103,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,C103,State Treasurer,,REP,Mark H. METCALF,210,28,176,6
+Mason,C103,State Treasurer,,DEM,Michael BOWMAN,86,19,62,5
+Mason,C103,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,C103,State Treasurer,,,Total Votes,296,47,238,11
+Mason,C103,State Treasurer,,,Under Votes,3,1,2,0
+Mason,C103,State Treasurer,,,Over Votes,0,0,0,0
+Mason,C103,Commissioner of Agriculture,,REP,Jonathan SHELL,214,29,179,6
+Mason,C103,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,82,19,58,5
+Mason,C103,Commissioner of Agriculture,,,Total Votes,296,48,237,11
+Mason,C103,Commissioner of Agriculture,,,Under Votes,3,0,3,0
+Mason,C103,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,C104,STRAIGHT PARTY,,,Republican,95,14,81,0
+Mason,C104,STRAIGHT PARTY,,,Democratic,45,13,29,3
+Mason,C104,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",145,20,123,2
+Mason,C104,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,109,35,69,5
+Mason,C104,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,C104,Governor,,,Total Votes,254,55,192,7
+Mason,C104,Governor,,,Under Votes,0,0,0,0
+Mason,C104,Governor,,,Over Votes,0,0,0,0
+Mason,C104,Secretary of State,,REP,Michael ADAMS,169,28,139,2
+Mason,C104,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",81,25,51,5
+Mason,C104,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,C104,Secretary of State,,,Total Votes,250,53,190,7
+Mason,C104,Secretary of State,,,Under Votes,4,2,2,0
+Mason,C104,Secretary of State,,,Over Votes,0,0,0,0
+Mason,C104,Attorney General,,REP,Russell COLEMAN,169,28,139,2
+Mason,C104,Attorney General,,DEM,Pamela STEVENSON,81,24,52,5
+Mason,C104,Attorney General,,,Total Votes,250,52,191,7
+Mason,C104,Attorney General,,,Under Votes,4,3,1,0
+Mason,C104,Attorney General,,,Over Votes,0,0,0,0
+Mason,C104,Auditor of Public Accounts,,REP,Allison BALL,166,29,135,2
+Mason,C104,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",83,24,54,5
+Mason,C104,Auditor of Public Accounts,,,Total Votes,249,53,189,7
+Mason,C104,Auditor of Public Accounts,,,Under Votes,5,2,3,0
+Mason,C104,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,C104,State Treasurer,,REP,Mark H. METCALF,163,29,132,2
+Mason,C104,State Treasurer,,DEM,Michael BOWMAN,83,23,55,5
+Mason,C104,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,C104,State Treasurer,,,Total Votes,246,52,187,7
+Mason,C104,State Treasurer,,,Under Votes,8,3,5,0
+Mason,C104,State Treasurer,,,Over Votes,0,0,0,0
+Mason,C104,Commissioner of Agriculture,,REP,Jonathan SHELL,172,27,143,2
+Mason,C104,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,74,25,44,5
+Mason,C104,Commissioner of Agriculture,,,Total Votes,246,52,187,7
+Mason,C104,Commissioner of Agriculture,,,Under Votes,8,3,5,0
+Mason,C104,Commissioner of Agriculture,,,Over Votes,0,0,0,0
+Mason,C105,STRAIGHT PARTY,,,Republican,151,13,137,1
+Mason,C105,STRAIGHT PARTY,,,Democratic,49,5,41,3
+Mason,C105,Governor,,REP,"Daniel CAMERON / Robert M. ""Robby"" MILLS",225,15,208,2
+Mason,C105,Governor,,DEM,Andy BESHEAR / Jacqueline COLEMAN,142,12,124,6
+Mason,C105,Governor,,,Brian Fishback / William Fishback,0,0,0,0
+Mason,C105,Governor,,,Total Votes,367,27,332,8
+Mason,C105,Governor,,,Under Votes,0,0,0,0
+Mason,C105,Governor,,,Over Votes,0,0,0,0
+Mason,C105,Secretary of State,,REP,Michael ADAMS,258,17,237,4
+Mason,C105,Secretary of State,,DEM,"Charles ""Buddy"" WHEATLEY",98,10,84,4
+Mason,C105,Secretary of State,,,Kenneth C. Moellman Jr.,0,0,0,0
+Mason,C105,Secretary of State,,,Total Votes,356,27,321,8
+Mason,C105,Secretary of State,,,Under Votes,11,0,11,0
+Mason,C105,Secretary of State,,,Over Votes,0,0,0,0
+Mason,C105,Attorney General,,REP,Russell COLEMAN,260,16,242,2
+Mason,C105,Attorney General,,DEM,Pamela STEVENSON,96,11,80,5
+Mason,C105,Attorney General,,,Total Votes,356,27,322,7
+Mason,C105,Attorney General,,,Under Votes,11,0,10,1
+Mason,C105,Attorney General,,,Over Votes,0,0,0,0
+Mason,C105,Auditor of Public Accounts,,REP,Allison BALL,260,17,241,2
+Mason,C105,Auditor of Public Accounts,,DEM,"Kimberley ""Kim"" REEDER",98,10,82,5
+Mason,C105,Auditor of Public Accounts,,,Total Votes,357,27,323,7
+Mason,C105,Auditor of Public Accounts,,,Under Votes,10,0,9,1
+Mason,C105,Auditor of Public Accounts,,,Over Votes,0,0,0,0
+Mason,C105,State Treasurer,,REP,Mark H. METCALF,257,16,239,2
+Mason,C105,State Treasurer,,DEM,Michael BOWMAN,96,11,79,6
+Mason,C105,State Treasurer,,,Robert Perry,0,0,0,0
+Mason,C105,State Treasurer,,,Total Votes,353,27,318,8
+Mason,C105,State Treasurer,,,Under Votes,14,0,14,0
+Mason,C105,State Treasurer,,,Over Votes,0,0,0,0
+Mason,C105,Commissioner of Agriculture,,REP,Jonathan SHELL,272,17,253,2
+Mason,C105,Commissioner of Agriculture,,DEM,Sierra J. ENLOW,80,10,65,5
+Mason,C105,Commissioner of Agriculture,,,Total Votes,352,27,318,7
+Mason,C105,Commissioner of Agriculture,,,Under Votes,15,0,14,1
+Mason,C105,Commissioner of Agriculture,,,Over Votes,0,0,0,0
