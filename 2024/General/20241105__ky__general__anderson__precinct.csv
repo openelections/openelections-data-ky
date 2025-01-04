@@ -1,0 +1,521 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Anderson,A101,STRAIGHT PARTY,,REP,Republican Party,627,346,270,11
+Anderson,A101,STRAIGHT PARTY,,DEM,Democratic Party,228,119,98,11
+Anderson,A101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Anderson,A101,STRAIGHT PARTY,,LIB,Libertarian Party,11,5,6,0
+Anderson,A101,STRAIGHT PARTY,,,Total Votes,871,470,379,22
+Anderson,A101,STRAIGHT PARTY,,,Under Votes,808,460,323,25
+Anderson,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,A101,President,,REP,Donald J. TRUMP / JD VANCE,1163,657,485,21
+Anderson,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,464,246,194,24
+Anderson,A101,President,,KY,Jill  STEIN / Samson KPADENOU,5,3,2,0
+Anderson,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,21,10,9,2
+Anderson,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Anderson,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,6,3,3,0
+Anderson,A101,President,,,Write In Total,0,0,0,0
+Anderson,A101,President,,,Total Votes,1659,919,693,47
+Anderson,A101,President,,,Under Votes,19,11,8,0
+Anderson,A101,President,,,Over Votes,1,0,1,0
+Anderson,A101,U.S. House,6,REP,Andy BARR,1232,693,513,26
+Anderson,A101,U.S. House,6,DEM,Randy CRAVENS,406,219,170,17
+Anderson,A101,U.S. House,6,,Total Votes,1638,912,683,43
+Anderson,A101,U.S. House,6,,Under Votes,39,17,19,3
+Anderson,A101,U.S. House,6,,Over Votes,1,1,0,0
+Anderson,A101,U.S. House,7,REP,Aaron REED,1175,663,493,19
+Anderson,A101,U.S. House,7,DEM,Rhonda DAVIS,462,244,193,25
+Anderson,A101,U.S. House,7,,Total Votes,1637,907,686,44
+Anderson,A101,U.S. House,7,,Under Votes,41,23,16,2
+Anderson,A101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,A101,State House,53,REP,James Allen TIPTON,1306,720,559,27
+Anderson,A101,State House,53,,Total Votes,1306,720,559,27
+Anderson,A101,State House,53,,Under Votes,372,210,143,19
+Anderson,A101,State House,53,,Over Votes,0,0,0,0
+Anderson,A101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1272,697,549,26
+Anderson,A101,Commonwealth's Attorney,53,,Total Votes,1272,697,549,26
+Anderson,A101,Commonwealth's Attorney,53,,Under Votes,406,233,153,20
+Anderson,A101,Commonwealth's Attorney,53,,Over Votes,0,0,0,0
+Anderson,A101,Circuit Clerk,,REP,Pamela J. ROBINSON,1328,727,572,29
+Anderson,A101,Circuit Clerk,,,Total Votes,1328,727,572,29
+Anderson,A101,Circuit Clerk,,,Under Votes,349,202,130,17
+Anderson,A101,Circuit Clerk,,,Over Votes,1,1,0,0
+Anderson,A101,CONSTABLE,,,Write In Total,2,0,2,0
+Anderson,A101,CONSTABLE,,,Total Votes,2,0,2,0
+Anderson,A101,CONSTABLE,,,Under Votes,1676,930,700,46
+Anderson,A101,CONSTABLE,,,Over Votes,0,0,0,0
+Anderson,A101,Board of Education,1,,"Duran ""Scott"" BROWN",541,264,266,11
+Anderson,A101,Board of Education,1,,Total Votes,541,264,266,11
+Anderson,A101,Board of Education,1,,Under Votes,300,173,117,10
+Anderson,A101,Board of Education,1,,Over Votes,0,0,0,0
+Anderson,A101,Board of Education,2,,Dustin BURLEY,249,136,106,7
+Anderson,A101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",369,219,144,6
+Anderson,A101,Board of Education,2,,Total Votes,618,355,250,13
+Anderson,A101,Board of Education,2,,Under Votes,218,138,69,11
+Anderson,A101,Board of Education,2,,Over Votes,1,0,0,1
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",469,254,199,16
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",544,285,245,14
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",508,275,218,15
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",544,284,249,11
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",396,210,175,11
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",478,249,216,13
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,2939,1557,1302,80
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,4819,2583,2082,154
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,7,7,0,0
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",929,514,390,25
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",633,346,270,17
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1562,860,660,42
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,115,69,42,4
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Anderson,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,578,328,240,10
+Anderson,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,1037,568,435,34
+Anderson,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1615,896,675,44
+Anderson,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,61,34,25,2
+Anderson,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Anderson,A101,QUESTION-ANDERSON CANNABIS,,,YES,1227,653,541,33
+Anderson,A101,QUESTION-ANDERSON CANNABIS,,,NO,382,235,138,9
+Anderson,A101,QUESTION-ANDERSON CANNABIS,,,Total Votes,1609,888,679,42
+Anderson,A101,QUESTION-ANDERSON CANNABIS,,,Under Votes,67,40,23,4
+Anderson,A101,QUESTION-ANDERSON CANNABIS,,,Over Votes,2,2,0,0
+Anderson,B101,STRAIGHT PARTY,,REP,Republican Party,806,507,284,15
+Anderson,B101,STRAIGHT PARTY,,DEM,Democratic Party,275,175,89,11
+Anderson,B101,STRAIGHT PARTY,,KY,Kentucky Party,9,1,8,0
+Anderson,B101,STRAIGHT PARTY,,LIB,Libertarian Party,8,1,7,0
+Anderson,B101,STRAIGHT PARTY,,,Total Votes,1098,684,388,26
+Anderson,B101,STRAIGHT PARTY,,,Under Votes,1135,700,407,28
+Anderson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,B101,President,,REP,Donald J. TRUMP / JD VANCE,1566,956,581,29
+Anderson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,605,395,186,24
+Anderson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,0,1
+Anderson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,28,16,12,0
+Anderson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Anderson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,7,1,6,0
+Anderson,B101,President,,,Write In Total,4,1,3,0
+Anderson,B101,President,,,Total Votes,2212,1370,788,54
+Anderson,B101,President,,,Under Votes,19,12,7,0
+Anderson,B101,President,,,Over Votes,2,2,0,0
+Anderson,B101,U.S. House,6,REP,Andy BARR,1663,1019,614,30
+Anderson,B101,U.S. House,6,DEM,Randy CRAVENS,539,351,164,24
+Anderson,B101,U.S. House,6,,Total Votes,2202,1370,778,54
+Anderson,B101,U.S. House,6,,Under Votes,30,13,17,0
+Anderson,B101,U.S. House,6,,Over Votes,1,1,0,0
+Anderson,B101,U.S. House,7,REP,Aaron REED,1582,971,581,30
+Anderson,B101,U.S. House,7,DEM,Rhonda DAVIS,585,371,190,24
+Anderson,B101,U.S. House,7,,Total Votes,2167,1342,771,54
+Anderson,B101,U.S. House,7,,Under Votes,65,42,23,0
+Anderson,B101,U.S. House,7,,Over Votes,1,0,1,0
+Anderson,B101,State House,53,REP,James Allen TIPTON,1782,1076,664,42
+Anderson,B101,State House,53,,Total Votes,1782,1076,664,42
+Anderson,B101,State House,53,,Under Votes,451,308,131,12
+Anderson,B101,State House,53,,Over Votes,0,0,0,0
+Anderson,B101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1713,1025,646,42
+Anderson,B101,Commonwealth's Attorney,53,,Total Votes,1713,1025,646,42
+Anderson,B101,Commonwealth's Attorney,53,,Under Votes,520,359,149,12
+Anderson,B101,Commonwealth's Attorney,53,,Over Votes,0,0,0,0
+Anderson,B101,Circuit Clerk,,REP,Pamela J. ROBINSON,1809,1105,658,46
+Anderson,B101,Circuit Clerk,,,Total Votes,1809,1105,658,46
+Anderson,B101,Circuit Clerk,,,Under Votes,424,279,137,8
+Anderson,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,B101,Board of Education,1,,"Duran ""Scott"" BROWN",849,472,349,28
+Anderson,B101,Board of Education,1,,Total Votes,849,472,349,28
+Anderson,B101,Board of Education,1,,Under Votes,487,319,161,7
+Anderson,B101,Board of Education,1,,Over Votes,0,0,0,0
+Anderson,B101,Board of Education,2,,Dustin BURLEY,205,121,80,4
+Anderson,B101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",472,322,138,12
+Anderson,B101,Board of Education,2,,Total Votes,677,443,218,16
+Anderson,B101,Board of Education,2,,Under Votes,220,150,67,3
+Anderson,B101,Board of Education,2,,Over Votes,0,0,0,0
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",689,412,257,20
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",702,405,272,25
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",741,454,263,24
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",750,430,294,26
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",613,363,229,21
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",716,412,279,25
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,4211,2476,1594,141
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,5719,3464,2144,111
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,16,11,5,0
+Anderson,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,1264,780,454,30
+Anderson,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,816,499,296,21
+Anderson,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,2080,1279,750,51
+Anderson,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,152,104,45,3
+Anderson,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Anderson,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,770,473,281,16
+Anderson,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,1396,872,489,35
+Anderson,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,2166,1345,770,51
+Anderson,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,67,39,25,3
+Anderson,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Anderson,B101,QUESTION-ANDERSON CANNABIS,,,YES,1518,910,570,38
+Anderson,B101,QUESTION-ANDERSON CANNABIS,,,NO,632,417,201,14
+Anderson,B101,QUESTION-ANDERSON CANNABIS,,,Total Votes,2150,1327,771,52
+Anderson,B101,QUESTION-ANDERSON CANNABIS,,,Under Votes,80,55,23,2
+Anderson,B101,QUESTION-ANDERSON CANNABIS,,,Over Votes,3,2,1,0
+Anderson,C101,STRAIGHT PARTY,,REP,Republican Party,725,391,303,31
+Anderson,C101,STRAIGHT PARTY,,DEM,Democratic Party,272,163,84,25
+Anderson,C101,STRAIGHT PARTY,,KY,Kentucky Party,9,6,3,0
+Anderson,C101,STRAIGHT PARTY,,LIB,Libertarian Party,9,4,5,0
+Anderson,C101,STRAIGHT PARTY,,,Total Votes,1015,564,395,56
+Anderson,C101,STRAIGHT PARTY,,,Under Votes,993,583,377,33
+Anderson,C101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Anderson,C101,President,,REP,Donald J. TRUMP / JD VANCE,1372,777,552,43
+Anderson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,587,343,202,42
+Anderson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,9,3,6,0
+Anderson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,17,10,6,1
+Anderson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Anderson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,8,2,4,2
+Anderson,C101,President,,,Write In Total,1,1,0,0
+Anderson,C101,President,,,Total Votes,1994,1136,770,88
+Anderson,C101,President,,,Under Votes,15,12,2,1
+Anderson,C101,President,,,Over Votes,0,0,0,0
+Anderson,C101,U.S. House,6,REP,Andy BARR,1468,836,582,50
+Anderson,C101,U.S. House,6,DEM,Randy CRAVENS,509,295,176,38
+Anderson,C101,U.S. House,6,,Total Votes,1977,1131,758,88
+Anderson,C101,U.S. House,6,,Under Votes,29,16,13,0
+Anderson,C101,U.S. House,6,,Over Votes,3,1,1,1
+Anderson,C101,U.S. House,7,REP,Aaron REED,1380,788,549,43
+Anderson,C101,U.S. House,7,DEM,Rhonda DAVIS,571,328,198,45
+Anderson,C101,U.S. House,7,,Total Votes,1951,1116,747,88
+Anderson,C101,U.S. House,7,,Under Votes,55,31,23,1
+Anderson,C101,U.S. House,7,,Over Votes,3,1,2,0
+Anderson,C101,State House,53,REP,James Allen TIPTON,1555,866,632,57
+Anderson,C101,State House,53,,Total Votes,1555,866,632,57
+Anderson,C101,State House,53,,Under Votes,453,282,139,32
+Anderson,C101,State House,53,,Over Votes,1,0,1,0
+Anderson,C101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1515,840,619,56
+Anderson,C101,Commonwealth's Attorney,53,,Total Votes,1515,840,619,56
+Anderson,C101,Commonwealth's Attorney,53,,Under Votes,493,307,153,33
+Anderson,C101,Commonwealth's Attorney,53,,Over Votes,1,1,0,0
+Anderson,C101,Circuit Clerk,,REP,Pamela J. ROBINSON,1582,885,635,62
+Anderson,C101,Circuit Clerk,,,Total Votes,1582,885,635,62
+Anderson,C101,Circuit Clerk,,,Under Votes,427,263,137,27
+Anderson,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,C101,MAGISTRATE,3,REP,Leslie Spencer EDMONDSON,1242,695,503,44
+Anderson,C101,MAGISTRATE,3,DEM,Kenton W. BOTTOMS,699,412,242,45
+Anderson,C101,MAGISTRATE,3,,Total Votes,1941,1107,745,89
+Anderson,C101,MAGISTRATE,3,,Under Votes,68,41,27,0
+Anderson,C101,MAGISTRATE,3,,Over Votes,0,0,0,0
+Anderson,C101,CONSTABLE,,,,0,0,0,0
+Anderson,C101,CONSTABLE,,,Total Votes,0,0,0,0
+Anderson,C101,CONSTABLE,,,Under Votes,2009,1148,772,89
+Anderson,C101,CONSTABLE,,,Over Votes,0,0,0,0
+Anderson,C101,Board of Education,2,,Dustin BURLEY,372,172,184,16
+Anderson,C101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",431,261,149,21
+Anderson,C101,Board of Education,2,,Total Votes,803,433,333,37
+Anderson,C101,Board of Education,2,,Under Votes,260,148,102,10
+Anderson,C101,Board of Education,2,,Over Votes,2,1,1,0
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",780,485,260,35
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",731,436,259,36
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",893,537,318,38
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",814,485,298,31
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",637,377,226,34
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",726,425,273,28
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,4581,2745,1634,202
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,7335,4083,2926,326
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,18,10,7,1
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1118,641,432,45
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",743,414,290,39
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1861,1055,722,84
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,143,89,49,5
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,4,1,0
+Anderson,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,710,398,279,33
+Anderson,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,1221,698,471,52
+Anderson,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1931,1096,750,85
+Anderson,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,75,49,22,4
+Anderson,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,3,0,0
+Anderson,C101,QUESTION-ANDERSON CANNABIS,,,YES,1399,743,602,54
+Anderson,C101,QUESTION-ANDERSON CANNABIS,,,NO,513,338,145,30
+Anderson,C101,QUESTION-ANDERSON CANNABIS,,,Total Votes,1912,1081,747,84
+Anderson,C101,QUESTION-ANDERSON CANNABIS,,,Under Votes,95,66,24,5
+Anderson,C101,QUESTION-ANDERSON CANNABIS,,,Over Votes,2,1,1,0
+Anderson,D101,STRAIGHT PARTY,,REP,Republican Party,950,596,333,21
+Anderson,D101,STRAIGHT PARTY,,DEM,Democratic Party,235,150,70,15
+Anderson,D101,STRAIGHT PARTY,,KY,Kentucky Party,9,4,5,0
+Anderson,D101,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,2,0
+Anderson,D101,STRAIGHT PARTY,,,Total Votes,1198,752,410,36
+Anderson,D101,STRAIGHT PARTY,,,Under Votes,1052,655,373,24
+Anderson,D101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Anderson,D101,President,,REP,Donald J. TRUMP / JD VANCE,1712,1058,617,37
+Anderson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,498,329,147,22
+Anderson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,5,2,3,0
+Anderson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,10,5,0
+Anderson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
+Anderson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Anderson,D101,President,,,Write In Total,0,0,0,0
+Anderson,D101,President,,,Total Votes,2236,1400,777,59
+Anderson,D101,President,,,Under Votes,14,7,6,1
+Anderson,D101,President,,,Over Votes,1,1,0,0
+Anderson,D101,U.S. House,6,REP,Andy BARR,1766,1089,643,34
+Anderson,D101,U.S. House,6,DEM,Randy CRAVENS,448,299,129,20
+Anderson,D101,U.S. House,6,,Total Votes,2214,1388,772,54
+Anderson,D101,U.S. House,6,,Under Votes,35,20,11,4
+Anderson,D101,U.S. House,6,,Over Votes,1,0,0,1
+Anderson,D101,U.S. House,7,REP,Aaron REED,1692,1041,618,33
+Anderson,D101,U.S. House,7,DEM,Rhonda DAVIS,492,322,147,23
+Anderson,D101,U.S. House,7,,Total Votes,2184,1363,765,56
+Anderson,D101,U.S. House,7,,Under Votes,66,45,18,3
+Anderson,D101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,D101,State House,53,REP,James Allen TIPTON,1839,1133,671,35
+Anderson,D101,State House,53,,Total Votes,1839,1133,671,35
+Anderson,D101,State House,53,,Under Votes,411,275,112,24
+Anderson,D101,State House,53,,Over Votes,0,0,0,0
+Anderson,D101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1777,1092,652,33
+Anderson,D101,Commonwealth's Attorney,53,,Total Votes,1777,1092,652,33
+Anderson,D101,Commonwealth's Attorney,53,,Under Votes,472,316,130,26
+Anderson,D101,Commonwealth's Attorney,53,,Over Votes,1,0,1,0
+Anderson,D101,Circuit Clerk,,REP,Pamela J. ROBINSON,1847,1146,666,35
+Anderson,D101,Circuit Clerk,,,Total Votes,1847,1146,666,35
+Anderson,D101,Circuit Clerk,,,Under Votes,403,262,117,24
+Anderson,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,D101,Board of Education,5,,Jason Stanley COLLINS,655,362,281,12
+Anderson,D101,Board of Education,5,,Total Votes,655,362,281,12
+Anderson,D101,Board of Education,5,,Under Votes,543,359,165,19
+Anderson,D101,Board of Education,5,,Over Votes,1,0,1,0
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",279,177,97,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",296,183,109,4
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",340,215,120,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",344,197,141,6
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",262,158,97,7
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",325,194,126,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,1846,1124,690,32
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,2720,1594,1050,76
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,3,2,1,0
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1422,879,507,36
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",678,426,234,18
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,2100,1305,741,54
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,144,100,40,4
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,2,1
+Anderson,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,873,579,279,15
+Anderson,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,1311,781,488,42
+Anderson,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,2184,1360,767,57
+Anderson,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,64,48,15,1
+Anderson,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,1,1
+Anderson,D101,QUESTION-ANDERSON CANNABIS,,,YES,1485,899,552,34
+Anderson,D101,QUESTION-ANDERSON CANNABIS,,,NO,674,440,211,23
+Anderson,D101,QUESTION-ANDERSON CANNABIS,,,Total Votes,2159,1339,763,57
+Anderson,D101,QUESTION-ANDERSON CANNABIS,,,Under Votes,88,66,20,2
+Anderson,D101,QUESTION-ANDERSON CANNABIS,,,Over Votes,3,3,0,0
+Anderson,E101,STRAIGHT PARTY,,REP,Republican Party,590,354,218,18
+Anderson,E101,STRAIGHT PARTY,,DEM,Democratic Party,149,93,48,8
+Anderson,E101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Anderson,E101,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Anderson,E101,STRAIGHT PARTY,,,Total Votes,744,448,270,26
+Anderson,E101,STRAIGHT PARTY,,,Under Votes,753,457,254,42
+Anderson,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,E101,President,,REP,Donald J. TRUMP / JD VANCE,1115,679,397,39
+Anderson,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,348,204,116,28
+Anderson,E101,President,,KY,Jill  STEIN / Samson KPADENOU,8,7,1,0
+Anderson,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,5,5,1
+Anderson,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Anderson,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
+Anderson,E101,President,,,Write In Total,0,0,0,0
+Anderson,E101,President,,,Total Votes,1485,896,521,68
+Anderson,E101,President,,,Under Votes,12,9,3,0
+Anderson,E101,President,,,Over Votes,0,0,0,0
+Anderson,E101,U.S. House,6,REP,Andy BARR,1161,702,412,47
+Anderson,E101,U.S. House,6,DEM,Randy CRAVENS,315,190,104,21
+Anderson,E101,U.S. House,6,,Total Votes,1476,892,516,68
+Anderson,E101,U.S. House,6,,Under Votes,20,12,8,0
+Anderson,E101,U.S. House,6,,Over Votes,1,1,0,0
+Anderson,E101,U.S. House,7,REP,Aaron REED,1092,661,389,42
+Anderson,E101,U.S. House,7,DEM,Rhonda DAVIS,368,220,123,25
+Anderson,E101,U.S. House,7,,Total Votes,1460,881,512,67
+Anderson,E101,U.S. House,7,,Under Votes,37,24,12,1
+Anderson,E101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,E101,State House,53,REP,James Allen TIPTON,1207,716,442,49
+Anderson,E101,State House,53,,Total Votes,1207,716,442,49
+Anderson,E101,State House,53,,Under Votes,290,189,82,19
+Anderson,E101,State House,53,,Over Votes,0,0,0,0
+Anderson,E101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1172,690,434,48
+Anderson,E101,Commonwealth's Attorney,53,,Total Votes,1172,690,434,48
+Anderson,E101,Commonwealth's Attorney,53,,Under Votes,325,215,90,20
+Anderson,E101,Commonwealth's Attorney,53,,Over Votes,0,0,0,0
+Anderson,E101,Circuit Clerk,,REP,Pamela J. ROBINSON,1230,730,449,51
+Anderson,E101,Circuit Clerk,,,Total Votes,1230,730,449,51
+Anderson,E101,Circuit Clerk,,,Under Votes,267,175,75,17
+Anderson,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1008,611,347,50
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",411,240,155,16
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1419,851,502,66
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,73,52,20,1
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,2,2,1
+Anderson,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,614,398,194,22
+Anderson,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,851,486,321,44
+Anderson,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1465,884,515,66
+Anderson,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,31,21,8,2
+Anderson,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Anderson,E101,QUESTION-ANDERSON CANNABIS,,,YES,975,553,375,47
+Anderson,E101,QUESTION-ANDERSON CANNABIS,,,NO,474,317,138,19
+Anderson,E101,QUESTION-ANDERSON CANNABIS,,,Total Votes,1449,870,513,66
+Anderson,E101,QUESTION-ANDERSON CANNABIS,,,Under Votes,47,34,11,2
+Anderson,E101,QUESTION-ANDERSON CANNABIS,,,Over Votes,1,1,0,0
+Anderson,E103,STRAIGHT PARTY,,REP,Republican Party,439,252,171,16
+Anderson,E103,STRAIGHT PARTY,,DEM,Democratic Party,123,78,38,7
+Anderson,E103,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Anderson,E103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Anderson,E103,STRAIGHT PARTY,,,Total Votes,567,330,214,23
+Anderson,E103,STRAIGHT PARTY,,,Under Votes,519,275,236,8
+Anderson,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,E103,President,,REP,Donald J. TRUMP / JD VANCE,812,442,352,18
+Anderson,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,245,152,80,13
+Anderson,E103,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Anderson,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,3,9,0
+Anderson,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Anderson,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,6,2,4,0
+Anderson,E103,President,,,Write In Total,0,0,0,0
+Anderson,E103,President,,,Total Votes,1080,600,449,31
+Anderson,E103,President,,,Under Votes,6,5,1,0
+Anderson,E103,President,,,Over Votes,0,0,0,0
+Anderson,E103,U.S. House,1,REP,James R. COMER,827,454,355,18
+Anderson,E103,U.S. House,1,DEM,Erin MARSHALL,243,144,87,12
+Anderson,E103,U.S. House,1,,Total Votes,1070,598,442,30
+Anderson,E103,U.S. House,1,,Under Votes,16,7,8,1
+Anderson,E103,U.S. House,1,,Over Votes,0,0,0,0
+Anderson,E103,U.S. House,7,REP,Aaron REED,827,447,361,19
+Anderson,E103,U.S. House,7,DEM,Rhonda DAVIS,236,143,82,11
+Anderson,E103,U.S. House,7,,Total Votes,1063,590,443,30
+Anderson,E103,U.S. House,7,,Under Votes,23,15,7,1
+Anderson,E103,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,E103,State House,53,REP,James Allen TIPTON,889,480,387,22
+Anderson,E103,State House,53,,Total Votes,889,480,387,22
+Anderson,E103,State House,53,,Under Votes,197,125,63,9
+Anderson,E103,State House,53,,Over Votes,0,0,0,0
+Anderson,E103,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,873,472,380,21
+Anderson,E103,Commonwealth's Attorney,53,,Total Votes,873,472,380,21
+Anderson,E103,Commonwealth's Attorney,53,,Under Votes,213,133,70,10
+Anderson,E103,Commonwealth's Attorney,53,,Over Votes,0,0,0,0
+Anderson,E103,Circuit Clerk,,REP,Pamela J. ROBINSON,882,479,381,22
+Anderson,E103,Circuit Clerk,,,Total Votes,882,479,381,22
+Anderson,E103,Circuit Clerk,,,Under Votes,204,126,69,9
+Anderson,E103,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",734,404,310,20
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",285,156,120,9
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1019,560,430,29
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,61,41,19,1
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,1,1
+Anderson,E103,CONSTITUTIONAL AMENDMENT 2,,,YES,468,274,184,10
+Anderson,E103,CONSTITUTIONAL AMENDMENT 2,,,NO,593,317,255,21
+Anderson,E103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1061,591,439,31
+Anderson,E103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,14,11,0
+Anderson,E103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Anderson,E103,QUESTION-ANDERSON CANNABIS,,,YES,731,391,316,24
+Anderson,E103,QUESTION-ANDERSON CANNABIS,,,NO,324,193,124,7
+Anderson,E103,QUESTION-ANDERSON CANNABIS,,,Total Votes,1055,584,440,31
+Anderson,E103,QUESTION-ANDERSON CANNABIS,,,Under Votes,29,20,9,0
+Anderson,E103,QUESTION-ANDERSON CANNABIS,,,Over Votes,2,1,1,0
+Anderson,F101,STRAIGHT PARTY,,REP,Republican Party,459,270,170,19
+Anderson,F101,STRAIGHT PARTY,,DEM,Democratic Party,95,64,23,8
+Anderson,F101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Anderson,F101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Anderson,F101,STRAIGHT PARTY,,,Total Votes,555,334,194,27
+Anderson,F101,STRAIGHT PARTY,,,Under Votes,433,258,164,11
+Anderson,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,F101,President,,REP,Donald J. TRUMP / JD VANCE,771,449,299,23
+Anderson,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,187,128,46,13
+Anderson,F101,President,,KY,Jill  STEIN / Samson KPADENOU,5,0,4,1
+Anderson,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,6,5,0
+Anderson,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Anderson,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,1,1
+Anderson,F101,President,,,Write In Total,0,0,0,0
+Anderson,F101,President,,,Total Votes,979,585,356,38
+Anderson,F101,President,,,Under Votes,8,6,2,0
+Anderson,F101,President,,,Over Votes,1,1,0,0
+Anderson,F101,U.S. House,6,REP,Andy BARR,798,472,301,25
+Anderson,F101,U.S. House,6,DEM,Randy CRAVENS,178,113,52,13
+Anderson,F101,U.S. House,6,,Total Votes,976,585,353,38
+Anderson,F101,U.S. House,6,,Under Votes,12,7,5,0
+Anderson,F101,U.S. House,6,,Over Votes,0,0,0,0
+Anderson,F101,U.S. House,7,REP,Aaron REED,773,457,292,24
+Anderson,F101,U.S. House,7,DEM,Rhonda DAVIS,190,122,55,13
+Anderson,F101,U.S. House,7,,Total Votes,963,579,347,37
+Anderson,F101,U.S. House,7,,Under Votes,24,13,10,1
+Anderson,F101,U.S. House,7,,Over Votes,1,0,1,0
+Anderson,F101,State House,53,REP,James Allen TIPTON,817,487,306,24
+Anderson,F101,State House,53,,Total Votes,817,487,306,24
+Anderson,F101,State House,53,,Under Votes,171,105,52,14
+Anderson,F101,State House,53,,Over Votes,0,0,0,0
+Anderson,F101,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,783,460,297,26
+Anderson,F101,Commonwealth's Attorney,53,,Total Votes,783,460,297,26
+Anderson,F101,Commonwealth's Attorney,53,,Under Votes,205,132,61,12
+Anderson,F101,Commonwealth's Attorney,53,,Over Votes,0,0,0,0
+Anderson,F101,Circuit Clerk,,REP,Pamela J. ROBINSON,804,483,297,24
+Anderson,F101,Circuit Clerk,,,Total Votes,804,483,297,24
+Anderson,F101,Circuit Clerk,,,Under Votes,184,109,61,14
+Anderson,F101,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,F101,Board of Education,1,,"Duran ""Scott"" BROWN",49,31,18,0
+Anderson,F101,Board of Education,1,,Total Votes,49,31,18,0
+Anderson,F101,Board of Education,1,,Under Votes,48,28,16,4
+Anderson,F101,Board of Education,1,,Over Votes,0,0,0,0
+Anderson,F101,Board of Education,5,,Jason Stanley COLLINS,429,232,185,12
+Anderson,F101,Board of Education,5,,Total Votes,429,232,185,12
+Anderson,F101,Board of Education,5,,Under Votes,462,301,139,22
+Anderson,F101,Board of Education,5,,Over Votes,0,0,0,0
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",661,389,253,19
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",243,151,77,15
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,904,540,330,34
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,81,50,28,3
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,0,1
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",399,237,147,15
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",553,336,197,20
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,952,573,344,35
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,33,18,12,3
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,1,2,0
+Anderson,F101,QUESTION-ANDERSON CANNABIS,,,YES,644,381,236,27
+Anderson,F101,QUESTION-ANDERSON CANNABIS,,,NO,299,182,109,8
+Anderson,F101,QUESTION-ANDERSON CANNABIS,,,Total Votes,943,563,345,35
+Anderson,F101,QUESTION-ANDERSON CANNABIS,,,Under Votes,44,29,12,3
+Anderson,F101,QUESTION-ANDERSON CANNABIS,,,Over Votes,1,0,1,0
+Anderson,F102,STRAIGHT PARTY,,REP,Republican Party,686,399,266,21
+Anderson,F102,STRAIGHT PARTY,,DEM,Democratic Party,137,76,46,15
+Anderson,F102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Anderson,F102,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,0,1
+Anderson,F102,STRAIGHT PARTY,,,Total Votes,826,477,312,37
+Anderson,F102,STRAIGHT PARTY,,,Under Votes,632,409,194,29
+Anderson,F102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Anderson,F102,President,,REP,Donald J. TRUMP / JD VANCE,1139,681,420,38
+Anderson,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,292,187,79,26
+Anderson,F102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Anderson,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,6,4,0
+Anderson,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
+Anderson,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,7,5,1,1
+Anderson,F102,President,,,Write In Total,0,0,0,0
+Anderson,F102,President,,,Total Votes,1450,880,505,65
+Anderson,F102,President,,,Under Votes,8,6,1,1
+Anderson,F102,President,,,Over Votes,0,0,0,0
+Anderson,F102,U.S. House,1,REP,James R. COMER,1145,690,418,37
+Anderson,F102,U.S. House,1,DEM,Erin MARSHALL,288,180,82,26
+Anderson,F102,U.S. House,1,,Total Votes,1433,870,500,63
+Anderson,F102,U.S. House,1,,Under Votes,25,16,6,3
+Anderson,F102,U.S. House,1,,Over Votes,0,0,0,0
+Anderson,F102,U.S. House,7,REP,Aaron REED,1133,681,416,36
+Anderson,F102,U.S. House,7,DEM,Rhonda DAVIS,289,181,83,25
+Anderson,F102,U.S. House,7,,Total Votes,1422,862,499,61
+Anderson,F102,U.S. House,7,,Under Votes,36,24,7,5
+Anderson,F102,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,F102,State House,53,REP,James Allen TIPTON,1222,733,444,45
+Anderson,F102,State House,53,,Total Votes,1222,733,444,45
+Anderson,F102,State House,53,,Under Votes,236,153,62,21
+Anderson,F102,State House,53,,Over Votes,0,0,0,0
+Anderson,F102,Commonwealth's Attorney,53,REP,Hart T. MEGIBBEN,1181,703,435,43
+Anderson,F102,Commonwealth's Attorney,53,,Total Votes,1181,703,435,43
+Anderson,F102,Commonwealth's Attorney,53,,Under Votes,276,183,71,22
+Anderson,F102,Commonwealth's Attorney,53,,Over Votes,1,0,0,1
+Anderson,F102,Circuit Clerk,,REP,Pamela J. ROBINSON,1206,717,445,44
+Anderson,F102,Circuit Clerk,,,Total Votes,1206,717,445,44
+Anderson,F102,Circuit Clerk,,,Under Votes,252,169,61,22
+Anderson,F102,Circuit Clerk,,,Over Votes,0,0,0,0
+Anderson,F102,Board of Education,5,,Jason Stanley COLLINS,322,178,123,21
+Anderson,F102,Board of Education,5,,Total Votes,322,178,123,21
+Anderson,F102,Board of Education,5,,Under Votes,380,239,124,17
+Anderson,F102,Board of Education,5,,Over Votes,0,0,0,0
+Anderson,F102,CONSTITUTIONAL AMENDMENT 1,,,YES,982,601,341,40
+Anderson,F102,CONSTITUTIONAL AMENDMENT 1,,,NO,378,213,140,25
+Anderson,F102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1360,814,481,65
+Anderson,F102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,95,70,24,1
+Anderson,F102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Anderson,F102,CONSTITUTIONAL AMENDMENT 2,,,YES,646,408,212,26
+Anderson,F102,CONSTITUTIONAL AMENDMENT 2,,,NO,772,456,278,38
+Anderson,F102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1418,864,490,64
+Anderson,F102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,21,16,2
+Anderson,F102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Anderson,F102,QUESTION-ANDERSON CANNABIS,,,YES,973,577,350,46
+Anderson,F102,QUESTION-ANDERSON CANNABIS,,,NO,425,274,136,15
+Anderson,F102,QUESTION-ANDERSON CANNABIS,,,Total Votes,1398,851,486,61
+Anderson,F102,QUESTION-ANDERSON CANNABIS,,,Under Votes,59,35,20,4
+Anderson,F102,QUESTION-ANDERSON CANNABIS,,,Over Votes,1,0,0,1
