@@ -21,11 +21,11 @@ Anderson,A101,U.S. House,6,DEM,Randy CRAVENS,406,219,170,17
 Anderson,A101,U.S. House,6,,Total Votes,1638,912,683,43
 Anderson,A101,U.S. House,6,,Under Votes,39,17,19,3
 Anderson,A101,U.S. House,6,,Over Votes,1,1,0,0
-Anderson,A101,U.S. House,7,REP,Aaron REED,1175,663,493,19
-Anderson,A101,U.S. House,7,DEM,Rhonda DAVIS,462,244,193,25
-Anderson,A101,U.S. House,7,,Total Votes,1637,907,686,44
-Anderson,A101,U.S. House,7,,Under Votes,41,23,16,2
-Anderson,A101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,A101,State Senate,7,REP,Aaron REED,1175,663,493,19
+Anderson,A101,State Senate,7,DEM,Rhonda DAVIS,462,244,193,25
+Anderson,A101,State Senate,7,,Total Votes,1637,907,686,44
+Anderson,A101,State Senate,7,,Under Votes,41,23,16,2
+Anderson,A101,State Senate,7,,Over Votes,0,0,0,0
 Anderson,A101,State House,53,REP,James Allen TIPTON,1306,720,559,27
 Anderson,A101,State House,53,,Total Votes,1306,720,559,27
 Anderson,A101,State House,53,,Under Votes,372,210,143,19
@@ -97,11 +97,11 @@ Anderson,B101,U.S. House,6,DEM,Randy CRAVENS,539,351,164,24
 Anderson,B101,U.S. House,6,,Total Votes,2202,1370,778,54
 Anderson,B101,U.S. House,6,,Under Votes,30,13,17,0
 Anderson,B101,U.S. House,6,,Over Votes,1,1,0,0
-Anderson,B101,U.S. House,7,REP,Aaron REED,1582,971,581,30
-Anderson,B101,U.S. House,7,DEM,Rhonda DAVIS,585,371,190,24
-Anderson,B101,U.S. House,7,,Total Votes,2167,1342,771,54
-Anderson,B101,U.S. House,7,,Under Votes,65,42,23,0
-Anderson,B101,U.S. House,7,,Over Votes,1,0,1,0
+Anderson,B101,State Senate,7,REP,Aaron REED,1582,971,581,30
+Anderson,B101,State Senate,7,DEM,Rhonda DAVIS,585,371,190,24
+Anderson,B101,State Senate,7,,Total Votes,2167,1342,771,54
+Anderson,B101,State Senate,7,,Under Votes,65,42,23,0
+Anderson,B101,State Senate,7,,Over Votes,1,0,1,0
 Anderson,B101,State House,53,REP,James Allen TIPTON,1782,1076,664,42
 Anderson,B101,State House,53,,Total Votes,1782,1076,664,42
 Anderson,B101,State House,53,,Under Votes,451,308,131,12
@@ -169,11 +169,11 @@ Anderson,C101,U.S. House,6,DEM,Randy CRAVENS,509,295,176,38
 Anderson,C101,U.S. House,6,,Total Votes,1977,1131,758,88
 Anderson,C101,U.S. House,6,,Under Votes,29,16,13,0
 Anderson,C101,U.S. House,6,,Over Votes,3,1,1,1
-Anderson,C101,U.S. House,7,REP,Aaron REED,1380,788,549,43
-Anderson,C101,U.S. House,7,DEM,Rhonda DAVIS,571,328,198,45
-Anderson,C101,U.S. House,7,,Total Votes,1951,1116,747,88
-Anderson,C101,U.S. House,7,,Under Votes,55,31,23,1
-Anderson,C101,U.S. House,7,,Over Votes,3,1,2,0
+Anderson,C101,State Senate,7,REP,Aaron REED,1380,788,549,43
+Anderson,C101,State Senate,7,DEM,Rhonda DAVIS,571,328,198,45
+Anderson,C101,State Senate,7,,Total Votes,1951,1116,747,88
+Anderson,C101,State Senate,7,,Under Votes,55,31,23,1
+Anderson,C101,State Senate,7,,Over Votes,3,1,2,0
 Anderson,C101,State House,53,REP,James Allen TIPTON,1555,866,632,57
 Anderson,C101,State House,53,,Total Votes,1555,866,632,57
 Anderson,C101,State House,53,,Under Votes,453,282,139,32
@@ -246,11 +246,11 @@ Anderson,D101,U.S. House,6,DEM,Randy CRAVENS,448,299,129,20
 Anderson,D101,U.S. House,6,,Total Votes,2214,1388,772,54
 Anderson,D101,U.S. House,6,,Under Votes,35,20,11,4
 Anderson,D101,U.S. House,6,,Over Votes,1,0,0,1
-Anderson,D101,U.S. House,7,REP,Aaron REED,1692,1041,618,33
-Anderson,D101,U.S. House,7,DEM,Rhonda DAVIS,492,322,147,23
-Anderson,D101,U.S. House,7,,Total Votes,2184,1363,765,56
-Anderson,D101,U.S. House,7,,Under Votes,66,45,18,3
-Anderson,D101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,D101,State Senate,7,REP,Aaron REED,1692,1041,618,33
+Anderson,D101,State Senate,7,DEM,Rhonda DAVIS,492,322,147,23
+Anderson,D101,State Senate,7,,Total Votes,2184,1363,765,56
+Anderson,D101,State Senate,7,,Under Votes,66,45,18,3
+Anderson,D101,State Senate,7,,Over Votes,0,0,0,0
 Anderson,D101,State House,53,REP,James Allen TIPTON,1839,1133,671,35
 Anderson,D101,State House,53,,Total Votes,1839,1133,671,35
 Anderson,D101,State House,53,,Under Votes,411,275,112,24
@@ -313,11 +313,11 @@ Anderson,E101,U.S. House,6,DEM,Randy CRAVENS,315,190,104,21
 Anderson,E101,U.S. House,6,,Total Votes,1476,892,516,68
 Anderson,E101,U.S. House,6,,Under Votes,20,12,8,0
 Anderson,E101,U.S. House,6,,Over Votes,1,1,0,0
-Anderson,E101,U.S. House,7,REP,Aaron REED,1092,661,389,42
-Anderson,E101,U.S. House,7,DEM,Rhonda DAVIS,368,220,123,25
-Anderson,E101,U.S. House,7,,Total Votes,1460,881,512,67
-Anderson,E101,U.S. House,7,,Under Votes,37,24,12,1
-Anderson,E101,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,E101,State Senate,7,REP,Aaron REED,1092,661,389,42
+Anderson,E101,State Senate,7,DEM,Rhonda DAVIS,368,220,123,25
+Anderson,E101,State Senate,7,,Total Votes,1460,881,512,67
+Anderson,E101,State Senate,7,,Under Votes,37,24,12,1
+Anderson,E101,State Senate,7,,Over Votes,0,0,0,0
 Anderson,E101,State House,53,REP,James Allen TIPTON,1207,716,442,49
 Anderson,E101,State House,53,,Total Votes,1207,716,442,49
 Anderson,E101,State House,53,,Under Votes,290,189,82,19
@@ -367,11 +367,11 @@ Anderson,E103,U.S. House,1,DEM,Erin MARSHALL,243,144,87,12
 Anderson,E103,U.S. House,1,,Total Votes,1070,598,442,30
 Anderson,E103,U.S. House,1,,Under Votes,16,7,8,1
 Anderson,E103,U.S. House,1,,Over Votes,0,0,0,0
-Anderson,E103,U.S. House,7,REP,Aaron REED,827,447,361,19
-Anderson,E103,U.S. House,7,DEM,Rhonda DAVIS,236,143,82,11
-Anderson,E103,U.S. House,7,,Total Votes,1063,590,443,30
-Anderson,E103,U.S. House,7,,Under Votes,23,15,7,1
-Anderson,E103,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,E103,State Senate,7,REP,Aaron REED,827,447,361,19
+Anderson,E103,State Senate,7,DEM,Rhonda DAVIS,236,143,82,11
+Anderson,E103,State Senate,7,,Total Votes,1063,590,443,30
+Anderson,E103,State Senate,7,,Under Votes,23,15,7,1
+Anderson,E103,State Senate,7,,Over Votes,0,0,0,0
 Anderson,E103,State House,53,REP,James Allen TIPTON,889,480,387,22
 Anderson,E103,State House,53,,Total Votes,889,480,387,22
 Anderson,E103,State House,53,,Under Votes,197,125,63,9
@@ -421,11 +421,11 @@ Anderson,F101,U.S. House,6,DEM,Randy CRAVENS,178,113,52,13
 Anderson,F101,U.S. House,6,,Total Votes,976,585,353,38
 Anderson,F101,U.S. House,6,,Under Votes,12,7,5,0
 Anderson,F101,U.S. House,6,,Over Votes,0,0,0,0
-Anderson,F101,U.S. House,7,REP,Aaron REED,773,457,292,24
-Anderson,F101,U.S. House,7,DEM,Rhonda DAVIS,190,122,55,13
-Anderson,F101,U.S. House,7,,Total Votes,963,579,347,37
-Anderson,F101,U.S. House,7,,Under Votes,24,13,10,1
-Anderson,F101,U.S. House,7,,Over Votes,1,0,1,0
+Anderson,F101,State Senate,7,REP,Aaron REED,773,457,292,24
+Anderson,F101,State Senate,7,DEM,Rhonda DAVIS,190,122,55,13
+Anderson,F101,State Senate,7,,Total Votes,963,579,347,37
+Anderson,F101,State Senate,7,,Under Votes,24,13,10,1
+Anderson,F101,State Senate,7,,Over Votes,1,0,1,0
 Anderson,F101,State House,53,REP,James Allen TIPTON,817,487,306,24
 Anderson,F101,State House,53,,Total Votes,817,487,306,24
 Anderson,F101,State House,53,,Under Votes,171,105,52,14
@@ -483,11 +483,11 @@ Anderson,F102,U.S. House,1,DEM,Erin MARSHALL,288,180,82,26
 Anderson,F102,U.S. House,1,,Total Votes,1433,870,500,63
 Anderson,F102,U.S. House,1,,Under Votes,25,16,6,3
 Anderson,F102,U.S. House,1,,Over Votes,0,0,0,0
-Anderson,F102,U.S. House,7,REP,Aaron REED,1133,681,416,36
-Anderson,F102,U.S. House,7,DEM,Rhonda DAVIS,289,181,83,25
-Anderson,F102,U.S. House,7,,Total Votes,1422,862,499,61
-Anderson,F102,U.S. House,7,,Under Votes,36,24,7,5
-Anderson,F102,U.S. House,7,,Over Votes,0,0,0,0
+Anderson,F102,State Senate,7,REP,Aaron REED,1133,681,416,36
+Anderson,F102,State Senate,7,DEM,Rhonda DAVIS,289,181,83,25
+Anderson,F102,State Senate,7,,Total Votes,1422,862,499,61
+Anderson,F102,State Senate,7,,Under Votes,36,24,7,5
+Anderson,F102,State Senate,7,,Over Votes,0,0,0,0
 Anderson,F102,State House,53,REP,James Allen TIPTON,1222,733,444,45
 Anderson,F102,State House,53,,Total Votes,1222,733,444,45
 Anderson,F102,State House,53,,Under Votes,236,153,62,21
