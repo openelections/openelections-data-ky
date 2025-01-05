@@ -1,0 +1,645 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Bourbon,B101,STRAIGHT PARTY,,REP,Republican Party,395,142,232,21
+Bourbon,B101,STRAIGHT PARTY,,DEM,Democratic Party,172,61,90,21
+Bourbon,B101,STRAIGHT PARTY,,KY,Kentucky Party,17,0,16,1
+Bourbon,B101,STRAIGHT PARTY,,LIB,Libertarian Party,9,1,7,1
+Bourbon,B101,STRAIGHT PARTY,,,Total Votes,593,204,345,44
+Bourbon,B101,STRAIGHT PARTY,,,Under Votes,635,258,325,52
+Bourbon,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,B101,President,,REP,Donald J. TRUMP / JD VANCE,832,299,486,47
+Bourbon,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,364,152,167,45
+Bourbon,B101,President,,KY,Jill  STEIN / Samson KPADENOU,7,4,2,1
+Bourbon,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,6,1
+Bourbon,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,0,1
+Bourbon,B101,President,,,Write In Total,0,0,0,0
+Bourbon,B101,President,,,Total Votes,1216,460,661,95
+Bourbon,B101,President,,,Under Votes,11,2,8,1
+Bourbon,B101,President,,,Over Votes,1,0,1,0
+Bourbon,B101,U.S. House,6,REP,Andy BARR,904,323,528,53
+Bourbon,B101,U.S. House,6,DEM,Randy CRAVENS,300,133,128,39
+Bourbon,B101,U.S. House,6,,Total Votes,1204,456,656,92
+Bourbon,B101,U.S. House,6,,Under Votes,24,6,14,4
+Bourbon,B101,U.S. House,6,,Over Votes,0,0,0,0
+Bourbon,B101,State Senate,27,REP,Steve WEST,810,293,469,48
+Bourbon,B101,State Senate,27,DEM,Molly Gene CRAIN,393,162,187,44
+Bourbon,B101,State Senate,27,,Total Votes,1203,455,656,92
+Bourbon,B101,State Senate,27,,Under Votes,25,7,14,4
+Bourbon,B101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,B101,State House,72,REP,Matthew R. KOCH,962,338,565,59
+Bourbon,B101,State House,72,,Total Votes,962,338,565,59
+Bourbon,B101,State House,72,,Under Votes,266,124,105,37
+Bourbon,B101,State House,72,,Over Votes,0,0,0,0
+Bourbon,B101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,931,333,541,57
+Bourbon,B101,Commonwealth's Attorney,14,,Total Votes,931,333,541,57
+Bourbon,B101,Commonwealth's Attorney,14,,Under Votes,297,129,129,39
+Bourbon,B101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,B101,Circuit Clerk,,REP,Trina HUSTON,961,347,554,60
+Bourbon,B101,Circuit Clerk,,,Total Votes,961,347,554,60
+Bourbon,B101,Circuit Clerk,,,Under Votes,267,115,116,36
+Bourbon,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,B101,COUNTY SURVEYOR,,,Under Votes,1228,462,670,96
+Bourbon,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,B101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,682,265,371,46
+Bourbon,B101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,264,90,154,20
+Bourbon,B101,JUSTICE of the SUPREME COURT,5,,Total Votes,946,355,525,66
+Bourbon,B101,JUSTICE of the SUPREME COURT,5,,Under Votes,282,107,145,30
+Bourbon,B101,JUSTICE of the SUPREME COURT,5,,Over Votes,0,0,0,0
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",495,174,281,40
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",456,176,249,31
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",514,198,273,43
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,1,0
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1466,548,804,114
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3446,1300,1876,270
+Bourbon,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,B101,Board of Education,Paris Independent School District,,Bruce McDONALD,95,48,43,4
+Bourbon,B101,Board of Education,Paris Independent School District,,Angela PLUMMER,158,70,80,8
+Bourbon,B101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,117,52,56,9
+Bourbon,B101,Board of Education,Paris Independent School District,,Total Votes,370,170,179,21
+Bourbon,B101,Board of Education,Paris Independent School District,,Under Votes,278,106,145,27
+Bourbon,B101,Board of Education,Paris Independent School District,,Over Votes,0,0,0,0
+Bourbon,B101,MAYOR City of Millersburg,,,"Juliet HOPKINS ",145,36,100,9
+Bourbon,B101,MAYOR City of Millersburg,,,"Rick A. ELKIN ",131,25,97,9
+Bourbon,B101,MAYOR City of Millersburg,,,Total Votes,276,61,197,18
+Bourbon,B101,MAYOR City of Millersburg,,,Under Votes,9,2,6,1
+Bourbon,B101,MAYOR City of Millersburg,,,Over Votes,0,0,0,0
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Penny BARBEE ",158,41,105,12
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Michael JACKSON ",131,36,88,7
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Deenise WALLER ",99,18,76,5
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Ella Jo BOLTON ",137,34,93,10
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Debbie JACKSON ",112,25,79,8
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Lee HOPKINS ",129,27,93,9
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Lora H. IRVIN ",125,32,86,7
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Gary STANFIELD ",127,27,92,8
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Terry SMITH ",118,37,77,4
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,"Tom RANDOLPH ",87,15,67,5
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,Total Votes,1223,292,856,75
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,Under Votes,487,86,362,39
+Bourbon,B101,CITY COUNCIL City of Millersburg,,,Over Votes,0,0,0,0
+Bourbon,B101,QUESTION-MILLERSBURG CANNABIS,,,"YES ",176,34,132,10
+Bourbon,B101,QUESTION-MILLERSBURG CANNABIS,,,"NO ",97,25,63,9
+Bourbon,B101,QUESTION-MILLERSBURG CANNABIS,,,Total Votes,273,59,195,19
+Bourbon,B101,QUESTION-MILLERSBURG CANNABIS,,,Under Votes,12,4,8,0
+Bourbon,B101,QUESTION-MILLERSBURG CANNABIS,,,Over Votes,0,0,0,0
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",204,82,105,17
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",196,91,87,18
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",189,79,94,16
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",165,72,79,14
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",162,80,67,15
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,Total Votes,916,404,432,80
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,Under Votes,752,292,412,48
+Bourbon,B101,CITY COMMISSIONERS City of Paris,,,Over Votes,1,0,0,1
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,711,260,408,43
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,443,172,231,40
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1154,432,639,83
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,71,29,29,13
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,445,159,254,32
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,741,290,395,56
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1186,449,649,88
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,42,13,21,8
+Bourbon,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bourbon,B101,QUESTION-BOURBON CANNABIS,,,YES,865,325,477,63
+Bourbon,B101,QUESTION-BOURBON CANNABIS,,,NO,308,117,168,23
+Bourbon,B101,QUESTION-BOURBON CANNABIS,,,Total Votes,1173,442,645,86
+Bourbon,B101,QUESTION-BOURBON CANNABIS,,,Under Votes,54,20,25,9
+Bourbon,B101,QUESTION-BOURBON CANNABIS,,,Over Votes,1,0,0,1
+Bourbon,C101,STRAIGHT PARTY,,REP,Republican Party,380,146,208,26
+Bourbon,C101,STRAIGHT PARTY,,DEM,Democratic Party,197,82,90,25
+Bourbon,C101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Bourbon,C101,STRAIGHT PARTY,,LIB,Libertarian Party,6,3,3,0
+Bourbon,C101,STRAIGHT PARTY,,,Total Votes,588,231,306,51
+Bourbon,C101,STRAIGHT PARTY,,,Under Votes,714,335,331,48
+Bourbon,C101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Bourbon,C101,President,,REP,Donald J. TRUMP / JD VANCE,805,319,433,53
+Bourbon,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,449,231,174,44
+Bourbon,C101,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Bourbon,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,20,7,12,1
+Bourbon,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,10,2,7,1
+Bourbon,C101,President,,,Write In Total,0,0,0,0
+Bourbon,C101,President,,,Total Votes,1289,560,630,99
+Bourbon,C101,President,,,Under Votes,14,7,7,0
+Bourbon,C101,President,,,Over Votes,0,0,0,0
+Bourbon,C101,U.S. House,6,REP,Andy BARR,873,350,466,57
+Bourbon,C101,U.S. House,6,DEM,Randy CRAVENS,407,205,163,39
+Bourbon,C101,U.S. House,6,,Total Votes,1280,555,629,96
+Bourbon,C101,U.S. House,6,,Under Votes,21,10,8,3
+Bourbon,C101,U.S. House,6,,Over Votes,1,1,0,0
+Bourbon,C101,State Senate,27,REP,Steve WEST,804,317,435,52
+Bourbon,C101,State Senate,27,DEM,Molly Gene CRAIN,476,245,188,43
+Bourbon,C101,State Senate,27,,Total Votes,1280,562,623,95
+Bourbon,C101,State Senate,27,,Under Votes,22,4,14,4
+Bourbon,C101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,C101,State House,72,REP,Matthew R. KOCH,996,413,516,67
+Bourbon,C101,State House,72,,Total Votes,996,413,516,67
+Bourbon,C101,State House,72,,Under Votes,306,153,121,32
+Bourbon,C101,State House,72,,Over Votes,0,0,0,0
+Bourbon,C101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,943,382,500,61
+Bourbon,C101,Commonwealth's Attorney,14,,Total Votes,943,382,500,61
+Bourbon,C101,Commonwealth's Attorney,14,,Under Votes,359,184,137,38
+Bourbon,C101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,C101,Circuit Clerk,,REP,Trina HUSTON,1005,415,520,70
+Bourbon,C101,Circuit Clerk,,,Total Votes,1005,415,520,70
+Bourbon,C101,Circuit Clerk,,,Under Votes,297,151,117,29
+Bourbon,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,C101,COUNTY SURVEYOR,,,Under Votes,1302,566,637,99
+Bourbon,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,C101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,788,358,376,54
+Bourbon,C101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,215,86,117,12
+Bourbon,C101,JUSTICE of the SUPREME COURT,5,,Total Votes,1003,444,493,66
+Bourbon,C101,JUSTICE of the SUPREME COURT,5,,Under Votes,298,122,143,33
+Bourbon,C101,JUSTICE of the SUPREME COURT,5,,Over Votes,1,0,1,0
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",531,231,256,44
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",485,214,236,35
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",570,251,272,47
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,5,4,1,0
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1591,700,765,126
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3613,1564,1779,270
+Bourbon,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,1,0
+Bourbon,C101,Board of Education,Paris Independent School District,,Bruce McDONALD,272,118,135,19
+Bourbon,C101,Board of Education,Paris Independent School District,,Angela PLUMMER,416,191,192,33
+Bourbon,C101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,310,127,161,22
+Bourbon,C101,Board of Education,Paris Independent School District,,Total Votes,998,436,488,74
+Bourbon,C101,Board of Education,Paris Independent School District,,Under Votes,638,292,286,60
+Bourbon,C101,Board of Education,Paris Independent School District,,Over Votes,2,0,2,0
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",376,159,186,31
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",389,178,177,34
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",388,176,174,38
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",349,178,139,32
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",372,164,172,36
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,Total Votes,1874,855,848,171
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,Under Votes,1406,601,708,97
+Bourbon,C101,CITY COMMISSIONERS City of Paris,,,Over Votes,0,0,0,0
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",725,300,369,56
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",510,242,233,35
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1235,542,602,91
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,67,24,35,8
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,438,184,222,32
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,825,370,396,59
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1263,554,618,91
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,10,18,8
+Bourbon,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,2,1,0
+Bourbon,C101,QUESTION-BOURBON CANNABIS,,,YES,918,401,447,70
+Bourbon,C101,QUESTION-BOURBON CANNABIS,,,NO,336,148,165,23
+Bourbon,C101,QUESTION-BOURBON CANNABIS,,,Total Votes,1254,549,612,93
+Bourbon,C101,QUESTION-BOURBON CANNABIS,,,Under Votes,48,17,25,6
+Bourbon,C101,QUESTION-BOURBON CANNABIS,,,Over Votes,0,0,0,0
+Bourbon,D101,STRAIGHT PARTY,,REP,Republican Party,452,151,284,17
+Bourbon,D101,STRAIGHT PARTY,,DEM,Democratic Party,178,59,103,16
+Bourbon,D101,STRAIGHT PARTY,,KY,Kentucky Party,10,5,5,0
+Bourbon,D101,STRAIGHT PARTY,,LIB,Libertarian Party,5,2,3,0
+Bourbon,D101,STRAIGHT PARTY,,,Total Votes,645,217,395,33
+Bourbon,D101,STRAIGHT PARTY,,,Under Votes,661,187,413,61
+Bourbon,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,D101,President,,REP,Donald J. TRUMP / JD VANCE,920,280,592,48
+Bourbon,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,357,118,197,42
+Bourbon,D101,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,3,0
+Bourbon,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,16,5,9,2
+Bourbon,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Bourbon,D101,President,,,Write In Total,0,0,0,0
+Bourbon,D101,President,,,Total Votes,1301,404,805,92
+Bourbon,D101,President,,,Under Votes,5,0,3,2
+Bourbon,D101,President,,,Over Votes,0,0,0,0
+Bourbon,D101,U.S. House,6,REP,Andy BARR,982,302,620,60
+Bourbon,D101,U.S. House,6,DEM,Randy CRAVENS,304,100,171,33
+Bourbon,D101,U.S. House,6,,Total Votes,1286,402,791,93
+Bourbon,D101,U.S. House,6,,Under Votes,20,2,17,1
+Bourbon,D101,U.S. House,6,,Over Votes,0,0,0,0
+Bourbon,D101,State Senate,27,REP,Steve WEST,891,276,561,54
+Bourbon,D101,State Senate,27,DEM,Molly Gene CRAIN,381,122,220,39
+Bourbon,D101,State Senate,27,,Total Votes,1272,398,781,93
+Bourbon,D101,State Senate,27,,Under Votes,34,6,27,1
+Bourbon,D101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,D101,State House,72,REP,Matthew R. KOCH,1062,322,670,70
+Bourbon,D101,State House,72,,Total Votes,1062,322,670,70
+Bourbon,D101,State House,72,,Under Votes,244,82,138,24
+Bourbon,D101,State House,72,,Over Votes,0,0,0,0
+Bourbon,D101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,1040,314,655,71
+Bourbon,D101,Commonwealth's Attorney,14,,Total Votes,1040,314,655,71
+Bourbon,D101,Commonwealth's Attorney,14,,Under Votes,266,90,153,23
+Bourbon,D101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,D101,Circuit Clerk,,REP,Trina HUSTON,1064,323,670,71
+Bourbon,D101,Circuit Clerk,,,Total Votes,1064,323,670,71
+Bourbon,D101,Circuit Clerk,,,Under Votes,242,81,138,23
+Bourbon,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,D101,COUNTY SURVEYOR,,,Under Votes,1306,404,808,94
+Bourbon,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,D101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,768,229,482,57
+Bourbon,D101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,206,64,128,14
+Bourbon,D101,JUSTICE of the SUPREME COURT,5,,Total Votes,974,293,610,71
+Bourbon,D101,JUSTICE of the SUPREME COURT,5,,Under Votes,332,111,198,23
+Bourbon,D101,JUSTICE of the SUPREME COURT,5,,Over Votes,0,0,0,0
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",540,179,322,39
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",489,136,321,32
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",563,165,362,36
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,16,2,12,2
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1608,482,1017,109
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3616,1134,2215,267
+Bourbon,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,D101,Board of Education,2,,Bradley Wayne PURCELL,807,229,524,54
+Bourbon,D101,Board of Education,2,,Total Votes,807,229,524,54
+Bourbon,D101,Board of Education,2,,Under Votes,452,159,257,36
+Bourbon,D101,Board of Education,2,,Over Votes,0,0,0,0
+Bourbon,D101,Board of Education,Paris Independent School District,,Bruce McDONALD,18,7,10,1
+Bourbon,D101,Board of Education,Paris Independent School District,,Angela PLUMMER,30,9,17,4
+Bourbon,D101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,16,4,9,3
+Bourbon,D101,Board of Education,Paris Independent School District,,Total Votes,64,20,36,8
+Bourbon,D101,Board of Education,Paris Independent School District,,Under Votes,30,12,18,0
+Bourbon,D101,Board of Education,Paris Independent School District,,Over Votes,0,0,0,0
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,"Diana STEVENSON ",127,27,86,14
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,"Laurie WORTHINGTON ",102,18,74,10
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,"Samuel Nathan FRAZIER ",109,16,78,15
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,"Larry STEVENSON ",135,25,94,16
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,"Steve EADES ",119,26,79,14
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,Total Votes,592,112,411,69
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,Under Votes,436,108,305,23
+Bourbon,D101,CITY COMMISSIONERS City of North Middletown,,,Over Votes,1,0,1,0
+Bourbon,D101,QUESTION-NORTH MIDDLETOWN CANNABIS,,,"YES ",164,40,108,16
+Bourbon,D101,QUESTION-NORTH MIDDLETOWN CANNABIS,,,"NO ",89,14,68,7
+Bourbon,D101,QUESTION-NORTH MIDDLETOWN CANNABIS,,,Total Votes,253,54,176,23
+Bourbon,D101,QUESTION-NORTH MIDDLETOWN CANNABIS,,,Under Votes,5,1,4,0
+Bourbon,D101,QUESTION-NORTH MIDDLETOWN CANNABIS,,,Over Votes,0,0,0,0
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",255,90,155,10
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",153,57,86,10
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",196,64,120,12
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",174,70,93,11
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",173,66,96,11
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,Total Votes,951,347,550,54
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,Under Votes,717,237,438,42
+Bourbon,D101,CITY COMMISSIONERS City of Paris,,,Over Votes,1,0,1,0
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,721,214,453,54
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,500,163,308,29
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1221,377,761,83
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,83,25,47,11
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,2,0,0
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,431,154,247,30
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,824,234,532,58
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1255,388,779,88
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,51,16,29,6
+Bourbon,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bourbon,D101,QUESTION-BOURBON CANNABIS,,,YES,859,264,539,56
+Bourbon,D101,QUESTION-BOURBON CANNABIS,,,NO,382,116,234,32
+Bourbon,D101,QUESTION-BOURBON CANNABIS,,,Total Votes,1241,380,773,88
+Bourbon,D101,QUESTION-BOURBON CANNABIS,,,Under Votes,62,22,34,6
+Bourbon,D101,QUESTION-BOURBON CANNABIS,,,Over Votes,3,2,1,0
+Bourbon,E101,STRAIGHT PARTY,,REP,Republican Party,488,195,264,29
+Bourbon,E101,STRAIGHT PARTY,,DEM,Democratic Party,200,82,81,37
+Bourbon,E101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Bourbon,E101,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,2,0
+Bourbon,E101,STRAIGHT PARTY,,,Total Votes,697,279,352,66
+Bourbon,E101,STRAIGHT PARTY,,,Under Votes,814,357,382,75
+Bourbon,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,E101,President,,REP,Donald J. TRUMP / JD VANCE,1011,419,520,72
+Bourbon,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,467,205,195,67
+Bourbon,E101,President,,KY,Jill  STEIN / Samson KPADENOU,6,0,6,0
+Bourbon,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,6,1
+Bourbon,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,1,0
+Bourbon,E101,President,,,Write In Total,0,0,0,0
+Bourbon,E101,President,,,Total Votes,1498,630,728,140
+Bourbon,E101,President,,,Under Votes,13,6,6,1
+Bourbon,E101,President,,,Over Votes,0,0,0,0
+Bourbon,E101,U.S. House,6,REP,Andy BARR,1123,473,563,87
+Bourbon,E101,U.S. House,6,DEM,Randy CRAVENS,371,158,161,52
+Bourbon,E101,U.S. House,6,,Total Votes,1494,631,724,139
+Bourbon,E101,U.S. House,6,,Under Votes,17,5,10,2
+Bourbon,E101,U.S. House,6,,Over Votes,0,0,0,0
+Bourbon,E101,State Senate,27,REP,Steve WEST,974,396,494,84
+Bourbon,E101,State Senate,27,DEM,Molly Gene CRAIN,507,234,217,56
+Bourbon,E101,State Senate,27,,Total Votes,1481,630,711,140
+Bourbon,E101,State Senate,27,,Under Votes,30,6,23,1
+Bourbon,E101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,E101,State House,72,REP,Matthew R. KOCH,1184,496,596,92
+Bourbon,E101,State House,72,,Total Votes,1184,496,596,92
+Bourbon,E101,State House,72,,Under Votes,327,140,138,49
+Bourbon,E101,State House,72,,Over Votes,0,0,0,0
+Bourbon,E101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,1156,476,597,83
+Bourbon,E101,Commonwealth's Attorney,14,,Total Votes,1156,476,597,83
+Bourbon,E101,Commonwealth's Attorney,14,,Under Votes,355,160,137,58
+Bourbon,E101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,E101,Circuit Clerk,,REP,Trina HUSTON,1207,502,617,88
+Bourbon,E101,Circuit Clerk,,,Total Votes,1207,502,617,88
+Bourbon,E101,Circuit Clerk,,,Under Votes,304,134,117,53
+Bourbon,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,E101,COUNTY SURVEYOR,,,Under Votes,1511,636,734,141
+Bourbon,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,E101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,900,401,425,74
+Bourbon,E101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,246,94,135,17
+Bourbon,E101,JUSTICE of the SUPREME COURT,5,,Total Votes,1146,495,560,91
+Bourbon,E101,JUSTICE of the SUPREME COURT,5,,Under Votes,365,141,174,50
+Bourbon,E101,JUSTICE of the SUPREME COURT,5,,Over Votes,0,0,0,0
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",568,219,307,42
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",585,232,307,46
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",561,236,271,54
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,4,0,3,1
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1718,687,888,143
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4326,1857,2048,421
+Bourbon,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,E101,Board of Education,2,,Bradley Wayne PURCELL,122,54,57,11
+Bourbon,E101,Board of Education,2,,Total Votes,122,54,57,11
+Bourbon,E101,Board of Education,2,,Under Votes,96,46,40,10
+Bourbon,E101,Board of Education,2,,Over Votes,0,0,0,0
+Bourbon,E101,Board of Education,Paris Independent School District,,Bruce McDONALD,48,18,18,12
+Bourbon,E101,Board of Education,Paris Independent School District,,Angela PLUMMER,71,25,24,22
+Bourbon,E101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,46,16,20,10
+Bourbon,E101,Board of Education,Paris Independent School District,,Total Votes,165,59,62,44
+Bourbon,E101,Board of Education,Paris Independent School District,,Under Votes,131,35,50,46
+Bourbon,E101,Board of Education,Paris Independent School District,,Over Votes,0,0,0,0
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",325,131,167,27
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",262,103,121,38
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",286,120,136,30
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",236,98,116,22
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",258,109,118,31
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,Total Votes,1367,561,658,148
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,Under Votes,1013,271,602,140
+Bourbon,E101,CITY COMMISSIONERS City of Paris,,,Over Votes,0,0,0,0
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,874,371,423,80
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,551,236,270,45
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1425,607,693,125
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,82,28,38,16
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,3,0
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,497,220,232,45
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,958,402,475,81
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1455,622,707,126
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,56,14,27,15
+Bourbon,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bourbon,E101,QUESTION-BOURBON CANNABIS,,,YES,1024,405,536,83
+Bourbon,E101,QUESTION-BOURBON CANNABIS,,,NO,432,209,174,49
+Bourbon,E101,QUESTION-BOURBON CANNABIS,,,Total Votes,1456,614,710,132
+Bourbon,E101,QUESTION-BOURBON CANNABIS,,,Under Votes,55,22,24,9
+Bourbon,E101,QUESTION-BOURBON CANNABIS,,,Over Votes,0,0,0,0
+Bourbon,F101,STRAIGHT PARTY,,REP,Republican Party,479,193,264,22
+Bourbon,F101,STRAIGHT PARTY,,DEM,Democratic Party,214,95,97,22
+Bourbon,F101,STRAIGHT PARTY,,KY,Kentucky Party,8,0,8,0
+Bourbon,F101,STRAIGHT PARTY,,LIB,Libertarian Party,9,3,5,1
+Bourbon,F101,STRAIGHT PARTY,,,Total Votes,710,291,374,45
+Bourbon,F101,STRAIGHT PARTY,,,Under Votes,955,434,453,68
+Bourbon,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,F101,President,,REP,Donald J. TRUMP / JD VANCE,1105,461,591,53
+Bourbon,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,522,251,214,57
+Bourbon,F101,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Bourbon,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,19,7,10,2
+Bourbon,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,7,0,6,1
+Bourbon,F101,President,,,Write In Total,1,0,1,0
+Bourbon,F101,President,,,Total Votes,1657,721,823,113
+Bourbon,F101,President,,,Under Votes,8,4,4,0
+Bourbon,F101,President,,,Over Votes,0,0,0,0
+Bourbon,F101,U.S. House,6,REP,Andy BARR,1217,505,643,69
+Bourbon,F101,U.S. House,6,DEM,Randy CRAVENS,428,211,176,41
+Bourbon,F101,U.S. House,6,,Total Votes,1645,716,819,110
+Bourbon,F101,U.S. House,6,,Under Votes,20,9,8,3
+Bourbon,F101,U.S. House,6,,Over Votes,0,0,0,0
+Bourbon,F101,State Senate,27,REP,Steve WEST,1077,434,579,64
+Bourbon,F101,State Senate,27,DEM,Molly Gene CRAIN,552,279,231,42
+Bourbon,F101,State Senate,27,,Total Votes,1629,713,810,106
+Bourbon,F101,State Senate,27,,Under Votes,36,12,17,7
+Bourbon,F101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,F101,State House,72,REP,Matthew R. KOCH,1318,548,697,73
+Bourbon,F101,State House,72,,Total Votes,1318,548,697,73
+Bourbon,F101,State House,72,,Under Votes,347,177,130,40
+Bourbon,F101,State House,72,,Over Votes,0,0,0,0
+Bourbon,F101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,1273,530,677,66
+Bourbon,F101,Commonwealth's Attorney,14,,Total Votes,1273,530,677,66
+Bourbon,F101,Commonwealth's Attorney,14,,Under Votes,392,195,150,47
+Bourbon,F101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,F101,Circuit Clerk,,REP,Trina HUSTON,1332,555,704,73
+Bourbon,F101,Circuit Clerk,,,Total Votes,1332,555,704,73
+Bourbon,F101,Circuit Clerk,,,Under Votes,333,170,123,40
+Bourbon,F101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,F101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,F101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,F101,COUNTY SURVEYOR,,,Under Votes,1665,725,827,113
+Bourbon,F101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,F101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,948,424,459,65
+Bourbon,F101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,319,128,181,10
+Bourbon,F101,JUSTICE of the SUPREME COURT,5,,Total Votes,1267,552,640,75
+Bourbon,F101,JUSTICE of the SUPREME COURT,5,,Under Votes,397,172,187,38
+Bourbon,F101,JUSTICE of the SUPREME COURT,5,,Over Votes,1,1,0,0
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",660,277,339,44
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",658,264,355,39
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",691,297,344,50
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,2,0,1,1
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,2011,838,1039,134
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4649,2062,2269,318
+Bourbon,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,F101,Board of Education,4,,Lana FRYMAN,492,212,248,32
+Bourbon,F101,Board of Education,4,,Miranda WYLES,823,355,414,54
+Bourbon,F101,Board of Education,4,,Total Votes,1315,567,662,86
+Bourbon,F101,Board of Education,4,,Under Votes,253,119,113,21
+Bourbon,F101,Board of Education,4,,Over Votes,0,0,0,0
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",481,192,259,30
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",370,165,177,28
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",483,213,237,33
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",466,216,215,35
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",382,166,188,28
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,Total Votes,2182,952,1076,154
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,Under Votes,1514,560,848,106
+Bourbon,F101,CITY COMMISSIONERS City of Paris,,,Over Votes,1,1,0,0
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1005,427,514,64
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",551,249,263,39
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1556,676,777,103
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,105,48,48,9
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,2,1
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 2,,,YES,592,259,297,36
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 2,,,NO,1020,451,498,71
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1612,710,795,107
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,53,15,32,6
+Bourbon,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bourbon,F101,QUESTION-BOURBON CANNABIS,,,YES,1158,488,583,87
+Bourbon,F101,QUESTION-BOURBON CANNABIS,,,NO,439,207,213,19
+Bourbon,F101,QUESTION-BOURBON CANNABIS,,,Total Votes,1597,695,796,106
+Bourbon,F101,QUESTION-BOURBON CANNABIS,,,Under Votes,68,30,31,7
+Bourbon,F101,QUESTION-BOURBON CANNABIS,,,Over Votes,0,0,0,0
+Bourbon,G101,STRAIGHT PARTY,,REP,Republican Party,396,157,209,30
+Bourbon,G101,STRAIGHT PARTY,,DEM,Democratic Party,181,76,78,27
+Bourbon,G101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Bourbon,G101,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Bourbon,G101,STRAIGHT PARTY,,,Total Votes,585,234,294,57
+Bourbon,G101,STRAIGHT PARTY,,,Under Votes,754,337,352,65
+Bourbon,G101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,G101,President,,REP,Donald J. TRUMP / JD VANCE,837,338,445,54
+Bourbon,G101,President,,DEM,Kamala D. HARRIS / Tim WALZ,467,221,179,67
+Bourbon,G101,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,3,0
+Bourbon,G101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,5,9,1
+Bourbon,G101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,G101,President,,LIB,Chase OLIVER / Mike TER MAAT,5,3,2,0
+Bourbon,G101,President,,,Write In Total,0,0,0,0
+Bourbon,G101,President,,,Total Votes,1328,568,638,122
+Bourbon,G101,President,,,Under Votes,11,3,8,0
+Bourbon,G101,President,,,Over Votes,0,0,0,0
+Bourbon,G101,U.S. House,6,REP,Andy BARR,931,374,489,68
+Bourbon,G101,U.S. House,6,DEM,Randy CRAVENS,386,189,148,49
+Bourbon,G101,U.S. House,6,,Total Votes,1317,563,637,117
+Bourbon,G101,U.S. House,6,,Under Votes,22,8,9,5
+Bourbon,G101,U.S. House,6,,Over Votes,0,0,0,0
+Bourbon,G101,State Senate,27,REP,Steve WEST,849,344,445,60
+Bourbon,G101,State Senate,27,DEM,Molly Gene CRAIN,468,222,189,57
+Bourbon,G101,State Senate,27,,Total Votes,1317,566,634,117
+Bourbon,G101,State Senate,27,,Under Votes,22,5,12,5
+Bourbon,G101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,G101,State House,72,REP,Matthew R. KOCH,1027,422,528,77
+Bourbon,G101,State House,72,,Total Votes,1027,422,528,77
+Bourbon,G101,State House,72,,Under Votes,312,149,118,45
+Bourbon,G101,State House,72,,Over Votes,0,0,0,0
+Bourbon,G101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,983,393,514,76
+Bourbon,G101,Commonwealth's Attorney,14,,Total Votes,983,393,514,76
+Bourbon,G101,Commonwealth's Attorney,14,,Under Votes,356,178,132,46
+Bourbon,G101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,G101,Circuit Clerk,,REP,Trina HUSTON,1034,425,531,78
+Bourbon,G101,Circuit Clerk,,,Total Votes,1034,425,531,78
+Bourbon,G101,Circuit Clerk,,,Under Votes,305,146,115,44
+Bourbon,G101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,G101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,G101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,G101,COUNTY SURVEYOR,,,Under Votes,1339,571,646,122
+Bourbon,G101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,G101,MAGISTRATE,5,REP,Henry LOVELL REP,726,311,363,52
+Bourbon,G101,MAGISTRATE,5,DEM,Joey McCARTY,557,243,253,61
+Bourbon,G101,MAGISTRATE,5,,Total Votes,1283,554,616,113
+Bourbon,G101,MAGISTRATE,5,,Under Votes,56,17,30,9
+Bourbon,G101,MAGISTRATE,5,,Over Votes,0,0,0,0
+Bourbon,G101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,786,341,383,62
+Bourbon,G101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,230,87,124,19
+Bourbon,G101,JUSTICE of the SUPREME COURT,5,,Total Votes,1016,428,507,81
+Bourbon,G101,JUSTICE of the SUPREME COURT,5,,Under Votes,323,143,139,41
+Bourbon,G101,JUSTICE of the SUPREME COURT,5,,Over Votes,0,0,0,0
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",513,222,245,46
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",536,208,275,53
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",554,232,268,54
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,0,1
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1604,662,788,154
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3752,1622,1796,334
+Bourbon,G101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,G101,Board of Education,5,,"Amanda ""Mandy"" THORNBERRY",540,233,260,47
+Bourbon,G101,Board of Education,5,,Total Votes,540,233,260,47
+Bourbon,G101,Board of Education,5,,Under Votes,298,139,124,35
+Bourbon,G101,Board of Education,5,,Over Votes,0,0,0,0
+Bourbon,G101,Board of Education,Paris Independent School District,,Bruce McDONALD,195,70,108,17
+Bourbon,G101,Board of Education,Paris Independent School District,,Angela PLUMMER,250,88,141,21
+Bourbon,G101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,184,63,101,20
+Bourbon,G101,Board of Education,Paris Independent School District,,Total Votes,629,221,350,58
+Bourbon,G101,Board of Education,Paris Independent School District,,Under Votes,373,177,174,22
+Bourbon,G101,Board of Education,Paris Independent School District,,Over Votes,0,0,0,0
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",345,118,201,26
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",269,105,131,33
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",298,113,159,26
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",254,108,124,22
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",265,114,129,22
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,Total Votes,1431,558,744,129
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,Under Votes,1129,438,604,87
+Bourbon,G101,CITY COMMISSIONERS City of Paris,,,Over Votes,1,0,1,0
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 1,,,YES,736,310,369,57
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 1,,,NO,513,223,236,54
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1249,533,605,111
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,88,37,40,11
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 2,,,YES,450,190,222,38
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 2,,,NO,833,358,395,80
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1283,548,617,118
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,55,23,28,4
+Bourbon,G101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Bourbon,G101,QUESTION-BOURBON CANNABIS,,,YES,907,369,467,71
+Bourbon,G101,QUESTION-BOURBON CANNABIS,,,NO,359,174,143,42
+Bourbon,G101,QUESTION-BOURBON CANNABIS,,,Total Votes,1266,543,610,113
+Bourbon,G101,QUESTION-BOURBON CANNABIS,,,Under Votes,72,27,36,9
+Bourbon,G101,QUESTION-BOURBON CANNABIS,,,Over Votes,1,1,0,0
+Bourbon,H101,STRAIGHT PARTY,,REP,Republican Party,400,180,202,18
+Bourbon,H101,STRAIGHT PARTY,,DEM,Democratic Party,256,99,115,42
+Bourbon,H101,STRAIGHT PARTY,,KY,Kentucky Party,5,2,3,0
+Bourbon,H101,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Bourbon,H101,STRAIGHT PARTY,,,Total Votes,664,282,322,60
+Bourbon,H101,STRAIGHT PARTY,,,Under Votes,587,272,271,44
+Bourbon,H101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bourbon,H101,President,,REP,Donald J. TRUMP / JD VANCE,774,350,390,34
+Bourbon,H101,President,,DEM,Kamala D. HARRIS / Tim WALZ,462,200,193,69
+Bourbon,H101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Bourbon,H101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
+Bourbon,H101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bourbon,H101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Bourbon,H101,President,,,Write In Total,1,0,1,0
+Bourbon,H101,President,,,Total Votes,1248,552,593,103
+Bourbon,H101,President,,,Under Votes,3,2,0,1
+Bourbon,H101,President,,,Over Votes,0,0,0,0
+Bourbon,H101,U.S. House,6,REP,Andy BARR,847,374,429,44
+Bourbon,H101,U.S. House,6,DEM,Randy CRAVENS,385,170,159,56
+Bourbon,H101,U.S. House,6,,Total Votes,1232,544,588,100
+Bourbon,H101,U.S. House,6,,Under Votes,18,9,5,4
+Bourbon,H101,U.S. House,6,,Over Votes,1,1,0,0
+Bourbon,H101,State Senate,27,REP,Steve WEST,767,333,392,42
+Bourbon,H101,State Senate,27,DEM,Molly Gene CRAIN,464,209,193,62
+Bourbon,H101,State Senate,27,,Total Votes,1231,542,585,104
+Bourbon,H101,State Senate,27,,Under Votes,20,12,8,0
+Bourbon,H101,State Senate,27,,Over Votes,0,0,0,0
+Bourbon,H101,State House,72,REP,Matthew R. KOCH,946,417,474,55
+Bourbon,H101,State House,72,,Total Votes,946,417,474,55
+Bourbon,H101,State House,72,,Under Votes,305,137,119,49
+Bourbon,H101,State House,72,,Over Votes,0,0,0,0
+Bourbon,H101,Commonwealth's Attorney,14,REP,Kelli KEARNEY,899,395,455,49
+Bourbon,H101,Commonwealth's Attorney,14,,Total Votes,899,395,455,49
+Bourbon,H101,Commonwealth's Attorney,14,,Under Votes,352,159,138,55
+Bourbon,H101,Commonwealth's Attorney,14,,Over Votes,0,0,0,0
+Bourbon,H101,Circuit Clerk,,REP,Trina HUSTON,943,410,473,60
+Bourbon,H101,Circuit Clerk,,,Total Votes,943,410,473,60
+Bourbon,H101,Circuit Clerk,,,Under Votes,308,144,120,44
+Bourbon,H101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bourbon,H101,COUNTY SURVEYOR,,,,0,0,0,0
+Bourbon,H101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bourbon,H101,COUNTY SURVEYOR,,,Under Votes,1251,554,593,104
+Bourbon,H101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bourbon,H101,JUSTICE of the SUPREME COURT,5,,Pamela R. GOODWINE,703,305,338,60
+Bourbon,H101,JUSTICE of the SUPREME COURT,5,,Erin IZZO,240,96,125,19
+Bourbon,H101,JUSTICE of the SUPREME COURT,5,,Total Votes,943,401,463,79
+Bourbon,H101,JUSTICE of the SUPREME COURT,5,,Under Votes,308,153,130,25
+Bourbon,H101,JUSTICE of the SUPREME COURT,5,,Over Votes,0,0,0,0
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bill DICKSON ",459,185,234,40
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Dustin MALLORY ",425,172,212,41
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Samuel CLAY IV. ",462,191,228,43
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,3,2,0,1
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1349,550,674,125
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3655,1666,1698,291
+Bourbon,H101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Bourbon,H101,Board of Education,5,,"Amanda ""Mandy"" THORNBERRY",620,274,304,42
+Bourbon,H101,Board of Education,5,,Total Votes,620,274,304,42
+Bourbon,H101,Board of Education,5,,Under Votes,317,175,116,26
+Bourbon,H101,Board of Education,5,,Over Votes,0,0,0,0
+Bourbon,H101,Board of Education,Paris Independent School District,,Bruce McDONALD,72,26,41,5
+Bourbon,H101,Board of Education,Paris Independent School District,,Angela PLUMMER,156,59,76,21
+Bourbon,H101,Board of Education,Paris Independent School District,,Kelly Young CATLETT,184,66,93,25
+Bourbon,H101,Board of Education,Paris Independent School District,,Total Votes,412,151,210,51
+Bourbon,H101,Board of Education,Paris Independent School District,,Under Votes,210,59,132,19
+Bourbon,H101,Board of Education,Paris Independent School District,,Over Votes,3,0,2,1
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,"Tim GRAY ",160,53,93,14
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,"Sharon B. FIELDS ",190,75,92,23
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,"Wallis C. BROOKS ",172,71,83,18
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,"Stan GALBRAITH ",121,50,60,11
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,"Mike WITHROW ",121,46,61,14
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,Total Votes,764,295,389,80
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,Under Votes,584,161,363,60
+Bourbon,H101,CITY COMMISSIONERS City of Paris,,,Over Votes,1,0,0,1
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 1,,,YES,683,301,331,51
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 1,,,NO,487,212,231,44
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1170,513,562,95
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,79,40,30,9
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 2,,,YES,441,191,226,24
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 2,,,NO,761,339,352,70
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1202,530,578,94
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,49,24,15,10
+Bourbon,H101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bourbon,H101,QUESTION-BOURBON CANNABIS,,,YES,883,366,446,71
+Bourbon,H101,QUESTION-BOURBON CANNABIS,,,NO,311,155,131,25
+Bourbon,H101,QUESTION-BOURBON CANNABIS,,,Total Votes,1194,521,577,96
+Bourbon,H101,QUESTION-BOURBON CANNABIS,,,Under Votes,55,33,15,7
+Bourbon,H101,QUESTION-BOURBON CANNABIS,,,Over Votes,2,0,1,1
