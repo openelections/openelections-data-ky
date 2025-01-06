@@ -1,0 +1,493 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Bracken,A101,STRAIGHT PARTY,,REP,Republican Party,247,0,156,91
+Bracken,A101,STRAIGHT PARTY,,DEM,Democratic Party,52,0,25,27
+Bracken,A101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Bracken,A101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Bracken,A101,STRAIGHT PARTY,,,Total Votes,306,0,188,118
+Bracken,A101,STRAIGHT PARTY,,,Under Votes,279,0,165,114
+Bracken,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,A101,President,,REP,Donald J. TRUMP / JD VANCE,471,0,293,178
+Bracken,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,103,0,51,52
+Bracken,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Bracken,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,5,1
+Bracken,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bracken,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,1,1
+Bracken,A101,President,,,Write In Total,2,0,2,0
+Bracken,A101,President,,,Total Votes,584,0,352,232
+Bracken,A101,President,,,Under Votes,1,0,1,0
+Bracken,A101,President,,,Over Votes,0,0,0,0
+Bracken,A101,U.S. House,4,REP,Thomas MASSIE,503,0,315,188
+Bracken,A101,U.S. House,4,,Write In Total,3,0,3,0
+Bracken,A101,U.S. House,4,,Total Votes,506,0,318,188
+Bracken,A101,U.S. House,4,,Under Votes,79,0,35,44
+Bracken,A101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,A101,State House,70,REP,William Lee LAWRENCE,506,0,315,191
+Bracken,A101,State House,70,,Total Votes,506,0,315,191
+Bracken,A101,State House,70,,Under Votes,78,0,38,40
+Bracken,A101,State House,70,,Over Votes,1,0,0,1
+Bracken,A101,Commonwealth's Attorney,19,REP,Johnathan GAY,435,0,262,173
+Bracken,A101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,141,0,85,56
+Bracken,A101,Commonwealth's Attorney,19,,Total Votes,576,0,347,229
+Bracken,A101,Commonwealth's Attorney,19,,Under Votes,9,0,6,3
+Bracken,A101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,A101,Circuit Clerk,,REP,Crystal A. DUNN,498,0,315,183
+Bracken,A101,Circuit Clerk,,,Total Votes,498,0,315,183
+Bracken,A101,Circuit Clerk,,,Under Votes,87,0,38,49
+Bracken,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,A101,COUNTY SURVEYOR,,,Under Votes,585,0,353,232
+Bracken,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",420,0,259,161
+Bracken,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",138,0,81,57
+Bracken,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,558,0,340,218
+Bracken,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,26,0,13,13
+Bracken,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
+Bracken,A101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",180,0,97,83
+Bracken,A101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",386,0,245,141
+Bracken,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,566,0,342,224
+Bracken,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,0,11,8
+Bracken,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,B101,STRAIGHT PARTY,,REP,Republican Party,164,0,102,62
+Bracken,B101,STRAIGHT PARTY,,DEM,Democratic Party,51,0,26,25
+Bracken,B101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Bracken,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Bracken,B101,STRAIGHT PARTY,,,Total Votes,216,0,129,87
+Bracken,B101,STRAIGHT PARTY,,,Under Votes,231,0,144,87
+Bracken,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,B101,President,,REP,Donald J. TRUMP / JD VANCE,335,0,215,120
+Bracken,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,108,0,54,54
+Bracken,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Bracken,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Bracken,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Bracken,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Bracken,B101,President,,,Write In Total,0,0,0,0
+Bracken,B101,President,,,Total Votes,446,0,272,174
+Bracken,B101,President,,,Under Votes,0,0,0,0
+Bracken,B101,President,,,Over Votes,1,0,1,0
+Bracken,B101,U.S. House,4,REP,Thomas MASSIE,344,0,224,120
+Bracken,B101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,B101,U.S. House,4,,Total Votes,344,0,224,120
+Bracken,B101,U.S. House,4,,Under Votes,103,0,49,54
+Bracken,B101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,B101,State House,70,REP,William Lee LAWRENCE,344,0,221,123
+Bracken,B101,State House,70,,Total Votes,344,0,221,123
+Bracken,B101,State House,70,,Under Votes,103,0,52,51
+Bracken,B101,State House,70,,Over Votes,0,0,0,0
+Bracken,B101,Commonwealth's Attorney,19,REP,Johnathan GAY,298,0,189,109
+Bracken,B101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,138,0,78,60
+Bracken,B101,Commonwealth's Attorney,19,,Total Votes,436,0,267,169
+Bracken,B101,Commonwealth's Attorney,19,,Under Votes,11,0,6,5
+Bracken,B101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,B101,Circuit Clerk,,REP,Crystal A. DUNN,331,0,215,116
+Bracken,B101,Circuit Clerk,,,Total Votes,331,0,215,116
+Bracken,B101,Circuit Clerk,,,Under Votes,116,0,58,58
+Bracken,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,B101,COUNTY SURVEYOR,,,Under Votes,447,0,273,174
+Bracken,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,B101,Board of Education,2,,Angela Kern CRAWFORD,118,0,77,41
+Bracken,B101,Board of Education,2,,Total Votes,118,0,77,41
+Bracken,B101,Board of Education,2,,Under Votes,89,0,52,37
+Bracken,B101,Board of Education,2,,Over Votes,0,0,0,0
+Bracken,B101,Board of Education,5,,Melissa K. TAKATA,3,0,2,1
+Bracken,B101,Board of Education,5,,Total Votes,3,0,2,1
+Bracken,B101,Board of Education,5,,Under Votes,1,0,1,0
+Bracken,B101,Board of Education,5,,Over Votes,0,0,0,0
+Bracken,B101,Board of Education,Augusta Independent School District,,Laura Laycock BACH,136,0,81,55
+Bracken,B101,Board of Education,Augusta Independent School District,,Chasity SAUNDERS,131,0,88,43
+Bracken,B101,Board of Education,Augusta Independent School District,,Write In Total,31,0,22,9
+Bracken,B101,Board of Education,Augusta Independent School District,,Total Votes,298,0,191,107
+Bracken,B101,Board of Education,Augusta Independent School District,,Under Votes,150,0,75,75
+Bracken,B101,Board of Education,Augusta Independent School District,,Over Votes,2,0,2,0
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Michael C. TAYLOR,116,0,80,36
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Total Votes,116,0,80,36
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Under Votes,110,0,55,55
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Over Votes,0,0,0,0
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Jodie TACKETT,137,0,91,46
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Total Votes,137,0,91,46
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Under Votes,89,0,44,45
+Bracken,B101,Board of Education,Augusta Independent School District (Unexpired Term),,Over Votes,0,0,0,0
+Bracken,B101,CITY COUNCIL City of Augusta,,,"Tina STICKLEN ",101,0,63,38
+Bracken,B101,CITY COUNCIL City of Augusta,,,"Peggy KELSCH ",125,0,79,46
+Bracken,B101,CITY COUNCIL City of Augusta,,,"Josh WHITE ",94,0,61,33
+Bracken,B101,CITY COUNCIL City of Augusta,,,"David MEFFORD ",102,0,64,38
+Bracken,B101,CITY COUNCIL City of Augusta,,,"Chris ROBINSON ",89,0,60,29
+Bracken,B101,CITY COUNCIL City of Augusta,,,Write In Total,9,0,6,3
+Bracken,B101,CITY COUNCIL City of Augusta,,,Total Votes,520,0,333,187
+Bracken,B101,CITY COUNCIL City of Augusta,,,Under Votes,578,0,327,251
+Bracken,B101,CITY COUNCIL City of Augusta,,,Over Votes,1,0,0,1
+Bracken,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",280,0,176,104
+Bracken,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",138,0,86,52
+Bracken,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,418,0,262,156
+Bracken,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,28,0,10,18
+Bracken,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Bracken,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,127,0,81,46
+Bracken,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,313,0,189,124
+Bracken,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,440,0,270,170
+Bracken,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,0,3,4
+Bracken,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,C101,STRAIGHT PARTY,,REP,Republican Party,182,0,139,43
+Bracken,C101,STRAIGHT PARTY,,DEM,Democratic Party,45,0,26,19
+Bracken,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Bracken,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Bracken,C101,STRAIGHT PARTY,,,Total Votes,230,0,168,62
+Bracken,C101,STRAIGHT PARTY,,,Under Votes,272,0,212,60
+Bracken,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,C101,President,,REP,Donald J. TRUMP / JD VANCE,384,0,298,86
+Bracken,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,109,0,73,36
+Bracken,C101,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Bracken,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Bracken,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
+Bracken,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Bracken,C101,President,,,Write In Total,0,0,0,0
+Bracken,C101,President,,,Total Votes,500,0,378,122
+Bracken,C101,President,,,Under Votes,1,0,1,0
+Bracken,C101,President,,,Over Votes,1,0,1,0
+Bracken,C101,U.S. House,4,REP,Thomas MASSIE,403,0,312,91
+Bracken,C101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,C101,U.S. House,4,,Total Votes,403,0,312,91
+Bracken,C101,U.S. House,4,,Under Votes,99,0,68,31
+Bracken,C101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,C101,State House,70,REP,William Lee LAWRENCE,398,0,308,90
+Bracken,C101,State House,70,,Total Votes,398,0,308,90
+Bracken,C101,State House,70,,Under Votes,104,0,72,32
+Bracken,C101,State House,70,,Over Votes,0,0,0,0
+Bracken,C101,Commonwealth's Attorney,19,REP,Johnathan GAY,329,0,255,74
+Bracken,C101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,155,0,110,45
+Bracken,C101,Commonwealth's Attorney,19,,Total Votes,484,0,365,119
+Bracken,C101,Commonwealth's Attorney,19,,Under Votes,18,0,15,3
+Bracken,C101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,C101,Circuit Clerk,,REP,Crystal A. DUNN,387,0,304,83
+Bracken,C101,Circuit Clerk,,,Total Votes,387,0,304,83
+Bracken,C101,Circuit Clerk,,,Under Votes,115,0,76,39
+Bracken,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,C101,COUNTY SURVEYOR,,,Under Votes,502,0,380,122
+Bracken,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,C101,Board of Education,5,,Melissa K. TAKATA,128,0,91,37
+Bracken,C101,Board of Education,5,,Total Votes,128,0,91,37
+Bracken,C101,Board of Education,5,,Under Votes,91,0,58,33
+Bracken,C101,Board of Education,5,,Over Votes,0,0,0,0
+Bracken,C101,Board of Education,Augusta Independent School District,,Laura Laycock BACH,175,0,144,31
+Bracken,C101,Board of Education,Augusta Independent School District,,Chasity SAUNDERS,165,0,138,27
+Bracken,C101,Board of Education,Augusta Independent School District,,Write In Total,40,0,36,4
+Bracken,C101,Board of Education,Augusta Independent School District,,Total Votes,380,0,318,62
+Bracken,C101,Board of Education,Augusta Independent School District,,Under Votes,184,0,144,40
+Bracken,C101,Board of Education,Augusta Independent School District,,Over Votes,1,0,0,1
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Michael C. TAYLOR,166,0,134,32
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Total Votes,166,0,134,32
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Under Votes,117,0,97,20
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Over Votes,0,0,0,0
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Jodie TACKETT,186,0,151,35
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Total Votes,186,0,151,35
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Under Votes,97,0,80,17
+Bracken,C101,Board of Education,Augusta Independent School District (Unexpired Term),,Over Votes,0,0,0,0
+Bracken,C101,CITY COUNCIL City of Augusta,,,"Tina STICKLEN ",166,0,137,29
+Bracken,C101,CITY COUNCIL City of Augusta,,,"Peggy KELSCH ",180,0,146,34
+Bracken,C101,CITY COUNCIL City of Augusta,,,"Josh WHITE ",141,0,113,28
+Bracken,C101,CITY COUNCIL City of Augusta,,,"David MEFFORD ",153,0,121,32
+Bracken,C101,CITY COUNCIL City of Augusta,,,"Chris ROBINSON ",131,0,110,21
+Bracken,C101,CITY COUNCIL City of Augusta,,,Write In Total,2,0,2,0
+Bracken,C101,CITY COUNCIL City of Augusta,,,Total Votes,773,0,629,144
+Bracken,C101,CITY COUNCIL City of Augusta,,,Under Votes,877,0,715,162
+Bracken,C101,CITY COUNCIL City of Augusta,,,Over Votes,0,0,0,0
+Bracken,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",293,0,226,67
+Bracken,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",177,0,131,46
+Bracken,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,470,0,357,113
+Bracken,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,0,23,9
+Bracken,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Bracken,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,130,0,95,35
+Bracken,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,360,0,276,84
+Bracken,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,490,0,371,119
+Bracken,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,12,0,9,3
+Bracken,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,D101,STRAIGHT PARTY,,REP,Republican Party,247,0,120,127
+Bracken,D101,STRAIGHT PARTY,,DEM,Democratic Party,31,0,11,20
+Bracken,D101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Bracken,D101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Bracken,D101,STRAIGHT PARTY,,,Total Votes,283,0,136,147
+Bracken,D101,STRAIGHT PARTY,,,Under Votes,281,0,158,123
+Bracken,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,D101,President,,REP,Donald J. TRUMP / JD VANCE,486,0,260,226
+Bracken,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,70,0,29,41
+Bracken,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Bracken,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,3,2
+Bracken,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bracken,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Bracken,D101,President,,,Write In Total,0,0,0,0
+Bracken,D101,President,,,Total Votes,561,0,292,269
+Bracken,D101,President,,,Under Votes,2,0,2,0
+Bracken,D101,President,,,Over Votes,1,0,0,1
+Bracken,D101,U.S. House,4,REP,Thomas MASSIE,492,0,265,227
+Bracken,D101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,D101,U.S. House,4,,Total Votes,492,0,265,227
+Bracken,D101,U.S. House,4,,Under Votes,72,0,29,43
+Bracken,D101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,D101,State House,70,REP,William Lee LAWRENCE,480,0,259,221
+Bracken,D101,State House,70,,Total Votes,480,0,259,221
+Bracken,D101,State House,70,,Under Votes,84,0,35,49
+Bracken,D101,State House,70,,Over Votes,0,0,0,0
+Bracken,D101,Commonwealth's Attorney,19,REP,Johnathan GAY,432,0,229,203
+Bracken,D101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,110,0,55,55
+Bracken,D101,Commonwealth's Attorney,19,,Total Votes,542,0,284,258
+Bracken,D101,Commonwealth's Attorney,19,,Under Votes,22,0,10,12
+Bracken,D101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,D101,Circuit Clerk,,REP,Crystal A. DUNN,471,0,255,216
+Bracken,D101,Circuit Clerk,,,Total Votes,471,0,255,216
+Bracken,D101,Circuit Clerk,,,Under Votes,93,0,39,54
+Bracken,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,D101,COUNTY SURVEYOR,,,Under Votes,564,0,294,270
+Bracken,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,D101,Board of Education,1,,Tracy Ellen FLORER,115,0,61,54
+Bracken,D101,Board of Education,1,,Total Votes,115,0,61,54
+Bracken,D101,Board of Education,1,,Under Votes,24,0,11,13
+Bracken,D101,Board of Education,1,,Over Votes,0,0,0,0
+Bracken,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",366,0,194,172
+Bracken,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",169,0,90,79
+Bracken,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,535,0,284,251
+Bracken,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,28,0,10,18
+Bracken,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
+Bracken,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,137,0,62,75
+Bracken,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,414,0,230,184
+Bracken,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,551,0,292,259
+Bracken,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,0,2,11
+Bracken,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,E101,STRAIGHT PARTY,,REP,Republican Party,230,0,149,81
+Bracken,E101,STRAIGHT PARTY,,DEM,Democratic Party,49,0,24,25
+Bracken,E101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,1,2
+Bracken,E101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Bracken,E101,STRAIGHT PARTY,,,Total Votes,282,0,174,108
+Bracken,E101,STRAIGHT PARTY,,,Under Votes,279,0,176,103
+Bracken,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,E101,President,,REP,Donald J. TRUMP / JD VANCE,463,0,304,159
+Bracken,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,0,43,44
+Bracken,E101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,0,2
+Bracken,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,0,1
+Bracken,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bracken,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Bracken,E101,President,,,Write In Total,0,0,0,0
+Bracken,E101,President,,,Total Votes,553,0,347,206
+Bracken,E101,President,,,Under Votes,8,0,3,5
+Bracken,E101,President,,,Over Votes,0,0,0,0
+Bracken,E101,U.S. House,4,REP,Thomas MASSIE,471,0,303,168
+Bracken,E101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,E101,U.S. House,4,,Total Votes,471,0,303,168
+Bracken,E101,U.S. House,4,,Under Votes,90,0,47,43
+Bracken,E101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,E101,State House,70,REP,William Lee LAWRENCE,479,0,310,169
+Bracken,E101,State House,70,,Total Votes,479,0,310,169
+Bracken,E101,State House,70,,Under Votes,82,0,40,42
+Bracken,E101,State House,70,,Over Votes,0,0,0,0
+Bracken,E101,Commonwealth's Attorney,19,REP,Johnathan GAY,391,0,250,141
+Bracken,E101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,158,0,90,68
+Bracken,E101,Commonwealth's Attorney,19,,Total Votes,549,0,340,209
+Bracken,E101,Commonwealth's Attorney,19,,Under Votes,12,0,10,2
+Bracken,E101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,E101,Circuit Clerk,,REP,Crystal A. DUNN,462,0,299,163
+Bracken,E101,Circuit Clerk,,,Total Votes,462,0,299,163
+Bracken,E101,Circuit Clerk,,,Under Votes,99,0,51,48
+Bracken,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,E101,COUNTY SURVEYOR,,,Under Votes,561,0,350,211
+Bracken,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,E101,Board of Education,1,,Tracy Ellen FLORER,38,0,21,17
+Bracken,E101,Board of Education,1,,Total Votes,38,0,21,17
+Bracken,E101,Board of Education,1,,Under Votes,9,0,3,6
+Bracken,E101,Board of Education,1,,Over Votes,0,0,0,0
+Bracken,E101,Board of Education,2,,Angela Kern CRAWFORD,194,0,125,69
+Bracken,E101,Board of Education,2,,Total Votes,194,0,125,69
+Bracken,E101,Board of Education,2,,Under Votes,97,0,54,43
+Bracken,E101,Board of Education,2,,Over Votes,0,0,0,0
+Bracken,E101,Board of Education,5,,Melissa K. TAKATA,147,0,110,37
+Bracken,E101,Board of Education,5,,Total Votes,147,0,110,37
+Bracken,E101,Board of Education,5,,Under Votes,70,0,35,35
+Bracken,E101,Board of Education,5,,Over Votes,0,0,0,0
+Bracken,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",376,0,246,130
+Bracken,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",155,0,87,68
+Bracken,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,531,0,333,198
+Bracken,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,30,0,17,13
+Bracken,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Bracken,E101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",149,0,98,51
+Bracken,E101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",400,0,248,152
+Bracken,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,549,0,346,203
+Bracken,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,12,0,4,8
+Bracken,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,F101,STRAIGHT PARTY,,REP,Republican Party,197,0,128,69
+Bracken,F101,STRAIGHT PARTY,,DEM,Democratic Party,37,0,21,16
+Bracken,F101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,3,1
+Bracken,F101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Bracken,F101,STRAIGHT PARTY,,,Total Votes,240,0,154,86
+Bracken,F101,STRAIGHT PARTY,,,Under Votes,280,0,174,106
+Bracken,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Bracken,F101,President,,REP,Donald J. TRUMP / JD VANCE,443,0,287,156
+Bracken,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,69,0,38,31
+Bracken,F101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Bracken,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,0,1
+Bracken,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Bracken,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,1,1
+Bracken,F101,President,,,Write In Total,1,0,1,0
+Bracken,F101,President,,,Total Votes,516,0,327,189
+Bracken,F101,President,,,Under Votes,4,0,1,3
+Bracken,F101,President,,,Over Votes,0,0,0,0
+Bracken,F101,U.S. House,4,REP,Thomas MASSIE,446,0,288,158
+Bracken,F101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,F101,U.S. House,4,,Total Votes,446,0,288,158
+Bracken,F101,U.S. House,4,,Under Votes,73,0,39,34
+Bracken,F101,U.S. House,4,,Over Votes,1,0,1,0
+Bracken,F101,State House,70,REP,William Lee LAWRENCE,448,0,290,158
+Bracken,F101,State House,70,,Total Votes,448,0,290,158
+Bracken,F101,State House,70,,Under Votes,72,0,38,34
+Bracken,F101,State House,70,,Over Votes,0,0,0,0
+Bracken,F101,Commonwealth's Attorney,19,REP,Johnathan GAY,351,0,222,129
+Bracken,F101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,157,0,100,57
+Bracken,F101,Commonwealth's Attorney,19,,Total Votes,508,0,322,186
+Bracken,F101,Commonwealth's Attorney,19,,Under Votes,12,0,6,6
+Bracken,F101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,F101,Circuit Clerk,,REP,Crystal A. DUNN,429,0,275,154
+Bracken,F101,Circuit Clerk,,,Total Votes,429,0,275,154
+Bracken,F101,Circuit Clerk,,,Under Votes,91,0,53,38
+Bracken,F101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,F101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,F101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,F101,COUNTY SURVEYOR,,,Under Votes,520,0,328,192
+Bracken,F101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,F101,Board of Education,1,,Tracy Ellen FLORER,428,0,274,154
+Bracken,F101,Board of Education,1,,Total Votes,428,0,274,154
+Bracken,F101,Board of Education,1,,Under Votes,92,0,54,38
+Bracken,F101,Board of Education,1,,Over Votes,0,0,0,0
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Sara Hay FRYMAN ",185,0,114,71
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Melinda Rudd KURTZ ",137,0,91,46
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Roger KING ",163,0,104,59
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Karen Lee KING ",136,0,89,47
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Sarah Beth CARL ",150,0,99,51
+Bracken,F101,CITY COUNCIL City of Brooksville,,,"Timothy BOYD ",129,0,81,48
+Bracken,F101,CITY COUNCIL City of Brooksville,,,Total Votes,900,0,578,322
+Bracken,F101,CITY COUNCIL City of Brooksville,,,Under Votes,738,0,466,272
+Bracken,F101,CITY COUNCIL City of Brooksville,,,Over Votes,1,0,0,1
+Bracken,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",342,0,214,128
+Bracken,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",154,0,101,53
+Bracken,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,496,0,315,181
+Bracken,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,0,12,11
+Bracken,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Bracken,F101,CONSTITUTIONAL AMENDMENT 2,,,YES,102,0,66,36
+Bracken,F101,CONSTITUTIONAL AMENDMENT 2,,,NO,405,0,254,151
+Bracken,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,507,0,320,187
+Bracken,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,0,8,5
+Bracken,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,G101,STRAIGHT PARTY,,REP,Republican Party,212,0,133,79
+Bracken,G101,STRAIGHT PARTY,,DEM,Democratic Party,43,0,27,16
+Bracken,G101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,3,1
+Bracken,G101,STRAIGHT PARTY,,LIB,Libertarian Party,6,0,1,5
+Bracken,G101,STRAIGHT PARTY,,,Total Votes,265,0,164,101
+Bracken,G101,STRAIGHT PARTY,,,Under Votes,235,0,146,89
+Bracken,G101,STRAIGHT PARTY,,,Over Votes,1,0,0,1
+Bracken,G101,President,,REP,Donald J. TRUMP / JD VANCE,410,0,265,145
+Bracken,G101,President,,DEM,Kamala D. HARRIS / Tim WALZ,71,0,34,37
+Bracken,G101,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Bracken,G101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,5,0
+Bracken,G101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,3,0,0,3
+Bracken,G101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,0,2
+Bracken,G101,President,,,Write In Total,4,0,2,2
+Bracken,G101,President,,,Total Votes,498,0,309,189
+Bracken,G101,President,,,Under Votes,3,0,1,2
+Bracken,G101,President,,,Over Votes,0,0,0,0
+Bracken,G101,U.S. House,4,REP,Thomas MASSIE,446,0,279,167
+Bracken,G101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,G101,U.S. House,4,,Total Votes,446,0,279,167
+Bracken,G101,U.S. House,4,,Under Votes,55,0,31,24
+Bracken,G101,U.S. House,4,,Over Votes,0,0,0,0
+Bracken,G101,State House,70,REP,William Lee LAWRENCE,434,0,271,163
+Bracken,G101,State House,70,,Total Votes,434,0,271,163
+Bracken,G101,State House,70,,Under Votes,67,0,39,28
+Bracken,G101,State House,70,,Over Votes,0,0,0,0
+Bracken,G101,Commonwealth's Attorney,19,REP,Johnathan GAY,391,0,246,145
+Bracken,G101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,98,0,58,40
+Bracken,G101,Commonwealth's Attorney,19,,Total Votes,489,0,304,185
+Bracken,G101,Commonwealth's Attorney,19,,Under Votes,12,0,6,6
+Bracken,G101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,G101,Circuit Clerk,,REP,Crystal A. DUNN,426,0,264,162
+Bracken,G101,Circuit Clerk,,,Total Votes,426,0,264,162
+Bracken,G101,Circuit Clerk,,,Under Votes,75,0,46,29
+Bracken,G101,Circuit Clerk,,,Over Votes,0,0,0,0
+Bracken,G101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,G101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,G101,COUNTY SURVEYOR,,,Under Votes,501,0,310,191
+Bracken,G101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,G101,Board of Education,5,,Melissa K. TAKATA,28,0,18,10
+Bracken,G101,Board of Education,5,,Total Votes,28,0,18,10
+Bracken,G101,Board of Education,5,,Under Votes,16,0,10,6
+Bracken,G101,Board of Education,5,,Over Votes,0,0,0,0
+Bracken,G101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",342,0,212,130
+Bracken,G101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",127,0,78,49
+Bracken,G101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,469,0,290,179
+Bracken,G101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,0,20,11
+Bracken,G101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
+Bracken,G101,CONSTITUTIONAL AMENDMENT 2,,,YES,152,0,89,63
+Bracken,G101,CONSTITUTIONAL AMENDMENT 2,,,NO,334,0,216,118
+Bracken,G101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,486,0,305,181
+Bracken,G101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,0,5,10
+Bracken,G101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Bracken,H101,STRAIGHT PARTY,,REP,Republican Party,196,0,135,61
+Bracken,H101,STRAIGHT PARTY,,DEM,Democratic Party,48,0,32,16
+Bracken,H101,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Bracken,H101,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Bracken,H101,STRAIGHT PARTY,,,Total Votes,252,0,175,77
+Bracken,H101,STRAIGHT PARTY,,,Under Votes,246,0,182,64
+Bracken,H101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Bracken,H101,President,,REP,Donald J. TRUMP / JD VANCE,407,0,299,108
+Bracken,H101,President,,DEM,Kamala D. HARRIS / Tim WALZ,85,0,53,32
+Bracken,H101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Bracken,H101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,1,1
+Bracken,H101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Bracken,H101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Bracken,H101,President,,,Write In Total,0,0,0,0
+Bracken,H101,President,,,Total Votes,495,0,354,141
+Bracken,H101,President,,,Under Votes,3,0,3,0
+Bracken,H101,President,,,Over Votes,1,0,1,0
+Bracken,H101,U.S. House,4,REP,Thomas MASSIE,418,0,305,113
+Bracken,H101,U.S. House,4,,Write In Total,0,0,0,0
+Bracken,H101,U.S. House,4,,Total Votes,418,0,305,113
+Bracken,H101,U.S. House,4,,Under Votes,80,0,52,28
+Bracken,H101,U.S. House,4,,Over Votes,1,0,1,0
+Bracken,H101,State House,70,REP,William Lee LAWRENCE,420,0,302,118
+Bracken,H101,State House,70,,Total Votes,420,0,302,118
+Bracken,H101,State House,70,,Under Votes,79,0,56,23
+Bracken,H101,State House,70,,Over Votes,0,0,0,0
+Bracken,H101,Commonwealth's Attorney,19,REP,Johnathan GAY,338,0,237,101
+Bracken,H101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,152,0,113,39
+Bracken,H101,Commonwealth's Attorney,19,,Total Votes,490,0,350,140
+Bracken,H101,Commonwealth's Attorney,19,,Under Votes,9,0,8,1
+Bracken,H101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Bracken,H101,Circuit Clerk,,REP,Crystal A. DUNN,408,0,297,111
+Bracken,H101,Circuit Clerk,,,Total Votes,408,0,297,111
+Bracken,H101,Circuit Clerk,,,Under Votes,90,0,60,30
+Bracken,H101,Circuit Clerk,,,Over Votes,1,0,1,0
+Bracken,H101,COUNTY SURVEYOR,,,,0,0,0,0
+Bracken,H101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Bracken,H101,COUNTY SURVEYOR,,,Under Votes,499,0,358,141
+Bracken,H101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Bracken,H101,Board of Education,5,,Melissa K. TAKATA,334,0,251,83
+Bracken,H101,Board of Education,5,,Total Votes,334,0,251,83
+Bracken,H101,Board of Education,5,,Under Votes,165,0,107,58
+Bracken,H101,Board of Education,5,,Over Votes,0,0,0,0
+Bracken,H101,CITY COMMISSIONERS City of Germantown,,,"S. Max MORAN ",46,0,37,9
+Bracken,H101,CITY COMMISSIONERS City of Germantown,,,Write In Total,1,0,1,0
+Bracken,H101,CITY COMMISSIONERS City of Germantown,,,Total Votes,47,0,38,9
+Bracken,H101,CITY COMMISSIONERS City of Germantown,,,Under Votes,217,0,154,63
+Bracken,H101,CITY COMMISSIONERS City of Germantown,,,Over Votes,1,0,1,0
+Bracken,H101,CONSTITUTIONAL AMENDMENT 1,,,YES,338,0,241,97
+Bracken,H101,CONSTITUTIONAL AMENDMENT 1,,,NO,137,0,104,33
+Bracken,H101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,475,0,345,130
+Bracken,H101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,0,10,10
+Bracken,H101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,3,1
+Bracken,H101,CONSTITUTIONAL AMENDMENT 2,,,YES,118,0,73,45
+Bracken,H101,CONSTITUTIONAL AMENDMENT 2,,,NO,373,0,283,90
+Bracken,H101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,491,0,356,135
+Bracken,H101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,0,2,6
+Bracken,H101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
