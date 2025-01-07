@@ -1,0 +1,1779 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Calloway,A101,STRAIGHT PARTY,,REP,Republican Party,108,47,57,4
+Calloway,A101,STRAIGHT PARTY,,DEM,Democratic Party,142,60,65,17
+Calloway,A101,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Calloway,A101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Calloway,A101,STRAIGHT PARTY,,,Total Votes,255,108,126,21
+Calloway,A101,STRAIGHT PARTY,,,Under Votes,297,139,146,12
+Calloway,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,A101,President,,REP,Donald J. TRUMP / JD VANCE,244,102,131,11
+Calloway,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,296,143,131,22
+Calloway,A101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,3,0
+Calloway,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Calloway,A101,President,,,Write In Total,0,0,0,0
+Calloway,A101,President,,,Total Votes,547,247,267,33
+Calloway,A101,President,,,Under Votes,5,0,5,0
+Calloway,A101,President,,,Over Votes,0,0,0,0
+Calloway,A101,U.S. House,1,REP,James R. COMER,246,102,135,9
+Calloway,A101,U.S. House,1,DEM,Erin MARSHALL,290,136,132,22
+Calloway,A101,U.S. House,1,,Total Votes,536,238,267,31
+Calloway,A101,U.S. House,1,,Under Votes,13,8,5,0
+Calloway,A101,U.S. House,1,,Over Votes,1,1,0,0
+Calloway,A101,State Senate,1,REP,Jason G. HOWELL,313,126,176,11
+Calloway,A101,State Senate,1,,Total Votes,313,126,176,11
+Calloway,A101,State Senate,1,,Under Votes,236,121,95,20
+Calloway,A101,State Senate,1,,Over Votes,1,0,1,0
+Calloway,A101,State House,5,REP,Mary Beth IMES,225,102,115,8
+Calloway,A101,State House,5,DEM,Lauren HINES,316,140,153,23
+Calloway,A101,State House,5,,Total Votes,541,242,268,31
+Calloway,A101,State House,5,,Under Votes,7,4,3,0
+Calloway,A101,State House,5,,Over Votes,2,1,1,0
+Calloway,A101,Commonwealth's Attorney,42,IND,Dennis R. FOUST,313,127,170,16
+Calloway,A101,Commonwealth's Attorney,42,,Total Votes,313,127,170,16
+Calloway,A101,Commonwealth's Attorney,42,,Under Votes,237,120,102,15
+Calloway,A101,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,A101,Circuit Clerk,,,"Melinda STARKS REP ",324,135,178,11
+Calloway,A101,Circuit Clerk,,,Total Votes,324,135,178,11
+Calloway,A101,Circuit Clerk,,,Under Votes,226,112,94,20
+Calloway,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",226,91,119,16
+Calloway,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",113,56,55,2
+Calloway,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,339,147,174,18
+Calloway,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,209,100,96,13
+Calloway,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,2,0,2,0
+Calloway,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,4,2,2,0
+Calloway,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,4,2,2,0
+Calloway,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2196,986,1086,124
+Calloway,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,A101,Board of Education,Murray Independent School District,,Adam SEIBER,274,111,145,18
+Calloway,A101,Board of Education,Murray Independent School District,,Richard H. CROUCH,266,119,126,21
+Calloway,A101,Board of Education,Murray Independent School District,,Total Votes,540,230,271,39
+Calloway,A101,Board of Education,Murray Independent School District,,Under Votes,558,262,273,23
+Calloway,A101,Board of Education,Murray Independent School District,,Over Votes,1,1,0,0
+Calloway,A101,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",126,58,62,6
+Calloway,A101,CITY COUNCIL City of Murray,,,"Rose ROSS ",201,94,95,12
+Calloway,A101,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",268,138,109,21
+Calloway,A101,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",157,77,67,13
+Calloway,A101,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",210,105,89,16
+Calloway,A101,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",185,88,81,16
+Calloway,A101,CITY COUNCIL City of Murray,,,"Linda CHERRY ",169,76,84,9
+Calloway,A101,CITY COUNCIL City of Murray,,,"Terry STRIETER ",166,81,73,12
+Calloway,A101,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",208,102,90,16
+Calloway,A101,CITY COUNCIL City of Murray,,,"Jeremy BELL ",204,96,91,17
+Calloway,A101,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",117,56,53,8
+Calloway,A101,CITY COUNCIL City of Murray,,,"Alice ROUSE ",178,77,89,12
+Calloway,A101,CITY COUNCIL City of Murray,,,"Clif DARNELL ",134,56,67,11
+Calloway,A101,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",191,92,87,12
+Calloway,A101,CITY COUNCIL City of Murray,,,Total Votes,2514,1196,1137,181
+Calloway,A101,CITY COUNCIL City of Murray,,,Under Votes,4062,1768,2103,191
+Calloway,A101,CITY COUNCIL City of Murray,,,Over Votes,2,0,2,0
+Calloway,A101,QUESTION-MURRAY CANNABIS,,,YES,359,151,190,18
+Calloway,A101,QUESTION-MURRAY CANNABIS,,,NO,169,86,72,11
+Calloway,A101,QUESTION-MURRAY CANNABIS,,,Total Votes,528,237,262,29
+Calloway,A101,QUESTION-MURRAY CANNABIS,,,Under Votes,21,10,9,2
+Calloway,A101,QUESTION-MURRAY CANNABIS,,,Over Votes,1,0,1,0
+Calloway,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,277,108,155,14
+Calloway,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,216,105,96,15
+Calloway,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,493,213,251,29
+Calloway,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,33,19,2
+Calloway,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Calloway,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,133,69,56,8
+Calloway,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,397,165,210,22
+Calloway,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,530,234,266,30
+Calloway,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,13,6,1
+Calloway,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,A101,QUESTION-CALLOWAY CANNABIS,,,YES,351,146,191,14
+Calloway,A101,QUESTION-CALLOWAY CANNABIS,,,NO,167,86,67,14
+Calloway,A101,QUESTION-CALLOWAY CANNABIS,,,Total Votes,518,232,258,28
+Calloway,A101,QUESTION-CALLOWAY CANNABIS,,,Under Votes,29,14,13,2
+Calloway,A101,QUESTION-CALLOWAY CANNABIS,,,Over Votes,3,1,1,1
+Calloway,A102,STRAIGHT PARTY,,REP,Republican Party,88,16,67,5
+Calloway,A102,STRAIGHT PARTY,,DEM,Democratic Party,78,14,56,8
+Calloway,A102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Calloway,A102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Calloway,A102,STRAIGHT PARTY,,,Total Votes,170,31,126,13
+Calloway,A102,STRAIGHT PARTY,,,Under Votes,139,50,85,4
+Calloway,A102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,A102,President,,REP,Donald J. TRUMP / JD VANCE,163,45,110,8
+Calloway,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,140,35,96,9
+Calloway,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
+Calloway,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,A102,President,,,Write In Total,1,0,1,0
+Calloway,A102,President,,,Total Votes,310,81,212,17
+Calloway,A102,President,,,Under Votes,0,0,0,0
+Calloway,A102,President,,,Over Votes,0,0,0,0
+Calloway,A102,U.S. House,1,REP,James R. COMER,165,46,110,9
+Calloway,A102,U.S. House,1,DEM,Erin MARSHALL,139,34,98,7
+Calloway,A102,U.S. House,1,,Total Votes,304,80,208,16
+Calloway,A102,U.S. House,1,,Under Votes,6,1,4,1
+Calloway,A102,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,A102,State Senate,1,REP,Jason G. HOWELL,208,50,150,8
+Calloway,A102,State Senate,1,,Total Votes,208,50,150,8
+Calloway,A102,State Senate,1,,Under Votes,102,31,62,9
+Calloway,A102,State Senate,1,,Over Votes,0,0,0,0
+Calloway,A102,State House,5,REP,Mary Beth IMES,150,40,102,8
+Calloway,A102,State House,5,DEM,Lauren HINES,150,41,101,8
+Calloway,A102,State House,5,,Total Votes,300,81,203,16
+Calloway,A102,State House,5,,Under Votes,10,0,9,1
+Calloway,A102,State House,5,,Over Votes,0,0,0,0
+Calloway,A102,Commonwealth's Attorney,42,IND,Dennis R. FOUST,207,53,146,8
+Calloway,A102,Commonwealth's Attorney,42,,Total Votes,207,53,146,8
+Calloway,A102,Commonwealth's Attorney,42,,Under Votes,103,28,66,9
+Calloway,A102,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,A102,Circuit Clerk,,,"Melinda STARKS REP ",218,57,151,10
+Calloway,A102,Circuit Clerk,,,Total Votes,218,57,151,10
+Calloway,A102,Circuit Clerk,,,Under Votes,92,24,61,7
+Calloway,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",151,41,101,9
+Calloway,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",59,16,40,3
+Calloway,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,210,57,141,12
+Calloway,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,99,23,71,5
+Calloway,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,1,0,0
+Calloway,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,7,0,6,1
+Calloway,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,7,0,6,1
+Calloway,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1233,324,842,67
+Calloway,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,A102,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",170,42,121,7
+Calloway,A102,Board of Education,5,,Total Votes,170,42,121,7
+Calloway,A102,Board of Education,5,,Under Votes,119,30,80,9
+Calloway,A102,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,A102,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",90,17,70,3
+Calloway,A102,CITY COUNCIL City of Murray,,,"Rose ROSS ",99,30,65,4
+Calloway,A102,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",99,25,67,7
+Calloway,A102,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",92,29,60,3
+Calloway,A102,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",89,24,62,3
+Calloway,A102,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",75,20,53,2
+Calloway,A102,CITY COUNCIL City of Murray,,,"Linda CHERRY ",116,36,72,8
+Calloway,A102,CITY COUNCIL City of Murray,,,"Terry STRIETER ",72,19,49,4
+Calloway,A102,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",96,29,62,5
+Calloway,A102,CITY COUNCIL City of Murray,,,"Jeremy BELL ",98,26,64,8
+Calloway,A102,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",78,24,50,4
+Calloway,A102,CITY COUNCIL City of Murray,,,"Alice ROUSE ",104,29,68,7
+Calloway,A102,CITY COUNCIL City of Murray,,,"Clif DARNELL ",78,19,56,3
+Calloway,A102,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",93,27,62,4
+Calloway,A102,CITY COUNCIL City of Murray,,,Total Votes,1279,354,860,65
+Calloway,A102,CITY COUNCIL City of Murray,,,Under Votes,2285,558,1600,127
+Calloway,A102,CITY COUNCIL City of Murray,,,Over Votes,1,0,0,1
+Calloway,A102,QUESTION-MURRAY CANNABIS,,,YES,216,54,153,9
+Calloway,A102,QUESTION-MURRAY CANNABIS,,,NO,69,19,42,8
+Calloway,A102,QUESTION-MURRAY CANNABIS,,,Total Votes,285,73,195,17
+Calloway,A102,QUESTION-MURRAY CANNABIS,,,Under Votes,13,3,10,0
+Calloway,A102,QUESTION-MURRAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,181,48,126,7
+Calloway,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,114,29,76,9
+Calloway,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,295,77,202,16
+Calloway,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,15,4,10,1
+Calloway,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Calloway,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,91,18,68,5
+Calloway,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,208,60,137,11
+Calloway,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,299,78,205,16
+Calloway,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,3,7,0
+Calloway,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
+Calloway,A102,QUESTION-CALLOWAY CANNABIS,,,YES,225,59,157,9
+Calloway,A102,QUESTION-CALLOWAY CANNABIS,,,NO,71,19,44,8
+Calloway,A102,QUESTION-CALLOWAY CANNABIS,,,Total Votes,296,78,201,17
+Calloway,A102,QUESTION-CALLOWAY CANNABIS,,,Under Votes,14,3,11,0
+Calloway,A102,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,A103,STRAIGHT PARTY,,REP,Republican Party,572,190,346,36
+Calloway,A103,STRAIGHT PARTY,,DEM,Democratic Party,148,51,83,14
+Calloway,A103,STRAIGHT PARTY,,KY,Kentucky Party,9,2,6,1
+Calloway,A103,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,4,0
+Calloway,A103,STRAIGHT PARTY,,,Total Votes,733,243,439,51
+Calloway,A103,STRAIGHT PARTY,,,Under Votes,703,228,443,32
+Calloway,A103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,A103,President,,REP,Donald J. TRUMP / JD VANCE,1140,361,718,61
+Calloway,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,270,100,150,20
+Calloway,A103,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Calloway,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,7,0
+Calloway,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Calloway,A103,President,,,Write In Total,2,1,0,1
+Calloway,A103,President,,,Total Votes,1428,467,878,83
+Calloway,A103,President,,,Under Votes,9,4,5,0
+Calloway,A103,President,,,Over Votes,0,0,0,0
+Calloway,A103,U.S. House,1,REP,James R. COMER,1151,369,719,63
+Calloway,A103,U.S. House,1,DEM,Erin MARSHALL,272,95,157,20
+Calloway,A103,U.S. House,1,,Total Votes,1423,464,876,83
+Calloway,A103,U.S. House,1,,Under Votes,14,7,7,0
+Calloway,A103,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,A103,State Senate,1,REP,Jason G. HOWELL,1181,371,750,60
+Calloway,A103,State Senate,1,,Total Votes,1181,371,750,60
+Calloway,A103,State Senate,1,,Under Votes,254,100,132,22
+Calloway,A103,State Senate,1,,Over Votes,2,0,1,1
+Calloway,A103,State House,5,REP,Mary Beth IMES,1071,341,669,61
+Calloway,A103,State House,5,DEM,Lauren HINES,340,118,201,21
+Calloway,A103,State House,5,,Total Votes,1411,459,870,82
+Calloway,A103,State House,5,,Under Votes,24,10,13,1
+Calloway,A103,State House,5,,Over Votes,2,2,0,0
+Calloway,A103,Commonwealth's Attorney,42,IND,Dennis R. FOUST,884,273,565,46
+Calloway,A103,Commonwealth's Attorney,42,,Total Votes,884,273,565,46
+Calloway,A103,Commonwealth's Attorney,42,,Under Votes,553,198,318,37
+Calloway,A103,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,A103,Circuit Clerk,,,"Melinda STARKS REP ",1184,372,746,66
+Calloway,A103,Circuit Clerk,,,Total Votes,1184,372,746,66
+Calloway,A103,Circuit Clerk,,,Under Votes,253,99,137,17
+Calloway,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,A103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",592,177,385,30
+Calloway,A103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",303,107,183,13
+Calloway,A103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,895,284,568,43
+Calloway,A103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,542,187,315,40
+Calloway,A103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,34,6,23,5
+Calloway,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,34,6,23,5
+Calloway,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,5714,1878,3509,327
+Calloway,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,933,297,575,61
+Calloway,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,426,138,269,19
+Calloway,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1359,435,844,80
+Calloway,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,76,34,39,3
+Calloway,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,2,0,0
+Calloway,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,554,201,328,25
+Calloway,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,831,246,529,56
+Calloway,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1385,447,857,81
+Calloway,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,50,23,26,1
+Calloway,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,0,1
+Calloway,A103,QUESTION-CALLOWAY CANNABIS,,,YES,859,256,548,55
+Calloway,A103,QUESTION-CALLOWAY CANNABIS,,,NO,527,194,309,24
+Calloway,A103,QUESTION-CALLOWAY CANNABIS,,,Total Votes,1386,450,857,79
+Calloway,A103,QUESTION-CALLOWAY CANNABIS,,,Under Votes,48,18,26,4
+Calloway,A103,QUESTION-CALLOWAY CANNABIS,,,Over Votes,3,3,0,0
+Calloway,A104,STRAIGHT PARTY,,REP,Republican Party,328,115,193,20
+Calloway,A104,STRAIGHT PARTY,,DEM,Democratic Party,100,35,56,9
+Calloway,A104,STRAIGHT PARTY,,KY,Kentucky Party,6,0,6,0
+Calloway,A104,STRAIGHT PARTY,,LIB,Libertarian Party,7,1,6,0
+Calloway,A104,STRAIGHT PARTY,,,Total Votes,441,151,261,29
+Calloway,A104,STRAIGHT PARTY,,,Under Votes,505,204,271,30
+Calloway,A104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,A104,President,,REP,Donald J. TRUMP / JD VANCE,712,266,414,32
+Calloway,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,211,81,105,25
+Calloway,A104,President,,KY,Jill  STEIN / Samson KPADENOU,2,2,0,0
+Calloway,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,5,0
+Calloway,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Calloway,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,6,3,3,0
+Calloway,A104,President,,,Write In Total,0,0,0,0
+Calloway,A104,President,,,Total Votes,937,352,528,57
+Calloway,A104,President,,,Under Votes,9,2,5,2
+Calloway,A104,President,,,Over Votes,1,1,0,0
+Calloway,A104,U.S. House,1,REP,James R. COMER,705,267,399,39
+Calloway,A104,U.S. House,1,DEM,Erin MARSHALL,227,85,123,19
+Calloway,A104,U.S. House,1,,Total Votes,932,352,522,58
+Calloway,A104,U.S. House,1,,Under Votes,15,3,11,1
+Calloway,A104,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,A104,State Senate,1,REP,Jason G. HOWELL,748,274,432,42
+Calloway,A104,State Senate,1,,Total Votes,748,274,432,42
+Calloway,A104,State Senate,1,,Under Votes,199,81,101,17
+Calloway,A104,State Senate,1,,Over Votes,0,0,0,0
+Calloway,A104,State House,5,REP,Mary Beth IMES,647,240,366,41
+Calloway,A104,State House,5,DEM,Lauren HINES,272,105,152,15
+Calloway,A104,State House,5,,Total Votes,919,345,518,56
+Calloway,A104,State House,5,,Under Votes,28,10,15,3
+Calloway,A104,State House,5,,Over Votes,0,0,0,0
+Calloway,A104,Commonwealth's Attorney,42,IND,Dennis R. FOUST,617,220,361,36
+Calloway,A104,Commonwealth's Attorney,42,,Total Votes,617,220,361,36
+Calloway,A104,Commonwealth's Attorney,42,,Under Votes,330,135,172,23
+Calloway,A104,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,A104,Circuit Clerk,,,"Melinda STARKS REP ",777,290,443,44
+Calloway,A104,Circuit Clerk,,,Total Votes,777,290,443,44
+Calloway,A104,Circuit Clerk,,,Under Votes,170,65,90,15
+Calloway,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,A104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",389,143,225,21
+Calloway,A104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",219,83,125,11
+Calloway,A104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,608,226,350,32
+Calloway,A104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,339,129,183,27
+Calloway,A104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,37,27,8,2
+Calloway,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,37,27,8,2
+Calloway,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3751,1393,2124,234
+Calloway,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,A104,Board of Education,4,,Sharon BOBO,269,87,172,10
+Calloway,A104,Board of Education,4,,Total Votes,269,87,172,10
+Calloway,A104,Board of Education,4,,Under Votes,192,81,99,12
+Calloway,A104,Board of Education,4,,Over Votes,0,0,0,0
+Calloway,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",590,221,330,39
+Calloway,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",293,110,165,18
+Calloway,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,883,331,495,57
+Calloway,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,22,32,0
+Calloway,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,10,2,6,2
+Calloway,A104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",334,125,184,25
+Calloway,A104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",579,218,327,34
+Calloway,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,913,343,511,59
+Calloway,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,34,12,22,0
+Calloway,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,A104,QUESTION-CALLOWAY CANNABIS,,,YES,584,186,360,38
+Calloway,A104,QUESTION-CALLOWAY CANNABIS,,,NO,331,155,155,21
+Calloway,A104,QUESTION-CALLOWAY CANNABIS,,,Total Votes,915,341,515,59
+Calloway,A104,QUESTION-CALLOWAY CANNABIS,,,Under Votes,32,14,18,0
+Calloway,A104,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,A106,STRAIGHT PARTY,,REP,Republican Party,221,91,117,13
+Calloway,A106,STRAIGHT PARTY,,DEM,Democratic Party,37,16,17,4
+Calloway,A106,STRAIGHT PARTY,,KY,Kentucky Party,5,2,3,0
+Calloway,A106,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Calloway,A106,STRAIGHT PARTY,,,Total Votes,266,110,139,17
+Calloway,A106,STRAIGHT PARTY,,,Under Votes,271,104,160,7
+Calloway,A106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,A106,President,,REP,Donald J. TRUMP / JD VANCE,433,169,249,15
+Calloway,A106,President,,DEM,Kamala D. HARRIS / Tim WALZ,94,43,43,8
+Calloway,A106,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,1,1
+Calloway,A106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Calloway,A106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,A106,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Calloway,A106,President,,,Write In Total,0,0,0,0
+Calloway,A106,President,,,Total Votes,533,212,297,24
+Calloway,A106,President,,,Under Votes,4,2,2,0
+Calloway,A106,President,,,Over Votes,0,0,0,0
+Calloway,A106,U.S. House,1,REP,James R. COMER,430,169,246,15
+Calloway,A106,U.S. House,1,DEM,Erin MARSHALL,98,42,48,8
+Calloway,A106,U.S. House,1,,Total Votes,528,211,294,23
+Calloway,A106,U.S. House,1,,Under Votes,8,3,4,1
+Calloway,A106,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,A106,State Senate,1,REP,Jason G. HOWELL,447,172,258,17
+Calloway,A106,State Senate,1,,Total Votes,447,172,258,17
+Calloway,A106,State Senate,1,,Under Votes,90,42,41,7
+Calloway,A106,State Senate,1,,Over Votes,0,0,0,0
+Calloway,A106,State House,5,REP,Mary Beth IMES,400,154,230,16
+Calloway,A106,State House,5,DEM,Lauren HINES,126,57,62,7
+Calloway,A106,State House,5,,Total Votes,526,211,292,23
+Calloway,A106,State House,5,,Under Votes,10,2,7,1
+Calloway,A106,State House,5,,Over Votes,1,1,0,0
+Calloway,A106,Commonwealth's Attorney,42,IND,Dennis R. FOUST,343,123,208,12
+Calloway,A106,Commonwealth's Attorney,42,,Total Votes,343,123,208,12
+Calloway,A106,Commonwealth's Attorney,42,,Under Votes,194,91,91,12
+Calloway,A106,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,A106,Circuit Clerk,,,"Melinda STARKS REP ",460,178,264,18
+Calloway,A106,Circuit Clerk,,,Total Votes,460,178,264,18
+Calloway,A106,Circuit Clerk,,,Under Votes,77,36,35,6
+Calloway,A106,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,A106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",213,86,119,8
+Calloway,A106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",120,42,75,3
+Calloway,A106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,333,128,194,11
+Calloway,A106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,203,86,104,13
+Calloway,A106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,17,11,4,2
+Calloway,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,17,11,4,2
+Calloway,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2131,845,1192,94
+Calloway,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,A106,CONSTITUTIONAL AMENDMENT 1,,,YES,332,127,189,16
+Calloway,A106,CONSTITUTIONAL AMENDMENT 1,,,NO,169,74,87,8
+Calloway,A106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,501,201,276,24
+Calloway,A106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,36,13,23,0
+Calloway,A106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Calloway,A106,CONSTITUTIONAL AMENDMENT 2,,,YES,178,72,99,7
+Calloway,A106,CONSTITUTIONAL AMENDMENT 2,,,NO,334,131,186,17
+Calloway,A106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,512,203,285,24
+Calloway,A106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,11,14,0
+Calloway,A106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,A106,QUESTION-CALLOWAY CANNABIS,,,YES,329,124,191,14
+Calloway,A106,QUESTION-CALLOWAY CANNABIS,,,NO,187,81,96,10
+Calloway,A106,QUESTION-CALLOWAY CANNABIS,,,Total Votes,516,205,287,24
+Calloway,A106,QUESTION-CALLOWAY CANNABIS,,,Under Votes,21,9,12,0
+Calloway,A106,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,B101,STRAIGHT PARTY,,REP,Republican Party,145,68,70,7
+Calloway,B101,STRAIGHT PARTY,,DEM,Democratic Party,105,30,62,13
+Calloway,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Calloway,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Calloway,B101,STRAIGHT PARTY,,,Total Votes,251,98,133,20
+Calloway,B101,STRAIGHT PARTY,,,Under Votes,247,102,126,19
+Calloway,B101,STRAIGHT PARTY,,,Over Votes,2,1,1,0
+Calloway,B101,President,,REP,Donald J. TRUMP / JD VANCE,256,118,126,12
+Calloway,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,224,76,121,27
+Calloway,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Calloway,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,7,0
+Calloway,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
+Calloway,B101,President,,,Write In Total,0,0,0,0
+Calloway,B101,President,,,Total Votes,496,200,257,39
+Calloway,B101,President,,,Under Votes,4,1,3,0
+Calloway,B101,President,,,Over Votes,0,0,0,0
+Calloway,B101,U.S. House,1,REP,James R. COMER,262,122,127,13
+Calloway,B101,U.S. House,1,DEM,Erin MARSHALL,229,76,127,26
+Calloway,B101,U.S. House,1,,Total Votes,491,198,254,39
+Calloway,B101,U.S. House,1,,Under Votes,8,3,5,0
+Calloway,B101,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,B101,State Senate,1,REP,Jason G. HOWELL,324,131,175,18
+Calloway,B101,State Senate,1,,Total Votes,324,131,175,18
+Calloway,B101,State Senate,1,,Under Votes,176,70,85,21
+Calloway,B101,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B101,State House,5,REP,Mary Beth IMES,238,115,111,12
+Calloway,B101,State House,5,DEM,Lauren HINES,255,84,145,26
+Calloway,B101,State House,5,,Total Votes,493,199,256,38
+Calloway,B101,State House,5,,Under Votes,7,2,4,1
+Calloway,B101,State House,5,,Over Votes,0,0,0,0
+Calloway,B101,Commonwealth's Attorney,42,IND,Dennis R. FOUST,308,113,172,23
+Calloway,B101,Commonwealth's Attorney,42,,Total Votes,308,113,172,23
+Calloway,B101,Commonwealth's Attorney,42,,Under Votes,192,88,88,16
+Calloway,B101,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B101,Circuit Clerk,,,"Melinda STARKS REP ",343,140,183,20
+Calloway,B101,Circuit Clerk,,,Total Votes,343,140,183,20
+Calloway,B101,Circuit Clerk,,,Under Votes,157,61,77,19
+Calloway,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",229,85,126,18
+Calloway,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",96,37,56,3
+Calloway,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,325,122,182,21
+Calloway,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,175,79,78,18
+Calloway,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,5,3,1,1
+Calloway,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5,3,1,1
+Calloway,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1995,801,1039,155
+Calloway,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B101,Board of Education,Murray Independent School District,,Adam SEIBER,240,80,143,17
+Calloway,B101,Board of Education,Murray Independent School District,,Richard H. CROUCH,254,107,129,18
+Calloway,B101,Board of Education,Murray Independent School District,,Total Votes,494,187,272,35
+Calloway,B101,Board of Education,Murray Independent School District,,Under Votes,506,215,248,43
+Calloway,B101,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,B101,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",116,44,62,10
+Calloway,B101,CITY COUNCIL City of Murray,,,"Rose ROSS ",158,58,86,14
+Calloway,B101,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",197,94,90,13
+Calloway,B101,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",129,55,59,15
+Calloway,B101,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",179,63,106,10
+Calloway,B101,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",149,59,80,10
+Calloway,B101,CITY COUNCIL City of Murray,,,"Linda CHERRY ",173,70,88,15
+Calloway,B101,CITY COUNCIL City of Murray,,,"Terry STRIETER ",119,50,58,11
+Calloway,B101,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",161,67,76,18
+Calloway,B101,CITY COUNCIL City of Murray,,,"Jeremy BELL ",181,77,89,15
+Calloway,B101,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",108,49,52,7
+Calloway,B101,CITY COUNCIL City of Murray,,,"Alice ROUSE ",151,65,71,15
+Calloway,B101,CITY COUNCIL City of Murray,,,"Clif DARNELL ",101,38,54,9
+Calloway,B101,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",163,79,69,15
+Calloway,B101,CITY COUNCIL City of Murray,,,Total Votes,2085,868,1040,177
+Calloway,B101,CITY COUNCIL City of Murray,,,Under Votes,3879,1532,2056,291
+Calloway,B101,CITY COUNCIL City of Murray,,,Over Votes,3,1,2,0
+Calloway,B101,QUESTION-MURRAY CANNABIS,,,YES,347,113,205,29
+Calloway,B101,QUESTION-MURRAY CANNABIS,,,NO,128,73,46,9
+Calloway,B101,QUESTION-MURRAY CANNABIS,,,Total Votes,475,186,251,38
+Calloway,B101,QUESTION-MURRAY CANNABIS,,,Under Votes,22,15,7,0
+Calloway,B101,QUESTION-MURRAY CANNABIS,,,Over Votes,3,0,2,1
+Calloway,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,277,119,137,21
+Calloway,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,177,59,106,12
+Calloway,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,454,178,243,33
+Calloway,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,44,22,16,6
+Calloway,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Calloway,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,144,69,65,10
+Calloway,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,338,121,191,26
+Calloway,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,482,190,256,36
+Calloway,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,11,4,3
+Calloway,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,B101,QUESTION-CALLOWAY CANNABIS,,,YES,338,111,200,27
+Calloway,B101,QUESTION-CALLOWAY CANNABIS,,,NO,132,72,52,8
+Calloway,B101,QUESTION-CALLOWAY CANNABIS,,,Total Votes,470,183,252,35
+Calloway,B101,QUESTION-CALLOWAY CANNABIS,,,Under Votes,28,17,8,3
+Calloway,B101,QUESTION-CALLOWAY CANNABIS,,,Over Votes,2,1,0,1
+Calloway,B103,STRAIGHT PARTY,,REP,Republican Party,225,56,151,18
+Calloway,B103,STRAIGHT PARTY,,DEM,Democratic Party,87,24,52,11
+Calloway,B103,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Calloway,B103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Calloway,B103,STRAIGHT PARTY,,,Total Votes,316,81,206,29
+Calloway,B103,STRAIGHT PARTY,,,Under Votes,236,50,166,20
+Calloway,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,B103,President,,REP,Donald J. TRUMP / JD VANCE,407,98,280,29
+Calloway,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,138,31,90,17
+Calloway,B103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Calloway,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Calloway,B103,President,,,Write In Total,0,0,0,0
+Calloway,B103,President,,,Total Votes,549,131,372,46
+Calloway,B103,President,,,Under Votes,3,0,0,3
+Calloway,B103,President,,,Over Votes,0,0,0,0
+Calloway,B103,U.S. House,1,REP,James R. COMER,410,98,283,29
+Calloway,B103,U.S. House,1,DEM,Erin MARSHALL,135,33,84,18
+Calloway,B103,U.S. House,1,,Total Votes,545,131,367,47
+Calloway,B103,U.S. House,1,,Under Votes,7,0,5,2
+Calloway,B103,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,B103,State Senate,1,REP,Jason G. HOWELL,432,99,300,33
+Calloway,B103,State Senate,1,,Total Votes,432,99,300,33
+Calloway,B103,State Senate,1,,Under Votes,120,32,72,16
+Calloway,B103,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B103,State House,5,REP,Mary Beth IMES,380,92,258,30
+Calloway,B103,State House,5,DEM,Lauren HINES,166,39,110,17
+Calloway,B103,State House,5,,Total Votes,546,131,368,47
+Calloway,B103,State House,5,,Under Votes,6,0,4,2
+Calloway,B103,State House,5,,Over Votes,0,0,0,0
+Calloway,B103,Commonwealth's Attorney,42,IND,Dennis R. FOUST,333,68,243,22
+Calloway,B103,Commonwealth's Attorney,42,,Total Votes,333,68,243,22
+Calloway,B103,Commonwealth's Attorney,42,,Under Votes,219,63,129,27
+Calloway,B103,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B103,Circuit Clerk,,,"Melinda STARKS REP ",439,103,302,34
+Calloway,B103,Circuit Clerk,,,Total Votes,439,103,302,34
+Calloway,B103,Circuit Clerk,,,Under Votes,113,28,70,15
+Calloway,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",230,54,160,16
+Calloway,B103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",109,15,81,13
+Calloway,B103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,339,69,241,29
+Calloway,B103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,212,61,131,20
+Calloway,B103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,1,0,0
+Calloway,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,3,0,3,0
+Calloway,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,3,0,3,0
+Calloway,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2205,524,1485,196
+Calloway,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B103,Board of Education,2,,Mitchell T. RYAN,315,67,222,26
+Calloway,B103,Board of Education,2,,Total Votes,315,67,222,26
+Calloway,B103,Board of Education,2,,Under Votes,237,64,150,23
+Calloway,B103,Board of Education,2,,Over Votes,0,0,0,0
+Calloway,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",337,81,224,32
+Calloway,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",185,42,130,13
+Calloway,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,522,123,354,45
+Calloway,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,30,8,18,4
+Calloway,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Calloway,B103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",223,56,149,18
+Calloway,B103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",306,69,211,26
+Calloway,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,529,125,360,44
+Calloway,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,5,12,5
+Calloway,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Calloway,B103,QUESTION-CALLOWAY CANNABIS,,,YES,380,83,268,29
+Calloway,B103,QUESTION-CALLOWAY CANNABIS,,,NO,151,43,93,15
+Calloway,B103,QUESTION-CALLOWAY CANNABIS,,,Total Votes,531,126,361,44
+Calloway,B103,QUESTION-CALLOWAY CANNABIS,,,Under Votes,20,5,10,5
+Calloway,B103,QUESTION-CALLOWAY CANNABIS,,,Over Votes,1,0,1,0
+Calloway,B104,STRAIGHT PARTY,,REP,Republican Party,176,78,88,10
+Calloway,B104,STRAIGHT PARTY,,DEM,Democratic Party,39,12,26,1
+Calloway,B104,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Calloway,B104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Calloway,B104,STRAIGHT PARTY,,,Total Votes,216,90,115,11
+Calloway,B104,STRAIGHT PARTY,,,Under Votes,256,107,133,16
+Calloway,B104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,B104,President,,REP,Donald J. TRUMP / JD VANCE,346,143,185,18
+Calloway,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,116,51,58,7
+Calloway,B104,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Calloway,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Calloway,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,B104,President,,,Write In Total,0,0,0,0
+Calloway,B104,President,,,Total Votes,467,196,245,26
+Calloway,B104,President,,,Under Votes,6,1,4,1
+Calloway,B104,President,,,Over Votes,0,0,0,0
+Calloway,B104,U.S. House,1,REP,James R. COMER,364,151,192,21
+Calloway,B104,U.S. House,1,DEM,Erin MARSHALL,104,45,53,6
+Calloway,B104,U.S. House,1,,Total Votes,468,196,245,27
+Calloway,B104,U.S. House,1,,Under Votes,5,1,4,0
+Calloway,B104,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,B104,State Senate,1,REP,Jason G. HOWELL,369,154,196,19
+Calloway,B104,State Senate,1,,Total Votes,369,154,196,19
+Calloway,B104,State Senate,1,,Under Votes,104,43,53,8
+Calloway,B104,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B104,State House,5,REP,Mary Beth IMES,315,128,169,18
+Calloway,B104,State House,5,DEM,Lauren HINES,151,68,76,7
+Calloway,B104,State House,5,,Total Votes,466,196,245,25
+Calloway,B104,State House,5,,Under Votes,7,1,4,2
+Calloway,B104,State House,5,,Over Votes,0,0,0,0
+Calloway,B104,Commonwealth's Attorney,42,IND,Dennis R. FOUST,295,115,163,17
+Calloway,B104,Commonwealth's Attorney,42,,Total Votes,295,115,163,17
+Calloway,B104,Commonwealth's Attorney,42,,Under Votes,178,82,86,10
+Calloway,B104,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B104,Circuit Clerk,,,"Melinda STARKS REP ",394,166,204,24
+Calloway,B104,Circuit Clerk,,,Total Votes,394,166,204,24
+Calloway,B104,Circuit Clerk,,,Under Votes,79,31,45,3
+Calloway,B104,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",190,73,108,9
+Calloway,B104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",115,46,61,8
+Calloway,B104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,305,119,169,17
+Calloway,B104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,168,78,80,10
+Calloway,B104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,6,6,0,0
+Calloway,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,6,6,0,0
+Calloway,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1886,782,996,108
+Calloway,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B104,Board of Education,2,,Mitchell T. RYAN,268,102,154,12
+Calloway,B104,Board of Education,2,,Total Votes,268,102,154,12
+Calloway,B104,Board of Education,2,,Under Votes,203,94,94,15
+Calloway,B104,Board of Education,2,,Over Votes,0,0,0,0
+Calloway,B104,Board of Education,Murray Independent School District,,Adam SEIBER,1,1,0,0
+Calloway,B104,Board of Education,Murray Independent School District,,Richard H. CROUCH,1,0,1,0
+Calloway,B104,Board of Education,Murray Independent School District,,Total Votes,2,1,1,0
+Calloway,B104,Board of Education,Murray Independent School District,,Under Votes,2,1,1,0
+Calloway,B104,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",255,99,143,13
+Calloway,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",171,72,90,9
+Calloway,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,426,171,233,22
+Calloway,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,43,25,13,5
+Calloway,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,3,0
+Calloway,B104,CONSTITUTIONAL AMENDMENT 2,,,YES,148,61,77,10
+Calloway,B104,CONSTITUTIONAL AMENDMENT 2,,,NO,309,126,167,16
+Calloway,B104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,457,187,244,26
+Calloway,B104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,9,5,1
+Calloway,B104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Calloway,B104,QUESTION-CALLOWAY CANNABIS,,,YES,277,109,157,11
+Calloway,B104,QUESTION-CALLOWAY CANNABIS,,,NO,174,75,86,13
+Calloway,B104,QUESTION-CALLOWAY CANNABIS,,,Total Votes,451,184,243,24
+Calloway,B104,QUESTION-CALLOWAY CANNABIS,,,Under Votes,22,13,6,3
+Calloway,B104,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,B105,STRAIGHT PARTY,,REP,Republican Party,225,90,124,11
+Calloway,B105,STRAIGHT PARTY,,DEM,Democratic Party,181,80,84,17
+Calloway,B105,STRAIGHT PARTY,,KY,Kentucky Party,7,1,6,0
+Calloway,B105,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Calloway,B105,STRAIGHT PARTY,,,Total Votes,414,171,215,28
+Calloway,B105,STRAIGHT PARTY,,,Under Votes,485,202,257,26
+Calloway,B105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,B105,President,,REP,Donald J. TRUMP / JD VANCE,450,181,251,18
+Calloway,B105,President,,DEM,Kamala D. HARRIS / Tim WALZ,419,183,202,34
+Calloway,B105,President,,KY,Jill  STEIN / Samson KPADENOU,6,1,5,0
+Calloway,B105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,4,8,1
+Calloway,B105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
+Calloway,B105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Calloway,B105,President,,,Write In Total,0,0,0,0
+Calloway,B105,President,,,Total Votes,891,370,468,53
+Calloway,B105,President,,,Under Votes,8,3,4,1
+Calloway,B105,President,,,Over Votes,0,0,0,0
+Calloway,B105,U.S. House,1,REP,James R. COMER,482,193,268,21
+Calloway,B105,U.S. House,1,DEM,Erin MARSHALL,400,175,195,30
+Calloway,B105,U.S. House,1,,Total Votes,882,368,463,51
+Calloway,B105,U.S. House,1,,Under Votes,16,5,8,3
+Calloway,B105,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,B105,State Senate,1,REP,Jason G. HOWELL,558,218,318,22
+Calloway,B105,State Senate,1,,Total Votes,558,218,318,22
+Calloway,B105,State Senate,1,,Under Votes,341,155,154,32
+Calloway,B105,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B105,State House,5,REP,Mary Beth IMES,417,172,226,19
+Calloway,B105,State House,5,DEM,Lauren HINES,461,197,233,31
+Calloway,B105,State House,5,,Total Votes,878,369,459,50
+Calloway,B105,State House,5,,Under Votes,21,4,13,4
+Calloway,B105,State House,5,,Over Votes,0,0,0,0
+Calloway,B105,Commonwealth's Attorney,42,IND,Dennis R. FOUST,541,211,306,24
+Calloway,B105,Commonwealth's Attorney,42,,Total Votes,541,211,306,24
+Calloway,B105,Commonwealth's Attorney,42,,Under Votes,358,162,166,30
+Calloway,B105,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B105,Circuit Clerk,,,"Melinda STARKS REP ",575,231,323,21
+Calloway,B105,Circuit Clerk,,,Total Votes,575,231,323,21
+Calloway,B105,Circuit Clerk,,,Under Votes,324,142,149,33
+Calloway,B105,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",385,161,208,16
+Calloway,B105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",183,61,106,16
+Calloway,B105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,568,222,314,32
+Calloway,B105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,330,151,157,22
+Calloway,B105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,B105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,7,3,4,0
+Calloway,B105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,7,3,4,0
+Calloway,B105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3589,1489,1884,216
+Calloway,B105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B105,Board of Education,Murray Independent School District,,Adam SEIBER,451,192,232,27
+Calloway,B105,Board of Education,Murray Independent School District,,Richard H. CROUCH,447,199,216,32
+Calloway,B105,Board of Education,Murray Independent School District,,Total Votes,898,391,448,59
+Calloway,B105,Board of Education,Murray Independent School District,,Under Votes,900,355,496,49
+Calloway,B105,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,B105,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",245,98,137,10
+Calloway,B105,CITY COUNCIL City of Murray,,,"Rose ROSS ",329,135,174,20
+Calloway,B105,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",408,206,186,16
+Calloway,B105,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",300,138,146,16
+Calloway,B105,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",368,169,184,15
+Calloway,B105,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",278,134,136,8
+Calloway,B105,CITY COUNCIL City of Murray,,,"Linda CHERRY ",301,127,151,23
+Calloway,B105,CITY COUNCIL City of Murray,,,"Terry STRIETER ",256,128,114,14
+Calloway,B105,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",314,160,137,17
+Calloway,B105,CITY COUNCIL City of Murray,,,"Jeremy BELL ",352,154,180,18
+Calloway,B105,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",221,96,110,15
+Calloway,B105,CITY COUNCIL City of Murray,,,"Alice ROUSE ",264,118,127,19
+Calloway,B105,CITY COUNCIL City of Murray,,,"Clif DARNELL ",213,87,117,9
+Calloway,B105,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",341,154,165,22
+Calloway,B105,CITY COUNCIL City of Murray,,,Total Votes,4190,1904,2064,222
+Calloway,B105,CITY COUNCIL City of Murray,,,Under Votes,6586,2572,3588,426
+Calloway,B105,CITY COUNCIL City of Murray,,,Over Votes,1,0,1,0
+Calloway,B105,QUESTION-MURRAY CANNABIS,,,YES,611,233,345,33
+Calloway,B105,QUESTION-MURRAY CANNABIS,,,NO,258,125,117,16
+Calloway,B105,QUESTION-MURRAY CANNABIS,,,Total Votes,869,358,462,49
+Calloway,B105,QUESTION-MURRAY CANNABIS,,,Under Votes,29,15,10,4
+Calloway,B105,QUESTION-MURRAY CANNABIS,,,Over Votes,1,0,0,1
+Calloway,B105,CONSTITUTIONAL AMENDMENT 1,,,YES,495,197,270,28
+Calloway,B105,CONSTITUTIONAL AMENDMENT 1,,,NO,316,136,162,18
+Calloway,B105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,811,333,432,46
+Calloway,B105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,85,39,39,7
+Calloway,B105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,1,1
+Calloway,B105,CONSTITUTIONAL AMENDMENT 2,,,YES,229,85,133,11
+Calloway,B105,CONSTITUTIONAL AMENDMENT 2,,,NO,641,277,326,38
+Calloway,B105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,870,362,459,49
+Calloway,B105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,28,10,13,5
+Calloway,B105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Calloway,B105,QUESTION-CALLOWAY CANNABIS,,,YES,598,228,338,32
+Calloway,B105,QUESTION-CALLOWAY CANNABIS,,,NO,264,123,123,18
+Calloway,B105,QUESTION-CALLOWAY CANNABIS,,,Total Votes,862,351,461,50
+Calloway,B105,QUESTION-CALLOWAY CANNABIS,,,Under Votes,37,22,11,4
+Calloway,B105,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,B107,STRAIGHT PARTY,,REP,Republican Party,195,69,114,12
+Calloway,B107,STRAIGHT PARTY,,DEM,Democratic Party,47,15,30,2
+Calloway,B107,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Calloway,B107,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Calloway,B107,STRAIGHT PARTY,,,Total Votes,242,84,144,14
+Calloway,B107,STRAIGHT PARTY,,,Under Votes,287,98,174,15
+Calloway,B107,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,B107,President,,REP,Donald J. TRUMP / JD VANCE,409,137,249,23
+Calloway,B107,President,,DEM,Kamala D. HARRIS / Tim WALZ,101,39,60,2
+Calloway,B107,President,,KY,Jill  STEIN / Samson KPADENOU,4,2,2,0
+Calloway,B107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,2,3,1
+Calloway,B107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B107,President,,LIB,Chase OLIVER / Mike TER MAAT,5,1,2,2
+Calloway,B107,President,,,Write In Total,0,0,0,0
+Calloway,B107,President,,,Total Votes,525,181,316,28
+Calloway,B107,President,,,Under Votes,4,1,2,1
+Calloway,B107,President,,,Over Votes,0,0,0,0
+Calloway,B107,U.S. House,1,REP,James R. COMER,417,144,248,25
+Calloway,B107,U.S. House,1,DEM,Erin MARSHALL,103,36,64,3
+Calloway,B107,U.S. House,1,,Total Votes,520,180,312,28
+Calloway,B107,U.S. House,1,,Under Votes,9,2,6,1
+Calloway,B107,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,B107,State Senate,1,REP,Jason G. HOWELL,435,145,265,25
+Calloway,B107,State Senate,1,,Total Votes,435,145,265,25
+Calloway,B107,State Senate,1,,Under Votes,94,37,53,4
+Calloway,B107,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B107,State House,5,REP,Mary Beth IMES,380,130,227,23
+Calloway,B107,State House,5,DEM,Lauren HINES,139,49,85,5
+Calloway,B107,State House,5,,Total Votes,519,179,312,28
+Calloway,B107,State House,5,,Under Votes,10,3,6,1
+Calloway,B107,State House,5,,Over Votes,0,0,0,0
+Calloway,B107,Commonwealth's Attorney,42,IND,Dennis R. FOUST,336,99,220,17
+Calloway,B107,Commonwealth's Attorney,42,,Total Votes,336,99,220,17
+Calloway,B107,Commonwealth's Attorney,42,,Under Votes,193,83,98,12
+Calloway,B107,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B107,Circuit Clerk,,,"Melinda STARKS REP ",434,144,266,24
+Calloway,B107,Circuit Clerk,,,Total Votes,434,144,266,24
+Calloway,B107,Circuit Clerk,,,Under Votes,95,38,52,5
+Calloway,B107,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B107,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",233,71,153,9
+Calloway,B107,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",113,40,65,8
+Calloway,B107,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,346,111,218,17
+Calloway,B107,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,183,71,100,12
+Calloway,B107,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,2,0,2,0
+Calloway,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,2,0,2,0
+Calloway,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2114,728,1270,116
+Calloway,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B107,Board of Education,2,,Mitchell T. RYAN,333,102,212,19
+Calloway,B107,Board of Education,2,,Total Votes,333,102,212,19
+Calloway,B107,Board of Education,2,,Under Votes,196,80,106,10
+Calloway,B107,Board of Education,2,,Over Votes,0,0,0,0
+Calloway,B107,CONSTITUTIONAL AMENDMENT 1,,,"YES ",317,104,201,12
+Calloway,B107,CONSTITUTIONAL AMENDMENT 1,,,"NO ",176,61,100,15
+Calloway,B107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,493,165,301,27
+Calloway,B107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,14,17,2
+Calloway,B107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,3,0,0
+Calloway,B107,CONSTITUTIONAL AMENDMENT 2,,,"YES ",193,74,112,7
+Calloway,B107,CONSTITUTIONAL AMENDMENT 2,,,"NO ",317,102,195,20
+Calloway,B107,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,510,176,307,27
+Calloway,B107,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,6,11,2
+Calloway,B107,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,B107,QUESTION-CALLOWAY CANNABIS,,,YES,288,87,185,16
+Calloway,B107,QUESTION-CALLOWAY CANNABIS,,,NO,220,85,123,12
+Calloway,B107,QUESTION-CALLOWAY CANNABIS,,,Total Votes,508,172,308,28
+Calloway,B107,QUESTION-CALLOWAY CANNABIS,,,Under Votes,21,10,10,1
+Calloway,B107,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,B108,STRAIGHT PARTY,,REP,Republican Party,148,58,76,14
+Calloway,B108,STRAIGHT PARTY,,DEM,Democratic Party,43,21,20,2
+Calloway,B108,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Calloway,B108,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Calloway,B108,STRAIGHT PARTY,,,Total Votes,195,81,98,16
+Calloway,B108,STRAIGHT PARTY,,,Under Votes,169,58,91,20
+Calloway,B108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,B108,President,,REP,Donald J. TRUMP / JD VANCE,262,96,141,25
+Calloway,B108,President,,DEM,Kamala D. HARRIS / Tim WALZ,95,40,44,11
+Calloway,B108,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Calloway,B108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Calloway,B108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B108,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Calloway,B108,President,,,Write In Total,0,0,0,0
+Calloway,B108,President,,,Total Votes,362,138,188,36
+Calloway,B108,President,,,Under Votes,2,1,1,0
+Calloway,B108,President,,,Over Votes,0,0,0,0
+Calloway,B108,U.S. House,1,REP,James R. COMER,271,98,146,27
+Calloway,B108,U.S. House,1,DEM,Erin MARSHALL,89,41,39,9
+Calloway,B108,U.S. House,1,,Total Votes,360,139,185,36
+Calloway,B108,U.S. House,1,,Under Votes,4,0,4,0
+Calloway,B108,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,B108,State Senate,1,REP,Jason G. HOWELL,285,105,151,29
+Calloway,B108,State Senate,1,,Total Votes,285,105,151,29
+Calloway,B108,State Senate,1,,Under Votes,79,34,38,7
+Calloway,B108,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B108,State House,5,REP,Mary Beth IMES,251,96,130,25
+Calloway,B108,State House,5,DEM,Lauren HINES,110,43,56,11
+Calloway,B108,State House,5,,Total Votes,361,139,186,36
+Calloway,B108,State House,5,,Under Votes,2,0,2,0
+Calloway,B108,State House,5,,Over Votes,1,0,1,0
+Calloway,B108,Commonwealth's Attorney,42,IND,Dennis R. FOUST,195,62,110,23
+Calloway,B108,Commonwealth's Attorney,42,,Total Votes,195,62,110,23
+Calloway,B108,Commonwealth's Attorney,42,,Under Votes,169,77,79,13
+Calloway,B108,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B108,Circuit Clerk,,,"Melinda STARKS REP ",283,102,151,30
+Calloway,B108,Circuit Clerk,,,Total Votes,283,102,151,30
+Calloway,B108,Circuit Clerk,,,Under Votes,81,37,38,6
+Calloway,B108,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",146,54,74,18
+Calloway,B108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",79,29,39,11
+Calloway,B108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,225,83,113,29
+Calloway,B108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,137,56,75,6
+Calloway,B108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,2,0,1,1
+Calloway,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,5,2,0,3
+Calloway,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5,2,0,3
+Calloway,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1451,554,756,141
+Calloway,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B108,Board of Education,2,,Mitchell T. RYAN,182,60,96,26
+Calloway,B108,Board of Education,2,,Total Votes,182,60,96,26
+Calloway,B108,Board of Education,2,,Under Votes,182,79,93,10
+Calloway,B108,Board of Education,2,,Over Votes,0,0,0,0
+Calloway,B108,CONSTITUTIONAL AMENDMENT 1,,,"YES ",218,83,114,21
+Calloway,B108,CONSTITUTIONAL AMENDMENT 1,,,"NO ",124,44,66,14
+Calloway,B108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,342,127,180,35
+Calloway,B108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,22,12,9,1
+Calloway,B108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Calloway,B108,CONSTITUTIONAL AMENDMENT 2,,,"YES ",138,60,63,15
+Calloway,B108,CONSTITUTIONAL AMENDMENT 2,,,"NO ",214,73,121,20
+Calloway,B108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,352,133,184,35
+Calloway,B108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,12,6,5,1
+Calloway,B108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,B108,QUESTION-CALLOWAY CANNABIS,,,YES,239,86,128,25
+Calloway,B108,QUESTION-CALLOWAY CANNABIS,,,NO,110,45,55,10
+Calloway,B108,QUESTION-CALLOWAY CANNABIS,,,Total Votes,349,131,183,35
+Calloway,B108,QUESTION-CALLOWAY CANNABIS,,,Under Votes,14,7,6,1
+Calloway,B108,QUESTION-CALLOWAY CANNABIS,,,Over Votes,1,1,0,0
+Calloway,B109,STRAIGHT PARTY,,REP,Republican Party,150,62,84,4
+Calloway,B109,STRAIGHT PARTY,,DEM,Democratic Party,117,42,58,17
+Calloway,B109,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Calloway,B109,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Calloway,B109,STRAIGHT PARTY,,,Total Votes,271,105,145,21
+Calloway,B109,STRAIGHT PARTY,,,Under Votes,281,99,167,15
+Calloway,B109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,B109,President,,REP,Donald J. TRUMP / JD VANCE,293,107,177,9
+Calloway,B109,President,,DEM,Kamala D. HARRIS / Tim WALZ,242,90,126,26
+Calloway,B109,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Calloway,B109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,5,1
+Calloway,B109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,B109,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,B109,President,,,Write In Total,0,0,0,0
+Calloway,B109,President,,,Total Votes,545,199,310,36
+Calloway,B109,President,,,Under Votes,7,5,2,0
+Calloway,B109,President,,,Over Votes,0,0,0,0
+Calloway,B109,U.S. House,1,REP,James R. COMER,296,110,174,12
+Calloway,B109,U.S. House,1,DEM,Erin MARSHALL,236,84,129,23
+Calloway,B109,U.S. House,1,,Total Votes,532,194,303,35
+Calloway,B109,U.S. House,1,,Under Votes,19,10,9,0
+Calloway,B109,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,B109,State Senate,1,REP,Jason G. HOWELL,363,131,215,17
+Calloway,B109,State Senate,1,,Total Votes,363,131,215,17
+Calloway,B109,State Senate,1,,Under Votes,188,73,97,18
+Calloway,B109,State Senate,1,,Over Votes,0,0,0,0
+Calloway,B109,State House,5,REP,Mary Beth IMES,277,106,161,10
+Calloway,B109,State House,5,DEM,Lauren HINES,261,94,143,24
+Calloway,B109,State House,5,,Total Votes,538,200,304,34
+Calloway,B109,State House,5,,Under Votes,12,4,7,1
+Calloway,B109,State House,5,,Over Votes,1,0,1,0
+Calloway,B109,Commonwealth's Attorney,42,IND,Dennis R. FOUST,333,111,202,20
+Calloway,B109,Commonwealth's Attorney,42,,Total Votes,333,111,202,20
+Calloway,B109,Commonwealth's Attorney,42,,Under Votes,218,93,110,15
+Calloway,B109,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,B109,Circuit Clerk,,,"Melinda STARKS REP ",363,133,214,16
+Calloway,B109,Circuit Clerk,,,Total Votes,363,133,214,16
+Calloway,B109,Circuit Clerk,,,Under Votes,188,71,98,19
+Calloway,B109,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,B109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",223,80,130,13
+Calloway,B109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",103,32,64,7
+Calloway,B109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,326,112,194,20
+Calloway,B109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,224,92,117,15
+Calloway,B109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,B109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,7,4,3,0
+Calloway,B109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,7,4,3,0
+Calloway,B109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2197,812,1245,140
+Calloway,B109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,B109,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",34,17,15,2
+Calloway,B109,Board of Education,5,,Total Votes,34,17,15,2
+Calloway,B109,Board of Education,5,,Under Votes,41,26,8,7
+Calloway,B109,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,B109,Board of Education,Murray Independent School District,,Adam SEIBER,218,67,134,17
+Calloway,B109,Board of Education,Murray Independent School District,,Richard H. CROUCH,212,69,127,16
+Calloway,B109,Board of Education,Murray Independent School District,,Total Votes,430,136,261,33
+Calloway,B109,Board of Education,Murray Independent School District,,Under Votes,522,186,317,19
+Calloway,B109,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,B109,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",137,49,80,8
+Calloway,B109,CITY COUNCIL City of Murray,,,"Rose ROSS ",160,65,81,14
+Calloway,B109,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",205,85,101,19
+Calloway,B109,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",150,68,73,9
+Calloway,B109,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",190,75,104,11
+Calloway,B109,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",167,62,93,12
+Calloway,B109,CITY COUNCIL City of Murray,,,"Linda CHERRY ",181,71,94,16
+Calloway,B109,CITY COUNCIL City of Murray,,,"Terry STRIETER ",142,63,68,11
+Calloway,B109,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",158,63,81,14
+Calloway,B109,CITY COUNCIL City of Murray,,,"Jeremy BELL ",201,79,112,10
+Calloway,B109,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",113,44,62,7
+Calloway,B109,CITY COUNCIL City of Murray,,,"Alice ROUSE ",139,63,66,10
+Calloway,B109,CITY COUNCIL City of Murray,,,"Clif DARNELL ",129,44,77,8
+Calloway,B109,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",188,77,100,11
+Calloway,B109,CITY COUNCIL City of Murray,,,Total Votes,2260,908,1192,160
+Calloway,B109,CITY COUNCIL City of Murray,,,Under Votes,4340,1528,2552,260
+Calloway,B109,CITY COUNCIL City of Murray,,,Over Votes,1,1,0,0
+Calloway,B109,QUESTION-MURRAY CANNABIS,,,YES,383,134,228,21
+Calloway,B109,QUESTION-MURRAY CANNABIS,,,NO,152,63,76,13
+Calloway,B109,QUESTION-MURRAY CANNABIS,,,Total Votes,535,197,304,34
+Calloway,B109,QUESTION-MURRAY CANNABIS,,,Under Votes,16,7,8,1
+Calloway,B109,QUESTION-MURRAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,B109,CONSTITUTIONAL AMENDMENT 1,,,YES,322,118,184,20
+Calloway,B109,CONSTITUTIONAL AMENDMENT 1,,,NO,176,57,107,12
+Calloway,B109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,498,175,291,32
+Calloway,B109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,52,29,20,3
+Calloway,B109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Calloway,B109,CONSTITUTIONAL AMENDMENT 2,,,YES,151,56,87,8
+Calloway,B109,CONSTITUTIONAL AMENDMENT 2,,,NO,381,136,221,24
+Calloway,B109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,532,192,308,32
+Calloway,B109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,11,4,3
+Calloway,B109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Calloway,B109,QUESTION-CALLOWAY CANNABIS,,,YES,378,131,227,20
+Calloway,B109,QUESTION-CALLOWAY CANNABIS,,,NO,152,63,76,13
+Calloway,B109,QUESTION-CALLOWAY CANNABIS,,,Total Votes,530,194,303,33
+Calloway,B109,QUESTION-CALLOWAY CANNABIS,,,Under Votes,21,10,9,2
+Calloway,B109,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C101,STRAIGHT PARTY,,REP,Republican Party,193,98,79,16
+Calloway,C101,STRAIGHT PARTY,,DEM,Democratic Party,78,35,28,15
+Calloway,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Calloway,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Calloway,C101,STRAIGHT PARTY,,,Total Votes,274,135,108,31
+Calloway,C101,STRAIGHT PARTY,,,Under Votes,327,149,151,27
+Calloway,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,C101,President,,REP,Donald J. TRUMP / JD VANCE,387,191,166,30
+Calloway,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,195,89,80,26
+Calloway,C101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,4,1
+Calloway,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,C101,President,,,Write In Total,2,0,2,0
+Calloway,C101,President,,,Total Votes,591,281,253,57
+Calloway,C101,President,,,Under Votes,10,3,6,1
+Calloway,C101,President,,,Over Votes,0,0,0,0
+Calloway,C101,U.S. House,1,REP,James R. COMER,413,198,182,33
+Calloway,C101,U.S. House,1,DEM,Erin MARSHALL,174,84,69,21
+Calloway,C101,U.S. House,1,,Total Votes,587,282,251,54
+Calloway,C101,U.S. House,1,,Under Votes,13,2,8,3
+Calloway,C101,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,C101,State Senate,1,REP,Jason G. HOWELL,424,189,198,37
+Calloway,C101,State Senate,1,,Total Votes,424,189,198,37
+Calloway,C101,State Senate,1,,Under Votes,176,95,61,20
+Calloway,C101,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C101,State House,5,REP,Mary Beth IMES,359,176,153,30
+Calloway,C101,State House,5,DEM,Lauren HINES,228,106,98,24
+Calloway,C101,State House,5,,Total Votes,587,282,251,54
+Calloway,C101,State House,5,,Under Votes,13,2,8,3
+Calloway,C101,State House,5,,Over Votes,0,0,0,0
+Calloway,C101,Commonwealth's Attorney,42,IND,Dennis R. FOUST,340,142,170,28
+Calloway,C101,Commonwealth's Attorney,42,,Total Votes,340,142,170,28
+Calloway,C101,Commonwealth's Attorney,42,,Under Votes,260,142,89,29
+Calloway,C101,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C101,Circuit Clerk,,,"Melinda STARKS REP ",431,200,194,37
+Calloway,C101,Circuit Clerk,,,Total Votes,431,200,194,37
+Calloway,C101,Circuit Clerk,,,Under Votes,169,84,65,20
+Calloway,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",226,104,99,23
+Calloway,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",102,34,56,12
+Calloway,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,328,138,155,35
+Calloway,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,272,146,104,22
+Calloway,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,4,0,4,0
+Calloway,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,4,0,4,0
+Calloway,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2396,1136,1032,228
+Calloway,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C101,Board of Education,Murray Independent School District,,Adam SEIBER,291,133,129,29
+Calloway,C101,Board of Education,Murray Independent School District,,Richard H. CROUCH,306,147,133,26
+Calloway,C101,Board of Education,Murray Independent School District,,Total Votes,597,280,262,55
+Calloway,C101,Board of Education,Murray Independent School District,,Under Votes,601,288,254,59
+Calloway,C101,Board of Education,Murray Independent School District,,Over Votes,1,0,1,0
+Calloway,C101,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",138,62,60,16
+Calloway,C101,CITY COUNCIL City of Murray,,,"Rose ROSS ",189,96,76,17
+Calloway,C101,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",286,141,114,31
+Calloway,C101,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",198,94,80,24
+Calloway,C101,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",222,109,91,22
+Calloway,C101,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",174,84,70,20
+Calloway,C101,CITY COUNCIL City of Murray,,,"Linda CHERRY ",234,107,103,24
+Calloway,C101,CITY COUNCIL City of Murray,,,"Terry STRIETER ",165,82,64,19
+Calloway,C101,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",223,106,96,21
+Calloway,C101,CITY COUNCIL City of Murray,,,"Jeremy BELL ",235,118,98,19
+Calloway,C101,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",149,74,59,16
+Calloway,C101,CITY COUNCIL City of Murray,,,"Alice ROUSE ",193,100,75,18
+Calloway,C101,CITY COUNCIL City of Murray,,,"Clif DARNELL ",132,61,56,15
+Calloway,C101,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",249,124,107,18
+Calloway,C101,CITY COUNCIL City of Murray,,,Total Votes,2787,1358,1149,280
+Calloway,C101,CITY COUNCIL City of Murray,,,Under Votes,4377,2014,1959,404
+Calloway,C101,CITY COUNCIL City of Murray,,,Over Votes,3,3,0,0
+Calloway,C101,QUESTION-MURRAY CANNABIS,,,YES,355,153,166,36
+Calloway,C101,QUESTION-MURRAY CANNABIS,,,NO,220,116,87,17
+Calloway,C101,QUESTION-MURRAY CANNABIS,,,Total Votes,575,269,253,53
+Calloway,C101,QUESTION-MURRAY CANNABIS,,,Under Votes,24,15,6,3
+Calloway,C101,QUESTION-MURRAY CANNABIS,,,Over Votes,1,0,0,1
+Calloway,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,365,164,167,34
+Calloway,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,176,86,76,14
+Calloway,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,541,250,243,48
+Calloway,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,56,33,14,9
+Calloway,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Calloway,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,180,81,75,24
+Calloway,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,394,193,175,26
+Calloway,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,574,274,250,50
+Calloway,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,26,10,9,7
+Calloway,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,C101,QUESTION-CALLOWAY CANNABIS,,,YES,346,149,162,35
+Calloway,C101,QUESTION-CALLOWAY CANNABIS,,,NO,216,116,86,14
+Calloway,C101,QUESTION-CALLOWAY CANNABIS,,,Total Votes,562,265,248,49
+Calloway,C101,QUESTION-CALLOWAY CANNABIS,,,Under Votes,38,19,11,8
+Calloway,C101,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C102,STRAIGHT PARTY,,REP,Republican Party,401,144,237,20
+Calloway,C102,STRAIGHT PARTY,,DEM,Democratic Party,131,53,63,15
+Calloway,C102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Calloway,C102,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,2,1
+Calloway,C102,STRAIGHT PARTY,,,Total Votes,538,197,305,36
+Calloway,C102,STRAIGHT PARTY,,,Under Votes,742,270,438,34
+Calloway,C102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,C102,President,,REP,Donald J. TRUMP / JD VANCE,887,306,540,41
+Calloway,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,358,147,183,28
+Calloway,C102,President,,KY,Jill  STEIN / Samson KPADENOU,6,2,3,1
+Calloway,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,16,7,9,0
+Calloway,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Calloway,C102,President,,,Write In Total,0,0,0,0
+Calloway,C102,President,,,Total Votes,1268,463,735,70
+Calloway,C102,President,,,Under Votes,13,4,9,0
+Calloway,C102,President,,,Over Votes,0,0,0,0
+Calloway,C102,U.S. House,1,REP,James R. COMER,944,332,570,42
+Calloway,C102,U.S. House,1,DEM,Erin MARSHALL,307,126,156,25
+Calloway,C102,U.S. House,1,,Total Votes,1251,458,726,67
+Calloway,C102,U.S. House,1,,Under Votes,29,9,17,3
+Calloway,C102,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,C102,State Senate,1,REP,Jason G. HOWELL,989,333,610,46
+Calloway,C102,State Senate,1,,Total Votes,989,333,610,46
+Calloway,C102,State Senate,1,,Under Votes,292,134,134,24
+Calloway,C102,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C102,State House,5,REP,Mary Beth IMES,821,291,489,41
+Calloway,C102,State House,5,DEM,Lauren HINES,434,166,241,27
+Calloway,C102,State House,5,,Total Votes,1255,457,730,68
+Calloway,C102,State House,5,,Under Votes,26,10,14,2
+Calloway,C102,State House,5,,Over Votes,0,0,0,0
+Calloway,C102,Commonwealth's Attorney,42,IND,Dennis R. FOUST,782,264,488,30
+Calloway,C102,Commonwealth's Attorney,42,,Total Votes,782,264,488,30
+Calloway,C102,Commonwealth's Attorney,42,,Under Votes,499,203,256,40
+Calloway,C102,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C102,Circuit Clerk,,,"Melinda STARKS REP ",1029,358,624,47
+Calloway,C102,Circuit Clerk,,,Total Votes,1029,358,624,47
+Calloway,C102,Circuit Clerk,,,Under Votes,252,109,120,23
+Calloway,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",503,186,300,17
+Calloway,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",279,89,177,13
+Calloway,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,782,275,477,30
+Calloway,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,498,192,266,40
+Calloway,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,35,20,15,0
+Calloway,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,35,20,15,0
+Calloway,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,5089,1848,2961,280
+Calloway,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C102,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",745,244,470,31
+Calloway,C102,Board of Education,5,,Total Votes,745,244,470,31
+Calloway,C102,Board of Education,5,,Under Votes,536,223,274,39
+Calloway,C102,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",772,282,447,43
+Calloway,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",417,136,266,15
+Calloway,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1189,418,713,58
+Calloway,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,89,48,29,12
+Calloway,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Calloway,C102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",410,156,223,31
+Calloway,C102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",831,291,506,34
+Calloway,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1241,447,729,65
+Calloway,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,20,14,5
+Calloway,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Calloway,C102,QUESTION-CALLOWAY CANNABIS,,,YES,757,265,459,33
+Calloway,C102,QUESTION-CALLOWAY CANNABIS,,,NO,476,181,263,32
+Calloway,C102,QUESTION-CALLOWAY CANNABIS,,,Total Votes,1233,446,722,65
+Calloway,C102,QUESTION-CALLOWAY CANNABIS,,,Under Votes,46,21,20,5
+Calloway,C102,QUESTION-CALLOWAY CANNABIS,,,Over Votes,2,0,2,0
+Calloway,C103,STRAIGHT PARTY,,REP,Republican Party,147,28,116,3
+Calloway,C103,STRAIGHT PARTY,,DEM,Democratic Party,56,9,40,7
+Calloway,C103,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Calloway,C103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Calloway,C103,STRAIGHT PARTY,,,Total Votes,208,38,160,10
+Calloway,C103,STRAIGHT PARTY,,,Under Votes,255,45,204,6
+Calloway,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,C103,President,,REP,Donald J. TRUMP / JD VANCE,322,56,258,8
+Calloway,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,122,25,89,8
+Calloway,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Calloway,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,1,8,0
+Calloway,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Calloway,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,6,1,5,0
+Calloway,C103,President,,,Write In Total,0,0,0,0
+Calloway,C103,President,,,Total Votes,460,83,361,16
+Calloway,C103,President,,,Under Votes,3,0,3,0
+Calloway,C103,President,,,Over Votes,0,0,0,0
+Calloway,C103,U.S. House,1,REP,James R. COMER,337,61,268,8
+Calloway,C103,U.S. House,1,DEM,Erin MARSHALL,117,22,88,7
+Calloway,C103,U.S. House,1,,Total Votes,454,83,356,15
+Calloway,C103,U.S. House,1,,Under Votes,8,0,8,0
+Calloway,C103,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,C103,State Senate,1,REP,Jason G. HOWELL,364,60,295,9
+Calloway,C103,State Senate,1,,Total Votes,364,60,295,9
+Calloway,C103,State Senate,1,,Under Votes,98,23,69,6
+Calloway,C103,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C103,State House,5,REP,Mary Beth IMES,296,51,237,8
+Calloway,C103,State House,5,DEM,Lauren HINES,156,30,119,7
+Calloway,C103,State House,5,,Total Votes,452,81,356,15
+Calloway,C103,State House,5,,Under Votes,10,2,8,0
+Calloway,C103,State House,5,,Over Votes,0,0,0,0
+Calloway,C103,Commonwealth's Attorney,42,IND,Dennis R. FOUST,295,47,238,10
+Calloway,C103,Commonwealth's Attorney,42,,Total Votes,295,47,238,10
+Calloway,C103,Commonwealth's Attorney,42,,Under Votes,167,36,126,5
+Calloway,C103,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C103,Circuit Clerk,,,"Melinda STARKS REP ",373,64,299,10
+Calloway,C103,Circuit Clerk,,,Total Votes,373,64,299,10
+Calloway,C103,Circuit Clerk,,,Under Votes,89,19,65,5
+Calloway,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",199,31,159,9
+Calloway,C103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",105,17,86,2
+Calloway,C103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,304,48,245,11
+Calloway,C103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,157,35,118,4
+Calloway,C103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,14,1,13,0
+Calloway,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,14,1,13,0
+Calloway,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1834,331,1443,60
+Calloway,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C103,MAYOR City of Hazel,,,"Lori CHARLTON ",134,19,108,7
+Calloway,C103,MAYOR City of Hazel,,,Total Votes,134,19,108,7
+Calloway,C103,MAYOR City of Hazel,,,Under Votes,46,7,38,1
+Calloway,C103,MAYOR City of Hazel,,,Over Votes,1,1,0,0
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Gail JONES ",96,14,77,5
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Jodi M. HANNEMAN ",76,9,65,2
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Jacklyn SMITH ",87,11,73,3
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Denise Thompson PROVINE ",98,11,81,6
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Elizabeth GARRETT ",79,10,66,3
+Calloway,C103,CITY COUNCIL City of Hazel,,,"Barbara PASCHALL ",108,21,81,6
+Calloway,C103,CITY COUNCIL City of Hazel,,,Total Votes,544,76,443,25
+Calloway,C103,CITY COUNCIL City of Hazel,,,Under Votes,542,86,433,23
+Calloway,C103,CITY COUNCIL City of Hazel,,,Over Votes,0,0,0,0
+Calloway,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,278,50,220,8
+Calloway,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,149,24,120,5
+Calloway,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,427,74,340,13
+Calloway,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,9,21,1
+Calloway,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,3,1
+Calloway,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,136,27,106,3
+Calloway,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,306,52,244,10
+Calloway,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,442,79,350,13
+Calloway,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,4,14,2
+Calloway,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,C103,QUESTION-CALLOWAY CANNABIS,,,YES,296,51,240,5
+Calloway,C103,QUESTION-CALLOWAY CANNABIS,,,NO,146,28,109,9
+Calloway,C103,QUESTION-CALLOWAY CANNABIS,,,Total Votes,442,79,349,14
+Calloway,C103,QUESTION-CALLOWAY CANNABIS,,,Under Votes,20,4,15,1
+Calloway,C103,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C104,STRAIGHT PARTY,,REP,Republican Party,189,84,96,9
+Calloway,C104,STRAIGHT PARTY,,DEM,Democratic Party,59,22,32,5
+Calloway,C104,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Calloway,C104,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,1,1
+Calloway,C104,STRAIGHT PARTY,,,Total Votes,251,106,130,15
+Calloway,C104,STRAIGHT PARTY,,,Under Votes,275,125,135,15
+Calloway,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,C104,President,,REP,Donald J. TRUMP / JD VANCE,402,181,199,22
+Calloway,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,116,46,62,8
+Calloway,C104,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Calloway,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Calloway,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,C104,President,,,Write In Total,1,1,0,0
+Calloway,C104,President,,,Total Votes,525,230,265,30
+Calloway,C104,President,,,Under Votes,1,1,0,0
+Calloway,C104,President,,,Over Votes,0,0,0,0
+Calloway,C104,U.S. House,1,REP,James R. COMER,409,187,203,19
+Calloway,C104,U.S. House,1,DEM,Erin MARSHALL,107,40,57,10
+Calloway,C104,U.S. House,1,,Total Votes,516,227,260,29
+Calloway,C104,U.S. House,1,,Under Votes,9,4,4,1
+Calloway,C104,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,C104,State Senate,1,REP,Jason G. HOWELL,415,184,211,20
+Calloway,C104,State Senate,1,,Total Votes,415,184,211,20
+Calloway,C104,State Senate,1,,Under Votes,111,47,54,10
+Calloway,C104,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C104,State House,5,REP,Mary Beth IMES,359,166,177,16
+Calloway,C104,State House,5,DEM,Lauren HINES,156,59,86,11
+Calloway,C104,State House,5,,Total Votes,515,225,263,27
+Calloway,C104,State House,5,,Under Votes,11,6,2,3
+Calloway,C104,State House,5,,Over Votes,0,0,0,0
+Calloway,C104,Commonwealth's Attorney,42,IND,Dennis R. FOUST,312,132,160,20
+Calloway,C104,Commonwealth's Attorney,42,,Total Votes,312,132,160,20
+Calloway,C104,Commonwealth's Attorney,42,,Under Votes,214,99,105,10
+Calloway,C104,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C104,Circuit Clerk,,,"Melinda STARKS REP ",426,186,217,23
+Calloway,C104,Circuit Clerk,,,Total Votes,426,186,217,23
+Calloway,C104,Circuit Clerk,,,Under Votes,100,45,48,7
+Calloway,C104,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",205,81,113,11
+Calloway,C104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",100,46,49,5
+Calloway,C104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,305,127,162,16
+Calloway,C104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,221,104,103,14
+Calloway,C104,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,24,3,16,5
+Calloway,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,24,3,16,5
+Calloway,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2080,921,1044,115
+Calloway,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,306,139,146,21
+Calloway,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,178,65,106,7
+Calloway,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,484,204,252,28
+Calloway,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,41,27,12,2
+Calloway,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Calloway,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,168,93,69,6
+Calloway,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,339,123,193,23
+Calloway,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,507,216,262,29
+Calloway,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,15,3,1
+Calloway,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,C104,QUESTION-CALLOWAY CANNABIS,,,YES,285,105,167,13
+Calloway,C104,QUESTION-CALLOWAY CANNABIS,,,NO,218,109,94,15
+Calloway,C104,QUESTION-CALLOWAY CANNABIS,,,Total Votes,503,214,261,28
+Calloway,C104,QUESTION-CALLOWAY CANNABIS,,,Under Votes,23,17,4,2
+Calloway,C104,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C105,STRAIGHT PARTY,,REP,Republican Party,256,118,120,18
+Calloway,C105,STRAIGHT PARTY,,DEM,Democratic Party,154,47,86,21
+Calloway,C105,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Calloway,C105,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Calloway,C105,STRAIGHT PARTY,,,Total Votes,413,165,209,39
+Calloway,C105,STRAIGHT PARTY,,,Under Votes,626,277,306,43
+Calloway,C105,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,C105,President,,REP,Donald J. TRUMP / JD VANCE,591,257,301,33
+Calloway,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,420,177,201,42
+Calloway,C105,President,,KY,Jill  STEIN / Samson KPADENOU,6,2,4,0
+Calloway,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,4,2
+Calloway,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Calloway,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,4,1,1,2
+Calloway,C105,President,,,Write In Total,0,0,0,0
+Calloway,C105,President,,,Total Votes,1029,439,511,79
+Calloway,C105,President,,,Under Votes,10,3,4,3
+Calloway,C105,President,,,Over Votes,1,0,1,0
+Calloway,C105,U.S. House,1,REP,James R. COMER,619,267,307,45
+Calloway,C105,U.S. House,1,DEM,Erin MARSHALL,396,164,196,36
+Calloway,C105,U.S. House,1,,Total Votes,1015,431,503,81
+Calloway,C105,U.S. House,1,,Under Votes,25,11,13,1
+Calloway,C105,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,C105,State Senate,1,REP,Jason G. HOWELL,680,282,345,53
+Calloway,C105,State Senate,1,,Total Votes,680,282,345,53
+Calloway,C105,State Senate,1,,Under Votes,360,160,171,29
+Calloway,C105,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C105,State House,5,REP,Mary Beth IMES,537,237,265,35
+Calloway,C105,State House,5,DEM,Lauren HINES,480,196,237,47
+Calloway,C105,State House,5,,Total Votes,1017,433,502,82
+Calloway,C105,State House,5,,Under Votes,22,9,13,0
+Calloway,C105,State House,5,,Over Votes,1,0,1,0
+Calloway,C105,Commonwealth's Attorney,42,IND,Dennis R. FOUST,615,245,319,51
+Calloway,C105,Commonwealth's Attorney,42,,Total Votes,615,245,319,51
+Calloway,C105,Commonwealth's Attorney,42,,Under Votes,425,197,197,31
+Calloway,C105,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C105,Circuit Clerk,,,"Melinda STARKS REP ",707,284,364,59
+Calloway,C105,Circuit Clerk,,,Total Votes,707,284,364,59
+Calloway,C105,Circuit Clerk,,,Under Votes,333,158,152,23
+Calloway,C105,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",392,153,209,30
+Calloway,C105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",221,78,121,22
+Calloway,C105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,613,231,330,52
+Calloway,C105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,427,211,186,30
+Calloway,C105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,26,14,10,2
+Calloway,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,26,14,10,2
+Calloway,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4134,1754,2054,326
+Calloway,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C105,Board of Education,Murray Independent School District,,Adam SEIBER,345,124,190,31
+Calloway,C105,Board of Education,Murray Independent School District,,Richard H. CROUCH,354,138,180,36
+Calloway,C105,Board of Education,Murray Independent School District,,Total Votes,699,262,370,67
+Calloway,C105,Board of Education,Murray Independent School District,,Under Votes,725,320,354,51
+Calloway,C105,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,C105,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",284,123,138,23
+Calloway,C105,CITY COUNCIL City of Murray,,,"Rose ROSS ",393,170,189,34
+Calloway,C105,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",490,231,219,40
+Calloway,C105,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",380,188,155,37
+Calloway,C105,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",431,191,206,34
+Calloway,C105,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",321,155,135,31
+Calloway,C105,CITY COUNCIL City of Murray,,,"Linda CHERRY ",362,155,172,35
+Calloway,C105,CITY COUNCIL City of Murray,,,"Terry STRIETER ",308,150,139,19
+Calloway,C105,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",387,187,175,25
+Calloway,C105,CITY COUNCIL City of Murray,,,"Jeremy BELL ",436,199,201,36
+Calloway,C105,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",273,114,133,26
+Calloway,C105,CITY COUNCIL City of Murray,,,"Alice ROUSE ",362,175,148,39
+Calloway,C105,CITY COUNCIL City of Murray,,,"Clif DARNELL ",253,111,120,22
+Calloway,C105,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",409,188,185,36
+Calloway,C105,CITY COUNCIL City of Murray,,,Total Votes,5089,2337,2315,437
+Calloway,C105,CITY COUNCIL City of Murray,,,Under Votes,7355,2955,3853,547
+Calloway,C105,CITY COUNCIL City of Murray,,,Over Votes,3,1,2,0
+Calloway,C105,QUESTION-MURRAY CANNABIS,,,YES,649,273,331,45
+Calloway,C105,QUESTION-MURRAY CANNABIS,,,NO,354,150,173,31
+Calloway,C105,QUESTION-MURRAY CANNABIS,,,Total Votes,1003,423,504,76
+Calloway,C105,QUESTION-MURRAY CANNABIS,,,Under Votes,35,18,12,5
+Calloway,C105,QUESTION-MURRAY CANNABIS,,,Over Votes,2,1,0,1
+Calloway,C105,CONSTITUTIONAL AMENDMENT 1,,,YES,569,231,291,47
+Calloway,C105,CONSTITUTIONAL AMENDMENT 1,,,NO,361,153,181,27
+Calloway,C105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,930,384,472,74
+Calloway,C105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,106,55,43,8
+Calloway,C105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,3,1,0
+Calloway,C105,CONSTITUTIONAL AMENDMENT 2,,,YES,267,117,131,19
+Calloway,C105,CONSTITUTIONAL AMENDMENT 2,,,NO,729,309,364,56
+Calloway,C105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,996,426,495,75
+Calloway,C105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,43,16,21,6
+Calloway,C105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
+Calloway,C105,QUESTION-CALLOWAY CANNABIS,,,YES,629,257,327,45
+Calloway,C105,QUESTION-CALLOWAY CANNABIS,,,NO,354,151,172,31
+Calloway,C105,QUESTION-CALLOWAY CANNABIS,,,Total Votes,983,408,499,76
+Calloway,C105,QUESTION-CALLOWAY CANNABIS,,,Under Votes,53,32,15,6
+Calloway,C105,QUESTION-CALLOWAY CANNABIS,,,Over Votes,4,2,2,0
+Calloway,C108,STRAIGHT PARTY,,REP,Republican Party,178,87,82,9
+Calloway,C108,STRAIGHT PARTY,,DEM,Democratic Party,66,21,38,7
+Calloway,C108,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Calloway,C108,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,1,1
+Calloway,C108,STRAIGHT PARTY,,,Total Votes,251,109,125,17
+Calloway,C108,STRAIGHT PARTY,,,Under Votes,252,106,127,19
+Calloway,C108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,C108,President,,REP,Donald J. TRUMP / JD VANCE,337,149,170,18
+Calloway,C108,President,,DEM,Kamala D. HARRIS / Tim WALZ,159,62,79,18
+Calloway,C108,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Calloway,C108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
+Calloway,C108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,C108,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Calloway,C108,President,,,Write In Total,0,0,0,0
+Calloway,C108,President,,,Total Votes,501,213,252,36
+Calloway,C108,President,,,Under Votes,2,2,0,0
+Calloway,C108,President,,,Over Votes,0,0,0,0
+Calloway,C108,U.S. House,1,REP,James R. COMER,337,149,168,20
+Calloway,C108,U.S. House,1,DEM,Erin MARSHALL,161,62,84,15
+Calloway,C108,U.S. House,1,,Total Votes,498,211,252,35
+Calloway,C108,U.S. House,1,,Under Votes,4,4,0,0
+Calloway,C108,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,C108,State Senate,1,REP,Jason G. HOWELL,386,168,196,22
+Calloway,C108,State Senate,1,,Total Votes,386,168,196,22
+Calloway,C108,State Senate,1,,Under Votes,116,47,56,13
+Calloway,C108,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C108,State House,5,REP,Mary Beth IMES,291,131,142,18
+Calloway,C108,State House,5,DEM,Lauren HINES,206,82,108,16
+Calloway,C108,State House,5,,Total Votes,497,213,250,34
+Calloway,C108,State House,5,,Under Votes,5,2,2,1
+Calloway,C108,State House,5,,Over Votes,0,0,0,0
+Calloway,C108,Commonwealth's Attorney,42,IND,Dennis R. FOUST,309,119,170,20
+Calloway,C108,Commonwealth's Attorney,42,,Total Votes,309,119,170,20
+Calloway,C108,Commonwealth's Attorney,42,,Under Votes,193,96,82,15
+Calloway,C108,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,C108,Circuit Clerk,,,"Melinda STARKS REP ",395,172,201,22
+Calloway,C108,Circuit Clerk,,,Total Votes,395,172,201,22
+Calloway,C108,Circuit Clerk,,,Under Votes,107,43,51,13
+Calloway,C108,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",211,86,108,17
+Calloway,C108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",116,48,62,6
+Calloway,C108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,327,134,170,23
+Calloway,C108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,174,81,81,12
+Calloway,C108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,1,0
+Calloway,C108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,13,1,12,0
+Calloway,C108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,13,1,12,0
+Calloway,C108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1995,859,996,140
+Calloway,C108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C108,Board of Education,Murray Independent School District,,Adam SEIBER,3,2,1,0
+Calloway,C108,Board of Education,Murray Independent School District,,Richard H. CROUCH,4,3,1,0
+Calloway,C108,Board of Education,Murray Independent School District,,Total Votes,7,5,2,0
+Calloway,C108,Board of Education,Murray Independent School District,,Under Votes,5,1,4,0
+Calloway,C108,Board of Education,Murray Independent School District,,Over Votes,0,0,0,0
+Calloway,C108,CONSTITUTIONAL AMENDMENT 1,,,"YES ",299,126,150,23
+Calloway,C108,CONSTITUTIONAL AMENDMENT 1,,,"NO ",172,74,90,8
+Calloway,C108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,471,200,240,31
+Calloway,C108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,30,15,11,4
+Calloway,C108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Calloway,C108,CONSTITUTIONAL AMENDMENT 2,,,"YES ",159,66,77,16
+Calloway,C108,CONSTITUTIONAL AMENDMENT 2,,,"NO ",327,138,171,18
+Calloway,C108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,486,204,248,34
+Calloway,C108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,16,11,4,1
+Calloway,C108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,C108,QUESTION-CALLOWAY CANNABIS,,,YES,315,119,170,26
+Calloway,C108,QUESTION-CALLOWAY CANNABIS,,,NO,170,87,75,8
+Calloway,C108,QUESTION-CALLOWAY CANNABIS,,,Total Votes,485,206,245,34
+Calloway,C108,QUESTION-CALLOWAY CANNABIS,,,Under Votes,17,9,7,1
+Calloway,C108,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C109,STRAIGHT PARTY,,REP,Republican Party,269,124,125,20
+Calloway,C109,STRAIGHT PARTY,,DEM,Democratic Party,118,59,49,10
+Calloway,C109,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Calloway,C109,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Calloway,C109,STRAIGHT PARTY,,,Total Votes,392,183,179,30
+Calloway,C109,STRAIGHT PARTY,,,Under Votes,559,244,276,39
+Calloway,C109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,C109,President,,REP,Donald J. TRUMP / JD VANCE,591,266,291,34
+Calloway,C109,President,,DEM,Kamala D. HARRIS / Tim WALZ,327,155,143,29
+Calloway,C109,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,0,2
+Calloway,C109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,0,10,0
+Calloway,C109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,C109,President,,LIB,Chase OLIVER / Mike TER MAAT,5,1,2,2
+Calloway,C109,President,,,Write In Total,1,1,0,0
+Calloway,C109,President,,,Total Votes,936,423,446,67
+Calloway,C109,President,,,Under Votes,15,4,9,2
+Calloway,C109,President,,,Over Votes,0,0,0,0
+Calloway,C109,U.S. House,1,REP,James R. COMER,639,283,317,39
+Calloway,C109,U.S. House,1,DEM,Erin MARSHALL,289,138,124,27
+Calloway,C109,U.S. House,1,,Total Votes,928,421,441,66
+Calloway,C109,U.S. House,1,,Under Votes,23,6,14,3
+Calloway,C109,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,C109,State Senate,1,REP,Jason G. HOWELL,665,286,333,46
+Calloway,C109,State Senate,1,,Total Votes,665,286,333,46
+Calloway,C109,State Senate,1,,Under Votes,286,141,122,23
+Calloway,C109,State Senate,1,,Over Votes,0,0,0,0
+Calloway,C109,State House,5,REP,Mary Beth IMES,553,251,267,35
+Calloway,C109,State House,5,DEM,Lauren HINES,376,170,175,31
+Calloway,C109,State House,5,,Total Votes,929,421,442,66
+Calloway,C109,State House,5,,Under Votes,22,6,13,3
+Calloway,C109,State House,5,,Over Votes,0,0,0,0
+Calloway,C109,Commonwealth's Attorney,42,IND,Dennis R. FOUST,526,220,267,39
+Calloway,C109,Commonwealth's Attorney,42,,Total Votes,526,220,267,39
+Calloway,C109,Commonwealth's Attorney,42,,Under Votes,424,207,187,30
+Calloway,C109,Commonwealth's Attorney,42,,Over Votes,1,0,1,0
+Calloway,C109,Circuit Clerk,,,"Melinda STARKS REP ",668,295,330,43
+Calloway,C109,Circuit Clerk,,,Total Votes,668,295,330,43
+Calloway,C109,Circuit Clerk,,,Under Votes,283,132,125,26
+Calloway,C109,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,C109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",315,140,154,21
+Calloway,C109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",198,82,101,15
+Calloway,C109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,513,222,255,36
+Calloway,C109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,438,205,200,33
+Calloway,C109,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,C109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,6,3,3,0
+Calloway,C109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,6,3,3,0
+Calloway,C109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3798,1705,1817,276
+Calloway,C109,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,C109,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",306,125,162,19
+Calloway,C109,Board of Education,5,,Total Votes,306,125,162,19
+Calloway,C109,Board of Education,5,,Under Votes,361,177,149,35
+Calloway,C109,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,C109,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",229,97,119,13
+Calloway,C109,CITY COUNCIL City of Murray,,,"Rose ROSS ",348,151,176,21
+Calloway,C109,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",383,172,183,28
+Calloway,C109,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",356,158,176,22
+Calloway,C109,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",314,138,154,22
+Calloway,C109,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",263,115,133,15
+Calloway,C109,CITY COUNCIL City of Murray,,,"Linda CHERRY ",285,122,144,19
+Calloway,C109,CITY COUNCIL City of Murray,,,"Terry STRIETER ",275,138,119,18
+Calloway,C109,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",344,169,153,22
+Calloway,C109,CITY COUNCIL City of Murray,,,"Jeremy BELL ",371,165,181,25
+Calloway,C109,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",198,92,95,11
+Calloway,C109,CITY COUNCIL City of Murray,,,"Alice ROUSE ",322,152,143,27
+Calloway,C109,CITY COUNCIL City of Murray,,,"Clif DARNELL ",198,80,103,15
+Calloway,C109,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",366,159,185,22
+Calloway,C109,CITY COUNCIL City of Murray,,,Total Votes,4252,1908,2064,280
+Calloway,C109,CITY COUNCIL City of Murray,,,Under Votes,6608,3012,3084,512
+Calloway,C109,CITY COUNCIL City of Murray,,,Over Votes,2,0,2,0
+Calloway,C109,QUESTION-MURRAY CANNABIS,,,YES,505,224,244,37
+Calloway,C109,QUESTION-MURRAY CANNABIS,,,NO,367,168,176,23
+Calloway,C109,QUESTION-MURRAY CANNABIS,,,Total Votes,872,392,420,60
+Calloway,C109,QUESTION-MURRAY CANNABIS,,,Under Votes,35,18,11,6
+Calloway,C109,QUESTION-MURRAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,C109,CONSTITUTIONAL AMENDMENT 1,,,YES,580,265,276,39
+Calloway,C109,CONSTITUTIONAL AMENDMENT 1,,,NO,278,117,141,20
+Calloway,C109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,858,382,417,59
+Calloway,C109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,90,45,36,9
+Calloway,C109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,2,1
+Calloway,C109,CONSTITUTIONAL AMENDMENT 2,,,YES,284,130,128,26
+Calloway,C109,CONSTITUTIONAL AMENDMENT 2,,,NO,640,282,317,41
+Calloway,C109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,924,412,445,67
+Calloway,C109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,26,14,10,2
+Calloway,C109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Calloway,C109,QUESTION-CALLOWAY CANNABIS,,,YES,508,227,245,36
+Calloway,C109,QUESTION-CALLOWAY CANNABIS,,,NO,400,178,196,26
+Calloway,C109,QUESTION-CALLOWAY CANNABIS,,,Total Votes,908,405,441,62
+Calloway,C109,QUESTION-CALLOWAY CANNABIS,,,Under Votes,42,22,13,7
+Calloway,C109,QUESTION-CALLOWAY CANNABIS,,,Over Votes,1,0,1,0
+Calloway,D103,STRAIGHT PARTY,,REP,Republican Party,324,120,192,12
+Calloway,D103,STRAIGHT PARTY,,DEM,Democratic Party,90,23,55,12
+Calloway,D103,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Calloway,D103,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Calloway,D103,STRAIGHT PARTY,,,Total Votes,421,144,253,24
+Calloway,D103,STRAIGHT PARTY,,,Under Votes,501,177,306,18
+Calloway,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,D103,President,,REP,Donald J. TRUMP / JD VANCE,693,230,439,24
+Calloway,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,211,84,109,18
+Calloway,D103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,6,0
+Calloway,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Calloway,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Calloway,D103,President,,,Write In Total,0,0,0,0
+Calloway,D103,President,,,Total Votes,916,317,557,42
+Calloway,D103,President,,,Under Votes,5,4,1,0
+Calloway,D103,President,,,Over Votes,1,0,1,0
+Calloway,D103,U.S. House,1,REP,James R. COMER,707,241,442,24
+Calloway,D103,U.S. House,1,DEM,Erin MARSHALL,201,77,106,18
+Calloway,D103,U.S. House,1,,Total Votes,908,318,548,42
+Calloway,D103,U.S. House,1,,Under Votes,14,3,11,0
+Calloway,D103,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,D103,State Senate,1,REP,Jason G. HOWELL,741,251,462,28
+Calloway,D103,State Senate,1,,Total Votes,741,251,462,28
+Calloway,D103,State Senate,1,,Under Votes,180,69,97,14
+Calloway,D103,State Senate,1,,Over Votes,1,1,0,0
+Calloway,D103,State House,5,REP,Mary Beth IMES,621,218,383,20
+Calloway,D103,State House,5,DEM,Lauren HINES,283,100,162,21
+Calloway,D103,State House,5,,Total Votes,904,318,545,41
+Calloway,D103,State House,5,,Under Votes,18,3,14,1
+Calloway,D103,State House,5,,Over Votes,0,0,0,0
+Calloway,D103,Commonwealth's Attorney,42,IND,Dennis R. FOUST,574,175,375,24
+Calloway,D103,Commonwealth's Attorney,42,,Total Votes,574,175,375,24
+Calloway,D103,Commonwealth's Attorney,42,,Under Votes,348,146,184,18
+Calloway,D103,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,D103,Circuit Clerk,,,"Melinda STARKS REP ",755,257,470,28
+Calloway,D103,Circuit Clerk,,,Total Votes,755,257,470,28
+Calloway,D103,Circuit Clerk,,,Under Votes,166,64,88,14
+Calloway,D103,Circuit Clerk,,,Over Votes,1,0,1,0
+Calloway,D103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",363,119,222,22
+Calloway,D103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",191,56,131,4
+Calloway,D103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,554,175,353,26
+Calloway,D103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,368,146,206,16
+Calloway,D103,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,33,3,24,6
+Calloway,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,33,3,24,6
+Calloway,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3655,1281,2212,162
+Calloway,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,D103,Board of Education,4,,Sharon BOBO,296,93,185,18
+Calloway,D103,Board of Education,4,,Total Votes,296,93,185,18
+Calloway,D103,Board of Education,4,,Under Votes,198,98,95,5
+Calloway,D103,Board of Education,4,,Over Votes,0,0,0,0
+Calloway,D103,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",243,67,165,11
+Calloway,D103,Board of Education,5,,Total Votes,243,67,165,11
+Calloway,D103,Board of Education,5,,Under Votes,184,63,113,8
+Calloway,D103,Board of Education,5,,Over Votes,1,0,1,0
+Calloway,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",545,184,335,26
+Calloway,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",309,107,190,12
+Calloway,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,854,291,525,38
+Calloway,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,65,29,32,4
+Calloway,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Calloway,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,289,105,174,10
+Calloway,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,599,204,367,28
+Calloway,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,888,309,541,38
+Calloway,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,11,17,4
+Calloway,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
+Calloway,D103,QUESTION-CALLOWAY CANNABIS,,,YES,529,176,332,21
+Calloway,D103,QUESTION-CALLOWAY CANNABIS,,,NO,351,127,206,18
+Calloway,D103,QUESTION-CALLOWAY CANNABIS,,,Total Votes,880,303,538,39
+Calloway,D103,QUESTION-CALLOWAY CANNABIS,,,Under Votes,42,18,21,3
+Calloway,D103,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,D105,STRAIGHT PARTY,,REP,Republican Party,390,163,203,24
+Calloway,D105,STRAIGHT PARTY,,DEM,Democratic Party,136,55,59,22
+Calloway,D105,STRAIGHT PARTY,,KY,Kentucky Party,5,0,4,1
+Calloway,D105,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Calloway,D105,STRAIGHT PARTY,,,Total Votes,531,218,266,47
+Calloway,D105,STRAIGHT PARTY,,,Under Votes,686,294,345,47
+Calloway,D105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Calloway,D105,President,,REP,Donald J. TRUMP / JD VANCE,845,362,440,43
+Calloway,D105,President,,DEM,Kamala D. HARRIS / Tim WALZ,336,142,147,47
+Calloway,D105,President,,KY,Jill  STEIN / Samson KPADENOU,6,1,4,1
+Calloway,D105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,14,3,11,0
+Calloway,D105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,0,1
+Calloway,D105,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
+Calloway,D105,President,,,Write In Total,0,0,0,0
+Calloway,D105,President,,,Total Votes,1205,509,604,92
+Calloway,D105,President,,,Under Votes,11,3,7,1
+Calloway,D105,President,,,Over Votes,1,0,0,1
+Calloway,D105,U.S. House,1,REP,James R. COMER,892,377,471,44
+Calloway,D105,U.S. House,1,DEM,Erin MARSHALL,312,129,133,50
+Calloway,D105,U.S. House,1,,Total Votes,1204,506,604,94
+Calloway,D105,U.S. House,1,,Under Votes,12,6,6,0
+Calloway,D105,U.S. House,1,,Over Votes,1,0,1,0
+Calloway,D105,State Senate,1,REP,Jason G. HOWELL,937,382,503,52
+Calloway,D105,State Senate,1,,Total Votes,937,382,503,52
+Calloway,D105,State Senate,1,,Under Votes,280,130,108,42
+Calloway,D105,State Senate,1,,Over Votes,0,0,0,0
+Calloway,D105,State House,5,REP,Mary Beth IMES,765,325,398,42
+Calloway,D105,State House,5,DEM,Lauren HINES,434,180,202,52
+Calloway,D105,State House,5,,Total Votes,1199,505,600,94
+Calloway,D105,State House,5,,Under Votes,18,7,11,0
+Calloway,D105,State House,5,,Over Votes,0,0,0,0
+Calloway,D105,Commonwealth's Attorney,42,IND,Dennis R. FOUST,768,290,426,52
+Calloway,D105,Commonwealth's Attorney,42,,Total Votes,768,290,426,52
+Calloway,D105,Commonwealth's Attorney,42,,Under Votes,449,222,185,42
+Calloway,D105,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,D105,Circuit Clerk,,,"Melinda STARKS REP ",958,390,511,57
+Calloway,D105,Circuit Clerk,,,Total Votes,958,390,511,57
+Calloway,D105,Circuit Clerk,,,Under Votes,259,122,100,37
+Calloway,D105,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,D105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",479,184,263,32
+Calloway,D105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",254,99,133,22
+Calloway,D105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,733,283,396,54
+Calloway,D105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,483,229,215,39
+Calloway,D105,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,0,0,1
+Calloway,D105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,51,23,11,17
+Calloway,D105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,51,23,11,17
+Calloway,D105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4817,2025,2433,359
+Calloway,D105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,D105,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",703,267,396,40
+Calloway,D105,Board of Education,5,,Total Votes,703,267,396,40
+Calloway,D105,Board of Education,5,,Under Votes,514,245,215,54
+Calloway,D105,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,D105,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",62,35,26,1
+Calloway,D105,CITY COUNCIL City of Murray,,,"Rose ROSS ",104,57,39,8
+Calloway,D105,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",116,71,35,10
+Calloway,D105,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",118,71,41,6
+Calloway,D105,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",83,48,29,6
+Calloway,D105,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",75,44,25,6
+Calloway,D105,CITY COUNCIL City of Murray,,,"Linda CHERRY ",100,54,37,9
+Calloway,D105,CITY COUNCIL City of Murray,,,"Terry STRIETER ",62,39,18,5
+Calloway,D105,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",93,57,28,8
+Calloway,D105,CITY COUNCIL City of Murray,,,"Jeremy BELL ",126,69,50,7
+Calloway,D105,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",73,37,30,6
+Calloway,D105,CITY COUNCIL City of Murray,,,"Alice ROUSE ",104,60,34,10
+Calloway,D105,CITY COUNCIL City of Murray,,,"Clif DARNELL ",57,30,24,3
+Calloway,D105,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",128,72,50,6
+Calloway,D105,CITY COUNCIL City of Murray,,,Total Votes,1301,744,466,91
+Calloway,D105,CITY COUNCIL City of Murray,,,Under Votes,1951,1008,782,161
+Calloway,D105,CITY COUNCIL City of Murray,,,Over Votes,1,1,0,0
+Calloway,D105,QUESTION-MURRAY CANNABIS,,,YES,133,72,52,9
+Calloway,D105,QUESTION-MURRAY CANNABIS,,,NO,131,70,51,10
+Calloway,D105,QUESTION-MURRAY CANNABIS,,,Total Votes,264,142,103,19
+Calloway,D105,QUESTION-MURRAY CANNABIS,,,Under Votes,8,5,1,2
+Calloway,D105,QUESTION-MURRAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,D105,CONSTITUTIONAL AMENDMENT 1,,,YES,744,290,399,55
+Calloway,D105,CONSTITUTIONAL AMENDMENT 1,,,NO,391,177,181,33
+Calloway,D105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1135,467,580,88
+Calloway,D105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,78,42,30,6
+Calloway,D105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,3,1,0
+Calloway,D105,CONSTITUTIONAL AMENDMENT 2,,,YES,352,165,160,27
+Calloway,D105,CONSTITUTIONAL AMENDMENT 2,,,NO,826,328,435,63
+Calloway,D105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1178,493,595,90
+Calloway,D105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,19,16,4
+Calloway,D105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Calloway,D105,QUESTION-CALLOWAY CANNABIS,,,YES,701,281,372,48
+Calloway,D105,QUESTION-CALLOWAY CANNABIS,,,NO,467,208,219,40
+Calloway,D105,QUESTION-CALLOWAY CANNABIS,,,Total Votes,1168,489,591,88
+Calloway,D105,QUESTION-CALLOWAY CANNABIS,,,Under Votes,48,22,20,6
+Calloway,D105,QUESTION-CALLOWAY CANNABIS,,,Over Votes,1,1,0,0
+Calloway,D106,STRAIGHT PARTY,,REP,Republican Party,427,134,275,18
+Calloway,D106,STRAIGHT PARTY,,DEM,Democratic Party,73,21,46,6
+Calloway,D106,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Calloway,D106,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Calloway,D106,STRAIGHT PARTY,,,Total Votes,502,155,323,24
+Calloway,D106,STRAIGHT PARTY,,,Under Votes,653,193,429,31
+Calloway,D106,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Calloway,D106,President,,REP,Donald J. TRUMP / JD VANCE,943,279,623,41
+Calloway,D106,President,,DEM,Kamala D. HARRIS / Tim WALZ,186,62,111,13
+Calloway,D106,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Calloway,D106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,5,0
+Calloway,D106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Calloway,D106,President,,LIB,Chase OLIVER / Mike TER MAAT,8,2,5,1
+Calloway,D106,President,,,Write In Total,0,0,0,0
+Calloway,D106,President,,,Total Votes,1146,346,745,55
+Calloway,D106,President,,,Under Votes,9,2,7,0
+Calloway,D106,President,,,Over Votes,1,0,1,0
+Calloway,D106,U.S. House,1,REP,James R. COMER,964,286,635,43
+Calloway,D106,U.S. House,1,DEM,Erin MARSHALL,181,59,111,11
+Calloway,D106,U.S. House,1,,Total Votes,1145,345,746,54
+Calloway,D106,U.S. House,1,,Under Votes,11,3,7,1
+Calloway,D106,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,D106,State Senate,1,REP,Jason G. HOWELL,980,289,652,39
+Calloway,D106,State Senate,1,,Total Votes,980,289,652,39
+Calloway,D106,State Senate,1,,Under Votes,176,59,101,16
+Calloway,D106,State Senate,1,,Over Votes,0,0,0,0
+Calloway,D106,State House,5,REP,Mary Beth IMES,877,271,566,40
+Calloway,D106,State House,5,DEM,Lauren HINES,256,73,169,14
+Calloway,D106,State House,5,,Total Votes,1133,344,735,54
+Calloway,D106,State House,5,,Under Votes,23,4,18,1
+Calloway,D106,State House,5,,Over Votes,0,0,0,0
+Calloway,D106,Commonwealth's Attorney,42,IND,Dennis R. FOUST,780,215,527,38
+Calloway,D106,Commonwealth's Attorney,42,,Total Votes,780,215,527,38
+Calloway,D106,Commonwealth's Attorney,42,,Under Votes,376,133,226,17
+Calloway,D106,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,D106,Circuit Clerk,,,"Melinda STARKS REP ",994,293,661,40
+Calloway,D106,Circuit Clerk,,,Total Votes,994,293,661,40
+Calloway,D106,Circuit Clerk,,,Under Votes,162,55,92,15
+Calloway,D106,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,D106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",448,119,307,22
+Calloway,D106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",286,80,192,14
+Calloway,D106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,734,199,499,36
+Calloway,D106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,422,149,254,19
+Calloway,D106,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,D106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,51,15,35,1
+Calloway,D106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,51,15,35,1
+Calloway,D106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4573,1377,2977,219
+Calloway,D106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,D106,Board of Education,4,,Sharon BOBO,726,199,493,34
+Calloway,D106,Board of Education,4,,Total Votes,726,199,493,34
+Calloway,D106,Board of Education,4,,Under Votes,430,149,260,21
+Calloway,D106,Board of Education,4,,Over Votes,0,0,0,0
+Calloway,D106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",744,223,482,39
+Calloway,D106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",339,102,224,13
+Calloway,D106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1083,325,706,52
+Calloway,D106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,70,21,46,3
+Calloway,D106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Calloway,D106,CONSTITUTIONAL AMENDMENT 2,,,"YES ",364,109,237,18
+Calloway,D106,CONSTITUTIONAL AMENDMENT 2,,,"NO ",753,226,493,34
+Calloway,D106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1117,335,730,52
+Calloway,D106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,38,13,22,3
+Calloway,D106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Calloway,D106,QUESTION-CALLOWAY CANNABIS,,,YES,625,176,422,27
+Calloway,D106,QUESTION-CALLOWAY CANNABIS,,,NO,479,158,297,24
+Calloway,D106,QUESTION-CALLOWAY CANNABIS,,,Total Votes,1104,334,719,51
+Calloway,D106,QUESTION-CALLOWAY CANNABIS,,,Under Votes,52,14,34,4
+Calloway,D106,QUESTION-CALLOWAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,D108,STRAIGHT PARTY,,REP,Republican Party,251,67,170,14
+Calloway,D108,STRAIGHT PARTY,,DEM,Democratic Party,216,38,164,14
+Calloway,D108,STRAIGHT PARTY,,KY,Kentucky Party,7,1,5,1
+Calloway,D108,STRAIGHT PARTY,,LIB,Libertarian Party,9,1,7,1
+Calloway,D108,STRAIGHT PARTY,,,Total Votes,483,107,346,30
+Calloway,D108,STRAIGHT PARTY,,,Under Votes,299,88,187,24
+Calloway,D108,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Calloway,D108,President,,REP,Donald J. TRUMP / JD VANCE,426,119,282,25
+Calloway,D108,President,,DEM,Kamala D. HARRIS / Tim WALZ,335,75,231,29
+Calloway,D108,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Calloway,D108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,0,11,0
+Calloway,D108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Calloway,D108,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Calloway,D108,President,,,Write In Total,2,0,2,0
+Calloway,D108,President,,,Total Votes,778,195,529,54
+Calloway,D108,President,,,Under Votes,5,1,4,0
+Calloway,D108,President,,,Over Votes,0,0,0,0
+Calloway,D108,U.S. House,1,REP,James R. COMER,424,119,278,27
+Calloway,D108,U.S. House,1,DEM,Erin MARSHALL,338,72,241,25
+Calloway,D108,U.S. House,1,,Total Votes,762,191,519,52
+Calloway,D108,U.S. House,1,,Under Votes,19,5,14,0
+Calloway,D108,U.S. House,1,,Over Votes,0,0,0,0
+Calloway,D108,State Senate,1,REP,Jason G. HOWELL,563,139,388,36
+Calloway,D108,State Senate,1,,Total Votes,563,139,388,36
+Calloway,D108,State Senate,1,,Under Votes,218,57,145,16
+Calloway,D108,State Senate,1,,Over Votes,0,0,0,0
+Calloway,D108,State House,5,REP,Mary Beth IMES,390,112,254,24
+Calloway,D108,State House,5,DEM,Lauren HINES,371,78,266,27
+Calloway,D108,State House,5,,Total Votes,761,190,520,51
+Calloway,D108,State House,5,,Under Votes,19,6,12,1
+Calloway,D108,State House,5,,Over Votes,1,0,1,0
+Calloway,D108,Commonwealth's Attorney,42,IND,Dennis R. FOUST,521,119,367,35
+Calloway,D108,Commonwealth's Attorney,42,,Total Votes,521,119,367,35
+Calloway,D108,Commonwealth's Attorney,42,,Under Votes,260,77,166,17
+Calloway,D108,Commonwealth's Attorney,42,,Over Votes,0,0,0,0
+Calloway,D108,Circuit Clerk,,,"Melinda STARKS REP ",569,142,392,35
+Calloway,D108,Circuit Clerk,,,Total Votes,569,142,392,35
+Calloway,D108,Circuit Clerk,,,Under Votes,212,54,141,17
+Calloway,D108,Circuit Clerk,,,Over Votes,0,0,0,0
+Calloway,D108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",361,86,252,23
+Calloway,D108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",153,34,109,10
+Calloway,D108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,514,120,361,33
+Calloway,D108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,267,76,172,19
+Calloway,D108,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Calloway,D108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,12,2,10,0
+Calloway,D108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,12,2,10,0
+Calloway,D108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3112,782,2122,208
+Calloway,D108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Calloway,D108,Board of Education,5,,"Danny ""Van"" PITTMAN JR.",483,116,335,32
+Calloway,D108,Board of Education,5,,Total Votes,483,116,335,32
+Calloway,D108,Board of Education,5,,Under Votes,298,80,198,20
+Calloway,D108,Board of Education,5,,Over Votes,0,0,0,0
+Calloway,D108,CITY COUNCIL City of Murray,,,"John ""Joe"" DARNALL ",201,51,137,13
+Calloway,D108,CITY COUNCIL City of Murray,,,"Rose ROSS ",205,53,130,22
+Calloway,D108,CITY COUNCIL City of Murray,,,"Danny O. HUDSPETH ",221,65,138,18
+Calloway,D108,CITY COUNCIL City of Murray,,,"Johnny BOHANNON ",201,59,128,14
+Calloway,D108,CITY COUNCIL City of Murray,,,"Wesley BOLIN ",203,52,129,22
+Calloway,D108,CITY COUNCIL City of Murray,,,"Thomas HORNBUCKLE JR. ",200,68,115,17
+Calloway,D108,CITY COUNCIL City of Murray,,,"Linda CHERRY ",251,60,171,20
+Calloway,D108,CITY COUNCIL City of Murray,,,"Terry STRIETER ",153,42,100,11
+Calloway,D108,CITY COUNCIL City of Murray,,,"Bonnie C. HIGGINSON ",194,52,123,19
+Calloway,D108,CITY COUNCIL City of Murray,,,"Jeremy BELL ",221,57,148,16
+Calloway,D108,CITY COUNCIL City of Murray,,,"John Mark ROBERTS ",170,46,105,19
+Calloway,D108,CITY COUNCIL City of Murray,,,"Alice ROUSE ",209,52,137,20
+Calloway,D108,CITY COUNCIL City of Murray,,,"Clif DARNELL ",159,41,105,13
+Calloway,D108,CITY COUNCIL City of Murray,,,"Monty McCUISTON ",216,56,141,19
+Calloway,D108,CITY COUNCIL City of Murray,,,Total Votes,2804,754,1807,243
+Calloway,D108,CITY COUNCIL City of Murray,,,Under Votes,6244,1550,4325,369
+Calloway,D108,CITY COUNCIL City of Murray,,,Over Votes,2,0,2,0
+Calloway,D108,QUESTION-MURRAY CANNABIS,,,YES,516,120,364,32
+Calloway,D108,QUESTION-MURRAY CANNABIS,,,NO,202,54,132,16
+Calloway,D108,QUESTION-MURRAY CANNABIS,,,Total Votes,718,174,496,48
+Calloway,D108,QUESTION-MURRAY CANNABIS,,,Under Votes,38,18,17,3
+Calloway,D108,QUESTION-MURRAY CANNABIS,,,Over Votes,0,0,0,0
+Calloway,D108,CONSTITUTIONAL AMENDMENT 1,,,YES,436,109,294,33
+Calloway,D108,CONSTITUTIONAL AMENDMENT 1,,,NO,272,59,199,14
+Calloway,D108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,708,168,493,47
+Calloway,D108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,72,27,40,5
+Calloway,D108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Calloway,D108,CONSTITUTIONAL AMENDMENT 2,,,YES,250,63,167,20
+Calloway,D108,CONSTITUTIONAL AMENDMENT 2,,,NO,487,118,340,29
+Calloway,D108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,737,181,507,49
+Calloway,D108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,43,15,25,3
+Calloway,D108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Calloway,D108,QUESTION-CALLOWAY CANNABIS,,,YES,529,119,378,32
+Calloway,D108,QUESTION-CALLOWAY CANNABIS,,,NO,203,59,128,16
+Calloway,D108,QUESTION-CALLOWAY CANNABIS,,,Total Votes,732,178,506,48
+Calloway,D108,QUESTION-CALLOWAY CANNABIS,,,Under Votes,48,18,26,4
+Calloway,D108,QUESTION-CALLOWAY CANNABIS,,,Over Votes,1,0,1,0
