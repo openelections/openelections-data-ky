@@ -1,0 +1,417 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Carlisle,A101,STRAIGHT PARTY,,REP,Republican Party,133,54,78,1
+Carlisle,A101,STRAIGHT PARTY,,DEM,Democratic Party,33,10,20,3
+Carlisle,A101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Carlisle,A101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Carlisle,A101,STRAIGHT PARTY,,,Total Votes,169,65,100,4
+Carlisle,A101,STRAIGHT PARTY,,,Under Votes,233,74,153,6
+Carlisle,A101,STRAIGHT PARTY,,,Over Votes,3,0,3,0
+Carlisle,A101,President,,REP,Donald J. TRUMP / JD VANCE,329,117,207,5
+Carlisle,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,67,21,41,5
+Carlisle,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Carlisle,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Carlisle,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Carlisle,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Carlisle,A101,President,,,Total Votes,401,138,253,10
+Carlisle,A101,President,,,Under Votes,3,1,2,0
+Carlisle,A101,President,,,Over Votes,1,0,1,0
+Carlisle,A101,U.S. House,1,REP,James R. COMER,333,114,215,4
+Carlisle,A101,U.S. House,1,DEM,Erin MARSHALL,68,23,41,4
+Carlisle,A101,U.S. House,1,,Total Votes,401,137,256,8
+Carlisle,A101,U.S. House,1,,Under Votes,4,2,0,2
+Carlisle,A101,U.S. House,1,,Over Votes,0,0,0,0
+Carlisle,A101,State House,1,REP,Steven Jack RUDY,326,114,207,5
+Carlisle,A101,State House,1,DEM,Fredrick FOUNTAIN,74,23,47,4
+Carlisle,A101,State House,1,,Total Votes,400,137,254,9
+Carlisle,A101,State House,1,,Under Votes,5,2,2,1
+Carlisle,A101,State House,1,,Over Votes,0,0,0,0
+Carlisle,A101,Commonwealth's Attorney,1,IND,Michael B. STACY,283,87,190,6
+Carlisle,A101,Commonwealth's Attorney,1,,Total Votes,283,87,190,6
+Carlisle,A101,Commonwealth's Attorney,1,,Under Votes,122,52,66,4
+Carlisle,A101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,A101,Circuit Clerk,,REP,Courtney J. BURGE,350,118,226,6
+Carlisle,A101,Circuit Clerk,,,Total Votes,350,118,226,6
+Carlisle,A101,Circuit Clerk,,,Under Votes,55,21,30,4
+Carlisle,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,A101,SHERIFF,,REP,Eric PERRY,321,114,200,7
+Carlisle,A101,SHERIFF,,DEM,Clint DAVIS,82,25,55,2
+Carlisle,A101,SHERIFF,,,Total Votes,403,139,255,9
+Carlisle,A101,SHERIFF,,,Under Votes,2,0,1,1
+Carlisle,A101,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,A101,COUNTY SURVEYOR,,,Under Votes,405,139,256,10
+Carlisle,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",190,61,125,4
+Carlisle,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",97,26,69,2
+Carlisle,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,287,87,194,6
+Carlisle,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,118,52,62,4
+Carlisle,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Carlisle,A101,Board of Education,3,,Scott McINTYRE,304,93,206,5
+Carlisle,A101,Board of Education,3,,Total Votes,304,93,206,5
+Carlisle,A101,Board of Education,3,,Under Votes,101,46,50,5
+Carlisle,A101,Board of Education,3,,Over Votes,0,0,0,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Robin GARNETT ",55,24,31,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Ronnie Dean CANARY JR. ",45,22,23,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Diana SMITH ",50,22,28,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Stephen PERRY ",58,25,33,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Mahlon THOMAS ",56,21,35,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,"Cody YATES ",45,20,25,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,Total Votes,309,134,175,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,Under Votes,249,46,203,0
+Carlisle,A101,CITY COUNCIL City of Bardwell,,,Over Votes,0,0,0,0
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",236,69,163,4
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",141,56,80,5
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,377,125,243,9
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,28,14,13,1
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,124,49,73,2
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,261,83,171,7
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,385,132,244,9
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,7,11,1
+Carlisle,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Carlisle,A101,QUESTION-CARLISLE CANNABIS,,,YES,236,62,170,4
+Carlisle,A101,QUESTION-CARLISLE CANNABIS,,,NO,144,65,74,5
+Carlisle,A101,QUESTION-CARLISLE CANNABIS,,,Total Votes,380,127,244,9
+Carlisle,A101,QUESTION-CARLISLE CANNABIS,,,Under Votes,25,12,12,1
+Carlisle,A101,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
+Carlisle,A102,STRAIGHT PARTY,,REP,Republican Party,106,34,61,11
+Carlisle,A102,STRAIGHT PARTY,,DEM,Democratic Party,40,9,29,2
+Carlisle,A102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,2,1
+Carlisle,A102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Carlisle,A102,STRAIGHT PARTY,,,Total Votes,149,43,92,14
+Carlisle,A102,STRAIGHT PARTY,,,Under Votes,234,72,147,15
+Carlisle,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Carlisle,A102,President,,REP,Donald J. TRUMP / JD VANCE,299,91,190,18
+Carlisle,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,20,47,11
+Carlisle,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Carlisle,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
+Carlisle,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Carlisle,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Carlisle,A102,President,,,Total Votes,379,113,237,29
+Carlisle,A102,President,,,Under Votes,4,2,2,0
+Carlisle,A102,President,,,Over Votes,0,0,0,0
+Carlisle,A102,U.S. House,1,REP,James R. COMER,298,95,188,15
+Carlisle,A102,U.S. House,1,DEM,Erin MARSHALL,78,19,46,13
+Carlisle,A102,U.S. House,1,,Total Votes,376,114,234,28
+Carlisle,A102,U.S. House,1,,Under Votes,7,1,5,1
+Carlisle,A102,U.S. House,1,,Over Votes,0,0,0,0
+Carlisle,A102,State House,1,REP,Steven Jack RUDY,294,93,184,17
+Carlisle,A102,State House,1,DEM,Fredrick FOUNTAIN,80,19,49,12
+Carlisle,A102,State House,1,,Total Votes,374,112,233,29
+Carlisle,A102,State House,1,,Under Votes,9,3,6,0
+Carlisle,A102,State House,1,,Over Votes,0,0,0,0
+Carlisle,A102,Commonwealth's Attorney,1,IND,Michael B. STACY,254,69,165,20
+Carlisle,A102,Commonwealth's Attorney,1,,Total Votes,254,69,165,20
+Carlisle,A102,Commonwealth's Attorney,1,,Under Votes,129,46,74,9
+Carlisle,A102,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,A102,Circuit Clerk,,REP,Courtney J. BURGE,314,95,194,25
+Carlisle,A102,Circuit Clerk,,,Total Votes,314,95,194,25
+Carlisle,A102,Circuit Clerk,,,Under Votes,69,20,45,4
+Carlisle,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,A102,SHERIFF,,REP,Eric PERRY,297,90,186,21
+Carlisle,A102,SHERIFF,,DEM,Clint DAVIS,81,23,50,8
+Carlisle,A102,SHERIFF,,,Total Votes,378,113,236,29
+Carlisle,A102,SHERIFF,,,Under Votes,5,2,3,0
+Carlisle,A102,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,A102,COUNTY SURVEYOR,,,Under Votes,383,115,239,29
+Carlisle,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",163,35,113,15
+Carlisle,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",82,29,47,6
+Carlisle,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,245,64,160,21
+Carlisle,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,138,51,79,8
+Carlisle,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Carlisle,A102,Board of Education,4,,Write In Total,7,4,3,0
+Carlisle,A102,Board of Education,4,,Total Votes,7,4,3,0
+Carlisle,A102,Board of Education,4,,Under Votes,376,111,236,29
+Carlisle,A102,Board of Education,4,,Over Votes,0,0,0,0
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Robin GARNETT ",146,37,90,19
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Ronnie Dean CANARY JR. ",141,32,92,17
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Diana SMITH ",126,34,76,16
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Stephen PERRY ",137,38,81,18
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Mahlon THOMAS ",140,33,89,18
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,"Cody YATES ",118,32,72,14
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,Total Votes,808,206,500,102
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,Under Votes,536,136,358,42
+Carlisle,A102,CITY COUNCIL City of Bardwell,,,Over Votes,1,0,0,1
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",232,72,141,19
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",121,32,81,8
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,353,104,222,27
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,11,16,2
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,129,37,81,11
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,234,68,150,16
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,363,105,231,27
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,10,8,2
+Carlisle,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Carlisle,A102,QUESTION-CARLISLE CANNABIS,,,YES,235,51,161,23
+Carlisle,A102,QUESTION-CARLISLE CANNABIS,,,NO,130,55,71,4
+Carlisle,A102,QUESTION-CARLISLE CANNABIS,,,Total Votes,365,106,232,27
+Carlisle,A102,QUESTION-CARLISLE CANNABIS,,,Under Votes,18,9,7,2
+Carlisle,A102,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
+Carlisle,B101,STRAIGHT PARTY,,REP,Republican Party,285,80,194,11
+Carlisle,B101,STRAIGHT PARTY,,DEM,Democratic Party,40,11,27,2
+Carlisle,B101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Carlisle,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Carlisle,B101,STRAIGHT PARTY,,,Total Votes,327,92,222,13
+Carlisle,B101,STRAIGHT PARTY,,,Under Votes,406,124,273,9
+Carlisle,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Carlisle,B101,President,,REP,Donald J. TRUMP / JD VANCE,644,186,441,17
+Carlisle,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,25,48,5
+Carlisle,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Carlisle,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Carlisle,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Carlisle,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Carlisle,B101,President,,,Total Votes,727,212,493,22
+Carlisle,B101,President,,,Under Votes,4,3,1,0
+Carlisle,B101,President,,,Over Votes,2,1,1,0
+Carlisle,B101,U.S. House,1,REP,James R. COMER,647,189,441,17
+Carlisle,B101,U.S. House,1,DEM,Erin MARSHALL,77,24,48,5
+Carlisle,B101,U.S. House,1,,Total Votes,724,213,489,22
+Carlisle,B101,U.S. House,1,,Under Votes,9,3,6,0
+Carlisle,B101,U.S. House,1,,Over Votes,0,0,0,0
+Carlisle,B101,State House,1,REP,Steven Jack RUDY,638,184,436,18
+Carlisle,B101,State House,1,DEM,Fredrick FOUNTAIN,84,27,53,4
+Carlisle,B101,State House,1,,Total Votes,722,211,489,22
+Carlisle,B101,State House,1,,Under Votes,11,5,6,0
+Carlisle,B101,State House,1,,Over Votes,0,0,0,0
+Carlisle,B101,Commonwealth's Attorney,1,IND,Michael B. STACY,470,130,329,11
+Carlisle,B101,Commonwealth's Attorney,1,,Total Votes,470,130,329,11
+Carlisle,B101,Commonwealth's Attorney,1,,Under Votes,263,86,166,11
+Carlisle,B101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,B101,Circuit Clerk,,REP,Courtney J. BURGE,662,192,451,19
+Carlisle,B101,Circuit Clerk,,,Total Votes,662,192,451,19
+Carlisle,B101,Circuit Clerk,,,Under Votes,71,24,44,3
+Carlisle,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,B101,SHERIFF,,REP,Eric PERRY,642,187,436,19
+Carlisle,B101,SHERIFF,,DEM,Clint DAVIS,85,28,54,3
+Carlisle,B101,SHERIFF,,,Total Votes,727,215,490,22
+Carlisle,B101,SHERIFF,,,Under Votes,6,1,5,0
+Carlisle,B101,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,B101,COUNTY SURVEYOR,,,Under Votes,733,216,495,22
+Carlisle,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",256,70,182,4
+Carlisle,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",191,56,129,6
+Carlisle,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,447,126,311,10
+Carlisle,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,284,90,182,12
+Carlisle,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,2,0,2,0
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",515,161,339,15
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",180,46,130,4
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,695,207,469,19
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,36,9,24,3
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",342,116,215,11
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",374,96,268,10
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,716,212,483,21
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,4,12,1
+Carlisle,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Carlisle,B101,QUESTION-CARLISLE CANNABIS,,,YES,290,84,199,7
+Carlisle,B101,QUESTION-CARLISLE CANNABIS,,,NO,413,122,277,14
+Carlisle,B101,QUESTION-CARLISLE CANNABIS,,,Total Votes,703,206,476,21
+Carlisle,B101,QUESTION-CARLISLE CANNABIS,,,Under Votes,30,10,19,1
+Carlisle,B101,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
+Carlisle,B102,STRAIGHT PARTY,,REP,Republican Party,120,25,92,3
+Carlisle,B102,STRAIGHT PARTY,,DEM,Democratic Party,14,3,11,0
+Carlisle,B102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Carlisle,B102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Carlisle,B102,STRAIGHT PARTY,,,Total Votes,135,28,104,3
+Carlisle,B102,STRAIGHT PARTY,,,Under Votes,181,28,152,1
+Carlisle,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Carlisle,B102,President,,REP,Donald J. TRUMP / JD VANCE,280,51,226,3
+Carlisle,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,35,5,29,1
+Carlisle,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Carlisle,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Carlisle,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Carlisle,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Carlisle,B102,President,,,Total Votes,316,56,256,4
+Carlisle,B102,President,,,Under Votes,0,0,0,0
+Carlisle,B102,President,,,Over Votes,0,0,0,0
+Carlisle,B102,U.S. House,1,REP,James R. COMER,281,49,228,4
+Carlisle,B102,U.S. House,1,DEM,Erin MARSHALL,34,6,28,0
+Carlisle,B102,U.S. House,1,,Total Votes,315,55,256,4
+Carlisle,B102,U.S. House,1,,Under Votes,1,1,0,0
+Carlisle,B102,U.S. House,1,,Over Votes,0,0,0,0
+Carlisle,B102,State House,1,REP,Steven Jack RUDY,276,49,223,4
+Carlisle,B102,State House,1,DEM,Fredrick FOUNTAIN,36,6,30,0
+Carlisle,B102,State House,1,,Total Votes,312,55,253,4
+Carlisle,B102,State House,1,,Under Votes,4,1,3,0
+Carlisle,B102,State House,1,,Over Votes,0,0,0,0
+Carlisle,B102,Commonwealth's Attorney,1,IND,Michael B. STACY,206,38,165,3
+Carlisle,B102,Commonwealth's Attorney,1,,Total Votes,206,38,165,3
+Carlisle,B102,Commonwealth's Attorney,1,,Under Votes,110,18,91,1
+Carlisle,B102,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,B102,Circuit Clerk,,REP,Courtney J. BURGE,288,51,234,3
+Carlisle,B102,Circuit Clerk,,,Total Votes,288,51,234,3
+Carlisle,B102,Circuit Clerk,,,Under Votes,28,5,22,1
+Carlisle,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,B102,SHERIFF,,REP,Eric PERRY,270,48,219,3
+Carlisle,B102,SHERIFF,,DEM,Clint DAVIS,42,8,33,1
+Carlisle,B102,SHERIFF,,,Total Votes,312,56,252,4
+Carlisle,B102,SHERIFF,,,Under Votes,4,0,4,0
+Carlisle,B102,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,B102,COUNTY SURVEYOR,,,Under Votes,316,56,256,4
+Carlisle,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",120,18,100,2
+Carlisle,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",72,11,60,1
+Carlisle,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,192,29,160,3
+Carlisle,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,124,27,96,1
+Carlisle,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",208,42,164,2
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",91,14,76,1
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,299,56,240,3
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,17,0,16,1
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",119,26,91,2
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",188,30,157,1
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,307,56,248,3
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,0,8,1
+Carlisle,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Carlisle,B102,QUESTION-CARLISLE CANNABIS,,,YES,147,26,120,1
+Carlisle,B102,QUESTION-CARLISLE CANNABIS,,,NO,158,29,126,3
+Carlisle,B102,QUESTION-CARLISLE CANNABIS,,,Total Votes,305,55,246,4
+Carlisle,B102,QUESTION-CARLISLE CANNABIS,,,Under Votes,11,1,10,0
+Carlisle,B102,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
+Carlisle,C101,STRAIGHT PARTY,,REP,Republican Party,105,31,68,6
+Carlisle,C101,STRAIGHT PARTY,,DEM,Democratic Party,23,4,16,3
+Carlisle,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Carlisle,C101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Carlisle,C101,STRAIGHT PARTY,,,Total Votes,130,35,86,9
+Carlisle,C101,STRAIGHT PARTY,,,Under Votes,225,56,163,6
+Carlisle,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Carlisle,C101,President,,REP,Donald J. TRUMP / JD VANCE,293,80,204,9
+Carlisle,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,56,10,41,5
+Carlisle,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Carlisle,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
+Carlisle,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Carlisle,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Carlisle,C101,President,,,Total Votes,353,90,248,15
+Carlisle,C101,President,,,Under Votes,2,1,1,0
+Carlisle,C101,President,,,Over Votes,0,0,0,0
+Carlisle,C101,U.S. House,1,REP,James R. COMER,298,81,208,9
+Carlisle,C101,U.S. House,1,DEM,Erin MARSHALL,52,10,36,6
+Carlisle,C101,U.S. House,1,,Total Votes,350,91,244,15
+Carlisle,C101,U.S. House,1,,Under Votes,5,0,5,0
+Carlisle,C101,U.S. House,1,,Over Votes,0,0,0,0
+Carlisle,C101,State House,1,REP,Steven Jack RUDY,287,77,201,9
+Carlisle,C101,State House,1,DEM,Fredrick FOUNTAIN,61,14,41,6
+Carlisle,C101,State House,1,,Total Votes,348,91,242,15
+Carlisle,C101,State House,1,,Under Votes,7,0,7,0
+Carlisle,C101,State House,1,,Over Votes,0,0,0,0
+Carlisle,C101,Commonwealth's Attorney,1,IND,Michael B. STACY,220,56,154,10
+Carlisle,C101,Commonwealth's Attorney,1,,Total Votes,220,56,154,10
+Carlisle,C101,Commonwealth's Attorney,1,,Under Votes,135,35,95,5
+Carlisle,C101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,C101,Circuit Clerk,,REP,Courtney J. BURGE,301,80,211,10
+Carlisle,C101,Circuit Clerk,,,Total Votes,301,80,211,10
+Carlisle,C101,Circuit Clerk,,,Under Votes,54,11,38,5
+Carlisle,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,C101,SHERIFF,,REP,Eric PERRY,272,78,185,9
+Carlisle,C101,SHERIFF,,DEM,Clint DAVIS,76,13,58,5
+Carlisle,C101,SHERIFF,,,Total Votes,348,91,243,14
+Carlisle,C101,SHERIFF,,,Under Votes,7,0,6,1
+Carlisle,C101,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,C101,COUNTY SURVEYOR,,,Under Votes,355,91,249,15
+Carlisle,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",156,41,109,6
+Carlisle,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",69,19,49,1
+Carlisle,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,225,60,158,7
+Carlisle,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,130,31,91,8
+Carlisle,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",223,57,158,8
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",100,31,66,3
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,323,88,224,11
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,3,24,4
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",100,26,71,3
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",236,63,163,10
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,336,89,234,13
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,2,15,2
+Carlisle,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Carlisle,C101,QUESTION-CARLISLE CANNABIS,,,YES,208,50,150,8
+Carlisle,C101,QUESTION-CARLISLE CANNABIS,,,NO,129,39,84,6
+Carlisle,C101,QUESTION-CARLISLE CANNABIS,,,Total Votes,337,89,234,14
+Carlisle,C101,QUESTION-CARLISLE CANNABIS,,,Under Votes,18,2,15,1
+Carlisle,C101,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
+Carlisle,C102,STRAIGHT PARTY,,REP,Republican Party,171,48,112,11
+Carlisle,C102,STRAIGHT PARTY,,DEM,Democratic Party,49,15,29,5
+Carlisle,C102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Carlisle,C102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Carlisle,C102,STRAIGHT PARTY,,,Total Votes,224,63,145,16
+Carlisle,C102,STRAIGHT PARTY,,,Under Votes,215,39,161,15
+Carlisle,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Carlisle,C102,President,,REP,Donald J. TRUMP / JD VANCE,337,81,236,20
+Carlisle,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,94,21,63,10
+Carlisle,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Carlisle,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Carlisle,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Carlisle,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Carlisle,C102,President,,,Total Votes,434,102,301,31
+Carlisle,C102,President,,,Under Votes,3,0,3,0
+Carlisle,C102,President,,,Over Votes,2,0,2,0
+Carlisle,C102,U.S. House,1,REP,James R. COMER,340,78,244,18
+Carlisle,C102,U.S. House,1,DEM,Erin MARSHALL,87,22,54,11
+Carlisle,C102,U.S. House,1,,Total Votes,427,100,298,29
+Carlisle,C102,U.S. House,1,,Under Votes,11,2,7,2
+Carlisle,C102,U.S. House,1,,Over Votes,1,0,1,0
+Carlisle,C102,State House,1,REP,Steven Jack RUDY,336,77,241,18
+Carlisle,C102,State House,1,DEM,Fredrick FOUNTAIN,93,24,58,11
+Carlisle,C102,State House,1,,Total Votes,429,101,299,29
+Carlisle,C102,State House,1,,Under Votes,10,1,7,2
+Carlisle,C102,State House,1,,Over Votes,0,0,0,0
+Carlisle,C102,Commonwealth's Attorney,1,IND,Michael B. STACY,284,54,210,20
+Carlisle,C102,Commonwealth's Attorney,1,,Total Votes,284,54,210,20
+Carlisle,C102,Commonwealth's Attorney,1,,Under Votes,155,48,96,11
+Carlisle,C102,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Carlisle,C102,Circuit Clerk,,REP,Courtney J. BURGE,361,80,261,20
+Carlisle,C102,Circuit Clerk,,,Total Votes,361,80,261,20
+Carlisle,C102,Circuit Clerk,,,Under Votes,78,22,45,11
+Carlisle,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Carlisle,C102,SHERIFF,,REP,Eric PERRY,331,80,231,20
+Carlisle,C102,SHERIFF,,DEM,Clint DAVIS,97,21,67,9
+Carlisle,C102,SHERIFF,,,Total Votes,428,101,298,29
+Carlisle,C102,SHERIFF,,,Under Votes,11,1,8,2
+Carlisle,C102,SHERIFF,,,Over Votes,0,0,0,0
+Carlisle,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Carlisle,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Carlisle,C102,COUNTY SURVEYOR,,,Under Votes,439,102,306,31
+Carlisle,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Carlisle,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",183,40,134,9
+Carlisle,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",91,19,66,6
+Carlisle,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,274,59,200,15
+Carlisle,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,165,43,106,16
+Carlisle,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Carlisle,C102,Board of Education,,,Write In Total,14,7,6,1
+Carlisle,C102,Board of Education,,,Total Votes,14,7,6,1
+Carlisle,C102,Board of Education,,,Under Votes,425,95,300,30
+Carlisle,C102,Board of Education,,,Over Votes,0,0,0,0
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,"Karen S. MIGNOGNA ",36,7,28,1
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,"Nancy DODGE ",67,10,54,3
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,"Carol CARTER ",63,12,45,6
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,"Evelyn M. WEST ",67,10,52,5
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,"Paul GADDIE ",88,15,64,9
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,Total Votes,321,54,243,24
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,Under Votes,215,54,137,24
+Carlisle,C102,CITY COMMISSIONERS City of Arlington,,,Over Votes,0,0,0,0
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",237,55,167,15
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",165,40,111,14
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,402,95,278,29
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,7,25,2
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,134,37,90,7
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,279,57,198,24
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,413,94,288,31
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,26,8,18,0
+Carlisle,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Carlisle,C102,QUESTION-CARLISLE CANNABIS,,,YES,251,53,180,18
+Carlisle,C102,QUESTION-CARLISLE CANNABIS,,,NO,167,46,110,11
+Carlisle,C102,QUESTION-CARLISLE CANNABIS,,,Total Votes,418,99,290,29
+Carlisle,C102,QUESTION-CARLISLE CANNABIS,,,Under Votes,21,3,16,2
+Carlisle,C102,QUESTION-CARLISLE CANNABIS,,,Over Votes,0,0,0,0
