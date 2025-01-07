@@ -1,0 +1,344 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Butler,A101,STRAIGHT PARTY,,REP,Republican Party,346,80,247,19
+Butler,A101,STRAIGHT PARTY,,DEM,Democratic Party,94,23,63,8
+Butler,A101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Butler,A101,STRAIGHT PARTY,,LIB,Libertarian Party,5,1,4,0
+Butler,A101,STRAIGHT PARTY,,,Total Votes,449,104,318,27
+Butler,A101,STRAIGHT PARTY,,,Under Votes,318,77,220,21
+Butler,A101,STRAIGHT PARTY,,,Over Votes,2,1,1,0
+Butler,A101,President,,REP,Donald J. TRUMP / JD VANCE,563,134,396,33
+Butler,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,188,42,132,14
+Butler,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Butler,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,3,5,1
+Butler,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Butler,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Butler,A101,President,,,Write In Total,0,0,0,0
+Butler,A101,President,,,Total Votes,763,179,536,48
+Butler,A101,President,,,Under Votes,5,2,3,0
+Butler,A101,President,,,Over Votes,1,1,0,0
+Butler,A101,U.S. House,2,REP,S. Brett GUTHRIE,575,142,401,32
+Butler,A101,U.S. House,2,DEM,Hank LINDERMAN,171,35,121,15
+Butler,A101,U.S. House,2,,Total Votes,746,177,522,47
+Butler,A101,U.S. House,2,,Under Votes,23,5,17,1
+Butler,A101,U.S. House,2,,Over Votes,0,0,0,0
+Butler,A101,State Senate,5,REP,"Stephen MEREDITH ",557,140,387,30
+Butler,A101,State Senate,5,DEM,Jamie SKUDLAREK,176,38,122,16
+Butler,A101,State Senate,5,,Total Votes,733,178,509,46
+Butler,A101,State Senate,5,,Under Votes,34,4,28,2
+Butler,A101,State Senate,5,,Over Votes,2,0,2,0
+Butler,A101,State House,15,REP,Rebecca RAYMER,611,146,429,36
+Butler,A101,State House,15,,Total Votes,611,146,429,36
+Butler,A101,State House,15,,Under Votes,157,36,109,12
+Butler,A101,State House,15,,Over Votes,1,0,1,0
+Butler,A101,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,626,151,441,34
+Butler,A101,Commonwealth's Attorney,38,,Total Votes,626,151,441,34
+Butler,A101,Commonwealth's Attorney,38,,Under Votes,142,31,97,14
+Butler,A101,Commonwealth's Attorney,38,,Over Votes,1,0,1,0
+Butler,A101,Circuit Clerk,,REP,Melissa CARDWELL,648,157,455,36
+Butler,A101,Circuit Clerk,,,Total Votes,648,157,455,36
+Butler,A101,Circuit Clerk,,,Under Votes,121,25,84,12
+Butler,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Lance LOCKHART ",303,68,218,17
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"William Shane WELLS ",334,74,241,19
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,637,142,459,36
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2439,586,1697,156
+Butler,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Butler,A101,Board of Education,1,,Write In Total,12,3,8,1
+Butler,A101,Board of Education,1,,Total Votes,12,3,8,1
+Butler,A101,Board of Education,1,,Under Votes,757,179,531,47
+Butler,A101,Board of Education,1,,Over Votes,0,0,0,0
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Dionne Cannon MERRITT ",349,85,243,21
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Amy DEWEESE ",340,77,238,25
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Telia KEOWN ",279,63,201,15
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Sharon JOHNSON ",318,75,216,27
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Russell A. GIVENS ",291,67,205,19
+Butler,A101,CITY COUNCIL City of Morgantown,,,"Dustin R. EMBRY ",291,67,205,19
+Butler,A101,CITY COUNCIL City of Morgantown,,,Total Votes,1868,434,1308,126
+Butler,A101,CITY COUNCIL City of Morgantown,,,Under Votes,2380,538,1680,162
+Butler,A101,CITY COUNCIL City of Morgantown,,,Over Votes,4,0,4,0
+Butler,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",402,84,293,25
+Butler,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",266,60,188,18
+Butler,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,668,144,481,43
+Butler,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,99,37,57,5
+Butler,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Butler,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,206,60,133,13
+Butler,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,499,99,374,26
+Butler,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,705,159,507,39
+Butler,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,63,23,31,9
+Butler,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Butler,A101,QUESTION-BUTLER CANNABIS,,,YES,504,98,381,25
+Butler,A101,QUESTION-BUTLER CANNABIS,,,NO,198,59,119,20
+Butler,A101,QUESTION-BUTLER CANNABIS,,,Total Votes,702,157,500,45
+Butler,A101,QUESTION-BUTLER CANNABIS,,,Under Votes,67,25,39,3
+Butler,A101,QUESTION-BUTLER CANNABIS,,,Over Votes,0,0,0,0
+Butler,B102,STRAIGHT PARTY,,REP,Republican Party,674,164,493,17
+Butler,B102,STRAIGHT PARTY,,DEM,Democratic Party,108,34,65,9
+Butler,B102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Butler,B102,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Butler,B102,STRAIGHT PARTY,,,Total Votes,786,199,561,26
+Butler,B102,STRAIGHT PARTY,,,Under Votes,638,160,465,13
+Butler,B102,STRAIGHT PARTY,,,Over Votes,3,2,1,0
+Butler,B102,President,,REP,Donald J. TRUMP / JD VANCE,1166,281,861,24
+Butler,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,225,72,138,15
+Butler,B102,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Butler,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,2,7,0
+Butler,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Butler,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,7,0,7,0
+Butler,B102,President,,,Write In Total,0,0,0,0
+Butler,B102,President,,,Total Votes,1410,357,1014,39
+Butler,B102,President,,,Under Votes,16,4,12,0
+Butler,B102,President,,,Over Votes,1,0,1,0
+Butler,B102,U.S. House,2,REP,S. Brett GUTHRIE,1215,298,893,24
+Butler,B102,U.S. House,2,DEM,Hank LINDERMAN,196,62,120,14
+Butler,B102,U.S. House,2,,Total Votes,1411,360,1013,38
+Butler,B102,U.S. House,2,,Under Votes,15,1,13,1
+Butler,B102,U.S. House,2,,Over Votes,1,0,1,0
+Butler,B102,State Senate,5,REP,"Stephen MEREDITH ",1195,295,876,24
+Butler,B102,State Senate,5,DEM,Jamie SKUDLAREK,199,63,122,14
+Butler,B102,State Senate,5,,Total Votes,1394,358,998,38
+Butler,B102,State Senate,5,,Under Votes,31,3,27,1
+Butler,B102,State Senate,5,,Over Votes,2,0,2,0
+Butler,B102,State House,15,REP,Rebecca RAYMER,1235,300,907,28
+Butler,B102,State House,15,,Total Votes,1235,300,907,28
+Butler,B102,State House,15,,Under Votes,192,61,120,11
+Butler,B102,State House,15,,Over Votes,0,0,0,0
+Butler,B102,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,1239,302,906,31
+Butler,B102,Commonwealth's Attorney,38,,Total Votes,1239,302,906,31
+Butler,B102,Commonwealth's Attorney,38,,Under Votes,188,59,121,8
+Butler,B102,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Butler,B102,Circuit Clerk,,REP,Melissa CARDWELL,1255,309,915,31
+Butler,B102,Circuit Clerk,,,Total Votes,1255,309,915,31
+Butler,B102,Circuit Clerk,,,Under Votes,172,52,112,8
+Butler,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Lance LOCKHART ",718,167,533,18
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"William Shane WELLS ",630,164,450,16
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,11,1,10,0
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1359,332,993,34
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4349,1112,3115,122
+Butler,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Butler,B102,Board of Education,2,,Deborah A. HAMMERS,931,227,679,25
+Butler,B102,Board of Education,2,,Total Votes,931,227,679,25
+Butler,B102,Board of Education,2,,Under Votes,496,134,348,14
+Butler,B102,Board of Education,2,,Over Votes,0,0,0,0
+Butler,B102,MAYOR City of Woodbury,,,"Vickie V. HOUSE ",34,13,19,2
+Butler,B102,MAYOR City of Woodbury,,,Total Votes,34,13,19,2
+Butler,B102,MAYOR City of Woodbury,,,Under Votes,6,0,5,1
+Butler,B102,MAYOR City of Woodbury,,,Over Votes,0,0,0,0
+Butler,B102,CITY COMMISSIONERS City of Woodbury,,,"Frank G. HOUSE ",33,13,18,2
+Butler,B102,CITY COMMISSIONERS City of Woodbury,,,Total Votes,33,13,18,2
+Butler,B102,CITY COMMISSIONERS City of Woodbury,,,Under Votes,127,39,78,10
+Butler,B102,CITY COMMISSIONERS City of Woodbury,,,Over Votes,0,0,0,0
+Butler,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",869,219,626,24
+Butler,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",455,115,327,13
+Butler,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1324,334,953,37
+Butler,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,100,26,72,2
+Butler,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
+Butler,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,446,134,306,6
+Butler,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,916,208,676,32
+Butler,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1362,342,982,38
+Butler,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,64,18,45,1
+Butler,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Butler,B102,QUESTION-BUTLER CANNABIS,,,YES,815,202,589,24
+Butler,B102,QUESTION-BUTLER CANNABIS,,,NO,540,139,388,13
+Butler,B102,QUESTION-BUTLER CANNABIS,,,Total Votes,1355,341,977,37
+Butler,B102,QUESTION-BUTLER CANNABIS,,,Under Votes,67,17,48,2
+Butler,B102,QUESTION-BUTLER CANNABIS,,,Over Votes,5,3,2,0
+Butler,C103,STRAIGHT PARTY,,REP,Republican Party,675,141,514,20
+Butler,C103,STRAIGHT PARTY,,DEM,Democratic Party,92,15,68,9
+Butler,C103,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Butler,C103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Butler,C103,STRAIGHT PARTY,,,Total Votes,769,156,584,29
+Butler,C103,STRAIGHT PARTY,,,Under Votes,617,120,484,13
+Butler,C103,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Butler,C103,President,,REP,Donald J. TRUMP / JD VANCE,1141,234,882,25
+Butler,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,219,41,162,16
+Butler,C103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Butler,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,1,8,0
+Butler,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Butler,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Butler,C103,President,,,Write In Total,1,0,1,0
+Butler,C103,President,,,Total Votes,1372,276,1055,41
+Butler,C103,President,,,Under Votes,15,0,14,1
+Butler,C103,President,,,Over Votes,1,0,1,0
+Butler,C103,U.S. House,2,REP,S. Brett GUTHRIE,1180,242,912,26
+Butler,C103,U.S. House,2,DEM,Hank LINDERMAN,186,30,141,15
+Butler,C103,U.S. House,2,,Total Votes,1366,272,1053,41
+Butler,C103,U.S. House,2,,Under Votes,22,4,17,1
+Butler,C103,U.S. House,2,,Over Votes,0,0,0,0
+Butler,C103,State Senate,5,REP,"Stephen MEREDITH ",1149,238,885,26
+Butler,C103,State Senate,5,DEM,Jamie SKUDLAREK,194,27,152,15
+Butler,C103,State Senate,5,,Total Votes,1343,265,1037,41
+Butler,C103,State Senate,5,,Under Votes,44,11,32,1
+Butler,C103,State Senate,5,,Over Votes,1,0,1,0
+Butler,C103,State House,15,REP,Rebecca RAYMER,1187,234,923,30
+Butler,C103,State House,15,,Total Votes,1187,234,923,30
+Butler,C103,State House,15,,Under Votes,200,42,146,12
+Butler,C103,State House,15,,Over Votes,1,0,1,0
+Butler,C103,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,1205,239,936,30
+Butler,C103,Commonwealth's Attorney,38,,Total Votes,1205,239,936,30
+Butler,C103,Commonwealth's Attorney,38,,Under Votes,183,37,134,12
+Butler,C103,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Butler,C103,Circuit Clerk,,REP,Melissa CARDWELL,1215,240,944,31
+Butler,C103,Circuit Clerk,,,Total Votes,1215,240,944,31
+Butler,C103,Circuit Clerk,,,Under Votes,173,36,126,11
+Butler,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Lance LOCKHART ",522,93,413,16
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"William Shane WELLS ",773,136,613,24
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,8,0,8,0
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1303,229,1034,40
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4249,875,3246,128
+Butler,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Butler,C103,MAYOR City of Rochester,,,"Martha ROE ",76,2,72,2
+Butler,C103,MAYOR City of Rochester,,,Total Votes,76,2,72,2
+Butler,C103,MAYOR City of Rochester,,,Under Votes,13,0,11,2
+Butler,C103,MAYOR City of Rochester,,,Over Votes,0,0,0,0
+Butler,C103,CITY COUNCIL City of Rochester,,,"Shannon B. AUSTIN ",53,1,51,1
+Butler,C103,CITY COUNCIL City of Rochester,,,"Sandy PRIDDY ",58,1,54,3
+Butler,C103,CITY COUNCIL City of Rochester,,,Write In Total,3,0,3,0
+Butler,C103,CITY COUNCIL City of Rochester,,,Total Votes,114,2,108,4
+Butler,C103,CITY COUNCIL City of Rochester,,,Under Votes,242,6,224,12
+Butler,C103,CITY COUNCIL City of Rochester,,,Over Votes,0,0,0,0
+Butler,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",860,189,648,23
+Butler,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",435,73,349,13
+Butler,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1295,262,997,36
+Butler,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,89,14,69,6
+Butler,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,4,0
+Butler,C103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",423,104,307,12
+Butler,C103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",910,161,721,28
+Butler,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1333,265,1028,40
+Butler,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,52,10,40,2
+Butler,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,1,2,0
+Butler,C103,QUESTION-BUTLER CANNABIS,,,YES,780,149,604,27
+Butler,C103,QUESTION-BUTLER CANNABIS,,,NO,547,115,420,12
+Butler,C103,QUESTION-BUTLER CANNABIS,,,Total Votes,1327,264,1024,39
+Butler,C103,QUESTION-BUTLER CANNABIS,,,Under Votes,60,12,45,3
+Butler,C103,QUESTION-BUTLER CANNABIS,,,Over Votes,1,0,1,0
+Butler,D104,STRAIGHT PARTY,,REP,Republican Party,572,114,438,20
+Butler,D104,STRAIGHT PARTY,,DEM,Democratic Party,89,24,61,4
+Butler,D104,STRAIGHT PARTY,,KY,Kentucky Party,6,1,5,0
+Butler,D104,STRAIGHT PARTY,,LIB,Libertarian Party,5,1,4,0
+Butler,D104,STRAIGHT PARTY,,,Total Votes,672,140,508,24
+Butler,D104,STRAIGHT PARTY,,,Under Votes,466,86,365,15
+Butler,D104,STRAIGHT PARTY,,,Over Votes,3,2,1,0
+Butler,D104,President,,REP,Donald J. TRUMP / JD VANCE,935,177,730,28
+Butler,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,181,46,124,11
+Butler,D104,President,,KY,Jill  STEIN / Samson KPADENOU,4,0,4,0
+Butler,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
+Butler,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Butler,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,6,0,6,0
+Butler,D104,President,,,Write In Total,0,0,0,0
+Butler,D104,President,,,Total Votes,1130,225,866,39
+Butler,D104,President,,,Under Votes,11,3,8,0
+Butler,D104,President,,,Over Votes,0,0,0,0
+Butler,D104,U.S. House,2,REP,S. Brett GUTHRIE,968,182,755,31
+Butler,D104,U.S. House,2,DEM,Hank LINDERMAN,150,41,102,7
+Butler,D104,U.S. House,2,,Total Votes,1118,223,857,38
+Butler,D104,U.S. House,2,,Under Votes,23,5,17,1
+Butler,D104,U.S. House,2,,Over Votes,0,0,0,0
+Butler,D104,State Senate,5,REP,"Stephen MEREDITH ",943,187,726,30
+Butler,D104,State Senate,5,DEM,Jamie SKUDLAREK,162,37,117,8
+Butler,D104,State Senate,5,,Total Votes,1105,224,843,38
+Butler,D104,State Senate,5,,Under Votes,36,4,31,1
+Butler,D104,State Senate,5,,Over Votes,0,0,0,0
+Butler,D104,State House,15,REP,Rebecca RAYMER,982,188,759,35
+Butler,D104,State House,15,,Total Votes,982,188,759,35
+Butler,D104,State House,15,,Under Votes,159,40,115,4
+Butler,D104,State House,15,,Over Votes,0,0,0,0
+Butler,D104,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,974,191,748,35
+Butler,D104,Commonwealth's Attorney,38,,Total Votes,974,191,748,35
+Butler,D104,Commonwealth's Attorney,38,,Under Votes,167,37,126,4
+Butler,D104,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Butler,D104,Circuit Clerk,,REP,Melissa CARDWELL,1010,196,777,37
+Butler,D104,Circuit Clerk,,,Total Votes,1010,196,777,37
+Butler,D104,Circuit Clerk,,,Under Votes,131,32,97,2
+Butler,D104,Circuit Clerk,,,Over Votes,0,0,0,0
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Lance LOCKHART ",443,93,333,17
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"William Shane WELLS ",443,92,327,24
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,11,3,6,2
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,897,188,666,43
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3667,724,2830,113
+Butler,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Butler,D104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",673,135,508,30
+Butler,D104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",382,74,301,7
+Butler,D104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1055,209,809,37
+Butler,D104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,85,19,64,2
+Butler,D104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Butler,D104,CONSTITUTIONAL AMENDMENT 2,,,YES,335,67,254,14
+Butler,D104,CONSTITUTIONAL AMENDMENT 2,,,NO,750,147,580,23
+Butler,D104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1085,214,834,37
+Butler,D104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,56,14,40,2
+Butler,D104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Butler,D104,QUESTION-BUTLER CANNABIS,,,YES,657,116,515,26
+Butler,D104,QUESTION-BUTLER CANNABIS,,,NO,417,97,310,10
+Butler,D104,QUESTION-BUTLER CANNABIS,,,Total Votes,1074,213,825,36
+Butler,D104,QUESTION-BUTLER CANNABIS,,,Under Votes,67,15,49,3
+Butler,D104,QUESTION-BUTLER CANNABIS,,,Over Votes,0,0,0,0
+Butler,E105,STRAIGHT PARTY,,REP,Republican Party,654,112,510,32
+Butler,E105,STRAIGHT PARTY,,DEM,Democratic Party,73,12,51,10
+Butler,E105,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Butler,E105,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Butler,E105,STRAIGHT PARTY,,,Total Votes,734,126,566,42
+Butler,E105,STRAIGHT PARTY,,,Under Votes,533,93,424,16
+Butler,E105,STRAIGHT PARTY,,,Over Votes,7,1,6,0
+Butler,E105,President,,REP,Donald J. TRUMP / JD VANCE,1100,193,864,43
+Butler,E105,President,,DEM,Kamala D. HARRIS / Tim WALZ,152,24,113,15
+Butler,E105,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Butler,E105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,1,10,0
+Butler,E105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Butler,E105,President,,LIB,Chase OLIVER / Mike TER MAAT,4,1,3,0
+Butler,E105,President,,,Write In Total,0,0,0,0
+Butler,E105,President,,,Total Votes,1268,219,991,58
+Butler,E105,President,,,Under Votes,3,1,2,0
+Butler,E105,President,,,Over Votes,3,0,3,0
+Butler,E105,U.S. House,2,REP,S. Brett GUTHRIE,1119,198,875,46
+Butler,E105,U.S. House,2,DEM,Hank LINDERMAN,142,20,110,12
+Butler,E105,U.S. House,2,,Total Votes,1261,218,985,58
+Butler,E105,U.S. House,2,,Under Votes,13,2,11,0
+Butler,E105,U.S. House,2,,Over Votes,0,0,0,0
+Butler,E105,State Senate,5,REP,"Stephen MEREDITH ",1109,191,876,42
+Butler,E105,State Senate,5,DEM,Jamie SKUDLAREK,139,23,102,14
+Butler,E105,State Senate,5,,Total Votes,1248,214,978,56
+Butler,E105,State Senate,5,,Under Votes,26,6,18,2
+Butler,E105,State Senate,5,,Over Votes,0,0,0,0
+Butler,E105,State House,15,REP,Rebecca RAYMER,1153,195,907,51
+Butler,E105,State House,15,,Total Votes,1153,195,907,51
+Butler,E105,State House,15,,Under Votes,121,25,89,7
+Butler,E105,State House,15,,Over Votes,0,0,0,0
+Butler,E105,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,1147,191,906,50
+Butler,E105,Commonwealth's Attorney,38,,Total Votes,1147,191,906,50
+Butler,E105,Commonwealth's Attorney,38,,Under Votes,127,29,90,8
+Butler,E105,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Butler,E105,Circuit Clerk,,REP,Melissa CARDWELL,1184,198,934,52
+Butler,E105,Circuit Clerk,,,Total Votes,1184,198,934,52
+Butler,E105,Circuit Clerk,,,Under Votes,88,22,60,6
+Butler,E105,Circuit Clerk,,,Over Votes,2,0,2,0
+Butler,E105,CONSTABLE,5,REP,Jody HENDERSON,1163,197,917,49
+Butler,E105,CONSTABLE,5,,Total Votes,1163,197,917,49
+Butler,E105,CONSTABLE,5,,Under Votes,111,23,79,9
+Butler,E105,CONSTABLE,5,,Over Votes,0,0,0,0
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Lance LOCKHART ",520,88,413,19
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"William Shane WELLS ",531,93,416,22
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,6,1,5,0
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1057,182,834,41
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4039,698,3150,191
+Butler,E105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Butler,E105,Board of Education,5,,Ryan DAUGHERTY,848,139,676,33
+Butler,E105,Board of Education,5,,Total Votes,848,139,676,33
+Butler,E105,Board of Education,5,,Under Votes,426,81,320,25
+Butler,E105,Board of Education,5,,Over Votes,0,0,0,0
+Butler,E105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",726,134,558,34
+Butler,E105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",427,70,335,22
+Butler,E105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1153,204,893,56
+Butler,E105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,110,15,93,2
+Butler,E105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,11,1,10,0
+Butler,E105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",352,89,247,16
+Butler,E105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",844,121,686,37
+Butler,E105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1196,210,933,53
+Butler,E105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,74,9,60,5
+Butler,E105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,4,1,3,0
+Butler,E105,QUESTION-BUTLER CANNABIS,,,YES,683,110,538,35
+Butler,E105,QUESTION-BUTLER CANNABIS,,,NO,505,102,383,20
+Butler,E105,QUESTION-BUTLER CANNABIS,,,Total Votes,1188,212,921,55
+Butler,E105,QUESTION-BUTLER CANNABIS,,,Under Votes,83,8,72,3
+Butler,E105,QUESTION-BUTLER CANNABIS,,,Over Votes,3,0,3,0
