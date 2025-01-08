@@ -1,0 +1,811 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Crittenden,A101,STRAIGHT PARTY,,REP,Republican Party,137,35,102,0
+Crittenden,A101,STRAIGHT PARTY,,DEM,Democratic Party,24,5,17,2
+Crittenden,A101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Crittenden,A101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Crittenden,A101,STRAIGHT PARTY,,,Total Votes,164,40,122,2
+Crittenden,A101,STRAIGHT PARTY,,,Under Votes,242,76,158,8
+Crittenden,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,A101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,A101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,A101,President,,REP,Donald J. TRUMP / JD VANCE,337,87,245,5
+Crittenden,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,61,24,33,4
+Crittenden,A101,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Crittenden,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
+Crittenden,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Crittenden,A101,President,,,Write In Total,2,2,0,0
+Crittenden,A101,President,,,Total Votes,405,116,280,9
+Crittenden,A101,President,,,Under Votes,1,0,0,1
+Crittenden,A101,President,,,Over Votes,0,0,0,0
+Crittenden,A101,U.S. House,1,REP,James R. COMER,341,93,241,7
+Crittenden,A101,U.S. House,1,DEM,Erin MARSHALL,59,22,34,3
+Crittenden,A101,U.S. House,1,,Total Votes,400,115,275,10
+Crittenden,A101,U.S. House,1,,Under Votes,6,1,5,0
+Crittenden,A101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,A101,State Senate,1,REP,Jason G. HOWELL,336,95,234,7
+Crittenden,A101,State Senate,1,,Total Votes,336,95,234,7
+Crittenden,A101,State Senate,1,,Under Votes,70,21,46,3
+Crittenden,A101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,A101,State House,12,REP,Jim GOOCH JR.,328,90,232,6
+Crittenden,A101,State House,12,DEM,Alton M. AYER,59,23,33,3
+Crittenden,A101,State House,12,,Total Votes,387,113,265,9
+Crittenden,A101,State House,12,,Under Votes,19,3,15,1
+Crittenden,A101,State House,12,,Over Votes,0,0,0,0
+Crittenden,A101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,271,84,179,8
+Crittenden,A101,Commonwealth's Attorney,5,,Total Votes,271,84,179,8
+Crittenden,A101,Commonwealth's Attorney,5,,Under Votes,130,29,99,2
+Crittenden,A101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,A101,Circuit Clerk,,REP,Melissa Dawn GUILL,344,97,240,7
+Crittenden,A101,Circuit Clerk,,,Total Votes,344,97,240,7
+Crittenden,A101,Circuit Clerk,,,Under Votes,61,19,39,3
+Crittenden,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,A101,COUNTY SURVEYOR,,,Under Votes,394,111,273,10
+Crittenden,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",159,47,106,6
+Crittenden,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",96,30,66,0
+Crittenden,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,255,77,172,6
+Crittenden,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,151,39,108,4
+Crittenden,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",245,72,169,4
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",127,48,78,1
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",136,50,81,5
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,1,0,0
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,509,171,328,10
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1106,292,784,30
+Crittenden,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,A101,Board of Education,4,,Timothy A. GRAU II.,257,76,175,6
+Crittenden,A101,Board of Education,4,,Total Votes,257,76,175,6
+Crittenden,A101,Board of Education,4,,Under Votes,146,40,102,4
+Crittenden,A101,Board of Education,4,,Over Votes,0,0,0,0
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",224,62,158,4
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",142,46,90,6
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,366,108,248,10
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,8,31,0
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,102,32,68,2
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,272,76,188,8
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,374,108,256,10
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,8,24,0
+Crittenden,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,A101,QUESTION-CRITTENDEN CANNABIS,,,YES,194,53,136,5
+Crittenden,A101,QUESTION-CRITTENDEN CANNABIS,,,NO,184,59,120,5
+Crittenden,A101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,378,112,256,10
+Crittenden,A101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,28,4,24,0
+Crittenden,A101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,A102,STRAIGHT PARTY,,REP,Republican Party,77,36,37,4
+Crittenden,A102,STRAIGHT PARTY,,DEM,Democratic Party,14,10,3,1
+Crittenden,A102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Crittenden,A102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Crittenden,A102,STRAIGHT PARTY,,,Total Votes,91,46,40,5
+Crittenden,A102,STRAIGHT PARTY,,,Under Votes,95,36,52,7
+Crittenden,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,A102,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,A102,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,A102,President,,REP,Donald J. TRUMP / JD VANCE,155,68,79,8
+Crittenden,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,29,14,11,4
+Crittenden,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Crittenden,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Crittenden,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Crittenden,A102,President,,,Write In Total,0,0,0,0
+Crittenden,A102,President,,,Total Votes,186,82,92,12
+Crittenden,A102,President,,,Under Votes,0,0,0,0
+Crittenden,A102,President,,,Over Votes,0,0,0,0
+Crittenden,A102,U.S. House,1,REP,James R. COMER,153,67,77,9
+Crittenden,A102,U.S. House,1,DEM,Erin MARSHALL,29,14,12,3
+Crittenden,A102,U.S. House,1,,Total Votes,182,81,89,12
+Crittenden,A102,U.S. House,1,,Under Votes,4,1,3,0
+Crittenden,A102,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,A102,State Senate,1,REP,Jason G. HOWELL,160,69,82,9
+Crittenden,A102,State Senate,1,,Total Votes,160,69,82,9
+Crittenden,A102,State Senate,1,,Under Votes,26,13,10,3
+Crittenden,A102,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,A102,State House,12,REP,Jim GOOCH JR.,145,65,72,8
+Crittenden,A102,State House,12,DEM,Alton M. AYER,32,14,14,4
+Crittenden,A102,State House,12,,Total Votes,177,79,86,12
+Crittenden,A102,State House,12,,Under Votes,9,3,6,0
+Crittenden,A102,State House,12,,Over Votes,0,0,0,0
+Crittenden,A102,Commonwealth's Attorney,5,DEM,Zac GREENWELL,129,54,65,10
+Crittenden,A102,Commonwealth's Attorney,5,,Total Votes,129,54,65,10
+Crittenden,A102,Commonwealth's Attorney,5,,Under Votes,55,27,26,2
+Crittenden,A102,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,A102,Circuit Clerk,,REP,Melissa Dawn GUILL,166,73,81,12
+Crittenden,A102,Circuit Clerk,,,Total Votes,166,73,81,12
+Crittenden,A102,Circuit Clerk,,,Under Votes,19,9,10,0
+Crittenden,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,A102,COUNTY SURVEYOR,,,Under Votes,175,79,87,9
+Crittenden,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",98,37,52,9
+Crittenden,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",33,16,16,1
+Crittenden,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,131,53,68,10
+Crittenden,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,52,27,23,2
+Crittenden,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,1,0,0
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",119,50,60,9
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",56,26,24,6
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",67,30,31,6
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,1,0
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,243,106,116,21
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,497,220,250,27
+Crittenden,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,A102,Board of Education,4,,Timothy A. GRAU II.,128,54,68,6
+Crittenden,A102,Board of Education,4,,Total Votes,128,54,68,6
+Crittenden,A102,Board of Education,4,,Under Votes,55,27,23,5
+Crittenden,A102,Board of Education,4,,Over Votes,0,0,0,0
+Crittenden,A102,CITY COUNCIL City of Marion,,,"Bobby BELT ",108,57,46,5
+Crittenden,A102,CITY COUNCIL City of Marion,,,"Wanda OLSON ",87,41,42,4
+Crittenden,A102,CITY COUNCIL City of Marion,,,"Dwight SHERER ",66,29,35,2
+Crittenden,A102,CITY COUNCIL City of Marion,,,"Taylor DAVIS ",75,35,35,5
+Crittenden,A102,CITY COUNCIL City of Marion,,,"Randy DUNN ",90,41,45,4
+Crittenden,A102,CITY COUNCIL City of Marion,,,Write In Total,46,27,18,1
+Crittenden,A102,CITY COUNCIL City of Marion,,,Total Votes,472,230,221,21
+Crittenden,A102,CITY COUNCIL City of Marion,,,Under Votes,637,258,328,51
+Crittenden,A102,CITY COUNCIL City of Marion,,,Over Votes,0,0,0,0
+Crittenden,A102,QUESTION-MARION CANNABIS,,,YES,108,39,63,6
+Crittenden,A102,QUESTION-MARION CANNABIS,,,NO,71,40,26,5
+Crittenden,A102,QUESTION-MARION CANNABIS,,,Total Votes,179,79,89,11
+Crittenden,A102,QUESTION-MARION CANNABIS,,,Under Votes,7,3,3,1
+Crittenden,A102,QUESTION-MARION CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,104,42,55,7
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,66,31,31,4
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,170,73,86,11
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,16,9,6,1
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,64,32,27,5
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,111,43,61,7
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,175,75,88,12
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,7,4,0
+Crittenden,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,A102,QUESTION-CRITTENDEN CANNABIS,,,YES,107,40,62,5
+Crittenden,A102,QUESTION-CRITTENDEN CANNABIS,,,NO,72,39,28,5
+Crittenden,A102,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,179,79,90,10
+Crittenden,A102,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,7,3,2,2
+Crittenden,A102,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,B101,STRAIGHT PARTY,,REP,Republican Party,310,108,192,10
+Crittenden,B101,STRAIGHT PARTY,,DEM,Democratic Party,40,17,15,8
+Crittenden,B101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Crittenden,B101,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,4,0
+Crittenden,B101,STRAIGHT PARTY,,,Total Votes,357,125,214,18
+Crittenden,B101,STRAIGHT PARTY,,,Under Votes,416,117,289,10
+Crittenden,B101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Crittenden,B101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,B101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,B101,President,,REP,Donald J. TRUMP / JD VANCE,672,202,452,18
+Crittenden,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,34,44,9
+Crittenden,B101,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Crittenden,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,4,2,0
+Crittenden,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Crittenden,B101,President,,,Write In Total,0,0,0,0
+Crittenden,B101,President,,,Total Votes,769,240,502,27
+Crittenden,B101,President,,,Under Votes,4,1,2,1
+Crittenden,B101,President,,,Over Votes,0,0,0,0
+Crittenden,B101,U.S. House,1,REP,James R. COMER,679,209,454,16
+Crittenden,B101,U.S. House,1,DEM,Erin MARSHALL,86,32,45,9
+Crittenden,B101,U.S. House,1,,Total Votes,765,241,499,25
+Crittenden,B101,U.S. House,1,,Under Votes,9,1,5,3
+Crittenden,B101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,B101,State Senate,1,REP,Jason G. HOWELL,664,205,443,16
+Crittenden,B101,State Senate,1,,Total Votes,664,205,443,16
+Crittenden,B101,State Senate,1,,Under Votes,107,37,58,12
+Crittenden,B101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,B101,State House,12,REP,Jim GOOCH JR.,656,202,438,16
+Crittenden,B101,State House,12,DEM,Alton M. AYER,92,30,53,9
+Crittenden,B101,State House,12,,Total Votes,748,232,491,25
+Crittenden,B101,State House,12,,Under Votes,26,10,13,3
+Crittenden,B101,State House,12,,Over Votes,0,0,0,0
+Crittenden,B101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,434,123,295,16
+Crittenden,B101,Commonwealth's Attorney,5,,Total Votes,434,123,295,16
+Crittenden,B101,Commonwealth's Attorney,5,,Under Votes,329,117,200,12
+Crittenden,B101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,B101,Circuit Clerk,,REP,Melissa Dawn GUILL,675,213,443,19
+Crittenden,B101,Circuit Clerk,,,Total Votes,675,213,443,19
+Crittenden,B101,Circuit Clerk,,,Under Votes,96,29,58,9
+Crittenden,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,B101,COUNTY SURVEYOR,,,Under Votes,748,235,486,27
+Crittenden,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",299,74,217,8
+Crittenden,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",187,57,124,6
+Crittenden,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,486,131,341,14
+Crittenden,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,287,110,163,14
+Crittenden,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",454,147,296,11
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",235,74,154,7
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",286,94,183,9
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,4,2,1,1
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,979,317,634,28
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2104,648,1373,83
+Crittenden,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,502,167,322,13
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,223,64,149,10
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,725,231,471,23
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,47,11,31,5
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,231,82,143,6
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,511,152,343,16
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,742,234,486,22
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,8,18,6
+Crittenden,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,B101,QUESTION-CRITTENDEN CANNABIS,,,YES,385,121,246,18
+Crittenden,B101,QUESTION-CRITTENDEN CANNABIS,,,NO,358,112,239,7
+Crittenden,B101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,743,233,485,25
+Crittenden,B101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,30,9,18,3
+Crittenden,B101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,1,0,1,0
+Crittenden,C101,STRAIGHT PARTY,,REP,Republican Party,167,83,73,11
+Crittenden,C101,STRAIGHT PARTY,,DEM,Democratic Party,16,7,9,0
+Crittenden,C101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Crittenden,C101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Crittenden,C101,STRAIGHT PARTY,,,Total Votes,186,90,85,11
+Crittenden,C101,STRAIGHT PARTY,,,Under Votes,217,101,106,10
+Crittenden,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,C101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,C101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,C101,President,,REP,Donald J. TRUMP / JD VANCE,345,161,167,17
+Crittenden,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,26,21,3
+Crittenden,C101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Crittenden,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Crittenden,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Crittenden,C101,President,,,Write In Total,0,0,0,0
+Crittenden,C101,President,,,Total Votes,401,189,191,21
+Crittenden,C101,President,,,Under Votes,2,2,0,0
+Crittenden,C101,President,,,Over Votes,0,0,0,0
+Crittenden,C101,U.S. House,1,REP,James R. COMER,347,164,165,18
+Crittenden,C101,U.S. House,1,DEM,Erin MARSHALL,50,23,24,3
+Crittenden,C101,U.S. House,1,,Total Votes,397,187,189,21
+Crittenden,C101,U.S. House,1,,Under Votes,6,4,2,0
+Crittenden,C101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,C101,State Senate,1,REP,Jason G. HOWELL,351,161,169,21
+Crittenden,C101,State Senate,1,,Total Votes,351,161,169,21
+Crittenden,C101,State Senate,1,,Under Votes,50,30,20,0
+Crittenden,C101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,C101,State House,12,REP,Jim GOOCH JR.,339,160,162,17
+Crittenden,C101,State House,12,DEM,Alton M. AYER,48,21,23,4
+Crittenden,C101,State House,12,,Total Votes,387,181,185,21
+Crittenden,C101,State House,12,,Under Votes,16,10,6,0
+Crittenden,C101,State House,12,,Over Votes,0,0,0,0
+Crittenden,C101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,239,99,130,10
+Crittenden,C101,Commonwealth's Attorney,5,,Total Votes,239,99,130,10
+Crittenden,C101,Commonwealth's Attorney,5,,Under Votes,157,89,57,11
+Crittenden,C101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,C101,Circuit Clerk,,REP,Melissa Dawn GUILL,360,166,173,21
+Crittenden,C101,Circuit Clerk,,,Total Votes,360,166,173,21
+Crittenden,C101,Circuit Clerk,,,Under Votes,43,25,18,0
+Crittenden,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,C101,COUNTY SURVEYOR,,,Under Votes,393,189,184,20
+Crittenden,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",144,59,79,6
+Crittenden,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",100,48,47,5
+Crittenden,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,244,107,126,11
+Crittenden,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,157,83,64,10
+Crittenden,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",244,107,123,14
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",134,64,64,6
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",154,74,74,6
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,532,245,261,26
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1075,519,499,57
+Crittenden,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,C101,Board of Education,1,,Bill Jay ASBRIDGE,276,122,139,15
+Crittenden,C101,Board of Education,1,,Total Votes,276,122,139,15
+Crittenden,C101,Board of Education,1,,Under Votes,124,69,49,6
+Crittenden,C101,Board of Education,1,,Over Votes,0,0,0,0
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",245,124,107,14
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",126,50,69,7
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,371,174,176,21
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,17,15,0
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,113,48,55,10
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,265,127,128,10
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,378,175,183,20
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,16,8,1
+Crittenden,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,C101,QUESTION-CRITTENDEN CANNABIS,,,YES,188,66,110,12
+Crittenden,C101,QUESTION-CRITTENDEN CANNABIS,,,NO,196,113,74,9
+Crittenden,C101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,384,179,184,21
+Crittenden,C101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,19,12,7,0
+Crittenden,C101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,C102,STRAIGHT PARTY,,REP,Republican Party,105,41,60,4
+Crittenden,C102,STRAIGHT PARTY,,DEM,Democratic Party,25,11,14,0
+Crittenden,C102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Crittenden,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Crittenden,C102,STRAIGHT PARTY,,,Total Votes,132,53,75,4
+Crittenden,C102,STRAIGHT PARTY,,,Under Votes,145,53,83,9
+Crittenden,C102,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Crittenden,C102,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,C102,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,C102,President,,REP,Donald J. TRUMP / JD VANCE,214,80,127,7
+Crittenden,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,51,23,23,5
+Crittenden,C102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,2,1
+Crittenden,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,3,0
+Crittenden,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Crittenden,C102,President,,,Write In Total,0,0,0,0
+Crittenden,C102,President,,,Total Votes,274,106,155,13
+Crittenden,C102,President,,,Under Votes,3,0,3,0
+Crittenden,C102,President,,,Over Votes,1,1,0,0
+Crittenden,C102,U.S. House,1,REP,James R. COMER,219,85,125,9
+Crittenden,C102,U.S. House,1,DEM,Erin MARSHALL,48,19,25,4
+Crittenden,C102,U.S. House,1,,Total Votes,267,104,150,13
+Crittenden,C102,U.S. House,1,,Under Votes,9,2,7,0
+Crittenden,C102,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,C102,State Senate,1,REP,Jason G. HOWELL,230,86,133,11
+Crittenden,C102,State Senate,1,,Total Votes,230,86,133,11
+Crittenden,C102,State Senate,1,,Under Votes,45,21,22,2
+Crittenden,C102,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,C102,State House,12,REP,Jim GOOCH JR.,215,85,121,9
+Crittenden,C102,State House,12,DEM,Alton M. AYER,50,18,28,4
+Crittenden,C102,State House,12,,Total Votes,265,103,149,13
+Crittenden,C102,State House,12,,Under Votes,12,4,8,0
+Crittenden,C102,State House,12,,Over Votes,0,0,0,0
+Crittenden,C102,Commonwealth's Attorney,5,DEM,Zac GREENWELL,180,68,102,10
+Crittenden,C102,Commonwealth's Attorney,5,,Total Votes,180,68,102,10
+Crittenden,C102,Commonwealth's Attorney,5,,Under Votes,97,39,55,3
+Crittenden,C102,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,C102,Circuit Clerk,,REP,Melissa Dawn GUILL,245,94,138,13
+Crittenden,C102,Circuit Clerk,,,Total Votes,245,94,138,13
+Crittenden,C102,Circuit Clerk,,,Under Votes,33,13,20,0
+Crittenden,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,C102,COUNTY SURVEYOR,,,Under Votes,271,104,154,13
+Crittenden,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",128,52,71,5
+Crittenden,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",62,22,38,2
+Crittenden,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,190,74,109,7
+Crittenden,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,87,33,48,6
+Crittenden,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",171,70,90,11
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",120,49,61,10
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",127,47,71,9
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,1,0
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,419,166,223,30
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,690,260,408,22
+Crittenden,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,C102,CITY COUNCIL City of Marion,,,"Bobby BELT ",172,72,89,11
+Crittenden,C102,CITY COUNCIL City of Marion,,,"Wanda OLSON ",157,63,82,12
+Crittenden,C102,CITY COUNCIL City of Marion,,,"Dwight SHERER ",160,66,83,11
+Crittenden,C102,CITY COUNCIL City of Marion,,,"Taylor DAVIS ",137,60,67,10
+Crittenden,C102,CITY COUNCIL City of Marion,,,"Randy DUNN ",175,73,90,12
+Crittenden,C102,CITY COUNCIL City of Marion,,,Write In Total,81,36,44,1
+Crittenden,C102,CITY COUNCIL City of Marion,,,Total Votes,882,370,455,57
+Crittenden,C102,CITY COUNCIL City of Marion,,,Under Votes,775,264,490,21
+Crittenden,C102,CITY COUNCIL City of Marion,,,Over Votes,0,0,0,0
+Crittenden,C102,QUESTION-MARION CANNABIS,,,"YES ",162,58,100,4
+Crittenden,C102,QUESTION-MARION CANNABIS,,,"NO ",103,47,50,6
+Crittenden,C102,QUESTION-MARION CANNABIS,,,Total Votes,265,105,150,10
+Crittenden,C102,QUESTION-MARION CANNABIS,,,Under Votes,13,2,8,3
+Crittenden,C102,QUESTION-MARION CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,180,76,98,6
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,76,25,47,4
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,256,101,145,10
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,21,6,12,3
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,82,28,50,4
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,177,72,98,7
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,259,100,148,11
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,7,10,2
+Crittenden,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,C102,QUESTION-CRITTENDEN CANNABIS,,,YES,162,59,99,4
+Crittenden,C102,QUESTION-CRITTENDEN CANNABIS,,,NO,97,44,47,6
+Crittenden,C102,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,259,103,146,10
+Crittenden,C102,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,18,4,11,3
+Crittenden,C102,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,1,0,1,0
+Crittenden,D101,STRAIGHT PARTY,,REP,Republican Party,68,36,30,2
+Crittenden,D101,STRAIGHT PARTY,,DEM,Democratic Party,13,12,1,0
+Crittenden,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Crittenden,D101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Crittenden,D101,STRAIGHT PARTY,,,Total Votes,82,48,32,2
+Crittenden,D101,STRAIGHT PARTY,,,Under Votes,89,44,42,3
+Crittenden,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,D101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,D101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,D101,President,,REP,Donald J. TRUMP / JD VANCE,135,64,68,3
+Crittenden,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,35,27,6,2
+Crittenden,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Crittenden,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Crittenden,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Crittenden,D101,President,,,Write In Total,0,0,0,0
+Crittenden,D101,President,,,Total Votes,170,91,74,5
+Crittenden,D101,President,,,Under Votes,1,1,0,0
+Crittenden,D101,President,,,Over Votes,0,0,0,0
+Crittenden,D101,U.S. House,1,REP,James R. COMER,139,69,67,3
+Crittenden,D101,U.S. House,1,DEM,Erin MARSHALL,31,22,7,2
+Crittenden,D101,U.S. House,1,,Total Votes,170,91,74,5
+Crittenden,D101,U.S. House,1,,Under Votes,1,1,0,0
+Crittenden,D101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,D101,State Senate,1,REP,Jason G. HOWELL,138,67,68,3
+Crittenden,D101,State Senate,1,,Total Votes,138,67,68,3
+Crittenden,D101,State Senate,1,,Under Votes,32,24,6,2
+Crittenden,D101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,D101,State House,12,REP,Jim GOOCH JR.,134,66,65,3
+Crittenden,D101,State House,12,DEM,Alton M. AYER,31,22,7,2
+Crittenden,D101,State House,12,,Total Votes,165,88,72,5
+Crittenden,D101,State House,12,,Under Votes,6,4,2,0
+Crittenden,D101,State House,12,,Over Votes,0,0,0,0
+Crittenden,D101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,96,52,42,2
+Crittenden,D101,Commonwealth's Attorney,5,,Total Votes,96,52,42,2
+Crittenden,D101,Commonwealth's Attorney,5,,Under Votes,70,40,27,3
+Crittenden,D101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,D101,Circuit Clerk,,REP,Melissa Dawn GUILL,149,74,71,4
+Crittenden,D101,Circuit Clerk,,,Total Votes,149,74,71,4
+Crittenden,D101,Circuit Clerk,,,Under Votes,21,17,3,1
+Crittenden,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,D101,COUNTY SURVEYOR,,,Under Votes,165,90,70,5
+Crittenden,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,D101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",59,29,29,1
+Crittenden,D101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",39,20,19,0
+Crittenden,D101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,98,49,48,1
+Crittenden,D101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,72,43,25,4
+Crittenden,D101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",96,55,40,1
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",41,21,19,1
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",45,25,19,1
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,182,101,78,3
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,499,266,216,17
+Crittenden,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,D101,Board of Education,3,,Christopher E. COOK,108,56,50,2
+Crittenden,D101,Board of Education,3,,Total Votes,108,56,50,2
+Crittenden,D101,Board of Education,3,,Under Votes,62,36,23,3
+Crittenden,D101,Board of Education,3,,Over Votes,0,0,0,0
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",97,53,41,3
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",59,30,29,0
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,156,83,70,3
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,14,8,4,2
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,58,25,31,2
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,104,62,40,2
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,162,87,71,4
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,5,3,1
+Crittenden,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,D101,QUESTION-CRITTENDEN CANNABIS,,,YES,86,42,40,4
+Crittenden,D101,QUESTION-CRITTENDEN CANNABIS,,,NO,75,44,31,0
+Crittenden,D101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,161,86,71,4
+Crittenden,D101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,10,6,3,1
+Crittenden,D101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,D102,STRAIGHT PARTY,,REP,Republican Party,103,60,42,1
+Crittenden,D102,STRAIGHT PARTY,,DEM,Democratic Party,31,14,16,1
+Crittenden,D102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Crittenden,D102,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,2,1
+Crittenden,D102,STRAIGHT PARTY,,,Total Votes,137,74,60,3
+Crittenden,D102,STRAIGHT PARTY,,,Under Votes,154,71,80,3
+Crittenden,D102,STRAIGHT PARTY,,,Over Votes,1,0,0,1
+Crittenden,D102,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,D102,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,D102,President,,REP,Donald J. TRUMP / JD VANCE,231,119,108,4
+Crittenden,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,51,23,25,3
+Crittenden,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Crittenden,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
+Crittenden,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Crittenden,D102,President,,,Write In Total,0,0,0,0
+Crittenden,D102,President,,,Total Votes,286,144,135,7
+Crittenden,D102,President,,,Under Votes,4,0,4,0
+Crittenden,D102,President,,,Over Votes,0,0,0,0
+Crittenden,D102,U.S. House,1,REP,James R. COMER,237,126,106,5
+Crittenden,D102,U.S. House,1,DEM,Erin MARSHALL,46,17,27,2
+Crittenden,D102,U.S. House,1,,Total Votes,283,143,133,7
+Crittenden,D102,U.S. House,1,,Under Votes,9,2,7,0
+Crittenden,D102,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,D102,State Senate,1,REP,Jason G. HOWELL,241,121,115,5
+Crittenden,D102,State Senate,1,,Total Votes,241,121,115,5
+Crittenden,D102,State Senate,1,,Under Votes,49,22,25,2
+Crittenden,D102,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,D102,State House,12,REP,Jim GOOCH JR.,233,123,105,5
+Crittenden,D102,State House,12,DEM,Alton M. AYER,47,19,26,2
+Crittenden,D102,State House,12,,Total Votes,280,142,131,7
+Crittenden,D102,State House,12,,Under Votes,12,3,9,0
+Crittenden,D102,State House,12,,Over Votes,0,0,0,0
+Crittenden,D102,Commonwealth's Attorney,5,DEM,Zac GREENWELL,209,92,111,6
+Crittenden,D102,Commonwealth's Attorney,5,,Total Votes,209,92,111,6
+Crittenden,D102,Commonwealth's Attorney,5,,Under Votes,81,52,28,1
+Crittenden,D102,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,D102,Circuit Clerk,,REP,Melissa Dawn GUILL,254,122,125,7
+Crittenden,D102,Circuit Clerk,,,Total Votes,254,122,125,7
+Crittenden,D102,Circuit Clerk,,,Under Votes,37,22,15,0
+Crittenden,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,D102,COUNTY SURVEYOR,,,Under Votes,279,140,132,7
+Crittenden,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,D102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",137,58,73,6
+Crittenden,D102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",67,32,34,1
+Crittenden,D102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,204,90,107,7
+Crittenden,D102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,87,54,33,0
+Crittenden,D102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",196,87,102,7
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",113,49,57,7
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",121,56,58,7
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,1,0
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,431,192,218,21
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,725,382,336,7
+Crittenden,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,D102,Board of Education,3,,Christopher E. COOK,219,100,112,7
+Crittenden,D102,Board of Education,3,,Total Votes,219,100,112,7
+Crittenden,D102,Board of Education,3,,Under Votes,70,43,27,0
+Crittenden,D102,Board of Education,3,,Over Votes,0,0,0,0
+Crittenden,D102,CITY COUNCIL City of Marion,,,"Bobby BELT ",193,94,92,7
+Crittenden,D102,CITY COUNCIL City of Marion,,,"Wanda OLSON ",156,73,76,7
+Crittenden,D102,CITY COUNCIL City of Marion,,,"Dwight SHERER ",146,74,68,4
+Crittenden,D102,CITY COUNCIL City of Marion,,,"Taylor DAVIS ",143,66,72,5
+Crittenden,D102,CITY COUNCIL City of Marion,,,"Randy DUNN ",165,80,78,7
+Crittenden,D102,CITY COUNCIL City of Marion,,,Write In Total,108,55,52,1
+Crittenden,D102,CITY COUNCIL City of Marion,,,Total Votes,911,442,438,31
+Crittenden,D102,CITY COUNCIL City of Marion,,,Under Votes,829,418,400,11
+Crittenden,D102,CITY COUNCIL City of Marion,,,Over Votes,1,1,0,0
+Crittenden,D102,QUESTION-MARION CANNABIS,,,YES,170,67,100,3
+Crittenden,D102,QUESTION-MARION CANNABIS,,,NO,112,72,36,4
+Crittenden,D102,QUESTION-MARION CANNABIS,,,Total Votes,282,139,136,7
+Crittenden,D102,QUESTION-MARION CANNABIS,,,Under Votes,10,6,4,0
+Crittenden,D102,QUESTION-MARION CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,174,84,86,4
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,100,48,49,3
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,274,132,135,7
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,16,12,4,0
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,99,50,47,2
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,180,89,86,5
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,279,139,133,7
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,6,5,0
+Crittenden,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Crittenden,D102,QUESTION-CRITTENDEN CANNABIS,,,YES,165,64,98,3
+Crittenden,D102,QUESTION-CRITTENDEN CANNABIS,,,NO,114,73,37,4
+Crittenden,D102,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,279,137,135,7
+Crittenden,D102,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,12,8,4,0
+Crittenden,D102,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,1,0,1,0
+Crittenden,E101,STRAIGHT PARTY,,REP,Republican Party,318,134,180,4
+Crittenden,E101,STRAIGHT PARTY,,DEM,Democratic Party,56,28,28,0
+Crittenden,E101,STRAIGHT PARTY,,KY,Kentucky Party,6,1,4,1
+Crittenden,E101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Crittenden,E101,STRAIGHT PARTY,,,Total Votes,382,163,214,5
+Crittenden,E101,STRAIGHT PARTY,,,Under Votes,376,109,247,20
+Crittenden,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,E101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,E101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,E101,President,,REP,Donald J. TRUMP / JD VANCE,626,217,391,18
+Crittenden,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,120,50,64,6
+Crittenden,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Crittenden,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,4,1
+Crittenden,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Crittenden,E101,President,,,Write In Total,0,0,0,0
+Crittenden,E101,President,,,Total Votes,754,270,459,25
+Crittenden,E101,President,,,Under Votes,4,2,2,0
+Crittenden,E101,President,,,Over Votes,0,0,0,0
+Crittenden,E101,U.S. House,1,REP,James R. COMER,637,223,394,20
+Crittenden,E101,U.S. House,1,DEM,Erin MARSHALL,113,48,61,4
+Crittenden,E101,U.S. House,1,,Total Votes,750,271,455,24
+Crittenden,E101,U.S. House,1,,Under Votes,8,1,6,1
+Crittenden,E101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,E101,State Senate,1,REP,Jason G. HOWELL,649,227,398,24
+Crittenden,E101,State Senate,1,,Total Votes,649,227,398,24
+Crittenden,E101,State Senate,1,,Under Votes,105,44,60,1
+Crittenden,E101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,E101,State House,12,REP,Jim GOOCH JR.,615,216,378,21
+Crittenden,E101,State House,12,DEM,Alton M. AYER,122,49,70,3
+Crittenden,E101,State House,12,,Total Votes,737,265,448,24
+Crittenden,E101,State House,12,,Under Votes,21,7,13,1
+Crittenden,E101,State House,12,,Over Votes,0,0,0,0
+Crittenden,E101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,453,144,297,12
+Crittenden,E101,Commonwealth's Attorney,5,,Total Votes,453,144,297,12
+Crittenden,E101,Commonwealth's Attorney,5,,Under Votes,292,125,154,13
+Crittenden,E101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,E101,Circuit Clerk,,REP,Melissa Dawn GUILL,663,233,405,25
+Crittenden,E101,Circuit Clerk,,,Total Votes,663,233,405,25
+Crittenden,E101,Circuit Clerk,,,Under Votes,91,38,53,0
+Crittenden,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,E101,COUNTY SURVEYOR,,,Under Votes,725,265,437,23
+Crittenden,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,E101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",283,94,178,11
+Crittenden,E101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",173,63,101,9
+Crittenden,E101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,456,157,279,20
+Crittenden,E101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,298,115,178,5
+Crittenden,E101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",455,150,289,16
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",239,76,153,10
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",238,83,140,15
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,5,4,1,0
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,937,313,583,41
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2087,774,1255,58
+Crittenden,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,E101,Board of Education,1,,Bill Jay ASBRIDGE,537,168,348,21
+Crittenden,E101,Board of Education,1,,Total Votes,537,168,348,21
+Crittenden,E101,Board of Education,1,,Under Votes,219,104,111,4
+Crittenden,E101,Board of Education,1,,Over Votes,0,0,0,0
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",461,152,291,18
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",241,96,138,7
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,702,248,429,25
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,55,23,32,0
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,216,70,135,11
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,503,181,308,14
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,719,251,443,25
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,21,18,0
+Crittenden,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,E101,QUESTION-CRITTENDEN CANNABIS,,,YES,391,139,235,17
+Crittenden,E101,QUESTION-CRITTENDEN CANNABIS,,,NO,325,115,202,8
+Crittenden,E101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,716,254,437,25
+Crittenden,E101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,41,18,23,0
+Crittenden,E101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,1,0,1,0
+Crittenden,F101,STRAIGHT PARTY,,REP,Republican Party,202,70,128,4
+Crittenden,F101,STRAIGHT PARTY,,DEM,Democratic Party,27,8,14,5
+Crittenden,F101,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Crittenden,F101,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,2,1
+Crittenden,F101,STRAIGHT PARTY,,,Total Votes,235,79,146,10
+Crittenden,F101,STRAIGHT PARTY,,,Under Votes,235,68,160,7
+Crittenden,F101,STRAIGHT PARTY,,,Over Votes,4,2,1,1
+Crittenden,F101,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,F101,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,F101,President,,REP,Donald J. TRUMP / JD VANCE,403,129,261,13
+Crittenden,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,58,16,37,5
+Crittenden,F101,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Crittenden,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Crittenden,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Crittenden,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Crittenden,F101,President,,,Write In Total,0,0,0,0
+Crittenden,F101,President,,,Total Votes,467,147,302,18
+Crittenden,F101,President,,,Under Votes,3,1,2,0
+Crittenden,F101,President,,,Over Votes,2,1,1,0
+Crittenden,F101,U.S. House,1,REP,James R. COMER,409,129,269,11
+Crittenden,F101,U.S. House,1,DEM,Erin MARSHALL,59,18,34,7
+Crittenden,F101,U.S. House,1,,Total Votes,468,147,303,18
+Crittenden,F101,U.S. House,1,,Under Votes,6,2,4,0
+Crittenden,F101,U.S. House,1,,Over Votes,0,0,0,0
+Crittenden,F101,State Senate,1,REP,Jason G. HOWELL,394,127,257,10
+Crittenden,F101,State Senate,1,,Total Votes,394,127,257,10
+Crittenden,F101,State Senate,1,,Under Votes,78,21,49,8
+Crittenden,F101,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,F101,State House,12,REP,Jim GOOCH JR.,405,127,265,13
+Crittenden,F101,State House,12,DEM,Alton M. AYER,53,18,30,5
+Crittenden,F101,State House,12,,Total Votes,458,145,295,18
+Crittenden,F101,State House,12,,Under Votes,16,4,12,0
+Crittenden,F101,State House,12,,Over Votes,0,0,0,0
+Crittenden,F101,Commonwealth's Attorney,5,DEM,Zac GREENWELL,261,75,172,14
+Crittenden,F101,Commonwealth's Attorney,5,,Total Votes,261,75,172,14
+Crittenden,F101,Commonwealth's Attorney,5,,Under Votes,203,72,127,4
+Crittenden,F101,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,F101,Circuit Clerk,,REP,Melissa Dawn GUILL,409,129,268,12
+Crittenden,F101,Circuit Clerk,,,Total Votes,409,129,268,12
+Crittenden,F101,Circuit Clerk,,,Under Votes,61,18,37,6
+Crittenden,F101,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,F101,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,F101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,F101,COUNTY SURVEYOR,,,Under Votes,459,144,299,16
+Crittenden,F101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,F101,CONSTABLE,,,,0,0,0,0
+Crittenden,F101,CONSTABLE,,,Total Votes,0,0,0,0
+Crittenden,F101,CONSTABLE,,,Under Votes,457,143,299,15
+Crittenden,F101,CONSTABLE,,,Over Votes,0,0,0,0
+Crittenden,F101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",176,52,117,7
+Crittenden,F101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",102,34,67,1
+Crittenden,F101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,278,86,184,8
+Crittenden,F101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,192,61,122,9
+Crittenden,F101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,1,1,0,0
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",280,93,176,11
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",151,46,99,6
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",157,57,91,9
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,588,196,366,26
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1295,400,849,46
+Crittenden,F101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",290,94,183,13
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",158,44,111,3
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,448,138,294,16
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,24,11,11,2
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 2,,,YES,149,62,84,3
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 2,,,NO,306,81,212,13
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,455,143,296,16
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,6,10,2
+Crittenden,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Crittenden,F101,QUESTION-CRITTENDEN CANNABIS,,,YES,247,68,170,9
+Crittenden,F101,QUESTION-CRITTENDEN CANNABIS,,,NO,210,77,127,6
+Crittenden,F101,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,457,145,297,15
+Crittenden,F101,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,17,4,10,3
+Crittenden,F101,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,F102,STRAIGHT PARTY,,REP,Republican Party,107,48,52,7
+Crittenden,F102,STRAIGHT PARTY,,DEM,Democratic Party,33,13,19,1
+Crittenden,F102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Crittenden,F102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Crittenden,F102,STRAIGHT PARTY,,,Total Votes,141,61,72,8
+Crittenden,F102,STRAIGHT PARTY,,,Under Votes,158,64,86,8
+Crittenden,F102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Crittenden,F102,STRAIGHT PARTY,,,Rejected write-in votes:,0,0,0,0
+Crittenden,F102,STRAIGHT PARTY,,,Unresolved write-in votes:,0,0,0,0
+Crittenden,F102,President,,REP,Donald J. TRUMP / JD VANCE,231,102,114,15
+Crittenden,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,66,23,42,1
+Crittenden,F102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Crittenden,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Crittenden,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Crittenden,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Crittenden,F102,President,,,Write In Total,0,0,0,0
+Crittenden,F102,President,,,Total Votes,298,125,157,16
+Crittenden,F102,President,,,Under Votes,0,0,0,0
+Crittenden,F102,President,,,Over Votes,0,0,0,0
+Crittenden,F102,U.S. House,1,REP,James R. COMER,233,104,114,15
+Crittenden,F102,U.S. House,1,DEM,Erin MARSHALL,58,18,39,1
+Crittenden,F102,U.S. House,1,,Total Votes,291,122,153,16
+Crittenden,F102,U.S. House,1,,Under Votes,7,2,5,0
+Crittenden,F102,U.S. House,1,,Over Votes,1,1,0,0
+Crittenden,F102,State Senate,1,REP,Jason G. HOWELL,239,103,123,13
+Crittenden,F102,State Senate,1,,Total Votes,239,103,123,13
+Crittenden,F102,State Senate,1,,Under Votes,56,22,31,3
+Crittenden,F102,State Senate,1,,Over Votes,0,0,0,0
+Crittenden,F102,State House,12,REP,Jim GOOCH JR.,222,103,108,11
+Crittenden,F102,State House,12,DEM,Alton M. AYER,60,18,40,2
+Crittenden,F102,State House,12,,Total Votes,282,121,148,13
+Crittenden,F102,State House,12,,Under Votes,17,4,10,3
+Crittenden,F102,State House,12,,Over Votes,0,0,0,0
+Crittenden,F102,Commonwealth's Attorney,5,DEM,Zac GREENWELL,199,62,129,8
+Crittenden,F102,Commonwealth's Attorney,5,,Total Votes,199,62,129,8
+Crittenden,F102,Commonwealth's Attorney,5,,Under Votes,99,63,28,8
+Crittenden,F102,Commonwealth's Attorney,5,,Over Votes,0,0,0,0
+Crittenden,F102,Circuit Clerk,,REP,Melissa Dawn GUILL,260,108,137,15
+Crittenden,F102,Circuit Clerk,,,Total Votes,260,108,137,15
+Crittenden,F102,Circuit Clerk,,,Under Votes,38,17,20,1
+Crittenden,F102,Circuit Clerk,,,Over Votes,0,0,0,0
+Crittenden,F102,COUNTY SURVEYOR,,,,0,0,0,0
+Crittenden,F102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Crittenden,F102,COUNTY SURVEYOR,,,Under Votes,282,121,146,15
+Crittenden,F102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Crittenden,F102,CONSTABLE,,,,0,0,0,0
+Crittenden,F102,CONSTABLE,,,Total Votes,0,0,0,0
+Crittenden,F102,CONSTABLE,,,Under Votes,286,123,147,16
+Crittenden,F102,CONSTABLE,,,Over Votes,0,0,0,0
+Crittenden,F102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",123,44,75,4
+Crittenden,F102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",68,27,38,3
+Crittenden,F102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,191,71,113,7
+Crittenden,F102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,108,54,45,9
+Crittenden,F102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Larry DUVALL ",173,68,98,7
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Tyler D. GUESS ",122,42,75,5
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Karen MADDUX ",131,51,74,6
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,3,1,2,0
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,429,162,249,18
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,763,337,380,46
+Crittenden,F102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Crittenden,F102,CITY COUNCIL City of Marion,,,"Bobby BELT ",184,74,103,7
+Crittenden,F102,CITY COUNCIL City of Marion,,,"Wanda OLSON ",149,59,81,9
+Crittenden,F102,CITY COUNCIL City of Marion,,,"Dwight SHERER ",154,62,84,8
+Crittenden,F102,CITY COUNCIL City of Marion,,,"Taylor DAVIS ",148,57,86,5
+Crittenden,F102,CITY COUNCIL City of Marion,,,"Randy DUNN ",167,70,91,6
+Crittenden,F102,CITY COUNCIL City of Marion,,,Write In Total,88,34,54,0
+Crittenden,F102,CITY COUNCIL City of Marion,,,Total Votes,890,356,499,35
+Crittenden,F102,CITY COUNCIL City of Marion,,,Under Votes,881,384,436,61
+Crittenden,F102,CITY COUNCIL City of Marion,,,Over Votes,1,0,1,0
+Crittenden,F102,QUESTION-MARION CANNABIS,,,"YES ",183,62,110,11
+Crittenden,F102,QUESTION-MARION CANNABIS,,,"NO ",99,55,43,1
+Crittenden,F102,QUESTION-MARION CANNABIS,,,Total Votes,282,117,153,12
+Crittenden,F102,QUESTION-MARION CANNABIS,,,Under Votes,17,8,5,4
+Crittenden,F102,QUESTION-MARION CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 1,,,YES,188,81,99,8
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 1,,,NO,83,33,48,2
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,271,114,147,10
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,11,10,6
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 2,,,YES,85,39,38,8
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 2,,,NO,192,73,115,4
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,277,112,153,12
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,13,5,4
+Crittenden,F102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,YES,180,58,111,11
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,NO,104,61,42,1
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,Total Votes,284,119,153,12
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,Under Votes,15,6,5,4
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,Over Votes,0,0,0,0
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,Rejected write-in votes:,0,0,0,0
+Crittenden,F102,QUESTION-CRITTENDEN CANNABIS,,,Unresolved write-in votes:,0,0,0,0
