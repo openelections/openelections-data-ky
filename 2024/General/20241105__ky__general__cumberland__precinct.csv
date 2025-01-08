@@ -1,0 +1,614 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Cumberland,A101,STRAIGHT PARTY,,REP,Republican Party,131,61,53,17
+Cumberland,A101,STRAIGHT PARTY,,DEM,Democratic Party,25,11,14,0
+Cumberland,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Cumberland,A101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Cumberland,A101,STRAIGHT PARTY,,,Total Votes,157,72,68,17
+Cumberland,A101,STRAIGHT PARTY,,,Under Votes,172,85,77,10
+Cumberland,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,A101,President,,REP,Donald J. TRUMP / JD VANCE,259,130,105,24
+Cumberland,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,59,24,33,2
+Cumberland,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Cumberland,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Cumberland,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Cumberland,A101,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,A101,President,,,Write In Total,0,0,0,0
+Cumberland,A101,President,,,Total Votes,321,154,141,26
+Cumberland,A101,President,,,Under Votes,8,3,4,1
+Cumberland,A101,President,,,Over Votes,0,0,0,0
+Cumberland,A101,U.S. House,1,REP,James R. COMER,270,131,113,26
+Cumberland,A101,U.S. House,1,DEM,Erin MARSHALL,44,17,26,1
+Cumberland,A101,U.S. House,1,,Total Votes,314,148,139,27
+Cumberland,A101,U.S. House,1,,Under Votes,15,9,6,0
+Cumberland,A101,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,A101,State Senate,15,REP,Rick GIRDLER,223,99,98,26
+Cumberland,A101,State Senate,15,,Total Votes,223,99,98,26
+Cumberland,A101,State Senate,15,,Under Votes,106,58,47,1
+Cumberland,A101,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,A101,State House,21,REP,Amy NEIGHBORS,247,120,103,24
+Cumberland,A101,State House,21,DEM,Jeffery HUMBLE,68,30,35,3
+Cumberland,A101,State House,21,,Total Votes,315,150,138,27
+Cumberland,A101,State House,21,,Under Votes,12,7,5,0
+Cumberland,A101,State House,21,,Over Votes,2,0,2,0
+Cumberland,A101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,242,106,110,26
+Cumberland,A101,Commonwealth's Attorney,40,,Total Votes,242,106,110,26
+Cumberland,A101,Commonwealth's Attorney,40,,Under Votes,87,51,35,1
+Cumberland,A101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,A101,Circuit Clerk,,REP,Tracy Brewington DANIELS,264,121,118,25
+Cumberland,A101,Circuit Clerk,,,Total Votes,264,121,118,25
+Cumberland,A101,Circuit Clerk,,,Under Votes,65,36,27,2
+Cumberland,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,A101,COUNTY SURVEYOR,,,Under Votes,329,157,145,27
+Cumberland,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,A101,Board of Education,1,,Kristy F. WILLIAMS,220,100,105,15
+Cumberland,A101,Board of Education,1,,Total Votes,220,100,105,15
+Cumberland,A101,Board of Education,1,,Under Votes,109,57,40,12
+Cumberland,A101,Board of Education,1,,Over Votes,0,0,0,0
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Glen Allen MURPHY ",240,115,107,18
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Doug RADFORD ",184,91,73,20
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Trevor James OWSLEY ",171,79,77,15
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Josh POLSTON ",140,73,53,14
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Jamie ALLEN ",190,92,82,16
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Connie CRAVENS ",214,108,89,17
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,"Shawn RIDDLE ",139,73,53,13
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,Total Votes,1278,631,534,113
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,Under Votes,696,311,336,49
+Cumberland,A101,CITY COUNCIL City of Burkesville,,,Over Votes,0,0,0,0
+Cumberland,A101,QUESTION-BURKESVILLE CANNABIS,,,YES,158,66,84,8
+Cumberland,A101,QUESTION-BURKESVILLE CANNABIS,,,NO,122,65,42,15
+Cumberland,A101,QUESTION-BURKESVILLE CANNABIS,,,Total Votes,280,131,126,23
+Cumberland,A101,QUESTION-BURKESVILLE CANNABIS,,,Under Votes,49,26,19,4
+Cumberland,A101,QUESTION-BURKESVILLE CANNABIS,,,Over Votes,0,0,0,0
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,149,73,64,12
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,105,49,48,8
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,254,122,112,20
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,74,34,33,7
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,98,56,30,12
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,195,85,100,10
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,293,141,130,22
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,16,15,5
+Cumberland,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,A102,STRAIGHT PARTY,,REP,Republican Party,266,74,172,20
+Cumberland,A102,STRAIGHT PARTY,,DEM,Democratic Party,21,7,12,2
+Cumberland,A102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Cumberland,A102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Cumberland,A102,STRAIGHT PARTY,,,Total Votes,290,81,187,22
+Cumberland,A102,STRAIGHT PARTY,,,Under Votes,271,85,176,10
+Cumberland,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,A102,President,,REP,Donald J. TRUMP / JD VANCE,486,137,322,27
+Cumberland,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,67,26,36,5
+Cumberland,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Cumberland,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Cumberland,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Cumberland,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Cumberland,A102,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,A102,President,,,Write In Total,1,1,0,0
+Cumberland,A102,President,,,Total Votes,559,166,361,32
+Cumberland,A102,President,,,Under Votes,2,0,2,0
+Cumberland,A102,President,,,Over Votes,0,0,0,0
+Cumberland,A102,U.S. House,1,REP,James R. COMER,503,146,330,27
+Cumberland,A102,U.S. House,1,DEM,Erin MARSHALL,50,18,28,4
+Cumberland,A102,U.S. House,1,,Total Votes,553,164,358,31
+Cumberland,A102,U.S. House,1,,Under Votes,8,2,5,1
+Cumberland,A102,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,A102,State Senate,15,REP,Rick GIRDLER,445,126,294,25
+Cumberland,A102,State Senate,15,,Total Votes,445,126,294,25
+Cumberland,A102,State Senate,15,,Under Votes,116,40,69,7
+Cumberland,A102,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,A102,State House,21,REP,Amy NEIGHBORS,458,132,299,27
+Cumberland,A102,State House,21,DEM,Jeffery HUMBLE,83,30,48,5
+Cumberland,A102,State House,21,,Total Votes,541,162,347,32
+Cumberland,A102,State House,21,,Under Votes,20,4,16,0
+Cumberland,A102,State House,21,,Over Votes,0,0,0,0
+Cumberland,A102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,454,131,297,26
+Cumberland,A102,Commonwealth's Attorney,40,,Total Votes,454,131,297,26
+Cumberland,A102,Commonwealth's Attorney,40,,Under Votes,107,35,66,6
+Cumberland,A102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,A102,Circuit Clerk,,REP,Tracy Brewington DANIELS,468,135,305,28
+Cumberland,A102,Circuit Clerk,,,Total Votes,468,135,305,28
+Cumberland,A102,Circuit Clerk,,,Under Votes,93,31,58,4
+Cumberland,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,A102,COUNTY SURVEYOR,,,Under Votes,561,166,363,32
+Cumberland,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,A102,Board of Education,1,,Kristy F. WILLIAMS,352,95,239,18
+Cumberland,A102,Board of Education,1,,Total Votes,352,95,239,18
+Cumberland,A102,Board of Education,1,,Under Votes,209,71,124,14
+Cumberland,A102,Board of Education,1,,Over Votes,0,0,0,0
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",335,93,225,17
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",135,41,85,9
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,470,134,310,26
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,89,32,51,6
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",193,51,129,13
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",303,95,192,16
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,496,146,321,29
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,65,20,42,3
+Cumberland,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,B101,STRAIGHT PARTY,,REP,Republican Party,118,43,62,13
+Cumberland,B101,STRAIGHT PARTY,,DEM,Democratic Party,23,13,7,3
+Cumberland,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Cumberland,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Cumberland,B101,STRAIGHT PARTY,,,Total Votes,142,57,69,16
+Cumberland,B101,STRAIGHT PARTY,,,Under Votes,125,55,49,21
+Cumberland,B101,STRAIGHT PARTY,,,Over Votes,2,0,0,2
+Cumberland,B101,President,,REP,Donald J. TRUMP / JD VANCE,220,89,102,29
+Cumberland,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,42,22,11,9
+Cumberland,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
+Cumberland,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Cumberland,B101,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,B101,President,,,Write In Total,0,0,0,0
+Cumberland,B101,President,,,Total Votes,267,112,116,39
+Cumberland,B101,President,,,Under Votes,2,0,2,0
+Cumberland,B101,President,,,Over Votes,0,0,0,0
+Cumberland,B101,U.S. House,1,REP,James R. COMER,215,90,98,27
+Cumberland,B101,U.S. House,1,DEM,Erin MARSHALL,44,20,14,10
+Cumberland,B101,U.S. House,1,,Total Votes,259,110,112,37
+Cumberland,B101,U.S. House,1,,Under Votes,9,2,5,2
+Cumberland,B101,U.S. House,1,,Over Votes,1,0,1,0
+Cumberland,B101,State Senate,15,REP,Rick GIRDLER,207,80,100,27
+Cumberland,B101,State Senate,15,,Total Votes,207,80,100,27
+Cumberland,B101,State Senate,15,,Under Votes,62,32,18,12
+Cumberland,B101,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,B101,State House,21,REP,Amy NEIGHBORS,209,83,96,30
+Cumberland,B101,State House,21,DEM,Jeffery HUMBLE,48,26,16,6
+Cumberland,B101,State House,21,,Total Votes,257,109,112,36
+Cumberland,B101,State House,21,,Under Votes,12,3,6,3
+Cumberland,B101,State House,21,,Over Votes,0,0,0,0
+Cumberland,B101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,210,80,104,26
+Cumberland,B101,Commonwealth's Attorney,40,,Total Votes,210,80,104,26
+Cumberland,B101,Commonwealth's Attorney,40,,Under Votes,59,32,14,13
+Cumberland,B101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,B101,Circuit Clerk,,REP,Tracy Brewington DANIELS,228,87,110,31
+Cumberland,B101,Circuit Clerk,,,Total Votes,228,87,110,31
+Cumberland,B101,Circuit Clerk,,,Under Votes,41,25,8,8
+Cumberland,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,B101,COUNTY SURVEYOR,,,Under Votes,269,112,118,39
+Cumberland,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,B101,Board of Education,1,,Kristy F. WILLIAMS,40,12,22,6
+Cumberland,B101,Board of Education,1,,Total Votes,40,12,22,6
+Cumberland,B101,Board of Education,1,,Under Votes,30,10,12,8
+Cumberland,B101,Board of Education,1,,Over Votes,0,0,0,0
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Glen Allen MURPHY ",92,35,38,19
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Doug RADFORD ",78,33,28,17
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Trevor James OWSLEY ",75,21,30,24
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Josh POLSTON ",60,24,19,17
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Jamie ALLEN ",81,32,30,19
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Connie CRAVENS ",87,38,28,21
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,"Shawn RIDDLE ",45,15,18,12
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,Total Votes,518,198,191,129
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,Under Votes,460,168,241,51
+Cumberland,B101,CITY COUNCIL City of Burkesville,,,Over Votes,0,0,0,0
+Cumberland,B101,QUESTION-BURKESVILLE CANNABIS,,,YES,83,28,46,9
+Cumberland,B101,QUESTION-BURKESVILLE CANNABIS,,,NO,55,23,16,16
+Cumberland,B101,QUESTION-BURKESVILLE CANNABIS,,,Total Votes,138,51,62,25
+Cumberland,B101,QUESTION-BURKESVILLE CANNABIS,,,Under Votes,25,10,10,5
+Cumberland,B101,QUESTION-BURKESVILLE CANNABIS,,,Over Votes,0,0,0,0
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,143,59,72,12
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,79,34,26,19
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,222,93,98,31
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,18,19,8
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,97,37,51,9
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,127,57,52,18
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,224,94,103,27
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,18,15,11
+Cumberland,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
+Cumberland,B102,STRAIGHT PARTY,,REP,Republican Party,146,54,84,8
+Cumberland,B102,STRAIGHT PARTY,,DEM,Democratic Party,6,3,3,0
+Cumberland,B102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Cumberland,B102,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Cumberland,B102,STRAIGHT PARTY,,,Total Votes,156,58,90,8
+Cumberland,B102,STRAIGHT PARTY,,,Under Votes,87,36,47,4
+Cumberland,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,B102,President,,REP,Donald J. TRUMP / JD VANCE,217,84,123,10
+Cumberland,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,23,8,13,2
+Cumberland,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Cumberland,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Cumberland,B102,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,B102,President,,,Write In Total,0,0,0,0
+Cumberland,B102,President,,,Total Votes,242,93,137,12
+Cumberland,B102,President,,,Under Votes,1,1,0,0
+Cumberland,B102,President,,,Over Votes,0,0,0,0
+Cumberland,B102,U.S. House,1,REP,James R. COMER,220,86,124,10
+Cumberland,B102,U.S. House,1,DEM,Erin MARSHALL,18,7,9,2
+Cumberland,B102,U.S. House,1,,Total Votes,238,93,133,12
+Cumberland,B102,U.S. House,1,,Under Votes,5,1,4,0
+Cumberland,B102,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,B102,State Senate,15,REP,Rick GIRDLER,210,81,118,11
+Cumberland,B102,State Senate,15,,Total Votes,210,81,118,11
+Cumberland,B102,State Senate,15,,Under Votes,33,13,19,1
+Cumberland,B102,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,B102,State House,21,REP,Amy NEIGHBORS,214,82,122,10
+Cumberland,B102,State House,21,DEM,Jeffery HUMBLE,26,12,12,2
+Cumberland,B102,State House,21,,Total Votes,240,94,134,12
+Cumberland,B102,State House,21,,Under Votes,3,0,3,0
+Cumberland,B102,State House,21,,Over Votes,0,0,0,0
+Cumberland,B102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,214,84,119,11
+Cumberland,B102,Commonwealth's Attorney,40,,Total Votes,214,84,119,11
+Cumberland,B102,Commonwealth's Attorney,40,,Under Votes,29,10,18,1
+Cumberland,B102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,B102,Circuit Clerk,,REP,Tracy Brewington DANIELS,220,86,123,11
+Cumberland,B102,Circuit Clerk,,,Total Votes,220,86,123,11
+Cumberland,B102,Circuit Clerk,,,Under Votes,23,8,14,1
+Cumberland,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,B102,COUNTY SURVEYOR,,,Under Votes,243,94,137,12
+Cumberland,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,147,60,81,6
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,72,24,43,5
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,219,84,124,11
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,24,10,13,1
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,95,43,50,2
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,130,41,79,10
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,225,84,129,12
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,10,8,0
+Cumberland,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,B103,STRAIGHT PARTY,,REP,Republican Party,173,61,102,10
+Cumberland,B103,STRAIGHT PARTY,,DEM,Democratic Party,17,9,4,4
+Cumberland,B103,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Cumberland,B103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Cumberland,B103,STRAIGHT PARTY,,,Total Votes,191,71,106,14
+Cumberland,B103,STRAIGHT PARTY,,,Under Votes,147,69,68,10
+Cumberland,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,B103,President,,REP,Donald J. TRUMP / JD VANCE,299,122,160,17
+Cumberland,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,35,16,12,7
+Cumberland,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
+Cumberland,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Cumberland,B103,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,B103,President,,,Write In Total,0,0,0,0
+Cumberland,B103,President,,,Total Votes,338,140,174,24
+Cumberland,B103,President,,,Under Votes,0,0,0,0
+Cumberland,B103,President,,,Over Votes,0,0,0,0
+Cumberland,B103,U.S. House,1,REP,James R. COMER,299,117,164,18
+Cumberland,B103,U.S. House,1,DEM,Erin MARSHALL,33,20,7,6
+Cumberland,B103,U.S. House,1,,Total Votes,332,137,171,24
+Cumberland,B103,U.S. House,1,,Under Votes,6,3,3,0
+Cumberland,B103,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,B103,State Senate,15,REP,Rick GIRDLER,277,113,147,17
+Cumberland,B103,State Senate,15,,Total Votes,277,113,147,17
+Cumberland,B103,State Senate,15,,Under Votes,61,27,27,7
+Cumberland,B103,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,B103,State House,21,REP,Amy NEIGHBORS,273,112,145,16
+Cumberland,B103,State House,21,DEM,Jeffery HUMBLE,51,22,22,7
+Cumberland,B103,State House,21,,Total Votes,324,134,167,23
+Cumberland,B103,State House,21,,Under Votes,14,6,7,1
+Cumberland,B103,State House,21,,Over Votes,0,0,0,0
+Cumberland,B103,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,280,114,148,18
+Cumberland,B103,Commonwealth's Attorney,40,,Total Votes,280,114,148,18
+Cumberland,B103,Commonwealth's Attorney,40,,Under Votes,58,26,26,6
+Cumberland,B103,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,B103,Circuit Clerk,,REP,Tracy Brewington DANIELS,295,119,157,19
+Cumberland,B103,Circuit Clerk,,,Total Votes,295,119,157,19
+Cumberland,B103,Circuit Clerk,,,Under Votes,43,21,17,5
+Cumberland,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,B103,COUNTY SURVEYOR,,,Under Votes,338,140,174,24
+Cumberland,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,201,86,103,12
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,88,38,42,8
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,289,124,145,20
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,48,15,29,4
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,124,57,58,9
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,178,71,95,12
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,302,128,153,21
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,12,21,3
+Cumberland,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,C101,STRAIGHT PARTY,,REP,Republican Party,204,83,113,8
+Cumberland,C101,STRAIGHT PARTY,,DEM,Democratic Party,20,11,4,5
+Cumberland,C101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Cumberland,C101,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Cumberland,C101,STRAIGHT PARTY,,,Total Votes,226,95,118,13
+Cumberland,C101,STRAIGHT PARTY,,,Under Votes,175,82,84,9
+Cumberland,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,C101,President,,REP,Donald J. TRUMP / JD VANCE,347,149,186,12
+Cumberland,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,49,28,11,10
+Cumberland,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Cumberland,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Cumberland,C101,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,C101,President,,,Write In Total,0,0,0,0
+Cumberland,C101,President,,,Total Votes,398,177,199,22
+Cumberland,C101,President,,,Under Votes,3,0,3,0
+Cumberland,C101,President,,,Over Votes,0,0,0,0
+Cumberland,C101,U.S. House,1,REP,James R. COMER,350,150,188,12
+Cumberland,C101,U.S. House,1,DEM,Erin MARSHALL,44,24,11,9
+Cumberland,C101,U.S. House,1,,Total Votes,394,174,199,21
+Cumberland,C101,U.S. House,1,,Under Votes,7,3,3,1
+Cumberland,C101,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,C101,State Senate,15,REP,Rick GIRDLER,334,141,179,14
+Cumberland,C101,State Senate,15,,Total Votes,334,141,179,14
+Cumberland,C101,State Senate,15,,Under Votes,67,36,23,8
+Cumberland,C101,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,C101,State House,21,REP,Amy NEIGHBORS,325,138,175,12
+Cumberland,C101,State House,21,DEM,Jeffery HUMBLE,66,34,23,9
+Cumberland,C101,State House,21,,Total Votes,391,172,198,21
+Cumberland,C101,State House,21,,Under Votes,9,5,3,1
+Cumberland,C101,State House,21,,Over Votes,1,0,1,0
+Cumberland,C101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,335,141,180,14
+Cumberland,C101,Commonwealth's Attorney,40,,Total Votes,335,141,180,14
+Cumberland,C101,Commonwealth's Attorney,40,,Under Votes,66,36,22,8
+Cumberland,C101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,C101,Circuit Clerk,,REP,Tracy Brewington DANIELS,349,149,183,17
+Cumberland,C101,Circuit Clerk,,,Total Votes,349,149,183,17
+Cumberland,C101,Circuit Clerk,,,Under Votes,52,28,19,5
+Cumberland,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,C101,COUNTY SURVEYOR,,,Under Votes,401,177,202,22
+Cumberland,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,C101,Board of Education,4,,Will SCOTT,165,69,88,8
+Cumberland,C101,Board of Education,4,,Total Votes,165,69,88,8
+Cumberland,C101,Board of Education,4,,Under Votes,155,73,73,9
+Cumberland,C101,Board of Education,4,,Over Votes,0,0,0,0
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",238,101,124,13
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",102,45,48,9
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,340,146,172,22
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,58,29,29,0
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",155,62,88,5
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",214,99,98,17
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,369,161,186,22
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,16,16,0
+Cumberland,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,C102,STRAIGHT PARTY,,REP,Republican Party,196,61,124,11
+Cumberland,C102,STRAIGHT PARTY,,DEM,Democratic Party,29,10,18,1
+Cumberland,C102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Cumberland,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Cumberland,C102,STRAIGHT PARTY,,,Total Votes,227,71,144,12
+Cumberland,C102,STRAIGHT PARTY,,,Under Votes,163,48,108,7
+Cumberland,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,C102,President,,REP,Donald J. TRUMP / JD VANCE,320,99,203,18
+Cumberland,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,60,19,40,1
+Cumberland,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Cumberland,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Cumberland,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Cumberland,C102,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,C102,President,,,Write In Total,0,0,0,0
+Cumberland,C102,President,,,Total Votes,382,118,245,19
+Cumberland,C102,President,,,Under Votes,8,1,7,0
+Cumberland,C102,President,,,Over Votes,0,0,0,0
+Cumberland,C102,U.S. House,1,REP,James R. COMER,320,100,202,18
+Cumberland,C102,U.S. House,1,DEM,Erin MARSHALL,56,16,39,1
+Cumberland,C102,U.S. House,1,,Total Votes,376,116,241,19
+Cumberland,C102,U.S. House,1,,Under Votes,14,3,11,0
+Cumberland,C102,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,C102,State Senate,15,REP,Rick GIRDLER,299,97,186,16
+Cumberland,C102,State Senate,15,,Total Votes,299,97,186,16
+Cumberland,C102,State Senate,15,,Under Votes,91,22,66,3
+Cumberland,C102,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,C102,State House,21,REP,Amy NEIGHBORS,296,92,188,16
+Cumberland,C102,State House,21,DEM,Jeffery HUMBLE,71,22,48,1
+Cumberland,C102,State House,21,,Total Votes,367,114,236,17
+Cumberland,C102,State House,21,,Under Votes,23,5,16,2
+Cumberland,C102,State House,21,,Over Votes,0,0,0,0
+Cumberland,C102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,297,94,188,15
+Cumberland,C102,Commonwealth's Attorney,40,,Total Votes,297,94,188,15
+Cumberland,C102,Commonwealth's Attorney,40,,Under Votes,93,25,64,4
+Cumberland,C102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,C102,Circuit Clerk,,REP,Tracy Brewington DANIELS,324,100,207,17
+Cumberland,C102,Circuit Clerk,,,Total Votes,324,100,207,17
+Cumberland,C102,Circuit Clerk,,,Under Votes,66,19,45,2
+Cumberland,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,C102,COUNTY SURVEYOR,,,Under Votes,390,119,252,19
+Cumberland,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,C102,Board of Education,4,,Will SCOTT,164,54,102,8
+Cumberland,C102,Board of Education,4,,Total Votes,164,54,102,8
+Cumberland,C102,Board of Education,4,,Under Votes,226,65,150,11
+Cumberland,C102,Board of Education,4,,Over Votes,0,0,0,0
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",220,66,141,13
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",87,29,57,1
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,307,95,198,14
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,82,23,54,5
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",154,50,94,10
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",186,56,125,5
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,340,106,219,15
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,50,13,33,4
+Cumberland,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Cumberland,C103,STRAIGHT PARTY,,REP,Republican Party,45,17,26,2
+Cumberland,C103,STRAIGHT PARTY,,DEM,Democratic Party,23,7,14,2
+Cumberland,C103,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Cumberland,C103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Cumberland,C103,STRAIGHT PARTY,,,Total Votes,69,24,41,4
+Cumberland,C103,STRAIGHT PARTY,,,Under Votes,80,32,39,9
+Cumberland,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,C103,President,,REP,Donald J. TRUMP / JD VANCE,104,41,54,9
+Cumberland,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,42,15,23,4
+Cumberland,C103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Cumberland,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Cumberland,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Cumberland,C103,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,C103,President,,,Write In Total,0,0,0,0
+Cumberland,C103,President,,,Total Votes,148,56,79,13
+Cumberland,C103,President,,,Under Votes,1,0,1,0
+Cumberland,C103,President,,,Over Votes,0,0,0,0
+Cumberland,C103,U.S. House,1,REP,James R. COMER,104,42,52,10
+Cumberland,C103,U.S. House,1,DEM,Erin MARSHALL,31,11,18,2
+Cumberland,C103,U.S. House,1,,Total Votes,135,53,70,12
+Cumberland,C103,U.S. House,1,,Under Votes,14,3,10,1
+Cumberland,C103,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,C103,State Senate,15,REP,Rick GIRDLER,90,32,49,9
+Cumberland,C103,State Senate,15,,Total Votes,90,32,49,9
+Cumberland,C103,State Senate,15,,Under Votes,59,24,31,4
+Cumberland,C103,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,C103,State House,21,REP,Amy NEIGHBORS,95,34,52,9
+Cumberland,C103,State House,21,DEM,Jeffery HUMBLE,41,17,20,4
+Cumberland,C103,State House,21,,Total Votes,136,51,72,13
+Cumberland,C103,State House,21,,Under Votes,13,5,8,0
+Cumberland,C103,State House,21,,Over Votes,0,0,0,0
+Cumberland,C103,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,92,34,48,10
+Cumberland,C103,Commonwealth's Attorney,40,,Total Votes,92,34,48,10
+Cumberland,C103,Commonwealth's Attorney,40,,Under Votes,57,22,32,3
+Cumberland,C103,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,C103,Circuit Clerk,,REP,Tracy Brewington DANIELS,107,40,58,9
+Cumberland,C103,Circuit Clerk,,,Total Votes,107,40,58,9
+Cumberland,C103,Circuit Clerk,,,Under Votes,42,16,22,4
+Cumberland,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,C103,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,C103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,C103,COUNTY SURVEYOR,,,Under Votes,149,56,80,13
+Cumberland,C103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Glen Allen MURPHY ",89,36,45,8
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Doug RADFORD ",69,32,32,5
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Trevor James OWSLEY ",83,32,42,9
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Josh POLSTON ",36,12,19,5
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Jamie ALLEN ",75,31,37,7
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Connie CRAVENS ",86,37,41,8
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,"Shawn RIDDLE ",59,22,30,7
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,Total Votes,497,202,246,49
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,Under Votes,397,134,234,29
+Cumberland,C103,CITY COUNCIL City of Burkesville,,,Over Votes,0,0,0,0
+Cumberland,C103,QUESTION-BURKESVILLE CANNABIS,,,"YES ",88,32,50,6
+Cumberland,C103,QUESTION-BURKESVILLE CANNABIS,,,"NO ",41,18,17,6
+Cumberland,C103,QUESTION-BURKESVILLE CANNABIS,,,Total Votes,129,50,67,12
+Cumberland,C103,QUESTION-BURKESVILLE CANNABIS,,,Under Votes,20,6,13,1
+Cumberland,C103,QUESTION-BURKESVILLE CANNABIS,,,Over Votes,0,0,0,0
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,74,25,43,6
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,42,17,23,2
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,116,42,66,8
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,14,14,5
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,49,21,25,3
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,77,30,42,5
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,126,51,67,8
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,5,12,5
+Cumberland,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Cumberland,D101,STRAIGHT PARTY,,REP,Republican Party,204,70,116,18
+Cumberland,D101,STRAIGHT PARTY,,DEM,Democratic Party,16,3,11,2
+Cumberland,D101,STRAIGHT PARTY,,KY,Kentucky Party,3,2,1,0
+Cumberland,D101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Cumberland,D101,STRAIGHT PARTY,,,Total Votes,224,76,128,20
+Cumberland,D101,STRAIGHT PARTY,,,Under Votes,211,75,128,8
+Cumberland,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,D101,President,,REP,Donald J. TRUMP / JD VANCE,378,132,224,22
+Cumberland,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,18,27,5
+Cumberland,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
+Cumberland,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
+Cumberland,D101,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,D101,President,,,Write In Total,0,0,0,0
+Cumberland,D101,President,,,Total Votes,432,151,253,28
+Cumberland,D101,President,,,Under Votes,3,0,3,0
+Cumberland,D101,President,,,Over Votes,0,0,0,0
+Cumberland,D101,U.S. House,1,REP,James R. COMER,384,135,227,22
+Cumberland,D101,U.S. House,1,DEM,Erin MARSHALL,44,14,24,6
+Cumberland,D101,U.S. House,1,,Total Votes,428,149,251,28
+Cumberland,D101,U.S. House,1,,Under Votes,7,2,5,0
+Cumberland,D101,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,D101,State Senate,15,REP,Rick GIRDLER,351,120,210,21
+Cumberland,D101,State Senate,15,,Total Votes,351,120,210,21
+Cumberland,D101,State Senate,15,,Under Votes,84,31,46,7
+Cumberland,D101,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,D101,State House,21,REP,Amy NEIGHBORS,349,126,201,22
+Cumberland,D101,State House,21,DEM,Jeffery HUMBLE,68,21,42,5
+Cumberland,D101,State House,21,,Total Votes,417,147,243,27
+Cumberland,D101,State House,21,,Under Votes,17,4,12,1
+Cumberland,D101,State House,21,,Over Votes,1,0,1,0
+Cumberland,D101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,359,123,212,24
+Cumberland,D101,Commonwealth's Attorney,40,,Total Votes,359,123,212,24
+Cumberland,D101,Commonwealth's Attorney,40,,Under Votes,76,28,44,4
+Cumberland,D101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,D101,Circuit Clerk,,REP,Tracy Brewington DANIELS,378,132,222,24
+Cumberland,D101,Circuit Clerk,,,Total Votes,378,132,222,24
+Cumberland,D101,Circuit Clerk,,,Under Votes,57,19,34,4
+Cumberland,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,D101,COUNTY SURVEYOR,,,Under Votes,435,151,256,28
+Cumberland,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,D101,Board of Education,5,,Jackie BRYANT,250,90,140,20
+Cumberland,D101,Board of Education,5,,Total Votes,250,90,140,20
+Cumberland,D101,Board of Education,5,,Under Votes,185,61,116,8
+Cumberland,D101,Board of Education,5,,Over Votes,0,0,0,0
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",249,88,144,17
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",125,42,73,10
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,374,130,217,27
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,21,37,1
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",168,60,98,10
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",241,79,147,15
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,409,139,245,25
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,11,11,3
+Cumberland,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Cumberland,D102,STRAIGHT PARTY,,REP,Republican Party,175,33,140,2
+Cumberland,D102,STRAIGHT PARTY,,DEM,Democratic Party,28,4,22,2
+Cumberland,D102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,1,1
+Cumberland,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Cumberland,D102,STRAIGHT PARTY,,,Total Votes,206,37,164,5
+Cumberland,D102,STRAIGHT PARTY,,,Under Votes,151,32,114,5
+Cumberland,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Cumberland,D102,President,,REP,Donald J. TRUMP / JD VANCE,292,59,226,7
+Cumberland,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,56,9,45,2
+Cumberland,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Cumberland,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
+Cumberland,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Cumberland,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Cumberland,D102,President,,,ANDRE ROMAN MCNEIL SR -,0,0,0,0
+Cumberland,D102,President,,,Write In Total,2,0,2,0
+Cumberland,D102,President,,,Total Votes,355,69,277,9
+Cumberland,D102,President,,,Under Votes,2,0,1,1
+Cumberland,D102,President,,,Over Votes,0,0,0,0
+Cumberland,D102,U.S. House,1,REP,James R. COMER,307,61,239,7
+Cumberland,D102,U.S. House,1,DEM,Erin MARSHALL,46,8,35,3
+Cumberland,D102,U.S. House,1,,Total Votes,353,69,274,10
+Cumberland,D102,U.S. House,1,,Under Votes,4,0,4,0
+Cumberland,D102,U.S. House,1,,Over Votes,0,0,0,0
+Cumberland,D102,State Senate,15,REP,Rick GIRDLER,274,53,217,4
+Cumberland,D102,State Senate,15,,Total Votes,274,53,217,4
+Cumberland,D102,State Senate,15,,Under Votes,83,16,61,6
+Cumberland,D102,State Senate,15,,Over Votes,0,0,0,0
+Cumberland,D102,State House,21,REP,Amy NEIGHBORS,292,54,232,6
+Cumberland,D102,State House,21,DEM,Jeffery HUMBLE,60,14,42,4
+Cumberland,D102,State House,21,,Total Votes,352,68,274,10
+Cumberland,D102,State House,21,,Under Votes,5,1,4,0
+Cumberland,D102,State House,21,,Over Votes,0,0,0,0
+Cumberland,D102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,282,55,222,5
+Cumberland,D102,Commonwealth's Attorney,40,,Total Votes,282,55,222,5
+Cumberland,D102,Commonwealth's Attorney,40,,Under Votes,75,14,56,5
+Cumberland,D102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Cumberland,D102,Circuit Clerk,,REP,Tracy Brewington DANIELS,297,60,233,4
+Cumberland,D102,Circuit Clerk,,,Total Votes,297,60,233,4
+Cumberland,D102,Circuit Clerk,,,Under Votes,60,9,45,6
+Cumberland,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Cumberland,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Cumberland,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Cumberland,D102,COUNTY SURVEYOR,,,Under Votes,357,69,278,10
+Cumberland,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Cumberland,D102,Board of Education,5,,Jackie BRYANT,,,,37
+Cumberland,D102,Board of Education,5,,Total Votes,,,,37
+Cumberland,D102,Board of Education,5,,Under Votes,148,32,110,6
+Cumberland,D102,Board of Education,5,,Over Votes,0,0,0,0
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",,,,44
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",,,,17
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,,,,61
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,8,49,2
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",,,,25
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",,,,40
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,,,,65
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,4,8,1
+Cumberland,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
