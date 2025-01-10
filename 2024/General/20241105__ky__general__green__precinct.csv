@@ -1,0 +1,567 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Green,A101,STRAIGHT PARTY,,REP,Republican Party,298,96,172,30
+Green,A101,STRAIGHT PARTY,,DEM,Democratic Party,73,20,45,8
+Green,A101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Green,A101,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,3,1
+Green,A101,STRAIGHT PARTY,,,Total Votes,378,116,223,39
+Green,A101,STRAIGHT PARTY,,,Under Votes,393,125,243,25
+Green,A101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Green,A101,President,,REP,Donald J. TRUMP / JD VANCE,596,187,365,44
+Green,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,162,51,93,18
+Green,A101,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Green,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,4,1
+Green,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,A101,President,,,Total Votes,765,240,462,63
+Green,A101,President,,,Under Votes,7,1,5,1
+Green,A101,President,,,Over Votes,0,0,0,0
+Green,A101,U.S. House,2,REP,S. Brett GUTHRIE,599,187,361,51
+Green,A101,U.S. House,2,DEM,Hank LINDERMAN,140,39,90,11
+Green,A101,U.S. House,2,,Total Votes,739,226,451,62
+Green,A101,U.S. House,2,,Under Votes,32,14,16,2
+Green,A101,U.S. House,2,,Over Votes,1,1,0,0
+Green,A101,State Senate,9,REP,David P. GIVENS,649,205,389,55
+Green,A101,State Senate,9,DEM,Karen M. PENNINGTON,107,31,67,9
+Green,A101,State Senate,9,,Total Votes,756,236,456,64
+Green,A101,State Senate,9,,Under Votes,16,5,11,0
+Green,A101,State Senate,9,,Over Votes,0,0,0,0
+Green,A101,State House,24,REP,Ryan BIVENS,589,186,354,49
+Green,A101,State House,24,DEM,Johnny PENNINGTON,146,40,93,13
+Green,A101,State House,24,,Total Votes,735,226,447,62
+Green,A101,State House,24,,Under Votes,37,15,20,2
+Green,A101,State House,24,,Over Votes,0,0,0,0
+Green,A101,Commonwealth's Attorney,11,REP,Shelly MILLER,617,182,380,55
+Green,A101,Commonwealth's Attorney,11,,Total Votes,617,182,380,55
+Green,A101,Commonwealth's Attorney,11,,Under Votes,155,59,87,9
+Green,A101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,A101,Circuit Clerk,,REP,Karen GILPIN,660,201,403,56
+Green,A101,Circuit Clerk,,,Total Votes,660,201,403,56
+Green,A101,Circuit Clerk,,,Under Votes,112,40,64,8
+Green,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,A101,Board of Education,1,,Marcy B. GOFF,533,149,339,45
+Green,A101,Board of Education,1,,Total Votes,533,149,339,45
+Green,A101,Board of Education,1,,Under Votes,239,92,128,19
+Green,A101,Board of Education,1,,Over Votes,0,0,0,0
+Green,A101,CITY COUNCIL City of Greensburg,,,"Mark JUDD ",305,90,187,28
+Green,A101,CITY COUNCIL City of Greensburg,,,"Julie Givens SMYRICHINSKY ",330,106,195,29
+Green,A101,CITY COUNCIL City of Greensburg,,,"Jerry E. COWHERD ",322,92,193,37
+Green,A101,CITY COUNCIL City of Greensburg,,,"Ed GORIN ",268,85,157,26
+Green,A101,CITY COUNCIL City of Greensburg,,,Write In Total,81,21,55,5
+Green,A101,CITY COUNCIL City of Greensburg,,,Total Votes,1306,394,787,125
+Green,A101,CITY COUNCIL City of Greensburg,,,Under Votes,2306,740,1343,223
+Green,A101,CITY COUNCIL City of Greensburg,,,Over Votes,0,0,0,0
+Green,A101,QUESTION-GREENSBURG CANNABIS,,,"YES ",351,99,218,34
+Green,A101,QUESTION-GREENSBURG CANNABIS,,,"NO ",197,67,114,16
+Green,A101,QUESTION-GREENSBURG CANNABIS,,,Total Votes,548,166,332,50
+Green,A101,QUESTION-GREENSBURG CANNABIS,,,Under Votes,53,22,23,8
+Green,A101,QUESTION-GREENSBURG CANNABIS,,,Over Votes,1,1,0,0
+Green,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,443,124,284,35
+Green,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,246,84,141,21
+Green,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,689,208,425,56
+Green,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,80,31,41,8
+Green,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Green,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,232,71,139,22
+Green,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,486,146,304,36
+Green,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,718,217,443,58
+Green,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,52,23,23,6
+Green,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
+Green,A102,STRAIGHT PARTY,,REP,Republican Party,67,30,31,6
+Green,A102,STRAIGHT PARTY,,DEM,Democratic Party,13,5,5,3
+Green,A102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Green,A102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,0,1
+Green,A102,STRAIGHT PARTY,,,Total Votes,81,35,36,10
+Green,A102,STRAIGHT PARTY,,,Under Votes,121,35,73,13
+Green,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,A102,President,,REP,Donald J. TRUMP / JD VANCE,155,59,81,15
+Green,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,44,10,26,8
+Green,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Green,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Green,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,A102,President,,,Total Votes,200,69,108,23
+Green,A102,President,,,Under Votes,1,1,0,0
+Green,A102,President,,,Over Votes,1,0,1,0
+Green,A102,U.S. House,2,REP,S. Brett GUTHRIE,163,60,86,17
+Green,A102,U.S. House,2,DEM,Hank LINDERMAN,34,8,20,6
+Green,A102,U.S. House,2,,Total Votes,197,68,106,23
+Green,A102,U.S. House,2,,Under Votes,5,2,3,0
+Green,A102,U.S. House,2,,Over Votes,0,0,0,0
+Green,A102,State Senate,9,REP,David P. GIVENS,177,63,95,19
+Green,A102,State Senate,9,DEM,Karen M. PENNINGTON,20,6,10,4
+Green,A102,State Senate,9,,Total Votes,197,69,105,23
+Green,A102,State Senate,9,,Under Votes,5,1,4,0
+Green,A102,State Senate,9,,Over Votes,0,0,0,0
+Green,A102,State House,24,REP,Ryan BIVENS,155,58,83,14
+Green,A102,State House,24,DEM,Johnny PENNINGTON,37,9,21,7
+Green,A102,State House,24,,Total Votes,192,67,104,21
+Green,A102,State House,24,,Under Votes,10,3,5,2
+Green,A102,State House,24,,Over Votes,0,0,0,0
+Green,A102,Commonwealth's Attorney,11,REP,Shelly MILLER,166,60,86,20
+Green,A102,Commonwealth's Attorney,11,,Total Votes,166,60,86,20
+Green,A102,Commonwealth's Attorney,11,,Under Votes,36,10,23,3
+Green,A102,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,A102,Circuit Clerk,,REP,Karen GILPIN,181,64,97,20
+Green,A102,Circuit Clerk,,,Total Votes,181,64,97,20
+Green,A102,Circuit Clerk,,,Under Votes,21,6,12,3
+Green,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,A102,Board of Education,1,,Marcy B. GOFF,141,47,77,17
+Green,A102,Board of Education,1,,Total Votes,141,47,77,17
+Green,A102,Board of Education,1,,Under Votes,61,23,32,6
+Green,A102,Board of Education,1,,Over Votes,0,0,0,0
+Green,A102,CITY COUNCIL City of Greensburg,,,"Mark JUDD ",94,35,49,10
+Green,A102,CITY COUNCIL City of Greensburg,,,"Julie Givens SMYRICHINSKY ",128,49,66,13
+Green,A102,CITY COUNCIL City of Greensburg,,,"Jerry E. COWHERD ",103,31,60,12
+Green,A102,CITY COUNCIL City of Greensburg,,,"Ed GORIN ",88,29,51,8
+Green,A102,CITY COUNCIL City of Greensburg,,,Write In Total,39,9,29,1
+Green,A102,CITY COUNCIL City of Greensburg,,,Total Votes,452,153,255,44
+Green,A102,CITY COUNCIL City of Greensburg,,,Under Votes,580,201,303,76
+Green,A102,CITY COUNCIL City of Greensburg,,,Over Votes,0,0,0,0
+Green,A102,QUESTION-GREENSBURG CANNABIS,,,"YES ",98,28,59,11
+Green,A102,QUESTION-GREENSBURG CANNABIS,,,"NO ",64,28,29,7
+Green,A102,QUESTION-GREENSBURG CANNABIS,,,Total Votes,162,56,88,18
+Green,A102,QUESTION-GREENSBURG CANNABIS,,,Under Votes,10,3,5,2
+Green,A102,QUESTION-GREENSBURG CANNABIS,,,Over Votes,0,0,0,0
+Green,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,109,38,59,12
+Green,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,75,27,42,6
+Green,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,184,65,101,18
+Green,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,18,5,8,5
+Green,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Green,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,50,16,30,4
+Green,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,136,48,74,14
+Green,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,186,64,104,18
+Green,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,6,4,5
+Green,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Green,A103,STRAIGHT PARTY,,REP,Republican Party,351,121,203,27
+Green,A103,STRAIGHT PARTY,,DEM,Democratic Party,61,23,32,6
+Green,A103,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Green,A103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Green,A103,STRAIGHT PARTY,,,Total Votes,417,144,240,33
+Green,A103,STRAIGHT PARTY,,,Under Votes,402,135,243,24
+Green,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,A103,President,,REP,Donald J. TRUMP / JD VANCE,670,229,401,40
+Green,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,131,47,67,17
+Green,A103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Green,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Green,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,A103,President,,,Total Votes,806,276,473,57
+Green,A103,President,,,Under Votes,9,2,7,0
+Green,A103,President,,,Over Votes,4,1,3,0
+Green,A103,U.S. House,2,REP,S. Brett GUTHRIE,672,229,403,40
+Green,A103,U.S. House,2,DEM,Hank LINDERMAN,119,41,65,13
+Green,A103,U.S. House,2,,Total Votes,791,270,468,53
+Green,A103,U.S. House,2,,Under Votes,28,9,15,4
+Green,A103,U.S. House,2,,Over Votes,0,0,0,0
+Green,A103,State Senate,9,REP,David P. GIVENS,707,242,423,42
+Green,A103,State Senate,9,DEM,Karen M. PENNINGTON,92,29,51,12
+Green,A103,State Senate,9,,Total Votes,799,271,474,54
+Green,A103,State Senate,9,,Under Votes,20,8,9,3
+Green,A103,State Senate,9,,Over Votes,0,0,0,0
+Green,A103,State House,24,REP,Ryan BIVENS,665,228,399,38
+Green,A103,State House,24,DEM,Johnny PENNINGTON,117,39,63,15
+Green,A103,State House,24,,Total Votes,782,267,462,53
+Green,A103,State House,24,,Under Votes,37,12,21,4
+Green,A103,State House,24,,Over Votes,0,0,0,0
+Green,A103,Commonwealth's Attorney,11,REP,Shelly MILLER,680,222,415,43
+Green,A103,Commonwealth's Attorney,11,,Total Votes,680,222,415,43
+Green,A103,Commonwealth's Attorney,11,,Under Votes,139,57,68,14
+Green,A103,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,A103,Circuit Clerk,,REP,Karen GILPIN,723,239,437,47
+Green,A103,Circuit Clerk,,,Total Votes,723,239,437,47
+Green,A103,Circuit Clerk,,,Under Votes,95,39,46,10
+Green,A103,Circuit Clerk,,,Over Votes,1,1,0,0
+Green,A103,Board of Education,2,,Clevis JEFFRIES,539,167,343,29
+Green,A103,Board of Education,2,,Total Votes,539,167,343,29
+Green,A103,Board of Education,2,,Under Votes,278,111,139,28
+Green,A103,Board of Education,2,,Over Votes,2,1,1,0
+Green,A103,CITY COUNCIL City of Greensburg,,,"Mark JUDD ",33,10,19,4
+Green,A103,CITY COUNCIL City of Greensburg,,,"Julie Givens SMYRICHINSKY ",43,15,23,5
+Green,A103,CITY COUNCIL City of Greensburg,,,"Jerry E. COWHERD ",39,10,23,6
+Green,A103,CITY COUNCIL City of Greensburg,,,"Ed GORIN ",29,12,15,2
+Green,A103,CITY COUNCIL City of Greensburg,,,Write In Total,18,6,12,0
+Green,A103,CITY COUNCIL City of Greensburg,,,Total Votes,162,53,92,17
+Green,A103,CITY COUNCIL City of Greensburg,,,Under Votes,240,61,142,37
+Green,A103,CITY COUNCIL City of Greensburg,,,Over Votes,0,0,0,0
+Green,A103,QUESTION-GREENSBURG CANNABIS,,,"YES ",49,15,29,5
+Green,A103,QUESTION-GREENSBURG CANNABIS,,,"NO ",16,3,10,3
+Green,A103,QUESTION-GREENSBURG CANNABIS,,,Total Votes,65,18,39,8
+Green,A103,QUESTION-GREENSBURG CANNABIS,,,Under Votes,2,1,0,1
+Green,A103,QUESTION-GREENSBURG CANNABIS,,,Over Votes,0,0,0,0
+Green,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,545,180,333,32
+Green,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,205,77,112,16
+Green,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,750,257,445,48
+Green,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,63,20,34,9
+Green,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,2,4,0
+Green,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,259,106,130,23
+Green,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,521,158,333,30
+Green,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,780,264,463,53
+Green,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,38,14,20,4
+Green,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Green,A104,STRAIGHT PARTY,,REP,Republican Party,165,50,97,18
+Green,A104,STRAIGHT PARTY,,DEM,Democratic Party,21,8,11,2
+Green,A104,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Green,A104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Green,A104,STRAIGHT PARTY,,,Total Votes,189,59,110,20
+Green,A104,STRAIGHT PARTY,,,Under Votes,179,65,99,15
+Green,A104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,A104,President,,REP,Donald J. TRUMP / JD VANCE,303,101,176,26
+Green,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,59,23,28,8
+Green,A104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Green,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Green,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,A104,President,,,Total Votes,366,124,208,34
+Green,A104,President,,,Under Votes,2,0,1,1
+Green,A104,President,,,Over Votes,0,0,0,0
+Green,A104,U.S. House,2,REP,S. Brett GUTHRIE,312,109,176,27
+Green,A104,U.S. House,2,DEM,Hank LINDERMAN,48,13,27,8
+Green,A104,U.S. House,2,,Total Votes,360,122,203,35
+Green,A104,U.S. House,2,,Under Votes,8,2,6,0
+Green,A104,U.S. House,2,,Over Votes,0,0,0,0
+Green,A104,State Senate,9,REP,David P. GIVENS,327,113,187,27
+Green,A104,State Senate,9,DEM,Karen M. PENNINGTON,37,10,19,8
+Green,A104,State Senate,9,,Total Votes,364,123,206,35
+Green,A104,State Senate,9,,Under Votes,4,1,3,0
+Green,A104,State Senate,9,,Over Votes,0,0,0,0
+Green,A104,State House,24,REP,Ryan BIVENS,304,106,171,27
+Green,A104,State House,24,DEM,Johnny PENNINGTON,53,15,31,7
+Green,A104,State House,24,,Total Votes,357,121,202,34
+Green,A104,State House,24,,Under Votes,11,3,7,1
+Green,A104,State House,24,,Over Votes,0,0,0,0
+Green,A104,Commonwealth's Attorney,11,REP,Shelly MILLER,314,106,180,28
+Green,A104,Commonwealth's Attorney,11,,Total Votes,314,106,180,28
+Green,A104,Commonwealth's Attorney,11,,Under Votes,54,18,29,7
+Green,A104,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,A104,Circuit Clerk,,REP,Karen GILPIN,330,108,190,32
+Green,A104,Circuit Clerk,,,Total Votes,330,108,190,32
+Green,A104,Circuit Clerk,,,Under Votes,38,16,19,3
+Green,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,A104,Board of Education,2,,Clevis JEFFRIES,266,93,151,22
+Green,A104,Board of Education,2,,Total Votes,266,93,151,22
+Green,A104,Board of Education,2,,Under Votes,102,31,58,13
+Green,A104,Board of Education,2,,Over Votes,0,0,0,0
+Green,A104,CITY COUNCIL City of Greensburg,,,"Mark JUDD ",78,34,37,7
+Green,A104,CITY COUNCIL City of Greensburg,,,"Julie Givens SMYRICHINSKY ",88,31,47,10
+Green,A104,CITY COUNCIL City of Greensburg,,,"Jerry E. COWHERD ",80,29,38,13
+Green,A104,CITY COUNCIL City of Greensburg,,,"Ed GORIN ",69,32,29,8
+Green,A104,CITY COUNCIL City of Greensburg,,,Write In Total,20,5,13,2
+Green,A104,CITY COUNCIL City of Greensburg,,,Total Votes,335,131,164,40
+Green,A104,CITY COUNCIL City of Greensburg,,,Under Votes,583,199,334,50
+Green,A104,CITY COUNCIL City of Greensburg,,,Over Votes,0,0,0,0
+Green,A104,QUESTION-GREENSBURG CANNABIS,,,"YES ",96,32,53,11
+Green,A104,QUESTION-GREENSBURG CANNABIS,,,"NO ",52,21,28,3
+Green,A104,QUESTION-GREENSBURG CANNABIS,,,Total Votes,148,53,81,14
+Green,A104,QUESTION-GREENSBURG CANNABIS,,,Under Votes,5,2,2,1
+Green,A104,QUESTION-GREENSBURG CANNABIS,,,Over Votes,0,0,0,0
+Green,A104,CONSTITUTIONAL AMENDMENT 1,,,YES,237,79,138,20
+Green,A104,CONSTITUTIONAL AMENDMENT 1,,,NO,102,30,63,9
+Green,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,339,109,201,29
+Green,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,15,6,6
+Green,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Green,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,135,50,74,11
+Green,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,219,67,130,22
+Green,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,354,117,204,33
+Green,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,7,5,2
+Green,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Green,B101,STRAIGHT PARTY,,REP,Republican Party,294,80,185,29
+Green,B101,STRAIGHT PARTY,,DEM,Democratic Party,30,8,15,7
+Green,B101,STRAIGHT PARTY,,KY,Kentucky Party,4,1,2,1
+Green,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Green,B101,STRAIGHT PARTY,,,Total Votes,328,89,202,37
+Green,B101,STRAIGHT PARTY,,,Under Votes,333,86,235,12
+Green,B101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Green,B101,President,,REP,Donald J. TRUMP / JD VANCE,584,153,391,40
+Green,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,63,19,36,8
+Green,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Green,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,4,1
+Green,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Green,B101,President,,,Total Votes,655,173,433,49
+Green,B101,President,,,Under Votes,6,2,4,0
+Green,B101,President,,,Over Votes,1,1,0,0
+Green,B101,U.S. House,2,REP,S. Brett GUTHRIE,582,157,384,41
+Green,B101,U.S. House,2,DEM,Hank LINDERMAN,60,16,36,8
+Green,B101,U.S. House,2,,Total Votes,642,173,420,49
+Green,B101,U.S. House,2,,Under Votes,20,3,17,0
+Green,B101,U.S. House,2,,Over Votes,0,0,0,0
+Green,B101,State Senate,9,REP,David P. GIVENS,595,157,396,42
+Green,B101,State Senate,9,DEM,Karen M. PENNINGTON,57,16,34,7
+Green,B101,State Senate,9,,Total Votes,652,173,430,49
+Green,B101,State Senate,9,,Under Votes,10,3,7,0
+Green,B101,State Senate,9,,Over Votes,0,0,0,0
+Green,B101,State House,24,REP,Ryan BIVENS,576,156,381,39
+Green,B101,State House,24,DEM,Johnny PENNINGTON,66,15,42,9
+Green,B101,State House,24,,Total Votes,642,171,423,48
+Green,B101,State House,24,,Under Votes,20,5,14,1
+Green,B101,State House,24,,Over Votes,0,0,0,0
+Green,B101,Commonwealth's Attorney,11,REP,Shelly MILLER,569,149,379,41
+Green,B101,Commonwealth's Attorney,11,,Total Votes,569,149,379,41
+Green,B101,Commonwealth's Attorney,11,,Under Votes,93,27,58,8
+Green,B101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,B101,Circuit Clerk,,REP,Karen GILPIN,595,157,395,43
+Green,B101,Circuit Clerk,,,Total Votes,595,157,395,43
+Green,B101,Circuit Clerk,,,Under Votes,67,19,42,6
+Green,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",429,131,270,28
+Green,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",173,32,132,9
+Green,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,602,163,402,37
+Green,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,57,11,35,11
+Green,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,0,1
+Green,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,192,58,119,15
+Green,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,430,112,288,30
+Green,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,622,170,407,45
+Green,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,40,6,30,4
+Green,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Green,B102,STRAIGHT PARTY,,REP,Republican Party,399,76,297,26
+Green,B102,STRAIGHT PARTY,,DEM,Democratic Party,40,9,26,5
+Green,B102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,2,1
+Green,B102,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Green,B102,STRAIGHT PARTY,,,Total Votes,444,86,326,32
+Green,B102,STRAIGHT PARTY,,,Under Votes,291,68,207,16
+Green,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,B102,President,,REP,Donald J. TRUMP / JD VANCE,641,132,473,36
+Green,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,89,22,56,11
+Green,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Green,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
+Green,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,B102,President,,,Total Votes,734,154,532,48
+Green,B102,President,,,Under Votes,1,0,1,0
+Green,B102,President,,,Over Votes,0,0,0,0
+Green,B102,U.S. House,2,REP,S. Brett GUTHRIE,644,133,476,35
+Green,B102,U.S. House,2,DEM,Hank LINDERMAN,80,17,51,12
+Green,B102,U.S. House,2,,Total Votes,724,150,527,47
+Green,B102,U.S. House,2,,Under Votes,11,4,6,1
+Green,B102,U.S. House,2,,Over Votes,0,0,0,0
+Green,B102,State Senate,9,REP,David P. GIVENS,656,138,479,39
+Green,B102,State Senate,9,DEM,Karen M. PENNINGTON,75,15,51,9
+Green,B102,State Senate,9,,Total Votes,731,153,530,48
+Green,B102,State Senate,9,,Under Votes,4,1,3,0
+Green,B102,State Senate,9,,Over Votes,0,0,0,0
+Green,B102,State House,24,REP,Ryan BIVENS,635,131,468,36
+Green,B102,State House,24,DEM,Johnny PENNINGTON,85,18,55,12
+Green,B102,State House,24,,Total Votes,720,149,523,48
+Green,B102,State House,24,,Under Votes,15,5,10,0
+Green,B102,State House,24,,Over Votes,0,0,0,0
+Green,B102,Commonwealth's Attorney,11,REP,Shelly MILLER,633,128,467,38
+Green,B102,Commonwealth's Attorney,11,,Total Votes,633,128,467,38
+Green,B102,Commonwealth's Attorney,11,,Under Votes,102,26,66,10
+Green,B102,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,B102,Circuit Clerk,,REP,Karen GILPIN,644,134,472,38
+Green,B102,Circuit Clerk,,,Total Votes,644,134,472,38
+Green,B102,Circuit Clerk,,,Under Votes,91,20,61,10
+Green,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",482,100,356,26
+Green,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",181,35,127,19
+Green,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,663,135,483,45
+Green,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,69,17,49,3
+Green,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Green,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,298,67,217,14
+Green,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,397,80,290,27
+Green,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,695,147,507,41
+Green,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,40,7,26,7
+Green,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Green,C101,STRAIGHT PARTY,,REP,Republican Party,294,83,193,18
+Green,C101,STRAIGHT PARTY,,DEM,Democratic Party,35,8,17,10
+Green,C101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Green,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Green,C101,STRAIGHT PARTY,,,Total Votes,330,91,211,28
+Green,C101,STRAIGHT PARTY,,,Under Votes,261,67,176,18
+Green,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,C101,President,,REP,Donald J. TRUMP / JD VANCE,512,139,343,30
+Green,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,73,19,38,16
+Green,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Green,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Green,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
+Green,C101,President,,,Total Votes,590,158,386,46
+Green,C101,President,,,Under Votes,1,0,1,0
+Green,C101,President,,,Over Votes,0,0,0,0
+Green,C101,U.S. House,2,REP,S. Brett GUTHRIE,512,139,342,31
+Green,C101,U.S. House,2,DEM,Hank LINDERMAN,67,17,36,14
+Green,C101,U.S. House,2,,Total Votes,579,156,378,45
+Green,C101,U.S. House,2,,Under Votes,12,2,9,1
+Green,C101,U.S. House,2,,Over Votes,0,0,0,0
+Green,C101,State Senate,9,REP,David P. GIVENS,517,138,346,33
+Green,C101,State Senate,9,DEM,Karen M. PENNINGTON,60,14,34,12
+Green,C101,State Senate,9,,Total Votes,577,152,380,45
+Green,C101,State Senate,9,,Under Votes,14,6,7,1
+Green,C101,State Senate,9,,Over Votes,0,0,0,0
+Green,C101,State House,24,REP,Ryan BIVENS,500,137,335,28
+Green,C101,State House,24,DEM,Johnny PENNINGTON,67,16,36,15
+Green,C101,State House,24,,Total Votes,567,153,371,43
+Green,C101,State House,24,,Under Votes,24,5,16,3
+Green,C101,State House,24,,Over Votes,0,0,0,0
+Green,C101,Commonwealth's Attorney,11,REP,Shelly MILLER,493,130,327,36
+Green,C101,Commonwealth's Attorney,11,,Total Votes,493,130,327,36
+Green,C101,Commonwealth's Attorney,11,,Under Votes,98,28,60,10
+Green,C101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,C101,Circuit Clerk,,REP,Karen GILPIN,514,137,338,39
+Green,C101,Circuit Clerk,,,Total Votes,514,137,338,39
+Green,C101,Circuit Clerk,,,Under Votes,77,21,49,7
+Green,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,C101,Board of Education,4,,Dan HEDGESPETH,383,96,257,30
+Green,C101,Board of Education,4,,Total Votes,383,96,257,30
+Green,C101,Board of Education,4,,Under Votes,208,62,130,16
+Green,C101,Board of Education,4,,Over Votes,0,0,0,0
+Green,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,403,117,259,27
+Green,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,131,33,85,13
+Green,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,534,150,344,40
+Green,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,56,8,42,6
+Green,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Green,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,218,67,136,15
+Green,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,335,83,228,24
+Green,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,553,150,364,39
+Green,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,6,23,7
+Green,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,2,0,0
+Green,C102,STRAIGHT PARTY,,REP,Republican Party,290,74,203,13
+Green,C102,STRAIGHT PARTY,,DEM,Democratic Party,21,5,12,4
+Green,C102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Green,C102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Green,C102,STRAIGHT PARTY,,,Total Votes,313,79,217,17
+Green,C102,STRAIGHT PARTY,,,Under Votes,265,56,197,12
+Green,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,C102,President,,REP,Donald J. TRUMP / JD VANCE,515,116,376,23
+Green,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,57,18,33,6
+Green,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Green,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Green,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Green,C102,President,,,Total Votes,574,134,411,29
+Green,C102,President,,,Under Votes,4,1,3,0
+Green,C102,President,,,Over Votes,0,0,0,0
+Green,C102,U.S. House,2,REP,S. Brett GUTHRIE,507,118,366,23
+Green,C102,U.S. House,2,DEM,Hank LINDERMAN,49,15,28,6
+Green,C102,U.S. House,2,,Total Votes,556,133,394,29
+Green,C102,U.S. House,2,,Under Votes,22,2,20,0
+Green,C102,U.S. House,2,,Over Votes,0,0,0,0
+Green,C102,State Senate,9,REP,David P. GIVENS,529,125,379,25
+Green,C102,State Senate,9,DEM,Karen M. PENNINGTON,34,10,21,3
+Green,C102,State Senate,9,,Total Votes,563,135,400,28
+Green,C102,State Senate,9,,Under Votes,15,0,14,1
+Green,C102,State Senate,9,,Over Votes,0,0,0,0
+Green,C102,State House,24,REP,Ryan BIVENS,502,117,361,24
+Green,C102,State House,24,DEM,Johnny PENNINGTON,50,15,30,5
+Green,C102,State House,24,,Total Votes,552,132,391,29
+Green,C102,State House,24,,Under Votes,26,3,23,0
+Green,C102,State House,24,,Over Votes,0,0,0,0
+Green,C102,Commonwealth's Attorney,11,REP,Shelly MILLER,486,116,346,24
+Green,C102,Commonwealth's Attorney,11,,Total Votes,486,116,346,24
+Green,C102,Commonwealth's Attorney,11,,Under Votes,91,18,68,5
+Green,C102,Commonwealth's Attorney,11,,Over Votes,1,1,0,0
+Green,C102,Circuit Clerk,,REP,Karen GILPIN,518,125,368,25
+Green,C102,Circuit Clerk,,,Total Votes,518,125,368,25
+Green,C102,Circuit Clerk,,,Under Votes,60,10,46,4
+Green,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,C102,Board of Education,4,,Dan HEDGESPETH,352,74,257,21
+Green,C102,Board of Education,4,,Total Votes,352,74,257,21
+Green,C102,Board of Education,4,,Under Votes,226,61,157,8
+Green,C102,Board of Education,4,,Over Votes,0,0,0,0
+Green,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,379,92,268,19
+Green,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,131,27,98,6
+Green,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,510,119,366,25
+Green,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,66,16,46,4
+Green,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Green,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,211,64,135,12
+Green,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,324,56,252,16
+Green,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,535,120,387,28
+Green,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,43,15,27,1
+Green,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Green,D101,STRAIGHT PARTY,,REP,Republican Party,254,61,176,17
+Green,D101,STRAIGHT PARTY,,DEM,Democratic Party,26,3,16,7
+Green,D101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Green,D101,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Green,D101,STRAIGHT PARTY,,,Total Votes,282,65,193,24
+Green,D101,STRAIGHT PARTY,,,Under Votes,234,51,166,17
+Green,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Green,D101,President,,REP,Donald J. TRUMP / JD VANCE,474,105,337,32
+Green,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,40,10,21,9
+Green,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Green,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Green,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Green,D101,President,,,Total Votes,515,116,358,41
+Green,D101,President,,,Under Votes,1,0,1,0
+Green,D101,President,,,Over Votes,0,0,0,0
+Green,D101,U.S. House,2,REP,S. Brett GUTHRIE,466,105,329,32
+Green,D101,U.S. House,2,DEM,Hank LINDERMAN,36,9,19,8
+Green,D101,U.S. House,2,,Total Votes,502,114,348,40
+Green,D101,U.S. House,2,,Under Votes,14,2,11,1
+Green,D101,U.S. House,2,,Over Votes,0,0,0,0
+Green,D101,State Senate,9,REP,David P. GIVENS,475,111,333,31
+Green,D101,State Senate,9,DEM,Karen M. PENNINGTON,33,4,20,9
+Green,D101,State Senate,9,,Total Votes,508,115,353,40
+Green,D101,State Senate,9,,Under Votes,8,1,6,1
+Green,D101,State Senate,9,,Over Votes,0,0,0,0
+Green,D101,State House,24,REP,Ryan BIVENS,459,104,323,32
+Green,D101,State House,24,DEM,Johnny PENNINGTON,40,9,23,8
+Green,D101,State House,24,,Total Votes,499,113,346,40
+Green,D101,State House,24,,Under Votes,17,3,13,1
+Green,D101,State House,24,,Over Votes,0,0,0,0
+Green,D101,Commonwealth's Attorney,11,REP,Shelly MILLER,441,107,303,31
+Green,D101,Commonwealth's Attorney,11,,Total Votes,441,107,303,31
+Green,D101,Commonwealth's Attorney,11,,Under Votes,75,9,56,10
+Green,D101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Green,D101,Circuit Clerk,,REP,Karen GILPIN,459,108,319,32
+Green,D101,Circuit Clerk,,,Total Votes,459,108,319,32
+Green,D101,Circuit Clerk,,,Under Votes,57,8,40,9
+Green,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Green,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",355,87,241,27
+Green,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",115,23,81,11
+Green,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,470,110,322,38
+Green,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,46,6,37,3
+Green,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Green,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,184,56,113,15
+Green,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,312,58,229,25
+Green,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,496,114,342,40
+Green,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,2,17,1
+Green,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Green,D102,STRAIGHT PARTY,,REP,Republican Party,347,78,249,20
+Green,D102,STRAIGHT PARTY,,DEM,Democratic Party,34,2,27,5
+Green,D102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Green,D102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Green,D102,STRAIGHT PARTY,,,Total Votes,384,80,279,25
+Green,D102,STRAIGHT PARTY,,,Under Votes,271,57,198,16
+Green,D102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Green,D102,President,,REP,Donald J. TRUMP / JD VANCE,583,124,432,27
+Green,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,64,12,41,11
+Green,D102,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Green,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,0,1
+Green,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Green,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Green,D102,President,,,Total Votes,652,137,475,40
+Green,D102,President,,,Under Votes,3,0,2,1
+Green,D102,President,,,Over Votes,1,0,1,0
+Green,D102,U.S. House,2,REP,S. Brett GUTHRIE,584,127,426,31
+Green,D102,U.S. House,2,DEM,Hank LINDERMAN,55,8,38,9
+Green,D102,U.S. House,2,,Total Votes,639,135,464,40
+Green,D102,U.S. House,2,,Under Votes,17,2,14,1
+Green,D102,U.S. House,2,,Over Votes,0,0,0,0
+Green,D102,State Senate,9,REP,David P. GIVENS,604,129,442,33
+Green,D102,State Senate,9,DEM,Karen M. PENNINGTON,45,8,30,7
+Green,D102,State Senate,9,,Total Votes,649,137,472,40
+Green,D102,State Senate,9,,Under Votes,7,0,6,1
+Green,D102,State Senate,9,,Over Votes,0,0,0,0
+Green,D102,State House,24,REP,Ryan BIVENS,579,129,421,29
+Green,D102,State House,24,DEM,Johnny PENNINGTON,54,7,38,9
+Green,D102,State House,24,,Total Votes,633,136,459,38
+Green,D102,State House,24,,Under Votes,23,1,19,3
+Green,D102,State House,24,,Over Votes,0,0,0,0
+Green,D102,Commonwealth's Attorney,11,REP,Shelly MILLER,556,121,401,34
+Green,D102,Commonwealth's Attorney,11,,Total Votes,556,121,401,34
+Green,D102,Commonwealth's Attorney,11,,Under Votes,99,16,76,7
+Green,D102,Commonwealth's Attorney,11,,Over Votes,1,0,1,0
+Green,D102,Circuit Clerk,,REP,Karen GILPIN,578,127,415,36
+Green,D102,Circuit Clerk,,,Total Votes,578,127,415,36
+Green,D102,Circuit Clerk,,,Under Votes,77,10,62,5
+Green,D102,Circuit Clerk,,,Over Votes,1,0,1,0
+Green,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",419,86,309,24
+Green,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",170,36,121,13
+Green,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,589,122,430,37
+Green,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,65,14,47,4
+Green,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Green,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,212,44,156,12
+Green,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,421,90,305,26
+Green,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,633,134,461,38
+Green,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,3,16,3
+Green,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
