@@ -1,0 +1,643 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Hancock,A101,STRAIGHT PARTY,,REP,Republican Party,100,13,84,3
+Hancock,A101,STRAIGHT PARTY,,DEM,Democratic Party,56,7,45,4
+Hancock,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Hancock,A101,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Hancock,A101,STRAIGHT PARTY,,,Total Votes,161,21,133,7
+Hancock,A101,STRAIGHT PARTY,,,Under Votes,251,38,205,8
+Hancock,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,A101,President,,REP,Donald J. TRUMP / JD VANCE,275,37,228,10
+Hancock,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,126,20,102,4
+Hancock,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Hancock,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
+Hancock,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hancock,A101,President,,,Total Votes,408,58,336,14
+Hancock,A101,President,,,Under Votes,3,1,2,0
+Hancock,A101,President,,,Over Votes,0,0,0,0
+Hancock,A101,U.S. House,2,REP,S. Brett GUTHRIE,281,42,230,9
+Hancock,A101,U.S. House,2,DEM,Hank LINDERMAN,118,15,97,6
+Hancock,A101,U.S. House,2,,Total Votes,399,57,327,15
+Hancock,A101,U.S. House,2,,Under Votes,13,2,11,0
+Hancock,A101,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,A101,State House,14,REP,Scott LEWIS,288,41,239,8
+Hancock,A101,State House,14,DEM,Chanda GARNER,107,16,85,6
+Hancock,A101,State House,14,,Total Votes,395,57,324,14
+Hancock,A101,State House,14,,Under Votes,17,2,14,1
+Hancock,A101,State House,14,,Over Votes,0,0,0,0
+Hancock,A101,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,304,42,253,9
+Hancock,A101,Commonwealth's Attorney,38,,Total Votes,304,42,253,9
+Hancock,A101,Commonwealth's Attorney,38,,Under Votes,108,17,85,6
+Hancock,A101,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,A101,Circuit Clerk,,DEM,Mike BOLING,305,39,257,9
+Hancock,A101,Circuit Clerk,,,Total Votes,305,39,257,9
+Hancock,A101,Circuit Clerk,,,Under Votes,105,19,80,6
+Hancock,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,A101,COUNTY SURVEYOR,,,Under Votes,393,58,321,14
+Hancock,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,A101,MAGISTRATE,1,REP,Brent WIGGINTON,234,26,197,11
+Hancock,A101,MAGISTRATE,1,DEM,Darrell WALL,175,32,139,4
+Hancock,A101,MAGISTRATE,1,,Total Votes,409,58,336,15
+Hancock,A101,MAGISTRATE,1,,Under Votes,1,0,1,0
+Hancock,A101,MAGISTRATE,1,,Over Votes,1,0,1,0
+Hancock,A101,Board of Education,2,,Veronica TAYLOR,228,34,189,5
+Hancock,A101,Board of Education,2,,Donna M. QUATTROCCHI,131,18,104,9
+Hancock,A101,Board of Education,2,,Total Votes,359,52,293,14
+Hancock,A101,Board of Education,2,,Under Votes,53,7,45,1
+Hancock,A101,Board of Education,2,,Over Votes,0,0,0,0
+Hancock,A101,MAYOR City of Lewisport,,,"Eddie MILLER ",96,10,82,4
+Hancock,A101,MAYOR City of Lewisport,,,"Eli Chadwick GREGORY ",243,38,198,7
+Hancock,A101,MAYOR City of Lewisport,,,Total Votes,339,48,280,11
+Hancock,A101,MAYOR City of Lewisport,,,Under Votes,22,4,18,0
+Hancock,A101,MAYOR City of Lewisport,,,Over Votes,0,0,0,0
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Marsha JOHNSON ",236,30,198,8
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Kelly VANOVER ",243,32,201,10
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Josh ROBERTS ",258,33,218,7
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Tori Sipes SHIVELY ",186,23,157,6
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Roy WHITE ",183,20,156,7
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Josephine ""Josie"" HAGAN ",190,22,158,10
+Hancock,A101,CITY COUNCIL City of Lewisport,,,"Mary M. HAWKINS ",215,29,176,10
+Hancock,A101,CITY COUNCIL City of Lewisport,,,Total Votes,1511,189,1264,58
+Hancock,A101,CITY COUNCIL City of Lewisport,,,Under Votes,651,126,517,8
+Hancock,A101,CITY COUNCIL City of Lewisport,,,Over Votes,1,0,1,0
+Hancock,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",228,35,183,10
+Hancock,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",157,24,128,5
+Hancock,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,385,59,311,15
+Hancock,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,0,27,0
+Hancock,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hancock,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,114,16,92,6
+Hancock,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,282,42,232,8
+Hancock,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,396,58,324,14
+Hancock,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,16,1,14,1
+Hancock,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,A101,QUESTION-HANCOCK CANNABIS,,,YES,258,42,207,9
+Hancock,A101,QUESTION-HANCOCK CANNABIS,,,NO,129,16,107,6
+Hancock,A101,QUESTION-HANCOCK CANNABIS,,,Total Votes,387,58,314,15
+Hancock,A101,QUESTION-HANCOCK CANNABIS,,,Under Votes,25,1,24,0
+Hancock,A101,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,A102,STRAIGHT PARTY,,REP,Republican Party,165,33,130,2
+Hancock,A102,STRAIGHT PARTY,,DEM,Democratic Party,102,14,76,12
+Hancock,A102,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Hancock,A102,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Hancock,A102,STRAIGHT PARTY,,,Total Votes,273,47,212,14
+Hancock,A102,STRAIGHT PARTY,,,Under Votes,393,77,303,13
+Hancock,A102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Hancock,A102,President,,REP,Donald J. TRUMP / JD VANCE,422,77,334,11
+Hancock,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,225,47,163,15
+Hancock,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Hancock,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,0,9,0
+Hancock,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,7,0,6,1
+Hancock,A102,President,,,Total Votes,664,124,513,27
+Hancock,A102,President,,,Under Votes,1,0,1,0
+Hancock,A102,President,,,Over Votes,0,0,0,0
+Hancock,A102,U.S. House,2,REP,S. Brett GUTHRIE,421,78,329,14
+Hancock,A102,U.S. House,2,DEM,Hank LINDERMAN,227,43,171,13
+Hancock,A102,U.S. House,2,,Total Votes,648,121,500,27
+Hancock,A102,U.S. House,2,,Under Votes,17,3,14,0
+Hancock,A102,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,A102,State House,14,REP,Scott LEWIS,423,79,329,15
+Hancock,A102,State House,14,DEM,Chanda GARNER,217,39,167,11
+Hancock,A102,State House,14,,Total Votes,640,118,496,26
+Hancock,A102,State House,14,,Under Votes,27,6,20,1
+Hancock,A102,State House,14,,Over Votes,0,0,0,0
+Hancock,A102,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,473,87,371,15
+Hancock,A102,Commonwealth's Attorney,38,,Total Votes,473,87,371,15
+Hancock,A102,Commonwealth's Attorney,38,,Under Votes,187,37,139,11
+Hancock,A102,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,A102,Circuit Clerk,,DEM,Mike BOLING,493,85,386,22
+Hancock,A102,Circuit Clerk,,,Total Votes,493,85,386,22
+Hancock,A102,Circuit Clerk,,,Under Votes,165,38,122,5
+Hancock,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,A102,COUNTY SURVEYOR,,,Under Votes,638,120,492,26
+Hancock,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,A102,MAGISTRATE,1,REP,Brent WIGGINTON,352,71,273,8
+Hancock,A102,MAGISTRATE,1,DEM,Darrell WALL,298,48,231,19
+Hancock,A102,MAGISTRATE,1,,Total Votes,650,119,504,27
+Hancock,A102,MAGISTRATE,1,,Under Votes,15,5,10,0
+Hancock,A102,MAGISTRATE,1,,Over Votes,1,0,1,0
+Hancock,A102,Board of Education,2,,Veronica TAYLOR,263,41,213,9
+Hancock,A102,Board of Education,2,,Donna M. QUATTROCCHI,122,17,94,11
+Hancock,A102,Board of Education,2,,Total Votes,385,58,307,20
+Hancock,A102,Board of Education,2,,Under Votes,64,15,46,3
+Hancock,A102,Board of Education,2,,Over Votes,0,0,0,0
+Hancock,A102,Board of Education,5,,Mary Beth EMMICK MORRIS,106,22,80,4
+Hancock,A102,Board of Education,5,,Charles Todd DUNCAN,38,6,32,0
+Hancock,A102,Board of Education,5,,Total Votes,144,28,112,4
+Hancock,A102,Board of Education,5,,Under Votes,34,7,27,0
+Hancock,A102,Board of Education,5,,Over Votes,0,0,0,0
+Hancock,A102,MAYOR City of Lewisport,,,"Eddie MILLER ",119,18,100,1
+Hancock,A102,MAYOR City of Lewisport,,,"Eli Chadwick GREGORY ",283,44,220,19
+Hancock,A102,MAYOR City of Lewisport,,,Total Votes,402,62,320,20
+Hancock,A102,MAYOR City of Lewisport,,,Under Votes,36,9,25,2
+Hancock,A102,MAYOR City of Lewisport,,,Over Votes,0,0,0,0
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Marsha JOHNSON ",289,42,231,16
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Kelly VANOVER ",271,42,215,14
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Josh ROBERTS ",303,42,245,16
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Tori Sipes SHIVELY ",211,34,165,12
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Roy WHITE ",225,33,182,10
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Josephine ""Josie"" HAGAN ",190,26,153,11
+Hancock,A102,CITY COUNCIL City of Lewisport,,,"Mary M. HAWKINS ",256,42,202,12
+Hancock,A102,CITY COUNCIL City of Lewisport,,,Total Votes,1745,261,1393,91
+Hancock,A102,CITY COUNCIL City of Lewisport,,,Under Votes,889,165,689,35
+Hancock,A102,CITY COUNCIL City of Lewisport,,,Over Votes,1,0,0,1
+Hancock,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",348,54,279,15
+Hancock,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",277,61,205,11
+Hancock,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,625,115,484,26
+Hancock,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,40,9,30,1
+Hancock,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Hancock,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,178,28,140,10
+Hancock,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,470,90,365,15
+Hancock,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,648,118,505,25
+Hancock,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,5,11,2
+Hancock,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Hancock,A102,QUESTION-HANCOCK CANNABIS,,,YES,462,69,379,14
+Hancock,A102,QUESTION-HANCOCK CANNABIS,,,NO,187,53,122,12
+Hancock,A102,QUESTION-HANCOCK CANNABIS,,,Total Votes,649,122,501,26
+Hancock,A102,QUESTION-HANCOCK CANNABIS,,,Under Votes,18,2,15,1
+Hancock,A102,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,B101,STRAIGHT PARTY,,REP,Republican Party,75,20,47,8
+Hancock,B101,STRAIGHT PARTY,,DEM,Democratic Party,53,11,39,3
+Hancock,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Hancock,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hancock,B101,STRAIGHT PARTY,,,Total Votes,128,31,86,11
+Hancock,B101,STRAIGHT PARTY,,,Under Votes,234,54,166,14
+Hancock,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,B101,President,,REP,Donald J. TRUMP / JD VANCE,239,50,177,12
+Hancock,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,113,31,69,13
+Hancock,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Hancock,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
+Hancock,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Hancock,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Hancock,B101,President,,,Total Votes,358,84,249,25
+Hancock,B101,President,,,Under Votes,3,0,3,0
+Hancock,B101,President,,,Over Votes,0,0,0,0
+Hancock,B101,U.S. House,2,REP,S. Brett GUTHRIE,248,56,175,17
+Hancock,B101,U.S. House,2,DEM,Hank LINDERMAN,105,28,69,8
+Hancock,B101,U.S. House,2,,Total Votes,353,84,244,25
+Hancock,B101,U.S. House,2,,Under Votes,9,1,8,0
+Hancock,B101,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,B101,State House,14,REP,Scott LEWIS,247,58,172,17
+Hancock,B101,State House,14,DEM,Chanda GARNER,101,25,68,8
+Hancock,B101,State House,14,,Total Votes,348,83,240,25
+Hancock,B101,State House,14,,Under Votes,14,2,12,0
+Hancock,B101,State House,14,,Over Votes,0,0,0,0
+Hancock,B101,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,244,61,169,14
+Hancock,B101,Commonwealth's Attorney,38,,Total Votes,244,61,169,14
+Hancock,B101,Commonwealth's Attorney,38,,Under Votes,114,23,81,10
+Hancock,B101,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,B101,Circuit Clerk,,DEM,Mike BOLING,275,62,198,15
+Hancock,B101,Circuit Clerk,,,Total Votes,275,62,198,15
+Hancock,B101,Circuit Clerk,,,Under Votes,86,23,54,9
+Hancock,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,B101,COUNTY SURVEYOR,,,Under Votes,346,81,244,21
+Hancock,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,B101,Board of Education,5,,Mary Beth EMMICK MORRIS,211,47,148,16
+Hancock,B101,Board of Education,5,,Charles Todd DUNCAN,109,26,78,5
+Hancock,B101,Board of Education,5,,Total Votes,320,73,226,21
+Hancock,B101,Board of Education,5,,Under Votes,41,12,25,4
+Hancock,B101,Board of Education,5,,Over Votes,0,0,0,0
+Hancock,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,224,56,154,14
+Hancock,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,105,26,70,9
+Hancock,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,329,82,224,23
+Hancock,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,3,28,2
+Hancock,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hancock,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,80,25,50,5
+Hancock,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,273,58,195,20
+Hancock,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,353,83,245,25
+Hancock,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,2,7,0
+Hancock,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,B101,QUESTION-HANCOCK CANNABIS,,,YES,243,55,174,14
+Hancock,B101,QUESTION-HANCOCK CANNABIS,,,NO,106,29,67,10
+Hancock,B101,QUESTION-HANCOCK CANNABIS,,,Total Votes,349,84,241,24
+Hancock,B101,QUESTION-HANCOCK CANNABIS,,,Under Votes,13,1,11,1
+Hancock,B101,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,B102,STRAIGHT PARTY,,REP,Republican Party,147,37,100,10
+Hancock,B102,STRAIGHT PARTY,,DEM,Democratic Party,55,15,29,11
+Hancock,B102,STRAIGHT PARTY,,KY,Kentucky Party,5,0,4,1
+Hancock,B102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hancock,B102,STRAIGHT PARTY,,,Total Votes,207,52,133,22
+Hancock,B102,STRAIGHT PARTY,,,Under Votes,247,64,170,13
+Hancock,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,B102,President,,REP,Donald J. TRUMP / JD VANCE,327,82,231,14
+Hancock,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,125,33,71,21
+Hancock,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hancock,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Hancock,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hancock,B102,President,,,Total Votes,454,116,303,35
+Hancock,B102,President,,,Under Votes,0,0,0,0
+Hancock,B102,President,,,Over Votes,0,0,0,0
+Hancock,B102,U.S. House,2,REP,S. Brett GUTHRIE,329,84,229,16
+Hancock,B102,U.S. House,2,DEM,Hank LINDERMAN,114,27,70,17
+Hancock,B102,U.S. House,2,,Total Votes,443,111,299,33
+Hancock,B102,U.S. House,2,,Under Votes,11,5,4,2
+Hancock,B102,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,B102,State House,14,REP,Scott LEWIS,332,83,233,16
+Hancock,B102,State House,14,DEM,Chanda GARNER,106,25,64,17
+Hancock,B102,State House,14,,Total Votes,438,108,297,33
+Hancock,B102,State House,14,,Under Votes,16,8,6,2
+Hancock,B102,State House,14,,Over Votes,0,0,0,0
+Hancock,B102,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,347,80,248,19
+Hancock,B102,Commonwealth's Attorney,38,,Total Votes,347,80,248,19
+Hancock,B102,Commonwealth's Attorney,38,,Under Votes,102,34,54,14
+Hancock,B102,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,B102,Circuit Clerk,,DEM,Mike BOLING,301,67,211,23
+Hancock,B102,Circuit Clerk,,,Total Votes,301,67,211,23
+Hancock,B102,Circuit Clerk,,,Under Votes,147,48,87,12
+Hancock,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,B102,COUNTY SURVEYOR,,,Under Votes,435,113,288,34
+Hancock,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,B102,Board of Education,5,,Mary Beth EMMICK MORRIS,176,38,125,13
+Hancock,B102,Board of Education,5,,Charles Todd DUNCAN,70,13,54,3
+Hancock,B102,Board of Education,5,,Total Votes,246,51,179,16
+Hancock,B102,Board of Education,5,,Under Votes,61,18,32,11
+Hancock,B102,Board of Education,5,,Over Votes,0,0,0,0
+Hancock,B102,MAYOR City of Lewisport,,,"Eddie MILLER ",0,0,0,0
+Hancock,B102,MAYOR City of Lewisport,,,"Eli Chadwick GREGORY ",3,0,1,2
+Hancock,B102,MAYOR City of Lewisport,,,Total Votes,3,0,1,2
+Hancock,B102,MAYOR City of Lewisport,,,Under Votes,7,2,0,5
+Hancock,B102,MAYOR City of Lewisport,,,Over Votes,0,0,0,0
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Marsha JOHNSON ",1,0,0,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Kelly VANOVER ",1,0,0,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Josh ROBERTS ",2,0,1,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Tori Sipes SHIVELY ",0,0,0,0
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Roy WHITE ",1,0,0,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Josephine ""Josie"" HAGAN ",1,0,0,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,"Mary M. HAWKINS ",1,0,0,1
+Hancock,B102,CITY COUNCIL City of Lewisport,,,Total Votes,7,0,1,6
+Hancock,B102,CITY COUNCIL City of Lewisport,,,Under Votes,53,12,5,36
+Hancock,B102,CITY COUNCIL City of Lewisport,,,Over Votes,0,0,0,0
+Hancock,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,284,67,195,22
+Hancock,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,145,40,96,9
+Hancock,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,429,107,291,31
+Hancock,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,9,12,4
+Hancock,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hancock,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,136,39,88,9
+Hancock,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,300,71,208,21
+Hancock,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,436,110,296,30
+Hancock,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,5,7,5
+Hancock,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Hancock,B102,QUESTION-HANCOCK CANNABIS,,,YES,276,64,192,20
+Hancock,B102,QUESTION-HANCOCK CANNABIS,,,NO,163,45,105,13
+Hancock,B102,QUESTION-HANCOCK CANNABIS,,,Total Votes,439,109,297,33
+Hancock,B102,QUESTION-HANCOCK CANNABIS,,,Under Votes,15,7,6,2
+Hancock,B102,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,B103,STRAIGHT PARTY,,REP,Republican Party,123,43,77,3
+Hancock,B103,STRAIGHT PARTY,,DEM,Democratic Party,51,15,31,5
+Hancock,B103,STRAIGHT PARTY,,KY,Kentucky Party,3,0,2,1
+Hancock,B103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Hancock,B103,STRAIGHT PARTY,,,Total Votes,179,58,112,9
+Hancock,B103,STRAIGHT PARTY,,,Under Votes,174,45,123,6
+Hancock,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,B103,President,,REP,Donald J. TRUMP / JD VANCE,250,75,171,4
+Hancock,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,23,54,10
+Hancock,B103,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Hancock,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,7,0
+Hancock,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Hancock,B103,President,,,Total Votes,352,103,234,15
+Hancock,B103,President,,,Under Votes,1,0,1,0
+Hancock,B103,President,,,Over Votes,0,0,0,0
+Hancock,B103,U.S. House,2,REP,S. Brett GUTHRIE,256,75,177,4
+Hancock,B103,U.S. House,2,DEM,Hank LINDERMAN,91,26,55,10
+Hancock,B103,U.S. House,2,,Total Votes,347,101,232,14
+Hancock,B103,U.S. House,2,,Under Votes,6,2,3,1
+Hancock,B103,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,B103,State House,14,REP,Scott LEWIS,250,71,174,5
+Hancock,B103,State House,14,DEM,Chanda GARNER,90,26,55,9
+Hancock,B103,State House,14,,Total Votes,340,97,229,14
+Hancock,B103,State House,14,,Under Votes,13,6,6,1
+Hancock,B103,State House,14,,Over Votes,0,0,0,0
+Hancock,B103,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,264,78,181,5
+Hancock,B103,Commonwealth's Attorney,38,,Total Votes,264,78,181,5
+Hancock,B103,Commonwealth's Attorney,38,,Under Votes,86,25,52,9
+Hancock,B103,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,B103,Circuit Clerk,,DEM,Mike BOLING,225,58,155,12
+Hancock,B103,Circuit Clerk,,,Total Votes,225,58,155,12
+Hancock,B103,Circuit Clerk,,,Under Votes,120,42,75,3
+Hancock,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,B103,COUNTY SURVEYOR,,,Under Votes,337,98,224,15
+Hancock,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",217,58,148,11
+Hancock,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",111,36,71,4
+Hancock,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,328,94,219,15
+Hancock,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,9,16,0
+Hancock,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hancock,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,111,38,67,6
+Hancock,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,234,61,164,9
+Hancock,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,345,99,231,15
+Hancock,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,4,3,0
+Hancock,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Hancock,B103,QUESTION-HANCOCK CANNABIS,,,YES,226,62,153,11
+Hancock,B103,QUESTION-HANCOCK CANNABIS,,,NO,115,37,74,4
+Hancock,B103,QUESTION-HANCOCK CANNABIS,,,Total Votes,341,99,227,15
+Hancock,B103,QUESTION-HANCOCK CANNABIS,,,Under Votes,10,3,7,0
+Hancock,B103,QUESTION-HANCOCK CANNABIS,,,Over Votes,2,1,1,0
+Hancock,C101,STRAIGHT PARTY,,REP,Republican Party,230,75,139,16
+Hancock,C101,STRAIGHT PARTY,,DEM,Democratic Party,74,27,38,9
+Hancock,C101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Hancock,C101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hancock,C101,STRAIGHT PARTY,,,Total Votes,305,102,178,25
+Hancock,C101,STRAIGHT PARTY,,,Under Votes,344,100,230,14
+Hancock,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,C101,President,,REP,Donald J. TRUMP / JD VANCE,470,140,307,23
+Hancock,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,162,59,89,14
+Hancock,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hancock,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,5,0
+Hancock,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Hancock,C101,President,,,Total Votes,641,199,405,37
+Hancock,C101,President,,,Under Votes,4,2,2,0
+Hancock,C101,President,,,Over Votes,1,0,0,1
+Hancock,C101,U.S. House,2,REP,S. Brett GUTHRIE,472,145,304,23
+Hancock,C101,U.S. House,2,DEM,Hank LINDERMAN,158,53,92,13
+Hancock,C101,U.S. House,2,,Total Votes,630,198,396,36
+Hancock,C101,U.S. House,2,,Under Votes,17,4,10,3
+Hancock,C101,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,C101,State House,14,REP,Scott LEWIS,472,143,306,23
+Hancock,C101,State House,14,DEM,Chanda GARNER,155,55,88,12
+Hancock,C101,State House,14,,Total Votes,627,198,394,35
+Hancock,C101,State House,14,,Under Votes,21,3,14,4
+Hancock,C101,State House,14,,Over Votes,0,0,0,0
+Hancock,C101,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,479,145,312,22
+Hancock,C101,Commonwealth's Attorney,38,,Total Votes,479,145,312,22
+Hancock,C101,Commonwealth's Attorney,38,,Under Votes,168,57,94,17
+Hancock,C101,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,C101,Circuit Clerk,,DEM,Mike BOLING,406,118,264,24
+Hancock,C101,Circuit Clerk,,,Total Votes,406,118,264,24
+Hancock,C101,Circuit Clerk,,,Under Votes,241,84,142,15
+Hancock,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,C101,COUNTY SURVEYOR,,,Under Votes,631,198,394,39
+Hancock,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Matt PATTERSON ",116,29,83,4
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Pat ""Junnie"" MORRIS ",173,53,109,11
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Kevin LINN ",166,56,98,12
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Tracy O. JOHNSON ",177,64,101,12
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Justin BASHAM ",170,50,112,8
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Danny DOYLE ",158,57,92,9
+Hancock,C101,CITY COUNCIL City of Hawesville,,,"Wayne HERNDON ",158,56,87,15
+Hancock,C101,CITY COUNCIL City of Hawesville,,,Total Votes,1118,365,682,71
+Hancock,C101,CITY COUNCIL City of Hawesville,,,Under Votes,975,258,627,90
+Hancock,C101,CITY COUNCIL City of Hawesville,,,Over Votes,1,1,0,0
+Hancock,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",378,112,242,24
+Hancock,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",223,71,139,13
+Hancock,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,601,183,381,37
+Hancock,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,16,27,2
+Hancock,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,3,0,0
+Hancock,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,198,45,142,11
+Hancock,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,429,149,254,26
+Hancock,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,627,194,396,37
+Hancock,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,7,12,2
+Hancock,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Hancock,C101,QUESTION-HANCOCK CANNABIS,,,YES,397,115,262,20
+Hancock,C101,QUESTION-HANCOCK CANNABIS,,,NO,231,80,133,18
+Hancock,C101,QUESTION-HANCOCK CANNABIS,,,Total Votes,628,195,395,38
+Hancock,C101,QUESTION-HANCOCK CANNABIS,,,Under Votes,20,7,12,1
+Hancock,C101,QUESTION-HANCOCK CANNABIS,,,Over Votes,1,0,1,0
+Hancock,C102,STRAIGHT PARTY,,REP,Republican Party,161,58,95,8
+Hancock,C102,STRAIGHT PARTY,,DEM,Democratic Party,64,33,28,3
+Hancock,C102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Hancock,C102,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Hancock,C102,STRAIGHT PARTY,,,Total Votes,228,91,126,11
+Hancock,C102,STRAIGHT PARTY,,,Under Votes,285,81,190,14
+Hancock,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,C102,President,,REP,Donald J. TRUMP / JD VANCE,367,111,239,17
+Hancock,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,130,58,64,8
+Hancock,C102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hancock,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,1,9,0
+Hancock,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Hancock,C102,President,,,Total Votes,508,170,313,25
+Hancock,C102,President,,,Under Votes,4,2,2,0
+Hancock,C102,President,,,Over Votes,0,0,0,0
+Hancock,C102,U.S. House,2,REP,S. Brett GUTHRIE,363,112,235,16
+Hancock,C102,U.S. House,2,DEM,Hank LINDERMAN,136,57,71,8
+Hancock,C102,U.S. House,2,,Total Votes,499,169,306,24
+Hancock,C102,U.S. House,2,,Under Votes,14,3,10,1
+Hancock,C102,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,C102,State House,14,REP,Scott LEWIS,371,118,235,18
+Hancock,C102,State House,14,DEM,Chanda GARNER,123,49,68,6
+Hancock,C102,State House,14,,Total Votes,494,167,303,24
+Hancock,C102,State House,14,,Under Votes,19,5,13,1
+Hancock,C102,State House,14,,Over Votes,0,0,0,0
+Hancock,C102,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,378,110,251,17
+Hancock,C102,Commonwealth's Attorney,38,,Total Votes,378,110,251,17
+Hancock,C102,Commonwealth's Attorney,38,,Under Votes,132,61,64,7
+Hancock,C102,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,C102,Circuit Clerk,,DEM,Mike BOLING,345,117,213,15
+Hancock,C102,Circuit Clerk,,,Total Votes,345,117,213,15
+Hancock,C102,Circuit Clerk,,,Under Votes,160,55,95,10
+Hancock,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,C102,COUNTY SURVEYOR,,,Under Votes,494,170,299,25
+Hancock,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,C102,Board of Education,4,,Shane BALL,208,50,150,8
+Hancock,C102,Board of Education,4,,Total Votes,208,50,150,8
+Hancock,C102,Board of Education,4,,Under Votes,163,60,98,5
+Hancock,C102,Board of Education,4,,Over Votes,0,0,0,0
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Matt PATTERSON ",31,11,17,3
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Pat ""Junnie"" MORRIS ",69,28,34,7
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Kevin LINN ",64,27,32,5
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Tracy O. JOHNSON ",56,21,30,5
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Justin BASHAM ",69,30,35,4
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Danny DOYLE ",57,24,27,6
+Hancock,C102,CITY COUNCIL City of Hawesville,,,"Wayne HERNDON ",58,22,31,5
+Hancock,C102,CITY COUNCIL City of Hawesville,,,Total Votes,404,163,206,35
+Hancock,C102,CITY COUNCIL City of Hawesville,,,Under Votes,245,109,105,31
+Hancock,C102,CITY COUNCIL City of Hawesville,,,Over Votes,0,0,0,0
+Hancock,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",307,97,198,12
+Hancock,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",172,60,101,11
+Hancock,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,479,157,299,23
+Hancock,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,15,16,2
+Hancock,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Hancock,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,163,57,95,11
+Hancock,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,329,111,207,11
+Hancock,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,492,168,302,22
+Hancock,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,4,14,3
+Hancock,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,C102,QUESTION-HANCOCK CANNABIS,,,YES,348,112,224,12
+Hancock,C102,QUESTION-HANCOCK CANNABIS,,,NO,147,56,81,10
+Hancock,C102,QUESTION-HANCOCK CANNABIS,,,Total Votes,495,168,305,22
+Hancock,C102,QUESTION-HANCOCK CANNABIS,,,Under Votes,18,4,11,3
+Hancock,C102,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,D101,STRAIGHT PARTY,,REP,Republican Party,182,34,142,6
+Hancock,D101,STRAIGHT PARTY,,DEM,Democratic Party,49,16,30,3
+Hancock,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Hancock,D101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Hancock,D101,STRAIGHT PARTY,,,Total Votes,234,50,175,9
+Hancock,D101,STRAIGHT PARTY,,,Under Votes,183,34,148,1
+Hancock,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,D101,President,,REP,Donald J. TRUMP / JD VANCE,341,64,270,7
+Hancock,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,71,19,49,3
+Hancock,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hancock,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Hancock,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Hancock,D101,President,,,Total Votes,414,83,321,10
+Hancock,D101,President,,,Under Votes,2,1,1,0
+Hancock,D101,President,,,Over Votes,0,0,0,0
+Hancock,D101,U.S. House,2,REP,S. Brett GUTHRIE,330,61,262,7
+Hancock,D101,U.S. House,2,DEM,Hank LINDERMAN,75,21,51,3
+Hancock,D101,U.S. House,2,,Total Votes,405,82,313,10
+Hancock,D101,U.S. House,2,,Under Votes,12,2,10,0
+Hancock,D101,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,D101,State House,14,REP,Scott LEWIS,334,67,260,7
+Hancock,D101,State House,14,DEM,Chanda GARNER,67,16,48,3
+Hancock,D101,State House,14,,Total Votes,401,83,308,10
+Hancock,D101,State House,14,,Under Votes,16,1,15,0
+Hancock,D101,State House,14,,Over Votes,0,0,0,0
+Hancock,D101,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,330,60,263,7
+Hancock,D101,Commonwealth's Attorney,38,,Total Votes,330,60,263,7
+Hancock,D101,Commonwealth's Attorney,38,,Under Votes,87,24,60,3
+Hancock,D101,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,D101,Circuit Clerk,,DEM,Mike BOLING,254,51,198,5
+Hancock,D101,Circuit Clerk,,,Total Votes,254,51,198,5
+Hancock,D101,Circuit Clerk,,,Under Votes,158,29,124,5
+Hancock,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,D101,COUNTY SURVEYOR,,,Under Votes,397,80,308,9
+Hancock,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,D101,Board of Education,4,,Shane BALL,186,32,150,4
+Hancock,D101,Board of Education,4,,Total Votes,186,32,150,4
+Hancock,D101,Board of Education,4,,Under Votes,173,39,129,5
+Hancock,D101,Board of Education,4,,Over Votes,0,0,0,0
+Hancock,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,272,59,207,6
+Hancock,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,107,17,88,2
+Hancock,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,379,76,295,8
+Hancock,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,37,8,27,2
+Hancock,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Hancock,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,133,20,108,5
+Hancock,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,266,58,203,5
+Hancock,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,399,78,311,10
+Hancock,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,6,12,0
+Hancock,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,D101,QUESTION-HANCOCK CANNABIS,,,YES,272,47,216,9
+Hancock,D101,QUESTION-HANCOCK CANNABIS,,,NO,122,30,91,1
+Hancock,D101,QUESTION-HANCOCK CANNABIS,,,Total Votes,394,77,307,10
+Hancock,D101,QUESTION-HANCOCK CANNABIS,,,Under Votes,23,7,16,0
+Hancock,D101,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,D102,STRAIGHT PARTY,,REP,Republican Party,198,29,161,8
+Hancock,D102,STRAIGHT PARTY,,DEM,Democratic Party,39,2,33,4
+Hancock,D102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Hancock,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Hancock,D102,STRAIGHT PARTY,,,Total Votes,240,31,197,12
+Hancock,D102,STRAIGHT PARTY,,,Under Votes,227,36,184,7
+Hancock,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,D102,President,,REP,Donald J. TRUMP / JD VANCE,386,60,316,10
+Hancock,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,71,6,56,9
+Hancock,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Hancock,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Hancock,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Hancock,D102,President,,,Total Votes,463,66,378,19
+Hancock,D102,President,,,Under Votes,3,1,2,0
+Hancock,D102,President,,,Over Votes,0,0,0,0
+Hancock,D102,U.S. House,2,REP,S. Brett GUTHRIE,389,59,318,12
+Hancock,D102,U.S. House,2,DEM,Hank LINDERMAN,69,7,56,6
+Hancock,D102,U.S. House,2,,Total Votes,458,66,374,18
+Hancock,D102,U.S. House,2,,Under Votes,8,1,7,0
+Hancock,D102,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,D102,State House,14,REP,Scott LEWIS,393,60,322,11
+Hancock,D102,State House,14,DEM,Chanda GARNER,62,5,49,8
+Hancock,D102,State House,14,,Total Votes,455,65,371,19
+Hancock,D102,State House,14,,Under Votes,12,2,10,0
+Hancock,D102,State House,14,,Over Votes,0,0,0,0
+Hancock,D102,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,383,53,315,15
+Hancock,D102,Commonwealth's Attorney,38,,Total Votes,383,53,315,15
+Hancock,D102,Commonwealth's Attorney,38,,Under Votes,84,14,66,4
+Hancock,D102,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,D102,Circuit Clerk,,DEM,Mike BOLING,290,37,241,12
+Hancock,D102,Circuit Clerk,,,Total Votes,290,37,241,12
+Hancock,D102,Circuit Clerk,,,Under Votes,172,30,135,7
+Hancock,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,D102,COUNTY SURVEYOR,,,Under Votes,450,66,365,19
+Hancock,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",328,51,264,13
+Hancock,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",103,12,86,5
+Hancock,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,431,63,350,18
+Hancock,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,4,30,1
+Hancock,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Hancock,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,185,31,144,10
+Hancock,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,273,34,230,9
+Hancock,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,458,65,374,19
+Hancock,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,2,7,0
+Hancock,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,D102,QUESTION-HANCOCK CANNABIS,,,YES,300,44,249,7
+Hancock,D102,QUESTION-HANCOCK CANNABIS,,,NO,155,22,121,12
+Hancock,D102,QUESTION-HANCOCK CANNABIS,,,Total Votes,455,66,370,19
+Hancock,D102,QUESTION-HANCOCK CANNABIS,,,Under Votes,12,1,11,0
+Hancock,D102,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
+Hancock,D103,STRAIGHT PARTY,,REP,Republican Party,136,21,112,3
+Hancock,D103,STRAIGHT PARTY,,DEM,Democratic Party,35,2,31,2
+Hancock,D103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Hancock,D103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hancock,D103,STRAIGHT PARTY,,,Total Votes,172,23,144,5
+Hancock,D103,STRAIGHT PARTY,,,Under Votes,200,28,168,4
+Hancock,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hancock,D103,President,,REP,Donald J. TRUMP / JD VANCE,298,45,248,5
+Hancock,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,63,6,53,4
+Hancock,D103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hancock,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,6,0
+Hancock,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hancock,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Hancock,D103,President,,,Total Votes,371,51,311,9
+Hancock,D103,President,,,Under Votes,1,0,1,0
+Hancock,D103,President,,,Over Votes,0,0,0,0
+Hancock,D103,U.S. House,2,REP,S. Brett GUTHRIE,295,45,244,6
+Hancock,D103,U.S. House,2,DEM,Hank LINDERMAN,66,5,58,3
+Hancock,D103,U.S. House,2,,Total Votes,361,50,302,9
+Hancock,D103,U.S. House,2,,Under Votes,10,1,9,0
+Hancock,D103,U.S. House,2,,Over Votes,0,0,0,0
+Hancock,D103,State House,14,REP,Scott LEWIS,297,45,246,6
+Hancock,D103,State House,14,DEM,Chanda GARNER,56,5,48,3
+Hancock,D103,State House,14,,Total Votes,353,50,294,9
+Hancock,D103,State House,14,,Under Votes,19,1,18,0
+Hancock,D103,State House,14,,Over Votes,0,0,0,0
+Hancock,D103,Commonwealth's Attorney,38,REP,Blake Ross CHAMBERS,294,46,242,6
+Hancock,D103,Commonwealth's Attorney,38,,Total Votes,294,46,242,6
+Hancock,D103,Commonwealth's Attorney,38,,Under Votes,77,5,69,3
+Hancock,D103,Commonwealth's Attorney,38,,Over Votes,0,0,0,0
+Hancock,D103,Circuit Clerk,,DEM,Mike BOLING,231,28,198,5
+Hancock,D103,Circuit Clerk,,,Total Votes,231,28,198,5
+Hancock,D103,Circuit Clerk,,,Under Votes,136,22,110,4
+Hancock,D103,Circuit Clerk,,,Over Votes,0,0,0,0
+Hancock,D103,COUNTY SURVEYOR,,,,0,0,0,0
+Hancock,D103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hancock,D103,COUNTY SURVEYOR,,,Under Votes,363,49,305,9
+Hancock,D103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hancock,D103,Board of Education,4,,Shane BALL,216,24,188,4
+Hancock,D103,Board of Education,4,,Total Votes,216,24,188,4
+Hancock,D103,Board of Education,4,,Under Votes,135,19,112,4
+Hancock,D103,Board of Education,4,,Over Votes,0,0,0,0
+Hancock,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,213,31,177,5
+Hancock,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,124,19,102,3
+Hancock,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,337,50,279,8
+Hancock,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,1,33,1
+Hancock,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hancock,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,126,18,104,4
+Hancock,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,227,32,191,4
+Hancock,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,353,50,295,8
+Hancock,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,1,17,1
+Hancock,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hancock,D103,QUESTION-HANCOCK CANNABIS,,,YES,251,31,217,3
+Hancock,D103,QUESTION-HANCOCK CANNABIS,,,NO,99,19,75,5
+Hancock,D103,QUESTION-HANCOCK CANNABIS,,,Total Votes,350,50,292,8
+Hancock,D103,QUESTION-HANCOCK CANNABIS,,,Under Votes,22,1,20,1
+Hancock,D103,QUESTION-HANCOCK CANNABIS,,,Over Votes,0,0,0,0
