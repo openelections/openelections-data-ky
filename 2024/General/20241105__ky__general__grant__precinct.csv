@@ -1,0 +1,253 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Grant,A101,STRAIGHT PARTY,,REP,Republican Party,1755,586,1104,65
+Grant,A101,STRAIGHT PARTY,,DEM,Democratic Party,303,116,165,22
+Grant,A101,STRAIGHT PARTY,,KY,Kentucky Party,17,4,13,0
+Grant,A101,STRAIGHT PARTY,,LIB,Libertarian Party,11,1,10,0
+Grant,A101,STRAIGHT PARTY,,,Total Votes,2086,707,1292,87
+Grant,A101,STRAIGHT PARTY,,,Under Votes,1742,560,1094,88
+Grant,A101,STRAIGHT PARTY,,,Over Votes,3,2,0,1
+Grant,A101,President,,REP,Donald J. TRUMP / JD VANCE,3120,1002,1999,119
+Grant,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,643,249,339,55
+Grant,A101,President,,KY,Jill  STEIN / Samson KPADENOU,13,1,12,0
+Grant,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,32,10,20,2
+Grant,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
+Grant,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Grant,A101,President,,,Write In Total,0,0,0,0
+Grant,A101,President,,,Total Votes,3814,1263,2375,176
+Grant,A101,President,,,Under Votes,13,5,8,0
+Grant,A101,President,,,Over Votes,4,1,3,0
+Grant,A101,U.S. House,4,REP,Thomas MASSIE,3236,1045,2067,124
+Grant,A101,U.S. House,4,,Write In Total,6,3,3,0
+Grant,A101,U.S. House,4,,Total Votes,3242,1048,2070,124
+Grant,A101,U.S. House,4,,Under Votes,588,221,316,51
+Grant,A101,U.S. House,4,,Over Votes,0,0,0,0
+Grant,A101,State Senate,17,REP,Matt NUNN,3089,1014,1959,116
+Grant,A101,State Senate,17,DEM,Kiana FIELDS,646,226,369,51
+Grant,A101,State Senate,17,,Total Votes,3735,1240,2328,167
+Grant,A101,State Senate,17,,Under Votes,94,28,58,8
+Grant,A101,State Senate,17,,Over Votes,1,1,0,0
+Grant,A101,State House,61,REP,Savannah MADDOX,3183,1022,2037,124
+Grant,A101,State House,61,,Total Votes,3183,1022,2037,124
+Grant,A101,State House,61,,Under Votes,647,247,349,51
+Grant,A101,State House,61,,Over Votes,0,0,0,0
+Grant,A101,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3185,1021,2040,124
+Grant,A101,Commonwealth's Attorney,15,,Total Votes,3185,1021,2040,124
+Grant,A101,Commonwealth's Attorney,15,,Under Votes,644,248,345,51
+Grant,A101,Commonwealth's Attorney,15,,Over Votes,1,0,1,0
+Grant,A101,Circuit Clerk,,,"Wray J. JUMP REP ",3295,1065,2090,140
+Grant,A101,Circuit Clerk,,,Total Votes,3295,1065,2090,140
+Grant,A101,Circuit Clerk,,,Under Votes,535,204,296,35
+Grant,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1944,611,1247,86
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1921,642,1201,78
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1724,555,1087,82
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5589,1808,3535,246
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,9727,3264,6009,454
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,1,0,0
+Grant,A101,Board of Education,1,,Charlotte B. SCHMIDT,348,95,240,13
+Grant,A101,Board of Education,1,,Emily Ann McCLANAHAN,658,190,446,22
+Grant,A101,Board of Education,1,,Bryon Keith ELLINGTON,299,102,184,13
+Grant,A101,Board of Education,1,,Thomas Chance CARRIG,167,54,107,6
+Grant,A101,Board of Education,1,,Total Votes,1472,441,977,54
+Grant,A101,Board of Education,1,,Under Votes,619,220,367,32
+Grant,A101,Board of Education,1,,Over Votes,6,1,5,0
+Grant,A101,Board of Education,3,,Samantha BLACKMORE,73,22,49,2
+Grant,A101,Board of Education,3,,Lisa L. SMITH,102,36,58,8
+Grant,A101,Board of Education,3,,Total Votes,175,58,107,10
+Grant,A101,Board of Education,3,,Under Votes,92,40,43,9
+Grant,A101,Board of Education,3,,Over Votes,1,1,0,0
+Grant,A101,Board of Education,Williamstown Independent School District,,Chris LAWRENCE,973,332,593,48
+Grant,A101,Board of Education,Williamstown Independent School District,,Angela Evans CLEVELAND,865,306,520,39
+Grant,A101,Board of Education,Williamstown Independent School District,,Total Votes,1838,638,1113,87
+Grant,A101,Board of Education,Williamstown Independent School District,,Under Votes,1086,376,657,53
+Grant,A101,Board of Education,Williamstown Independent School District,,Over Votes,3,1,2,0
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Jessica BEACH ",39,6,31,2
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Darren Ray BILLITER ",37,3,31,3
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Paul D. OLLBERDING ",37,6,29,2
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Kathy McNABB ",44,5,36,3
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Total Votes,157,20,127,10
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Under Votes,147,16,117,14
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Over Votes,0,0,0,0
+Grant,A101,CITY COUNCIL City of Williamstown,,,"Kim A. CRUPPER ",852,299,513,40
+Grant,A101,CITY COUNCIL City of Williamstown,,,"Ronnie MAINES ",839,300,500,39
+Grant,A101,CITY COUNCIL City of Williamstown,,,"David A. HENSON ",666,242,395,29
+Grant,A101,CITY COUNCIL City of Williamstown,,,"John C. COLEMAN ",856,299,526,31
+Grant,A101,CITY COUNCIL City of Williamstown,,,"Jayson PAYNE ",715,253,430,32
+Grant,A101,CITY COUNCIL City of Williamstown,,,"Gina Austin SMITH ",846,302,501,43
+Grant,A101,CITY COUNCIL City of Williamstown,,,Total Votes,4774,1695,2865,214
+Grant,A101,CITY COUNCIL City of Williamstown,,,Under Votes,5162,1887,2997,278
+Grant,A101,CITY COUNCIL City of Williamstown,,,Over Votes,8,4,4,0
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",2437,811,1516,110
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",1254,404,795,55
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,3691,1215,2311,165
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,128,52,69,7
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,11,2,6,3
+Grant,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,1329,477,775,77
+Grant,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,2417,766,1562,89
+Grant,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,3746,1243,2337,166
+Grant,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,78,24,45,9
+Grant,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,6,2,4,0
+Grant,A101,QUESTION-GRANT CANNABIS,,,YES,2227,686,1437,104
+Grant,A101,QUESTION-GRANT CANNABIS,,,NO,1524,560,899,65
+Grant,A101,QUESTION-GRANT CANNABIS,,,Total Votes,3751,1246,2336,169
+Grant,A101,QUESTION-GRANT CANNABIS,,,Under Votes,77,23,48,6
+Grant,A101,QUESTION-GRANT CANNABIS,,,Over Votes,2,0,2,0
+Grant,B102,STRAIGHT PARTY,,REP,Republican Party,1837,700,1061,76
+Grant,B102,STRAIGHT PARTY,,DEM,Democratic Party,338,141,167,30
+Grant,B102,STRAIGHT PARTY,,KY,Kentucky Party,21,6,13,2
+Grant,B102,STRAIGHT PARTY,,LIB,Libertarian Party,14,2,12,0
+Grant,B102,STRAIGHT PARTY,,,Total Votes,2210,849,1253,108
+Grant,B102,STRAIGHT PARTY,,,Under Votes,1715,652,975,88
+Grant,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Grant,B102,President,,REP,Donald J. TRUMP / JD VANCE,3185,1172,1880,133
+Grant,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,669,304,306,59
+Grant,B102,President,,KY,Jill  STEIN / Samson KPADENOU,5,0,5,0
+Grant,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,35,14,19,2
+Grant,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,3,1,2,0
+Grant,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,10,4,5,1
+Grant,B102,President,,,Write In Total,2,0,2,0
+Grant,B102,President,,,Total Votes,3909,1495,2219,195
+Grant,B102,President,,,Under Votes,13,4,9,0
+Grant,B102,President,,,Over Votes,3,2,0,1
+Grant,B102,U.S. House,4,REP,Thomas MASSIE,3317,1216,1954,147
+Grant,B102,U.S. House,4,,Write In Total,8,4,4,0
+Grant,B102,U.S. House,4,,Total Votes,3325,1220,1958,147
+Grant,B102,U.S. House,4,,Under Votes,600,281,270,49
+Grant,B102,U.S. House,4,,Over Votes,0,0,0,0
+Grant,B102,State Senate,17,REP,Matt NUNN,3141,1170,1842,129
+Grant,B102,State Senate,17,DEM,Kiana FIELDS,679,299,322,58
+Grant,B102,State Senate,17,,Total Votes,3820,1469,2164,187
+Grant,B102,State Senate,17,,Under Votes,104,32,63,9
+Grant,B102,State Senate,17,,Over Votes,1,0,1,0
+Grant,B102,State House,61,REP,Savannah MADDOX,3253,1195,1914,144
+Grant,B102,State House,61,,Total Votes,3253,1195,1914,144
+Grant,B102,State House,61,,Under Votes,672,306,314,52
+Grant,B102,State House,61,,Over Votes,0,0,0,0
+Grant,B102,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3241,1191,1909,141
+Grant,B102,Commonwealth's Attorney,15,,Total Votes,3241,1191,1909,141
+Grant,B102,Commonwealth's Attorney,15,,Under Votes,684,310,319,55
+Grant,B102,Commonwealth's Attorney,15,,Over Votes,0,0,0,0
+Grant,B102,Circuit Clerk,,,"Wray J. JUMP REP ",3318,1235,1940,143
+Grant,B102,Circuit Clerk,,,Total Votes,3318,1235,1940,143
+Grant,B102,Circuit Clerk,,,Under Votes,606,266,288,52
+Grant,B102,Circuit Clerk,,,Over Votes,1,0,0,1
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1887,680,1111,96
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1910,680,1125,105
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1564,581,891,92
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5361,1941,3127,293
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,10339,4063,5785,491
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Grant,B102,Board of Education,3,,Samantha BLACKMORE,488,154,308,26
+Grant,B102,Board of Education,3,,Lisa L. SMITH,494,188,285,21
+Grant,B102,Board of Education,3,,Total Votes,982,342,593,47
+Grant,B102,Board of Education,3,,Under Votes,448,191,225,32
+Grant,B102,Board of Education,3,,Over Votes,5,3,1,1
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Jessica Pelfrey VINCENT ",455,147,279,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"James ""Jim"" HENDY ",372,125,223,24
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"William WEBB ",358,124,211,23
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Eric BROCKMAN ",426,141,256,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Kenny EDMONDSON ",419,144,246,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Jeffery Daniel BECKER ",312,104,185,23
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Total Votes,2342,785,1400,157
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Under Votes,3274,1273,1792,209
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Over Votes,5,2,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"Kim A. CRUPPER ",2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"Ronnie MAINES ",3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"David A. HENSON ",2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"John C. COLEMAN ",3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"Jayson PAYNE ",2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,"Gina Austin SMITH ",3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Total Votes,15,0,15,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Under Votes,33,18,15,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Over Votes,0,0,0,0
+Grant,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,2461,924,1426,111
+Grant,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,1295,504,720,71
+Grant,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,3756,1428,2146,182
+Grant,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,163,70,79,14
+Grant,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,3,0
+Grant,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,1358,550,737,71
+Grant,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,2468,915,1441,112
+Grant,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,3826,1465,2178,183
+Grant,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,95,34,49,12
+Grant,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,4,2,1,1
+Grant,B102,QUESTION-GRANT CANNABIS,,,YES,2176,786,1273,117
+Grant,B102,QUESTION-GRANT CANNABIS,,,NO,1667,685,912,70
+Grant,B102,QUESTION-GRANT CANNABIS,,,Total Votes,3843,1471,2185,187
+Grant,B102,QUESTION-GRANT CANNABIS,,,Under Votes,80,29,42,9
+Grant,B102,QUESTION-GRANT CANNABIS,,,Over Votes,2,1,1,0
+Grant,C103,STRAIGHT PARTY,,REP,Republican Party,1858,504,1263,91
+Grant,C103,STRAIGHT PARTY,,DEM,Democratic Party,341,110,196,35
+Grant,C103,STRAIGHT PARTY,,KY,Kentucky Party,23,3,20,0
+Grant,C103,STRAIGHT PARTY,,LIB,Libertarian Party,16,1,14,1
+Grant,C103,STRAIGHT PARTY,,,Total Votes,2238,618,1493,127
+Grant,C103,STRAIGHT PARTY,,,Under Votes,1517,442,1018,57
+Grant,C103,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Grant,C103,President,,REP,Donald J. TRUMP / JD VANCE,3067,838,2100,129
+Grant,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,632,212,369,51
+Grant,C103,President,,KY,Jill  STEIN / Samson KPADENOU,10,3,7,0
+Grant,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,29,4,22,3
+Grant,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
+Grant,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,5,0,5,0
+Grant,C103,President,,,Write In Total,1,0,1,0
+Grant,C103,President,,,Total Votes,3746,1058,2505,183
+Grant,C103,President,,,Under Votes,10,1,8,1
+Grant,C103,President,,,Over Votes,1,1,0,0
+Grant,C103,U.S. House,4,REP,Thomas MASSIE,3210,863,2203,144
+Grant,C103,U.S. House,4,,Write In Total,5,5,0,0
+Grant,C103,U.S. House,4,,Total Votes,3215,868,2203,144
+Grant,C103,U.S. House,4,,Under Votes,542,192,310,40
+Grant,C103,U.S. House,4,,Over Votes,0,0,0,0
+Grant,C103,State Senate,17,REP,Matt NUNN,3011,821,2060,130
+Grant,C103,State Senate,17,DEM,Kiana FIELDS,687,226,410,51
+Grant,C103,State Senate,17,,Total Votes,3698,1047,2470,181
+Grant,C103,State Senate,17,,Under Votes,56,13,40,3
+Grant,C103,State Senate,17,,Over Votes,3,0,3,0
+Grant,C103,State House,61,REP,Savannah MADDOX,3166,863,2164,139
+Grant,C103,State House,61,,Total Votes,3166,863,2164,139
+Grant,C103,State House,61,,Under Votes,589,196,348,45
+Grant,C103,State House,61,,Over Votes,2,1,1,0
+Grant,C103,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3171,858,2171,142
+Grant,C103,Commonwealth's Attorney,15,,Total Votes,3171,858,2171,142
+Grant,C103,Commonwealth's Attorney,15,,Under Votes,585,202,341,42
+Grant,C103,Commonwealth's Attorney,15,,Over Votes,1,0,1,0
+Grant,C103,Circuit Clerk,,,"Wray J. JUMP REP ",3193,867,2184,142
+Grant,C103,Circuit Clerk,,,Total Votes,3193,867,2184,142
+Grant,C103,Circuit Clerk,,,Under Votes,563,192,329,42
+Grant,C103,Circuit Clerk,,,Over Votes,1,1,0,0
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1772,470,1219,83
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1857,524,1245,88
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1533,430,1018,85
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5162,1424,3482,256
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,9866,2816,6570,480
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Grant,C103,Board of Education,5,,Debbie WORTHINGTON,627,167,441,19
+Grant,C103,Board of Education,5,,Deborah ROGERS,508,141,346,21
+Grant,C103,Board of Education,5,,Deena SNEDEGAR,192,62,120,10
+Grant,C103,Board of Education,5,,Total Votes,1327,370,907,50
+Grant,C103,Board of Education,5,,Under Votes,705,220,444,41
+Grant,C103,Board of Education,5,,Over Votes,6,4,2,0
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Michelle BOHMAN ",673,168,475,30
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Joseph C. DUSING ",493,141,325,27
+Grant,C103,CITY COUNCIL City of Crittenden,,,"William Edward RALSTON ",356,105,235,16
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Mary A. ""Ange"" MORRIS ",486,132,330,24
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Bobby TANNER ",502,124,351,27
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Leo SAYLOR ",576,147,393,36
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Bobby NEWMAN ",574,170,375,29
+Grant,C103,CITY COUNCIL City of Crittenden,,,Total Votes,3660,987,2484,189
+Grant,C103,CITY COUNCIL City of Crittenden,,,Under Votes,5544,1401,3918,225
+Grant,C103,CITY COUNCIL City of Crittenden,,,Over Votes,8,2,6,0
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",2415,693,1602,120
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",1205,325,828,52
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,3620,1018,2430,172
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,126,39,75,12
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,11,3,8,0
+Grant,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,1371,430,854,87
+Grant,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,2313,606,1617,90
+Grant,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,3684,1036,2471,177
+Grant,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,68,22,39,7
+Grant,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,5,2,3,0
+Grant,C103,QUESTION-GRANT CANNABIS,,,YES,2169,548,1539,82
+Grant,C103,QUESTION-GRANT CANNABIS,,,NO,1497,478,921,98
+Grant,C103,QUESTION-GRANT CANNABIS,,,Total Votes,3666,1026,2460,180
+Grant,C103,QUESTION-GRANT CANNABIS,,,Under Votes,88,33,51,4
+Grant,C103,QUESTION-GRANT CANNABIS,,,Over Votes,3,1,2,0
