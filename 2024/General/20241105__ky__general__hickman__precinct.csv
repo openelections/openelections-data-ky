@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Hickman,A101,STRAIGHT PARTY,,REP,Republican Party,58,9,47,2
+Hickman,A101,STRAIGHT PARTY,,DEM,Democratic Party,36,8,27,1
+Hickman,A101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Hickman,A101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hickman,A101,STRAIGHT PARTY,,,Total Votes,97,17,77,3
+Hickman,A101,STRAIGHT PARTY,,,Under Votes,109,17,85,7
+Hickman,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hickman,A101,President,,REP,Donald J. TRUMP / JD VANCE,148,21,120,7
+Hickman,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,11,36,3
+Hickman,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Hickman,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Hickman,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Hickman,A101,President,,,Write In Total,0,0,0,0
+Hickman,A101,President,,,Total Votes,204,34,160,10
+Hickman,A101,President,,,Under Votes,2,0,2,0
+Hickman,A101,President,,,Over Votes,0,0,0,0
+Hickman,A101,U.S. House,1,REP,James R. COMER,153,23,120,10
+Hickman,A101,U.S. House,1,DEM,Erin MARSHALL,47,11,36,0
+Hickman,A101,U.S. House,1,,Total Votes,200,34,156,10
+Hickman,A101,U.S. House,1,,Under Votes,5,0,5,0
+Hickman,A101,U.S. House,1,,Over Votes,1,0,1,0
+Hickman,A101,State Senate,1,REP,Jason G. HOWELL,160,24,126,10
+Hickman,A101,State Senate,1,,Total Votes,160,24,126,10
+Hickman,A101,State Senate,1,,Under Votes,45,10,35,0
+Hickman,A101,State Senate,1,,Over Votes,1,0,1,0
+Hickman,A101,State House,1,REP,Steven Jack RUDY,156,24,122,10
+Hickman,A101,State House,1,DEM,Fredrick FOUNTAIN,40,9,31,0
+Hickman,A101,State House,1,,Total Votes,196,33,153,10
+Hickman,A101,State House,1,,Under Votes,9,1,8,0
+Hickman,A101,State House,1,,Over Votes,1,0,1,0
+Hickman,A101,Commonwealth's Attorney,1,IND,Michael B. STACY,132,16,108,8
+Hickman,A101,Commonwealth's Attorney,1,,Total Votes,132,16,108,8
+Hickman,A101,Commonwealth's Attorney,1,,Under Votes,74,18,54,2
+Hickman,A101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Hickman,A101,Circuit Clerk,,REP,Melanie DOWDY,175,26,139,10
+Hickman,A101,Circuit Clerk,,,Total Votes,175,26,139,10
+Hickman,A101,Circuit Clerk,,,Under Votes,31,8,23,0
+Hickman,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,A101,COUNTY SURVEYOR,,,Under Votes,206,34,162,10
+Hickman,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,A101,CONSTABLE,,,,0,0,0,0
+Hickman,A101,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,A101,CONSTABLE,,,Under Votes,206,34,162,10
+Hickman,A101,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",85,12,70,3
+Hickman,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",40,6,29,5
+Hickman,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,125,18,99,8
+Hickman,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,81,16,63,2
+Hickman,A101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,A101,Board of Education,3,,Matt HICKS,135,17,109,9
+Hickman,A101,Board of Education,3,,Total Votes,135,17,109,9
+Hickman,A101,Board of Education,3,,Under Votes,71,17,53,1
+Hickman,A101,Board of Education,3,,Over Votes,0,0,0,0
+Hickman,A101,CITY COUNCIL City of Columbus,,,"Jeff JONES ",52,6,46,0
+Hickman,A101,CITY COUNCIL City of Columbus,,,"Kimberly FERGUSON ",57,5,50,2
+Hickman,A101,CITY COUNCIL City of Columbus,,,Total Votes,109,11,96,2
+Hickman,A101,CITY COUNCIL City of Columbus,,,Under Votes,383,25,342,16
+Hickman,A101,CITY COUNCIL City of Columbus,,,Over Votes,0,0,0,0
+Hickman,A101,QUESTION-COLUMBUS WET/DRY,,,YES,55,4,51,0
+Hickman,A101,QUESTION-COLUMBUS WET/DRY,,,NO,22,2,17,3
+Hickman,A101,QUESTION-COLUMBUS WET/DRY,,,Total Votes,77,6,68,3
+Hickman,A101,QUESTION-COLUMBUS WET/DRY,,,Under Votes,5,0,5,0
+Hickman,A101,QUESTION-COLUMBUS WET/DRY,,,Over Votes,0,0,0,0
+Hickman,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,111,17,89,5
+Hickman,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,71,12,54,5
+Hickman,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,182,29,143,10
+Hickman,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,24,5,19,0
+Hickman,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Hickman,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,59,12,47,0
+Hickman,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,126,21,95,10
+Hickman,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,185,33,142,10
+Hickman,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,1,20,0
+Hickman,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hickman,A101,QUESTION-HICKMAN CANNABIS,,,YES,115,18,90,7
+Hickman,A101,QUESTION-HICKMAN CANNABIS,,,NO,78,16,59,3
+Hickman,A101,QUESTION-HICKMAN CANNABIS,,,Total Votes,193,34,149,10
+Hickman,A101,QUESTION-HICKMAN CANNABIS,,,Under Votes,13,0,13,0
+Hickman,A101,QUESTION-HICKMAN CANNABIS,,,Over Votes,0,0,0,0
+Hickman,A102,STRAIGHT PARTY,,REP,Republican Party,147,62,77,8
+Hickman,A102,STRAIGHT PARTY,,DEM,Democratic Party,79,23,47,9
+Hickman,A102,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Hickman,A102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,0,1
+Hickman,A102,STRAIGHT PARTY,,,Total Votes,231,85,128,18
+Hickman,A102,STRAIGHT PARTY,,,Under Votes,180,66,102,12
+Hickman,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hickman,A102,President,,REP,Donald J. TRUMP / JD VANCE,294,113,167,14
+Hickman,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,112,38,58,16
+Hickman,A102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Hickman,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Hickman,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hickman,A102,President,,,Write In Total,0,0,0,0
+Hickman,A102,President,,,Total Votes,410,151,229,30
+Hickman,A102,President,,,Under Votes,1,0,1,0
+Hickman,A102,President,,,Over Votes,0,0,0,0
+Hickman,A102,U.S. House,1,REP,James R. COMER,300,114,172,14
+Hickman,A102,U.S. House,1,DEM,Erin MARSHALL,107,37,56,14
+Hickman,A102,U.S. House,1,,Total Votes,407,151,228,28
+Hickman,A102,U.S. House,1,,Under Votes,4,0,2,2
+Hickman,A102,U.S. House,1,,Over Votes,0,0,0,0
+Hickman,A102,State Senate,1,REP,Jason G. HOWELL,318,118,182,18
+Hickman,A102,State Senate,1,,Total Votes,318,118,182,18
+Hickman,A102,State Senate,1,,Under Votes,93,33,48,12
+Hickman,A102,State Senate,1,,Over Votes,0,0,0,0
+Hickman,A102,State House,1,REP,Steven Jack RUDY,299,114,168,17
+Hickman,A102,State House,1,DEM,Fredrick FOUNTAIN,105,34,59,12
+Hickman,A102,State House,1,,Total Votes,404,148,227,29
+Hickman,A102,State House,1,,Under Votes,7,3,3,1
+Hickman,A102,State House,1,,Over Votes,0,0,0,0
+Hickman,A102,Commonwealth's Attorney,1,IND,Michael B. STACY,237,82,139,16
+Hickman,A102,Commonwealth's Attorney,1,,Total Votes,237,82,139,16
+Hickman,A102,Commonwealth's Attorney,1,,Under Votes,174,69,91,14
+Hickman,A102,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Hickman,A102,Circuit Clerk,,REP,Melanie DOWDY,345,130,196,19
+Hickman,A102,Circuit Clerk,,,Total Votes,345,130,196,19
+Hickman,A102,Circuit Clerk,,,Under Votes,66,21,34,11
+Hickman,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,A102,COUNTY SURVEYOR,,,Under Votes,411,151,230,30
+Hickman,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,A102,CONSTABLE,,,,0,0,0,0
+Hickman,A102,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,A102,CONSTABLE,,,Under Votes,411,151,230,30
+Hickman,A102,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",163,59,97,7
+Hickman,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",86,34,41,11
+Hickman,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,249,93,138,18
+Hickman,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,162,58,92,12
+Hickman,A102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,A102,Board of Education,2,,Stephanie SHELTON,4,1,1,2
+Hickman,A102,Board of Education,2,,Shannon DOWDY,4,2,2,0
+Hickman,A102,Board of Education,2,,Total Votes,8,3,3,2
+Hickman,A102,Board of Education,2,,Under Votes,4,0,4,0
+Hickman,A102,Board of Education,2,,Over Votes,1,0,0,1
+Hickman,A102,Board of Education,3,,Matt HICKS,71,25,41,5
+Hickman,A102,Board of Education,3,,Total Votes,71,25,41,5
+Hickman,A102,Board of Education,3,,Under Votes,63,24,33,6
+Hickman,A102,Board of Education,3,,Over Votes,0,0,0,0
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Jerry RUSHING ",73,27,39,7
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Wynita DILLARD ",83,26,50,7
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Tommy KIMBRO ",76,27,43,6
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Laura POOLE ",81,23,50,8
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Betty MORROW ",64,17,39,8
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Phyllis CAMPBELL ",64,20,38,6
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Todd JACKSON ",54,18,33,3
+Hickman,A102,CITY COUNCIL City of Clinton,,,"Jerome B. JENKINS ",77,24,46,7
+Hickman,A102,CITY COUNCIL City of Clinton,,,Total Votes,572,182,338,52
+Hickman,A102,CITY COUNCIL City of Clinton,,,Under Votes,376,82,262,32
+Hickman,A102,CITY COUNCIL City of Clinton,,,Over Votes,0,0,0,0
+Hickman,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",243,88,141,14
+Hickman,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",133,43,77,13
+Hickman,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,376,131,218,27
+Hickman,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,20,11,3
+Hickman,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Hickman,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,134,45,77,12
+Hickman,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,252,98,138,16
+Hickman,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,386,143,215,28
+Hickman,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,24,7,15,2
+Hickman,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Hickman,A102,QUESTION-HICKMAN CANNABIS,,,YES,209,75,118,16
+Hickman,A102,QUESTION-HICKMAN CANNABIS,,,NO,179,66,101,12
+Hickman,A102,QUESTION-HICKMAN CANNABIS,,,Total Votes,388,141,219,28
+Hickman,A102,QUESTION-HICKMAN CANNABIS,,,Under Votes,22,9,11,2
+Hickman,A102,QUESTION-HICKMAN CANNABIS,,,Over Votes,1,1,0,0
+Hickman,B101,STRAIGHT PARTY,,REP,Republican Party,129,42,81,6
+Hickman,B101,STRAIGHT PARTY,,DEM,Democratic Party,36,18,17,1
+Hickman,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Hickman,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hickman,B101,STRAIGHT PARTY,,,Total Votes,165,60,98,7
+Hickman,B101,STRAIGHT PARTY,,,Under Votes,169,50,112,7
+Hickman,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hickman,B101,President,,REP,Donald J. TRUMP / JD VANCE,282,89,180,13
+Hickman,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,48,19,28,1
+Hickman,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hickman,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Hickman,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Hickman,B101,President,,,Write In Total,0,0,0,0
+Hickman,B101,President,,,Total Votes,332,109,209,14
+Hickman,B101,President,,,Under Votes,2,1,1,0
+Hickman,B101,President,,,Over Votes,0,0,0,0
+Hickman,B101,U.S. House,1,REP,James R. COMER,280,88,180,12
+Hickman,B101,U.S. House,1,DEM,Erin MARSHALL,48,21,25,2
+Hickman,B101,U.S. House,1,,Total Votes,328,109,205,14
+Hickman,B101,U.S. House,1,,Under Votes,6,1,5,0
+Hickman,B101,U.S. House,1,,Over Votes,0,0,0,0
+Hickman,B101,State Senate,1,REP,Jason G. HOWELL,287,88,186,13
+Hickman,B101,State Senate,1,,Total Votes,287,88,186,13
+Hickman,B101,State Senate,1,,Under Votes,47,22,24,1
+Hickman,B101,State Senate,1,,Over Votes,0,0,0,0
+Hickman,B101,State House,1,REP,Steven Jack RUDY,273,85,175,13
+Hickman,B101,State House,1,DEM,Fredrick FOUNTAIN,49,20,28,1
+Hickman,B101,State House,1,,Total Votes,322,105,203,14
+Hickman,B101,State House,1,,Under Votes,12,5,7,0
+Hickman,B101,State House,1,,Over Votes,0,0,0,0
+Hickman,B101,Commonwealth's Attorney,1,IND,Michael B. STACY,220,67,144,9
+Hickman,B101,Commonwealth's Attorney,1,,Total Votes,220,67,144,9
+Hickman,B101,Commonwealth's Attorney,1,,Under Votes,114,43,66,5
+Hickman,B101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Hickman,B101,Circuit Clerk,,REP,Melanie DOWDY,300,96,190,14
+Hickman,B101,Circuit Clerk,,,Total Votes,300,96,190,14
+Hickman,B101,Circuit Clerk,,,Under Votes,34,14,20,0
+Hickman,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,B101,COUNTY SURVEYOR,,,Under Votes,334,110,210,14
+Hickman,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,B101,CONSTABLE,,,,0,0,0,0
+Hickman,B101,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,B101,CONSTABLE,,,Under Votes,334,110,210,14
+Hickman,B101,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",149,48,100,1
+Hickman,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",84,26,50,8
+Hickman,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,233,74,150,9
+Hickman,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,101,36,60,5
+Hickman,B101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,B101,Board of Education,2,,Stephanie SHELTON,130,41,81,8
+Hickman,B101,Board of Education,2,,Shannon DOWDY,122,37,82,3
+Hickman,B101,Board of Education,2,,Total Votes,252,78,163,11
+Hickman,B101,Board of Education,2,,Under Votes,25,4,20,1
+Hickman,B101,Board of Education,2,,Over Votes,1,0,1,0
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Jerry RUSHING ",47,19,23,5
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Wynita DILLARD ",31,9,18,4
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Tommy KIMBRO ",42,13,24,5
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Laura POOLE ",46,18,23,5
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Betty MORROW ",35,13,19,3
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Phyllis CAMPBELL ",37,15,17,5
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Todd JACKSON ",27,11,14,2
+Hickman,B101,CITY COUNCIL City of Clinton,,,"Jerome B. JENKINS ",33,11,20,2
+Hickman,B101,CITY COUNCIL City of Clinton,,,Total Votes,298,109,158,31
+Hickman,B101,CITY COUNCIL City of Clinton,,,Under Votes,140,53,82,5
+Hickman,B101,CITY COUNCIL City of Clinton,,,Over Votes,0,0,0,0
+Hickman,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",189,67,113,9
+Hickman,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",119,35,79,5
+Hickman,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,308,102,192,14
+Hickman,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,24,7,17,0
+Hickman,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Hickman,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,104,31,67,6
+Hickman,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,217,77,132,8
+Hickman,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,321,108,199,14
+Hickman,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,2,11,0
+Hickman,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hickman,B101,QUESTION-HICKMAN CANNABIS,,,YES,168,50,111,7
+Hickman,B101,QUESTION-HICKMAN CANNABIS,,,NO,154,57,90,7
+Hickman,B101,QUESTION-HICKMAN CANNABIS,,,Total Votes,322,107,201,14
+Hickman,B101,QUESTION-HICKMAN CANNABIS,,,Under Votes,11,2,9,0
+Hickman,B101,QUESTION-HICKMAN CANNABIS,,,Over Votes,1,1,0,0
+Hickman,B102,STRAIGHT PARTY,,REP,Republican Party,120,51,64,5
+Hickman,B102,STRAIGHT PARTY,,DEM,Democratic Party,36,11,24,1
+Hickman,B102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Hickman,B102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Hickman,B102,STRAIGHT PARTY,,,Total Votes,160,62,92,6
+Hickman,B102,STRAIGHT PARTY,,,Under Votes,176,51,119,6
+Hickman,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hickman,B102,President,,REP,Donald J. TRUMP / JD VANCE,260,92,159,9
+Hickman,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,70,20,47,3
+Hickman,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hickman,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
+Hickman,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hickman,B102,President,,,Write In Total,0,0,0,0
+Hickman,B102,President,,,Total Votes,333,113,208,12
+Hickman,B102,President,,,Under Votes,3,0,3,0
+Hickman,B102,President,,,Over Votes,0,0,0,0
+Hickman,B102,U.S. House,1,REP,James R. COMER,261,93,159,9
+Hickman,B102,U.S. House,1,DEM,Erin MARSHALL,67,19,47,1
+Hickman,B102,U.S. House,1,,Total Votes,328,112,206,10
+Hickman,B102,U.S. House,1,,Under Votes,8,1,5,2
+Hickman,B102,U.S. House,1,,Over Votes,0,0,0,0
+Hickman,B102,State Senate,1,REP,Jason G. HOWELL,269,87,172,10
+Hickman,B102,State Senate,1,,Total Votes,269,87,172,10
+Hickman,B102,State Senate,1,,Under Votes,67,26,39,2
+Hickman,B102,State Senate,1,,Over Votes,0,0,0,0
+Hickman,B102,State House,1,REP,Steven Jack RUDY,259,89,161,9
+Hickman,B102,State House,1,DEM,Fredrick FOUNTAIN,67,21,44,2
+Hickman,B102,State House,1,,Total Votes,326,110,205,11
+Hickman,B102,State House,1,,Under Votes,10,3,6,1
+Hickman,B102,State House,1,,Over Votes,0,0,0,0
+Hickman,B102,Commonwealth's Attorney,1,IND,Michael B. STACY,201,54,142,5
+Hickman,B102,Commonwealth's Attorney,1,,Total Votes,201,54,142,5
+Hickman,B102,Commonwealth's Attorney,1,,Under Votes,135,59,69,7
+Hickman,B102,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Hickman,B102,Circuit Clerk,,REP,Melanie DOWDY,292,98,186,8
+Hickman,B102,Circuit Clerk,,,Total Votes,292,98,186,8
+Hickman,B102,Circuit Clerk,,,Under Votes,44,15,25,4
+Hickman,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,B102,COUNTY SURVEYOR,,,Under Votes,336,113,211,12
+Hickman,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,B102,CONSTABLE,,,,0,0,0,0
+Hickman,B102,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,B102,CONSTABLE,,,Under Votes,336,113,211,12
+Hickman,B102,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",153,47,103,3
+Hickman,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",67,18,46,3
+Hickman,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,220,65,149,6
+Hickman,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,116,48,62,6
+Hickman,B102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Jerry RUSHING ",68,23,44,1
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Wynita DILLARD ",54,13,41,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Tommy KIMBRO ",75,18,57,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Laura POOLE ",69,20,49,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Betty MORROW ",60,21,39,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Phyllis CAMPBELL ",52,10,42,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Todd JACKSON ",46,12,33,1
+Hickman,B102,CITY COUNCIL City of Clinton,,,"Jerome B. JENKINS ",61,15,46,0
+Hickman,B102,CITY COUNCIL City of Clinton,,,Total Votes,485,132,351,2
+Hickman,B102,CITY COUNCIL City of Clinton,,,Under Votes,277,54,219,4
+Hickman,B102,CITY COUNCIL City of Clinton,,,Over Votes,0,0,0,0
+Hickman,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,193,58,130,5
+Hickman,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,121,47,68,6
+Hickman,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,314,105,198,11
+Hickman,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,21,7,13,1
+Hickman,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Hickman,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,105,32,69,4
+Hickman,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,223,80,136,7
+Hickman,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,328,112,205,11
+Hickman,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,1,6,1
+Hickman,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hickman,B102,QUESTION-HICKMAN CANNABIS,,,YES,190,59,124,7
+Hickman,B102,QUESTION-HICKMAN CANNABIS,,,NO,131,52,75,4
+Hickman,B102,QUESTION-HICKMAN CANNABIS,,,Total Votes,321,111,199,11
+Hickman,B102,QUESTION-HICKMAN CANNABIS,,,Under Votes,14,2,11,1
+Hickman,B102,QUESTION-HICKMAN CANNABIS,,,Over Votes,1,0,1,0
+Hickman,C101,STRAIGHT PARTY,,REP,Republican Party,141,48,88,5
+Hickman,C101,STRAIGHT PARTY,,DEM,Democratic Party,30,10,17,3
+Hickman,C101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Hickman,C101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Hickman,C101,STRAIGHT PARTY,,,Total Votes,174,58,108,8
+Hickman,C101,STRAIGHT PARTY,,,Under Votes,167,46,114,7
+Hickman,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Hickman,C101,President,,REP,Donald J. TRUMP / JD VANCE,283,84,189,10
+Hickman,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,53,18,30,5
+Hickman,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hickman,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Hickman,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hickman,C101,President,,,Write In Total,0,0,0,0
+Hickman,C101,President,,,Total Votes,338,102,221,15
+Hickman,C101,President,,,Under Votes,3,2,1,0
+Hickman,C101,President,,,Over Votes,0,0,0,0
+Hickman,C101,U.S. House,1,REP,James R. COMER,285,83,192,10
+Hickman,C101,U.S. House,1,DEM,Erin MARSHALL,50,20,25,5
+Hickman,C101,U.S. House,1,,Total Votes,335,103,217,15
+Hickman,C101,U.S. House,1,,Under Votes,6,1,5,0
+Hickman,C101,U.S. House,1,,Over Votes,0,0,0,0
+Hickman,C101,State Senate,1,REP,Jason G. HOWELL,286,81,198,7
+Hickman,C101,State Senate,1,,Total Votes,286,81,198,7
+Hickman,C101,State Senate,1,,Under Votes,55,23,24,8
+Hickman,C101,State Senate,1,,Over Votes,0,0,0,0
+Hickman,C101,State House,1,REP,Steven Jack RUDY,275,80,187,8
+Hickman,C101,State House,1,DEM,Fredrick FOUNTAIN,55,19,30,6
+Hickman,C101,State House,1,,Total Votes,330,99,217,14
+Hickman,C101,State House,1,,Under Votes,11,5,5,1
+Hickman,C101,State House,1,,Over Votes,0,0,0,0
+Hickman,C101,Commonwealth's Attorney,1,IND,Michael B. STACY,209,52,151,6
+Hickman,C101,Commonwealth's Attorney,1,,Total Votes,209,52,151,6
+Hickman,C101,Commonwealth's Attorney,1,,Under Votes,132,52,71,9
+Hickman,C101,Commonwealth's Attorney,1,,Over Votes,0,0,0,0
+Hickman,C101,Circuit Clerk,,REP,Melanie DOWDY,291,84,196,11
+Hickman,C101,Circuit Clerk,,,Total Votes,291,84,196,11
+Hickman,C101,Circuit Clerk,,,Under Votes,50,20,26,4
+Hickman,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,C101,COUNTY SURVEYOR,,,Under Votes,341,104,222,15
+Hickman,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,C101,CONSTABLE,,,,0,0,0,0
+Hickman,C101,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,C101,CONSTABLE,,,Under Votes,341,104,222,15
+Hickman,C101,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",136,33,99,4
+Hickman,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",67,19,46,2
+Hickman,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,203,52,145,6
+Hickman,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,138,52,77,9
+Hickman,C101,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,C101,Board of Education,5,,Matt LATHAM,154,40,109,5
+Hickman,C101,Board of Education,5,,Total Votes,154,40,109,5
+Hickman,C101,Board of Education,5,,Under Votes,78,29,46,3
+Hickman,C101,Board of Education,5,,Over Votes,0,0,0,0
+Hickman,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",209,61,138,10
+Hickman,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",94,26,66,2
+Hickman,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,303,87,204,12
+Hickman,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,17,15,3
+Hickman,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Hickman,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,123,49,72,2
+Hickman,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,197,49,138,10
+Hickman,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,320,98,210,12
+Hickman,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,6,10,3
+Hickman,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Hickman,C101,QUESTION-HICKMAN CANNABIS,,,YES,162,42,114,6
+Hickman,C101,QUESTION-HICKMAN CANNABIS,,,NO,156,53,97,6
+Hickman,C101,QUESTION-HICKMAN CANNABIS,,,Total Votes,318,95,211,12
+Hickman,C101,QUESTION-HICKMAN CANNABIS,,,Under Votes,23,9,11,3
+Hickman,C101,QUESTION-HICKMAN CANNABIS,,,Over Votes,0,0,0,0
+Hickman,C102,STRAIGHT PARTY,,REP,Republican Party,182,43,132,7
+Hickman,C102,STRAIGHT PARTY,,DEM,Democratic Party,28,6,16,6
+Hickman,C102,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Hickman,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Hickman,C102,STRAIGHT PARTY,,,Total Votes,213,50,150,13
+Hickman,C102,STRAIGHT PARTY,,,Under Votes,242,50,180,12
+Hickman,C102,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Hickman,C102,President,,REP,Donald J. TRUMP / JD VANCE,389,87,284,18
+Hickman,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,61,13,41,7
+Hickman,C102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Hickman,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Hickman,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Hickman,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Hickman,C102,President,,,Write In Total,0,0,0,0
+Hickman,C102,President,,,Total Votes,452,100,327,25
+Hickman,C102,President,,,Under Votes,4,0,4,0
+Hickman,C102,President,,,Over Votes,1,0,1,0
+Hickman,C102,U.S. House,1,REP,James R. COMER,389,87,284,18
+Hickman,C102,U.S. House,1,DEM,Erin MARSHALL,60,13,40,7
+Hickman,C102,U.S. House,1,,Total Votes,449,100,324,25
+Hickman,C102,U.S. House,1,,Under Votes,8,0,8,0
+Hickman,C102,U.S. House,1,,Over Votes,0,0,0,0
+Hickman,C102,State Senate,1,REP,Jason G. HOWELL,394,91,285,18
+Hickman,C102,State Senate,1,,Total Votes,394,91,285,18
+Hickman,C102,State Senate,1,,Under Votes,63,9,47,7
+Hickman,C102,State Senate,1,,Over Votes,0,0,0,0
+Hickman,C102,State House,1,REP,Steven Jack RUDY,391,89,284,18
+Hickman,C102,State House,1,DEM,Fredrick FOUNTAIN,54,10,38,6
+Hickman,C102,State House,1,,Total Votes,445,99,322,24
+Hickman,C102,State House,1,,Under Votes,12,1,10,1
+Hickman,C102,State House,1,,Over Votes,0,0,0,0
+Hickman,C102,Commonwealth's Attorney,1,IND,Michael B. STACY,279,59,204,16
+Hickman,C102,Commonwealth's Attorney,1,,Total Votes,279,59,204,16
+Hickman,C102,Commonwealth's Attorney,1,,Under Votes,177,41,127,9
+Hickman,C102,Commonwealth's Attorney,1,,Over Votes,1,0,1,0
+Hickman,C102,Circuit Clerk,,REP,Melanie DOWDY,405,92,294,19
+Hickman,C102,Circuit Clerk,,,Total Votes,405,92,294,19
+Hickman,C102,Circuit Clerk,,,Under Votes,52,8,38,6
+Hickman,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Hickman,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Hickman,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Hickman,C102,COUNTY SURVEYOR,,,Under Votes,457,100,332,25
+Hickman,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Hickman,C102,CONSTABLE,,,,0,0,0,0
+Hickman,C102,CONSTABLE,,,Total Votes,0,0,0,0
+Hickman,C102,CONSTABLE,,,Under Votes,457,100,332,25
+Hickman,C102,CONSTABLE,,,Over Votes,0,0,0,0
+Hickman,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Lisa Payne JONES ",196,46,141,9
+Hickman,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,"Jason Shea FLEMING ",102,22,76,4
+Hickman,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Total Votes,298,68,217,13
+Hickman,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Under Votes,159,32,115,12
+Hickman,C102,"JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division ",,,Over Votes,0,0,0,0
+Hickman,C102,Board of Education,2,,Stephanie SHELTON,133,28,98,7
+Hickman,C102,Board of Education,2,,Shannon DOWDY,71,27,43,1
+Hickman,C102,Board of Education,2,,Total Votes,204,55,141,8
+Hickman,C102,Board of Education,2,,Under Votes,36,9,24,3
+Hickman,C102,Board of Education,2,,Over Votes,0,0,0,0
+Hickman,C102,Board of Education,5,,Matt LATHAM,147,24,115,8
+Hickman,C102,Board of Education,5,,Total Votes,147,24,115,8
+Hickman,C102,Board of Education,5,,Under Votes,70,12,52,6
+Hickman,C102,Board of Education,5,,Over Votes,0,0,0,0
+Hickman,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,299,69,215,15
+Hickman,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,125,26,89,10
+Hickman,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,424,95,304,25
+Hickman,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,5,26,0
+Hickman,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Hickman,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,180,48,130,2
+Hickman,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,256,49,184,23
+Hickman,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,436,97,314,25
+Hickman,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,3,18,0
+Hickman,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Hickman,C102,QUESTION-HICKMAN CANNABIS,,,YES,224,52,159,13
+Hickman,C102,QUESTION-HICKMAN CANNABIS,,,NO,206,43,152,11
+Hickman,C102,QUESTION-HICKMAN CANNABIS,,,Total Votes,430,95,311,24
+Hickman,C102,QUESTION-HICKMAN CANNABIS,,,Under Votes,27,5,21,1
+Hickman,C102,QUESTION-HICKMAN CANNABIS,,,Over Votes,0,0,0,0
