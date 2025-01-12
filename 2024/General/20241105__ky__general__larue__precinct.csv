@@ -1,0 +1,726 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Larue,A101,STRAIGHT PARTY,,REP,Republican Party,229,94,119,16
+Larue,A101,STRAIGHT PARTY,,DEM,Democratic Party,83,28,51,4
+Larue,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Larue,A101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Larue,A101,STRAIGHT PARTY,,,Total Votes,315,123,172,20
+Larue,A101,STRAIGHT PARTY,,,Under Votes,507,208,252,47
+Larue,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,A101,President,,REP,Donald J. TRUMP / JD VANCE,602,243,315,44
+Larue,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,200,83,95,22
+Larue,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Larue,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
+Larue,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,6,2,4,0
+Larue,A101,President,,,Write In Total,1,0,1,0
+Larue,A101,President,,,Total Votes,814,329,419,66
+Larue,A101,President,,,Under Votes,8,2,5,1
+Larue,A101,President,,,Over Votes,0,0,0,0
+Larue,A101,U.S. House,2,REP,S. Brett GUTHRIE,610,247,317,46
+Larue,A101,U.S. House,2,DEM,Hank LINDERMAN,184,69,96,19
+Larue,A101,U.S. House,2,,Total Votes,794,316,413,65
+Larue,A101,U.S. House,2,,Under Votes,28,15,11,2
+Larue,A101,U.S. House,2,,Over Votes,0,0,0,0
+Larue,A101,State House,24,REP,Ryan BIVENS,589,238,306,45
+Larue,A101,State House,24,DEM,Johnny PENNINGTON,211,84,107,20
+Larue,A101,State House,24,,Total Votes,800,322,413,65
+Larue,A101,State House,24,,Under Votes,22,9,11,2
+Larue,A101,State House,24,,Over Votes,0,0,0,0
+Larue,A101,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,562,217,306,39
+Larue,A101,Commonwealth's Attorney,10,,Total Votes,562,217,306,39
+Larue,A101,Commonwealth's Attorney,10,,Under Votes,260,114,118,28
+Larue,A101,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,A101,Circuit Clerk,,REP,Emily ERNST,690,272,364,54
+Larue,A101,Circuit Clerk,,,Total Votes,690,272,364,54
+Larue,A101,Circuit Clerk,,,Under Votes,132,59,60,13
+Larue,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,A101,COUNTY SURVEYOR,,,Under Votes,822,331,424,67
+Larue,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,9,5,4,0
+Larue,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,9,5,4,0
+Larue,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,3279,1319,1692,268
+Larue,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,A101,Board of Education,1,,Write In Total,9,4,5,0
+Larue,A101,Board of Education,1,,Total Votes,9,4,5,0
+Larue,A101,Board of Education,1,,Under Votes,812,327,419,66
+Larue,A101,Board of Education,1,,Over Votes,0,0,0,0
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Lisa Bell REIDNER ",218,80,122,16
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Tony STEWART ",303,129,149,25
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Rita T. WILLIAMS ",232,102,108,22
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Ryan JEFFRIES ",231,96,114,21
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Larry DAVIS ",205,83,102,20
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Debra MOSELEY ",95,33,50,12
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Sharon HORNBACK ",202,75,108,19
+Larue,A101,CITY COUNCIL City of Hodgenville,,,"Steven R. JOHNSON ",183,75,92,16
+Larue,A101,CITY COUNCIL City of Hodgenville,,,Total Votes,1669,673,845,151
+Larue,A101,CITY COUNCIL City of Hodgenville,,,Under Votes,1211,455,691,65
+Larue,A101,CITY COUNCIL City of Hodgenville,,,Over Votes,1,0,1,0
+Larue,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",491,195,258,38
+Larue,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",270,111,137,22
+Larue,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,761,306,395,60
+Larue,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,58,23,28,7
+Larue,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Larue,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,240,103,119,18
+Larue,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,543,209,289,45
+Larue,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,783,312,408,63
+Larue,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,38,19,15,4
+Larue,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Larue,A103,STRAIGHT PARTY,,REP,Republican Party,285,92,178,15
+Larue,A103,STRAIGHT PARTY,,DEM,Democratic Party,98,33,58,7
+Larue,A103,STRAIGHT PARTY,,KY,Kentucky Party,8,1,7,0
+Larue,A103,STRAIGHT PARTY,,LIB,Libertarian Party,5,0,5,0
+Larue,A103,STRAIGHT PARTY,,,Total Votes,396,126,248,22
+Larue,A103,STRAIGHT PARTY,,,Under Votes,319,115,174,30
+Larue,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,A103,President,,REP,Donald J. TRUMP / JD VANCE,524,173,321,30
+Larue,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,178,64,94,20
+Larue,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Larue,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,0,6,2
+Larue,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Larue,A103,President,,,Write In Total,0,0,0,0
+Larue,A103,President,,,Total Votes,712,238,422,52
+Larue,A103,President,,,Under Votes,3,3,0,0
+Larue,A103,President,,,Over Votes,0,0,0,0
+Larue,A103,U.S. House,2,REP,S. Brett GUTHRIE,524,174,320,30
+Larue,A103,U.S. House,2,DEM,Hank LINDERMAN,169,57,91,21
+Larue,A103,U.S. House,2,,Total Votes,693,231,411,51
+Larue,A103,U.S. House,2,,Under Votes,22,10,11,1
+Larue,A103,U.S. House,2,,Over Votes,0,0,0,0
+Larue,A103,State House,24,REP,Ryan BIVENS,518,174,315,29
+Larue,A103,State House,24,DEM,Johnny PENNINGTON,177,59,98,20
+Larue,A103,State House,24,,Total Votes,695,233,413,49
+Larue,A103,State House,24,,Under Votes,20,8,9,3
+Larue,A103,State House,24,,Over Votes,0,0,0,0
+Larue,A103,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,439,147,257,35
+Larue,A103,Commonwealth's Attorney,10,,Total Votes,439,147,257,35
+Larue,A103,Commonwealth's Attorney,10,,Under Votes,276,94,165,17
+Larue,A103,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,A103,Circuit Clerk,,REP,Emily ERNST,595,190,364,41
+Larue,A103,Circuit Clerk,,,Total Votes,595,190,364,41
+Larue,A103,Circuit Clerk,,,Under Votes,120,51,58,11
+Larue,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,A103,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,A103,COUNTY SURVEYOR,,,Under Votes,715,241,422,52
+Larue,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,1,0,1,0
+Larue,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1,0,1,0
+Larue,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2859,964,1687,208
+Larue,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,A103,Board of Education,1,,Write In Total,0,0,0,0
+Larue,A103,Board of Education,1,,Total Votes,0,0,0,0
+Larue,A103,Board of Education,1,,Under Votes,3,2,0,1
+Larue,A103,Board of Education,1,,Over Votes,0,0,0,0
+Larue,A103,Board of Education,2,,Ashley REDING,1,0,0,1
+Larue,A103,Board of Education,2,,William J. MANNING,0,0,0,0
+Larue,A103,Board of Education,2,,Total Votes,1,0,0,1
+Larue,A103,Board of Education,2,,Under Votes,0,0,0,0
+Larue,A103,Board of Education,2,,Over Votes,0,0,0,0
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Lisa Bell REIDNER ",258,90,148,20
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Tony STEWART ",284,95,158,31
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Rita T. WILLIAMS ",217,81,117,19
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Ryan JEFFRIES ",226,67,140,19
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Larry DAVIS ",166,55,94,17
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Debra MOSELEY ",154,45,93,16
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Sharon HORNBACK ",211,71,123,17
+Larue,A103,CITY COUNCIL City of Hodgenville,,,"Steven R. JOHNSON ",190,71,104,15
+Larue,A103,CITY COUNCIL City of Hodgenville,,,Total Votes,1706,575,977,154
+Larue,A103,CITY COUNCIL City of Hodgenville,,,Under Votes,1744,577,1057,110
+Larue,A103,CITY COUNCIL City of Hodgenville,,,Over Votes,1,0,1,0
+Larue,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,421,140,254,27
+Larue,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,232,77,135,20
+Larue,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,653,217,389,47
+Larue,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,23,32,4
+Larue,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,1,1
+Larue,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,260,96,151,13
+Larue,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,415,131,247,37
+Larue,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,675,227,398,50
+Larue,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,13,24,2
+Larue,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Larue,B101,STRAIGHT PARTY,,REP,Republican Party,393,148,209,36
+Larue,B101,STRAIGHT PARTY,,DEM,Democratic Party,99,41,41,17
+Larue,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Larue,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Larue,B101,STRAIGHT PARTY,,,Total Votes,493,189,251,53
+Larue,B101,STRAIGHT PARTY,,,Under Votes,597,218,340,39
+Larue,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,B101,President,,REP,Donald J. TRUMP / JD VANCE,828,304,466,58
+Larue,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,240,97,112,31
+Larue,B101,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Larue,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,2,5,3
+Larue,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,3,2,1,0
+Larue,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,B101,President,,,Write In Total,0,0,0,0
+Larue,B101,President,,,Total Votes,1084,407,585,92
+Larue,B101,President,,,Under Votes,6,0,6,0
+Larue,B101,President,,,Over Votes,0,0,0,0
+Larue,B101,U.S. House,2,REP,S. Brett GUTHRIE,854,320,466,68
+Larue,B101,U.S. House,2,DEM,Hank LINDERMAN,210,81,108,21
+Larue,B101,U.S. House,2,,Total Votes,1064,401,574,89
+Larue,B101,U.S. House,2,,Under Votes,26,6,17,3
+Larue,B101,U.S. House,2,,Over Votes,0,0,0,0
+Larue,B101,State House,24,REP,Ryan BIVENS,814,293,454,67
+Larue,B101,State House,24,DEM,Johnny PENNINGTON,238,98,118,22
+Larue,B101,State House,24,,Total Votes,1052,391,572,89
+Larue,B101,State House,24,,Under Votes,38,16,19,3
+Larue,B101,State House,24,,Over Votes,0,0,0,0
+Larue,B101,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,640,223,367,50
+Larue,B101,Commonwealth's Attorney,10,,Total Votes,640,223,367,50
+Larue,B101,Commonwealth's Attorney,10,,Under Votes,450,184,224,42
+Larue,B101,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,B101,Circuit Clerk,,REP,Emily ERNST,909,338,503,68
+Larue,B101,Circuit Clerk,,,Total Votes,909,338,503,68
+Larue,B101,Circuit Clerk,,,Under Votes,181,69,88,24
+Larue,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,B101,COUNTY SURVEYOR,,,Under Votes,1090,407,591,92
+Larue,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,9,5,4,0
+Larue,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,9,5,4,0
+Larue,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4351,1623,2360,368
+Larue,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,B101,Board of Education,1,,Write In Total,3,0,3,0
+Larue,B101,Board of Education,1,,Total Votes,3,0,3,0
+Larue,B101,Board of Education,1,,Under Votes,10,0,1,9
+Larue,B101,Board of Education,1,,Over Votes,0,0,0,0
+Larue,B101,Board of Education,2,,Ashley REDING,565,206,322,37
+Larue,B101,Board of Education,2,,William J. MANNING,186,66,107,13
+Larue,B101,Board of Education,2,,Total Votes,751,272,429,50
+Larue,B101,Board of Education,2,,Under Votes,325,134,158,33
+Larue,B101,Board of Education,2,,Over Votes,1,1,0,0
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Lisa Bell REIDNER ",83,24,47,12
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Tony STEWART ",93,27,55,11
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Rita T. WILLIAMS ",85,22,50,13
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Ryan JEFFRIES ",74,20,46,8
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Larry DAVIS ",67,20,38,9
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Debra MOSELEY ",56,11,36,9
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Sharon HORNBACK ",72,18,46,8
+Larue,B101,CITY COUNCIL City of Hodgenville,,,"Steven R. JOHNSON ",58,21,34,3
+Larue,B101,CITY COUNCIL City of Hodgenville,,,Total Votes,588,163,352,73
+Larue,B101,CITY COUNCIL City of Hodgenville,,,Under Votes,666,239,350,77
+Larue,B101,CITY COUNCIL City of Hodgenville,,,Over Votes,0,0,0,0
+Larue,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,667,230,380,57
+Larue,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,353,143,181,29
+Larue,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1020,373,561,86
+Larue,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,69,34,29,6
+Larue,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Larue,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,362,144,182,36
+Larue,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,683,240,391,52
+Larue,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1045,384,573,88
+Larue,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,22,18,4
+Larue,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Larue,B102,STRAIGHT PARTY,,REP,Republican Party,173,66,99,8
+Larue,B102,STRAIGHT PARTY,,DEM,Democratic Party,40,19,16,5
+Larue,B102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Larue,B102,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Larue,B102,STRAIGHT PARTY,,,Total Votes,216,86,117,13
+Larue,B102,STRAIGHT PARTY,,,Under Votes,263,92,162,9
+Larue,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,B102,President,,REP,Donald J. TRUMP / JD VANCE,390,143,231,16
+Larue,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,84,33,46,5
+Larue,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Larue,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,1,1
+Larue,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,B102,President,,,Write In Total,0,0,0,0
+Larue,B102,President,,,Total Votes,477,177,278,22
+Larue,B102,President,,,Under Votes,2,1,1,0
+Larue,B102,President,,,Over Votes,0,0,0,0
+Larue,B102,U.S. House,2,REP,S. Brett GUTHRIE,397,147,234,16
+Larue,B102,U.S. House,2,DEM,Hank LINDERMAN,73,26,41,6
+Larue,B102,U.S. House,2,,Total Votes,470,173,275,22
+Larue,B102,U.S. House,2,,Under Votes,9,5,4,0
+Larue,B102,U.S. House,2,,Over Votes,0,0,0,0
+Larue,B102,State House,24,REP,Ryan BIVENS,385,145,224,16
+Larue,B102,State House,24,DEM,Johnny PENNINGTON,83,29,49,5
+Larue,B102,State House,24,,Total Votes,468,174,273,21
+Larue,B102,State House,24,,Under Votes,11,4,6,1
+Larue,B102,State House,24,,Over Votes,0,0,0,0
+Larue,B102,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,307,110,184,13
+Larue,B102,Commonwealth's Attorney,10,,Total Votes,307,110,184,13
+Larue,B102,Commonwealth's Attorney,10,,Under Votes,172,68,95,9
+Larue,B102,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,B102,Circuit Clerk,,REP,Emily ERNST,421,156,246,19
+Larue,B102,Circuit Clerk,,,Total Votes,421,156,246,19
+Larue,B102,Circuit Clerk,,,Under Votes,58,22,33,3
+Larue,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,B102,COUNTY SURVEYOR,,,Under Votes,479,178,279,22
+Larue,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,3,1,2,0
+Larue,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,3,1,2,0
+Larue,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1913,711,1114,88
+Larue,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,B102,Board of Education,2,,Ashley REDING,228,72,146,10
+Larue,B102,Board of Education,2,,William J. MANNING,142,56,80,6
+Larue,B102,Board of Education,2,,Total Votes,370,128,226,16
+Larue,B102,Board of Education,2,,Under Votes,109,50,53,6
+Larue,B102,Board of Education,2,,Over Votes,0,0,0,0
+Larue,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,301,107,178,16
+Larue,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,153,59,88,6
+Larue,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,454,166,266,22
+Larue,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,12,13,0
+Larue,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,163,72,85,6
+Larue,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,295,98,183,14
+Larue,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,458,170,268,20
+Larue,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,8,10,2
+Larue,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Larue,B103,STRAIGHT PARTY,,REP,Republican Party,171,22,148,1
+Larue,B103,STRAIGHT PARTY,,DEM,Democratic Party,32,1,27,4
+Larue,B103,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Larue,B103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Larue,B103,STRAIGHT PARTY,,,Total Votes,203,23,175,5
+Larue,B103,STRAIGHT PARTY,,,Under Votes,202,27,173,2
+Larue,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,B103,President,,REP,Donald J. TRUMP / JD VANCE,332,43,287,2
+Larue,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,65,7,53,5
+Larue,B103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Larue,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Larue,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,B103,President,,,Write In Total,0,0,0,0
+Larue,B103,President,,,Total Votes,402,50,345,7
+Larue,B103,President,,,Under Votes,3,0,3,0
+Larue,B103,President,,,Over Votes,0,0,0,0
+Larue,B103,U.S. House,2,REP,S. Brett GUTHRIE,331,45,285,1
+Larue,B103,U.S. House,2,DEM,Hank LINDERMAN,66,5,56,5
+Larue,B103,U.S. House,2,,Total Votes,397,50,341,6
+Larue,B103,U.S. House,2,,Under Votes,8,0,7,1
+Larue,B103,U.S. House,2,,Over Votes,0,0,0,0
+Larue,B103,State House,24,REP,Ryan BIVENS,330,45,284,1
+Larue,B103,State House,24,DEM,Johnny PENNINGTON,64,5,54,5
+Larue,B103,State House,24,,Total Votes,394,50,338,6
+Larue,B103,State House,24,,Under Votes,11,0,10,1
+Larue,B103,State House,24,,Over Votes,0,0,0,0
+Larue,B103,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,222,28,188,6
+Larue,B103,Commonwealth's Attorney,10,,Total Votes,222,28,188,6
+Larue,B103,Commonwealth's Attorney,10,,Under Votes,183,22,160,1
+Larue,B103,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,B103,Circuit Clerk,,REP,Emily ERNST,337,44,292,1
+Larue,B103,Circuit Clerk,,,Total Votes,337,44,292,1
+Larue,B103,Circuit Clerk,,,Under Votes,68,6,56,6
+Larue,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,B103,COUNTY SURVEYOR,,,Under Votes,405,50,348,7
+Larue,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,3,1,2,0
+Larue,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,3,1,2,0
+Larue,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1617,199,1390,28
+Larue,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,B103,Board of Education,1,,Write In Total,2,1,1,0
+Larue,B103,Board of Education,1,,Total Votes,2,1,1,0
+Larue,B103,Board of Education,1,,Under Votes,403,49,347,7
+Larue,B103,Board of Education,1,,Over Votes,0,0,0,0
+Larue,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,239,33,204,2
+Larue,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,143,15,125,3
+Larue,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,382,48,329,5
+Larue,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,2,19,2
+Larue,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,132,16,116,0
+Larue,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,266,33,226,7
+Larue,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,398,49,342,7
+Larue,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,1,6,0
+Larue,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,C101,STRAIGHT PARTY,,REP,Republican Party,482,181,280,21
+Larue,C101,STRAIGHT PARTY,,DEM,Democratic Party,101,40,51,10
+Larue,C101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Larue,C101,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,1,0
+Larue,C101,STRAIGHT PARTY,,,Total Votes,589,223,335,31
+Larue,C101,STRAIGHT PARTY,,,Under Votes,568,205,329,34
+Larue,C101,STRAIGHT PARTY,,,Over Votes,3,1,2,0
+Larue,C101,President,,REP,Donald J. TRUMP / JD VANCE,943,348,547,48
+Larue,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,187,70,100,17
+Larue,C101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Larue,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,5,8,0
+Larue,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Larue,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Larue,C101,President,,,Write In Total,0,0,0,0
+Larue,C101,President,,,Total Votes,1151,424,662,65
+Larue,C101,President,,,Under Votes,9,5,4,0
+Larue,C101,President,,,Over Votes,0,0,0,0
+Larue,C101,U.S. House,2,REP,S. Brett GUTHRIE,951,346,558,47
+Larue,C101,U.S. House,2,DEM,Hank LINDERMAN,172,66,91,15
+Larue,C101,U.S. House,2,,Total Votes,1123,412,649,62
+Larue,C101,U.S. House,2,,Under Votes,36,16,17,3
+Larue,C101,U.S. House,2,,Over Votes,1,1,0,0
+Larue,C101,State House,24,REP,Ryan BIVENS,943,346,554,43
+Larue,C101,State House,24,DEM,Johnny PENNINGTON,185,71,97,17
+Larue,C101,State House,24,,Total Votes,1128,417,651,60
+Larue,C101,State House,24,,Under Votes,32,12,15,5
+Larue,C101,State House,24,,Over Votes,0,0,0,0
+Larue,C101,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,698,244,416,38
+Larue,C101,Commonwealth's Attorney,10,,Total Votes,698,244,416,38
+Larue,C101,Commonwealth's Attorney,10,,Under Votes,462,185,250,27
+Larue,C101,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,C101,Circuit Clerk,,REP,Emily ERNST,1010,367,593,50
+Larue,C101,Circuit Clerk,,,Total Votes,1010,367,593,50
+Larue,C101,Circuit Clerk,,,Under Votes,150,62,73,15
+Larue,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,C101,COUNTY SURVEYOR,,,Under Votes,1160,429,666,65
+Larue,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,8,4,3,1
+Larue,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,8,4,3,1
+Larue,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,4632,1712,2661,259
+Larue,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,C101,Board of Education,2,,Ashley REDING,0,0,0,0
+Larue,C101,Board of Education,2,,William J. MANNING,0,0,0,0
+Larue,C101,Board of Education,2,,Total Votes,0,0,0,0
+Larue,C101,Board of Education,2,,Under Votes,1,0,0,1
+Larue,C101,Board of Education,2,,Over Votes,0,0,0,0
+Larue,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,776,276,464,36
+Larue,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,279,100,157,22
+Larue,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1055,376,621,58
+Larue,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,99,52,40,7
+Larue,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,1,5,0
+Larue,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,374,157,199,18
+Larue,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,749,256,452,41
+Larue,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1123,413,651,59
+Larue,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,15,15,6
+Larue,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Larue,C102,STRAIGHT PARTY,,REP,Republican Party,188,71,100,17
+Larue,C102,STRAIGHT PARTY,,DEM,Democratic Party,39,12,20,7
+Larue,C102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Larue,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Larue,C102,STRAIGHT PARTY,,,Total Votes,227,83,120,24
+Larue,C102,STRAIGHT PARTY,,,Under Votes,306,116,160,30
+Larue,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,C102,President,,REP,Donald J. TRUMP / JD VANCE,416,143,232,41
+Larue,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,109,53,44,12
+Larue,C102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Larue,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
+Larue,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Larue,C102,President,,,Write In Total,0,0,0,0
+Larue,C102,President,,,Total Votes,529,196,279,54
+Larue,C102,President,,,Under Votes,4,3,1,0
+Larue,C102,President,,,Over Votes,0,0,0,0
+Larue,C102,U.S. House,2,REP,S. Brett GUTHRIE,429,152,234,43
+Larue,C102,U.S. House,2,DEM,Hank LINDERMAN,88,37,42,9
+Larue,C102,U.S. House,2,,Total Votes,517,189,276,52
+Larue,C102,U.S. House,2,,Under Votes,15,10,3,2
+Larue,C102,U.S. House,2,,Over Votes,1,0,1,0
+Larue,C102,State House,24,REP,Ryan BIVENS,408,139,227,42
+Larue,C102,State House,24,DEM,Johnny PENNINGTON,104,52,43,9
+Larue,C102,State House,24,,Total Votes,512,191,270,51
+Larue,C102,State House,24,,Under Votes,21,8,10,3
+Larue,C102,State House,24,,Over Votes,0,0,0,0
+Larue,C102,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,333,112,187,34
+Larue,C102,Commonwealth's Attorney,10,,Total Votes,333,112,187,34
+Larue,C102,Commonwealth's Attorney,10,,Under Votes,200,87,93,20
+Larue,C102,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,C102,Circuit Clerk,,REP,Emily ERNST,452,161,250,41
+Larue,C102,Circuit Clerk,,,Total Votes,452,161,250,41
+Larue,C102,Circuit Clerk,,,Under Votes,81,38,30,13
+Larue,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,C102,COUNTY SURVEYOR,,,Under Votes,533,199,280,54
+Larue,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,5,3,2,0
+Larue,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5,3,2,0
+Larue,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2127,793,1118,216
+Larue,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",336,112,190,34
+Larue,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",158,60,84,14
+Larue,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,494,172,274,48
+Larue,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,27,6,6
+Larue,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,172,57,101,14
+Larue,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,350,137,177,36
+Larue,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,522,194,278,50
+Larue,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,5,2,4
+Larue,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,C103,STRAIGHT PARTY,,REP,Republican Party,126,44,76,6
+Larue,C103,STRAIGHT PARTY,,DEM,Democratic Party,25,10,13,2
+Larue,C103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Larue,C103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Larue,C103,STRAIGHT PARTY,,,Total Votes,154,54,92,8
+Larue,C103,STRAIGHT PARTY,,,Under Votes,130,37,83,10
+Larue,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,C103,President,,REP,Donald J. TRUMP / JD VANCE,225,71,145,9
+Larue,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,54,17,28,9
+Larue,C103,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Larue,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Larue,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,C103,President,,,Write In Total,0,0,0,0
+Larue,C103,President,,,Total Votes,283,90,175,18
+Larue,C103,President,,,Under Votes,0,0,0,0
+Larue,C103,President,,,Over Votes,1,1,0,0
+Larue,C103,U.S. House,2,REP,S. Brett GUTHRIE,237,76,148,13
+Larue,C103,U.S. House,2,DEM,Hank LINDERMAN,45,15,25,5
+Larue,C103,U.S. House,2,,Total Votes,282,91,173,18
+Larue,C103,U.S. House,2,,Under Votes,2,0,2,0
+Larue,C103,U.S. House,2,,Over Votes,0,0,0,0
+Larue,C103,State House,24,REP,Ryan BIVENS,234,73,149,12
+Larue,C103,State House,24,DEM,Johnny PENNINGTON,47,16,25,6
+Larue,C103,State House,24,,Total Votes,281,89,174,18
+Larue,C103,State House,24,,Under Votes,2,1,1,0
+Larue,C103,State House,24,,Over Votes,1,1,0,0
+Larue,C103,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,149,41,98,10
+Larue,C103,Commonwealth's Attorney,10,,Total Votes,149,41,98,10
+Larue,C103,Commonwealth's Attorney,10,,Under Votes,134,49,77,8
+Larue,C103,Commonwealth's Attorney,10,,Over Votes,1,1,0,0
+Larue,C103,Circuit Clerk,,REP,Emily ERNST,240,79,146,15
+Larue,C103,Circuit Clerk,,,Total Votes,240,79,146,15
+Larue,C103,Circuit Clerk,,,Under Votes,43,11,29,3
+Larue,C103,Circuit Clerk,,,Over Votes,1,1,0,0
+Larue,C103,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,C103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,C103,COUNTY SURVEYOR,,,Under Votes,284,91,175,18
+Larue,C103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Larue,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,0,0,0,0
+Larue,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1136,364,700,72
+Larue,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",189,54,124,11
+Larue,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",71,26,40,5
+Larue,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,260,80,164,16
+Larue,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,24,11,11,2
+Larue,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,113,37,70,6
+Larue,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,167,53,102,12
+Larue,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,280,90,172,18
+Larue,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,4,1,3,0
+Larue,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,D101,STRAIGHT PARTY,,REP,Republican Party,223,49,164,10
+Larue,D101,STRAIGHT PARTY,,DEM,Democratic Party,42,11,27,4
+Larue,D101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Larue,D101,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Larue,D101,STRAIGHT PARTY,,,Total Votes,269,61,194,14
+Larue,D101,STRAIGHT PARTY,,,Under Votes,364,66,277,21
+Larue,D101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Larue,D101,President,,REP,Donald J. TRUMP / JD VANCE,521,103,393,25
+Larue,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,106,23,73,10
+Larue,D101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Larue,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Larue,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,D101,President,,,Write In Total,0,0,0,0
+Larue,D101,President,,,Total Votes,632,127,470,35
+Larue,D101,President,,,Under Votes,2,0,2,0
+Larue,D101,President,,,Over Votes,0,0,0,0
+Larue,D101,U.S. House,2,REP,S. Brett GUTHRIE,527,104,395,28
+Larue,D101,U.S. House,2,DEM,Hank LINDERMAN,90,17,66,7
+Larue,D101,U.S. House,2,,Total Votes,617,121,461,35
+Larue,D101,U.S. House,2,,Under Votes,17,6,11,0
+Larue,D101,U.S. House,2,,Over Votes,0,0,0,0
+Larue,D101,State House,24,REP,Ryan BIVENS,527,110,394,23
+Larue,D101,State House,24,DEM,Johnny PENNINGTON,87,13,63,11
+Larue,D101,State House,24,,Total Votes,614,123,457,34
+Larue,D101,State House,24,,Under Votes,20,4,15,1
+Larue,D101,State House,24,,Over Votes,0,0,0,0
+Larue,D101,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,369,61,287,21
+Larue,D101,Commonwealth's Attorney,10,,Total Votes,369,61,287,21
+Larue,D101,Commonwealth's Attorney,10,,Under Votes,265,66,185,14
+Larue,D101,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,D101,Circuit Clerk,,REP,Emily ERNST,545,108,412,25
+Larue,D101,Circuit Clerk,,,Total Votes,545,108,412,25
+Larue,D101,Circuit Clerk,,,Under Votes,89,19,60,10
+Larue,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,D101,COUNTY SURVEYOR,,,Under Votes,634,127,472,35
+Larue,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,6,0,6,0
+Larue,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,6,0,6,0
+Larue,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2530,508,1882,140
+Larue,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,D101,Board of Education,4,,Janet CRUSE,405,64,319,22
+Larue,D101,Board of Education,4,,Total Votes,405,64,319,22
+Larue,D101,Board of Education,4,,Under Votes,229,63,153,13
+Larue,D101,Board of Education,4,,Over Votes,0,0,0,0
+Larue,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,393,77,296,20
+Larue,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,207,42,154,11
+Larue,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,600,119,450,31
+Larue,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,7,22,4
+Larue,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Larue,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,195,47,140,8
+Larue,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,419,77,320,22
+Larue,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,614,124,460,30
+Larue,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,3,12,5
+Larue,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,D102,STRAIGHT PARTY,,REP,Republican Party,289,56,220,13
+Larue,D102,STRAIGHT PARTY,,DEM,Democratic Party,49,6,41,2
+Larue,D102,STRAIGHT PARTY,,KY,Kentucky Party,6,1,5,0
+Larue,D102,STRAIGHT PARTY,,LIB,Libertarian Party,5,0,5,0
+Larue,D102,STRAIGHT PARTY,,,Total Votes,349,63,271,15
+Larue,D102,STRAIGHT PARTY,,,Under Votes,296,58,225,13
+Larue,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,D102,President,,REP,Donald J. TRUMP / JD VANCE,541,104,415,22
+Larue,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,16,66,5
+Larue,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Larue,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,1,9,0
+Larue,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
+Larue,D102,President,,,Write In Total,0,0,0,0
+Larue,D102,President,,,Total Votes,642,121,494,27
+Larue,D102,President,,,Under Votes,3,0,2,1
+Larue,D102,President,,,Over Votes,0,0,0,0
+Larue,D102,U.S. House,2,REP,S. Brett GUTHRIE,548,104,421,23
+Larue,D102,U.S. House,2,DEM,Hank LINDERMAN,86,14,67,5
+Larue,D102,U.S. House,2,,Total Votes,634,118,488,28
+Larue,D102,U.S. House,2,,Under Votes,10,3,7,0
+Larue,D102,U.S. House,2,,Over Votes,1,0,1,0
+Larue,D102,State House,24,REP,Ryan BIVENS,545,103,420,22
+Larue,D102,State House,24,DEM,Johnny PENNINGTON,86,15,65,6
+Larue,D102,State House,24,,Total Votes,631,118,485,28
+Larue,D102,State House,24,,Under Votes,14,3,11,0
+Larue,D102,State House,24,,Over Votes,0,0,0,0
+Larue,D102,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,330,59,254,17
+Larue,D102,Commonwealth's Attorney,10,,Total Votes,330,59,254,17
+Larue,D102,Commonwealth's Attorney,10,,Under Votes,315,62,242,11
+Larue,D102,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,D102,Circuit Clerk,,REP,Emily ERNST,556,110,422,24
+Larue,D102,Circuit Clerk,,,Total Votes,556,110,422,24
+Larue,D102,Circuit Clerk,,,Under Votes,89,11,74,4
+Larue,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,D102,COUNTY SURVEYOR,,,Under Votes,645,121,496,28
+Larue,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,2,1,1,0
+Larue,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,2,1,1,0
+Larue,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2578,483,1983,112
+Larue,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,D102,Board of Education,4,,Janet CRUSE,344,64,263,17
+Larue,D102,Board of Education,4,,Total Votes,344,64,263,17
+Larue,D102,Board of Education,4,,Under Votes,301,57,233,11
+Larue,D102,Board of Education,4,,Over Votes,0,0,0,0
+Larue,D102,CITY COMMISSIONERS City of Upton,,,"William Eric WILCOX ",43,5,37,1
+Larue,D102,CITY COMMISSIONERS City of Upton,,,"Trenton OLDHAM ",41,2,37,2
+Larue,D102,CITY COMMISSIONERS City of Upton,,,"Thomas Aaron BRACKETT ",26,2,23,1
+Larue,D102,CITY COMMISSIONERS City of Upton,,,"Ted C. JONES ",36,2,32,2
+Larue,D102,CITY COMMISSIONERS City of Upton,,,"TaShawna GARDNER ",18,3,15,0
+Larue,D102,CITY COMMISSIONERS City of Upton,,,Total Votes,164,14,144,6
+Larue,D102,CITY COMMISSIONERS City of Upton,,,Under Votes,296,18,260,18
+Larue,D102,CITY COMMISSIONERS City of Upton,,,Over Votes,0,0,0,0
+Larue,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",383,79,287,17
+Larue,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",211,34,167,10
+Larue,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,594,113,454,27
+Larue,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,51,8,42,1
+Larue,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,221,53,163,5
+Larue,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,379,59,299,21
+Larue,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,600,112,462,26
+Larue,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,45,9,34,2
+Larue,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,D103,STRAIGHT PARTY,,REP,Republican Party,123,45,65,13
+Larue,D103,STRAIGHT PARTY,,DEM,Democratic Party,19,6,12,1
+Larue,D103,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Larue,D103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Larue,D103,STRAIGHT PARTY,,,Total Votes,143,52,77,14
+Larue,D103,STRAIGHT PARTY,,,Under Votes,127,39,80,8
+Larue,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,D103,President,,REP,Donald J. TRUMP / JD VANCE,224,79,126,19
+Larue,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,40,11,27,2
+Larue,D103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Larue,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Larue,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,D103,President,,,Write In Total,0,0,0,0
+Larue,D103,President,,,Total Votes,266,90,155,21
+Larue,D103,President,,,Under Votes,4,1,2,1
+Larue,D103,President,,,Over Votes,0,0,0,0
+Larue,D103,U.S. House,2,REP,S. Brett GUTHRIE,220,77,125,18
+Larue,D103,U.S. House,2,DEM,Hank LINDERMAN,47,12,32,3
+Larue,D103,U.S. House,2,,Total Votes,267,89,157,21
+Larue,D103,U.S. House,2,,Under Votes,3,2,0,1
+Larue,D103,U.S. House,2,,Over Votes,0,0,0,0
+Larue,D103,State House,24,REP,Ryan BIVENS,218,76,124,18
+Larue,D103,State House,24,DEM,Johnny PENNINGTON,44,11,31,2
+Larue,D103,State House,24,,Total Votes,262,87,155,20
+Larue,D103,State House,24,,Under Votes,8,4,2,2
+Larue,D103,State House,24,,Over Votes,0,0,0,0
+Larue,D103,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,152,45,98,9
+Larue,D103,Commonwealth's Attorney,10,,Total Votes,152,45,98,9
+Larue,D103,Commonwealth's Attorney,10,,Under Votes,118,46,59,13
+Larue,D103,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,D103,Circuit Clerk,,REP,Emily ERNST,232,73,139,20
+Larue,D103,Circuit Clerk,,,Total Votes,232,73,139,20
+Larue,D103,Circuit Clerk,,,Under Votes,38,18,18,2
+Larue,D103,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,D103,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,D103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,D103,COUNTY SURVEYOR,,,Under Votes,270,91,157,22
+Larue,D103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,2,1,1,0
+Larue,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,2,1,1,0
+Larue,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1078,363,627,88
+Larue,D103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",172,57,103,12
+Larue,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",81,28,50,3
+Larue,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,253,85,153,15
+Larue,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,17,6,4,7
+Larue,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,102,44,49,9
+Larue,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,160,44,106,10
+Larue,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,262,88,155,19
+Larue,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,3,2,3
+Larue,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Larue,D104,STRAIGHT PARTY,,REP,Republican Party,102,29,64,9
+Larue,D104,STRAIGHT PARTY,,DEM,Democratic Party,15,5,7,3
+Larue,D104,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Larue,D104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Larue,D104,STRAIGHT PARTY,,,Total Votes,118,34,72,12
+Larue,D104,STRAIGHT PARTY,,,Under Votes,150,50,86,14
+Larue,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Larue,D104,President,,REP,Donald J. TRUMP / JD VANCE,227,67,139,21
+Larue,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,39,17,17,5
+Larue,D104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Larue,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Larue,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Larue,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Larue,D104,President,,,Write In Total,0,0,0,0
+Larue,D104,President,,,Total Votes,267,84,157,26
+Larue,D104,President,,,Under Votes,1,0,1,0
+Larue,D104,President,,,Over Votes,0,0,0,0
+Larue,D104,U.S. House,2,REP,S. Brett GUTHRIE,225,65,139,21
+Larue,D104,U.S. House,2,DEM,Hank LINDERMAN,39,17,17,5
+Larue,D104,U.S. House,2,,Total Votes,264,82,156,26
+Larue,D104,U.S. House,2,,Under Votes,4,2,2,0
+Larue,D104,U.S. House,2,,Over Votes,0,0,0,0
+Larue,D104,State House,24,REP,Ryan BIVENS,236,70,145,21
+Larue,D104,State House,24,DEM,Johnny PENNINGTON,32,14,13,5
+Larue,D104,State House,24,,Total Votes,268,84,158,26
+Larue,D104,State House,24,,Under Votes,0,0,0,0
+Larue,D104,State House,24,,Over Votes,0,0,0,0
+Larue,D104,Commonwealth's Attorney,10,DEM,Kyle W. WILLIAMSON,155,47,90,18
+Larue,D104,Commonwealth's Attorney,10,,Total Votes,155,47,90,18
+Larue,D104,Commonwealth's Attorney,10,,Under Votes,113,37,68,8
+Larue,D104,Commonwealth's Attorney,10,,Over Votes,0,0,0,0
+Larue,D104,Circuit Clerk,,REP,Emily ERNST,235,68,145,22
+Larue,D104,Circuit Clerk,,,Total Votes,235,68,145,22
+Larue,D104,Circuit Clerk,,,Under Votes,33,16,13,4
+Larue,D104,Circuit Clerk,,,Over Votes,0,0,0,0
+Larue,D104,COUNTY SURVEYOR,,,,0,0,0,0
+Larue,D104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Larue,D104,COUNTY SURVEYOR,,,Under Votes,268,84,158,26
+Larue,D104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Larue,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Write In Total,0,0,0,0
+Larue,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,0,0,0,0
+Larue,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1072,336,632,104
+Larue,D104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Larue,D104,Board of Education,4,,Janet CRUSE,173,53,103,17
+Larue,D104,Board of Education,4,,Total Votes,173,53,103,17
+Larue,D104,Board of Education,4,,Under Votes,95,31,55,9
+Larue,D104,Board of Education,4,,Over Votes,0,0,0,0
+Larue,D104,CONSTITUTIONAL AMENDMENT 1,,,YES,172,48,105,19
+Larue,D104,CONSTITUTIONAL AMENDMENT 1,,,NO,80,26,50,4
+Larue,D104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,252,74,155,23
+Larue,D104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,16,10,3,3
+Larue,D104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Larue,D104,CONSTITUTIONAL AMENDMENT 2,,,YES,95,33,52,10
+Larue,D104,CONSTITUTIONAL AMENDMENT 2,,,NO,164,48,103,13
+Larue,D104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,259,81,155,23
+Larue,D104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,3,3,3
+Larue,D104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
