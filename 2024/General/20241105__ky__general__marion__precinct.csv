@@ -1,0 +1,352 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Marion,A101,STRAIGHT PARTY,,REP,Republican Party,644,238,388,18
+Marion,A101,STRAIGHT PARTY,,DEM,Democratic Party,257,120,119,18
+Marion,A101,STRAIGHT PARTY,,KY,Kentucky Party,18,2,16,0
+Marion,A101,STRAIGHT PARTY,,LIB,Libertarian Party,6,3,3,0
+Marion,A101,STRAIGHT PARTY,,,Total Votes,925,363,526,36
+Marion,A101,STRAIGHT PARTY,,,Under Votes,901,313,549,39
+Marion,A101,STRAIGHT PARTY,,,Over Votes,2,1,0,1
+Marion,A101,President,,REP,Donald J. TRUMP / JD VANCE,1378,463,875,40
+Marion,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,417,200,183,34
+Marion,A101,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Marion,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,5,9,1
+Marion,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Marion,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
+Marion,A101,President,,,Total Votes,1816,673,1068,75
+Marion,A101,President,,,Under Votes,5,2,2,1
+Marion,A101,President,,,Over Votes,2,0,2,0
+Marion,A101,U.S. House,1,REP,James R. COMER,1350,464,845,41
+Marion,A101,U.S. House,1,DEM,Erin MARSHALL,437,198,206,33
+Marion,A101,U.S. House,1,,Total Votes,1787,662,1051,74
+Marion,A101,U.S. House,1,,Under Votes,39,14,23,2
+Marion,A101,U.S. House,1,,Over Votes,1,1,0,0
+Marion,A101,State House,51,REP,"Michael ""Sarge"" POLLOCK",1371,467,864,40
+Marion,A101,State House,51,,Total Votes,1371,467,864,40
+Marion,A101,State House,51,,Under Votes,440,201,204,35
+Marion,A101,State House,51,,Over Votes,0,0,0,0
+Marion,A101,Commonwealth's Attorney,11,REP,Shelly MILLER,1336,456,839,41
+Marion,A101,Commonwealth's Attorney,11,,Total Votes,1336,456,839,41
+Marion,A101,Commonwealth's Attorney,11,,Under Votes,481,216,231,34
+Marion,A101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Marion,A101,Circuit Clerk,,DEM,Tammy Morris EDLIN,1084,417,616,51
+Marion,A101,Circuit Clerk,,,Total Votes,1084,417,616,51
+Marion,A101,Circuit Clerk,,,Under Votes,713,245,443,25
+Marion,A101,Circuit Clerk,,,Over Votes,1,1,0,0
+Marion,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Marion,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Marion,A101,COUNTY SURVEYOR,,,Under Votes,1763,655,1033,75
+Marion,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Marion,A101,CONSTABLE,,,,0,0,0,0
+Marion,A101,CONSTABLE,,,Total Votes,0,0,0,0
+Marion,A101,CONSTABLE,,,Under Votes,1754,651,1029,74
+Marion,A101,CONSTABLE,,,Over Votes,0,0,0,0
+Marion,A101,Board of Education,1,,Carrie Gribbins TRUITT,993,342,615,36
+Marion,A101,Board of Education,1,,Total Votes,993,342,615,36
+Marion,A101,Board of Education,1,,Under Votes,817,327,450,40
+Marion,A101,Board of Education,1,,Over Votes,0,0,0,0
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,"Nancy M. DUDLEY ",58,6,50,2
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,"Sandy GRIBBINS ",53,8,43,2
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,"Michelle ALLEN ",49,6,41,2
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,"Monty Ray MULLINS ",61,6,53,2
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,Total Votes,221,26,187,8
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,Under Votes,174,14,148,12
+Marion,A101,CITY COMMISSIONERS City of Bradfordsville,,,Over Votes,1,0,0,1
+Marion,A101,CITY COUNCIL City of Lebanon,,,"Richard A. MATTINGLY ",114,63,42,9
+Marion,A101,CITY COUNCIL City of Lebanon,,,"Jerry ABELL ",140,81,52,7
+Marion,A101,CITY COUNCIL City of Lebanon,,,"Jonathan SPALDING ",127,66,54,7
+Marion,A101,CITY COUNCIL City of Lebanon,,,"Kate PALAGI ",134,74,51,9
+Marion,A101,CITY COUNCIL City of Lebanon,,,"Darin SPALDING ",115,68,41,6
+Marion,A101,CITY COUNCIL City of Lebanon,,,"John R. MATTINGLY ",153,85,57,11
+Marion,A101,CITY COUNCIL City of Lebanon,,,Total Votes,783,437,297,49
+Marion,A101,CITY COUNCIL City of Lebanon,,,Under Votes,997,548,390,59
+Marion,A101,CITY COUNCIL City of Lebanon,,,Over Votes,2,1,0,1
+Marion,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1078,394,643,41
+Marion,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",572,209,333,30
+Marion,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1650,603,976,71
+Marion,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,172,71,96,5
+Marion,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,3,0
+Marion,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,565,212,328,25
+Marion,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,1186,439,699,48
+Marion,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1751,651,1027,73
+Marion,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,74,25,47,2
+Marion,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,1,1,1
+Marion,A101,QUESTION-MARION CANNABIS,,,YES,1233,452,731,50
+Marion,A101,QUESTION-MARION CANNABIS,,,NO,492,186,283,23
+Marion,A101,QUESTION-MARION CANNABIS,,,Total Votes,1725,638,1014,73
+Marion,A101,QUESTION-MARION CANNABIS,,,Under Votes,102,38,61,3
+Marion,A101,QUESTION-MARION CANNABIS,,,Over Votes,1,1,0,0
+Marion,C101,STRAIGHT PARTY,,REP,Republican Party,477,202,251,24
+Marion,C101,STRAIGHT PARTY,,DEM,Democratic Party,348,157,170,21
+Marion,C101,STRAIGHT PARTY,,KY,Kentucky Party,8,3,5,0
+Marion,C101,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Marion,C101,STRAIGHT PARTY,,,Total Votes,836,363,428,45
+Marion,C101,STRAIGHT PARTY,,,Under Votes,796,365,391,40
+Marion,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Marion,C101,President,,REP,Donald J. TRUMP / JD VANCE,1003,438,527,38
+Marion,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,593,275,273,45
+Marion,C101,President,,KY,Jill  STEIN / Samson KPADENOU,7,3,4,0
+Marion,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,14,5,8,1
+Marion,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Marion,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,1,0
+Marion,C101,President,,,Total Votes,1620,723,813,84
+Marion,C101,President,,,Under Votes,8,3,5,0
+Marion,C101,President,,,Over Votes,3,2,0,1
+Marion,C101,U.S. House,1,REP,James R. COMER,1025,450,535,40
+Marion,C101,U.S. House,1,DEM,Erin MARSHALL,562,257,263,42
+Marion,C101,U.S. House,1,,Total Votes,1587,707,798,82
+Marion,C101,U.S. House,1,,Under Votes,43,20,21,2
+Marion,C101,U.S. House,1,,Over Votes,1,1,0,0
+Marion,C101,State House,51,REP,"Michael ""Sarge"" POLLOCK",1088,463,578,47
+Marion,C101,State House,51,,Total Votes,1088,463,578,47
+Marion,C101,State House,51,,Under Votes,515,257,224,34
+Marion,C101,State House,51,,Over Votes,1,1,0,0
+Marion,C101,Commonwealth's Attorney,11,REP,Shelly MILLER,1075,450,575,50
+Marion,C101,Commonwealth's Attorney,11,,Total Votes,1075,450,575,50
+Marion,C101,Commonwealth's Attorney,11,,Under Votes,531,272,230,29
+Marion,C101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Marion,C101,Circuit Clerk,,DEM,Tammy Morris EDLIN,1075,446,576,53
+Marion,C101,Circuit Clerk,,,Total Votes,1075,446,576,53
+Marion,C101,Circuit Clerk,,,Under Votes,523,266,229,28
+Marion,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Marion,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Marion,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Marion,C101,COUNTY SURVEYOR,,,Under Votes,1574,708,784,82
+Marion,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Marion,C101,CONSTABLE,,,,0,0,0,0
+Marion,C101,CONSTABLE,,,Total Votes,0,0,0,0
+Marion,C101,CONSTABLE,,,Under Votes,1571,705,785,81
+Marion,C101,CONSTABLE,,,Over Votes,0,0,0,0
+Marion,C101,Board of Education,5,,Debbie SPALDING,952,388,516,48
+Marion,C101,Board of Education,5,,Total Votes,952,388,516,48
+Marion,C101,Board of Education,5,,Under Votes,670,338,297,35
+Marion,C101,Board of Education,5,,Over Votes,0,0,0,0
+Marion,C101,CITY COUNCIL City of Lebanon,,,"Richard A. MATTINGLY ",418,187,201,30
+Marion,C101,CITY COUNCIL City of Lebanon,,,"Jerry ABELL ",482,220,230,32
+Marion,C101,CITY COUNCIL City of Lebanon,,,"Jonathan SPALDING ",429,206,192,31
+Marion,C101,CITY COUNCIL City of Lebanon,,,"Kate PALAGI ",475,222,221,32
+Marion,C101,CITY COUNCIL City of Lebanon,,,"Darin SPALDING ",416,199,185,32
+Marion,C101,CITY COUNCIL City of Lebanon,,,"John R. MATTINGLY ",509,232,240,37
+Marion,C101,CITY COUNCIL City of Lebanon,,,Total Votes,2729,1266,1269,194
+Marion,C101,CITY COUNCIL City of Lebanon,,,Under Votes,3326,1486,1694,146
+Marion,C101,CITY COUNCIL City of Lebanon,,,Over Votes,8,2,4,2
+Marion,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,835,353,443,39
+Marion,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,617,283,303,31
+Marion,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1452,636,746,70
+Marion,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,169,87,68,14
+Marion,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,10,5,5,0
+Marion,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,462,203,241,18
+Marion,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,1076,476,543,57
+Marion,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1538,679,784,75
+Marion,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,91,48,35,8
+Marion,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,0,1
+Marion,C101,QUESTION-MARION CANNABIS,,,YES,1165,491,617,57
+Marion,C101,QUESTION-MARION CANNABIS,,,NO,361,184,159,18
+Marion,C101,QUESTION-MARION CANNABIS,,,Total Votes,1526,675,776,75
+Marion,C101,QUESTION-MARION CANNABIS,,,Under Votes,105,53,43,9
+Marion,C101,QUESTION-MARION CANNABIS,,,Over Votes,0,0,0,0
+Marion,D101,STRAIGHT PARTY,,REP,Republican Party,549,202,329,18
+Marion,D101,STRAIGHT PARTY,,DEM,Democratic Party,294,149,123,22
+Marion,D101,STRAIGHT PARTY,,KY,Kentucky Party,8,2,5,1
+Marion,D101,STRAIGHT PARTY,,LIB,Libertarian Party,6,0,5,1
+Marion,D101,STRAIGHT PARTY,,,Total Votes,857,353,462,42
+Marion,D101,STRAIGHT PARTY,,,Under Votes,933,356,543,34
+Marion,D101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Marion,D101,President,,REP,Donald J. TRUMP / JD VANCE,1241,442,762,37
+Marion,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,512,248,225,39
+Marion,D101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Marion,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,19,9,10,0
+Marion,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Marion,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Marion,D101,President,,,Total Votes,1777,701,1000,76
+Marion,D101,President,,,Under Votes,8,5,3,0
+Marion,D101,President,,,Over Votes,2,1,1,0
+Marion,D101,U.S. House,1,REP,James R. COMER,1242,448,754,40
+Marion,D101,U.S. House,1,DEM,Erin MARSHALL,503,241,228,34
+Marion,D101,U.S. House,1,,Total Votes,1745,689,982,74
+Marion,D101,U.S. House,1,,Under Votes,45,20,24,1
+Marion,D101,U.S. House,1,,Over Votes,0,0,0,0
+Marion,D101,State House,51,REP,"Michael ""Sarge"" POLLOCK",1297,481,772,44
+Marion,D101,State House,51,,Total Votes,1297,481,772,44
+Marion,D101,State House,51,,Under Votes,476,223,223,30
+Marion,D101,State House,51,,Over Votes,0,0,0,0
+Marion,D101,Commonwealth's Attorney,11,REP,Shelly MILLER,1260,470,745,45
+Marion,D101,Commonwealth's Attorney,11,,Total Votes,1260,470,745,45
+Marion,D101,Commonwealth's Attorney,11,,Under Votes,519,237,253,29
+Marion,D101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Marion,D101,Circuit Clerk,,DEM,Tammy Morris EDLIN,1135,448,640,47
+Marion,D101,Circuit Clerk,,,Total Votes,1135,448,640,47
+Marion,D101,Circuit Clerk,,,Under Votes,623,248,348,27
+Marion,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Marion,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Marion,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Marion,D101,COUNTY SURVEYOR,,,Under Votes,1744,688,982,74
+Marion,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Marion,D101,CONSTABLE,,,,0,0,0,0
+Marion,D101,CONSTABLE,,,Total Votes,0,0,0,0
+Marion,D101,CONSTABLE,,,Under Votes,1745,689,982,74
+Marion,D101,CONSTABLE,,,Over Votes,0,0,0,0
+Marion,D101,CITY COUNCIL City of Lebanon,,,"Richard A. MATTINGLY ",301,149,131,21
+Marion,D101,CITY COUNCIL City of Lebanon,,,"Jerry ABELL ",327,164,143,20
+Marion,D101,CITY COUNCIL City of Lebanon,,,"Jonathan SPALDING ",311,154,135,22
+Marion,D101,CITY COUNCIL City of Lebanon,,,"Kate PALAGI ",328,159,140,29
+Marion,D101,CITY COUNCIL City of Lebanon,,,"Darin SPALDING ",304,156,128,20
+Marion,D101,CITY COUNCIL City of Lebanon,,,"John R. MATTINGLY ",332,168,140,24
+Marion,D101,CITY COUNCIL City of Lebanon,,,Total Votes,1903,950,817,136
+Marion,D101,CITY COUNCIL City of Lebanon,,,Under Votes,1942,939,857,146
+Marion,D101,CITY COUNCIL City of Lebanon,,,Over Votes,6,3,2,1
+Marion,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",989,370,578,41
+Marion,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",663,280,357,26
+Marion,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1652,650,935,67
+Marion,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,128,55,65,8
+Marion,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,10,4,6,0
+Marion,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,535,225,285,25
+Marion,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,1174,447,684,43
+Marion,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1709,672,969,68
+Marion,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,81,37,37,7
+Marion,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Marion,D101,QUESTION-MARION CANNABIS,,,YES,1251,475,731,45
+Marion,D101,QUESTION-MARION CANNABIS,,,NO,430,181,227,22
+Marion,D101,QUESTION-MARION CANNABIS,,,Total Votes,1681,656,958,67
+Marion,D101,QUESTION-MARION CANNABIS,,,Under Votes,106,52,46,8
+Marion,D101,QUESTION-MARION CANNABIS,,,Over Votes,3,1,2,0
+Marion,E101,STRAIGHT PARTY,,REP,Republican Party,614,189,412,13
+Marion,E101,STRAIGHT PARTY,,DEM,Democratic Party,267,94,155,18
+Marion,E101,STRAIGHT PARTY,,KY,Kentucky Party,11,2,9,0
+Marion,E101,STRAIGHT PARTY,,LIB,Libertarian Party,5,0,5,0
+Marion,E101,STRAIGHT PARTY,,,Total Votes,897,285,581,31
+Marion,E101,STRAIGHT PARTY,,,Under Votes,974,309,626,39
+Marion,E101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Marion,E101,President,,REP,Donald J. TRUMP / JD VANCE,1339,394,912,33
+Marion,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,503,191,277,35
+Marion,E101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Marion,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,4,10,1
+Marion,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Marion,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
+Marion,E101,President,,,Total Votes,1864,590,1205,69
+Marion,E101,President,,,Under Votes,4,3,1,0
+Marion,E101,President,,,Over Votes,3,1,2,0
+Marion,E101,U.S. House,1,REP,James R. COMER,1295,396,872,27
+Marion,E101,U.S. House,1,DEM,Erin MARSHALL,507,180,285,42
+Marion,E101,U.S. House,1,,Total Votes,1802,576,1157,69
+Marion,E101,U.S. House,1,,Under Votes,67,17,49,1
+Marion,E101,U.S. House,1,,Over Votes,1,1,0,0
+Marion,E101,State House,51,REP,"Michael ""Sarge"" POLLOCK",1365,402,920,43
+Marion,E101,State House,51,,Total Votes,1365,402,920,43
+Marion,E101,State House,51,,Under Votes,477,181,271,25
+Marion,E101,State House,51,,Over Votes,1,1,0,0
+Marion,E101,Commonwealth's Attorney,11,REP,Shelly MILLER,1330,392,894,44
+Marion,E101,Commonwealth's Attorney,11,,Total Votes,1330,392,894,44
+Marion,E101,Commonwealth's Attorney,11,,Under Votes,521,193,303,25
+Marion,E101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Marion,E101,Circuit Clerk,,DEM,Tammy Morris EDLIN,1222,362,812,48
+Marion,E101,Circuit Clerk,,,Total Votes,1222,362,812,48
+Marion,E101,Circuit Clerk,,,Under Votes,624,225,377,22
+Marion,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Marion,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Marion,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Marion,E101,COUNTY SURVEYOR,,,Under Votes,1822,581,1174,67
+Marion,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Marion,E101,CONSTABLE,,,,0,0,0,0
+Marion,E101,CONSTABLE,,,Total Votes,0,0,0,0
+Marion,E101,CONSTABLE,,,Under Votes,1818,582,1169,67
+Marion,E101,CONSTABLE,,,Over Votes,0,0,0,0
+Marion,E101,CITY COUNCIL City of Lebanon,,,"Richard A. MATTINGLY ",112,44,64,4
+Marion,E101,CITY COUNCIL City of Lebanon,,,"Jerry ABELL ",114,43,65,6
+Marion,E101,CITY COUNCIL City of Lebanon,,,"Jonathan SPALDING ",105,43,55,7
+Marion,E101,CITY COUNCIL City of Lebanon,,,"Kate PALAGI ",127,51,69,7
+Marion,E101,CITY COUNCIL City of Lebanon,,,"Darin SPALDING ",111,48,58,5
+Marion,E101,CITY COUNCIL City of Lebanon,,,"John R. MATTINGLY ",125,53,67,5
+Marion,E101,CITY COUNCIL City of Lebanon,,,Total Votes,694,282,378,34
+Marion,E101,CITY COUNCIL City of Lebanon,,,Under Votes,737,299,412,26
+Marion,E101,CITY COUNCIL City of Lebanon,,,Over Votes,2,0,0,2
+Marion,E101,MAYOR City of Raywick,,,,0,0,0,0
+Marion,E101,MAYOR City of Raywick,,,Total Votes,0,0,0,0
+Marion,E101,MAYOR City of Raywick,,,Under Votes,66,16,48,2
+Marion,E101,MAYOR City of Raywick,,,Over Votes,0,0,0,0
+Marion,E101,CITY COMMISSIONERS City of Raywick,,,,0,0,0,0
+Marion,E101,CITY COMMISSIONERS City of Raywick,,,Total Votes,0,0,0,0
+Marion,E101,CITY COMMISSIONERS City of Raywick,,,Under Votes,263,64,191,8
+Marion,E101,CITY COMMISSIONERS City of Raywick,,,Over Votes,0,0,0,0
+Marion,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1072,332,710,30
+Marion,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",660,217,406,37
+Marion,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1732,549,1116,67
+Marion,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,134,41,90,3
+Marion,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,2,0
+Marion,E101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",559,181,354,24
+Marion,E101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",1230,391,795,44
+Marion,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1789,572,1149,68
+Marion,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,80,22,56,2
+Marion,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,0,3,0
+Marion,E101,QUESTION-MARION CANNABIS,,,YES,1352,397,905,50
+Marion,E101,QUESTION-MARION CANNABIS,,,NO,426,170,238,18
+Marion,E101,QUESTION-MARION CANNABIS,,,Total Votes,1778,567,1143,68
+Marion,E101,QUESTION-MARION CANNABIS,,,Under Votes,88,26,60,2
+Marion,E101,QUESTION-MARION CANNABIS,,,Over Votes,6,1,5,0
+Marion,H101,STRAIGHT PARTY,,REP,Republican Party,696,152,526,18
+Marion,H101,STRAIGHT PARTY,,DEM,Democratic Party,263,59,170,34
+Marion,H101,STRAIGHT PARTY,,KY,Kentucky Party,10,1,9,0
+Marion,H101,STRAIGHT PARTY,,LIB,Libertarian Party,8,3,5,0
+Marion,H101,STRAIGHT PARTY,,,Total Votes,977,215,710,52
+Marion,H101,STRAIGHT PARTY,,,Under Votes,1053,219,791,43
+Marion,H101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Marion,H101,President,,REP,Donald J. TRUMP / JD VANCE,1512,318,1161,33
+Marion,H101,President,,DEM,Kamala D. HARRIS / Tim WALZ,488,112,317,59
+Marion,H101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Marion,H101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,18,3,13,2
+Marion,H101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Marion,H101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,1,3,0
+Marion,H101,President,,,Total Votes,2023,434,1495,94
+Marion,H101,President,,,Under Votes,3,0,3,0
+Marion,H101,President,,,Over Votes,2,0,1,1
+Marion,H101,U.S. House,1,REP,James R. COMER,1440,310,1098,32
+Marion,H101,U.S. House,1,DEM,Erin MARSHALL,524,112,354,58
+Marion,H101,U.S. House,1,,Total Votes,1964,422,1452,90
+Marion,H101,U.S. House,1,,Under Votes,63,12,48,3
+Marion,H101,U.S. House,1,,Over Votes,0,0,0,0
+Marion,H101,State House,51,REP,"Michael ""Sarge"" POLLOCK",1490,318,1132,40
+Marion,H101,State House,51,,Total Votes,1490,318,1132,40
+Marion,H101,State House,51,,Under Votes,522,111,361,50
+Marion,H101,State House,51,,Over Votes,0,0,0,0
+Marion,H101,Commonwealth's Attorney,11,REP,Shelly MILLER,1452,308,1105,39
+Marion,H101,Commonwealth's Attorney,11,,Total Votes,1452,308,1105,39
+Marion,H101,Commonwealth's Attorney,11,,Under Votes,563,123,388,52
+Marion,H101,Commonwealth's Attorney,11,,Over Votes,0,0,0,0
+Marion,H101,Circuit Clerk,,DEM,Tammy Morris EDLIN,1366,280,1012,74
+Marion,H101,Circuit Clerk,,,Total Votes,1366,280,1012,74
+Marion,H101,Circuit Clerk,,,Under Votes,633,146,468,19
+Marion,H101,Circuit Clerk,,,Over Votes,1,0,1,0
+Marion,H101,COUNTY SURVEYOR,,,,0,0,0,0
+Marion,H101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Marion,H101,COUNTY SURVEYOR,,,Under Votes,1956,417,1449,90
+Marion,H101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Marion,H101,CONSTABLE,,,,0,0,0,0
+Marion,H101,CONSTABLE,,,Total Votes,0,0,0,0
+Marion,H101,CONSTABLE,,,Under Votes,1961,417,1453,91
+Marion,H101,CONSTABLE,,,Over Votes,0,0,0,0
+Marion,H101,Board of Education,4,,Peggy Sue DOWNS,1162,240,873,49
+Marion,H101,Board of Education,4,,Total Votes,1162,240,873,49
+Marion,H101,Board of Education,4,,Under Votes,853,191,618,44
+Marion,H101,Board of Education,4,,Over Votes,0,0,0,0
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,"Diane L. MATTINGLY ",194,28,160,6
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,"Eddie SMITH ",195,39,152,4
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,"Mary Connie MATTINGLY ",182,43,134,5
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,"Lennie NALLEY ",176,35,134,7
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,"Joshua BALLARD ",255,53,195,7
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Total Votes,1002,198,775,29
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Under Votes,541,89,441,11
+Marion,H101,CITY COMMISSIONERS City of Loretto,,,Over Votes,1,1,0,0
+Marion,H101,CONSTITUTIONAL AMENDMENT 1,,,YES,1171,256,870,45
+Marion,H101,CONSTITUTIONAL AMENDMENT 1,,,NO,671,131,496,44
+Marion,H101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1842,387,1366,89
+Marion,H101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,178,43,131,4
+Marion,H101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,8,4,4,0
+Marion,H101,CONSTITUTIONAL AMENDMENT 2,,,YES,601,142,422,37
+Marion,H101,CONSTITUTIONAL AMENDMENT 2,,,NO,1340,280,1007,53
+Marion,H101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1941,422,1429,90
+Marion,H101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,85,11,71,3
+Marion,H101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
+Marion,H101,QUESTION-MARION CANNABIS,,,YES,1566,320,1171,75
+Marion,H101,QUESTION-MARION CANNABIS,,,NO,368,90,262,16
+Marion,H101,QUESTION-MARION CANNABIS,,,Total Votes,1934,410,1433,91
+Marion,H101,QUESTION-MARION CANNABIS,,,Under Votes,93,24,67,2
+Marion,H101,QUESTION-MARION CANNABIS,,,Over Votes,1,0,1,0
