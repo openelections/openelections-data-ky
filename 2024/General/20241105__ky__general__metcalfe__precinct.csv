@@ -1,0 +1,726 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Metcalfe,A101,STRAIGHT PARTY,,REP,Republican Party,202,83,116,3
+Metcalfe,A101,STRAIGHT PARTY,,DEM,Democratic Party,74,26,41,7
+Metcalfe,A101,STRAIGHT PARTY,,KY,Kentucky Party,7,1,6,0
+Metcalfe,A101,STRAIGHT PARTY,,LIB,Libertarian Party,5,0,5,0
+Metcalfe,A101,STRAIGHT PARTY,,,Total Votes,288,110,168,10
+Metcalfe,A101,STRAIGHT PARTY,,,Under Votes,396,140,234,22
+Metcalfe,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,A101,President,,REP,Donald J. TRUMP / JD VANCE,515,181,324,10
+Metcalfe,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,140,58,60,22
+Metcalfe,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Metcalfe,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,3,5,0
+Metcalfe,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
+Metcalfe,A101,President,,,Write In Total,0,0,0,0
+Metcalfe,A101,President,,,Total Votes,668,243,393,32
+Metcalfe,A101,President,,,Under Votes,14,5,9,0
+Metcalfe,A101,President,,,Over Votes,2,2,0,0
+Metcalfe,A101,U.S. House,1,REP,James R. COMER,527,192,325,10
+Metcalfe,A101,U.S. House,1,DEM,Erin MARSHALL,138,50,68,20
+Metcalfe,A101,U.S. House,1,,Total Votes,665,242,393,30
+Metcalfe,A101,U.S. House,1,,Under Votes,18,7,9,2
+Metcalfe,A101,U.S. House,1,,Over Votes,1,1,0,0
+Metcalfe,A101,State House,21,REP,Amy NEIGHBORS,470,180,272,18
+Metcalfe,A101,State House,21,DEM,Jeffery HUMBLE,192,62,116,14
+Metcalfe,A101,State House,21,,Total Votes,662,242,388,32
+Metcalfe,A101,State House,21,,Under Votes,22,8,14,0
+Metcalfe,A101,State House,21,,Over Votes,0,0,0,0
+Metcalfe,A101,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,363,107,233,23
+Metcalfe,A101,Commonwealth's Attorney,43,,Total Votes,363,107,233,23
+Metcalfe,A101,Commonwealth's Attorney,43,,Under Votes,321,143,169,9
+Metcalfe,A101,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,A101,Circuit Clerk,,REP,Tommy A. GARRETT,551,193,334,24
+Metcalfe,A101,Circuit Clerk,,,Total Votes,551,193,334,24
+Metcalfe,A101,Circuit Clerk,,,Under Votes,133,57,68,8
+Metcalfe,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,A101,COUNTY SURVEYOR,,,Under Votes,684,250,402,32
+Metcalfe,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,A101,Board of Education,3,,Robby PARNELL,387,134,237,16
+Metcalfe,A101,Board of Education,3,,Total Votes,387,134,237,16
+Metcalfe,A101,Board of Education,3,,Under Votes,297,116,165,16
+Metcalfe,A101,Board of Education,3,,Over Votes,0,0,0,0
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Faye WORD ",195,65,111,19
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Diane BLYTHE ",155,59,81,15
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Tommy ENGLAND ",179,65,103,11
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Cathy NUNN ",163,64,89,10
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Teresa White HAMLETT ",180,65,101,14
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Curt ESTES ",183,65,102,16
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,"Stacy BEARD ",182,70,101,11
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,Total Votes,1237,453,688,96
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,Under Votes,881,321,536,24
+Metcalfe,A101,CITY COUNCIL City of Edmonton,,,Over Votes,0,0,0,0
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",350,121,216,13
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",236,81,144,11
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,586,202,360,24
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,98,48,42,8
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,183,72,99,12
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,455,157,282,16
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,638,229,381,28
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,46,21,21,4
+Metcalfe,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,A101,QUESTION-METCALFE CANNABIS,,,YES,406,127,261,18
+Metcalfe,A101,QUESTION-METCALFE CANNABIS,,,NO,218,94,113,11
+Metcalfe,A101,QUESTION-METCALFE CANNABIS,,,Total Votes,624,221,374,29
+Metcalfe,A101,QUESTION-METCALFE CANNABIS,,,Under Votes,59,28,28,3
+Metcalfe,A101,QUESTION-METCALFE CANNABIS,,,Over Votes,1,1,0,0
+Metcalfe,A102,STRAIGHT PARTY,,REP,Republican Party,191,79,105,7
+Metcalfe,A102,STRAIGHT PARTY,,DEM,Democratic Party,61,16,40,5
+Metcalfe,A102,STRAIGHT PARTY,,KY,Kentucky Party,6,0,5,1
+Metcalfe,A102,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Metcalfe,A102,STRAIGHT PARTY,,,Total Votes,260,95,152,13
+Metcalfe,A102,STRAIGHT PARTY,,,Under Votes,444,170,244,30
+Metcalfe,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,A102,President,,REP,Donald J. TRUMP / JD VANCE,537,205,314,18
+Metcalfe,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,150,54,75,21
+Metcalfe,A102,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Metcalfe,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,1,1
+Metcalfe,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Metcalfe,A102,President,,,Write In Total,1,1,0,0
+Metcalfe,A102,President,,,Total Votes,694,263,391,40
+Metcalfe,A102,President,,,Under Votes,8,1,5,2
+Metcalfe,A102,President,,,Over Votes,2,1,0,1
+Metcalfe,A102,U.S. House,1,REP,James R. COMER,546,212,316,18
+Metcalfe,A102,U.S. House,1,DEM,Erin MARSHALL,138,46,69,23
+Metcalfe,A102,U.S. House,1,,Total Votes,684,258,385,41
+Metcalfe,A102,U.S. House,1,,Under Votes,20,7,11,2
+Metcalfe,A102,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,A102,State House,21,REP,Amy NEIGHBORS,517,200,289,28
+Metcalfe,A102,State House,21,DEM,Jeffery HUMBLE,169,61,94,14
+Metcalfe,A102,State House,21,,Total Votes,686,261,383,42
+Metcalfe,A102,State House,21,,Under Votes,18,4,13,1
+Metcalfe,A102,State House,21,,Over Votes,0,0,0,0
+Metcalfe,A102,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,365,110,226,29
+Metcalfe,A102,Commonwealth's Attorney,43,,Total Votes,365,110,226,29
+Metcalfe,A102,Commonwealth's Attorney,43,,Under Votes,339,155,170,14
+Metcalfe,A102,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,A102,Circuit Clerk,,REP,Tommy A. GARRETT,555,204,317,34
+Metcalfe,A102,Circuit Clerk,,,Total Votes,555,204,317,34
+Metcalfe,A102,Circuit Clerk,,,Under Votes,149,61,79,9
+Metcalfe,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,A102,COUNTY SURVEYOR,,,Under Votes,704,265,396,43
+Metcalfe,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,A102,Board of Education,4,,Tareena J. HORTON,122,53,64,5
+Metcalfe,A102,Board of Education,4,,Kelly P. BELL,469,158,279,32
+Metcalfe,A102,Board of Education,4,,Total Votes,591,211,343,37
+Metcalfe,A102,Board of Education,4,,Under Votes,113,54,53,6
+Metcalfe,A102,Board of Education,4,,Over Votes,0,0,0,0
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Faye WORD ",170,50,99,21
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Diane BLYTHE ",115,45,63,7
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Tommy ENGLAND ",163,57,94,12
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Cathy NUNN ",149,55,78,16
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Teresa White HAMLETT ",157,58,82,17
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Curt ESTES ",159,57,91,11
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,"Stacy BEARD ",160,50,93,17
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,Total Votes,1073,372,600,101
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,Under Votes,907,294,522,91
+Metcalfe,A102,CITY COUNCIL City of Edmonton,,,Over Votes,0,0,0,0
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",373,144,205,24
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",254,86,150,18
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,627,230,355,42
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,77,35,41,1
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,177,72,86,19
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,483,167,293,23
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,660,239,379,42
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,43,26,16,1
+Metcalfe,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Metcalfe,A102,QUESTION-METCALFE CANNABIS,,,YES,373,131,219,23
+Metcalfe,A102,QUESTION-METCALFE CANNABIS,,,NO,280,109,153,18
+Metcalfe,A102,QUESTION-METCALFE CANNABIS,,,Total Votes,653,240,372,41
+Metcalfe,A102,QUESTION-METCALFE CANNABIS,,,Under Votes,51,25,24,2
+Metcalfe,A102,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,A103,STRAIGHT PARTY,,REP,Republican Party,252,64,181,7
+Metcalfe,A103,STRAIGHT PARTY,,DEM,Democratic Party,30,11,18,1
+Metcalfe,A103,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Metcalfe,A103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,1,1
+Metcalfe,A103,STRAIGHT PARTY,,,Total Votes,289,76,204,9
+Metcalfe,A103,STRAIGHT PARTY,,,Under Votes,478,106,361,11
+Metcalfe,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,A103,President,,REP,Donald J. TRUMP / JD VANCE,666,159,496,11
+Metcalfe,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,90,19,62,9
+Metcalfe,A103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Metcalfe,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,A103,President,,,Write In Total,0,0,0,0
+Metcalfe,A103,President,,,Total Votes,760,178,562,20
+Metcalfe,A103,President,,,Under Votes,4,3,1,0
+Metcalfe,A103,President,,,Over Votes,3,1,2,0
+Metcalfe,A103,U.S. House,1,REP,James R. COMER,670,163,496,11
+Metcalfe,A103,U.S. House,1,DEM,Erin MARSHALL,85,17,60,8
+Metcalfe,A103,U.S. House,1,,Total Votes,755,180,556,19
+Metcalfe,A103,U.S. House,1,,Under Votes,12,2,9,1
+Metcalfe,A103,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,A103,State House,21,REP,Amy NEIGHBORS,627,152,463,12
+Metcalfe,A103,State House,21,DEM,Jeffery HUMBLE,115,27,80,8
+Metcalfe,A103,State House,21,,Total Votes,742,179,543,20
+Metcalfe,A103,State House,21,,Under Votes,25,3,22,0
+Metcalfe,A103,State House,21,,Over Votes,0,0,0,0
+Metcalfe,A103,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,373,68,293,12
+Metcalfe,A103,Commonwealth's Attorney,43,,Total Votes,373,68,293,12
+Metcalfe,A103,Commonwealth's Attorney,43,,Under Votes,394,114,272,8
+Metcalfe,A103,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,A103,Circuit Clerk,,REP,Tommy A. GARRETT,674,157,498,19
+Metcalfe,A103,Circuit Clerk,,,Total Votes,674,157,498,19
+Metcalfe,A103,Circuit Clerk,,,Under Votes,93,25,67,1
+Metcalfe,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,A103,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,A103,COUNTY SURVEYOR,,,Under Votes,767,182,565,20
+Metcalfe,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,A103,Board of Education,2,,Daniel GLASS,485,96,377,12
+Metcalfe,A103,Board of Education,2,,Total Votes,485,96,377,12
+Metcalfe,A103,Board of Education,2,,Under Votes,281,85,188,8
+Metcalfe,A103,Board of Education,2,,Over Votes,1,1,0,0
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",488,124,353,11
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",223,42,173,8
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,711,166,526,19
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,16,37,1
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,218,69,146,3
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,521,106,399,16
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,739,175,545,19
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,7,17,1
+Metcalfe,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,0,3,0
+Metcalfe,A103,QUESTION-METCALFE CANNABIS,,,YES,405,81,313,11
+Metcalfe,A103,QUESTION-METCALFE CANNABIS,,,NO,326,87,232,7
+Metcalfe,A103,QUESTION-METCALFE CANNABIS,,,Total Votes,731,168,545,18
+Metcalfe,A103,QUESTION-METCALFE CANNABIS,,,Under Votes,36,14,20,2
+Metcalfe,A103,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,A104,STRAIGHT PARTY,,REP,Republican Party,108,28,77,3
+Metcalfe,A104,STRAIGHT PARTY,,DEM,Democratic Party,23,1,21,1
+Metcalfe,A104,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Metcalfe,A104,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Metcalfe,A104,STRAIGHT PARTY,,,Total Votes,135,30,101,4
+Metcalfe,A104,STRAIGHT PARTY,,,Under Votes,155,33,117,5
+Metcalfe,A104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,A104,President,,REP,Donald J. TRUMP / JD VANCE,238,55,179,4
+Metcalfe,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,49,8,37,4
+Metcalfe,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,1,1
+Metcalfe,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,A104,President,,,Write In Total,0,0,0,0
+Metcalfe,A104,President,,,Total Votes,290,63,218,9
+Metcalfe,A104,President,,,Under Votes,0,0,0,0
+Metcalfe,A104,President,,,Over Votes,0,0,0,0
+Metcalfe,A104,U.S. House,1,REP,James R. COMER,236,53,177,6
+Metcalfe,A104,U.S. House,1,DEM,Erin MARSHALL,46,9,34,3
+Metcalfe,A104,U.S. House,1,,Total Votes,282,62,211,9
+Metcalfe,A104,U.S. House,1,,Under Votes,8,1,7,0
+Metcalfe,A104,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,A104,State House,21,REP,Amy NEIGHBORS,225,51,168,6
+Metcalfe,A104,State House,21,DEM,Jeffery HUMBLE,60,12,45,3
+Metcalfe,A104,State House,21,,Total Votes,285,63,213,9
+Metcalfe,A104,State House,21,,Under Votes,5,0,5,0
+Metcalfe,A104,State House,21,,Over Votes,0,0,0,0
+Metcalfe,A104,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,129,26,97,6
+Metcalfe,A104,Commonwealth's Attorney,43,,Total Votes,129,26,97,6
+Metcalfe,A104,Commonwealth's Attorney,43,,Under Votes,161,37,121,3
+Metcalfe,A104,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,A104,Circuit Clerk,,REP,Tommy A. GARRETT,246,55,183,8
+Metcalfe,A104,Circuit Clerk,,,Total Votes,246,55,183,8
+Metcalfe,A104,Circuit Clerk,,,Under Votes,44,8,35,1
+Metcalfe,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,A104,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,A104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,A104,COUNTY SURVEYOR,,,Under Votes,290,63,218,9
+Metcalfe,A104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,A104,Board of Education,3,,Robby PARNELL,155,37,112,6
+Metcalfe,A104,Board of Education,3,,Total Votes,155,37,112,6
+Metcalfe,A104,Board of Education,3,,Under Votes,135,26,106,3
+Metcalfe,A104,Board of Education,3,,Over Votes,0,0,0,0
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",175,41,129,5
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",86,18,64,4
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,261,59,193,9
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,4,25,0
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,105,27,74,4
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,177,34,138,5
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,282,61,212,9
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,2,6,0
+Metcalfe,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,A104,QUESTION-METCALFE CANNABIS,,,YES,163,37,121,5
+Metcalfe,A104,QUESTION-METCALFE CANNABIS,,,NO,118,25,89,4
+Metcalfe,A104,QUESTION-METCALFE CANNABIS,,,Total Votes,281,62,210,9
+Metcalfe,A104,QUESTION-METCALFE CANNABIS,,,Under Votes,9,1,8,0
+Metcalfe,A104,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,B101,STRAIGHT PARTY,,REP,Republican Party,118,19,97,2
+Metcalfe,B101,STRAIGHT PARTY,,DEM,Democratic Party,27,6,16,5
+Metcalfe,B101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Metcalfe,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Metcalfe,B101,STRAIGHT PARTY,,,Total Votes,147,25,115,7
+Metcalfe,B101,STRAIGHT PARTY,,,Under Votes,176,32,136,8
+Metcalfe,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,B101,President,,REP,Donald J. TRUMP / JD VANCE,258,35,218,5
+Metcalfe,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,60,22,28,10
+Metcalfe,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Metcalfe,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Metcalfe,B101,President,,,Write In Total,0,0,0,0
+Metcalfe,B101,President,,,Total Votes,318,57,246,15
+Metcalfe,B101,President,,,Under Votes,4,0,4,0
+Metcalfe,B101,President,,,Over Votes,1,0,1,0
+Metcalfe,B101,U.S. House,1,REP,James R. COMER,261,41,214,6
+Metcalfe,B101,U.S. House,1,DEM,Erin MARSHALL,52,14,29,9
+Metcalfe,B101,U.S. House,1,,Total Votes,313,55,243,15
+Metcalfe,B101,U.S. House,1,,Under Votes,10,2,8,0
+Metcalfe,B101,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,B101,State House,21,REP,Amy NEIGHBORS,242,40,195,7
+Metcalfe,B101,State House,21,DEM,Jeffery HUMBLE,63,15,40,8
+Metcalfe,B101,State House,21,,Total Votes,305,55,235,15
+Metcalfe,B101,State House,21,,Under Votes,18,2,16,0
+Metcalfe,B101,State House,21,,Over Votes,0,0,0,0
+Metcalfe,B101,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,89,24,53,12
+Metcalfe,B101,Commonwealth's Attorney,43,,Total Votes,89,24,53,12
+Metcalfe,B101,Commonwealth's Attorney,43,,Under Votes,234,33,198,3
+Metcalfe,B101,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,B101,Circuit Clerk,,REP,Tommy A. GARRETT,209,44,156,9
+Metcalfe,B101,Circuit Clerk,,,Total Votes,209,44,156,9
+Metcalfe,B101,Circuit Clerk,,,Under Votes,114,13,95,6
+Metcalfe,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,B101,COUNTY SURVEYOR,,,Under Votes,323,57,251,15
+Metcalfe,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,B101,CONSTABLE,,,,0,0,0,0
+Metcalfe,B101,CONSTABLE,,,Total Votes,0,0,0,0
+Metcalfe,B101,CONSTABLE,,,Under Votes,323,57,251,15
+Metcalfe,B101,CONSTABLE,,,Over Votes,0,0,0,0
+Metcalfe,B101,Board of Education,2,,Daniel GLASS,89,26,60,3
+Metcalfe,B101,Board of Education,2,,Total Votes,89,26,60,3
+Metcalfe,B101,Board of Education,2,,Under Votes,234,31,191,12
+Metcalfe,B101,Board of Education,2,,Over Votes,0,0,0,0
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,193,29,150,14
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,87,18,69,0
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,280,47,219,14
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,42,9,32,1
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,94,19,72,3
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,218,36,171,11
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,312,55,243,14
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,2,7,1
+Metcalfe,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Metcalfe,B101,QUESTION-METCALFE CANNABIS,,,YES,163,34,122,7
+Metcalfe,B101,QUESTION-METCALFE CANNABIS,,,NO,146,20,119,7
+Metcalfe,B101,QUESTION-METCALFE CANNABIS,,,Total Votes,309,54,241,14
+Metcalfe,B101,QUESTION-METCALFE CANNABIS,,,Under Votes,14,3,10,1
+Metcalfe,B101,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,B102,STRAIGHT PARTY,,REP,Republican Party,41,4,34,3
+Metcalfe,B102,STRAIGHT PARTY,,DEM,Democratic Party,5,2,3,0
+Metcalfe,B102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Metcalfe,B102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Metcalfe,B102,STRAIGHT PARTY,,,Total Votes,46,6,37,3
+Metcalfe,B102,STRAIGHT PARTY,,,Under Votes,56,2,52,2
+Metcalfe,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,B102,President,,REP,Donald J. TRUMP / JD VANCE,91,6,82,3
+Metcalfe,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,11,2,7,2
+Metcalfe,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Metcalfe,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Metcalfe,B102,President,,,Write In Total,0,0,0,0
+Metcalfe,B102,President,,,Total Votes,102,8,89,5
+Metcalfe,B102,President,,,Under Votes,0,0,0,0
+Metcalfe,B102,President,,,Over Votes,0,0,0,0
+Metcalfe,B102,U.S. House,1,REP,James R. COMER,92,6,81,5
+Metcalfe,B102,U.S. House,1,DEM,Erin MARSHALL,9,2,7,0
+Metcalfe,B102,U.S. House,1,,Total Votes,101,8,88,5
+Metcalfe,B102,U.S. House,1,,Under Votes,1,0,1,0
+Metcalfe,B102,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,B102,State House,21,REP,Amy NEIGHBORS,84,6,75,3
+Metcalfe,B102,State House,21,DEM,Jeffery HUMBLE,14,2,10,2
+Metcalfe,B102,State House,21,,Total Votes,98,8,85,5
+Metcalfe,B102,State House,21,,Under Votes,4,0,4,0
+Metcalfe,B102,State House,21,,Over Votes,0,0,0,0
+Metcalfe,B102,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,24,2,20,2
+Metcalfe,B102,Commonwealth's Attorney,43,,Total Votes,24,2,20,2
+Metcalfe,B102,Commonwealth's Attorney,43,,Under Votes,78,6,69,3
+Metcalfe,B102,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,B102,Circuit Clerk,,REP,Tommy A. GARRETT,87,6,76,5
+Metcalfe,B102,Circuit Clerk,,,Total Votes,87,6,76,5
+Metcalfe,B102,Circuit Clerk,,,Under Votes,15,2,13,0
+Metcalfe,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,B102,COUNTY SURVEYOR,,,Under Votes,102,8,89,5
+Metcalfe,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,B102,CONSTABLE,,,,0,0,0,0
+Metcalfe,B102,CONSTABLE,,,Total Votes,0,0,0,0
+Metcalfe,B102,CONSTABLE,,,Under Votes,102,8,89,5
+Metcalfe,B102,CONSTABLE,,,Over Votes,0,0,0,0
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",60,5,51,4
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",30,1,29,0
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,90,6,80,4
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,12,2,9,1
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,39,2,34,3
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,58,6,51,1
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,97,8,85,4
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,5,0,4,1
+Metcalfe,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,B102,QUESTION-METCALFE CANNABIS,,,YES,46,5,38,3
+Metcalfe,B102,QUESTION-METCALFE CANNABIS,,,NO,51,3,46,2
+Metcalfe,B102,QUESTION-METCALFE CANNABIS,,,Total Votes,97,8,84,5
+Metcalfe,B102,QUESTION-METCALFE CANNABIS,,,Under Votes,4,0,4,0
+Metcalfe,B102,QUESTION-METCALFE CANNABIS,,,Over Votes,1,0,1,0
+Metcalfe,B103,STRAIGHT PARTY,,REP,Republican Party,104,8,94,2
+Metcalfe,B103,STRAIGHT PARTY,,DEM,Democratic Party,16,5,10,1
+Metcalfe,B103,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Metcalfe,B103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Metcalfe,B103,STRAIGHT PARTY,,,Total Votes,120,13,104,3
+Metcalfe,B103,STRAIGHT PARTY,,,Under Votes,211,39,167,5
+Metcalfe,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,B103,President,,REP,Donald J. TRUMP / JD VANCE,272,32,237,3
+Metcalfe,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,53,20,28,5
+Metcalfe,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Metcalfe,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Metcalfe,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Metcalfe,B103,President,,,Write In Total,0,0,0,0
+Metcalfe,B103,President,,,Total Votes,327,52,267,8
+Metcalfe,B103,President,,,Under Votes,4,0,4,0
+Metcalfe,B103,President,,,Over Votes,0,0,0,0
+Metcalfe,B103,U.S. House,1,REP,James R. COMER,276,41,232,3
+Metcalfe,B103,U.S. House,1,DEM,Erin MARSHALL,45,11,31,3
+Metcalfe,B103,U.S. House,1,,Total Votes,321,52,263,6
+Metcalfe,B103,U.S. House,1,,Under Votes,10,0,8,2
+Metcalfe,B103,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,B103,State House,21,REP,Amy NEIGHBORS,268,42,221,5
+Metcalfe,B103,State House,21,DEM,Jeffery HUMBLE,50,10,37,3
+Metcalfe,B103,State House,21,,Total Votes,318,52,258,8
+Metcalfe,B103,State House,21,,Under Votes,13,0,13,0
+Metcalfe,B103,State House,21,,Over Votes,0,0,0,0
+Metcalfe,B103,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,131,25,103,3
+Metcalfe,B103,Commonwealth's Attorney,43,,Total Votes,131,25,103,3
+Metcalfe,B103,Commonwealth's Attorney,43,,Under Votes,200,27,168,5
+Metcalfe,B103,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,B103,Circuit Clerk,,REP,Tommy A. GARRETT,269,40,224,5
+Metcalfe,B103,Circuit Clerk,,,Total Votes,269,40,224,5
+Metcalfe,B103,Circuit Clerk,,,Under Votes,62,12,47,3
+Metcalfe,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,B103,COUNTY SURVEYOR,,,Under Votes,331,52,271,8
+Metcalfe,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,B103,CONSTABLE,,,,0,0,0,0
+Metcalfe,B103,CONSTABLE,,,Total Votes,0,0,0,0
+Metcalfe,B103,CONSTABLE,,,Under Votes,331,52,271,8
+Metcalfe,B103,CONSTABLE,,,Over Votes,0,0,0,0
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",211,36,170,5
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",86,15,69,2
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,297,51,239,7
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,1,32,1
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,103,11,87,5
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,214,41,170,3
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,317,52,257,8
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,0,14,0
+Metcalfe,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,B103,QUESTION-METCALFE CANNABIS,,,YES,166,28,133,5
+Metcalfe,B103,QUESTION-METCALFE CANNABIS,,,NO,149,23,124,2
+Metcalfe,B103,QUESTION-METCALFE CANNABIS,,,Total Votes,315,51,257,7
+Metcalfe,B103,QUESTION-METCALFE CANNABIS,,,Under Votes,16,1,14,1
+Metcalfe,B103,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,B104,STRAIGHT PARTY,,REP,Republican Party,135,38,94,3
+Metcalfe,B104,STRAIGHT PARTY,,DEM,Democratic Party,44,19,22,3
+Metcalfe,B104,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Metcalfe,B104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Metcalfe,B104,STRAIGHT PARTY,,,Total Votes,183,58,119,6
+Metcalfe,B104,STRAIGHT PARTY,,,Under Votes,231,63,159,9
+Metcalfe,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,B104,President,,REP,Donald J. TRUMP / JD VANCE,322,89,223,10
+Metcalfe,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,81,31,45,5
+Metcalfe,B104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Metcalfe,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Metcalfe,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,B104,President,,,Write In Total,0,0,0,0
+Metcalfe,B104,President,,,Total Votes,407,121,271,15
+Metcalfe,B104,President,,,Under Votes,6,0,6,0
+Metcalfe,B104,President,,,Over Votes,1,0,1,0
+Metcalfe,B104,U.S. House,1,REP,James R. COMER,318,83,224,11
+Metcalfe,B104,U.S. House,1,DEM,Erin MARSHALL,86,35,47,4
+Metcalfe,B104,U.S. House,1,,Total Votes,404,118,271,15
+Metcalfe,B104,U.S. House,1,,Under Votes,9,2,7,0
+Metcalfe,B104,U.S. House,1,,Over Votes,1,1,0,0
+Metcalfe,B104,State House,21,REP,Amy NEIGHBORS,283,72,200,11
+Metcalfe,B104,State House,21,DEM,Jeffery HUMBLE,115,42,69,4
+Metcalfe,B104,State House,21,,Total Votes,398,114,269,15
+Metcalfe,B104,State House,21,,Under Votes,15,6,9,0
+Metcalfe,B104,State House,21,,Over Votes,1,1,0,0
+Metcalfe,B104,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,182,57,117,8
+Metcalfe,B104,Commonwealth's Attorney,43,,Total Votes,182,57,117,8
+Metcalfe,B104,Commonwealth's Attorney,43,,Under Votes,232,64,161,7
+Metcalfe,B104,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,B104,Circuit Clerk,,REP,Tommy A. GARRETT,320,87,221,12
+Metcalfe,B104,Circuit Clerk,,,Total Votes,320,87,221,12
+Metcalfe,B104,Circuit Clerk,,,Under Votes,94,34,57,3
+Metcalfe,B104,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,B104,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,B104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,B104,COUNTY SURVEYOR,,,Under Votes,414,121,278,15
+Metcalfe,B104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,B104,CONSTABLE,,,,0,0,0,0
+Metcalfe,B104,CONSTABLE,,,Total Votes,0,0,0,0
+Metcalfe,B104,CONSTABLE,,,Under Votes,414,121,278,15
+Metcalfe,B104,CONSTABLE,,,Over Votes,0,0,0,0
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",236,71,155,10
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",132,39,90,3
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,368,110,245,13
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,46,11,33,2
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 2,,,YES,134,42,87,5
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 2,,,NO,260,73,178,9
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,394,115,265,14
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,6,12,1
+Metcalfe,B104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Metcalfe,B104,QUESTION-METCALFE CANNABIS,,,YES,251,65,172,14
+Metcalfe,B104,QUESTION-METCALFE CANNABIS,,,NO,141,47,94,0
+Metcalfe,B104,QUESTION-METCALFE CANNABIS,,,Total Votes,392,112,266,14
+Metcalfe,B104,QUESTION-METCALFE CANNABIS,,,Under Votes,21,9,11,1
+Metcalfe,B104,QUESTION-METCALFE CANNABIS,,,Over Votes,1,0,1,0
+Metcalfe,C101,STRAIGHT PARTY,,REP,Republican Party,176,22,151,3
+Metcalfe,C101,STRAIGHT PARTY,,DEM,Democratic Party,36,6,28,2
+Metcalfe,C101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Metcalfe,C101,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Metcalfe,C101,STRAIGHT PARTY,,,Total Votes,218,29,184,5
+Metcalfe,C101,STRAIGHT PARTY,,,Under Votes,264,38,206,20
+Metcalfe,C101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Metcalfe,C101,President,,REP,Donald J. TRUMP / JD VANCE,401,53,330,18
+Metcalfe,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,77,14,56,7
+Metcalfe,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Metcalfe,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,C101,President,,,Write In Total,2,0,2,0
+Metcalfe,C101,President,,,Total Votes,481,67,389,25
+Metcalfe,C101,President,,,Under Votes,2,0,2,0
+Metcalfe,C101,President,,,Over Votes,0,0,0,0
+Metcalfe,C101,U.S. House,1,REP,James R. COMER,393,56,319,18
+Metcalfe,C101,U.S. House,1,DEM,Erin MARSHALL,76,11,58,7
+Metcalfe,C101,U.S. House,1,,Total Votes,469,67,377,25
+Metcalfe,C101,U.S. House,1,,Under Votes,14,0,14,0
+Metcalfe,C101,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,C101,State House,21,REP,Amy NEIGHBORS,370,52,300,18
+Metcalfe,C101,State House,21,DEM,Jeffery HUMBLE,94,15,72,7
+Metcalfe,C101,State House,21,,Total Votes,464,67,372,25
+Metcalfe,C101,State House,21,,Under Votes,19,0,19,0
+Metcalfe,C101,State House,21,,Over Votes,0,0,0,0
+Metcalfe,C101,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,208,26,172,10
+Metcalfe,C101,Commonwealth's Attorney,43,,Total Votes,208,26,172,10
+Metcalfe,C101,Commonwealth's Attorney,43,,Under Votes,275,41,219,15
+Metcalfe,C101,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,C101,Circuit Clerk,,REP,Tommy A. GARRETT,410,56,338,16
+Metcalfe,C101,Circuit Clerk,,,Total Votes,410,56,338,16
+Metcalfe,C101,Circuit Clerk,,,Under Votes,73,11,53,9
+Metcalfe,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,C101,COUNTY SURVEYOR,,,Under Votes,483,67,391,25
+Metcalfe,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,C101,Board of Education,5,,Cassie REECE,227,33,183,11
+Metcalfe,C101,Board of Education,5,,Kathleen THOMPSON,99,11,86,2
+Metcalfe,C101,Board of Education,5,,Total Votes,326,44,269,13
+Metcalfe,C101,Board of Education,5,,Under Votes,155,23,120,12
+Metcalfe,C101,Board of Education,5,,Over Votes,2,0,2,0
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",276,37,225,14
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",148,22,119,7
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,424,59,344,21
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,8,47,4
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,152,27,121,4
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,302,35,250,17
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,454,62,371,21
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,5,20,4
+Metcalfe,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,C101,QUESTION-METCALFE CANNABIS,,,YES,266,33,222,11
+Metcalfe,C101,QUESTION-METCALFE CANNABIS,,,NO,174,24,138,12
+Metcalfe,C101,QUESTION-METCALFE CANNABIS,,,Total Votes,440,57,360,23
+Metcalfe,C101,QUESTION-METCALFE CANNABIS,,,Under Votes,43,10,31,2
+Metcalfe,C101,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0
+Metcalfe,C102,STRAIGHT PARTY,,REP,Republican Party,106,26,76,4
+Metcalfe,C102,STRAIGHT PARTY,,DEM,Democratic Party,37,6,26,5
+Metcalfe,C102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Metcalfe,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Metcalfe,C102,STRAIGHT PARTY,,,Total Votes,145,33,103,9
+Metcalfe,C102,STRAIGHT PARTY,,,Under Votes,143,24,117,2
+Metcalfe,C102,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Metcalfe,C102,President,,REP,Donald J. TRUMP / JD VANCE,226,44,178,4
+Metcalfe,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,59,12,40,7
+Metcalfe,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Metcalfe,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Metcalfe,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,C102,President,,,Write In Total,0,0,0,0
+Metcalfe,C102,President,,,Total Votes,287,56,220,11
+Metcalfe,C102,President,,,Under Votes,2,0,2,0
+Metcalfe,C102,President,,,Over Votes,1,1,0,0
+Metcalfe,C102,U.S. House,1,REP,James R. COMER,229,46,179,4
+Metcalfe,C102,U.S. House,1,DEM,Erin MARSHALL,55,11,37,7
+Metcalfe,C102,U.S. House,1,,Total Votes,284,57,216,11
+Metcalfe,C102,U.S. House,1,,Under Votes,6,0,6,0
+Metcalfe,C102,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,C102,State House,21,REP,Amy NEIGHBORS,213,45,164,4
+Metcalfe,C102,State House,21,DEM,Jeffery HUMBLE,69,11,51,7
+Metcalfe,C102,State House,21,,Total Votes,282,56,215,11
+Metcalfe,C102,State House,21,,Under Votes,8,1,7,0
+Metcalfe,C102,State House,21,,Over Votes,0,0,0,0
+Metcalfe,C102,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,121,22,90,9
+Metcalfe,C102,Commonwealth's Attorney,43,,Total Votes,121,22,90,9
+Metcalfe,C102,Commonwealth's Attorney,43,,Under Votes,169,35,132,2
+Metcalfe,C102,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,C102,Circuit Clerk,,REP,Tommy A. GARRETT,242,48,188,6
+Metcalfe,C102,Circuit Clerk,,,Total Votes,242,48,188,6
+Metcalfe,C102,Circuit Clerk,,,Under Votes,48,9,34,5
+Metcalfe,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,C102,COUNTY SURVEYOR,,,Under Votes,290,57,222,11
+Metcalfe,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,C102,Board of Education,5,,Cassie REECE,126,21,102,3
+Metcalfe,C102,Board of Education,5,,Kathleen THOMPSON,56,10,45,1
+Metcalfe,C102,Board of Education,5,,Total Votes,182,31,147,4
+Metcalfe,C102,Board of Education,5,,Under Votes,108,26,75,7
+Metcalfe,C102,Board of Education,5,,Over Votes,0,0,0,0
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",162,35,122,5
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",96,17,75,4
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,258,52,197,9
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,5,25,2
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,91,26,61,4
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,180,29,146,5
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,271,55,207,9
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,2,15,2
+Metcalfe,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Metcalfe,C102,QUESTION-METCALFE CANNABIS,,,YES,171,31,133,7
+Metcalfe,C102,QUESTION-METCALFE CANNABIS,,,NO,99,25,71,3
+Metcalfe,C102,QUESTION-METCALFE CANNABIS,,,Total Votes,270,56,204,10
+Metcalfe,C102,QUESTION-METCALFE CANNABIS,,,Under Votes,19,1,17,1
+Metcalfe,C102,QUESTION-METCALFE CANNABIS,,,Over Votes,1,0,1,0
+Metcalfe,D101,STRAIGHT PARTY,,REP,Republican Party,178,53,116,9
+Metcalfe,D101,STRAIGHT PARTY,,DEM,Democratic Party,42,14,22,6
+Metcalfe,D101,STRAIGHT PARTY,,KY,Kentucky Party,3,2,1,0
+Metcalfe,D101,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Metcalfe,D101,STRAIGHT PARTY,,,Total Votes,227,70,142,15
+Metcalfe,D101,STRAIGHT PARTY,,,Under Votes,288,76,205,7
+Metcalfe,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Metcalfe,D101,President,,REP,Donald J. TRUMP / JD VANCE,431,114,302,15
+Metcalfe,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,31,40,7
+Metcalfe,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Metcalfe,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Metcalfe,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Metcalfe,D101,President,,,Write In Total,0,0,0,0
+Metcalfe,D101,President,,,Total Votes,513,145,346,22
+Metcalfe,D101,President,,,Under Votes,2,1,1,0
+Metcalfe,D101,President,,,Over Votes,0,0,0,0
+Metcalfe,D101,U.S. House,1,REP,James R. COMER,411,106,290,15
+Metcalfe,D101,U.S. House,1,DEM,Erin MARSHALL,86,32,47,7
+Metcalfe,D101,U.S. House,1,,Total Votes,497,138,337,22
+Metcalfe,D101,U.S. House,1,,Under Votes,18,8,10,0
+Metcalfe,D101,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,D101,State House,21,REP,Amy NEIGHBORS,384,105,264,15
+Metcalfe,D101,State House,21,DEM,Jeffery HUMBLE,109,32,70,7
+Metcalfe,D101,State House,21,,Total Votes,493,137,334,22
+Metcalfe,D101,State House,21,,Under Votes,22,9,13,0
+Metcalfe,D101,State House,21,,Over Votes,0,0,0,0
+Metcalfe,D101,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,205,55,141,9
+Metcalfe,D101,Commonwealth's Attorney,43,,Total Votes,205,55,141,9
+Metcalfe,D101,Commonwealth's Attorney,43,,Under Votes,309,91,205,13
+Metcalfe,D101,Commonwealth's Attorney,43,,Over Votes,1,0,1,0
+Metcalfe,D101,Circuit Clerk,,REP,Tommy A. GARRETT,422,112,293,17
+Metcalfe,D101,Circuit Clerk,,,Total Votes,422,112,293,17
+Metcalfe,D101,Circuit Clerk,,,Under Votes,93,34,54,5
+Metcalfe,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,D101,COUNTY SURVEYOR,,,Under Votes,515,146,347,22
+Metcalfe,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,D101,Board of Education,4,,Tareena J. HORTON,94,22,67,5
+Metcalfe,D101,Board of Education,4,,Kelly P. BELL,286,75,198,13
+Metcalfe,D101,Board of Education,4,,Total Votes,380,97,265,18
+Metcalfe,D101,Board of Education,4,,Under Votes,134,49,81,4
+Metcalfe,D101,Board of Education,4,,Over Votes,1,0,1,0
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",274,75,185,14
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",158,41,109,8
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,432,116,294,22
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,77,27,50,0
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,3,0
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,180,63,107,10
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,299,67,220,12
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,479,130,327,22
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,35,16,19,0
+Metcalfe,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Metcalfe,D101,QUESTION-METCALFE CANNABIS,,,YES,300,81,206,13
+Metcalfe,D101,QUESTION-METCALFE CANNABIS,,,NO,175,52,114,9
+Metcalfe,D101,QUESTION-METCALFE CANNABIS,,,Total Votes,475,133,320,22
+Metcalfe,D101,QUESTION-METCALFE CANNABIS,,,Under Votes,38,13,25,0
+Metcalfe,D101,QUESTION-METCALFE CANNABIS,,,Over Votes,2,0,2,0
+Metcalfe,D102,STRAIGHT PARTY,,REP,Republican Party,123,31,87,5
+Metcalfe,D102,STRAIGHT PARTY,,DEM,Democratic Party,21,8,13,0
+Metcalfe,D102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Metcalfe,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,0,1
+Metcalfe,D102,STRAIGHT PARTY,,,Total Votes,147,39,102,6
+Metcalfe,D102,STRAIGHT PARTY,,,Under Votes,136,32,102,2
+Metcalfe,D102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Metcalfe,D102,President,,REP,Donald J. TRUMP / JD VANCE,240,54,179,7
+Metcalfe,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,36,13,22,1
+Metcalfe,D102,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Metcalfe,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Metcalfe,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Metcalfe,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Metcalfe,D102,President,,,Write In Total,0,0,0,0
+Metcalfe,D102,President,,,Total Votes,280,69,203,8
+Metcalfe,D102,President,,,Under Votes,2,1,1,0
+Metcalfe,D102,President,,,Over Votes,2,1,1,0
+Metcalfe,D102,U.S. House,1,REP,James R. COMER,235,51,176,8
+Metcalfe,D102,U.S. House,1,DEM,Erin MARSHALL,37,14,23,0
+Metcalfe,D102,U.S. House,1,,Total Votes,272,65,199,8
+Metcalfe,D102,U.S. House,1,,Under Votes,12,6,6,0
+Metcalfe,D102,U.S. House,1,,Over Votes,0,0,0,0
+Metcalfe,D102,State House,21,REP,Amy NEIGHBORS,223,54,161,8
+Metcalfe,D102,State House,21,DEM,Jeffery HUMBLE,49,14,35,0
+Metcalfe,D102,State House,21,,Total Votes,272,68,196,8
+Metcalfe,D102,State House,21,,Under Votes,11,3,8,0
+Metcalfe,D102,State House,21,,Over Votes,1,0,1,0
+Metcalfe,D102,Commonwealth's Attorney,43,DEM,John Bishop GARDNER,118,29,86,3
+Metcalfe,D102,Commonwealth's Attorney,43,,Total Votes,118,29,86,3
+Metcalfe,D102,Commonwealth's Attorney,43,,Under Votes,166,42,119,5
+Metcalfe,D102,Commonwealth's Attorney,43,,Over Votes,0,0,0,0
+Metcalfe,D102,Circuit Clerk,,REP,Tommy A. GARRETT,253,61,184,8
+Metcalfe,D102,Circuit Clerk,,,Total Votes,253,61,184,8
+Metcalfe,D102,Circuit Clerk,,,Under Votes,31,10,21,0
+Metcalfe,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Metcalfe,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Metcalfe,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Metcalfe,D102,COUNTY SURVEYOR,,,Under Votes,284,71,205,8
+Metcalfe,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Metcalfe,D102,Board of Education,5,,Cassie REECE,88,17,66,5
+Metcalfe,D102,Board of Education,5,,Kathleen THOMPSON,112,24,85,3
+Metcalfe,D102,Board of Education,5,,Total Votes,200,41,151,8
+Metcalfe,D102,Board of Education,5,,Under Votes,83,30,53,0
+Metcalfe,D102,Board of Education,5,,Over Votes,1,0,1,0
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",186,44,134,8
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",68,14,54,0
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,254,58,188,8
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,13,16,0
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,133,31,97,5
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,136,34,99,3
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,269,65,196,8
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,6,8,0
+Metcalfe,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Metcalfe,D102,QUESTION-METCALFE CANNABIS,,,YES,157,44,107,6
+Metcalfe,D102,QUESTION-METCALFE CANNABIS,,,NO,115,23,90,2
+Metcalfe,D102,QUESTION-METCALFE CANNABIS,,,Total Votes,272,67,197,8
+Metcalfe,D102,QUESTION-METCALFE CANNABIS,,,Under Votes,12,4,8,0
+Metcalfe,D102,QUESTION-METCALFE CANNABIS,,,Over Votes,0,0,0,0

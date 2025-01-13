@@ -1,0 +1,782 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Monroe,A101,STRAIGHT PARTY,,REP,Republican Party,105,15,81,9
+Monroe,A101,STRAIGHT PARTY,,DEM,Democratic Party,10,3,7,0
+Monroe,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Monroe,A101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,A101,STRAIGHT PARTY,,,Total Votes,116,18,89,9
+Monroe,A101,STRAIGHT PARTY,,,Under Votes,106,4,97,5
+Monroe,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,A101,President,,REP,Donald J. TRUMP / JD VANCE,200,19,168,13
+Monroe,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,17,3,13,1
+Monroe,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Monroe,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,A101,President,,,Write In Total,0,0,0,0
+Monroe,A101,President,,,Total Votes,220,22,184,14
+Monroe,A101,President,,,Under Votes,2,0,2,0
+Monroe,A101,President,,,Over Votes,0,0,0,0
+Monroe,A101,U.S. House,1,REP,James R. COMER,200,19,167,14
+Monroe,A101,U.S. House,1,DEM,Erin MARSHALL,17,3,14,0
+Monroe,A101,U.S. House,1,,Total Votes,217,22,181,14
+Monroe,A101,U.S. House,1,,Under Votes,5,0,5,0
+Monroe,A101,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,A101,State House,21,REP,Amy NEIGHBORS,167,19,136,12
+Monroe,A101,State House,21,DEM,Jeffery HUMBLE,38,3,34,1
+Monroe,A101,State House,21,,Total Votes,205,22,170,13
+Monroe,A101,State House,21,,Under Votes,17,0,16,1
+Monroe,A101,State House,21,,Over Votes,0,0,0,0
+Monroe,A101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,179,18,150,11
+Monroe,A101,Commonwealth's Attorney,40,,Total Votes,179,18,150,11
+Monroe,A101,Commonwealth's Attorney,40,,Under Votes,43,4,36,3
+Monroe,A101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,A101,Circuit Clerk,,REP,Kimberly HAGAN,191,18,160,13
+Monroe,A101,Circuit Clerk,,,Total Votes,191,18,160,13
+Monroe,A101,Circuit Clerk,,,Under Votes,31,4,26,1
+Monroe,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,A101,JAILER,,,Write In Total,31,0,29,2
+Monroe,A101,JAILER,,,Total Votes,31,0,29,2
+Monroe,A101,JAILER,,,Under Votes,191,22,157,12
+Monroe,A101,JAILER,,,Over Votes,0,0,0,0
+Monroe,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,A101,COUNTY SURVEYOR,,,Under Votes,222,22,186,14
+Monroe,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,A101,Board of Education,1,,John HARLIN,135,9,118,8
+Monroe,A101,Board of Education,1,,Total Votes,135,9,118,8
+Monroe,A101,Board of Education,1,,Under Votes,87,13,68,6
+Monroe,A101,Board of Education,1,,Over Votes,0,0,0,0
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,"Shannon J. SHIPWASH ",41,4,34,3
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,"Michele D. HOUCHENS ",47,5,41,1
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,"Bryan MAYNARD ",51,4,47,0
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,"Amanda FRYE ",62,6,55,1
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,Total Votes,201,19,177,5
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,Under Votes,207,29,159,19
+Monroe,A101,CITY COMMISSIONERS City of Fountain Run,,,Over Votes,0,0,0,0
+Monroe,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",121,14,99,8
+Monroe,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",71,6,61,4
+Monroe,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,192,20,160,12
+Monroe,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,30,2,26,2
+Monroe,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Monroe,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,75,14,51,10
+Monroe,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,128,6,118,4
+Monroe,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,203,20,169,14
+Monroe,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,2,16,0
+Monroe,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Monroe,A101,QUESTION-MONROE CANNABIS,,,YES,124,7,109,8
+Monroe,A101,QUESTION-MONROE CANNABIS,,,NO,76,13,58,5
+Monroe,A101,QUESTION-MONROE CANNABIS,,,Total Votes,200,20,167,13
+Monroe,A101,QUESTION-MONROE CANNABIS,,,Under Votes,22,2,19,1
+Monroe,A101,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,A102,STRAIGHT PARTY,,REP,Republican Party,268,26,227,15
+Monroe,A102,STRAIGHT PARTY,,DEM,Democratic Party,22,3,18,1
+Monroe,A102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Monroe,A102,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Monroe,A102,STRAIGHT PARTY,,,Total Votes,295,29,250,16
+Monroe,A102,STRAIGHT PARTY,,,Under Votes,410,57,333,20
+Monroe,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,A102,President,,REP,Donald J. TRUMP / JD VANCE,628,72,524,32
+Monroe,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,65,11,51,3
+Monroe,A102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,2,1
+Monroe,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,2,4,0
+Monroe,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,A102,President,,,Write In Total,0,0,0,0
+Monroe,A102,President,,,Total Votes,702,85,581,36
+Monroe,A102,President,,,Under Votes,3,1,2,0
+Monroe,A102,President,,,Over Votes,0,0,0,0
+Monroe,A102,U.S. House,1,REP,James R. COMER,641,74,533,34
+Monroe,A102,U.S. House,1,DEM,Erin MARSHALL,54,9,43,2
+Monroe,A102,U.S. House,1,,Total Votes,695,83,576,36
+Monroe,A102,U.S. House,1,,Under Votes,10,3,7,0
+Monroe,A102,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,A102,State House,21,REP,Amy NEIGHBORS,604,71,499,34
+Monroe,A102,State House,21,DEM,Jeffery HUMBLE,61,9,51,1
+Monroe,A102,State House,21,,Total Votes,665,80,550,35
+Monroe,A102,State House,21,,Under Votes,40,6,33,1
+Monroe,A102,State House,21,,Over Votes,0,0,0,0
+Monroe,A102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,569,64,474,31
+Monroe,A102,Commonwealth's Attorney,40,,Total Votes,569,64,474,31
+Monroe,A102,Commonwealth's Attorney,40,,Under Votes,136,22,109,5
+Monroe,A102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,A102,Circuit Clerk,,REP,Kimberly HAGAN,601,71,499,31
+Monroe,A102,Circuit Clerk,,,Total Votes,601,71,499,31
+Monroe,A102,Circuit Clerk,,,Under Votes,104,15,84,5
+Monroe,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,A102,JAILER,,,Write In Total,214,27,183,4
+Monroe,A102,JAILER,,,Total Votes,214,27,183,4
+Monroe,A102,JAILER,,,Under Votes,491,59,400,32
+Monroe,A102,JAILER,,,Over Votes,0,0,0,0
+Monroe,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,A102,COUNTY SURVEYOR,,,Under Votes,705,86,583,36
+Monroe,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,A102,Board of Education,1,,John HARLIN,507,58,424,25
+Monroe,A102,Board of Education,1,,Total Votes,507,58,424,25
+Monroe,A102,Board of Education,1,,Under Votes,197,28,158,11
+Monroe,A102,Board of Education,1,,Over Votes,1,0,1,0
+Monroe,A102,CITY COMMISSIONERS City of Gamaliel,,,,0,0,0,0
+Monroe,A102,CITY COMMISSIONERS City of Gamaliel,,,Total Votes,0,0,0,0
+Monroe,A102,CITY COMMISSIONERS City of Gamaliel,,,Under Votes,880,116,736,28
+Monroe,A102,CITY COMMISSIONERS City of Gamaliel,,,Over Votes,0,0,0,0
+Monroe,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",398,59,320,19
+Monroe,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",210,18,179,13
+Monroe,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,608,77,499,32
+Monroe,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,93,9,80,4
+Monroe,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,4,0
+Monroe,A102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",179,25,147,7
+Monroe,A102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",473,58,387,28
+Monroe,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,652,83,534,35
+Monroe,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,52,3,48,1
+Monroe,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Monroe,A102,QUESTION-MONROE CANNABIS,,,YES,327,36,274,17
+Monroe,A102,QUESTION-MONROE CANNABIS,,,NO,312,42,252,18
+Monroe,A102,QUESTION-MONROE CANNABIS,,,Total Votes,639,78,526,35
+Monroe,A102,QUESTION-MONROE CANNABIS,,,Under Votes,64,8,55,1
+Monroe,A102,QUESTION-MONROE CANNABIS,,,Over Votes,2,0,2,0
+Monroe,A103,STRAIGHT PARTY,,REP,Republican Party,52,4,47,1
+Monroe,A103,STRAIGHT PARTY,,DEM,Democratic Party,9,1,7,1
+Monroe,A103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Monroe,A103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,A103,STRAIGHT PARTY,,,Total Votes,62,5,55,2
+Monroe,A103,STRAIGHT PARTY,,,Under Votes,65,4,59,2
+Monroe,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,A103,President,,REP,Donald J. TRUMP / JD VANCE,100,8,91,1
+Monroe,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,21,1,17,3
+Monroe,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Monroe,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Monroe,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,A103,President,,,Write In Total,0,0,0,0
+Monroe,A103,President,,,Total Votes,125,9,112,4
+Monroe,A103,President,,,Under Votes,2,0,2,0
+Monroe,A103,President,,,Over Votes,0,0,0,0
+Monroe,A103,U.S. House,1,REP,James R. COMER,113,8,104,1
+Monroe,A103,U.S. House,1,DEM,Erin MARSHALL,13,1,10,2
+Monroe,A103,U.S. House,1,,Total Votes,126,9,114,3
+Monroe,A103,U.S. House,1,,Under Votes,1,0,0,1
+Monroe,A103,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,A103,State House,21,REP,Amy NEIGHBORS,98,8,89,1
+Monroe,A103,State House,21,DEM,Jeffery HUMBLE,26,1,22,3
+Monroe,A103,State House,21,,Total Votes,124,9,111,4
+Monroe,A103,State House,21,,Under Votes,3,0,3,0
+Monroe,A103,State House,21,,Over Votes,0,0,0,0
+Monroe,A103,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,102,8,93,1
+Monroe,A103,Commonwealth's Attorney,40,,Total Votes,102,8,93,1
+Monroe,A103,Commonwealth's Attorney,40,,Under Votes,25,1,21,3
+Monroe,A103,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,A103,Circuit Clerk,,REP,Kimberly HAGAN,110,8,100,2
+Monroe,A103,Circuit Clerk,,,Total Votes,110,8,100,2
+Monroe,A103,Circuit Clerk,,,Under Votes,17,1,14,2
+Monroe,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,A103,JAILER,,,Write In Total,28,2,26,0
+Monroe,A103,JAILER,,,Total Votes,28,2,26,0
+Monroe,A103,JAILER,,,Under Votes,99,7,88,4
+Monroe,A103,JAILER,,,Over Votes,0,0,0,0
+Monroe,A103,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,A103,COUNTY SURVEYOR,,,Under Votes,127,9,114,4
+Monroe,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,A103,Board of Education,1,,John HARLIN,77,7,69,1
+Monroe,A103,Board of Education,1,,Total Votes,77,7,69,1
+Monroe,A103,Board of Education,1,,Under Votes,50,2,45,3
+Monroe,A103,Board of Education,1,,Over Votes,0,0,0,0
+Monroe,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,74,5,68,1
+Monroe,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,32,2,27,3
+Monroe,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,106,7,95,4
+Monroe,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,21,2,19,0
+Monroe,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Monroe,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,38,4,34,0
+Monroe,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,80,4,72,4
+Monroe,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,118,8,106,4
+Monroe,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,1,8,0
+Monroe,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,A103,QUESTION-MONROE CANNABIS,,,YES,74,4,68,2
+Monroe,A103,QUESTION-MONROE CANNABIS,,,NO,41,3,36,2
+Monroe,A103,QUESTION-MONROE CANNABIS,,,Total Votes,115,7,104,4
+Monroe,A103,QUESTION-MONROE CANNABIS,,,Under Votes,12,2,10,0
+Monroe,A103,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,B101,STRAIGHT PARTY,,REP,Republican Party,255,31,210,14
+Monroe,B101,STRAIGHT PARTY,,DEM,Democratic Party,13,0,11,2
+Monroe,B101,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Monroe,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Monroe,B101,STRAIGHT PARTY,,,Total Votes,274,32,226,16
+Monroe,B101,STRAIGHT PARTY,,,Under Votes,304,37,252,15
+Monroe,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,B101,President,,REP,Donald J. TRUMP / JD VANCE,534,64,447,23
+Monroe,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,35,4,24,7
+Monroe,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Monroe,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
+Monroe,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Monroe,B101,President,,,Write In Total,0,0,0,0
+Monroe,B101,President,,,Total Votes,574,68,475,31
+Monroe,B101,President,,,Under Votes,1,1,0,0
+Monroe,B101,President,,,Over Votes,3,0,3,0
+Monroe,B101,U.S. House,1,REP,James R. COMER,547,66,454,27
+Monroe,B101,U.S. House,1,DEM,Erin MARSHALL,23,2,17,4
+Monroe,B101,U.S. House,1,,Total Votes,570,68,471,31
+Monroe,B101,U.S. House,1,,Under Votes,8,1,7,0
+Monroe,B101,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,B101,State House,21,REP,Amy NEIGHBORS,514,62,426,26
+Monroe,B101,State House,21,DEM,Jeffery HUMBLE,36,4,28,4
+Monroe,B101,State House,21,,Total Votes,550,66,454,30
+Monroe,B101,State House,21,,Under Votes,28,3,24,1
+Monroe,B101,State House,21,,Over Votes,0,0,0,0
+Monroe,B101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,483,58,402,23
+Monroe,B101,Commonwealth's Attorney,40,,Total Votes,483,58,402,23
+Monroe,B101,Commonwealth's Attorney,40,,Under Votes,95,11,76,8
+Monroe,B101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,B101,Circuit Clerk,,REP,Kimberly HAGAN,511,64,423,24
+Monroe,B101,Circuit Clerk,,,Total Votes,511,64,423,24
+Monroe,B101,Circuit Clerk,,,Under Votes,67,5,55,7
+Monroe,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,B101,JAILER,,,Write In Total,196,16,172,8
+Monroe,B101,JAILER,,,Total Votes,196,16,172,8
+Monroe,B101,JAILER,,,Under Votes,382,53,306,23
+Monroe,B101,JAILER,,,Over Votes,0,0,0,0
+Monroe,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,B101,COUNTY SURVEYOR,,,Under Votes,578,69,478,31
+Monroe,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",352,49,291,12
+Monroe,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",164,16,140,8
+Monroe,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,516,65,431,20
+Monroe,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,60,4,45,11
+Monroe,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Monroe,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,188,28,150,10
+Monroe,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,357,40,301,16
+Monroe,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,545,68,451,26
+Monroe,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,1,26,5
+Monroe,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Monroe,B101,QUESTION-MONROE CANNABIS,,,YES,281,40,231,10
+Monroe,B101,QUESTION-MONROE CANNABIS,,,NO,253,26,212,15
+Monroe,B101,QUESTION-MONROE CANNABIS,,,Total Votes,534,66,443,25
+Monroe,B101,QUESTION-MONROE CANNABIS,,,Under Votes,44,3,35,6
+Monroe,B101,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,B102,STRAIGHT PARTY,,REP,Republican Party,130,7,114,9
+Monroe,B102,STRAIGHT PARTY,,DEM,Democratic Party,30,5,23,2
+Monroe,B102,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Monroe,B102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,B102,STRAIGHT PARTY,,,Total Votes,165,12,142,11
+Monroe,B102,STRAIGHT PARTY,,,Under Votes,217,30,177,10
+Monroe,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,B102,President,,REP,Donald J. TRUMP / JD VANCE,298,33,251,14
+Monroe,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,75,8,63,4
+Monroe,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,2,1
+Monroe,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,B102,President,,,Write In Total,0,0,0,0
+Monroe,B102,President,,,Total Votes,377,42,316,19
+Monroe,B102,President,,,Under Votes,5,0,3,2
+Monroe,B102,President,,,Over Votes,0,0,0,0
+Monroe,B102,U.S. House,1,REP,James R. COMER,310,33,259,18
+Monroe,B102,U.S. House,1,DEM,Erin MARSHALL,56,8,45,3
+Monroe,B102,U.S. House,1,,Total Votes,366,41,304,21
+Monroe,B102,U.S. House,1,,Under Votes,16,1,15,0
+Monroe,B102,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,B102,State House,21,REP,Amy NEIGHBORS,281,34,232,15
+Monroe,B102,State House,21,DEM,Jeffery HUMBLE,75,7,63,5
+Monroe,B102,State House,21,,Total Votes,356,41,295,20
+Monroe,B102,State House,21,,Under Votes,26,1,24,1
+Monroe,B102,State House,21,,Over Votes,0,0,0,0
+Monroe,B102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,273,30,230,13
+Monroe,B102,Commonwealth's Attorney,40,,Total Votes,273,30,230,13
+Monroe,B102,Commonwealth's Attorney,40,,Under Votes,109,12,89,8
+Monroe,B102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,B102,Circuit Clerk,,REP,Kimberly HAGAN,316,37,264,15
+Monroe,B102,Circuit Clerk,,,Total Votes,316,37,264,15
+Monroe,B102,Circuit Clerk,,,Under Votes,66,5,55,6
+Monroe,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,B102,JAILER,,,Write In Total,160,17,138,5
+Monroe,B102,JAILER,,,Total Votes,160,17,138,5
+Monroe,B102,JAILER,,,Under Votes,222,25,181,16
+Monroe,B102,JAILER,,,Over Votes,0,0,0,0
+Monroe,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,B102,COUNTY SURVEYOR,,,Under Votes,382,42,319,21
+Monroe,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",41,4,33,4
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",61,6,51,4
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",52,5,44,3
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,55,3,49,3
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,209,18,177,14
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,367,30,323,14
+Monroe,B102,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",192,24,164,4
+Monroe,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",123,12,98,13
+Monroe,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,315,36,262,17
+Monroe,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,65,4,57,4
+Monroe,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,2,0,0
+Monroe,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,69,7,61,1
+Monroe,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,283,34,232,17
+Monroe,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,352,41,293,18
+Monroe,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,30,1,26,3
+Monroe,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,B102,QUESTION-MONROE CANNABIS,,,YES,189,19,163,7
+Monroe,B102,QUESTION-MONROE CANNABIS,,,NO,153,22,120,11
+Monroe,B102,QUESTION-MONROE CANNABIS,,,Total Votes,342,41,283,18
+Monroe,B102,QUESTION-MONROE CANNABIS,,,Under Votes,40,1,36,3
+Monroe,B102,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,C101,STRAIGHT PARTY,,REP,Republican Party,227,36,177,14
+Monroe,C101,STRAIGHT PARTY,,DEM,Democratic Party,5,4,1,0
+Monroe,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Monroe,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,0,1
+Monroe,C101,STRAIGHT PARTY,,,Total Votes,235,40,180,15
+Monroe,C101,STRAIGHT PARTY,,,Under Votes,315,40,265,10
+Monroe,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,C101,President,,REP,Donald J. TRUMP / JD VANCE,503,68,410,25
+Monroe,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,39,11,28,0
+Monroe,C101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Monroe,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Monroe,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Monroe,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,C101,President,,,Write In Total,0,0,0,0
+Monroe,C101,President,,,Total Votes,546,80,441,25
+Monroe,C101,President,,,Under Votes,4,0,4,0
+Monroe,C101,President,,,Over Votes,0,0,0,0
+Monroe,C101,U.S. House,1,REP,James R. COMER,515,70,420,25
+Monroe,C101,U.S. House,1,DEM,Erin MARSHALL,26,9,17,0
+Monroe,C101,U.S. House,1,,Total Votes,541,79,437,25
+Monroe,C101,U.S. House,1,,Under Votes,9,1,8,0
+Monroe,C101,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,C101,State House,21,REP,Amy NEIGHBORS,486,65,396,25
+Monroe,C101,State House,21,DEM,Jeffery HUMBLE,38,11,27,0
+Monroe,C101,State House,21,,Total Votes,524,76,423,25
+Monroe,C101,State House,21,,Under Votes,25,4,21,0
+Monroe,C101,State House,21,,Over Votes,1,0,1,0
+Monroe,C101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,445,60,361,24
+Monroe,C101,Commonwealth's Attorney,40,,Total Votes,445,60,361,24
+Monroe,C101,Commonwealth's Attorney,40,,Under Votes,105,20,84,1
+Monroe,C101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,C101,Circuit Clerk,,REP,Kimberly HAGAN,486,67,395,24
+Monroe,C101,Circuit Clerk,,,Total Votes,486,67,395,24
+Monroe,C101,Circuit Clerk,,,Under Votes,64,13,50,1
+Monroe,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,C101,JAILER,,,Write In Total,169,18,142,9
+Monroe,C101,JAILER,,,Total Votes,169,18,142,9
+Monroe,C101,JAILER,,,Under Votes,381,62,303,16
+Monroe,C101,JAILER,,,Over Votes,0,0,0,0
+Monroe,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,C101,COUNTY SURVEYOR,,,Under Votes,550,80,445,25
+Monroe,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,C101,Board of Education,3,,Carter WALDEN,388,50,322,16
+Monroe,C101,Board of Education,3,,Total Votes,388,50,322,16
+Monroe,C101,Board of Education,3,,Under Votes,162,30,123,9
+Monroe,C101,Board of Education,3,,Over Votes,0,0,0,0
+Monroe,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,317,43,255,19
+Monroe,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,126,22,101,3
+Monroe,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,443,65,356,22
+Monroe,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,105,15,87,3
+Monroe,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Monroe,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,145,23,112,10
+Monroe,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,353,49,292,12
+Monroe,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,498,72,404,22
+Monroe,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,52,8,41,3
+Monroe,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,C101,QUESTION-MONROE CANNABIS,,,YES,277,36,230,11
+Monroe,C101,QUESTION-MONROE CANNABIS,,,NO,222,39,173,10
+Monroe,C101,QUESTION-MONROE CANNABIS,,,Total Votes,499,75,403,21
+Monroe,C101,QUESTION-MONROE CANNABIS,,,Under Votes,51,5,42,4
+Monroe,C101,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,C102,STRAIGHT PARTY,,REP,Republican Party,103,11,89,3
+Monroe,C102,STRAIGHT PARTY,,DEM,Democratic Party,2,0,2,0
+Monroe,C102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Monroe,C102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,C102,STRAIGHT PARTY,,,Total Votes,105,11,91,3
+Monroe,C102,STRAIGHT PARTY,,,Under Votes,158,18,133,7
+Monroe,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,C102,President,,REP,Donald J. TRUMP / JD VANCE,251,28,214,9
+Monroe,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,8,1,6,1
+Monroe,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Monroe,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Monroe,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,C102,President,,,Write In Total,0,0,0,0
+Monroe,C102,President,,,Total Votes,262,29,223,10
+Monroe,C102,President,,,Under Votes,0,0,0,0
+Monroe,C102,President,,,Over Votes,1,0,1,0
+Monroe,C102,U.S. House,1,REP,James R. COMER,249,29,210,10
+Monroe,C102,U.S. House,1,DEM,Erin MARSHALL,6,0,6,0
+Monroe,C102,U.S. House,1,,Total Votes,255,29,216,10
+Monroe,C102,U.S. House,1,,Under Votes,8,0,8,0
+Monroe,C102,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,C102,State House,21,REP,Amy NEIGHBORS,222,27,189,6
+Monroe,C102,State House,21,DEM,Jeffery HUMBLE,21,1,18,2
+Monroe,C102,State House,21,,Total Votes,243,28,207,8
+Monroe,C102,State House,21,,Under Votes,20,1,17,2
+Monroe,C102,State House,21,,Over Votes,0,0,0,0
+Monroe,C102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,202,27,168,7
+Monroe,C102,Commonwealth's Attorney,40,,Total Votes,202,27,168,7
+Monroe,C102,Commonwealth's Attorney,40,,Under Votes,61,2,56,3
+Monroe,C102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,C102,Circuit Clerk,,REP,Kimberly HAGAN,221,28,186,7
+Monroe,C102,Circuit Clerk,,,Total Votes,221,28,186,7
+Monroe,C102,Circuit Clerk,,,Under Votes,42,1,38,3
+Monroe,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,C102,JAILER,,,Write In Total,77,14,63,0
+Monroe,C102,JAILER,,,Total Votes,77,14,63,0
+Monroe,C102,JAILER,,,Under Votes,186,15,161,10
+Monroe,C102,JAILER,,,Over Votes,0,0,0,0
+Monroe,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,C102,COUNTY SURVEYOR,,,Under Votes,263,29,224,10
+Monroe,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,C102,Board of Education,3,,Carter WALDEN,159,22,132,5
+Monroe,C102,Board of Education,3,,Total Votes,159,22,132,5
+Monroe,C102,Board of Education,3,,Under Votes,104,7,92,5
+Monroe,C102,Board of Education,3,,Over Votes,0,0,0,0
+Monroe,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,143,17,119,7
+Monroe,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,80,8,69,3
+Monroe,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,223,25,188,10
+Monroe,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,3,36,0
+Monroe,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Monroe,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,63,9,50,4
+Monroe,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,168,18,144,6
+Monroe,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,231,27,194,10
+Monroe,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,2,30,0
+Monroe,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,C102,QUESTION-MONROE CANNABIS,,,YES,109,13,90,6
+Monroe,C102,QUESTION-MONROE CANNABIS,,,NO,107,13,90,4
+Monroe,C102,QUESTION-MONROE CANNABIS,,,Total Votes,216,26,180,10
+Monroe,C102,QUESTION-MONROE CANNABIS,,,Under Votes,47,3,44,0
+Monroe,C102,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,C103,STRAIGHT PARTY,,REP,Republican Party,126,28,93,5
+Monroe,C103,STRAIGHT PARTY,,DEM,Democratic Party,22,3,19,0
+Monroe,C103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Monroe,C103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Monroe,C103,STRAIGHT PARTY,,,Total Votes,150,31,114,5
+Monroe,C103,STRAIGHT PARTY,,,Under Votes,266,34,219,13
+Monroe,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,C103,President,,REP,Donald J. TRUMP / JD VANCE,349,61,277,11
+Monroe,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,59,3,50,6
+Monroe,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Monroe,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,C103,President,,,Write In Total,0,0,0,0
+Monroe,C103,President,,,Total Votes,411,64,330,17
+Monroe,C103,President,,,Under Votes,5,1,3,1
+Monroe,C103,President,,,Over Votes,0,0,0,0
+Monroe,C103,U.S. House,1,REP,James R. COMER,360,60,287,13
+Monroe,C103,U.S. House,1,DEM,Erin MARSHALL,45,4,38,3
+Monroe,C103,U.S. House,1,,Total Votes,405,64,325,16
+Monroe,C103,U.S. House,1,,Under Votes,11,1,8,2
+Monroe,C103,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,C103,State House,21,REP,Amy NEIGHBORS,324,56,257,11
+Monroe,C103,State House,21,DEM,Jeffery HUMBLE,56,5,47,4
+Monroe,C103,State House,21,,Total Votes,380,61,304,15
+Monroe,C103,State House,21,,Under Votes,36,4,29,3
+Monroe,C103,State House,21,,Over Votes,0,0,0,0
+Monroe,C103,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,310,54,241,15
+Monroe,C103,Commonwealth's Attorney,40,,Total Votes,310,54,241,15
+Monroe,C103,Commonwealth's Attorney,40,,Under Votes,106,11,92,3
+Monroe,C103,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,C103,Circuit Clerk,,REP,Kimberly HAGAN,336,57,263,16
+Monroe,C103,Circuit Clerk,,,Total Votes,336,57,263,16
+Monroe,C103,Circuit Clerk,,,Under Votes,80,8,70,2
+Monroe,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,C103,JAILER,,,Write In Total,171,27,141,3
+Monroe,C103,JAILER,,,Total Votes,171,27,141,3
+Monroe,C103,JAILER,,,Under Votes,245,38,192,15
+Monroe,C103,JAILER,,,Over Votes,0,0,0,0
+Monroe,C103,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,C103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,C103,COUNTY SURVEYOR,,,Under Votes,416,65,333,18
+Monroe,C103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,C103,Board of Education,3,,Carter WALDEN,276,42,223,11
+Monroe,C103,Board of Education,3,,Total Votes,276,42,223,11
+Monroe,C103,Board of Education,3,,Under Votes,140,23,110,7
+Monroe,C103,Board of Education,3,,Over Votes,0,0,0,0
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",108,16,84,8
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",130,19,103,8
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",104,16,82,6
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,96,14,79,3
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,438,65,348,25
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,638,99,508,31
+Monroe,C103,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",234,37,187,10
+Monroe,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",121,21,96,4
+Monroe,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,355,58,283,14
+Monroe,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,60,6,50,4
+Monroe,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Monroe,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,124,24,97,3
+Monroe,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,242,35,197,10
+Monroe,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,366,59,294,13
+Monroe,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,50,6,39,5
+Monroe,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,C103,QUESTION-MONROE CANNABIS,,,YES,212,26,179,7
+Monroe,C103,QUESTION-MONROE CANNABIS,,,NO,159,34,120,5
+Monroe,C103,QUESTION-MONROE CANNABIS,,,Total Votes,371,60,299,12
+Monroe,C103,QUESTION-MONROE CANNABIS,,,Under Votes,44,4,34,6
+Monroe,C103,QUESTION-MONROE CANNABIS,,,Over Votes,1,1,0,0
+Monroe,D101,STRAIGHT PARTY,,REP,Republican Party,159,31,119,9
+Monroe,D101,STRAIGHT PARTY,,DEM,Democratic Party,20,3,16,1
+Monroe,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Monroe,D101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,D101,STRAIGHT PARTY,,,Total Votes,180,35,135,10
+Monroe,D101,STRAIGHT PARTY,,,Under Votes,276,48,207,21
+Monroe,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,D101,President,,REP,Donald J. TRUMP / JD VANCE,394,67,308,19
+Monroe,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,58,13,33,12
+Monroe,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Monroe,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,D101,President,,,Write In Total,0,0,0,0
+Monroe,D101,President,,,Total Votes,453,80,342,31
+Monroe,D101,President,,,Under Votes,2,2,0,0
+Monroe,D101,President,,,Over Votes,1,1,0,0
+Monroe,D101,U.S. House,1,REP,James R. COMER,393,70,300,23
+Monroe,D101,U.S. House,1,DEM,Erin MARSHALL,48,10,30,8
+Monroe,D101,U.S. House,1,,Total Votes,441,80,330,31
+Monroe,D101,U.S. House,1,,Under Votes,15,3,12,0
+Monroe,D101,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,D101,State House,21,REP,Amy NEIGHBORS,370,71,278,21
+Monroe,D101,State House,21,DEM,Jeffery HUMBLE,61,7,45,9
+Monroe,D101,State House,21,,Total Votes,431,78,323,30
+Monroe,D101,State House,21,,Under Votes,25,5,19,1
+Monroe,D101,State House,21,,Over Votes,0,0,0,0
+Monroe,D101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,344,68,254,22
+Monroe,D101,Commonwealth's Attorney,40,,Total Votes,344,68,254,22
+Monroe,D101,Commonwealth's Attorney,40,,Under Votes,111,15,87,9
+Monroe,D101,Commonwealth's Attorney,40,,Over Votes,1,0,1,0
+Monroe,D101,Circuit Clerk,,REP,Kimberly HAGAN,378,68,287,23
+Monroe,D101,Circuit Clerk,,,Total Votes,378,68,287,23
+Monroe,D101,Circuit Clerk,,,Under Votes,78,15,55,8
+Monroe,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,D101,JAILER,,,Write In Total,172,30,135,7
+Monroe,D101,JAILER,,,Total Votes,172,30,135,7
+Monroe,D101,JAILER,,,Under Votes,284,53,207,24
+Monroe,D101,JAILER,,,Over Votes,0,0,0,0
+Monroe,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,D101,COUNTY SURVEYOR,,,Under Votes,456,83,342,31
+Monroe,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,D101,Board of Education,4,,Eddie PROFFITT,309,52,233,24
+Monroe,D101,Board of Education,4,,Total Votes,309,52,233,24
+Monroe,D101,Board of Education,4,,Under Votes,147,31,109,7
+Monroe,D101,Board of Education,4,,Over Votes,0,0,0,0
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",19,2,12,5
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",29,3,23,3
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",20,7,10,3
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,24,1,18,5
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,92,13,63,16
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,108,23,81,4
+Monroe,D101,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",233,43,174,16
+Monroe,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",152,24,117,11
+Monroe,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,385,67,291,27
+Monroe,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,69,16,50,3
+Monroe,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,1,1
+Monroe,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,70,15,51,4
+Monroe,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,336,57,255,24
+Monroe,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,406,72,306,28
+Monroe,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,50,11,36,3
+Monroe,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Monroe,D101,QUESTION-MONROE CANNABIS,,,YES,202,31,157,14
+Monroe,D101,QUESTION-MONROE CANNABIS,,,NO,199,45,140,14
+Monroe,D101,QUESTION-MONROE CANNABIS,,,Total Votes,401,76,297,28
+Monroe,D101,QUESTION-MONROE CANNABIS,,,Under Votes,54,7,44,3
+Monroe,D101,QUESTION-MONROE CANNABIS,,,Over Votes,1,0,1,0
+Monroe,D102,STRAIGHT PARTY,,REP,Republican Party,245,57,176,12
+Monroe,D102,STRAIGHT PARTY,,DEM,Democratic Party,21,7,12,2
+Monroe,D102,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Monroe,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Monroe,D102,STRAIGHT PARTY,,,Total Votes,270,65,191,14
+Monroe,D102,STRAIGHT PARTY,,,Under Votes,376,81,278,17
+Monroe,D102,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Monroe,D102,President,,REP,Donald J. TRUMP / JD VANCE,566,126,415,25
+Monroe,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,73,20,47,6
+Monroe,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Monroe,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Monroe,D102,President,,,Write In Total,0,0,0,0
+Monroe,D102,President,,,Total Votes,644,147,466,31
+Monroe,D102,President,,,Under Votes,3,0,3,0
+Monroe,D102,President,,,Over Votes,0,0,0,0
+Monroe,D102,U.S. House,1,REP,James R. COMER,567,127,414,26
+Monroe,D102,U.S. House,1,DEM,Erin MARSHALL,57,16,36,5
+Monroe,D102,U.S. House,1,,Total Votes,624,143,450,31
+Monroe,D102,U.S. House,1,,Under Votes,23,4,19,0
+Monroe,D102,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,D102,State House,21,REP,Amy NEIGHBORS,530,119,386,25
+Monroe,D102,State House,21,DEM,Jeffery HUMBLE,77,19,54,4
+Monroe,D102,State House,21,,Total Votes,607,138,440,29
+Monroe,D102,State House,21,,Under Votes,40,9,29,2
+Monroe,D102,State House,21,,Over Votes,0,0,0,0
+Monroe,D102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,523,117,379,27
+Monroe,D102,Commonwealth's Attorney,40,,Total Votes,523,117,379,27
+Monroe,D102,Commonwealth's Attorney,40,,Under Votes,124,30,90,4
+Monroe,D102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,D102,Circuit Clerk,,REP,Kimberly HAGAN,559,124,405,30
+Monroe,D102,Circuit Clerk,,,Total Votes,559,124,405,30
+Monroe,D102,Circuit Clerk,,,Under Votes,88,23,64,1
+Monroe,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,D102,JAILER,,,Write In Total,225,48,171,6
+Monroe,D102,JAILER,,,Total Votes,225,48,171,6
+Monroe,D102,JAILER,,,Under Votes,422,99,298,25
+Monroe,D102,JAILER,,,Over Votes,0,0,0,0
+Monroe,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,D102,COUNTY SURVEYOR,,,Under Votes,647,147,469,31
+Monroe,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,D102,Board of Education,4,,Eddie PROFFITT,420,88,308,24
+Monroe,D102,Board of Education,4,,Total Votes,420,88,308,24
+Monroe,D102,Board of Education,4,,Under Votes,227,59,161,7
+Monroe,D102,Board of Education,4,,Over Votes,0,0,0,0
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",21,4,16,1
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",24,3,20,1
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",15,2,13,0
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,20,7,12,1
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,80,16,61,3
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,132,36,91,5
+Monroe,D102,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",364,76,275,13
+Monroe,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",186,49,129,8
+Monroe,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,550,125,404,21
+Monroe,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,95,21,64,10
+Monroe,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Monroe,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,187,43,136,8
+Monroe,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,407,88,303,16
+Monroe,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,594,131,439,24
+Monroe,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,52,15,30,7
+Monroe,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Monroe,D102,QUESTION-MONROE CANNABIS,,,YES,307,55,244,8
+Monroe,D102,QUESTION-MONROE CANNABIS,,,NO,277,72,187,18
+Monroe,D102,QUESTION-MONROE CANNABIS,,,Total Votes,584,127,431,26
+Monroe,D102,QUESTION-MONROE CANNABIS,,,Under Votes,61,18,38,5
+Monroe,D102,QUESTION-MONROE CANNABIS,,,Over Votes,2,2,0,0
+Monroe,E101,STRAIGHT PARTY,,REP,Republican Party,185,27,146,12
+Monroe,E101,STRAIGHT PARTY,,DEM,Democratic Party,25,6,18,1
+Monroe,E101,STRAIGHT PARTY,,KY,Kentucky Party,3,1,2,0
+Monroe,E101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Monroe,E101,STRAIGHT PARTY,,,Total Votes,213,34,166,13
+Monroe,E101,STRAIGHT PARTY,,,Under Votes,270,48,205,17
+Monroe,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,E101,President,,REP,Donald J. TRUMP / JD VANCE,405,65,315,25
+Monroe,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,69,15,49,5
+Monroe,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Monroe,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
+Monroe,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Monroe,E101,President,,,Write In Total,0,0,0,0
+Monroe,E101,President,,,Total Votes,479,81,368,30
+Monroe,E101,President,,,Under Votes,4,1,3,0
+Monroe,E101,President,,,Over Votes,0,0,0,0
+Monroe,E101,U.S. House,1,REP,James R. COMER,412,66,318,28
+Monroe,E101,U.S. House,1,DEM,Erin MARSHALL,55,14,39,2
+Monroe,E101,U.S. House,1,,Total Votes,467,80,357,30
+Monroe,E101,U.S. House,1,,Under Votes,16,2,14,0
+Monroe,E101,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,E101,State House,21,REP,Amy NEIGHBORS,385,67,293,25
+Monroe,E101,State House,21,DEM,Jeffery HUMBLE,62,11,48,3
+Monroe,E101,State House,21,,Total Votes,447,78,341,28
+Monroe,E101,State House,21,,Under Votes,36,4,30,2
+Monroe,E101,State House,21,,Over Votes,0,0,0,0
+Monroe,E101,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,359,56,277,26
+Monroe,E101,Commonwealth's Attorney,40,,Total Votes,359,56,277,26
+Monroe,E101,Commonwealth's Attorney,40,,Under Votes,124,26,94,4
+Monroe,E101,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,E101,Circuit Clerk,,REP,Kimberly HAGAN,396,64,305,27
+Monroe,E101,Circuit Clerk,,,Total Votes,396,64,305,27
+Monroe,E101,Circuit Clerk,,,Under Votes,87,18,66,3
+Monroe,E101,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,E101,JAILER,,,Write In Total,190,29,148,13
+Monroe,E101,JAILER,,,Total Votes,190,29,148,13
+Monroe,E101,JAILER,,,Under Votes,293,53,223,17
+Monroe,E101,JAILER,,,Over Votes,0,0,0,0
+Monroe,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,E101,COUNTY SURVEYOR,,,Under Votes,483,82,371,30
+Monroe,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",61,11,43,7
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",66,11,45,10
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",50,10,33,7
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,54,7,37,10
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,231,39,158,34
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,413,53,330,30
+Monroe,E101,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",259,43,201,15
+Monroe,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",146,28,105,13
+Monroe,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,405,71,306,28
+Monroe,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,76,10,64,2
+Monroe,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Monroe,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,152,23,122,7
+Monroe,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,287,53,211,23
+Monroe,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,439,76,333,30
+Monroe,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,42,6,36,0
+Monroe,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Monroe,E101,QUESTION-MONROE CANNABIS,,,YES,261,39,206,16
+Monroe,E101,QUESTION-MONROE CANNABIS,,,NO,165,31,123,11
+Monroe,E101,QUESTION-MONROE CANNABIS,,,Total Votes,426,70,329,27
+Monroe,E101,QUESTION-MONROE CANNABIS,,,Under Votes,57,12,42,3
+Monroe,E101,QUESTION-MONROE CANNABIS,,,Over Votes,0,0,0,0
+Monroe,E102,STRAIGHT PARTY,,REP,Republican Party,199,43,140,16
+Monroe,E102,STRAIGHT PARTY,,DEM,Democratic Party,21,3,14,4
+Monroe,E102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Monroe,E102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Monroe,E102,STRAIGHT PARTY,,,Total Votes,221,47,154,20
+Monroe,E102,STRAIGHT PARTY,,,Under Votes,302,59,217,26
+Monroe,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Monroe,E102,President,,REP,Donald J. TRUMP / JD VANCE,451,89,329,33
+Monroe,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,57,13,33,11
+Monroe,E102,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Monroe,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
+Monroe,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Monroe,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,1,1
+Monroe,E102,President,,,Write In Total,0,0,0,0
+Monroe,E102,President,,,Total Votes,515,105,365,45
+Monroe,E102,President,,,Under Votes,8,1,6,1
+Monroe,E102,President,,,Over Votes,0,0,0,0
+Monroe,E102,U.S. House,1,REP,James R. COMER,458,91,329,38
+Monroe,E102,U.S. House,1,DEM,Erin MARSHALL,51,9,34,8
+Monroe,E102,U.S. House,1,,Total Votes,509,100,363,46
+Monroe,E102,U.S. House,1,,Under Votes,14,6,8,0
+Monroe,E102,U.S. House,1,,Over Votes,0,0,0,0
+Monroe,E102,State House,21,REP,Amy NEIGHBORS,423,89,299,35
+Monroe,E102,State House,21,DEM,Jeffery HUMBLE,54,10,36,8
+Monroe,E102,State House,21,,Total Votes,477,99,335,43
+Monroe,E102,State House,21,,Under Votes,46,7,36,3
+Monroe,E102,State House,21,,Over Votes,0,0,0,0
+Monroe,E102,Commonwealth's Attorney,40,REP,Jesse M. STOCKTON JR.,403,80,288,35
+Monroe,E102,Commonwealth's Attorney,40,,Total Votes,403,80,288,35
+Monroe,E102,Commonwealth's Attorney,40,,Under Votes,120,26,83,11
+Monroe,E102,Commonwealth's Attorney,40,,Over Votes,0,0,0,0
+Monroe,E102,Circuit Clerk,,REP,Kimberly HAGAN,455,93,321,41
+Monroe,E102,Circuit Clerk,,,Total Votes,455,93,321,41
+Monroe,E102,Circuit Clerk,,,Under Votes,68,13,50,5
+Monroe,E102,Circuit Clerk,,,Over Votes,0,0,0,0
+Monroe,E102,JAILER,,,Write In Total,221,44,155,22
+Monroe,E102,JAILER,,,Total Votes,221,44,155,22
+Monroe,E102,JAILER,,,Under Votes,302,62,216,24
+Monroe,E102,JAILER,,,Over Votes,0,0,0,0
+Monroe,E102,COUNTY SURVEYOR,,,,0,0,0,0
+Monroe,E102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Monroe,E102,COUNTY SURVEYOR,,,Under Votes,523,106,371,46
+Monroe,E102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,"William ""Bud"" HOFFMAN ",90,16,64,10
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,"Bob RICHARDSON ",108,16,78,14
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,"Jamie ADAMS ",72,10,53,9
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,Write In Total,70,12,53,5
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,Total Votes,340,54,248,38
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,Under Votes,496,106,344,46
+Monroe,E102,CITY COMMISSIONERS City of Tompkinsville,,,Over Votes,0,0,0,0
+Monroe,E102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",274,56,190,28
+Monroe,E102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",162,26,120,16
+Monroe,E102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,436,82,310,44
+Monroe,E102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,86,23,61,2
+Monroe,E102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Monroe,E102,CONSTITUTIONAL AMENDMENT 2,,,YES,141,28,101,12
+Monroe,E102,CONSTITUTIONAL AMENDMENT 2,,,NO,308,62,220,26
+Monroe,E102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,449,90,321,38
+Monroe,E102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,72,16,49,7
+Monroe,E102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,1,1
+Monroe,E102,QUESTION-MONROE CANNABIS,,,YES,243,40,179,24
+Monroe,E102,QUESTION-MONROE CANNABIS,,,NO,207,47,143,17
+Monroe,E102,QUESTION-MONROE CANNABIS,,,Total Votes,450,87,322,41
+Monroe,E102,QUESTION-MONROE CANNABIS,,,Under Votes,72,18,49,5
+Monroe,E102,QUESTION-MONROE CANNABIS,,,Over Votes,1,1,0,0
