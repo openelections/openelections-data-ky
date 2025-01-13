@@ -1,0 +1,1050 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Mason,A101,STRAIGHT PARTY,,REP,Republican Party,80,35,37,8
+Mason,A101,STRAIGHT PARTY,,DEM,Democratic Party,123,62,50,11
+Mason,A101,STRAIGHT PARTY,,KY,Kentucky Party,5,2,3,0
+Mason,A101,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Mason,A101,STRAIGHT PARTY,,,Total Votes,211,99,93,19
+Mason,A101,STRAIGHT PARTY,,,Under Votes,189,93,83,13
+Mason,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,A101,President,,REP,Donald J. TRUMP / JD VANCE,171,81,78,12
+Mason,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,217,110,90,17
+Mason,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Mason,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Mason,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Mason,A101,President,,,Write In Total,1,0,1,0
+Mason,A101,President,,,Total Votes,393,191,173,29
+Mason,A101,President,,,Under Votes,6,1,3,2
+Mason,A101,President,,,Over Votes,1,0,0,1
+Mason,A101,U.S. House,4,REP,Thomas MASSIE,217,93,107,17
+Mason,A101,U.S. House,4,,Write In Total,4,1,2,1
+Mason,A101,U.S. House,4,,Total Votes,221,94,109,18
+Mason,A101,U.S. House,4,,Under Votes,179,98,67,14
+Mason,A101,U.S. House,4,,Over Votes,0,0,0,0
+Mason,A101,State Senate,27,REP,Steve WEST,159,76,68,15
+Mason,A101,State Senate,27,DEM,Molly Gene CRAIN,227,112,100,15
+Mason,A101,State Senate,27,,Total Votes,386,188,168,30
+Mason,A101,State Senate,27,,Under Votes,13,3,8,2
+Mason,A101,State Senate,27,,Over Votes,1,1,0,0
+Mason,A101,State House,70,REP,William Lee LAWRENCE,218,95,106,17
+Mason,A101,State House,70,,Total Votes,218,95,106,17
+Mason,A101,State House,70,,Under Votes,181,97,69,15
+Mason,A101,State House,70,,Over Votes,1,0,1,0
+Mason,A101,Commonwealth's Attorney,19,REP,Johnathan GAY,117,55,52,10
+Mason,A101,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,271,133,116,22
+Mason,A101,Commonwealth's Attorney,19,,Total Votes,388,188,168,32
+Mason,A101,Commonwealth's Attorney,19,,Under Votes,12,4,8,0
+Mason,A101,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,A101,Circuit Clerk,,DEM,Kirk TOLLE,282,127,135,20
+Mason,A101,Circuit Clerk,,,Total Votes,282,127,135,20
+Mason,A101,Circuit Clerk,,,Under Votes,118,65,41,12
+Mason,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,A101,SHERIFF,,REP,Ryan SWOLSKY,261,119,125,17
+Mason,A101,SHERIFF,,,Total Votes,261,119,125,17
+Mason,A101,SHERIFF,,,Under Votes,139,73,51,15
+Mason,A101,SHERIFF,,,Over Votes,0,0,0,0
+Mason,A101,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,A101,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,A101,JUSTICE of the PEACE,,,Under Votes,400,192,176,32
+Mason,A101,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",129,61,58,10
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",138,62,66,10
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",112,47,60,5
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",106,46,52,8
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",150,76,62,12
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,635,292,298,45
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,961,476,406,79
+Mason,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,0,1
+Mason,A101,Board of Education,4,,Theresa FITE,131,53,66,12
+Mason,A101,Board of Education,4,,Total Votes,131,53,66,12
+Mason,A101,Board of Education,4,,Under Votes,153,89,50,14
+Mason,A101,Board of Education,4,,Over Votes,0,0,0,0
+Mason,A101,Board of Education,5,,G. Michael COLEMAN,56,27,28,1
+Mason,A101,Board of Education,5,,Total Votes,56,27,28,1
+Mason,A101,Board of Education,5,,Under Votes,60,23,32,5
+Mason,A101,Board of Education,5,,Over Votes,0,0,0,0
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",194,97,77,20
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",214,98,97,19
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",176,90,75,11
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",171,83,74,14
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Total Votes,755,368,323,64
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Under Votes,845,400,381,64
+Mason,A101,CITY COMMISSIONERS City of Maysville,,,Over Votes,0,0,0,0
+Mason,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",185,88,80,17
+Mason,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",175,88,77,10
+Mason,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,360,176,157,27
+Mason,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,16,17,5
+Mason,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Mason,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,139,67,55,17
+Mason,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,244,117,113,14
+Mason,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,383,184,168,31
+Mason,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,8,8,1
+Mason,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,A103,STRAIGHT PARTY,,REP,Republican Party,161,63,87,11
+Mason,A103,STRAIGHT PARTY,,DEM,Democratic Party,145,65,67,13
+Mason,A103,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Mason,A103,STRAIGHT PARTY,,LIB,Libertarian Party,6,2,4,0
+Mason,A103,STRAIGHT PARTY,,,Total Votes,315,130,161,24
+Mason,A103,STRAIGHT PARTY,,,Under Votes,301,138,140,23
+Mason,A103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Mason,A103,President,,REP,Donald J. TRUMP / JD VANCE,334,141,166,27
+Mason,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,263,122,121,20
+Mason,A103,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Mason,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,5,0
+Mason,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
+Mason,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,A103,President,,,Write In Total,0,0,0,0
+Mason,A103,President,,,Total Votes,612,266,299,47
+Mason,A103,President,,,Under Votes,3,1,2,0
+Mason,A103,President,,,Over Votes,2,1,1,0
+Mason,A103,U.S. House,4,REP,Thomas MASSIE,393,153,209,31
+Mason,A103,U.S. House,4,,Write In Total,1,1,0,0
+Mason,A103,U.S. House,4,,Total Votes,394,154,209,31
+Mason,A103,U.S. House,4,,Under Votes,223,114,93,16
+Mason,A103,U.S. House,4,,Over Votes,0,0,0,0
+Mason,A103,State Senate,27,REP,Steve WEST,305,127,154,24
+Mason,A103,State Senate,27,DEM,Molly Gene CRAIN,291,132,137,22
+Mason,A103,State Senate,27,,Total Votes,596,259,291,46
+Mason,A103,State Senate,27,,Under Votes,20,9,10,1
+Mason,A103,State Senate,27,,Over Votes,1,0,1,0
+Mason,A103,State House,70,REP,William Lee LAWRENCE,393,157,207,29
+Mason,A103,State House,70,,Total Votes,393,157,207,29
+Mason,A103,State House,70,,Under Votes,224,111,95,18
+Mason,A103,State House,70,,Over Votes,0,0,0,0
+Mason,A103,Commonwealth's Attorney,19,REP,Johnathan GAY,259,111,128,20
+Mason,A103,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,343,150,167,26
+Mason,A103,Commonwealth's Attorney,19,,Total Votes,602,261,295,46
+Mason,A103,Commonwealth's Attorney,19,,Under Votes,15,7,7,1
+Mason,A103,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,A103,Circuit Clerk,,DEM,Kirk TOLLE,413,161,223,29
+Mason,A103,Circuit Clerk,,,Total Votes,413,161,223,29
+Mason,A103,Circuit Clerk,,,Under Votes,204,107,79,18
+Mason,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,A103,SHERIFF,,REP,Ryan SWOLSKY,447,185,229,33
+Mason,A103,SHERIFF,,,Total Votes,447,185,229,33
+Mason,A103,SHERIFF,,,Under Votes,170,83,73,14
+Mason,A103,SHERIFF,,,Over Votes,0,0,0,0
+Mason,A103,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,A103,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,A103,JUSTICE of the PEACE,,,Under Votes,617,268,302,47
+Mason,A103,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",246,95,140,11
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",224,81,129,14
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",209,81,116,12
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",188,78,98,12
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",256,110,125,21
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1123,445,608,70
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1341,623,600,118
+Mason,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,1,0,0
+Mason,A103,Board of Education,5,,G. Michael COLEMAN,386,151,208,27
+Mason,A103,Board of Education,5,,Total Votes,386,151,208,27
+Mason,A103,Board of Education,5,,Under Votes,231,117,94,20
+Mason,A103,Board of Education,5,,Over Votes,0,0,0,0
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",278,119,140,19
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",374,160,185,29
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",275,123,130,22
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",249,103,122,24
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Total Votes,1176,505,577,94
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Under Votes,1292,567,631,94
+Mason,A103,CITY COMMISSIONERS City of Maysville,,,Over Votes,0,0,0,0
+Mason,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",353,152,173,28
+Mason,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",223,100,107,16
+Mason,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,576,252,280,44
+Mason,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,37,15,19,3
+Mason,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,3,0
+Mason,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,222,95,101,26
+Mason,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,371,166,186,19
+Mason,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,593,261,287,45
+Mason,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,7,13,2
+Mason,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Mason,A104,STRAIGHT PARTY,,REP,Republican Party,145,57,78,10
+Mason,A104,STRAIGHT PARTY,,DEM,Democratic Party,116,32,72,12
+Mason,A104,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Mason,A104,STRAIGHT PARTY,,LIB,Libertarian Party,5,2,3,0
+Mason,A104,STRAIGHT PARTY,,,Total Votes,269,91,156,22
+Mason,A104,STRAIGHT PARTY,,,Under Votes,175,80,82,13
+Mason,A104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Mason,A104,President,,REP,Donald J. TRUMP / JD VANCE,265,115,137,13
+Mason,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,172,53,99,20
+Mason,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Mason,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
+Mason,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,A104,President,,,Write In Total,0,0,0,0
+Mason,A104,President,,,Total Votes,442,170,239,33
+Mason,A104,President,,,Under Votes,3,1,0,2
+Mason,A104,President,,,Over Votes,0,0,0,0
+Mason,A104,U.S. House,4,REP,Thomas MASSIE,313,123,172,18
+Mason,A104,U.S. House,4,,Write In Total,0,0,0,0
+Mason,A104,U.S. House,4,,Total Votes,313,123,172,18
+Mason,A104,U.S. House,4,,Under Votes,132,48,67,17
+Mason,A104,U.S. House,4,,Over Votes,0,0,0,0
+Mason,A104,State Senate,27,REP,Steve WEST,244,105,124,15
+Mason,A104,State Senate,27,DEM,Molly Gene CRAIN,188,61,109,18
+Mason,A104,State Senate,27,,Total Votes,432,166,233,33
+Mason,A104,State Senate,27,,Under Votes,13,5,6,2
+Mason,A104,State Senate,27,,Over Votes,0,0,0,0
+Mason,A104,State House,70,REP,William Lee LAWRENCE,312,127,168,17
+Mason,A104,State House,70,,Total Votes,312,127,168,17
+Mason,A104,State House,70,,Under Votes,133,44,71,18
+Mason,A104,State House,70,,Over Votes,0,0,0,0
+Mason,A104,Commonwealth's Attorney,19,REP,Johnathan GAY,195,92,92,11
+Mason,A104,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,239,73,142,24
+Mason,A104,Commonwealth's Attorney,19,,Total Votes,434,165,234,35
+Mason,A104,Commonwealth's Attorney,19,,Under Votes,10,6,4,0
+Mason,A104,Commonwealth's Attorney,19,,Over Votes,1,0,1,0
+Mason,A104,Circuit Clerk,,DEM,Kirk TOLLE,328,110,195,23
+Mason,A104,Circuit Clerk,,,Total Votes,328,110,195,23
+Mason,A104,Circuit Clerk,,,Under Votes,117,61,44,12
+Mason,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,A104,SHERIFF,,REP,Ryan SWOLSKY,334,131,182,21
+Mason,A104,SHERIFF,,,Total Votes,334,131,182,21
+Mason,A104,SHERIFF,,,Under Votes,111,40,57,14
+Mason,A104,SHERIFF,,,Over Votes,0,0,0,0
+Mason,A104,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,A104,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,A104,JUSTICE of the PEACE,,,Under Votes,445,171,239,35
+Mason,A104,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",175,63,95,17
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",152,56,80,16
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",150,53,82,15
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",135,54,68,13
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",194,76,105,13
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,806,302,430,74
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,974,382,526,66
+Mason,A104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Mason,A104,Board of Education,1,,Karen Sue OSBORNE,271,101,150,20
+Mason,A104,Board of Education,1,,Total Votes,271,101,150,20
+Mason,A104,Board of Education,1,,Under Votes,174,70,89,15
+Mason,A104,Board of Education,1,,Over Votes,0,0,0,0
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",204,86,102,16
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",270,106,144,20
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",204,89,102,13
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",202,78,105,19
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Total Votes,880,359,453,68
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Under Votes,900,325,503,72
+Mason,A104,CITY COMMISSIONERS City of Maysville,,,Over Votes,0,0,0,0
+Mason,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",244,99,130,15
+Mason,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",159,61,84,14
+Mason,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,403,160,214,29
+Mason,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,11,22,6
+Mason,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Mason,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,149,62,75,12
+Mason,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,274,105,150,19
+Mason,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,423,167,225,31
+Mason,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,22,4,14,4
+Mason,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,A105,STRAIGHT PARTY,,REP,Republican Party,167,58,101,8
+Mason,A105,STRAIGHT PARTY,,DEM,Democratic Party,53,17,32,4
+Mason,A105,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Mason,A105,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,2,0
+Mason,A105,STRAIGHT PARTY,,,Total Votes,225,77,136,12
+Mason,A105,STRAIGHT PARTY,,,Under Votes,256,96,134,26
+Mason,A105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,A105,President,,REP,Donald J. TRUMP / JD VANCE,349,128,199,22
+Mason,A105,President,,DEM,Kamala D. HARRIS / Tim WALZ,123,42,66,15
+Mason,A105,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Mason,A105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
+Mason,A105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,A105,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,0,1
+Mason,A105,President,,,Write In Total,0,0,0,0
+Mason,A105,President,,,Total Votes,478,173,267,38
+Mason,A105,President,,,Under Votes,3,0,3,0
+Mason,A105,President,,,Over Votes,0,0,0,0
+Mason,A105,U.S. House,4,REP,Thomas MASSIE,383,132,224,27
+Mason,A105,U.S. House,4,,Write In Total,0,0,0,0
+Mason,A105,U.S. House,4,,Total Votes,383,132,224,27
+Mason,A105,U.S. House,4,,Under Votes,97,41,45,11
+Mason,A105,U.S. House,4,,Over Votes,1,0,1,0
+Mason,A105,State Senate,27,REP,Steve WEST,344,123,195,26
+Mason,A105,State Senate,27,DEM,Molly Gene CRAIN,128,47,69,12
+Mason,A105,State Senate,27,,Total Votes,472,170,264,38
+Mason,A105,State Senate,27,,Under Votes,9,3,6,0
+Mason,A105,State Senate,27,,Over Votes,0,0,0,0
+Mason,A105,State House,70,REP,William Lee LAWRENCE,383,132,222,29
+Mason,A105,State House,70,,Total Votes,383,132,222,29
+Mason,A105,State House,70,,Under Votes,97,41,47,9
+Mason,A105,State House,70,,Over Votes,1,0,1,0
+Mason,A105,Commonwealth's Attorney,19,REP,Johnathan GAY,240,91,136,13
+Mason,A105,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,230,79,130,21
+Mason,A105,Commonwealth's Attorney,19,,Total Votes,470,170,266,34
+Mason,A105,Commonwealth's Attorney,19,,Under Votes,10,3,3,4
+Mason,A105,Commonwealth's Attorney,19,,Over Votes,1,0,1,0
+Mason,A105,Circuit Clerk,,DEM,Kirk TOLLE,296,92,179,25
+Mason,A105,Circuit Clerk,,,Total Votes,296,92,179,25
+Mason,A105,Circuit Clerk,,,Under Votes,184,81,91,12
+Mason,A105,Circuit Clerk,,,Over Votes,1,0,0,1
+Mason,A105,SHERIFF,,REP,Ryan SWOLSKY,407,140,236,31
+Mason,A105,SHERIFF,,,Total Votes,407,140,236,31
+Mason,A105,SHERIFF,,,Under Votes,74,33,34,7
+Mason,A105,SHERIFF,,,Over Votes,0,0,0,0
+Mason,A105,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,A105,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,A105,JUSTICE of the PEACE,,,Under Votes,481,173,270,38
+Mason,A105,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",195,57,122,16
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",158,56,87,15
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",165,49,103,13
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",143,52,81,10
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",202,73,110,19
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,863,287,503,73
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1053,401,573,79
+Mason,A105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,2,1,1,0
+Mason,A105,Board of Education,4,,Theresa FITE,264,84,161,19
+Mason,A105,Board of Education,4,,Total Votes,264,84,161,19
+Mason,A105,Board of Education,4,,Under Votes,217,89,109,19
+Mason,A105,Board of Education,4,,Over Votes,0,0,0,0
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",97,39,46,12
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",101,43,46,12
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",94,37,44,13
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",107,42,51,14
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Total Votes,399,161,187,51
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Under Votes,409,175,205,29
+Mason,A105,CITY COMMISSIONERS City of Maysville,,,Over Votes,0,0,0,0
+Mason,A105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",288,114,156,18
+Mason,A105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",146,48,82,16
+Mason,A105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,434,162,238,34
+Mason,A105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,47,11,32,4
+Mason,A105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Mason,A105,CONSTITUTIONAL AMENDMENT 2,,,YES,162,65,88,9
+Mason,A105,CONSTITUTIONAL AMENDMENT 2,,,NO,286,100,160,26
+Mason,A105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,448,165,248,35
+Mason,A105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,31,8,20,3
+Mason,A105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Mason,A106,STRAIGHT PARTY,,REP,Republican Party,89,28,60,1
+Mason,A106,STRAIGHT PARTY,,DEM,Democratic Party,10,4,6,0
+Mason,A106,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Mason,A106,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Mason,A106,STRAIGHT PARTY,,,Total Votes,103,33,69,1
+Mason,A106,STRAIGHT PARTY,,,Under Votes,101,21,73,7
+Mason,A106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,A106,President,,REP,Donald J. TRUMP / JD VANCE,178,49,126,3
+Mason,A106,President,,DEM,Kamala D. HARRIS / Tim WALZ,21,5,12,4
+Mason,A106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Mason,A106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,1,1
+Mason,A106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,A106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Mason,A106,President,,,Write In Total,1,0,1,0
+Mason,A106,President,,,Total Votes,202,54,140,8
+Mason,A106,President,,,Under Votes,2,0,2,0
+Mason,A106,President,,,Over Votes,0,0,0,0
+Mason,A106,U.S. House,4,REP,Thomas MASSIE,181,49,128,4
+Mason,A106,U.S. House,4,,Write In Total,0,0,0,0
+Mason,A106,U.S. House,4,,Total Votes,181,49,128,4
+Mason,A106,U.S. House,4,,Under Votes,23,5,14,4
+Mason,A106,U.S. House,4,,Over Votes,0,0,0,0
+Mason,A106,State Senate,27,REP,Steve WEST,173,51,119,3
+Mason,A106,State Senate,27,DEM,Molly Gene CRAIN,27,3,19,5
+Mason,A106,State Senate,27,,Total Votes,200,54,138,8
+Mason,A106,State Senate,27,,Under Votes,4,0,4,0
+Mason,A106,State Senate,27,,Over Votes,0,0,0,0
+Mason,A106,State House,70,REP,William Lee LAWRENCE,178,48,127,3
+Mason,A106,State House,70,,Total Votes,178,48,127,3
+Mason,A106,State House,70,,Under Votes,26,6,15,5
+Mason,A106,State House,70,,Over Votes,0,0,0,0
+Mason,A106,Commonwealth's Attorney,19,REP,Johnathan GAY,154,44,107,3
+Mason,A106,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,47,10,32,5
+Mason,A106,Commonwealth's Attorney,19,,Total Votes,201,54,139,8
+Mason,A106,Commonwealth's Attorney,19,,Under Votes,3,0,3,0
+Mason,A106,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,A106,Circuit Clerk,,DEM,Kirk TOLLE,107,22,79,6
+Mason,A106,Circuit Clerk,,,Total Votes,107,22,79,6
+Mason,A106,Circuit Clerk,,,Under Votes,97,32,63,2
+Mason,A106,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,A106,SHERIFF,,REP,Ryan SWOLSKY,183,50,129,4
+Mason,A106,SHERIFF,,,Total Votes,183,50,129,4
+Mason,A106,SHERIFF,,,Under Votes,21,4,13,4
+Mason,A106,SHERIFF,,,Over Votes,0,0,0,0
+Mason,A106,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,A106,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,A106,JUSTICE of the PEACE,,,Under Votes,204,54,142,8
+Mason,A106,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",78,19,57,2
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",55,14,37,4
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",76,19,53,4
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",65,19,42,4
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",94,26,61,7
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,368,97,250,21
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,448,119,318,11
+Mason,A106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Mason,A106,Board of Education,4,,Theresa FITE,114,27,81,6
+Mason,A106,Board of Education,4,,Total Votes,114,27,81,6
+Mason,A106,Board of Education,4,,Under Votes,90,27,61,2
+Mason,A106,Board of Education,4,,Over Votes,0,0,0,0
+Mason,A106,CITY COMMISSIONERS City of Dover,,,,0,0,0,0
+Mason,A106,CITY COMMISSIONERS City of Dover,,,Total Votes,0,0,0,0
+Mason,A106,CITY COMMISSIONERS City of Dover,,,Under Votes,460,124,312,24
+Mason,A106,CITY COMMISSIONERS City of Dover,,,Over Votes,0,0,0,0
+Mason,A106,CONSTITUTIONAL AMENDMENT 1,,,YES,130,36,90,4
+Mason,A106,CONSTITUTIONAL AMENDMENT 1,,,NO,65,17,44,4
+Mason,A106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,195,53,134,8
+Mason,A106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,8,1,7,0
+Mason,A106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Mason,A106,CONSTITUTIONAL AMENDMENT 2,,,YES,68,19,46,3
+Mason,A106,CONSTITUTIONAL AMENDMENT 2,,,NO,132,34,93,5
+Mason,A106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,200,53,139,8
+Mason,A106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,3,0,3,0
+Mason,A106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Mason,B102,STRAIGHT PARTY,,REP,Republican Party,77,24,51,2
+Mason,B102,STRAIGHT PARTY,,DEM,Democratic Party,13,3,8,2
+Mason,B102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Mason,B102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Mason,B102,STRAIGHT PARTY,,,Total Votes,92,27,61,4
+Mason,B102,STRAIGHT PARTY,,,Under Votes,116,31,81,4
+Mason,B102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Mason,B102,President,,REP,Donald J. TRUMP / JD VANCE,164,41,118,5
+Mason,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,40,15,22,3
+Mason,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Mason,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Mason,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Mason,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,B102,President,,,Write In Total,0,0,0,0
+Mason,B102,President,,,Total Votes,207,58,141,8
+Mason,B102,President,,,Under Votes,2,0,2,0
+Mason,B102,President,,,Over Votes,0,0,0,0
+Mason,B102,U.S. House,4,REP,Thomas MASSIE,170,45,119,6
+Mason,B102,U.S. House,4,,Write In Total,0,0,0,0
+Mason,B102,U.S. House,4,,Total Votes,170,45,119,6
+Mason,B102,U.S. House,4,,Under Votes,39,13,24,2
+Mason,B102,U.S. House,4,,Over Votes,0,0,0,0
+Mason,B102,State Senate,27,REP,Steve WEST,149,38,105,6
+Mason,B102,State Senate,27,DEM,Molly Gene CRAIN,49,15,32,2
+Mason,B102,State Senate,27,,Total Votes,198,53,137,8
+Mason,B102,State Senate,27,,Under Votes,11,5,6,0
+Mason,B102,State Senate,27,,Over Votes,0,0,0,0
+Mason,B102,State House,70,REP,William Lee LAWRENCE,165,42,117,6
+Mason,B102,State House,70,,Total Votes,165,42,117,6
+Mason,B102,State House,70,,Under Votes,44,16,26,2
+Mason,B102,State House,70,,Over Votes,0,0,0,0
+Mason,B102,Commonwealth's Attorney,19,REP,Johnathan GAY,123,36,83,4
+Mason,B102,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,77,19,54,4
+Mason,B102,Commonwealth's Attorney,19,,Total Votes,200,55,137,8
+Mason,B102,Commonwealth's Attorney,19,,Under Votes,9,3,6,0
+Mason,B102,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,B102,Circuit Clerk,,DEM,Kirk TOLLE,118,34,81,3
+Mason,B102,Circuit Clerk,,,Total Votes,118,34,81,3
+Mason,B102,Circuit Clerk,,,Under Votes,91,24,62,5
+Mason,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,B102,SHERIFF,,REP,Ryan SWOLSKY,178,45,126,7
+Mason,B102,SHERIFF,,,Total Votes,178,45,126,7
+Mason,B102,SHERIFF,,,Under Votes,31,13,17,1
+Mason,B102,SHERIFF,,,Over Votes,0,0,0,0
+Mason,B102,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,B102,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,B102,JUSTICE of the PEACE,,,Under Votes,209,58,143,8
+Mason,B102,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",86,24,61,1
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",58,17,38,3
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",80,21,58,1
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",77,22,53,2
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",109,27,79,3
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,410,111,289,10
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,422,121,279,22
+Mason,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,1,0
+Mason,B102,Board of Education,4,,Theresa FITE,110,26,79,5
+Mason,B102,Board of Education,4,,Total Votes,110,26,79,5
+Mason,B102,Board of Education,4,,Under Votes,99,32,64,3
+Mason,B102,Board of Education,4,,Over Votes,0,0,0,0
+Mason,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,144,43,96,5
+Mason,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,55,13,39,3
+Mason,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,199,56,135,8
+Mason,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,10,2,8,0
+Mason,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Mason,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,67,23,38,6
+Mason,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,135,33,100,2
+Mason,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,202,56,138,8
+Mason,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,2,5,0
+Mason,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,B104,STRAIGHT PARTY,,REP,Republican Party,181,33,144,4
+Mason,B104,STRAIGHT PARTY,,DEM,Democratic Party,34,3,28,3
+Mason,B104,STRAIGHT PARTY,,KY,Kentucky Party,6,1,3,2
+Mason,B104,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,2,1
+Mason,B104,STRAIGHT PARTY,,,Total Votes,224,37,177,10
+Mason,B104,STRAIGHT PARTY,,,Under Votes,208,40,161,7
+Mason,B104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Mason,B104,President,,REP,Donald J. TRUMP / JD VANCE,363,65,290,8
+Mason,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,65,12,45,8
+Mason,B104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Mason,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,0,1
+Mason,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,B104,President,,,Write In Total,0,0,0,0
+Mason,B104,President,,,Total Votes,430,77,336,17
+Mason,B104,President,,,Under Votes,3,0,3,0
+Mason,B104,President,,,Over Votes,0,0,0,0
+Mason,B104,U.S. House,4,REP,Thomas MASSIE,374,68,296,10
+Mason,B104,U.S. House,4,,Write In Total,0,0,0,0
+Mason,B104,U.S. House,4,,Total Votes,374,68,296,10
+Mason,B104,U.S. House,4,,Under Votes,59,9,43,7
+Mason,B104,U.S. House,4,,Over Votes,0,0,0,0
+Mason,B104,State Senate,27,REP,Steve WEST,343,61,274,8
+Mason,B104,State Senate,27,DEM,Molly Gene CRAIN,78,15,55,8
+Mason,B104,State Senate,27,,Total Votes,421,76,329,16
+Mason,B104,State Senate,27,,Under Votes,12,1,10,1
+Mason,B104,State Senate,27,,Over Votes,0,0,0,0
+Mason,B104,State House,70,REP,William Lee LAWRENCE,369,65,294,10
+Mason,B104,State House,70,,Total Votes,369,65,294,10
+Mason,B104,State House,70,,Under Votes,64,12,45,7
+Mason,B104,State House,70,,Over Votes,0,0,0,0
+Mason,B104,Commonwealth's Attorney,19,REP,Johnathan GAY,297,54,236,7
+Mason,B104,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,124,20,94,10
+Mason,B104,Commonwealth's Attorney,19,,Total Votes,421,74,330,17
+Mason,B104,Commonwealth's Attorney,19,,Under Votes,12,3,9,0
+Mason,B104,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,B104,Circuit Clerk,,DEM,Kirk TOLLE,251,44,194,13
+Mason,B104,Circuit Clerk,,,Total Votes,251,44,194,13
+Mason,B104,Circuit Clerk,,,Under Votes,182,33,145,4
+Mason,B104,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,B104,SHERIFF,,REP,Ryan SWOLSKY,375,67,297,11
+Mason,B104,SHERIFF,,,Total Votes,375,67,297,11
+Mason,B104,SHERIFF,,,Under Votes,58,10,42,6
+Mason,B104,SHERIFF,,,Over Votes,0,0,0,0
+Mason,B104,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,B104,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,B104,JUSTICE of the PEACE,,,Under Votes,433,77,339,17
+Mason,B104,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",177,28,144,5
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",126,25,96,5
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",167,27,136,4
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",122,19,99,4
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",179,31,141,7
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,771,130,616,25
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,957,178,736,43
+Mason,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,1,0
+Mason,B104,Board of Education,4,,Theresa FITE,236,43,188,5
+Mason,B104,Board of Education,4,,Total Votes,236,43,188,5
+Mason,B104,Board of Education,4,,Under Votes,197,34,151,12
+Mason,B104,Board of Education,4,,Over Votes,0,0,0,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,"S. Max MORAN ",38,4,34,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Write In Total,5,1,4,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Total Votes,43,5,38,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Under Votes,193,31,162,0
+Mason,B104,CITY COMMISSIONERS City of Germantown,,,Over Votes,0,0,0,0
+Mason,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",271,47,213,11
+Mason,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",131,22,104,5
+Mason,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,402,69,317,16
+Mason,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,8,20,1
+Mason,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Mason,B104,CONSTITUTIONAL AMENDMENT 2,,,YES,136,30,103,3
+Mason,B104,CONSTITUTIONAL AMENDMENT 2,,,NO,281,44,224,13
+Mason,B104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,417,74,327,16
+Mason,B104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,16,3,12,1
+Mason,B104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,B106,STRAIGHT PARTY,,REP,Republican Party,283,60,206,17
+Mason,B106,STRAIGHT PARTY,,DEM,Democratic Party,68,16,43,9
+Mason,B106,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Mason,B106,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Mason,B106,STRAIGHT PARTY,,,Total Votes,354,77,251,26
+Mason,B106,STRAIGHT PARTY,,,Under Votes,420,85,312,23
+Mason,B106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,B106,President,,REP,Donald J. TRUMP / JD VANCE,623,130,462,31
+Mason,B106,President,,DEM,Kamala D. HARRIS / Tim WALZ,143,31,95,17
+Mason,B106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Mason,B106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Mason,B106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,B106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Mason,B106,President,,,Write In Total,0,0,0,0
+Mason,B106,President,,,Total Votes,770,162,560,48
+Mason,B106,President,,,Under Votes,4,0,3,1
+Mason,B106,President,,,Over Votes,0,0,0,0
+Mason,B106,U.S. House,4,REP,Thomas MASSIE,635,135,465,35
+Mason,B106,U.S. House,4,,Write In Total,1,0,1,0
+Mason,B106,U.S. House,4,,Total Votes,636,135,466,35
+Mason,B106,U.S. House,4,,Under Votes,138,27,97,14
+Mason,B106,U.S. House,4,,Over Votes,0,0,0,0
+Mason,B106,State Senate,27,REP,Steve WEST,586,125,432,29
+Mason,B106,State Senate,27,DEM,Molly Gene CRAIN,166,36,113,17
+Mason,B106,State Senate,27,,Total Votes,752,161,545,46
+Mason,B106,State Senate,27,,Under Votes,22,1,18,3
+Mason,B106,State Senate,27,,Over Votes,0,0,0,0
+Mason,B106,State House,70,REP,William Lee LAWRENCE,643,133,473,37
+Mason,B106,State House,70,,Total Votes,643,133,473,37
+Mason,B106,State House,70,,Under Votes,131,29,90,12
+Mason,B106,State House,70,,Over Votes,0,0,0,0
+Mason,B106,Commonwealth's Attorney,19,REP,Johnathan GAY,503,105,373,25
+Mason,B106,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,252,55,174,23
+Mason,B106,Commonwealth's Attorney,19,,Total Votes,755,160,547,48
+Mason,B106,Commonwealth's Attorney,19,,Under Votes,17,1,15,1
+Mason,B106,Commonwealth's Attorney,19,,Over Votes,2,1,1,0
+Mason,B106,Circuit Clerk,,DEM,Kirk TOLLE,450,91,324,35
+Mason,B106,Circuit Clerk,,,Total Votes,450,91,324,35
+Mason,B106,Circuit Clerk,,,Under Votes,324,71,239,14
+Mason,B106,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,B106,SHERIFF,,REP,Ryan SWOLSKY,673,144,493,36
+Mason,B106,SHERIFF,,,Total Votes,673,144,493,36
+Mason,B106,SHERIFF,,,Under Votes,101,18,70,13
+Mason,B106,SHERIFF,,,Over Votes,0,0,0,0
+Mason,B106,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,B106,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,B106,JUSTICE of the PEACE,,,Under Votes,774,162,563,49
+Mason,B106,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",359,85,254,20
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",214,52,147,15
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",262,58,189,15
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",252,62,174,16
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",295,67,206,22
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1382,324,970,88
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1710,324,1282,104
+Mason,B106,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,0,1
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,"Jerry W. CRACRAFT ",16,0,15,1
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,"John Ray DODSON ",18,2,15,1
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,"James BURTON ",13,0,12,1
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,"Chasity CLIFFORD ",16,1,14,1
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,Total Votes,63,3,56,4
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,Under Votes,41,9,32,0
+Mason,B106,CITY COMMISSIONERS City of Sardis,,,Over Votes,0,0,0,0
+Mason,B106,CONSTITUTIONAL AMENDMENT 1,,,YES,471,105,345,21
+Mason,B106,CONSTITUTIONAL AMENDMENT 1,,,NO,252,48,181,23
+Mason,B106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,723,153,526,44
+Mason,B106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,49,9,35,5
+Mason,B106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Mason,B106,CONSTITUTIONAL AMENDMENT 2,,,YES,282,66,200,16
+Mason,B106,CONSTITUTIONAL AMENDMENT 2,,,NO,467,90,347,30
+Mason,B106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,749,156,547,46
+Mason,B106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,6,16,3
+Mason,B106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,B107,STRAIGHT PARTY,,REP,Republican Party,249,99,139,11
+Mason,B107,STRAIGHT PARTY,,DEM,Democratic Party,80,32,39,9
+Mason,B107,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Mason,B107,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Mason,B107,STRAIGHT PARTY,,,Total Votes,332,131,181,20
+Mason,B107,STRAIGHT PARTY,,,Under Votes,525,215,271,39
+Mason,B107,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,B107,President,,REP,Donald J. TRUMP / JD VANCE,617,251,330,36
+Mason,B107,President,,DEM,Kamala D. HARRIS / Tim WALZ,216,84,110,22
+Mason,B107,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Mason,B107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,3,7,0
+Mason,B107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,B107,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
+Mason,B107,President,,,Write In Total,0,0,0,0
+Mason,B107,President,,,Total Votes,846,340,448,58
+Mason,B107,President,,,Under Votes,11,6,4,1
+Mason,B107,President,,,Over Votes,0,0,0,0
+Mason,B107,U.S. House,4,REP,Thomas MASSIE,674,256,379,39
+Mason,B107,U.S. House,4,,Write In Total,0,0,0,0
+Mason,B107,U.S. House,4,,Total Votes,674,256,379,39
+Mason,B107,U.S. House,4,,Under Votes,183,90,73,20
+Mason,B107,U.S. House,4,,Over Votes,0,0,0,0
+Mason,B107,State Senate,27,REP,Steve WEST,584,238,315,31
+Mason,B107,State Senate,27,DEM,Molly Gene CRAIN,243,95,123,25
+Mason,B107,State Senate,27,,Total Votes,827,333,438,56
+Mason,B107,State Senate,27,,Under Votes,29,13,13,3
+Mason,B107,State Senate,27,,Over Votes,1,0,1,0
+Mason,B107,State House,70,REP,William Lee LAWRENCE,667,261,367,39
+Mason,B107,State House,70,,Total Votes,667,261,367,39
+Mason,B107,State House,70,,Under Votes,190,85,85,20
+Mason,B107,State House,70,,Over Votes,0,0,0,0
+Mason,B107,Commonwealth's Attorney,19,REP,Johnathan GAY,442,182,242,18
+Mason,B107,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,401,159,203,39
+Mason,B107,Commonwealth's Attorney,19,,Total Votes,843,341,445,57
+Mason,B107,Commonwealth's Attorney,19,,Under Votes,13,4,7,2
+Mason,B107,Commonwealth's Attorney,19,,Over Votes,1,1,0,0
+Mason,B107,Circuit Clerk,,DEM,Kirk TOLLE,543,206,292,45
+Mason,B107,Circuit Clerk,,,Total Votes,543,206,292,45
+Mason,B107,Circuit Clerk,,,Under Votes,314,140,160,14
+Mason,B107,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,B107,SHERIFF,,REP,Ryan SWOLSKY,720,282,397,41
+Mason,B107,SHERIFF,,,Total Votes,720,282,397,41
+Mason,B107,SHERIFF,,,Under Votes,137,64,55,18
+Mason,B107,SHERIFF,,,Over Votes,0,0,0,0
+Mason,B107,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,B107,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,B107,JUSTICE of the PEACE,,,Under Votes,857,346,452,59
+Mason,B107,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",388,147,214,27
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",314,116,178,20
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",330,127,180,23
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",291,122,148,21
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",383,158,199,26
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1706,670,919,117
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1714,714,881,119
+Mason,B107,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,2,0,2,0
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",230,101,115,14
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",292,128,144,20
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",233,97,120,16
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",244,100,129,15
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Total Votes,999,426,508,65
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Under Votes,813,322,444,47
+Mason,B107,CITY COMMISSIONERS City of Maysville,,,Over Votes,1,0,0,1
+Mason,B107,CONSTITUTIONAL AMENDMENT 1,,,YES,553,237,278,38
+Mason,B107,CONSTITUTIONAL AMENDMENT 1,,,NO,255,89,147,19
+Mason,B107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,808,326,425,57
+Mason,B107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,48,20,26,2
+Mason,B107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Mason,B107,CONSTITUTIONAL AMENDMENT 2,,,YES,242,116,116,10
+Mason,B107,CONSTITUTIONAL AMENDMENT 2,,,NO,584,216,321,47
+Mason,B107,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,826,332,437,57
+Mason,B107,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,31,14,15,2
+Mason,B107,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,B108,STRAIGHT PARTY,,REP,Republican Party,230,92,113,25
+Mason,B108,STRAIGHT PARTY,,DEM,Democratic Party,136,55,59,22
+Mason,B108,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Mason,B108,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,2,1
+Mason,B108,STRAIGHT PARTY,,,Total Votes,372,148,176,48
+Mason,B108,STRAIGHT PARTY,,,Under Votes,591,250,276,65
+Mason,B108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,B108,President,,REP,Donald J. TRUMP / JD VANCE,639,263,313,63
+Mason,B108,President,,DEM,Kamala D. HARRIS / Tim WALZ,296,127,127,42
+Mason,B108,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Mason,B108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,4,6,3
+Mason,B108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,0,1
+Mason,B108,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,B108,President,,,Write In Total,0,0,0,0
+Mason,B108,President,,,Total Votes,951,395,447,109
+Mason,B108,President,,,Under Votes,11,3,4,4
+Mason,B108,President,,,Over Votes,1,0,1,0
+Mason,B108,U.S. House,4,REP,Thomas MASSIE,697,274,349,74
+Mason,B108,U.S. House,4,,Write In Total,0,0,0,0
+Mason,B108,U.S. House,4,,Total Votes,697,274,349,74
+Mason,B108,U.S. House,4,,Under Votes,265,124,103,38
+Mason,B108,U.S. House,4,,Over Votes,0,0,0,0
+Mason,B108,State Senate,27,REP,Steve WEST,612,253,295,64
+Mason,B108,State Senate,27,DEM,Molly Gene CRAIN,319,132,144,43
+Mason,B108,State Senate,27,,Total Votes,931,385,439,107
+Mason,B108,State Senate,27,,Under Votes,30,12,13,5
+Mason,B108,State Senate,27,,Over Votes,1,1,0,0
+Mason,B108,State House,70,REP,William Lee LAWRENCE,693,275,344,74
+Mason,B108,State House,70,,Total Votes,693,275,344,74
+Mason,B108,State House,70,,Under Votes,269,123,108,38
+Mason,B108,State House,70,,Over Votes,0,0,0,0
+Mason,B108,Commonwealth's Attorney,19,REP,Johnathan GAY,437,180,206,51
+Mason,B108,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,509,208,241,60
+Mason,B108,Commonwealth's Attorney,19,,Total Votes,946,388,447,111
+Mason,B108,Commonwealth's Attorney,19,,Under Votes,16,10,5,1
+Mason,B108,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,B108,Circuit Clerk,,DEM,Kirk TOLLE,627,243,315,69
+Mason,B108,Circuit Clerk,,,Total Votes,627,243,315,69
+Mason,B108,Circuit Clerk,,,Under Votes,335,155,137,43
+Mason,B108,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,B108,SHERIFF,,REP,Ryan SWOLSKY,751,307,364,80
+Mason,B108,SHERIFF,,,Total Votes,751,307,364,80
+Mason,B108,SHERIFF,,,Under Votes,211,91,88,32
+Mason,B108,SHERIFF,,,Over Votes,0,0,0,0
+Mason,B108,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,B108,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,B108,JUSTICE of the PEACE,,,Under Votes,962,398,452,112
+Mason,B108,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",434,170,213,51
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",330,119,166,45
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",328,126,159,43
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",312,117,155,40
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",411,168,191,52
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1815,700,884,231
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2025,888,924,213
+Mason,B108,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,2,1,0,1
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",380,145,176,59
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",459,182,225,52
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",390,153,180,57
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",373,150,172,51
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Total Votes,1602,630,753,219
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Under Votes,1506,610,743,153
+Mason,B108,CITY COMMISSIONERS City of Maysville,,,Over Votes,1,0,0,1
+Mason,B108,CONSTITUTIONAL AMENDMENT 1,,,YES,575,235,288,52
+Mason,B108,CONSTITUTIONAL AMENDMENT 1,,,NO,305,132,131,42
+Mason,B108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,880,367,419,94
+Mason,B108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,79,29,33,17
+Mason,B108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,0,1
+Mason,B108,CONSTITUTIONAL AMENDMENT 2,,,YES,319,145,135,39
+Mason,B108,CONSTITUTIONAL AMENDMENT 2,,,NO,598,236,299,63
+Mason,B108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,917,381,434,102
+Mason,B108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,17,18,9
+Mason,B108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
+Mason,C102,STRAIGHT PARTY,,REP,Republican Party,249,96,136,17
+Mason,C102,STRAIGHT PARTY,,DEM,Democratic Party,131,50,66,15
+Mason,C102,STRAIGHT PARTY,,KY,Kentucky Party,4,2,2,0
+Mason,C102,STRAIGHT PARTY,,LIB,Libertarian Party,5,0,4,1
+Mason,C102,STRAIGHT PARTY,,,Total Votes,389,148,208,33
+Mason,C102,STRAIGHT PARTY,,,Under Votes,593,263,282,48
+Mason,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,C102,President,,REP,Donald J. TRUMP / JD VANCE,643,267,331,45
+Mason,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,318,134,151,33
+Mason,C102,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Mason,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,4,1,1
+Mason,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Mason,C102,President,,,Write In Total,1,0,0,1
+Mason,C102,President,,,Total Votes,973,406,487,80
+Mason,C102,President,,,Under Votes,9,5,3,1
+Mason,C102,President,,,Over Votes,0,0,0,0
+Mason,C102,U.S. House,4,REP,Thomas MASSIE,692,280,358,54
+Mason,C102,U.S. House,4,,Write In Total,0,0,0,0
+Mason,C102,U.S. House,4,,Total Votes,692,280,358,54
+Mason,C102,U.S. House,4,,Under Votes,290,131,132,27
+Mason,C102,U.S. House,4,,Over Votes,0,0,0,0
+Mason,C102,State Senate,27,REP,Steve WEST,587,248,292,47
+Mason,C102,State Senate,27,DEM,Molly Gene CRAIN,344,145,169,30
+Mason,C102,State Senate,27,,Total Votes,931,393,461,77
+Mason,C102,State Senate,27,,Under Votes,49,18,27,4
+Mason,C102,State Senate,27,,Over Votes,2,0,2,0
+Mason,C102,State House,70,REP,William Lee LAWRENCE,699,280,365,54
+Mason,C102,State House,70,,Total Votes,699,280,365,54
+Mason,C102,State House,70,,Under Votes,283,131,125,27
+Mason,C102,State House,70,,Over Votes,0,0,0,0
+Mason,C102,Commonwealth's Attorney,19,REP,Johnathan GAY,398,166,201,31
+Mason,C102,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,568,240,280,48
+Mason,C102,Commonwealth's Attorney,19,,Total Votes,966,406,481,79
+Mason,C102,Commonwealth's Attorney,19,,Under Votes,16,5,9,2
+Mason,C102,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,C102,Circuit Clerk,,DEM,Kirk TOLLE,655,263,337,55
+Mason,C102,Circuit Clerk,,,Total Votes,655,263,337,55
+Mason,C102,Circuit Clerk,,,Under Votes,327,148,153,26
+Mason,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,C102,SHERIFF,,REP,Ryan SWOLSKY,776,324,392,60
+Mason,C102,SHERIFF,,,Total Votes,776,324,392,60
+Mason,C102,SHERIFF,,,Under Votes,206,87,98,21
+Mason,C102,SHERIFF,,,Over Votes,0,0,0,0
+Mason,C102,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,C102,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,C102,JUSTICE of the PEACE,,,Under Votes,982,411,490,81
+Mason,C102,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,C102,CONSTABLE,,,,0,0,0,0
+Mason,C102,CONSTABLE,,,Total Votes,0,0,0,0
+Mason,C102,CONSTABLE,,,Under Votes,982,411,490,81
+Mason,C102,CONSTABLE,,,Over Votes,0,0,0,0
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",350,131,197,22
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",333,132,178,23
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",294,113,158,23
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",247,97,128,22
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",392,180,170,42
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1616,653,831,132
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2312,991,1129,192
+Mason,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Mason,C102,Board of Education,5,,G. Michael COLEMAN,611,238,314,59
+Mason,C102,Board of Education,5,,Total Votes,611,238,314,59
+Mason,C102,Board of Education,5,,Under Votes,371,173,176,22
+Mason,C102,Board of Education,5,,Over Votes,0,0,0,0
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,"Ann BRAMMER ",429,186,193,50
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,"Victor C. McKAY ",594,249,288,57
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,"David CARTMELL ",445,193,200,52
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,"Andrew WOOD ",485,203,230,52
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Total Votes,1953,831,911,211
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Under Votes,1811,749,961,101
+Mason,C102,CITY COMMISSIONERS City of Maysville,,,Over Votes,0,0,0,0
+Mason,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",596,238,302,56
+Mason,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",293,129,147,17
+Mason,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,889,367,449,73
+Mason,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,88,40,40,8
+Mason,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,4,1,0
+Mason,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,322,155,142,25
+Mason,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,615,237,326,52
+Mason,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,937,392,468,77
+Mason,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,45,19,22,4
+Mason,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,C103,STRAIGHT PARTY,,REP,Republican Party,203,59,132,12
+Mason,C103,STRAIGHT PARTY,,DEM,Democratic Party,48,25,20,3
+Mason,C103,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Mason,C103,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,1,1
+Mason,C103,STRAIGHT PARTY,,,Total Votes,256,85,155,16
+Mason,C103,STRAIGHT PARTY,,,Under Votes,278,92,167,19
+Mason,C103,STRAIGHT PARTY,,,Over Votes,2,1,1,0
+Mason,C103,President,,REP,Donald J. TRUMP / JD VANCE,414,126,266,22
+Mason,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,110,48,52,10
+Mason,C103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Mason,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,1,1
+Mason,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Mason,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
+Mason,C103,President,,,Write In Total,0,0,0,0
+Mason,C103,President,,,Total Votes,530,175,321,34
+Mason,C103,President,,,Under Votes,6,3,2,1
+Mason,C103,President,,,Over Votes,0,0,0,0
+Mason,C103,U.S. House,4,REP,Thomas MASSIE,441,137,278,26
+Mason,C103,U.S. House,4,,Write In Total,2,2,0,0
+Mason,C103,U.S. House,4,,Total Votes,443,139,278,26
+Mason,C103,U.S. House,4,,Under Votes,93,39,45,9
+Mason,C103,U.S. House,4,,Over Votes,0,0,0,0
+Mason,C103,State Senate,27,REP,Steve WEST,396,117,253,26
+Mason,C103,State Senate,27,DEM,Molly Gene CRAIN,126,56,61,9
+Mason,C103,State Senate,27,,Total Votes,522,173,314,35
+Mason,C103,State Senate,27,,Under Votes,14,5,9,0
+Mason,C103,State Senate,27,,Over Votes,0,0,0,0
+Mason,C103,State House,70,REP,William Lee LAWRENCE,432,134,273,25
+Mason,C103,State House,70,,Total Votes,432,134,273,25
+Mason,C103,State House,70,,Under Votes,104,44,50,10
+Mason,C103,State House,70,,Over Votes,0,0,0,0
+Mason,C103,Commonwealth's Attorney,19,REP,Johnathan GAY,334,109,206,19
+Mason,C103,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,192,66,110,16
+Mason,C103,Commonwealth's Attorney,19,,Total Votes,526,175,316,35
+Mason,C103,Commonwealth's Attorney,19,,Under Votes,10,3,7,0
+Mason,C103,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,C103,Circuit Clerk,,DEM,Kirk TOLLE,308,99,183,26
+Mason,C103,Circuit Clerk,,,Total Votes,308,99,183,26
+Mason,C103,Circuit Clerk,,,Under Votes,228,79,140,9
+Mason,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,C103,SHERIFF,,REP,Ryan SWOLSKY,457,146,284,27
+Mason,C103,SHERIFF,,,Total Votes,457,146,284,27
+Mason,C103,SHERIFF,,,Under Votes,79,32,39,8
+Mason,C103,SHERIFF,,,Over Votes,0,0,0,0
+Mason,C103,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,C103,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,C103,JUSTICE of the PEACE,,,Under Votes,536,178,323,35
+Mason,C103,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,C103,CONSTABLE,,,,0,0,0,0
+Mason,C103,CONSTABLE,,,Total Votes,0,0,0,0
+Mason,C103,CONSTABLE,,,Under Votes,536,178,323,35
+Mason,C103,CONSTABLE,,,Over Votes,0,0,0,0
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",296,88,189,19
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",168,49,103,16
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",191,64,111,16
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",180,62,101,17
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",203,70,119,14
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1038,333,623,82
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1102,379,665,58
+Mason,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,1,0
+Mason,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,309,102,190,17
+Mason,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,194,64,116,14
+Mason,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,503,166,306,31
+Mason,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,11,16,4
+Mason,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Mason,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,181,69,101,11
+Mason,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,344,106,218,20
+Mason,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,525,175,319,31
+Mason,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,3,4,4
+Mason,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,C104,STRAIGHT PARTY,,REP,Republican Party,161,47,102,12
+Mason,C104,STRAIGHT PARTY,,DEM,Democratic Party,43,16,20,7
+Mason,C104,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Mason,C104,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Mason,C104,STRAIGHT PARTY,,,Total Votes,208,63,126,19
+Mason,C104,STRAIGHT PARTY,,,Under Votes,208,85,113,10
+Mason,C104,STRAIGHT PARTY,,,Over Votes,1,0,0,1
+Mason,C104,President,,REP,Donald J. TRUMP / JD VANCE,325,107,198,20
+Mason,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,83,39,34,10
+Mason,C104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Mason,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Mason,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,C104,President,,,Write In Total,0,0,0,0
+Mason,C104,President,,,Total Votes,414,147,237,30
+Mason,C104,President,,,Under Votes,2,1,1,0
+Mason,C104,President,,,Over Votes,1,0,1,0
+Mason,C104,U.S. House,4,REP,Thomas MASSIE,344,111,210,23
+Mason,C104,U.S. House,4,,Write In Total,0,0,0,0
+Mason,C104,U.S. House,4,,Total Votes,344,111,210,23
+Mason,C104,U.S. House,4,,Under Votes,73,37,29,7
+Mason,C104,U.S. House,4,,Over Votes,0,0,0,0
+Mason,C104,State Senate,27,REP,Steve WEST,309,101,188,20
+Mason,C104,State Senate,27,DEM,Molly Gene CRAIN,89,39,40,10
+Mason,C104,State Senate,27,,Total Votes,398,140,228,30
+Mason,C104,State Senate,27,,Under Votes,19,8,11,0
+Mason,C104,State Senate,27,,Over Votes,0,0,0,0
+Mason,C104,State House,70,REP,William Lee LAWRENCE,342,115,205,22
+Mason,C104,State House,70,,Total Votes,342,115,205,22
+Mason,C104,State House,70,,Under Votes,75,33,34,8
+Mason,C104,State House,70,,Over Votes,0,0,0,0
+Mason,C104,Commonwealth's Attorney,19,REP,Johnathan GAY,235,75,144,16
+Mason,C104,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,163,66,83,14
+Mason,C104,Commonwealth's Attorney,19,,Total Votes,398,141,227,30
+Mason,C104,Commonwealth's Attorney,19,,Under Votes,17,6,11,0
+Mason,C104,Commonwealth's Attorney,19,,Over Votes,2,1,1,0
+Mason,C104,Circuit Clerk,,DEM,Kirk TOLLE,259,88,149,22
+Mason,C104,Circuit Clerk,,,Total Votes,259,88,149,22
+Mason,C104,Circuit Clerk,,,Under Votes,158,60,90,8
+Mason,C104,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,C104,SHERIFF,,REP,Ryan SWOLSKY,349,116,210,23
+Mason,C104,SHERIFF,,,Total Votes,349,116,210,23
+Mason,C104,SHERIFF,,,Under Votes,68,32,29,7
+Mason,C104,SHERIFF,,,Over Votes,0,0,0,0
+Mason,C104,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,C104,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,C104,JUSTICE of the PEACE,,,Under Votes,417,148,239,30
+Mason,C104,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,C104,CONSTABLE,,,,0,0,0,0
+Mason,C104,CONSTABLE,,,Total Votes,0,0,0,0
+Mason,C104,CONSTABLE,,,Under Votes,417,148,239,30
+Mason,C104,CONSTABLE,,,Over Votes,0,0,0,0
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",193,64,119,10
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",127,42,76,9
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",136,43,88,5
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",122,36,78,8
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",147,51,86,10
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,725,236,447,42
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,943,356,509,78
+Mason,C104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Mason,C104,Board of Education,1,,Karen Sue OSBORNE,235,72,147,16
+Mason,C104,Board of Education,1,,Total Votes,235,72,147,16
+Mason,C104,Board of Education,1,,Under Votes,182,76,92,14
+Mason,C104,Board of Education,1,,Over Votes,0,0,0,0
+Mason,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,266,92,160,14
+Mason,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,118,42,62,14
+Mason,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,384,134,222,28
+Mason,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,14,17,2
+Mason,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Mason,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,154,48,98,8
+Mason,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,245,95,132,18
+Mason,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,399,143,230,26
+Mason,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,5,9,4
+Mason,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Mason,C105,STRAIGHT PARTY,,REP,Republican Party,296,67,217,12
+Mason,C105,STRAIGHT PARTY,,DEM,Democratic Party,43,4,33,6
+Mason,C105,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Mason,C105,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,1,0
+Mason,C105,STRAIGHT PARTY,,,Total Votes,346,73,255,18
+Mason,C105,STRAIGHT PARTY,,,Under Votes,308,60,235,13
+Mason,C105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Mason,C105,President,,REP,Donald J. TRUMP / JD VANCE,536,109,412,15
+Mason,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,103,22,66,15
+Mason,C105,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Mason,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,1,8,1
+Mason,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Mason,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Mason,C105,President,,,Write In Total,0,0,0,0
+Mason,C105,President,,,Total Votes,653,132,490,31
+Mason,C105,President,,,Under Votes,1,1,0,0
+Mason,C105,President,,,Over Votes,0,0,0,0
+Mason,C105,U.S. House,4,REP,Thomas MASSIE,564,115,427,22
+Mason,C105,U.S. House,4,,Write In Total,0,0,0,0
+Mason,C105,U.S. House,4,,Total Votes,564,115,427,22
+Mason,C105,U.S. House,4,,Under Votes,90,18,63,9
+Mason,C105,U.S. House,4,,Over Votes,0,0,0,0
+Mason,C105,State Senate,27,REP,Steve WEST,507,101,389,17
+Mason,C105,State Senate,27,DEM,Molly Gene CRAIN,124,28,83,13
+Mason,C105,State Senate,27,,Total Votes,631,129,472,30
+Mason,C105,State Senate,27,,Under Votes,23,4,18,1
+Mason,C105,State Senate,27,,Over Votes,0,0,0,0
+Mason,C105,State House,70,REP,William Lee LAWRENCE,561,119,418,24
+Mason,C105,State House,70,,Total Votes,561,119,418,24
+Mason,C105,State House,70,,Under Votes,93,14,72,7
+Mason,C105,State House,70,,Over Votes,0,0,0,0
+Mason,C105,Commonwealth's Attorney,19,REP,Johnathan GAY,446,97,334,15
+Mason,C105,Commonwealth's Attorney,19,DEM,Christopher L. KELLEY,191,36,141,14
+Mason,C105,Commonwealth's Attorney,19,,Total Votes,637,133,475,29
+Mason,C105,Commonwealth's Attorney,19,,Under Votes,17,0,15,2
+Mason,C105,Commonwealth's Attorney,19,,Over Votes,0,0,0,0
+Mason,C105,Circuit Clerk,,DEM,Kirk TOLLE,369,71,276,22
+Mason,C105,Circuit Clerk,,,Total Votes,369,71,276,22
+Mason,C105,Circuit Clerk,,,Under Votes,285,62,214,9
+Mason,C105,Circuit Clerk,,,Over Votes,0,0,0,0
+Mason,C105,SHERIFF,,REP,Ryan SWOLSKY,578,122,432,24
+Mason,C105,SHERIFF,,,Total Votes,578,122,432,24
+Mason,C105,SHERIFF,,,Under Votes,76,11,58,7
+Mason,C105,SHERIFF,,,Over Votes,0,0,0,0
+Mason,C105,JUSTICE of the PEACE,,,,0,0,0,0
+Mason,C105,JUSTICE of the PEACE,,,Total Votes,0,0,0,0
+Mason,C105,JUSTICE of the PEACE,,,Under Votes,654,133,490,31
+Mason,C105,JUSTICE of the PEACE,,,Over Votes,0,0,0,0
+Mason,C105,CONSTABLE,,,,0,0,0,0
+Mason,C105,CONSTABLE,,,Total Votes,0,0,0,0
+Mason,C105,CONSTABLE,,,Under Votes,654,133,490,31
+Mason,C105,CONSTABLE,,,Over Votes,0,0,0,0
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Travis ROBINSON ",310,51,245,14
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Yvonne B. GARRISON ",176,34,132,10
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Brandon MORAN ",210,37,161,12
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Eric S. COOPER ",188,29,148,11
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"P. Anthony WENZ JR. ",248,56,177,15
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1132,207,863,62
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1484,325,1097,62
+Mason,C105,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Mason,C105,Board of Education,1,,Karen Sue OSBORNE,174,44,125,5
+Mason,C105,Board of Education,1,,Total Votes,174,44,125,5
+Mason,C105,Board of Education,1,,Under Votes,129,26,92,11
+Mason,C105,Board of Education,1,,Over Votes,0,0,0,0
+Mason,C105,CONSTITUTIONAL AMENDMENT 1,,,YES,410,88,304,18
+Mason,C105,CONSTITUTIONAL AMENDMENT 1,,,NO,186,34,141,11
+Mason,C105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,596,122,445,29
+Mason,C105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,58,11,45,2
+Mason,C105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Mason,C105,CONSTITUTIONAL AMENDMENT 2,,,YES,195,55,134,6
+Mason,C105,CONSTITUTIONAL AMENDMENT 2,,,NO,423,72,326,25
+Mason,C105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,618,127,460,31
+Mason,C105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,6,30,0
+Mason,C105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
