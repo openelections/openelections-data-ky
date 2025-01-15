@@ -1,0 +1,990 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Todd,A101,STRAIGHT PARTY,,REP,Republican Party,143,38,102,3
+Todd,A101,STRAIGHT PARTY,,DEM,Democratic Party,19,5,14,0
+Todd,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Todd,A101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Todd,A101,STRAIGHT PARTY,,,Total Votes,164,43,118,3
+Todd,A101,STRAIGHT PARTY,,,Under Votes,162,29,121,12
+Todd,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,A101,President,,REP,Donald J. TRUMP / JD VANCE,287,67,208,12
+Todd,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,37,5,29,3
+Todd,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Todd,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Todd,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,A101,President,,,Write In Total,0,0,0,0
+Todd,A101,President,,,Total Votes,324,72,237,15
+Todd,A101,President,,,Under Votes,2,0,2,0
+Todd,A101,President,,,Over Votes,0,0,0,0
+Todd,A101,U.S. House,1,REP,James R. COMER,279,66,202,11
+Todd,A101,U.S. House,1,DEM,Erin MARSHALL,39,5,32,2
+Todd,A101,U.S. House,1,,Total Votes,318,71,234,13
+Todd,A101,U.S. House,1,,Under Votes,8,1,5,2
+Todd,A101,U.S. House,1,,Over Votes,0,0,0,0
+Todd,A101,State House,16,REP,Jason PETRIE,286,67,207,12
+Todd,A101,State House,16,,Total Votes,286,67,207,12
+Todd,A101,State House,16,,Under Votes,40,5,32,3
+Todd,A101,State House,16,,Over Votes,0,0,0,0
+Todd,A101,Commonwealth's Attorney,7,REP,Neil KERR,275,62,201,12
+Todd,A101,Commonwealth's Attorney,7,,Total Votes,275,62,201,12
+Todd,A101,Commonwealth's Attorney,7,,Under Votes,51,10,38,3
+Todd,A101,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,A101,Circuit Clerk,,DEM,Mark COWHERD,187,38,143,6
+Todd,A101,Circuit Clerk,,,Total Votes,187,38,143,6
+Todd,A101,Circuit Clerk,,,Under Votes,139,34,96,9
+Todd,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,A101,COUNTY SURVEYOR,,,Under Votes,326,72,239,15
+Todd,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,A101,CONSTABLE,,,,0,0,0,0
+Todd,A101,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,A101,CONSTABLE,,,Under Votes,326,72,239,15
+Todd,A101,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",78,14,62,2
+Todd,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",100,18,75,7
+Todd,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,178,32,137,9
+Todd,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,148,40,102,6
+Todd,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",114,19,90,5
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",117,19,92,6
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",89,16,70,3
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,320,54,252,14
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,984,234,704,46
+Todd,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",192,46,135,11
+Todd,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",96,17,75,4
+Todd,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,288,63,210,15
+Todd,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,9,29,0
+Todd,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,A101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",130,34,90,6
+Todd,A101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",163,30,125,8
+Todd,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,293,64,215,14
+Todd,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,33,8,24,1
+Todd,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,A101,QUESTION-TODD CANNABIS,,,YES,161,35,120,6
+Todd,A101,QUESTION-TODD CANNABIS,,,NO,128,29,91,8
+Todd,A101,QUESTION-TODD CANNABIS,,,Total Votes,289,64,211,14
+Todd,A101,QUESTION-TODD CANNABIS,,,Under Votes,37,8,28,1
+Todd,A101,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,A102,STRAIGHT PARTY,,REP,Republican Party,168,58,108,2
+Todd,A102,STRAIGHT PARTY,,DEM,Democratic Party,42,11,24,7
+Todd,A102,STRAIGHT PARTY,,KY,Kentucky Party,4,2,2,0
+Todd,A102,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,1,0
+Todd,A102,STRAIGHT PARTY,,,Total Votes,217,73,135,9
+Todd,A102,STRAIGHT PARTY,,,Under Votes,170,51,111,8
+Todd,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,A102,President,,REP,Donald J. TRUMP / JD VANCE,323,108,209,6
+Todd,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,55,15,29,11
+Todd,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Todd,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Todd,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
+Todd,A102,President,,,Write In Total,0,0,0,0
+Todd,A102,President,,,Total Votes,383,123,243,17
+Todd,A102,President,,,Under Votes,4,1,3,0
+Todd,A102,President,,,Over Votes,0,0,0,0
+Todd,A102,U.S. House,1,REP,James R. COMER,321,106,207,8
+Todd,A102,U.S. House,1,DEM,Erin MARSHALL,53,14,30,9
+Todd,A102,U.S. House,1,,Total Votes,374,120,237,17
+Todd,A102,U.S. House,1,,Under Votes,12,4,8,0
+Todd,A102,U.S. House,1,,Over Votes,1,0,1,0
+Todd,A102,State House,16,REP,Jason PETRIE,348,112,222,14
+Todd,A102,State House,16,,Total Votes,348,112,222,14
+Todd,A102,State House,16,,Under Votes,39,12,24,3
+Todd,A102,State House,16,,Over Votes,0,0,0,0
+Todd,A102,Commonwealth's Attorney,7,REP,Neil KERR,331,104,214,13
+Todd,A102,Commonwealth's Attorney,7,,Total Votes,331,104,214,13
+Todd,A102,Commonwealth's Attorney,7,,Under Votes,56,20,32,4
+Todd,A102,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,A102,Circuit Clerk,,DEM,Mark COWHERD,243,72,158,13
+Todd,A102,Circuit Clerk,,,Total Votes,243,72,158,13
+Todd,A102,Circuit Clerk,,,Under Votes,144,52,88,4
+Todd,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,A102,COUNTY SURVEYOR,,,Under Votes,387,124,246,17
+Todd,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,A102,CONSTABLE,,,,0,0,0,0
+Todd,A102,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,A102,CONSTABLE,,,Under Votes,387,124,246,17
+Todd,A102,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,A102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",100,21,72,7
+Todd,A102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",128,38,87,3
+Todd,A102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,228,59,159,10
+Todd,A102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,158,65,87,6
+Todd,A102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,0,1
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",143,44,92,7
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",147,43,94,10
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",117,43,69,5
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,407,130,255,22
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1141,366,729,46
+Todd,A102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,A102,CITY COUNCIL City of Elkton,,,"Emily Ann CARROLL ",54,20,31,3
+Todd,A102,CITY COUNCIL City of Elkton,,,"George ORR ",69,26,39,4
+Todd,A102,CITY COUNCIL City of Elkton,,,"John ""Big John"" MULLINS ",53,18,31,4
+Todd,A102,CITY COUNCIL City of Elkton,,,"Tyler WISEMAN ",16,2,13,1
+Todd,A102,CITY COUNCIL City of Elkton,,,"Frank F. McREYNOLDS ",36,15,18,3
+Todd,A102,CITY COUNCIL City of Elkton,,,"Megan WILLENBORG ",13,4,7,2
+Todd,A102,CITY COUNCIL City of Elkton,,,"John B. RICE ",7,2,4,1
+Todd,A102,CITY COUNCIL City of Elkton,,,"David A. POWELL ",39,16,22,1
+Todd,A102,CITY COUNCIL City of Elkton,,,"Cindy SIDEBOTTOM ",26,6,18,2
+Todd,A102,CITY COUNCIL City of Elkton,,,"Danny O. LASTER ",51,19,29,3
+Todd,A102,CITY COUNCIL City of Elkton,,,"Doug GIBSON ",34,13,21,0
+Todd,A102,CITY COUNCIL City of Elkton,,,Total Votes,398,141,233,24
+Todd,A102,CITY COUNCIL City of Elkton,,,Under Votes,286,99,163,24
+Todd,A102,CITY COUNCIL City of Elkton,,,Over Votes,0,0,0,0
+Todd,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,227,80,138,9
+Todd,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,128,38,84,6
+Todd,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,355,118,222,15
+Todd,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,6,23,2
+Todd,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Todd,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,139,53,79,7
+Todd,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,219,63,148,8
+Todd,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,358,116,227,15
+Todd,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,8,19,2
+Todd,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,A102,QUESTION-TODD CANNABIS,,,YES,217,64,141,12
+Todd,A102,QUESTION-TODD CANNABIS,,,NO,139,49,85,5
+Todd,A102,QUESTION-TODD CANNABIS,,,Total Votes,356,113,226,17
+Todd,A102,QUESTION-TODD CANNABIS,,,Under Votes,30,11,19,0
+Todd,A102,QUESTION-TODD CANNABIS,,,Over Votes,1,0,1,0
+Todd,A103,STRAIGHT PARTY,,REP,Republican Party,112,31,78,3
+Todd,A103,STRAIGHT PARTY,,DEM,Democratic Party,13,2,11,0
+Todd,A103,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Todd,A103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Todd,A103,STRAIGHT PARTY,,,Total Votes,127,34,90,3
+Todd,A103,STRAIGHT PARTY,,,Under Votes,136,31,100,5
+Todd,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,A103,President,,REP,Donald J. TRUMP / JD VANCE,237,61,169,7
+Todd,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,25,4,20,1
+Todd,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Todd,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Todd,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,A103,President,,,Write In Total,0,0,0,0
+Todd,A103,President,,,Total Votes,263,65,190,8
+Todd,A103,President,,,Under Votes,0,0,0,0
+Todd,A103,President,,,Over Votes,0,0,0,0
+Todd,A103,U.S. House,1,REP,James R. COMER,231,60,164,7
+Todd,A103,U.S. House,1,DEM,Erin MARSHALL,28,5,22,1
+Todd,A103,U.S. House,1,,Total Votes,259,65,186,8
+Todd,A103,U.S. House,1,,Under Votes,4,0,4,0
+Todd,A103,U.S. House,1,,Over Votes,0,0,0,0
+Todd,A103,State House,16,REP,Jason PETRIE,235,65,162,8
+Todd,A103,State House,16,,Total Votes,235,65,162,8
+Todd,A103,State House,16,,Under Votes,28,0,28,0
+Todd,A103,State House,16,,Over Votes,0,0,0,0
+Todd,A103,Commonwealth's Attorney,7,REP,Neil KERR,226,63,155,8
+Todd,A103,Commonwealth's Attorney,7,,Total Votes,226,63,155,8
+Todd,A103,Commonwealth's Attorney,7,,Under Votes,37,2,35,0
+Todd,A103,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,A103,Circuit Clerk,,DEM,Mark COWHERD,150,39,107,4
+Todd,A103,Circuit Clerk,,,Total Votes,150,39,107,4
+Todd,A103,Circuit Clerk,,,Under Votes,113,26,83,4
+Todd,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,A103,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,A103,COUNTY SURVEYOR,,,Under Votes,263,65,190,8
+Todd,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,A103,CONSTABLE,,,,0,0,0,0
+Todd,A103,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,A103,CONSTABLE,,,Under Votes,263,65,190,8
+Todd,A103,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,A103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",54,17,36,1
+Todd,A103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",105,23,76,6
+Todd,A103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,159,40,112,7
+Todd,A103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,104,25,78,1
+Todd,A103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",104,25,73,6
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",115,29,79,7
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",70,17,46,7
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,289,71,198,20
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,763,189,562,12
+Todd,A103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",156,41,109,6
+Todd,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",87,22,64,1
+Todd,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,243,63,173,7
+Todd,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,2,17,1
+Todd,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,A103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",98,15,80,3
+Todd,A103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",151,45,101,5
+Todd,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,249,60,181,8
+Todd,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,5,9,0
+Todd,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,A103,QUESTION-TODD CANNABIS,,,YES,155,35,114,6
+Todd,A103,QUESTION-TODD CANNABIS,,,NO,86,25,59,2
+Todd,A103,QUESTION-TODD CANNABIS,,,Total Votes,241,60,173,8
+Todd,A103,QUESTION-TODD CANNABIS,,,Under Votes,22,5,17,0
+Todd,A103,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,B101,STRAIGHT PARTY,,REP,Republican Party,183,24,156,3
+Todd,B101,STRAIGHT PARTY,,DEM,Democratic Party,22,5,14,3
+Todd,B101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Todd,B101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Todd,B101,STRAIGHT PARTY,,,Total Votes,210,29,175,6
+Todd,B101,STRAIGHT PARTY,,,Under Votes,261,42,215,4
+Todd,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,B101,President,,REP,Donald J. TRUMP / JD VANCE,424,66,353,5
+Todd,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,40,5,30,5
+Todd,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Todd,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Todd,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Todd,B101,President,,,Write In Total,0,0,0,0
+Todd,B101,President,,,Total Votes,467,71,386,10
+Todd,B101,President,,,Under Votes,4,0,4,0
+Todd,B101,President,,,Over Votes,0,0,0,0
+Todd,B101,U.S. House,1,REP,James R. COMER,408,61,341,6
+Todd,B101,U.S. House,1,DEM,Erin MARSHALL,46,8,34,4
+Todd,B101,U.S. House,1,,Total Votes,454,69,375,10
+Todd,B101,U.S. House,1,,Under Votes,17,2,15,0
+Todd,B101,U.S. House,1,,Over Votes,0,0,0,0
+Todd,B101,State House,16,REP,Jason PETRIE,429,65,356,8
+Todd,B101,State House,16,,Total Votes,429,65,356,8
+Todd,B101,State House,16,,Under Votes,42,6,34,2
+Todd,B101,State House,16,,Over Votes,0,0,0,0
+Todd,B101,Commonwealth's Attorney,7,REP,Neil KERR,400,59,333,8
+Todd,B101,Commonwealth's Attorney,7,,Total Votes,400,59,333,8
+Todd,B101,Commonwealth's Attorney,7,,Under Votes,71,12,57,2
+Todd,B101,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,B101,Circuit Clerk,,DEM,Mark COWHERD,302,47,246,9
+Todd,B101,Circuit Clerk,,,Total Votes,302,47,246,9
+Todd,B101,Circuit Clerk,,,Under Votes,169,24,144,1
+Todd,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,B101,COUNTY SURVEYOR,,,Under Votes,471,71,390,10
+Todd,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,B101,CONSTABLE,,,,0,0,0,0
+Todd,B101,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,B101,CONSTABLE,,,Under Votes,471,71,390,10
+Todd,B101,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",144,26,113,5
+Todd,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",149,20,127,2
+Todd,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,293,46,240,7
+Todd,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,178,25,150,3
+Todd,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",163,25,135,3
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",183,30,148,5
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",136,24,107,5
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,482,79,390,13
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1402,205,1170,27
+Todd,B101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,B101,Board of Education,2,,Eric T. HARRIS,291,43,241,7
+Todd,B101,Board of Education,2,,Total Votes,291,43,241,7
+Todd,B101,Board of Education,2,,Under Votes,179,28,148,3
+Todd,B101,Board of Education,2,,Over Votes,1,0,1,0
+Todd,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",278,40,232,6
+Todd,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",160,26,130,4
+Todd,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,438,66,362,10
+Todd,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,5,28,0
+Todd,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,168,24,141,3
+Todd,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,272,42,223,7
+Todd,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,440,66,364,10
+Todd,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,5,24,0
+Todd,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Todd,B101,QUESTION-TODD CANNABIS,,,YES,255,36,213,6
+Todd,B101,QUESTION-TODD CANNABIS,,,NO,186,27,155,4
+Todd,B101,QUESTION-TODD CANNABIS,,,Total Votes,441,63,368,10
+Todd,B101,QUESTION-TODD CANNABIS,,,Under Votes,30,8,22,0
+Todd,B101,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,B102,STRAIGHT PARTY,,REP,Republican Party,154,18,133,3
+Todd,B102,STRAIGHT PARTY,,DEM,Democratic Party,23,3,17,3
+Todd,B102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Todd,B102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Todd,B102,STRAIGHT PARTY,,,Total Votes,178,21,151,6
+Todd,B102,STRAIGHT PARTY,,,Under Votes,208,17,190,1
+Todd,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,B102,President,,REP,Donald J. TRUMP / JD VANCE,338,34,301,3
+Todd,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,39,4,31,4
+Todd,B102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Todd,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Todd,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Todd,B102,President,,,Write In Total,0,0,0,0
+Todd,B102,President,,,Total Votes,383,38,338,7
+Todd,B102,President,,,Under Votes,3,0,3,0
+Todd,B102,President,,,Over Votes,0,0,0,0
+Todd,B102,U.S. House,1,REP,James R. COMER,327,34,290,3
+Todd,B102,U.S. House,1,DEM,Erin MARSHALL,42,4,35,3
+Todd,B102,U.S. House,1,,Total Votes,369,38,325,6
+Todd,B102,U.S. House,1,,Under Votes,16,0,16,0
+Todd,B102,U.S. House,1,,Over Votes,0,0,0,0
+Todd,B102,State House,16,REP,Jason PETRIE,349,36,309,4
+Todd,B102,State House,16,,Total Votes,349,36,309,4
+Todd,B102,State House,16,,Under Votes,36,2,32,2
+Todd,B102,State House,16,,Over Votes,0,0,0,0
+Todd,B102,Commonwealth's Attorney,7,REP,Neil KERR,317,35,278,4
+Todd,B102,Commonwealth's Attorney,7,,Total Votes,317,35,278,4
+Todd,B102,Commonwealth's Attorney,7,,Under Votes,68,3,63,2
+Todd,B102,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,B102,Circuit Clerk,,DEM,Mark COWHERD,235,24,208,3
+Todd,B102,Circuit Clerk,,,Total Votes,235,24,208,3
+Todd,B102,Circuit Clerk,,,Under Votes,150,14,133,3
+Todd,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,B102,COUNTY SURVEYOR,,,Under Votes,385,38,341,6
+Todd,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,B102,CONSTABLE,,,,0,0,0,0
+Todd,B102,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,B102,CONSTABLE,,,Under Votes,385,38,341,6
+Todd,B102,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",108,7,100,1
+Todd,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",115,16,99,0
+Todd,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,223,23,199,1
+Todd,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,162,15,142,5
+Todd,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",131,12,118,1
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",142,14,125,3
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",109,11,96,2
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,382,37,339,6
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1158,115,1025,18
+Todd,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,B102,Board of Education,2,,Eric T. HARRIS,208,21,185,2
+Todd,B102,Board of Education,2,,Total Votes,208,21,185,2
+Todd,B102,Board of Education,2,,Under Votes,177,17,156,4
+Todd,B102,Board of Education,2,,Over Votes,0,0,0,0
+Todd,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",220,29,188,3
+Todd,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",113,7,103,3
+Todd,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,333,36,291,6
+Todd,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,51,2,49,0
+Todd,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Todd,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,102,12,87,3
+Todd,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,241,24,214,3
+Todd,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,343,36,301,6
+Todd,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,40,2,38,0
+Todd,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Todd,B102,QUESTION-TODD CANNABIS,,,YES,158,14,139,5
+Todd,B102,QUESTION-TODD CANNABIS,,,NO,186,22,163,1
+Todd,B102,QUESTION-TODD CANNABIS,,,Total Votes,344,36,302,6
+Todd,B102,QUESTION-TODD CANNABIS,,,Under Votes,40,2,38,0
+Todd,B102,QUESTION-TODD CANNABIS,,,Over Votes,1,0,1,0
+Todd,B103,STRAIGHT PARTY,,REP,Republican Party,52,15,37,0
+Todd,B103,STRAIGHT PARTY,,DEM,Democratic Party,5,0,5,0
+Todd,B103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,0,1
+Todd,B103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Todd,B103,STRAIGHT PARTY,,,Total Votes,59,15,43,1
+Todd,B103,STRAIGHT PARTY,,,Under Votes,70,10,59,1
+Todd,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,B103,President,,REP,Donald J. TRUMP / JD VANCE,113,24,88,1
+Todd,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,14,1,13,0
+Todd,B103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Todd,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Todd,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,B103,President,,,Write In Total,0,0,0,0
+Todd,B103,President,,,Total Votes,129,25,102,2
+Todd,B103,President,,,Under Votes,0,0,0,0
+Todd,B103,President,,,Over Votes,0,0,0,0
+Todd,B103,U.S. House,1,REP,James R. COMER,114,25,88,1
+Todd,B103,U.S. House,1,DEM,Erin MARSHALL,13,0,12,1
+Todd,B103,U.S. House,1,,Total Votes,127,25,100,2
+Todd,B103,U.S. House,1,,Under Votes,2,0,2,0
+Todd,B103,U.S. House,1,,Over Votes,0,0,0,0
+Todd,B103,State House,16,REP,Jason PETRIE,116,24,91,1
+Todd,B103,State House,16,,Total Votes,116,24,91,1
+Todd,B103,State House,16,,Under Votes,13,1,11,1
+Todd,B103,State House,16,,Over Votes,0,0,0,0
+Todd,B103,Commonwealth's Attorney,7,REP,Neil KERR,109,22,85,2
+Todd,B103,Commonwealth's Attorney,7,,Total Votes,109,22,85,2
+Todd,B103,Commonwealth's Attorney,7,,Under Votes,20,3,17,0
+Todd,B103,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,B103,Circuit Clerk,,DEM,Mark COWHERD,88,14,73,1
+Todd,B103,Circuit Clerk,,,Total Votes,88,14,73,1
+Todd,B103,Circuit Clerk,,,Under Votes,41,11,29,1
+Todd,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,B103,COUNTY SURVEYOR,,,Under Votes,129,25,102,2
+Todd,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,B103,CONSTABLE,,,,0,0,0,0
+Todd,B103,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,B103,CONSTABLE,,,Under Votes,129,25,102,2
+Todd,B103,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,B103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",33,7,26,0
+Todd,B103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",50,8,40,2
+Todd,B103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,83,15,66,2
+Todd,B103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,46,10,36,0
+Todd,B103,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",50,7,41,2
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",53,8,44,1
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",41,9,31,1
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,144,24,116,4
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,372,76,292,4
+Todd,B103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,B103,Board of Education,2,,Eric T. HARRIS,84,14,68,2
+Todd,B103,Board of Education,2,,Total Votes,84,14,68,2
+Todd,B103,Board of Education,2,,Under Votes,45,11,34,0
+Todd,B103,Board of Education,2,,Over Votes,0,0,0,0
+Todd,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",72,17,55,0
+Todd,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",46,7,37,2
+Todd,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,118,24,92,2
+Todd,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,11,1,10,0
+Todd,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,37,10,26,1
+Todd,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,82,14,67,1
+Todd,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,119,24,93,2
+Todd,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,1,8,0
+Todd,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Todd,B103,QUESTION-TODD CANNABIS,,,YES,68,15,51,2
+Todd,B103,QUESTION-TODD CANNABIS,,,NO,49,8,41,0
+Todd,B103,QUESTION-TODD CANNABIS,,,Total Votes,117,23,92,2
+Todd,B103,QUESTION-TODD CANNABIS,,,Under Votes,12,2,10,0
+Todd,B103,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,B104,STRAIGHT PARTY,,REP,Republican Party,51,15,36,0
+Todd,B104,STRAIGHT PARTY,,DEM,Democratic Party,7,1,6,0
+Todd,B104,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Todd,B104,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Todd,B104,STRAIGHT PARTY,,,Total Votes,60,16,44,0
+Todd,B104,STRAIGHT PARTY,,,Under Votes,53,7,45,1
+Todd,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,B104,President,,REP,Donald J. TRUMP / JD VANCE,100,23,76,1
+Todd,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,9,0,9,0
+Todd,B104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Todd,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Todd,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,B104,President,,,Write In Total,0,0,0,0
+Todd,B104,President,,,Total Votes,113,23,89,1
+Todd,B104,President,,,Under Votes,0,0,0,0
+Todd,B104,President,,,Over Votes,0,0,0,0
+Todd,B104,U.S. House,1,REP,James R. COMER,102,23,78,1
+Todd,B104,U.S. House,1,DEM,Erin MARSHALL,10,0,10,0
+Todd,B104,U.S. House,1,,Total Votes,112,23,88,1
+Todd,B104,U.S. House,1,,Under Votes,1,0,1,0
+Todd,B104,U.S. House,1,,Over Votes,0,0,0,0
+Todd,B104,State House,16,REP,Jason PETRIE,106,23,82,1
+Todd,B104,State House,16,,Total Votes,106,23,82,1
+Todd,B104,State House,16,,Under Votes,7,0,7,0
+Todd,B104,State House,16,,Over Votes,0,0,0,0
+Todd,B104,Commonwealth's Attorney,7,REP,Neil KERR,102,23,78,1
+Todd,B104,Commonwealth's Attorney,7,,Total Votes,102,23,78,1
+Todd,B104,Commonwealth's Attorney,7,,Under Votes,11,0,11,0
+Todd,B104,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,B104,Circuit Clerk,,DEM,Mark COWHERD,64,11,52,1
+Todd,B104,Circuit Clerk,,,Total Votes,64,11,52,1
+Todd,B104,Circuit Clerk,,,Under Votes,49,12,37,0
+Todd,B104,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,B104,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,B104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,B104,COUNTY SURVEYOR,,,Under Votes,113,23,89,1
+Todd,B104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,B104,CONSTABLE,,,,0,0,0,0
+Todd,B104,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,B104,CONSTABLE,,,Under Votes,113,23,89,1
+Todd,B104,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,B104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",35,9,26,0
+Todd,B104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",27,3,23,1
+Todd,B104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,62,12,49,1
+Todd,B104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,50,11,39,0
+Todd,B104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",28,5,22,1
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",38,9,28,1
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",17,3,13,1
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,83,17,63,3
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,369,75,293,1
+Todd,B104,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,B104,Board of Education,2,,Eric T. HARRIS,58,10,47,1
+Todd,B104,Board of Education,2,,Total Votes,58,10,47,1
+Todd,B104,Board of Education,2,,Under Votes,55,13,42,0
+Todd,B104,Board of Education,2,,Over Votes,0,0,0,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",70,14,55,1
+Todd,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",37,9,28,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,107,23,83,1
+Todd,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,6,0,6,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 2,,,YES,37,13,23,1
+Todd,B104,CONSTITUTIONAL AMENDMENT 2,,,NO,64,10,54,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,101,23,77,1
+Todd,B104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,12,0,12,0
+Todd,B104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,B104,QUESTION-TODD CANNABIS,,,YES,63,18,45,0
+Todd,B104,QUESTION-TODD CANNABIS,,,NO,42,5,36,1
+Todd,B104,QUESTION-TODD CANNABIS,,,Total Votes,105,23,81,1
+Todd,B104,QUESTION-TODD CANNABIS,,,Under Votes,8,0,8,0
+Todd,B104,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,C101,STRAIGHT PARTY,,REP,Republican Party,208,85,116,7
+Todd,C101,STRAIGHT PARTY,,DEM,Democratic Party,129,42,78,9
+Todd,C101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Todd,C101,STRAIGHT PARTY,,LIB,Libertarian Party,8,1,7,0
+Todd,C101,STRAIGHT PARTY,,,Total Votes,349,128,205,16
+Todd,C101,STRAIGHT PARTY,,,Under Votes,342,127,200,15
+Todd,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,C101,President,,REP,Donald J. TRUMP / JD VANCE,471,186,268,17
+Todd,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,202,63,126,13
+Todd,C101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Todd,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
+Todd,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,7,3,4,0
+Todd,C101,President,,,Write In Total,0,0,0,0
+Todd,C101,President,,,Total Votes,686,252,403,31
+Todd,C101,President,,,Under Votes,5,3,2,0
+Todd,C101,President,,,Over Votes,0,0,0,0
+Todd,C101,U.S. House,1,REP,James R. COMER,468,184,267,17
+Todd,C101,U.S. House,1,DEM,Erin MARSHALL,201,65,124,12
+Todd,C101,U.S. House,1,,Total Votes,669,249,391,29
+Todd,C101,U.S. House,1,,Under Votes,21,6,14,1
+Todd,C101,U.S. House,1,,Over Votes,0,0,0,0
+Todd,C101,State House,16,REP,Jason PETRIE,554,202,334,18
+Todd,C101,State House,16,,Total Votes,554,202,334,18
+Todd,C101,State House,16,,Under Votes,136,53,71,12
+Todd,C101,State House,16,,Over Votes,0,0,0,0
+Todd,C101,Commonwealth's Attorney,7,REP,Neil KERR,523,192,315,16
+Todd,C101,Commonwealth's Attorney,7,,Total Votes,523,192,315,16
+Todd,C101,Commonwealth's Attorney,7,,Under Votes,167,63,90,14
+Todd,C101,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,C101,Circuit Clerk,,DEM,Mark COWHERD,506,176,309,21
+Todd,C101,Circuit Clerk,,,Total Votes,506,176,309,21
+Todd,C101,Circuit Clerk,,,Under Votes,184,79,96,9
+Todd,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,C101,COUNTY SURVEYOR,,,Under Votes,690,255,405,30
+Todd,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,C101,CONSTABLE,,,,0,0,0,0
+Todd,C101,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,C101,CONSTABLE,,,Under Votes,690,255,405,30
+Todd,C101,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",212,68,132,12
+Todd,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",238,85,144,9
+Todd,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,450,153,276,21
+Todd,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,240,102,129,9
+Todd,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",294,101,182,11
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",325,104,206,15
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",276,88,180,8
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,895,293,568,34
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1865,727,1052,86
+Todd,C101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,C101,Board of Education,3,,Kelley GROVES,404,129,262,13
+Todd,C101,Board of Education,3,,Write In Total,47,22,25,0
+Todd,C101,Board of Education,3,,Total Votes,451,151,287,13
+Todd,C101,Board of Education,3,,Under Votes,239,104,118,17
+Todd,C101,Board of Education,3,,Over Votes,0,0,0,0
+Todd,C101,CITY COUNCIL City of Elkton,,,"Emily Ann CARROLL ",250,87,149,14
+Todd,C101,CITY COUNCIL City of Elkton,,,"George ORR ",282,99,171,12
+Todd,C101,CITY COUNCIL City of Elkton,,,"John ""Big John"" MULLINS ",164,55,98,11
+Todd,C101,CITY COUNCIL City of Elkton,,,"Tyler WISEMAN ",115,45,67,3
+Todd,C101,CITY COUNCIL City of Elkton,,,"Frank F. McREYNOLDS ",189,60,118,11
+Todd,C101,CITY COUNCIL City of Elkton,,,"Megan WILLENBORG ",61,14,42,5
+Todd,C101,CITY COUNCIL City of Elkton,,,"John B. RICE ",27,11,16,0
+Todd,C101,CITY COUNCIL City of Elkton,,,"David A. POWELL ",166,62,96,8
+Todd,C101,CITY COUNCIL City of Elkton,,,"Cindy SIDEBOTTOM ",104,35,61,8
+Todd,C101,CITY COUNCIL City of Elkton,,,"Danny O. LASTER ",227,82,133,12
+Todd,C101,CITY COUNCIL City of Elkton,,,"Doug GIBSON ",173,72,92,9
+Todd,C101,CITY COUNCIL City of Elkton,,,Total Votes,1758,622,1043,93
+Todd,C101,CITY COUNCIL City of Elkton,,,Under Votes,822,278,499,45
+Todd,C101,CITY COUNCIL City of Elkton,,,Over Votes,0,0,0,0
+Todd,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",400,146,234,20
+Todd,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",229,85,139,5
+Todd,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,629,231,373,25
+Todd,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,24,31,4
+Todd,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,1,1
+Todd,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,205,72,122,11
+Todd,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,436,162,259,15
+Todd,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,641,234,381,26
+Todd,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,49,21,24,4
+Todd,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,C101,QUESTION-TODD CANNABIS,,,YES,421,142,263,16
+Todd,C101,QUESTION-TODD CANNABIS,,,NO,212,84,118,10
+Todd,C101,QUESTION-TODD CANNABIS,,,Total Votes,633,226,381,26
+Todd,C101,QUESTION-TODD CANNABIS,,,Under Votes,57,29,24,4
+Todd,C101,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,C102,STRAIGHT PARTY,,REP,Republican Party,180,36,140,4
+Todd,C102,STRAIGHT PARTY,,DEM,Democratic Party,59,7,48,4
+Todd,C102,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Todd,C102,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Todd,C102,STRAIGHT PARTY,,,Total Votes,246,45,193,8
+Todd,C102,STRAIGHT PARTY,,,Under Votes,235,40,187,8
+Todd,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,C102,President,,REP,Donald J. TRUMP / JD VANCE,368,69,292,7
+Todd,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,105,16,83,6
+Todd,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Todd,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,1,1
+Todd,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,C102,President,,,Write In Total,0,0,0,0
+Todd,C102,President,,,Total Votes,476,85,377,14
+Todd,C102,President,,,Under Votes,5,0,3,2
+Todd,C102,President,,,Over Votes,0,0,0,0
+Todd,C102,U.S. House,1,REP,James R. COMER,374,68,296,10
+Todd,C102,U.S. House,1,DEM,Erin MARSHALL,103,15,82,6
+Todd,C102,U.S. House,1,,Total Votes,477,83,378,16
+Todd,C102,U.S. House,1,,Under Votes,4,2,2,0
+Todd,C102,U.S. House,1,,Over Votes,0,0,0,0
+Todd,C102,State House,16,REP,Jason PETRIE,416,74,331,11
+Todd,C102,State House,16,,Total Votes,416,74,331,11
+Todd,C102,State House,16,,Under Votes,65,11,49,5
+Todd,C102,State House,16,,Over Votes,0,0,0,0
+Todd,C102,Commonwealth's Attorney,7,REP,Neil KERR,406,72,325,9
+Todd,C102,Commonwealth's Attorney,7,,Total Votes,406,72,325,9
+Todd,C102,Commonwealth's Attorney,7,,Under Votes,75,13,55,7
+Todd,C102,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,C102,Circuit Clerk,,DEM,Mark COWHERD,307,45,251,11
+Todd,C102,Circuit Clerk,,,Total Votes,307,45,251,11
+Todd,C102,Circuit Clerk,,,Under Votes,174,40,129,5
+Todd,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,C102,COUNTY SURVEYOR,,,Under Votes,481,85,380,16
+Todd,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,C102,CONSTABLE,,,,0,0,0,0
+Todd,C102,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,C102,CONSTABLE,,,Under Votes,481,85,380,16
+Todd,C102,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",142,22,114,6
+Todd,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",186,28,152,6
+Todd,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,328,50,266,12
+Todd,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,153,35,114,4
+Todd,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",252,41,201,10
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",184,31,149,4
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",211,43,165,3
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,647,115,515,17
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1277,225,1005,47
+Todd,C102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,C102,Board of Education,3,,Kelley GROVES,289,47,235,7
+Todd,C102,Board of Education,3,,Write In Total,34,7,27,0
+Todd,C102,Board of Education,3,,Total Votes,323,54,262,7
+Todd,C102,Board of Education,3,,Under Votes,157,31,118,8
+Todd,C102,Board of Education,3,,Over Votes,1,0,0,1
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,"Wayne JOHNSON ",127,31,92,4
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,"Timothy J. KULESZA ",99,27,70,2
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,"Joyce EDWARDS ",97,21,73,3
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,"John C. SADLER ",129,28,96,5
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Total Votes,452,107,331,14
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Under Votes,344,65,261,18
+Todd,C102,CITY COMMISSIONERS City of Trenton,,,Over Votes,0,0,0,0
+Todd,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",300,55,233,12
+Todd,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",150,25,123,2
+Todd,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,450,80,356,14
+Todd,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,5,24,2
+Todd,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Todd,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,196,43,146,7
+Todd,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,259,38,215,6
+Todd,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,455,81,361,13
+Todd,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,24,4,17,3
+Todd,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
+Todd,C102,QUESTION-TODD CANNABIS,,,YES,260,42,210,8
+Todd,C102,QUESTION-TODD CANNABIS,,,NO,193,38,148,7
+Todd,C102,QUESTION-TODD CANNABIS,,,Total Votes,453,80,358,15
+Todd,C102,QUESTION-TODD CANNABIS,,,Under Votes,28,5,22,1
+Todd,C102,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,D101,STRAIGHT PARTY,,REP,Republican Party,41,12,29,0
+Todd,D101,STRAIGHT PARTY,,DEM,Democratic Party,38,6,31,1
+Todd,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Todd,D101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Todd,D101,STRAIGHT PARTY,,,Total Votes,81,18,62,1
+Todd,D101,STRAIGHT PARTY,,,Under Votes,74,24,46,4
+Todd,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Todd,D101,President,,REP,Donald J. TRUMP / JD VANCE,95,32,60,3
+Todd,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,60,10,48,2
+Todd,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Todd,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Todd,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,D101,President,,,Write In Total,0,0,0,0
+Todd,D101,President,,,Total Votes,155,42,108,5
+Todd,D101,President,,,Under Votes,0,0,0,0
+Todd,D101,President,,,Over Votes,0,0,0,0
+Todd,D101,U.S. House,1,REP,James R. COMER,94,32,59,3
+Todd,D101,U.S. House,1,DEM,Erin MARSHALL,56,9,45,2
+Todd,D101,U.S. House,1,,Total Votes,150,41,104,5
+Todd,D101,U.S. House,1,,Under Votes,5,1,4,0
+Todd,D101,U.S. House,1,,Over Votes,0,0,0,0
+Todd,D101,State House,16,REP,Jason PETRIE,119,31,83,5
+Todd,D101,State House,16,,Total Votes,119,31,83,5
+Todd,D101,State House,16,,Under Votes,36,11,25,0
+Todd,D101,State House,16,,Over Votes,0,0,0,0
+Todd,D101,Commonwealth's Attorney,7,REP,Neil KERR,105,28,73,4
+Todd,D101,Commonwealth's Attorney,7,,Total Votes,105,28,73,4
+Todd,D101,Commonwealth's Attorney,7,,Under Votes,50,14,35,1
+Todd,D101,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,D101,Circuit Clerk,,DEM,Mark COWHERD,109,25,80,4
+Todd,D101,Circuit Clerk,,,Total Votes,109,25,80,4
+Todd,D101,Circuit Clerk,,,Under Votes,46,17,28,1
+Todd,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,D101,COUNTY SURVEYOR,,,Under Votes,155,42,108,5
+Todd,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,D101,CONSTABLE,,,,0,0,0,0
+Todd,D101,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,D101,CONSTABLE,,,Under Votes,155,42,108,5
+Todd,D101,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",48,12,34,2
+Todd,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",35,9,25,1
+Todd,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,83,21,59,3
+Todd,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,71,21,48,2
+Todd,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",58,15,41,2
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",59,14,42,3
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",73,21,50,2
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,190,50,133,7
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,430,118,299,13
+Todd,D101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,D101,Board of Education,4,,Joshua MOSBY,105,24,78,3
+Todd,D101,Board of Education,4,,Total Votes,105,24,78,3
+Todd,D101,Board of Education,4,,Under Votes,50,18,30,2
+Todd,D101,Board of Education,4,,Over Votes,0,0,0,0
+Todd,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",90,29,59,2
+Todd,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",50,8,40,2
+Todd,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,140,37,99,4
+Todd,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,14,5,8,1
+Todd,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Todd,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,52,19,31,2
+Todd,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,95,20,72,3
+Todd,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,147,39,103,5
+Todd,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,3,5,0
+Todd,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Todd,D101,QUESTION-TODD CANNABIS,,,YES,93,21,70,2
+Todd,D101,QUESTION-TODD CANNABIS,,,NO,51,18,31,2
+Todd,D101,QUESTION-TODD CANNABIS,,,Total Votes,144,39,101,4
+Todd,D101,QUESTION-TODD CANNABIS,,,Under Votes,10,3,6,1
+Todd,D101,QUESTION-TODD CANNABIS,,,Over Votes,1,0,1,0
+Todd,D102,STRAIGHT PARTY,,REP,Republican Party,312,144,160,8
+Todd,D102,STRAIGHT PARTY,,DEM,Democratic Party,106,39,64,3
+Todd,D102,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Todd,D102,STRAIGHT PARTY,,LIB,Libertarian Party,4,2,2,0
+Todd,D102,STRAIGHT PARTY,,,Total Votes,427,186,230,11
+Todd,D102,STRAIGHT PARTY,,,Under Votes,490,222,248,20
+Todd,D102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Todd,D102,President,,REP,Donald J. TRUMP / JD VANCE,704,324,360,20
+Todd,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,201,81,110,10
+Todd,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Todd,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,2,1
+Todd,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
+Todd,D102,President,,,Write In Total,0,0,0,0
+Todd,D102,President,,,Total Votes,913,407,475,31
+Todd,D102,President,,,Under Votes,3,1,2,0
+Todd,D102,President,,,Over Votes,2,0,2,0
+Todd,D102,U.S. House,1,REP,James R. COMER,688,315,354,19
+Todd,D102,U.S. House,1,DEM,Erin MARSHALL,207,84,113,10
+Todd,D102,U.S. House,1,,Total Votes,895,399,467,29
+Todd,D102,U.S. House,1,,Under Votes,21,9,12,0
+Todd,D102,U.S. House,1,,Over Votes,0,0,0,0
+Todd,D102,State House,16,REP,Jason PETRIE,770,342,405,23
+Todd,D102,State House,16,,Total Votes,770,342,405,23
+Todd,D102,State House,16,,Under Votes,146,66,74,6
+Todd,D102,State House,16,,Over Votes,0,0,0,0
+Todd,D102,Commonwealth's Attorney,7,REP,Neil KERR,739,328,390,21
+Todd,D102,Commonwealth's Attorney,7,,Total Votes,739,328,390,21
+Todd,D102,Commonwealth's Attorney,7,,Under Votes,177,80,89,8
+Todd,D102,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,D102,Circuit Clerk,,DEM,Mark COWHERD,634,278,332,24
+Todd,D102,Circuit Clerk,,,Total Votes,634,278,332,24
+Todd,D102,Circuit Clerk,,,Under Votes,282,130,147,5
+Todd,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Todd,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,D102,COUNTY SURVEYOR,,,Under Votes,916,408,479,29
+Todd,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,D102,CONSTABLE,,,,0,0,0,0
+Todd,D102,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,D102,CONSTABLE,,,Under Votes,916,408,479,29
+Todd,D102,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",289,110,166,13
+Todd,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",276,122,146,8
+Todd,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,565,232,312,21
+Todd,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,351,176,167,8
+Todd,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",357,161,178,18
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",408,179,213,16
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",359,151,191,17
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,1124,491,582,51
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,2540,1141,1334,65
+Todd,D102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,D102,Board of Education,4,,Joshua MOSBY,560,227,311,22
+Todd,D102,Board of Education,4,,Total Votes,560,227,311,22
+Todd,D102,Board of Education,4,,Under Votes,356,181,168,7
+Todd,D102,Board of Education,4,,Over Votes,0,0,0,0
+Todd,D102,CITY COUNCIL City of Elkton,,,"Emily Ann CARROLL ",165,72,86,7
+Todd,D102,CITY COUNCIL City of Elkton,,,"George ORR ",199,77,116,6
+Todd,D102,CITY COUNCIL City of Elkton,,,"John ""Big John"" MULLINS ",92,34,57,1
+Todd,D102,CITY COUNCIL City of Elkton,,,"Tyler WISEMAN ",68,31,31,6
+Todd,D102,CITY COUNCIL City of Elkton,,,"Frank F. McREYNOLDS ",130,52,74,4
+Todd,D102,CITY COUNCIL City of Elkton,,,"Megan WILLENBORG ",49,15,30,4
+Todd,D102,CITY COUNCIL City of Elkton,,,"John B. RICE ",27,9,17,1
+Todd,D102,CITY COUNCIL City of Elkton,,,"David A. POWELL ",102,42,57,3
+Todd,D102,CITY COUNCIL City of Elkton,,,"Cindy SIDEBOTTOM ",78,34,39,5
+Todd,D102,CITY COUNCIL City of Elkton,,,"Danny O. LASTER ",149,62,84,3
+Todd,D102,CITY COUNCIL City of Elkton,,,"Doug GIBSON ",98,42,55,1
+Todd,D102,CITY COUNCIL City of Elkton,,,Total Votes,1157,470,646,41
+Todd,D102,CITY COUNCIL City of Elkton,,,Under Votes,571,244,320,7
+Todd,D102,CITY COUNCIL City of Elkton,,,Over Votes,2,0,2,0
+Todd,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",507,240,251,16
+Todd,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",325,130,184,11
+Todd,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,832,370,435,27
+Todd,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,83,38,43,2
+Todd,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Todd,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,276,131,140,5
+Todd,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,586,254,310,22
+Todd,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,862,385,450,27
+Todd,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,53,23,28,2
+Todd,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Todd,D102,QUESTION-TODD CANNABIS,,,YES,554,232,306,16
+Todd,D102,QUESTION-TODD CANNABIS,,,NO,307,152,142,13
+Todd,D102,QUESTION-TODD CANNABIS,,,Total Votes,861,384,448,29
+Todd,D102,QUESTION-TODD CANNABIS,,,Under Votes,55,24,31,0
+Todd,D102,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,E101,STRAIGHT PARTY,,REP,Republican Party,154,41,108,5
+Todd,E101,STRAIGHT PARTY,,DEM,Democratic Party,52,16,34,2
+Todd,E101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Todd,E101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Todd,E101,STRAIGHT PARTY,,,Total Votes,209,57,145,7
+Todd,E101,STRAIGHT PARTY,,,Under Votes,167,43,122,2
+Todd,E101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Todd,E101,President,,REP,Donald J. TRUMP / JD VANCE,285,74,205,6
+Todd,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,86,26,57,3
+Todd,E101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Todd,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
+Todd,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Todd,E101,President,,,Write In Total,0,0,0,0
+Todd,E101,President,,,Total Votes,375,100,266,9
+Todd,E101,President,,,Under Votes,2,0,2,0
+Todd,E101,President,,,Over Votes,0,0,0,0
+Todd,E101,U.S. House,1,REP,James R. COMER,286,75,204,7
+Todd,E101,U.S. House,1,DEM,Erin MARSHALL,83,25,56,2
+Todd,E101,U.S. House,1,,Total Votes,369,100,260,9
+Todd,E101,U.S. House,1,,Under Votes,8,0,8,0
+Todd,E101,U.S. House,1,,Over Votes,0,0,0,0
+Todd,E101,State House,16,REP,Jason PETRIE,319,82,230,7
+Todd,E101,State House,16,,Total Votes,319,82,230,7
+Todd,E101,State House,16,,Under Votes,58,18,38,2
+Todd,E101,State House,16,,Over Votes,0,0,0,0
+Todd,E101,Commonwealth's Attorney,7,REP,Neil KERR,312,82,223,7
+Todd,E101,Commonwealth's Attorney,7,,Total Votes,312,82,223,7
+Todd,E101,Commonwealth's Attorney,7,,Under Votes,65,18,45,2
+Todd,E101,Commonwealth's Attorney,7,,Over Votes,0,0,0,0
+Todd,E101,Circuit Clerk,,DEM,Mark COWHERD,246,67,174,5
+Todd,E101,Circuit Clerk,,,Total Votes,246,67,174,5
+Todd,E101,Circuit Clerk,,,Under Votes,130,33,93,4
+Todd,E101,Circuit Clerk,,,Over Votes,1,0,1,0
+Todd,E101,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,E101,COUNTY SURVEYOR,,,Under Votes,377,100,268,9
+Todd,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,E101,CONSTABLE,,,,0,0,0,0
+Todd,E101,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,E101,CONSTABLE,,,Under Votes,377,100,268,9
+Todd,E101,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,E101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",98,26,71,1
+Todd,E101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",110,24,85,1
+Todd,E101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,208,50,156,2
+Todd,E101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,168,50,111,7
+Todd,E101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",135,43,90,2
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",121,34,83,4
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",143,46,93,4
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,399,123,266,10
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1109,277,806,26
+Todd,E101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Linda K. SMITH ",29,1,26,2
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Zollie ROSE ",51,3,45,3
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Russ LONGHURST ",48,4,42,2
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Andrea MILKOWSKI ",30,5,25,0
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Harry GREEN ",43,2,40,1
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Norma Johnson WILLIAMS ",51,5,41,5
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Michael SMITH ",34,2,30,2
+Todd,E101,CITY COUNCIL City of Guthrie,,,"Chad JOHNSON ",45,4,38,3
+Todd,E101,CITY COUNCIL City of Guthrie,,,Total Votes,331,26,287,18
+Todd,E101,CITY COUNCIL City of Guthrie,,,Under Votes,209,22,169,18
+Todd,E101,CITY COUNCIL City of Guthrie,,,Over Votes,0,0,0,0
+Todd,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,225,69,152,4
+Todd,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,124,25,97,2
+Todd,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,349,94,249,6
+Todd,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,6,18,3
+Todd,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Todd,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,131,36,93,2
+Todd,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,215,58,152,5
+Todd,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,346,94,245,7
+Todd,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,30,6,22,2
+Todd,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Todd,E101,QUESTION-TODD CANNABIS,,,YES,237,58,173,6
+Todd,E101,QUESTION-TODD CANNABIS,,,NO,119,38,81,0
+Todd,E101,QUESTION-TODD CANNABIS,,,Total Votes,356,96,254,6
+Todd,E101,QUESTION-TODD CANNABIS,,,Under Votes,21,4,14,3
+Todd,E101,QUESTION-TODD CANNABIS,,,Over Votes,0,0,0,0
+Todd,E102,STRAIGHT PARTY,,REP,Republican Party,137,34,100,3
+Todd,E102,STRAIGHT PARTY,,DEM,Democratic Party,127,12,114,1
+Todd,E102,STRAIGHT PARTY,,KY,Kentucky Party,5,0,5,0
+Todd,E102,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Todd,E102,STRAIGHT PARTY,,,Total Votes,273,47,222,4
+Todd,E102,STRAIGHT PARTY,,,Under Votes,175,26,145,4
+Todd,E102,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Todd,E102,President,,REP,Donald J. TRUMP / JD VANCE,264,53,206,5
+Todd,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,178,20,156,2
+Todd,E102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Todd,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Todd,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Todd,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Todd,E102,President,,,Write In Total,0,0,0,0
+Todd,E102,President,,,Total Votes,445,73,365,7
+Todd,E102,President,,,Under Votes,3,0,2,1
+Todd,E102,President,,,Over Votes,2,0,2,0
+Todd,E102,U.S. House,1,REP,James R. COMER,261,55,201,5
+Todd,E102,U.S. House,1,DEM,Erin MARSHALL,168,18,148,2
+Todd,E102,U.S. House,1,,Total Votes,429,73,349,7
+Todd,E102,U.S. House,1,,Under Votes,20,0,19,1
+Todd,E102,U.S. House,1,,Over Votes,1,0,1,0
+Todd,E102,State House,16,REP,Jason PETRIE,327,57,263,7
+Todd,E102,State House,16,,Total Votes,327,57,263,7
+Todd,E102,State House,16,,Under Votes,122,16,105,1
+Todd,E102,State House,16,,Over Votes,1,0,1,0
+Todd,E102,Commonwealth's Attorney,7,REP,Neil KERR,306,53,246,7
+Todd,E102,Commonwealth's Attorney,7,,Total Votes,306,53,246,7
+Todd,E102,Commonwealth's Attorney,7,,Under Votes,143,20,122,1
+Todd,E102,Commonwealth's Attorney,7,,Over Votes,1,0,1,0
+Todd,E102,Circuit Clerk,,DEM,Mark COWHERD,322,39,276,7
+Todd,E102,Circuit Clerk,,,Total Votes,322,39,276,7
+Todd,E102,Circuit Clerk,,,Under Votes,127,34,92,1
+Todd,E102,Circuit Clerk,,,Over Votes,1,0,1,0
+Todd,E102,COUNTY SURVEYOR,,,,0,0,0,0
+Todd,E102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Todd,E102,COUNTY SURVEYOR,,,Under Votes,450,73,369,8
+Todd,E102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Todd,E102,CONSTABLE,,,,0,0,0,0
+Todd,E102,CONSTABLE,,,Total Votes,0,0,0,0
+Todd,E102,CONSTABLE,,,Under Votes,450,73,369,8
+Todd,E102,CONSTABLE,,,Over Votes,0,0,0,0
+Todd,E102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",147,23,122,2
+Todd,E102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",133,19,110,4
+Todd,E102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,280,42,232,6
+Todd,E102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,168,31,135,2
+Todd,E102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,2,0,2,0
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Bradley Alan BROOKSHIRE ",167,22,140,5
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Pam ALDER ",164,17,143,4
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Garrett SHARP ",164,21,141,2
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,495,60,424,11
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,1301,232,1048,21
+Todd,E102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,0,1,0
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Linda K. SMITH ",122,18,101,3
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Zollie ROSE ",214,24,185,5
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Russ LONGHURST ",202,23,173,6
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Andrea MILKOWSKI ",140,15,123,2
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Harry GREEN ",206,22,181,3
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Norma Johnson WILLIAMS ",236,27,206,3
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Michael SMITH ",108,17,88,3
+Todd,E102,CITY COUNCIL City of Guthrie,,,"Chad JOHNSON ",170,24,141,5
+Todd,E102,CITY COUNCIL City of Guthrie,,,Total Votes,1398,170,1198,30
+Todd,E102,CITY COUNCIL City of Guthrie,,,Under Votes,840,148,686,6
+Todd,E102,CITY COUNCIL City of Guthrie,,,Over Votes,3,0,3,0
+Todd,E102,CONSTITUTIONAL AMENDMENT 1,,,YES,271,42,223,6
+Todd,E102,CONSTITUTIONAL AMENDMENT 1,,,NO,123,22,100,1
+Todd,E102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,394,64,323,7
+Todd,E102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,52,9,42,1
+Todd,E102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,4,0
+Todd,E102,CONSTITUTIONAL AMENDMENT 2,,,YES,189,30,157,2
+Todd,E102,CONSTITUTIONAL AMENDMENT 2,,,NO,218,34,178,6
+Todd,E102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,407,64,335,8
+Todd,E102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,42,9,33,0
+Todd,E102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Todd,E102,QUESTION-TODD CANNABIS,,,YES,283,43,235,5
+Todd,E102,QUESTION-TODD CANNABIS,,,NO,123,22,98,3
+Todd,E102,QUESTION-TODD CANNABIS,,,Total Votes,406,65,333,8
+Todd,E102,QUESTION-TODD CANNABIS,,,Under Votes,42,8,34,0
+Todd,E102,QUESTION-TODD CANNABIS,,,Over Votes,2,0,2,0

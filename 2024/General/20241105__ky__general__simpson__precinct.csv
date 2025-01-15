@@ -1,0 +1,771 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Simpson,A101,STRAIGHT PARTY,,REP,Republican Party,391,140,234,17
+Simpson,A101,STRAIGHT PARTY,,DEM,Democratic Party,96,43,36,17
+Simpson,A101,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Simpson,A101,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Simpson,A101,STRAIGHT PARTY,,,Total Votes,495,185,276,34
+Simpson,A101,STRAIGHT PARTY,,,Under Votes,388,158,211,19
+Simpson,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,A101,President,,REP,Donald J. TRUMP / JD VANCE,702,263,413,26
+Simpson,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,172,77,68,27
+Simpson,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Simpson,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Simpson,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Simpson,A101,President,,,Write In Total,0,0,0,0
+Simpson,A101,President,,,Total Votes,880,341,486,53
+Simpson,A101,President,,,Under Votes,3,2,1,0
+Simpson,A101,President,,,Over Votes,0,0,0,0
+Simpson,A101,U.S. House,1,REP,James R. COMER,706,270,411,25
+Simpson,A101,U.S. House,1,DEM,Erin MARSHALL,167,70,70,27
+Simpson,A101,U.S. House,1,,Total Votes,873,340,481,52
+Simpson,A101,U.S. House,1,,Under Votes,10,3,6,1
+Simpson,A101,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,A101,State House,22,REP,Shawn McPHERSON,728,274,425,29
+Simpson,A101,State House,22,,Total Votes,728,274,425,29
+Simpson,A101,State House,22,,Under Votes,155,69,62,24
+Simpson,A101,State House,22,,Over Votes,0,0,0,0
+Simpson,A101,Commonwealth's Attorney,49,REP,Mike LINDSEY,726,272,424,30
+Simpson,A101,Commonwealth's Attorney,49,,Total Votes,726,272,424,30
+Simpson,A101,Commonwealth's Attorney,49,,Under Votes,157,71,63,23
+Simpson,A101,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,A101,Circuit Clerk,,DEM,Beth Anne FISS,487,182,268,37
+Simpson,A101,Circuit Clerk,,,Total Votes,487,182,268,37
+Simpson,A101,Circuit Clerk,,,Under Votes,395,161,219,15
+Simpson,A101,Circuit Clerk,,,Over Votes,1,0,0,1
+Simpson,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,A101,COUNTY SURVEYOR,,,Under Votes,883,343,487,53
+Simpson,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",584,232,321,31
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",254,103,134,17
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,838,335,455,48
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,8,32,5
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Simpson,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,320,126,180,14
+Simpson,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,549,213,302,34
+Simpson,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,869,339,482,48
+Simpson,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,3,5,5
+Simpson,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Simpson,A102,STRAIGHT PARTY,,REP,Republican Party,353,136,208,9
+Simpson,A102,STRAIGHT PARTY,,DEM,Democratic Party,65,32,29,4
+Simpson,A102,STRAIGHT PARTY,,KY,Kentucky Party,5,0,4,1
+Simpson,A102,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,4,0
+Simpson,A102,STRAIGHT PARTY,,,Total Votes,427,168,245,14
+Simpson,A102,STRAIGHT PARTY,,,Under Votes,331,117,194,20
+Simpson,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,A102,President,,REP,Donald J. TRUMP / JD VANCE,615,220,371,24
+Simpson,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,128,60,58,10
+Simpson,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Simpson,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Simpson,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Simpson,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Simpson,A102,President,,,Write In Total,0,0,0,0
+Simpson,A102,President,,,Total Votes,751,282,435,34
+Simpson,A102,President,,,Under Votes,7,3,4,0
+Simpson,A102,President,,,Over Votes,0,0,0,0
+Simpson,A102,U.S. House,1,REP,James R. COMER,615,223,369,23
+Simpson,A102,U.S. House,1,DEM,Erin MARSHALL,133,61,62,10
+Simpson,A102,U.S. House,1,,Total Votes,748,284,431,33
+Simpson,A102,U.S. House,1,,Under Votes,10,1,8,1
+Simpson,A102,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,A102,State House,22,REP,Shawn McPHERSON,643,225,392,26
+Simpson,A102,State House,22,,Total Votes,643,225,392,26
+Simpson,A102,State House,22,,Under Votes,115,60,47,8
+Simpson,A102,State House,22,,Over Votes,0,0,0,0
+Simpson,A102,Commonwealth's Attorney,49,REP,Mike LINDSEY,638,227,386,25
+Simpson,A102,Commonwealth's Attorney,49,,Total Votes,638,227,386,25
+Simpson,A102,Commonwealth's Attorney,49,,Under Votes,120,58,53,9
+Simpson,A102,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,A102,Circuit Clerk,,DEM,Beth Anne FISS,434,155,257,22
+Simpson,A102,Circuit Clerk,,,Total Votes,434,155,257,22
+Simpson,A102,Circuit Clerk,,,Under Votes,324,130,182,12
+Simpson,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,A102,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,A102,COUNTY SURVEYOR,,,Under Votes,758,285,439,34
+Simpson,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",524,198,305,21
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",194,75,110,9
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,718,273,415,30
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,11,24,4
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Simpson,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,324,125,183,16
+Simpson,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,419,155,250,14
+Simpson,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,743,280,433,30
+Simpson,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,5,6,4
+Simpson,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,A103,STRAIGHT PARTY,,REP,Republican Party,176,67,98,11
+Simpson,A103,STRAIGHT PARTY,,DEM,Democratic Party,127,40,73,14
+Simpson,A103,STRAIGHT PARTY,,KY,Kentucky Party,7,2,4,1
+Simpson,A103,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Simpson,A103,STRAIGHT PARTY,,,Total Votes,312,109,177,26
+Simpson,A103,STRAIGHT PARTY,,,Under Votes,217,76,135,6
+Simpson,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,A103,President,,REP,Donald J. TRUMP / JD VANCE,346,123,209,14
+Simpson,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,169,58,93,18
+Simpson,A103,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Simpson,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,5,0
+Simpson,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Simpson,A103,President,,,Write In Total,0,0,0,0
+Simpson,A103,President,,,Total Votes,527,184,311,32
+Simpson,A103,President,,,Under Votes,2,1,1,0
+Simpson,A103,President,,,Over Votes,0,0,0,0
+Simpson,A103,U.S. House,1,REP,James R. COMER,342,123,205,14
+Simpson,A103,U.S. House,1,DEM,Erin MARSHALL,176,59,100,17
+Simpson,A103,U.S. House,1,,Total Votes,518,182,305,31
+Simpson,A103,U.S. House,1,,Under Votes,11,3,7,1
+Simpson,A103,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,A103,State House,22,REP,Shawn McPHERSON,392,138,238,16
+Simpson,A103,State House,22,,Total Votes,392,138,238,16
+Simpson,A103,State House,22,,Under Votes,137,47,74,16
+Simpson,A103,State House,22,,Over Votes,0,0,0,0
+Simpson,A103,Commonwealth's Attorney,49,REP,Mike LINDSEY,391,138,237,16
+Simpson,A103,Commonwealth's Attorney,49,,Total Votes,391,138,237,16
+Simpson,A103,Commonwealth's Attorney,49,,Under Votes,138,47,75,16
+Simpson,A103,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,A103,Circuit Clerk,,DEM,Beth Anne FISS,365,120,221,24
+Simpson,A103,Circuit Clerk,,,Total Votes,365,120,221,24
+Simpson,A103,Circuit Clerk,,,Under Votes,164,65,91,8
+Simpson,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,A103,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,A103,COUNTY SURVEYOR,,,Under Votes,529,185,312,32
+Simpson,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,A103,Board of Education,3,,"Gillian ""Jill"" KUMMER",25,11,14,0
+Simpson,A103,Board of Education,3,,Total Votes,25,11,14,0
+Simpson,A103,Board of Education,3,,Under Votes,18,8,10,0
+Simpson,A103,Board of Education,3,,Over Votes,0,0,0,0
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",194,68,113,13
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",200,73,118,9
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",227,79,133,15
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",169,58,97,14
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",215,92,117,6
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",195,66,116,13
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1200,436,694,70
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Under Votes,912,300,554,58
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,1,0,0
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,"YES ",393,128,237,28
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,"NO ",108,45,61,2
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,501,173,298,30
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,28,12,14,2
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
+Simpson,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,292,109,166,17
+Simpson,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,210,64,131,15
+Simpson,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,502,173,297,32
+Simpson,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,26,11,15,0
+Simpson,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Simpson,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,189,65,109,15
+Simpson,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,321,112,193,16
+Simpson,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,510,177,302,31
+Simpson,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,7,10,1
+Simpson,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Simpson,B101,STRAIGHT PARTY,,REP,Republican Party,313,141,163,9
+Simpson,B101,STRAIGHT PARTY,,DEM,Democratic Party,101,41,52,8
+Simpson,B101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Simpson,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Simpson,B101,STRAIGHT PARTY,,,Total Votes,418,182,219,17
+Simpson,B101,STRAIGHT PARTY,,,Under Votes,353,145,187,21
+Simpson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,B101,President,,REP,Donald J. TRUMP / JD VANCE,569,242,307,20
+Simpson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,188,79,91,18
+Simpson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,3,5,0
+Simpson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Simpson,B101,President,,,Write In Total,0,0,0,0
+Simpson,B101,President,,,Total Votes,767,325,404,38
+Simpson,B101,President,,,Under Votes,3,2,1,0
+Simpson,B101,President,,,Over Votes,1,0,1,0
+Simpson,B101,U.S. House,1,REP,James R. COMER,580,248,310,22
+Simpson,B101,U.S. House,1,DEM,Erin MARSHALL,179,76,87,16
+Simpson,B101,U.S. House,1,,Total Votes,759,324,397,38
+Simpson,B101,U.S. House,1,,Under Votes,12,3,9,0
+Simpson,B101,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,B101,State House,22,REP,Shawn McPHERSON,615,263,327,25
+Simpson,B101,State House,22,,Total Votes,615,263,327,25
+Simpson,B101,State House,22,,Under Votes,156,64,79,13
+Simpson,B101,State House,22,,Over Votes,0,0,0,0
+Simpson,B101,Commonwealth's Attorney,49,REP,Mike LINDSEY,610,264,320,26
+Simpson,B101,Commonwealth's Attorney,49,,Total Votes,610,264,320,26
+Simpson,B101,Commonwealth's Attorney,49,,Under Votes,161,63,86,12
+Simpson,B101,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,B101,Circuit Clerk,,DEM,Beth Anne FISS,477,190,263,24
+Simpson,B101,Circuit Clerk,,,Total Votes,477,190,263,24
+Simpson,B101,Circuit Clerk,,,Under Votes,294,137,143,14
+Simpson,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,B101,COUNTY SURVEYOR,,,Under Votes,771,327,406,38
+Simpson,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,B101,Board of Education,3,,"Gillian ""Jill"" KUMMER",473,188,261,24
+Simpson,B101,Board of Education,3,,Total Votes,473,188,261,24
+Simpson,B101,Board of Education,3,,Under Votes,297,138,145,14
+Simpson,B101,Board of Education,3,,Over Votes,1,1,0,0
+Simpson,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,496,209,264,23
+Simpson,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,222,100,110,12
+Simpson,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,718,309,374,35
+Simpson,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,51,17,31,3
+Simpson,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Simpson,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,289,133,151,5
+Simpson,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,452,187,236,29
+Simpson,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,741,320,387,34
+Simpson,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,30,7,19,4
+Simpson,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,B102,STRAIGHT PARTY,,REP,Republican Party,128,54,67,7
+Simpson,B102,STRAIGHT PARTY,,DEM,Democratic Party,98,32,54,12
+Simpson,B102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,0,1
+Simpson,B102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Simpson,B102,STRAIGHT PARTY,,,Total Votes,229,88,121,20
+Simpson,B102,STRAIGHT PARTY,,,Under Votes,126,55,59,12
+Simpson,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,B102,President,,REP,Donald J. TRUMP / JD VANCE,210,97,105,8
+Simpson,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,136,45,70,21
+Simpson,B102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,1,2
+Simpson,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
+Simpson,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Simpson,B102,President,,,Write In Total,0,0,0,0
+Simpson,B102,President,,,Total Votes,353,142,179,32
+Simpson,B102,President,,,Under Votes,2,1,1,0
+Simpson,B102,President,,,Over Votes,0,0,0,0
+Simpson,B102,U.S. House,1,REP,James R. COMER,215,93,112,10
+Simpson,B102,U.S. House,1,DEM,Erin MARSHALL,134,47,67,20
+Simpson,B102,U.S. House,1,,Total Votes,349,140,179,30
+Simpson,B102,U.S. House,1,,Under Votes,6,3,1,2
+Simpson,B102,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,B102,State House,22,REP,Shawn McPHERSON,251,105,128,18
+Simpson,B102,State House,22,,Total Votes,251,105,128,18
+Simpson,B102,State House,22,,Under Votes,104,38,52,14
+Simpson,B102,State House,22,,Over Votes,0,0,0,0
+Simpson,B102,Commonwealth's Attorney,49,REP,Mike LINDSEY,245,100,128,17
+Simpson,B102,Commonwealth's Attorney,49,,Total Votes,245,100,128,17
+Simpson,B102,Commonwealth's Attorney,49,,Under Votes,110,43,52,15
+Simpson,B102,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,B102,Circuit Clerk,,DEM,Beth Anne FISS,252,92,132,28
+Simpson,B102,Circuit Clerk,,,Total Votes,252,92,132,28
+Simpson,B102,Circuit Clerk,,,Under Votes,103,51,48,4
+Simpson,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,B102,COUNTY SURVEYOR,,,Under Votes,355,143,180,32
+Simpson,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,B102,Board of Education,3,,"Gillian ""Jill"" KUMMER",216,75,121,20
+Simpson,B102,Board of Education,3,,Total Votes,216,75,121,20
+Simpson,B102,Board of Education,3,,Under Votes,139,68,59,12
+Simpson,B102,Board of Education,3,,Over Votes,0,0,0,0
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",138,58,59,21
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",109,52,47,10
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",155,59,80,16
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",107,43,60,4
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",153,64,76,13
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",143,51,73,19
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Total Votes,805,327,395,83
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Under Votes,615,245,325,45
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,"YES ",245,96,127,22
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,"NO ",96,46,43,7
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Total Votes,341,142,170,29
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Under Votes,14,1,10,3
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
+Simpson,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,214,94,101,19
+Simpson,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,123,45,69,9
+Simpson,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,337,139,170,28
+Simpson,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,13,2,7,4
+Simpson,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,2,3,0
+Simpson,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,136,65,61,10
+Simpson,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,208,74,114,20
+Simpson,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,344,139,175,30
+Simpson,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,4,4,2
+Simpson,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Simpson,B103,STRAIGHT PARTY,,REP,Republican Party,380,203,160,17
+Simpson,B103,STRAIGHT PARTY,,DEM,Democratic Party,140,72,50,18
+Simpson,B103,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Simpson,B103,STRAIGHT PARTY,,LIB,Libertarian Party,7,4,3,0
+Simpson,B103,STRAIGHT PARTY,,,Total Votes,531,280,216,35
+Simpson,B103,STRAIGHT PARTY,,,Under Votes,570,255,287,28
+Simpson,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,B103,President,,REP,Donald J. TRUMP / JD VANCE,737,355,353,29
+Simpson,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,329,169,126,34
+Simpson,B103,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Simpson,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,14,4,10,0
+Simpson,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Simpson,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,6,4,2,0
+Simpson,B103,President,,,Write In Total,0,0,0,0
+Simpson,B103,President,,,Total Votes,1089,533,493,63
+Simpson,B103,President,,,Under Votes,12,2,10,0
+Simpson,B103,President,,,Over Votes,0,0,0,0
+Simpson,B103,U.S. House,1,REP,James R. COMER,772,368,374,30
+Simpson,B103,U.S. House,1,DEM,Erin MARSHALL,313,161,119,33
+Simpson,B103,U.S. House,1,,Total Votes,1085,529,493,63
+Simpson,B103,U.S. House,1,,Under Votes,16,6,10,0
+Simpson,B103,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,B103,State House,22,REP,Shawn McPHERSON,840,404,399,37
+Simpson,B103,State House,22,,Total Votes,840,404,399,37
+Simpson,B103,State House,22,,Under Votes,259,129,104,26
+Simpson,B103,State House,22,,Over Votes,2,2,0,0
+Simpson,B103,Commonwealth's Attorney,49,REP,Mike LINDSEY,833,403,392,38
+Simpson,B103,Commonwealth's Attorney,49,,Total Votes,833,403,392,38
+Simpson,B103,Commonwealth's Attorney,49,,Under Votes,267,131,111,25
+Simpson,B103,Commonwealth's Attorney,49,,Over Votes,1,1,0,0
+Simpson,B103,Circuit Clerk,,DEM,Beth Anne FISS,674,309,327,38
+Simpson,B103,Circuit Clerk,,,Total Votes,674,309,327,38
+Simpson,B103,Circuit Clerk,,,Under Votes,427,226,176,25
+Simpson,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,B103,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,B103,COUNTY SURVEYOR,,,Under Votes,1101,535,503,63
+Simpson,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,B103,Board of Education,3,,"Gillian ""Jill"" KUMMER",205,106,94,5
+Simpson,B103,Board of Education,3,,Total Votes,205,106,94,5
+Simpson,B103,Board of Education,3,,Under Votes,142,77,61,4
+Simpson,B103,Board of Education,3,,Over Votes,0,0,0,0
+Simpson,B103,Board of Education,,,,0,0,0,0
+Simpson,B103,Board of Education,,,Total Votes,0,0,0,0
+Simpson,B103,Board of Education,,,Under Votes,754,352,348,54
+Simpson,B103,Board of Education,,,Over Votes,0,0,0,0
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",404,195,182,27
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",502,244,231,27
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",413,192,202,19
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",440,217,197,26
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",450,211,215,24
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",445,221,193,31
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Total Votes,2654,1280,1220,154
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Under Votes,1738,852,788,98
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Over Votes,3,2,1,0
+Simpson,B103,QUESTION-FRANKLIN CANNABIS,,,YES,681,315,328,38
+Simpson,B103,QUESTION-FRANKLIN CANNABIS,,,NO,365,195,148,22
+Simpson,B103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,1046,510,476,60
+Simpson,B103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,53,24,26,3
+Simpson,B103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,2,1,1,0
+Simpson,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,674,328,305,41
+Simpson,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,368,174,177,17
+Simpson,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1042,502,482,58
+Simpson,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,57,32,20,5
+Simpson,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
+Simpson,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,377,197,159,21
+Simpson,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,694,323,332,39
+Simpson,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1071,520,491,60
+Simpson,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,14,12,3
+Simpson,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Simpson,C101,STRAIGHT PARTY,,REP,Republican Party,145,68,73,4
+Simpson,C101,STRAIGHT PARTY,,DEM,Democratic Party,50,19,28,3
+Simpson,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Simpson,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Simpson,C101,STRAIGHT PARTY,,,Total Votes,198,88,103,7
+Simpson,C101,STRAIGHT PARTY,,,Under Votes,160,61,92,7
+Simpson,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,C101,President,,REP,Donald J. TRUMP / JD VANCE,265,106,152,7
+Simpson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,86,40,39,7
+Simpson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
+Simpson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Simpson,C101,President,,,Write In Total,0,0,0,0
+Simpson,C101,President,,,Total Votes,356,147,195,14
+Simpson,C101,President,,,Under Votes,2,2,0,0
+Simpson,C101,President,,,Over Votes,0,0,0,0
+Simpson,C101,U.S. House,1,REP,James R. COMER,266,108,151,7
+Simpson,C101,U.S. House,1,DEM,Erin MARSHALL,80,36,38,6
+Simpson,C101,U.S. House,1,,Total Votes,346,144,189,13
+Simpson,C101,U.S. House,1,,Under Votes,12,5,6,1
+Simpson,C101,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,C101,State House,22,REP,Shawn McPHERSON,278,112,157,9
+Simpson,C101,State House,22,,Total Votes,278,112,157,9
+Simpson,C101,State House,22,,Under Votes,80,37,38,5
+Simpson,C101,State House,22,,Over Votes,0,0,0,0
+Simpson,C101,Commonwealth's Attorney,49,REP,Mike LINDSEY,280,113,158,9
+Simpson,C101,Commonwealth's Attorney,49,,Total Votes,280,113,158,9
+Simpson,C101,Commonwealth's Attorney,49,,Under Votes,78,36,37,5
+Simpson,C101,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,C101,Circuit Clerk,,DEM,Beth Anne FISS,208,81,119,8
+Simpson,C101,Circuit Clerk,,,Total Votes,208,81,119,8
+Simpson,C101,Circuit Clerk,,,Under Votes,150,68,76,6
+Simpson,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,C101,COUNTY SURVEYOR,,,Under Votes,358,149,195,14
+Simpson,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,C101,Board of Education,1,,Write In Total,38,22,15,1
+Simpson,C101,Board of Education,1,,Total Votes,38,22,15,1
+Simpson,C101,Board of Education,1,,Under Votes,320,127,180,13
+Simpson,C101,Board of Education,1,,Over Votes,0,0,0,0
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",135,66,61,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",174,83,83,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",142,65,69,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",142,57,79,6
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",151,51,95,5
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",142,65,68,9
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Total Votes,886,387,455,44
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Under Votes,542,209,321,12
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,0,1,0
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,"YES ",215,85,122,8
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,"NO ",120,52,62,6
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Total Votes,335,137,184,14
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Under Votes,23,12,11,0
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
+Simpson,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,211,89,112,10
+Simpson,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,118,47,68,3
+Simpson,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,329,136,180,13
+Simpson,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,28,12,15,1
+Simpson,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Simpson,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,124,49,70,5
+Simpson,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,217,94,115,8
+Simpson,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,341,143,185,13
+Simpson,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,6,10,1
+Simpson,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,C103,STRAIGHT PARTY,,REP,Republican Party,263,123,135,5
+Simpson,C103,STRAIGHT PARTY,,DEM,Democratic Party,114,47,57,10
+Simpson,C103,STRAIGHT PARTY,,KY,Kentucky Party,4,1,3,0
+Simpson,C103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Simpson,C103,STRAIGHT PARTY,,,Total Votes,381,171,195,15
+Simpson,C103,STRAIGHT PARTY,,,Under Votes,293,144,133,16
+Simpson,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,C103,President,,REP,Donald J. TRUMP / JD VANCE,461,210,238,13
+Simpson,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,203,100,85,18
+Simpson,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,4,3,0
+Simpson,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Simpson,C103,President,,,Write In Total,0,0,0,0
+Simpson,C103,President,,,Total Votes,672,315,326,31
+Simpson,C103,President,,,Under Votes,2,0,2,0
+Simpson,C103,President,,,Over Votes,0,0,0,0
+Simpson,C103,U.S. House,1,REP,James R. COMER,474,223,235,16
+Simpson,C103,U.S. House,1,DEM,Erin MARSHALL,191,90,86,15
+Simpson,C103,U.S. House,1,,Total Votes,665,313,321,31
+Simpson,C103,U.S. House,1,,Under Votes,9,2,7,0
+Simpson,C103,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,C103,State House,22,REP,Shawn McPHERSON,529,245,266,18
+Simpson,C103,State House,22,,Total Votes,529,245,266,18
+Simpson,C103,State House,22,,Under Votes,145,70,62,13
+Simpson,C103,State House,22,,Over Votes,0,0,0,0
+Simpson,C103,Commonwealth's Attorney,49,REP,Mike LINDSEY,531,246,267,18
+Simpson,C103,Commonwealth's Attorney,49,,Total Votes,531,246,267,18
+Simpson,C103,Commonwealth's Attorney,49,,Under Votes,143,69,61,13
+Simpson,C103,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,C103,Circuit Clerk,,DEM,Beth Anne FISS,437,192,223,22
+Simpson,C103,Circuit Clerk,,,Total Votes,437,192,223,22
+Simpson,C103,Circuit Clerk,,,Under Votes,237,123,105,9
+Simpson,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,C103,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,C103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,C103,COUNTY SURVEYOR,,,Under Votes,674,315,328,31
+Simpson,C103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,C103,Board of Education,1,,Write In Total,13,8,4,1
+Simpson,C103,Board of Education,1,,Total Votes,13,8,4,1
+Simpson,C103,Board of Education,1,,Under Votes,219,116,90,13
+Simpson,C103,Board of Education,1,,Over Votes,0,0,0,0
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",244,119,113,12
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",294,142,139,13
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",288,127,146,15
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",267,131,120,16
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",309,140,156,13
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",271,128,127,16
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1673,787,801,85
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Under Votes,1023,473,511,39
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,"YES ",420,175,225,20
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,"NO ",221,124,86,11
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,641,299,311,31
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,31,15,16,0
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,2,1,1,0
+Simpson,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,397,188,195,14
+Simpson,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,251,115,120,16
+Simpson,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,648,303,315,30
+Simpson,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,12,12,1
+Simpson,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Simpson,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,215,101,106,8
+Simpson,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,446,210,214,22
+Simpson,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,661,311,320,30
+Simpson,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,4,8,1
+Simpson,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,C104,STRAIGHT PARTY,,REP,Republican Party,542,231,293,18
+Simpson,C104,STRAIGHT PARTY,,DEM,Democratic Party,180,73,91,16
+Simpson,C104,STRAIGHT PARTY,,KY,Kentucky Party,6,0,6,0
+Simpson,C104,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Simpson,C104,STRAIGHT PARTY,,,Total Votes,732,305,393,34
+Simpson,C104,STRAIGHT PARTY,,,Under Votes,674,261,386,27
+Simpson,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,C104,President,,REP,Donald J. TRUMP / JD VANCE,1069,438,598,33
+Simpson,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,320,126,166,28
+Simpson,C104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Simpson,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
+Simpson,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,6,0,6,0
+Simpson,C104,President,,,Write In Total,0,0,0,0
+Simpson,C104,President,,,Total Votes,1403,565,777,61
+Simpson,C104,President,,,Under Votes,3,1,2,0
+Simpson,C104,President,,,Over Votes,0,0,0,0
+Simpson,C104,U.S. House,1,REP,James R. COMER,1067,429,603,35
+Simpson,C104,U.S. House,1,DEM,Erin MARSHALL,320,126,168,26
+Simpson,C104,U.S. House,1,,Total Votes,1387,555,771,61
+Simpson,C104,U.S. House,1,,Under Votes,19,11,8,0
+Simpson,C104,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,C104,State House,22,REP,Shawn McPHERSON,1147,453,654,40
+Simpson,C104,State House,22,,Total Votes,1147,453,654,40
+Simpson,C104,State House,22,,Under Votes,258,113,124,21
+Simpson,C104,State House,22,,Over Votes,1,0,1,0
+Simpson,C104,Commonwealth's Attorney,49,REP,Mike LINDSEY,1129,449,641,39
+Simpson,C104,Commonwealth's Attorney,49,,Total Votes,1129,449,641,39
+Simpson,C104,Commonwealth's Attorney,49,,Under Votes,276,117,137,22
+Simpson,C104,Commonwealth's Attorney,49,,Over Votes,1,0,1,0
+Simpson,C104,Circuit Clerk,,DEM,Beth Anne FISS,877,325,506,46
+Simpson,C104,Circuit Clerk,,,Total Votes,877,325,506,46
+Simpson,C104,Circuit Clerk,,,Under Votes,529,241,273,15
+Simpson,C104,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,C104,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,C104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,C104,COUNTY SURVEYOR,,,Under Votes,1406,566,779,61
+Simpson,C104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,C104,Board of Education,1,,Write In Total,12,2,10,0
+Simpson,C104,Board of Education,1,,Total Votes,12,2,10,0
+Simpson,C104,Board of Education,1,,Under Votes,280,122,151,7
+Simpson,C104,Board of Education,1,,Over Votes,0,0,0,0
+Simpson,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,941,395,509,37
+Simpson,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,378,136,225,17
+Simpson,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1319,531,734,54
+Simpson,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,82,31,44,7
+Simpson,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,4,1,0
+Simpson,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,476,201,263,12
+Simpson,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,888,351,495,42
+Simpson,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1364,552,758,54
+Simpson,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,40,12,21,7
+Simpson,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,2,0,0
+Simpson,D101,STRAIGHT PARTY,,REP,Republican Party,136,64,67,5
+Simpson,D101,STRAIGHT PARTY,,DEM,Democratic Party,49,21,28,0
+Simpson,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Simpson,D101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Simpson,D101,STRAIGHT PARTY,,,Total Votes,186,85,96,5
+Simpson,D101,STRAIGHT PARTY,,,Under Votes,158,59,93,6
+Simpson,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,D101,President,,REP,Donald J. TRUMP / JD VANCE,260,111,138,11
+Simpson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,80,33,47,0
+Simpson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
+Simpson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Simpson,D101,President,,,Write In Total,0,0,0,0
+Simpson,D101,President,,,Total Votes,344,144,189,11
+Simpson,D101,President,,,Under Votes,0,0,0,0
+Simpson,D101,President,,,Over Votes,0,0,0,0
+Simpson,D101,U.S. House,1,REP,James R. COMER,254,108,137,9
+Simpson,D101,U.S. House,1,DEM,Erin MARSHALL,83,31,51,1
+Simpson,D101,U.S. House,1,,Total Votes,337,139,188,10
+Simpson,D101,U.S. House,1,,Under Votes,7,5,1,1
+Simpson,D101,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,D101,State House,22,REP,Shawn McPHERSON,268,108,149,11
+Simpson,D101,State House,22,,Total Votes,268,108,149,11
+Simpson,D101,State House,22,,Under Votes,75,35,40,0
+Simpson,D101,State House,22,,Over Votes,1,1,0,0
+Simpson,D101,Commonwealth's Attorney,49,REP,Mike LINDSEY,264,106,147,11
+Simpson,D101,Commonwealth's Attorney,49,,Total Votes,264,106,147,11
+Simpson,D101,Commonwealth's Attorney,49,,Under Votes,80,38,42,0
+Simpson,D101,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,D101,Circuit Clerk,,DEM,Beth Anne FISS,219,77,137,5
+Simpson,D101,Circuit Clerk,,,Total Votes,219,77,137,5
+Simpson,D101,Circuit Clerk,,,Under Votes,125,67,52,6
+Simpson,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,D101,COUNTY SURVEYOR,,,Under Votes,344,144,189,11
+Simpson,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,D101,Board of Education,,,,0,0,0,0
+Simpson,D101,Board of Education,,,Total Votes,0,0,0,0
+Simpson,D101,Board of Education,,,Under Votes,344,144,189,11
+Simpson,D101,Board of Education,,,Over Votes,0,0,0,0
+Simpson,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,225,106,108,11
+Simpson,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,100,29,71,0
+Simpson,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,325,135,179,11
+Simpson,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,18,9,9,0
+Simpson,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Simpson,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,141,63,69,9
+Simpson,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,198,77,119,2
+Simpson,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,339,140,188,11
+Simpson,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,5,4,1,0
+Simpson,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,D102,STRAIGHT PARTY,,REP,Republican Party,168,86,76,6
+Simpson,D102,STRAIGHT PARTY,,DEM,Democratic Party,63,35,24,4
+Simpson,D102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Simpson,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Simpson,D102,STRAIGHT PARTY,,,Total Votes,233,121,102,10
+Simpson,D102,STRAIGHT PARTY,,,Under Votes,255,119,125,11
+Simpson,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,D102,President,,REP,Donald J. TRUMP / JD VANCE,384,184,189,11
+Simpson,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,98,55,33,10
+Simpson,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Simpson,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Simpson,D102,President,,,Write In Total,0,0,0,0
+Simpson,D102,President,,,Total Votes,484,240,223,21
+Simpson,D102,President,,,Under Votes,4,0,4,0
+Simpson,D102,President,,,Over Votes,0,0,0,0
+Simpson,D102,U.S. House,1,REP,James R. COMER,373,181,181,11
+Simpson,D102,U.S. House,1,DEM,Erin MARSHALL,101,54,37,10
+Simpson,D102,U.S. House,1,,Total Votes,474,235,218,21
+Simpson,D102,U.S. House,1,,Under Votes,14,5,9,0
+Simpson,D102,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,D102,State House,22,REP,Shawn McPHERSON,392,184,196,12
+Simpson,D102,State House,22,,Total Votes,392,184,196,12
+Simpson,D102,State House,22,,Under Votes,96,56,31,9
+Simpson,D102,State House,22,,Over Votes,0,0,0,0
+Simpson,D102,Commonwealth's Attorney,49,REP,Mike LINDSEY,379,180,189,10
+Simpson,D102,Commonwealth's Attorney,49,,Total Votes,379,180,189,10
+Simpson,D102,Commonwealth's Attorney,49,,Under Votes,109,60,38,11
+Simpson,D102,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,D102,Circuit Clerk,,DEM,Beth Anne FISS,264,119,130,15
+Simpson,D102,Circuit Clerk,,,Total Votes,264,119,130,15
+Simpson,D102,Circuit Clerk,,,Under Votes,223,120,97,6
+Simpson,D102,Circuit Clerk,,,Over Votes,1,1,0,0
+Simpson,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,D102,COUNTY SURVEYOR,,,Under Votes,488,240,227,21
+Simpson,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,D102,Board of Education,1,,Write In Total,90,56,33,1
+Simpson,D102,Board of Education,1,,Total Votes,90,56,33,1
+Simpson,D102,Board of Education,1,,Under Votes,398,184,194,20
+Simpson,D102,Board of Education,1,,Over Votes,0,0,0,0
+Simpson,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,317,145,160,12
+Simpson,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,133,72,53,8
+Simpson,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,450,217,213,20
+Simpson,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,37,23,13,1
+Simpson,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Simpson,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,162,80,80,2
+Simpson,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,311,149,144,18
+Simpson,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,473,229,224,20
+Simpson,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,11,3,1
+Simpson,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,D103,STRAIGHT PARTY,,REP,Republican Party,115,52,62,1
+Simpson,D103,STRAIGHT PARTY,,DEM,Democratic Party,185,81,86,18
+Simpson,D103,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Simpson,D103,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
+Simpson,D103,STRAIGHT PARTY,,,Total Votes,307,135,153,19
+Simpson,D103,STRAIGHT PARTY,,,Under Votes,151,76,68,7
+Simpson,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,D103,President,,REP,Donald J. TRUMP / JD VANCE,185,78,104,3
+Simpson,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,265,131,112,22
+Simpson,D103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Simpson,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
+Simpson,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Simpson,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Simpson,D103,President,,,Write In Total,0,0,0,0
+Simpson,D103,President,,,Total Votes,454,211,218,25
+Simpson,D103,President,,,Under Votes,3,0,2,1
+Simpson,D103,President,,,Over Votes,1,0,1,0
+Simpson,D103,U.S. House,1,REP,James R. COMER,191,81,105,5
+Simpson,D103,U.S. House,1,DEM,Erin MARSHALL,254,122,111,21
+Simpson,D103,U.S. House,1,,Total Votes,445,203,216,26
+Simpson,D103,U.S. House,1,,Under Votes,13,8,5,0
+Simpson,D103,U.S. House,1,,Over Votes,0,0,0,0
+Simpson,D103,State House,22,REP,Shawn McPHERSON,235,101,129,5
+Simpson,D103,State House,22,,Total Votes,235,101,129,5
+Simpson,D103,State House,22,,Under Votes,223,110,92,21
+Simpson,D103,State House,22,,Over Votes,0,0,0,0
+Simpson,D103,Commonwealth's Attorney,49,REP,Mike LINDSEY,235,102,128,5
+Simpson,D103,Commonwealth's Attorney,49,,Total Votes,235,102,128,5
+Simpson,D103,Commonwealth's Attorney,49,,Under Votes,223,109,93,21
+Simpson,D103,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,D103,Circuit Clerk,,DEM,Beth Anne FISS,346,152,171,23
+Simpson,D103,Circuit Clerk,,,Total Votes,346,152,171,23
+Simpson,D103,Circuit Clerk,,,Under Votes,112,59,50,3
+Simpson,D103,Circuit Clerk,,,Over Votes,0,0,0,0
+Simpson,D103,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,D103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,D103,COUNTY SURVEYOR,,,Under Votes,458,211,221,26
+Simpson,D103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,D103,Board of Education,1,,Write In Total,18,10,7,1
+Simpson,D103,Board of Education,1,,Total Votes,18,10,7,1
+Simpson,D103,Board of Education,1,,Under Votes,440,201,214,25
+Simpson,D103,Board of Education,1,,Over Votes,0,0,0,0
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",231,109,109,13
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",144,64,75,5
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",220,116,91,13
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",161,80,72,9
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",138,62,70,6
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",263,122,124,17
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1157,553,541,63
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Under Votes,675,291,343,41
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,"YES ",294,128,149,17
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,"NO ",115,55,54,6
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,409,183,203,23
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,48,27,18,3
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,1,1,0,0
+Simpson,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,222,97,117,8
+Simpson,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,186,84,86,16
+Simpson,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,408,181,203,24
+Simpson,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,49,30,17,2
+Simpson,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Simpson,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,147,53,84,10
+Simpson,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,283,140,128,15
+Simpson,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,430,193,212,25
+Simpson,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,28,18,9,1
+Simpson,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Simpson,D104,STRAIGHT PARTY,,REP,Republican Party,270,84,174,12
+Simpson,D104,STRAIGHT PARTY,,DEM,Democratic Party,144,39,94,11
+Simpson,D104,STRAIGHT PARTY,,KY,Kentucky Party,7,1,6,0
+Simpson,D104,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
+Simpson,D104,STRAIGHT PARTY,,,Total Votes,424,124,277,23
+Simpson,D104,STRAIGHT PARTY,,,Under Votes,276,95,173,8
+Simpson,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Simpson,D104,President,,REP,Donald J. TRUMP / JD VANCE,450,139,296,15
+Simpson,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,229,73,140,16
+Simpson,D104,President,,KY,Jill  STEIN / Samson KPADENOU,5,3,2,0
+Simpson,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
+Simpson,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Simpson,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,2,0
+Simpson,D104,President,,,Write In Total,0,0,0,0
+Simpson,D104,President,,,Total Votes,696,218,447,31
+Simpson,D104,President,,,Under Votes,3,1,2,0
+Simpson,D104,President,,,Over Votes,1,0,1,0
+Simpson,D104,U.S. House,1,REP,James R. COMER,452,140,297,15
+Simpson,D104,U.S. House,1,DEM,Erin MARSHALL,227,74,137,16
+Simpson,D104,U.S. House,1,,Total Votes,679,214,434,31
+Simpson,D104,U.S. House,1,,Under Votes,20,5,15,0
+Simpson,D104,U.S. House,1,,Over Votes,1,0,1,0
+Simpson,D104,State House,22,REP,Shawn McPHERSON,514,148,344,22
+Simpson,D104,State House,22,,Total Votes,514,148,344,22
+Simpson,D104,State House,22,,Under Votes,185,70,106,9
+Simpson,D104,State House,22,,Over Votes,1,1,0,0
+Simpson,D104,Commonwealth's Attorney,49,REP,Mike LINDSEY,512,149,341,22
+Simpson,D104,Commonwealth's Attorney,49,,Total Votes,512,149,341,22
+Simpson,D104,Commonwealth's Attorney,49,,Under Votes,188,70,109,9
+Simpson,D104,Commonwealth's Attorney,49,,Over Votes,0,0,0,0
+Simpson,D104,Circuit Clerk,,DEM,Beth Anne FISS,460,137,304,19
+Simpson,D104,Circuit Clerk,,,Total Votes,460,137,304,19
+Simpson,D104,Circuit Clerk,,,Under Votes,239,82,145,12
+Simpson,D104,Circuit Clerk,,,Over Votes,1,0,1,0
+Simpson,D104,COUNTY SURVEYOR,,,,0,0,0,0
+Simpson,D104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Simpson,D104,COUNTY SURVEYOR,,,Under Votes,700,219,450,31
+Simpson,D104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Simpson,D104,Board of Education,,,,0,0,0,0
+Simpson,D104,Board of Education,,,Total Votes,0,0,0,0
+Simpson,D104,Board of Education,,,Under Votes,700,219,450,31
+Simpson,D104,Board of Education,,,Over Votes,0,0,0,0
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",240,70,151,19
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",237,80,146,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",281,71,195,15
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",223,75,137,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",298,91,196,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",288,82,191,15
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Total Votes,1567,469,1016,82
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Under Votes,1229,407,780,42
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,0,1,0
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,"YES ",452,141,291,20
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,"NO ",198,61,127,10
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Total Votes,650,202,418,30
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Under Votes,49,17,31,1
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Over Votes,1,0,1,0
+Simpson,D104,CONSTITUTIONAL AMENDMENT 1,,,YES,404,142,243,19
+Simpson,D104,CONSTITUTIONAL AMENDMENT 1,,,NO,260,70,181,9
+Simpson,D104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,664,212,424,28
+Simpson,D104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,7,25,3
+Simpson,D104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Simpson,D104,CONSTITUTIONAL AMENDMENT 2,,,YES,237,83,145,9
+Simpson,D104,CONSTITUTIONAL AMENDMENT 2,,,NO,434,132,285,17
+Simpson,D104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,671,215,430,26
+Simpson,D104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,28,4,19,5
+Simpson,D104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0

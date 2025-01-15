@@ -1,0 +1,498 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Trigg,A100,STRAIGHT PARTY,,REP,Republican Party,398,153,222,23
+Trigg,A100,STRAIGHT PARTY,,DEM,Democratic Party,134,58,67,9
+Trigg,A100,STRAIGHT PARTY,,KY,Kentucky Party,3,2,1,0
+Trigg,A100,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Trigg,A100,STRAIGHT PARTY,,,Total Votes,537,213,292,32
+Trigg,A100,STRAIGHT PARTY,,,Under Votes,508,218,256,34
+Trigg,A100,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Trigg,A100,President,,REP,Donald J. TRUMP / JD VANCE,765,309,412,44
+Trigg,A100,President,,DEM,Kamala D. HARRIS / Tim WALZ,270,117,131,22
+Trigg,A100,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Trigg,A100,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
+Trigg,A100,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
+Trigg,A100,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Trigg,A100,President,,,Total Votes,1042,428,548,66
+Trigg,A100,President,,,Under Votes,4,3,1,0
+Trigg,A100,President,,,Over Votes,1,0,1,0
+Trigg,A100,U.S. House,1,REP,James R. COMER,783,313,427,43
+Trigg,A100,U.S. House,1,DEM,Erin MARSHALL,245,109,116,20
+Trigg,A100,U.S. House,1,,Total Votes,1028,422,543,63
+Trigg,A100,U.S. House,1,,Under Votes,19,9,7,3
+Trigg,A100,U.S. House,1,,Over Votes,0,0,0,0
+Trigg,A100,State Senate,1,REP,Jason G. HOWELL,814,318,451,45
+Trigg,A100,State Senate,1,,Total Votes,814,318,451,45
+Trigg,A100,State Senate,1,,Under Votes,233,113,99,21
+Trigg,A100,State Senate,1,,Over Votes,0,0,0,0
+Trigg,A100,State House,8,REP,Walker Wood THOMAS,830,327,456,47
+Trigg,A100,State House,8,,Total Votes,830,327,456,47
+Trigg,A100,State House,8,,Under Votes,217,104,94,19
+Trigg,A100,State House,8,,Over Votes,0,0,0,0
+Trigg,A100,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,814,319,449,46
+Trigg,A100,Commonwealth's Attorney,56,,Total Votes,814,319,449,46
+Trigg,A100,Commonwealth's Attorney,56,,Under Votes,233,112,101,20
+Trigg,A100,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,A100,Circuit Clerk,,REP,Lisa Fuller THOMAS,850,336,467,47
+Trigg,A100,Circuit Clerk,,,Total Votes,850,336,467,47
+Trigg,A100,Circuit Clerk,,,Under Votes,197,95,83,19
+Trigg,A100,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,A100,CONSTABLE,,,,0,0,0,0
+Trigg,A100,CONSTABLE,,,Total Votes,0,0,0,0
+Trigg,A100,CONSTABLE,,,Under Votes,1047,431,550,66
+Trigg,A100,CONSTABLE,,,Over Votes,0,0,0,0
+Trigg,A100,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",380,148,207,25
+Trigg,A100,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",364,152,194,18
+Trigg,A100,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,744,300,401,43
+Trigg,A100,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,303,131,149,23
+Trigg,A100,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Trigg,A100,Board of Education,2,,Earl WADE SR.,230,88,134,8
+Trigg,A100,Board of Education,2,,Mindy Golladay HARGROVE,359,145,190,24
+Trigg,A100,Board of Education,2,,Gayle RUFLI,163,89,62,12
+Trigg,A100,Board of Education,2,,Total Votes,752,322,386,44
+Trigg,A100,Board of Education,2,,Under Votes,191,74,99,18
+Trigg,A100,Board of Education,2,,Over Votes,3,1,2,0
+Trigg,A100,Board of Education,5,,Theresa ALLEN,68,23,42,3
+Trigg,A100,Board of Education,5,,Susan M. ZAUGG,13,5,7,1
+Trigg,A100,Board of Education,5,,Total Votes,81,28,49,4
+Trigg,A100,Board of Education,5,,Under Votes,20,6,14,0
+Trigg,A100,Board of Education,5,,Over Votes,0,0,0,0
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Susie HENDRICKS ",280,119,143,18
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Todd WALLACE ",241,108,118,15
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Tim BRIDGES ",234,104,117,13
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Bob NOEL ",224,95,115,14
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Susan BRYANT ",238,103,114,21
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Brenda K. PRICE ",253,107,134,12
+Trigg,A100,CITY COUNCIL City of Cadiz,,,"Brian FUTRELL ",216,73,124,19
+Trigg,A100,CITY COUNCIL City of Cadiz,,,Total Votes,1686,709,865,112
+Trigg,A100,CITY COUNCIL City of Cadiz,,,Under Votes,1404,581,725,98
+Trigg,A100,CITY COUNCIL City of Cadiz,,,Over Votes,2,1,1,0
+Trigg,A100,QUESTION-CADIZ CANNABIS,,,"YES ",311,120,172,19
+Trigg,A100,QUESTION-CADIZ CANNABIS,,,"NO ",170,78,78,14
+Trigg,A100,QUESTION-CADIZ CANNABIS,,,Total Votes,481,198,250,33
+Trigg,A100,QUESTION-CADIZ CANNABIS,,,Under Votes,36,18,16,2
+Trigg,A100,QUESTION-CADIZ CANNABIS,,,Over Votes,0,0,0,0
+Trigg,A100,CONSTITUTIONAL AMENDMENT 1,,,YES,637,266,332,39
+Trigg,A100,CONSTITUTIONAL AMENDMENT 1,,,NO,338,129,189,20
+Trigg,A100,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,975,395,521,59
+Trigg,A100,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,71,36,28,7
+Trigg,A100,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Trigg,A100,CONSTITUTIONAL AMENDMENT 2,,,YES,346,127,197,22
+Trigg,A100,CONSTITUTIONAL AMENDMENT 2,,,NO,656,286,331,39
+Trigg,A100,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1002,413,528,61
+Trigg,A100,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,45,18,22,5
+Trigg,A100,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Trigg,A100,QUESTION-TRIGG CANNABIS,,,YES,618,225,356,37
+Trigg,A100,QUESTION-TRIGG CANNABIS,,,NO,383,189,170,24
+Trigg,A100,QUESTION-TRIGG CANNABIS,,,Total Votes,1001,414,526,61
+Trigg,A100,QUESTION-TRIGG CANNABIS,,,Under Votes,45,17,23,5
+Trigg,A100,QUESTION-TRIGG CANNABIS,,,Over Votes,1,0,1,0
+Trigg,B200,STRAIGHT PARTY,,REP,Republican Party,515,219,268,28
+Trigg,B200,STRAIGHT PARTY,,DEM,Democratic Party,139,46,74,19
+Trigg,B200,STRAIGHT PARTY,,KY,Kentucky Party,8,2,6,0
+Trigg,B200,STRAIGHT PARTY,,LIB,Libertarian Party,3,1,2,0
+Trigg,B200,STRAIGHT PARTY,,,Total Votes,665,268,350,47
+Trigg,B200,STRAIGHT PARTY,,,Under Votes,599,247,317,35
+Trigg,B200,STRAIGHT PARTY,,,Over Votes,3,0,3,0
+Trigg,B200,President,,REP,Donald J. TRUMP / JD VANCE,963,402,511,50
+Trigg,B200,President,,DEM,Kamala D. HARRIS / Tim WALZ,272,107,136,29
+Trigg,B200,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Trigg,B200,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,1,12,0
+Trigg,B200,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Trigg,B200,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Trigg,B200,President,,,Total Votes,1253,511,663,79
+Trigg,B200,President,,,Under Votes,13,4,6,3
+Trigg,B200,President,,,Over Votes,1,0,1,0
+Trigg,B200,U.S. House,1,REP,James R. COMER,977,407,519,51
+Trigg,B200,U.S. House,1,DEM,Erin MARSHALL,266,102,137,27
+Trigg,B200,U.S. House,1,,Total Votes,1243,509,656,78
+Trigg,B200,U.S. House,1,,Under Votes,24,6,14,4
+Trigg,B200,U.S. House,1,,Over Votes,0,0,0,0
+Trigg,B200,State Senate,1,REP,Jason G. HOWELL,1026,413,559,54
+Trigg,B200,State Senate,1,,Total Votes,1026,413,559,54
+Trigg,B200,State Senate,1,,Under Votes,241,102,111,28
+Trigg,B200,State Senate,1,,Over Votes,0,0,0,0
+Trigg,B200,State House,5,REP,Mary Beth IMES,927,389,487,51
+Trigg,B200,State House,5,DEM,Lauren HINES,313,117,168,28
+Trigg,B200,State House,5,,Total Votes,1240,506,655,79
+Trigg,B200,State House,5,,Under Votes,27,9,15,3
+Trigg,B200,State House,5,,Over Votes,0,0,0,0
+Trigg,B200,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,1047,421,570,56
+Trigg,B200,Commonwealth's Attorney,56,,Total Votes,1047,421,570,56
+Trigg,B200,Commonwealth's Attorney,56,,Under Votes,220,94,100,26
+Trigg,B200,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,B200,Circuit Clerk,,REP,Lisa Fuller THOMAS,1063,432,576,55
+Trigg,B200,Circuit Clerk,,,Total Votes,1063,432,576,55
+Trigg,B200,Circuit Clerk,,,Under Votes,204,83,94,27
+Trigg,B200,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,B200,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",480,187,263,30
+Trigg,B200,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",421,161,228,32
+Trigg,B200,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,901,348,491,62
+Trigg,B200,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,365,167,178,20
+Trigg,B200,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Trigg,B200,Board of Education,2,,Earl WADE SR.,108,44,57,7
+Trigg,B200,Board of Education,2,,Mindy Golladay HARGROVE,166,66,86,14
+Trigg,B200,Board of Education,2,,Gayle RUFLI,74,40,29,5
+Trigg,B200,Board of Education,2,,Total Votes,348,150,172,26
+Trigg,B200,Board of Education,2,,Under Votes,79,38,36,5
+Trigg,B200,Board of Education,2,,Over Votes,0,0,0,0
+Trigg,B200,CONSTITUTIONAL AMENDMENT 1,,,"YES ",822,326,440,56
+Trigg,B200,CONSTITUTIONAL AMENDMENT 1,,,"NO ",350,145,185,20
+Trigg,B200,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1172,471,625,76
+Trigg,B200,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,92,44,42,6
+Trigg,B200,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Trigg,B200,CONSTITUTIONAL AMENDMENT 2,,,"YES ",443,186,224,33
+Trigg,B200,CONSTITUTIONAL AMENDMENT 2,,,"NO ",775,308,426,41
+Trigg,B200,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1218,494,650,74
+Trigg,B200,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,49,21,20,8
+Trigg,B200,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Trigg,B200,QUESTION-TRIGG CANNABIS,,,YES,773,289,433,51
+Trigg,B200,QUESTION-TRIGG CANNABIS,,,NO,443,197,218,28
+Trigg,B200,QUESTION-TRIGG CANNABIS,,,Total Votes,1216,486,651,79
+Trigg,B200,QUESTION-TRIGG CANNABIS,,,Under Votes,51,29,19,3
+Trigg,B200,QUESTION-TRIGG CANNABIS,,,Over Votes,0,0,0,0
+Trigg,C300,STRAIGHT PARTY,,REP,Republican Party,364,137,213,14
+Trigg,C300,STRAIGHT PARTY,,DEM,Democratic Party,133,44,83,6
+Trigg,C300,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
+Trigg,C300,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
+Trigg,C300,STRAIGHT PARTY,,,Total Votes,505,182,303,20
+Trigg,C300,STRAIGHT PARTY,,,Under Votes,510,193,279,38
+Trigg,C300,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Trigg,C300,President,,REP,Donald J. TRUMP / JD VANCE,744,275,430,39
+Trigg,C300,President,,DEM,Kamala D. HARRIS / Tim WALZ,247,93,137,17
+Trigg,C300,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Trigg,C300,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,4,9,0
+Trigg,C300,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Trigg,C300,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Trigg,C300,President,,,Total Votes,1007,373,578,56
+Trigg,C300,President,,,Under Votes,8,2,4,2
+Trigg,C300,President,,,Over Votes,0,0,0,0
+Trigg,C300,U.S. House,1,REP,James R. COMER,749,276,431,42
+Trigg,C300,U.S. House,1,DEM,Erin MARSHALL,247,94,139,14
+Trigg,C300,U.S. House,1,,Total Votes,996,370,570,56
+Trigg,C300,U.S. House,1,,Under Votes,19,5,12,2
+Trigg,C300,U.S. House,1,,Over Votes,0,0,0,0
+Trigg,C300,State Senate,1,REP,Jason G. HOWELL,812,298,471,43
+Trigg,C300,State Senate,1,,Total Votes,812,298,471,43
+Trigg,C300,State Senate,1,,Under Votes,202,77,110,15
+Trigg,C300,State Senate,1,,Over Votes,1,0,1,0
+Trigg,C300,State House,8,REP,Walker Wood THOMAS,808,295,468,45
+Trigg,C300,State House,8,,Total Votes,808,295,468,45
+Trigg,C300,State House,8,,Under Votes,207,80,114,13
+Trigg,C300,State House,8,,Over Votes,0,0,0,0
+Trigg,C300,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,820,305,470,45
+Trigg,C300,Commonwealth's Attorney,56,,Total Votes,820,305,470,45
+Trigg,C300,Commonwealth's Attorney,56,,Under Votes,195,70,112,13
+Trigg,C300,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,C300,Circuit Clerk,,REP,Lisa Fuller THOMAS,829,307,479,43
+Trigg,C300,Circuit Clerk,,,Total Votes,829,307,479,43
+Trigg,C300,Circuit Clerk,,,Under Votes,186,68,103,15
+Trigg,C300,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,C300,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",351,128,207,16
+Trigg,C300,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",414,157,233,24
+Trigg,C300,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,765,285,440,40
+Trigg,C300,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,249,89,142,18
+Trigg,C300,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,1,0,0
+Trigg,C300,Board of Education,5,,Theresa ALLEN,127,58,58,11
+Trigg,C300,Board of Education,5,,Susan M. ZAUGG,26,5,20,1
+Trigg,C300,Board of Education,5,,Total Votes,153,63,78,12
+Trigg,C300,Board of Education,5,,Under Votes,24,10,13,1
+Trigg,C300,Board of Education,5,,Over Votes,1,0,1,0
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Susie HENDRICKS ",280,105,157,18
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Todd WALLACE ",234,87,134,13
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Tim BRIDGES ",234,93,126,15
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Bob NOEL ",239,90,131,18
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Susan BRYANT ",282,97,166,19
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Brenda K. PRICE ",267,102,150,15
+Trigg,C300,CITY COUNCIL City of Cadiz,,,"Brian FUTRELL ",224,68,143,13
+Trigg,C300,CITY COUNCIL City of Cadiz,,,Total Votes,1760,642,1007,111
+Trigg,C300,CITY COUNCIL City of Cadiz,,,Under Votes,1312,426,823,63
+Trigg,C300,CITY COUNCIL City of Cadiz,,,Over Votes,1,0,1,0
+Trigg,C300,QUESTION-CADIZ CANNABIS,,,YES,333,95,222,16
+Trigg,C300,QUESTION-CADIZ CANNABIS,,,NO,146,69,66,11
+Trigg,C300,QUESTION-CADIZ CANNABIS,,,Total Votes,479,164,288,27
+Trigg,C300,QUESTION-CADIZ CANNABIS,,,Under Votes,32,14,16,2
+Trigg,C300,QUESTION-CADIZ CANNABIS,,,Over Votes,2,0,2,0
+Trigg,C300,CONSTITUTIONAL AMENDMENT 1,,,YES,601,223,343,35
+Trigg,C300,CONSTITUTIONAL AMENDMENT 1,,,NO,348,128,202,18
+Trigg,C300,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,949,351,545,53
+Trigg,C300,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,63,22,36,5
+Trigg,C300,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Trigg,C300,CONSTITUTIONAL AMENDMENT 2,,,YES,331,132,181,18
+Trigg,C300,CONSTITUTIONAL AMENDMENT 2,,,NO,639,227,373,39
+Trigg,C300,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,970,359,554,57
+Trigg,C300,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,16,27,1
+Trigg,C300,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Trigg,C300,QUESTION-TRIGG CANNABIS,,,YES,612,196,392,24
+Trigg,C300,QUESTION-TRIGG CANNABIS,,,NO,352,158,162,32
+Trigg,C300,QUESTION-TRIGG CANNABIS,,,Total Votes,964,354,554,56
+Trigg,C300,QUESTION-TRIGG CANNABIS,,,Under Votes,49,21,26,2
+Trigg,C300,QUESTION-TRIGG CANNABIS,,,Over Votes,2,0,2,0
+Trigg,D400,STRAIGHT PARTY,,REP,Republican Party,343,91,241,11
+Trigg,D400,STRAIGHT PARTY,,DEM,Democratic Party,156,44,101,11
+Trigg,D400,STRAIGHT PARTY,,KY,Kentucky Party,7,1,4,2
+Trigg,D400,STRAIGHT PARTY,,LIB,Libertarian Party,3,2,1,0
+Trigg,D400,STRAIGHT PARTY,,,Total Votes,509,138,347,24
+Trigg,D400,STRAIGHT PARTY,,,Under Votes,395,92,277,26
+Trigg,D400,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Trigg,D400,President,,REP,Donald J. TRUMP / JD VANCE,644,158,466,20
+Trigg,D400,President,,DEM,Kamala D. HARRIS / Tim WALZ,243,70,147,26
+Trigg,D400,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Trigg,D400,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,4,2
+Trigg,D400,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
+Trigg,D400,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Trigg,D400,President,,,Total Votes,898,229,620,49
+Trigg,D400,President,,,Under Votes,4,1,2,1
+Trigg,D400,President,,,Over Votes,2,0,2,0
+Trigg,D400,U.S. House,1,REP,James R. COMER,639,155,463,21
+Trigg,D400,U.S. House,1,DEM,Erin MARSHALL,253,73,153,27
+Trigg,D400,U.S. House,1,,Total Votes,892,228,616,48
+Trigg,D400,U.S. House,1,,Under Votes,10,2,6,2
+Trigg,D400,U.S. House,1,,Over Votes,2,0,2,0
+Trigg,D400,State Senate,1,REP,Jason G. HOWELL,696,164,502,30
+Trigg,D400,State Senate,1,,Total Votes,696,164,502,30
+Trigg,D400,State Senate,1,,Under Votes,208,66,122,20
+Trigg,D400,State Senate,1,,Over Votes,0,0,0,0
+Trigg,D400,State House,8,REP,Walker Wood THOMAS,701,168,505,28
+Trigg,D400,State House,8,,Total Votes,701,168,505,28
+Trigg,D400,State House,8,,Under Votes,203,62,119,22
+Trigg,D400,State House,8,,Over Votes,0,0,0,0
+Trigg,D400,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,711,168,512,31
+Trigg,D400,Commonwealth's Attorney,56,,Total Votes,711,168,512,31
+Trigg,D400,Commonwealth's Attorney,56,,Under Votes,192,62,111,19
+Trigg,D400,Commonwealth's Attorney,56,,Over Votes,1,0,1,0
+Trigg,D400,Circuit Clerk,,REP,Lisa Fuller THOMAS,743,176,534,33
+Trigg,D400,Circuit Clerk,,,Total Votes,743,176,534,33
+Trigg,D400,Circuit Clerk,,,Under Votes,161,54,90,17
+Trigg,D400,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,D400,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",318,82,220,16
+Trigg,D400,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",362,85,258,19
+Trigg,D400,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,680,167,478,35
+Trigg,D400,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,223,63,145,15
+Trigg,D400,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Trigg,D400,Board of Education,5,,Theresa ALLEN,414,80,318,16
+Trigg,D400,Board of Education,5,,Susan M. ZAUGG,53,11,36,6
+Trigg,D400,Board of Education,5,,Total Votes,467,91,354,22
+Trigg,D400,Board of Education,5,,Under Votes,104,25,74,5
+Trigg,D400,Board of Education,5,,Over Votes,1,0,1,0
+Trigg,D400,CONSTITUTIONAL AMENDMENT 1,,,"YES ",574,134,409,31
+Trigg,D400,CONSTITUTIONAL AMENDMENT 1,,,"NO ",275,75,183,17
+Trigg,D400,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,849,209,592,48
+Trigg,D400,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,52,21,29,2
+Trigg,D400,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Trigg,D400,CONSTITUTIONAL AMENDMENT 2,,,"YES ",274,64,195,15
+Trigg,D400,CONSTITUTIONAL AMENDMENT 2,,,"NO ",603,161,409,33
+Trigg,D400,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,877,225,604,48
+Trigg,D400,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,26,5,19,2
+Trigg,D400,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Trigg,D400,QUESTION-TRIGG CANNABIS,,,YES,596,149,413,34
+Trigg,D400,QUESTION-TRIGG CANNABIS,,,NO,283,76,192,15
+Trigg,D400,QUESTION-TRIGG CANNABIS,,,Total Votes,879,225,605,49
+Trigg,D400,QUESTION-TRIGG CANNABIS,,,Under Votes,25,5,19,1
+Trigg,D400,QUESTION-TRIGG CANNABIS,,,Over Votes,0,0,0,0
+Trigg,E500,STRAIGHT PARTY,,REP,Republican Party,250,75,167,8
+Trigg,E500,STRAIGHT PARTY,,DEM,Democratic Party,94,33,55,6
+Trigg,E500,STRAIGHT PARTY,,KY,Kentucky Party,5,2,3,0
+Trigg,E500,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,2,1
+Trigg,E500,STRAIGHT PARTY,,,Total Votes,353,111,227,15
+Trigg,E500,STRAIGHT PARTY,,,Under Votes,376,129,233,14
+Trigg,E500,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Trigg,E500,President,,REP,Donald J. TRUMP / JD VANCE,546,179,348,19
+Trigg,E500,President,,DEM,Kamala D. HARRIS / Tim WALZ,157,55,94,8
+Trigg,E500,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Trigg,E500,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,2,8,1
+Trigg,E500,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Trigg,E500,President,,LIB,Chase OLIVER / Mike TER MAAT,5,0,4,1
+Trigg,E500,President,,,Total Votes,722,237,456,29
+Trigg,E500,President,,,Under Votes,4,3,1,0
+Trigg,E500,President,,,Over Votes,4,0,4,0
+Trigg,E500,U.S. House,1,REP,James R. COMER,568,186,361,21
+Trigg,E500,U.S. House,1,DEM,Erin MARSHALL,152,51,93,8
+Trigg,E500,U.S. House,1,,Total Votes,720,237,454,29
+Trigg,E500,U.S. House,1,,Under Votes,10,3,7,0
+Trigg,E500,U.S. House,1,,Over Votes,0,0,0,0
+Trigg,E500,State Senate,1,REP,Jason G. HOWELL,599,191,387,21
+Trigg,E500,State Senate,1,,Total Votes,599,191,387,21
+Trigg,E500,State Senate,1,,Under Votes,131,49,74,8
+Trigg,E500,State Senate,1,,Over Votes,0,0,0,0
+Trigg,E500,State House,8,REP,Walker Wood THOMAS,609,194,394,21
+Trigg,E500,State House,8,,Total Votes,609,194,394,21
+Trigg,E500,State House,8,,Under Votes,121,46,67,8
+Trigg,E500,State House,8,,Over Votes,0,0,0,0
+Trigg,E500,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,596,192,384,20
+Trigg,E500,Commonwealth's Attorney,56,,Total Votes,596,192,384,20
+Trigg,E500,Commonwealth's Attorney,56,,Under Votes,134,48,77,9
+Trigg,E500,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,E500,Circuit Clerk,,REP,Lisa Fuller THOMAS,616,194,400,22
+Trigg,E500,Circuit Clerk,,,Total Votes,616,194,400,22
+Trigg,E500,Circuit Clerk,,,Under Votes,114,46,61,7
+Trigg,E500,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,E500,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",272,82,183,7
+Trigg,E500,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",293,100,181,12
+Trigg,E500,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,565,182,364,19
+Trigg,E500,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,165,58,97,10
+Trigg,E500,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Trigg,E500,Board of Education,5,,Theresa ALLEN,512,161,334,17
+Trigg,E500,Board of Education,5,,Susan M. ZAUGG,75,21,51,3
+Trigg,E500,Board of Education,5,,Total Votes,587,182,385,20
+Trigg,E500,Board of Education,5,,Under Votes,143,58,76,9
+Trigg,E500,Board of Education,5,,Over Votes,0,0,0,0
+Trigg,E500,CONSTITUTIONAL AMENDMENT 1,,,"YES ",479,163,296,20
+Trigg,E500,CONSTITUTIONAL AMENDMENT 1,,,"NO ",212,64,140,8
+Trigg,E500,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,691,227,436,28
+Trigg,E500,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,13,25,1
+Trigg,E500,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Trigg,E500,CONSTITUTIONAL AMENDMENT 2,,,"YES ",265,99,152,14
+Trigg,E500,CONSTITUTIONAL AMENDMENT 2,,,"NO ",438,133,292,13
+Trigg,E500,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,703,232,444,27
+Trigg,E500,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,27,8,17,2
+Trigg,E500,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Trigg,E500,QUESTION-TRIGG CANNABIS,,,YES,439,125,298,16
+Trigg,E500,QUESTION-TRIGG CANNABIS,,,NO,268,105,151,12
+Trigg,E500,QUESTION-TRIGG CANNABIS,,,Total Votes,707,230,449,28
+Trigg,E500,QUESTION-TRIGG CANNABIS,,,Under Votes,23,10,12,1
+Trigg,E500,QUESTION-TRIGG CANNABIS,,,Over Votes,0,0,0,0
+Trigg,F600,STRAIGHT PARTY,,REP,Republican Party,501,188,296,17
+Trigg,F600,STRAIGHT PARTY,,DEM,Democratic Party,108,33,63,12
+Trigg,F600,STRAIGHT PARTY,,KY,Kentucky Party,7,1,4,2
+Trigg,F600,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,2,1
+Trigg,F600,STRAIGHT PARTY,,,Total Votes,620,223,365,32
+Trigg,F600,STRAIGHT PARTY,,,Under Votes,529,174,330,25
+Trigg,F600,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Trigg,F600,President,,REP,Donald J. TRUMP / JD VANCE,931,323,571,37
+Trigg,F600,President,,DEM,Kamala D. HARRIS / Tim WALZ,197,71,106,20
+Trigg,F600,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Trigg,F600,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,6,0
+Trigg,F600,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Trigg,F600,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
+Trigg,F600,President,,,Total Votes,1140,396,687,57
+Trigg,F600,President,,,Under Votes,9,1,8,0
+Trigg,F600,President,,,Over Votes,1,0,1,0
+Trigg,F600,U.S. House,1,REP,James R. COMER,940,328,578,34
+Trigg,F600,U.S. House,1,DEM,Erin MARSHALL,195,65,109,21
+Trigg,F600,U.S. House,1,,Total Votes,1135,393,687,55
+Trigg,F600,U.S. House,1,,Under Votes,14,4,8,2
+Trigg,F600,U.S. House,1,,Over Votes,1,0,1,0
+Trigg,F600,State Senate,1,REP,Jason G. HOWELL,961,331,591,39
+Trigg,F600,State Senate,1,,Total Votes,961,331,591,39
+Trigg,F600,State Senate,1,,Under Votes,189,66,105,18
+Trigg,F600,State Senate,1,,Over Votes,0,0,0,0
+Trigg,F600,State House,5,REP,Mary Beth IMES,892,313,545,34
+Trigg,F600,State House,5,DEM,Lauren HINES,229,76,132,21
+Trigg,F600,State House,5,,Total Votes,1121,389,677,55
+Trigg,F600,State House,5,,Under Votes,29,8,19,2
+Trigg,F600,State House,5,,Over Votes,0,0,0,0
+Trigg,F600,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,971,339,594,38
+Trigg,F600,Commonwealth's Attorney,56,,Total Votes,971,339,594,38
+Trigg,F600,Commonwealth's Attorney,56,,Under Votes,179,58,102,19
+Trigg,F600,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,F600,Circuit Clerk,,REP,Lisa Fuller THOMAS,985,341,603,41
+Trigg,F600,Circuit Clerk,,,Total Votes,985,341,603,41
+Trigg,F600,Circuit Clerk,,,Under Votes,165,56,93,16
+Trigg,F600,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,F600,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",425,152,251,22
+Trigg,F600,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",354,112,227,15
+Trigg,F600,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,779,264,478,37
+Trigg,F600,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,370,133,217,20
+Trigg,F600,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+Trigg,F600,CONSTITUTIONAL AMENDMENT 1,,,YES,777,280,455,42
+Trigg,F600,CONSTITUTIONAL AMENDMENT 1,,,NO,294,99,185,10
+Trigg,F600,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1071,379,640,52
+Trigg,F600,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,77,18,54,5
+Trigg,F600,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Trigg,F600,CONSTITUTIONAL AMENDMENT 2,,,YES,435,160,240,35
+Trigg,F600,CONSTITUTIONAL AMENDMENT 2,,,NO,680,227,435,18
+Trigg,F600,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1115,387,675,53
+Trigg,F600,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,35,10,21,4
+Trigg,F600,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Trigg,F600,QUESTION-TRIGG CANNABIS,,,YES,713,232,442,39
+Trigg,F600,QUESTION-TRIGG CANNABIS,,,NO,401,156,230,15
+Trigg,F600,QUESTION-TRIGG CANNABIS,,,Total Votes,1114,388,672,54
+Trigg,F600,QUESTION-TRIGG CANNABIS,,,Under Votes,35,9,23,3
+Trigg,F600,QUESTION-TRIGG CANNABIS,,,Over Votes,1,0,1,0
+Trigg,G700,STRAIGHT PARTY,,REP,Republican Party,447,152,261,34
+Trigg,G700,STRAIGHT PARTY,,DEM,Democratic Party,155,47,92,16
+Trigg,G700,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Trigg,G700,STRAIGHT PARTY,,LIB,Libertarian Party,5,2,3,0
+Trigg,G700,STRAIGHT PARTY,,,Total Votes,609,201,358,50
+Trigg,G700,STRAIGHT PARTY,,,Under Votes,537,152,361,24
+Trigg,G700,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Trigg,G700,President,,REP,Donald J. TRUMP / JD VANCE,843,256,534,53
+Trigg,G700,President,,DEM,Kamala D. HARRIS / Tim WALZ,281,95,168,18
+Trigg,G700,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Trigg,G700,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,3,2
+Trigg,G700,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Trigg,G700,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Trigg,G700,President,,,Total Votes,1134,352,709,73
+Trigg,G700,President,,,Under Votes,11,1,9,1
+Trigg,G700,President,,,Over Votes,1,0,1,0
+Trigg,G700,U.S. House,1,REP,James R. COMER,853,262,536,55
+Trigg,G700,U.S. House,1,DEM,Erin MARSHALL,275,87,170,18
+Trigg,G700,U.S. House,1,,Total Votes,1128,349,706,73
+Trigg,G700,U.S. House,1,,Under Votes,18,4,13,1
+Trigg,G700,U.S. House,1,,Over Votes,0,0,0,0
+Trigg,G700,State Senate,1,REP,Jason G. HOWELL,898,275,566,57
+Trigg,G700,State Senate,1,,Total Votes,898,275,566,57
+Trigg,G700,State Senate,1,,Under Votes,247,78,152,17
+Trigg,G700,State Senate,1,,Over Votes,1,0,1,0
+Trigg,G700,State House,5,REP,Mary Beth IMES,808,253,505,50
+Trigg,G700,State House,5,DEM,Lauren HINES,308,93,193,22
+Trigg,G700,State House,5,,Total Votes,1116,346,698,72
+Trigg,G700,State House,5,,Under Votes,30,7,21,2
+Trigg,G700,State House,5,,Over Votes,0,0,0,0
+Trigg,G700,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,918,281,580,57
+Trigg,G700,Commonwealth's Attorney,56,,Total Votes,918,281,580,57
+Trigg,G700,Commonwealth's Attorney,56,,Under Votes,228,72,139,17
+Trigg,G700,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Trigg,G700,Circuit Clerk,,REP,Lisa Fuller THOMAS,926,281,588,57
+Trigg,G700,Circuit Clerk,,,Total Votes,926,281,588,57
+Trigg,G700,Circuit Clerk,,,Under Votes,220,72,131,17
+Trigg,G700,Circuit Clerk,,,Over Votes,0,0,0,0
+Trigg,G700,CONSTABLE,,,,0,0,0,0
+Trigg,G700,CONSTABLE,,,Total Votes,0,0,0,0
+Trigg,G700,CONSTABLE,,,Under Votes,1146,353,719,74
+Trigg,G700,CONSTABLE,,,Over Votes,0,0,0,0
+Trigg,G700,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Lisa Payne JONES ",425,130,276,19
+Trigg,G700,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,"Jason Shea FLEMING ",348,98,222,28
+Trigg,G700,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,773,228,498,47
+Trigg,G700,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,373,125,221,27
+Trigg,G700,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Trigg,G700,Board of Education,2,,Earl WADE SR.,39,20,19,0
+Trigg,G700,Board of Education,2,,Mindy Golladay HARGROVE,61,29,32,0
+Trigg,G700,Board of Education,2,,Gayle RUFLI,16,4,11,1
+Trigg,G700,Board of Education,2,,Total Votes,116,53,62,1
+Trigg,G700,Board of Education,2,,Under Votes,29,12,11,6
+Trigg,G700,Board of Education,2,,Over Votes,0,0,0,0
+Trigg,G700,Board of Education,4,,Jo Alyce HARPER,595,151,407,37
+Trigg,G700,Board of Education,4,,Total Votes,595,151,407,37
+Trigg,G700,Board of Education,4,,Under Votes,406,137,239,30
+Trigg,G700,Board of Education,4,,Over Votes,0,0,0,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Susie HENDRICKS ",30,14,16,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Todd WALLACE ",25,11,14,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Tim BRIDGES ",24,10,14,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Bob NOEL ",25,11,14,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Susan BRYANT ",32,14,18,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Brenda K. PRICE ",24,12,12,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,"Brian FUTRELL ",28,6,22,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,Total Votes,188,78,110,0
+Trigg,G700,CITY COUNCIL City of Cadiz,,,Under Votes,262,108,142,12
+Trigg,G700,CITY COUNCIL City of Cadiz,,,Over Votes,0,0,0,0
+Trigg,G700,QUESTION-CADIZ CANNABIS,,,"YES ",46,21,24,1
+Trigg,G700,QUESTION-CADIZ CANNABIS,,,"NO ",20,7,13,0
+Trigg,G700,QUESTION-CADIZ CANNABIS,,,Total Votes,66,28,37,1
+Trigg,G700,QUESTION-CADIZ CANNABIS,,,Under Votes,9,3,5,1
+Trigg,G700,QUESTION-CADIZ CANNABIS,,,Over Votes,0,0,0,0
+Trigg,G700,CONSTITUTIONAL AMENDMENT 1,,,YES,669,211,408,50
+Trigg,G700,CONSTITUTIONAL AMENDMENT 1,,,NO,381,115,250,16
+Trigg,G700,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1050,326,658,66
+Trigg,G700,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,90,26,56,8
+Trigg,G700,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,1,5,0
+Trigg,G700,CONSTITUTIONAL AMENDMENT 2,,,YES,404,154,218,32
+Trigg,G700,CONSTITUTIONAL AMENDMENT 2,,,NO,684,183,463,38
+Trigg,G700,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1088,337,681,70
+Trigg,G700,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,57,16,37,4
+Trigg,G700,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Trigg,G700,QUESTION-TRIGG CANNABIS,,,YES,648,191,424,33
+Trigg,G700,QUESTION-TRIGG CANNABIS,,,NO,438,145,260,33
+Trigg,G700,QUESTION-TRIGG CANNABIS,,,Total Votes,1086,336,684,66
+Trigg,G700,QUESTION-TRIGG CANNABIS,,,Under Votes,57,16,33,8
+Trigg,G700,QUESTION-TRIGG CANNABIS,,,Over Votes,3,1,2,0
