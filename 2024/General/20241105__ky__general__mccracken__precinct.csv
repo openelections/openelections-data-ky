@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+McCracken,A104,STRAIGHT PARTY,,REP,Republican Party,110,22,76,12
+McCracken,A104,STRAIGHT PARTY,,DEM,Democratic Party,190,48,115,27
+McCracken,A104,STRAIGHT PARTY,,KY,Kentucky Party,5,1,3,1
+McCracken,A104,STRAIGHT PARTY,,LIB,Libertarian Party,7,0,5,2
+McCracken,A104,STRAIGHT PARTY,,,Total Votes,312,71,199,42
+McCracken,A104,STRAIGHT PARTY,,,Under Votes,180,28,126,26
+McCracken,A104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+McCracken,A104,President,,REP,Donald J. TRUMP / JD VANCE,189,37,134,18
+McCracken,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,284,59,180,45
+McCracken,A104,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+McCracken,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,2,7,2
+McCracken,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+McCracken,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,0,1
+McCracken,A104,President,,,Write In Total,0,0,0,0
+McCracken,A104,President,,,Total Votes,488,99,323,66
+McCracken,A104,President,,,Under Votes,5,0,3,2
+McCracken,A104,President,,,Over Votes,0,0,0,0
+McCracken,A104,U.S. House,1,REP,James R. COMER,199,42,137,20
+McCracken,A104,U.S. House,1,DEM,Erin MARSHALL,280,57,177,46
+McCracken,A104,U.S. House,1,,Total Votes,479,99,314,66
+McCracken,A104,U.S. House,1,,Under Votes,14,0,12,2
+McCracken,A104,U.S. House,1,,Over Votes,0,0,0,0
+McCracken,A104,State House,3,REP,Randy BRIDGES,203,40,142,21
+McCracken,A104,State House,3,DEM,Carrie Gottschalk SINGLER,270,58,169,43
+McCracken,A104,State House,3,,Total Votes,473,98,311,64
+McCracken,A104,State House,3,,Under Votes,19,1,14,4
+McCracken,A104,State House,3,,Over Votes,1,0,1,0
+McCracken,A104,Commonwealth's Attorney,2,REP,Donna L. DIXON,313,59,220,34
+McCracken,A104,Commonwealth's Attorney,2,,Total Votes,313,59,220,34
+McCracken,A104,Commonwealth's Attorney,2,,Under Votes,179,40,105,31
+McCracken,A104,Commonwealth's Attorney,2,,Over Votes,1,0,1,0
+McCracken,A104,Circuit Clerk,,REP,Kim CHANNELL,303,59,210,34
+McCracken,A104,Circuit Clerk,,,Total Votes,303,59,210,34
+McCracken,A104,Circuit Clerk,,,Under Votes,190,40,116,34
+McCracken,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+McCracken,A104,COUNTY SURVEYOR,,,,0,0,0,0
+McCracken,A104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+McCracken,A104,COUNTY SURVEYOR,,,Under Votes,493,99,326,68
+McCracken,A104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+McCracken,A104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,250,53,162,35
+McCracken,A104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,116,15,86,15
+McCracken,A104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,366,68,248,50
+McCracken,A104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,126,31,77,18
+McCracken,A104,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,1,0,1,0
+McCracken,A104,DISTRICT JUDGE 2nd Judicial District 2nd Division,,,James MILLS ,176,26,125,25
+McCracken,A104,DISTRICT JUDGE 2nd Judicial District 2nd Division,,,Jenny HINES ,251,58,161,32
+McCracken,A104,DISTRICT JUDGE 2nd Judicial District 2nd Division,,,Total Votes,427,84,286,57
+McCracken,A104,DISTRICT JUDGE 2nd Judicial District 2nd Division,,,Under Votes,65,15,40,10
+McCracken,A104,DISTRICT JUDGE 2nd Judicial District 2nd Division,,,Over Votes,1,0,0,1
+McCracken,A104,Board of Education,Paducah Independent School District,,Carl LEBUHN,201,33,138,30
+McCracken,A104,Board of Education,Paducah Independent School District,,James L. HUDSON,255,52,160,43
+McCracken,A104,Board of Education,Paducah Independent School District,,Janice HOWARD,232,38,155,39
+McCracken,A104,Board of Education,Paducah Independent School District,,Total Votes,688,123,453,112
+McCracken,A104,Board of Education,Paducah Independent School District,,Under Votes,791,174,525,92
+McCracken,A104,Board of Education,Paducah Independent School District,,Over Votes,0,0,0,0
+McCracken,A104,MAYOR City of Paducah,,,David GUESS ,174,28,133,13
+McCracken,A104,MAYOR City of Paducah,,,George P. BRAY ,266,62,157,47
+McCracken,A104,MAYOR City of Paducah,,,Total Votes,440,90,290,60
+McCracken,A104,MAYOR City of Paducah,,,Under Votes,52,9,36,7
+McCracken,A104,MAYOR City of Paducah,,,Over Votes,1,0,0,1
+McCracken,A104,CONSTITUTIONAL AMENDMENT 1,,,YES,222,47,148,27
+McCracken,A104,CONSTITUTIONAL AMENDMENT 1,,,NO,224,39,152,33
+McCracken,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,446,86,300,60
+McCracken,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,46,13,25,8
+McCracken,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+McCracken,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,147,22,99,26
+McCracken,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,308,65,207,36
+McCracken,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,455,87,306,62
+McCracken,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,36,11,19,6
+McCracken,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
