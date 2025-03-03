@@ -1,0 +1,763 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Casey,A101,STRAIGHT PARTY,,REP,Republican Party,307,88,204,15
+Casey,A101,STRAIGHT PARTY,,DEM,Democratic Party,18,6,10,2
+Casey,A101,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Casey,A101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,A101,STRAIGHT PARTY,,,Total Votes,328,94,217,17
+Casey,A101,STRAIGHT PARTY,,,Under Votes,255,79,156,20
+Casey,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,A101,President,,REP,Donald J. TRUMP / JD VANCE,537,156,351,30
+Casey,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,43,16,21,6
+Casey,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
+Casey,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
+Casey,A101,President,,,Total Votes,582,172,373,37
+Casey,A101,President,,,Under Votes,1,1,0,0
+Casey,A101,President,,,Over Votes,0,0,0,0
+Casey,A101,U.S. House,1,REP,James R. COMER,531,157,342,32
+Casey,A101,U.S. House,1,DEM,Erin MARSHALL,42,12,26,4
+Casey,A101,U.S. House,1,,Total Votes,573,169,368,36
+Casey,A101,U.S. House,1,,Under Votes,9,4,4,1
+Casey,A101,U.S. House,1,,Over Votes,0,0,0,0
+Casey,A101,State Senate,21,REP,Brandon J. STORM,521,153,339,29
+Casey,A101,State Senate,21,,Total Votes,521,153,339,29
+Casey,A101,State Senate,21,,Under Votes,61,20,33,8
+Casey,A101,State Senate,21,,Over Votes,0,0,0,0
+Casey,A101,State House,54,REP,Daniel B. ELLIOTT,515,148,340,27
+Casey,A101,State House,54,,Total Votes,515,148,340,27
+Casey,A101,State House,54,,Under Votes,67,25,32,10
+Casey,A101,State House,54,,Over Votes,0,0,0,0
+Casey,A101,Commonwealth's Attorney,29,REP,Brian WRIGHT,530,155,344,31
+Casey,A101,Commonwealth's Attorney,29,,Total Votes,530,155,344,31
+Casey,A101,Commonwealth's Attorney,29,,Under Votes,51,18,27,6
+Casey,A101,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,A101,Circuit Clerk,,,"Cameron CAIN REP ",532,156,346,30
+Casey,A101,Circuit Clerk,,,Total Votes,532,156,346,30
+Casey,A101,Circuit Clerk,,,Under Votes,51,17,27,7
+Casey,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,A101,Board of Education,5,,Jennifer S. OVERSTREET,371,109,239,23
+Casey,A101,Board of Education,5,,Total Votes,371,109,239,23
+Casey,A101,Board of Education,5,,Under Votes,209,64,131,14
+Casey,A101,Board of Education,5,,Over Votes,0,0,0,0
+Casey,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,385,121,232,32
+Casey,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,141,36,103,2
+Casey,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,526,157,335,34
+Casey,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,52,14,35,3
+Casey,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,2,3,0
+Casey,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,218,77,124,17
+Casey,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,322,87,218,17
+Casey,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,540,164,342,34
+Casey,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,43,9,31,3
+Casey,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,A102,STRAIGHT PARTY,,REP,Republican Party,190,76,103,11
+Casey,A102,STRAIGHT PARTY,,DEM,Democratic Party,15,6,9,0
+Casey,A102,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Casey,A102,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Casey,A102,STRAIGHT PARTY,,,Total Votes,206,83,112,11
+Casey,A102,STRAIGHT PARTY,,,Under Votes,142,76,56,10
+Casey,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,A102,President,,REP,Donald J. TRUMP / JD VANCE,300,138,145,17
+Casey,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,43,19,20,4
+Casey,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
+Casey,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Casey,A102,President,,,Total Votes,346,158,167,21
+Casey,A102,President,,,Under Votes,2,1,1,0
+Casey,A102,President,,,Over Votes,0,0,0,0
+Casey,A102,U.S. House,1,REP,James R. COMER,310,144,147,19
+Casey,A102,U.S. House,1,DEM,Erin MARSHALL,32,13,17,2
+Casey,A102,U.S. House,1,,Total Votes,342,157,164,21
+Casey,A102,U.S. House,1,,Under Votes,5,2,3,0
+Casey,A102,U.S. House,1,,Over Votes,0,0,0,0
+Casey,A102,State Senate,21,REP,Brandon J. STORM,308,140,152,16
+Casey,A102,State Senate,21,,Total Votes,308,140,152,16
+Casey,A102,State Senate,21,,Under Votes,39,19,15,5
+Casey,A102,State Senate,21,,Over Votes,0,0,0,0
+Casey,A102,State House,54,REP,Daniel B. ELLIOTT,307,137,154,16
+Casey,A102,State House,54,,Total Votes,307,137,154,16
+Casey,A102,State House,54,,Under Votes,41,22,14,5
+Casey,A102,State House,54,,Over Votes,0,0,0,0
+Casey,A102,Commonwealth's Attorney,29,REP,Brian WRIGHT,315,141,157,17
+Casey,A102,Commonwealth's Attorney,29,,Total Votes,315,141,157,17
+Casey,A102,Commonwealth's Attorney,29,,Under Votes,31,18,9,4
+Casey,A102,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,A102,Circuit Clerk,,,"Cameron CAIN REP ",312,141,154,17
+Casey,A102,Circuit Clerk,,,Total Votes,312,141,154,17
+Casey,A102,Circuit Clerk,,,Under Votes,36,18,14,4
+Casey,A102,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,A102,Board of Education,5,,Jennifer S. OVERSTREET,227,106,113,8
+Casey,A102,Board of Education,5,,Total Votes,227,106,113,8
+Casey,A102,Board of Education,5,,Under Votes,120,53,54,13
+Casey,A102,Board of Education,5,,Over Votes,0,0,0,0
+Casey,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,208,100,94,14
+Casey,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,118,50,62,6
+Casey,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,326,150,156,20
+Casey,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,15,6,8,1
+Casey,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,7,3,4,0
+Casey,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,122,63,47,12
+Casey,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,215,90,116,9
+Casey,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,337,153,163,21
+Casey,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,6,4,0
+Casey,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Casey,A103,STRAIGHT PARTY,,REP,Republican Party,320,158,146,16
+Casey,A103,STRAIGHT PARTY,,DEM,Democratic Party,29,11,12,6
+Casey,A103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Casey,A103,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Casey,A103,STRAIGHT PARTY,,,Total Votes,351,170,159,22
+Casey,A103,STRAIGHT PARTY,,,Under Votes,219,118,92,9
+Casey,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,A103,President,,REP,Donald J. TRUMP / JD VANCE,501,253,228,20
+Casey,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,64,34,19,11
+Casey,A103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
+Casey,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Casey,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,A103,President,,,Total Votes,570,288,251,31
+Casey,A103,President,,,Under Votes,0,0,0,0
+Casey,A103,President,,,Over Votes,0,0,0,0
+Casey,A103,U.S. House,1,REP,James R. COMER,514,259,233,22
+Casey,A103,U.S. House,1,DEM,Erin MARSHALL,52,27,16,9
+Casey,A103,U.S. House,1,,Total Votes,566,286,249,31
+Casey,A103,U.S. House,1,,Under Votes,4,2,2,0
+Casey,A103,U.S. House,1,,Over Votes,0,0,0,0
+Casey,A103,State Senate,21,REP,Brandon J. STORM,505,253,229,23
+Casey,A103,State Senate,21,,Total Votes,505,253,229,23
+Casey,A103,State Senate,21,,Under Votes,65,35,22,8
+Casey,A103,State Senate,21,,Over Votes,0,0,0,0
+Casey,A103,State House,54,REP,Daniel B. ELLIOTT,501,248,230,23
+Casey,A103,State House,54,,Total Votes,501,248,230,23
+Casey,A103,State House,54,,Under Votes,69,40,21,8
+Casey,A103,State House,54,,Over Votes,0,0,0,0
+Casey,A103,Commonwealth's Attorney,29,REP,Brian WRIGHT,511,255,231,25
+Casey,A103,Commonwealth's Attorney,29,,Total Votes,511,255,231,25
+Casey,A103,Commonwealth's Attorney,29,,Under Votes,59,33,20,6
+Casey,A103,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,A103,Circuit Clerk,,,"Cameron CAIN REP ",511,257,229,25
+Casey,A103,Circuit Clerk,,,Total Votes,511,257,229,25
+Casey,A103,Circuit Clerk,,,Under Votes,58,31,21,6
+Casey,A103,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",354,165,166,23
+Casey,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",170,91,71,8
+Casey,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,524,256,237,31
+Casey,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,41,28,13,0
+Casey,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,4,1,0
+Casey,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,187,89,82,16
+Casey,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,362,185,162,15
+Casey,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,549,274,244,31
+Casey,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,13,7,0
+Casey,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Casey,A104,STRAIGHT PARTY,,REP,Republican Party,137,63,63,11
+Casey,A104,STRAIGHT PARTY,,DEM,Democratic Party,10,2,8,0
+Casey,A104,STRAIGHT PARTY,,KY,Kentucky Party,1,1,0,0
+Casey,A104,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,A104,STRAIGHT PARTY,,,Total Votes,149,66,72,11
+Casey,A104,STRAIGHT PARTY,,,Under Votes,106,44,55,7
+Casey,A104,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Casey,A104,President,,REP,Donald J. TRUMP / JD VANCE,235,106,114,15
+Casey,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,16,5,10,1
+Casey,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
+Casey,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,A104,President,,,Total Votes,254,111,126,17
+Casey,A104,President,,,Under Votes,1,0,1,0
+Casey,A104,President,,,Over Votes,0,0,0,0
+Casey,A104,U.S. House,1,REP,James R. COMER,237,106,116,15
+Casey,A104,U.S. House,1,DEM,Erin MARSHALL,15,4,9,2
+Casey,A104,U.S. House,1,,Total Votes,252,110,125,17
+Casey,A104,U.S. House,1,,Under Votes,4,1,2,1
+Casey,A104,U.S. House,1,,Over Votes,0,0,0,0
+Casey,A104,State Senate,21,REP,Brandon J. STORM,230,102,114,14
+Casey,A104,State Senate,21,,Total Votes,230,102,114,14
+Casey,A104,State Senate,21,,Under Votes,26,9,13,4
+Casey,A104,State Senate,21,,Over Votes,0,0,0,0
+Casey,A104,State House,54,REP,Daniel B. ELLIOTT,234,104,114,16
+Casey,A104,State House,54,,Total Votes,234,104,114,16
+Casey,A104,State House,54,,Under Votes,21,7,12,2
+Casey,A104,State House,54,,Over Votes,0,0,0,0
+Casey,A104,Commonwealth's Attorney,29,REP,Brian WRIGHT,231,101,114,16
+Casey,A104,Commonwealth's Attorney,29,,Total Votes,231,101,114,16
+Casey,A104,Commonwealth's Attorney,29,,Under Votes,24,10,12,2
+Casey,A104,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,A104,Circuit Clerk,,,"Cameron CAIN REP ",234,104,114,16
+Casey,A104,Circuit Clerk,,,Total Votes,234,104,114,16
+Casey,A104,Circuit Clerk,,,Under Votes,22,7,13,2
+Casey,A104,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,A104,CITY COUNCIL City of Liberty,,,"Brian BEELER ",119,51,59,9
+Casey,A104,CITY COUNCIL City of Liberty,,,"Larry F. BOWMER ",97,45,47,5
+Casey,A104,CITY COUNCIL City of Liberty,,,"Chase DIAL ",81,31,43,7
+Casey,A104,CITY COUNCIL City of Liberty,,,"Robert Lewis ALLEN ",105,51,49,5
+Casey,A104,CITY COUNCIL City of Liberty,,,"Ben BARLOW ",156,73,72,11
+Casey,A104,CITY COUNCIL City of Liberty,,,"Adam ELMORE ",104,45,50,9
+Casey,A104,CITY COUNCIL City of Liberty,,,"Chuck DORMAN ",80,39,40,1
+Casey,A104,CITY COUNCIL City of Liberty,,,"Nick TURNER ",101,48,45,8
+Casey,A104,CITY COUNCIL City of Liberty,,,Total Votes,843,383,405,55
+Casey,A104,CITY COUNCIL City of Liberty,,,Under Votes,691,283,355,53
+Casey,A104,CITY COUNCIL City of Liberty,,,Over Votes,0,0,0,0
+Casey,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",160,67,83,10
+Casey,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",78,37,34,7
+Casey,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,238,104,117,17
+Casey,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,18,7,10,1
+Casey,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Casey,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,79,36,37,6
+Casey,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,162,69,81,12
+Casey,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,241,105,118,18
+Casey,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,6,9,0
+Casey,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,B101,STRAIGHT PARTY,,REP,Republican Party,255,75,151,29
+Casey,B101,STRAIGHT PARTY,,DEM,Democratic Party,29,16,12,1
+Casey,B101,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Casey,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,0,1
+Casey,B101,STRAIGHT PARTY,,,Total Votes,285,91,163,31
+Casey,B101,STRAIGHT PARTY,,,Under Votes,168,60,97,11
+Casey,B101,STRAIGHT PARTY,,,Over Votes,1,0,0,1
+Casey,B101,President,,REP,Donald J. TRUMP / JD VANCE,397,120,237,40
+Casey,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,54,30,23,1
+Casey,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,0,1
+Casey,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,B101,President,,,Total Votes,453,151,260,42
+Casey,B101,President,,,Under Votes,0,0,0,0
+Casey,B101,President,,,Over Votes,0,0,0,0
+Casey,B101,U.S. House,1,REP,James R. COMER,395,120,235,40
+Casey,B101,U.S. House,1,DEM,Erin MARSHALL,51,28,21,2
+Casey,B101,U.S. House,1,,Total Votes,446,148,256,42
+Casey,B101,U.S. House,1,,Under Votes,8,3,4,1
+Casey,B101,U.S. House,1,,Over Votes,0,0,0,0
+Casey,B101,State Senate,21,REP,Brandon J. STORM,394,119,237,38
+Casey,B101,State Senate,21,,Total Votes,394,119,237,38
+Casey,B101,State Senate,21,,Under Votes,60,32,23,5
+Casey,B101,State Senate,21,,Over Votes,0,0,0,0
+Casey,B101,State House,54,REP,Daniel B. ELLIOTT,393,120,235,38
+Casey,B101,State House,54,,Total Votes,393,120,235,38
+Casey,B101,State House,54,,Under Votes,61,31,25,5
+Casey,B101,State House,54,,Over Votes,0,0,0,0
+Casey,B101,Commonwealth's Attorney,29,REP,Brian WRIGHT,401,122,241,38
+Casey,B101,Commonwealth's Attorney,29,,Total Votes,401,122,241,38
+Casey,B101,Commonwealth's Attorney,29,,Under Votes,53,29,19,5
+Casey,B101,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,B101,Circuit Clerk,,,"Cameron CAIN REP ",394,122,234,38
+Casey,B101,Circuit Clerk,,,Total Votes,394,122,234,38
+Casey,B101,Circuit Clerk,,,Under Votes,60,29,26,5
+Casey,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,B101,Board of Education,1,,Kyle ALLEN,268,79,162,27
+Casey,B101,Board of Education,1,,Total Votes,268,79,162,27
+Casey,B101,Board of Education,1,,Under Votes,183,71,96,16
+Casey,B101,Board of Education,1,,Over Votes,1,1,0,0
+Casey,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,290,90,166,34
+Casey,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,127,49,72,6
+Casey,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,417,139,238,40
+Casey,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,9,22,3
+Casey,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,3,0,0
+Casey,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,167,53,94,20
+Casey,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,276,93,162,21
+Casey,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,443,146,256,41
+Casey,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,4,4,2
+Casey,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Casey,B102,STRAIGHT PARTY,,REP,Republican Party,535,249,246,40
+Casey,B102,STRAIGHT PARTY,,DEM,Democratic Party,57,22,31,4
+Casey,B102,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Casey,B102,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Casey,B102,STRAIGHT PARTY,,,Total Votes,595,271,280,44
+Casey,B102,STRAIGHT PARTY,,,Under Votes,394,202,179,13
+Casey,B102,STRAIGHT PARTY,,,Over Votes,2,1,1,0
+Casey,B102,President,,REP,Donald J. TRUMP / JD VANCE,880,427,404,49
+Casey,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,102,45,50,7
+Casey,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,4,1
+Casey,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,B102,President,,,Total Votes,989,474,458,57
+Casey,B102,President,,,Under Votes,1,0,1,0
+Casey,B102,President,,,Over Votes,0,0,0,0
+Casey,B102,U.S. House,1,REP,James R. COMER,869,422,400,47
+Casey,B102,U.S. House,1,DEM,Erin MARSHALL,101,45,48,8
+Casey,B102,U.S. House,1,,Total Votes,970,467,448,55
+Casey,B102,U.S. House,1,,Under Votes,20,7,11,2
+Casey,B102,U.S. House,1,,Over Votes,0,0,0,0
+Casey,B102,State Senate,21,REP,Brandon J. STORM,876,418,406,52
+Casey,B102,State Senate,21,,Total Votes,876,418,406,52
+Casey,B102,State Senate,21,,Under Votes,111,56,51,4
+Casey,B102,State Senate,21,,Over Votes,0,0,0,0
+Casey,B102,State House,54,REP,Daniel B. ELLIOTT,885,424,410,51
+Casey,B102,State House,54,,Total Votes,885,424,410,51
+Casey,B102,State House,54,,Under Votes,102,50,47,5
+Casey,B102,State House,54,,Over Votes,0,0,0,0
+Casey,B102,Commonwealth's Attorney,29,REP,Brian WRIGHT,882,424,407,51
+Casey,B102,Commonwealth's Attorney,29,,Total Votes,882,424,407,51
+Casey,B102,Commonwealth's Attorney,29,,Under Votes,102,50,48,4
+Casey,B102,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,B102,Circuit Clerk,,,"Cameron CAIN REP ",888,429,408,51
+Casey,B102,Circuit Clerk,,,Total Votes,888,429,408,51
+Casey,B102,Circuit Clerk,,,Under Votes,99,45,49,5
+Casey,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",665,317,306,42
+Casey,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",267,125,129,13
+Casey,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,932,442,435,55
+Casey,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,53,28,23,2
+Casey,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,2,0
+Casey,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,389,206,157,26
+Casey,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,568,250,289,29
+Casey,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,957,456,446,55
+Casey,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,31,16,13,2
+Casey,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,2,1,0
+Casey,B103,STRAIGHT PARTY,,REP,Republican Party,199,96,100,3
+Casey,B103,STRAIGHT PARTY,,DEM,Democratic Party,38,18,16,4
+Casey,B103,STRAIGHT PARTY,,KY,Kentucky Party,4,3,1,0
+Casey,B103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,B103,STRAIGHT PARTY,,,Total Votes,242,117,118,7
+Casey,B103,STRAIGHT PARTY,,,Under Votes,129,64,56,9
+Casey,B103,STRAIGHT PARTY,,,Over Votes,1,0,0,1
+Casey,B103,President,,REP,Donald J. TRUMP / JD VANCE,290,139,143,8
+Casey,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,40,30,8
+Casey,B103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Casey,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Casey,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,B103,President,,,Total Votes,369,179,174,16
+Casey,B103,President,,,Under Votes,3,2,0,1
+Casey,B103,President,,,Over Votes,0,0,0,0
+Casey,B103,U.S. House,1,REP,James R. COMER,295,141,146,8
+Casey,B103,U.S. House,1,DEM,Erin MARSHALL,72,37,27,8
+Casey,B103,U.S. House,1,,Total Votes,367,178,173,16
+Casey,B103,U.S. House,1,,Under Votes,3,2,0,1
+Casey,B103,U.S. House,1,,Over Votes,1,1,0,0
+Casey,B103,State Senate,21,REP,Brandon J. STORM,299,144,147,8
+Casey,B103,State Senate,21,,Total Votes,299,144,147,8
+Casey,B103,State Senate,21,,Under Votes,67,37,21,9
+Casey,B103,State Senate,21,,Over Votes,0,0,0,0
+Casey,B103,State House,54,REP,Daniel B. ELLIOTT,304,145,149,10
+Casey,B103,State House,54,,Total Votes,304,145,149,10
+Casey,B103,State House,54,,Under Votes,62,36,19,7
+Casey,B103,State House,54,,Over Votes,0,0,0,0
+Casey,B103,Commonwealth's Attorney,29,REP,Brian WRIGHT,304,146,149,9
+Casey,B103,Commonwealth's Attorney,29,,Total Votes,304,146,149,9
+Casey,B103,Commonwealth's Attorney,29,,Under Votes,63,34,21,8
+Casey,B103,Commonwealth's Attorney,29,,Over Votes,1,1,0,0
+Casey,B103,Circuit Clerk,,,"Cameron CAIN REP ",304,146,147,11
+Casey,B103,Circuit Clerk,,,Total Votes,304,146,147,11
+Casey,B103,Circuit Clerk,,,Under Votes,63,35,22,6
+Casey,B103,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,B103,Board of Education,1,,Kyle ALLEN,199,88,103,8
+Casey,B103,Board of Education,1,,Total Votes,199,88,103,8
+Casey,B103,Board of Education,1,,Under Votes,167,93,65,9
+Casey,B103,Board of Education,1,,Over Votes,0,0,0,0
+Casey,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,240,114,116,10
+Casey,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,103,47,50,6
+Casey,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,343,161,166,16
+Casey,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,26,18,7,1
+Casey,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Casey,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,119,60,57,2
+Casey,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,242,114,114,14
+Casey,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,361,174,171,16
+Casey,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,6,3,0
+Casey,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,0,1
+Casey,C101,STRAIGHT PARTY,,REP,Republican Party,201,86,103,12
+Casey,C101,STRAIGHT PARTY,,DEM,Democratic Party,34,13,13,8
+Casey,C101,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
+Casey,C101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,C101,STRAIGHT PARTY,,,Total Votes,239,99,120,20
+Casey,C101,STRAIGHT PARTY,,,Under Votes,213,88,113,12
+Casey,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,C101,President,,REP,Donald J. TRUMP / JD VANCE,355,138,197,20
+Casey,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,90,46,33,11
+Casey,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
+Casey,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,C101,President,,,Total Votes,448,186,231,31
+Casey,C101,President,,,Under Votes,3,1,1,1
+Casey,C101,President,,,Over Votes,0,0,0,0
+Casey,C101,U.S. House,1,REP,James R. COMER,370,144,204,22
+Casey,C101,U.S. House,1,DEM,Erin MARSHALL,71,37,24,10
+Casey,C101,U.S. House,1,,Total Votes,441,181,228,32
+Casey,C101,U.S. House,1,,Under Votes,11,6,5,0
+Casey,C101,U.S. House,1,,Over Votes,0,0,0,0
+Casey,C101,State Senate,21,REP,Brandon J. STORM,370,144,203,23
+Casey,C101,State Senate,21,,Total Votes,370,144,203,23
+Casey,C101,State Senate,21,,Under Votes,79,43,28,8
+Casey,C101,State Senate,21,,Over Votes,0,0,0,0
+Casey,C101,State House,54,REP,Daniel B. ELLIOTT,372,147,203,22
+Casey,C101,State House,54,,Total Votes,372,147,203,22
+Casey,C101,State House,54,,Under Votes,76,40,28,8
+Casey,C101,State House,54,,Over Votes,0,0,0,0
+Casey,C101,Commonwealth's Attorney,29,REP,Brian WRIGHT,390,157,208,25
+Casey,C101,Commonwealth's Attorney,29,,Total Votes,390,157,208,25
+Casey,C101,Commonwealth's Attorney,29,,Under Votes,60,30,24,6
+Casey,C101,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,C101,Circuit Clerk,,,"Cameron CAIN REP ",384,154,206,24
+Casey,C101,Circuit Clerk,,,Total Votes,384,154,206,24
+Casey,C101,Circuit Clerk,,,Under Votes,65,32,26,7
+Casey,C101,Circuit Clerk,,,Over Votes,1,1,0,0
+Casey,C101,Board of Education,1,,Kyle ALLEN,306,116,167,23
+Casey,C101,Board of Education,1,,Total Votes,306,116,167,23
+Casey,C101,Board of Education,1,,Under Votes,145,70,66,9
+Casey,C101,Board of Education,1,,Over Votes,1,1,0,0
+Casey,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,287,113,158,16
+Casey,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,139,63,66,10
+Casey,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,426,176,224,26
+Casey,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,9,8,6
+Casey,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
+Casey,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,145,68,64,13
+Casey,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,294,108,168,18
+Casey,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,439,176,232,31
+Casey,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,11,1,1
+Casey,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,C102,STRAIGHT PARTY,,REP,Republican Party,415,184,210,21
+Casey,C102,STRAIGHT PARTY,,DEM,Democratic Party,19,8,8,3
+Casey,C102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
+Casey,C102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,C102,STRAIGHT PARTY,,,Total Votes,437,193,220,24
+Casey,C102,STRAIGHT PARTY,,,Under Votes,299,143,142,14
+Casey,C102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
+Casey,C102,President,,REP,Donald J. TRUMP / JD VANCE,662,301,334,27
+Casey,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,61,31,21,9
+Casey,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Casey,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,2,1
+Casey,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Casey,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
+Casey,C102,President,,,Total Votes,730,334,359,37
+Casey,C102,President,,,Under Votes,6,2,3,1
+Casey,C102,President,,,Over Votes,0,0,0,0
+Casey,C102,U.S. House,1,REP,James R. COMER,680,307,344,29
+Casey,C102,U.S. House,1,DEM,Erin MARSHALL,51,26,16,9
+Casey,C102,U.S. House,1,,Total Votes,731,333,360,38
+Casey,C102,U.S. House,1,,Under Votes,5,2,3,0
+Casey,C102,U.S. House,1,,Over Votes,1,1,0,0
+Casey,C102,State Senate,21,REP,Brandon J. STORM,662,299,334,29
+Casey,C102,State Senate,21,,Total Votes,662,299,334,29
+Casey,C102,State Senate,21,,Under Votes,70,36,25,9
+Casey,C102,State Senate,21,,Over Votes,2,1,1,0
+Casey,C102,State House,54,REP,Daniel B. ELLIOTT,672,306,337,29
+Casey,C102,State House,54,,Total Votes,672,306,337,29
+Casey,C102,State House,54,,Under Votes,63,30,24,9
+Casey,C102,State House,54,,Over Votes,0,0,0,0
+Casey,C102,Commonwealth's Attorney,29,REP,Brian WRIGHT,681,307,343,31
+Casey,C102,Commonwealth's Attorney,29,,Total Votes,681,307,343,31
+Casey,C102,Commonwealth's Attorney,29,,Under Votes,53,29,17,7
+Casey,C102,Commonwealth's Attorney,29,,Over Votes,1,0,1,0
+Casey,C102,Circuit Clerk,,,"Cameron CAIN REP ",685,310,345,30
+Casey,C102,Circuit Clerk,,,Total Votes,685,310,345,30
+Casey,C102,Circuit Clerk,,,Under Votes,49,26,15,8
+Casey,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",523,241,257,25
+Casey,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",170,75,88,7
+Casey,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,693,316,345,32
+Casey,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,17,15,6
+Casey,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,3,0
+Casey,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,246,120,113,13
+Casey,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,469,206,240,23
+Casey,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,715,326,353,36
+Casey,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,9,9,2
+Casey,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
+Casey,C103,STRAIGHT PARTY,,REP,Republican Party,213,74,131,8
+Casey,C103,STRAIGHT PARTY,,DEM,Democratic Party,12,5,7,0
+Casey,C103,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Casey,C103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Casey,C103,STRAIGHT PARTY,,,Total Votes,227,79,140,8
+Casey,C103,STRAIGHT PARTY,,,Under Votes,147,48,97,2
+Casey,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,C103,President,,REP,Donald J. TRUMP / JD VANCE,347,117,220,10
+Casey,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,23,8,15,0
+Casey,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
+Casey,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,C103,President,,,Total Votes,373,127,236,10
+Casey,C103,President,,,Under Votes,0,0,0,0
+Casey,C103,President,,,Over Votes,1,0,1,0
+Casey,C103,U.S. House,1,REP,James R. COMER,355,121,224,10
+Casey,C103,U.S. House,1,DEM,Erin MARSHALL,17,5,12,0
+Casey,C103,U.S. House,1,,Total Votes,372,126,236,10
+Casey,C103,U.S. House,1,,Under Votes,2,1,1,0
+Casey,C103,U.S. House,1,,Over Votes,0,0,0,0
+Casey,C103,State Senate,21,REP,Brandon J. STORM,347,120,217,10
+Casey,C103,State Senate,21,,Total Votes,347,120,217,10
+Casey,C103,State Senate,21,,Under Votes,27,7,20,0
+Casey,C103,State Senate,21,,Over Votes,0,0,0,0
+Casey,C103,State House,54,REP,Daniel B. ELLIOTT,342,118,214,10
+Casey,C103,State House,54,,Total Votes,342,118,214,10
+Casey,C103,State House,54,,Under Votes,31,9,22,0
+Casey,C103,State House,54,,Over Votes,0,0,0,0
+Casey,C103,Commonwealth's Attorney,29,REP,Brian WRIGHT,346,121,215,10
+Casey,C103,Commonwealth's Attorney,29,,Total Votes,346,121,215,10
+Casey,C103,Commonwealth's Attorney,29,,Under Votes,23,6,17,0
+Casey,C103,Commonwealth's Attorney,29,,Over Votes,1,0,1,0
+Casey,C103,Circuit Clerk,,,"Cameron CAIN REP ",349,121,218,10
+Casey,C103,Circuit Clerk,,,Total Votes,349,121,218,10
+Casey,C103,Circuit Clerk,,,Under Votes,22,6,16,0
+Casey,C103,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",267,105,153,9
+Casey,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",87,16,71,0
+Casey,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,354,121,224,9
+Casey,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,17,6,10,1
+Casey,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Casey,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,124,51,67,6
+Casey,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,244,74,166,4
+Casey,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,368,125,233,10
+Casey,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,6,2,4,0
+Casey,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,C104,STRAIGHT PARTY,,REP,Republican Party,133,60,64,9
+Casey,C104,STRAIGHT PARTY,,DEM,Democratic Party,24,6,14,4
+Casey,C104,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Casey,C104,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,C104,STRAIGHT PARTY,,,Total Votes,158,66,79,13
+Casey,C104,STRAIGHT PARTY,,,Under Votes,114,40,68,6
+Casey,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,C104,President,,REP,Donald J. TRUMP / JD VANCE,222,83,125,14
+Casey,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,45,19,21,5
+Casey,C104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
+Casey,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Casey,C104,President,,,Total Votes,270,104,147,19
+Casey,C104,President,,,Under Votes,1,1,0,0
+Casey,C104,President,,,Over Votes,1,1,0,0
+Casey,C104,U.S. House,1,REP,James R. COMER,224,90,118,16
+Casey,C104,U.S. House,1,DEM,Erin MARSHALL,41,16,22,3
+Casey,C104,U.S. House,1,,Total Votes,265,106,140,19
+Casey,C104,U.S. House,1,,Under Votes,7,0,7,0
+Casey,C104,U.S. House,1,,Over Votes,0,0,0,0
+Casey,C104,State Senate,21,REP,Brandon J. STORM,225,94,116,15
+Casey,C104,State Senate,21,,Total Votes,225,94,116,15
+Casey,C104,State Senate,21,,Under Votes,46,12,31,3
+Casey,C104,State Senate,21,,Over Votes,1,0,0,1
+Casey,C104,State House,54,REP,Daniel B. ELLIOTT,225,92,116,17
+Casey,C104,State House,54,,Total Votes,225,92,116,17
+Casey,C104,State House,54,,Under Votes,47,14,31,2
+Casey,C104,State House,54,,Over Votes,0,0,0,0
+Casey,C104,Commonwealth's Attorney,29,REP,Brian WRIGHT,223,92,115,16
+Casey,C104,Commonwealth's Attorney,29,,Total Votes,223,92,115,16
+Casey,C104,Commonwealth's Attorney,29,,Under Votes,47,14,30,3
+Casey,C104,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,C104,Circuit Clerk,,,"Cameron CAIN REP ",230,92,121,17
+Casey,C104,Circuit Clerk,,,Total Votes,230,92,121,17
+Casey,C104,Circuit Clerk,,,Under Votes,42,14,26,2
+Casey,C104,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,C104,CITY COUNCIL City of Liberty,,,"Brian BEELER ",139,57,71,11
+Casey,C104,CITY COUNCIL City of Liberty,,,"Larry F. BOWMER ",105,40,57,8
+Casey,C104,CITY COUNCIL City of Liberty,,,"Chase DIAL ",84,34,43,7
+Casey,C104,CITY COUNCIL City of Liberty,,,"Robert Lewis ALLEN ",104,42,53,9
+Casey,C104,CITY COUNCIL City of Liberty,,,"Ben BARLOW ",163,65,87,11
+Casey,C104,CITY COUNCIL City of Liberty,,,"Adam ELMORE ",99,40,53,6
+Casey,C104,CITY COUNCIL City of Liberty,,,"Chuck DORMAN ",69,25,39,5
+Casey,C104,CITY COUNCIL City of Liberty,,,"Nick TURNER ",112,44,60,8
+Casey,C104,CITY COUNCIL City of Liberty,,,Total Votes,875,347,463,65
+Casey,C104,CITY COUNCIL City of Liberty,,,Under Votes,755,289,417,49
+Casey,C104,CITY COUNCIL City of Liberty,,,Over Votes,0,0,0,0
+Casey,C104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",137,50,77,10
+Casey,C104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",103,43,54,6
+Casey,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,240,93,131,16
+Casey,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,28,13,12,3
+Casey,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,4,0
+Casey,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,89,38,46,5
+Casey,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,174,65,97,12
+Casey,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,263,103,143,17
+Casey,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,3,4,2
+Casey,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,D101,STRAIGHT PARTY,,REP,Republican Party,334,121,204,9
+Casey,D101,STRAIGHT PARTY,,DEM,Democratic Party,28,9,16,3
+Casey,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Casey,D101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,1,1
+Casey,D101,STRAIGHT PARTY,,,Total Votes,365,130,222,13
+Casey,D101,STRAIGHT PARTY,,,Under Votes,298,93,185,20
+Casey,D101,STRAIGHT PARTY,,,Over Votes,2,0,2,0
+Casey,D101,President,,REP,Donald J. TRUMP / JD VANCE,577,200,359,18
+Casey,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,72,17,43,12
+Casey,D101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Casey,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,2,1
+Casey,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Casey,D101,President,,,Total Votes,657,219,407,31
+Casey,D101,President,,,Under Votes,6,4,0,2
+Casey,D101,President,,,Over Votes,1,0,1,0
+Casey,D101,U.S. House,1,REP,James R. COMER,577,201,354,22
+Casey,D101,U.S. House,1,DEM,Erin MARSHALL,71,18,43,10
+Casey,D101,U.S. House,1,,Total Votes,648,219,397,32
+Casey,D101,U.S. House,1,,Under Votes,16,4,11,1
+Casey,D101,U.S. House,1,,Over Votes,0,0,0,0
+Casey,D101,State Senate,21,REP,Brandon J. STORM,569,194,349,26
+Casey,D101,State Senate,21,,Total Votes,569,194,349,26
+Casey,D101,State Senate,21,,Under Votes,93,28,58,7
+Casey,D101,State Senate,21,,Over Votes,1,1,0,0
+Casey,D101,State House,54,REP,Daniel B. ELLIOTT,572,194,353,25
+Casey,D101,State House,54,,Total Votes,572,194,353,25
+Casey,D101,State House,54,,Under Votes,91,29,54,8
+Casey,D101,State House,54,,Over Votes,0,0,0,0
+Casey,D101,Commonwealth's Attorney,29,REP,Brian WRIGHT,589,200,362,27
+Casey,D101,Commonwealth's Attorney,29,,Total Votes,589,200,362,27
+Casey,D101,Commonwealth's Attorney,29,,Under Votes,75,23,46,6
+Casey,D101,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,D101,Circuit Clerk,,,"Cameron CAIN REP ",573,196,353,24
+Casey,D101,Circuit Clerk,,,Total Votes,573,196,353,24
+Casey,D101,Circuit Clerk,,,Under Votes,91,27,56,8
+Casey,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",436,159,263,14
+Casey,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",177,47,112,18
+Casey,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,613,206,375,32
+Casey,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,50,17,32,1
+Casey,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
+Casey,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,214,90,116,8
+Casey,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,422,127,272,23
+Casey,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,636,217,388,31
+Casey,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,28,6,21,1
+Casey,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
+Casey,D102,STRAIGHT PARTY,,REP,Republican Party,155,50,96,9
+Casey,D102,STRAIGHT PARTY,,DEM,Democratic Party,13,4,8,1
+Casey,D102,STRAIGHT PARTY,,KY,Kentucky Party,0,0,0,0
+Casey,D102,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Casey,D102,STRAIGHT PARTY,,,Total Votes,170,54,106,10
+Casey,D102,STRAIGHT PARTY,,,Under Votes,160,55,98,7
+Casey,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,D102,President,,REP,Donald J. TRUMP / JD VANCE,286,92,180,14
+Casey,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,38,14,22,2
+Casey,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Casey,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
+Casey,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Casey,D102,President,,,Total Votes,327,107,204,16
+Casey,D102,President,,,Under Votes,3,2,0,1
+Casey,D102,President,,,Over Votes,0,0,0,0
+Casey,D102,U.S. House,1,REP,James R. COMER,283,92,177,14
+Casey,D102,U.S. House,1,DEM,Erin MARSHALL,37,12,23,2
+Casey,D102,U.S. House,1,,Total Votes,320,104,200,16
+Casey,D102,U.S. House,1,,Under Votes,10,5,4,1
+Casey,D102,U.S. House,1,,Over Votes,0,0,0,0
+Casey,D102,State Senate,21,REP,Brandon J. STORM,284,91,179,14
+Casey,D102,State Senate,21,,Total Votes,284,91,179,14
+Casey,D102,State Senate,21,,Under Votes,46,18,25,3
+Casey,D102,State Senate,21,,Over Votes,0,0,0,0
+Casey,D102,State House,54,REP,Daniel B. ELLIOTT,282,91,177,14
+Casey,D102,State House,54,,Total Votes,282,91,177,14
+Casey,D102,State House,54,,Under Votes,48,18,27,3
+Casey,D102,State House,54,,Over Votes,0,0,0,0
+Casey,D102,Commonwealth's Attorney,29,REP,Brian WRIGHT,284,96,174,14
+Casey,D102,Commonwealth's Attorney,29,,Total Votes,284,96,174,14
+Casey,D102,Commonwealth's Attorney,29,,Under Votes,44,13,28,3
+Casey,D102,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,D102,Circuit Clerk,,,"Cameron CAIN REP ",287,96,177,14
+Casey,D102,Circuit Clerk,,,Total Votes,287,96,177,14
+Casey,D102,Circuit Clerk,,,Under Votes,43,13,27,3
+Casey,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,D102,Board of Education,5,,Jennifer S. OVERSTREET,211,66,138,7
+Casey,D102,Board of Education,5,,Total Votes,211,66,138,7
+Casey,D102,Board of Education,5,,Under Votes,116,43,63,10
+Casey,D102,Board of Education,5,,Over Votes,0,0,0,0
+Casey,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,229,71,143,15
+Casey,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,84,31,51,2
+Casey,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,313,102,194,17
+Casey,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,17,7,10,0
+Casey,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Casey,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,123,37,75,11
+Casey,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,191,67,118,6
+Casey,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,314,104,193,17
+Casey,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,16,5,11,0
+Casey,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,D103,STRAIGHT PARTY,,REP,Republican Party,296,124,151,21
+Casey,D103,STRAIGHT PARTY,,DEM,Democratic Party,20,7,11,2
+Casey,D103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Casey,D103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
+Casey,D103,STRAIGHT PARTY,,,Total Votes,318,131,164,23
+Casey,D103,STRAIGHT PARTY,,,Under Votes,241,133,98,10
+Casey,D103,STRAIGHT PARTY,,,Over Votes,1,1,0,0
+Casey,D103,President,,REP,Donald J. TRUMP / JD VANCE,501,235,236,30
+Casey,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,48,24,22,2
+Casey,D103,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Casey,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,1,1
+Casey,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
+Casey,D103,President,,,Total Votes,556,262,261,33
+Casey,D103,President,,,Under Votes,2,2,0,0
+Casey,D103,President,,,Over Votes,1,1,0,0
+Casey,D103,U.S. House,1,REP,James R. COMER,510,243,238,29
+Casey,D103,U.S. House,1,DEM,Erin MARSHALL,39,15,20,4
+Casey,D103,U.S. House,1,,Total Votes,549,258,258,33
+Casey,D103,U.S. House,1,,Under Votes,11,7,4,0
+Casey,D103,U.S. House,1,,Over Votes,0,0,0,0
+Casey,D103,State Senate,21,REP,Brandon J. STORM,493,228,234,31
+Casey,D103,State Senate,21,,Total Votes,493,228,234,31
+Casey,D103,State Senate,21,,Under Votes,67,37,28,2
+Casey,D103,State Senate,21,,Over Votes,0,0,0,0
+Casey,D103,State House,54,REP,Daniel B. ELLIOTT,493,226,236,31
+Casey,D103,State House,54,,Total Votes,493,226,236,31
+Casey,D103,State House,54,,Under Votes,66,39,25,2
+Casey,D103,State House,54,,Over Votes,0,0,0,0
+Casey,D103,Commonwealth's Attorney,29,REP,Brian WRIGHT,490,225,236,29
+Casey,D103,Commonwealth's Attorney,29,,Total Votes,490,225,236,29
+Casey,D103,Commonwealth's Attorney,29,,Under Votes,65,40,23,2
+Casey,D103,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,D103,Circuit Clerk,,,"Cameron CAIN REP ",508,238,239,31
+Casey,D103,Circuit Clerk,,,Total Votes,508,238,239,31
+Casey,D103,Circuit Clerk,,,Under Votes,52,27,23,2
+Casey,D103,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",356,170,163,23
+Casey,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",155,69,80,6
+Casey,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,511,239,243,29
+Casey,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,43,22,17,4
+Casey,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,2,0
+Casey,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,201,81,106,14
+Casey,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,339,172,152,15
+Casey,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,540,253,258,29
+Casey,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,12,4,4
+Casey,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Casey,D104,STRAIGHT PARTY,,REP,Republican Party,59,20,35,4
+Casey,D104,STRAIGHT PARTY,,DEM,Democratic Party,9,6,3,0
+Casey,D104,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Casey,D104,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
+Casey,D104,STRAIGHT PARTY,,,Total Votes,70,27,39,4
+Casey,D104,STRAIGHT PARTY,,,Under Votes,86,42,38,6
+Casey,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Casey,D104,President,,REP,Donald J. TRUMP / JD VANCE,126,55,61,10
+Casey,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,27,11,16,0
+Casey,D104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Casey,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Casey,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Casey,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
+Casey,D104,President,,,Total Votes,156,69,77,10
+Casey,D104,President,,,Under Votes,0,0,0,0
+Casey,D104,President,,,Over Votes,0,0,0,0
+Casey,D104,U.S. House,1,REP,James R. COMER,127,55,63,9
+Casey,D104,U.S. House,1,DEM,Erin MARSHALL,23,11,12,0
+Casey,D104,U.S. House,1,,Total Votes,150,66,75,9
+Casey,D104,U.S. House,1,,Under Votes,6,3,2,1
+Casey,D104,U.S. House,1,,Over Votes,0,0,0,0
+Casey,D104,State Senate,21,REP,Brandon J. STORM,116,48,60,8
+Casey,D104,State Senate,21,,Total Votes,116,48,60,8
+Casey,D104,State Senate,21,,Under Votes,40,21,17,2
+Casey,D104,State Senate,21,,Over Votes,0,0,0,0
+Casey,D104,State House,54,REP,Daniel B. ELLIOTT,119,49,62,8
+Casey,D104,State House,54,,Total Votes,119,49,62,8
+Casey,D104,State House,54,,Under Votes,37,20,15,2
+Casey,D104,State House,54,,Over Votes,0,0,0,0
+Casey,D104,Commonwealth's Attorney,29,REP,Brian WRIGHT,128,53,66,9
+Casey,D104,Commonwealth's Attorney,29,,Total Votes,128,53,66,9
+Casey,D104,Commonwealth's Attorney,29,,Under Votes,28,16,11,1
+Casey,D104,Commonwealth's Attorney,29,,Over Votes,0,0,0,0
+Casey,D104,Circuit Clerk,,,"Cameron CAIN REP ",132,54,68,10
+Casey,D104,Circuit Clerk,,,Total Votes,132,54,68,10
+Casey,D104,Circuit Clerk,,,Under Votes,24,15,9,0
+Casey,D104,Circuit Clerk,,,Over Votes,0,0,0,0
+Casey,D104,CITY COUNCIL City of Liberty,,,"Brian BEELER ",68,34,30,4
+Casey,D104,CITY COUNCIL City of Liberty,,,"Larry F. BOWMER ",69,29,33,7
+Casey,D104,CITY COUNCIL City of Liberty,,,"Chase DIAL ",60,21,38,1
+Casey,D104,CITY COUNCIL City of Liberty,,,"Robert Lewis ALLEN ",80,40,32,8
+Casey,D104,CITY COUNCIL City of Liberty,,,"Ben BARLOW ",97,43,48,6
+Casey,D104,CITY COUNCIL City of Liberty,,,"Adam ELMORE ",47,17,27,3
+Casey,D104,CITY COUNCIL City of Liberty,,,"Chuck DORMAN ",39,14,22,3
+Casey,D104,CITY COUNCIL City of Liberty,,,"Nick TURNER ",62,31,28,3
+Casey,D104,CITY COUNCIL City of Liberty,,,Total Votes,522,229,258,35
+Casey,D104,CITY COUNCIL City of Liberty,,,Under Votes,413,185,203,25
+Casey,D104,CITY COUNCIL City of Liberty,,,Over Votes,0,0,0,0
+Casey,D104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",96,40,46,10
+Casey,D104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",48,23,25,0
+Casey,D104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,144,63,71,10
+Casey,D104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,11,6,5,0
+Casey,D104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
+Casey,D104,CONSTITUTIONAL AMENDMENT 2,,,YES,49,21,22,6
+Casey,D104,CONSTITUTIONAL AMENDMENT 2,,,NO,105,47,54,4
+Casey,D104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,154,68,76,10
+Casey,D104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,2,1,1,0
+Casey,D104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
