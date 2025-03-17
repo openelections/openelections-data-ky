@@ -1,0 +1,522 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee
+Livingston,A101,STRAIGHT PARTY,,REP,Republican Party,398,100,279,19
+Livingston,A101,STRAIGHT PARTY,,DEM,Democratic Party,102,27,65,10
+Livingston,A101,STRAIGHT PARTY,,KY,Kentucky Party,5,2,3,0
+Livingston,A101,STRAIGHT PARTY,,LIB,Libertarian Party,2,0,2,0
+Livingston,A101,STRAIGHT PARTY,,,Total Votes,507,129,349,29
+Livingston,A101,STRAIGHT PARTY,,,Under Votes,647,154,467,26
+Livingston,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,A101,President,,REP,Donald J. TRUMP / JD VANCE,906,220,654,32
+Livingston,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,228,61,145,22
+Livingston,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Livingston,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,1,9,0
+Livingston,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Livingston,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
+Livingston,A101,President,,,Write In Total,0,0,0,0
+Livingston,A101,President,,,Total Votes,1147,282,811,54
+Livingston,A101,President,,,Under Votes,7,1,5,1
+Livingston,A101,President,,,Over Votes,0,0,0,0
+Livingston,A101,U.S. House,1,REP,James R. COMER,918,226,657,35
+Livingston,A101,U.S. House,1,DEM,Erin MARSHALL,219,55,145,19
+Livingston,A101,U.S. House,1,,Total Votes,1137,281,802,54
+Livingston,A101,U.S. House,1,,Under Votes,17,2,14,1
+Livingston,A101,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,A101,State House,3,REP,Randy BRIDGES,891,215,645,31
+Livingston,A101,State House,3,DEM,Carrie Gottschalk SINGLER,239,61,156,22
+Livingston,A101,State House,3,,Total Votes,1130,276,801,53
+Livingston,A101,State House,3,,Under Votes,24,7,15,2
+Livingston,A101,State House,3,,Over Votes,0,0,0,0
+Livingston,A101,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,961,235,686,40
+Livingston,A101,Commonwealth's Attorney,56,,Total Votes,961,235,686,40
+Livingston,A101,Commonwealth's Attorney,56,,Under Votes,193,48,130,15
+Livingston,A101,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,A101,Circuit Clerk,,DEM,Debbie Harp KNOTH,733,170,523,40
+Livingston,A101,Circuit Clerk,,,Total Votes,733,170,523,40
+Livingston,A101,Circuit Clerk,,,Under Votes,421,113,293,15
+Livingston,A101,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,A101,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,603,149,422,32
+Livingston,A101,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,543,134,386,23
+Livingston,A101,COUNTY JUDGE/EXECUTIVE,,,Total Votes,1146,283,808,55
+Livingston,A101,COUNTY JUDGE/EXECUTIVE,,,Under Votes,8,0,8,0
+Livingston,A101,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,A101,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,A101,COUNTY SURVEYOR,,,Under Votes,1154,283,816,55
+Livingston,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,A101,CONSTABLE,,,ANNIE COLSON (W),7,3,4,0
+Livingston,A101,CONSTABLE,,,Total Votes,7,3,4,0
+Livingston,A101,CONSTABLE,,,Under Votes,1147,280,812,55
+Livingston,A101,CONSTABLE,,,Over Votes,0,0,0,0
+Livingston,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,472,113,340,19
+Livingston,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,261,70,177,14
+Livingston,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,733,183,517,33
+Livingston,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,421,100,299,22
+Livingston,A101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",644,160,444,40
+Livingston,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",365,93,260,12
+Livingston,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1009,253,704,52
+Livingston,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,144,29,112,3
+Livingston,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
+Livingston,A101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",373,97,258,18
+Livingston,A101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",672,165,471,36
+Livingston,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1045,262,729,54
+Livingston,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,108,20,87,1
+Livingston,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,1,0,0
+Livingston,A101,QUESTION-LIVINGSTON CANNABIS,,,YES,665,151,486,28
+Livingston,A101,QUESTION-LIVINGSTON CANNABIS,,,NO,378,113,240,25
+Livingston,A101,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,1043,264,726,53
+Livingston,A101,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,111,19,90,2
+Livingston,A101,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,B101,STRAIGHT PARTY,,REP,Republican Party,278,127,134,17
+Livingston,B101,STRAIGHT PARTY,,DEM,Democratic Party,88,36,34,18
+Livingston,B101,STRAIGHT PARTY,,KY,Kentucky Party,5,1,4,0
+Livingston,B101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Livingston,B101,STRAIGHT PARTY,,,Total Votes,371,164,172,35
+Livingston,B101,STRAIGHT PARTY,,,Under Votes,577,230,302,45
+Livingston,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,B101,President,,REP,Donald J. TRUMP / JD VANCE,749,310,393,46
+Livingston,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,174,75,66,33
+Livingston,B101,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,3,0
+Livingston,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,4,2,0
+Livingston,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
+Livingston,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,5,2,3,0
+Livingston,B101,President,,,Write In Total,0,0,0,0
+Livingston,B101,President,,,Total Votes,939,392,468,79
+Livingston,B101,President,,,Under Votes,9,2,6,1
+Livingston,B101,President,,,Over Votes,0,0,0,0
+Livingston,B101,U.S. House,1,REP,James R. COMER,752,318,387,47
+Livingston,B101,U.S. House,1,DEM,Erin MARSHALL,179,71,78,30
+Livingston,B101,U.S. House,1,,Total Votes,931,389,465,77
+Livingston,B101,U.S. House,1,,Under Votes,17,5,9,3
+Livingston,B101,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,B101,State House,3,REP,Randy BRIDGES,703,297,362,44
+Livingston,B101,State House,3,DEM,Carrie Gottschalk SINGLER,217,84,101,32
+Livingston,B101,State House,3,,Total Votes,920,381,463,76
+Livingston,B101,State House,3,,Under Votes,28,13,11,4
+Livingston,B101,State House,3,,Over Votes,0,0,0,0
+Livingston,B101,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,767,311,403,53
+Livingston,B101,Commonwealth's Attorney,56,,Total Votes,767,311,403,53
+Livingston,B101,Commonwealth's Attorney,56,,Under Votes,181,83,71,27
+Livingston,B101,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,B101,Circuit Clerk,,DEM,Debbie Harp KNOTH,663,247,359,57
+Livingston,B101,Circuit Clerk,,,Total Votes,663,247,359,57
+Livingston,B101,Circuit Clerk,,,Under Votes,285,147,115,23
+Livingston,B101,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,B101,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,498,222,234,42
+Livingston,B101,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,444,169,238,37
+Livingston,B101,COUNTY JUDGE/EXECUTIVE,,,Total Votes,942,391,472,79
+Livingston,B101,COUNTY JUDGE/EXECUTIVE,,,Under Votes,6,3,2,1
+Livingston,B101,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,B101,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,B101,COUNTY SURVEYOR,,,Under Votes,948,394,474,80
+Livingston,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,442,171,232,39
+Livingston,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,208,88,105,15
+Livingston,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,650,259,337,54
+Livingston,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,298,135,137,26
+Livingston,B101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,B101,Board of Education,2,,Tammy Hubbard SAYLE,611,228,332,51
+Livingston,B101,Board of Education,2,,Total Votes,611,228,332,51
+Livingston,B101,Board of Education,2,,Under Votes,337,166,142,29
+Livingston,B101,Board of Education,2,,Over Votes,0,0,0,0
+Livingston,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",548,247,257,44
+Livingston,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",333,120,187,26
+Livingston,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,881,367,444,70
+Livingston,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,64,27,27,10
+Livingston,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
+Livingston,B101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",329,159,151,19
+Livingston,B101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",574,212,308,54
+Livingston,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,903,371,459,73
+Livingston,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,23,14,7
+Livingston,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Livingston,B101,QUESTION-LIVINGSTON CANNABIS,,,YES,555,206,305,44
+Livingston,B101,QUESTION-LIVINGSTON CANNABIS,,,NO,351,164,156,31
+Livingston,B101,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,906,370,461,75
+Livingston,B101,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,42,24,13,5
+Livingston,B101,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,B102,STRAIGHT PARTY,,REP,Republican Party,170,52,106,12
+Livingston,B102,STRAIGHT PARTY,,DEM,Democratic Party,67,19,46,2
+Livingston,B102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,0,1
+Livingston,B102,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,2,1
+Livingston,B102,STRAIGHT PARTY,,,Total Votes,242,72,154,16
+Livingston,B102,STRAIGHT PARTY,,,Under Votes,267,71,174,22
+Livingston,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,B102,President,,REP,Donald J. TRUMP / JD VANCE,364,105,235,24
+Livingston,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,128,34,83,11
+Livingston,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Livingston,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,3,3,1
+Livingston,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Livingston,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Livingston,B102,President,,,Write In Total,0,0,0,0
+Livingston,B102,President,,,Total Votes,501,142,323,36
+Livingston,B102,President,,,Under Votes,8,1,5,2
+Livingston,B102,President,,,Over Votes,0,0,0,0
+Livingston,B102,U.S. House,1,REP,James R. COMER,367,104,239,24
+Livingston,B102,U.S. House,1,DEM,Erin MARSHALL,131,38,82,11
+Livingston,B102,U.S. House,1,,Total Votes,498,142,321,35
+Livingston,B102,U.S. House,1,,Under Votes,11,1,7,3
+Livingston,B102,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,B102,State House,3,REP,Randy BRIDGES,364,102,240,22
+Livingston,B102,State House,3,DEM,Carrie Gottschalk SINGLER,127,38,76,13
+Livingston,B102,State House,3,,Total Votes,491,140,316,35
+Livingston,B102,State House,3,,Under Votes,17,3,11,3
+Livingston,B102,State House,3,,Over Votes,1,0,1,0
+Livingston,B102,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,393,107,260,26
+Livingston,B102,Commonwealth's Attorney,56,,Total Votes,393,107,260,26
+Livingston,B102,Commonwealth's Attorney,56,,Under Votes,116,36,68,12
+Livingston,B102,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,B102,Circuit Clerk,,DEM,Debbie Harp KNOTH,323,86,212,25
+Livingston,B102,Circuit Clerk,,,Total Votes,323,86,212,25
+Livingston,B102,Circuit Clerk,,,Under Votes,186,57,116,13
+Livingston,B102,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,B102,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,272,83,166,23
+Livingston,B102,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,229,59,155,15
+Livingston,B102,COUNTY JUDGE/EXECUTIVE,,,Total Votes,501,142,321,38
+Livingston,B102,COUNTY JUDGE/EXECUTIVE,,,Under Votes,8,1,7,0
+Livingston,B102,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,B102,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,B102,COUNTY SURVEYOR,,,Under Votes,509,143,328,38
+Livingston,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,236,53,167,16
+Livingston,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,95,33,56,6
+Livingston,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,331,86,223,22
+Livingston,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,178,57,105,16
+Livingston,B102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,B102,Board of Education,2,,Tammy Hubbard SAYLE,316,80,212,24
+Livingston,B102,Board of Education,2,,Total Votes,316,80,212,24
+Livingston,B102,Board of Education,2,,Under Votes,193,63,116,14
+Livingston,B102,Board of Education,2,,Over Votes,0,0,0,0
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Pat GORBETT ",114,25,83,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Wanda EVANS ",119,23,90,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Michael D. O'LEARY ",117,22,89,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Oliver ""Bud"" HUNT ",124,28,90,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Mark SUNDERMAN ",126,28,92,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,"Scott L. PARSONS ",101,18,77,6
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,Total Votes,701,144,521,36
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,Under Votes,661,204,415,42
+Livingston,B102,CITY COUNCIL City of Grand Rivers,,,Over Votes,1,0,1,0
+Livingston,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,284,78,186,20
+Livingston,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,185,50,120,15
+Livingston,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,469,128,306,35
+Livingston,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,40,15,22,3
+Livingston,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Livingston,B102,CONSTITUTIONAL AMENDMENT 2,,,YES,182,52,120,10
+Livingston,B102,CONSTITUTIONAL AMENDMENT 2,,,NO,304,83,194,27
+Livingston,B102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,486,135,314,37
+Livingston,B102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,23,8,14,1
+Livingston,B102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Livingston,B102,QUESTION-LIVINGSTON CANNABIS,,,YES,310,82,204,24
+Livingston,B102,QUESTION-LIVINGSTON CANNABIS,,,NO,168,53,105,10
+Livingston,B102,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,478,135,309,34
+Livingston,B102,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,31,8,19,4
+Livingston,B102,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,C101,STRAIGHT PARTY,,REP,Republican Party,90,26,58,6
+Livingston,C101,STRAIGHT PARTY,,DEM,Democratic Party,21,3,11,7
+Livingston,C101,STRAIGHT PARTY,,KY,Kentucky Party,2,2,0,0
+Livingston,C101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Livingston,C101,STRAIGHT PARTY,,,Total Votes,113,31,69,13
+Livingston,C101,STRAIGHT PARTY,,,Under Votes,141,47,87,7
+Livingston,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,C101,President,,REP,Donald J. TRUMP / JD VANCE,208,68,129,11
+Livingston,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,42,8,25,9
+Livingston,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Livingston,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Livingston,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Livingston,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
+Livingston,C101,President,,,Write In Total,0,0,0,0
+Livingston,C101,President,,,Total Votes,253,78,155,20
+Livingston,C101,President,,,Under Votes,1,0,1,0
+Livingston,C101,President,,,Over Votes,0,0,0,0
+Livingston,C101,U.S. House,1,REP,James R. COMER,208,65,132,11
+Livingston,C101,U.S. House,1,DEM,Erin MARSHALL,41,10,22,9
+Livingston,C101,U.S. House,1,,Total Votes,249,75,154,20
+Livingston,C101,U.S. House,1,,Under Votes,5,3,2,0
+Livingston,C101,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,C101,State House,3,REP,Randy BRIDGES,193,60,122,11
+Livingston,C101,State House,3,DEM,Carrie Gottschalk SINGLER,48,11,28,9
+Livingston,C101,State House,3,,Total Votes,241,71,150,20
+Livingston,C101,State House,3,,Under Votes,13,7,6,0
+Livingston,C101,State House,3,,Over Votes,0,0,0,0
+Livingston,C101,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,210,63,134,13
+Livingston,C101,Commonwealth's Attorney,56,,Total Votes,210,63,134,13
+Livingston,C101,Commonwealth's Attorney,56,,Under Votes,44,15,22,7
+Livingston,C101,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,C101,Circuit Clerk,,DEM,Debbie Harp KNOTH,164,45,102,17
+Livingston,C101,Circuit Clerk,,,Total Votes,164,45,102,17
+Livingston,C101,Circuit Clerk,,,Under Votes,90,33,54,3
+Livingston,C101,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,C101,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,171,57,105,9
+Livingston,C101,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,82,20,51,11
+Livingston,C101,COUNTY JUDGE/EXECUTIVE,,,Total Votes,253,77,156,20
+Livingston,C101,COUNTY JUDGE/EXECUTIVE,,,Under Votes,1,1,0,0
+Livingston,C101,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,C101,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,C101,COUNTY SURVEYOR,,,Under Votes,254,78,156,20
+Livingston,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,90,31,53,6
+Livingston,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,54,15,37,2
+Livingston,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,144,46,90,8
+Livingston,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,110,32,66,12
+Livingston,C101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,C101,Board of Education,3,,David KITCHENS,56,11,39,6
+Livingston,C101,Board of Education,3,,Total Votes,56,11,39,6
+Livingston,C101,Board of Education,3,,Under Votes,38,15,21,2
+Livingston,C101,Board of Education,3,,Over Votes,0,0,0,0
+Livingston,C101,Board of Education,4,,Tony L. SANDERS,87,31,53,3
+Livingston,C101,Board of Education,4,,Total Votes,87,31,53,3
+Livingston,C101,Board of Education,4,,Under Votes,73,21,43,9
+Livingston,C101,Board of Education,4,,Over Votes,0,0,0,0
+Livingston,C101,CITY COMMISSIONERS City of Carrsville,,,,0,0,0,0
+Livingston,C101,CITY COMMISSIONERS City of Carrsville,,,Total Votes,0,0,0,0
+Livingston,C101,CITY COMMISSIONERS City of Carrsville,,,Under Votes,128,12,104,12
+Livingston,C101,CITY COMMISSIONERS City of Carrsville,,,Over Votes,0,0,0,0
+Livingston,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,143,51,85,7
+Livingston,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,77,14,54,9
+Livingston,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,220,65,139,16
+Livingston,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,13,17,4
+Livingston,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Livingston,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,99,44,51,4
+Livingston,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,138,31,94,13
+Livingston,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,237,75,145,17
+Livingston,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,3,11,3
+Livingston,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Livingston,C101,QUESTION-LIVINGSTON CANNABIS,,,YES,129,39,79,11
+Livingston,C101,QUESTION-LIVINGSTON CANNABIS,,,NO,102,30,64,8
+Livingston,C101,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,231,69,143,19
+Livingston,C101,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,23,9,13,1
+Livingston,C101,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,C102,STRAIGHT PARTY,,REP,Republican Party,275,80,184,11
+Livingston,C102,STRAIGHT PARTY,,DEM,Democratic Party,50,14,30,6
+Livingston,C102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
+Livingston,C102,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,4,0
+Livingston,C102,STRAIGHT PARTY,,,Total Votes,331,94,220,17
+Livingston,C102,STRAIGHT PARTY,,,Under Votes,510,123,362,25
+Livingston,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,C102,President,,REP,Donald J. TRUMP / JD VANCE,707,176,500,31
+Livingston,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,116,37,68,11
+Livingston,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Livingston,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,1,11,0
+Livingston,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Livingston,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
+Livingston,C102,President,,,Write In Total,0,0,0,0
+Livingston,C102,President,,,Total Votes,836,214,580,42
+Livingston,C102,President,,,Under Votes,5,3,2,0
+Livingston,C102,President,,,Over Votes,0,0,0,0
+Livingston,C102,U.S. House,1,REP,James R. COMER,700,178,492,30
+Livingston,C102,U.S. House,1,DEM,Erin MARSHALL,129,37,80,12
+Livingston,C102,U.S. House,1,,Total Votes,829,215,572,42
+Livingston,C102,U.S. House,1,,Under Votes,12,2,10,0
+Livingston,C102,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,C102,State House,3,REP,Randy BRIDGES,670,172,470,28
+Livingston,C102,State House,3,DEM,Carrie Gottschalk SINGLER,142,38,93,11
+Livingston,C102,State House,3,,Total Votes,812,210,563,39
+Livingston,C102,State House,3,,Under Votes,29,7,19,3
+Livingston,C102,State House,3,,Over Votes,0,0,0,0
+Livingston,C102,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,699,181,486,32
+Livingston,C102,Commonwealth's Attorney,56,,Total Votes,699,181,486,32
+Livingston,C102,Commonwealth's Attorney,56,,Under Votes,142,36,96,10
+Livingston,C102,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,C102,Circuit Clerk,,DEM,Debbie Harp KNOTH,569,137,401,31
+Livingston,C102,Circuit Clerk,,,Total Votes,569,137,401,31
+Livingston,C102,Circuit Clerk,,,Under Votes,272,80,181,11
+Livingston,C102,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,C102,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,437,121,286,30
+Livingston,C102,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,395,94,289,12
+Livingston,C102,COUNTY JUDGE/EXECUTIVE,,,Total Votes,832,215,575,42
+Livingston,C102,COUNTY JUDGE/EXECUTIVE,,,Under Votes,9,2,7,0
+Livingston,C102,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,C102,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,C102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,C102,COUNTY SURVEYOR,,,Under Votes,841,217,582,42
+Livingston,C102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,314,83,221,10
+Livingston,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,203,48,145,10
+Livingston,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,517,131,366,20
+Livingston,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,324,86,216,22
+Livingston,C102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,C102,Board of Education,3,,David KITCHENS,515,118,370,27
+Livingston,C102,Board of Education,3,,Total Votes,515,118,370,27
+Livingston,C102,Board of Education,3,,Under Votes,193,53,128,12
+Livingston,C102,Board of Education,3,,Over Votes,0,0,0,0
+Livingston,C102,Board of Education,4,,Tony L. SANDERS,96,32,62,2
+Livingston,C102,Board of Education,4,,Total Votes,96,32,62,2
+Livingston,C102,Board of Education,4,,Under Votes,37,14,22,1
+Livingston,C102,Board of Education,4,,Over Votes,0,0,0,0
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,"Darryl CHITTENDEN ",176,40,130,6
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,"Craig DOSSETT ",159,31,122,6
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,"Brandon DeBOE ",191,36,145,10
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,"Tiffany NEWCOMB ",184,37,137,10
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,Total Votes,710,144,534,32
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,Under Votes,638,128,486,24
+Livingston,C102,CITY COMMISSIONERS City of Salem,,,Over Votes,1,0,1,0
+Livingston,C102,QUESTION-SALEM CANNABIS,,,YES,173,31,133,9
+Livingston,C102,QUESTION-SALEM CANNABIS,,,NO,144,32,107,5
+Livingston,C102,QUESTION-SALEM CANNABIS,,,Total Votes,317,63,240,14
+Livingston,C102,QUESTION-SALEM CANNABIS,,,Under Votes,21,5,16,0
+Livingston,C102,QUESTION-SALEM CANNABIS,,,Over Votes,0,0,0,0
+Livingston,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,490,123,349,18
+Livingston,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,270,72,180,18
+Livingston,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,760,195,529,36
+Livingston,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,76,20,50,6
+Livingston,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,2,3,0
+Livingston,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,241,70,161,10
+Livingston,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,548,137,385,26
+Livingston,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,789,207,546,36
+Livingston,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,51,10,35,6
+Livingston,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
+Livingston,C102,QUESTION-LIVINGSTON CANNABIS,,,YES,417,90,307,20
+Livingston,C102,QUESTION-LIVINGSTON CANNABIS,,,NO,378,113,247,18
+Livingston,C102,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,795,203,554,38
+Livingston,C102,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,46,14,28,4
+Livingston,C102,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,D101,STRAIGHT PARTY,,REP,Republican Party,91,27,61,3
+Livingston,D101,STRAIGHT PARTY,,DEM,Democratic Party,23,5,14,4
+Livingston,D101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
+Livingston,D101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
+Livingston,D101,STRAIGHT PARTY,,,Total Votes,115,32,76,7
+Livingston,D101,STRAIGHT PARTY,,,Under Votes,201,43,144,14
+Livingston,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,D101,President,,REP,Donald J. TRUMP / JD VANCE,261,60,188,13
+Livingston,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,14,28,8
+Livingston,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Livingston,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
+Livingston,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
+Livingston,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Livingston,D101,President,,,Write In Total,0,0,0,0
+Livingston,D101,President,,,Total Votes,313,75,217,21
+Livingston,D101,President,,,Under Votes,3,0,3,0
+Livingston,D101,President,,,Over Votes,0,0,0,0
+Livingston,D101,U.S. House,1,REP,James R. COMER,259,61,186,12
+Livingston,D101,U.S. House,1,DEM,Erin MARSHALL,55,14,32,9
+Livingston,D101,U.S. House,1,,Total Votes,314,75,218,21
+Livingston,D101,U.S. House,1,,Under Votes,2,0,2,0
+Livingston,D101,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,D101,State House,3,REP,Randy BRIDGES,238,58,170,10
+Livingston,D101,State House,3,DEM,Carrie Gottschalk SINGLER,64,15,39,10
+Livingston,D101,State House,3,,Total Votes,302,73,209,20
+Livingston,D101,State House,3,,Under Votes,14,2,11,1
+Livingston,D101,State House,3,,Over Votes,0,0,0,0
+Livingston,D101,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,255,57,184,14
+Livingston,D101,Commonwealth's Attorney,56,,Total Votes,255,57,184,14
+Livingston,D101,Commonwealth's Attorney,56,,Under Votes,61,18,36,7
+Livingston,D101,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,D101,Circuit Clerk,,DEM,Debbie Harp KNOTH,222,43,162,17
+Livingston,D101,Circuit Clerk,,,Total Votes,222,43,162,17
+Livingston,D101,Circuit Clerk,,,Under Votes,94,32,58,4
+Livingston,D101,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,D101,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,177,49,114,14
+Livingston,D101,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,137,26,104,7
+Livingston,D101,COUNTY JUDGE/EXECUTIVE,,,Total Votes,314,75,218,21
+Livingston,D101,COUNTY JUDGE/EXECUTIVE,,,Under Votes,2,0,2,0
+Livingston,D101,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,D101,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,D101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,D101,COUNTY SURVEYOR,,,Under Votes,316,75,220,21
+Livingston,D101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,D101,CONSTABLE,,,,0,0,0,0
+Livingston,D101,CONSTABLE,,,Total Votes,0,0,0,0
+Livingston,D101,CONSTABLE,,,Under Votes,316,75,220,21
+Livingston,D101,CONSTABLE,,,Over Votes,0,0,0,0
+Livingston,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,126,26,94,6
+Livingston,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,78,20,52,6
+Livingston,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,204,46,146,12
+Livingston,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,112,29,74,9
+Livingston,D101,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,D101,Board of Education,4,,Tony L. SANDERS,189,42,137,10
+Livingston,D101,Board of Education,4,,Total Votes,189,42,137,10
+Livingston,D101,Board of Education,4,,Under Votes,127,33,83,11
+Livingston,D101,Board of Education,4,,Over Votes,0,0,0,0
+Livingston,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",186,51,126,9
+Livingston,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",101,20,72,9
+Livingston,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,287,71,198,18
+Livingston,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,4,22,3
+Livingston,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Livingston,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,88,30,56,2
+Livingston,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,205,39,148,18
+Livingston,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,293,69,204,20
+Livingston,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,23,6,16,1
+Livingston,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Livingston,D101,QUESTION-LIVINGSTON CANNABIS,,,YES,163,36,114,13
+Livingston,D101,QUESTION-LIVINGSTON CANNABIS,,,NO,132,36,90,6
+Livingston,D101,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,295,72,204,19
+Livingston,D101,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,21,3,16,2
+Livingston,D101,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,0,0,0,0
+Livingston,D102,STRAIGHT PARTY,,REP,Republican Party,334,122,195,17
+Livingston,D102,STRAIGHT PARTY,,DEM,Democratic Party,68,21,43,4
+Livingston,D102,STRAIGHT PARTY,,KY,Kentucky Party,9,0,9,0
+Livingston,D102,STRAIGHT PARTY,,LIB,Libertarian Party,4,0,4,0
+Livingston,D102,STRAIGHT PARTY,,,Total Votes,415,143,251,21
+Livingston,D102,STRAIGHT PARTY,,,Under Votes,573,230,310,33
+Livingston,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
+Livingston,D102,President,,REP,Donald J. TRUMP / JD VANCE,826,323,463,40
+Livingston,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,148,46,89,13
+Livingston,D102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,2,1
+Livingston,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
+Livingston,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
+Livingston,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
+Livingston,D102,President,,,Write In Total,0,0,0,0
+Livingston,D102,President,,,Total Votes,983,370,559,54
+Livingston,D102,President,,,Under Votes,5,3,2,0
+Livingston,D102,President,,,Over Votes,0,0,0,0
+Livingston,D102,U.S. House,1,REP,James R. COMER,801,313,449,39
+Livingston,D102,U.S. House,1,DEM,Erin MARSHALL,160,50,96,14
+Livingston,D102,U.S. House,1,,Total Votes,961,363,545,53
+Livingston,D102,U.S. House,1,,Under Votes,27,10,16,1
+Livingston,D102,U.S. House,1,,Over Votes,0,0,0,0
+Livingston,D102,State House,3,REP,Randy BRIDGES,763,302,425,36
+Livingston,D102,State House,3,DEM,Carrie Gottschalk SINGLER,195,62,119,14
+Livingston,D102,State House,3,,Total Votes,958,364,544,50
+Livingston,D102,State House,3,,Under Votes,30,9,17,4
+Livingston,D102,State House,3,,Over Votes,0,0,0,0
+Livingston,D102,Commonwealth's Attorney,56,REP,Carrie L. OVEY-WIGGINS,817,315,459,43
+Livingston,D102,Commonwealth's Attorney,56,,Total Votes,817,315,459,43
+Livingston,D102,Commonwealth's Attorney,56,,Under Votes,171,58,102,11
+Livingston,D102,Commonwealth's Attorney,56,,Over Votes,0,0,0,0
+Livingston,D102,Circuit Clerk,,DEM,Debbie Harp KNOTH,632,237,362,33
+Livingston,D102,Circuit Clerk,,,Total Votes,632,237,362,33
+Livingston,D102,Circuit Clerk,,,Under Votes,356,136,199,21
+Livingston,D102,Circuit Clerk,,,Over Votes,0,0,0,0
+Livingston,D102,COUNTY JUDGE/EXECUTIVE,,REP,Michael WILLIAMS,524,200,290,34
+Livingston,D102,COUNTY JUDGE/EXECUTIVE,,DEM,Teris SWANSON,457,171,267,19
+Livingston,D102,COUNTY JUDGE/EXECUTIVE,,,Total Votes,981,371,557,53
+Livingston,D102,COUNTY JUDGE/EXECUTIVE,,,Under Votes,7,2,4,1
+Livingston,D102,COUNTY JUDGE/EXECUTIVE,,,Over Votes,0,0,0,0
+Livingston,D102,COUNTY SURVEYOR,,,,0,0,0,0
+Livingston,D102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
+Livingston,D102,COUNTY SURVEYOR,,,Under Votes,988,373,561,54
+Livingston,D102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
+Livingston,D102,CONSTABLE,,,,0,0,0,0
+Livingston,D102,CONSTABLE,,,Total Votes,0,0,0,0
+Livingston,D102,CONSTABLE,,,Under Votes,988,373,561,54
+Livingston,D102,CONSTABLE,,,Over Votes,0,0,0,0
+Livingston,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Lisa Payne JONES,408,137,250,21
+Livingston,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Jason Shea FLEMING,237,91,130,16
+Livingston,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Total Votes,645,228,380,37
+Livingston,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Under Votes,343,145,181,17
+Livingston,D102,JUDGE of the COURT of APPEALS 1st Appellate District 2nd Division,,,Over Votes,0,0,0,0
+Livingston,D102,Board of Education,2,,Tammy Hubbard SAYLE,34,14,16,4
+Livingston,D102,Board of Education,2,,Total Votes,34,14,16,4
+Livingston,D102,Board of Education,2,,Under Votes,13,6,5,2
+Livingston,D102,Board of Education,2,,Over Votes,0,0,0,0
+Livingston,D102,CITY COMMISSIONERS City of Smithland,,,Write In Total,17,16,0,1
+Livingston,D102,CITY COMMISSIONERS City of Smithland,,,Total Votes,17,16,0,1
+Livingston,D102,CITY COMMISSIONERS City of Smithland,,,Under Votes,587,256,312,19
+Livingston,D102,CITY COMMISSIONERS City of Smithland,,,Over Votes,0,0,0,0
+Livingston,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,566,217,315,34
+Livingston,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,307,118,173,16
+Livingston,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,873,335,488,50
+Livingston,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,115,38,73,4
+Livingston,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
+Livingston,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,351,150,183,18
+Livingston,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,556,201,322,33
+Livingston,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,907,351,505,51
+Livingston,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,81,22,56,3
+Livingston,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
+Livingston,D102,QUESTION-LIVINGSTON CANNABIS,,,YES,522,174,315,33
+Livingston,D102,QUESTION-LIVINGSTON CANNABIS,,,NO,372,170,182,20
+Livingston,D102,QUESTION-LIVINGSTON CANNABIS,,,Total Votes,894,344,497,53
+Livingston,D102,QUESTION-LIVINGSTON CANNABIS,,,Under Votes,93,28,64,1
+Livingston,D102,QUESTION-LIVINGSTON CANNABIS,,,Over Votes,1,1,0,0
