@@ -60,7 +60,7 @@ def download_county_files(url, filename):
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
-        except:
+        except Exception:
             no_xml.append(sub.name)
 
     print(no_xml)
@@ -77,7 +77,7 @@ def download_county_files_new(state, json_url, filename):
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(name.replace(' ','_').lower(),filename)
-        except:
+        except Exception:
             no_xml.append(name)
     print(no_xml)
 
