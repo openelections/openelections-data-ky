@@ -10,7 +10,7 @@ Marion,A101,U.S. Senate,,Republican,Daniel CAMERON,101,21,80,0,0
 Marion,A101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Marion,A101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Marion,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,1,2,0,0
-Marion,A101,U.S. Senate,,,Under Votes,21,7,14,0,0
+Marion,A101,U.S. Senate,,,Under Votes,113,34,79,0,0
 Marion,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Marion,A101,Ballots Cast,,,,908,,,,
 Marion,A101,U.S. House,1,Republican,David SIMS,23,4,19,0,0
@@ -26,8 +26,8 @@ Marion,A101,State Senate,14,Republican,Ben MUDD,194,44,147,3,0
 Marion,A101,State Senate,14,Republican,Stephen CARNEY,49,11,38,0,0
 Marion,A101,State Senate,14,Republican,Dallas ROBINSON,38,5,33,0,0
 Marion,A101,State Senate,14,Republican,Lynn SHELBURNE,6,0,6,0,0
-Marion,A101,State Senate,14,,Under Votes,10,0,10,0,0
-Marion,A101,State Senate,14,,Over Votes,0,0,0,0,0
+Marion,A101,State Senate,14,,Under Votes,52,12,39,1,0
+Marion,A101,State Senate,14,,Over Votes,2,1,1,0,0
 Marion,A101,County Judge/Executive,,,Joe STRONG,185,35,149,1,0
 Marion,A101,County Judge/Executive,,,Under Votes,63,11,52,0,0
 Marion,A101,County Judge/Executive,,,Over Votes,1,0,1,0,0
@@ -38,12 +38,8 @@ Marion,A101,U.S. Senate,,Democratic,Pamela STEVENSON,24,3,20,1,0
 Marion,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,27,8,19,0,0
 Marion,A101,U.S. Senate,,Democratic,Logan FORSYTHE,8,2,6,0,0
 Marion,A101,U.S. Senate,,Democratic,Amy McGRATH,231,71,154,6,0
-Marion,A101,U.S. Senate,,,Under Votes,92,27,65,0,0
-Marion,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Marion,A101,State Senate,14,Democratic,Carrie Gribbins TRUITT,443,124,308,11,0
 Marion,A101,State Senate,14,Democratic,Malcolm W. JONES,99,25,73,1,0
-Marion,A101,State Senate,14,,Under Votes,42,12,29,1,0
-Marion,A101,State Senate,14,,Over Votes,2,1,1,0,0
 Marion,A101,Sheriff,,,Ray GARDNER,198,51,137,10,0
 Marion,A101,Sheriff,,,William Chad RAKES,46,5,40,1,0
 Marion,A101,Sheriff,,,Jeff CALDWELL,337,106,229,2,0
@@ -64,8 +60,8 @@ Marion,C101,U.S. Senate,,Republican,Daniel CAMERON,73,28,43,2,0
 Marion,C101,U.S. Senate,,Republican,Anissa CATLETT,4,1,3,0,0
 Marion,C101,U.S. Senate,,Republican,Michael James FARIS,5,2,3,0,0
 Marion,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,0,3,0,0
-Marion,C101,U.S. Senate,,,Under Votes,11,1,10,0,0
-Marion,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Marion,C101,U.S. Senate,,,Under Votes,70,28,41,1,0
+Marion,C101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Marion,C101,Ballots Cast,,,,858,,,,
 Marion,C101,U.S. House,1,Republican,David SIMS,21,5,16,0,0
 Marion,C101,U.S. House,1,Republican,Robert James SUTHERBY,5,2,3,0,0
@@ -80,8 +76,8 @@ Marion,C101,State Senate,14,Republican,Ben MUDD,184,62,115,5,2
 Marion,C101,State Senate,14,Republican,Stephen CARNEY,31,6,25,0,0
 Marion,C101,State Senate,14,Republican,Dallas ROBINSON,33,19,14,0,0
 Marion,C101,State Senate,14,Republican,Lynn SHELBURNE,3,0,3,0,0
-Marion,C101,State Senate,14,,Under Votes,8,1,7,0,0
-Marion,C101,State Senate,14,,Over Votes,0,0,0,0,0
+Marion,C101,State Senate,14,,Under Votes,59,19,39,1,0
+Marion,C101,State Senate,14,,Over Votes,1,0,1,0,0
 Marion,C101,County Judge/Executive,,,Joe STRONG,141,46,93,2,0
 Marion,C101,County Judge/Executive,,,Under Votes,56,20,33,2,1
 Marion,C101,County Judge/Executive,,,Over Votes,0,0,0,0,0
@@ -92,12 +88,8 @@ Marion,C101,U.S. Senate,,Democratic,Pamela STEVENSON,21,8,11,2,0
 Marion,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,30,11,19,0,0
 Marion,C101,U.S. Senate,,Democratic,Logan FORSYTHE,10,0,10,0,0
 Marion,C101,U.S. Senate,,Democratic,Amy McGRATH,216,87,116,12,1
-Marion,C101,U.S. Senate,,,Under Votes,59,27,31,1,0
-Marion,C101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Marion,C101,State Senate,14,Democratic,Carrie Gribbins TRUITT,447,184,244,17,2
 Marion,C101,State Senate,14,Democratic,Malcolm W. JONES,81,25,54,2,0
-Marion,C101,State Senate,14,,Under Votes,51,18,32,1,0
-Marion,C101,State Senate,14,,Over Votes,1,0,1,0,0
 Marion,C101,Sheriff,,,Ray GARDNER,237,87,136,12,2
 Marion,C101,Sheriff,,,William Chad RAKES,41,13,26,2,0
 Marion,C101,Sheriff,,,Jeff CALDWELL,291,123,163,5,0
@@ -122,8 +114,8 @@ Marion,D101,U.S. Senate,,Republican,Daniel CAMERON,118,35,83,0,0
 Marion,D101,U.S. Senate,,Republican,Anissa CATLETT,5,2,3,0,0
 Marion,D101,U.S. Senate,,Republican,Michael James FARIS,10,2,8,0,0
 Marion,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
-Marion,D101,U.S. Senate,,,Under Votes,22,4,18,0,0
-Marion,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Marion,D101,U.S. Senate,,,Under Votes,114,33,81,0,0
+Marion,D101,U.S. Senate,,,Over Votes,1,1,0,0,0
 Marion,D101,Ballots Cast,,,,1032,,,,
 Marion,D101,U.S. House,1,Republican,David SIMS,26,8,18,0,0
 Marion,D101,U.S. House,1,Republican,Robert James SUTHERBY,10,2,8,0,0
@@ -138,7 +130,7 @@ Marion,D101,State Senate,14,Republican,Ben MUDD,246,84,161,0,1
 Marion,D101,State Senate,14,Republican,Stephen CARNEY,31,8,23,0,0
 Marion,D101,State Senate,14,Republican,Dallas ROBINSON,70,17,53,0,0
 Marion,D101,State Senate,14,Republican,Lynn SHELBURNE,1,1,0,0,0
-Marion,D101,State Senate,14,,Under Votes,9,1,8,0,0
+Marion,D101,State Senate,14,,Under Votes,73,20,53,0,0
 Marion,D101,State Senate,14,,Over Votes,0,0,0,0,0
 Marion,D101,County Judge/Executive,,,Joe STRONG,196,60,135,0,1
 Marion,D101,County Judge/Executive,,,Under Votes,79,27,52,0,0
@@ -150,12 +142,8 @@ Marion,D101,U.S. Senate,,Democratic,Pamela STEVENSON,19,4,14,1,0
 Marion,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,64,16,45,2,1
 Marion,D101,U.S. Senate,,Democratic,Logan FORSYTHE,13,6,7,0,0
 Marion,D101,U.S. Senate,,Democratic,Amy McGRATH,253,86,163,2,2
-Marion,D101,U.S. Senate,,,Under Votes,92,29,63,0,0
-Marion,D101,U.S. Senate,,,Over Votes,1,1,0,0,0
 Marion,D101,State Senate,14,Democratic,Carrie Gribbins TRUITT,525,164,350,8,3
 Marion,D101,State Senate,14,Democratic,Malcolm W. JONES,65,18,45,1,1
-Marion,D101,State Senate,14,,Under Votes,64,19,45,0,0
-Marion,D101,State Senate,14,,Over Votes,0,0,0,0,0
 Marion,D101,Sheriff,,,Ray GARDNER,248,82,162,3,1
 Marion,D101,Sheriff,,,William Chad RAKES,32,13,18,0,1
 Marion,D101,Sheriff,,,Jeff CALDWELL,367,106,254,5,2
@@ -176,7 +164,7 @@ Marion,E101,U.S. Senate,,Republican,Daniel CAMERON,86,22,64,0,0
 Marion,E101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Marion,E101,U.S. Senate,,Republican,Michael James FARIS,10,2,7,1,0
 Marion,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,2,0,0,0
-Marion,E101,U.S. Senate,,,Under Votes,14,2,12,0,0
+Marion,E101,U.S. Senate,,,Under Votes,94,20,70,4,0
 Marion,E101,U.S. Senate,,,Over Votes,1,1,0,0,0
 Marion,E101,Ballots Cast,,,,1020,,,,
 Marion,E101,U.S. House,1,Republican,David SIMS,36,9,27,0,0
@@ -192,7 +180,7 @@ Marion,E101,State Senate,14,Republican,Ben MUDD,204,44,158,0,2
 Marion,E101,State Senate,14,Republican,Stephen CARNEY,39,5,34,0,0
 Marion,E101,State Senate,14,Republican,Dallas ROBINSON,72,10,60,2,0
 Marion,E101,State Senate,14,Republican,Lynn SHELBURNE,5,2,3,0,0
-Marion,E101,State Senate,14,,Under Votes,5,1,4,0,0
+Marion,E101,State Senate,14,,Under Votes,55,9,46,0,0
 Marion,E101,State Senate,14,,Over Votes,0,0,0,0,0
 Marion,E101,County Judge/Executive,,,Joe STRONG,191,33,155,1,2
 Marion,E101,County Judge/Executive,,,Under Votes,59,16,43,0,0
@@ -204,12 +192,8 @@ Marion,E101,U.S. Senate,,Democratic,Pamela STEVENSON,21,5,16,0,0
 Marion,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,38,7,29,1,1
 Marion,E101,U.S. Senate,,Democratic,Logan FORSYTHE,14,1,13,0,0
 Marion,E101,U.S. Senate,,Democratic,Amy McGRATH,290,88,194,6,2
-Marion,E101,U.S. Senate,,,Under Votes,80,18,58,4,0
-Marion,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Marion,E101,State Senate,14,Democratic,Carrie Gribbins TRUITT,515,144,355,13,3
 Marion,E101,State Senate,14,Democratic,Malcolm W. JONES,91,17,72,1,1
-Marion,E101,State Senate,14,,Under Votes,50,8,42,0,0
-Marion,E101,State Senate,14,,Over Votes,0,0,0,0,0
 Marion,E101,Sheriff,,,Ray GARDNER,239,67,167,4,1
 Marion,E101,Sheriff,,,William Chad RAKES,31,3,26,1,1
 Marion,E101,Sheriff,,,Jeff CALDWELL,378,98,269,9,2
@@ -234,8 +218,8 @@ Marion,H101,U.S. Senate,,Republican,Daniel CAMERON,120,21,98,1,0
 Marion,H101,U.S. Senate,,Republican,Anissa CATLETT,5,1,4,0,0
 Marion,H101,U.S. Senate,,Republican,Michael James FARIS,7,2,5,0,0
 Marion,H101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,0,3,0,0
-Marion,H101,U.S. Senate,,,Under Votes,18,7,11,0,0
-Marion,H101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Marion,H101,U.S. Senate,,,Under Votes,98,15,82,1,0
+Marion,H101,U.S. Senate,,,Over Votes,1,0,0,1,0
 Marion,H101,Ballots Cast,,,,1030,,,,
 Marion,H101,U.S. House,1,Republican,David SIMS,39,4,35,0,0
 Marion,H101,U.S. House,1,Republican,Robert James SUTHERBY,17,2,15,0,0
@@ -250,8 +234,8 @@ Marion,H101,State Senate,14,Republican,Ben MUDD,210,38,170,2,0
 Marion,H101,State Senate,14,Republican,Stephen CARNEY,36,8,28,0,0
 Marion,H101,State Senate,14,Republican,Dallas ROBINSON,38,3,34,1,0
 Marion,H101,State Senate,14,Republican,Lynn SHELBURNE,1,0,1,0,0
-Marion,H101,State Senate,14,,Under Votes,10,3,7,0,0
-Marion,H101,State Senate,14,,Over Votes,0,0,0,0,0
+Marion,H101,State Senate,14,,Under Votes,89,12,75,2,0
+Marion,H101,State Senate,14,,Over Votes,1,0,0,1,0
 Marion,H101,County Judge/Executive,,,Joe STRONG,174,25,148,1,0
 Marion,H101,County Judge/Executive,,,Under Votes,74,16,57,0,1
 Marion,H101,County Judge/Executive,,,Over Votes,0,0,0,0,0
@@ -262,12 +246,8 @@ Marion,H101,U.S. Senate,,Democratic,Pamela STEVENSON,18,4,13,1,0
 Marion,H101,U.S. Senate,,Democratic,Dale Lewis ROMANS,37,3,34,0,0
 Marion,H101,U.S. Senate,,Democratic,Logan FORSYTHE,20,6,14,0,0
 Marion,H101,U.S. Senate,,Democratic,Amy McGRATH,284,47,199,38,0
-Marion,H101,U.S. Senate,,,Under Votes,80,8,71,1,0
-Marion,H101,U.S. Senate,,,Over Votes,1,0,0,1,0
 Marion,H101,State Senate,14,Democratic,Carrie Gribbins TRUITT,523,86,394,43,0
 Marion,H101,State Senate,14,Democratic,Malcolm W. JONES,81,11,67,3,0
-Marion,H101,State Senate,14,,Under Votes,79,9,68,2,0
-Marion,H101,State Senate,14,,Over Votes,1,0,0,1,0
 Marion,H101,Sheriff,,,Ray GARDNER,404,62,312,30,0
 Marion,H101,Sheriff,,,William Chad RAKES,13,0,10,3,0
 Marion,H101,Sheriff,,,Jeff CALDWELL,260,44,203,13,0

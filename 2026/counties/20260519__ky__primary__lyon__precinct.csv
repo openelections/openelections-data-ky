@@ -10,7 +10,7 @@ Lyon,A101,U.S. Senate,,Republican,Daniel CAMERON,25,2,19,4,0
 Lyon,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Lyon,A101,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Lyon,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Lyon,A101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lyon,A101,U.S. Senate,,,Under Votes,3,0,3,0,0
 Lyon,A101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Lyon,A101,Ballots Cast,,,,225,,,,
 Lyon,A101,U.S. House,1,Republican,David SIMS,8,0,8,0,0
@@ -26,8 +26,6 @@ Lyon,A101,U.S. Senate,,Democratic,Pamela STEVENSON,3,2,1,0,0
 Lyon,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
 Lyon,A101,U.S. Senate,,Democratic,Logan FORSYTHE,13,2,10,0,1
 Lyon,A101,U.S. Senate,,Democratic,Amy McGRATH,36,10,22,3,1
-Lyon,A101,U.S. Senate,,,Under Votes,3,0,3,0,0
-Lyon,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Lyon,A102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Lyon,A102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
@@ -39,7 +37,7 @@ Lyon,A102,U.S. Senate,,Republican,Daniel CAMERON,17,2,15,0,0
 Lyon,A102,U.S. Senate,,Republican,Anissa CATLETT,1,1,0,0,0
 Lyon,A102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Lyon,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Lyon,A102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lyon,A102,U.S. Senate,,,Under Votes,3,1,2,0,0
 Lyon,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,A102,Ballots Cast,,,,223,,,,
 Lyon,A102,U.S. House,1,Republican,David SIMS,12,2,10,0,0
@@ -55,8 +53,6 @@ Lyon,A102,U.S. Senate,,Democratic,Pamela STEVENSON,1,1,0,0,0
 Lyon,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Lyon,A102,U.S. Senate,,Democratic,Logan FORSYTHE,28,8,20,0,0
 Lyon,A102,U.S. Senate,,Democratic,Amy McGRATH,36,4,31,1,0
-Lyon,A102,U.S. Senate,,,Under Votes,3,1,2,0,0
-Lyon,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Lyon,B101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
 Lyon,B101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
@@ -84,8 +80,6 @@ Lyon,B101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Lyon,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Lyon,B101,U.S. Senate,,Democratic,Logan FORSYTHE,28,5,22,1,0
 Lyon,B101,U.S. Senate,,Democratic,Amy McGRATH,26,5,21,0,0
-Lyon,B101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Lyon,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Lyon,B102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
 Lyon,B102,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
@@ -97,7 +91,7 @@ Lyon,B102,U.S. Senate,,Republican,Daniel CAMERON,21,3,16,0,2
 Lyon,B102,U.S. Senate,,Republican,Anissa CATLETT,1,1,0,0,0
 Lyon,B102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Lyon,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Lyon,B102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lyon,B102,U.S. Senate,,,Under Votes,2,0,2,0,0
 Lyon,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,B102,Ballots Cast,,,,167,,,,
 Lyon,B102,U.S. House,1,Republican,David SIMS,3,1,2,0,0
@@ -113,8 +107,6 @@ Lyon,B102,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Lyon,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,0,1,0
 Lyon,B102,U.S. Senate,,Democratic,Logan FORSYTHE,24,6,18,0,0
 Lyon,B102,U.S. Senate,,Democratic,Amy McGRATH,23,3,19,1,0
-Lyon,B102,U.S. Senate,,,Under Votes,2,0,2,0,0
-Lyon,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Lyon,C101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Lyon,C101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
@@ -126,8 +118,8 @@ Lyon,C101,U.S. Senate,,Republican,Daniel CAMERON,35,4,30,0,1
 Lyon,C101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Lyon,C101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Lyon,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Lyon,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Lyon,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lyon,C101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Lyon,C101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Lyon,C101,Ballots Cast,,,,268,,,,
 Lyon,C101,U.S. House,1,Republican,David SIMS,3,0,3,0,0
 Lyon,C101,U.S. House,1,Republican,Robert James SUTHERBY,4,0,4,0,0
@@ -142,8 +134,6 @@ Lyon,C101,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
 Lyon,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Lyon,C101,U.S. Senate,,Democratic,Logan FORSYTHE,32,4,27,0,1
 Lyon,C101,U.S. Senate,,Democratic,Amy McGRATH,37,6,28,3,0
-Lyon,C101,U.S. Senate,,,Under Votes,2,0,2,0,0
-Lyon,C101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Lyon,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Lyon,C102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Lyon,C102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
@@ -155,7 +145,7 @@ Lyon,C102,U.S. Senate,,Republican,Daniel CAMERON,28,8,20,0,0
 Lyon,C102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Lyon,C102,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
 Lyon,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
-Lyon,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lyon,C102,U.S. Senate,,,Under Votes,3,0,3,0,0
 Lyon,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Lyon,C102,Ballots Cast,,,,230,,,,
 Lyon,C102,U.S. House,1,Republican,David SIMS,4,0,4,0,0
@@ -171,5 +161,3 @@ Lyon,C102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Lyon,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Lyon,C102,U.S. Senate,,Democratic,Logan FORSYTHE,37,5,30,1,1
 Lyon,C102,U.S. Senate,,Democratic,Amy McGRATH,35,7,28,0,0
-Lyon,C102,U.S. Senate,,,Under Votes,3,0,3,0,0
-Lyon,C102,U.S. Senate,,,Over Votes,0,0,0,0,0

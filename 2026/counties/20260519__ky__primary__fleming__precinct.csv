@@ -11,7 +11,7 @@ Fleming,A101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Fleming,A101,U.S. Senate,,Republican,Andy BARR,106,9,96,0,1
 Fleming,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,A101,U.S. Senate,,Republican,Nate MORRIS,4,0,4,0,0
-Fleming,A101,U.S. Senate,,,Under Votes,7,1,6,0,0
+Fleming,A101,U.S. Senate,,,Under Votes,20,2,16,2,0
 Fleming,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A101,Ballots Cast,,,,252,,,,
 Fleming,A101,U.S. House,6,Republican,Gregory George PLUCINSKI,13,0,13,0,0
@@ -19,7 +19,7 @@ Fleming,A101,U.S. House,6,Republican,Adam Perez ARQUETTE,3,0,3,0,0
 Fleming,A101,U.S. House,6,Republican,Ralph ALVARADO,80,8,72,0,0
 Fleming,A101,U.S. House,6,Republican,Steve SHANNON,7,0,7,0,0
 Fleming,A101,U.S. House,6,Republican,Ryan DOTSON,39,5,33,0,1
-Fleming,A101,U.S. House,6,,Under Votes,19,2,17,0,0
+Fleming,A101,U.S. House,6,,Under Votes,37,4,32,1,0
 Fleming,A101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A101,Property Valuation Administrator,,,David J. DeATLEY,49,2,46,0,1
 Fleming,A101,Property Valuation Administrator,,,Stephanie HARDIN,107,13,94,0,0
@@ -40,7 +40,7 @@ Fleming,A101,Coroner,,,Under Votes,9,1,8,0,0
 Fleming,A101,Coroner,,,Over Votes,0,0,0,0,0
 Fleming,A101,Magistrate,,,Dennis Scott MASTERS,76,7,69,0,0
 Fleming,A101,Magistrate,,,Kerri L. MARSHALL,79,7,71,0,1
-Fleming,A101,Magistrate,,,Under Votes,6,1,5,0,0
+Fleming,A101,Magistrate,,,Under Votes,8,1,7,0,0
 Fleming,A101,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,A101,U.S. Senate,,Democratic,Pamela STEVENSON,9,2,7,0,0
 Fleming,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
@@ -49,8 +49,6 @@ Fleming,A101,U.S. Senate,,Democratic,Charles BOOKER,19,5,13,1,0
 Fleming,A101,U.S. Senate,,Democratic,Amy McGRATH,30,1,29,0,0
 Fleming,A101,U.S. Senate,,Democratic,Logan FORSYTHE,7,1,6,0,0
 Fleming,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,7,1,6,0,0
-Fleming,A101,U.S. Senate,,,Under Votes,13,1,10,2,0
-Fleming,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A101,U.S. House,6,Democratic,Harvey CARROLL JR.,10,2,7,1,0
 Fleming,A101,U.S. House,6,Democratic,David KLOIBER,6,2,4,0,0
 Fleming,A101,U.S. House,6,Democratic,Erin PETREY,4,0,4,0,0
@@ -58,13 +56,9 @@ Fleming,A101,U.S. House,6,Democratic,Cherlynn STEVENSON,19,1,17,1,0
 Fleming,A101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Fleming,A101,U.S. House,6,Democratic,Corey EDWARDS,12,2,10,0,0
 Fleming,A101,U.S. House,6,Democratic,Zach DEMBO,19,2,17,0,0
-Fleming,A101,U.S. House,6,,Under Votes,18,2,15,1,0
-Fleming,A101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A101,Magistrate,,,Mollie DAILEY,33,7,23,3,0
 Fleming,A101,Magistrate,,,William M. HENDRIX JR.,30,4,26,0,0
 Fleming,A101,Magistrate,,,Brandon WILLIAMS,26,0,26,0,0
-Fleming,A101,Magistrate,,,Under Votes,2,0,2,0,0
-Fleming,A101,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,A102,U.S. Senate,,Republican,A. Nick SHELLEY,4,0,3,0,1
 Fleming,A102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,A102,U.S. Senate,,Republican,Daniel CAMERON,21,1,20,0,0
@@ -77,7 +71,7 @@ Fleming,A102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Fleming,A102,U.S. Senate,,Republican,Andy BARR,61,10,46,1,4
 Fleming,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,A102,U.S. Senate,,Republican,Nate MORRIS,3,0,3,0,0
-Fleming,A102,U.S. Senate,,,Under Votes,3,0,1,0,2
+Fleming,A102,U.S. Senate,,,Under Votes,5,0,3,0,2
 Fleming,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A102,Ballots Cast,,,,136,,,,
 Fleming,A102,U.S. House,6,Republican,Gregory George PLUCINSKI,4,0,4,0,0
@@ -85,7 +79,7 @@ Fleming,A102,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,0,0,1
 Fleming,A102,U.S. House,6,Republican,Ralph ALVARADO,42,6,33,0,3
 Fleming,A102,U.S. House,6,Republican,Steve SHANNON,11,0,10,0,1
 Fleming,A102,U.S. House,6,Republican,Ryan DOTSON,28,5,23,0,0
-Fleming,A102,U.S. House,6,,Under Votes,9,0,6,1,2
+Fleming,A102,U.S. House,6,,Under Votes,14,0,11,1,2
 Fleming,A102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A102,Property Valuation Administrator,,,David J. DeATLEY,39,2,36,1,0
 Fleming,A102,Property Valuation Administrator,,,Stephanie HARDIN,55,9,39,0,7
@@ -115,8 +109,6 @@ Fleming,A102,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
 Fleming,A102,U.S. Senate,,Democratic,Amy McGRATH,16,2,14,0,0
 Fleming,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Fleming,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
-Fleming,A102,U.S. Senate,,,Under Votes,2,0,2,0,0
-Fleming,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A102,U.S. House,6,Democratic,Harvey CARROLL JR.,1,0,1,0,0
 Fleming,A102,U.S. House,6,Democratic,David KLOIBER,3,0,3,0,0
 Fleming,A102,U.S. House,6,Democratic,Erin PETREY,4,0,4,0,0
@@ -124,13 +116,9 @@ Fleming,A102,U.S. House,6,Democratic,Cherlynn STEVENSON,7,2,5,0,0
 Fleming,A102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,2,0,2,0,0
 Fleming,A102,U.S. House,6,Democratic,Corey EDWARDS,4,0,4,0,0
 Fleming,A102,U.S. House,6,Democratic,Zach DEMBO,15,2,13,0,0
-Fleming,A102,U.S. House,6,,Under Votes,5,0,5,0,0
-Fleming,A102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A102,Magistrate,,,Mollie DAILEY,14,2,12,0,0
 Fleming,A102,Magistrate,,,William M. HENDRIX JR.,25,2,23,0,0
 Fleming,A102,Magistrate,,,Brandon WILLIAMS,2,0,2,0,0
-Fleming,A102,Magistrate,,,Under Votes,0,0,0,0,0
-Fleming,A102,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,A103,U.S. Senate,,Republican,A. Nick SHELLEY,4,2,2,0,0
 Fleming,A103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,A103,U.S. Senate,,Republican,Daniel CAMERON,10,1,9,0,0
@@ -143,7 +131,7 @@ Fleming,A103,U.S. Senate,,Republican,Michael James FARIS,1,1,0,0,0
 Fleming,A103,U.S. Senate,,Republican,Andy BARR,62,8,48,3,3
 Fleming,A103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,A103,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
-Fleming,A103,U.S. Senate,,,Under Votes,5,0,5,0,0
+Fleming,A103,U.S. Senate,,,Under Votes,8,0,8,0,0
 Fleming,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A103,Ballots Cast,,,,155,,,,
 Fleming,A103,U.S. House,6,Republican,Gregory George PLUCINSKI,8,0,8,0,0
@@ -151,7 +139,7 @@ Fleming,A103,U.S. House,6,Republican,Adam Perez ARQUETTE,4,3,1,0,0
 Fleming,A103,U.S. House,6,Republican,Ralph ALVARADO,36,5,29,2,0
 Fleming,A103,U.S. House,6,Republican,Steve SHANNON,10,0,8,1,1
 Fleming,A103,U.S. House,6,Republican,Ryan DOTSON,19,4,12,0,3
-Fleming,A103,U.S. House,6,,Under Votes,9,0,9,0,0
+Fleming,A103,U.S. House,6,,Under Votes,14,0,14,0,0
 Fleming,A103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A103,Property Valuation Administrator,,,David J. DeATLEY,28,1,20,3,4
 Fleming,A103,Property Valuation Administrator,,,Stephanie HARDIN,57,11,46,0,0
@@ -172,7 +160,7 @@ Fleming,A103,Coroner,,,Under Votes,0,0,0,0,0
 Fleming,A103,Coroner,,,Over Votes,0,0,0,0,0
 Fleming,A103,Magistrate,,,Dennis Scott MASTERS,41,4,30,3,4
 Fleming,A103,Magistrate,,,Kerri L. MARSHALL,43,7,36,0,0
-Fleming,A103,Magistrate,,,Under Votes,2,1,1,0,0
+Fleming,A103,Magistrate,,,Under Votes,3,1,2,0,0
 Fleming,A103,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,A103,U.S. Senate,,Democratic,Pamela STEVENSON,7,0,7,0,0
 Fleming,A103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
@@ -181,8 +169,6 @@ Fleming,A103,U.S. Senate,,Democratic,Charles BOOKER,24,3,20,1,0
 Fleming,A103,U.S. Senate,,Democratic,Amy McGRATH,27,6,17,1,3
 Fleming,A103,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Fleming,A103,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
-Fleming,A103,U.S. Senate,,,Under Votes,3,0,3,0,0
-Fleming,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,A103,U.S. House,6,Democratic,Harvey CARROLL JR.,4,0,4,0,0
 Fleming,A103,U.S. House,6,Democratic,David KLOIBER,7,0,7,0,0
 Fleming,A103,U.S. House,6,Democratic,Erin PETREY,15,1,14,0,0
@@ -190,13 +176,9 @@ Fleming,A103,U.S. House,6,Democratic,Cherlynn STEVENSON,13,3,7,2,1
 Fleming,A103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,A103,U.S. House,6,Democratic,Corey EDWARDS,3,1,2,0,0
 Fleming,A103,U.S. House,6,Democratic,Zach DEMBO,22,4,16,0,2
-Fleming,A103,U.S. House,6,,Under Votes,5,0,5,0,0
-Fleming,A103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,A103,Magistrate,,,Mollie DAILEY,26,5,19,1,1
 Fleming,A103,Magistrate,,,William M. HENDRIX JR.,33,4,26,1,2
 Fleming,A103,Magistrate,,,Brandon WILLIAMS,9,0,9,0,0
-Fleming,A103,Magistrate,,,Under Votes,1,0,1,0,0
-Fleming,A103,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,B101,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,4,0,0
 Fleming,B101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,B101,U.S. Senate,,Republican,Daniel CAMERON,37,1,36,0,0
@@ -209,7 +191,7 @@ Fleming,B101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
 Fleming,B101,U.S. Senate,,Republican,Andy BARR,73,3,69,0,1
 Fleming,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,B101,U.S. Senate,,Republican,Nate MORRIS,6,0,6,0,0
-Fleming,B101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Fleming,B101,U.S. Senate,,,Under Votes,5,0,5,0,0
 Fleming,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B101,Ballots Cast,,,,158,,,,
 Fleming,B101,U.S. House,6,Republican,Gregory George PLUCINSKI,11,1,9,0,1
@@ -217,8 +199,8 @@ Fleming,B101,U.S. House,6,Republican,Adam Perez ARQUETTE,3,0,3,0,0
 Fleming,B101,U.S. House,6,Republican,Ralph ALVARADO,61,2,58,1,0
 Fleming,B101,U.S. House,6,Republican,Steve SHANNON,7,1,6,0,0
 Fleming,B101,U.S. House,6,Republican,Ryan DOTSON,34,1,33,0,0
-Fleming,B101,U.S. House,6,,Under Votes,12,0,12,0,0
-Fleming,B101,U.S. House,6,,Over Votes,1,0,1,0,0
+Fleming,B101,U.S. House,6,,Under Votes,13,0,13,0,0
+Fleming,B101,U.S. House,6,,Over Votes,2,0,2,0,0
 Fleming,B101,Property Valuation Administrator,,,David J. DeATLEY,59,3,56,0,0
 Fleming,B101,Property Valuation Administrator,,,Stephanie HARDIN,67,2,64,1,0
 Fleming,B101,Property Valuation Administrator,,,Under Votes,3,0,2,0,1
@@ -249,8 +231,6 @@ Fleming,B101,U.S. Senate,,Democratic,Charles BOOKER,3,0,3,0,0
 Fleming,B101,U.S. Senate,,Democratic,Amy McGRATH,15,3,11,1,0
 Fleming,B101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Fleming,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,1,1,0,0
-Fleming,B101,U.S. Senate,,,Under Votes,3,0,3,0,0
-Fleming,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B101,U.S. House,6,Democratic,Harvey CARROLL JR.,4,0,4,0,0
 Fleming,B101,U.S. House,6,Democratic,David KLOIBER,2,1,1,0,0
 Fleming,B101,U.S. House,6,Democratic,Erin PETREY,7,0,7,0,0
@@ -258,8 +238,6 @@ Fleming,B101,U.S. House,6,Democratic,Cherlynn STEVENSON,7,3,3,1,0
 Fleming,B101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,B101,U.S. House,6,Democratic,Corey EDWARDS,4,0,4,0,0
 Fleming,B101,U.S. House,6,Democratic,Zach DEMBO,3,0,2,1,0
-Fleming,B101,U.S. House,6,,Under Votes,1,0,1,0,0
-Fleming,B101,U.S. House,6,,Over Votes,1,0,1,0,0
 Fleming,B102,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
 Fleming,B102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Fleming,B102,U.S. Senate,,Republican,Daniel CAMERON,39,11,26,1,1
@@ -272,7 +250,7 @@ Fleming,B102,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Fleming,B102,U.S. Senate,,Republican,Andy BARR,149,30,115,4,0
 Fleming,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
 Fleming,B102,U.S. Senate,,Republican,Nate MORRIS,5,0,5,0,0
-Fleming,B102,U.S. Senate,,,Under Votes,3,1,2,0,0
+Fleming,B102,U.S. Senate,,,Under Votes,4,1,3,0,0
 Fleming,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B102,Ballots Cast,,,,303,,,,
 Fleming,B102,U.S. House,6,Republican,Gregory George PLUCINSKI,11,4,7,0,0
@@ -280,7 +258,7 @@ Fleming,B102,U.S. House,6,Republican,Adam Perez ARQUETTE,8,2,6,0,0
 Fleming,B102,U.S. House,6,Republican,Ralph ALVARADO,119,15,101,2,1
 Fleming,B102,U.S. House,6,Republican,Steve SHANNON,18,3,15,0,0
 Fleming,B102,U.S. House,6,Republican,Ryan DOTSON,39,13,24,2,0
-Fleming,B102,U.S. House,6,,Under Votes,15,6,8,1,0
+Fleming,B102,U.S. House,6,,Under Votes,21,7,13,1,0
 Fleming,B102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,B102,Property Valuation Administrator,,,David J. DeATLEY,87,10,75,2,0
 Fleming,B102,Property Valuation Administrator,,,Stephanie HARDIN,119,33,82,3,1
@@ -312,8 +290,6 @@ Fleming,B102,U.S. Senate,,Democratic,Charles BOOKER,27,1,24,2,0
 Fleming,B102,U.S. Senate,,Democratic,Amy McGRATH,38,6,27,5,0
 Fleming,B102,U.S. Senate,,Democratic,Logan FORSYTHE,8,0,7,1,0
 Fleming,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
-Fleming,B102,U.S. Senate,,,Under Votes,1,0,1,0,0
-Fleming,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B102,U.S. House,6,Democratic,Harvey CARROLL JR.,7,0,6,1,0
 Fleming,B102,U.S. House,6,Democratic,David KLOIBER,9,0,9,0,0
 Fleming,B102,U.S. House,6,Democratic,Erin PETREY,11,0,10,1,0
@@ -321,8 +297,6 @@ Fleming,B102,U.S. House,6,Democratic,Cherlynn STEVENSON,23,2,19,2,0
 Fleming,B102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Fleming,B102,U.S. House,6,Democratic,Corey EDWARDS,10,0,9,1,0
 Fleming,B102,U.S. House,6,Democratic,Zach DEMBO,24,4,16,4,0
-Fleming,B102,U.S. House,6,,Under Votes,6,1,5,0,0
-Fleming,B102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,B103,U.S. Senate,,Republican,A. Nick SHELLEY,8,0,8,0,0
 Fleming,B103,U.S. Senate,,Republican,Anissa CATLETT,1,0,0,1,0
 Fleming,B103,U.S. Senate,,Republican,Daniel CAMERON,18,0,16,1,1
@@ -335,7 +309,7 @@ Fleming,B103,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
 Fleming,B103,U.S. Senate,,Republican,Andy BARR,86,3,80,2,1
 Fleming,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
 Fleming,B103,U.S. Senate,,Republican,Nate MORRIS,5,0,5,0,0
-Fleming,B103,U.S. Senate,,,Under Votes,2,0,2,0,0
+Fleming,B103,U.S. Senate,,,Under Votes,5,0,5,0,0
 Fleming,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B103,Ballots Cast,,,,159,,,,
 Fleming,B103,U.S. House,6,Republican,Gregory George PLUCINSKI,7,0,7,0,0
@@ -343,7 +317,7 @@ Fleming,B103,U.S. House,6,Republican,Adam Perez ARQUETTE,2,0,2,0,0
 Fleming,B103,U.S. House,6,Republican,Ralph ALVARADO,52,2,47,1,2
 Fleming,B103,U.S. House,6,Republican,Steve SHANNON,11,0,11,0,0
 Fleming,B103,U.S. House,6,Republican,Ryan DOTSON,29,1,26,2,0
-Fleming,B103,U.S. House,6,,Under Votes,24,0,22,2,0
+Fleming,B103,U.S. House,6,,Under Votes,28,0,26,2,0
 Fleming,B103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,B103,Property Valuation Administrator,,,David J. DeATLEY,102,2,96,3,1
 Fleming,B103,Property Valuation Administrator,,,Stephanie HARDIN,23,1,19,2,1
@@ -375,8 +349,6 @@ Fleming,B103,U.S. Senate,,Democratic,Charles BOOKER,4,0,4,0,0
 Fleming,B103,U.S. Senate,,Democratic,Amy McGRATH,14,1,12,1,0
 Fleming,B103,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Fleming,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,1,1,0
-Fleming,B103,U.S. Senate,,,Under Votes,3,0,3,0,0
-Fleming,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,B103,U.S. House,6,Democratic,Harvey CARROLL JR.,5,1,4,0,0
 Fleming,B103,U.S. House,6,Democratic,David KLOIBER,1,0,1,0,0
 Fleming,B103,U.S. House,6,Democratic,Erin PETREY,5,0,5,0,0
@@ -384,8 +356,6 @@ Fleming,B103,U.S. House,6,Democratic,Cherlynn STEVENSON,10,0,9,1,0
 Fleming,B103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,1,0,0,1,0
 Fleming,B103,U.S. House,6,Democratic,Corey EDWARDS,1,0,1,0,0
 Fleming,B103,U.S. House,6,Democratic,Zach DEMBO,7,0,7,0,0
-Fleming,B103,U.S. House,6,,Under Votes,4,0,4,0,0
-Fleming,B103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,C101,U.S. Senate,,Republican,A. Nick SHELLEY,4,1,3,0,0
 Fleming,C101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,C101,U.S. Senate,,Republican,Daniel CAMERON,40,2,37,0,1
@@ -406,7 +376,7 @@ Fleming,C101,U.S. House,6,Republican,Adam Perez ARQUETTE,4,0,3,1,0
 Fleming,C101,U.S. House,6,Republican,Ralph ALVARADO,80,11,67,1,1
 Fleming,C101,U.S. House,6,Republican,Steve SHANNON,14,1,11,0,2
 Fleming,C101,U.S. House,6,Republican,Ryan DOTSON,50,6,43,0,1
-Fleming,C101,U.S. House,6,,Under Votes,31,4,25,2,0
+Fleming,C101,U.S. House,6,,Under Votes,34,4,28,2,0
 Fleming,C101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,C101,Property Valuation Administrator,,,David J. DeATLEY,68,9,58,0,1
 Fleming,C101,Property Valuation Administrator,,,Stephanie HARDIN,119,14,98,4,3
@@ -432,8 +402,6 @@ Fleming,C101,U.S. Senate,,Democratic,Charles BOOKER,12,0,11,1,0
 Fleming,C101,U.S. Senate,,Democratic,Amy McGRATH,14,2,12,0,0
 Fleming,C101,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
 Fleming,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,2,2,0,0
-Fleming,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Fleming,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,C101,U.S. House,6,Democratic,Harvey CARROLL JR.,5,1,4,0,0
 Fleming,C101,U.S. House,6,Democratic,David KLOIBER,1,0,1,0,0
 Fleming,C101,U.S. House,6,Democratic,Erin PETREY,2,0,1,1,0
@@ -441,8 +409,6 @@ Fleming,C101,U.S. House,6,Democratic,Cherlynn STEVENSON,7,1,6,0,0
 Fleming,C101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,C101,U.S. House,6,Democratic,Corey EDWARDS,2,0,2,0,0
 Fleming,C101,U.S. House,6,Democratic,Zach DEMBO,17,2,15,0,0
-Fleming,C101,U.S. House,6,,Under Votes,3,0,3,0,0
-Fleming,C101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,C102,U.S. Senate,,Republican,A. Nick SHELLEY,3,2,0,0,1
 Fleming,C102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,C102,U.S. Senate,,Republican,Daniel CAMERON,67,9,58,0,0
@@ -463,7 +429,7 @@ Fleming,C102,U.S. House,6,Republican,Adam Perez ARQUETTE,2,0,2,0,0
 Fleming,C102,U.S. House,6,Republican,Ralph ALVARADO,110,20,87,1,2
 Fleming,C102,U.S. House,6,Republican,Steve SHANNON,16,0,16,0,0
 Fleming,C102,U.S. House,6,Republican,Ryan DOTSON,52,8,42,0,2
-Fleming,C102,U.S. House,6,,Under Votes,15,3,11,0,1
+Fleming,C102,U.S. House,6,,Under Votes,17,3,13,0,1
 Fleming,C102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,C102,Property Valuation Administrator,,,David J. DeATLEY,77,14,59,1,3
 Fleming,C102,Property Valuation Administrator,,,Stephanie HARDIN,146,23,121,0,2
@@ -489,8 +455,6 @@ Fleming,C102,U.S. Senate,,Democratic,Charles BOOKER,23,2,21,0,0
 Fleming,C102,U.S. Senate,,Democratic,Amy McGRATH,41,13,20,5,3
 Fleming,C102,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Fleming,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,11,1,9,0,1
-Fleming,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
-Fleming,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,C102,U.S. House,6,Democratic,Harvey CARROLL JR.,4,0,4,0,0
 Fleming,C102,U.S. House,6,Democratic,David KLOIBER,6,1,5,0,0
 Fleming,C102,U.S. House,6,Democratic,Erin PETREY,4,0,3,1,0
@@ -498,8 +462,6 @@ Fleming,C102,U.S. House,6,Democratic,Cherlynn STEVENSON,27,6,20,0,1
 Fleming,C102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,1,2,0,0
 Fleming,C102,U.S. House,6,Democratic,Corey EDWARDS,8,0,8,0,0
 Fleming,C102,U.S. House,6,Democratic,Zach DEMBO,42,12,23,4,3
-Fleming,C102,U.S. House,6,,Under Votes,2,0,2,0,0
-Fleming,C102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,D102,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
 Fleming,D102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,D102,U.S. Senate,,Republican,Daniel CAMERON,34,10,24,0,0
@@ -512,7 +474,7 @@ Fleming,D102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Fleming,D102,U.S. Senate,,Republican,Andy BARR,114,19,91,1,3
 Fleming,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
 Fleming,D102,U.S. Senate,,Republican,Nate MORRIS,8,4,3,1,0
-Fleming,D102,U.S. Senate,,,Under Votes,5,2,3,0,0
+Fleming,D102,U.S. Senate,,,Under Votes,6,2,4,0,0
 Fleming,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,D102,Ballots Cast,,,,262,,,,
 Fleming,D102,U.S. House,6,Republican,Gregory George PLUCINSKI,13,3,10,0,0
@@ -520,7 +482,7 @@ Fleming,D102,U.S. House,6,Republican,Adam Perez ARQUETTE,4,1,3,0,0
 Fleming,D102,U.S. House,6,Republican,Ralph ALVARADO,74,19,52,0,3
 Fleming,D102,U.S. House,6,Republican,Steve SHANNON,10,3,7,0,0
 Fleming,D102,U.S. House,6,Republican,Ryan DOTSON,51,7,42,2,0
-Fleming,D102,U.S. House,6,,Under Votes,15,3,12,0,0
+Fleming,D102,U.S. House,6,,Under Votes,18,3,15,0,0
 Fleming,D102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,D102,Property Valuation Administrator,,,David J. DeATLEY,57,14,41,1,1
 Fleming,D102,Property Valuation Administrator,,,Stephanie HARDIN,107,21,83,1,2
@@ -546,8 +508,6 @@ Fleming,D102,U.S. Senate,,Democratic,Charles BOOKER,23,7,16,0,0
 Fleming,D102,U.S. Senate,,Democratic,Amy McGRATH,45,11,32,1,1
 Fleming,D102,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
 Fleming,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,3,7,0,0
-Fleming,D102,U.S. Senate,,,Under Votes,1,0,1,0,0
-Fleming,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,D102,U.S. House,6,Democratic,Harvey CARROLL JR.,8,0,7,0,1
 Fleming,D102,U.S. House,6,Democratic,David KLOIBER,10,2,8,0,0
 Fleming,D102,U.S. House,6,Democratic,Erin PETREY,7,0,7,0,0
@@ -555,8 +515,6 @@ Fleming,D102,U.S. House,6,Democratic,Cherlynn STEVENSON,17,3,13,1,0
 Fleming,D102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Fleming,D102,U.S. House,6,Democratic,Corey EDWARDS,5,1,4,0,0
 Fleming,D102,U.S. House,6,Democratic,Zach DEMBO,42,15,27,0,0
-Fleming,D102,U.S. House,6,,Under Votes,3,0,3,0,0
-Fleming,D102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,D103,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,1,0,1
 Fleming,D103,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Fleming,D103,U.S. Senate,,Republican,Daniel CAMERON,41,7,31,3,0
@@ -569,7 +527,7 @@ Fleming,D103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Fleming,D103,U.S. Senate,,Republican,Andy BARR,107,17,84,3,3
 Fleming,D103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
 Fleming,D103,U.S. Senate,,Republican,Nate MORRIS,3,1,2,0,0
-Fleming,D103,U.S. Senate,,,Under Votes,5,3,2,0,0
+Fleming,D103,U.S. Senate,,,Under Votes,7,3,4,0,0
 Fleming,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,D103,Ballots Cast,,,,258,,,,
 Fleming,D103,U.S. House,6,Republican,Gregory George PLUCINSKI,11,3,6,0,2
@@ -577,7 +535,7 @@ Fleming,D103,U.S. House,6,Republican,Adam Perez ARQUETTE,4,2,2,0,0
 Fleming,D103,U.S. House,6,Republican,Ralph ALVARADO,82,13,65,4,0
 Fleming,D103,U.S. House,6,Republican,Steve SHANNON,17,3,14,0,0
 Fleming,D103,U.S. House,6,Republican,Ryan DOTSON,36,4,29,2,1
-Fleming,D103,U.S. House,6,,Under Votes,13,4,8,0,1
+Fleming,D103,U.S. House,6,,Under Votes,16,4,11,0,1
 Fleming,D103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,D103,Property Valuation Administrator,,,David J. DeATLEY,63,6,51,3,3
 Fleming,D103,Property Valuation Administrator,,,Stephanie HARDIN,97,23,70,3,1
@@ -603,8 +561,6 @@ Fleming,D103,U.S. Senate,,Democratic,Charles BOOKER,30,4,24,2,0
 Fleming,D103,U.S. Senate,,Democratic,Amy McGRATH,38,9,21,7,1
 Fleming,D103,U.S. Senate,,Democratic,Logan FORSYTHE,4,1,3,0,0
 Fleming,D103,U.S. Senate,,Democratic,Dale Lewis ROMANS,7,4,3,0,0
-Fleming,D103,U.S. Senate,,,Under Votes,2,0,2,0,0
-Fleming,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,D103,U.S. House,6,Democratic,Harvey CARROLL JR.,9,1,8,0,0
 Fleming,D103,U.S. House,6,Democratic,David KLOIBER,3,2,1,0,0
 Fleming,D103,U.S. House,6,Democratic,Erin PETREY,8,1,6,1,0
@@ -612,8 +568,6 @@ Fleming,D103,U.S. House,6,Democratic,Cherlynn STEVENSON,37,8,24,4,1
 Fleming,D103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,1,0,1,0,0
 Fleming,D103,U.S. House,6,Democratic,Corey EDWARDS,4,1,3,0,0
 Fleming,D103,U.S. House,6,Democratic,Zach DEMBO,30,7,19,4,0
-Fleming,D103,U.S. House,6,,Under Votes,3,0,3,0,0
-Fleming,D103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E101,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,4,0,0
 Fleming,E101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Fleming,E101,U.S. Senate,,Republican,Daniel CAMERON,18,1,17,0,0
@@ -634,7 +588,7 @@ Fleming,E101,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,1,0,0
 Fleming,E101,U.S. House,6,Republican,Ralph ALVARADO,48,11,35,0,2
 Fleming,E101,U.S. House,6,Republican,Steve SHANNON,11,1,10,0,0
 Fleming,E101,U.S. House,6,Republican,Ryan DOTSON,22,3,19,0,0
-Fleming,E101,U.S. House,6,,Under Votes,17,1,16,0,0
+Fleming,E101,U.S. House,6,,Under Votes,18,1,17,0,0
 Fleming,E101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E101,Property Valuation Administrator,,,David J. DeATLEY,70,15,53,0,2
 Fleming,E101,Property Valuation Administrator,,,Stephanie HARDIN,31,0,30,0,1
@@ -665,8 +619,6 @@ Fleming,E101,U.S. Senate,,Democratic,Charles BOOKER,11,0,11,0,0
 Fleming,E101,U.S. Senate,,Democratic,Amy McGRATH,27,4,20,2,1
 Fleming,E101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Fleming,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
-Fleming,E101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Fleming,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,E101,U.S. House,6,Democratic,Harvey CARROLL JR.,6,1,4,0,1
 Fleming,E101,U.S. House,6,Democratic,David KLOIBER,3,0,3,0,0
 Fleming,E101,U.S. House,6,Democratic,Erin PETREY,2,0,2,0,0
@@ -674,8 +626,6 @@ Fleming,E101,U.S. House,6,Democratic,Cherlynn STEVENSON,13,0,11,2,0
 Fleming,E101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Fleming,E101,U.S. House,6,Democratic,Corey EDWARDS,1,0,1,0,0
 Fleming,E101,U.S. House,6,Democratic,Zach DEMBO,16,3,13,0,0
-Fleming,E101,U.S. House,6,,Under Votes,1,0,1,0,0
-Fleming,E101,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E102,U.S. Senate,,Republican,A. Nick SHELLEY,16,0,16,0,0
 Fleming,E102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,E102,U.S. Senate,,Republican,Daniel CAMERON,13,0,13,0,0
@@ -696,7 +646,7 @@ Fleming,E102,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,1,0,0
 Fleming,E102,U.S. House,6,Republican,Ralph ALVARADO,63,2,58,2,1
 Fleming,E102,U.S. House,6,Republican,Steve SHANNON,10,0,10,0,0
 Fleming,E102,U.S. House,6,Republican,Ryan DOTSON,34,1,32,1,0
-Fleming,E102,U.S. House,6,,Under Votes,9,1,8,0,0
+Fleming,E102,U.S. House,6,,Under Votes,11,1,9,1,0
 Fleming,E102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E102,Property Valuation Administrator,,,David J. DeATLEY,52,2,48,2,0
 Fleming,E102,Property Valuation Administrator,,,Stephanie HARDIN,68,3,63,1,1
@@ -727,8 +677,6 @@ Fleming,E102,U.S. Senate,,Democratic,Charles BOOKER,7,0,7,0,0
 Fleming,E102,U.S. Senate,,Democratic,Amy McGRATH,22,2,19,1,0
 Fleming,E102,U.S. Senate,,Democratic,Logan FORSYTHE,3,1,2,0,0
 Fleming,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
-Fleming,E102,U.S. Senate,,,Under Votes,0,0,0,0,0
-Fleming,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,E102,U.S. House,6,Democratic,Harvey CARROLL JR.,2,0,2,0,0
 Fleming,E102,U.S. House,6,Democratic,David KLOIBER,4,0,4,0,0
 Fleming,E102,U.S. House,6,Democratic,Erin PETREY,5,2,3,0,0
@@ -736,8 +684,6 @@ Fleming,E102,U.S. House,6,Democratic,Cherlynn STEVENSON,8,1,6,1,0
 Fleming,E102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,E102,U.S. House,6,Democratic,Corey EDWARDS,5,0,5,0,0
 Fleming,E102,U.S. House,6,Democratic,Zach DEMBO,12,0,12,0,0
-Fleming,E102,U.S. House,6,,Under Votes,2,0,1,1,0
-Fleming,E102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E103,U.S. Senate,,Republican,A. Nick SHELLEY,5,0,5,0,0
 Fleming,E103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Fleming,E103,U.S. Senate,,Republican,Daniel CAMERON,18,1,17,0,0
@@ -758,7 +704,7 @@ Fleming,E103,U.S. House,6,Republican,Adam Perez ARQUETTE,0,0,0,0,0
 Fleming,E103,U.S. House,6,Republican,Ralph ALVARADO,49,2,44,3,0
 Fleming,E103,U.S. House,6,Republican,Steve SHANNON,15,0,14,1,0
 Fleming,E103,U.S. House,6,Republican,Ryan DOTSON,17,0,15,2,0
-Fleming,E103,U.S. House,6,,Under Votes,12,0,12,0,0
+Fleming,E103,U.S. House,6,,Under Votes,14,1,12,1,0
 Fleming,E103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E103,Property Valuation Administrator,,,David J. DeATLEY,63,1,56,6,0
 Fleming,E103,Property Valuation Administrator,,,Stephanie HARDIN,30,0,30,0,0
@@ -789,8 +735,6 @@ Fleming,E103,U.S. Senate,,Democratic,Charles BOOKER,8,0,7,1,0
 Fleming,E103,U.S. Senate,,Democratic,Amy McGRATH,14,4,10,0,0
 Fleming,E103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Fleming,E103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
-Fleming,E103,U.S. Senate,,,Under Votes,0,0,0,0,0
-Fleming,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,E103,U.S. House,6,Democratic,Harvey CARROLL JR.,2,1,1,0,0
 Fleming,E103,U.S. House,6,Democratic,David KLOIBER,0,0,0,0,0
 Fleming,E103,U.S. House,6,Democratic,Erin PETREY,2,1,1,0,0
@@ -798,8 +742,6 @@ Fleming,E103,U.S. House,6,Democratic,Cherlynn STEVENSON,7,0,6,1,0
 Fleming,E103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,1,2,0,0
 Fleming,E103,U.S. House,6,Democratic,Corey EDWARDS,3,0,3,0,0
 Fleming,E103,U.S. House,6,Democratic,Zach DEMBO,12,0,12,0,0
-Fleming,E103,U.S. House,6,,Under Votes,2,1,0,1,0
-Fleming,E103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E104,U.S. Senate,,Republican,A. Nick SHELLEY,14,2,12,0,0
 Fleming,E104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,E104,U.S. Senate,,Republican,Daniel CAMERON,10,0,10,0,0
@@ -812,7 +754,7 @@ Fleming,E104,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Fleming,E104,U.S. Senate,,Republican,Andy BARR,43,0,41,2,0
 Fleming,E104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,E104,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
-Fleming,E104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Fleming,E104,U.S. Senate,,,Under Votes,3,1,2,0,0
 Fleming,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,E104,Ballots Cast,,,,87,,,,
 Fleming,E104,U.S. House,6,Republican,Gregory George PLUCINSKI,0,0,0,0,0
@@ -820,7 +762,7 @@ Fleming,E104,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,1,0,0
 Fleming,E104,U.S. House,6,Republican,Ralph ALVARADO,33,0,31,2,0
 Fleming,E104,U.S. House,6,Republican,Steve SHANNON,8,1,7,0,0
 Fleming,E104,U.S. House,6,Republican,Ryan DOTSON,16,1,15,0,0
-Fleming,E104,U.S. House,6,,Under Votes,11,0,11,0,0
+Fleming,E104,U.S. House,6,,Under Votes,13,1,12,0,0
 Fleming,E104,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,E104,Property Valuation Administrator,,,David J. DeATLEY,38,1,37,0,0
 Fleming,E104,Property Valuation Administrator,,,Stephanie HARDIN,24,1,21,2,0
@@ -851,8 +793,6 @@ Fleming,E104,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
 Fleming,E104,U.S. Senate,,Democratic,Amy McGRATH,8,2,6,0,0
 Fleming,E104,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Fleming,E104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
-Fleming,E104,U.S. Senate,,,Under Votes,2,1,1,0,0
-Fleming,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,E104,U.S. House,6,Democratic,Harvey CARROLL JR.,2,1,1,0,0
 Fleming,E104,U.S. House,6,Democratic,David KLOIBER,0,0,0,0,0
 Fleming,E104,U.S. House,6,Democratic,Erin PETREY,2,0,2,0,0
@@ -860,8 +800,6 @@ Fleming,E104,U.S. House,6,Democratic,Cherlynn STEVENSON,5,1,4,0,0
 Fleming,E104,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,E104,U.S. House,6,Democratic,Corey EDWARDS,2,0,2,0,0
 Fleming,E104,U.S. House,6,Democratic,Zach DEMBO,5,1,4,0,0
-Fleming,E104,U.S. House,6,,Under Votes,2,1,1,0,0
-Fleming,E104,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F102,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
 Fleming,F102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,F102,U.S. Senate,,Republican,Daniel CAMERON,22,4,17,1,0
@@ -874,7 +812,7 @@ Fleming,F102,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Fleming,F102,U.S. Senate,,Republican,Andy BARR,57,5,51,1,0
 Fleming,F102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
 Fleming,F102,U.S. Senate,,Republican,Nate MORRIS,4,2,2,0,0
-Fleming,F102,U.S. Senate,,,Under Votes,4,0,4,0,0
+Fleming,F102,U.S. Senate,,,Under Votes,8,0,8,0,0
 Fleming,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F102,Ballots Cast,,,,157,,,,
 Fleming,F102,U.S. House,6,Republican,Gregory George PLUCINSKI,6,2,4,0,0
@@ -882,7 +820,7 @@ Fleming,F102,U.S. House,6,Republican,Adam Perez ARQUETTE,4,2,2,0,0
 Fleming,F102,U.S. House,6,Republican,Ralph ALVARADO,44,3,40,1,0
 Fleming,F102,U.S. House,6,Republican,Steve SHANNON,8,2,6,0,0
 Fleming,F102,U.S. House,6,Republican,Ryan DOTSON,20,2,18,0,0
-Fleming,F102,U.S. House,6,,Under Votes,14,1,12,1,0
+Fleming,F102,U.S. House,6,,Under Votes,23,1,21,1,0
 Fleming,F102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F102,Property Valuation Administrator,,,David J. DeATLEY,36,3,32,1,0
 Fleming,F102,Property Valuation Administrator,,,Stephanie HARDIN,59,9,49,1,0
@@ -912,8 +850,6 @@ Fleming,F102,U.S. Senate,,Democratic,Charles BOOKER,14,0,14,0,0
 Fleming,F102,U.S. Senate,,Democratic,Amy McGRATH,33,4,28,0,1
 Fleming,F102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Fleming,F102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
-Fleming,F102,U.S. Senate,,,Under Votes,4,0,4,0,0
-Fleming,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F102,U.S. House,6,Democratic,Harvey CARROLL JR.,5,0,5,0,0
 Fleming,F102,U.S. House,6,Democratic,David KLOIBER,2,0,2,0,0
 Fleming,F102,U.S. House,6,Democratic,Erin PETREY,5,0,4,1,0
@@ -921,12 +857,8 @@ Fleming,F102,U.S. House,6,Democratic,Cherlynn STEVENSON,17,3,14,0,0
 Fleming,F102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,1,0,1,0,0
 Fleming,F102,U.S. House,6,Democratic,Corey EDWARDS,3,0,3,0,0
 Fleming,F102,U.S. House,6,Democratic,Zach DEMBO,19,1,17,0,1
-Fleming,F102,U.S. House,6,,Under Votes,9,0,9,0,0
-Fleming,F102,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F102,Magistrate,,,Allen Ray ARGO,48,3,43,1,1
 Fleming,F102,Magistrate,,,Chris WORTHINGTON,13,1,12,0,0
-Fleming,F102,Magistrate,,,Under Votes,0,0,0,0,0
-Fleming,F102,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,F103,U.S. Senate,,Republican,A. Nick SHELLEY,1,1,0,0,0
 Fleming,F103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,F103,U.S. Senate,,Republican,Daniel CAMERON,7,1,6,0,0
@@ -939,7 +871,7 @@ Fleming,F103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Fleming,F103,U.S. Senate,,Republican,Andy BARR,41,4,37,0,0
 Fleming,F103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,F103,U.S. Senate,,Republican,Nate MORRIS,0,0,0,0,0
-Fleming,F103,U.S. Senate,,,Under Votes,3,2,1,0,0
+Fleming,F103,U.S. Senate,,,Under Votes,9,3,6,0,0
 Fleming,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F103,Ballots Cast,,,,80,,,,
 Fleming,F103,U.S. House,6,Republican,Gregory George PLUCINSKI,1,0,1,0,0
@@ -947,7 +879,7 @@ Fleming,F103,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,1,0,0
 Fleming,F103,U.S. House,6,Republican,Ralph ALVARADO,24,3,21,0,0
 Fleming,F103,U.S. House,6,Republican,Steve SHANNON,5,1,4,0,0
 Fleming,F103,U.S. House,6,Republican,Ryan DOTSON,15,1,14,0,0
-Fleming,F103,U.S. House,6,,Under Votes,7,3,4,0,0
+Fleming,F103,U.S. House,6,,Under Votes,14,4,10,0,0
 Fleming,F103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F103,Property Valuation Administrator,,,David J. DeATLEY,18,2,16,0,0
 Fleming,F103,Property Valuation Administrator,,,Stephanie HARDIN,33,5,28,0,0
@@ -977,8 +909,6 @@ Fleming,F103,U.S. Senate,,Democratic,Charles BOOKER,4,1,2,1,0
 Fleming,F103,U.S. Senate,,Democratic,Amy McGRATH,11,0,11,0,0
 Fleming,F103,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Fleming,F103,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
-Fleming,F103,U.S. Senate,,,Under Votes,6,1,5,0,0
-Fleming,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F103,U.S. House,6,Democratic,Harvey CARROLL JR.,2,0,2,0,0
 Fleming,F103,U.S. House,6,Democratic,David KLOIBER,1,0,1,0,0
 Fleming,F103,U.S. House,6,Democratic,Erin PETREY,1,0,1,0,0
@@ -986,12 +916,8 @@ Fleming,F103,U.S. House,6,Democratic,Cherlynn STEVENSON,8,1,6,1,0
 Fleming,F103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,1,0,1,0,0
 Fleming,F103,U.S. House,6,Democratic,Corey EDWARDS,1,0,1,0,0
 Fleming,F103,U.S. House,6,Democratic,Zach DEMBO,6,0,6,0,0
-Fleming,F103,U.S. House,6,,Under Votes,7,1,6,0,0
-Fleming,F103,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F103,Magistrate,,,Allen Ray ARGO,20,2,17,1,0
 Fleming,F103,Magistrate,,,Chris WORTHINGTON,7,0,7,0,0
-Fleming,F103,Magistrate,,,Under Votes,0,0,0,0,0
-Fleming,F103,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,F104,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,2,2,0
 Fleming,F104,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Fleming,F104,U.S. Senate,,Republican,Daniel CAMERON,27,3,24,0,0
@@ -1004,15 +930,15 @@ Fleming,F104,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Fleming,F104,U.S. Senate,,Republican,Andy BARR,90,15,75,0,0
 Fleming,F104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
 Fleming,F104,U.S. Senate,,Republican,Nate MORRIS,4,0,4,0,0
-Fleming,F104,U.S. Senate,,,Under Votes,2,0,2,0,0
-Fleming,F104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Fleming,F104,U.S. Senate,,,Under Votes,11,1,10,0,0
+Fleming,F104,U.S. Senate,,,Over Votes,1,0,1,0,0
 Fleming,F104,Ballots Cast,,,,229,,,,
 Fleming,F104,U.S. House,6,Republican,Gregory George PLUCINSKI,13,0,13,0,0
 Fleming,F104,U.S. House,6,Republican,Adam Perez ARQUETTE,2,1,1,0,0
 Fleming,F104,U.S. House,6,Republican,Ralph ALVARADO,55,12,42,1,0
 Fleming,F104,U.S. House,6,Republican,Steve SHANNON,16,1,15,0,0
 Fleming,F104,U.S. House,6,Republican,Ryan DOTSON,30,3,26,1,0
-Fleming,F104,U.S. House,6,,Under Votes,16,2,14,0,0
+Fleming,F104,U.S. House,6,,Under Votes,31,4,27,0,0
 Fleming,F104,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F104,Property Valuation Administrator,,,David J. DeATLEY,47,8,39,0,0
 Fleming,F104,Property Valuation Administrator,,,Stephanie HARDIN,83,11,70,2,0
@@ -1033,7 +959,7 @@ Fleming,F104,Coroner,,,Under Votes,1,1,0,0,0
 Fleming,F104,Coroner,,,Over Votes,0,0,0,0,0
 Fleming,F104,Magistrate,,,"Robbie ""Rob"" EARLYWINE",73,11,60,2,0
 Fleming,F104,Magistrate,,,"Nathan ""Nate"" STULL",58,7,51,0,0
-Fleming,F104,Magistrate,,,Under Votes,1,1,0,0,0
+Fleming,F104,Magistrate,,,Under Votes,3,1,2,0,0
 Fleming,F104,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,F104,U.S. Senate,,Democratic,Pamela STEVENSON,10,0,10,0,0
 Fleming,F104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
@@ -1042,8 +968,6 @@ Fleming,F104,U.S. Senate,,Democratic,Charles BOOKER,21,3,16,0,2
 Fleming,F104,U.S. Senate,,Democratic,Amy McGRATH,39,4,32,3,0
 Fleming,F104,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
 Fleming,F104,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,2,3,0,0
-Fleming,F104,U.S. Senate,,,Under Votes,9,1,8,0,0
-Fleming,F104,U.S. Senate,,,Over Votes,1,0,1,0,0
 Fleming,F104,U.S. House,6,Democratic,Harvey CARROLL JR.,7,0,7,0,0
 Fleming,F104,U.S. House,6,Democratic,David KLOIBER,6,1,5,0,0
 Fleming,F104,U.S. House,6,Democratic,Erin PETREY,7,1,5,1,0
@@ -1051,12 +975,8 @@ Fleming,F104,U.S. House,6,Democratic,Cherlynn STEVENSON,17,1,15,0,1
 Fleming,F104,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,1,2,0,0
 Fleming,F104,U.S. House,6,Democratic,Corey EDWARDS,6,0,6,0,0
 Fleming,F104,U.S. House,6,Democratic,Zach DEMBO,36,5,28,2,1
-Fleming,F104,U.S. House,6,,Under Votes,15,2,13,0,0
-Fleming,F104,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F104,Magistrate,,,Allen Ray ARGO,62,8,50,3,1
 Fleming,F104,Magistrate,,,Chris WORTHINGTON,33,3,29,0,1
-Fleming,F104,Magistrate,,,Under Votes,2,0,2,0,0
-Fleming,F104,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,F105,U.S. Senate,,Republican,A. Nick SHELLEY,3,2,1,0,0
 Fleming,F105,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Fleming,F105,U.S. Senate,,Republican,Daniel CAMERON,18,3,14,0,1
@@ -1069,7 +989,7 @@ Fleming,F105,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Fleming,F105,U.S. Senate,,Republican,Andy BARR,60,7,52,1,0
 Fleming,F105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
 Fleming,F105,U.S. Senate,,Republican,Nate MORRIS,8,1,7,0,0
-Fleming,F105,U.S. Senate,,,Under Votes,3,2,0,1,0
+Fleming,F105,U.S. Senate,,,Under Votes,8,2,5,1,0
 Fleming,F105,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F105,Ballots Cast,,,,165,,,,
 Fleming,F105,U.S. House,6,Republican,Gregory George PLUCINSKI,12,4,7,0,1
@@ -1077,7 +997,7 @@ Fleming,F105,U.S. House,6,Republican,Adam Perez ARQUETTE,1,0,1,0,0
 Fleming,F105,U.S. House,6,Republican,Ralph ALVARADO,34,6,28,0,0
 Fleming,F105,U.S. House,6,Republican,Steve SHANNON,12,1,11,0,0
 Fleming,F105,U.S. House,6,Republican,Ryan DOTSON,27,3,23,1,0
-Fleming,F105,U.S. House,6,,Under Votes,13,1,11,1,0
+Fleming,F105,U.S. House,6,,Under Votes,24,1,21,1,1
 Fleming,F105,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F105,Property Valuation Administrator,,,David J. DeATLEY,37,6,30,0,1
 Fleming,F105,Property Valuation Administrator,,,Stephanie HARDIN,57,8,48,1,0
@@ -1098,7 +1018,7 @@ Fleming,F105,Coroner,,,Under Votes,5,0,4,1,0
 Fleming,F105,Coroner,,,Over Votes,0,0,0,0,0
 Fleming,F105,Magistrate,,,"Robbie ""Rob"" EARLYWINE",74,15,56,2,1
 Fleming,F105,Magistrate,,,"Nathan ""Nate"" STULL",25,0,25,0,0
-Fleming,F105,Magistrate,,,Under Votes,0,0,0,0,0
+Fleming,F105,Magistrate,,,Under Votes,5,0,5,0,0
 Fleming,F105,Magistrate,,,Over Votes,0,0,0,0,0
 Fleming,F105,U.S. Senate,,Democratic,Pamela STEVENSON,9,0,9,0,0
 Fleming,F105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
@@ -1107,8 +1027,6 @@ Fleming,F105,U.S. Senate,,Democratic,Charles BOOKER,14,1,12,0,1
 Fleming,F105,U.S. Senate,,Democratic,Amy McGRATH,25,3,21,1,0
 Fleming,F105,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Fleming,F105,U.S. Senate,,Democratic,Dale Lewis ROMANS,8,2,6,0,0
-Fleming,F105,U.S. Senate,,,Under Votes,5,0,5,0,0
-Fleming,F105,U.S. Senate,,,Over Votes,0,0,0,0,0
 Fleming,F105,U.S. House,6,Democratic,Harvey CARROLL JR.,7,0,7,0,0
 Fleming,F105,U.S. House,6,Democratic,David KLOIBER,5,2,3,0,0
 Fleming,F105,U.S. House,6,Democratic,Erin PETREY,4,1,3,0,0
@@ -1116,9 +1034,5 @@ Fleming,F105,U.S. House,6,Democratic,Cherlynn STEVENSON,16,2,14,0,0
 Fleming,F105,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,0,0,0,0,0
 Fleming,F105,U.S. House,6,Democratic,Corey EDWARDS,8,1,7,0,0
 Fleming,F105,U.S. House,6,Democratic,Zach DEMBO,15,0,14,1,0
-Fleming,F105,U.S. House,6,,Under Votes,11,0,10,0,1
-Fleming,F105,U.S. House,6,,Over Votes,0,0,0,0,0
 Fleming,F105,Magistrate,,,Allen Ray ARGO,40,4,34,1,1
 Fleming,F105,Magistrate,,,Chris WORTHINGTON,21,2,19,0,0
-Fleming,F105,Magistrate,,,Under Votes,5,0,5,0,0
-Fleming,F105,Magistrate,,,Over Votes,0,0,0,0,0

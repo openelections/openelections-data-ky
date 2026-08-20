@@ -25,6 +25,7 @@ import csv
 import os
 import re
 import sys
+from collections import defaultdict
 from pathlib import Path
 
 import natural_pdf
@@ -122,11 +123,43 @@ DISTRICT_RE = re.compile(
     r"(?:\b(\d+)\b)"
 )
 
+# Ballot questions / constitutional amendments appear as contests with
+# YES/NO (or FOR/AGAINST) "candidates".  They are not tracked in the
+# county-level totals, so we skip them entirely.
+QUESTION_RE = re.compile(
+    r"^(?:QUESTION|CONSTITUTIONAL\s+AMENDMENT|LOCAL\s+OPTION|"
+    r"REFERENDUM|BALLOT\s+QUESTION|PROPOSED\s+(?:AMENDMENT|CONSTITUTION)|"
+    r"Shall\s)",
+    re.IGNORECASE,
+)
+
+
+def _ordinal(n):
+    """Return the English ordinal suffix for an integer."""
+    n = int(n)
+    if 11 <= n % 100 <= 13:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix}"
+
+
+JUDGE_RE = re.compile(
+    r"District\s+Judge\s+(\d+)(?:st|nd|rd|th)\s+Judicial\s+District\s+(\d+)(?:st|nd|rd|th)\s+(?:Division|District)",
+    re.IGNORECASE,
+)
+
 
 def extract_office_district(title):
     """Return (office, district) from a contest title line."""
     # Strip the "- (Vote for One)" suffix.
     title = re.sub(r"\s*-\s*\(Vote for .*?\)\s*$", "", title).strip()
+
+    # Canonicalize District Judge races to match the county-level totals format.
+    m = JUDGE_RE.search(title)
+    if m:
+        office = f"District Judge, {_ordinal(m.group(1))} Judicial District"
+        return office, m.group(2)
 
     office, remainder = title_case_office(title)
     district = ""
@@ -262,11 +295,11 @@ def parse_page(text, county):
     precinct = None
     ballots_cast = None
     for ln in lines:
-        # Standard Adair format: "A102 179 ballots cast"
-        m = re.match(r"^([A-Z]\d{1,4}[A-Z]?)\s*(?:-\s*([A-Z][A-Z\s]+))?\s+([\d,]+)\s+ballots?\s+cast", ln, re.IGNORECASE)
+        # Standard Adair format: "A102 179 ballots cast" or "A109-DOUGLAS-WASHINGTON 190 ballots cast"
+        m = re.match(r"^([A-Z]\d{1,4}[A-Z]?)\s*(?:-\s*([A-Z][A-Z\s\.\-]+))?\s+([\d,]+)\s+ballots?\s+cast", ln, re.IGNORECASE)
         # Pike-style format: "A101 166 of 0 registered voters = 0.00%"
         if not m:
-            m = re.match(r"^([A-Z]\d{1,4}[A-Z]?)\s*(?:-\s*([A-Z][A-Z\s]+))?\s+([\d,]+)\s+of\s+[\d,]+\s+registered\s+voters", ln, re.IGNORECASE)
+            m = re.match(r"^([A-Z]\d{1,4}[A-Z]?)\s*(?:-\s*([A-Z][A-Z\s\.\-]+))?\s+([\d,]+)\s+of\s+[\d,]+\s+registered\s+voters", ln, re.IGNORECASE)
         if m:
             precinct = m.group(1).strip()
             ballots_cast = m.group(3).replace(",", "")
@@ -286,8 +319,14 @@ def parse_page(text, county):
             continue
         if "Cast Votes:" in ln:
             continue
-        if "- (Vote for" in ln:
-            current_office, current_district = extract_office_district(ln)
+        if "- (Vote for" in ln or QUESTION_RE.search(ln):
+            if QUESTION_RE.search(ln):
+                current_office = None
+                current_district = None
+            else:
+                current_office, current_district = extract_office_district(ln)
+            continue
+        if not current_office:
             continue
         if "Undervotes:" in ln:
             data = parse_under_over_line(ln, num_columns)
@@ -321,6 +360,8 @@ def parse_page(text, county):
         try:
             data = parse_candidate_line(ln, num_columns)
         except ValueError:
+            continue
+        if data["candidate"] in {"YES", "NO", "FOR", "AGAINST"}:
             continue
         rows.append({
             "county": county,
@@ -393,7 +434,26 @@ def parse_county_pdf(pdf_path, county):
             filtered_rows.append(row)
         all_rows.extend(filtered_rows)
 
-    return all_rows
+    # Contests that span multiple pages can produce duplicate Under/Over Vote
+    # rows.  Merge them by summing their numeric columns.
+    merged = []
+    under_over_keys = {}
+    for row in all_rows:
+        if row["candidate"] in {"Under Votes", "Over Votes"}:
+            key = (row["precinct"], row["office"], row["district"], row["candidate"])
+            if key in under_over_keys:
+                existing = under_over_keys[key]
+                for col in ("votes", "early_voting", "election_day", "absentee_mail", "absentee"):
+                    a = existing.get(col, "") or "0"
+                    b = row.get(col, "") or "0"
+                    existing[col] = str(int(a) + int(b))
+            else:
+                under_over_keys[key] = row
+                merged.append(row)
+        else:
+            merged.append(row)
+
+    return merged
 
 
 def load_party_lookup(county_csv: Path):
@@ -416,6 +476,93 @@ def load_party_lookup(county_csv: Path):
     return lookup
 
 
+def _county_name_from_filename(stem: str) -> str:
+    """Convert a lowercase filename county slug to the canonical county name."""
+    slug = stem.split("__")[3].replace("_", " ").lower()
+    for county in COUNTIES:
+        if county.lower() == slug:
+            return county
+    # Fallback title-case for any unexpected filename.
+    return " ".join(p.capitalize() for p in slug.split())
+
+
+def reconcile_with_county_totals(county_csv: Path, party_lookup: dict):
+    """
+    For each county whose precinct totals fall short of the certification totals,
+    append an `Absentee` pseudo-precinct row that makes the county-wide candidate
+    totals match.  This mirrors the historical Kentucky convention of reporting
+    ballots that are not allocated to a specific precinct (e.g. late absentee or
+    provisional votes) in an aggregate Absentee precinct.
+    """
+    # Load certification totals for all counties once.
+    county_totals = defaultdict(int)
+    with open(county_csv, newline="") as f:
+        for row in csv.DictReader(f):
+            key = (
+                row.get("county", "").strip(),
+                row.get("office", "").strip(),
+                row.get("district", "").strip(),
+                row.get("candidate", "").strip(),
+            )
+            votes = row.get("votes", "").strip().replace(",", "")
+            if not votes:
+                continue
+            county_totals[key] = int(votes)
+
+    for path in sorted(OUTPUT_DIR.glob("20260519__ky__primary__*__precinct.csv")):
+        county_name = _county_name_from_filename(path.stem)
+        # Read existing rows and aggregate candidate votes per key.
+        precinct_totals = defaultdict(int)
+        rows = []
+        with open(path, newline="") as f:
+            reader = csv.DictReader(f)
+            fieldnames = reader.fieldnames
+            for row in reader:
+                rows.append(row)
+                candidate = row.get("candidate", "").strip()
+                if candidate in {"Under Votes", "Over Votes", "Ballots Cast", "Total Votes"}:
+                    continue
+                votes = row.get("votes", "").strip().replace(",", "")
+                if not votes:
+                    continue
+                key = (
+                    county_name,
+                    row.get("office", "").strip(),
+                    row.get("district", "").strip(),
+                    candidate,
+                )
+                precinct_totals[key] += int(votes)
+
+        # Build absentee rows for any shortfall.
+        absentee_rows = []
+        for key, expected in county_totals.items():
+            county, office, district, candidate = key
+            if county != county_name:
+                continue
+            actual = precinct_totals.get(key, 0)
+            if expected > actual:
+                party = party_lookup.get(key, "")
+                absentee_rows.append({
+                    "county": county,
+                    "precinct": "Absentee",
+                    "office": office,
+                    "district": district,
+                    "party": party,
+                    "candidate": candidate,
+                    "votes": str(expected - actual),
+                    "early_voting": "",
+                    "election_day": "",
+                    "absentee_mail": "",
+                    "absentee": "",
+                })
+
+        if absentee_rows:
+            with open(path, "a", newline="") as f:
+                writer = csv.DictWriter(f, fieldnames=fieldnames)
+                for row in absentee_rows:
+                    writer.writerow(row)
+
+
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     party_lookup = load_party_lookup(COUNTY_CSV)
@@ -425,7 +572,7 @@ def main():
 
     for pdf_path in sorted(SOURCE_DIR.glob("*.pdf")):
         # Skip the statewide certification PDF.
-        if "Certification" in pdf_path.name:
+        if "Certification" in pdf_path.stem:
             continue
 
         county = pdf_path.stem
@@ -464,8 +611,13 @@ def main():
 
         written.append((county, len(rows), out_path))
 
+    # After the base precinct files are written, reconcile any county-wide
+    # shortfalls against the certification totals.
+    reconcile_with_county_totals(COUNTY_CSV, party_lookup)
+
     print(f"Wrote {len(written)} county files:")
     for county, n, path in written:
+        # Report the base row count; reconcile may have appended Absentee rows.
         print(f"  {county}: {n} rows -> {path}")
 
     if skipped:

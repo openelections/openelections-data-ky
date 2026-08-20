@@ -10,8 +10,8 @@ Todd,A101,U.S. Senate,,Republican,Daniel CAMERON,17,6,11,0,0
 Todd,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,A101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Todd,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Todd,A101,U.S. Senate,,,Under Votes,5,0,4,0,1
-Todd,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,A101,U.S. Senate,,,Under Votes,6,0,5,0,1
+Todd,A101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Todd,A101,Ballots Cast,,,,124,,,,
 Todd,A101,U.S. House,1,Republican,David SIMS,2,0,2,0,0
 Todd,A101,U.S. House,1,Republican,Robert James SUTHERBY,2,0,2,0,0
@@ -38,8 +38,6 @@ Todd,A101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Todd,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,A101,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
 Todd,A101,U.S. Senate,,Democratic,Amy McGRATH,11,1,10,0,0
-Todd,A101,U.S. Senate,,,Under Votes,1,0,1,0,0
-Todd,A101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Todd,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,A102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Todd,A102,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
@@ -51,7 +49,7 @@ Todd,A102,U.S. Senate,,Republican,Daniel CAMERON,19,1,18,0,0
 Todd,A102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,A102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
 Todd,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Todd,A102,U.S. Senate,,,Under Votes,4,0,4,0,0
+Todd,A102,U.S. Senate,,,Under Votes,6,0,4,0,2
 Todd,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,A102,Ballots Cast,,,,114,,,,
 Todd,A102,U.S. House,1,Republican,David SIMS,4,0,4,0,0
@@ -79,8 +77,6 @@ Todd,A102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Todd,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Todd,A102,U.S. Senate,,Democratic,Amy McGRATH,13,2,8,2,1
-Todd,A102,U.S. Senate,,,Under Votes,2,0,0,0,2
-Todd,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,A103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,A103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Todd,A103,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
@@ -120,8 +116,6 @@ Todd,A103,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Todd,A103,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,A103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Todd,A103,U.S. Senate,,Democratic,Amy McGRATH,10,2,8,0,0
-Todd,A103,U.S. Senate,,,Under Votes,0,0,0,0,0
-Todd,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,B101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
 Todd,B101,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
@@ -133,7 +127,7 @@ Todd,B101,U.S. Senate,,Republican,Daniel CAMERON,36,4,32,0,0
 Todd,B101,U.S. Senate,,Republican,Anissa CATLETT,2,1,1,0,0
 Todd,B101,U.S. Senate,,Republican,Michael James FARIS,6,0,6,0,0
 Todd,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
-Todd,B101,U.S. Senate,,,Under Votes,7,0,7,0,0
+Todd,B101,U.S. Senate,,,Under Votes,17,0,17,0,0
 Todd,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B101,Ballots Cast,,,,186,,,,
 Todd,B101,U.S. House,1,Republican,David SIMS,6,0,6,0,0
@@ -167,8 +161,6 @@ Todd,B101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Todd,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Todd,B101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Todd,B101,U.S. Senate,,Democratic,Amy McGRATH,17,0,17,0,0
-Todd,B101,U.S. Senate,,,Under Votes,10,0,10,0,0
-Todd,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,B102,U.S. Senate,,Republican,James D. DUNCAN,10,0,10,0,0
 Todd,B102,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
@@ -180,7 +172,7 @@ Todd,B102,U.S. Senate,,Republican,Daniel CAMERON,23,0,23,0,0
 Todd,B102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,B102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
 Todd,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Todd,B102,U.S. Senate,,,Under Votes,8,0,8,0,0
+Todd,B102,U.S. Senate,,,Under Votes,20,0,18,0,2
 Todd,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B102,Ballots Cast,,,,158,,,,
 Todd,B102,U.S. House,1,Republican,David SIMS,10,0,10,0,0
@@ -214,8 +206,6 @@ Todd,B102,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
 Todd,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Todd,B102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
 Todd,B102,U.S. Senate,,Democratic,Amy McGRATH,19,1,18,0,0
-Todd,B102,U.S. Senate,,,Under Votes,12,0,10,0,2
-Todd,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,B103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Todd,B103,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
@@ -261,8 +251,6 @@ Todd,B103,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
 Todd,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Todd,B103,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
 Todd,B103,U.S. Senate,,Democratic,Amy McGRATH,12,0,12,0,0
-Todd,B103,U.S. Senate,,,Under Votes,0,0,0,0,0
-Todd,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,B104,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
 Todd,B104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Todd,B104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
@@ -308,8 +296,6 @@ Todd,B104,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
 Todd,B104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Todd,B104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Todd,B104,U.S. Senate,,Democratic,Amy McGRATH,7,0,7,0,0
-Todd,B104,U.S. Senate,,,Under Votes,0,0,0,0,0
-Todd,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,C101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Todd,C101,U.S. Senate,,Republican,George WASHINGTON,3,1,2,0,0
@@ -321,7 +307,7 @@ Todd,C101,U.S. Senate,,Republican,Daniel CAMERON,33,3,30,0,0
 Todd,C101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Todd,C101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Todd,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Todd,C101,U.S. Senate,,,Under Votes,8,2,6,0,0
+Todd,C101,U.S. Senate,,,Under Votes,15,3,12,0,0
 Todd,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,C101,Ballots Cast,,,,254,,,,
 Todd,C101,U.S. House,1,Republican,David SIMS,8,1,7,0,0
@@ -349,8 +335,6 @@ Todd,C101,U.S. Senate,,Democratic,Pamela STEVENSON,7,0,7,0,0
 Todd,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,0,6,0,0
 Todd,C101,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
 Todd,C101,U.S. Senate,,Democratic,Amy McGRATH,35,5,29,1,0
-Todd,C101,U.S. Senate,,,Under Votes,7,1,6,0,0
-Todd,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,C102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
 Todd,C102,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
@@ -362,7 +346,7 @@ Todd,C102,U.S. Senate,,Republican,Daniel CAMERON,11,1,10,0,0
 Todd,C102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,C102,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Todd,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Todd,C102,U.S. Senate,,,Under Votes,4,0,4,0,0
+Todd,C102,U.S. Senate,,,Under Votes,7,0,7,0,0
 Todd,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,C102,Ballots Cast,,,,146,,,,
 Todd,C102,U.S. House,1,Republican,David SIMS,6,1,5,0,0
@@ -390,8 +374,6 @@ Todd,C102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Todd,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
 Todd,C102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Todd,C102,U.S. Senate,,Democratic,Amy McGRATH,31,2,29,0,0
-Todd,C102,U.S. Senate,,,Under Votes,3,0,3,0,0
-Todd,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Todd,D101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
@@ -403,8 +385,8 @@ Todd,D101,U.S. Senate,,Republican,Daniel CAMERON,10,1,9,0,0
 Todd,D101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,D101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Todd,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Todd,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Todd,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,D101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Todd,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Todd,D101,Ballots Cast,,,,55,,,,
 Todd,D101,U.S. House,1,Republican,David SIMS,0,0,0,0,0
 Todd,D101,U.S. House,1,Republican,Robert James SUTHERBY,3,0,3,0,0
@@ -431,8 +413,6 @@ Todd,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,1,0,1
 Todd,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,D101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Todd,D101,U.S. Senate,,Democratic,Amy McGRATH,13,1,12,0,0
-Todd,D101,U.S. Senate,,,Under Votes,1,0,1,0,0
-Todd,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Todd,D101,Magistrate,,,"William ""Pete Cole"" DRANE",8,0,8,0,0
 Todd,D101,Magistrate,,,"Cynthia ""Cindy"" McKINNEY",17,1,15,0,1
 Todd,D101,Magistrate,,,Under Votes,1,0,1,0,0
@@ -448,7 +428,7 @@ Todd,D102,U.S. Senate,,Republican,Daniel CAMERON,29,2,27,0,0
 Todd,D102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Todd,D102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
 Todd,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,1,3,0,0
-Todd,D102,U.S. Senate,,,Under Votes,7,0,7,0,0
+Todd,D102,U.S. Senate,,,Under Votes,24,6,18,0,0
 Todd,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,D102,Ballots Cast,,,,365,,,,
 Todd,D102,U.S. House,1,Republican,David SIMS,10,0,10,0,0
@@ -476,8 +456,6 @@ Todd,D102,U.S. Senate,,Democratic,Pamela STEVENSON,11,0,11,0,0
 Todd,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,1,4,0,0
 Todd,D102,U.S. Senate,,Democratic,Logan FORSYTHE,12,4,8,0,0
 Todd,D102,U.S. Senate,,Democratic,Amy McGRATH,55,9,44,1,1
-Todd,D102,U.S. Senate,,,Under Votes,17,6,11,0,0
-Todd,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,D102,Magistrate,,,"William ""Pete Cole"" DRANE",49,8,40,1,0
 Todd,D102,Magistrate,,,"Cynthia ""Cindy"" McKINNEY",114,17,96,0,1
 Todd,D102,Magistrate,,,Under Votes,1,1,0,0,0
@@ -493,7 +471,7 @@ Todd,E101,U.S. Senate,,Republican,Daniel CAMERON,7,1,6,0,0
 Todd,E101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,E101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Todd,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Todd,E101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Todd,E101,U.S. Senate,,,Under Votes,10,0,10,0,0
 Todd,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,E101,Ballots Cast,,,,106,,,,
 Todd,E101,U.S. House,1,Republican,David SIMS,2,0,2,0,0
@@ -521,8 +499,6 @@ Todd,E101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Todd,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,E101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Todd,E101,U.S. Senate,,Democratic,Amy McGRATH,27,3,24,0,0
-Todd,E101,U.S. Senate,,,Under Votes,5,0,5,0,0
-Todd,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,E102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
 Todd,E102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Todd,E102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
@@ -534,7 +510,7 @@ Todd,E102,U.S. Senate,,Republican,Daniel CAMERON,6,0,6,0,0
 Todd,E102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Todd,E102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Todd,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Todd,E102,U.S. Senate,,,Under Votes,9,0,9,0,0
+Todd,E102,U.S. Senate,,,Under Votes,12,0,12,0,0
 Todd,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Todd,E102,Ballots Cast,,,,82,,,,
 Todd,E102,U.S. House,1,Republican,David SIMS,7,0,7,0,0
@@ -562,5 +538,3 @@ Todd,E102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Todd,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Todd,E102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Todd,E102,U.S. Senate,,Democratic,Amy McGRATH,11,1,10,0,0
-Todd,E102,U.S. Senate,,,Under Votes,3,0,3,0,0
-Todd,E102,U.S. Senate,,,Over Votes,0,0,0,0,0

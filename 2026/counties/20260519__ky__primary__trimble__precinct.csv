@@ -11,11 +11,11 @@ Trimble,A101,U.S. Senate,,Republican,Nate MORRIS,3,0,3,0,0
 Trimble,A101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Trimble,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,A101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
-Trimble,A101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Trimble,A101,U.S. Senate,,,Under Votes,1,0,0,0,1
 Trimble,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,A101,U.S. House,4,Republican,Thomas MASSIE,30,3,27,0,0
 Trimble,A101,U.S. House,4,Republican,Ed GALLREIN,35,6,28,1,0
-Trimble,A101,U.S. House,4,,Under Votes,1,1,0,0,0
+Trimble,A101,U.S. House,4,,Under Votes,7,1,4,1,1
 Trimble,A101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A101,Ballots Cast,,,,127,,,,
 Trimble,A101,State Representative,47,Republican,Felicia RABOURN,46,6,39,1,0
@@ -49,12 +49,8 @@ Trimble,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
 Trimble,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
 Trimble,A101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Trimble,A101,U.S. Senate,,Democratic,Amy McGRATH,29,1,27,0,1
-Trimble,A101,U.S. Senate,,,Under Votes,1,0,0,0,1
-Trimble,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,A101,U.S. House,4,Democratic,Melissa Claire STRANGE,35,2,32,0,1
 Trimble,A101,U.S. House,4,Democratic,Jesse Russell BREWER,20,0,20,0,0
-Trimble,A101,U.S. House,4,,Under Votes,6,0,4,1,1
-Trimble,A101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A101,State Senate,6,Democratic,Chaz STOESS,10,0,10,0,0
 Trimble,A101,State Senate,6,Democratic,Christian FURMAN,45,2,41,1,1
 Trimble,A101,State Senate,6,,Under Votes,6,0,5,0,1
@@ -75,7 +71,7 @@ Trimble,A102,U.S. Senate,,,Under Votes,1,0,1,0,0
 Trimble,A102,U.S. Senate,,,Over Votes,1,0,1,0,0
 Trimble,A102,U.S. House,4,Republican,Thomas MASSIE,29,2,27,0,0
 Trimble,A102,U.S. House,4,Republican,Ed GALLREIN,50,6,40,2,2
-Trimble,A102,U.S. House,4,,Under Votes,2,0,2,0,0
+Trimble,A102,U.S. House,4,,Under Votes,7,0,7,0,0
 Trimble,A102,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A102,Ballots Cast,,,,127,,,,
 Trimble,A102,State Representative,47,Republican,Felicia RABOURN,52,7,42,1,2
@@ -109,12 +105,8 @@ Trimble,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
 Trimble,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
 Trimble,A102,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
 Trimble,A102,U.S. Senate,,Democratic,Amy McGRATH,20,2,18,0,0
-Trimble,A102,U.S. Senate,,,Under Votes,0,0,0,0,0
-Trimble,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,A102,U.S. House,4,Democratic,Melissa Claire STRANGE,21,1,17,2,1
 Trimble,A102,U.S. House,4,Democratic,Jesse Russell BREWER,20,2,18,0,0
-Trimble,A102,U.S. House,4,,Under Votes,5,0,5,0,0
-Trimble,A102,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A102,State Senate,6,Democratic,Chaz STOESS,13,1,11,0,1
 Trimble,A102,State Senate,6,Democratic,Christian FURMAN,29,2,25,2,0
 Trimble,A102,State Senate,6,,Under Votes,4,0,4,0,0
@@ -131,11 +123,11 @@ Trimble,A103,U.S. Senate,,Republican,Nate MORRIS,5,1,4,0,0
 Trimble,A103,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
 Trimble,A103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,A103,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
-Trimble,A103,U.S. Senate,,,Under Votes,5,1,4,0,0
+Trimble,A103,U.S. Senate,,,Under Votes,9,1,8,0,0
 Trimble,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,A103,U.S. House,4,Republican,Thomas MASSIE,58,6,50,2,0
 Trimble,A103,U.S. House,4,Republican,Ed GALLREIN,88,20,67,1,0
-Trimble,A103,U.S. House,4,,Under Votes,4,1,3,0,0
+Trimble,A103,U.S. House,4,,Under Votes,11,1,10,0,0
 Trimble,A103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A103,Ballots Cast,,,,251,,,,
 Trimble,A103,State Representative,47,Republican,Felicia RABOURN,95,17,77,1,0
@@ -169,12 +161,8 @@ Trimble,A103,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
 Trimble,A103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
 Trimble,A103,U.S. Senate,,Democratic,Pamela STEVENSON,7,3,4,0,0
 Trimble,A103,U.S. Senate,,Democratic,Amy McGRATH,45,6,38,1,0
-Trimble,A103,U.S. Senate,,,Under Votes,4,0,4,0,0
-Trimble,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,A103,U.S. House,4,Democratic,Melissa Claire STRANGE,48,9,37,1,1
 Trimble,A103,U.S. House,4,Democratic,Jesse Russell BREWER,46,4,42,0,0
-Trimble,A103,U.S. House,4,,Under Votes,7,0,7,0,0
-Trimble,A103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,A103,State Senate,6,Democratic,Chaz STOESS,22,3,19,0,0
 Trimble,A103,State Senate,6,Democratic,Christian FURMAN,75,10,63,1,1
 Trimble,A103,State Senate,6,,Under Votes,4,0,4,0,0
@@ -191,11 +179,11 @@ Trimble,B101,U.S. Senate,,Republican,Nate MORRIS,2,1,1,0,0
 Trimble,B101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
 Trimble,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,B101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
-Trimble,B101,U.S. Senate,,,Under Votes,8,2,6,0,0
+Trimble,B101,U.S. Senate,,,Under Votes,9,2,7,0,0
 Trimble,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B101,U.S. House,4,Republican,Thomas MASSIE,59,11,48,0,0
 Trimble,B101,U.S. House,4,Republican,Ed GALLREIN,75,11,58,1,5
-Trimble,B101,U.S. House,4,,Under Votes,3,1,2,0,0
+Trimble,B101,U.S. House,4,,Under Votes,5,1,3,0,1
 Trimble,B101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,B101,Ballots Cast,,,,169,,,,
 Trimble,B101,State Representative,47,Republican,Felicia RABOURN,84,14,68,1,1
@@ -234,12 +222,8 @@ Trimble,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
 Trimble,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
 Trimble,B101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Trimble,B101,U.S. Senate,,Democratic,Amy McGRATH,11,5,6,0,0
-Trimble,B101,U.S. Senate,,,Under Votes,1,0,1,0,0
-Trimble,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B101,U.S. House,4,Democratic,Melissa Claire STRANGE,22,5,17,0,0
 Trimble,B101,U.S. House,4,Democratic,Jesse Russell BREWER,8,1,6,0,1
-Trimble,B101,U.S. House,4,,Under Votes,2,0,1,0,1
-Trimble,B101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,B101,State Senate,6,Democratic,Chaz STOESS,7,1,6,0,0
 Trimble,B101,State Senate,6,Democratic,Christian FURMAN,22,5,16,0,1
 Trimble,B101,State Senate,6,,Under Votes,3,0,2,0,1
@@ -256,11 +240,11 @@ Trimble,B103,U.S. Senate,,Republican,Nate MORRIS,1,1,0,0,0
 Trimble,B103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Trimble,B103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,B103,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
-Trimble,B103,U.S. Senate,,,Under Votes,6,0,6,0,0
+Trimble,B103,U.S. Senate,,,Under Votes,9,0,9,0,0
 Trimble,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B103,U.S. House,4,Republican,Thomas MASSIE,66,10,56,0,0
 Trimble,B103,U.S. House,4,Republican,Ed GALLREIN,128,32,95,0,1
-Trimble,B103,U.S. House,4,,Under Votes,9,1,8,0,0
+Trimble,B103,U.S. House,4,,Under Votes,17,1,16,0,0
 Trimble,B103,U.S. House,4,,Over Votes,1,0,1,0,0
 Trimble,B103,Ballots Cast,,,,292,,,,
 Trimble,B103,State Representative,47,Republican,Felicia RABOURN,125,23,102,0,0
@@ -299,12 +283,8 @@ Trimble,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
 Trimble,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
 Trimble,B103,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Trimble,B103,U.S. Senate,,Democratic,Amy McGRATH,51,8,37,6,0
-Trimble,B103,U.S. Senate,,,Under Votes,3,0,3,0,0
-Trimble,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B103,U.S. House,4,Democratic,Melissa Claire STRANGE,45,7,32,6,0
 Trimble,B103,U.S. House,4,Democratic,Jesse Russell BREWER,35,5,28,2,0
-Trimble,B103,U.S. House,4,,Under Votes,8,0,8,0,0
-Trimble,B103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,B103,State Senate,6,Democratic,Chaz STOESS,30,4,23,3,0
 Trimble,B103,State Senate,6,Democratic,Christian FURMAN,55,8,42,5,0
 Trimble,B103,State Senate,6,,Under Votes,3,0,3,0,0
@@ -321,11 +301,11 @@ Trimble,B104,U.S. Senate,,Republican,Nate MORRIS,2,0,2,0,0
 Trimble,B104,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Trimble,B104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,B104,U.S. Senate,,Republican,George WASHINGTON,4,1,2,0,1
-Trimble,B104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Trimble,B104,U.S. Senate,,,Under Votes,2,0,2,0,0
 Trimble,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B104,U.S. House,4,Republican,Thomas MASSIE,26,11,14,0,1
 Trimble,B104,U.S. House,4,Republican,Ed GALLREIN,44,7,37,0,0
-Trimble,B104,U.S. House,4,,Under Votes,2,1,1,0,0
+Trimble,B104,U.S. House,4,,Under Votes,6,2,4,0,0
 Trimble,B104,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,B104,Ballots Cast,,,,119,,,,
 Trimble,B104,State Representative,47,Republican,Felicia RABOURN,45,12,33,0,0
@@ -364,12 +344,8 @@ Trimble,B104,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,1,0,0,0
 Trimble,B104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
 Trimble,B104,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Trimble,B104,U.S. Senate,,Democratic,Amy McGRATH,22,6,16,0,0
-Trimble,B104,U.S. Senate,,,Under Votes,1,0,1,0,0
-Trimble,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,B104,U.S. House,4,Democratic,Melissa Claire STRANGE,27,10,17,0,0
 Trimble,B104,U.S. House,4,Democratic,Jesse Russell BREWER,16,4,12,0,0
-Trimble,B104,U.S. House,4,,Under Votes,4,1,3,0,0
-Trimble,B104,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,B104,State Senate,6,Democratic,Chaz STOESS,12,2,10,0,0
 Trimble,B104,State Senate,6,Democratic,Christian FURMAN,33,13,20,0,0
 Trimble,B104,State Senate,6,,Under Votes,2,0,2,0,0
@@ -386,11 +362,11 @@ Trimble,C101,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
 Trimble,C101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Trimble,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,C101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
-Trimble,C101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Trimble,C101,U.S. Senate,,,Under Votes,5,0,5,0,0
 Trimble,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C101,U.S. House,4,Republican,Thomas MASSIE,31,1,30,0,0
 Trimble,C101,U.S. House,4,Republican,Ed GALLREIN,30,4,26,0,0
-Trimble,C101,U.S. House,4,,Under Votes,1,0,1,0,0
+Trimble,C101,U.S. House,4,,Under Votes,5,1,4,0,0
 Trimble,C101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C101,Ballots Cast,,,,117,,,,
 Trimble,C101,State Representative,47,Republican,Felicia RABOURN,38,2,36,0,0
@@ -431,12 +407,8 @@ Trimble,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
 Trimble,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
 Trimble,C101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Trimble,C101,U.S. Senate,,Democratic,Amy McGRATH,25,5,19,0,1
-Trimble,C101,U.S. Senate,,,Under Votes,3,0,3,0,0
-Trimble,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C101,U.S. House,4,Democratic,Melissa Claire STRANGE,26,4,20,2,0
 Trimble,C101,U.S. House,4,Democratic,Jesse Russell BREWER,25,5,17,0,3
-Trimble,C101,U.S. House,4,,Under Votes,4,1,3,0,0
-Trimble,C101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C101,State Senate,6,Democratic,Chaz STOESS,12,4,7,1,0
 Trimble,C101,State Senate,6,Democratic,Christian FURMAN,41,6,31,1,3
 Trimble,C101,State Senate,6,,Under Votes,2,0,2,0,0
@@ -453,11 +425,11 @@ Trimble,C103,U.S. Senate,,Republican,Nate MORRIS,2,0,2,0,0
 Trimble,C103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Trimble,C103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,C103,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
-Trimble,C103,U.S. Senate,,,Under Votes,2,0,1,0,1
+Trimble,C103,U.S. Senate,,,Under Votes,6,2,1,1,2
 Trimble,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C103,U.S. House,4,Republican,Thomas MASSIE,27,3,23,0,1
 Trimble,C103,U.S. House,4,Republican,Ed GALLREIN,60,4,54,2,0
-Trimble,C103,U.S. House,4,,Under Votes,2,0,2,0,0
+Trimble,C103,U.S. House,4,,Under Votes,8,2,4,1,1
 Trimble,C103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C103,Ballots Cast,,,,129,,,,
 Trimble,C103,State Representative,47,Republican,Felicia RABOURN,52,4,46,2,0
@@ -498,12 +470,8 @@ Trimble,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
 Trimble,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
 Trimble,C103,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Trimble,C103,U.S. Senate,,Democratic,Amy McGRATH,15,0,15,0,0
-Trimble,C103,U.S. Senate,,,Under Votes,4,2,0,1,1
-Trimble,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C103,U.S. House,4,Democratic,Melissa Claire STRANGE,23,0,23,0,0
 Trimble,C103,U.S. House,4,Democratic,Jesse Russell BREWER,11,0,11,0,0
-Trimble,C103,U.S. House,4,,Under Votes,6,2,2,1,1
-Trimble,C103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C103,State Senate,6,Democratic,Chaz STOESS,14,0,14,0,0
 Trimble,C103,State Senate,6,Democratic,Christian FURMAN,21,1,20,0,0
 Trimble,C103,State Senate,6,,Under Votes,5,1,2,1,1
@@ -520,11 +488,11 @@ Trimble,C104,U.S. Senate,,Republican,Nate MORRIS,2,1,1,0,0
 Trimble,C104,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
 Trimble,C104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,C104,U.S. Senate,,Republican,George WASHINGTON,6,0,6,0,0
-Trimble,C104,U.S. Senate,,,Under Votes,9,2,7,0,0
+Trimble,C104,U.S. Senate,,,Under Votes,13,2,10,0,1
 Trimble,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C104,U.S. House,4,Republican,Thomas MASSIE,63,6,52,1,4
 Trimble,C104,U.S. House,4,Republican,Ed GALLREIN,81,5,71,0,5
-Trimble,C104,U.S. House,4,,Under Votes,6,2,4,0,0
+Trimble,C104,U.S. House,4,,Under Votes,16,2,13,0,1
 Trimble,C104,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C104,Ballots Cast,,,,222,,,,
 Trimble,C104,State Representative,47,Republican,Felicia RABOURN,81,7,66,1,7
@@ -565,12 +533,8 @@ Trimble,C104,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
 Trimble,C104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
 Trimble,C104,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
 Trimble,C104,U.S. Senate,,Democratic,Amy McGRATH,32,6,23,2,1
-Trimble,C104,U.S. Senate,,,Under Votes,4,0,3,0,1
-Trimble,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,C104,U.S. House,4,Democratic,Melissa Claire STRANGE,34,2,28,3,1
 Trimble,C104,U.S. House,4,Democratic,Jesse Russell BREWER,28,10,17,0,1
-Trimble,C104,U.S. House,4,,Under Votes,10,0,9,0,1
-Trimble,C104,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,C104,State Senate,6,Democratic,Chaz STOESS,15,3,10,1,1
 Trimble,C104,State Senate,6,Democratic,Christian FURMAN,53,9,41,2,1
 Trimble,C104,State Senate,6,,Under Votes,4,0,3,0,1
@@ -587,11 +551,11 @@ Trimble,D101,U.S. Senate,,Republican,Nate MORRIS,3,1,2,0,0
 Trimble,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Trimble,D101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,D101,U.S. Senate,,Republican,George WASHINGTON,1,1,0,0,0
-Trimble,D101,U.S. Senate,,,Under Votes,3,2,1,0,0
+Trimble,D101,U.S. Senate,,,Under Votes,6,2,4,0,0
 Trimble,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D101,U.S. House,4,Republican,Thomas MASSIE,36,5,27,1,3
 Trimble,D101,U.S. House,4,Republican,Ed GALLREIN,57,18,36,0,3
-Trimble,D101,U.S. House,4,,Under Votes,1,0,1,0,0
+Trimble,D101,U.S. House,4,,Under Votes,5,0,5,0,0
 Trimble,D101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D101,Ballots Cast,,,,135,,,,
 Trimble,D101,State Representative,47,Republican,Felicia RABOURN,56,12,39,1,4
@@ -625,12 +589,8 @@ Trimble,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,2,0,1
 Trimble,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
 Trimble,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Trimble,D101,U.S. Senate,,Democratic,Amy McGRATH,14,2,11,1,0
-Trimble,D101,U.S. Senate,,,Under Votes,3,0,3,0,0
-Trimble,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D101,U.S. House,4,Democratic,Melissa Claire STRANGE,16,2,11,2,1
 Trimble,D101,U.S. House,4,Democratic,Jesse Russell BREWER,21,3,16,0,2
-Trimble,D101,U.S. House,4,,Under Votes,4,0,4,0,0
-Trimble,D101,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D101,State Senate,6,Democratic,Chaz STOESS,13,1,9,1,2
 Trimble,D101,State Senate,6,Democratic,Christian FURMAN,24,4,18,1,1
 Trimble,D101,State Senate,6,,Under Votes,4,0,4,0,0
@@ -651,11 +611,11 @@ Trimble,D102,U.S. Senate,,Republican,Nate MORRIS,4,0,4,0,0
 Trimble,D102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
 Trimble,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,D102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
-Trimble,D102,U.S. Senate,,,Under Votes,3,0,2,1,0
+Trimble,D102,U.S. Senate,,,Under Votes,10,0,7,3,0
 Trimble,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D102,U.S. House,4,Republican,Thomas MASSIE,42,7,34,1,0
 Trimble,D102,U.S. House,4,Republican,Ed GALLREIN,66,9,57,0,0
-Trimble,D102,U.S. House,4,,Under Votes,1,0,0,1,0
+Trimble,D102,U.S. House,4,,Under Votes,9,0,6,3,0
 Trimble,D102,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D102,Ballots Cast,,,,156,,,,
 Trimble,D102,State Representative,47,Republican,Felicia RABOURN,68,9,58,1,0
@@ -689,12 +649,8 @@ Trimble,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
 Trimble,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
 Trimble,D102,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
 Trimble,D102,U.S. Senate,,Democratic,Amy McGRATH,16,3,12,1,0
-Trimble,D102,U.S. Senate,,,Under Votes,7,0,5,2,0
-Trimble,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D102,U.S. House,4,Democratic,Melissa Claire STRANGE,23,5,17,1,0
 Trimble,D102,U.S. House,4,Democratic,Jesse Russell BREWER,16,1,14,1,0
-Trimble,D102,U.S. House,4,,Under Votes,8,0,6,2,0
-Trimble,D102,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D102,State Senate,6,Democratic,Chaz STOESS,16,1,13,2,0
 Trimble,D102,State Senate,6,Democratic,Christian FURMAN,23,3,20,0,0
 Trimble,D102,State Senate,6,,Under Votes,8,2,4,2,0
@@ -715,11 +671,11 @@ Trimble,D103,U.S. Senate,,Republican,Nate MORRIS,5,1,3,0,1
 Trimble,D103,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
 Trimble,D103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
 Trimble,D103,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
-Trimble,D103,U.S. Senate,,,Under Votes,9,0,9,0,0
+Trimble,D103,U.S. Senate,,,Under Votes,18,4,14,0,0
 Trimble,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D103,U.S. House,4,Republican,Thomas MASSIE,54,14,39,0,1
 Trimble,D103,U.S. House,4,Republican,Ed GALLREIN,55,14,41,0,0
-Trimble,D103,U.S. House,4,,Under Votes,4,0,4,0,0
+Trimble,D103,U.S. House,4,,Under Votes,23,7,16,0,0
 Trimble,D103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D103,Ballots Cast,,,,205,,,,
 Trimble,D103,State Representative,47,Republican,Felicia RABOURN,62,18,44,0,0
@@ -753,12 +709,8 @@ Trimble,D103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
 Trimble,D103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
 Trimble,D103,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
 Trimble,D103,U.S. Senate,,Democratic,Amy McGRATH,38,12,26,0,0
-Trimble,D103,U.S. Senate,,,Under Votes,9,4,5,0,0
-Trimble,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Trimble,D103,U.S. House,4,Democratic,Melissa Claire STRANGE,42,7,35,0,0
 Trimble,D103,U.S. House,4,Democratic,Jesse Russell BREWER,31,4,25,2,0
-Trimble,D103,U.S. House,4,,Under Votes,19,7,12,0,0
-Trimble,D103,U.S. House,4,,Over Votes,0,0,0,0,0
 Trimble,D103,State Senate,6,Democratic,Chaz STOESS,19,4,13,2,0
 Trimble,D103,State Senate,6,Democratic,Christian FURMAN,61,10,51,0,0
 Trimble,D103,State Senate,6,,Under Votes,12,4,8,0,0

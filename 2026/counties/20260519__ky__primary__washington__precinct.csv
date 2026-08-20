@@ -27,7 +27,7 @@ Washington,A101,State Senate,14,Republican,Ben MUDD,27,12,15,0,0
 Washington,A101,State Senate,14,Republican,Stephen CARNEY,56,11,45,0,0
 Washington,A101,State Senate,14,Republican,Dallas ROBINSON,11,0,11,0,0
 Washington,A101,State Senate,14,Republican,Lynn SHELBURNE,4,0,4,0,0
-Washington,A101,State Senate,14,,Under Votes,3,0,3,0,0
+Washington,A101,State Senate,14,,Under Votes,6,2,4,0,0
 Washington,A101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,A101,Magistrate,,,Devin HOOD,12,6,6,0,0
 Washington,A101,Magistrate,,,Mike JONES,50,15,35,0,0
@@ -41,12 +41,8 @@ Washington,A101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Washington,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,1,3,0,0
 Washington,A101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Washington,A101,U.S. Senate,,Democratic,Amy McGRATH,30,10,19,1,0
-Washington,A101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,A101,State Senate,14,Democratic,Carrie Gribbins TRUITT,37,11,25,1,0
 Washington,A101,State Senate,14,Democratic,Malcolm W. JONES,11,2,9,0,0
-Washington,A101,State Senate,14,,Under Votes,3,2,1,0,0
-Washington,A101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,A101,State Representative,55,Democratic,Katrina A. SEXTON,27,9,17,1,0
 Washington,A101,State Representative,55,Democratic,Nathan SAUCEDO,19,4,15,0,0
 Washington,A101,State Representative,55,,Under Votes,5,2,3,0,0
@@ -63,7 +59,7 @@ Washington,A102,U.S. Senate,,Republican,Daniel CAMERON,88,25,62,0,1
 Washington,A102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Washington,A102,U.S. Senate,,Republican,Michael James FARIS,3,2,1,0,0
 Washington,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
-Washington,A102,U.S. Senate,,,Under Votes,8,3,5,0,0
+Washington,A102,U.S. Senate,,,Under Votes,9,3,5,0,1
 Washington,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,A102,Ballots Cast,,,,271,,,,
 Washington,A102,U.S. House,1,Republican,David SIMS,26,9,17,0,0
@@ -79,7 +75,7 @@ Washington,A102,State Senate,14,Republican,Ben MUDD,40,8,32,0,0
 Washington,A102,State Senate,14,Republican,Stephen CARNEY,113,18,94,0,1
 Washington,A102,State Senate,14,Republican,Dallas ROBINSON,40,14,26,0,0
 Washington,A102,State Senate,14,Republican,Lynn SHELBURNE,8,2,6,0,0
-Washington,A102,State Senate,14,,Under Votes,17,6,11,0,0
+Washington,A102,State Senate,14,,Under Votes,21,6,13,0,2
 Washington,A102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,A102,Magistrate,,,Devin HOOD,21,2,19,0,0
 Washington,A102,Magistrate,,,Mike JONES,25,0,25,0,0
@@ -93,12 +89,8 @@ Washington,A102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Washington,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,1,4,0,0
 Washington,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Washington,A102,U.S. Senate,,Democratic,Amy McGRATH,7,0,6,1,0
-Washington,A102,U.S. Senate,,,Under Votes,1,0,0,0,1
-Washington,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,A102,State Senate,14,Democratic,Carrie Gribbins TRUITT,22,2,18,2,0
 Washington,A102,State Senate,14,Democratic,Malcolm W. JONES,16,0,14,2,0
-Washington,A102,State Senate,14,,Under Votes,4,0,2,0,2
-Washington,A102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,A102,State Representative,55,Democratic,Katrina A. SEXTON,23,2,18,3,0
 Washington,A102,State Representative,55,Democratic,Nathan SAUCEDO,16,0,15,1,0
 Washington,A102,State Representative,55,,Under Votes,3,0,1,0,2
@@ -115,7 +107,7 @@ Washington,B101,U.S. Senate,,Republican,Daniel CAMERON,60,9,51,0,0
 Washington,B101,U.S. Senate,,Republican,Anissa CATLETT,2,1,1,0,0
 Washington,B101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
 Washington,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Washington,B101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Washington,B101,U.S. Senate,,,Under Votes,8,0,8,0,0
 Washington,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,B101,Ballots Cast,,,,177,,,,
 Washington,B101,U.S. House,1,Republican,David SIMS,18,1,17,0,0
@@ -131,7 +123,7 @@ Washington,B101,State Senate,14,Republican,Ben MUDD,39,7,32,0,0
 Washington,B101,State Senate,14,Republican,Stephen CARNEY,66,8,58,0,0
 Washington,B101,State Senate,14,Republican,Dallas ROBINSON,25,3,22,0,0
 Washington,B101,State Senate,14,Republican,Lynn SHELBURNE,4,0,4,0,0
-Washington,B101,State Senate,14,,Under Votes,3,0,3,0,0
+Washington,B101,State Senate,14,,Under Votes,6,0,6,0,0
 Washington,B101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,B101,Magistrate,,,Charles HAGAN,26,1,25,0,0
 Washington,B101,Magistrate,,,Justin D. HATCHETT,112,17,95,0,0
@@ -144,12 +136,8 @@ Washington,B101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
 Washington,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
 Washington,B101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
 Washington,B101,U.S. Senate,,Democratic,Amy McGRATH,13,3,10,0,0
-Washington,B101,U.S. Senate,,,Under Votes,3,0,3,0,0
-Washington,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,B101,State Senate,14,Democratic,Carrie Gribbins TRUITT,28,3,25,0,0
 Washington,B101,State Senate,14,Democratic,Malcolm W. JONES,5,1,3,1,0
-Washington,B101,State Senate,14,,Under Votes,3,0,3,0,0
-Washington,B101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,B101,State Representative,55,Democratic,Katrina A. SEXTON,25,2,22,1,0
 Washington,B101,State Representative,55,Democratic,Nathan SAUCEDO,7,2,5,0,0
 Washington,B101,State Representative,55,,Under Votes,4,0,4,0,0
@@ -166,7 +154,7 @@ Washington,B102,U.S. Senate,,Republican,Daniel CAMERON,67,14,52,1,0
 Washington,B102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Washington,B102,U.S. Senate,,Republican,Michael James FARIS,12,0,12,0,0
 Washington,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Washington,B102,U.S. Senate,,,Under Votes,7,2,5,0,0
+Washington,B102,U.S. Senate,,,Under Votes,10,2,8,0,0
 Washington,B102,U.S. Senate,,,Over Votes,1,0,1,0,0
 Washington,B102,Ballots Cast,,,,320,,,,
 Washington,B102,U.S. House,1,Republican,David SIMS,15,0,15,0,0
@@ -182,7 +170,7 @@ Washington,B102,State Senate,14,Republican,Ben MUDD,44,5,38,1,0
 Washington,B102,State Senate,14,Republican,Stephen CARNEY,103,21,82,0,0
 Washington,B102,State Senate,14,Republican,Dallas ROBINSON,23,4,19,0,0
 Washington,B102,State Senate,14,Republican,Lynn SHELBURNE,4,0,4,0,0
-Washington,B102,State Senate,14,,Under Votes,3,0,3,0,0
+Washington,B102,State Senate,14,,Under Votes,8,1,6,1,0
 Washington,B102,State Senate,14,,Over Votes,1,0,1,0,0
 Washington,B102,Magistrate,,,Charles HAGAN,34,5,29,0,0
 Washington,B102,Magistrate,,,Justin D. HATCHETT,149,27,121,1,0
@@ -195,12 +183,8 @@ Washington,B102,U.S. Senate,,Democratic,Pamela STEVENSON,10,1,9,0,0
 Washington,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,11,6,4,1,0
 Washington,B102,U.S. Senate,,Democratic,Logan FORSYTHE,3,1,2,0,0
 Washington,B102,U.S. Senate,,Democratic,Amy McGRATH,53,9,44,0,0
-Washington,B102,U.S. Senate,,,Under Votes,3,0,3,0,0
-Washington,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,B102,State Senate,14,Democratic,Carrie Gribbins TRUITT,89,18,71,0,0
 Washington,B102,State Senate,14,Democratic,Malcolm W. JONES,36,9,27,0,0
-Washington,B102,State Senate,14,,Under Votes,5,1,3,1,0
-Washington,B102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,B102,State Representative,55,Democratic,Katrina A. SEXTON,70,16,54,0,0
 Washington,B102,State Representative,55,Democratic,Nathan SAUCEDO,58,12,46,0,0
 Washington,B102,State Representative,55,,Under Votes,2,0,1,1,0
@@ -233,7 +217,7 @@ Washington,C101,State Senate,14,Republican,Ben MUDD,15,1,14,0,0
 Washington,C101,State Senate,14,Republican,Stephen CARNEY,42,11,31,0,0
 Washington,C101,State Senate,14,Republican,Dallas ROBINSON,24,3,21,0,0
 Washington,C101,State Senate,14,Republican,Lynn SHELBURNE,0,0,0,0,0
-Washington,C101,State Senate,14,,Under Votes,4,0,4,0,0
+Washington,C101,State Senate,14,,Under Votes,8,1,7,0,0
 Washington,C101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
 Washington,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
@@ -242,12 +226,8 @@ Washington,C101,U.S. Senate,,Democratic,Pamela STEVENSON,4,1,2,1,0
 Washington,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
 Washington,C101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Washington,C101,U.S. Senate,,Democratic,Amy McGRATH,15,4,10,1,0
-Washington,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,C101,State Senate,14,Democratic,Carrie Gribbins TRUITT,25,3,19,3,0
 Washington,C101,State Senate,14,Democratic,Malcolm W. JONES,5,1,4,0,0
-Washington,C101,State Senate,14,,Under Votes,4,1,3,0,0
-Washington,C101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C101,State Representative,55,Democratic,Katrina A. SEXTON,26,3,20,3,0
 Washington,C101,State Representative,55,Democratic,Nathan SAUCEDO,4,1,3,0,0
 Washington,C101,State Representative,55,,Under Votes,4,1,3,0,0
@@ -280,7 +260,7 @@ Washington,C102,State Senate,14,Republican,Ben MUDD,12,2,10,0,0
 Washington,C102,State Senate,14,Republican,Stephen CARNEY,57,5,51,1,0
 Washington,C102,State Senate,14,Republican,Dallas ROBINSON,25,1,22,2,0
 Washington,C102,State Senate,14,Republican,Lynn SHELBURNE,3,0,3,0,0
-Washington,C102,State Senate,14,,Under Votes,2,1,1,0,0
+Washington,C102,State Senate,14,,Under Votes,6,1,5,0,0
 Washington,C102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
 Washington,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
@@ -289,12 +269,8 @@ Washington,C102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
 Washington,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,0,6,0,0
 Washington,C102,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Washington,C102,U.S. Senate,,Democratic,Amy McGRATH,17,3,14,0,0
-Washington,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,C102,State Senate,14,Democratic,Carrie Gribbins TRUITT,23,5,18,0,0
 Washington,C102,State Senate,14,Democratic,Malcolm W. JONES,15,0,15,0,0
-Washington,C102,State Senate,14,,Under Votes,4,0,4,0,0
-Washington,C102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C102,State Representative,55,Democratic,Katrina A. SEXTON,25,2,23,0,0
 Washington,C102,State Representative,55,Democratic,Nathan SAUCEDO,16,3,13,0,0
 Washington,C102,State Representative,55,,Under Votes,1,0,1,0,0
@@ -327,7 +303,7 @@ Washington,C103,State Senate,14,Republican,Ben MUDD,18,5,13,0,0
 Washington,C103,State Senate,14,Republican,Stephen CARNEY,27,11,14,0,2
 Washington,C103,State Senate,14,Republican,Dallas ROBINSON,8,1,7,0,0
 Washington,C103,State Senate,14,Republican,Lynn SHELBURNE,1,0,1,0,0
-Washington,C103,State Senate,14,,Under Votes,1,0,1,0,0
+Washington,C103,State Senate,14,,Under Votes,2,0,1,0,1
 Washington,C103,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
 Washington,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
@@ -336,12 +312,8 @@ Washington,C103,U.S. Senate,,Democratic,Pamela STEVENSON,7,0,7,0,0
 Washington,C103,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,3,1,0,0
 Washington,C103,U.S. Senate,,Democratic,Logan FORSYTHE,4,1,3,0,0
 Washington,C103,U.S. Senate,,Democratic,Amy McGRATH,29,11,15,2,1
-Washington,C103,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,C103,State Senate,14,Democratic,Carrie Gribbins TRUITT,45,14,29,2,0
 Washington,C103,State Senate,14,Democratic,Malcolm W. JONES,10,2,8,0,0
-Washington,C103,State Senate,14,,Under Votes,1,0,0,0,1
-Washington,C103,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,C103,State Representative,55,Democratic,Katrina A. SEXTON,25,8,15,2,0
 Washington,C103,State Representative,55,Democratic,Nathan SAUCEDO,30,8,22,0,0
 Washington,C103,State Representative,55,,Under Votes,1,0,0,0,1
@@ -358,7 +330,7 @@ Washington,D101,U.S. Senate,,Republican,Daniel CAMERON,52,22,30,0,0
 Washington,D101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Washington,D101,U.S. Senate,,Republican,Michael James FARIS,2,1,1,0,0
 Washington,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Washington,D101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Washington,D101,U.S. Senate,,,Under Votes,3,2,1,0,0
 Washington,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,D101,Ballots Cast,,,,170,,,,
 Washington,D101,U.S. House,1,Republican,David SIMS,8,2,6,0,0
@@ -374,8 +346,8 @@ Washington,D101,State Senate,14,Republican,Ben MUDD,19,3,16,0,0
 Washington,D101,State Senate,14,Republican,Stephen CARNEY,64,30,34,0,0
 Washington,D101,State Senate,14,Republican,Dallas ROBINSON,6,2,4,0,0
 Washington,D101,State Senate,14,Republican,Lynn SHELBURNE,3,0,3,0,0
-Washington,D101,State Senate,14,,Under Votes,1,0,1,0,0
-Washington,D101,State Senate,14,,Over Votes,0,0,0,0,0
+Washington,D101,State Senate,14,,Under Votes,3,1,2,0,0
+Washington,D101,State Senate,14,,Over Votes,1,0,1,0,0
 Washington,D101,Magistrate,,,"Richard ""Richie"" HAMILTON",24,3,21,0,0
 Washington,D101,Magistrate,,,Ronnie HUNTSBERGER,71,31,40,0,0
 Washington,D101,Magistrate,,,Under Votes,3,1,2,0,0
@@ -387,12 +359,8 @@ Washington,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Washington,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,2,3,0,0
 Washington,D101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
 Washington,D101,U.S. Senate,,Democratic,Amy McGRATH,23,7,16,0,0
-Washington,D101,U.S. Senate,,,Under Votes,2,2,0,0,0
-Washington,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,D101,State Senate,14,Democratic,Carrie Gribbins TRUITT,46,11,33,2,0
 Washington,D101,State Senate,14,Democratic,Malcolm W. JONES,23,5,18,0,0
-Washington,D101,State Senate,14,,Under Votes,2,1,1,0,0
-Washington,D101,State Senate,14,,Over Votes,1,0,1,0,0
 Washington,D101,State Representative,55,Democratic,Katrina A. SEXTON,34,8,25,1,0
 Washington,D101,State Representative,55,Democratic,Nathan SAUCEDO,33,7,25,1,0
 Washington,D101,State Representative,55,,Under Votes,5,2,3,0,0
@@ -409,7 +377,7 @@ Washington,D102,U.S. Senate,,Republican,Daniel CAMERON,48,9,38,0,1
 Washington,D102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Washington,D102,U.S. Senate,,Republican,Michael James FARIS,5,1,4,0,0
 Washington,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
-Washington,D102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Washington,D102,U.S. Senate,,,Under Votes,3,1,2,0,0
 Washington,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,D102,Ballots Cast,,,,204,,,,
 Washington,D102,U.S. House,1,Republican,David SIMS,12,1,10,1,0
@@ -425,7 +393,7 @@ Washington,D102,State Senate,14,Republican,Ben MUDD,30,6,24,0,0
 Washington,D102,State Senate,14,Republican,Stephen CARNEY,54,9,43,2,0
 Washington,D102,State Senate,14,Republican,Dallas ROBINSON,6,1,5,0,0
 Washington,D102,State Senate,14,Republican,Lynn SHELBURNE,2,0,2,0,0
-Washington,D102,State Senate,14,,Under Votes,2,0,1,0,1
+Washington,D102,State Senate,14,,Under Votes,11,3,6,1,1
 Washington,D102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,D102,Magistrate,,,"Richard ""Richie"" HAMILTON",31,4,25,1,1
 Washington,D102,Magistrate,,,Ronnie HUNTSBERGER,65,12,52,1,0
@@ -438,12 +406,8 @@ Washington,D102,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Washington,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,1,3,0,0
 Washington,D102,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
 Washington,D102,U.S. Senate,,Democratic,Amy McGRATH,39,14,22,3,0
-Washington,D102,U.S. Senate,,,Under Votes,3,1,2,0,0
-Washington,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,D102,State Senate,14,Democratic,Carrie Gribbins TRUITT,61,16,43,2,0
 Washington,D102,State Senate,14,Democratic,Malcolm W. JONES,34,5,27,2,0
-Washington,D102,State Senate,14,,Under Votes,9,3,5,1,0
-Washington,D102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,D102,State Representative,55,Democratic,Katrina A. SEXTON,42,8,31,3,0
 Washington,D102,State Representative,55,Democratic,Nathan SAUCEDO,53,13,39,1,0
 Washington,D102,State Representative,55,,Under Votes,9,3,5,1,0
@@ -461,7 +425,7 @@ Washington,E101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Washington,E101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Washington,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
 Washington,E101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Washington,E101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Washington,E101,Ballots Cast,,,,108,,,,
 Washington,E101,U.S. House,1,Republican,David SIMS,4,1,3,0,0
 Washington,E101,U.S. House,1,Republican,Robert James SUTHERBY,2,1,1,0,0
@@ -476,7 +440,7 @@ Washington,E101,State Senate,14,Republican,Ben MUDD,10,3,7,0,0
 Washington,E101,State Senate,14,Republican,Stephen CARNEY,26,8,18,0,0
 Washington,E101,State Senate,14,Republican,Dallas ROBINSON,6,1,5,0,0
 Washington,E101,State Senate,14,Republican,Lynn SHELBURNE,0,0,0,0,0
-Washington,E101,State Senate,14,,Under Votes,0,0,0,0,0
+Washington,E101,State Senate,14,,Under Votes,7,2,5,0,0
 Washington,E101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,E101,Magistrate,,,Matt MEDLEY,23,4,19,0,0
 Washington,E101,Magistrate,,,John W. VIZE,21,9,12,0,0
@@ -489,12 +453,8 @@ Washington,E101,U.S. Senate,,Democratic,Pamela STEVENSON,2,1,1,0,0
 Washington,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,3,1,0,0
 Washington,E101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Washington,E101,U.S. Senate,,Democratic,Amy McGRATH,31,13,17,1,0
-Washington,E101,U.S. Senate,,,Under Votes,0,0,0,0,0
-Washington,E101,U.S. Senate,,,Over Votes,1,0,1,0,0
 Washington,E101,State Senate,14,Democratic,Carrie Gribbins TRUITT,42,14,27,1,0
 Washington,E101,State Senate,14,Democratic,Malcolm W. JONES,13,3,10,0,0
-Washington,E101,State Senate,14,,Under Votes,7,2,5,0,0
-Washington,E101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,E101,State Representative,55,Democratic,Katrina A. SEXTON,29,10,18,1,0
 Washington,E101,State Representative,55,Democratic,Nathan SAUCEDO,31,9,22,0,0
 Washington,E101,State Representative,55,,Under Votes,2,0,2,0,0
@@ -511,7 +471,7 @@ Washington,E102,U.S. Senate,,Republican,Daniel CAMERON,66,19,47,0,0
 Washington,E102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
 Washington,E102,U.S. Senate,,Republican,Michael James FARIS,7,1,5,0,1
 Washington,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Washington,E102,U.S. Senate,,,Under Votes,14,5,9,0,0
+Washington,E102,U.S. Senate,,,Under Votes,18,7,11,0,0
 Washington,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,E102,Ballots Cast,,,,338,,,,
 Washington,E102,U.S. House,1,Republican,David SIMS,12,2,10,0,0
@@ -527,7 +487,7 @@ Washington,E102,State Senate,14,Republican,Ben MUDD,76,24,52,0,0
 Washington,E102,State Senate,14,Republican,Stephen CARNEY,60,17,43,0,0
 Washington,E102,State Senate,14,Republican,Dallas ROBINSON,22,5,16,0,1
 Washington,E102,State Senate,14,Republican,Lynn SHELBURNE,1,0,1,0,0
-Washington,E102,State Senate,14,,Under Votes,2,1,1,0,0
+Washington,E102,State Senate,14,,Under Votes,15,6,6,3,0
 Washington,E102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,E102,Magistrate,,,Matt MEDLEY,79,19,59,0,1
 Washington,E102,Magistrate,,,John W. VIZE,83,28,55,0,0
@@ -540,12 +500,8 @@ Washington,E102,U.S. Senate,,Democratic,Pamela STEVENSON,2,1,1,0,0
 Washington,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,5,5,0,0
 Washington,E102,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,2,2,0
 Washington,E102,U.S. Senate,,Democratic,Amy McGRATH,90,29,52,9,0
-Washington,E102,U.S. Senate,,,Under Votes,4,2,2,0,0
-Washington,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,E102,State Senate,14,Democratic,Carrie Gribbins TRUITT,127,41,74,12,0
 Washington,E102,State Senate,14,Democratic,Malcolm W. JONES,29,7,17,5,0
-Washington,E102,State Senate,14,,Under Votes,13,5,5,3,0
-Washington,E102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,E102,State Representative,55,Democratic,Katrina A. SEXTON,99,31,53,15,0
 Washington,E102,State Representative,55,Democratic,Nathan SAUCEDO,56,18,35,3,0
 Washington,E102,State Representative,55,,Under Votes,14,4,8,2,0
@@ -562,7 +518,7 @@ Washington,F101,U.S. Senate,,Republican,Daniel CAMERON,49,3,46,0,0
 Washington,F101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
 Washington,F101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Washington,F101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
-Washington,F101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Washington,F101,U.S. Senate,,,Under Votes,2,0,2,0,0
 Washington,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,F101,Ballots Cast,,,,197,,,,
 Washington,F101,U.S. House,1,Republican,David SIMS,12,0,12,0,0
@@ -578,7 +534,7 @@ Washington,F101,State Senate,14,Republican,Ben MUDD,35,1,34,0,0
 Washington,F101,State Senate,14,Republican,Stephen CARNEY,38,8,30,0,0
 Washington,F101,State Senate,14,Republican,Dallas ROBINSON,12,3,9,0,0
 Washington,F101,State Senate,14,Republican,Lynn SHELBURNE,1,1,0,0,0
-Washington,F101,State Senate,14,,Under Votes,1,0,1,0,0
+Washington,F101,State Senate,14,,Under Votes,7,0,7,0,0
 Washington,F101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,F101,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
 Washington,F101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
@@ -587,12 +543,8 @@ Washington,F101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
 Washington,F101,U.S. Senate,,Democratic,Dale Lewis ROMANS,11,2,9,0,0
 Washington,F101,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
 Washington,F101,U.S. Senate,,Democratic,Amy McGRATH,44,9,35,0,0
-Washington,F101,U.S. Senate,,,Under Votes,2,0,2,0,0
-Washington,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,F101,State Senate,14,Democratic,Carrie Gribbins TRUITT,68,10,58,0,0
 Washington,F101,State Senate,14,Democratic,Malcolm W. JONES,21,6,15,0,0
-Washington,F101,State Senate,14,,Under Votes,6,0,6,0,0
-Washington,F101,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,F101,State Representative,55,Democratic,Katrina A. SEXTON,56,9,47,0,0
 Washington,F101,State Representative,55,Democratic,Nathan SAUCEDO,30,6,24,0,0
 Washington,F101,State Representative,55,,Under Votes,9,1,8,0,0
@@ -609,7 +561,7 @@ Washington,F102,U.S. Senate,,Republican,Daniel CAMERON,79,22,56,0,1
 Washington,F102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Washington,F102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
 Washington,F102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
-Washington,F102,U.S. Senate,,,Under Votes,4,1,3,0,0
+Washington,F102,U.S. Senate,,,Under Votes,6,1,5,0,0
 Washington,F102,U.S. Senate,,,Over Votes,1,0,1,0,0
 Washington,F102,Ballots Cast,,,,257,,,,
 Washington,F102,U.S. House,1,Republican,David SIMS,7,0,7,0,0
@@ -625,7 +577,7 @@ Washington,F102,State Senate,14,Republican,Ben MUDD,51,12,39,0,0
 Washington,F102,State Senate,14,Republican,Stephen CARNEY,66,25,40,0,1
 Washington,F102,State Senate,14,Republican,Dallas ROBINSON,11,0,11,0,0
 Washington,F102,State Senate,14,Republican,Lynn SHELBURNE,4,2,2,0,0
-Washington,F102,State Senate,14,,Under Votes,2,0,2,0,0
+Washington,F102,State Senate,14,,Under Votes,7,3,4,0,0
 Washington,F102,State Senate,14,,Over Votes,1,1,0,0,0
 Washington,F102,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,1,2,0,0
 Washington,F102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
@@ -634,12 +586,8 @@ Washington,F102,U.S. Senate,,Democratic,Pamela STEVENSON,2,2,0,0,0
 Washington,F102,U.S. Senate,,Democratic,Dale Lewis ROMANS,9,3,6,0,0
 Washington,F102,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
 Washington,F102,U.S. Senate,,Democratic,Amy McGRATH,50,21,27,1,1
-Washington,F102,U.S. Senate,,,Under Votes,2,0,2,0,0
-Washington,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
 Washington,F102,State Senate,14,Democratic,Carrie Gribbins TRUITT,85,33,50,1,1
 Washington,F102,State Senate,14,Democratic,Malcolm W. JONES,22,5,17,0,0
-Washington,F102,State Senate,14,,Under Votes,5,3,2,0,0
-Washington,F102,State Senate,14,,Over Votes,0,0,0,0,0
 Washington,F102,State Representative,55,Democratic,Katrina A. SEXTON,44,13,30,0,1
 Washington,F102,State Representative,55,Democratic,Nathan SAUCEDO,65,27,37,1,0
 Washington,F102,State Representative,55,,Under Votes,3,1,2,0,0
