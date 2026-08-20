@@ -1,0 +1,738 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Henry,A101,U.S. Senate,,Republican,A. Nick SHELLEY,5,0,5,0,0
+Henry,A101,U.S. Senate,,Republican,Daniel CAMERON,115,11,102,2,0
+Henry,A101,U.S. Senate,,Republican,Andy BARR,102,19,80,1,2
+Henry,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Henry,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,A101,U.S. Senate,,Republican,Michael James FARIS,4,2,2,0,0
+Henry,A101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,A101,U.S. Senate,,Republican,George WASHINGTON,1,1,0,0,0
+Henry,A101,U.S. Senate,,,Under Votes,8,0,8,0,0
+Henry,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,A101,U.S. House,4,Republican,Thomas MASSIE,107,16,90,1,0
+Henry,A101,U.S. House,4,Republican,Ed GALLREIN,135,17,114,2,2
+Henry,A101,U.S. House,4,,Under Votes,4,0,4,0,0
+Henry,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,A101,Ballots Cast,,,,428,,,,
+Henry,A101,State Representative,47,Republican,Felicia RABOURN,139,17,119,1,2
+Henry,A101,State Representative,47,Republican,Mark A. GILKISON,90,16,73,1,0
+Henry,A101,State Representative,47,,Under Votes,17,0,16,1,0
+Henry,A101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,A101,Property Valuation Administrator,,,Deeanne Whitaker WEST,104,7,96,1,0
+Henry,A101,Property Valuation Administrator,,,Travis BUCHANAN,118,24,91,1,2
+Henry,A101,Property Valuation Administrator,,,Under Votes,24,2,21,1,0
+Henry,A101,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,A101,Jailer,,,Branden WEBSTER,88,6,81,0,1
+Henry,A101,Jailer,,,Scott NICHOLSON,19,2,17,0,0
+Henry,A101,Jailer,,,Scott SOUTHWORTH,114,24,87,2,1
+Henry,A101,Jailer,,,Under Votes,25,1,23,1,0
+Henry,A101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,A101,Magistrate,,,Ed FREDERICK,133,24,106,2,1
+Henry,A101,Magistrate,,,Wayne LONG,73,7,65,0,1
+Henry,A101,Magistrate,,,Under Votes,40,2,37,1,0
+Henry,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,9,1,8,0,0
+Henry,A101,U.S. Senate,,Democratic,Charles BOOKER,81,8,71,1,1
+Henry,A101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Henry,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Henry,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
+Henry,A101,U.S. Senate,,Democratic,Pamela STEVENSON,10,0,9,0,1
+Henry,A101,U.S. Senate,,Democratic,Amy McGRATH,70,18,48,3,1
+Henry,A101,U.S. Senate,,,Under Votes,4,0,4,0,0
+Henry,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,A101,U.S. House,4,Democratic,Melissa Claire STRANGE,116,12,97,4,3
+Henry,A101,U.S. House,4,Democratic,Jesse Russell BREWER,49,13,36,0,0
+Henry,A101,U.S. House,4,,Under Votes,17,2,15,0,0
+Henry,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,Daniel CAMERON,27,5,22,0,0
+Henry,A102,U.S. Senate,,Republican,Andy BARR,41,6,35,0,0
+Henry,A102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Henry,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Henry,A102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,A102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Henry,A102,U.S. Senate,,,Under Votes,1,0,1,0,0
+Henry,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,A102,U.S. House,4,Republican,Thomas MASSIE,29,7,22,0,0
+Henry,A102,U.S. House,4,Republican,Ed GALLREIN,44,4,40,0,0
+Henry,A102,U.S. House,4,,Under Votes,0,0,0,0,0
+Henry,A102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,A102,Ballots Cast,,,,102,,,,
+Henry,A102,State Representative,47,Republican,Felicia RABOURN,38,4,34,0,0
+Henry,A102,State Representative,47,Republican,Mark A. GILKISON,30,6,24,0,0
+Henry,A102,State Representative,47,,Under Votes,5,1,4,0,0
+Henry,A102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,A102,Property Valuation Administrator,,,Deeanne Whitaker WEST,26,3,23,0,0
+Henry,A102,Property Valuation Administrator,,,Travis BUCHANAN,42,6,36,0,0
+Henry,A102,Property Valuation Administrator,,,Under Votes,5,2,3,0,0
+Henry,A102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,A102,Jailer,,,Branden WEBSTER,36,3,33,0,0
+Henry,A102,Jailer,,,Scott NICHOLSON,5,1,4,0,0
+Henry,A102,Jailer,,,Scott SOUTHWORTH,27,6,21,0,0
+Henry,A102,Jailer,,,Under Votes,5,1,4,0,0
+Henry,A102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,A102,Magistrate,,,Ed FREDERICK,26,3,23,0,0
+Henry,A102,Magistrate,,,Wayne LONG,31,3,28,0,0
+Henry,A102,Magistrate,,,Under Votes,16,5,11,0,0
+Henry,A102,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Henry,A102,U.S. Senate,,Democratic,Charles BOOKER,15,2,13,0,0
+Henry,A102,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Henry,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Henry,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Henry,A102,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
+Henry,A102,U.S. Senate,,Democratic,Amy McGRATH,8,2,6,0,0
+Henry,A102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,A102,U.S. House,4,Democratic,Melissa Claire STRANGE,20,2,18,0,0
+Henry,A102,U.S. House,4,Democratic,Jesse Russell BREWER,8,3,5,0,0
+Henry,A102,U.S. House,4,,Under Votes,1,1,0,0,0
+Henry,A102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,B101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Henry,B101,U.S. Senate,,Republican,Daniel CAMERON,139,23,113,2,1
+Henry,B101,U.S. Senate,,Republican,Andy BARR,122,10,109,3,0
+Henry,B101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Henry,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Henry,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,B101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Henry,B101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Henry,B101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Henry,B101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Henry,B101,U.S. Senate,,,Under Votes,6,0,6,0,0
+Henry,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,B101,U.S. House,4,Republican,Thomas MASSIE,113,12,100,1,0
+Henry,B101,U.S. House,4,Republican,Ed GALLREIN,172,22,144,4,2
+Henry,B101,U.S. House,4,,Under Votes,1,0,1,0,0
+Henry,B101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,B101,Ballots Cast,,,,367,,,,
+Henry,B101,State Representative,47,Republican,Felicia RABOURN,164,18,141,3,2
+Henry,B101,State Representative,47,Republican,Mark A. GILKISON,109,16,92,1,0
+Henry,B101,State Representative,47,,Under Votes,13,0,12,1,0
+Henry,B101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,B101,Property Valuation Administrator,,,Deeanne Whitaker WEST,157,24,131,1,1
+Henry,B101,Property Valuation Administrator,,,Travis BUCHANAN,116,10,104,1,1
+Henry,B101,Property Valuation Administrator,,,Under Votes,13,0,10,3,0
+Henry,B101,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,B101,Jailer,,,Branden WEBSTER,90,11,79,0,0
+Henry,B101,Jailer,,,Scott NICHOLSON,56,4,51,1,0
+Henry,B101,Jailer,,,Scott SOUTHWORTH,113,18,92,1,2
+Henry,B101,Jailer,,,Under Votes,27,1,23,3,0
+Henry,B101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,B101,Magistrate,,,"Forest ""Dee"" WHITAKER",110,16,92,2,0
+Henry,B101,Magistrate,,,Roger M. HARTLAGE,144,15,127,0,2
+Henry,B101,Magistrate,,,Bill TAPP,16,2,14,0,0
+Henry,B101,Magistrate,,,Under Votes,16,1,12,3,0
+Henry,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,7,2,5,0,0
+Henry,B101,U.S. Senate,,Democratic,Charles BOOKER,22,7,15,0,0
+Henry,B101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Henry,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Henry,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,2,0,0,0
+Henry,B101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Henry,B101,U.S. Senate,,Democratic,Amy McGRATH,39,1,36,2,0
+Henry,B101,U.S. Senate,,,Under Votes,4,0,4,0,0
+Henry,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,B101,U.S. House,4,Democratic,Melissa Claire STRANGE,60,11,47,2,0
+Henry,B101,U.S. House,4,Democratic,Jesse Russell BREWER,15,0,15,0,0
+Henry,B101,U.S. House,4,,Under Votes,6,1,5,0,0
+Henry,B101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,B102,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Henry,B102,U.S. Senate,,Republican,Daniel CAMERON,129,13,116,0,0
+Henry,B102,U.S. Senate,,Republican,Andy BARR,118,12,106,0,0
+Henry,B102,U.S. Senate,,Republican,Anissa CATLETT,3,1,2,0,0
+Henry,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Henry,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,B102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Henry,B102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Henry,B102,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Henry,B102,U.S. Senate,,Republican,George WASHINGTON,5,1,4,0,0
+Henry,B102,U.S. Senate,,,Under Votes,9,1,8,0,0
+Henry,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,B102,U.S. House,4,Republican,Thomas MASSIE,91,10,81,0,0
+Henry,B102,U.S. House,4,Republican,Ed GALLREIN,177,17,160,0,0
+Henry,B102,U.S. House,4,,Under Votes,5,1,4,0,0
+Henry,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,B102,Ballots Cast,,,,372,,,,
+Henry,B102,State Representative,47,Republican,Felicia RABOURN,149,16,133,0,0
+Henry,B102,State Representative,47,Republican,Mark A. GILKISON,115,11,104,0,0
+Henry,B102,State Representative,47,,Under Votes,9,1,8,0,0
+Henry,B102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,B102,Property Valuation Administrator,,,Deeanne Whitaker WEST,133,15,118,0,0
+Henry,B102,Property Valuation Administrator,,,Travis BUCHANAN,119,12,107,0,0
+Henry,B102,Property Valuation Administrator,,,Under Votes,21,1,20,0,0
+Henry,B102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,B102,Jailer,,,Branden WEBSTER,115,12,103,0,0
+Henry,B102,Jailer,,,Scott NICHOLSON,59,8,51,0,0
+Henry,B102,Jailer,,,Scott SOUTHWORTH,84,8,76,0,0
+Henry,B102,Jailer,,,Under Votes,15,0,15,0,0
+Henry,B102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,B102,Magistrate,,,"Forest ""Dee"" WHITAKER",79,13,66,0,0
+Henry,B102,Magistrate,,,Roger M. HARTLAGE,145,11,134,0,0
+Henry,B102,Magistrate,,,Bill TAPP,32,1,31,0,0
+Henry,B102,Magistrate,,,Under Votes,17,3,14,0,0
+Henry,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,12,1,11,0,0
+Henry,B102,U.S. Senate,,Democratic,Charles BOOKER,36,2,31,3,0
+Henry,B102,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Henry,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Henry,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Henry,B102,U.S. Senate,,Democratic,Pamela STEVENSON,5,2,2,1,0
+Henry,B102,U.S. Senate,,Democratic,Amy McGRATH,37,0,37,0,0
+Henry,B102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Henry,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,B102,U.S. House,4,Democratic,Melissa Claire STRANGE,55,5,48,2,0
+Henry,B102,U.S. House,4,Democratic,Jesse Russell BREWER,29,0,27,2,0
+Henry,B102,U.S. House,4,,Under Votes,15,0,15,0,0
+Henry,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,C101,U.S. Senate,,Republican,A. Nick SHELLEY,6,1,5,0,0
+Henry,C101,U.S. Senate,,Republican,Daniel CAMERON,121,12,107,2,0
+Henry,C101,U.S. Senate,,Republican,Andy BARR,110,15,93,0,2
+Henry,C101,U.S. Senate,,Republican,Anissa CATLETT,4,0,4,0,0
+Henry,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,C101,U.S. Senate,,Republican,Michael James FARIS,5,1,4,0,0
+Henry,C101,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
+Henry,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,C101,U.S. Senate,,Republican,George WASHINGTON,7,1,6,0,0
+Henry,C101,U.S. Senate,,,Under Votes,5,2,3,0,0
+Henry,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,C101,U.S. House,4,Republican,Thomas MASSIE,128,14,112,0,2
+Henry,C101,U.S. House,4,Republican,Ed GALLREIN,140,18,120,2,0
+Henry,C101,U.S. House,4,,Under Votes,3,1,2,0,0
+Henry,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,C101,Ballots Cast,,,,404,,,,
+Henry,C101,State Representative,47,Republican,Felicia RABOURN,155,19,134,2,0
+Henry,C101,State Representative,47,Republican,Mark A. GILKISON,104,11,92,0,1
+Henry,C101,State Representative,47,,Under Votes,12,3,8,0,1
+Henry,C101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,C101,Property Valuation Administrator,,,Deeanne Whitaker WEST,118,11,107,0,0
+Henry,C101,Property Valuation Administrator,,,Travis BUCHANAN,140,21,116,2,1
+Henry,C101,Property Valuation Administrator,,,Under Votes,13,1,11,0,1
+Henry,C101,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,C101,Jailer,,,Branden WEBSTER,110,9,101,0,0
+Henry,C101,Jailer,,,Scott NICHOLSON,45,9,34,2,0
+Henry,C101,Jailer,,,Scott SOUTHWORTH,102,15,85,0,2
+Henry,C101,Jailer,,,Under Votes,14,0,14,0,0
+Henry,C101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,3,7,0,0
+Henry,C101,U.S. Senate,,Democratic,Charles BOOKER,42,5,37,0,0
+Henry,C101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Henry,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Henry,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Henry,C101,U.S. Senate,,Democratic,Pamela STEVENSON,10,0,7,2,1
+Henry,C101,U.S. Senate,,Democratic,Amy McGRATH,61,9,51,1,0
+Henry,C101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Henry,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,C101,U.S. House,4,Democratic,Melissa Claire STRANGE,81,11,66,3,1
+Henry,C101,U.S. House,4,Democratic,Jesse Russell BREWER,39,5,34,0,0
+Henry,C101,U.S. House,4,,Under Votes,13,1,12,0,0
+Henry,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Henry,C102,U.S. Senate,,Republican,Daniel CAMERON,27,0,26,1,0
+Henry,C102,U.S. Senate,,Republican,Andy BARR,21,2,18,0,1
+Henry,C102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,Michael James FARIS,5,0,3,0,2
+Henry,C102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,C102,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Henry,C102,U.S. Senate,,,Under Votes,3,1,2,0,0
+Henry,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,C102,U.S. House,4,Republican,Thomas MASSIE,37,1,34,0,2
+Henry,C102,U.S. House,4,Republican,Ed GALLREIN,23,2,19,1,1
+Henry,C102,U.S. House,4,,Under Votes,4,0,3,0,1
+Henry,C102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,C102,Ballots Cast,,,,105,,,,
+Henry,C102,State Representative,47,Republican,Felicia RABOURN,43,1,39,1,2
+Henry,C102,State Representative,47,Republican,Mark A. GILKISON,19,2,15,0,2
+Henry,C102,State Representative,47,,Under Votes,2,0,2,0,0
+Henry,C102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,C102,Property Valuation Administrator,,,Deeanne Whitaker WEST,26,0,25,1,0
+Henry,C102,Property Valuation Administrator,,,Travis BUCHANAN,31,3,24,0,4
+Henry,C102,Property Valuation Administrator,,,Under Votes,7,0,7,0,0
+Henry,C102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,C102,Jailer,,,Branden WEBSTER,21,1,18,0,2
+Henry,C102,Jailer,,,Scott NICHOLSON,3,0,3,0,0
+Henry,C102,Jailer,,,Scott SOUTHWORTH,32,2,28,0,2
+Henry,C102,Jailer,,,Under Votes,8,0,7,1,0
+Henry,C102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Henry,C102,U.S. Senate,,Democratic,Charles BOOKER,16,0,16,0,0
+Henry,C102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Henry,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Henry,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Henry,C102,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Henry,C102,U.S. Senate,,Democratic,Amy McGRATH,21,0,20,1,0
+Henry,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,C102,U.S. House,4,Democratic,Melissa Claire STRANGE,32,0,31,1,0
+Henry,C102,U.S. House,4,Democratic,Jesse Russell BREWER,8,0,8,0,0
+Henry,C102,U.S. House,4,,Under Votes,1,0,1,0,0
+Henry,C102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,D101,U.S. Senate,,Republican,A. Nick SHELLEY,3,0,2,1,0
+Henry,D101,U.S. Senate,,Republican,Daniel CAMERON,116,27,87,1,1
+Henry,D101,U.S. Senate,,Republican,Andy BARR,110,29,81,0,0
+Henry,D101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Henry,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,D101,U.S. Senate,,Republican,Michael James FARIS,4,0,4,0,0
+Henry,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,D101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Henry,D101,U.S. Senate,,Republican,George WASHINGTON,6,0,6,0,0
+Henry,D101,U.S. Senate,,,Under Votes,9,3,6,0,0
+Henry,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,D101,U.S. House,4,Republican,Thomas MASSIE,105,26,76,2,1
+Henry,D101,U.S. House,4,Republican,Ed GALLREIN,153,34,118,1,0
+Henry,D101,U.S. House,4,,Under Votes,4,1,3,0,0
+Henry,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,D101,Ballots Cast,,,,349,,,,
+Henry,D101,State Representative,47,Republican,Felicia RABOURN,135,23,109,2,1
+Henry,D101,State Representative,47,Republican,Mark A. GILKISON,116,35,80,1,0
+Henry,D101,State Representative,47,,Under Votes,11,3,8,0,0
+Henry,D101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,D101,Property Valuation Administrator,,,Deeanne Whitaker WEST,93,19,73,0,1
+Henry,D101,Property Valuation Administrator,,,Travis BUCHANAN,160,40,118,2,0
+Henry,D101,Property Valuation Administrator,,,Under Votes,9,2,6,1,0
+Henry,D101,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,D101,Jailer,,,Branden WEBSTER,71,12,57,1,1
+Henry,D101,Jailer,,,Scott NICHOLSON,38,11,27,0,0
+Henry,D101,Jailer,,,Scott SOUTHWORTH,130,30,99,1,0
+Henry,D101,Jailer,,,Under Votes,23,8,14,1,0
+Henry,D101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,8,0,8,0,0
+Henry,D101,U.S. Senate,,Democratic,Charles BOOKER,31,7,23,1,0
+Henry,D101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Henry,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Henry,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Henry,D101,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,5,0,0
+Henry,D101,U.S. Senate,,Democratic,Amy McGRATH,37,10,27,0,0
+Henry,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Henry,D101,U.S. House,4,Democratic,Melissa Claire STRANGE,50,12,37,1,0
+Henry,D101,U.S. House,4,Democratic,Jesse Russell BREWER,29,4,25,0,0
+Henry,D101,U.S. House,4,,Under Votes,8,2,6,0,0
+Henry,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,D102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,D102,U.S. Senate,,Republican,Daniel CAMERON,73,20,47,0,6
+Henry,D102,U.S. Senate,,Republican,Andy BARR,61,15,42,0,4
+Henry,D102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Henry,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Henry,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,1,1,1,0
+Henry,D102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,D102,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Henry,D102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,D102,U.S. Senate,,Republican,George WASHINGTON,3,1,2,0,0
+Henry,D102,U.S. Senate,,,Under Votes,4,2,2,0,0
+Henry,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,D102,U.S. House,4,Republican,Thomas MASSIE,68,22,44,1,1
+Henry,D102,U.S. House,4,Republican,Ed GALLREIN,80,17,53,1,9
+Henry,D102,U.S. House,4,,Under Votes,5,2,3,0,0
+Henry,D102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,D102,Ballots Cast,,,,254,,,,
+Henry,D102,State Representative,47,Republican,Felicia RABOURN,96,19,70,2,5
+Henry,D102,State Representative,47,Republican,Mark A. GILKISON,53,20,28,0,5
+Henry,D102,State Representative,47,,Under Votes,4,2,2,0,0
+Henry,D102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,D102,Property Valuation Administrator,,,Deeanne Whitaker WEST,57,18,37,0,2
+Henry,D102,Property Valuation Administrator,,,Travis BUCHANAN,93,22,61,2,8
+Henry,D102,Property Valuation Administrator,,,Under Votes,3,1,2,0,0
+Henry,D102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,D102,Jailer,,,Branden WEBSTER,43,11,31,0,1
+Henry,D102,Jailer,,,Scott NICHOLSON,13,2,10,1,0
+Henry,D102,Jailer,,,Scott SOUTHWORTH,86,24,53,1,8
+Henry,D102,Jailer,,,Under Votes,11,4,6,0,1
+Henry,D102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,8,1,7,0,0
+Henry,D102,U.S. Senate,,Democratic,Charles BOOKER,42,9,28,5,0
+Henry,D102,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,1,3,0
+Henry,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,2,1,0
+Henry,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Henry,D102,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
+Henry,D102,U.S. Senate,,Democratic,Amy McGRATH,38,9,27,2,0
+Henry,D102,U.S. Senate,,,Under Votes,1,0,1,0,0
+Henry,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,D102,U.S. House,4,Democratic,Melissa Claire STRANGE,60,13,40,7,0
+Henry,D102,U.S. House,4,Democratic,Jesse Russell BREWER,35,7,25,3,0
+Henry,D102,U.S. House,4,,Under Votes,6,1,4,1,0
+Henry,D102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Henry,E101,U.S. Senate,,Republican,Daniel CAMERON,35,5,30,0,0
+Henry,E101,U.S. Senate,,Republican,Andy BARR,49,5,44,0,0
+Henry,E101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Henry,E101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Henry,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,E101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Henry,E101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Henry,E101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Henry,E101,U.S. House,4,Republican,Thomas MASSIE,33,0,33,0,0
+Henry,E101,U.S. House,4,Republican,Ed GALLREIN,61,11,50,0,0
+Henry,E101,U.S. House,4,,Under Votes,3,1,2,0,0
+Henry,E101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E101,Ballots Cast,,,,143,,,,
+Henry,E101,State Representative,47,Republican,Felicia RABOURN,48,9,39,0,0
+Henry,E101,State Representative,47,Republican,Mark A. GILKISON,40,1,39,0,0
+Henry,E101,State Representative,47,,Under Votes,9,2,7,0,0
+Henry,E101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,E101,Property Valuation Administrator,,,Deeanne Whitaker WEST,29,5,24,0,0
+Henry,E101,Property Valuation Administrator,,,Travis BUCHANAN,59,5,54,0,0
+Henry,E101,Property Valuation Administrator,,,Under Votes,8,2,6,0,0
+Henry,E101,Property Valuation Administrator,,,Over Votes,1,0,1,0,0
+Henry,E101,Jailer,,,Branden WEBSTER,20,6,14,0,0
+Henry,E101,Jailer,,,Scott NICHOLSON,1,0,1,0,0
+Henry,E101,Jailer,,,Scott SOUTHWORTH,68,4,64,0,0
+Henry,E101,Jailer,,,Under Votes,8,2,6,0,0
+Henry,E101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,2,0,0,0
+Henry,E101,U.S. Senate,,Democratic,Charles BOOKER,11,3,8,0,0
+Henry,E101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Henry,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Henry,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Henry,E101,U.S. Senate,,Democratic,Pamela STEVENSON,9,0,9,0,0
+Henry,E101,U.S. Senate,,Democratic,Amy McGRATH,18,5,13,0,0
+Henry,E101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E101,U.S. House,4,Democratic,Melissa Claire STRANGE,30,8,22,0,0
+Henry,E101,U.S. House,4,Democratic,Jesse Russell BREWER,15,2,13,0,0
+Henry,E101,U.S. House,4,,Under Votes,1,1,0,0,0
+Henry,E101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,Daniel CAMERON,38,6,31,0,1
+Henry,E102,U.S. Senate,,Republican,Andy BARR,43,8,35,0,0
+Henry,E102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Henry,E102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Henry,E102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,E102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Henry,E102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Henry,E102,U.S. Senate,,,Over Votes,1,0,1,0,0
+Henry,E102,U.S. House,4,Republican,Thomas MASSIE,42,7,34,0,1
+Henry,E102,U.S. House,4,Republican,Ed GALLREIN,45,7,38,0,0
+Henry,E102,U.S. House,4,,Under Votes,2,0,2,0,0
+Henry,E102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E102,Ballots Cast,,,,146,,,,
+Henry,E102,State Representative,47,Republican,Felicia RABOURN,49,9,39,0,1
+Henry,E102,State Representative,47,Republican,Mark A. GILKISON,35,5,30,0,0
+Henry,E102,State Representative,47,,Under Votes,5,0,5,0,0
+Henry,E102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,E102,Property Valuation Administrator,,,Deeanne Whitaker WEST,30,2,27,0,1
+Henry,E102,Property Valuation Administrator,,,Travis BUCHANAN,59,12,47,0,0
+Henry,E102,Property Valuation Administrator,,,Under Votes,0,0,0,0,0
+Henry,E102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,E102,Jailer,,,Branden WEBSTER,26,4,22,0,0
+Henry,E102,Jailer,,,Scott NICHOLSON,7,2,5,0,0
+Henry,E102,Jailer,,,Scott SOUTHWORTH,52,8,43,0,1
+Henry,E102,Jailer,,,Under Votes,4,0,4,0,0
+Henry,E102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Henry,E102,U.S. Senate,,Democratic,Charles BOOKER,26,1,25,0,0
+Henry,E102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
+Henry,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Henry,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Henry,E102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Henry,E102,U.S. Senate,,Democratic,Amy McGRATH,16,2,14,0,0
+Henry,E102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E102,U.S. House,4,Democratic,Melissa Claire STRANGE,27,0,27,0,0
+Henry,E102,U.S. House,4,Democratic,Jesse Russell BREWER,26,3,23,0,0
+Henry,E102,U.S. House,4,,Under Votes,4,0,4,0,0
+Henry,E102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Henry,E103,U.S. Senate,,Republican,Daniel CAMERON,39,4,35,0,0
+Henry,E103,U.S. Senate,,Republican,Andy BARR,46,8,38,0,0
+Henry,E103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,E103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Henry,E103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,E103,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Henry,E103,U.S. Senate,,,Under Votes,1,1,0,0,0
+Henry,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E103,U.S. House,4,Republican,Thomas MASSIE,47,8,39,0,0
+Henry,E103,U.S. House,4,Republican,Ed GALLREIN,53,7,46,0,0
+Henry,E103,U.S. House,4,,Under Votes,0,0,0,0,0
+Henry,E103,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E103,Ballots Cast,,,,148,,,,
+Henry,E103,State Representative,47,Republican,Felicia RABOURN,50,7,43,0,0
+Henry,E103,State Representative,47,Republican,Mark A. GILKISON,47,7,40,0,0
+Henry,E103,State Representative,47,,Under Votes,3,1,2,0,0
+Henry,E103,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,E103,Property Valuation Administrator,,,Deeanne Whitaker WEST,45,6,39,0,0
+Henry,E103,Property Valuation Administrator,,,Travis BUCHANAN,54,9,45,0,0
+Henry,E103,Property Valuation Administrator,,,Under Votes,1,0,1,0,0
+Henry,E103,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,E103,Jailer,,,Branden WEBSTER,28,4,24,0,0
+Henry,E103,Jailer,,,Scott NICHOLSON,13,0,13,0,0
+Henry,E103,Jailer,,,Scott SOUTHWORTH,54,11,43,0,0
+Henry,E103,Jailer,,,Under Votes,5,0,5,0,0
+Henry,E103,Jailer,,,Over Votes,0,0,0,0,0
+Henry,E103,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
+Henry,E103,U.S. Senate,,Democratic,Charles BOOKER,10,1,8,0,1
+Henry,E103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Henry,E103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Henry,E103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Henry,E103,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Henry,E103,U.S. Senate,,Democratic,Amy McGRATH,29,5,23,1,0
+Henry,E103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Henry,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E103,U.S. House,4,Democratic,Melissa Claire STRANGE,30,5,23,1,1
+Henry,E103,U.S. House,4,Democratic,Jesse Russell BREWER,13,1,12,0,0
+Henry,E103,U.S. House,4,,Under Votes,5,0,5,0,0
+Henry,E103,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Henry,E104,U.S. Senate,,Republican,Daniel CAMERON,17,5,11,1,0
+Henry,E104,U.S. Senate,,Republican,Andy BARR,39,10,29,0,0
+Henry,E104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Henry,E104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,E104,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Henry,E104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E104,U.S. House,4,Republican,Thomas MASSIE,19,3,15,1,0
+Henry,E104,U.S. House,4,Republican,Ed GALLREIN,41,11,30,0,0
+Henry,E104,U.S. House,4,,Under Votes,1,1,0,0,0
+Henry,E104,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E104,Ballots Cast,,,,83,,,,
+Henry,E104,State Representative,47,Republican,Felicia RABOURN,30,5,24,1,0
+Henry,E104,State Representative,47,Republican,Mark A. GILKISON,29,8,21,0,0
+Henry,E104,State Representative,47,,Under Votes,2,2,0,0,0
+Henry,E104,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,E104,Property Valuation Administrator,,,Deeanne Whitaker WEST,37,6,30,1,0
+Henry,E104,Property Valuation Administrator,,,Travis BUCHANAN,22,7,15,0,0
+Henry,E104,Property Valuation Administrator,,,Under Votes,2,2,0,0,0
+Henry,E104,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,E104,Jailer,,,Branden WEBSTER,24,6,17,1,0
+Henry,E104,Jailer,,,Scott NICHOLSON,5,2,3,0,0
+Henry,E104,Jailer,,,Scott SOUTHWORTH,30,6,24,0,0
+Henry,E104,Jailer,,,Under Votes,2,1,1,0,0
+Henry,E104,Jailer,,,Over Votes,0,0,0,0,0
+Henry,E104,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Henry,E104,U.S. Senate,,Democratic,Charles BOOKER,5,1,4,0,0
+Henry,E104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Henry,E104,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,1,0,0,0
+Henry,E104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Henry,E104,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Henry,E104,U.S. Senate,,Democratic,Amy McGRATH,14,4,7,3,0
+Henry,E104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Henry,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E104,U.S. House,4,Democratic,Melissa Claire STRANGE,14,4,7,3,0
+Henry,E104,U.S. House,4,Democratic,Jesse Russell BREWER,7,1,6,0,0
+Henry,E104,U.S. House,4,,Under Votes,1,1,0,0,0
+Henry,E104,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,Daniel CAMERON,11,3,8,0,0
+Henry,E105,U.S. Senate,,Republican,Andy BARR,14,6,8,0,0
+Henry,E105,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Henry,E105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,E105,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Henry,E105,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,E105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E105,U.S. House,4,Republican,Thomas MASSIE,12,4,8,0,0
+Henry,E105,U.S. House,4,Republican,Ed GALLREIN,15,5,10,0,0
+Henry,E105,U.S. House,4,,Under Votes,0,0,0,0,0
+Henry,E105,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,E105,Ballots Cast,,,,45,,,,
+Henry,E105,State Representative,47,Republican,Felicia RABOURN,14,3,11,0,0
+Henry,E105,State Representative,47,Republican,Mark A. GILKISON,10,6,4,0,0
+Henry,E105,State Representative,47,,Under Votes,3,0,3,0,0
+Henry,E105,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,E105,Property Valuation Administrator,,,Deeanne Whitaker WEST,10,3,7,0,0
+Henry,E105,Property Valuation Administrator,,,Travis BUCHANAN,15,6,9,0,0
+Henry,E105,Property Valuation Administrator,,,Under Votes,2,0,2,0,0
+Henry,E105,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,E105,Jailer,,,Branden WEBSTER,4,3,1,0,0
+Henry,E105,Jailer,,,Scott NICHOLSON,2,0,2,0,0
+Henry,E105,Jailer,,,Scott SOUTHWORTH,17,4,13,0,0
+Henry,E105,Jailer,,,Under Votes,4,2,2,0,0
+Henry,E105,Jailer,,,Over Votes,0,0,0,0,0
+Henry,E105,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Henry,E105,U.S. Senate,,Democratic,Charles BOOKER,7,3,4,0,0
+Henry,E105,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Henry,E105,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,1,1,0,0
+Henry,E105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Henry,E105,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Henry,E105,U.S. Senate,,Democratic,Amy McGRATH,7,1,5,1,0
+Henry,E105,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,E105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,E105,U.S. House,4,Democratic,Melissa Claire STRANGE,11,3,7,1,0
+Henry,E105,U.S. House,4,Democratic,Jesse Russell BREWER,5,1,4,0,0
+Henry,E105,U.S. House,4,,Under Votes,2,1,1,0,0
+Henry,E105,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,F101,U.S. Senate,,Republican,Daniel CAMERON,41,13,28,0,0
+Henry,F101,U.S. Senate,,Republican,Andy BARR,56,14,40,2,0
+Henry,F101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Henry,F101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Henry,F101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,F101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,F101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Henry,F101,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Henry,F101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,F101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Henry,F101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Henry,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F101,U.S. House,4,Republican,Thomas MASSIE,39,7,32,0,0
+Henry,F101,U.S. House,4,Republican,Ed GALLREIN,68,17,49,2,0
+Henry,F101,U.S. House,4,,Under Votes,5,3,2,0,0
+Henry,F101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F101,Ballots Cast,,,,153,,,,
+Henry,F101,State Representative,47,Republican,Felicia RABOURN,53,13,40,0,0
+Henry,F101,State Representative,47,Republican,Mark A. GILKISON,50,13,35,2,0
+Henry,F101,State Representative,47,,Under Votes,9,1,8,0,0
+Henry,F101,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,F101,Property Valuation Administrator,,,Deeanne Whitaker WEST,43,9,34,0,0
+Henry,F101,Property Valuation Administrator,,,Travis BUCHANAN,59,16,41,2,0
+Henry,F101,Property Valuation Administrator,,,Under Votes,10,2,8,0,0
+Henry,F101,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,F101,Jailer,,,Branden WEBSTER,36,8,28,0,0
+Henry,F101,Jailer,,,Scott NICHOLSON,4,1,3,0,0
+Henry,F101,Jailer,,,Scott SOUTHWORTH,66,16,48,2,0
+Henry,F101,Jailer,,,Under Votes,6,2,4,0,0
+Henry,F101,Jailer,,,Over Votes,0,0,0,0,0
+Henry,F101,Magistrate,,,Coleman COLSTON,22,1,19,2,0
+Henry,F101,Magistrate,,,Carl C. TINGLE,29,11,18,0,0
+Henry,F101,Magistrate,,,Jakob BECKLEY,57,15,42,0,0
+Henry,F101,Magistrate,,,Under Votes,4,0,4,0,0
+Henry,F101,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,F101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Henry,F101,U.S. Senate,,Democratic,Charles BOOKER,12,2,10,0,0
+Henry,F101,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
+Henry,F101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Henry,F101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,3,1,0
+Henry,F101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Henry,F101,U.S. Senate,,Democratic,Amy McGRATH,16,3,10,3,0
+Henry,F101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Henry,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F101,U.S. House,4,Democratic,Melissa Claire STRANGE,19,4,13,2,0
+Henry,F101,U.S. House,4,Democratic,Jesse Russell BREWER,20,2,16,2,0
+Henry,F101,U.S. House,4,,Under Votes,2,0,2,0,0
+Henry,F101,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F102,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Henry,F102,U.S. Senate,,Republican,Daniel CAMERON,15,0,15,0,0
+Henry,F102,U.S. Senate,,Republican,Andy BARR,30,0,29,0,1
+Henry,F102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Henry,F102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Henry,F102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Henry,F102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,F102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Henry,F102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Henry,F102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,F102,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Henry,F102,U.S. Senate,,,Under Votes,6,2,4,0,0
+Henry,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F102,U.S. House,4,Republican,Thomas MASSIE,27,1,26,0,0
+Henry,F102,U.S. House,4,Republican,Ed GALLREIN,29,0,27,1,1
+Henry,F102,U.S. House,4,,Under Votes,3,1,2,0,0
+Henry,F102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F102,Ballots Cast,,,,85,,,,
+Henry,F102,State Representative,47,Republican,Felicia RABOURN,30,1,28,1,0
+Henry,F102,State Representative,47,Republican,Mark A. GILKISON,24,0,23,0,1
+Henry,F102,State Representative,47,,Under Votes,5,1,4,0,0
+Henry,F102,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,F102,Property Valuation Administrator,,,Deeanne Whitaker WEST,27,0,26,1,0
+Henry,F102,Property Valuation Administrator,,,Travis BUCHANAN,31,2,28,0,1
+Henry,F102,Property Valuation Administrator,,,Under Votes,1,0,1,0,0
+Henry,F102,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,F102,Jailer,,,Branden WEBSTER,18,0,17,0,1
+Henry,F102,Jailer,,,Scott NICHOLSON,4,0,4,0,0
+Henry,F102,Jailer,,,Scott SOUTHWORTH,35,2,32,1,0
+Henry,F102,Jailer,,,Under Votes,2,0,2,0,0
+Henry,F102,Jailer,,,Over Votes,0,0,0,0,0
+Henry,F102,Magistrate,,,Coleman COLSTON,29,0,29,0,0
+Henry,F102,Magistrate,,,Carl C. TINGLE,3,0,3,0,0
+Henry,F102,Magistrate,,,Jakob BECKLEY,27,2,23,1,1
+Henry,F102,Magistrate,,,Under Votes,0,0,0,0,0
+Henry,F102,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,F102,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Henry,F102,U.S. Senate,,Democratic,Charles BOOKER,11,2,9,0,0
+Henry,F102,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Henry,F102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,0,1,0
+Henry,F102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Henry,F102,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Henry,F102,U.S. Senate,,Democratic,Amy McGRATH,9,2,7,0,0
+Henry,F102,U.S. Senate,,,Under Votes,2,0,2,0,0
+Henry,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F102,U.S. House,4,Democratic,Melissa Claire STRANGE,12,2,10,0,0
+Henry,F102,U.S. House,4,Democratic,Jesse Russell BREWER,9,0,8,1,0
+Henry,F102,U.S. House,4,,Under Votes,5,2,3,0,0
+Henry,F102,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Henry,F103,U.S. Senate,,Republican,Daniel CAMERON,69,10,58,0,1
+Henry,F103,U.S. Senate,,Republican,Andy BARR,77,7,67,1,2
+Henry,F103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Henry,F103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Henry,F103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,1,0,0,0
+Henry,F103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Henry,F103,U.S. Senate,,Republican,Michael James FARIS,5,1,4,0,0
+Henry,F103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Henry,F103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Henry,F103,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Henry,F103,U.S. Senate,,,Under Votes,2,0,2,0,0
+Henry,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F103,U.S. House,4,Republican,Thomas MASSIE,67,6,60,0,1
+Henry,F103,U.S. House,4,Republican,Ed GALLREIN,100,15,82,1,2
+Henry,F103,U.S. House,4,,Under Votes,0,0,0,0,0
+Henry,F103,U.S. House,4,,Over Votes,0,0,0,0,0
+Henry,F103,Ballots Cast,,,,257,,,,
+Henry,F103,State Representative,47,Republican,Felicia RABOURN,92,7,83,1,1
+Henry,F103,State Representative,47,Republican,Mark A. GILKISON,72,14,56,0,2
+Henry,F103,State Representative,47,,Under Votes,3,0,3,0,0
+Henry,F103,State Representative,47,,Over Votes,0,0,0,0,0
+Henry,F103,Property Valuation Administrator,,,Deeanne Whitaker WEST,83,10,72,0,1
+Henry,F103,Property Valuation Administrator,,,Travis BUCHANAN,74,10,61,1,2
+Henry,F103,Property Valuation Administrator,,,Under Votes,10,1,9,0,0
+Henry,F103,Property Valuation Administrator,,,Over Votes,0,0,0,0,0
+Henry,F103,Jailer,,,Branden WEBSTER,52,6,45,0,1
+Henry,F103,Jailer,,,Scott NICHOLSON,5,1,4,0,0
+Henry,F103,Jailer,,,Scott SOUTHWORTH,98,13,82,1,2
+Henry,F103,Jailer,,,Under Votes,12,1,11,0,0
+Henry,F103,Jailer,,,Over Votes,0,0,0,0,0
+Henry,F103,Magistrate,,,Coleman COLSTON,48,5,42,0,1
+Henry,F103,Magistrate,,,Carl C. TINGLE,24,4,17,1,2
+Henry,F103,Magistrate,,,Jakob BECKLEY,93,12,81,0,0
+Henry,F103,Magistrate,,,Under Votes,2,0,2,0,0
+Henry,F103,Magistrate,,,Over Votes,0,0,0,0,0
+Henry,F103,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,1,3,0,0
+Henry,F103,U.S. Senate,,Democratic,Charles BOOKER,29,1,25,3,0
+Henry,F103,U.S. Senate,,Democratic,Logan FORSYTHE,6,0,6,0,0
+Henry,F103,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Henry,F103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Henry,F103,U.S. Senate,,Democratic,Pamela STEVENSON,6,0,6,0,0
+Henry,F103,U.S. Senate,,Democratic,Amy McGRATH,39,11,27,0,1
+Henry,F103,U.S. Senate,,,Under Votes,3,0,3,0,0
+Henry,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Henry,F103,U.S. House,4,Democratic,Melissa Claire STRANGE,30,8,21,1,0
+Henry,F103,U.S. House,4,Democratic,Jesse Russell BREWER,51,3,45,2,1
+Henry,F103,U.S. House,4,,Under Votes,9,2,7,0,0
+Henry,F103,U.S. House,4,,Over Votes,0,0,0,0,0

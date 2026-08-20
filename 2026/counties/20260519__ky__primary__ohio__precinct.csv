@@ -1,0 +1,985 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Ohio,A101,U.S. Senate,,Republican,Anissa CATLETT,6,2,4,0,0
+Ohio,A101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Ohio,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,3,1,0,0
+Ohio,A101,U.S. Senate,,Republican,Michael James FARIS,16,3,13,0,0
+Ohio,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,1,2,0,0
+Ohio,A101,U.S. Senate,,Republican,George WASHINGTON,6,1,5,0,0
+Ohio,A101,U.S. Senate,,Republican,Andy BARR,104,23,78,1,2
+Ohio,A101,U.S. Senate,,Republican,Daniel CAMERON,54,14,39,1,0
+Ohio,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,A101,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Ohio,A101,U.S. Senate,,,Under Votes,12,2,10,0,0
+Ohio,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A101,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",19,5,14,0,0
+Ohio,A101,U.S. House,2,Republican,S. Brett GUTHRIE,159,34,121,2,2
+Ohio,A101,U.S. House,2,Republican,Joshua M. FERGUSON,21,4,16,1,0
+Ohio,A101,U.S. House,2,,Under Votes,22,7,15,0,0
+Ohio,A101,U.S. House,2,,Over Votes,2,0,2,0,0
+Ohio,A101,Ballots Cast,,,,288,,,,
+Ohio,A101,State Representative,14,Republican,Wes PATE,78,14,64,0,0
+Ohio,A101,State Representative,14,Republican,Marty SHEPHARD,140,35,100,3,2
+Ohio,A101,State Representative,14,,Under Votes,5,1,4,0,0
+Ohio,A101,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,A101,County Judge/Executive,,,Jason BULLOCK,97,21,74,0,2
+Ohio,A101,County Judge/Executive,,,Tracy BEATTY,65,18,45,2,0
+Ohio,A101,County Judge/Executive,,,Niki Tichenor RILEY,58,11,46,1,0
+Ohio,A101,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Ohio,A101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,A101,Magistrate,,,Dwight SMITH,68,8,58,2,0
+Ohio,A101,Magistrate,,,Michael R. McKENNEY,83,21,60,0,2
+Ohio,A101,Magistrate,,,Under Votes,11,2,9,0,0
+Ohio,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,A101,Constable,,,Jeff ASHBY,106,21,82,2,1
+Ohio,A101,Constable,,,Joe RENFROW,97,25,70,1,1
+Ohio,A101,Constable,,,Under Votes,20,4,16,0,0
+Ohio,A101,Constable,,,Over Votes,0,0,0,0,0
+Ohio,A101,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Ohio,A101,U.S. Senate,,Democratic,Amy McGRATH,31,13,17,0,1
+Ohio,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Ohio,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
+Ohio,A101,U.S. Senate,,Democratic,Charles BOOKER,20,4,15,1,0
+Ohio,A101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Ohio,A101,U.S. Senate,,,Under Votes,1,1,0,0,0
+Ohio,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A101,U.S. House,2,Democratic,David S. HATFIELD,19,6,11,1,1
+Ohio,A101,U.S. House,2,Democratic,Megan WINGFIELD,17,4,13,0,0
+Ohio,A101,U.S. House,2,Democratic,Hank LINDERMAN,10,2,8,0,0
+Ohio,A101,U.S. House,2,Democratic,William Dakota COMPTON,13,4,9,0,0
+Ohio,A101,U.S. House,2,,Under Votes,6,2,4,0,0
+Ohio,A101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,A102,U.S. Senate,,Republican,Anissa CATLETT,3,0,3,0,0
+Ohio,A102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Ohio,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,2,2,0,0
+Ohio,A102,U.S. Senate,,Republican,Michael James FARIS,7,3,4,0,0
+Ohio,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Ohio,A102,U.S. Senate,,Republican,George WASHINGTON,6,0,6,0,0
+Ohio,A102,U.S. Senate,,Republican,Andy BARR,104,27,73,4,0
+Ohio,A102,U.S. Senate,,Republican,Daniel CAMERON,41,10,30,1,0
+Ohio,A102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,A102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,A102,U.S. Senate,,,Under Votes,8,4,4,0,0
+Ohio,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A102,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",12,5,7,0,0
+Ohio,A102,U.S. House,2,Republican,S. Brett GUTHRIE,138,37,97,4,0
+Ohio,A102,U.S. House,2,Republican,Joshua M. FERGUSON,19,0,18,1,0
+Ohio,A102,U.S. House,2,,Under Votes,17,6,11,0,0
+Ohio,A102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,A102,Ballots Cast,,,,248,,,,
+Ohio,A102,State Representative,14,Republican,Wes PATE,80,19,59,2,0
+Ohio,A102,State Representative,14,Republican,Marty SHEPHARD,105,29,73,3,0
+Ohio,A102,State Representative,14,,Under Votes,1,0,1,0,0
+Ohio,A102,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,A102,County Judge/Executive,,,Jason BULLOCK,96,30,63,3,0
+Ohio,A102,County Judge/Executive,,,Tracy BEATTY,52,15,37,0,0
+Ohio,A102,County Judge/Executive,,,Niki Tichenor RILEY,38,3,33,2,0
+Ohio,A102,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,A102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,A102,Magistrate,,,Dwight SMITH,40,10,29,1,0
+Ohio,A102,Magistrate,,,Michael R. McKENNEY,77,24,49,4,0
+Ohio,A102,Magistrate,,,Under Votes,20,7,13,0,0
+Ohio,A102,Magistrate,,,Over Votes,1,1,0,0,0
+Ohio,A102,Constable,,,Jeff ASHBY,86,19,64,3,0
+Ohio,A102,Constable,,,Joe RENFROW,81,24,55,2,0
+Ohio,A102,Constable,,,Under Votes,19,5,14,0,0
+Ohio,A102,Constable,,,Over Votes,0,0,0,0,0
+Ohio,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Ohio,A102,U.S. Senate,,Democratic,Amy McGRATH,31,6,25,0,0
+Ohio,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Ohio,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Ohio,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Ohio,A102,U.S. Senate,,Democratic,Charles BOOKER,18,2,16,0,0
+Ohio,A102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Ohio,A102,U.S. Senate,,,Under Votes,2,1,1,0,0
+Ohio,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A102,U.S. House,2,Democratic,David S. HATFIELD,12,1,11,0,0
+Ohio,A102,U.S. House,2,Democratic,Megan WINGFIELD,27,4,23,0,0
+Ohio,A102,U.S. House,2,Democratic,Hank LINDERMAN,11,1,10,0,0
+Ohio,A102,U.S. House,2,Democratic,William Dakota COMPTON,7,1,6,0,0
+Ohio,A102,U.S. House,2,,Under Votes,4,2,2,0,0
+Ohio,A102,U.S. House,2,,Over Votes,1,0,1,0,0
+Ohio,A104,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Ohio,A104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
+Ohio,A104,U.S. Senate,,Republican,Michael James FARIS,5,0,5,0,0
+Ohio,A104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Ohio,A104,U.S. Senate,,Republican,Andy BARR,68,10,57,1,0
+Ohio,A104,U.S. Senate,,Republican,Daniel CAMERON,37,9,28,0,0
+Ohio,A104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Republican,James D. DUNCAN,3,1,2,0,0
+Ohio,A104,U.S. Senate,,,Under Votes,6,1,5,0,0
+Ohio,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A104,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",3,1,2,0,0
+Ohio,A104,U.S. House,2,Republican,S. Brett GUTHRIE,93,11,81,1,0
+Ohio,A104,U.S. House,2,Republican,Joshua M. FERGUSON,18,6,12,0,0
+Ohio,A104,U.S. House,2,,Under Votes,16,4,12,0,0
+Ohio,A104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,A104,Ballots Cast,,,,148,,,,
+Ohio,A104,State Representative,14,Republican,Wes PATE,52,12,40,0,0
+Ohio,A104,State Representative,14,Republican,Marty SHEPHARD,73,9,63,1,0
+Ohio,A104,State Representative,14,,Under Votes,5,1,4,0,0
+Ohio,A104,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,A104,County Judge/Executive,,,Jason BULLOCK,41,6,35,0,0
+Ohio,A104,County Judge/Executive,,,Tracy BEATTY,56,9,46,1,0
+Ohio,A104,County Judge/Executive,,,Niki Tichenor RILEY,33,7,26,0,0
+Ohio,A104,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,A104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,A104,Magistrate,,,Dwight SMITH,29,6,23,0,0
+Ohio,A104,Magistrate,,,Michael R. McKENNEY,53,8,45,0,0
+Ohio,A104,Magistrate,,,Under Votes,7,3,4,0,0
+Ohio,A104,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,A104,Constable,,,Jeff ASHBY,74,10,63,1,0
+Ohio,A104,Constable,,,Joe RENFROW,42,6,36,0,0
+Ohio,A104,Constable,,,Under Votes,14,6,8,0,0
+Ohio,A104,Constable,,,Over Votes,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Ohio,A104,U.S. Senate,,Democratic,Amy McGRATH,11,2,9,0,0
+Ohio,A104,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,A104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,2,0,0,0
+Ohio,A104,U.S. Senate,,Democratic,Charles BOOKER,2,0,2,0,0
+Ohio,A104,U.S. Senate,,Democratic,Pamela STEVENSON,1,1,0,0,0
+Ohio,A104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Ohio,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A104,U.S. House,2,Democratic,David S. HATFIELD,6,3,3,0,0
+Ohio,A104,U.S. House,2,Democratic,Megan WINGFIELD,3,0,3,0,0
+Ohio,A104,U.S. House,2,Democratic,Hank LINDERMAN,4,2,2,0,0
+Ohio,A104,U.S. House,2,Democratic,William Dakota COMPTON,3,0,3,0,0
+Ohio,A104,U.S. House,2,,Under Votes,2,0,2,0,0
+Ohio,A104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Ohio,A105,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,A105,U.S. Senate,,Republican,Michael James FARIS,12,0,12,0,0
+Ohio,A105,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,A105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Ohio,A105,U.S. Senate,,Republican,Andy BARR,88,14,73,0,1
+Ohio,A105,U.S. Senate,,Republican,Daniel CAMERON,33,4,29,0,0
+Ohio,A105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Republican,James D. DUNCAN,3,1,2,0,0
+Ohio,A105,U.S. Senate,,,Under Votes,4,0,4,0,0
+Ohio,A105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A105,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",12,0,12,0,0
+Ohio,A105,U.S. House,2,Republican,S. Brett GUTHRIE,108,16,91,0,1
+Ohio,A105,U.S. House,2,Republican,Joshua M. FERGUSON,24,5,19,0,0
+Ohio,A105,U.S. House,2,,Under Votes,17,2,15,0,0
+Ohio,A105,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,A105,Ballots Cast,,,,219,,,,
+Ohio,A105,State Representative,14,Republican,Wes PATE,71,11,60,0,0
+Ohio,A105,State Representative,14,Republican,Marty SHEPHARD,86,12,73,0,1
+Ohio,A105,State Representative,14,,Under Votes,4,0,4,0,0
+Ohio,A105,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,A105,County Judge/Executive,,,Jason BULLOCK,74,10,63,0,1
+Ohio,A105,County Judge/Executive,,,Tracy BEATTY,60,11,49,0,0
+Ohio,A105,County Judge/Executive,,,Niki Tichenor RILEY,27,2,25,0,0
+Ohio,A105,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,A105,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,A105,Magistrate,,,Dwight SMITH,43,5,37,0,1
+Ohio,A105,Magistrate,,,Michael R. McKENNEY,50,6,44,0,0
+Ohio,A105,Magistrate,,,Under Votes,11,1,10,0,0
+Ohio,A105,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,A105,Constable,,,Jeff ASHBY,74,10,63,0,1
+Ohio,A105,Constable,,,Joe RENFROW,74,11,63,0,0
+Ohio,A105,Constable,,,Under Votes,13,2,11,0,0
+Ohio,A105,Constable,,,Over Votes,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Democratic,Amy McGRATH,32,4,26,2,0
+Ohio,A105,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Ohio,A105,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,A105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Ohio,A105,U.S. Senate,,Democratic,Charles BOOKER,21,2,19,0,0
+Ohio,A105,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Ohio,A105,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,A105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,A105,U.S. House,2,Democratic,David S. HATFIELD,11,3,8,0,0
+Ohio,A105,U.S. House,2,Democratic,Megan WINGFIELD,24,3,19,2,0
+Ohio,A105,U.S. House,2,Democratic,Hank LINDERMAN,12,0,12,0,0
+Ohio,A105,U.S. House,2,Democratic,William Dakota COMPTON,7,0,7,0,0
+Ohio,A105,U.S. House,2,,Under Votes,4,0,4,0,0
+Ohio,A105,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Ohio,B101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Ohio,B101,U.S. Senate,,Republican,Michael James FARIS,13,3,10,0,0
+Ohio,B101,U.S. Senate,,Republican,Other Donald WENZEL,2,0,2,0,0
+Ohio,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,B101,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Ohio,B101,U.S. Senate,,Republican,Andy BARR,98,24,73,1,0
+Ohio,B101,U.S. Senate,,Republican,Daniel CAMERON,53,10,43,0,0
+Ohio,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,B101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,B101,U.S. Senate,,,Under Votes,15,4,11,0,0
+Ohio,B101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Ohio,B101,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",10,1,9,0,0
+Ohio,B101,U.S. House,2,Republican,S. Brett GUTHRIE,153,32,120,1,0
+Ohio,B101,U.S. House,2,Republican,Joshua M. FERGUSON,24,3,20,1,0
+Ohio,B101,U.S. House,2,,Under Votes,25,5,20,0,0
+Ohio,B101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B101,Ballots Cast,,,,271,,,,
+Ohio,B101,State Representative,14,Republican,Wes PATE,70,14,55,1,0
+Ohio,B101,State Representative,14,Republican,Marty SHEPHARD,134,25,108,1,0
+Ohio,B101,State Representative,14,,Under Votes,8,2,6,0,0
+Ohio,B101,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,B101,County Judge/Executive,,,Jason BULLOCK,92,21,70,1,0
+Ohio,B101,County Judge/Executive,,,Tracy BEATTY,81,17,63,1,0
+Ohio,B101,County Judge/Executive,,,Niki Tichenor RILEY,37,3,34,0,0
+Ohio,B101,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Ohio,B101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,B101,Magistrate,,,Jay Ross JARVIS,112,23,88,1,0
+Ohio,B101,Magistrate,,,Jesse Warren CHINN,71,12,58,1,0
+Ohio,B101,Magistrate,,,Joyce Overton CRUMP,25,5,20,0,0
+Ohio,B101,Magistrate,,,Under Votes,4,1,3,0,0
+Ohio,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,B101,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
+Ohio,B101,U.S. Senate,,Democratic,Amy McGRATH,27,7,20,0,0
+Ohio,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Ohio,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Ohio,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Ohio,B101,U.S. Senate,,Democratic,Charles BOOKER,15,3,11,0,1
+Ohio,B101,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,5,0,0
+Ohio,B101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,B101,U.S. House,2,Democratic,David S. HATFIELD,14,2,12,0,0
+Ohio,B101,U.S. House,2,Democratic,Megan WINGFIELD,18,4,14,0,0
+Ohio,B101,U.S. House,2,Democratic,Hank LINDERMAN,14,4,9,0,1
+Ohio,B101,U.S. House,2,Democratic,William Dakota COMPTON,9,2,7,0,0
+Ohio,B101,U.S. House,2,,Under Votes,4,0,4,0,0
+Ohio,B101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Ohio,B102,U.S. Senate,,Republican,A. Nick SHELLEY,4,2,1,0,1
+Ohio,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
+Ohio,B102,U.S. Senate,,Republican,Michael James FARIS,23,6,16,1,0
+Ohio,B102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,5,1,4,0,0
+Ohio,B102,U.S. Senate,,Republican,George WASHINGTON,12,3,9,0,0
+Ohio,B102,U.S. Senate,,Republican,Andy BARR,206,51,147,5,3
+Ohio,B102,U.S. Senate,,Republican,Daniel CAMERON,96,8,86,2,0
+Ohio,B102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,B102,U.S. Senate,,Republican,James D. DUNCAN,4,1,3,0,0
+Ohio,B102,U.S. Senate,,,Under Votes,33,8,24,0,1
+Ohio,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,B102,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",17,3,14,0,0
+Ohio,B102,U.S. House,2,Republican,S. Brett GUTHRIE,317,61,243,9,4
+Ohio,B102,U.S. House,2,Republican,Joshua M. FERGUSON,40,8,31,1,0
+Ohio,B102,U.S. House,2,,Under Votes,47,14,32,0,1
+Ohio,B102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B102,Ballots Cast,,,,530,,,,
+Ohio,B102,State Representative,14,Republican,Wes PATE,143,25,115,2,1
+Ohio,B102,State Representative,14,Republican,Marty SHEPHARD,267,59,196,8,4
+Ohio,B102,State Representative,14,,Under Votes,11,2,9,0,0
+Ohio,B102,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,B102,County Judge/Executive,,,Jason BULLOCK,212,41,162,7,2
+Ohio,B102,County Judge/Executive,,,Tracy BEATTY,127,29,93,3,2
+Ohio,B102,County Judge/Executive,,,Niki Tichenor RILEY,81,16,64,0,1
+Ohio,B102,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,B102,County Judge/Executive,,,Over Votes,1,0,1,0,0
+Ohio,B102,Magistrate,,,Jay Ross JARVIS,152,29,118,3,2
+Ohio,B102,Magistrate,,,Jesse Warren CHINN,191,49,134,6,2
+Ohio,B102,Magistrate,,,Joyce Overton CRUMP,62,4,56,1,1
+Ohio,B102,Magistrate,,,Under Votes,14,3,11,0,0
+Ohio,B102,Magistrate,,,Over Votes,2,1,1,0,0
+Ohio,B102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
+Ohio,B102,U.S. Senate,,Democratic,Amy McGRATH,50,6,42,2,0
+Ohio,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,1,3,0,0
+Ohio,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,6,0,6,0,0
+Ohio,B102,U.S. Senate,,Democratic,Charles BOOKER,39,4,32,2,1
+Ohio,B102,U.S. Senate,,Democratic,Pamela STEVENSON,4,1,3,0,0
+Ohio,B102,U.S. Senate,,,Under Votes,1,1,0,0,0
+Ohio,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,B102,U.S. House,2,Democratic,David S. HATFIELD,28,1,27,0,0
+Ohio,B102,U.S. House,2,Democratic,Megan WINGFIELD,46,7,37,2,0
+Ohio,B102,U.S. House,2,Democratic,Hank LINDERMAN,10,1,6,2,1
+Ohio,B102,U.S. House,2,Democratic,William Dakota COMPTON,20,2,18,0,0
+Ohio,B102,U.S. House,2,,Under Votes,5,2,3,0,0
+Ohio,B102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Ohio,B103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Ohio,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,B103,U.S. Senate,,Republican,Michael James FARIS,13,2,11,0,0
+Ohio,B103,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,B103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,1,0,0,0
+Ohio,B103,U.S. Senate,,Republican,George WASHINGTON,6,2,4,0,0
+Ohio,B103,U.S. Senate,,Republican,Andy BARR,124,27,93,4,0
+Ohio,B103,U.S. Senate,,Republican,Daniel CAMERON,57,25,32,0,0
+Ohio,B103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,B103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,B103,U.S. Senate,,,Under Votes,16,4,12,0,0
+Ohio,B103,U.S. Senate,,,Over Votes,1,0,1,0,0
+Ohio,B103,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",17,3,14,0,0
+Ohio,B103,U.S. House,2,Republican,S. Brett GUTHRIE,180,50,126,4,0
+Ohio,B103,U.S. House,2,Republican,Joshua M. FERGUSON,19,3,16,0,0
+Ohio,B103,U.S. House,2,,Under Votes,26,10,16,0,0
+Ohio,B103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,B103,Ballots Cast,,,,283,,,,
+Ohio,B103,State Representative,14,Republican,Wes PATE,85,25,58,2,0
+Ohio,B103,State Representative,14,Republican,Marty SHEPHARD,153,40,111,2,0
+Ohio,B103,State Representative,14,,Under Votes,3,1,2,0,0
+Ohio,B103,State Representative,14,,Over Votes,1,0,1,0,0
+Ohio,B103,County Judge/Executive,,,Jason BULLOCK,93,21,69,3,0
+Ohio,B103,County Judge/Executive,,,Tracy BEATTY,84,30,53,1,0
+Ohio,B103,County Judge/Executive,,,Niki Tichenor RILEY,64,15,49,0,0
+Ohio,B103,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,B103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,B103,Magistrate,,,Jay Ross JARVIS,65,22,41,2,0
+Ohio,B103,Magistrate,,,Jesse Warren CHINN,133,34,97,2,0
+Ohio,B103,Magistrate,,,Joyce Overton CRUMP,34,10,24,0,0
+Ohio,B103,Magistrate,,,Under Votes,10,0,10,0,0
+Ohio,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,B103,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Ohio,B103,U.S. Senate,,Democratic,Amy McGRATH,17,1,13,3,0
+Ohio,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,1,1,0,0
+Ohio,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Ohio,B103,U.S. Senate,,Democratic,Charles BOOKER,12,1,11,0,0
+Ohio,B103,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Ohio,B103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,B103,U.S. House,2,Democratic,David S. HATFIELD,12,1,11,0,0
+Ohio,B103,U.S. House,2,Democratic,Megan WINGFIELD,15,1,12,2,0
+Ohio,B103,U.S. House,2,Democratic,Hank LINDERMAN,9,0,9,0,0
+Ohio,B103,U.S. House,2,Democratic,William Dakota COMPTON,5,1,3,1,0
+Ohio,B103,U.S. House,2,,Under Votes,0,0,0,0,0
+Ohio,B103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Ohio,C101,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Ohio,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,1,3,0,0
+Ohio,C101,U.S. Senate,,Republican,Michael James FARIS,9,2,7,0,0
+Ohio,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Ohio,C101,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Ohio,C101,U.S. Senate,,Republican,Andy BARR,53,4,48,1,0
+Ohio,C101,U.S. Senate,,Republican,Daniel CAMERON,18,3,15,0,0
+Ohio,C101,U.S. Senate,,Republican,Jimmy I. LEON,1,1,0,0,0
+Ohio,C101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Ohio,C101,U.S. Senate,,,Under Votes,7,0,7,0,0
+Ohio,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,C101,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",9,0,9,0,0
+Ohio,C101,U.S. House,2,Republican,S. Brett GUTHRIE,75,8,66,1,0
+Ohio,C101,U.S. House,2,Republican,Joshua M. FERGUSON,18,2,16,0,0
+Ohio,C101,U.S. House,2,,Under Votes,11,1,10,0,0
+Ohio,C101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C101,Ballots Cast,,,,150,,,,
+Ohio,C101,State Representative,14,Republican,Wes PATE,37,3,34,0,0
+Ohio,C101,State Representative,14,Republican,Marty SHEPHARD,74,8,65,1,0
+Ohio,C101,State Representative,14,,Under Votes,2,0,2,0,0
+Ohio,C101,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,C101,County Judge/Executive,,,Jason BULLOCK,53,5,47,1,0
+Ohio,C101,County Judge/Executive,,,Tracy BEATTY,23,6,17,0,0
+Ohio,C101,County Judge/Executive,,,Niki Tichenor RILEY,36,0,36,0,0
+Ohio,C101,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,C101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,C101,Magistrate,,,Bo BENNETT,15,2,13,0,0
+Ohio,C101,Magistrate,,,Scott G. TICHENOR,64,6,58,0,0
+Ohio,C101,Magistrate,,,Joe Brent GRIDER,31,3,27,1,0
+Ohio,C101,Magistrate,,,Under Votes,3,0,3,0,0
+Ohio,C101,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,C101,Constable,,,Jeremy S. NANCE,37,0,36,1,0
+Ohio,C101,Constable,,,Tim GRIFFIN,67,11,56,0,0
+Ohio,C101,Constable,,,Under Votes,9,0,9,0,0
+Ohio,C101,Constable,,,Over Votes,0,0,0,0,0
+Ohio,C101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Ohio,C101,U.S. Senate,,Democratic,Amy McGRATH,19,2,17,0,0
+Ohio,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Ohio,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,1,1,0,0
+Ohio,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,1,2,0,0
+Ohio,C101,U.S. Senate,,Democratic,Charles BOOKER,12,0,12,0,0
+Ohio,C101,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Ohio,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,C101,U.S. House,2,Democratic,David S. HATFIELD,18,1,17,0,0
+Ohio,C101,U.S. House,2,Democratic,Megan WINGFIELD,14,3,11,0,0
+Ohio,C101,U.S. House,2,Democratic,Hank LINDERMAN,1,0,1,0,0
+Ohio,C101,U.S. House,2,Democratic,William Dakota COMPTON,4,0,4,0,0
+Ohio,C101,U.S. House,2,,Under Votes,0,0,0,0,0
+Ohio,C101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C102,U.S. Senate,,Republican,Anissa CATLETT,1,1,0,0,0
+Ohio,C102,U.S. Senate,,Republican,A. Nick SHELLEY,4,0,4,0,0
+Ohio,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,C102,U.S. Senate,,Republican,Michael James FARIS,5,0,4,1,0
+Ohio,C102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
+Ohio,C102,U.S. Senate,,Republican,George WASHINGTON,9,1,8,0,0
+Ohio,C102,U.S. Senate,,Republican,Andy BARR,117,24,93,0,0
+Ohio,C102,U.S. Senate,,Republican,Daniel CAMERON,44,12,32,0,0
+Ohio,C102,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Ohio,C102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Ohio,C102,U.S. Senate,,,Under Votes,10,0,10,0,0
+Ohio,C102,U.S. Senate,,,Over Votes,3,0,3,0,0
+Ohio,C102,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",10,5,5,0,0
+Ohio,C102,U.S. House,2,Republican,S. Brett GUTHRIE,162,32,128,2,0
+Ohio,C102,U.S. House,2,Republican,Joshua M. FERGUSON,25,2,22,1,0
+Ohio,C102,U.S. House,2,,Under Votes,22,2,20,0,0
+Ohio,C102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C102,Ballots Cast,,,,271,,,,
+Ohio,C102,State Representative,14,Republican,Wes PATE,73,14,56,3,0
+Ohio,C102,State Representative,14,Republican,Marty SHEPHARD,141,27,114,0,0
+Ohio,C102,State Representative,14,,Under Votes,5,0,5,0,0
+Ohio,C102,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,C102,County Judge/Executive,,,Jason BULLOCK,97,15,80,2,0
+Ohio,C102,County Judge/Executive,,,Tracy BEATTY,69,15,54,0,0
+Ohio,C102,County Judge/Executive,,,Niki Tichenor RILEY,52,11,40,1,0
+Ohio,C102,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,C102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,C102,Magistrate,,,Bo BENNETT,39,10,29,0,0
+Ohio,C102,Magistrate,,,Scott G. TICHENOR,138,23,112,3,0
+Ohio,C102,Magistrate,,,Joe Brent GRIDER,32,6,26,0,0
+Ohio,C102,Magistrate,,,Under Votes,10,2,8,0,0
+Ohio,C102,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,C102,Constable,,,Jeremy S. NANCE,86,12,74,0,0
+Ohio,C102,Constable,,,Tim GRIFFIN,121,26,92,3,0
+Ohio,C102,Constable,,,Under Votes,12,3,9,0,0
+Ohio,C102,Constable,,,Over Votes,0,0,0,0,0
+Ohio,C102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
+Ohio,C102,U.S. Senate,,Democratic,Amy McGRATH,20,3,17,0,0
+Ohio,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Ohio,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Ohio,C102,U.S. Senate,,Democratic,Charles BOOKER,19,1,18,0,0
+Ohio,C102,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Ohio,C102,U.S. Senate,,,Under Votes,1,0,1,0,0
+Ohio,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,C102,U.S. House,2,Democratic,David S. HATFIELD,16,3,13,0,0
+Ohio,C102,U.S. House,2,Democratic,Megan WINGFIELD,23,1,22,0,0
+Ohio,C102,U.S. House,2,Democratic,Hank LINDERMAN,6,0,6,0,0
+Ohio,C102,U.S. House,2,Democratic,William Dakota COMPTON,6,0,6,0,0
+Ohio,C102,U.S. House,2,,Under Votes,1,0,1,0,0
+Ohio,C102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C103,U.S. Senate,,Republican,Anissa CATLETT,5,1,4,0,0
+Ohio,C103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Ohio,C103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Ohio,C103,U.S. Senate,,Republican,Michael James FARIS,26,4,21,1,0
+Ohio,C103,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,C103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Ohio,C103,U.S. Senate,,Republican,George WASHINGTON,6,0,6,0,0
+Ohio,C103,U.S. Senate,,Republican,Andy BARR,165,19,144,2,0
+Ohio,C103,U.S. Senate,,Republican,Daniel CAMERON,90,13,75,1,1
+Ohio,C103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,C103,U.S. Senate,,Republican,James D. DUNCAN,4,0,4,0,0
+Ohio,C103,U.S. Senate,,,Under Votes,24,4,20,0,0
+Ohio,C103,U.S. Senate,,,Over Votes,2,1,1,0,0
+Ohio,C103,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",19,6,13,0,0
+Ohio,C103,U.S. House,2,Republican,S. Brett GUTHRIE,253,31,220,2,0
+Ohio,C103,U.S. House,2,Republican,Joshua M. FERGUSON,43,3,37,2,1
+Ohio,C103,U.S. House,2,,Under Votes,30,5,25,0,0
+Ohio,C103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C103,Ballots Cast,,,,433,,,,
+Ohio,C103,State Representative,14,Republican,Wes PATE,146,18,127,0,1
+Ohio,C103,State Representative,14,Republican,Marty SHEPHARD,192,26,162,4,0
+Ohio,C103,State Representative,14,,Under Votes,7,1,6,0,0
+Ohio,C103,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,C103,County Judge/Executive,,,Jason BULLOCK,134,21,111,2,0
+Ohio,C103,County Judge/Executive,,,Tracy BEATTY,113,14,99,0,0
+Ohio,C103,County Judge/Executive,,,Niki Tichenor RILEY,97,10,84,2,1
+Ohio,C103,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,C103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,C103,Magistrate,,,Bo BENNETT,121,17,102,2,0
+Ohio,C103,Magistrate,,,Scott G. TICHENOR,175,20,152,2,1
+Ohio,C103,Magistrate,,,Joe Brent GRIDER,38,7,31,0,0
+Ohio,C103,Magistrate,,,Under Votes,11,1,10,0,0
+Ohio,C103,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,C103,Constable,,,Jeremy S. NANCE,134,25,106,2,1
+Ohio,C103,Constable,,,Tim GRIFFIN,184,18,164,2,0
+Ohio,C103,Constable,,,Under Votes,27,2,25,0,0
+Ohio,C103,Constable,,,Over Votes,0,0,0,0,0
+Ohio,C103,U.S. Senate,,Democratic,Logan FORSYTHE,4,1,3,0,0
+Ohio,C103,U.S. Senate,,Democratic,Amy McGRATH,47,9,37,1,0
+Ohio,C103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Ohio,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,2,2,0,0
+Ohio,C103,U.S. Senate,,Democratic,Charles BOOKER,25,3,22,0,0
+Ohio,C103,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Ohio,C103,U.S. Senate,,,Under Votes,3,0,3,0,0
+Ohio,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,C103,U.S. House,2,Democratic,David S. HATFIELD,25,0,25,0,0
+Ohio,C103,U.S. House,2,Democratic,Megan WINGFIELD,29,4,25,0,0
+Ohio,C103,U.S. House,2,Democratic,Hank LINDERMAN,11,7,3,1,0
+Ohio,C103,U.S. House,2,Democratic,William Dakota COMPTON,13,3,10,0,0
+Ohio,C103,U.S. House,2,,Under Votes,10,1,9,0,0
+Ohio,C103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C104,U.S. Senate,,Republican,Anissa CATLETT,5,0,5,0,0
+Ohio,C104,U.S. Senate,,Republican,A. Nick SHELLEY,3,0,3,0,0
+Ohio,C104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,C104,U.S. Senate,,Republican,Michael James FARIS,16,1,15,0,0
+Ohio,C104,U.S. Senate,,Republican,Other Donald WENZEL,2,0,2,0,0
+Ohio,C104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Ohio,C104,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Ohio,C104,U.S. Senate,,Republican,Andy BARR,133,12,120,1,0
+Ohio,C104,U.S. Senate,,Republican,Daniel CAMERON,35,5,30,0,0
+Ohio,C104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,C104,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,C104,U.S. Senate,,,Under Votes,8,2,6,0,0
+Ohio,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,C104,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",14,2,12,0,0
+Ohio,C104,U.S. House,2,Republican,S. Brett GUTHRIE,173,16,156,1,0
+Ohio,C104,U.S. House,2,Republican,Joshua M. FERGUSON,32,2,30,0,0
+Ohio,C104,U.S. House,2,,Under Votes,13,2,11,0,0
+Ohio,C104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,C104,Ballots Cast,,,,287,,,,
+Ohio,C104,State Representative,14,Republican,Wes PATE,91,13,78,0,0
+Ohio,C104,State Representative,14,Republican,Marty SHEPHARD,133,9,123,1,0
+Ohio,C104,State Representative,14,,Under Votes,8,0,8,0,0
+Ohio,C104,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,C104,County Judge/Executive,,,Jason BULLOCK,92,6,85,1,0
+Ohio,C104,County Judge/Executive,,,Tracy BEATTY,77,9,68,0,0
+Ohio,C104,County Judge/Executive,,,Niki Tichenor RILEY,62,7,55,0,0
+Ohio,C104,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,C104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,C104,Magistrate,,,Bo BENNETT,45,3,42,0,0
+Ohio,C104,Magistrate,,,Scott G. TICHENOR,138,15,123,0,0
+Ohio,C104,Magistrate,,,Joe Brent GRIDER,45,3,41,1,0
+Ohio,C104,Magistrate,,,Under Votes,4,1,3,0,0
+Ohio,C104,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,C104,Constable,,,Jeremy S. NANCE,66,6,60,0,0
+Ohio,C104,Constable,,,Tim GRIFFIN,146,15,130,1,0
+Ohio,C104,Constable,,,Under Votes,20,1,19,0,0
+Ohio,C104,Constable,,,Over Votes,0,0,0,0,0
+Ohio,C104,U.S. Senate,,Democratic,Logan FORSYTHE,4,2,2,0,0
+Ohio,C104,U.S. Senate,,Democratic,Amy McGRATH,27,1,26,0,0
+Ohio,C104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Ohio,C104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,C104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Ohio,C104,U.S. Senate,,Democratic,Charles BOOKER,15,1,14,0,0
+Ohio,C104,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
+Ohio,C104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Ohio,C104,U.S. Senate,,,Over Votes,1,0,1,0,0
+Ohio,C104,U.S. House,2,Democratic,David S. HATFIELD,17,3,14,0,0
+Ohio,C104,U.S. House,2,Democratic,Megan WINGFIELD,16,0,16,0,0
+Ohio,C104,U.S. House,2,Democratic,Hank LINDERMAN,7,0,7,0,0
+Ohio,C104,U.S. House,2,Democratic,William Dakota COMPTON,13,1,12,0,0
+Ohio,C104,U.S. House,2,,Under Votes,2,0,2,0,0
+Ohio,C104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,D101,U.S. Senate,,Republican,Michael James FARIS,7,1,5,1,0
+Ohio,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Ohio,D101,U.S. Senate,,Republican,Andy BARR,104,6,97,0,1
+Ohio,D101,U.S. Senate,,Republican,Daniel CAMERON,32,0,31,0,1
+Ohio,D101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Republican,James D. DUNCAN,4,0,4,0,0
+Ohio,D101,U.S. Senate,,,Under Votes,15,0,15,0,0
+Ohio,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,D101,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",7,0,6,1,0
+Ohio,D101,U.S. House,2,Republican,S. Brett GUTHRIE,151,7,143,0,1
+Ohio,D101,U.S. House,2,Republican,Joshua M. FERGUSON,17,0,15,1,1
+Ohio,D101,U.S. House,2,,Under Votes,19,2,17,0,0
+Ohio,D101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D101,Ballots Cast,,,,240,,,,
+Ohio,D101,State Representative,14,Republican,Wes PATE,111,5,102,2,2
+Ohio,D101,State Representative,14,Republican,Marty SHEPHARD,69,3,66,0,0
+Ohio,D101,State Representative,14,,Under Votes,13,1,12,0,0
+Ohio,D101,State Representative,14,,Over Votes,1,0,1,0,0
+Ohio,D101,County Judge/Executive,,,Jason BULLOCK,30,0,27,1,2
+Ohio,D101,County Judge/Executive,,,Tracy BEATTY,142,9,132,1,0
+Ohio,D101,County Judge/Executive,,,Niki Tichenor RILEY,20,0,20,0,0
+Ohio,D101,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Ohio,D101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,D101,Magistrate,,,Justin B. MILLER,45,2,42,0,1
+Ohio,D101,Magistrate,,,Dale BEAVIN,143,7,133,2,1
+Ohio,D101,Magistrate,,,Under Votes,5,0,5,0,0
+Ohio,D101,Magistrate,,,Over Votes,1,0,1,0,0
+Ohio,D101,Constable,,,Jeff MATTHEWS,115,6,107,0,2
+Ohio,D101,Constable,,,Brad KELLEMS,76,3,71,2,0
+Ohio,D101,Constable,,,Under Votes,3,0,3,0,0
+Ohio,D101,Constable,,,Over Votes,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,1,1,0
+Ohio,D101,U.S. Senate,,Democratic,Amy McGRATH,24,0,24,0,0
+Ohio,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,0,4,0,0
+Ohio,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Ohio,D101,U.S. Senate,,Democratic,Charles BOOKER,12,0,12,0,0
+Ohio,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Ohio,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Ohio,D101,U.S. House,2,Democratic,David S. HATFIELD,18,0,18,0,0
+Ohio,D101,U.S. House,2,Democratic,Megan WINGFIELD,17,0,16,1,0
+Ohio,D101,U.S. House,2,Democratic,Hank LINDERMAN,3,0,3,0,0
+Ohio,D101,U.S. House,2,Democratic,William Dakota COMPTON,8,0,8,0,0
+Ohio,D101,U.S. House,2,,Under Votes,0,0,0,0,0
+Ohio,D101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Ohio,D102,U.S. Senate,,Republican,A. Nick SHELLEY,5,0,5,0,0
+Ohio,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Ohio,D102,U.S. Senate,,Republican,Michael James FARIS,6,1,4,1,0
+Ohio,D102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Ohio,D102,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Ohio,D102,U.S. Senate,,Republican,Andy BARR,147,10,131,2,4
+Ohio,D102,U.S. Senate,,Republican,Daniel CAMERON,74,6,66,0,2
+Ohio,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,D102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Ohio,D102,U.S. Senate,,,Under Votes,12,4,7,1,0
+Ohio,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,D102,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",10,0,10,0,0
+Ohio,D102,U.S. House,2,Republican,S. Brett GUTHRIE,207,15,183,3,6
+Ohio,D102,U.S. House,2,Republican,Joshua M. FERGUSON,40,2,38,0,0
+Ohio,D102,U.S. House,2,,Under Votes,19,4,14,1,0
+Ohio,D102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D102,Ballots Cast,,,,335,,,,
+Ohio,D102,State Representative,14,Republican,Wes PATE,175,10,159,2,4
+Ohio,D102,State Representative,14,Republican,Marty SHEPHARD,88,11,73,2,2
+Ohio,D102,State Representative,14,,Under Votes,12,0,12,0,0
+Ohio,D102,State Representative,14,,Over Votes,1,0,1,0,0
+Ohio,D102,County Judge/Executive,,,Jason BULLOCK,39,0,39,0,0
+Ohio,D102,County Judge/Executive,,,Tracy BEATTY,217,19,188,4,6
+Ohio,D102,County Judge/Executive,,,Niki Tichenor RILEY,16,2,14,0,0
+Ohio,D102,County Judge/Executive,,,Under Votes,4,0,4,0,0
+Ohio,D102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,D102,Magistrate,,,Justin B. MILLER,46,4,42,0,0
+Ohio,D102,Magistrate,,,Dale BEAVIN,220,16,194,4,6
+Ohio,D102,Magistrate,,,Under Votes,10,1,9,0,0
+Ohio,D102,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,D102,Constable,,,Jeff MATTHEWS,148,12,129,3,4
+Ohio,D102,Constable,,,Brad KELLEMS,115,8,104,1,2
+Ohio,D102,Constable,,,Under Votes,13,1,12,0,0
+Ohio,D102,Constable,,,Over Votes,0,0,0,0,0
+Ohio,D102,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,2,1,0
+Ohio,D102,U.S. Senate,,Democratic,Amy McGRATH,32,3,27,2,0
+Ohio,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Ohio,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Ohio,D102,U.S. Senate,,Democratic,Charles BOOKER,16,1,15,0,0
+Ohio,D102,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Ohio,D102,U.S. Senate,,,Under Votes,2,0,2,0,0
+Ohio,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,D102,U.S. House,2,Democratic,David S. HATFIELD,32,1,29,2,0
+Ohio,D102,U.S. House,2,Democratic,Megan WINGFIELD,17,1,16,0,0
+Ohio,D102,U.S. House,2,Democratic,Hank LINDERMAN,3,0,2,1,0
+Ohio,D102,U.S. House,2,Democratic,William Dakota COMPTON,4,2,2,0,0
+Ohio,D102,U.S. House,2,,Under Votes,3,0,3,0,0
+Ohio,D102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,4,0,0
+Ohio,D104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,D104,U.S. Senate,,Republican,Michael James FARIS,6,2,3,0,1
+Ohio,D104,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,D104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Ohio,D104,U.S. Senate,,Republican,Andy BARR,66,8,58,0,0
+Ohio,D104,U.S. Senate,,Republican,Daniel CAMERON,33,3,29,1,0
+Ohio,D104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Ohio,D104,U.S. Senate,,,Under Votes,8,4,3,0,1
+Ohio,D104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,D104,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",6,0,6,0,0
+Ohio,D104,U.S. House,2,Republican,S. Brett GUTHRIE,94,16,76,1,1
+Ohio,D104,U.S. House,2,Republican,Joshua M. FERGUSON,24,4,20,0,0
+Ohio,D104,U.S. House,2,,Under Votes,11,2,8,0,1
+Ohio,D104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D104,Ballots Cast,,,,172,,,,
+Ohio,D104,State Representative,14,Republican,Wes PATE,81,15,66,0,0
+Ohio,D104,State Representative,14,Republican,Marty SHEPHARD,50,6,41,1,2
+Ohio,D104,State Representative,14,,Under Votes,4,1,3,0,0
+Ohio,D104,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,D104,County Judge/Executive,,,Jason BULLOCK,26,3,23,0,0
+Ohio,D104,County Judge/Executive,,,Tracy BEATTY,85,18,64,1,2
+Ohio,D104,County Judge/Executive,,,Niki Tichenor RILEY,23,1,22,0,0
+Ohio,D104,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,D104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,D104,Magistrate,,,Justin B. MILLER,51,9,42,0,0
+Ohio,D104,Magistrate,,,Dale BEAVIN,71,12,56,1,2
+Ohio,D104,Magistrate,,,Under Votes,13,1,12,0,0
+Ohio,D104,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,D104,Constable,,,Jeff MATTHEWS,57,7,50,0,0
+Ohio,D104,Constable,,,Brad KELLEMS,63,11,49,1,2
+Ohio,D104,Constable,,,Under Votes,15,4,11,0,0
+Ohio,D104,Constable,,,Over Votes,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Democratic,Amy McGRATH,21,4,16,1,0
+Ohio,D104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Ohio,D104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Ohio,D104,U.S. Senate,,Democratic,Charles BOOKER,10,1,9,0,0
+Ohio,D104,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Ohio,D104,U.S. Senate,,,Under Votes,1,1,0,0,0
+Ohio,D104,U.S. Senate,,,Over Votes,1,0,0,1,0
+Ohio,D104,U.S. House,2,Democratic,David S. HATFIELD,11,0,10,1,0
+Ohio,D104,U.S. House,2,Democratic,Megan WINGFIELD,14,2,12,0,0
+Ohio,D104,U.S. House,2,Democratic,Hank LINDERMAN,9,3,5,1,0
+Ohio,D104,U.S. House,2,Democratic,William Dakota COMPTON,2,0,2,0,0
+Ohio,D104,U.S. House,2,,Under Votes,1,1,0,0,0
+Ohio,D104,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Ohio,D106,U.S. Senate,,Republican,Michael James FARIS,8,1,7,0,0
+Ohio,D106,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Ohio,D106,U.S. Senate,,Republican,George WASHINGTON,4,1,3,0,0
+Ohio,D106,U.S. Senate,,Republican,Andy BARR,51,14,34,2,1
+Ohio,D106,U.S. Senate,,Republican,Daniel CAMERON,29,5,23,1,0
+Ohio,D106,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Ohio,D106,U.S. Senate,,,Under Votes,5,1,4,0,0
+Ohio,D106,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,D106,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",8,2,6,0,0
+Ohio,D106,U.S. House,2,Republican,S. Brett GUTHRIE,79,20,55,3,1
+Ohio,D106,U.S. House,2,Republican,Joshua M. FERGUSON,8,1,7,0,0
+Ohio,D106,U.S. House,2,,Under Votes,12,2,10,0,0
+Ohio,D106,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,D106,Ballots Cast,,,,136,,,,
+Ohio,D106,State Representative,14,Republican,Wes PATE,47,11,34,1,1
+Ohio,D106,State Representative,14,Republican,Marty SHEPHARD,58,13,43,2,0
+Ohio,D106,State Representative,14,,Under Votes,2,1,1,0,0
+Ohio,D106,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,D106,County Judge/Executive,,,Jason BULLOCK,34,4,30,0,0
+Ohio,D106,County Judge/Executive,,,Tracy BEATTY,53,15,34,3,1
+Ohio,D106,County Judge/Executive,,,Niki Tichenor RILEY,20,6,14,0,0
+Ohio,D106,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,D106,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,D106,Magistrate,,,Justin B. MILLER,73,19,51,2,1
+Ohio,D106,Magistrate,,,Dale BEAVIN,34,6,27,1,0
+Ohio,D106,Magistrate,,,Under Votes,0,0,0,0,0
+Ohio,D106,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,D106,Constable,,,Jeff MATTHEWS,64,14,48,2,0
+Ohio,D106,Constable,,,Brad KELLEMS,33,9,22,1,1
+Ohio,D106,Constable,,,Under Votes,10,2,8,0,0
+Ohio,D106,Constable,,,Over Votes,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Ohio,D106,U.S. Senate,,Democratic,Amy McGRATH,16,3,13,0,0
+Ohio,D106,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,1,1,0,0
+Ohio,D106,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,D106,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Ohio,D106,U.S. Senate,,Democratic,Charles BOOKER,6,3,3,0,0
+Ohio,D106,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Ohio,D106,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,D106,U.S. Senate,,,Over Votes,1,1,0,0,0
+Ohio,D106,U.S. House,2,Democratic,David S. HATFIELD,13,5,8,0,0
+Ohio,D106,U.S. House,2,Democratic,Megan WINGFIELD,5,1,4,0,0
+Ohio,D106,U.S. House,2,Democratic,Hank LINDERMAN,5,2,3,0,0
+Ohio,D106,U.S. House,2,Democratic,William Dakota COMPTON,5,0,5,0,0
+Ohio,D106,U.S. House,2,,Under Votes,1,1,0,0,0
+Ohio,D106,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E101,U.S. Senate,,Republican,Anissa CATLETT,4,1,3,0,0
+Ohio,E101,U.S. Senate,,Republican,A. Nick SHELLEY,5,0,5,0,0
+Ohio,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,0,4,0,0
+Ohio,E101,U.S. Senate,,Republican,Michael James FARIS,21,1,20,0,0
+Ohio,E101,U.S. Senate,,Republican,Other Donald WENZEL,2,0,2,0,0
+Ohio,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Ohio,E101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Ohio,E101,U.S. Senate,,Republican,Andy BARR,199,28,163,2,6
+Ohio,E101,U.S. Senate,,Republican,Daniel CAMERON,63,7,56,0,0
+Ohio,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,E101,U.S. Senate,,Republican,James D. DUNCAN,6,0,6,0,0
+Ohio,E101,U.S. Senate,,,Under Votes,21,1,19,1,0
+Ohio,E101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Ohio,E101,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",17,1,16,0,0
+Ohio,E101,U.S. House,2,Republican,S. Brett GUTHRIE,272,30,235,2,5
+Ohio,E101,U.S. House,2,Republican,Joshua M. FERGUSON,36,4,32,0,0
+Ohio,E101,U.S. House,2,,Under Votes,36,6,28,1,1
+Ohio,E101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E101,Ballots Cast,,,,408,,,,
+Ohio,E101,State Representative,14,Republican,Wes PATE,144,11,130,2,1
+Ohio,E101,State Representative,14,Republican,Marty SHEPHARD,209,30,174,1,4
+Ohio,E101,State Representative,14,,Under Votes,7,0,6,0,1
+Ohio,E101,State Representative,14,,Over Votes,1,0,1,0,0
+Ohio,E101,County Judge/Executive,,,Jason BULLOCK,141,18,121,2,0
+Ohio,E101,County Judge/Executive,,,Tracy BEATTY,116,20,93,0,3
+Ohio,E101,County Judge/Executive,,,Niki Tichenor RILEY,102,3,95,1,3
+Ohio,E101,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Ohio,E101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,E101,Magistrate,,,"Gerry ""Rip"" WRIGHT",115,11,102,0,2
+Ohio,E101,Magistrate,,,Jarod BASHAM,29,1,28,0,0
+Ohio,E101,Magistrate,,,Larry Wayne MORPHEW,108,11,94,2,1
+Ohio,E101,Magistrate,,,Renetta BRATCHER-ROMERO,44,5,39,0,0
+Ohio,E101,Magistrate,,,Melissa PALERMINO,12,1,11,0,0
+Ohio,E101,Magistrate,,,Christopher BASHAM,20,4,14,1,1
+Ohio,E101,Magistrate,,,Dewayne JOHNSON,30,8,20,0,2
+Ohio,E101,Magistrate,,,Under Votes,3,0,3,0,0
+Ohio,E101,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,E101,Constable,,,James GILSTRAP,117,10,107,0,0
+Ohio,E101,Constable,,,Nathan GEARY,206,27,172,1,6
+Ohio,E101,Constable,,,Under Votes,37,4,31,2,0
+Ohio,E101,Constable,,,Over Votes,1,0,1,0,0
+Ohio,E101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Ohio,E101,U.S. Senate,,Democratic,Amy McGRATH,20,5,15,0,0
+Ohio,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Ohio,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,1,2,0,0
+Ohio,E101,U.S. Senate,,Democratic,Charles BOOKER,16,2,14,0,0
+Ohio,E101,U.S. Senate,,Democratic,Pamela STEVENSON,2,1,1,0,0
+Ohio,E101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Ohio,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E101,U.S. House,2,Democratic,David S. HATFIELD,15,4,11,0,0
+Ohio,E101,U.S. House,2,Democratic,Megan WINGFIELD,12,3,9,0,0
+Ohio,E101,U.S. House,2,Democratic,Hank LINDERMAN,7,0,7,0,0
+Ohio,E101,U.S. House,2,Democratic,William Dakota COMPTON,7,2,5,0,0
+Ohio,E101,U.S. House,2,,Under Votes,6,1,5,0,0
+Ohio,E101,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E102,U.S. Senate,,Republican,Anissa CATLETT,4,0,4,0,0
+Ohio,E102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Ohio,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Ohio,E102,U.S. Senate,,Republican,Michael James FARIS,11,0,11,0,0
+Ohio,E102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Ohio,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Ohio,E102,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Ohio,E102,U.S. Senate,,Republican,Andy BARR,165,14,149,1,1
+Ohio,E102,U.S. Senate,,Republican,Daniel CAMERON,53,4,48,1,0
+Ohio,E102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,E102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,E102,U.S. Senate,,,Under Votes,9,0,9,0,0
+Ohio,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E102,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",19,2,17,0,0
+Ohio,E102,U.S. House,2,Republican,S. Brett GUTHRIE,205,17,185,2,1
+Ohio,E102,U.S. House,2,Republican,Joshua M. FERGUSON,28,0,28,0,0
+Ohio,E102,U.S. House,2,,Under Votes,21,2,19,0,0
+Ohio,E102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E102,Ballots Cast,,,,306,,,,
+Ohio,E102,State Representative,14,Republican,Wes PATE,107,8,98,0,1
+Ohio,E102,State Representative,14,Republican,Marty SHEPHARD,163,13,148,2,0
+Ohio,E102,State Representative,14,,Under Votes,3,0,3,0,0
+Ohio,E102,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,E102,County Judge/Executive,,,Jason BULLOCK,95,7,87,1,0
+Ohio,E102,County Judge/Executive,,,Tracy BEATTY,133,11,121,0,1
+Ohio,E102,County Judge/Executive,,,Niki Tichenor RILEY,44,3,40,1,0
+Ohio,E102,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Ohio,E102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,E102,Magistrate,,,"Gerry ""Rip"" WRIGHT",43,4,39,0,0
+Ohio,E102,Magistrate,,,Jarod BASHAM,11,0,11,0,0
+Ohio,E102,Magistrate,,,Larry Wayne MORPHEW,75,8,66,1,0
+Ohio,E102,Magistrate,,,Renetta BRATCHER-ROMERO,59,3,55,1,0
+Ohio,E102,Magistrate,,,Melissa PALERMINO,16,3,13,0,0
+Ohio,E102,Magistrate,,,Christopher BASHAM,2,0,2,0,0
+Ohio,E102,Magistrate,,,Dewayne JOHNSON,65,3,61,0,1
+Ohio,E102,Magistrate,,,Under Votes,2,0,2,0,0
+Ohio,E102,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,E102,Constable,,,James GILSTRAP,71,3,68,0,0
+Ohio,E102,Constable,,,Nathan GEARY,185,15,167,2,1
+Ohio,E102,Constable,,,Under Votes,16,3,13,0,0
+Ohio,E102,Constable,,,Over Votes,1,0,1,0,0
+Ohio,E102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Ohio,E102,U.S. Senate,,Democratic,Amy McGRATH,14,2,12,0,0
+Ohio,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Ohio,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Ohio,E102,U.S. Senate,,Democratic,Charles BOOKER,8,0,8,0,0
+Ohio,E102,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,5,0,0
+Ohio,E102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E102,U.S. House,2,Democratic,David S. HATFIELD,12,1,11,0,0
+Ohio,E102,U.S. House,2,Democratic,Megan WINGFIELD,16,1,15,0,0
+Ohio,E102,U.S. House,2,Democratic,Hank LINDERMAN,1,0,1,0,0
+Ohio,E102,U.S. House,2,Democratic,William Dakota COMPTON,4,1,3,0,0
+Ohio,E102,U.S. House,2,,Under Votes,0,0,0,0,0
+Ohio,E102,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E103,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Ohio,E103,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
+Ohio,E103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Ohio,E103,U.S. Senate,,Republican,Michael James FARIS,12,1,11,0,0
+Ohio,E103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,E103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Ohio,E103,U.S. Senate,,Republican,George WASHINGTON,7,1,6,0,0
+Ohio,E103,U.S. Senate,,Republican,Andy BARR,162,44,115,2,1
+Ohio,E103,U.S. Senate,,Republican,Daniel CAMERON,52,10,39,2,1
+Ohio,E103,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Ohio,E103,U.S. Senate,,Republican,James D. DUNCAN,3,2,1,0,0
+Ohio,E103,U.S. Senate,,,Under Votes,16,2,14,0,0
+Ohio,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E103,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",18,5,13,0,0
+Ohio,E103,U.S. House,2,Republican,S. Brett GUTHRIE,211,47,158,4,2
+Ohio,E103,U.S. House,2,Republican,Joshua M. FERGUSON,24,5,19,0,0
+Ohio,E103,U.S. House,2,,Under Votes,26,6,20,0,0
+Ohio,E103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E103,Ballots Cast,,,,320,,,,
+Ohio,E103,State Representative,14,Republican,Wes PATE,116,28,86,0,2
+Ohio,E103,State Representative,14,Republican,Marty SHEPHARD,159,34,121,4,0
+Ohio,E103,State Representative,14,,Under Votes,3,1,2,0,0
+Ohio,E103,State Representative,14,,Over Votes,1,0,1,0,0
+Ohio,E103,County Judge/Executive,,,Jason BULLOCK,106,26,76,4,0
+Ohio,E103,County Judge/Executive,,,Tracy BEATTY,118,27,89,0,2
+Ohio,E103,County Judge/Executive,,,Niki Tichenor RILEY,53,10,43,0,0
+Ohio,E103,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Ohio,E103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,E103,Magistrate,,,"Gerry ""Rip"" WRIGHT",83,26,55,0,2
+Ohio,E103,Magistrate,,,Jarod BASHAM,12,2,10,0,0
+Ohio,E103,Magistrate,,,Larry Wayne MORPHEW,88,7,79,2,0
+Ohio,E103,Magistrate,,,Renetta BRATCHER-ROMERO,50,19,30,1,0
+Ohio,E103,Magistrate,,,Melissa PALERMINO,8,2,5,1,0
+Ohio,E103,Magistrate,,,Christopher BASHAM,2,0,2,0,0
+Ohio,E103,Magistrate,,,Dewayne JOHNSON,32,6,26,0,0
+Ohio,E103,Magistrate,,,Under Votes,3,1,2,0,0
+Ohio,E103,Magistrate,,,Over Votes,1,0,1,0,0
+Ohio,E103,Constable,,,James GILSTRAP,83,21,61,0,1
+Ohio,E103,Constable,,,Nathan GEARY,173,35,133,4,1
+Ohio,E103,Constable,,,Under Votes,23,7,16,0,0
+Ohio,E103,Constable,,,Over Votes,0,0,0,0,0
+Ohio,E103,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Ohio,E103,U.S. Senate,,Democratic,Amy McGRATH,15,4,11,0,0
+Ohio,E103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Ohio,E103,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Ohio,E103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,1,0,0,0
+Ohio,E103,U.S. Senate,,Democratic,Charles BOOKER,14,0,14,0,0
+Ohio,E103,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,5,0,0
+Ohio,E103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E103,U.S. House,2,Democratic,David S. HATFIELD,11,2,9,0,0
+Ohio,E103,U.S. House,2,Democratic,Megan WINGFIELD,18,4,14,0,0
+Ohio,E103,U.S. House,2,Democratic,Hank LINDERMAN,8,0,8,0,0
+Ohio,E103,U.S. House,2,Democratic,William Dakota COMPTON,3,0,3,0,0
+Ohio,E103,U.S. House,2,,Under Votes,1,0,1,0,0
+Ohio,E103,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Ohio,E105,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Ohio,E105,U.S. Senate,,Republican,Michael James FARIS,13,3,10,0,0
+Ohio,E105,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Ohio,E105,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Ohio,E105,U.S. Senate,,Republican,Andy BARR,65,10,54,1,0
+Ohio,E105,U.S. Senate,,Republican,Daniel CAMERON,31,5,25,0,1
+Ohio,E105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Ohio,E105,U.S. Senate,,,Under Votes,5,2,3,0,0
+Ohio,E105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E105,U.S. House,2,Republican,"G. ""Shay"" PERRY-ADELMANN",4,0,4,0,0
+Ohio,E105,U.S. House,2,Republican,S. Brett GUTHRIE,90,16,72,1,1
+Ohio,E105,U.S. House,2,Republican,Joshua M. FERGUSON,11,3,8,0,0
+Ohio,E105,U.S. House,2,,Under Votes,17,2,15,0,0
+Ohio,E105,U.S. House,2,,Over Votes,0,0,0,0,0
+Ohio,E105,Ballots Cast,,,,143,,,,
+Ohio,E105,State Representative,14,Republican,Wes PATE,38,3,35,0,0
+Ohio,E105,State Representative,14,Republican,Marty SHEPHARD,81,17,62,1,1
+Ohio,E105,State Representative,14,,Under Votes,3,1,2,0,0
+Ohio,E105,State Representative,14,,Over Votes,0,0,0,0,0
+Ohio,E105,County Judge/Executive,,,Jason BULLOCK,25,4,21,0,0
+Ohio,E105,County Judge/Executive,,,Tracy BEATTY,54,8,44,1,1
+Ohio,E105,County Judge/Executive,,,Niki Tichenor RILEY,43,9,34,0,0
+Ohio,E105,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Ohio,E105,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Ohio,E105,Magistrate,,,"Gerry ""Rip"" WRIGHT",41,11,30,0,0
+Ohio,E105,Magistrate,,,Jarod BASHAM,33,3,29,1,0
+Ohio,E105,Magistrate,,,Larry Wayne MORPHEW,19,3,16,0,0
+Ohio,E105,Magistrate,,,Renetta BRATCHER-ROMERO,12,1,11,0,0
+Ohio,E105,Magistrate,,,Melissa PALERMINO,4,0,4,0,0
+Ohio,E105,Magistrate,,,Christopher BASHAM,5,0,5,0,0
+Ohio,E105,Magistrate,,,Dewayne JOHNSON,3,0,3,0,0
+Ohio,E105,Magistrate,,,Under Votes,5,3,1,0,1
+Ohio,E105,Magistrate,,,Over Votes,0,0,0,0,0
+Ohio,E105,Constable,,,James GILSTRAP,34,3,31,0,0
+Ohio,E105,Constable,,,Nathan GEARY,70,12,56,1,1
+Ohio,E105,Constable,,,Under Votes,18,6,12,0,0
+Ohio,E105,Constable,,,Over Votes,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Ohio,E105,U.S. Senate,,Democratic,Amy McGRATH,12,2,10,0,0
+Ohio,E105,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Ohio,E105,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Ohio,E105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Ohio,E105,U.S. Senate,,Democratic,Charles BOOKER,6,1,5,0,0
+Ohio,E105,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Ohio,E105,U.S. Senate,,,Under Votes,0,0,0,0,0
+Ohio,E105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Ohio,E105,U.S. House,2,Democratic,David S. HATFIELD,6,0,6,0,0
+Ohio,E105,U.S. House,2,Democratic,Megan WINGFIELD,8,1,7,0,0
+Ohio,E105,U.S. House,2,Democratic,Hank LINDERMAN,1,1,0,0,0
+Ohio,E105,U.S. House,2,Democratic,William Dakota COMPTON,3,1,2,0,0
+Ohio,E105,U.S. House,2,,Under Votes,3,0,3,0,0
+Ohio,E105,U.S. House,2,,Over Votes,0,0,0,0,0

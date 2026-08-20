@@ -1,0 +1,966 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Lincoln,A101,U.S. Senate,,Republican,Daniel CAMERON,44,8,35,1,0
+Lincoln,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Lincoln,A101,U.S. Senate,,Republican,Andy BARR,64,20,42,0,2
+Lincoln,A101,U.S. Senate,,Republican,Nate MORRIS,3,2,1,0,0
+Lincoln,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,2,1,0
+Lincoln,A101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,Republican,Michael James FARIS,4,2,2,0,0
+Lincoln,A101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Lincoln,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Lincoln,A101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Ballots Cast,,,,181,,,,
+Lincoln,A101,U.S. House,5,Republican,Kevin SMITH,13,3,10,0,0
+Lincoln,A101,U.S. House,5,Republican,Benjamin HURLEY,5,2,3,0,0
+Lincoln,A101,U.S. House,5,Republican,Hal ROGERS,74,22,50,1,1
+Lincoln,A101,U.S. House,5,Republican,Jerry Lee SHELTON,25,5,18,1,1
+Lincoln,A101,U.S. House,5,Republican,Brandon R. MONHOLLEN,2,0,2,0,0
+Lincoln,A101,U.S. House,5,,Under Votes,3,0,3,0,0
+Lincoln,A101,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,A101,County Clerk,,,Shelby Ray LAKES,33,9,23,0,1
+Lincoln,A101,County Clerk,,,Nancy JACKSON,86,23,60,2,1
+Lincoln,A101,County Clerk,,,Under Votes,3,0,3,0,0
+Lincoln,A101,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Sheriff,,,Terry Lane WILCHER,25,9,15,0,1
+Lincoln,A101,Sheriff,,,D. Shawn HINES,96,23,71,2,0
+Lincoln,A101,Sheriff,,,Under Votes,1,0,0,0,1
+Lincoln,A101,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Jailer,,,Griffin D. HARNESS,76,23,50,2,1
+Lincoln,A101,Jailer,,,John R. HASTY,41,8,32,0,1
+Lincoln,A101,Jailer,,,Under Votes,5,1,4,0,0
+Lincoln,A101,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Coroner,,,Farris MARCUM,87,26,58,1,2
+Lincoln,A101,Coroner,,,Glen WARE,34,6,27,1,0
+Lincoln,A101,Coroner,,,Under Votes,1,0,1,0,0
+Lincoln,A101,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Magistrate,,,Tony CAUDILL,46,14,31,0,1
+Lincoln,A101,Magistrate,,,Curt FOLGER,75,18,54,2,1
+Lincoln,A101,Magistrate,,,Under Votes,1,0,1,0,0
+Lincoln,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,A101,Constable,,,Travis E. VAN PELT,78,17,60,0,1
+Lincoln,A101,Constable,,,Kevin LENOIR,25,8,16,1,0
+Lincoln,A101,Constable,,,Under Votes,19,7,10,1,1
+Lincoln,A101,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Lincoln,A101,U.S. Senate,,Democratic,Amy McGRATH,27,9,13,3,2
+Lincoln,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,A101,U.S. Senate,,Democratic,Charles BOOKER,21,5,13,3,0
+Lincoln,A101,U.S. Senate,,Democratic,Pamela STEVENSON,4,3,1,0,0
+Lincoln,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,1,0,0,0
+Lincoln,A101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,0,0,1
+Lincoln,A101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Lincoln,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Republican,Daniel CAMERON,93,19,71,1,2
+Lincoln,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Lincoln,A102,U.S. Senate,,Republican,Andy BARR,162,51,102,2,7
+Lincoln,A102,U.S. Senate,,Republican,Nate MORRIS,5,2,2,1,0
+Lincoln,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Lincoln,A102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
+Lincoln,A102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Lincoln,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Lincoln,A102,U.S. Senate,,,Under Votes,4,2,2,0,0
+Lincoln,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A102,Ballots Cast,,,,370,,,,
+Lincoln,A102,U.S. House,5,Republican,Kevin SMITH,30,11,18,0,1
+Lincoln,A102,U.S. House,5,Republican,Benjamin HURLEY,18,2,16,0,0
+Lincoln,A102,U.S. House,5,Republican,Hal ROGERS,196,59,125,4,8
+Lincoln,A102,U.S. House,5,Republican,Jerry Lee SHELTON,19,2,17,0,0
+Lincoln,A102,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,1,2,0,0
+Lincoln,A102,U.S. House,5,,Under Votes,8,0,8,0,0
+Lincoln,A102,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,A102,County Clerk,,,Shelby Ray LAKES,74,17,54,1,2
+Lincoln,A102,County Clerk,,,Nancy JACKSON,197,58,129,3,7
+Lincoln,A102,County Clerk,,,Under Votes,2,0,2,0,0
+Lincoln,A102,County Clerk,,,Over Votes,1,0,1,0,0
+Lincoln,A102,Sheriff,,,Terry Lane WILCHER,53,10,43,0,0
+Lincoln,A102,Sheriff,,,D. Shawn HINES,212,64,135,4,9
+Lincoln,A102,Sheriff,,,Under Votes,9,1,8,0,0
+Lincoln,A102,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,A102,Jailer,,,Griffin D. HARNESS,168,52,105,4,7
+Lincoln,A102,Jailer,,,John R. HASTY,86,20,64,0,2
+Lincoln,A102,Jailer,,,Under Votes,20,3,17,0,0
+Lincoln,A102,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,A102,Coroner,,,Farris MARCUM,201,60,129,3,9
+Lincoln,A102,Coroner,,,Glen WARE,63,14,48,1,0
+Lincoln,A102,Coroner,,,Under Votes,10,1,9,0,0
+Lincoln,A102,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,A102,Magistrate,,,Tony CAUDILL,79,22,53,2,2
+Lincoln,A102,Magistrate,,,Curt FOLGER,190,53,128,2,7
+Lincoln,A102,Magistrate,,,Under Votes,5,0,5,0,0
+Lincoln,A102,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,A102,Constable,,,Travis E. VAN PELT,173,45,119,2,7
+Lincoln,A102,Constable,,,Kevin LENOIR,59,20,38,1,0
+Lincoln,A102,Constable,,,Under Votes,42,10,29,1,2
+Lincoln,A102,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Lincoln,A102,U.S. Senate,,Democratic,Amy McGRATH,42,19,19,1,3
+Lincoln,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,A102,U.S. Senate,,Democratic,Charles BOOKER,44,10,33,0,1
+Lincoln,A102,U.S. Senate,,Democratic,Pamela STEVENSON,3,2,1,0,0
+Lincoln,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Lincoln,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
+Lincoln,A102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Republican,Daniel CAMERON,50,7,42,1,0
+Lincoln,A103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Republican,Andy BARR,105,24,76,2,3
+Lincoln,A103,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
+Lincoln,A103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
+Lincoln,A103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,A103,U.S. Senate,,Republican,James D. DUNCAN,2,1,1,0,0
+Lincoln,A103,U.S. Senate,,Republican,Michael James FARIS,6,0,6,0,0
+Lincoln,A103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Lincoln,A103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,,Under Votes,2,1,1,0,0
+Lincoln,A103,U.S. Senate,,,Over Votes,1,1,0,0,0
+Lincoln,A103,Ballots Cast,,,,257,,,,
+Lincoln,A103,U.S. House,5,Republican,Kevin SMITH,19,5,14,0,0
+Lincoln,A103,U.S. House,5,Republican,Benjamin HURLEY,4,0,4,0,0
+Lincoln,A103,U.S. House,5,Republican,Hal ROGERS,113,25,83,3,2
+Lincoln,A103,U.S. House,5,Republican,Jerry Lee SHELTON,26,4,21,0,1
+Lincoln,A103,U.S. House,5,Republican,Brandon R. MONHOLLEN,4,1,3,0,0
+Lincoln,A103,U.S. House,5,,Under Votes,5,0,5,0,0
+Lincoln,A103,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,A103,County Clerk,,,Shelby Ray LAKES,61,15,46,0,0
+Lincoln,A103,County Clerk,,,Nancy JACKSON,108,20,82,3,3
+Lincoln,A103,County Clerk,,,Under Votes,2,0,2,0,0
+Lincoln,A103,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,A103,Sheriff,,,Terry Lane WILCHER,45,11,33,0,1
+Lincoln,A103,Sheriff,,,D. Shawn HINES,118,21,92,3,2
+Lincoln,A103,Sheriff,,,Under Votes,8,3,5,0,0
+Lincoln,A103,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,A103,Jailer,,,Griffin D. HARNESS,98,24,70,3,1
+Lincoln,A103,Jailer,,,John R. HASTY,62,10,52,0,0
+Lincoln,A103,Jailer,,,Under Votes,11,1,8,0,2
+Lincoln,A103,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,A103,Coroner,,,Farris MARCUM,127,27,97,3,0
+Lincoln,A103,Coroner,,,Glen WARE,37,8,28,0,1
+Lincoln,A103,Coroner,,,Under Votes,7,0,5,0,2
+Lincoln,A103,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,A103,Magistrate,,,Tony CAUDILL,60,14,42,2,2
+Lincoln,A103,Magistrate,,,Curt FOLGER,106,21,83,1,1
+Lincoln,A103,Magistrate,,,Under Votes,5,0,5,0,0
+Lincoln,A103,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,A103,Constable,,,Travis E. VAN PELT,113,25,86,1,1
+Lincoln,A103,Constable,,,Kevin LENOIR,35,4,31,0,0
+Lincoln,A103,Constable,,,Under Votes,23,6,13,2,2
+Lincoln,A103,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Democratic,Amy McGRATH,28,10,16,1,1
+Lincoln,A103,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,1,0,1
+Lincoln,A103,U.S. Senate,,Democratic,Charles BOOKER,48,13,31,1,3
+Lincoln,A103,U.S. Senate,,Democratic,Pamela STEVENSON,3,2,0,1,0
+Lincoln,A103,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,A103,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Lincoln,A103,U.S. Senate,,,Under Votes,2,0,2,0,0
+Lincoln,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,Daniel CAMERON,23,7,16,0,0
+Lincoln,A104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,Andy BARR,57,16,38,1,2
+Lincoln,A104,U.S. Senate,,Republican,Nate MORRIS,3,2,1,0,0
+Lincoln,A104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Lincoln,A104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Lincoln,A104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,,Under Votes,3,0,2,1,0
+Lincoln,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Ballots Cast,,,,139,,,,
+Lincoln,A104,U.S. House,5,Republican,Kevin SMITH,7,3,4,0,0
+Lincoln,A104,U.S. House,5,Republican,Benjamin HURLEY,2,1,1,0,0
+Lincoln,A104,U.S. House,5,Republican,Hal ROGERS,61,17,41,1,2
+Lincoln,A104,U.S. House,5,Republican,Jerry Lee SHELTON,11,4,7,0,0
+Lincoln,A104,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,A104,U.S. House,5,,Under Votes,4,0,3,1,0
+Lincoln,A104,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,A104,County Clerk,,,Shelby Ray LAKES,19,5,14,0,0
+Lincoln,A104,County Clerk,,,Nancy JACKSON,65,20,41,2,2
+Lincoln,A104,County Clerk,,,Under Votes,4,0,4,0,0
+Lincoln,A104,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Sheriff,,,Terry Lane WILCHER,19,5,14,0,0
+Lincoln,A104,Sheriff,,,D. Shawn HINES,67,20,44,1,2
+Lincoln,A104,Sheriff,,,Under Votes,2,0,1,1,0
+Lincoln,A104,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Jailer,,,Griffin D. HARNESS,46,13,32,1,0
+Lincoln,A104,Jailer,,,John R. HASTY,36,10,24,0,2
+Lincoln,A104,Jailer,,,Under Votes,6,2,3,1,0
+Lincoln,A104,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Coroner,,,Farris MARCUM,73,19,50,2,2
+Lincoln,A104,Coroner,,,Glen WARE,14,6,8,0,0
+Lincoln,A104,Coroner,,,Under Votes,1,0,1,0,0
+Lincoln,A104,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Magistrate,,,Tony CAUDILL,27,7,19,0,1
+Lincoln,A104,Magistrate,,,Curt FOLGER,59,18,39,1,1
+Lincoln,A104,Magistrate,,,Under Votes,2,0,1,1,0
+Lincoln,A104,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,A104,Constable,,,Travis E. VAN PELT,52,18,33,1,0
+Lincoln,A104,Constable,,,Kevin LENOIR,20,2,16,0,2
+Lincoln,A104,Constable,,,Under Votes,16,5,10,1,0
+Lincoln,A104,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,1,0,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Amy McGRATH,9,1,6,0,2
+Lincoln,A104,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Charles BOOKER,36,3,33,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Pamela STEVENSON,1,1,0,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Lincoln,A104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Republican,Daniel CAMERON,67,7,58,1,1
+Lincoln,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Republican,Andy BARR,121,12,105,2,2
+Lincoln,B101,U.S. Senate,,Republican,Nate MORRIS,6,1,5,0,0
+Lincoln,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,0,4,0,0
+Lincoln,B101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Lincoln,B101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Lincoln,B101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Lincoln,B101,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Lincoln,B101,U.S. Senate,,,Under Votes,3,1,2,0,0
+Lincoln,B101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Lincoln,B101,Ballots Cast,,,,273,,,,
+Lincoln,B101,U.S. House,5,Republican,Kevin SMITH,10,0,10,0,0
+Lincoln,B101,U.S. House,5,Republican,Benjamin HURLEY,12,1,11,0,0
+Lincoln,B101,U.S. House,5,Republican,Hal ROGERS,133,19,109,3,2
+Lincoln,B101,U.S. House,5,Republican,Jerry Lee SHELTON,48,1,46,0,1
+Lincoln,B101,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,B101,U.S. House,5,,Under Votes,4,0,4,0,0
+Lincoln,B101,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,B101,County Clerk,,,Shelby Ray LAKES,60,2,58,0,0
+Lincoln,B101,County Clerk,,,Nancy JACKSON,145,19,121,3,2
+Lincoln,B101,County Clerk,,,Under Votes,5,0,4,0,1
+Lincoln,B101,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,B101,Sheriff,,,Terry Lane WILCHER,34,6,27,1,0
+Lincoln,B101,Sheriff,,,D. Shawn HINES,173,15,153,2,3
+Lincoln,B101,Sheriff,,,Under Votes,3,0,3,0,0
+Lincoln,B101,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,B101,Jailer,,,Griffin D. HARNESS,117,16,97,3,1
+Lincoln,B101,Jailer,,,John R. HASTY,77,4,73,0,0
+Lincoln,B101,Jailer,,,Under Votes,16,1,13,0,2
+Lincoln,B101,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,B101,Coroner,,,Farris MARCUM,147,18,126,2,1
+Lincoln,B101,Coroner,,,Glen WARE,51,3,47,1,0
+Lincoln,B101,Coroner,,,Under Votes,12,0,10,0,2
+Lincoln,B101,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,B101,Magistrate,,,Dan GUTENSON,136,16,116,3,1
+Lincoln,B101,Magistrate,,,Michael RANKIN,70,5,63,0,2
+Lincoln,B101,Magistrate,,,Under Votes,4,0,4,0,0
+Lincoln,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,B101,Constable,,,Mike MULLINS,143,16,123,2,2
+Lincoln,B101,Constable,,,Willie Joe ASHLEY,60,5,54,1,0
+Lincoln,B101,Constable,,,Under Votes,7,0,6,0,1
+Lincoln,B101,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Lincoln,B101,U.S. Senate,,Democratic,Amy McGRATH,29,6,18,1,4
+Lincoln,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Lincoln,B101,U.S. Senate,,Democratic,Charles BOOKER,21,2,18,0,1
+Lincoln,B101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Lincoln,B101,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Lincoln,B101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Lincoln,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Republican,Daniel CAMERON,49,3,43,1,2
+Lincoln,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Republican,Andy BARR,91,5,81,5,0
+Lincoln,B102,U.S. Senate,,Republican,Nate MORRIS,8,0,8,0,0
+Lincoln,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Lincoln,B102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Lincoln,B102,U.S. Senate,,Republican,Michael James FARIS,6,2,4,0,0
+Lincoln,B102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Lincoln,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Lincoln,B102,U.S. Senate,,,Under Votes,4,0,3,1,0
+Lincoln,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Ballots Cast,,,,191,,,,
+Lincoln,B102,U.S. House,5,Republican,Kevin SMITH,12,3,8,0,1
+Lincoln,B102,U.S. House,5,Republican,Benjamin HURLEY,6,0,6,0,0
+Lincoln,B102,U.S. House,5,Republican,Hal ROGERS,95,4,84,7,0
+Lincoln,B102,U.S. House,5,Republican,Jerry Lee SHELTON,40,2,37,0,1
+Lincoln,B102,U.S. House,5,Republican,Brandon R. MONHOLLEN,2,0,2,0,0
+Lincoln,B102,U.S. House,5,,Under Votes,9,1,8,0,0
+Lincoln,B102,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,B102,County Clerk,,,Shelby Ray LAKES,44,1,39,2,2
+Lincoln,B102,County Clerk,,,Nancy JACKSON,107,9,94,4,0
+Lincoln,B102,County Clerk,,,Under Votes,13,0,12,1,0
+Lincoln,B102,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Sheriff,,,Terry Lane WILCHER,39,0,38,0,1
+Lincoln,B102,Sheriff,,,D. Shawn HINES,113,10,95,7,1
+Lincoln,B102,Sheriff,,,Under Votes,12,0,12,0,0
+Lincoln,B102,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Jailer,,,Griffin D. HARNESS,93,7,80,6,0
+Lincoln,B102,Jailer,,,John R. HASTY,50,2,46,0,2
+Lincoln,B102,Jailer,,,Under Votes,21,1,19,1,0
+Lincoln,B102,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Coroner,,,Farris MARCUM,104,7,89,6,2
+Lincoln,B102,Coroner,,,Glen WARE,39,1,38,0,0
+Lincoln,B102,Coroner,,,Under Votes,21,2,18,1,0
+Lincoln,B102,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Magistrate,,,Dan GUTENSON,114,6,103,5,0
+Lincoln,B102,Magistrate,,,Michael RANKIN,44,4,36,2,2
+Lincoln,B102,Magistrate,,,Under Votes,6,0,6,0,0
+Lincoln,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,B102,Constable,,,Mike MULLINS,106,9,89,6,2
+Lincoln,B102,Constable,,,Willie Joe ASHLEY,47,1,45,1,0
+Lincoln,B102,Constable,,,Under Votes,11,0,11,0,0
+Lincoln,B102,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Amy McGRATH,11,3,8,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Charles BOOKER,9,2,7,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Lincoln,B102,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Lincoln,B102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,Daniel CAMERON,28,1,26,1,0
+Lincoln,B103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,Andy BARR,120,8,108,4,0
+Lincoln,B103,U.S. Senate,,Republican,Nate MORRIS,2,0,2,0,0
+Lincoln,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
+Lincoln,B103,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Lincoln,B103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Lincoln,B103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Ballots Cast,,,,175,,,,
+Lincoln,B103,U.S. House,5,Republican,Kevin SMITH,10,0,10,0,0
+Lincoln,B103,U.S. House,5,Republican,Benjamin HURLEY,9,1,8,0,0
+Lincoln,B103,U.S. House,5,Republican,Hal ROGERS,100,9,86,5,0
+Lincoln,B103,U.S. House,5,Republican,Jerry Lee SHELTON,32,0,32,0,0
+Lincoln,B103,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,B103,U.S. House,5,,Under Votes,4,0,4,0,0
+Lincoln,B103,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,B103,County Clerk,,,Shelby Ray LAKES,42,1,39,2,0
+Lincoln,B103,County Clerk,,,Nancy JACKSON,111,8,100,3,0
+Lincoln,B103,County Clerk,,,Under Votes,5,1,4,0,0
+Lincoln,B103,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Sheriff,,,Terry Lane WILCHER,27,0,27,0,0
+Lincoln,B103,Sheriff,,,D. Shawn HINES,126,9,112,5,0
+Lincoln,B103,Sheriff,,,Under Votes,5,1,4,0,0
+Lincoln,B103,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Jailer,,,Griffin D. HARNESS,103,8,91,4,0
+Lincoln,B103,Jailer,,,John R. HASTY,45,2,42,1,0
+Lincoln,B103,Jailer,,,Under Votes,10,0,10,0,0
+Lincoln,B103,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Coroner,,,Farris MARCUM,105,9,91,5,0
+Lincoln,B103,Coroner,,,Glen WARE,41,0,41,0,0
+Lincoln,B103,Coroner,,,Under Votes,12,1,11,0,0
+Lincoln,B103,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Magistrate,,,Dan GUTENSON,127,9,113,5,0
+Lincoln,B103,Magistrate,,,Michael RANKIN,29,1,28,0,0
+Lincoln,B103,Magistrate,,,Under Votes,2,0,2,0,0
+Lincoln,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,B103,Constable,,,Mike MULLINS,90,5,82,3,0
+Lincoln,B103,Constable,,,Willie Joe ASHLEY,57,3,52,2,0
+Lincoln,B103,Constable,,,Under Votes,10,1,9,0,0
+Lincoln,B103,Constable,,,Over Votes,1,1,0,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Amy McGRATH,7,0,7,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Charles BOOKER,3,0,3,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Lincoln,B103,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Lincoln,B103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B104,U.S. Senate,,Republican,Daniel CAMERON,96,16,72,2,6
+Lincoln,B104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Lincoln,B104,U.S. Senate,,Republican,Andy BARR,122,23,90,5,4
+Lincoln,B104,U.S. Senate,,Republican,Nate MORRIS,5,1,2,1,1
+Lincoln,B104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
+Lincoln,B104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,B104,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Lincoln,B104,U.S. Senate,,Republican,Michael James FARIS,3,3,0,0,0
+Lincoln,B104,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Lincoln,B104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,B104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,B104,U.S. Senate,,Republican,George WASHINGTON,6,0,6,0,0
+Lincoln,B104,U.S. Senate,,,Under Votes,5,0,4,0,1
+Lincoln,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Ballots Cast,,,,324,,,,
+Lincoln,B104,U.S. House,5,Republican,Kevin SMITH,14,3,8,0,3
+Lincoln,B104,U.S. House,5,Republican,Benjamin HURLEY,17,5,12,0,0
+Lincoln,B104,U.S. House,5,Republican,Hal ROGERS,173,27,134,7,5
+Lincoln,B104,U.S. House,5,Republican,Jerry Lee SHELTON,26,7,16,0,3
+Lincoln,B104,U.S. House,5,Republican,Brandon R. MONHOLLEN,9,1,7,1,0
+Lincoln,B104,U.S. House,5,,Under Votes,5,1,3,0,1
+Lincoln,B104,U.S. House,5,,Over Votes,1,0,1,0,0
+Lincoln,B104,County Clerk,,,Shelby Ray LAKES,73,9,58,4,2
+Lincoln,B104,County Clerk,,,Nancy JACKSON,172,35,123,4,10
+Lincoln,B104,County Clerk,,,Under Votes,0,0,0,0,0
+Lincoln,B104,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Sheriff,,,Terry Lane WILCHER,40,3,35,1,1
+Lincoln,B104,Sheriff,,,D. Shawn HINES,200,40,142,7,11
+Lincoln,B104,Sheriff,,,Under Votes,5,1,4,0,0
+Lincoln,B104,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Jailer,,,Griffin D. HARNESS,159,29,116,5,9
+Lincoln,B104,Jailer,,,John R. HASTY,66,10,50,3,3
+Lincoln,B104,Jailer,,,Under Votes,20,5,15,0,0
+Lincoln,B104,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Coroner,,,Farris MARCUM,187,30,140,6,11
+Lincoln,B104,Coroner,,,Glen WARE,48,11,34,2,1
+Lincoln,B104,Coroner,,,Under Votes,10,3,7,0,0
+Lincoln,B104,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Magistrate,,,Dan GUTENSON,187,38,132,6,11
+Lincoln,B104,Magistrate,,,Michael RANKIN,51,5,43,2,1
+Lincoln,B104,Magistrate,,,Under Votes,7,1,6,0,0
+Lincoln,B104,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,B104,Constable,,,Mike MULLINS,185,35,134,8,8
+Lincoln,B104,Constable,,,Willie Joe ASHLEY,37,5,29,0,3
+Lincoln,B104,Constable,,,Under Votes,23,4,18,0,1
+Lincoln,B104,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,B104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Lincoln,B104,U.S. Senate,,Democratic,Amy McGRATH,35,13,19,3,0
+Lincoln,B104,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Lincoln,B104,U.S. Senate,,Democratic,Charles BOOKER,23,3,18,0,2
+Lincoln,B104,U.S. Senate,,Democratic,Pamela STEVENSON,6,0,6,0,0
+Lincoln,B104,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,1,2,0,0
+Lincoln,B104,U.S. Senate,,Democratic,Logan FORSYTHE,8,3,4,0,1
+Lincoln,B104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,Republican,Daniel CAMERON,61,10,49,1,1
+Lincoln,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,5,3,2,0,0
+Lincoln,C101,U.S. Senate,,Republican,Andy BARR,114,18,90,4,2
+Lincoln,C101,U.S. Senate,,Republican,Nate MORRIS,4,2,2,0,0
+Lincoln,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,0,4,0,1
+Lincoln,C101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,C101,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
+Lincoln,C101,U.S. Senate,,Republican,Michael James FARIS,4,0,3,0,1
+Lincoln,C101,U.S. Senate,,Republican,Anissa CATLETT,3,1,2,0,0
+Lincoln,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,Republican,George WASHINGTON,2,0,1,0,1
+Lincoln,C101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C101,Ballots Cast,,,,251,,,,
+Lincoln,C101,U.S. House,5,Republican,Kevin SMITH,23,7,14,0,2
+Lincoln,C101,U.S. House,5,Republican,Benjamin HURLEY,10,3,7,0,0
+Lincoln,C101,U.S. House,5,Republican,Hal ROGERS,141,20,114,5,2
+Lincoln,C101,U.S. House,5,Republican,Jerry Lee SHELTON,16,2,13,0,1
+Lincoln,C101,U.S. House,5,Republican,Brandon R. MONHOLLEN,7,3,3,0,1
+Lincoln,C101,U.S. House,5,,Under Votes,4,0,4,0,0
+Lincoln,C101,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,C101,County Clerk,,,Shelby Ray LAKES,65,11,52,0,2
+Lincoln,C101,County Clerk,,,Nancy JACKSON,132,24,99,5,4
+Lincoln,C101,County Clerk,,,Under Votes,4,0,4,0,0
+Lincoln,C101,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,C101,Sheriff,,,Terry Lane WILCHER,45,6,35,3,1
+Lincoln,C101,Sheriff,,,D. Shawn HINES,151,28,116,2,5
+Lincoln,C101,Sheriff,,,Under Votes,5,1,4,0,0
+Lincoln,C101,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,C101,Jailer,,,Griffin D. HARNESS,123,21,99,1,2
+Lincoln,C101,Jailer,,,John R. HASTY,67,13,46,4,4
+Lincoln,C101,Jailer,,,Under Votes,11,1,10,0,0
+Lincoln,C101,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,C101,Coroner,,,Farris MARCUM,143,26,112,2,3
+Lincoln,C101,Coroner,,,Glen WARE,50,8,36,3,3
+Lincoln,C101,Coroner,,,Under Votes,8,1,7,0,0
+Lincoln,C101,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,C101,Constable,,,Delbert MITCHELL,160,27,123,4,6
+Lincoln,C101,Constable,,,Mike NOE,33,6,26,1,0
+Lincoln,C101,Constable,,,Under Votes,8,2,6,0,0
+Lincoln,C101,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,5,0,5,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Amy McGRATH,21,2,16,2,1
+Lincoln,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Charles BOOKER,14,3,11,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,3,2,0
+Lincoln,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,Daniel CAMERON,34,6,25,2,1
+Lincoln,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,Andy BARR,78,2,73,2,1
+Lincoln,C102,U.S. Senate,,Republican,Nate MORRIS,4,0,4,0,0
+Lincoln,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Lincoln,C102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,Michael James FARIS,6,1,5,0,0
+Lincoln,C102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Lincoln,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C102,Ballots Cast,,,,146,,,,
+Lincoln,C102,U.S. House,5,Republican,Kevin SMITH,15,3,11,1,0
+Lincoln,C102,U.S. House,5,Republican,Benjamin HURLEY,3,1,2,0,0
+Lincoln,C102,U.S. House,5,Republican,Hal ROGERS,90,5,81,3,1
+Lincoln,C102,U.S. House,5,Republican,Jerry Lee SHELTON,10,0,9,0,1
+Lincoln,C102,U.S. House,5,Republican,Brandon R. MONHOLLEN,2,0,2,0,0
+Lincoln,C102,U.S. House,5,,Under Votes,4,0,4,0,0
+Lincoln,C102,U.S. House,5,,Over Votes,1,0,1,0,0
+Lincoln,C102,County Clerk,,,Shelby Ray LAKES,40,4,36,0,0
+Lincoln,C102,County Clerk,,,Nancy JACKSON,80,5,69,4,2
+Lincoln,C102,County Clerk,,,Under Votes,5,0,5,0,0
+Lincoln,C102,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,C102,Sheriff,,,Terry Lane WILCHER,29,4,25,0,0
+Lincoln,C102,Sheriff,,,D. Shawn HINES,94,5,83,4,2
+Lincoln,C102,Sheriff,,,Under Votes,2,0,2,0,0
+Lincoln,C102,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,C102,Jailer,,,Griffin D. HARNESS,77,5,66,4,2
+Lincoln,C102,Jailer,,,John R. HASTY,38,4,34,0,0
+Lincoln,C102,Jailer,,,Under Votes,10,0,10,0,0
+Lincoln,C102,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,C102,Coroner,,,Farris MARCUM,79,6,69,3,1
+Lincoln,C102,Coroner,,,Glen WARE,39,3,34,1,1
+Lincoln,C102,Coroner,,,Under Votes,7,0,7,0,0
+Lincoln,C102,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,C102,Constable,,,Delbert MITCHELL,111,7,98,4,2
+Lincoln,C102,Constable,,,Mike NOE,10,2,8,0,0
+Lincoln,C102,Constable,,,Under Votes,4,0,4,0,0
+Lincoln,C102,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Amy McGRATH,9,0,9,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Charles BOOKER,6,0,6,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,C102,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Lincoln,C102,U.S. Senate,,,Under Votes,2,0,2,0,0
+Lincoln,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Republican,Daniel CAMERON,34,4,29,0,1
+Lincoln,C103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Republican,Andy BARR,63,5,54,2,2
+Lincoln,C103,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Lincoln,C103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,,Over Votes,1,0,1,0,0
+Lincoln,C103,Ballots Cast,,,,142,,,,
+Lincoln,C103,U.S. House,5,Republican,Kevin SMITH,11,1,10,0,0
+Lincoln,C103,U.S. House,5,Republican,Benjamin HURLEY,4,0,4,0,0
+Lincoln,C103,U.S. House,5,Republican,Hal ROGERS,70,3,62,2,3
+Lincoln,C103,U.S. House,5,Republican,Jerry Lee SHELTON,17,4,13,0,0
+Lincoln,C103,U.S. House,5,Republican,Brandon R. MONHOLLEN,1,0,1,0,0
+Lincoln,C103,U.S. House,5,,Under Votes,3,1,2,0,0
+Lincoln,C103,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,C103,County Clerk,,,Shelby Ray LAKES,39,3,36,0,0
+Lincoln,C103,County Clerk,,,Nancy JACKSON,65,6,54,2,3
+Lincoln,C103,County Clerk,,,Under Votes,2,0,2,0,0
+Lincoln,C103,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,C103,Sheriff,,,Terry Lane WILCHER,26,2,22,1,1
+Lincoln,C103,Sheriff,,,D. Shawn HINES,78,7,68,1,2
+Lincoln,C103,Sheriff,,,Under Votes,2,0,2,0,0
+Lincoln,C103,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,C103,Jailer,,,Griffin D. HARNESS,59,5,52,0,2
+Lincoln,C103,Jailer,,,John R. HASTY,40,4,33,2,1
+Lincoln,C103,Jailer,,,Under Votes,7,0,7,0,0
+Lincoln,C103,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,C103,Coroner,,,Farris MARCUM,56,4,51,0,1
+Lincoln,C103,Coroner,,,Glen WARE,45,4,37,2,2
+Lincoln,C103,Coroner,,,Under Votes,5,1,4,0,0
+Lincoln,C103,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,C103,Constable,,,Delbert MITCHELL,95,6,84,2,3
+Lincoln,C103,Constable,,,Mike NOE,8,3,5,0,0
+Lincoln,C103,Constable,,,Under Votes,3,0,3,0,0
+Lincoln,C103,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Amy McGRATH,20,2,16,1,1
+Lincoln,C103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Charles BOOKER,6,1,5,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,Daniel CAMERON,31,5,25,0,1
+Lincoln,C104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Lincoln,C104,U.S. Senate,,Republican,Andy BARR,79,12,64,1,2
+Lincoln,C104,U.S. Senate,,Republican,Nate MORRIS,3,0,3,0,0
+Lincoln,C104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,1,1,0,0
+Lincoln,C104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Lincoln,C104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Republican,George WASHINGTON,1,1,0,0,0
+Lincoln,C104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C104,Ballots Cast,,,,152,,,,
+Lincoln,C104,U.S. House,5,Republican,Kevin SMITH,7,0,6,0,1
+Lincoln,C104,U.S. House,5,Republican,Benjamin HURLEY,5,0,4,0,1
+Lincoln,C104,U.S. House,5,Republican,Hal ROGERS,83,16,65,1,1
+Lincoln,C104,U.S. House,5,Republican,Jerry Lee SHELTON,18,2,16,0,0
+Lincoln,C104,U.S. House,5,Republican,Brandon R. MONHOLLEN,1,0,1,0,0
+Lincoln,C104,U.S. House,5,,Under Votes,4,1,3,0,0
+Lincoln,C104,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,C104,County Clerk,,,Shelby Ray LAKES,40,3,35,1,1
+Lincoln,C104,County Clerk,,,Nancy JACKSON,76,16,58,0,2
+Lincoln,C104,County Clerk,,,Under Votes,2,0,2,0,0
+Lincoln,C104,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,C104,Sheriff,,,Terry Lane WILCHER,26,6,18,0,2
+Lincoln,C104,Sheriff,,,D. Shawn HINES,88,13,73,1,1
+Lincoln,C104,Sheriff,,,Under Votes,4,0,4,0,0
+Lincoln,C104,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,C104,Jailer,,,Griffin D. HARNESS,60,9,48,1,2
+Lincoln,C104,Jailer,,,John R. HASTY,50,9,40,0,1
+Lincoln,C104,Jailer,,,Under Votes,8,1,7,0,0
+Lincoln,C104,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,C104,Coroner,,,Farris MARCUM,86,12,70,1,3
+Lincoln,C104,Coroner,,,Glen WARE,27,6,21,0,0
+Lincoln,C104,Coroner,,,Under Votes,5,1,4,0,0
+Lincoln,C104,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,C104,Constable,,,Delbert MITCHELL,80,15,62,1,2
+Lincoln,C104,Constable,,,Mike NOE,29,2,26,0,1
+Lincoln,C104,Constable,,,Under Votes,9,2,7,0,0
+Lincoln,C104,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,0,0,1
+Lincoln,C104,U.S. Senate,,Democratic,Amy McGRATH,13,4,8,0,1
+Lincoln,C104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,C104,U.S. Senate,,Democratic,Charles BOOKER,10,1,8,0,1
+Lincoln,C104,U.S. Senate,,Democratic,Pamela STEVENSON,5,1,4,0,0
+Lincoln,C104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,2,1,0
+Lincoln,C104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,Daniel CAMERON,55,3,48,1,3
+Lincoln,C105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,Andy BARR,89,8,77,1,3
+Lincoln,C105,U.S. Senate,,Republican,Nate MORRIS,5,1,3,0,1
+Lincoln,C105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Lincoln,C105,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,C105,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,Michael James FARIS,8,1,7,0,0
+Lincoln,C105,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Lincoln,C105,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,C105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,C105,Ballots Cast,,,,213,,,,
+Lincoln,C105,U.S. House,5,Republican,Kevin SMITH,16,2,12,0,2
+Lincoln,C105,U.S. House,5,Republican,Benjamin HURLEY,9,0,9,0,0
+Lincoln,C105,U.S. House,5,Republican,Hal ROGERS,107,12,89,2,4
+Lincoln,C105,U.S. House,5,Republican,Jerry Lee SHELTON,18,0,17,0,1
+Lincoln,C105,U.S. House,5,Republican,Brandon R. MONHOLLEN,4,0,4,0,0
+Lincoln,C105,U.S. House,5,,Under Votes,8,0,8,0,0
+Lincoln,C105,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,C105,County Clerk,,,Shelby Ray LAKES,65,6,55,1,3
+Lincoln,C105,County Clerk,,,Nancy JACKSON,92,8,79,1,4
+Lincoln,C105,County Clerk,,,Under Votes,5,0,5,0,0
+Lincoln,C105,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,C105,Sheriff,,,Terry Lane WILCHER,33,0,33,0,0
+Lincoln,C105,Sheriff,,,D. Shawn HINES,122,13,100,2,7
+Lincoln,C105,Sheriff,,,Under Votes,7,1,6,0,0
+Lincoln,C105,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,C105,Jailer,,,Griffin D. HARNESS,102,10,84,2,6
+Lincoln,C105,Jailer,,,John R. HASTY,47,4,42,0,1
+Lincoln,C105,Jailer,,,Under Votes,13,0,13,0,0
+Lincoln,C105,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,C105,Coroner,,,Farris MARCUM,117,11,97,2,7
+Lincoln,C105,Coroner,,,Glen WARE,40,3,37,0,0
+Lincoln,C105,Coroner,,,Under Votes,5,0,5,0,0
+Lincoln,C105,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,C105,Constable,,,Delbert MITCHELL,128,12,111,1,4
+Lincoln,C105,Constable,,,Mike NOE,25,1,20,1,3
+Lincoln,C105,Constable,,,Under Votes,9,1,8,0,0
+Lincoln,C105,Constable,,,Over Votes,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,2,0,0,0
+Lincoln,C105,U.S. Senate,,Democratic,Amy McGRATH,24,5,18,0,1
+Lincoln,C105,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Democratic,Charles BOOKER,19,3,14,1,1
+Lincoln,C105,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Lincoln,C105,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Lincoln,C105,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,C105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,Daniel CAMERON,35,1,30,2,2
+Lincoln,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,Andy BARR,82,7,75,0,0
+Lincoln,D101,U.S. Senate,,Republican,Nate MORRIS,2,0,2,0,0
+Lincoln,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,D101,U.S. Senate,,Republican,James D. DUNCAN,2,1,1,0,0
+Lincoln,D101,U.S. Senate,,Republican,Michael James FARIS,4,0,4,0,0
+Lincoln,D101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Republican,George WASHINGTON,6,0,5,1,0
+Lincoln,D101,U.S. Senate,,,Under Votes,2,1,1,0,0
+Lincoln,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D101,Ballots Cast,,,,171,,,,
+Lincoln,D101,U.S. House,5,Republican,Kevin SMITH,8,1,7,0,0
+Lincoln,D101,U.S. House,5,Republican,Benjamin HURLEY,7,0,7,0,0
+Lincoln,D101,U.S. House,5,Republican,Hal ROGERS,99,6,89,2,2
+Lincoln,D101,U.S. House,5,Republican,Jerry Lee SHELTON,7,0,6,1,0
+Lincoln,D101,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,D101,U.S. House,5,,Under Votes,10,3,7,0,0
+Lincoln,D101,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,D101,County Clerk,,,Shelby Ray LAKES,48,3,44,1,0
+Lincoln,D101,County Clerk,,,Nancy JACKSON,83,7,72,2,2
+Lincoln,D101,County Clerk,,,Under Votes,3,0,3,0,0
+Lincoln,D101,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,D101,Sheriff,,,Terry Lane WILCHER,37,2,35,0,0
+Lincoln,D101,Sheriff,,,D. Shawn HINES,92,7,80,3,2
+Lincoln,D101,Sheriff,,,Under Votes,5,1,4,0,0
+Lincoln,D101,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,D101,Jailer,,,Griffin D. HARNESS,82,9,70,2,1
+Lincoln,D101,Jailer,,,John R. HASTY,44,1,41,1,1
+Lincoln,D101,Jailer,,,Under Votes,8,0,8,0,0
+Lincoln,D101,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,D101,Coroner,,,Farris MARCUM,94,7,83,2,2
+Lincoln,D101,Coroner,,,Glen WARE,32,3,28,1,0
+Lincoln,D101,Coroner,,,Under Votes,8,0,8,0,0
+Lincoln,D101,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,D101,Magistrate,,,Joseph D. STANLEY,30,1,27,2,0
+Lincoln,D101,Magistrate,,,Marvin LANE,56,6,49,1,0
+Lincoln,D101,Magistrate,,,"Eddie ""Popcorn"" BROWN",10,0,10,0,0
+Lincoln,D101,Magistrate,,,Jeff BASTIN,7,1,5,0,1
+Lincoln,D101,Magistrate,,,Bob JEFFRIES,26,1,24,0,1
+Lincoln,D101,Magistrate,,,Under Votes,5,1,4,0,0
+Lincoln,D101,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Amy McGRATH,20,3,16,1,0
+Lincoln,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Charles BOOKER,8,1,7,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Lincoln,D101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Lincoln,D101,U.S. Senate,,,Under Votes,4,0,4,0,0
+Lincoln,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Daniel CAMERON,33,2,31,0,0
+Lincoln,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Andy BARR,70,9,58,0,3
+Lincoln,D102,U.S. Senate,,Republican,Nate MORRIS,7,0,7,0,0
+Lincoln,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Republican,George WASHINGTON,2,0,1,0,1
+Lincoln,D102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Lincoln,D102,U.S. Senate,,,Over Votes,1,0,1,0,0
+Lincoln,D102,Ballots Cast,,,,136,,,,
+Lincoln,D102,U.S. House,5,Republican,Kevin SMITH,9,1,6,0,2
+Lincoln,D102,U.S. House,5,Republican,Benjamin HURLEY,3,0,3,0,0
+Lincoln,D102,U.S. House,5,Republican,Hal ROGERS,77,9,67,0,1
+Lincoln,D102,U.S. House,5,Republican,Jerry Lee SHELTON,15,1,13,0,1
+Lincoln,D102,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,D102,U.S. House,5,,Under Votes,7,0,7,0,0
+Lincoln,D102,U.S. House,5,,Over Votes,2,0,2,0,0
+Lincoln,D102,County Clerk,,,Shelby Ray LAKES,45,5,40,0,0
+Lincoln,D102,County Clerk,,,Nancy JACKSON,70,6,60,0,4
+Lincoln,D102,County Clerk,,,Under Votes,1,0,1,0,0
+Lincoln,D102,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,D102,Sheriff,,,Terry Lane WILCHER,31,6,25,0,0
+Lincoln,D102,Sheriff,,,D. Shawn HINES,84,5,75,0,4
+Lincoln,D102,Sheriff,,,Under Votes,1,0,1,0,0
+Lincoln,D102,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,D102,Jailer,,,Griffin D. HARNESS,59,6,50,0,3
+Lincoln,D102,Jailer,,,John R. HASTY,53,5,47,0,1
+Lincoln,D102,Jailer,,,Under Votes,4,0,4,0,0
+Lincoln,D102,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,D102,Coroner,,,Farris MARCUM,85,6,75,0,4
+Lincoln,D102,Coroner,,,Glen WARE,25,5,20,0,0
+Lincoln,D102,Coroner,,,Under Votes,6,0,6,0,0
+Lincoln,D102,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,D102,Magistrate,,,Joseph D. STANLEY,59,4,52,0,3
+Lincoln,D102,Magistrate,,,Marvin LANE,19,4,15,0,0
+Lincoln,D102,Magistrate,,,"Eddie ""Popcorn"" BROWN",27,2,25,0,0
+Lincoln,D102,Magistrate,,,Jeff BASTIN,2,0,2,0,0
+Lincoln,D102,Magistrate,,,Bob JEFFRIES,9,1,7,0,1
+Lincoln,D102,Magistrate,,,Under Votes,0,0,0,0,0
+Lincoln,D102,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Amy McGRATH,5,0,5,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Charles BOOKER,8,0,8,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,1,1,0,0
+Lincoln,D102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Lincoln,D102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Lincoln,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D103,U.S. Senate,,Republican,Daniel CAMERON,124,7,111,2,4
+Lincoln,D103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,0,3,0,0
+Lincoln,D103,U.S. Senate,,Republican,Andy BARR,211,12,190,5,4
+Lincoln,D103,U.S. Senate,,Republican,Nate MORRIS,8,3,5,0,0
+Lincoln,D103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Lincoln,D103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,D103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Lincoln,D103,U.S. Senate,,Republican,Michael James FARIS,5,2,3,0,0
+Lincoln,D103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Lincoln,D103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,D103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,D103,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Lincoln,D103,U.S. Senate,,,Under Votes,14,0,14,0,0
+Lincoln,D103,U.S. Senate,,,Over Votes,1,0,1,0,0
+Lincoln,D103,Ballots Cast,,,,461,,,,
+Lincoln,D103,U.S. House,5,Republican,Kevin SMITH,43,2,39,0,2
+Lincoln,D103,U.S. House,5,Republican,Benjamin HURLEY,14,1,13,0,0
+Lincoln,D103,U.S. House,5,Republican,Hal ROGERS,252,18,222,7,5
+Lincoln,D103,U.S. House,5,Republican,Jerry Lee SHELTON,20,0,20,0,0
+Lincoln,D103,U.S. House,5,Republican,Brandon R. MONHOLLEN,13,2,11,0,0
+Lincoln,D103,U.S. House,5,,Under Votes,32,2,29,0,1
+Lincoln,D103,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,D103,County Clerk,,,Shelby Ray LAKES,123,5,115,1,2
+Lincoln,D103,County Clerk,,,Nancy JACKSON,225,18,195,6,6
+Lincoln,D103,County Clerk,,,Under Votes,26,2,24,0,0
+Lincoln,D103,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,D103,Sheriff,,,Terry Lane WILCHER,109,6,99,1,3
+Lincoln,D103,Sheriff,,,D. Shawn HINES,237,18,210,4,5
+Lincoln,D103,Sheriff,,,Under Votes,28,1,25,2,0
+Lincoln,D103,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,D103,Jailer,,,Griffin D. HARNESS,236,19,207,2,8
+Lincoln,D103,Jailer,,,John R. HASTY,93,4,87,2,0
+Lincoln,D103,Jailer,,,Under Votes,45,2,40,3,0
+Lincoln,D103,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,D103,Coroner,,,Farris MARCUM,243,21,210,4,8
+Lincoln,D103,Coroner,,,Glen WARE,94,4,90,0,0
+Lincoln,D103,Coroner,,,Under Votes,37,0,34,3,0
+Lincoln,D103,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,D103,Magistrate,,,Joseph D. STANLEY,108,10,91,3,4
+Lincoln,D103,Magistrate,,,Marvin LANE,93,7,86,0,0
+Lincoln,D103,Magistrate,,,"Eddie ""Popcorn"" BROWN",45,3,41,1,0
+Lincoln,D103,Magistrate,,,Jeff BASTIN,46,2,44,0,0
+Lincoln,D103,Magistrate,,,Bob JEFFRIES,76,3,67,2,4
+Lincoln,D103,Magistrate,,,Under Votes,6,0,5,1,0
+Lincoln,D103,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,D103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,1,2,0,0
+Lincoln,D103,U.S. Senate,,Democratic,Amy McGRATH,27,5,21,1,0
+Lincoln,D103,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
+Lincoln,D103,U.S. Senate,,Democratic,Charles BOOKER,31,1,30,0,0
+Lincoln,D103,U.S. Senate,,Democratic,Pamela STEVENSON,11,0,10,0,1
+Lincoln,D103,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,3,0,1
+Lincoln,D103,U.S. Senate,,Democratic,Logan FORSYTHE,5,2,3,0,0
+Lincoln,D103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,Daniel CAMERON,19,0,19,0,0
+Lincoln,D105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Lincoln,D105,U.S. Senate,,Republican,Andy BARR,60,3,49,1,7
+Lincoln,D105,U.S. Senate,,Republican,Nate MORRIS,5,0,5,0,0
+Lincoln,D105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,Michael James FARIS,2,0,1,0,1
+Lincoln,D105,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Lincoln,D105,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,,Under Votes,3,0,3,0,0
+Lincoln,D105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D105,Ballots Cast,,,,123,,,,
+Lincoln,D105,U.S. House,5,Republican,Kevin SMITH,9,0,8,0,1
+Lincoln,D105,U.S. House,5,Republican,Benjamin HURLEY,5,0,5,0,0
+Lincoln,D105,U.S. House,5,Republican,Hal ROGERS,72,4,60,1,7
+Lincoln,D105,U.S. House,5,Republican,Jerry Lee SHELTON,4,0,4,0,0
+Lincoln,D105,U.S. House,5,Republican,Brandon R. MONHOLLEN,1,0,1,0,0
+Lincoln,D105,U.S. House,5,,Under Votes,2,0,2,0,0
+Lincoln,D105,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,D105,County Clerk,,,Shelby Ray LAKES,27,3,23,1,0
+Lincoln,D105,County Clerk,,,Nancy JACKSON,63,1,54,0,8
+Lincoln,D105,County Clerk,,,Under Votes,3,0,3,0,0
+Lincoln,D105,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,D105,Sheriff,,,Terry Lane WILCHER,30,1,27,1,1
+Lincoln,D105,Sheriff,,,D. Shawn HINES,62,3,52,0,7
+Lincoln,D105,Sheriff,,,Under Votes,1,0,1,0,0
+Lincoln,D105,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,D105,Jailer,,,Griffin D. HARNESS,54,3,44,0,7
+Lincoln,D105,Jailer,,,John R. HASTY,33,1,30,1,1
+Lincoln,D105,Jailer,,,Under Votes,6,0,6,0,0
+Lincoln,D105,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,D105,Coroner,,,Farris MARCUM,58,3,47,1,7
+Lincoln,D105,Coroner,,,Glen WARE,32,1,30,0,1
+Lincoln,D105,Coroner,,,Under Votes,3,0,3,0,0
+Lincoln,D105,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,D105,Magistrate,,,Joseph D. STANLEY,38,0,35,0,3
+Lincoln,D105,Magistrate,,,Marvin LANE,13,0,13,0,0
+Lincoln,D105,Magistrate,,,"Eddie ""Popcorn"" BROWN",10,1,7,0,2
+Lincoln,D105,Magistrate,,,Jeff BASTIN,7,0,6,1,0
+Lincoln,D105,Magistrate,,,Bob JEFFRIES,23,3,17,0,3
+Lincoln,D105,Magistrate,,,Under Votes,2,0,2,0,0
+Lincoln,D105,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Amy McGRATH,12,2,8,2,0
+Lincoln,D105,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,0,4,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Charles BOOKER,9,0,9,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Lincoln,D105,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Lincoln,D105,U.S. Senate,,,Under Votes,1,0,1,0,0
+Lincoln,D105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,Daniel CAMERON,51,4,47,0,0
+Lincoln,D106,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,Andy BARR,75,5,70,0,0
+Lincoln,D106,U.S. Senate,,Republican,Nate MORRIS,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Lincoln,D106,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,,Under Votes,3,0,3,0,0
+Lincoln,D106,U.S. Senate,,,Over Votes,0,0,0,0,0
+Lincoln,D106,Ballots Cast,,,,168,,,,
+Lincoln,D106,U.S. House,5,Republican,Kevin SMITH,8,1,7,0,0
+Lincoln,D106,U.S. House,5,Republican,Benjamin HURLEY,2,0,2,0,0
+Lincoln,D106,U.S. House,5,Republican,Hal ROGERS,93,7,86,0,0
+Lincoln,D106,U.S. House,5,Republican,Jerry Lee SHELTON,18,0,18,0,0
+Lincoln,D106,U.S. House,5,Republican,Brandon R. MONHOLLEN,3,0,3,0,0
+Lincoln,D106,U.S. House,5,,Under Votes,11,1,10,0,0
+Lincoln,D106,U.S. House,5,,Over Votes,0,0,0,0,0
+Lincoln,D106,County Clerk,,,Shelby Ray LAKES,42,2,40,0,0
+Lincoln,D106,County Clerk,,,Nancy JACKSON,89,7,82,0,0
+Lincoln,D106,County Clerk,,,Under Votes,4,0,4,0,0
+Lincoln,D106,County Clerk,,,Over Votes,0,0,0,0,0
+Lincoln,D106,Sheriff,,,Terry Lane WILCHER,50,2,48,0,0
+Lincoln,D106,Sheriff,,,D. Shawn HINES,83,7,76,0,0
+Lincoln,D106,Sheriff,,,Under Votes,2,0,2,0,0
+Lincoln,D106,Sheriff,,,Over Votes,0,0,0,0,0
+Lincoln,D106,Jailer,,,Griffin D. HARNESS,85,6,79,0,0
+Lincoln,D106,Jailer,,,John R. HASTY,43,3,40,0,0
+Lincoln,D106,Jailer,,,Under Votes,7,0,7,0,0
+Lincoln,D106,Jailer,,,Over Votes,0,0,0,0,0
+Lincoln,D106,Coroner,,,Farris MARCUM,92,6,86,0,0
+Lincoln,D106,Coroner,,,Glen WARE,34,3,31,0,0
+Lincoln,D106,Coroner,,,Under Votes,9,0,9,0,0
+Lincoln,D106,Coroner,,,Over Votes,0,0,0,0,0
+Lincoln,D106,Magistrate,,,Joseph D. STANLEY,30,1,29,0,0
+Lincoln,D106,Magistrate,,,Marvin LANE,32,1,31,0,0
+Lincoln,D106,Magistrate,,,"Eddie ""Popcorn"" BROWN",55,6,49,0,0
+Lincoln,D106,Magistrate,,,Jeff BASTIN,0,0,0,0,0
+Lincoln,D106,Magistrate,,,Bob JEFFRIES,17,1,16,0,0
+Lincoln,D106,Magistrate,,,Under Votes,1,0,1,0,0
+Lincoln,D106,Magistrate,,,Over Votes,0,0,0,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Amy McGRATH,18,0,18,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Charles BOOKER,6,2,4,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Lincoln,D106,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Lincoln,D106,U.S. Senate,,,Under Votes,1,1,0,0,0
+Lincoln,D106,U.S. Senate,,,Over Votes,0,0,0,0,0

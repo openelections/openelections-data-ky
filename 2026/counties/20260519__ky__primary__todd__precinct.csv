@@ -1,0 +1,566 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Todd,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,A101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Todd,A101,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Todd,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Todd,A101,U.S. Senate,,Republican,Andy BARR,44,3,40,0,1
+Todd,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,A101,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Todd,A101,U.S. Senate,,Republican,Daniel CAMERON,17,6,11,0,0
+Todd,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,A101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Todd,A101,U.S. Senate,,,Under Votes,5,0,4,0,1
+Todd,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,A101,Ballots Cast,,,,124,,,,
+Todd,A101,U.S. House,1,Republican,David SIMS,2,0,2,0,0
+Todd,A101,U.S. House,1,Republican,Robert James SUTHERBY,2,0,2,0,0
+Todd,A101,U.S. House,1,Republican,Penny ARCOS,7,1,6,0,0
+Todd,A101,U.S. House,1,Republican,James R. COMER,60,9,50,0,1
+Todd,A101,U.S. House,1,,Under Votes,9,0,8,0,1
+Todd,A101,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,A101,County Judge/Executive,,,Todd MANSFIELD,67,10,55,0,2
+Todd,A101,County Judge/Executive,,,Kent KNIGHT,12,0,12,0,0
+Todd,A101,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Todd,A101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,A101,Sheriff,,,Mitch FRAZIER,23,3,20,0,0
+Todd,A101,Sheriff,,,Patrick TURNER,54,7,45,0,2
+Todd,A101,Sheriff,,,Under Votes,3,0,3,0,0
+Todd,A101,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,A101,Jailer,,,Jeff PENICK,48,7,40,0,1
+Todd,A101,Jailer,,,Michael TRIMMER,23,2,20,0,1
+Todd,A101,Jailer,,,Under Votes,9,1,8,0,0
+Todd,A101,Jailer,,,Over Votes,0,0,0,0,0
+Todd,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,8,0,8,0,0
+Todd,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,6,1,5,0,0
+Todd,A101,U.S. Senate,,Democratic,Charles BOOKER,9,0,9,0,0
+Todd,A101,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Todd,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,A101,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
+Todd,A101,U.S. Senate,,Democratic,Amy McGRATH,11,1,10,0,0
+Todd,A101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Todd,A101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Todd,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,A102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Todd,A102,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
+Todd,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Todd,A102,U.S. Senate,,Republican,Andy BARR,39,5,34,0,0
+Todd,A102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,A102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,A102,U.S. Senate,,Republican,Daniel CAMERON,19,1,18,0,0
+Todd,A102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,A102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Todd,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Todd,A102,U.S. Senate,,,Under Votes,4,0,4,0,0
+Todd,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,A102,Ballots Cast,,,,114,,,,
+Todd,A102,U.S. House,1,Republican,David SIMS,4,0,4,0,0
+Todd,A102,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Todd,A102,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Todd,A102,U.S. House,1,Republican,James R. COMER,68,7,60,0,1
+Todd,A102,U.S. House,1,,Under Votes,5,0,5,0,0
+Todd,A102,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,A102,County Judge/Executive,,,Todd MANSFIELD,61,4,57,0,0
+Todd,A102,County Judge/Executive,,,Kent KNIGHT,15,3,11,0,1
+Todd,A102,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Todd,A102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,A102,Sheriff,,,Mitch FRAZIER,26,4,22,0,0
+Todd,A102,Sheriff,,,Patrick TURNER,51,3,47,0,1
+Todd,A102,Sheriff,,,Under Votes,1,0,1,0,0
+Todd,A102,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,A102,Jailer,,,Jeff PENICK,46,3,42,0,1
+Todd,A102,Jailer,,,Michael TRIMMER,30,3,27,0,0
+Todd,A102,Jailer,,,Under Votes,2,1,1,0,0
+Todd,A102,Jailer,,,Over Votes,0,0,0,0,0
+Todd,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Todd,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Todd,A102,U.S. Senate,,Democratic,Charles BOOKER,12,1,11,0,0
+Todd,A102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Todd,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,A102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Todd,A102,U.S. Senate,,Democratic,Amy McGRATH,13,2,8,2,1
+Todd,A102,U.S. Senate,,,Under Votes,2,0,0,0,2
+Todd,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Todd,A103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,Andy BARR,20,3,15,0,2
+Todd,A103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,A103,U.S. Senate,,Republican,Daniel CAMERON,11,2,9,0,0
+Todd,A103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Todd,A103,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Todd,A103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,1,0,0,0
+Todd,A103,U.S. Senate,,,Under Votes,5,1,4,0,0
+Todd,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,A103,Ballots Cast,,,,67,,,,
+Todd,A103,U.S. House,1,Republican,David SIMS,2,0,2,0,0
+Todd,A103,U.S. House,1,Republican,Robert James SUTHERBY,2,0,1,0,1
+Todd,A103,U.S. House,1,Republican,Penny ARCOS,1,0,1,0,0
+Todd,A103,U.S. House,1,Republican,James R. COMER,33,6,26,0,1
+Todd,A103,U.S. House,1,,Under Votes,7,1,6,0,0
+Todd,A103,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,A103,County Judge/Executive,,,Todd MANSFIELD,27,6,19,0,2
+Todd,A103,County Judge/Executive,,,Kent KNIGHT,16,1,15,0,0
+Todd,A103,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Todd,A103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,A103,Sheriff,,,Mitch FRAZIER,15,1,13,0,1
+Todd,A103,Sheriff,,,Patrick TURNER,29,5,23,0,1
+Todd,A103,Sheriff,,,Under Votes,1,1,0,0,0
+Todd,A103,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,A103,Jailer,,,Jeff PENICK,16,3,12,0,1
+Todd,A103,Jailer,,,Michael TRIMMER,26,3,22,0,1
+Todd,A103,Jailer,,,Under Votes,3,1,2,0,0
+Todd,A103,Jailer,,,Over Votes,0,0,0,0,0
+Todd,A103,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Todd,A103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Todd,A103,U.S. Senate,,Democratic,Charles BOOKER,7,1,6,0,0
+Todd,A103,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Todd,A103,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,A103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Todd,A103,U.S. Senate,,Democratic,Amy McGRATH,10,2,8,0,0
+Todd,A103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Todd,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,B101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Todd,B101,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Todd,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Todd,B101,U.S. Senate,,Republican,Andy BARR,72,9,63,0,0
+Todd,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,B101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,B101,U.S. Senate,,Republican,Daniel CAMERON,36,4,32,0,0
+Todd,B101,U.S. Senate,,Republican,Anissa CATLETT,2,1,1,0,0
+Todd,B101,U.S. Senate,,Republican,Michael James FARIS,6,0,6,0,0
+Todd,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Todd,B101,U.S. Senate,,,Under Votes,7,0,7,0,0
+Todd,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B101,Ballots Cast,,,,186,,,,
+Todd,B101,U.S. House,1,Republican,David SIMS,6,0,6,0,0
+Todd,B101,U.S. House,1,Republican,Robert James SUTHERBY,3,0,3,0,0
+Todd,B101,U.S. House,1,Republican,Penny ARCOS,6,3,3,0,0
+Todd,B101,U.S. House,1,Republican,James R. COMER,114,12,102,0,0
+Todd,B101,U.S. House,1,,Under Votes,10,0,10,0,0
+Todd,B101,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,B101,County Judge/Executive,,,Todd MANSFIELD,108,12,96,0,0
+Todd,B101,County Judge/Executive,,,Kent KNIGHT,28,3,25,0,0
+Todd,B101,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Todd,B101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,B101,Sheriff,,,Mitch FRAZIER,41,7,34,0,0
+Todd,B101,Sheriff,,,Patrick TURNER,97,8,89,0,0
+Todd,B101,Sheriff,,,Under Votes,1,0,1,0,0
+Todd,B101,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,B101,Jailer,,,Jeff PENICK,60,7,53,0,0
+Todd,B101,Jailer,,,Michael TRIMMER,75,8,67,0,0
+Todd,B101,Jailer,,,Under Votes,4,0,4,0,0
+Todd,B101,Jailer,,,Over Votes,0,0,0,0,0
+Todd,B101,Magistrate,,,Curt BOLEY,29,4,25,0,0
+Todd,B101,Magistrate,,,Brad FORTNER,51,7,44,0,0
+Todd,B101,Magistrate,,,Travis K. COMBS,18,1,17,0,0
+Todd,B101,Magistrate,,,Kathy Jo MORGAN,41,3,38,0,0
+Todd,B101,Magistrate,,,Under Votes,0,0,0,0,0
+Todd,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,5,0,5,0,0
+Todd,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Todd,B101,U.S. Senate,,Democratic,Charles BOOKER,12,3,9,0,0
+Todd,B101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Todd,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Todd,B101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Todd,B101,U.S. Senate,,Democratic,Amy McGRATH,17,0,17,0,0
+Todd,B101,U.S. Senate,,,Under Votes,10,0,10,0,0
+Todd,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,James D. DUNCAN,10,0,10,0,0
+Todd,B102,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Todd,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Todd,B102,U.S. Senate,,Republican,Andy BARR,45,4,41,0,0
+Todd,B102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,Daniel CAMERON,23,0,23,0,0
+Todd,B102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Todd,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Todd,B102,U.S. Senate,,,Under Votes,8,0,8,0,0
+Todd,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B102,Ballots Cast,,,,158,,,,
+Todd,B102,U.S. House,1,Republican,David SIMS,10,0,10,0,0
+Todd,B102,U.S. House,1,Republican,Robert James SUTHERBY,6,0,5,1,0
+Todd,B102,U.S. House,1,Republican,Penny ARCOS,3,0,3,0,0
+Todd,B102,U.S. House,1,Republican,James R. COMER,81,4,77,0,0
+Todd,B102,U.S. House,1,,Under Votes,7,0,7,0,0
+Todd,B102,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,B102,County Judge/Executive,,,Todd MANSFIELD,91,4,86,1,0
+Todd,B102,County Judge/Executive,,,Kent KNIGHT,13,0,13,0,0
+Todd,B102,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Todd,B102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,B102,Sheriff,,,Mitch FRAZIER,14,0,13,1,0
+Todd,B102,Sheriff,,,Patrick TURNER,92,4,88,0,0
+Todd,B102,Sheriff,,,Under Votes,1,0,1,0,0
+Todd,B102,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,B102,Jailer,,,Jeff PENICK,74,1,73,0,0
+Todd,B102,Jailer,,,Michael TRIMMER,30,3,26,1,0
+Todd,B102,Jailer,,,Under Votes,3,0,3,0,0
+Todd,B102,Jailer,,,Over Votes,0,0,0,0,0
+Todd,B102,Magistrate,,,Curt BOLEY,30,0,30,0,0
+Todd,B102,Magistrate,,,Brad FORTNER,27,0,27,0,0
+Todd,B102,Magistrate,,,Travis K. COMBS,26,2,24,0,0
+Todd,B102,Magistrate,,,Kathy Jo MORGAN,22,2,19,1,0
+Todd,B102,Magistrate,,,Under Votes,2,0,2,0,0
+Todd,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Todd,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Todd,B102,U.S. Senate,,Democratic,Charles BOOKER,6,0,5,1,0
+Todd,B102,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
+Todd,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Todd,B102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,5,0,0
+Todd,B102,U.S. Senate,,Democratic,Amy McGRATH,19,1,18,0,0
+Todd,B102,U.S. Senate,,,Under Votes,12,0,10,0,2
+Todd,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Todd,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,Andy BARR,16,1,13,0,2
+Todd,B103,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Todd,B103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,Daniel CAMERON,12,0,12,0,0
+Todd,B103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Todd,B103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Todd,B103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Todd,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B103,Ballots Cast,,,,64,,,,
+Todd,B103,U.S. House,1,Republican,David SIMS,1,0,1,0,0
+Todd,B103,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Todd,B103,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Todd,B103,U.S. House,1,Republican,James R. COMER,31,1,28,0,2
+Todd,B103,U.S. House,1,,Under Votes,2,0,2,0,0
+Todd,B103,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,B103,County Judge/Executive,,,Todd MANSFIELD,34,1,31,0,2
+Todd,B103,County Judge/Executive,,,Kent KNIGHT,1,0,1,0,0
+Todd,B103,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Todd,B103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,B103,Sheriff,,,Mitch FRAZIER,5,0,4,0,1
+Todd,B103,Sheriff,,,Patrick TURNER,30,1,28,0,1
+Todd,B103,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,B103,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,B103,Jailer,,,Jeff PENICK,27,1,24,0,2
+Todd,B103,Jailer,,,Michael TRIMMER,7,0,7,0,0
+Todd,B103,Jailer,,,Under Votes,1,0,1,0,0
+Todd,B103,Jailer,,,Over Votes,0,0,0,0,0
+Todd,B103,Magistrate,,,Curt BOLEY,13,0,13,0,0
+Todd,B103,Magistrate,,,Brad FORTNER,6,0,6,0,0
+Todd,B103,Magistrate,,,Travis K. COMBS,5,0,4,0,1
+Todd,B103,Magistrate,,,Kathy Jo MORGAN,11,1,9,0,1
+Todd,B103,Magistrate,,,Under Votes,0,0,0,0,0
+Todd,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Todd,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Todd,B103,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
+Todd,B103,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
+Todd,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Todd,B103,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Todd,B103,U.S. Senate,,Democratic,Amy McGRATH,12,0,12,0,0
+Todd,B103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Todd,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Todd,B104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,Andy BARR,16,2,14,0,0
+Todd,B104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,Daniel CAMERON,1,0,1,0,0
+Todd,B104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,B104,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,B104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Todd,B104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Todd,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,B104,Ballots Cast,,,,34,,,,
+Todd,B104,U.S. House,1,Republican,David SIMS,1,0,1,0,0
+Todd,B104,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Todd,B104,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Todd,B104,U.S. House,1,Republican,James R. COMER,19,2,17,0,0
+Todd,B104,U.S. House,1,,Under Votes,2,0,2,0,0
+Todd,B104,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,B104,County Judge/Executive,,,Todd MANSFIELD,18,1,17,0,0
+Todd,B104,County Judge/Executive,,,Kent KNIGHT,3,1,2,0,0
+Todd,B104,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Todd,B104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,B104,Sheriff,,,Mitch FRAZIER,3,1,2,0,0
+Todd,B104,Sheriff,,,Patrick TURNER,20,1,19,0,0
+Todd,B104,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,B104,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,B104,Jailer,,,Jeff PENICK,16,2,14,0,0
+Todd,B104,Jailer,,,Michael TRIMMER,6,0,6,0,0
+Todd,B104,Jailer,,,Under Votes,1,0,1,0,0
+Todd,B104,Jailer,,,Over Votes,0,0,0,0,0
+Todd,B104,Magistrate,,,Curt BOLEY,11,1,10,0,0
+Todd,B104,Magistrate,,,Brad FORTNER,5,0,5,0,0
+Todd,B104,Magistrate,,,Travis K. COMBS,2,1,1,0,0
+Todd,B104,Magistrate,,,Kathy Jo MORGAN,4,0,4,0,0
+Todd,B104,Magistrate,,,Under Votes,1,0,1,0,0
+Todd,B104,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,B104,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,1,0,0,0
+Todd,B104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Todd,B104,U.S. Senate,,Democratic,Charles BOOKER,1,0,1,0,0
+Todd,B104,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Todd,B104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Todd,B104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Todd,B104,U.S. Senate,,Democratic,Amy McGRATH,7,0,7,0,0
+Todd,B104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Todd,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,C101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Todd,C101,U.S. Senate,,Republican,George WASHINGTON,3,1,2,0,0
+Todd,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,C101,U.S. Senate,,Republican,Andy BARR,90,25,62,2,1
+Todd,C101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Todd,C101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Todd,C101,U.S. Senate,,Republican,Daniel CAMERON,33,3,30,0,0
+Todd,C101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Todd,C101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Todd,C101,U.S. Senate,,,Under Votes,8,2,6,0,0
+Todd,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,C101,Ballots Cast,,,,254,,,,
+Todd,C101,U.S. House,1,Republican,David SIMS,8,1,7,0,0
+Todd,C101,U.S. House,1,Republican,Robert James SUTHERBY,8,1,7,0,0
+Todd,C101,U.S. House,1,Republican,Penny ARCOS,2,0,2,0,0
+Todd,C101,U.S. House,1,Republican,James R. COMER,117,29,85,2,1
+Todd,C101,U.S. House,1,,Under Votes,13,3,10,0,0
+Todd,C101,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,C101,County Judge/Executive,,,Todd MANSFIELD,127,32,94,0,1
+Todd,C101,County Judge/Executive,,,Kent KNIGHT,19,1,16,2,0
+Todd,C101,County Judge/Executive,,,Under Votes,2,1,1,0,0
+Todd,C101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,C101,Sheriff,,,Mitch FRAZIER,39,7,30,2,0
+Todd,C101,Sheriff,,,Patrick TURNER,102,24,77,0,1
+Todd,C101,Sheriff,,,Under Votes,7,3,4,0,0
+Todd,C101,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,C101,Jailer,,,Jeff PENICK,100,26,73,0,1
+Todd,C101,Jailer,,,Michael TRIMMER,44,8,34,2,0
+Todd,C101,Jailer,,,Under Votes,4,0,4,0,0
+Todd,C101,Jailer,,,Over Votes,0,0,0,0,0
+Todd,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,5,0,5,0,0
+Todd,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,6,0,6,0,0
+Todd,C101,U.S. Senate,,Democratic,Charles BOOKER,35,5,30,0,0
+Todd,C101,U.S. Senate,,Democratic,Pamela STEVENSON,7,0,7,0,0
+Todd,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,0,6,0,0
+Todd,C101,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
+Todd,C101,U.S. Senate,,Democratic,Amy McGRATH,35,5,29,1,0
+Todd,C101,U.S. Senate,,,Under Votes,7,1,6,0,0
+Todd,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,C102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Todd,C102,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Todd,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,0,4,0,0
+Todd,C102,U.S. Senate,,Republican,Andy BARR,60,1,59,0,0
+Todd,C102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,C102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Todd,C102,U.S. Senate,,Republican,Daniel CAMERON,11,1,10,0,0
+Todd,C102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,C102,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Todd,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Todd,C102,U.S. Senate,,,Under Votes,4,0,4,0,0
+Todd,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,C102,Ballots Cast,,,,146,,,,
+Todd,C102,U.S. House,1,Republican,David SIMS,6,1,5,0,0
+Todd,C102,U.S. House,1,Republican,Robert James SUTHERBY,5,0,5,0,0
+Todd,C102,U.S. House,1,Republican,Penny ARCOS,1,0,1,0,0
+Todd,C102,U.S. House,1,Republican,James R. COMER,72,1,71,0,0
+Todd,C102,U.S. House,1,,Under Votes,3,0,3,0,0
+Todd,C102,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,C102,County Judge/Executive,,,Todd MANSFIELD,76,2,74,0,0
+Todd,C102,County Judge/Executive,,,Kent KNIGHT,9,0,9,0,0
+Todd,C102,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Todd,C102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,C102,Sheriff,,,Mitch FRAZIER,26,0,26,0,0
+Todd,C102,Sheriff,,,Patrick TURNER,60,2,58,0,0
+Todd,C102,Sheriff,,,Under Votes,1,0,1,0,0
+Todd,C102,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,C102,Jailer,,,Jeff PENICK,69,2,67,0,0
+Todd,C102,Jailer,,,Michael TRIMMER,14,0,14,0,0
+Todd,C102,Jailer,,,Under Votes,4,0,4,0,0
+Todd,C102,Jailer,,,Over Votes,0,0,0,0,0
+Todd,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,9,0,9,0,0
+Todd,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Todd,C102,U.S. Senate,,Democratic,Charles BOOKER,8,1,7,0,0
+Todd,C102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Todd,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Todd,C102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Todd,C102,U.S. Senate,,Democratic,Amy McGRATH,31,2,29,0,0
+Todd,C102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Todd,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,Andy BARR,14,5,9,0,0
+Todd,D101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Todd,D101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,Daniel CAMERON,10,1,9,0,0
+Todd,D101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,D101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Todd,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Todd,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,D101,Ballots Cast,,,,55,,,,
+Todd,D101,U.S. House,1,Republican,David SIMS,0,0,0,0,0
+Todd,D101,U.S. House,1,Republican,Robert James SUTHERBY,3,0,3,0,0
+Todd,D101,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Todd,D101,U.S. House,1,Republican,James R. COMER,25,8,17,0,0
+Todd,D101,U.S. House,1,,Under Votes,1,0,1,0,0
+Todd,D101,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,D101,County Judge/Executive,,,Todd MANSFIELD,25,7,18,0,0
+Todd,D101,County Judge/Executive,,,Kent KNIGHT,3,0,3,0,0
+Todd,D101,County Judge/Executive,,,Under Votes,1,1,0,0,0
+Todd,D101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,D101,Sheriff,,,Mitch FRAZIER,15,5,10,0,0
+Todd,D101,Sheriff,,,Patrick TURNER,14,3,11,0,0
+Todd,D101,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,D101,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,D101,Jailer,,,Jeff PENICK,21,5,16,0,0
+Todd,D101,Jailer,,,Michael TRIMMER,7,2,5,0,0
+Todd,D101,Jailer,,,Under Votes,1,1,0,0,0
+Todd,D101,Jailer,,,Over Votes,0,0,0,0,0
+Todd,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Todd,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Todd,D101,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
+Todd,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,1,0,1
+Todd,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,D101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Todd,D101,U.S. Senate,,Democratic,Amy McGRATH,13,1,12,0,0
+Todd,D101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Todd,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Todd,D101,Magistrate,,,"William ""Pete Cole"" DRANE",8,0,8,0,0
+Todd,D101,Magistrate,,,"Cynthia ""Cindy"" McKINNEY",17,1,15,0,1
+Todd,D101,Magistrate,,,Under Votes,1,0,1,0,0
+Todd,D101,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,D102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Todd,D102,U.S. Senate,,Republican,James D. DUNCAN,5,0,5,0,0
+Todd,D102,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Todd,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Todd,D102,U.S. Senate,,Republican,Andy BARR,133,29,101,0,3
+Todd,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,D102,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Todd,D102,U.S. Senate,,Republican,Daniel CAMERON,29,2,27,0,0
+Todd,D102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Todd,D102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Todd,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,1,3,0,0
+Todd,D102,U.S. Senate,,,Under Votes,7,0,7,0,0
+Todd,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,D102,Ballots Cast,,,,365,,,,
+Todd,D102,U.S. House,1,Republican,David SIMS,10,0,10,0,0
+Todd,D102,U.S. House,1,Republican,Robert James SUTHERBY,9,0,9,0,0
+Todd,D102,U.S. House,1,Republican,Penny ARCOS,4,0,4,0,0
+Todd,D102,U.S. House,1,Republican,James R. COMER,168,32,133,0,3
+Todd,D102,U.S. House,1,,Under Votes,10,0,10,0,0
+Todd,D102,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,D102,County Judge/Executive,,,Todd MANSFIELD,165,27,135,0,3
+Todd,D102,County Judge/Executive,,,Kent KNIGHT,35,5,30,0,0
+Todd,D102,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Todd,D102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,D102,Sheriff,,,Mitch FRAZIER,59,8,51,0,0
+Todd,D102,Sheriff,,,Patrick TURNER,142,24,115,0,3
+Todd,D102,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,D102,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,D102,Jailer,,,Jeff PENICK,133,21,109,0,3
+Todd,D102,Jailer,,,Michael TRIMMER,63,10,53,0,0
+Todd,D102,Jailer,,,Under Votes,5,1,4,0,0
+Todd,D102,Jailer,,,Over Votes,0,0,0,0,0
+Todd,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,10,0,10,0,0
+Todd,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Todd,D102,U.S. Senate,,Democratic,Charles BOOKER,51,6,45,0,0
+Todd,D102,U.S. Senate,,Democratic,Pamela STEVENSON,11,0,11,0,0
+Todd,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,1,4,0,0
+Todd,D102,U.S. Senate,,Democratic,Logan FORSYTHE,12,4,8,0,0
+Todd,D102,U.S. Senate,,Democratic,Amy McGRATH,55,9,44,1,1
+Todd,D102,U.S. Senate,,,Under Votes,17,6,11,0,0
+Todd,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,D102,Magistrate,,,"William ""Pete Cole"" DRANE",49,8,40,1,0
+Todd,D102,Magistrate,,,"Cynthia ""Cindy"" McKINNEY",114,17,96,0,1
+Todd,D102,Magistrate,,,Under Votes,1,1,0,0,0
+Todd,D102,Magistrate,,,Over Votes,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,Andy BARR,43,4,39,0,0
+Todd,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,Daniel CAMERON,7,1,6,0,0
+Todd,E101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,E101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Todd,E101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Todd,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,E101,Ballots Cast,,,,106,,,,
+Todd,E101,U.S. House,1,Republican,David SIMS,2,0,2,0,0
+Todd,E101,U.S. House,1,Republican,Robert James SUTHERBY,2,0,2,0,0
+Todd,E101,U.S. House,1,Republican,Penny ARCOS,1,0,1,0,0
+Todd,E101,U.S. House,1,Republican,James R. COMER,44,6,38,0,0
+Todd,E101,U.S. House,1,,Under Votes,8,0,8,0,0
+Todd,E101,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,E101,County Judge/Executive,,,Todd MANSFIELD,43,3,40,0,0
+Todd,E101,County Judge/Executive,,,Kent KNIGHT,10,2,8,0,0
+Todd,E101,County Judge/Executive,,,Under Votes,4,1,3,0,0
+Todd,E101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,E101,Sheriff,,,Mitch FRAZIER,23,2,21,0,0
+Todd,E101,Sheriff,,,Patrick TURNER,34,4,30,0,0
+Todd,E101,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,E101,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,E101,Jailer,,,Jeff PENICK,37,3,34,0,0
+Todd,E101,Jailer,,,Michael TRIMMER,20,3,17,0,0
+Todd,E101,Jailer,,,Under Votes,0,0,0,0,0
+Todd,E101,Jailer,,,Over Votes,0,0,0,0,0
+Todd,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Todd,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Todd,E101,U.S. Senate,,Democratic,Charles BOOKER,9,0,9,0,0
+Todd,E101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Todd,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,E101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Todd,E101,U.S. Senate,,Democratic,Amy McGRATH,27,3,24,0,0
+Todd,E101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Todd,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,E102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Todd,E102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Todd,E102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Todd,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Todd,E102,U.S. Senate,,Republican,Andy BARR,25,1,24,0,0
+Todd,E102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Todd,E102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Todd,E102,U.S. Senate,,Republican,Daniel CAMERON,6,0,6,0,0
+Todd,E102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Todd,E102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Todd,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Todd,E102,U.S. Senate,,,Under Votes,9,0,9,0,0
+Todd,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Todd,E102,Ballots Cast,,,,82,,,,
+Todd,E102,U.S. House,1,Republican,David SIMS,7,0,7,0,0
+Todd,E102,U.S. House,1,Republican,Robert James SUTHERBY,4,0,4,0,0
+Todd,E102,U.S. House,1,Republican,Penny ARCOS,3,0,3,0,0
+Todd,E102,U.S. House,1,Republican,James R. COMER,24,1,23,0,0
+Todd,E102,U.S. House,1,,Under Votes,13,0,13,0,0
+Todd,E102,U.S. House,1,,Over Votes,0,0,0,0,0
+Todd,E102,County Judge/Executive,,,Todd MANSFIELD,30,1,29,0,0
+Todd,E102,County Judge/Executive,,,Kent KNIGHT,15,0,15,0,0
+Todd,E102,County Judge/Executive,,,Under Votes,6,0,6,0,0
+Todd,E102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Todd,E102,Sheriff,,,Mitch FRAZIER,27,0,27,0,0
+Todd,E102,Sheriff,,,Patrick TURNER,24,1,23,0,0
+Todd,E102,Sheriff,,,Under Votes,0,0,0,0,0
+Todd,E102,Sheriff,,,Over Votes,0,0,0,0,0
+Todd,E102,Jailer,,,Jeff PENICK,28,1,27,0,0
+Todd,E102,Jailer,,,Michael TRIMMER,21,0,21,0,0
+Todd,E102,Jailer,,,Under Votes,2,0,2,0,0
+Todd,E102,Jailer,,,Over Votes,0,0,0,0,0
+Todd,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Todd,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Todd,E102,U.S. Senate,,Democratic,Charles BOOKER,8,0,8,0,0
+Todd,E102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Todd,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Todd,E102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Todd,E102,U.S. Senate,,Democratic,Amy McGRATH,11,1,10,0,0
+Todd,E102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Todd,E102,U.S. Senate,,,Over Votes,0,0,0,0,0

@@ -1,0 +1,930 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Taylor,A101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Taylor,A101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Taylor,A101,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
+Taylor,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,A101,U.S. Senate,,Republican,Andy BARR,70,15,55,0,0
+Taylor,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Republican,Daniel CAMERON,46,8,38,0,0
+Taylor,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Republican,Michael James FARIS,5,0,5,0,0
+Taylor,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Taylor,A101,U.S. Senate,,,Under Votes,15,5,10,0,0
+Taylor,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,A101,Ballots Cast,,,,165,,,,
+Taylor,A101,U.S. House,1,Republican,David SIMS,8,0,8,0,0
+Taylor,A101,U.S. House,1,Republican,Robert James SUTHERBY,7,3,4,0,0
+Taylor,A101,U.S. House,1,Republican,Penny ARCOS,2,1,1,0,0
+Taylor,A101,U.S. House,1,Republican,James R. COMER,113,22,91,0,0
+Taylor,A101,U.S. House,1,,Under Votes,17,3,14,0,0
+Taylor,A101,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,A101,County Judge/Executive,,,Chris BUCKMAN,68,14,54,0,0
+Taylor,A101,County Judge/Executive,,,Barry SMITH,72,14,58,0,0
+Taylor,A101,County Judge/Executive,,,Under Votes,7,1,6,0,0
+Taylor,A101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,A101,Jailer,,,Gregory C. OGDEN,21,2,19,0,0
+Taylor,A101,Jailer,,,"Eddie ""Hack"" MARCUM",118,27,91,0,0
+Taylor,A101,Jailer,,,Under Votes,8,0,8,0,0
+Taylor,A101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,A101,Magistrate,,,Bobby KIRTLEY,96,25,71,0,0
+Taylor,A101,Magistrate,,,Ethan CARNEY,48,4,44,0,0
+Taylor,A101,Magistrate,,,Under Votes,3,0,3,0,0
+Taylor,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,1,0,0,0
+Taylor,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Taylor,A101,U.S. Senate,,Democratic,Charles BOOKER,7,2,5,0,0
+Taylor,A101,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,0,1,0
+Taylor,A101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,A101,U.S. Senate,,Democratic,Amy McGRATH,7,2,3,2,0
+Taylor,A101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Taylor,A102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Taylor,A102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,A102,U.S. Senate,,Republican,Andy BARR,136,15,119,0,2
+Taylor,A102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Republican,Daniel CAMERON,73,12,60,0,1
+Taylor,A102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,A102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Taylor,A102,U.S. Senate,,,Under Votes,8,3,5,0,0
+Taylor,A102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,A102,Ballots Cast,,,,271,,,,
+Taylor,A102,U.S. House,1,Republican,David SIMS,11,0,11,0,0
+Taylor,A102,U.S. House,1,Republican,Robert James SUTHERBY,9,0,9,0,0
+Taylor,A102,U.S. House,1,Republican,Penny ARCOS,6,1,5,0,0
+Taylor,A102,U.S. House,1,Republican,James R. COMER,190,26,161,0,3
+Taylor,A102,U.S. House,1,,Under Votes,13,3,10,0,0
+Taylor,A102,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,A102,County Judge/Executive,,,Chris BUCKMAN,102,15,85,0,2
+Taylor,A102,County Judge/Executive,,,Barry SMITH,123,14,108,0,1
+Taylor,A102,County Judge/Executive,,,Under Votes,4,1,3,0,0
+Taylor,A102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,A102,Jailer,,,Gregory C. OGDEN,23,1,22,0,0
+Taylor,A102,Jailer,,,"Eddie ""Hack"" MARCUM",205,29,173,0,3
+Taylor,A102,Jailer,,,Under Votes,1,0,1,0,0
+Taylor,A102,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,A102,Magistrate,,,Bobby KIRTLEY,100,18,79,0,3
+Taylor,A102,Magistrate,,,Ethan CARNEY,126,12,114,0,0
+Taylor,A102,Magistrate,,,Under Votes,3,0,3,0,0
+Taylor,A102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,A102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,A102,U.S. Senate,,Democratic,Charles BOOKER,10,6,4,0,0
+Taylor,A102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Taylor,A102,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Taylor,A102,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Taylor,A102,U.S. Senate,,Democratic,Amy McGRATH,23,3,20,0,0
+Taylor,A102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,A102,U.S. Senate,,,Over Votes,3,0,3,0,0
+Taylor,A104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,A104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,A104,U.S. Senate,,Republican,George WASHINGTON,8,0,8,0,0
+Taylor,A104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Taylor,A104,U.S. Senate,,Republican,Andy BARR,201,51,146,4,0
+Taylor,A104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,A104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,A104,U.S. Senate,,Republican,Daniel CAMERON,139,23,111,4,1
+Taylor,A104,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Taylor,A104,U.S. Senate,,Republican,Michael James FARIS,5,0,5,0,0
+Taylor,A104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,0,3,0,0
+Taylor,A104,U.S. Senate,,,Under Votes,10,3,7,0,0
+Taylor,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,A104,Ballots Cast,,,,526,,,,
+Taylor,A104,U.S. House,1,Republican,David SIMS,26,4,22,0,0
+Taylor,A104,U.S. House,1,Republican,Robert James SUTHERBY,10,2,7,0,1
+Taylor,A104,U.S. House,1,Republican,Penny ARCOS,4,2,2,0,0
+Taylor,A104,U.S. House,1,Republican,James R. COMER,311,66,238,7,0
+Taylor,A104,U.S. House,1,,Under Votes,28,7,20,1,0
+Taylor,A104,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,A104,County Judge/Executive,,,Chris BUCKMAN,127,25,98,3,1
+Taylor,A104,County Judge/Executive,,,Barry SMITH,231,51,176,4,0
+Taylor,A104,County Judge/Executive,,,Under Votes,21,5,15,1,0
+Taylor,A104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,A104,Jailer,,,Gregory C. OGDEN,42,9,33,0,0
+Taylor,A104,Jailer,,,"Eddie ""Hack"" MARCUM",302,64,229,8,1
+Taylor,A104,Jailer,,,Under Votes,35,8,27,0,0
+Taylor,A104,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,A104,Magistrate,,,Bobby KIRTLEY,154,43,108,3,0
+Taylor,A104,Magistrate,,,Ethan CARNEY,207,34,168,5,0
+Taylor,A104,Magistrate,,,Under Votes,18,4,13,0,1
+Taylor,A104,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,A104,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,A104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Taylor,A104,U.S. Senate,,Democratic,Charles BOOKER,58,21,37,0,0
+Taylor,A104,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Taylor,A104,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,4,6,0,0
+Taylor,A104,U.S. Senate,,Democratic,Logan FORSYTHE,6,1,5,0,0
+Taylor,A104,U.S. Senate,,Democratic,Amy McGRATH,54,8,45,1,0
+Taylor,A104,U.S. Senate,,,Under Votes,4,0,4,0,0
+Taylor,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,A104,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,170,39,125,6,0
+Taylor,A104,Mayor City OF Campbellsville,,,Barry HARRIS,8,2,6,0,0
+Taylor,A104,Mayor City OF Campbellsville,,,Eddie ROGERS,149,40,107,1,1
+Taylor,A104,Mayor City OF Campbellsville,,,Sarah WOOD,40,10,30,0,0
+Taylor,A104,Mayor City OF Campbellsville,,,James E. RICE,21,6,15,0,0
+Taylor,A104,Mayor City OF Campbellsville,,,Under Votes,15,4,11,0,0
+Taylor,A104,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Taylor,B101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Taylor,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,B101,U.S. Senate,,Republican,Andy BARR,142,25,115,2,0
+Taylor,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Republican,Daniel CAMERON,93,15,78,0,0
+Taylor,B101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Taylor,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
+Taylor,B101,U.S. Senate,,,Under Votes,5,1,4,0,0
+Taylor,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B101,Ballots Cast,,,,317,,,,
+Taylor,B101,U.S. House,1,Republican,David SIMS,11,1,10,0,0
+Taylor,B101,U.S. House,1,Republican,Robert James SUTHERBY,7,0,7,0,0
+Taylor,B101,U.S. House,1,Republican,Penny ARCOS,8,0,8,0,0
+Taylor,B101,U.S. House,1,Republican,James R. COMER,211,37,172,2,0
+Taylor,B101,U.S. House,1,,Under Votes,17,4,13,0,0
+Taylor,B101,U.S. House,1,,Over Votes,1,0,1,0,0
+Taylor,B101,County Judge/Executive,,,Chris BUCKMAN,79,8,71,0,0
+Taylor,B101,County Judge/Executive,,,Barry SMITH,168,32,134,2,0
+Taylor,B101,County Judge/Executive,,,Under Votes,8,2,6,0,0
+Taylor,B101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,B101,Jailer,,,Gregory C. OGDEN,54,3,50,1,0
+Taylor,B101,Jailer,,,"Eddie ""Hack"" MARCUM",192,39,152,1,0
+Taylor,B101,Jailer,,,Under Votes,9,0,9,0,0
+Taylor,B101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,B101,Magistrate,,,Timothy L. NEWTON,68,18,48,2,0
+Taylor,B101,Magistrate,,,Brandy McCUBBIN,130,15,115,0,0
+Taylor,B101,Magistrate,,,"James ""Jamie"" CAVE",52,9,43,0,0
+Taylor,B101,Magistrate,,,Under Votes,5,0,5,0,0
+Taylor,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B101,Constable,,,Daren WILSON,70,9,60,1,0
+Taylor,B101,Constable,,,Donnie L. NEWTON,163,30,132,1,0
+Taylor,B101,Constable,,,Under Votes,22,3,19,0,0
+Taylor,B101,Constable,,,Over Votes,0,0,0,0,0
+Taylor,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Taylor,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Taylor,B101,U.S. Senate,,Democratic,Charles BOOKER,17,4,12,1,0
+Taylor,B101,U.S. Senate,,Democratic,Pamela STEVENSON,4,1,3,0,0
+Taylor,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,0,3,0,0
+Taylor,B101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Taylor,B101,U.S. Senate,,Democratic,Amy McGRATH,29,8,20,1,0
+Taylor,B101,U.S. Senate,,,Under Votes,3,0,3,0,0
+Taylor,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B101,Magistrate,,,"Joseph James ""JJ"" MARCUM",23,6,16,1,0
+Taylor,B101,Magistrate,,,"John ""Chip"" KILBY",35,7,27,1,0
+Taylor,B101,Magistrate,,,Under Votes,4,0,4,0,0
+Taylor,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Taylor,B102,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Taylor,B102,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
+Taylor,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,0,5,0,0
+Taylor,B102,U.S. Senate,,Republican,Andy BARR,139,25,107,6,1
+Taylor,B102,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Taylor,B102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,B102,U.S. Senate,,Republican,Daniel CAMERON,84,20,64,0,0
+Taylor,B102,U.S. Senate,,Republican,Anissa CATLETT,3,1,2,0,0
+Taylor,B102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Taylor,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,5,0,5,0,0
+Taylor,B102,U.S. Senate,,,Under Votes,9,2,7,0,0
+Taylor,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B102,Ballots Cast,,,,366,,,,
+Taylor,B102,U.S. House,1,Republican,David SIMS,17,2,15,0,0
+Taylor,B102,U.S. House,1,Republican,Robert James SUTHERBY,9,2,7,0,0
+Taylor,B102,U.S. House,1,Republican,Penny ARCOS,12,1,11,0,0
+Taylor,B102,U.S. House,1,Republican,James R. COMER,206,42,157,6,1
+Taylor,B102,U.S. House,1,,Under Votes,17,3,14,0,0
+Taylor,B102,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,B102,County Judge/Executive,,,Chris BUCKMAN,94,14,80,0,0
+Taylor,B102,County Judge/Executive,,,Barry SMITH,154,34,113,6,1
+Taylor,B102,County Judge/Executive,,,Under Votes,13,2,11,0,0
+Taylor,B102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,B102,Jailer,,,Gregory C. OGDEN,49,6,43,0,0
+Taylor,B102,Jailer,,,"Eddie ""Hack"" MARCUM",197,41,149,6,1
+Taylor,B102,Jailer,,,Under Votes,15,3,12,0,0
+Taylor,B102,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,B102,Magistrate,,,Timothy L. NEWTON,91,25,64,2,0
+Taylor,B102,Magistrate,,,Brandy McCUBBIN,119,12,106,0,1
+Taylor,B102,Magistrate,,,"James ""Jamie"" CAVE",38,11,23,4,0
+Taylor,B102,Magistrate,,,Under Votes,13,2,11,0,0
+Taylor,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B102,Constable,,,Daren WILSON,82,17,65,0,0
+Taylor,B102,Constable,,,Donnie L. NEWTON,145,27,114,4,0
+Taylor,B102,Constable,,,Under Votes,34,6,25,2,1
+Taylor,B102,Constable,,,Over Votes,0,0,0,0,0
+Taylor,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,1,0,0,0
+Taylor,B102,U.S. Senate,,Democratic,Charles BOOKER,50,9,40,1,0
+Taylor,B102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Taylor,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,0,4,0,0
+Taylor,B102,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
+Taylor,B102,U.S. Senate,,Democratic,Amy McGRATH,37,10,27,0,0
+Taylor,B102,U.S. Senate,,,Under Votes,7,2,3,2,0
+Taylor,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B102,Magistrate,,,"Joseph James ""JJ"" MARCUM",68,17,49,2,0
+Taylor,B102,Magistrate,,,"John ""Chip"" KILBY",24,3,21,0,0
+Taylor,B102,Magistrate,,,Under Votes,11,3,7,1,0
+Taylor,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B102,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,99,24,71,3,1
+Taylor,B102,Mayor City OF Campbellsville,,,Barry HARRIS,6,1,5,0,0
+Taylor,B102,Mayor City OF Campbellsville,,,Eddie ROGERS,109,26,81,2,0
+Taylor,B102,Mayor City OF Campbellsville,,,Sarah WOOD,15,0,15,0,0
+Taylor,B102,Mayor City OF Campbellsville,,,James E. RICE,13,3,10,0,0
+Taylor,B102,Mayor City OF Campbellsville,,,Under Votes,3,1,2,0,0
+Taylor,B102,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Taylor,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Taylor,B103,U.S. Senate,,Republican,Andy BARR,11,3,8,0,0
+Taylor,B103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,Daniel CAMERON,10,3,7,0,0
+Taylor,B103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,B103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Taylor,B103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Taylor,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B103,Ballots Cast,,,,60,,,,
+Taylor,B103,U.S. House,1,Republican,David SIMS,0,0,0,0,0
+Taylor,B103,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Taylor,B103,U.S. House,1,Republican,Penny ARCOS,1,0,1,0,0
+Taylor,B103,U.S. House,1,Republican,James R. COMER,22,6,16,0,0
+Taylor,B103,U.S. House,1,,Under Votes,2,0,2,0,0
+Taylor,B103,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,B103,County Judge/Executive,,,Chris BUCKMAN,14,4,10,0,0
+Taylor,B103,County Judge/Executive,,,Barry SMITH,12,2,10,0,0
+Taylor,B103,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Taylor,B103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,B103,Jailer,,,Gregory C. OGDEN,5,1,4,0,0
+Taylor,B103,Jailer,,,"Eddie ""Hack"" MARCUM",20,5,15,0,0
+Taylor,B103,Jailer,,,Under Votes,1,0,1,0,0
+Taylor,B103,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,B103,Magistrate,,,Timothy L. NEWTON,8,2,6,0,0
+Taylor,B103,Magistrate,,,Brandy McCUBBIN,12,3,9,0,0
+Taylor,B103,Magistrate,,,"James ""Jamie"" CAVE",5,1,4,0,0
+Taylor,B103,Magistrate,,,Under Votes,1,0,1,0,0
+Taylor,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B103,Constable,,,Daren WILSON,11,3,8,0,0
+Taylor,B103,Constable,,,Donnie L. NEWTON,12,2,10,0,0
+Taylor,B103,Constable,,,Under Votes,3,1,2,0,0
+Taylor,B103,Constable,,,Over Votes,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Democratic,Charles BOOKER,18,3,15,0,0
+Taylor,B103,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Taylor,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,B103,U.S. Senate,,Democratic,Amy McGRATH,9,2,7,0,0
+Taylor,B103,U.S. Senate,,,Under Votes,2,1,1,0,0
+Taylor,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B103,Magistrate,,,"Joseph James ""JJ"" MARCUM",16,2,14,0,0
+Taylor,B103,Magistrate,,,"John ""Chip"" KILBY",9,3,6,0,0
+Taylor,B103,Magistrate,,,Under Votes,6,1,5,0,0
+Taylor,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,18,5,13,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Barry HARRIS,4,1,3,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Eddie ROGERS,23,6,17,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Sarah WOOD,10,1,9,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,James E. RICE,5,0,5,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Under Votes,0,0,0,0,0
+Taylor,B103,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Taylor,B104,U.S. Senate,,Republican,Andy BARR,77,9,66,1,1
+Taylor,B104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Republican,A. Nick SHELLEY,1,1,0,0,0
+Taylor,B104,U.S. Senate,,Republican,Daniel CAMERON,35,5,30,0,0
+Taylor,B104,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,B104,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Taylor,B104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
+Taylor,B104,U.S. Senate,,,Under Votes,3,1,2,0,0
+Taylor,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B104,Ballots Cast,,,,186,,,,
+Taylor,B104,U.S. House,1,Republican,David SIMS,9,3,6,0,0
+Taylor,B104,U.S. House,1,Republican,Robert James SUTHERBY,4,3,1,0,0
+Taylor,B104,U.S. House,1,Republican,Penny ARCOS,5,2,3,0,0
+Taylor,B104,U.S. House,1,Republican,James R. COMER,108,13,93,1,1
+Taylor,B104,U.S. House,1,,Under Votes,4,0,4,0,0
+Taylor,B104,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,B104,County Judge/Executive,,,Chris BUCKMAN,46,7,38,0,1
+Taylor,B104,County Judge/Executive,,,Barry SMITH,82,13,68,1,0
+Taylor,B104,County Judge/Executive,,,Under Votes,2,1,1,0,0
+Taylor,B104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,B104,Jailer,,,Gregory C. OGDEN,19,2,17,0,0
+Taylor,B104,Jailer,,,"Eddie ""Hack"" MARCUM",103,18,83,1,1
+Taylor,B104,Jailer,,,Under Votes,8,1,7,0,0
+Taylor,B104,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,B104,Magistrate,,,Timothy L. NEWTON,40,7,32,0,1
+Taylor,B104,Magistrate,,,Brandy McCUBBIN,56,13,43,0,0
+Taylor,B104,Magistrate,,,"James ""Jamie"" CAVE",26,1,24,1,0
+Taylor,B104,Magistrate,,,Under Votes,8,0,8,0,0
+Taylor,B104,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B104,Constable,,,Daren WILSON,49,6,43,0,0
+Taylor,B104,Constable,,,Donnie L. NEWTON,58,12,44,1,1
+Taylor,B104,Constable,,,Under Votes,23,3,20,0,0
+Taylor,B104,Constable,,,Over Votes,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,B104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,B104,U.S. Senate,,Democratic,Charles BOOKER,19,3,15,1,0
+Taylor,B104,U.S. Senate,,Democratic,Pamela STEVENSON,5,0,3,2,0
+Taylor,B104,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,1,1,0
+Taylor,B104,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
+Taylor,B104,U.S. Senate,,Democratic,Amy McGRATH,18,4,12,1,1
+Taylor,B104,U.S. Senate,,,Under Votes,4,1,3,0,0
+Taylor,B104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,B104,Magistrate,,,"Joseph James ""JJ"" MARCUM",25,5,18,2,0
+Taylor,B104,Magistrate,,,"John ""Chip"" KILBY",19,4,12,2,1
+Taylor,B104,Magistrate,,,Under Votes,7,0,6,1,0
+Taylor,B104,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,B104,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,67,17,50,0,0
+Taylor,B104,Mayor City OF Campbellsville,,,Barry HARRIS,8,0,7,1,0
+Taylor,B104,Mayor City OF Campbellsville,,,Eddie ROGERS,67,11,50,5,1
+Taylor,B104,Mayor City OF Campbellsville,,,Sarah WOOD,22,4,18,0,0
+Taylor,B104,Mayor City OF Campbellsville,,,James E. RICE,19,0,18,0,1
+Taylor,B104,Mayor City OF Campbellsville,,,Under Votes,2,0,2,0,0
+Taylor,B104,Mayor City OF Campbellsville,,,Over Votes,1,1,0,0,0
+Taylor,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,Andy BARR,32,4,28,0,0
+Taylor,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,C101,U.S. Senate,,Republican,Daniel CAMERON,25,2,23,0,0
+Taylor,C101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Taylor,C101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Taylor,C101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Taylor,C101,Ballots Cast,,,,79,,,,
+Taylor,C101,U.S. House,1,Republican,David SIMS,3,1,2,0,0
+Taylor,C101,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Taylor,C101,U.S. House,1,Republican,Penny ARCOS,3,1,2,0,0
+Taylor,C101,U.S. House,1,Republican,James R. COMER,53,5,48,0,0
+Taylor,C101,U.S. House,1,,Under Votes,5,1,4,0,0
+Taylor,C101,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,C101,County Judge/Executive,,,Chris BUCKMAN,24,0,24,0,0
+Taylor,C101,County Judge/Executive,,,Barry SMITH,36,8,28,0,0
+Taylor,C101,County Judge/Executive,,,Under Votes,5,0,5,0,0
+Taylor,C101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,C101,Jailer,,,Gregory C. OGDEN,6,1,5,0,0
+Taylor,C101,Jailer,,,"Eddie ""Hack"" MARCUM",55,7,48,0,0
+Taylor,C101,Jailer,,,Under Votes,4,0,4,0,0
+Taylor,C101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Taylor,C101,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
+Taylor,C101,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,C101,U.S. Senate,,Democratic,Amy McGRATH,6,1,5,0,0
+Taylor,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Taylor,C103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,Andy BARR,59,9,50,0,0
+Taylor,C103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,Daniel CAMERON,20,3,17,0,0
+Taylor,C103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Taylor,C103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Taylor,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C103,Ballots Cast,,,,94,,,,
+Taylor,C103,U.S. House,1,Republican,David SIMS,3,2,1,0,0
+Taylor,C103,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Taylor,C103,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Taylor,C103,U.S. House,1,Republican,James R. COMER,75,10,65,0,0
+Taylor,C103,U.S. House,1,,Under Votes,6,1,5,0,0
+Taylor,C103,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,C103,County Judge/Executive,,,Chris BUCKMAN,30,5,25,0,0
+Taylor,C103,County Judge/Executive,,,Barry SMITH,53,8,45,0,0
+Taylor,C103,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Taylor,C103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,C103,Jailer,,,Gregory C. OGDEN,4,1,3,0,0
+Taylor,C103,Jailer,,,"Eddie ""Hack"" MARCUM",77,11,66,0,0
+Taylor,C103,Jailer,,,Under Votes,3,1,2,0,0
+Taylor,C103,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Democratic,Charles BOOKER,6,0,6,0,0
+Taylor,C103,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Taylor,C103,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Taylor,C103,U.S. Senate,,Democratic,Amy McGRATH,2,0,2,0,0
+Taylor,C103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Taylor,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Taylor,C104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,Andy BARR,49,9,40,0,0
+Taylor,C104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,C104,U.S. Senate,,Republican,Daniel CAMERON,24,2,21,1,0
+Taylor,C104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Taylor,C104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Taylor,C104,U.S. Senate,,,Under Votes,3,1,2,0,0
+Taylor,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C104,Ballots Cast,,,,127,,,,
+Taylor,C104,U.S. House,1,Republican,David SIMS,2,1,1,0,0
+Taylor,C104,U.S. House,1,Republican,Robert James SUTHERBY,4,0,4,0,0
+Taylor,C104,U.S. House,1,Republican,Penny ARCOS,2,0,2,0,0
+Taylor,C104,U.S. House,1,Republican,James R. COMER,72,10,61,1,0
+Taylor,C104,U.S. House,1,,Under Votes,3,1,2,0,0
+Taylor,C104,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,C104,County Judge/Executive,,,Chris BUCKMAN,35,5,29,1,0
+Taylor,C104,County Judge/Executive,,,Barry SMITH,46,7,39,0,0
+Taylor,C104,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Taylor,C104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,C104,Jailer,,,Gregory C. OGDEN,11,2,9,0,0
+Taylor,C104,Jailer,,,"Eddie ""Hack"" MARCUM",66,10,55,1,0
+Taylor,C104,Jailer,,,Under Votes,6,0,6,0,0
+Taylor,C104,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,C104,U.S. Senate,,Democratic,Charles BOOKER,11,0,11,0,0
+Taylor,C104,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Taylor,C104,U.S. Senate,,Democratic,Dale Lewis ROMANS,14,1,13,0,0
+Taylor,C104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Taylor,C104,U.S. Senate,,Democratic,Amy McGRATH,16,3,13,0,0
+Taylor,C104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C105,U.S. Senate,,Republican,Other Donald WENZEL,1,1,0,0,0
+Taylor,C105,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,C105,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Taylor,C105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Taylor,C105,U.S. Senate,,Republican,Andy BARR,147,43,99,5,0
+Taylor,C105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,C105,U.S. Senate,,Republican,A. Nick SHELLEY,2,1,1,0,0
+Taylor,C105,U.S. Senate,,Republican,Daniel CAMERON,77,20,49,8,0
+Taylor,C105,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,C105,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,C105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Taylor,C105,U.S. Senate,,,Under Votes,8,3,4,1,0
+Taylor,C105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C105,Ballots Cast,,,,350,,,,
+Taylor,C105,U.S. House,1,Republican,David SIMS,14,4,9,1,0
+Taylor,C105,U.S. House,1,Republican,Robert James SUTHERBY,3,1,1,1,0
+Taylor,C105,U.S. House,1,Republican,Penny ARCOS,7,1,5,1,0
+Taylor,C105,U.S. House,1,Republican,James R. COMER,214,65,138,11,0
+Taylor,C105,U.S. House,1,,Under Votes,16,2,12,2,0
+Taylor,C105,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,C105,County Judge/Executive,,,Chris BUCKMAN,80,16,59,5,0
+Taylor,C105,County Judge/Executive,,,Barry SMITH,161,54,99,8,0
+Taylor,C105,County Judge/Executive,,,Under Votes,13,3,7,3,0
+Taylor,C105,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,C105,Jailer,,,Gregory C. OGDEN,56,14,34,8,0
+Taylor,C105,Jailer,,,"Eddie ""Hack"" MARCUM",188,57,123,8,0
+Taylor,C105,Jailer,,,Under Votes,10,2,8,0,0
+Taylor,C105,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,C105,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,1,2,0
+Taylor,C105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,1,2,0,0
+Taylor,C105,U.S. Senate,,Democratic,Charles BOOKER,34,8,24,2,0
+Taylor,C105,U.S. Senate,,Democratic,Pamela STEVENSON,8,1,6,1,0
+Taylor,C105,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Taylor,C105,U.S. Senate,,Democratic,Logan FORSYTHE,4,2,2,0,0
+Taylor,C105,U.S. Senate,,Democratic,Amy McGRATH,38,9,25,4,0
+Taylor,C105,U.S. Senate,,,Under Votes,3,0,3,0,0
+Taylor,C105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,19,3,16,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Barry HARRIS,5,1,4,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Eddie ROGERS,33,7,26,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Sarah WOOD,13,0,12,1,0
+Taylor,C105,Mayor City OF Campbellsville,,,James E. RICE,6,1,5,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Under Votes,2,1,1,0,0
+Taylor,C105,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Taylor,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,D101,U.S. Senate,,Republican,Andy BARR,48,8,40,0,0
+Taylor,D101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Republican,Daniel CAMERON,29,6,23,0,0
+Taylor,D101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,D101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Taylor,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D101,Ballots Cast,,,,96,,,,
+Taylor,D101,U.S. House,1,Republican,David SIMS,3,0,3,0,0
+Taylor,D101,U.S. House,1,Republican,Robert James SUTHERBY,3,1,2,0,0
+Taylor,D101,U.S. House,1,Republican,Penny ARCOS,2,0,2,0,0
+Taylor,D101,U.S. House,1,Republican,James R. COMER,72,13,59,0,0
+Taylor,D101,U.S. House,1,,Under Votes,2,0,2,0,0
+Taylor,D101,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,D101,County Judge/Executive,,,Chris BUCKMAN,26,2,24,0,0
+Taylor,D101,County Judge/Executive,,,Barry SMITH,55,12,43,0,0
+Taylor,D101,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Taylor,D101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,D101,Jailer,,,Gregory C. OGDEN,6,1,5,0,0
+Taylor,D101,Jailer,,,"Eddie ""Hack"" MARCUM",75,13,62,0,0
+Taylor,D101,Jailer,,,Under Votes,1,0,1,0,0
+Taylor,D101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,D101,Magistrate,,,Randy McBEATH,9,3,6,0,0
+Taylor,D101,Magistrate,,,Lewis THOMPSON,31,3,28,0,0
+Taylor,D101,Magistrate,,,Zuel YARBERRY,42,8,34,0,0
+Taylor,D101,Magistrate,,,Under Votes,0,0,0,0,0
+Taylor,D101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Taylor,D101,U.S. Senate,,Democratic,Charles BOOKER,6,0,5,0,1
+Taylor,D101,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,1,1,0,0
+Taylor,D101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,D101,U.S. Senate,,Democratic,Amy McGRATH,4,1,3,0,0
+Taylor,D101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,D102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Taylor,D102,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Taylor,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,0,4,0,0
+Taylor,D102,U.S. Senate,,Republican,Andy BARR,249,51,191,3,4
+Taylor,D102,U.S. Senate,,Republican,Jimmy I. LEON,2,1,1,0,0
+Taylor,D102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,D102,U.S. Senate,,Republican,Daniel CAMERON,122,24,97,1,0
+Taylor,D102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Taylor,D102,U.S. Senate,,Republican,Michael James FARIS,2,0,1,1,0
+Taylor,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,0,4,0,0
+Taylor,D102,U.S. Senate,,,Under Votes,17,4,13,0,0
+Taylor,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D102,Ballots Cast,,,,509,,,,
+Taylor,D102,U.S. House,1,Republican,David SIMS,18,5,13,0,0
+Taylor,D102,U.S. House,1,Republican,Robert James SUTHERBY,11,1,10,0,0
+Taylor,D102,U.S. House,1,Republican,Penny ARCOS,9,0,9,0,0
+Taylor,D102,U.S. House,1,Republican,James R. COMER,353,71,273,5,4
+Taylor,D102,U.S. House,1,,Under Votes,26,3,22,1,0
+Taylor,D102,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,D102,County Judge/Executive,,,Chris BUCKMAN,151,22,127,2,0
+Taylor,D102,County Judge/Executive,,,Barry SMITH,258,57,193,4,4
+Taylor,D102,County Judge/Executive,,,Under Votes,7,1,6,0,0
+Taylor,D102,County Judge/Executive,,,Over Votes,1,0,1,0,0
+Taylor,D102,Jailer,,,Gregory C. OGDEN,54,8,45,1,0
+Taylor,D102,Jailer,,,"Eddie ""Hack"" MARCUM",345,68,269,4,4
+Taylor,D102,Jailer,,,Under Votes,18,4,13,1,0
+Taylor,D102,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,D102,Magistrate,,,Randy McBEATH,40,6,33,1,0
+Taylor,D102,Magistrate,,,Lewis THOMPSON,150,28,119,1,2
+Taylor,D102,Magistrate,,,Zuel YARBERRY,219,46,168,3,2
+Taylor,D102,Magistrate,,,Under Votes,8,0,7,1,0
+Taylor,D102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Taylor,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
+Taylor,D102,U.S. Senate,,Democratic,Charles BOOKER,21,2,15,3,1
+Taylor,D102,U.S. Senate,,Democratic,Pamela STEVENSON,2,1,1,0,0
+Taylor,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
+Taylor,D102,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,3,0,1
+Taylor,D102,U.S. Senate,,Democratic,Amy McGRATH,50,8,42,0,0
+Taylor,D102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Taylor,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,D104,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Taylor,D104,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Taylor,D104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Taylor,D104,U.S. Senate,,Republican,Andy BARR,115,23,89,3,0
+Taylor,D104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,D104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,D104,U.S. Senate,,Republican,Daniel CAMERON,59,7,51,0,1
+Taylor,D104,U.S. Senate,,Republican,Anissa CATLETT,1,0,0,0,1
+Taylor,D104,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,D104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Taylor,D104,U.S. Senate,,,Under Votes,6,0,6,0,0
+Taylor,D104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D104,Ballots Cast,,,,299,,,,
+Taylor,D104,U.S. House,1,Republican,David SIMS,6,0,5,1,0
+Taylor,D104,U.S. House,1,Republican,Robert James SUTHERBY,7,3,4,0,0
+Taylor,D104,U.S. House,1,Republican,Penny ARCOS,6,1,5,0,0
+Taylor,D104,U.S. House,1,Republican,James R. COMER,166,23,140,2,1
+Taylor,D104,U.S. House,1,,Under Votes,14,3,10,0,1
+Taylor,D104,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,D104,County Judge/Executive,,,Chris BUCKMAN,85,18,66,0,1
+Taylor,D104,County Judge/Executive,,,Barry SMITH,110,11,95,3,1
+Taylor,D104,County Judge/Executive,,,Under Votes,4,1,3,0,0
+Taylor,D104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,D104,Jailer,,,Gregory C. OGDEN,32,9,22,0,1
+Taylor,D104,Jailer,,,"Eddie ""Hack"" MARCUM",160,20,136,3,1
+Taylor,D104,Jailer,,,Under Votes,7,1,6,0,0
+Taylor,D104,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,D104,Magistrate,,,Randy McBEATH,20,1,18,1,0
+Taylor,D104,Magistrate,,,Lewis THOMPSON,71,10,60,0,1
+Taylor,D104,Magistrate,,,Zuel YARBERRY,105,18,84,2,1
+Taylor,D104,Magistrate,,,Under Votes,3,1,2,0,0
+Taylor,D104,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,D104,U.S. Senate,,Democratic,Joshua BLANTON SR.,5,1,4,0,0
+Taylor,D104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Taylor,D104,U.S. Senate,,Democratic,Charles BOOKER,39,6,32,1,0
+Taylor,D104,U.S. Senate,,Democratic,Pamela STEVENSON,8,0,7,1,0
+Taylor,D104,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,2,2,0,0
+Taylor,D104,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Taylor,D104,U.S. Senate,,Democratic,Amy McGRATH,29,5,23,1,0
+Taylor,D104,U.S. Senate,,,Under Votes,7,1,6,0,0
+Taylor,D104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,D104,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,36,6,28,2,0
+Taylor,D104,Mayor City OF Campbellsville,,,Barry HARRIS,12,2,10,0,0
+Taylor,D104,Mayor City OF Campbellsville,,,Eddie ROGERS,40,8,32,0,0
+Taylor,D104,Mayor City OF Campbellsville,,,Sarah WOOD,34,6,26,1,1
+Taylor,D104,Mayor City OF Campbellsville,,,James E. RICE,12,2,9,1,0
+Taylor,D104,Mayor City OF Campbellsville,,,Under Votes,1,0,1,0,0
+Taylor,D104,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,E101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Taylor,E101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,E101,U.S. Senate,,Republican,George WASHINGTON,4,1,3,0,0
+Taylor,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,2,2,0,0
+Taylor,E101,U.S. Senate,,Republican,Andy BARR,238,82,146,10,0
+Taylor,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,E101,U.S. Senate,,Republican,A. Nick SHELLEY,2,1,1,0,0
+Taylor,E101,U.S. Senate,,Republican,Daniel CAMERON,191,45,140,3,3
+Taylor,E101,U.S. Senate,,Republican,Anissa CATLETT,4,0,4,0,0
+Taylor,E101,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
+Taylor,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,1,3,0,0
+Taylor,E101,U.S. Senate,,,Under Votes,18,1,17,0,0
+Taylor,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E101,Ballots Cast,,,,597,,,,
+Taylor,E101,U.S. House,1,Republican,David SIMS,19,4,15,0,0
+Taylor,E101,U.S. House,1,Republican,Robert James SUTHERBY,10,5,4,1,0
+Taylor,E101,U.S. House,1,Republican,Penny ARCOS,14,3,10,1,0
+Taylor,E101,U.S. House,1,Republican,James R. COMER,417,127,276,11,3
+Taylor,E101,U.S. House,1,,Under Votes,28,2,26,0,0
+Taylor,E101,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,E101,County Judge/Executive,,,Chris BUCKMAN,189,59,124,5,1
+Taylor,E101,County Judge/Executive,,,Barry SMITH,278,76,192,8,2
+Taylor,E101,County Judge/Executive,,,Under Votes,21,6,15,0,0
+Taylor,E101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,E101,Jailer,,,Gregory C. OGDEN,83,19,60,4,0
+Taylor,E101,Jailer,,,"Eddie ""Hack"" MARCUM",368,112,244,9,3
+Taylor,E101,Jailer,,,Under Votes,37,10,27,0,0
+Taylor,E101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,E101,Magistrate,,,Todd NOLLEY,228,69,151,5,3
+Taylor,E101,Magistrate,,,Derrick BRIGHT,256,71,178,7,0
+Taylor,E101,Magistrate,,,Under Votes,4,1,2,1,0
+Taylor,E101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,1,3,0,0
+Taylor,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,3,1,0
+Taylor,E101,U.S. Senate,,Democratic,Charles BOOKER,34,5,28,1,0
+Taylor,E101,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,3,1,1
+Taylor,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Taylor,E101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Taylor,E101,U.S. Senate,,Democratic,Amy McGRATH,51,13,36,1,1
+Taylor,E101,U.S. Senate,,,Under Votes,3,0,3,0,0
+Taylor,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,17,0,17,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,Barry HARRIS,2,1,1,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,Eddie ROGERS,22,9,11,2,0
+Taylor,E101,Mayor City OF Campbellsville,,,Sarah WOOD,6,1,5,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,James E. RICE,2,1,1,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,Under Votes,4,1,3,0,0
+Taylor,E101,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,E102,U.S. Senate,,Republican,Other Donald WENZEL,2,0,2,0,0
+Taylor,E102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,E102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Taylor,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,1,1,0
+Taylor,E102,U.S. Senate,,Republican,Andy BARR,72,27,43,2,0
+Taylor,E102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,E102,U.S. Senate,,Republican,A. Nick SHELLEY,2,1,1,0,0
+Taylor,E102,U.S. Senate,,Republican,Daniel CAMERON,38,12,25,1,0
+Taylor,E102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,E102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Taylor,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Taylor,E102,U.S. Senate,,,Under Votes,10,2,8,0,0
+Taylor,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E102,Ballots Cast,,,,198,,,,
+Taylor,E102,U.S. House,1,Republican,David SIMS,3,1,2,0,0
+Taylor,E102,U.S. House,1,Republican,Robert James SUTHERBY,3,0,3,0,0
+Taylor,E102,U.S. House,1,Republican,Penny ARCOS,8,2,5,1,0
+Taylor,E102,U.S. House,1,Republican,James R. COMER,112,38,71,3,0
+Taylor,E102,U.S. House,1,,Under Votes,13,2,11,0,0
+Taylor,E102,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,E102,County Judge/Executive,,,Chris BUCKMAN,66,20,45,1,0
+Taylor,E102,County Judge/Executive,,,Barry SMITH,69,23,43,3,0
+Taylor,E102,County Judge/Executive,,,Under Votes,4,0,4,0,0
+Taylor,E102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,E102,Jailer,,,Gregory C. OGDEN,21,5,15,1,0
+Taylor,E102,Jailer,,,"Eddie ""Hack"" MARCUM",110,36,71,3,0
+Taylor,E102,Jailer,,,Under Votes,8,2,6,0,0
+Taylor,E102,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,E102,Magistrate,,,Todd NOLLEY,60,14,45,1,0
+Taylor,E102,Magistrate,,,Derrick BRIGHT,76,28,45,3,0
+Taylor,E102,Magistrate,,,Under Votes,3,1,2,0,0
+Taylor,E102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Taylor,E102,U.S. Senate,,Democratic,Charles BOOKER,23,8,15,0,0
+Taylor,E102,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Taylor,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,3,0,0,0
+Taylor,E102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Taylor,E102,U.S. Senate,,Democratic,Amy McGRATH,19,5,13,1,0
+Taylor,E102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Taylor,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E102,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,40,13,25,2,0
+Taylor,E102,Mayor City OF Campbellsville,,,Barry HARRIS,7,1,6,0,0
+Taylor,E102,Mayor City OF Campbellsville,,,Eddie ROGERS,90,29,60,1,0
+Taylor,E102,Mayor City OF Campbellsville,,,Sarah WOOD,23,1,22,0,0
+Taylor,E102,Mayor City OF Campbellsville,,,James E. RICE,14,6,8,0,0
+Taylor,E102,Mayor City OF Campbellsville,,,Under Votes,4,1,3,0,0
+Taylor,E102,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Republican,George WASHINGTON,2,0,1,1,0
+Taylor,E103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,E103,U.S. Senate,,Republican,Andy BARR,85,20,61,4,0
+Taylor,E103,U.S. Senate,,Republican,Jimmy I. LEON,2,1,1,0,0
+Taylor,E103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Republican,Daniel CAMERON,65,18,45,2,0
+Taylor,E103,U.S. Senate,,Republican,Anissa CATLETT,3,1,2,0,0
+Taylor,E103,U.S. Senate,,Republican,Michael James FARIS,6,2,4,0,0
+Taylor,E103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,1,3,0,0
+Taylor,E103,U.S. Senate,,,Under Votes,3,2,1,0,0
+Taylor,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E103,Ballots Cast,,,,223,,,,
+Taylor,E103,U.S. House,1,Republican,David SIMS,12,0,12,0,0
+Taylor,E103,U.S. House,1,Republican,Robert James SUTHERBY,7,3,4,0,0
+Taylor,E103,U.S. House,1,Republican,Penny ARCOS,3,1,2,0,0
+Taylor,E103,U.S. House,1,Republican,James R. COMER,142,39,95,8,0
+Taylor,E103,U.S. House,1,,Under Votes,12,2,10,0,0
+Taylor,E103,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,E103,County Judge/Executive,,,Chris BUCKMAN,67,16,51,0,0
+Taylor,E103,County Judge/Executive,,,Barry SMITH,103,29,67,7,0
+Taylor,E103,County Judge/Executive,,,Under Votes,6,0,5,1,0
+Taylor,E103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,E103,Jailer,,,Gregory C. OGDEN,26,12,14,0,0
+Taylor,E103,Jailer,,,"Eddie ""Hack"" MARCUM",141,32,102,7,0
+Taylor,E103,Jailer,,,Under Votes,9,1,7,1,0
+Taylor,E103,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,E103,Magistrate,,,Todd NOLLEY,87,23,62,2,0
+Taylor,E103,Magistrate,,,Derrick BRIGHT,89,22,61,6,0
+Taylor,E103,Magistrate,,,Under Votes,0,0,0,0,0
+Taylor,E103,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Taylor,E103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Taylor,E103,U.S. Senate,,Democratic,Charles BOOKER,20,8,12,0,0
+Taylor,E103,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Taylor,E103,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,1,5,0,0
+Taylor,E103,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Taylor,E103,U.S. Senate,,Democratic,Amy McGRATH,16,4,11,1,0
+Taylor,E103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Taylor,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,E103,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,6,1,3,2,0
+Taylor,E103,Mayor City OF Campbellsville,,,Barry HARRIS,2,0,2,0,0
+Taylor,E103,Mayor City OF Campbellsville,,,Eddie ROGERS,14,8,2,4,0
+Taylor,E103,Mayor City OF Campbellsville,,,Sarah WOOD,7,0,7,0,0
+Taylor,E103,Mayor City OF Campbellsville,,,James E. RICE,1,0,1,0,0
+Taylor,E103,Mayor City OF Campbellsville,,,Under Votes,1,0,1,0,0
+Taylor,E103,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,Andy BARR,96,10,84,1,1
+Taylor,F101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Taylor,F101,U.S. Senate,,Republican,Daniel CAMERON,68,9,59,0,0
+Taylor,F101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,F101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Taylor,F101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Taylor,F101,U.S. Senate,,,Under Votes,6,0,6,0,0
+Taylor,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F101,Ballots Cast,,,,231,,,,
+Taylor,F101,U.S. House,1,Republican,David SIMS,7,1,6,0,0
+Taylor,F101,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Taylor,F101,U.S. House,1,Republican,Penny ARCOS,2,0,2,0,0
+Taylor,F101,U.S. House,1,Republican,James R. COMER,162,19,141,1,1
+Taylor,F101,U.S. House,1,,Under Votes,11,0,11,0,0
+Taylor,F101,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,F101,County Judge/Executive,,,Chris BUCKMAN,57,10,47,0,0
+Taylor,F101,County Judge/Executive,,,Barry SMITH,121,10,110,1,0
+Taylor,F101,County Judge/Executive,,,Under Votes,4,0,3,0,1
+Taylor,F101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,F101,Jailer,,,Gregory C. OGDEN,17,3,14,0,0
+Taylor,F101,Jailer,,,"Eddie ""Hack"" MARCUM",160,16,142,1,1
+Taylor,F101,Jailer,,,Under Votes,5,1,4,0,0
+Taylor,F101,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,F101,Magistrate,,,Richard PHILLIPS,142,18,123,1,0
+Taylor,F101,Magistrate,,,Under Votes,12,0,11,0,1
+Taylor,F101,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,F101,Constable,,,Dan DURHAM,130,13,117,0,0
+Taylor,F101,Constable,,,Lanny Oneal THOMPSON,38,5,31,1,1
+Taylor,F101,Constable,,,Under Votes,14,2,12,0,0
+Taylor,F101,Constable,,,Over Votes,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,1,1,0
+Taylor,F101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Taylor,F101,U.S. Senate,,Democratic,Charles BOOKER,15,0,15,0,0
+Taylor,F101,U.S. Senate,,Democratic,Pamela STEVENSON,1,1,0,0,0
+Taylor,F101,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,0,6,0,0
+Taylor,F101,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,F101,U.S. Senate,,Democratic,Amy McGRATH,23,1,22,0,0
+Taylor,F101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Taylor,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,F102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Taylor,F102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Taylor,F102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Taylor,F102,U.S. Senate,,Republican,Andy BARR,212,64,142,6,0
+Taylor,F102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Taylor,F102,U.S. Senate,,Republican,A. Nick SHELLEY,1,1,0,0,0
+Taylor,F102,U.S. Senate,,Republican,Daniel CAMERON,123,30,90,3,0
+Taylor,F102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Taylor,F102,U.S. Senate,,Republican,Michael James FARIS,6,2,3,1,0
+Taylor,F102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Taylor,F102,U.S. Senate,,,Under Votes,14,5,9,0,0
+Taylor,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F102,Ballots Cast,,,,478,,,,
+Taylor,F102,U.S. House,1,Republican,David SIMS,21,6,13,2,0
+Taylor,F102,U.S. House,1,Republican,Robert James SUTHERBY,7,3,4,0,0
+Taylor,F102,U.S. House,1,Republican,Penny ARCOS,7,1,6,0,0
+Taylor,F102,U.S. House,1,Republican,James R. COMER,318,86,224,8,0
+Taylor,F102,U.S. House,1,,Under Votes,22,11,11,0,0
+Taylor,F102,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,F102,County Judge/Executive,,,Chris BUCKMAN,138,33,103,2,0
+Taylor,F102,County Judge/Executive,,,Barry SMITH,229,72,149,8,0
+Taylor,F102,County Judge/Executive,,,Under Votes,8,2,6,0,0
+Taylor,F102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,F102,Jailer,,,Gregory C. OGDEN,48,16,31,1,0
+Taylor,F102,Jailer,,,"Eddie ""Hack"" MARCUM",307,84,214,9,0
+Taylor,F102,Jailer,,,Under Votes,20,7,13,0,0
+Taylor,F102,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,F102,Magistrate,,,Richard PHILLIPS,289,80,200,9,0
+Taylor,F102,Magistrate,,,Under Votes,15,6,9,0,0
+Taylor,F102,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,F102,Constable,,,Dan DURHAM,282,76,200,6,0
+Taylor,F102,Constable,,,Lanny Oneal THOMPSON,59,16,39,4,0
+Taylor,F102,Constable,,,Under Votes,34,15,19,0,0
+Taylor,F102,Constable,,,Over Votes,0,0,0,0,0
+Taylor,F102,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
+Taylor,F102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Taylor,F102,U.S. Senate,,Democratic,Charles BOOKER,32,3,28,0,1
+Taylor,F102,U.S. Senate,,Democratic,Pamela STEVENSON,4,1,3,0,0
+Taylor,F102,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,1,1,0,0
+Taylor,F102,U.S. Senate,,Democratic,Logan FORSYTHE,1,1,0,0,0
+Taylor,F102,U.S. Senate,,Democratic,Amy McGRATH,60,14,42,3,1
+Taylor,F102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Taylor,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,0,0,0,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,Barry HARRIS,2,0,2,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,Eddie ROGERS,9,3,4,2,0
+Taylor,F102,Mayor City OF Campbellsville,,,Sarah WOOD,1,0,1,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,James E. RICE,0,0,0,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,Under Votes,0,0,0,0,0
+Taylor,F102,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0
+Taylor,F103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Taylor,F103,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Taylor,F103,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Taylor,F103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",7,2,5,0,0
+Taylor,F103,U.S. Senate,,Republican,Andy BARR,122,33,85,4,0
+Taylor,F103,U.S. Senate,,Republican,Jimmy I. LEON,2,0,2,0,0
+Taylor,F103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Taylor,F103,U.S. Senate,,Republican,Daniel CAMERON,63,9,54,0,0
+Taylor,F103,U.S. Senate,,Republican,Anissa CATLETT,3,0,3,0,0
+Taylor,F103,U.S. Senate,,Republican,Michael James FARIS,2,1,1,0,0
+Taylor,F103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,1,0,0,0
+Taylor,F103,U.S. Senate,,,Under Votes,8,0,8,0,0
+Taylor,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F103,Ballots Cast,,,,314,,,,
+Taylor,F103,U.S. House,1,Republican,David SIMS,10,2,8,0,0
+Taylor,F103,U.S. House,1,Republican,Robert James SUTHERBY,3,1,2,0,0
+Taylor,F103,U.S. House,1,Republican,Penny ARCOS,9,1,8,0,0
+Taylor,F103,U.S. House,1,Republican,James R. COMER,180,40,134,6,0
+Taylor,F103,U.S. House,1,,Under Votes,18,2,16,0,0
+Taylor,F103,U.S. House,1,,Over Votes,0,0,0,0,0
+Taylor,F103,County Judge/Executive,,,Chris BUCKMAN,86,13,68,5,0
+Taylor,F103,County Judge/Executive,,,Barry SMITH,123,32,90,1,0
+Taylor,F103,County Judge/Executive,,,Under Votes,11,1,10,0,0
+Taylor,F103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Taylor,F103,Jailer,,,Gregory C. OGDEN,29,2,25,2,0
+Taylor,F103,Jailer,,,"Eddie ""Hack"" MARCUM",175,43,128,4,0
+Taylor,F103,Jailer,,,Under Votes,16,1,15,0,0
+Taylor,F103,Jailer,,,Over Votes,0,0,0,0,0
+Taylor,F103,Magistrate,,,Richard PHILLIPS,156,38,113,5,0
+Taylor,F103,Magistrate,,,Under Votes,18,2,15,1,0
+Taylor,F103,Magistrate,,,Over Votes,0,0,0,0,0
+Taylor,F103,Constable,,,Dan DURHAM,165,36,123,6,0
+Taylor,F103,Constable,,,Lanny Oneal THOMPSON,26,6,20,0,0
+Taylor,F103,Constable,,,Under Votes,29,4,25,0,0
+Taylor,F103,Constable,,,Over Votes,0,0,0,0,0
+Taylor,F103,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Taylor,F103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
+Taylor,F103,U.S. Senate,,Democratic,Charles BOOKER,24,7,17,0,0
+Taylor,F103,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Taylor,F103,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,2,1,0,0
+Taylor,F103,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Taylor,F103,U.S. Senate,,Democratic,Amy McGRATH,45,15,30,0,0
+Taylor,F103,U.S. Senate,,,Under Votes,8,3,4,1,0
+Taylor,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Taylor,F103,Mayor City OF Campbellsville,,,Dennis N. BENNINGFIELD,120,33,84,3,0
+Taylor,F103,Mayor City OF Campbellsville,,,Barry HARRIS,8,3,5,0,0
+Taylor,F103,Mayor City OF Campbellsville,,,Eddie ROGERS,116,25,87,4,0
+Taylor,F103,Mayor City OF Campbellsville,,,Sarah WOOD,38,8,30,0,0
+Taylor,F103,Mayor City OF Campbellsville,,,James E. RICE,30,4,26,0,0
+Taylor,F103,Mayor City OF Campbellsville,,,Under Votes,2,1,1,0,0
+Taylor,F103,Mayor City OF Campbellsville,,,Over Votes,0,0,0,0,0

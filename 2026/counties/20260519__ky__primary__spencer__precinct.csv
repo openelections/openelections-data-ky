@@ -1,0 +1,455 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Spencer,A101,U.S. Senate,,Republican,A. Nick SHELLEY,10,3,7,0,0
+Spencer,A101,U.S. Senate,,Republican,Daniel CAMERON,248,72,173,3,0
+Spencer,A101,U.S. Senate,,Republican,Andy BARR,313,118,186,4,5
+Spencer,A101,U.S. Senate,,Republican,Anissa CATLETT,9,2,7,0,0
+Spencer,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,2,2,0,0
+Spencer,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,1,2,0,0
+Spencer,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,A101,U.S. Senate,,Republican,Michael James FARIS,9,3,5,1,0
+Spencer,A101,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Spencer,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Spencer,A101,U.S. Senate,,Republican,George WASHINGTON,13,2,11,0,0
+Spencer,A101,U.S. Senate,,,Under Votes,24,7,16,0,1
+Spencer,A101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Spencer,A101,U.S. House,4,Republican,Thomas MASSIE,252,69,178,3,2
+Spencer,A101,U.S. House,4,Republican,Ed GALLREIN,392,139,244,5,4
+Spencer,A101,U.S. House,4,,Under Votes,12,8,4,0,0
+Spencer,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,A101,Ballots Cast,,,,872,,,,
+Spencer,A101,State Senate,14,Republican,Peggy Brady SMITH,13,6,7,0,0
+Spencer,A101,State Senate,14,Republican,Brian BAYERS,55,25,29,1,0
+Spencer,A101,State Senate,14,Republican,James VICTERY,55,12,43,0,0
+Spencer,A101,State Senate,14,Republican,Ben MUDD,122,39,80,3,0
+Spencer,A101,State Senate,14,Republican,Stephen CARNEY,32,13,18,0,1
+Spencer,A101,State Senate,14,Republican,Dallas ROBINSON,126,53,68,2,3
+Spencer,A101,State Senate,14,Republican,Lynn SHELBURNE,191,53,136,1,1
+Spencer,A101,State Senate,14,,Under Votes,62,15,45,1,1
+Spencer,A101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,A101,County Clerk,,,Michael STUMP,354,113,238,2,1
+Spencer,A101,County Clerk,,,Lynn HESSELBROCK,281,98,173,5,5
+Spencer,A101,County Clerk,,,Under Votes,20,5,14,1,0
+Spencer,A101,County Clerk,,,Over Votes,1,0,1,0,0
+Spencer,A101,Magistrate,,,Danny PHARRIS,228,79,143,6,0
+Spencer,A101,Magistrate,,,Edward Scott HERNDON,386,123,256,1,6
+Spencer,A101,Magistrate,,,Under Votes,41,14,26,1,0
+Spencer,A101,Magistrate,,,Over Votes,1,0,1,0,0
+Spencer,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,22,9,12,0,1
+Spencer,A101,U.S. Senate,,Democratic,Charles BOOKER,96,19,71,6,0
+Spencer,A101,U.S. Senate,,Democratic,Logan FORSYTHE,2,1,1,0,0
+Spencer,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Spencer,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,5,0,5,0,0
+Spencer,A101,U.S. Senate,,Democratic,Pamela STEVENSON,9,2,6,0,1
+Spencer,A101,U.S. Senate,,Democratic,Amy McGRATH,76,20,54,2,0
+Spencer,A101,U.S. Senate,,,Under Votes,4,1,3,0,0
+Spencer,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,A101,U.S. House,4,Democratic,Melissa Claire STRANGE,129,30,91,6,2
+Spencer,A101,U.S. House,4,Democratic,Jesse Russell BREWER,72,16,54,2,0
+Spencer,A101,U.S. House,4,,Under Votes,15,6,9,0,0
+Spencer,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,A101,State Senate,14,Democratic,Carrie Gribbins TRUITT,145,36,103,4,2
+Spencer,A101,State Senate,14,Democratic,Malcolm W. JONES,57,11,42,4,0
+Spencer,A101,State Senate,14,,Under Votes,14,5,9,0,0
+Spencer,A101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,A. Nick SHELLEY,3,0,3,0,0
+Spencer,B101,U.S. Senate,,Republican,Daniel CAMERON,86,29,57,0,0
+Spencer,B101,U.S. Senate,,Republican,Andy BARR,132,40,88,2,2
+Spencer,B101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,Michael James FARIS,15,3,11,1,0
+Spencer,B101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Republican,George WASHINGTON,2,0,1,1,0
+Spencer,B101,U.S. Senate,,,Under Votes,7,1,6,0,0
+Spencer,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,B101,U.S. House,4,Republican,Thomas MASSIE,90,24,62,2,2
+Spencer,B101,U.S. House,4,Republican,Ed GALLREIN,154,47,105,2,0
+Spencer,B101,U.S. House,4,,Under Votes,5,3,2,0,0
+Spencer,B101,U.S. House,4,,Over Votes,1,0,1,0,0
+Spencer,B101,Ballots Cast,,,,335,,,,
+Spencer,B101,State Senate,14,Republican,Peggy Brady SMITH,4,2,2,0,0
+Spencer,B101,State Senate,14,Republican,Brian BAYERS,14,5,8,0,1
+Spencer,B101,State Senate,14,Republican,James VICTERY,14,3,11,0,0
+Spencer,B101,State Senate,14,Republican,Ben MUDD,44,17,25,2,0
+Spencer,B101,State Senate,14,Republican,Stephen CARNEY,50,14,35,1,0
+Spencer,B101,State Senate,14,Republican,Dallas ROBINSON,36,7,28,0,1
+Spencer,B101,State Senate,14,Republican,Lynn SHELBURNE,62,18,43,1,0
+Spencer,B101,State Senate,14,,Under Votes,26,8,18,0,0
+Spencer,B101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,B101,County Clerk,,,Michael STUMP,125,37,86,2,0
+Spencer,B101,County Clerk,,,Lynn HESSELBROCK,121,36,81,2,2
+Spencer,B101,County Clerk,,,Under Votes,4,1,3,0,0
+Spencer,B101,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,B101,Magistrate,,,"Donald ""Buddy"" STUMP",130,39,88,3,0
+Spencer,B101,Magistrate,,,Steven R. LEE,113,33,77,1,2
+Spencer,B101,Magistrate,,,Under Votes,7,2,5,0,0
+Spencer,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Spencer,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,3,1,2,0,0
+Spencer,B101,U.S. Senate,,Democratic,Charles BOOKER,33,8,25,0,0
+Spencer,B101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Spencer,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,2,2,0,0
+Spencer,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Spencer,B101,U.S. Senate,,Democratic,Pamela STEVENSON,6,1,5,0,0
+Spencer,B101,U.S. Senate,,Democratic,Amy McGRATH,30,10,20,0,0
+Spencer,B101,U.S. Senate,,,Under Votes,5,0,5,0,0
+Spencer,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,B101,U.S. House,4,Democratic,Melissa Claire STRANGE,47,15,32,0,0
+Spencer,B101,U.S. House,4,Democratic,Jesse Russell BREWER,27,7,20,0,0
+Spencer,B101,U.S. House,4,,Under Votes,11,0,11,0,0
+Spencer,B101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,B101,State Senate,14,Democratic,Carrie Gribbins TRUITT,55,18,37,0,0
+Spencer,B101,State Senate,14,Democratic,Malcolm W. JONES,17,4,13,0,0
+Spencer,B101,State Senate,14,,Under Votes,13,0,13,0,0
+Spencer,B101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,B102,U.S. Senate,,Republican,A. Nick SHELLEY,4,0,4,0,0
+Spencer,B102,U.S. Senate,,Republican,Daniel CAMERON,221,39,177,3,2
+Spencer,B102,U.S. Senate,,Republican,Andy BARR,257,72,179,4,2
+Spencer,B102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Spencer,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,1,2,0,0
+Spencer,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Spencer,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,B102,U.S. Senate,,Republican,Michael James FARIS,3,1,2,0,0
+Spencer,B102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Spencer,B102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Spencer,B102,U.S. Senate,,Republican,George WASHINGTON,8,1,7,0,0
+Spencer,B102,U.S. Senate,,,Under Votes,11,2,9,0,0
+Spencer,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,B102,U.S. House,4,Republican,Thomas MASSIE,203,40,160,3,0
+Spencer,B102,U.S. House,4,Republican,Ed GALLREIN,312,79,225,4,4
+Spencer,B102,U.S. House,4,,Under Votes,8,0,8,0,0
+Spencer,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,B102,Ballots Cast,,,,659,,,,
+Spencer,B102,State Senate,14,Republican,Peggy Brady SMITH,16,2,14,0,0
+Spencer,B102,State Senate,14,Republican,Brian BAYERS,41,12,28,1,0
+Spencer,B102,State Senate,14,Republican,James VICTERY,24,3,21,0,0
+Spencer,B102,State Senate,14,Republican,Ben MUDD,102,21,79,0,2
+Spencer,B102,State Senate,14,Republican,Stephen CARNEY,55,16,35,3,1
+Spencer,B102,State Senate,14,Republican,Dallas ROBINSON,80,26,54,0,0
+Spencer,B102,State Senate,14,Republican,Lynn SHELBURNE,128,25,100,2,1
+Spencer,B102,State Senate,14,,Under Votes,74,13,60,1,0
+Spencer,B102,State Senate,14,,Over Votes,3,1,2,0,0
+Spencer,B102,County Clerk,,,Michael STUMP,210,57,151,1,1
+Spencer,B102,County Clerk,,,Lynn HESSELBROCK,296,61,227,5,3
+Spencer,B102,County Clerk,,,Under Votes,17,1,15,1,0
+Spencer,B102,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,B102,Magistrate,,,"Donald ""Buddy"" STUMP",199,46,150,3,0
+Spencer,B102,Magistrate,,,Steven R. LEE,296,69,219,4,4
+Spencer,B102,Magistrate,,,Under Votes,27,4,23,0,0
+Spencer,B102,Magistrate,,,Over Votes,1,0,1,0,0
+Spencer,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,3,7,0,0
+Spencer,B102,U.S. Senate,,Democratic,Charles BOOKER,53,9,42,1,1
+Spencer,B102,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,4,0,1
+Spencer,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Spencer,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Spencer,B102,U.S. Senate,,Democratic,Pamela STEVENSON,5,1,4,0,0
+Spencer,B102,U.S. Senate,,Democratic,Amy McGRATH,60,13,44,3,0
+Spencer,B102,U.S. Senate,,,Under Votes,1,0,1,0,0
+Spencer,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,B102,U.S. House,4,Democratic,Melissa Claire STRANGE,89,19,67,2,1
+Spencer,B102,U.S. House,4,Democratic,Jesse Russell BREWER,34,3,28,2,1
+Spencer,B102,U.S. House,4,,Under Votes,13,4,9,0,0
+Spencer,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,B102,State Senate,14,Democratic,Carrie Gribbins TRUITT,93,18,69,4,2
+Spencer,B102,State Senate,14,Democratic,Malcolm W. JONES,27,3,24,0,0
+Spencer,B102,State Senate,14,,Under Votes,16,5,11,0,0
+Spencer,B102,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,C101,U.S. Senate,,Republican,A. Nick SHELLEY,7,1,6,0,0
+Spencer,C101,U.S. Senate,,Republican,Daniel CAMERON,205,66,132,6,1
+Spencer,C101,U.S. Senate,,Republican,Andy BARR,229,69,154,4,2
+Spencer,C101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Spencer,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",7,2,5,0,0
+Spencer,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,6,2,4,0,0
+Spencer,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,C101,U.S. Senate,,Republican,Michael James FARIS,11,4,7,0,0
+Spencer,C101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Spencer,C101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,0,1,0
+Spencer,C101,U.S. Senate,,Republican,George WASHINGTON,5,1,4,0,0
+Spencer,C101,U.S. Senate,,,Under Votes,15,2,13,0,0
+Spencer,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,C101,U.S. House,4,Republican,Thomas MASSIE,193,57,131,4,1
+Spencer,C101,U.S. House,4,Republican,Ed GALLREIN,304,92,204,7,1
+Spencer,C101,U.S. House,4,,Under Votes,5,1,3,0,1
+Spencer,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,C101,Ballots Cast,,,,625,,,,
+Spencer,C101,State Senate,14,Republican,Peggy Brady SMITH,7,1,6,0,0
+Spencer,C101,State Senate,14,Republican,Brian BAYERS,44,12,30,0,2
+Spencer,C101,State Senate,14,Republican,James VICTERY,33,7,26,0,0
+Spencer,C101,State Senate,14,Republican,Ben MUDD,76,30,45,1,0
+Spencer,C101,State Senate,14,Republican,Stephen CARNEY,26,4,20,2,0
+Spencer,C101,State Senate,14,Republican,Dallas ROBINSON,151,48,97,6,0
+Spencer,C101,State Senate,14,Republican,Lynn SHELBURNE,103,31,69,2,1
+Spencer,C101,State Senate,14,,Under Votes,62,17,45,0,0
+Spencer,C101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,C101,County Clerk,,,Michael STUMP,274,97,173,3,1
+Spencer,C101,County Clerk,,,Lynn HESSELBROCK,213,50,153,8,2
+Spencer,C101,County Clerk,,,Under Votes,15,3,12,0,0
+Spencer,C101,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,C101,Magistrate,,,Jonathan O'DELL,300,79,214,5,2
+Spencer,C101,Magistrate,,,Brandon ABLES,80,32,46,2,0
+Spencer,C101,Magistrate,,,Jimmy D. TRAVIS,101,32,64,4,1
+Spencer,C101,Magistrate,,,Under Votes,21,7,14,0,0
+Spencer,C101,Magistrate,,,Over Votes,0,0,0,0,0
+Spencer,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,16,8,8,0,0
+Spencer,C101,U.S. Senate,,Democratic,Charles BOOKER,47,15,32,0,0
+Spencer,C101,U.S. Senate,,Democratic,Logan FORSYTHE,3,1,2,0,0
+Spencer,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Spencer,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,5,3,2,0,0
+Spencer,C101,U.S. Senate,,Democratic,Pamela STEVENSON,5,0,5,0,0
+Spencer,C101,U.S. Senate,,Democratic,Amy McGRATH,43,20,23,0,0
+Spencer,C101,U.S. Senate,,,Under Votes,3,0,3,0,0
+Spencer,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,C101,U.S. House,4,Democratic,Melissa Claire STRANGE,70,26,44,0,0
+Spencer,C101,U.S. House,4,Democratic,Jesse Russell BREWER,39,17,22,0,0
+Spencer,C101,U.S. House,4,,Under Votes,14,4,10,0,0
+Spencer,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,C101,State Senate,14,Democratic,Carrie Gribbins TRUITT,60,23,37,0,0
+Spencer,C101,State Senate,14,Democratic,Malcolm W. JONES,50,21,29,0,0
+Spencer,C101,State Senate,14,,Under Votes,12,3,9,0,0
+Spencer,C101,State Senate,14,,Over Votes,1,0,1,0,0
+Spencer,C102,U.S. Senate,,Republican,A. Nick SHELLEY,5,2,3,0,0
+Spencer,C102,U.S. Senate,,Republican,Daniel CAMERON,146,32,111,1,2
+Spencer,C102,U.S. Senate,,Republican,Andy BARR,199,58,125,4,12
+Spencer,C102,U.S. Senate,,Republican,Anissa CATLETT,2,0,1,1,0
+Spencer,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Spencer,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,1,1,0,0
+Spencer,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,C102,U.S. Senate,,Republican,Michael James FARIS,4,0,4,0,0
+Spencer,C102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Spencer,C102,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Spencer,C102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Spencer,C102,U.S. Senate,,,Under Votes,4,1,3,0,0
+Spencer,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,C102,U.S. House,4,Republican,Thomas MASSIE,115,33,79,2,1
+Spencer,C102,U.S. House,4,Republican,Ed GALLREIN,248,58,172,5,13
+Spencer,C102,U.S. House,4,,Under Votes,12,4,8,0,0
+Spencer,C102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,C102,Ballots Cast,,,,476,,,,
+Spencer,C102,State Senate,14,Republican,Peggy Brady SMITH,8,0,5,0,3
+Spencer,C102,State Senate,14,Republican,Brian BAYERS,26,9,16,1,0
+Spencer,C102,State Senate,14,Republican,James VICTERY,33,5,27,0,1
+Spencer,C102,State Senate,14,Republican,Ben MUDD,89,24,63,0,2
+Spencer,C102,State Senate,14,Republican,Stephen CARNEY,17,5,12,0,0
+Spencer,C102,State Senate,14,Republican,Dallas ROBINSON,77,19,51,3,4
+Spencer,C102,State Senate,14,Republican,Lynn SHELBURNE,92,25,60,3,4
+Spencer,C102,State Senate,14,,Under Votes,33,8,25,0,0
+Spencer,C102,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,C102,County Clerk,,,Michael STUMP,164,49,111,0,4
+Spencer,C102,County Clerk,,,Lynn HESSELBROCK,198,44,138,6,10
+Spencer,C102,County Clerk,,,Under Votes,13,2,10,1,0
+Spencer,C102,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,C102,Magistrate,,,Jonathan O'DELL,223,50,161,3,9
+Spencer,C102,Magistrate,,,Brandon ABLES,32,11,19,0,2
+Spencer,C102,Magistrate,,,Jimmy D. TRAVIS,107,33,67,4,3
+Spencer,C102,Magistrate,,,Under Votes,13,1,12,0,0
+Spencer,C102,Magistrate,,,Over Votes,0,0,0,0,0
+Spencer,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,7,2,5,0,0
+Spencer,C102,U.S. Senate,,Democratic,Charles BOOKER,49,11,34,4,0
+Spencer,C102,U.S. Senate,,Democratic,Logan FORSYTHE,8,2,6,0,0
+Spencer,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Spencer,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Spencer,C102,U.S. Senate,,Democratic,Pamela STEVENSON,4,1,3,0,0
+Spencer,C102,U.S. Senate,,Democratic,Amy McGRATH,29,10,18,1,0
+Spencer,C102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Spencer,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,C102,U.S. House,4,Democratic,Melissa Claire STRANGE,65,16,45,4,0
+Spencer,C102,U.S. House,4,Democratic,Jesse Russell BREWER,30,9,20,1,0
+Spencer,C102,U.S. House,4,,Under Votes,6,1,5,0,0
+Spencer,C102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,C102,State Senate,14,Democratic,Carrie Gribbins TRUITT,60,16,41,3,0
+Spencer,C102,State Senate,14,Democratic,Malcolm W. JONES,35,9,24,2,0
+Spencer,C102,State Senate,14,,Under Votes,6,1,5,0,0
+Spencer,C102,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
+Spencer,D101,U.S. Senate,,Republican,Daniel CAMERON,126,48,78,0,0
+Spencer,D101,U.S. Senate,,Republican,Andy BARR,170,56,108,1,5
+Spencer,D101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Spencer,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Republican,Michael James FARIS,3,1,2,0,0
+Spencer,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Spencer,D101,U.S. Senate,,Republican,George WASHINGTON,6,2,4,0,0
+Spencer,D101,U.S. Senate,,,Under Votes,10,2,7,0,1
+Spencer,D101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Spencer,D101,U.S. House,4,Republican,Thomas MASSIE,109,42,65,0,2
+Spencer,D101,U.S. House,4,Republican,Ed GALLREIN,214,72,137,1,4
+Spencer,D101,U.S. House,4,,Under Votes,9,1,8,0,0
+Spencer,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,D101,Ballots Cast,,,,408,,,,
+Spencer,D101,State Senate,14,Republican,Peggy Brady SMITH,6,2,4,0,0
+Spencer,D101,State Senate,14,Republican,Brian BAYERS,24,8,14,0,2
+Spencer,D101,State Senate,14,Republican,James VICTERY,29,10,19,0,0
+Spencer,D101,State Senate,14,Republican,Ben MUDD,59,19,40,0,0
+Spencer,D101,State Senate,14,Republican,Stephen CARNEY,23,5,17,1,0
+Spencer,D101,State Senate,14,Republican,Dallas ROBINSON,60,22,36,0,2
+Spencer,D101,State Senate,14,Republican,Lynn SHELBURNE,98,40,57,0,1
+Spencer,D101,State Senate,14,,Under Votes,33,9,23,0,1
+Spencer,D101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,D101,County Clerk,,,Michael STUMP,197,71,125,0,1
+Spencer,D101,County Clerk,,,Lynn HESSELBROCK,124,43,76,1,4
+Spencer,D101,County Clerk,,,Under Votes,11,1,9,0,1
+Spencer,D101,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,9,2,7,0,0
+Spencer,D101,U.S. Senate,,Democratic,Charles BOOKER,23,9,13,0,1
+Spencer,D101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Spencer,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,7,0,7,0,0
+Spencer,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Spencer,D101,U.S. Senate,,Democratic,Pamela STEVENSON,2,1,1,0,0
+Spencer,D101,U.S. Senate,,Democratic,Amy McGRATH,32,9,19,2,2
+Spencer,D101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Spencer,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,D101,U.S. House,4,Democratic,Melissa Claire STRANGE,48,14,29,2,3
+Spencer,D101,U.S. House,4,Democratic,Jesse Russell BREWER,25,6,19,0,0
+Spencer,D101,U.S. House,4,,Under Votes,3,1,2,0,0
+Spencer,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,D101,State Senate,14,Democratic,Carrie Gribbins TRUITT,58,18,37,2,1
+Spencer,D101,State Senate,14,Democratic,Malcolm W. JONES,15,2,11,0,2
+Spencer,D101,State Senate,14,,Under Votes,3,1,2,0,0
+Spencer,D101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,D102,U.S. Senate,,Republican,A. Nick SHELLEY,7,4,3,0,0
+Spencer,D102,U.S. Senate,,Republican,Daniel CAMERON,107,35,71,1,0
+Spencer,D102,U.S. Senate,,Republican,Andy BARR,170,56,113,0,1
+Spencer,D102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Spencer,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Spencer,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,0,3,0,0
+Spencer,D102,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Spencer,D102,U.S. Senate,,Republican,Michael James FARIS,11,5,6,0,0
+Spencer,D102,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
+Spencer,D102,U.S. Senate,,Republican,Jimmy I. LEON,1,1,0,0,0
+Spencer,D102,U.S. Senate,,Republican,George WASHINGTON,8,2,6,0,0
+Spencer,D102,U.S. Senate,,,Under Votes,8,1,6,0,1
+Spencer,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,D102,U.S. House,4,Republican,Thomas MASSIE,110,38,72,0,0
+Spencer,D102,U.S. House,4,Republican,Ed GALLREIN,211,67,139,3,2
+Spencer,D102,U.S. House,4,,Under Votes,10,1,9,0,0
+Spencer,D102,U.S. House,4,,Over Votes,1,0,1,0,0
+Spencer,D102,Ballots Cast,,,,437,,,,
+Spencer,D102,State Senate,14,Republican,Peggy Brady SMITH,7,2,5,0,0
+Spencer,D102,State Senate,14,Republican,Brian BAYERS,19,6,13,0,0
+Spencer,D102,State Senate,14,Republican,James VICTERY,21,5,15,0,1
+Spencer,D102,State Senate,14,Republican,Ben MUDD,73,23,47,3,0
+Spencer,D102,State Senate,14,Republican,Stephen CARNEY,18,14,4,0,0
+Spencer,D102,State Senate,14,Republican,Dallas ROBINSON,62,14,48,0,0
+Spencer,D102,State Senate,14,Republican,Lynn SHELBURNE,105,39,66,0,0
+Spencer,D102,State Senate,14,,Under Votes,27,3,23,0,1
+Spencer,D102,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,D102,County Clerk,,,Michael STUMP,198,55,142,0,1
+Spencer,D102,County Clerk,,,Lynn HESSELBROCK,122,44,74,3,1
+Spencer,D102,County Clerk,,,Under Votes,12,7,5,0,0
+Spencer,D102,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,6,3,2,1,0
+Spencer,D102,U.S. Senate,,Democratic,Charles BOOKER,30,11,19,0,0
+Spencer,D102,U.S. Senate,,Democratic,Logan FORSYTHE,3,1,2,0,0
+Spencer,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Spencer,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,1,2,0,0
+Spencer,D102,U.S. Senate,,Democratic,Pamela STEVENSON,9,1,7,0,1
+Spencer,D102,U.S. Senate,,Democratic,Amy McGRATH,49,21,26,0,2
+Spencer,D102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Spencer,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,D102,U.S. House,4,Democratic,Melissa Claire STRANGE,71,29,39,1,2
+Spencer,D102,U.S. House,4,Democratic,Jesse Russell BREWER,27,7,19,0,1
+Spencer,D102,U.S. House,4,,Under Votes,6,2,4,0,0
+Spencer,D102,U.S. House,4,,Over Votes,1,0,1,0,0
+Spencer,D102,State Senate,14,Democratic,Carrie Gribbins TRUITT,76,30,42,1,3
+Spencer,D102,State Senate,14,Democratic,Malcolm W. JONES,23,6,17,0,0
+Spencer,D102,State Senate,14,,Under Votes,6,2,4,0,0
+Spencer,D102,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,E101,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
+Spencer,E101,U.S. Senate,,Republican,Daniel CAMERON,184,56,124,3,1
+Spencer,E101,U.S. Senate,,Republican,Andy BARR,212,48,161,1,2
+Spencer,E101,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Spencer,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,2,3,0,0
+Spencer,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,4,1,3,0,0
+Spencer,E101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Spencer,E101,U.S. Senate,,Republican,Michael James FARIS,11,2,9,0,0
+Spencer,E101,U.S. Senate,,Republican,James D. DUNCAN,5,2,2,0,1
+Spencer,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Spencer,E101,U.S. Senate,,Republican,George WASHINGTON,7,0,6,0,1
+Spencer,E101,U.S. Senate,,,Under Votes,11,1,10,0,0
+Spencer,E101,U.S. Senate,,,Over Votes,1,1,0,0,0
+Spencer,E101,U.S. House,4,Republican,Thomas MASSIE,174,42,131,1,0
+Spencer,E101,U.S. House,4,Republican,Ed GALLREIN,276,79,189,3,5
+Spencer,E101,U.S. House,4,,Under Votes,7,1,6,0,0
+Spencer,E101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,E101,Ballots Cast,,,,591,,,,
+Spencer,E101,State Senate,14,Republican,Peggy Brady SMITH,12,5,7,0,0
+Spencer,E101,State Senate,14,Republican,Brian BAYERS,24,8,15,1,0
+Spencer,E101,State Senate,14,Republican,James VICTERY,25,7,16,0,2
+Spencer,E101,State Senate,14,Republican,Ben MUDD,94,23,71,0,0
+Spencer,E101,State Senate,14,Republican,Stephen CARNEY,20,5,15,0,0
+Spencer,E101,State Senate,14,Republican,Dallas ROBINSON,106,31,74,1,0
+Spencer,E101,State Senate,14,Republican,Lynn SHELBURNE,128,31,92,2,3
+Spencer,E101,State Senate,14,,Under Votes,48,12,36,0,0
+Spencer,E101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,E101,County Clerk,,,Michael STUMP,266,68,194,3,1
+Spencer,E101,County Clerk,,,Lynn HESSELBROCK,179,53,122,1,3
+Spencer,E101,County Clerk,,,Under Votes,12,1,10,0,1
+Spencer,E101,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,19,6,13,0,0
+Spencer,E101,U.S. Senate,,Democratic,Charles BOOKER,42,8,34,0,0
+Spencer,E101,U.S. Senate,,Democratic,Logan FORSYTHE,5,0,3,0,2
+Spencer,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,4,0,4,0,0
+Spencer,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Spencer,E101,U.S. Senate,,Democratic,Pamela STEVENSON,8,3,5,0,0
+Spencer,E101,U.S. Senate,,Democratic,Amy McGRATH,51,18,33,0,0
+Spencer,E101,U.S. Senate,,,Under Votes,3,0,3,0,0
+Spencer,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,E101,U.S. House,4,Democratic,Melissa Claire STRANGE,77,23,53,0,1
+Spencer,E101,U.S. House,4,Democratic,Jesse Russell BREWER,44,7,36,0,1
+Spencer,E101,U.S. House,4,,Under Votes,13,5,8,0,0
+Spencer,E101,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,E101,State Senate,14,Democratic,Carrie Gribbins TRUITT,87,26,59,0,2
+Spencer,E101,State Senate,14,Democratic,Malcolm W. JONES,33,4,29,0,0
+Spencer,E101,State Senate,14,,Under Votes,14,5,9,0,0
+Spencer,E101,State Senate,14,,Over Votes,0,0,0,0,0
+Spencer,E102,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,4,0,0
+Spencer,E102,U.S. Senate,,Republican,Daniel CAMERON,83,8,75,0,0
+Spencer,E102,U.S. Senate,,Republican,Andy BARR,95,10,85,0,0
+Spencer,E102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Spencer,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Spencer,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Spencer,E102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Spencer,E102,U.S. Senate,,Republican,Michael James FARIS,6,0,6,0,0
+Spencer,E102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Spencer,E102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Spencer,E102,U.S. Senate,,Republican,George WASHINGTON,5,2,3,0,0
+Spencer,E102,U.S. Senate,,,Under Votes,7,2,5,0,0
+Spencer,E102,U.S. Senate,,,Over Votes,1,1,0,0,0
+Spencer,E102,U.S. House,4,Republican,Thomas MASSIE,66,5,61,0,0
+Spencer,E102,U.S. House,4,Republican,Ed GALLREIN,140,19,121,0,0
+Spencer,E102,U.S. House,4,,Under Votes,8,1,7,0,0
+Spencer,E102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,E102,Ballots Cast,,,,297,,,,
+Spencer,E102,State Senate,14,Republican,Peggy Brady SMITH,7,0,7,0,0
+Spencer,E102,State Senate,14,Republican,Brian BAYERS,8,1,7,0,0
+Spencer,E102,State Senate,14,Republican,James VICTERY,17,3,14,0,0
+Spencer,E102,State Senate,14,Republican,Ben MUDD,36,3,33,0,0
+Spencer,E102,State Senate,14,Republican,Stephen CARNEY,19,3,16,0,0
+Spencer,E102,State Senate,14,Republican,Dallas ROBINSON,39,5,34,0,0
+Spencer,E102,State Senate,14,Republican,Lynn SHELBURNE,66,8,58,0,0
+Spencer,E102,State Senate,14,,Under Votes,21,1,20,0,0
+Spencer,E102,State Senate,14,,Over Votes,1,1,0,0,0
+Spencer,E102,County Clerk,,,Michael STUMP,147,16,131,0,0
+Spencer,E102,County Clerk,,,Lynn HESSELBROCK,60,9,51,0,0
+Spencer,E102,County Clerk,,,Under Votes,7,0,7,0,0
+Spencer,E102,County Clerk,,,Over Votes,0,0,0,0,0
+Spencer,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,10,1,9,0,0
+Spencer,E102,U.S. Senate,,Democratic,Charles BOOKER,21,4,16,1,0
+Spencer,E102,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Spencer,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,6,0,6,0,0
+Spencer,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Spencer,E102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Spencer,E102,U.S. Senate,,Democratic,Amy McGRATH,36,6,30,0,0
+Spencer,E102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Spencer,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Spencer,E102,U.S. House,4,Democratic,Melissa Claire STRANGE,45,9,35,1,0
+Spencer,E102,U.S. House,4,Democratic,Jesse Russell BREWER,32,2,30,0,0
+Spencer,E102,U.S. House,4,,Under Votes,6,0,6,0,0
+Spencer,E102,U.S. House,4,,Over Votes,0,0,0,0,0
+Spencer,E102,State Senate,14,Democratic,Carrie Gribbins TRUITT,51,6,45,0,0
+Spencer,E102,State Senate,14,Democratic,Malcolm W. JONES,25,4,20,1,0
+Spencer,E102,State Senate,14,,Under Votes,7,1,6,0,0
+Spencer,E102,State Senate,14,,Over Votes,0,0,0,0,0

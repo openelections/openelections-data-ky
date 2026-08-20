@@ -1,0 +1,590 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Owen,A101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Owen,A101,U.S. Senate,,Republican,Daniel CAMERON,38,1,37,0,0
+Owen,A101,U.S. Senate,,Republican,Andy BARR,43,10,32,1,0
+Owen,A101,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Owen,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Owen,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,A101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Owen,A101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Owen,A101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,A101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Owen,A101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Owen,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A101,U.S. House,4,Republican,Thomas MASSIE,34,1,32,1,0
+Owen,A101,U.S. House,4,Republican,Ed GALLREIN,57,10,47,0,0
+Owen,A101,U.S. House,4,,Under Votes,0,0,0,0,0
+Owen,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A101,Ballots Cast,,,,124,,,,
+Owen,A101,State Representative,47,Republican,Felicia RABOURN,60,7,53,0,0
+Owen,A101,State Representative,47,Republican,Mark A. GILKISON,25,3,21,1,0
+Owen,A101,State Representative,47,,Under Votes,6,1,5,0,0
+Owen,A101,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,A101,County Judge/Executive,,,Todd WOODYARD,26,2,23,1,0
+Owen,A101,County Judge/Executive,,,Tom SLAYBACK,30,5,25,0,0
+Owen,A101,County Judge/Executive,,,Nicholas CARTER,16,1,15,0,0
+Owen,A101,County Judge/Executive,,,Greg ESTES,16,3,13,0,0
+Owen,A101,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Owen,A101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,A101,Sheriff,,,Brent CALDWELL,81,11,69,1,0
+Owen,A101,Sheriff,,,Jimmy McINTOSH,8,0,8,0,0
+Owen,A101,Sheriff,,,Under Votes,2,0,2,0,0
+Owen,A101,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,A101,Magistrate,,,Rodney Brian SMITH,5,0,5,0,0
+Owen,A101,Magistrate,,,John L. WILSON,26,0,25,1,0
+Owen,A101,Magistrate,,,J. T. OLDS,56,11,45,0,0
+Owen,A101,Magistrate,,,Under Votes,4,0,4,0,0
+Owen,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
+Owen,A101,U.S. Senate,,Democratic,Charles BOOKER,12,1,11,0,0
+Owen,A101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Owen,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Owen,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Owen,A101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Owen,A101,U.S. Senate,,Democratic,Amy McGRATH,12,0,12,0,0
+Owen,A101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Owen,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A101,U.S. House,4,Democratic,Melissa Claire STRANGE,17,1,16,0,0
+Owen,A101,U.S. House,4,Democratic,Jesse Russell BREWER,12,0,12,0,0
+Owen,A101,U.S. House,4,,Under Votes,4,0,4,0,0
+Owen,A101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A103,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
+Owen,A103,U.S. Senate,,Republican,Daniel CAMERON,56,4,52,0,0
+Owen,A103,U.S. Senate,,Republican,Andy BARR,93,11,82,0,0
+Owen,A103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,A103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,1,4,0,0
+Owen,A103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Owen,A103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,A103,U.S. Senate,,Republican,Michael James FARIS,14,0,14,0,0
+Owen,A103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Owen,A103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,A103,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Owen,A103,U.S. Senate,,,Under Votes,8,2,6,0,0
+Owen,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A103,U.S. House,4,Republican,Thomas MASSIE,80,7,73,0,0
+Owen,A103,U.S. House,4,Republican,Ed GALLREIN,101,11,90,0,0
+Owen,A103,U.S. House,4,,Under Votes,4,0,4,0,0
+Owen,A103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A103,Ballots Cast,,,,227,,,,
+Owen,A103,State Representative,47,Republican,Felicia RABOURN,107,12,95,0,0
+Owen,A103,State Representative,47,Republican,Mark A. GILKISON,67,4,63,0,0
+Owen,A103,State Representative,47,,Under Votes,11,2,9,0,0
+Owen,A103,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,A103,County Judge/Executive,,,Todd WOODYARD,39,9,30,0,0
+Owen,A103,County Judge/Executive,,,Tom SLAYBACK,102,7,95,0,0
+Owen,A103,County Judge/Executive,,,Nicholas CARTER,25,0,25,0,0
+Owen,A103,County Judge/Executive,,,Greg ESTES,16,2,14,0,0
+Owen,A103,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Owen,A103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,A103,Sheriff,,,Brent CALDWELL,126,11,115,0,0
+Owen,A103,Sheriff,,,Jimmy McINTOSH,53,6,47,0,0
+Owen,A103,Sheriff,,,Under Votes,6,1,5,0,0
+Owen,A103,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,A103,Magistrate,,,Rodney Brian SMITH,14,2,12,0,0
+Owen,A103,Magistrate,,,John L. WILSON,33,3,30,0,0
+Owen,A103,Magistrate,,,J. T. OLDS,135,13,122,0,0
+Owen,A103,Magistrate,,,Under Votes,3,0,3,0,0
+Owen,A103,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,A103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Owen,A103,U.S. Senate,,Democratic,Charles BOOKER,10,0,10,0,0
+Owen,A103,U.S. Senate,,Democratic,Logan FORSYTHE,4,1,3,0,0
+Owen,A103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Owen,A103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Owen,A103,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Owen,A103,U.S. Senate,,Democratic,Amy McGRATH,17,0,16,1,0
+Owen,A103,U.S. Senate,,,Under Votes,5,0,5,0,0
+Owen,A103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A103,U.S. House,4,Democratic,Melissa Claire STRANGE,16,0,16,0,0
+Owen,A103,U.S. House,4,Democratic,Jesse Russell BREWER,20,1,18,1,0
+Owen,A103,U.S. House,4,,Under Votes,6,0,6,0,0
+Owen,A103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,A104,U.S. Senate,,Republican,Daniel CAMERON,22,2,20,0,0
+Owen,A104,U.S. Senate,,Republican,Andy BARR,49,3,43,0,3
+Owen,A104,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Owen,A104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,Michael James FARIS,1,1,0,0,0
+Owen,A104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,A104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Owen,A104,U.S. Senate,,,Under Votes,4,1,3,0,0
+Owen,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A104,U.S. House,4,Republican,Thomas MASSIE,31,4,26,0,1
+Owen,A104,U.S. House,4,Republican,Ed GALLREIN,47,3,42,0,2
+Owen,A104,U.S. House,4,,Under Votes,0,0,0,0,0
+Owen,A104,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A104,Ballots Cast,,,,93,,,,
+Owen,A104,State Representative,47,Republican,Felicia RABOURN,38,2,33,0,3
+Owen,A104,State Representative,47,Republican,Mark A. GILKISON,37,4,33,0,0
+Owen,A104,State Representative,47,,Under Votes,3,1,2,0,0
+Owen,A104,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,A104,County Judge/Executive,,,Todd WOODYARD,22,1,21,0,0
+Owen,A104,County Judge/Executive,,,Tom SLAYBACK,26,1,23,0,2
+Owen,A104,County Judge/Executive,,,Nicholas CARTER,16,1,15,0,0
+Owen,A104,County Judge/Executive,,,Greg ESTES,11,3,7,0,1
+Owen,A104,County Judge/Executive,,,Under Votes,3,1,2,0,0
+Owen,A104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,A104,Sheriff,,,Brent CALDWELL,65,6,57,0,2
+Owen,A104,Sheriff,,,Jimmy McINTOSH,12,1,10,0,1
+Owen,A104,Sheriff,,,Under Votes,1,0,1,0,0
+Owen,A104,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,A104,Magistrate,,,Rodney Brian SMITH,11,2,9,0,0
+Owen,A104,Magistrate,,,John L. WILSON,19,2,17,0,0
+Owen,A104,Magistrate,,,J. T. OLDS,46,2,41,0,3
+Owen,A104,Magistrate,,,Under Votes,2,1,1,0,0
+Owen,A104,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,A104,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Owen,A104,U.S. Senate,,Democratic,Charles BOOKER,5,0,5,0,0
+Owen,A104,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,2,2,0
+Owen,A104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Owen,A104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Owen,A104,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,1,1,0
+Owen,A104,U.S. Senate,,Democratic,Amy McGRATH,1,0,1,0,0
+Owen,A104,U.S. Senate,,,Under Votes,1,0,0,1,0
+Owen,A104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A104,U.S. House,4,Democratic,Melissa Claire STRANGE,6,0,3,3,0
+Owen,A104,U.S. House,4,Democratic,Jesse Russell BREWER,8,0,8,0,0
+Owen,A104,U.S. House,4,,Under Votes,1,0,0,1,0
+Owen,A104,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A105,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
+Owen,A105,U.S. Senate,,Republican,Daniel CAMERON,90,12,76,2,0
+Owen,A105,U.S. Senate,,Republican,Andy BARR,136,28,105,1,2
+Owen,A105,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,A105,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Owen,A105,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,A105,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,A105,U.S. Senate,,Republican,Michael James FARIS,6,2,4,0,0
+Owen,A105,U.S. Senate,,Republican,James D. DUNCAN,1,1,0,0,0
+Owen,A105,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,A105,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Owen,A105,U.S. Senate,,,Under Votes,7,1,6,0,0
+Owen,A105,U.S. Senate,,,Over Votes,1,0,1,0,0
+Owen,A105,U.S. House,4,Republican,Thomas MASSIE,109,24,85,0,0
+Owen,A105,U.S. House,4,Republican,Ed GALLREIN,143,23,116,2,2
+Owen,A105,U.S. House,4,,Under Votes,4,1,2,1,0
+Owen,A105,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,A105,Ballots Cast,,,,349,,,,
+Owen,A105,State Representative,47,Republican,Felicia RABOURN,122,33,84,3,2
+Owen,A105,State Representative,47,Republican,Mark A. GILKISON,122,13,109,0,0
+Owen,A105,State Representative,47,,Under Votes,12,2,10,0,0
+Owen,A105,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,A105,County Judge/Executive,,,Todd WOODYARD,75,10,63,0,2
+Owen,A105,County Judge/Executive,,,Tom SLAYBACK,95,16,77,2,0
+Owen,A105,County Judge/Executive,,,Nicholas CARTER,32,11,20,1,0
+Owen,A105,County Judge/Executive,,,Greg ESTES,51,10,41,0,0
+Owen,A105,County Judge/Executive,,,Under Votes,3,1,2,0,0
+Owen,A105,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,A105,Sheriff,,,Brent CALDWELL,213,40,168,3,2
+Owen,A105,Sheriff,,,Jimmy McINTOSH,40,7,33,0,0
+Owen,A105,Sheriff,,,Under Votes,3,1,2,0,0
+Owen,A105,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,A105,Magistrate,,,Rodney Brian SMITH,27,5,22,0,0
+Owen,A105,Magistrate,,,John L. WILSON,47,12,35,0,0
+Owen,A105,Magistrate,,,J. T. OLDS,170,27,139,2,2
+Owen,A105,Magistrate,,,Under Votes,12,4,7,1,0
+Owen,A105,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,A105,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,1,4,0,0
+Owen,A105,U.S. Senate,,Democratic,Charles BOOKER,29,4,24,1,0
+Owen,A105,U.S. Senate,,Democratic,Logan FORSYTHE,9,0,9,0,0
+Owen,A105,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,0,1,0
+Owen,A105,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,1,1,0,0
+Owen,A105,U.S. Senate,,Democratic,Pamela STEVENSON,7,2,4,1,0
+Owen,A105,U.S. Senate,,Democratic,Amy McGRATH,38,6,32,0,0
+Owen,A105,U.S. Senate,,,Under Votes,2,0,2,0,0
+Owen,A105,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,A105,U.S. House,4,Democratic,Melissa Claire STRANGE,50,7,41,2,0
+Owen,A105,U.S. House,4,Democratic,Jesse Russell BREWER,40,6,33,1,0
+Owen,A105,U.S. House,4,,Under Votes,3,1,2,0,0
+Owen,A105,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,B102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,B102,U.S. Senate,,Republican,Daniel CAMERON,120,5,112,2,1
+Owen,B102,U.S. Senate,,Republican,Andy BARR,177,27,148,2,0
+Owen,B102,U.S. Senate,,Republican,Anissa CATLETT,3,0,3,0,0
+Owen,B102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Owen,B102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,B102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,B102,U.S. Senate,,Republican,Michael James FARIS,9,2,7,0,0
+Owen,B102,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Owen,B102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,B102,U.S. Senate,,Republican,George WASHINGTON,6,1,5,0,0
+Owen,B102,U.S. Senate,,,Under Votes,11,3,8,0,0
+Owen,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,B102,U.S. House,4,Republican,Thomas MASSIE,140,8,129,2,1
+Owen,B102,U.S. House,4,Republican,Ed GALLREIN,189,29,158,2,0
+Owen,B102,U.S. House,4,,Under Votes,8,1,7,0,0
+Owen,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,B102,Ballots Cast,,,,431,,,,
+Owen,B102,State Representative,47,Republican,Felicia RABOURN,156,15,138,3,0
+Owen,B102,State Representative,47,Republican,Mark A. GILKISON,160,20,138,1,1
+Owen,B102,State Representative,47,,Under Votes,21,3,18,0,0
+Owen,B102,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,B102,County Judge/Executive,,,Todd WOODYARD,119,19,99,1,0
+Owen,B102,County Judge/Executive,,,Tom SLAYBACK,78,7,69,2,0
+Owen,B102,County Judge/Executive,,,Nicholas CARTER,57,2,54,1,0
+Owen,B102,County Judge/Executive,,,Greg ESTES,78,10,67,0,1
+Owen,B102,County Judge/Executive,,,Under Votes,4,0,4,0,0
+Owen,B102,County Judge/Executive,,,Over Votes,1,0,1,0,0
+Owen,B102,Sheriff,,,Brent CALDWELL,276,32,240,3,1
+Owen,B102,Sheriff,,,Jimmy McINTOSH,57,6,50,1,0
+Owen,B102,Sheriff,,,Under Votes,4,0,4,0,0
+Owen,B102,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,B102,Magistrate,,,Dane PERKINS,191,22,168,1,0
+Owen,B102,Magistrate,,,Larry KARSNER,79,8,69,1,1
+Owen,B102,Magistrate,,,Under Votes,20,3,17,0,0
+Owen,B102,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,B102,Constable,,,Kevin HUDSON,146,11,130,4,1
+Owen,B102,Constable,,,Under Votes,73,17,56,0,0
+Owen,B102,Constable,,,Over Votes,0,0,0,0,0
+Owen,B102,U.S. Senate,,Democratic,Dale Lewis ROMANS,8,2,6,0,0
+Owen,B102,U.S. Senate,,Democratic,Charles BOOKER,33,7,25,1,0
+Owen,B102,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
+Owen,B102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,0,1,0
+Owen,B102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Owen,B102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,3,0,0
+Owen,B102,U.S. Senate,,Democratic,Amy McGRATH,42,6,36,0,0
+Owen,B102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Owen,B102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,B102,U.S. House,4,Democratic,Melissa Claire STRANGE,52,11,41,0,0
+Owen,B102,U.S. House,4,Democratic,Jesse Russell BREWER,37,3,32,2,0
+Owen,B102,U.S. House,4,,Under Votes,5,2,3,0,0
+Owen,B102,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,B103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,B103,U.S. Senate,,Republican,Daniel CAMERON,74,7,67,0,0
+Owen,B103,U.S. Senate,,Republican,Andy BARR,87,10,75,2,0
+Owen,B103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Owen,B103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,1,3,0,0
+Owen,B103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Owen,B103,U.S. Senate,,Republican,Other Donald WENZEL,2,1,1,0,0
+Owen,B103,U.S. Senate,,Republican,Michael James FARIS,5,1,4,0,0
+Owen,B103,U.S. Senate,,Republican,James D. DUNCAN,2,1,1,0,0
+Owen,B103,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Owen,B103,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Owen,B103,U.S. Senate,,,Under Votes,14,4,9,1,0
+Owen,B103,U.S. Senate,,,Over Votes,1,0,1,0,0
+Owen,B103,U.S. House,4,Republican,Thomas MASSIE,102,13,88,1,0
+Owen,B103,U.S. House,4,Republican,Ed GALLREIN,89,9,78,2,0
+Owen,B103,U.S. House,4,,Under Votes,14,3,10,1,0
+Owen,B103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,B103,Ballots Cast,,,,284,,,,
+Owen,B103,State Representative,47,Republican,Felicia RABOURN,130,13,115,2,0
+Owen,B103,State Representative,47,Republican,Mark A. GILKISON,57,7,50,0,0
+Owen,B103,State Representative,47,,Under Votes,18,5,11,2,0
+Owen,B103,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,B103,County Judge/Executive,,,Todd WOODYARD,69,11,57,1,0
+Owen,B103,County Judge/Executive,,,Tom SLAYBACK,42,4,37,1,0
+Owen,B103,County Judge/Executive,,,Nicholas CARTER,31,7,24,0,0
+Owen,B103,County Judge/Executive,,,Greg ESTES,58,3,54,1,0
+Owen,B103,County Judge/Executive,,,Under Votes,5,0,4,1,0
+Owen,B103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,B103,Sheriff,,,Brent CALDWELL,141,20,118,3,0
+Owen,B103,Sheriff,,,Jimmy McINTOSH,58,5,53,0,0
+Owen,B103,Sheriff,,,Under Votes,6,0,5,1,0
+Owen,B103,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,B103,Magistrate,,,Dane PERKINS,100,15,83,2,0
+Owen,B103,Magistrate,,,Larry KARSNER,57,7,49,1,0
+Owen,B103,Magistrate,,,Under Votes,12,1,10,1,0
+Owen,B103,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,B103,Constable,,,Kevin HUDSON,105,13,90,2,0
+Owen,B103,Constable,,,Under Votes,42,8,33,1,0
+Owen,B103,Constable,,,Over Votes,0,0,0,0,0
+Owen,B103,U.S. Senate,,Democratic,Dale Lewis ROMANS,9,1,8,0,0
+Owen,B103,U.S. Senate,,Democratic,Charles BOOKER,24,4,20,0,0
+Owen,B103,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Owen,B103,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,2,1,0
+Owen,B103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,3,1,0
+Owen,B103,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
+Owen,B103,U.S. Senate,,Democratic,Amy McGRATH,32,4,25,2,1
+Owen,B103,U.S. Senate,,,Under Votes,2,0,2,0,0
+Owen,B103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,B103,U.S. House,4,Democratic,Melissa Claire STRANGE,39,6,30,2,1
+Owen,B103,U.S. House,4,Democratic,Jesse Russell BREWER,33,2,29,2,0
+Owen,B103,U.S. House,4,,Under Votes,7,2,5,0,0
+Owen,B103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,C101,U.S. Senate,,Republican,Daniel CAMERON,35,0,35,0,0
+Owen,C101,U.S. Senate,,Republican,Andy BARR,118,8,110,0,0
+Owen,C101,U.S. Senate,,Republican,Anissa CATLETT,3,0,3,0,0
+Owen,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Owen,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,C101,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
+Owen,C101,U.S. Senate,,Republican,James D. DUNCAN,1,0,0,0,1
+Owen,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,C101,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Owen,C101,U.S. Senate,,,Under Votes,12,0,12,0,0
+Owen,C101,U.S. Senate,,,Over Votes,2,0,2,0,0
+Owen,C101,U.S. House,4,Republican,Thomas MASSIE,71,5,65,0,1
+Owen,C101,U.S. House,4,Republican,Ed GALLREIN,103,4,99,0,0
+Owen,C101,U.S. House,4,,Under Votes,6,0,6,0,0
+Owen,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C101,Ballots Cast,,,,226,,,,
+Owen,C101,State Representative,47,Republican,Felicia RABOURN,85,7,77,0,1
+Owen,C101,State Representative,47,Republican,Mark A. GILKISON,67,2,65,0,0
+Owen,C101,State Representative,47,,Under Votes,28,0,28,0,0
+Owen,C101,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,C101,County Judge/Executive,,,Todd WOODYARD,91,5,86,0,0
+Owen,C101,County Judge/Executive,,,Tom SLAYBACK,28,2,26,0,0
+Owen,C101,County Judge/Executive,,,Nicholas CARTER,15,1,14,0,0
+Owen,C101,County Judge/Executive,,,Greg ESTES,29,1,27,0,1
+Owen,C101,County Judge/Executive,,,Under Votes,16,0,16,0,0
+Owen,C101,County Judge/Executive,,,Over Votes,1,0,1,0,0
+Owen,C101,Sheriff,,,Brent CALDWELL,146,5,141,0,0
+Owen,C101,Sheriff,,,Jimmy McINTOSH,26,4,21,0,1
+Owen,C101,Sheriff,,,Under Votes,8,0,8,0,0
+Owen,C101,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,C101,Magistrate,,,Teresa Kemper DAVIS,73,2,70,0,1
+Owen,C101,Magistrate,,,George MILLER,34,3,31,0,0
+Owen,C101,Magistrate,,,"Wayne ""Frog"" HARRIS",54,4,50,0,0
+Owen,C101,Magistrate,,,Under Votes,19,0,19,0,0
+Owen,C101,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Owen,C101,U.S. Senate,,Democratic,Charles BOOKER,18,2,16,0,0
+Owen,C101,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Owen,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Owen,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Owen,C101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Owen,C101,U.S. Senate,,Democratic,Amy McGRATH,20,2,18,0,0
+Owen,C101,U.S. Senate,,,Under Votes,1,0,1,0,0
+Owen,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,C101,U.S. House,4,Democratic,Melissa Claire STRANGE,26,2,24,0,0
+Owen,C101,U.S. House,4,Democratic,Jesse Russell BREWER,18,2,16,0,0
+Owen,C101,U.S. House,4,,Under Votes,2,0,2,0,0
+Owen,C101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,C103,U.S. Senate,,Republican,Daniel CAMERON,50,2,47,1,0
+Owen,C103,U.S. Senate,,Republican,Andy BARR,55,1,53,1,0
+Owen,C103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,C103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Owen,C103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,C103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,C103,U.S. Senate,,Republican,Michael James FARIS,4,1,3,0,0
+Owen,C103,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Owen,C103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,C103,U.S. Senate,,Republican,George WASHINGTON,8,4,4,0,0
+Owen,C103,U.S. Senate,,,Under Votes,5,0,4,1,0
+Owen,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,C103,U.S. House,4,Republican,Thomas MASSIE,53,5,48,0,0
+Owen,C103,U.S. House,4,Republican,Ed GALLREIN,76,3,70,3,0
+Owen,C103,U.S. House,4,,Under Votes,2,0,2,0,0
+Owen,C103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C103,Ballots Cast,,,,174,,,,
+Owen,C103,State Representative,47,Republican,Felicia RABOURN,62,3,57,2,0
+Owen,C103,State Representative,47,Republican,Mark A. GILKISON,58,5,52,1,0
+Owen,C103,State Representative,47,,Under Votes,11,0,11,0,0
+Owen,C103,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,C103,County Judge/Executive,,,Todd WOODYARD,57,0,56,1,0
+Owen,C103,County Judge/Executive,,,Tom SLAYBACK,18,3,15,0,0
+Owen,C103,County Judge/Executive,,,Nicholas CARTER,22,4,18,0,0
+Owen,C103,County Judge/Executive,,,Greg ESTES,32,1,29,2,0
+Owen,C103,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Owen,C103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,C103,Sheriff,,,Brent CALDWELL,107,7,97,3,0
+Owen,C103,Sheriff,,,Jimmy McINTOSH,23,1,22,0,0
+Owen,C103,Sheriff,,,Under Votes,1,0,1,0,0
+Owen,C103,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,C103,Magistrate,,,Teresa Kemper DAVIS,43,4,38,1,0
+Owen,C103,Magistrate,,,George MILLER,11,0,10,1,0
+Owen,C103,Magistrate,,,"Wayne ""Frog"" HARRIS",76,4,71,1,0
+Owen,C103,Magistrate,,,Under Votes,1,0,1,0,0
+Owen,C103,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,C103,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,2,3,0,0
+Owen,C103,U.S. Senate,,Democratic,Charles BOOKER,14,0,13,1,0
+Owen,C103,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Owen,C103,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Owen,C103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,3,0,3,0,0
+Owen,C103,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,2,0,0
+Owen,C103,U.S. Senate,,Democratic,Amy McGRATH,14,3,11,0,0
+Owen,C103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Owen,C103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,C103,U.S. House,4,Democratic,Melissa Claire STRANGE,22,1,20,1,0
+Owen,C103,U.S. House,4,Democratic,Jesse Russell BREWER,18,3,15,0,0
+Owen,C103,U.S. House,4,,Under Votes,3,1,2,0,0
+Owen,C103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,A. Nick SHELLEY,1,1,0,0,0
+Owen,C104,U.S. Senate,,Republican,Daniel CAMERON,67,9,57,1,0
+Owen,C104,U.S. Senate,,Republican,Andy BARR,87,7,80,0,0
+Owen,C104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Owen,C104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Owen,C104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,C104,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Owen,C104,U.S. Senate,,,Under Votes,5,0,5,0,0
+Owen,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,C104,U.S. House,4,Republican,Thomas MASSIE,63,6,57,0,0
+Owen,C104,U.S. House,4,Republican,Ed GALLREIN,101,11,89,1,0
+Owen,C104,U.S. House,4,,Under Votes,6,0,6,0,0
+Owen,C104,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,C104,Ballots Cast,,,,218,,,,
+Owen,C104,State Representative,47,Republican,Felicia RABOURN,87,8,79,0,0
+Owen,C104,State Representative,47,Republican,Mark A. GILKISON,70,9,60,1,0
+Owen,C104,State Representative,47,,Under Votes,13,0,13,0,0
+Owen,C104,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,C104,County Judge/Executive,,,Todd WOODYARD,73,8,64,1,0
+Owen,C104,County Judge/Executive,,,Tom SLAYBACK,38,5,33,0,0
+Owen,C104,County Judge/Executive,,,Nicholas CARTER,19,0,19,0,0
+Owen,C104,County Judge/Executive,,,Greg ESTES,31,4,27,0,0
+Owen,C104,County Judge/Executive,,,Under Votes,9,0,9,0,0
+Owen,C104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,C104,Sheriff,,,Brent CALDWELL,133,14,118,1,0
+Owen,C104,Sheriff,,,Jimmy McINTOSH,32,3,29,0,0
+Owen,C104,Sheriff,,,Under Votes,5,0,5,0,0
+Owen,C104,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,C104,Magistrate,,,Teresa Kemper DAVIS,36,2,34,0,0
+Owen,C104,Magistrate,,,George MILLER,33,1,31,1,0
+Owen,C104,Magistrate,,,"Wayne ""Frog"" HARRIS",86,14,72,0,0
+Owen,C104,Magistrate,,,Under Votes,15,0,15,0,0
+Owen,C104,Magistrate,,,Over Votes,0,0,0,0,0
+Owen,C104,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Owen,C104,U.S. Senate,,Democratic,Charles BOOKER,21,1,20,0,0
+Owen,C104,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Owen,C104,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Owen,C104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Owen,C104,U.S. Senate,,Democratic,Pamela STEVENSON,5,0,5,0,0
+Owen,C104,U.S. Senate,,Democratic,Amy McGRATH,14,1,13,0,0
+Owen,C104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Owen,C104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,C104,U.S. House,4,Democratic,Melissa Claire STRANGE,30,0,30,0,0
+Owen,C104,U.S. House,4,Democratic,Jesse Russell BREWER,17,2,15,0,0
+Owen,C104,U.S. House,4,,Under Votes,1,0,1,0,0
+Owen,C104,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,D101,U.S. Senate,,Republican,Daniel CAMERON,76,5,70,0,1
+Owen,D101,U.S. Senate,,Republican,Andy BARR,78,1,74,1,2
+Owen,D101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Owen,D101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,1,4,0,0
+Owen,D101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Owen,D101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Owen,D101,U.S. Senate,,Republican,Michael James FARIS,3,0,3,0,0
+Owen,D101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Owen,D101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,D101,U.S. Senate,,Republican,George WASHINGTON,7,0,7,0,0
+Owen,D101,U.S. Senate,,,Under Votes,11,2,8,1,0
+Owen,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D101,U.S. House,4,Republican,Thomas MASSIE,83,5,75,2,1
+Owen,D101,U.S. House,4,Republican,Ed GALLREIN,104,3,99,0,2
+Owen,D101,U.S. House,4,,Under Votes,8,2,6,0,0
+Owen,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D101,Ballots Cast,,,,272,,,,
+Owen,D101,State Representative,47,Republican,Felicia RABOURN,97,4,90,2,1
+Owen,D101,State Representative,47,Republican,Mark A. GILKISON,76,2,72,0,2
+Owen,D101,State Representative,47,,Under Votes,22,4,18,0,0
+Owen,D101,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,D101,County Judge/Executive,,,Todd WOODYARD,91,7,79,2,3
+Owen,D101,County Judge/Executive,,,Tom SLAYBACK,25,2,23,0,0
+Owen,D101,County Judge/Executive,,,Nicholas CARTER,58,0,58,0,0
+Owen,D101,County Judge/Executive,,,Greg ESTES,16,1,15,0,0
+Owen,D101,County Judge/Executive,,,Under Votes,5,0,5,0,0
+Owen,D101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,D101,Sheriff,,,Brent CALDWELL,162,8,149,2,3
+Owen,D101,Sheriff,,,Jimmy McINTOSH,23,2,21,0,0
+Owen,D101,Sheriff,,,Under Votes,10,0,10,0,0
+Owen,D101,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,D101,U.S. Senate,,Democratic,Dale Lewis ROMANS,5,0,5,0,0
+Owen,D101,U.S. Senate,,Democratic,Charles BOOKER,30,4,25,1,0
+Owen,D101,U.S. Senate,,Democratic,Logan FORSYTHE,8,0,8,0,0
+Owen,D101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Owen,D101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Owen,D101,U.S. Senate,,Democratic,Pamela STEVENSON,4,0,4,0,0
+Owen,D101,U.S. Senate,,Democratic,Amy McGRATH,27,0,25,2,0
+Owen,D101,U.S. Senate,,,Under Votes,2,0,2,0,0
+Owen,D101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D101,U.S. House,4,Democratic,Melissa Claire STRANGE,45,3,39,3,0
+Owen,D101,U.S. House,4,Democratic,Jesse Russell BREWER,24,1,23,0,0
+Owen,D101,U.S. House,4,,Under Votes,8,0,8,0,0
+Owen,D101,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Owen,D102,U.S. Senate,,Republican,Daniel CAMERON,66,12,51,2,1
+Owen,D102,U.S. Senate,,Republican,Andy BARR,82,15,67,0,0
+Owen,D102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Owen,D102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,1,0,0,0
+Owen,D102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Owen,D102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,D102,U.S. Senate,,Republican,Michael James FARIS,5,0,5,0,0
+Owen,D102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Owen,D102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,D102,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Owen,D102,U.S. Senate,,,Under Votes,1,0,1,0,0
+Owen,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D102,U.S. House,4,Republican,Thomas MASSIE,72,10,62,0,0
+Owen,D102,U.S. House,4,Republican,Ed GALLREIN,85,17,65,2,1
+Owen,D102,U.S. House,4,,Under Votes,4,1,3,0,0
+Owen,D102,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D102,Ballots Cast,,,,212,,,,
+Owen,D102,State Representative,47,Republican,Felicia RABOURN,82,14,67,1,0
+Owen,D102,State Representative,47,Republican,Mark A. GILKISON,70,12,56,1,1
+Owen,D102,State Representative,47,,Under Votes,8,2,6,0,0
+Owen,D102,State Representative,47,,Over Votes,1,0,1,0,0
+Owen,D102,County Judge/Executive,,,Todd WOODYARD,47,5,41,1,0
+Owen,D102,County Judge/Executive,,,Tom SLAYBACK,41,9,31,0,1
+Owen,D102,County Judge/Executive,,,Nicholas CARTER,27,6,20,1,0
+Owen,D102,County Judge/Executive,,,Greg ESTES,41,8,33,0,0
+Owen,D102,County Judge/Executive,,,Under Votes,5,0,5,0,0
+Owen,D102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,D102,Sheriff,,,Brent CALDWELL,128,18,108,1,1
+Owen,D102,Sheriff,,,Jimmy McINTOSH,27,10,16,1,0
+Owen,D102,Sheriff,,,Under Votes,6,0,6,0,0
+Owen,D102,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,D102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Owen,D102,U.S. Senate,,Democratic,Charles BOOKER,19,0,19,0,0
+Owen,D102,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Owen,D102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Owen,D102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,2,0,2,0,0
+Owen,D102,U.S. Senate,,Democratic,Pamela STEVENSON,3,0,1,2,0
+Owen,D102,U.S. Senate,,Democratic,Amy McGRATH,18,0,18,0,0
+Owen,D102,U.S. Senate,,,Under Votes,3,0,3,0,0
+Owen,D102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D102,U.S. House,4,Democratic,Melissa Claire STRANGE,30,0,28,2,0
+Owen,D102,U.S. House,4,Democratic,Jesse Russell BREWER,21,0,21,0,0
+Owen,D102,U.S. House,4,,Under Votes,0,0,0,0,0
+Owen,D102,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,Daniel CAMERON,39,10,29,0,0
+Owen,D103,U.S. Senate,,Republican,Andy BARR,55,9,45,1,0
+Owen,D103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Owen,D103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Owen,D103,U.S. Senate,,Republican,James D. DUNCAN,1,0,0,1,0
+Owen,D103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Owen,D103,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Owen,D103,U.S. Senate,,,Under Votes,3,0,3,0,0
+Owen,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D103,U.S. House,4,Republican,Thomas MASSIE,40,4,35,1,0
+Owen,D103,U.S. House,4,Republican,Ed GALLREIN,60,15,44,1,0
+Owen,D103,U.S. House,4,,Under Votes,1,0,1,0,0
+Owen,D103,U.S. House,4,,Over Votes,0,0,0,0,0
+Owen,D103,Ballots Cast,,,,130,,,,
+Owen,D103,State Representative,47,Republican,Felicia RABOURN,64,17,45,2,0
+Owen,D103,State Representative,47,Republican,Mark A. GILKISON,34,2,32,0,0
+Owen,D103,State Representative,47,,Under Votes,3,0,3,0,0
+Owen,D103,State Representative,47,,Over Votes,0,0,0,0,0
+Owen,D103,County Judge/Executive,,,Todd WOODYARD,38,5,32,1,0
+Owen,D103,County Judge/Executive,,,Tom SLAYBACK,28,3,25,0,0
+Owen,D103,County Judge/Executive,,,Nicholas CARTER,14,1,13,0,0
+Owen,D103,County Judge/Executive,,,Greg ESTES,18,10,7,1,0
+Owen,D103,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Owen,D103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Owen,D103,Sheriff,,,Brent CALDWELL,74,14,58,2,0
+Owen,D103,Sheriff,,,Jimmy McINTOSH,21,5,16,0,0
+Owen,D103,Sheriff,,,Under Votes,6,0,6,0,0
+Owen,D103,Sheriff,,,Over Votes,0,0,0,0,0
+Owen,D103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Owen,D103,U.S. Senate,,Democratic,Charles BOOKER,7,0,7,0,0
+Owen,D103,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,3,1,0
+Owen,D103,U.S. Senate,,Democratic,Joshua BLANTON SR.,3,0,3,0,0
+Owen,D103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Owen,D103,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
+Owen,D103,U.S. Senate,,Democratic,Amy McGRATH,11,0,11,0,0
+Owen,D103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Owen,D103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Owen,D103,U.S. House,4,Democratic,Melissa Claire STRANGE,14,1,13,0,0
+Owen,D103,U.S. House,4,Democratic,Jesse Russell BREWER,14,0,13,1,0
+Owen,D103,U.S. House,4,,Under Votes,1,0,1,0,0
+Owen,D103,U.S. House,4,,Over Votes,0,0,0,0,0

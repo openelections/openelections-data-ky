@@ -1,0 +1,505 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day,absentee_mail,absentee
+Union,A101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,A101,U.S. Senate,,Republican,James D. DUNCAN,4,1,2,1,0
+Union,A101,U.S. Senate,,Republican,George WASHINGTON,3,0,3,0,0
+Union,A101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",5,1,4,0,0
+Union,A101,U.S. Senate,,Republican,Andy BARR,233,70,155,5,3
+Union,A101,U.S. Senate,,Republican,Jimmy I. LEON,3,1,2,0,0
+Union,A101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,0,1,0
+Union,A101,U.S. Senate,,Republican,Daniel CAMERON,98,22,72,3,1
+Union,A101,U.S. Senate,,Republican,Anissa CATLETT,3,2,1,0,0
+Union,A101,U.S. Senate,,Republican,Michael James FARIS,6,2,4,0,0
+Union,A101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,3,2,1,0,0
+Union,A101,U.S. Senate,,,Under Votes,22,2,20,0,0
+Union,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,A101,Ballots Cast,,,,619,,,,
+Union,A101,U.S. House,1,Republican,David SIMS,20,6,13,0,1
+Union,A101,U.S. House,1,Republican,Robert James SUTHERBY,12,1,9,2,0
+Union,A101,U.S. House,1,Republican,Penny ARCOS,10,3,6,0,1
+Union,A101,U.S. House,1,Republican,James R. COMER,323,95,217,9,2
+Union,A101,U.S. House,1,,Under Votes,37,4,32,1,0
+Union,A101,U.S. House,1,,Over Votes,1,1,0,0,0
+Union,A101,County Judge/Executive,,,Marvin BUTTS,50,15,33,2,0
+Union,A101,County Judge/Executive,,,Adam R. O'NAN,341,92,235,10,4
+Union,A101,County Judge/Executive,,,Under Votes,12,3,9,0,0
+Union,A101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,A101,County Clerk,,,Christopher Lee WILLETT,75,12,62,1,0
+Union,A101,County Clerk,,,Garrick THOMPSON,320,96,209,11,4
+Union,A101,County Clerk,,,Under Votes,7,2,5,0,0
+Union,A101,County Clerk,,,Over Votes,1,0,1,0,0
+Union,A101,Magistrate,,,Leo REDNOUR,193,53,137,1,2
+Union,A101,Magistrate,,,Rick WYATT,184,54,121,8,1
+Union,A101,Magistrate,,,Under Votes,6,1,5,0,0
+Union,A101,Magistrate,,,Over Votes,0,0,0,0,0
+Union,A101,Constable,,,Michael W. WILLETT,196,53,138,4,1
+Union,A101,Constable,,,Brandon L. CAPPS,141,46,87,6,2
+Union,A101,Constable,,,Under Votes,66,11,52,2,1
+Union,A101,Constable,,,Over Votes,0,0,0,0,0
+Union,A101,U.S. Senate,,Democratic,Joshua BLANTON SR.,9,1,8,0,0
+Union,A101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,12,5,6,1,0
+Union,A101,U.S. Senate,,Democratic,Charles BOOKER,62,10,52,0,0
+Union,A101,U.S. Senate,,Democratic,Pamela STEVENSON,8,2,6,0,0
+Union,A101,U.S. Senate,,Democratic,Dale Lewis ROMANS,7,1,6,0,0
+Union,A101,U.S. Senate,,Democratic,Logan FORSYTHE,8,2,6,0,0
+Union,A101,U.S. Senate,,Democratic,Amy McGRATH,101,30,69,2,0
+Union,A101,U.S. Senate,,,Under Votes,9,2,7,0,0
+Union,A101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,B101,U.S. Senate,,Republican,Other Donald WENZEL,2,0,2,0,0
+Union,B101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Union,B101,U.S. Senate,,Republican,George WASHINGTON,4,0,4,0,0
+Union,B101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",3,0,3,0,0
+Union,B101,U.S. Senate,,Republican,Andy BARR,143,24,117,0,2
+Union,B101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,B101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Union,B101,U.S. Senate,,Republican,Daniel CAMERON,55,7,46,0,2
+Union,B101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Union,B101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Union,B101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,2,0,0,0
+Union,B101,U.S. Senate,,,Under Votes,9,1,8,0,0
+Union,B101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,B101,Ballots Cast,,,,378,,,,
+Union,B101,U.S. House,1,Republican,David SIMS,16,1,15,0,0
+Union,B101,U.S. House,1,Republican,Robert James SUTHERBY,9,0,9,0,0
+Union,B101,U.S. House,1,Republican,Penny ARCOS,6,1,5,0,0
+Union,B101,U.S. House,1,Republican,James R. COMER,187,31,152,0,4
+Union,B101,U.S. House,1,,Under Votes,18,3,15,0,0
+Union,B101,U.S. House,1,,Over Votes,1,0,1,0,0
+Union,B101,County Judge/Executive,,,Marvin BUTTS,40,6,34,0,0
+Union,B101,County Judge/Executive,,,Adam R. O'NAN,187,28,155,0,4
+Union,B101,County Judge/Executive,,,Under Votes,10,2,8,0,0
+Union,B101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,B101,County Clerk,,,Christopher Lee WILLETT,63,10,52,0,1
+Union,B101,County Clerk,,,Garrick THOMPSON,171,23,145,0,3
+Union,B101,County Clerk,,,Under Votes,2,2,0,0,0
+Union,B101,County Clerk,,,Over Votes,1,1,0,0,0
+Union,B101,Magistrate,,,David RUSSELL,63,11,51,0,1
+Union,B101,Magistrate,,,Darrell WEDDING,168,24,141,0,3
+Union,B101,Magistrate,,,Under Votes,6,1,5,0,0
+Union,B101,Magistrate,,,Over Votes,0,0,0,0,0
+Union,B101,U.S. Senate,,Democratic,Joshua BLANTON SR.,8,1,7,0,0
+Union,B101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,21,3,18,0,0
+Union,B101,U.S. Senate,,Democratic,Charles BOOKER,26,2,21,2,1
+Union,B101,U.S. Senate,,Democratic,Pamela STEVENSON,5,1,4,0,0
+Union,B101,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Union,B101,U.S. Senate,,Democratic,Logan FORSYTHE,4,0,4,0,0
+Union,B101,U.S. Senate,,Democratic,Amy McGRATH,65,13,52,0,0
+Union,B101,U.S. Senate,,,Under Votes,9,0,9,0,0
+Union,B101,U.S. Senate,,,Over Votes,1,0,1,0,0
+Union,C101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,C101,U.S. Senate,,Republican,James D. DUNCAN,2,0,2,0,0
+Union,C101,U.S. Senate,,Republican,George WASHINGTON,1,0,1,0,0
+Union,C101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",2,0,2,0,0
+Union,C101,U.S. Senate,,Republican,Andy BARR,108,17,87,4,0
+Union,C101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,C101,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,C101,U.S. Senate,,Republican,Daniel CAMERON,31,5,26,0,0
+Union,C101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Union,C101,U.S. Senate,,Republican,Michael James FARIS,1,0,1,0,0
+Union,C101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,C101,U.S. Senate,,,Under Votes,7,0,6,0,1
+Union,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,C101,Ballots Cast,,,,223,,,,
+Union,C101,U.S. House,1,Republican,David SIMS,11,2,9,0,0
+Union,C101,U.S. House,1,Republican,Robert James SUTHERBY,3,0,3,0,0
+Union,C101,U.S. House,1,Republican,Penny ARCOS,4,1,3,0,0
+Union,C101,U.S. House,1,Republican,James R. COMER,132,18,109,4,1
+Union,C101,U.S. House,1,,Under Votes,13,1,12,0,0
+Union,C101,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,C101,County Judge/Executive,,,Marvin BUTTS,16,2,14,0,0
+Union,C101,County Judge/Executive,,,Adam R. O'NAN,146,20,121,4,1
+Union,C101,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Union,C101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,C101,County Clerk,,,Christopher Lee WILLETT,20,1,19,0,0
+Union,C101,County Clerk,,,Garrick THOMPSON,142,21,116,4,1
+Union,C101,County Clerk,,,Under Votes,1,0,1,0,0
+Union,C101,County Clerk,,,Over Votes,0,0,0,0,0
+Union,C101,Magistrate,,,Michael HARDESTY,17,4,11,2,0
+Union,C101,Magistrate,,,Stephen HENDRICKSON,20,1,18,0,1
+Union,C101,Magistrate,,,Doug OMER,27,2,23,2,0
+Union,C101,Magistrate,,,Jake MASON,36,6,30,0,0
+Union,C101,Magistrate,,,Brian FRENCH,21,1,20,0,0
+Union,C101,Magistrate,,,Derek W. JOHNS,42,8,34,0,0
+Union,C101,Magistrate,,,Under Votes,0,0,0,0,0
+Union,C101,Magistrate,,,Over Votes,0,0,0,0,0
+Union,C101,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Union,C101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,8,0,8,0,0
+Union,C101,U.S. Senate,,Democratic,Charles BOOKER,13,0,13,0,0
+Union,C101,U.S. Senate,,Democratic,Pamela STEVENSON,2,0,1,1,0
+Union,C101,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Union,C101,U.S. Senate,,Democratic,Logan FORSYTHE,3,0,3,0,0
+Union,C101,U.S. Senate,,Democratic,Amy McGRATH,33,5,28,0,0
+Union,C101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,C101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,C102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,C102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Union,C102,U.S. Senate,,Republican,George WASHINGTON,5,0,5,0,0
+Union,C102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,C102,U.S. Senate,,Republican,Andy BARR,153,20,129,1,3
+Union,C102,U.S. Senate,,Republican,Jimmy I. LEON,2,0,2,0,0
+Union,C102,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Union,C102,U.S. Senate,,Republican,Daniel CAMERON,44,5,39,0,0
+Union,C102,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
+Union,C102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Union,C102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,1,0,1,0,0
+Union,C102,U.S. Senate,,,Under Votes,9,1,8,0,0
+Union,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,C102,Ballots Cast,,,,348,,,,
+Union,C102,U.S. House,1,Republican,David SIMS,17,1,16,0,0
+Union,C102,U.S. House,1,Republican,Robert James SUTHERBY,6,1,5,0,0
+Union,C102,U.S. House,1,Republican,Penny ARCOS,12,2,10,0,0
+Union,C102,U.S. House,1,Republican,James R. COMER,185,22,157,3,3
+Union,C102,U.S. House,1,,Under Votes,12,1,11,0,0
+Union,C102,U.S. House,1,,Over Votes,1,0,1,0,0
+Union,C102,County Judge/Executive,,,Marvin BUTTS,61,7,54,0,0
+Union,C102,County Judge/Executive,,,Adam R. O'NAN,162,18,138,3,3
+Union,C102,County Judge/Executive,,,Under Votes,10,2,8,0,0
+Union,C102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,C102,County Clerk,,,Christopher Lee WILLETT,42,3,39,0,0
+Union,C102,County Clerk,,,Garrick THOMPSON,188,23,159,3,3
+Union,C102,County Clerk,,,Under Votes,3,1,2,0,0
+Union,C102,County Clerk,,,Over Votes,0,0,0,0,0
+Union,C102,Magistrate,,,Michael HARDESTY,37,1,33,2,1
+Union,C102,Magistrate,,,Stephen HENDRICKSON,17,4,13,0,0
+Union,C102,Magistrate,,,Doug OMER,69,9,57,1,2
+Union,C102,Magistrate,,,Jake MASON,24,4,20,0,0
+Union,C102,Magistrate,,,Brian FRENCH,18,2,16,0,0
+Union,C102,Magistrate,,,Derek W. JOHNS,67,6,61,0,0
+Union,C102,Magistrate,,,Under Votes,1,1,0,0,0
+Union,C102,Magistrate,,,Over Votes,0,0,0,0,0
+Union,C102,U.S. Senate,,Democratic,Joshua BLANTON SR.,7,2,5,0,0
+Union,C102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,12,1,11,0,0
+Union,C102,U.S. Senate,,Democratic,Charles BOOKER,31,2,28,1,0
+Union,C102,U.S. Senate,,Democratic,Pamela STEVENSON,5,2,3,0,0
+Union,C102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Union,C102,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Union,C102,U.S. Senate,,Democratic,Amy McGRATH,49,9,40,0,0
+Union,C102,U.S. Senate,,,Under Votes,8,1,7,0,0
+Union,C102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E101,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Union,E101,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Union,E101,U.S. Senate,,Republican,George WASHINGTON,4,2,2,0,0
+Union,E101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",4,0,4,0,0
+Union,E101,U.S. Senate,,Republican,Andy BARR,124,12,112,0,0
+Union,E101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,E101,U.S. Senate,,Republican,A. Nick SHELLEY,2,1,1,0,0
+Union,E101,U.S. Senate,,Republican,Daniel CAMERON,43,3,39,0,1
+Union,E101,U.S. Senate,,Republican,Anissa CATLETT,3,0,3,0,0
+Union,E101,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Union,E101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Union,E101,U.S. Senate,,,Under Votes,9,0,8,0,1
+Union,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E101,Ballots Cast,,,,328,,,,
+Union,E101,U.S. House,1,Republican,David SIMS,11,2,9,0,0
+Union,E101,U.S. House,1,Republican,Robert James SUTHERBY,8,0,8,0,0
+Union,E101,U.S. House,1,Republican,Penny ARCOS,5,0,5,0,0
+Union,E101,U.S. House,1,Republican,James R. COMER,165,16,148,0,1
+Union,E101,U.S. House,1,,Under Votes,11,0,10,0,1
+Union,E101,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,E101,County Judge/Executive,,,Marvin BUTTS,34,3,31,0,0
+Union,E101,County Judge/Executive,,,Adam R. O'NAN,162,15,145,0,2
+Union,E101,County Judge/Executive,,,Under Votes,4,0,4,0,0
+Union,E101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,E101,County Clerk,,,Christopher Lee WILLETT,40,1,39,0,0
+Union,E101,County Clerk,,,Garrick THOMPSON,158,17,139,0,2
+Union,E101,County Clerk,,,Under Votes,2,0,2,0,0
+Union,E101,County Clerk,,,Over Votes,0,0,0,0,0
+Union,E101,Magistrate,,,Dakota JONES,91,10,81,0,0
+Union,E101,Magistrate,,,Ehren SCHAFFTER,105,8,95,0,2
+Union,E101,Magistrate,,,Under Votes,4,0,4,0,0
+Union,E101,Magistrate,,,Over Votes,0,0,0,0,0
+Union,E101,U.S. Senate,,Democratic,Joshua BLANTON SR.,8,0,8,0,0
+Union,E101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,12,1,11,0,0
+Union,E101,U.S. Senate,,Democratic,Charles BOOKER,34,4,29,1,0
+Union,E101,U.S. Senate,,Democratic,Pamela STEVENSON,5,0,5,0,0
+Union,E101,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Union,E101,U.S. Senate,,Democratic,Logan FORSYTHE,5,1,4,0,0
+Union,E101,U.S. Senate,,Democratic,Amy McGRATH,59,14,45,0,0
+Union,E101,U.S. Senate,,,Under Votes,4,0,3,1,0
+Union,E101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,E102,U.S. Senate,,Republican,James D. DUNCAN,3,0,3,0,0
+Union,E102,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Union,E102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,E102,U.S. Senate,,Republican,Andy BARR,69,9,60,0,0
+Union,E102,U.S. Senate,,Republican,Jimmy I. LEON,1,0,1,0,0
+Union,E102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,E102,U.S. Senate,,Republican,Daniel CAMERON,23,5,18,0,0
+Union,E102,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Union,E102,U.S. Senate,,Republican,Michael James FARIS,2,0,2,0,0
+Union,E102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,E102,U.S. Senate,,,Under Votes,2,0,2,0,0
+Union,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E102,Ballots Cast,,,,156,,,,
+Union,E102,U.S. House,1,Republican,David SIMS,6,1,5,0,0
+Union,E102,U.S. House,1,Republican,Robert James SUTHERBY,4,0,4,0,0
+Union,E102,U.S. House,1,Republican,Penny ARCOS,5,0,5,0,0
+Union,E102,U.S. House,1,Republican,James R. COMER,87,13,74,0,0
+Union,E102,U.S. House,1,,Under Votes,6,0,6,0,0
+Union,E102,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,E102,County Judge/Executive,,,Marvin BUTTS,20,3,17,0,0
+Union,E102,County Judge/Executive,,,Adam R. O'NAN,85,11,74,0,0
+Union,E102,County Judge/Executive,,,Under Votes,3,0,3,0,0
+Union,E102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,E102,County Clerk,,,Christopher Lee WILLETT,19,4,15,0,0
+Union,E102,County Clerk,,,Garrick THOMPSON,88,10,78,0,0
+Union,E102,County Clerk,,,Under Votes,1,0,1,0,0
+Union,E102,County Clerk,,,Over Votes,0,0,0,0,0
+Union,E102,Magistrate,,,Dakota JONES,62,4,58,0,0
+Union,E102,Magistrate,,,Ehren SCHAFFTER,45,10,35,0,0
+Union,E102,Magistrate,,,Under Votes,1,0,1,0,0
+Union,E102,Magistrate,,,Over Votes,0,0,0,0,0
+Union,E102,U.S. Senate,,Democratic,Joshua BLANTON SR.,1,0,1,0,0
+Union,E102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,4,0,4,0,0
+Union,E102,U.S. Senate,,Democratic,Charles BOOKER,9,1,8,0,0
+Union,E102,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Union,E102,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Union,E102,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Union,E102,U.S. Senate,,Democratic,Amy McGRATH,31,1,30,0,0
+Union,E102,U.S. Senate,,,Under Votes,2,0,2,0,0
+Union,E102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,Andy BARR,9,0,9,0,0
+Union,E103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,Daniel CAMERON,2,0,2,0,0
+Union,E103,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Union,E103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,E103,U.S. Senate,,,Under Votes,2,1,1,0,0
+Union,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E103,Ballots Cast,,,,22,,,,
+Union,E103,U.S. House,1,Republican,David SIMS,0,0,0,0,0
+Union,E103,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Union,E103,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Union,E103,U.S. House,1,Republican,James R. COMER,12,1,11,0,0
+Union,E103,U.S. House,1,,Under Votes,2,0,2,0,0
+Union,E103,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,E103,County Judge/Executive,,,Marvin BUTTS,2,0,2,0,0
+Union,E103,County Judge/Executive,,,Adam R. O'NAN,11,1,10,0,0
+Union,E103,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Union,E103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,E103,County Clerk,,,Christopher Lee WILLETT,4,1,3,0,0
+Union,E103,County Clerk,,,Garrick THOMPSON,10,0,10,0,0
+Union,E103,County Clerk,,,Under Votes,0,0,0,0,0
+Union,E103,County Clerk,,,Over Votes,0,0,0,0,0
+Union,E103,Magistrate,,,Dakota JONES,8,1,7,0,0
+Union,E103,Magistrate,,,Ehren SCHAFFTER,6,0,6,0,0
+Union,E103,Magistrate,,,Under Votes,0,0,0,0,0
+Union,E103,Magistrate,,,Over Votes,0,0,0,0,0
+Union,E103,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Union,E103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,1,0,1,0,0
+Union,E103,U.S. Senate,,Democratic,Charles BOOKER,0,0,0,0,0
+Union,E103,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Union,E103,U.S. Senate,,Democratic,Dale Lewis ROMANS,1,0,1,0,0
+Union,E103,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Union,E103,U.S. Senate,,Democratic,Amy McGRATH,5,1,4,0,0
+Union,E103,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,E103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,Andy BARR,6,2,4,0,0
+Union,E104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,Daniel CAMERON,6,0,6,0,0
+Union,E104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Union,E104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,E104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Union,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,E104,Ballots Cast,,,,20,,,,
+Union,E104,U.S. House,1,Republican,David SIMS,2,0,2,0,0
+Union,E104,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Union,E104,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Union,E104,U.S. House,1,Republican,James R. COMER,11,2,9,0,0
+Union,E104,U.S. House,1,,Under Votes,1,0,1,0,0
+Union,E104,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,E104,County Judge/Executive,,,Marvin BUTTS,4,1,3,0,0
+Union,E104,County Judge/Executive,,,Adam R. O'NAN,9,1,8,0,0
+Union,E104,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Union,E104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,E104,County Clerk,,,Christopher Lee WILLETT,2,0,2,0,0
+Union,E104,County Clerk,,,Garrick THOMPSON,12,2,10,0,0
+Union,E104,County Clerk,,,Under Votes,0,0,0,0,0
+Union,E104,County Clerk,,,Over Votes,0,0,0,0,0
+Union,E104,Magistrate,,,Dakota JONES,4,0,4,0,0
+Union,E104,Magistrate,,,Ehren SCHAFFTER,9,2,7,0,0
+Union,E104,Magistrate,,,Under Votes,1,0,1,0,0
+Union,E104,Magistrate,,,Over Votes,0,0,0,0,0
+Union,E104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Union,E104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Union,E104,U.S. Senate,,Democratic,Charles BOOKER,1,0,1,0,0
+Union,E104,U.S. Senate,,Democratic,Pamela STEVENSON,1,1,0,0,0
+Union,E104,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Union,E104,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Union,E104,U.S. Senate,,Democratic,Amy McGRATH,1,0,1,0,0
+Union,E104,U.S. Senate,,,Under Votes,1,0,1,0,0
+Union,E104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F101,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,F101,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Union,F101,U.S. Senate,,Republican,George WASHINGTON,2,1,1,0,0
+Union,F101,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",1,0,1,0,0
+Union,F101,U.S. Senate,,Republican,Andy BARR,72,8,64,0,0
+Union,F101,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,F101,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Union,F101,U.S. Senate,,Republican,Daniel CAMERON,30,2,28,0,0
+Union,F101,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Union,F101,U.S. Senate,,Republican,Michael James FARIS,1,0,0,1,0
+Union,F101,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,2,0,2,0,0
+Union,F101,U.S. Senate,,,Under Votes,3,0,2,0,1
+Union,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F101,Ballots Cast,,,,205,,,,
+Union,F101,U.S. House,1,Republican,David SIMS,6,0,5,1,0
+Union,F101,U.S. House,1,Republican,Robert James SUTHERBY,1,0,1,0,0
+Union,F101,U.S. House,1,Republican,Penny ARCOS,4,0,4,0,0
+Union,F101,U.S. House,1,Republican,James R. COMER,95,10,85,0,0
+Union,F101,U.S. House,1,,Under Votes,10,1,8,0,1
+Union,F101,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,F101,County Judge/Executive,,,Marvin BUTTS,16,0,16,0,0
+Union,F101,County Judge/Executive,,,Adam R. O'NAN,98,11,85,1,1
+Union,F101,County Judge/Executive,,,Under Votes,2,0,2,0,0
+Union,F101,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,F101,County Clerk,,,Christopher Lee WILLETT,21,1,20,0,0
+Union,F101,County Clerk,,,Garrick THOMPSON,93,10,81,1,1
+Union,F101,County Clerk,,,Under Votes,2,0,2,0,0
+Union,F101,County Clerk,,,Over Votes,0,0,0,0,0
+Union,F101,Magistrate,,,Michael TURNER,78,7,69,1,1
+Union,F101,Magistrate,,,"Joseph ""Bo"" GIRTEN",38,4,34,0,0
+Union,F101,Magistrate,,,Under Votes,0,0,0,0,0
+Union,F101,Magistrate,,,Over Votes,0,0,0,0,0
+Union,F101,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Union,F101,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,8,2,6,0,0
+Union,F101,U.S. Senate,,Democratic,Charles BOOKER,31,3,28,0,0
+Union,F101,U.S. Senate,,Democratic,Pamela STEVENSON,1,0,1,0,0
+Union,F101,U.S. Senate,,Democratic,Dale Lewis ROMANS,4,0,4,0,0
+Union,F101,U.S. Senate,,Democratic,Logan FORSYTHE,2,0,2,0,0
+Union,F101,U.S. Senate,,Democratic,Amy McGRATH,41,7,34,0,0
+Union,F101,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,F101,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Andy BARR,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Daniel CAMERON,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Union,F102,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,F102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F102,Ballots Cast,,,,1,,,,
+Union,F102,U.S. House,1,Republican,David SIMS,0,0,0,0,0
+Union,F102,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Union,F102,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Union,F102,U.S. House,1,Republican,James R. COMER,0,0,0,0,0
+Union,F102,U.S. House,1,,Under Votes,0,0,0,0,0
+Union,F102,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,F102,County Judge/Executive,,,Marvin BUTTS,0,0,0,0,0
+Union,F102,County Judge/Executive,,,Adam R. O'NAN,0,0,0,0,0
+Union,F102,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Union,F102,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,F102,County Clerk,,,Christopher Lee WILLETT,0,0,0,0,0
+Union,F102,County Clerk,,,Garrick THOMPSON,0,0,0,0,0
+Union,F102,County Clerk,,,Under Votes,0,0,0,0,0
+Union,F102,County Clerk,,,Over Votes,0,0,0,0,0
+Union,F102,Magistrate,,,Michael TURNER,0,0,0,0,0
+Union,F102,Magistrate,,,"Joseph ""Bo"" GIRTEN",0,0,0,0,0
+Union,F102,Magistrate,,,Under Votes,0,0,0,0,0
+Union,F102,Magistrate,,,Over Votes,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Charles BOOKER,1,0,1,0,0
+Union,F102,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Logan FORSYTHE,0,0,0,0,0
+Union,F102,U.S. Senate,,Democratic,Amy McGRATH,0,0,0,0,0
+Union,F102,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,F102,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F103,U.S. Senate,,Republican,Other Donald WENZEL,1,0,1,0,0
+Union,F103,U.S. Senate,,Republican,James D. DUNCAN,1,0,1,0,0
+Union,F103,U.S. Senate,,Republican,George WASHINGTON,2,0,2,0,0
+Union,F103,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,F103,U.S. Senate,,Republican,Andy BARR,66,11,51,2,2
+Union,F103,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,F103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
+Union,F103,U.S. Senate,,Republican,Daniel CAMERON,14,4,10,0,0
+Union,F103,U.S. Senate,,Republican,Anissa CATLETT,1,0,1,0,0
+Union,F103,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Union,F103,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,F103,U.S. Senate,,,Under Votes,3,0,3,0,0
+Union,F103,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F103,Ballots Cast,,,,158,,,,
+Union,F103,U.S. House,1,Republican,David SIMS,6,1,5,0,0
+Union,F103,U.S. House,1,Republican,Robert James SUTHERBY,5,0,5,0,0
+Union,F103,U.S. House,1,Republican,Penny ARCOS,6,0,6,0,0
+Union,F103,U.S. House,1,Republican,James R. COMER,70,14,52,2,2
+Union,F103,U.S. House,1,,Under Votes,7,1,6,0,0
+Union,F103,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,F103,County Judge/Executive,,,Marvin BUTTS,15,5,10,0,0
+Union,F103,County Judge/Executive,,,Adam R. O'NAN,78,11,63,2,2
+Union,F103,County Judge/Executive,,,Under Votes,1,0,1,0,0
+Union,F103,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,F103,County Clerk,,,Christopher Lee WILLETT,20,7,13,0,0
+Union,F103,County Clerk,,,Garrick THOMPSON,73,9,60,2,2
+Union,F103,County Clerk,,,Under Votes,1,0,1,0,0
+Union,F103,County Clerk,,,Over Votes,0,0,0,0,0
+Union,F103,Magistrate,,,Michael TURNER,56,10,46,0,0
+Union,F103,Magistrate,,,"Joseph ""Bo"" GIRTEN",37,6,27,2,2
+Union,F103,Magistrate,,,Under Votes,1,0,1,0,0
+Union,F103,Magistrate,,,Over Votes,0,0,0,0,0
+Union,F103,U.S. Senate,,Democratic,Joshua BLANTON SR.,2,0,2,0,0
+Union,F103,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,6,0,4,2,0
+Union,F103,U.S. Senate,,Democratic,Charles BOOKER,18,2,15,0,1
+Union,F103,U.S. Senate,,Democratic,Pamela STEVENSON,3,1,2,0,0
+Union,F103,U.S. Senate,,Democratic,Dale Lewis ROMANS,2,0,2,0,0
+Union,F103,U.S. Senate,,Democratic,Logan FORSYTHE,4,1,3,0,0
+Union,F103,U.S. Senate,,Democratic,Amy McGRATH,27,5,22,0,0
+Union,F103,U.S. Senate,,,Under Votes,1,0,1,0,0
+Union,F103,U.S. Senate,,,Over Votes,1,0,1,0,0
+Union,F104,U.S. Senate,,Republican,Other Donald WENZEL,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,James D. DUNCAN,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,George WASHINGTON,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,"Valerie ""Dr Val"" FREDRICK",0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,Andy BARR,5,0,5,0,0
+Union,F104,U.S. Senate,,Republican,Jimmy I. LEON,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,A. Nick SHELLEY,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,Daniel CAMERON,1,0,1,0,0
+Union,F104,U.S. Senate,,Republican,Anissa CATLETT,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,Michael James FARIS,0,0,0,0,0
+Union,F104,U.S. Senate,,Republican,Jonathan M. HOLLIDAY,0,0,0,0,0
+Union,F104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,F104,U.S. Senate,,,Over Votes,0,0,0,0,0
+Union,F104,Ballots Cast,,,,9,,,,
+Union,F104,U.S. House,1,Republican,David SIMS,1,0,1,0,0
+Union,F104,U.S. House,1,Republican,Robert James SUTHERBY,0,0,0,0,0
+Union,F104,U.S. House,1,Republican,Penny ARCOS,0,0,0,0,0
+Union,F104,U.S. House,1,Republican,James R. COMER,6,0,6,0,0
+Union,F104,U.S. House,1,,Under Votes,0,0,0,0,0
+Union,F104,U.S. House,1,,Over Votes,0,0,0,0,0
+Union,F104,County Judge/Executive,,,Marvin BUTTS,0,0,0,0,0
+Union,F104,County Judge/Executive,,,Adam R. O'NAN,7,0,7,0,0
+Union,F104,County Judge/Executive,,,Under Votes,0,0,0,0,0
+Union,F104,County Judge/Executive,,,Over Votes,0,0,0,0,0
+Union,F104,County Clerk,,,Christopher Lee WILLETT,3,0,3,0,0
+Union,F104,County Clerk,,,Garrick THOMPSON,4,0,4,0,0
+Union,F104,County Clerk,,,Under Votes,0,0,0,0,0
+Union,F104,County Clerk,,,Over Votes,0,0,0,0,0
+Union,F104,Magistrate,,,Michael TURNER,5,0,5,0,0
+Union,F104,Magistrate,,,"Joseph ""Bo"" GIRTEN",2,0,2,0,0
+Union,F104,Magistrate,,,Under Votes,0,0,0,0,0
+Union,F104,Magistrate,,,Over Votes,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Joshua BLANTON SR.,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Vincent Anthony THOMPSON,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Charles BOOKER,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Pamela STEVENSON,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Dale Lewis ROMANS,0,0,0,0,0
+Union,F104,U.S. Senate,,Democratic,Logan FORSYTHE,1,0,1,0,0
+Union,F104,U.S. Senate,,Democratic,Amy McGRATH,1,0,1,0,0
+Union,F104,U.S. Senate,,,Under Votes,0,0,0,0,0
+Union,F104,U.S. Senate,,,Over Votes,0,0,0,0,0
