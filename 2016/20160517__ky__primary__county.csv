@@ -2362,49 +2362,82 @@ Lee,State House,91,Republican,Randall S. Christopher,376
 Madison,State House,91,Republican,Randall S. Christopher,44
 Owsley,State House,91,Republican,Randall S. Christopher,73
 Total Votes,State House,91,Republican,Randall S. Christopher,"1,334"
-Martin,,93,Democratic,Chris Harris,251
-Pike,,93,Democratic,Chris Harris,"2,812"
-Total Votes,,93,Democratic,Chris Harris,"3,063"
-Martin,,93,Democratic,Douglas Ray Sayers,77
-Pike,,93,Democratic,Douglas Ray Sayers,"1,858"
-Total Votes,,93,Democratic,Douglas Ray Sayers,"1,935"
-Letcher,,94,Republican,Frank D. Justice II,293
-Pike,,94,Republican,Frank D. Justice II,670
-Total Votes,,94,Republican,Frank D. Justice II,963
-Letcher,,94,Republican,Charles Phillip Wheeler,274
-Pike,,94,Republican,Charles Phillip Wheeler,499
-Total Votes,,94,Republican,Charles Phillip Wheeler,773
-Letcher,,94,Republican,Colin Fultz,503
-Pike,,94,Republican,Colin Fultz,17
-Total Votes,,94,Republican,Colin Fultz,520
-Letcher,,94,Republican,Wesley Doughman,180
-Pike,,94,Republican,Wesley Doughman,17
-Total Votes,,94,Republican,Wesley Doughman,197
-Letcher,,94,Democratic,Angie Hatton,"2,363"
-Pike,,94,Democratic,Angie Hatton,773
-Total Votes,,94,Democratic,Angie Hatton,"3,136"
-Letcher,,94,Democratic,Joel Thornbury,756
-Pike,,94,Democratic,Joel Thornbury,"1,277"
-Total Votes,,94,Democratic,Joel Thornbury,"2,033"
-Floyd,,95,Democratic,Gregory D. Stumbo,"4,156"
-Pike,,95,Democratic,Gregory D. Stumbo,244
-Total Votes,,95,Democratic,Gregory D. Stumbo,"4,400"
-Floyd,,95,Democratic,"James ""Jimmy"" Rose","3,563"
-Pike,,95,Democratic,"James ""Jimmy"" Rose",176
-Total Votes,,95,Democratic,"James ""Jimmy"" Rose","3,739"
-Johnson,,97,Republican,William Scott Wells,"1,068"
-Morgan,,97,Republican,William Scott Wells,50
-Wolfe,,97,Republican,William Scott Wells,23
-Total Votes,,97,Republican,William Scott Wells,"1,141"
-Johnson,,97,Republican,Frankie Wayne Spencer,529
-Morgan,,97,Republican,Frankie Wayne Spencer,133
-Wolfe,,97,Republican,Frankie Wayne Spencer,43
-Total Votes,,97,Republican,Frankie Wayne Spencer,705
-Elliott,,99,Republican,"Wynetta ""Wendy"" Fletcher",14
-Lewis,,99,Republican,"Wynetta ""Wendy"" Fletcher",473
-Rowan,,99,Republican,"Wynetta ""Wendy"" Fletcher",438
-Total Votes,,99,Republican,"Wynetta ""Wendy"" Fletcher",925
-Elliott,,99,Republican,Randy K. Smith,29
-Lewis,,99,Republican,Randy K. Smith,447
-Rowan,,99,Republican,Randy K. Smith,276
-Total Votes,,99,Republican,Randy K. Smith,752
+Martin,State House,93,Democratic,Chris Harris,251
+Pike,State House,93,Democratic,Chris Harris,"2,812"
+Total Votes,State House,93,Democratic,Chris Harris,"3,063"
+Martin,State House,93,Democratic,Douglas Ray Sayers,77
+Pike,State House,93,Democratic,Douglas Ray Sayers,"1,858"
+Total Votes,State House,93,Democratic,Douglas Ray Sayers,"1,935"
+Letcher,State House,94,Republican,Frank D. Justice II,293
+Pike,State House,94,Republican,Frank D. Justice II,670
+Total Votes,State House,94,Republican,Frank D. Justice II,963
+Letcher,State House,94,Republican,Charles Phillip Wheeler,274
+Pike,State House,94,Republican,Charles Phillip Wheeler,499
+Total Votes,State House,94,Republican,Charles Phillip Wheeler,773
+Letcher,State House,94,Republican,Colin Fultz,503
+Pike,State House,94,Republican,Colin Fultz,17
+Total Votes,State House,94,Republican,Colin Fultz,520
+Letcher,State House,94,Republican,Wesley Doughman,180
+Pike,State House,94,Republican,Wesley Doughman,17
+Total Votes,State House,94,Republican,Wesley Doughman,197
+Letcher,State House,94,Democratic,Angie Hatton,"2,363"
+Pike,State House,94,Democratic,Angie Hatton,773
+Total Votes,State House,94,Democratic,Angie Hatton,"3,136"
+Letcher,State House,94,Democratic,Joel Thornbury,756
+Pike,State House,94,Democratic,Joel Thornbury,"1,277"
+Total Votes,State House,94,Democratic,Joel Thornbury,"2,033"
+Floyd,State House,95,Democratic,Gregory D. Stumbo,"4,156"
+Pike,State House,95,Democratic,Gregory D. Stumbo,244
+Total Votes,State House,95,Democratic,Gregory D. Stumbo,"4,400"
+Floyd,State House,95,Democratic,"James ""Jimmy"" Rose","3,563"
+Pike,State House,95,Democratic,"James ""Jimmy"" Rose",176
+Total Votes,State House,95,Democratic,"James ""Jimmy"" Rose","3,739"
+Johnson,State House,97,Republican,William Scott Wells,"1,068"
+Morgan,State House,97,Republican,William Scott Wells,50
+Wolfe,State House,97,Republican,William Scott Wells,23
+Total Votes,State House,97,Republican,William Scott Wells,"1,141"
+Johnson,State House,97,Republican,Frankie Wayne Spencer,529
+Morgan,State House,97,Republican,Frankie Wayne Spencer,133
+Wolfe,State House,97,Republican,Frankie Wayne Spencer,43
+Total Votes,State House,97,Republican,Frankie Wayne Spencer,705
+Elliott,State House,99,Republican,"Wynetta ""Wendy"" Fletcher",14
+Lewis,State House,99,Republican,"Wynetta ""Wendy"" Fletcher",473
+Rowan,State House,99,Republican,"Wynetta ""Wendy"" Fletcher",438
+Total Votes,State House,99,Republican,"Wynetta ""Wendy"" Fletcher",925
+Elliott,State House,99,Republican,Randy K. Smith,29
+Lewis,State House,99,Republican,Randy K. Smith,447
+Rowan,State House,99,Republican,Randy K. Smith,276
+Total Votes,State House,99,Republican,Randy K. Smith,752
+Jefferson,Circuit Judge Family Court,30th Judicial Circuit,,Gina Kay Calvert,"55,510"
+Jefferson,Circuit Judge Family Court,30th Judicial Circuit,,Lauren Adams Ogden,"39,653"
+Jefferson,Circuit Judge Family Court,30th Judicial Circuit,,Bill Tingley,"26,161"
+Total Votes,Circuit Judge Family Court,30th Judicial Circuit,,Gina Kay Calvert,"55,510"
+Total Votes,Circuit Judge Family Court,30th Judicial Circuit,,Lauren Adams Ogden,"39,653"
+Total Votes,Circuit Judge Family Court,30th Judicial Circuit,,Bill Tingley,"26,161"
+Clay,Circuit Judge Family Court,41st Judicial Circuit,,Clint J. Harris,"2,362"
+Clay,Circuit Judge Family Court,41st Judicial Circuit,,Monica Rice-Smith,340
+Clay,Circuit Judge Family Court,41st Judicial Circuit,,Kenneth Stepp,96
+Jackson,Circuit Judge Family Court,41st Judicial Circuit,,Clint J. Harris,"1,069"
+Jackson,Circuit Judge Family Court,41st Judicial Circuit,,Monica Rice-Smith,642
+Jackson,Circuit Judge Family Court,41st Judicial Circuit,,Kenneth Stepp,238
+Leslie,Circuit Judge Family Court,41st Judicial Circuit,,Clint J. Harris,177
+Leslie,Circuit Judge Family Court,41st Judicial Circuit,,Monica Rice-Smith,"1,209"
+Leslie,Circuit Judge Family Court,41st Judicial Circuit,,Kenneth Stepp,51
+Total Votes,Circuit Judge Family Court,41st Judicial Circuit,,Clint J. Harris,"3,608"
+Total Votes,Circuit Judge Family Court,41st Judicial Circuit,,Monica Rice-Smith,"2,191"
+Total Votes,Circuit Judge Family Court,41st Judicial Circuit,,Kenneth Stepp,385
+Barren,District Judge,43rd Judicial District,,Kathryn M. Thomas,"2,696"
+Barren,District Judge,43rd Judicial District,,J. Gabriel Pendleton,"2,054"
+Barren,District Judge,43rd Judicial District,,Brian K. Pack,"1,755"
+Barren,District Judge,43rd Judicial District,,Karen Michelle Davis,"1,584"
+Barren,District Judge,43rd Judicial District,,Temple Dickinson,965
+Metcalfe,District Judge,43rd Judicial District,,Kathryn M. Thomas,771
+Metcalfe,District Judge,43rd Judicial District,,J. Gabriel Pendleton,413
+Metcalfe,District Judge,43rd Judicial District,,Brian K. Pack,317
+Metcalfe,District Judge,43rd Judicial District,,Karen Michelle Davis,347
+Metcalfe,District Judge,43rd Judicial District,,Temple Dickinson,176
+Total Votes,District Judge,43rd Judicial District,,Kathryn M. Thomas,"3,467"
+Total Votes,District Judge,43rd Judicial District,,J. Gabriel Pendleton,"2,467"
+Total Votes,District Judge,43rd Judicial District,,Brian K. Pack,"2,072"
+Total Votes,District Judge,43rd Judicial District,,Karen Michelle Davis,"1,931"
+Total Votes,District Judge,43rd Judicial District,,Temple Dickinson,"1,141"
