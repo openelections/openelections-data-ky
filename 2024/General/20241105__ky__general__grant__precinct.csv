@@ -8,7 +8,7 @@ Grant,A101,STRAIGHT PARTY,,,Under Votes,1742,560,1094,88
 Grant,A101,STRAIGHT PARTY,,,Over Votes,3,2,0,1
 Grant,A101,President,,REP,Donald J. TRUMP / JD VANCE,3120,1002,1999,119
 Grant,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,643,249,339,55
-Grant,A101,President,,KY,Jill  STEIN / Samson KPADENOU,13,1,12,0
+Grant,A101,President,,KY,Jill STEIN / Samson KPADENOU,13,1,12,0
 Grant,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,32,10,20,2
 Grant,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Grant,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
@@ -34,13 +34,13 @@ Grant,A101,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3185,1021,2040,12
 Grant,A101,Commonwealth's Attorney,15,,Total Votes,3185,1021,2040,124
 Grant,A101,Commonwealth's Attorney,15,,Under Votes,644,248,345,51
 Grant,A101,Commonwealth's Attorney,15,,Over Votes,1,0,1,0
-Grant,A101,Circuit Clerk,,,"Wray J. JUMP REP ",3295,1065,2090,140
+Grant,A101,Circuit Clerk,,,Wray J. JUMP REP,3295,1065,2090,140
 Grant,A101,Circuit Clerk,,,Total Votes,3295,1065,2090,140
 Grant,A101,Circuit Clerk,,,Under Votes,535,204,296,35
 Grant,A101,Circuit Clerk,,,Over Votes,0,0,0,0
-Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1944,611,1247,86
-Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1921,642,1201,78
-Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1724,555,1087,82
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,James Travis WOODYARD,1944,611,1247,86
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Timothy T. EPPERSON,1921,642,1201,78
+Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jerry L. MARTIN,1724,555,1087,82
 Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5589,1808,3535,246
 Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,9727,3264,6009,454
 Grant,A101,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,1,1,0,0
@@ -61,24 +61,24 @@ Grant,A101,Board of Education,Williamstown Independent School District,,Angela E
 Grant,A101,Board of Education,Williamstown Independent School District,,Total Votes,1838,638,1113,87
 Grant,A101,Board of Education,Williamstown Independent School District,,Under Votes,1086,376,657,53
 Grant,A101,Board of Education,Williamstown Independent School District,,Over Votes,3,1,2,0
-Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Jessica BEACH ",39,6,31,2
-Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Darren Ray BILLITER ",37,3,31,3
-Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Paul D. OLLBERDING ",37,6,29,2
-Grant,A101,CITY COMMISSIONERS City of Corinth,,,"Kathy McNABB ",44,5,36,3
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Jessica BEACH,39,6,31,2
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Darren Ray BILLITER,37,3,31,3
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Paul D. OLLBERDING,37,6,29,2
+Grant,A101,CITY COMMISSIONERS City of Corinth,,,Kathy McNABB,44,5,36,3
 Grant,A101,CITY COMMISSIONERS City of Corinth,,,Total Votes,157,20,127,10
 Grant,A101,CITY COMMISSIONERS City of Corinth,,,Under Votes,147,16,117,14
 Grant,A101,CITY COMMISSIONERS City of Corinth,,,Over Votes,0,0,0,0
-Grant,A101,CITY COUNCIL City of Williamstown,,,"Kim A. CRUPPER ",852,299,513,40
-Grant,A101,CITY COUNCIL City of Williamstown,,,"Ronnie MAINES ",839,300,500,39
-Grant,A101,CITY COUNCIL City of Williamstown,,,"David A. HENSON ",666,242,395,29
-Grant,A101,CITY COUNCIL City of Williamstown,,,"John C. COLEMAN ",856,299,526,31
-Grant,A101,CITY COUNCIL City of Williamstown,,,"Jayson PAYNE ",715,253,430,32
-Grant,A101,CITY COUNCIL City of Williamstown,,,"Gina Austin SMITH ",846,302,501,43
+Grant,A101,CITY COUNCIL City of Williamstown,,,Kim A. CRUPPER,852,299,513,40
+Grant,A101,CITY COUNCIL City of Williamstown,,,Ronnie MAINES,839,300,500,39
+Grant,A101,CITY COUNCIL City of Williamstown,,,David A. HENSON,666,242,395,29
+Grant,A101,CITY COUNCIL City of Williamstown,,,John C. COLEMAN,856,299,526,31
+Grant,A101,CITY COUNCIL City of Williamstown,,,Jayson PAYNE,715,253,430,32
+Grant,A101,CITY COUNCIL City of Williamstown,,,Gina Austin SMITH,846,302,501,43
 Grant,A101,CITY COUNCIL City of Williamstown,,,Total Votes,4774,1695,2865,214
 Grant,A101,CITY COUNCIL City of Williamstown,,,Under Votes,5162,1887,2997,278
 Grant,A101,CITY COUNCIL City of Williamstown,,,Over Votes,8,4,4,0
-Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",2437,811,1516,110
-Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",1254,404,795,55
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,2437,811,1516,110
+Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,1254,404,795,55
 Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,3691,1215,2311,165
 Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,128,52,69,7
 Grant,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,11,2,6,3
@@ -101,7 +101,7 @@ Grant,B102,STRAIGHT PARTY,,,Under Votes,1715,652,975,88
 Grant,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grant,B102,President,,REP,Donald J. TRUMP / JD VANCE,3185,1172,1880,133
 Grant,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,669,304,306,59
-Grant,B102,President,,KY,Jill  STEIN / Samson KPADENOU,5,0,5,0
+Grant,B102,President,,KY,Jill STEIN / Samson KPADENOU,5,0,5,0
 Grant,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,35,14,19,2
 Grant,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,3,1,2,0
 Grant,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,10,4,5,1
@@ -127,13 +127,13 @@ Grant,B102,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3241,1191,1909,14
 Grant,B102,Commonwealth's Attorney,15,,Total Votes,3241,1191,1909,141
 Grant,B102,Commonwealth's Attorney,15,,Under Votes,684,310,319,55
 Grant,B102,Commonwealth's Attorney,15,,Over Votes,0,0,0,0
-Grant,B102,Circuit Clerk,,,"Wray J. JUMP REP ",3318,1235,1940,143
+Grant,B102,Circuit Clerk,,,Wray J. JUMP REP,3318,1235,1940,143
 Grant,B102,Circuit Clerk,,,Total Votes,3318,1235,1940,143
 Grant,B102,Circuit Clerk,,,Under Votes,606,266,288,52
 Grant,B102,Circuit Clerk,,,Over Votes,1,0,0,1
-Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1887,680,1111,96
-Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1910,680,1125,105
-Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1564,581,891,92
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,James Travis WOODYARD,1887,680,1111,96
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Timothy T. EPPERSON,1910,680,1125,105
+Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jerry L. MARTIN,1564,581,891,92
 Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5361,1941,3127,293
 Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,10339,4063,5785,491
 Grant,B102,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
@@ -142,21 +142,21 @@ Grant,B102,Board of Education,3,,Lisa L. SMITH,494,188,285,21
 Grant,B102,Board of Education,3,,Total Votes,982,342,593,47
 Grant,B102,Board of Education,3,,Under Votes,448,191,225,32
 Grant,B102,Board of Education,3,,Over Votes,5,3,1,1
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Jessica Pelfrey VINCENT ",455,147,279,29
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"James ""Jim"" HENDY ",372,125,223,24
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"William WEBB ",358,124,211,23
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Eric BROCKMAN ",426,141,256,29
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Kenny EDMONDSON ",419,144,246,29
-Grant,B102,CITY COUNCIL City of Dry Ridge,,,"Jeffery Daniel BECKER ",312,104,185,23
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Jessica Pelfrey VINCENT,455,147,279,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,"James ""Jim"" HENDY",372,125,223,24
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,William WEBB,358,124,211,23
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Eric BROCKMAN,426,141,256,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Kenny EDMONDSON,419,144,246,29
+Grant,B102,CITY COUNCIL City of Dry Ridge,,,Jeffery Daniel BECKER,312,104,185,23
 Grant,B102,CITY COUNCIL City of Dry Ridge,,,Total Votes,2342,785,1400,157
 Grant,B102,CITY COUNCIL City of Dry Ridge,,,Under Votes,3274,1273,1792,209
 Grant,B102,CITY COUNCIL City of Dry Ridge,,,Over Votes,5,2,3,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"Kim A. CRUPPER ",2,0,2,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"Ronnie MAINES ",3,0,3,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"David A. HENSON ",2,0,2,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"John C. COLEMAN ",3,0,3,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"Jayson PAYNE ",2,0,2,0
-Grant,B102,CITY COUNCIL City of Williamstown,,,"Gina Austin SMITH ",3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Kim A. CRUPPER,2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Ronnie MAINES,3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,David A. HENSON,2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,John C. COLEMAN,3,0,3,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Jayson PAYNE,2,0,2,0
+Grant,B102,CITY COUNCIL City of Williamstown,,,Gina Austin SMITH,3,0,3,0
 Grant,B102,CITY COUNCIL City of Williamstown,,,Total Votes,15,0,15,0
 Grant,B102,CITY COUNCIL City of Williamstown,,,Under Votes,33,18,15,0
 Grant,B102,CITY COUNCIL City of Williamstown,,,Over Votes,0,0,0,0
@@ -184,7 +184,7 @@ Grant,C103,STRAIGHT PARTY,,,Under Votes,1517,442,1018,57
 Grant,C103,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Grant,C103,President,,REP,Donald J. TRUMP / JD VANCE,3067,838,2100,129
 Grant,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,632,212,369,51
-Grant,C103,President,,KY,Jill  STEIN / Samson KPADENOU,10,3,7,0
+Grant,C103,President,,KY,Jill STEIN / Samson KPADENOU,10,3,7,0
 Grant,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,29,4,22,3
 Grant,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Grant,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,5,0,5,0
@@ -210,13 +210,13 @@ Grant,C103,Commonwealth's Attorney,15,,Leigh Tomlinson ROBERTS,3171,858,2171,142
 Grant,C103,Commonwealth's Attorney,15,,Total Votes,3171,858,2171,142
 Grant,C103,Commonwealth's Attorney,15,,Under Votes,585,202,341,42
 Grant,C103,Commonwealth's Attorney,15,,Over Votes,1,0,1,0
-Grant,C103,Circuit Clerk,,,"Wray J. JUMP REP ",3193,867,2184,142
+Grant,C103,Circuit Clerk,,,Wray J. JUMP REP,3193,867,2184,142
 Grant,C103,Circuit Clerk,,,Total Votes,3193,867,2184,142
 Grant,C103,Circuit Clerk,,,Under Votes,563,192,329,42
 Grant,C103,Circuit Clerk,,,Over Votes,1,1,0,0
-Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"James Travis WOODYARD ",1772,470,1219,83
-Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Timothy T. EPPERSON ",1857,524,1245,88
-Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,"Jerry L. MARTIN ",1533,430,1018,85
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,James Travis WOODYARD,1772,470,1219,83
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Timothy T. EPPERSON,1857,524,1245,88
+Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Jerry L. MARTIN,1533,430,1018,85
 Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Total Votes,5162,1424,3482,256
 Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Under Votes,9866,2816,6570,480
 Grant,C103,SOIL and WATER CONSERVATION DISTRICT SUPERVISORS,,,Over Votes,0,0,0,0
@@ -226,18 +226,18 @@ Grant,C103,Board of Education,5,,Deena SNEDEGAR,192,62,120,10
 Grant,C103,Board of Education,5,,Total Votes,1327,370,907,50
 Grant,C103,Board of Education,5,,Under Votes,705,220,444,41
 Grant,C103,Board of Education,5,,Over Votes,6,4,2,0
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Michelle BOHMAN ",673,168,475,30
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Joseph C. DUSING ",493,141,325,27
-Grant,C103,CITY COUNCIL City of Crittenden,,,"William Edward RALSTON ",356,105,235,16
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Mary A. ""Ange"" MORRIS ",486,132,330,24
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Bobby TANNER ",502,124,351,27
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Leo SAYLOR ",576,147,393,36
-Grant,C103,CITY COUNCIL City of Crittenden,,,"Bobby NEWMAN ",574,170,375,29
+Grant,C103,CITY COUNCIL City of Crittenden,,,Michelle BOHMAN,673,168,475,30
+Grant,C103,CITY COUNCIL City of Crittenden,,,Joseph C. DUSING,493,141,325,27
+Grant,C103,CITY COUNCIL City of Crittenden,,,William Edward RALSTON,356,105,235,16
+Grant,C103,CITY COUNCIL City of Crittenden,,,"Mary A. ""Ange"" MORRIS",486,132,330,24
+Grant,C103,CITY COUNCIL City of Crittenden,,,Bobby TANNER,502,124,351,27
+Grant,C103,CITY COUNCIL City of Crittenden,,,Leo SAYLOR,576,147,393,36
+Grant,C103,CITY COUNCIL City of Crittenden,,,Bobby NEWMAN,574,170,375,29
 Grant,C103,CITY COUNCIL City of Crittenden,,,Total Votes,3660,987,2484,189
 Grant,C103,CITY COUNCIL City of Crittenden,,,Under Votes,5544,1401,3918,225
 Grant,C103,CITY COUNCIL City of Crittenden,,,Over Votes,8,2,6,0
-Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",2415,693,1602,120
-Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",1205,325,828,52
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,2415,693,1602,120
+Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,1205,325,828,52
 Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,3620,1018,2430,172
 Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,126,39,75,12
 Grant,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,11,3,8,0

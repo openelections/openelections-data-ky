@@ -8,7 +8,7 @@ Anderson,A101,STRAIGHT PARTY,,,Under Votes,808,460,323,25
 Anderson,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,A101,President,,REP,Donald J. TRUMP / JD VANCE,1163,657,485,21
 Anderson,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,464,246,194,24
-Anderson,A101,President,,KY,Jill  STEIN / Samson KPADENOU,5,3,2,0
+Anderson,A101,President,,KY,Jill STEIN / Samson KPADENOU,5,3,2,0
 Anderson,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,21,10,9,2
 Anderson,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Anderson,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,6,3,3,0
@@ -51,17 +51,17 @@ Anderson,A101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",369,219,144,6
 Anderson,A101,Board of Education,2,,Total Votes,618,355,250,13
 Anderson,A101,Board of Education,2,,Under Votes,218,138,69,11
 Anderson,A101,Board of Education,2,,Over Votes,1,0,0,1
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",469,254,199,16
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",544,285,245,14
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",508,275,218,15
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",544,284,249,11
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",396,210,175,11
-Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",478,249,216,13
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Robbie HUME,469,254,199,16
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Joe MARSHALL,544,285,245,14
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Steve VOTAW,508,275,218,15
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Anthony SEARCY,544,284,249,11
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR",396,210,175,11
+Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Myles T. YOUNG,478,249,216,13
 Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,2939,1557,1302,80
 Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,4819,2583,2082,154
 Anderson,A101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,7,7,0,0
-Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",929,514,390,25
-Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",633,346,270,17
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,929,514,390,25
+Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,633,346,270,17
 Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1562,860,660,42
 Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,115,69,42,4
 Anderson,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
@@ -84,7 +84,7 @@ Anderson,B101,STRAIGHT PARTY,,,Under Votes,1135,700,407,28
 Anderson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,B101,President,,REP,Donald J. TRUMP / JD VANCE,1566,956,581,29
 Anderson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,605,395,186,24
-Anderson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,0,1
+Anderson,B101,President,,KY,Jill STEIN / Samson KPADENOU,2,1,0,1
 Anderson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,28,16,12,0
 Anderson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Anderson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,7,1,6,0
@@ -123,12 +123,12 @@ Anderson,B101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",472,322,138,12
 Anderson,B101,Board of Education,2,,Total Votes,677,443,218,16
 Anderson,B101,Board of Education,2,,Under Votes,220,150,67,3
 Anderson,B101,Board of Education,2,,Over Votes,0,0,0,0
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",689,412,257,20
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",702,405,272,25
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",741,454,263,24
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",750,430,294,26
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",613,363,229,21
-Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",716,412,279,25
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Robbie HUME,689,412,257,20
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Joe MARSHALL,702,405,272,25
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Steve VOTAW,741,454,263,24
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Anthony SEARCY,750,430,294,26
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR",613,363,229,21
+Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Myles T. YOUNG,716,412,279,25
 Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,4211,2476,1594,141
 Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,5719,3464,2144,111
 Anderson,B101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,16,11,5,0
@@ -156,7 +156,7 @@ Anderson,C101,STRAIGHT PARTY,,,Under Votes,993,583,377,33
 Anderson,C101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Anderson,C101,President,,REP,Donald J. TRUMP / JD VANCE,1372,777,552,43
 Anderson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,587,343,202,42
-Anderson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,9,3,6,0
+Anderson,C101,President,,KY,Jill STEIN / Samson KPADENOU,9,3,6,0
 Anderson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,17,10,6,1
 Anderson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Anderson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,8,2,4,2
@@ -200,17 +200,17 @@ Anderson,C101,Board of Education,2,,"Ronald ""Sonny"" FENTRESS",431,261,149,21
 Anderson,C101,Board of Education,2,,Total Votes,803,433,333,37
 Anderson,C101,Board of Education,2,,Under Votes,260,148,102,10
 Anderson,C101,Board of Education,2,,Over Votes,2,1,1,0
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",780,485,260,35
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",731,436,259,36
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",893,537,318,38
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",814,485,298,31
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",637,377,226,34
-Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",726,425,273,28
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Robbie HUME,780,485,260,35
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Joe MARSHALL,731,436,259,36
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Steve VOTAW,893,537,318,38
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Anthony SEARCY,814,485,298,31
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR",637,377,226,34
+Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Myles T. YOUNG,726,425,273,28
 Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,4581,2745,1634,202
 Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,7335,4083,2926,326
 Anderson,C101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,18,10,7,1
-Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1118,641,432,45
-Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",743,414,290,39
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,1118,641,432,45
+Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,743,414,290,39
 Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1861,1055,722,84
 Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,143,89,49,5
 Anderson,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,4,1,0
@@ -233,7 +233,7 @@ Anderson,D101,STRAIGHT PARTY,,,Under Votes,1052,655,373,24
 Anderson,D101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Anderson,D101,President,,REP,Donald J. TRUMP / JD VANCE,1712,1058,617,37
 Anderson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,498,329,147,22
-Anderson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,5,2,3,0
+Anderson,D101,President,,KY,Jill STEIN / Samson KPADENOU,5,2,3,0
 Anderson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,10,5,0
 Anderson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Anderson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,0,4,0
@@ -267,17 +267,17 @@ Anderson,D101,Board of Education,5,,Jason Stanley COLLINS,655,362,281,12
 Anderson,D101,Board of Education,5,,Total Votes,655,362,281,12
 Anderson,D101,Board of Education,5,,Under Votes,543,359,165,19
 Anderson,D101,Board of Education,5,,Over Votes,1,0,1,0
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Robbie HUME ",279,177,97,5
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Joe MARSHALL ",296,183,109,4
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Steve VOTAW ",340,215,120,5
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Anthony SEARCY ",344,197,141,6
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR ",262,158,97,7
-Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"Myles T. YOUNG ",325,194,126,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Robbie HUME,279,177,97,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Joe MARSHALL,296,183,109,4
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Steve VOTAW,340,215,120,5
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Anthony SEARCY,344,197,141,6
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,"David ""Bryan"" TAYLOR",262,158,97,7
+Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Myles T. YOUNG,325,194,126,5
 Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Total Votes,1846,1124,690,32
 Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Under Votes,2720,1594,1050,76
 Anderson,D101,CITY COUNCIL City of Lawrenceburg,,,Over Votes,3,2,1,0
-Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1422,879,507,36
-Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",678,426,234,18
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,1422,879,507,36
+Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,678,426,234,18
 Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,2100,1305,741,54
 Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,144,100,40,4
 Anderson,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,3,2,1
@@ -300,7 +300,7 @@ Anderson,E101,STRAIGHT PARTY,,,Under Votes,753,457,254,42
 Anderson,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,E101,President,,REP,Donald J. TRUMP / JD VANCE,1115,679,397,39
 Anderson,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,348,204,116,28
-Anderson,E101,President,,KY,Jill  STEIN / Samson KPADENOU,8,7,1,0
+Anderson,E101,President,,KY,Jill STEIN / Samson KPADENOU,8,7,1,0
 Anderson,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,5,5,1
 Anderson,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Anderson,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
@@ -330,8 +330,8 @@ Anderson,E101,Circuit Clerk,,REP,Pamela J. ROBINSON,1230,730,449,51
 Anderson,E101,Circuit Clerk,,,Total Votes,1230,730,449,51
 Anderson,E101,Circuit Clerk,,,Under Votes,267,175,75,17
 Anderson,E101,Circuit Clerk,,,Over Votes,0,0,0,0
-Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",1008,611,347,50
-Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",411,240,155,16
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,1008,611,347,50
+Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,411,240,155,16
 Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1419,851,502,66
 Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,73,52,20,1
 Anderson,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,2,2,1
@@ -354,7 +354,7 @@ Anderson,E103,STRAIGHT PARTY,,,Under Votes,519,275,236,8
 Anderson,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,E103,President,,REP,Donald J. TRUMP / JD VANCE,812,442,352,18
 Anderson,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,245,152,80,13
-Anderson,E103,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Anderson,E103,President,,KY,Jill STEIN / Samson KPADENOU,5,1,4,0
 Anderson,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,3,9,0
 Anderson,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Anderson,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,6,2,4,0
@@ -384,8 +384,8 @@ Anderson,E103,Circuit Clerk,,REP,Pamela J. ROBINSON,882,479,381,22
 Anderson,E103,Circuit Clerk,,,Total Votes,882,479,381,22
 Anderson,E103,Circuit Clerk,,,Under Votes,204,126,69,9
 Anderson,E103,Circuit Clerk,,,Over Votes,0,0,0,0
-Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",734,404,310,20
-Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",285,156,120,9
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,YES,734,404,310,20
+Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,NO,285,156,120,9
 Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1019,560,430,29
 Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,61,41,19,1
 Anderson,E103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,1,1
@@ -408,7 +408,7 @@ Anderson,F101,STRAIGHT PARTY,,,Under Votes,433,258,164,11
 Anderson,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,F101,President,,REP,Donald J. TRUMP / JD VANCE,771,449,299,23
 Anderson,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,187,128,46,13
-Anderson,F101,President,,KY,Jill  STEIN / Samson KPADENOU,5,0,4,1
+Anderson,F101,President,,KY,Jill STEIN / Samson KPADENOU,5,0,4,1
 Anderson,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,6,5,0
 Anderson,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Anderson,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,1,1
@@ -446,13 +446,13 @@ Anderson,F101,Board of Education,5,,Jason Stanley COLLINS,429,232,185,12
 Anderson,F101,Board of Education,5,,Total Votes,429,232,185,12
 Anderson,F101,Board of Education,5,,Under Votes,462,301,139,22
 Anderson,F101,Board of Education,5,,Over Votes,0,0,0,0
-Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",661,389,253,19
-Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",243,151,77,15
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,YES,661,389,253,19
+Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,NO,243,151,77,15
 Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,904,540,330,34
 Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,81,50,28,3
 Anderson,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,0,1
-Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",399,237,147,15
-Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",553,336,197,20
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,YES,399,237,147,15
+Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,NO,553,336,197,20
 Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,952,573,344,35
 Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,33,18,12,3
 Anderson,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,3,1,2,0
@@ -470,7 +470,7 @@ Anderson,F102,STRAIGHT PARTY,,,Under Votes,632,409,194,29
 Anderson,F102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Anderson,F102,President,,REP,Donald J. TRUMP / JD VANCE,1139,681,420,38
 Anderson,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,292,187,79,26
-Anderson,F102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Anderson,F102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Anderson,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,6,4,0
 Anderson,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Anderson,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,7,5,1,1

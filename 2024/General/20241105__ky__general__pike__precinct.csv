@@ -8,7 +8,7 @@ Pike,A101,STRAIGHT PARTY,,,Under Votes,145,55,80,10
 Pike,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A101,President,,REP,Donald J. TRUMP / JD VANCE,145,45,91,9
 Pike,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,80,37,38,5
-Pike,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Pike,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -33,7 +33,7 @@ Pike,A101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",169,53,105,11
 Pike,A101,Commonwealth's Attorney,35,,Total Votes,169,53,105,11
 Pike,A101,Commonwealth's Attorney,35,,Under Votes,63,30,30,3
 Pike,A101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",174,57,106,11
+Pike,A101,Circuit Clerk,,,Anna Pinson SPEARS REP,174,57,106,11
 Pike,A101,Circuit Clerk,,,Total Votes,174,57,106,11
 Pike,A101,Circuit Clerk,,,Under Votes,58,26,29,3
 Pike,A101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -52,10 +52,10 @@ Pike,A101,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A101,Board of Education,Pikeville Independent School District,,Total Votes,266,91,154,21
 Pike,A101,Board of Education,Pikeville Independent School District,,Under Votes,198,75,116,7
 Pike,A101,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,A101,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",126,40,75,11
-Pike,A101,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",125,41,72,12
-Pike,A101,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",123,48,63,12
-Pike,A101,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",115,42,64,9
+Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,126,40,75,11
+Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,125,41,72,12
+Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,123,48,63,12
+Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,115,42,64,9
 Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Total Votes,489,171,274,44
 Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Under Votes,435,161,262,12
 Pike,A101,CITY COMMISSIONERS City of Pikeville,,,Over Votes,1,0,1,0
@@ -78,7 +78,7 @@ Pike,A102,STRAIGHT PARTY,,,Under Votes,275,56,205,14
 Pike,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A102,President,,REP,Donald J. TRUMP / JD VANCE,373,72,283,18
 Pike,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,81,27,44,10
-Pike,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,3,3,0
 Pike,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -103,7 +103,7 @@ Pike,A102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",349,77,256,16
 Pike,A102,Commonwealth's Attorney,35,,Total Votes,349,77,256,16
 Pike,A102,Commonwealth's Attorney,35,,Under Votes,113,25,76,12
 Pike,A102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",375,80,276,19
+Pike,A102,Circuit Clerk,,,Anna Pinson SPEARS REP,375,80,276,19
 Pike,A102,Circuit Clerk,,,Total Votes,375,80,276,19
 Pike,A102,Circuit Clerk,,,Under Votes,87,22,56,9
 Pike,A102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -122,13 +122,13 @@ Pike,A102,Board of Education,2,,Stephany Patrick LOWE,227,55,155,17
 Pike,A102,Board of Education,2,,Total Votes,380,80,278,22
 Pike,A102,Board of Education,2,,Under Votes,81,22,53,6
 Pike,A102,Board of Education,2,,Over Votes,1,0,1,0
-Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",256,58,180,18
-Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",171,38,124,9
+Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,256,58,180,18
+Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,171,38,124,9
 Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,427,96,304,27
 Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,6,27,1
 Pike,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",149,35,107,7
-Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",289,61,208,20
+Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,149,35,107,7
+Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,289,61,208,20
 Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,438,96,315,27
 Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,23,6,17,0
 Pike,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
@@ -141,7 +141,7 @@ Pike,A103,STRAIGHT PARTY,,,Under Votes,305,100,183,22
 Pike,A103,STRAIGHT PARTY,,,Over Votes,2,0,1,1
 Pike,A103,President,,REP,Donald J. TRUMP / JD VANCE,348,110,217,21
 Pike,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,136,50,59,27
-Pike,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,A103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Pike,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Pike,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -166,7 +166,7 @@ Pike,A103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",369,113,228,2
 Pike,A103,Commonwealth's Attorney,35,,Total Votes,369,113,228,28
 Pike,A103,Commonwealth's Attorney,35,,Under Votes,126,48,58,20
 Pike,A103,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",392,122,240,30
+Pike,A103,Circuit Clerk,,,Anna Pinson SPEARS REP,392,122,240,30
 Pike,A103,Circuit Clerk,,,Total Votes,392,122,240,30
 Pike,A103,Circuit Clerk,,,Under Votes,103,39,46,18
 Pike,A103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -190,15 +190,15 @@ Pike,A103,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A103,Board of Education,Pikeville Independent School District,,Total Votes,294,109,156,29
 Pike,A103,Board of Education,Pikeville Independent School District,,Under Votes,252,89,134,29
 Pike,A103,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,A103,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",154,63,74,17
-Pike,A103,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",143,51,75,17
-Pike,A103,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",149,65,66,18
-Pike,A103,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",130,52,64,14
+Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,154,63,74,17
+Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,143,51,75,17
+Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,149,65,66,18
+Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,130,52,64,14
 Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Total Votes,576,231,279,66
 Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Under Votes,512,161,301,50
 Pike,A103,CITY COMMISSIONERS City of Pikeville,,,Over Votes,1,1,0,0
-Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",304,101,178,25
-Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",151,46,85,20
+Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,304,101,178,25
+Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,151,46,85,20
 Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,455,147,263,45
 Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,40,14,23,3
 Pike,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -216,7 +216,7 @@ Pike,A104,STRAIGHT PARTY,,,Under Votes,621,250,305,66
 Pike,A104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Pike,A104,President,,REP,Donald J. TRUMP / JD VANCE,724,264,390,70
 Pike,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,233,102,106,25
-Pike,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,1,6,1
 Pike,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
@@ -241,7 +241,7 @@ Pike,A104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",738,261,398,7
 Pike,A104,Commonwealth's Attorney,35,,Total Votes,738,261,398,79
 Pike,A104,Commonwealth's Attorney,35,,Under Votes,244,114,113,17
 Pike,A104,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",774,280,410,84
+Pike,A104,Circuit Clerk,,,Anna Pinson SPEARS REP,774,280,410,84
 Pike,A104,Circuit Clerk,,,Total Votes,774,280,410,84
 Pike,A104,Circuit Clerk,,,Under Votes,208,95,101,12
 Pike,A104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -260,10 +260,10 @@ Pike,A104,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A104,Board of Education,Pikeville Independent School District,,Total Votes,1181,443,607,131
 Pike,A104,Board of Education,Pikeville Independent School District,,Under Votes,781,305,415,61
 Pike,A104,Board of Education,Pikeville Independent School District,,Over Votes,1,1,0,0
-Pike,A104,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",537,195,281,61
-Pike,A104,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",553,206,289,58
-Pike,A104,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",553,222,274,57
-Pike,A104,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",545,204,285,56
+Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,537,195,281,61
+Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,553,206,289,58
+Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,553,222,274,57
+Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,545,204,285,56
 Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Total Votes,2188,827,1129,232
 Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Under Votes,1736,673,911,152
 Pike,A104,CITY COMMISSIONERS City of Pikeville,,,Over Votes,1,0,1,0
@@ -286,7 +286,7 @@ Pike,A105,STRAIGHT PARTY,,,Under Votes,146,44,95,7
 Pike,A105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A105,President,,REP,Donald J. TRUMP / JD VANCE,191,36,151,4
 Pike,A105,President,,DEM,Kamala D. HARRIS / Tim WALZ,120,41,71,8
-Pike,A105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,A105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -311,7 +311,7 @@ Pike,A105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",228,53,171,4
 Pike,A105,Commonwealth's Attorney,35,,Total Votes,228,53,171,4
 Pike,A105,Commonwealth's Attorney,35,,Under Votes,87,24,55,8
 Pike,A105,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",233,55,173,5
+Pike,A105,Circuit Clerk,,,Anna Pinson SPEARS REP,233,55,173,5
 Pike,A105,Circuit Clerk,,,Total Votes,233,55,173,5
 Pike,A105,Circuit Clerk,,,Under Votes,82,22,53,7
 Pike,A105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -335,15 +335,15 @@ Pike,A105,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A105,Board of Education,Pikeville Independent School District,,Total Votes,286,69,209,8
 Pike,A105,Board of Education,Pikeville Independent School District,,Under Votes,284,69,205,10
 Pike,A105,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,A105,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",157,39,112,6
-Pike,A105,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",127,36,86,5
-Pike,A105,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",123,36,80,7
-Pike,A105,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",96,29,62,5
+Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,157,39,112,6
+Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,127,36,86,5
+Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,123,36,80,7
+Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,96,29,62,5
 Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Total Votes,503,140,340,23
 Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Under Votes,725,168,532,25
 Pike,A105,CITY COMMISSIONERS City of Pikeville,,,Over Votes,0,0,0,0
-Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",170,39,128,3
-Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",117,30,79,8
+Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,YES,170,39,128,3
+Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,NO,117,30,79,8
 Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,287,69,207,11
 Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,8,18,1
 Pike,A105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
@@ -361,7 +361,7 @@ Pike,A106,STRAIGHT PARTY,,,Under Votes,606,194,369,43
 Pike,A106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A106,President,,REP,Donald J. TRUMP / JD VANCE,740,232,469,39
 Pike,A106,President,,DEM,Kamala D. HARRIS / Tim WALZ,199,72,100,27
-Pike,A106,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,2,1
+Pike,A106,President,,KY,Jill STEIN / Samson KPADENOU,3,0,2,1
 Pike,A106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,5,1,1
 Pike,A106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A106,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -386,7 +386,7 @@ Pike,A106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",754,238,470,4
 Pike,A106,Commonwealth's Attorney,35,,Total Votes,754,238,470,46
 Pike,A106,Commonwealth's Attorney,35,,Under Votes,204,73,108,23
 Pike,A106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",776,249,480,47
+Pike,A106,Circuit Clerk,,,Anna Pinson SPEARS REP,776,249,480,47
 Pike,A106,Circuit Clerk,,,Total Votes,776,249,480,47
 Pike,A106,Circuit Clerk,,,Under Votes,182,62,98,22
 Pike,A106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -410,27 +410,27 @@ Pike,A106,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A106,Board of Education,Pikeville Independent School District,,Total Votes,212,99,100,13
 Pike,A106,Board of Education,Pikeville Independent School District,,Under Votes,174,83,76,15
 Pike,A106,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Joseph ""Big Joe"" ADKINS ",362,92,245,25
-Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Herbert ""Trey"" DESKINS ",319,88,207,24
-Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Beverly JoJustice OSBORNE ",279,75,180,24
-Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Mike STEELE ",292,74,193,25
+Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Joseph ""Big Joe"" ADKINS",362,92,245,25
+Pike,A106,CITY COMMISSIONERS City of Coal Run,,,"Herbert ""Trey"" DESKINS",319,88,207,24
+Pike,A106,CITY COMMISSIONERS City of Coal Run,,,Beverly JoJustice OSBORNE,279,75,180,24
+Pike,A106,CITY COMMISSIONERS City of Coal Run,,,Mike STEELE,292,74,193,25
 Pike,A106,CITY COMMISSIONERS City of Coal Run,,,Total Votes,1252,329,825,98
 Pike,A106,CITY COMMISSIONERS City of Coal Run,,,Under Votes,1224,307,847,70
 Pike,A106,CITY COMMISSIONERS City of Coal Run,,,Over Votes,0,0,0,0
-Pike,A106,QUESTION-COAL RUN CANNABIS,,,"YES ",370,102,249,19
-Pike,A106,QUESTION-COAL RUN CANNABIS,,,"NO ",215,51,143,21
+Pike,A106,QUESTION-COAL RUN CANNABIS,,,YES,370,102,249,19
+Pike,A106,QUESTION-COAL RUN CANNABIS,,,NO,215,51,143,21
 Pike,A106,QUESTION-COAL RUN CANNABIS,,,Total Votes,585,153,392,40
 Pike,A106,QUESTION-COAL RUN CANNABIS,,,Under Votes,34,6,26,2
 Pike,A106,QUESTION-COAL RUN CANNABIS,,,Over Votes,0,0,0,0
-Pike,A106,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",135,64,62,9
-Pike,A106,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",127,57,60,10
-Pike,A106,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",134,65,60,9
-Pike,A106,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",124,56,57,11
+Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,135,64,62,9
+Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,127,57,60,10
+Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,134,65,60,9
+Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,124,56,57,11
 Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Total Votes,520,242,239,39
 Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Under Votes,568,238,269,61
 Pike,A106,CITY COMMISSIONERS City of Pikeville,,,Over Votes,0,0,0,0
-Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",616,207,370,39
-Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",267,87,158,22
+Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,YES,616,207,370,39
+Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,NO,267,87,158,22
 Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,883,294,528,61
 Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,71,16,48,7
 Pike,A106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,2,1
@@ -448,7 +448,7 @@ Pike,A107,STRAIGHT PARTY,,,Under Votes,255,94,132,29
 Pike,A107,STRAIGHT PARTY,,,Over Votes,1,0,0,1
 Pike,A107,President,,REP,Donald J. TRUMP / JD VANCE,373,123,210,40
 Pike,A107,President,,DEM,Kamala D. HARRIS / Tim WALZ,107,34,50,23
-Pike,A107,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,1,2
+Pike,A107,President,,KY,Jill STEIN / Samson KPADENOU,4,1,1,2
 Pike,A107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,A107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A107,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -472,7 +472,7 @@ Pike,A107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",381,124,213,4
 Pike,A107,Commonwealth's Attorney,35,,Total Votes,381,124,213,44
 Pike,A107,Commonwealth's Attorney,35,,Under Votes,107,35,49,23
 Pike,A107,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",392,131,216,45
+Pike,A107,Circuit Clerk,,,Anna Pinson SPEARS REP,392,131,216,45
 Pike,A107,Circuit Clerk,,,Total Votes,392,131,216,45
 Pike,A107,Circuit Clerk,,,Under Votes,95,28,45,22
 Pike,A107,Circuit Clerk,,,Over Votes,1,0,1,0
@@ -491,10 +491,10 @@ Pike,A107,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,A107,Board of Education,Pikeville Independent School District,,Total Votes,533,187,280,66
 Pike,A107,Board of Education,Pikeville Independent School District,,Under Votes,443,131,244,68
 Pike,A107,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,A107,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",275,96,144,35
-Pike,A107,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",239,85,129,25
-Pike,A107,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",253,94,131,28
-Pike,A107,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",241,91,122,28
+Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,275,96,144,35
+Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,239,85,129,25
+Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,253,94,131,28
+Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,241,91,122,28
 Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Total Votes,1008,366,526,116
 Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Under Votes,940,270,522,148
 Pike,A107,CITY COMMISSIONERS City of Pikeville,,,Over Votes,1,0,0,1
@@ -517,7 +517,7 @@ Pike,A108,STRAIGHT PARTY,,,Under Votes,315,98,183,34
 Pike,A108,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Pike,A108,President,,REP,Donald J. TRUMP / JD VANCE,423,128,256,39
 Pike,A108,President,,DEM,Kamala D. HARRIS / Tim WALZ,94,41,42,11
-Pike,A108,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,A108,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,A108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,A108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,2,0,0
 Pike,A108,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -542,7 +542,7 @@ Pike,A108,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",408,130,237,4
 Pike,A108,Commonwealth's Attorney,35,,Total Votes,408,130,237,41
 Pike,A108,Commonwealth's Attorney,35,,Under Votes,118,43,66,9
 Pike,A108,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A108,Circuit Clerk,,,"Anna Pinson SPEARS REP ",427,133,251,43
+Pike,A108,Circuit Clerk,,,Anna Pinson SPEARS REP,427,133,251,43
 Pike,A108,Circuit Clerk,,,Total Votes,427,133,251,43
 Pike,A108,Circuit Clerk,,,Under Votes,99,40,52,7
 Pike,A108,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -561,22 +561,22 @@ Pike,A108,Board of Education,2,,Stephany Patrick LOWE,212,73,117,22
 Pike,A108,Board of Education,2,,Total Votes,417,121,254,42
 Pike,A108,Board of Education,2,,Under Votes,109,52,49,8
 Pike,A108,Board of Education,2,,Over Votes,0,0,0,0
-Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Joseph ""Big Joe"" ADKINS ",94,31,50,13
-Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Herbert ""Trey"" DESKINS ",57,17,28,12
-Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Beverly JoJustice OSBORNE ",65,23,33,9
-Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Mike STEELE ",58,19,30,9
+Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Joseph ""Big Joe"" ADKINS",94,31,50,13
+Pike,A108,CITY COMMISSIONERS City of Coal Run,,,"Herbert ""Trey"" DESKINS",57,17,28,12
+Pike,A108,CITY COMMISSIONERS City of Coal Run,,,Beverly JoJustice OSBORNE,65,23,33,9
+Pike,A108,CITY COMMISSIONERS City of Coal Run,,,Mike STEELE,58,19,30,9
 Pike,A108,CITY COMMISSIONERS City of Coal Run,,,Total Votes,274,90,141,43
 Pike,A108,CITY COMMISSIONERS City of Coal Run,,,Under Votes,374,90,247,37
 Pike,A108,CITY COMMISSIONERS City of Coal Run,,,Over Votes,0,0,0,0
-Pike,A108,QUESTION-COAL RUN CANNABIS,,,"YES ",102,26,63,13
-Pike,A108,QUESTION-COAL RUN CANNABIS,,,"NO ",55,16,32,7
+Pike,A108,QUESTION-COAL RUN CANNABIS,,,YES,102,26,63,13
+Pike,A108,QUESTION-COAL RUN CANNABIS,,,NO,55,16,32,7
 Pike,A108,QUESTION-COAL RUN CANNABIS,,,Total Votes,157,42,95,20
 Pike,A108,QUESTION-COAL RUN CANNABIS,,,Under Votes,5,3,2,0
 Pike,A108,QUESTION-COAL RUN CANNABIS,,,Over Votes,0,0,0,0
-Pike,A108,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",0,0,0,0
-Pike,A108,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",0,0,0,0
-Pike,A108,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",0,0,0,0
-Pike,A108,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",0,0,0,0
+Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,0,0,0,0
+Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,0,0,0,0
+Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,0,0,0,0
+Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,0,0,0,0
 Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Total Votes,0,0,0,0
 Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Under Votes,0,0,0,0
 Pike,A108,CITY COMMISSIONERS City of Pikeville,,,Over Votes,0,0,0,0
@@ -599,7 +599,7 @@ Pike,A109,STRAIGHT PARTY,,,Under Votes,150,28,118,4
 Pike,A109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A109,President,,REP,Donald J. TRUMP / JD VANCE,256,57,196,3
 Pike,A109,President,,DEM,Kamala D. HARRIS / Tim WALZ,30,7,22,1
-Pike,A109,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A109,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,1,1
 Pike,A109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A109,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -623,7 +623,7 @@ Pike,A109,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",251,57,189,5
 Pike,A109,Commonwealth's Attorney,35,,Total Votes,251,57,189,5
 Pike,A109,Commonwealth's Attorney,35,,Under Votes,40,8,32,0
 Pike,A109,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A109,Circuit Clerk,,,"Anna Pinson SPEARS REP ",263,59,199,5
+Pike,A109,Circuit Clerk,,,Anna Pinson SPEARS REP,263,59,199,5
 Pike,A109,Circuit Clerk,,,Total Votes,263,59,199,5
 Pike,A109,Circuit Clerk,,,Under Votes,28,6,22,0
 Pike,A109,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -642,13 +642,13 @@ Pike,A109,Board of Education,2,,Stephany Patrick LOWE,152,35,114,3
 Pike,A109,Board of Education,2,,Total Votes,244,56,183,5
 Pike,A109,Board of Education,2,,Under Votes,47,9,38,0
 Pike,A109,Board of Education,2,,Over Votes,0,0,0,0
-Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,"YES ",170,39,127,4
-Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,"NO ",90,20,69,1
+Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,YES,170,39,127,4
+Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,NO,90,20,69,1
 Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,260,59,196,5
 Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,31,6,25,0
 Pike,A109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,"YES ",109,25,82,2
-Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,"NO ",160,35,122,3
+Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,YES,109,25,82,2
+Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,NO,160,35,122,3
 Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,269,60,204,5
 Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,5,16,0
 Pike,A109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -661,7 +661,7 @@ Pike,A110,STRAIGHT PARTY,,,Under Votes,243,33,194,16
 Pike,A110,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,A110,President,,REP,Donald J. TRUMP / JD VANCE,336,53,266,17
 Pike,A110,President,,DEM,Kamala D. HARRIS / Tim WALZ,54,8,40,6
-Pike,A110,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,A110,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,A110,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,A110,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,A110,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -685,7 +685,7 @@ Pike,A110,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",296,46,234,16
 Pike,A110,Commonwealth's Attorney,35,,Total Votes,296,46,234,16
 Pike,A110,Commonwealth's Attorney,35,,Under Votes,99,15,77,7
 Pike,A110,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,A110,Circuit Clerk,,,"Anna Pinson SPEARS REP ",320,53,250,17
+Pike,A110,Circuit Clerk,,,Anna Pinson SPEARS REP,320,53,250,17
 Pike,A110,Circuit Clerk,,,Total Votes,320,53,250,17
 Pike,A110,Circuit Clerk,,,Under Votes,75,8,61,6
 Pike,A110,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -704,13 +704,13 @@ Pike,A110,Board of Education,2,,Stephany Patrick LOWE,188,27,148,13
 Pike,A110,Board of Education,2,,Total Votes,345,54,272,19
 Pike,A110,Board of Education,2,,Under Votes,50,7,39,4
 Pike,A110,Board of Education,2,,Over Votes,0,0,0,0
-Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,"YES ",213,28,177,8
-Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,"NO ",137,24,99,14
+Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,YES,213,28,177,8
+Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,NO,137,24,99,14
 Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,350,52,276,22
 Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,44,9,34,1
 Pike,A110,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,"YES ",120,21,95,4
-Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,"NO ",246,34,194,18
+Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,YES,120,21,95,4
+Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,NO,246,34,194,18
 Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,366,55,289,22
 Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,6,22,1
 Pike,A110,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -723,7 +723,7 @@ Pike,B101,STRAIGHT PARTY,,,Under Votes,369,60,298,11
 Pike,B101,STRAIGHT PARTY,,,Over Votes,3,0,3,0
 Pike,B101,President,,REP,Donald J. TRUMP / JD VANCE,569,84,465,20
 Pike,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,105,20,76,9
-Pike,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Pike,B101,President,,KY,Jill STEIN / Samson KPADENOU,1,1,0,0
 Pike,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
 Pike,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -747,7 +747,7 @@ Pike,B101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",529,81,424,24
 Pike,B101,Commonwealth's Attorney,35,,Total Votes,529,81,424,24
 Pike,B101,Commonwealth's Attorney,35,,Under Votes,160,26,129,5
 Pike,B101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",560,83,452,25
+Pike,B101,Circuit Clerk,,,Anna Pinson SPEARS REP,560,83,452,25
 Pike,B101,Circuit Clerk,,,Total Votes,560,83,452,25
 Pike,B101,Circuit Clerk,,,Under Votes,129,24,101,4
 Pike,B101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -780,7 +780,7 @@ Pike,B102,STRAIGHT PARTY,,,Under Votes,455,82,342,31
 Pike,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,B102,President,,REP,Donald J. TRUMP / JD VANCE,715,120,562,33
 Pike,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,139,33,78,28
-Pike,B102,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Pike,B102,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Pike,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -804,7 +804,7 @@ Pike,B102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",647,109,498,4
 Pike,B102,Commonwealth's Attorney,35,,Total Votes,647,109,498,40
 Pike,B102,Commonwealth's Attorney,35,,Under Votes,221,46,151,24
 Pike,B102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",667,111,515,41
+Pike,B102,Circuit Clerk,,,Anna Pinson SPEARS REP,667,111,515,41
 Pike,B102,Circuit Clerk,,,Total Votes,667,111,515,41
 Pike,B102,Circuit Clerk,,,Under Votes,201,44,134,23
 Pike,B102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -837,7 +837,7 @@ Pike,B103,STRAIGHT PARTY,,,Under Votes,368,53,301,14
 Pike,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,B103,President,,REP,Donald J. TRUMP / JD VANCE,605,85,495,25
 Pike,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,86,12,68,6
-Pike,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,B103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -861,7 +861,7 @@ Pike,B103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",569,84,460,25
 Pike,B103,Commonwealth's Attorney,35,,Total Votes,569,84,460,25
 Pike,B103,Commonwealth's Attorney,35,,Under Votes,127,14,107,6
 Pike,B103,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",590,84,481,25
+Pike,B103,Circuit Clerk,,,Anna Pinson SPEARS REP,590,84,481,25
 Pike,B103,Circuit Clerk,,,Total Votes,590,84,481,25
 Pike,B103,Circuit Clerk,,,Under Votes,106,14,86,6
 Pike,B103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -894,7 +894,7 @@ Pike,B104,STRAIGHT PARTY,,,Under Votes,246,20,214,12
 Pike,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,B104,President,,REP,Donald J. TRUMP / JD VANCE,350,28,308,14
 Pike,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,59,9,33,17
-Pike,B104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,B104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -918,7 +918,7 @@ Pike,B104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",318,32,271,15
 Pike,B104,Commonwealth's Attorney,35,,Total Votes,318,32,271,15
 Pike,B104,Commonwealth's Attorney,35,,Under Votes,99,6,77,16
 Pike,B104,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",326,34,275,17
+Pike,B104,Circuit Clerk,,,Anna Pinson SPEARS REP,326,34,275,17
 Pike,B104,Circuit Clerk,,,Total Votes,326,34,275,17
 Pike,B104,Circuit Clerk,,,Under Votes,91,4,73,14
 Pike,B104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -951,7 +951,7 @@ Pike,B105,STRAIGHT PARTY,,,Under Votes,305,31,263,11
 Pike,B105,STRAIGHT PARTY,,,Over Votes,1,0,0,1
 Pike,B105,President,,REP,Donald J. TRUMP / JD VANCE,540,44,473,23
 Pike,B105,President,,DEM,Kamala D. HARRIS / Tim WALZ,90,13,63,14
-Pike,B105,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Pike,B105,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Pike,B105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,4,1
 Pike,B105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -975,7 +975,7 @@ Pike,B105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",491,43,424,24
 Pike,B105,Commonwealth's Attorney,35,,Total Votes,491,43,424,24
 Pike,B105,Commonwealth's Attorney,35,,Under Votes,158,15,128,15
 Pike,B105,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",522,44,455,23
+Pike,B105,Circuit Clerk,,,Anna Pinson SPEARS REP,522,44,455,23
 Pike,B105,Circuit Clerk,,,Total Votes,522,44,455,23
 Pike,B105,Circuit Clerk,,,Under Votes,127,14,97,16
 Pike,B105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1008,7 +1008,7 @@ Pike,B106,STRAIGHT PARTY,,,Under Votes,235,31,190,14
 Pike,B106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,B106,President,,REP,Donald J. TRUMP / JD VANCE,398,53,326,19
 Pike,B106,President,,DEM,Kamala D. HARRIS / Tim WALZ,72,14,53,5
-Pike,B106,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,B106,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,B106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Pike,B106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1032,7 +1032,7 @@ Pike,B106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",368,53,296,19
 Pike,B106,Commonwealth's Attorney,35,,Total Votes,368,53,296,19
 Pike,B106,Commonwealth's Attorney,35,,Under Votes,114,16,92,6
 Pike,B106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",377,55,304,18
+Pike,B106,Circuit Clerk,,,Anna Pinson SPEARS REP,377,55,304,18
 Pike,B106,Circuit Clerk,,,Total Votes,377,55,304,18
 Pike,B106,Circuit Clerk,,,Under Votes,105,14,84,7
 Pike,B106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1065,7 +1065,7 @@ Pike,B107,STRAIGHT PARTY,,,Under Votes,251,80,162,9
 Pike,B107,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,B107,President,,REP,Donald J. TRUMP / JD VANCE,340,92,235,13
 Pike,B107,President,,DEM,Kamala D. HARRIS / Tim WALZ,91,30,48,13
-Pike,B107,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Pike,B107,President,,KY,Jill STEIN / Samson KPADENOU,1,1,0,0
 Pike,B107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
 Pike,B107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,B107,President,,LIB,Chase OLIVER / Mike TER MAAT,5,2,3,0
@@ -1089,7 +1089,7 @@ Pike,B107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",348,98,233,17
 Pike,B107,Commonwealth's Attorney,35,,Total Votes,348,98,233,17
 Pike,B107,Commonwealth's Attorney,35,,Under Votes,95,29,57,9
 Pike,B107,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,B107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",359,99,242,18
+Pike,B107,Circuit Clerk,,,Anna Pinson SPEARS REP,359,99,242,18
 Pike,B107,Circuit Clerk,,,Total Votes,359,99,242,18
 Pike,B107,Circuit Clerk,,,Under Votes,84,28,48,8
 Pike,B107,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1113,15 +1113,15 @@ Pike,B107,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,B107,Board of Education,Pikeville Independent School District,,Total Votes,70,28,34,8
 Pike,B107,Board of Education,Pikeville Independent School District,,Under Votes,42,20,22,0
 Pike,B107,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,B107,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",37,13,21,3
-Pike,B107,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",35,12,19,4
-Pike,B107,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",39,14,21,4
-Pike,B107,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",38,14,21,3
+Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,37,13,21,3
+Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,35,12,19,4
+Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,39,14,21,4
+Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,38,14,21,3
 Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Total Votes,149,53,82,14
 Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Under Votes,71,43,26,2
 Pike,B107,CITY COMMISSIONERS City of Pikeville,,,Over Votes,1,0,1,0
-Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,"YES ",247,73,161,13
-Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,"NO ",161,48,104,9
+Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,YES,247,73,161,13
+Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,NO,161,48,104,9
 Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,408,121,265,22
 Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,6,25,4
 Pike,B107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -1139,7 +1139,7 @@ Pike,C101,STRAIGHT PARTY,,,Under Votes,172,6,161,5
 Pike,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C101,President,,REP,Donald J. TRUMP / JD VANCE,298,12,279,7
 Pike,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,30,3,26,1
-Pike,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1163,7 +1163,7 @@ Pike,C101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",273,13,254,6
 Pike,C101,Commonwealth's Attorney,35,,Total Votes,273,13,254,6
 Pike,C101,Commonwealth's Attorney,35,,Under Votes,57,2,53,2
 Pike,C101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",287,12,268,7
+Pike,C101,Circuit Clerk,,,Anna Pinson SPEARS REP,287,12,268,7
 Pike,C101,Circuit Clerk,,,Total Votes,287,12,268,7
 Pike,C101,Circuit Clerk,,,Under Votes,43,3,39,1
 Pike,C101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1181,13 +1181,13 @@ Pike,C101,Board of Education,5,,Shane HURLEY,176,8,165,3
 Pike,C101,Board of Education,5,,Total Votes,176,8,165,3
 Pike,C101,Board of Education,5,,Under Votes,154,7,142,5
 Pike,C101,Board of Education,5,,Over Votes,0,0,0,0
-Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",189,9,178,2
-Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",112,6,100,6
+Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,189,9,178,2
+Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,112,6,100,6
 Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,301,15,278,8
 Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,0,29,0
 Pike,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",87,9,75,3
-Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",223,6,212,5
+Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,87,9,75,3
+Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,223,6,212,5
 Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,310,15,287,8
 Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,20,0,20,0
 Pike,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1200,7 +1200,7 @@ Pike,C102,STRAIGHT PARTY,,,Under Votes,112,6,100,6
 Pike,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C102,President,,REP,Donald J. TRUMP / JD VANCE,154,14,134,6
 Pike,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,53,4,42,7
-Pike,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,C102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1224,7 +1224,7 @@ Pike,C102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",146,14,125,7
 Pike,C102,Commonwealth's Attorney,35,,Total Votes,146,14,125,7
 Pike,C102,Commonwealth's Attorney,35,,Under Votes,65,4,55,6
 Pike,C102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",147,14,127,6
+Pike,C102,Circuit Clerk,,,Anna Pinson SPEARS REP,147,14,127,6
 Pike,C102,Circuit Clerk,,,Total Votes,147,14,127,6
 Pike,C102,Circuit Clerk,,,Under Votes,64,4,53,7
 Pike,C102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1242,26 +1242,26 @@ Pike,C102,Board of Education,3,,Jimmy Dewayne ABSHIRE,115,8,100,7
 Pike,C102,Board of Education,3,,Total Votes,115,8,100,7
 Pike,C102,Board of Education,3,,Under Votes,96,10,80,6
 Pike,C102,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C102,MAYOR City of Elkhorn City,,,"Nathan BRYANT ",62,10,48,4
-Pike,C102,MAYOR City of Elkhorn City,,,"Roxanne M. BLANKENSHIP ",16,1,14,1
-Pike,C102,MAYOR City of Elkhorn City,,,"Janet S. ADKINS ",12,3,9,0
+Pike,C102,MAYOR City of Elkhorn City,,,Nathan BRYANT,62,10,48,4
+Pike,C102,MAYOR City of Elkhorn City,,,Roxanne M. BLANKENSHIP,16,1,14,1
+Pike,C102,MAYOR City of Elkhorn City,,,Janet S. ADKINS,12,3,9,0
 Pike,C102,MAYOR City of Elkhorn City,,,Total Votes,90,14,71,5
 Pike,C102,MAYOR City of Elkhorn City,,,Under Votes,8,0,7,1
 Pike,C102,MAYOR City of Elkhorn City,,,Over Votes,0,0,0,0
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER ",62,8,51,3
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Johnny Greg OWENS ",60,10,46,4
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Sandy H. SPEARS ",19,3,15,1
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Mike STACY ",49,9,34,6
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Sabrina BENNETT ",18,1,16,1
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Aaron BUTLER ",38,7,27,4
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Rocky TAYLOR ",50,7,40,3
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Jerrica TAYLOR ",47,6,39,2
-Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD ",37,7,26,4
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER",62,8,51,3
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Johnny Greg OWENS,60,10,46,4
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Sandy H. SPEARS,19,3,15,1
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Mike STACY,49,9,34,6
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Sabrina BENNETT,18,1,16,1
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Aaron BUTLER,38,7,27,4
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Rocky TAYLOR,50,7,40,3
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,Jerrica TAYLOR,47,6,39,2
+Pike,C102,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD",37,7,26,4
 Pike,C102,CITY COUNCIL City of Elkhorn City,,,Total Votes,380,58,294,28
 Pike,C102,CITY COUNCIL City of Elkhorn City,,,Under Votes,202,26,168,8
 Pike,C102,CITY COUNCIL City of Elkhorn City,,,Over Votes,1,0,1,0
-Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",121,13,100,8
-Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",71,5,61,5
+Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,121,13,100,8
+Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,71,5,61,5
 Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,192,18,161,13
 Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,19,0,19,0
 Pike,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -1279,7 +1279,7 @@ Pike,C103,STRAIGHT PARTY,,,Under Votes,297,22,252,23
 Pike,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C103,President,,REP,Donald J. TRUMP / JD VANCE,343,25,301,17
 Pike,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,141,4,119,18
-Pike,C103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Pike,C103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Pike,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,0,5,2
 Pike,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Pike,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1303,7 +1303,7 @@ Pike,C103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",323,21,279,23
 Pike,C103,Commonwealth's Attorney,35,,Total Votes,323,21,279,23
 Pike,C103,Commonwealth's Attorney,35,,Under Votes,182,9,158,15
 Pike,C103,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",337,21,294,22
+Pike,C103,Circuit Clerk,,,Anna Pinson SPEARS REP,337,21,294,22
 Pike,C103,Circuit Clerk,,,Total Votes,337,21,294,22
 Pike,C103,Circuit Clerk,,,Under Votes,168,9,143,16
 Pike,C103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1321,26 +1321,26 @@ Pike,C103,Board of Education,3,,Jimmy Dewayne ABSHIRE,264,16,233,15
 Pike,C103,Board of Education,3,,Total Votes,264,16,233,15
 Pike,C103,Board of Education,3,,Under Votes,241,14,204,23
 Pike,C103,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C103,MAYOR City of Elkhorn City,,,"Nathan BRYANT ",200,12,178,10
-Pike,C103,MAYOR City of Elkhorn City,,,"Roxanne M. BLANKENSHIP ",75,4,63,8
-Pike,C103,MAYOR City of Elkhorn City,,,"Janet S. ADKINS ",42,2,36,4
+Pike,C103,MAYOR City of Elkhorn City,,,Nathan BRYANT,200,12,178,10
+Pike,C103,MAYOR City of Elkhorn City,,,Roxanne M. BLANKENSHIP,75,4,63,8
+Pike,C103,MAYOR City of Elkhorn City,,,Janet S. ADKINS,42,2,36,4
 Pike,C103,MAYOR City of Elkhorn City,,,Total Votes,317,18,277,22
 Pike,C103,MAYOR City of Elkhorn City,,,Under Votes,22,0,13,9
 Pike,C103,MAYOR City of Elkhorn City,,,Over Votes,0,0,0,0
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER ",194,11,171,12
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Johnny Greg OWENS ",204,6,180,18
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Sandy H. SPEARS ",121,5,104,12
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Mike STACY ",183,11,158,14
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Sabrina BENNETT ",110,4,99,7
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Aaron BUTLER ",133,9,117,7
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Rocky TAYLOR ",158,11,136,11
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Jerrica TAYLOR ",131,9,115,7
-Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD ",136,4,126,6
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER",194,11,171,12
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Johnny Greg OWENS,204,6,180,18
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Sandy H. SPEARS,121,5,104,12
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Mike STACY,183,11,158,14
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Sabrina BENNETT,110,4,99,7
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Aaron BUTLER,133,9,117,7
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Rocky TAYLOR,158,11,136,11
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,Jerrica TAYLOR,131,9,115,7
+Pike,C103,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD",136,4,126,6
 Pike,C103,CITY COUNCIL City of Elkhorn City,,,Total Votes,1370,70,1206,94
 Pike,C103,CITY COUNCIL City of Elkhorn City,,,Under Votes,664,38,534,92
 Pike,C103,CITY COUNCIL City of Elkhorn City,,,Over Votes,0,0,0,0
-Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",269,20,238,11
-Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",157,7,139,11
+Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,269,20,238,11
+Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,157,7,139,11
 Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,426,27,377,22
 Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,78,3,60,15
 Pike,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
@@ -1358,7 +1358,7 @@ Pike,C104,STRAIGHT PARTY,,,Under Votes,96,8,83,5
 Pike,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C104,President,,REP,Donald J. TRUMP / JD VANCE,150,19,126,5
 Pike,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,37,6,26,5
-Pike,C104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1382,7 +1382,7 @@ Pike,C104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",137,16,116,5
 Pike,C104,Commonwealth's Attorney,35,,Total Votes,137,16,116,5
 Pike,C104,Commonwealth's Attorney,35,,Under Votes,51,9,37,5
 Pike,C104,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",142,17,119,6
+Pike,C104,Circuit Clerk,,,Anna Pinson SPEARS REP,142,17,119,6
 Pike,C104,Circuit Clerk,,,Total Votes,142,17,119,6
 Pike,C104,Circuit Clerk,,,Under Votes,46,8,34,4
 Pike,C104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1400,26 +1400,26 @@ Pike,C104,Board of Education,3,,Jimmy Dewayne ABSHIRE,117,12,98,7
 Pike,C104,Board of Education,3,,Total Votes,117,12,98,7
 Pike,C104,Board of Education,3,,Under Votes,71,13,55,3
 Pike,C104,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C104,MAYOR City of Elkhorn City,,,"Nathan BRYANT ",2,0,2,0
-Pike,C104,MAYOR City of Elkhorn City,,,"Roxanne M. BLANKENSHIP ",0,0,0,0
-Pike,C104,MAYOR City of Elkhorn City,,,"Janet S. ADKINS ",0,0,0,0
+Pike,C104,MAYOR City of Elkhorn City,,,Nathan BRYANT,2,0,2,0
+Pike,C104,MAYOR City of Elkhorn City,,,Roxanne M. BLANKENSHIP,0,0,0,0
+Pike,C104,MAYOR City of Elkhorn City,,,Janet S. ADKINS,0,0,0,0
 Pike,C104,MAYOR City of Elkhorn City,,,Total Votes,2,0,2,0
 Pike,C104,MAYOR City of Elkhorn City,,,Under Votes,0,0,0,0
 Pike,C104,MAYOR City of Elkhorn City,,,Over Votes,0,0,0,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER ",2,0,2,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Johnny Greg OWENS ",1,0,1,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Sandy H. SPEARS ",2,0,2,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Mike STACY ",2,0,2,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Sabrina BENNETT ",2,0,2,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Aaron BUTLER ",1,0,1,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Rocky TAYLOR ",1,0,1,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Jerrica TAYLOR ",0,0,0,0
-Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD ",1,0,1,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Richard ""Hank"" SALYER",2,0,2,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Johnny Greg OWENS,1,0,1,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Sandy H. SPEARS,2,0,2,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Mike STACY,2,0,2,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Sabrina BENNETT,2,0,2,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Aaron BUTLER,1,0,1,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Rocky TAYLOR,1,0,1,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,Jerrica TAYLOR,0,0,0,0
+Pike,C104,CITY COUNCIL City of Elkhorn City,,,"Jeffery ""Holden"" WARD",1,0,1,0
 Pike,C104,CITY COUNCIL City of Elkhorn City,,,Total Votes,12,0,12,0
 Pike,C104,CITY COUNCIL City of Elkhorn City,,,Under Votes,0,0,0,0
 Pike,C104,CITY COUNCIL City of Elkhorn City,,,Over Votes,0,0,0,0
-Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",109,16,84,9
-Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",69,8,60,1
+Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,109,16,84,9
+Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,69,8,60,1
 Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,178,24,144,10
 Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,9,1,8,0
 Pike,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
@@ -1437,7 +1437,7 @@ Pike,C105,STRAIGHT PARTY,,,Under Votes,262,69,176,17
 Pike,C105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C105,President,,REP,Donald J. TRUMP / JD VANCE,324,81,229,14
 Pike,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,82,24,48,10
-Pike,C105,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Pike,C105,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Pike,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1461,7 +1461,7 @@ Pike,C105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",299,77,207,15
 Pike,C105,Commonwealth's Attorney,35,,Total Votes,299,77,207,15
 Pike,C105,Commonwealth's Attorney,35,,Under Votes,109,29,71,9
 Pike,C105,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",328,85,227,16
+Pike,C105,Circuit Clerk,,,Anna Pinson SPEARS REP,328,85,227,16
 Pike,C105,Circuit Clerk,,,Total Votes,328,85,227,16
 Pike,C105,Circuit Clerk,,,Under Votes,80,21,51,8
 Pike,C105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1480,13 +1480,13 @@ Pike,C105,Board of Education,2,,Stephany Patrick LOWE,235,55,172,8
 Pike,C105,Board of Education,2,,Total Votes,358,89,251,18
 Pike,C105,Board of Education,2,,Under Votes,49,16,27,6
 Pike,C105,Board of Education,2,,Over Votes,1,1,0,0
-Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",224,62,150,12
-Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",143,35,101,7
+Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,YES,224,62,150,12
+Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,NO,143,35,101,7
 Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,367,97,251,19
 Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,9,25,5
 Pike,C105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
-Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",95,23,66,6
-Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",281,75,192,14
+Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,YES,95,23,66,6
+Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,NO,281,75,192,14
 Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,376,98,258,20
 Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,8,20,4
 Pike,C105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1499,7 +1499,7 @@ Pike,C106,STRAIGHT PARTY,,,Under Votes,106,5,91,10
 Pike,C106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C106,President,,REP,Donald J. TRUMP / JD VANCE,167,16,137,14
 Pike,C106,President,,DEM,Kamala D. HARRIS / Tim WALZ,23,0,18,5
-Pike,C106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C106,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,C106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1523,7 +1523,7 @@ Pike,C106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",156,16,126,14
 Pike,C106,Commonwealth's Attorney,35,,Total Votes,156,16,126,14
 Pike,C106,Commonwealth's Attorney,35,,Under Votes,36,0,31,5
 Pike,C106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",164,16,134,14
+Pike,C106,Circuit Clerk,,,Anna Pinson SPEARS REP,164,16,134,14
 Pike,C106,Circuit Clerk,,,Total Votes,164,16,134,14
 Pike,C106,Circuit Clerk,,,Under Votes,28,0,23,5
 Pike,C106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1541,13 +1541,13 @@ Pike,C106,Board of Education,3,,Jimmy Dewayne ABSHIRE,121,12,102,7
 Pike,C106,Board of Education,3,,Total Votes,121,12,102,7
 Pike,C106,Board of Education,3,,Under Votes,71,4,55,12
 Pike,C106,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",112,12,92,8
-Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",57,4,46,7
+Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,YES,112,12,92,8
+Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,NO,57,4,46,7
 Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,169,16,138,15
 Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,0,19,4
 Pike,C106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,"YES ",57,10,44,3
-Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,"NO ",117,6,99,12
+Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,YES,57,10,44,3
+Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,NO,117,6,99,12
 Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,174,16,143,15
 Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,18,0,14,4
 Pike,C106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1560,7 +1560,7 @@ Pike,C107,STRAIGHT PARTY,,,Under Votes,84,3,74,7
 Pike,C107,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C107,President,,REP,Donald J. TRUMP / JD VANCE,118,4,107,7
 Pike,C107,President,,DEM,Kamala D. HARRIS / Tim WALZ,17,2,13,2
-Pike,C107,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C107,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,C107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C107,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1584,7 +1584,7 @@ Pike,C107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",110,4,100,6
 Pike,C107,Commonwealth's Attorney,35,,Total Votes,110,4,100,6
 Pike,C107,Commonwealth's Attorney,35,,Under Votes,29,2,24,3
 Pike,C107,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",117,5,106,6
+Pike,C107,Circuit Clerk,,,Anna Pinson SPEARS REP,117,5,106,6
 Pike,C107,Circuit Clerk,,,Total Votes,117,5,106,6
 Pike,C107,Circuit Clerk,,,Under Votes,22,1,18,3
 Pike,C107,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1602,13 +1602,13 @@ Pike,C107,Board of Education,3,,Jimmy Dewayne ABSHIRE,95,3,86,6
 Pike,C107,Board of Education,3,,Total Votes,95,3,86,6
 Pike,C107,Board of Education,3,,Under Votes,44,3,38,3
 Pike,C107,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,"YES ",88,4,80,4
-Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,"NO ",39,2,34,3
+Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,YES,88,4,80,4
+Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,NO,39,2,34,3
 Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,127,6,114,7
 Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,12,0,10,2
 Pike,C107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,"YES ",38,2,30,6
-Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,"NO ",93,4,86,3
+Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,YES,38,2,30,6
+Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,NO,93,4,86,3
 Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,131,6,116,9
 Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,0,8,0
 Pike,C107,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1621,7 +1621,7 @@ Pike,C108,STRAIGHT PARTY,,,Under Votes,253,35,205,13
 Pike,C108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C108,President,,REP,Donald J. TRUMP / JD VANCE,303,29,261,13
 Pike,C108,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,14,54,10
-Pike,C108,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Pike,C108,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Pike,C108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Pike,C108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C108,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -1645,7 +1645,7 @@ Pike,C108,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",274,28,234,12
 Pike,C108,Commonwealth's Attorney,35,,Total Votes,274,28,234,12
 Pike,C108,Commonwealth's Attorney,35,,Under Votes,116,17,88,11
 Pike,C108,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C108,Circuit Clerk,,,"Anna Pinson SPEARS REP ",282,27,241,14
+Pike,C108,Circuit Clerk,,,Anna Pinson SPEARS REP,282,27,241,14
 Pike,C108,Circuit Clerk,,,Total Votes,282,27,241,14
 Pike,C108,Circuit Clerk,,,Under Votes,108,18,81,9
 Pike,C108,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1663,13 +1663,13 @@ Pike,C108,Board of Education,3,,Jimmy Dewayne ABSHIRE,301,30,258,13
 Pike,C108,Board of Education,3,,Total Votes,301,30,258,13
 Pike,C108,Board of Education,3,,Under Votes,88,15,63,10
 Pike,C108,Board of Education,3,,Over Votes,1,0,1,0
-Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,"YES ",206,25,169,12
-Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,"NO ",154,16,131,7
+Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,YES,206,25,169,12
+Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,NO,154,16,131,7
 Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,360,41,300,19
 Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,4,21,4
 Pike,C108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,"YES ",117,15,98,4
-Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,"NO ",252,28,210,14
+Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,YES,117,15,98,4
+Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,NO,252,28,210,14
 Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,369,43,308,18
 Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,2,14,5
 Pike,C108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1682,7 +1682,7 @@ Pike,C109,STRAIGHT PARTY,,,Under Votes,128,8,111,9
 Pike,C109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C109,President,,REP,Donald J. TRUMP / JD VANCE,212,16,190,6
 Pike,C109,President,,DEM,Kamala D. HARRIS / Tim WALZ,32,1,26,5
-Pike,C109,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C109,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,C109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C109,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1706,7 +1706,7 @@ Pike,C109,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",189,15,167,7
 Pike,C109,Commonwealth's Attorney,35,,Total Votes,189,15,167,7
 Pike,C109,Commonwealth's Attorney,35,,Under Votes,58,3,51,4
 Pike,C109,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C109,Circuit Clerk,,,"Anna Pinson SPEARS REP ",201,16,178,7
+Pike,C109,Circuit Clerk,,,Anna Pinson SPEARS REP,201,16,178,7
 Pike,C109,Circuit Clerk,,,Total Votes,201,16,178,7
 Pike,C109,Circuit Clerk,,,Under Votes,46,2,40,4
 Pike,C109,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1724,13 +1724,13 @@ Pike,C109,Board of Education,5,,Shane HURLEY,129,10,113,6
 Pike,C109,Board of Education,5,,Total Votes,129,10,113,6
 Pike,C109,Board of Education,5,,Under Votes,118,8,105,5
 Pike,C109,Board of Education,5,,Over Votes,0,0,0,0
-Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,"YES ",148,11,128,9
-Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,"NO ",79,2,76,1
+Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,YES,148,11,128,9
+Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,NO,79,2,76,1
 Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,227,13,204,10
 Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,5,14,1
 Pike,C109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,"YES ",79,6,69,4
-Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,"NO ",160,10,144,6
+Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,YES,79,6,69,4
+Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,NO,160,10,144,6
 Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,239,16,213,10
 Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,2,4,1
 Pike,C109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -1743,7 +1743,7 @@ Pike,C110,STRAIGHT PARTY,,,Under Votes,70,9,56,5
 Pike,C110,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C110,President,,REP,Donald J. TRUMP / JD VANCE,92,16,75,1
 Pike,C110,President,,DEM,Kamala D. HARRIS / Tim WALZ,31,5,22,4
-Pike,C110,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C110,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C110,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,C110,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C110,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1767,7 +1767,7 @@ Pike,C110,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",80,15,64,1
 Pike,C110,Commonwealth's Attorney,35,,Total Votes,80,15,64,1
 Pike,C110,Commonwealth's Attorney,35,,Under Votes,47,6,35,6
 Pike,C110,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C110,Circuit Clerk,,,"Anna Pinson SPEARS REP ",84,14,69,1
+Pike,C110,Circuit Clerk,,,Anna Pinson SPEARS REP,84,14,69,1
 Pike,C110,Circuit Clerk,,,Total Votes,84,14,69,1
 Pike,C110,Circuit Clerk,,,Under Votes,43,7,30,6
 Pike,C110,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1785,13 +1785,13 @@ Pike,C110,Board of Education,3,,Jimmy Dewayne ABSHIRE,64,10,53,1
 Pike,C110,Board of Education,3,,Total Votes,64,10,53,1
 Pike,C110,Board of Education,3,,Under Votes,63,11,46,6
 Pike,C110,Board of Education,3,,Over Votes,0,0,0,0
-Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,"YES ",66,12,50,4
-Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,"NO ",49,8,38,3
+Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,YES,66,12,50,4
+Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,NO,49,8,38,3
 Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,115,20,88,7
 Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,12,1,11,0
 Pike,C110,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,"YES ",27,7,19,1
-Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,"NO ",91,14,71,6
+Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,YES,27,7,19,1
+Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,NO,91,14,71,6
 Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,118,21,90,7
 Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,0,8,0
 Pike,C110,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -1804,7 +1804,7 @@ Pike,C111,STRAIGHT PARTY,,,Under Votes,474,117,324,33
 Pike,C111,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C111,President,,REP,Donald J. TRUMP / JD VANCE,617,155,428,34
 Pike,C111,President,,DEM,Kamala D. HARRIS / Tim WALZ,119,37,66,16
-Pike,C111,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C111,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C111,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,3,8,0
 Pike,C111,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C111,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1828,7 +1828,7 @@ Pike,C111,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",599,163,400,3
 Pike,C111,Commonwealth's Attorney,35,,Total Votes,599,163,400,36
 Pike,C111,Commonwealth's Attorney,35,,Under Votes,152,33,103,16
 Pike,C111,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C111,Circuit Clerk,,,"Anna Pinson SPEARS REP ",620,161,421,38
+Pike,C111,Circuit Clerk,,,Anna Pinson SPEARS REP,620,161,421,38
 Pike,C111,Circuit Clerk,,,Total Votes,620,161,421,38
 Pike,C111,Circuit Clerk,,,Under Votes,131,35,82,14
 Pike,C111,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1847,13 +1847,13 @@ Pike,C111,Board of Education,2,,Stephany Patrick LOWE,387,97,272,18
 Pike,C111,Board of Education,2,,Total Votes,629,158,427,44
 Pike,C111,Board of Education,2,,Under Votes,122,38,76,8
 Pike,C111,Board of Education,2,,Over Votes,0,0,0,0
-Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,"YES ",425,120,275,30
-Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,"NO ",258,70,169,19
+Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,YES,425,120,275,30
+Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,NO,258,70,169,19
 Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,683,190,444,49
 Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,63,5,55,3
 Pike,C111,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,1,4,0
-Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,"YES ",212,58,142,12
-Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,"NO ",489,133,319,37
+Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,YES,212,58,142,12
+Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,NO,489,133,319,37
 Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,701,191,461,49
 Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,50,5,42,3
 Pike,C111,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1866,7 +1866,7 @@ Pike,C112,STRAIGHT PARTY,,,Under Votes,116,32,77,7
 Pike,C112,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,C112,President,,REP,Donald J. TRUMP / JD VANCE,146,45,90,11
 Pike,C112,President,,DEM,Kamala D. HARRIS / Tim WALZ,19,6,12,1
-Pike,C112,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,C112,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,C112,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,3,0
 Pike,C112,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,C112,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1891,7 +1891,7 @@ Pike,C112,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",133,45,77,11
 Pike,C112,Commonwealth's Attorney,35,,Total Votes,133,45,77,11
 Pike,C112,Commonwealth's Attorney,35,,Under Votes,38,8,29,1
 Pike,C112,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,C112,Circuit Clerk,,,"Anna Pinson SPEARS REP ",141,46,84,11
+Pike,C112,Circuit Clerk,,,Anna Pinson SPEARS REP,141,46,84,11
 Pike,C112,Circuit Clerk,,,Total Votes,141,46,84,11
 Pike,C112,Circuit Clerk,,,Under Votes,30,7,22,1
 Pike,C112,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1910,13 +1910,13 @@ Pike,C112,Board of Education,2,,Stephany Patrick LOWE,90,32,51,7
 Pike,C112,Board of Education,2,,Total Votes,140,44,84,12
 Pike,C112,Board of Education,2,,Under Votes,31,9,22,0
 Pike,C112,Board of Education,2,,Over Votes,0,0,0,0
-Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,"YES ",93,34,56,3
-Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,"NO ",67,16,44,7
+Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,YES,93,34,56,3
+Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,NO,67,16,44,7
 Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,160,50,100,10
 Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,11,3,6,2
 Pike,C112,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,"YES ",45,17,26,2
-Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,"NO ",119,34,77,8
+Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,YES,45,17,26,2
+Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,NO,119,34,77,8
 Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,164,51,103,10
 Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,2,3,2
 Pike,C112,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1929,7 +1929,7 @@ Pike,D101,STRAIGHT PARTY,,,Under Votes,388,51,315,22
 Pike,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D101,President,,REP,Donald J. TRUMP / JD VANCE,592,82,473,37
 Pike,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,97,15,75,7
-Pike,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1953,7 +1953,7 @@ Pike,D101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",560,84,442,34
 Pike,D101,Commonwealth's Attorney,35,,Total Votes,560,84,442,34
 Pike,D101,Commonwealth's Attorney,35,,Under Votes,138,15,113,10
 Pike,D101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",569,81,453,35
+Pike,D101,Circuit Clerk,,,Anna Pinson SPEARS REP,569,81,453,35
 Pike,D101,Circuit Clerk,,,Total Votes,569,81,453,35
 Pike,D101,Circuit Clerk,,,Under Votes,129,18,102,9
 Pike,D101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1971,13 +1971,13 @@ Pike,D101,Board of Education,3,,Jimmy Dewayne ABSHIRE,377,48,313,16
 Pike,D101,Board of Education,3,,Total Votes,377,48,313,16
 Pike,D101,Board of Education,3,,Under Votes,321,51,242,28
 Pike,D101,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",426,65,328,33
-Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",217,28,179,10
+Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,426,65,328,33
+Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,217,28,179,10
 Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,643,93,507,43
 Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,6,47,1
 Pike,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",199,35,143,21
-Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",452,60,371,21
+Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,199,35,143,21
+Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,452,60,371,21
 Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,651,95,514,42
 Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,46,4,40,2
 Pike,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -1990,7 +1990,7 @@ Pike,D102,STRAIGHT PARTY,,,Under Votes,220,33,180,7
 Pike,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D102,President,,REP,Donald J. TRUMP / JD VANCE,407,67,324,16
 Pike,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,48,13,33,2
-Pike,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,D102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,3,2
 Pike,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2014,7 +2014,7 @@ Pike,D102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",370,63,294,13
 Pike,D102,Commonwealth's Attorney,35,,Total Votes,370,63,294,13
 Pike,D102,Commonwealth's Attorney,35,,Under Votes,96,18,71,7
 Pike,D102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",385,67,303,15
+Pike,D102,Circuit Clerk,,,Anna Pinson SPEARS REP,385,67,303,15
 Pike,D102,Circuit Clerk,,,Total Votes,385,67,303,15
 Pike,D102,Circuit Clerk,,,Under Votes,81,14,62,5
 Pike,D102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2047,7 +2047,7 @@ Pike,D103,STRAIGHT PARTY,,,Under Votes,268,72,179,17
 Pike,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D103,President,,REP,Donald J. TRUMP / JD VANCE,360,88,251,21
 Pike,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,75,27,41,7
-Pike,D103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Pike,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
@@ -2071,7 +2071,7 @@ Pike,D103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",339,81,239,19
 Pike,D103,Commonwealth's Attorney,35,,Total Votes,339,81,239,19
 Pike,D103,Commonwealth's Attorney,35,,Under Votes,102,34,58,10
 Pike,D103,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",348,89,239,20
+Pike,D103,Circuit Clerk,,,Anna Pinson SPEARS REP,348,89,239,20
 Pike,D103,Circuit Clerk,,,Total Votes,348,89,239,20
 Pike,D103,Circuit Clerk,,,Under Votes,93,26,58,9
 Pike,D103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2090,13 +2090,13 @@ Pike,D103,Board of Education,2,,Stephany Patrick LOWE,208,49,145,14
 Pike,D103,Board of Education,2,,Total Votes,356,89,246,21
 Pike,D103,Board of Education,2,,Under Votes,85,26,51,8
 Pike,D103,Board of Education,2,,Over Votes,0,0,0,0
-Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",252,67,168,17
-Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",149,40,101,8
+Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,252,67,168,17
+Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,149,40,101,8
 Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,401,107,269,25
 Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,8,26,4
 Pike,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
-Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",133,41,83,9
-Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",283,70,197,16
+Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,133,41,83,9
+Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,283,70,197,16
 Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,416,111,280,25
 Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,24,4,16,4
 Pike,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -2109,7 +2109,7 @@ Pike,D104,STRAIGHT PARTY,,,Under Votes,112,18,90,4
 Pike,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D104,President,,REP,Donald J. TRUMP / JD VANCE,212,26,181,5
 Pike,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,34,11,20,3
-Pike,D104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Pike,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2133,7 +2133,7 @@ Pike,D104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",207,27,175,5
 Pike,D104,Commonwealth's Attorney,35,,Total Votes,207,27,175,5
 Pike,D104,Commonwealth's Attorney,35,,Under Votes,43,10,30,3
 Pike,D104,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",205,28,171,6
+Pike,D104,Circuit Clerk,,,Anna Pinson SPEARS REP,205,28,171,6
 Pike,D104,Circuit Clerk,,,Total Votes,205,28,171,6
 Pike,D104,Circuit Clerk,,,Under Votes,45,9,34,2
 Pike,D104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2151,13 +2151,13 @@ Pike,D104,Board of Education,3,,Jimmy Dewayne ABSHIRE,118,13,101,4
 Pike,D104,Board of Education,3,,Total Votes,118,13,101,4
 Pike,D104,Board of Education,3,,Under Votes,132,24,104,4
 Pike,D104,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",134,18,114,2
-Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",90,15,71,4
+Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,YES,134,18,114,2
+Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,NO,90,15,71,4
 Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,224,33,185,6
 Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,4,19,2
 Pike,D104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",71,7,61,3
-Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",156,30,121,5
+Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,YES,71,7,61,3
+Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,NO,156,30,121,5
 Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,227,37,182,8
 Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,23,0,23,0
 Pike,D104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2170,7 +2170,7 @@ Pike,D105,STRAIGHT PARTY,,,Under Votes,127,13,105,9
 Pike,D105,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Pike,D105,President,,REP,Donald J. TRUMP / JD VANCE,263,32,213,18
 Pike,D105,President,,DEM,Kamala D. HARRIS / Tim WALZ,26,2,21,3
-Pike,D105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,D105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2194,7 +2194,7 @@ Pike,D105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",241,29,194,18
 Pike,D105,Commonwealth's Attorney,35,,Total Votes,241,29,194,18
 Pike,D105,Commonwealth's Attorney,35,,Under Votes,51,5,43,3
 Pike,D105,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",248,31,200,17
+Pike,D105,Circuit Clerk,,,Anna Pinson SPEARS REP,248,31,200,17
 Pike,D105,Circuit Clerk,,,Total Votes,248,31,200,17
 Pike,D105,Circuit Clerk,,,Under Votes,44,3,37,4
 Pike,D105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2212,13 +2212,13 @@ Pike,D105,Board of Education,3,,Jimmy Dewayne ABSHIRE,155,16,132,7
 Pike,D105,Board of Education,3,,Total Votes,155,16,132,7
 Pike,D105,Board of Education,3,,Under Votes,137,18,105,14
 Pike,D105,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",165,21,131,13
-Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",99,12,79,8
+Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,YES,165,21,131,13
+Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,NO,99,12,79,8
 Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,264,33,210,21
 Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,0,23,0
 Pike,D105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,1,4,0
-Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",95,14,74,7
-Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",176,17,146,13
+Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,YES,95,14,74,7
+Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,NO,176,17,146,13
 Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,271,31,220,20
 Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,3,17,1
 Pike,D105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2231,7 +2231,7 @@ Pike,D106,STRAIGHT PARTY,,,Under Votes,144,37,100,7
 Pike,D106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D106,President,,REP,Donald J. TRUMP / JD VANCE,241,56,172,13
 Pike,D106,President,,DEM,Kamala D. HARRIS / Tim WALZ,47,16,28,3
-Pike,D106,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,D106,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,D106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
 Pike,D106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2255,7 +2255,7 @@ Pike,D106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",249,61,173,15
 Pike,D106,Commonwealth's Attorney,35,,Total Votes,249,61,173,15
 Pike,D106,Commonwealth's Attorney,35,,Under Votes,42,12,29,1
 Pike,D106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",253,63,175,15
+Pike,D106,Circuit Clerk,,,Anna Pinson SPEARS REP,253,63,175,15
 Pike,D106,Circuit Clerk,,,Total Votes,253,63,175,15
 Pike,D106,Circuit Clerk,,,Under Votes,38,10,27,1
 Pike,D106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2288,7 +2288,7 @@ Pike,D107,STRAIGHT PARTY,,,Under Votes,97,13,78,6
 Pike,D107,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D107,President,,REP,Donald J. TRUMP / JD VANCE,136,23,107,6
 Pike,D107,President,,DEM,Kamala D. HARRIS / Tim WALZ,26,4,19,3
-Pike,D107,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D107,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,D107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D107,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2312,7 +2312,7 @@ Pike,D107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",128,22,102,4
 Pike,D107,Commonwealth's Attorney,35,,Total Votes,128,22,102,4
 Pike,D107,Commonwealth's Attorney,35,,Under Votes,34,5,24,5
 Pike,D107,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",125,21,100,4
+Pike,D107,Circuit Clerk,,,Anna Pinson SPEARS REP,125,21,100,4
 Pike,D107,Circuit Clerk,,,Total Votes,125,21,100,4
 Pike,D107,Circuit Clerk,,,Under Votes,37,6,26,5
 Pike,D107,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2330,13 +2330,13 @@ Pike,D107,Board of Education,3,,Jimmy Dewayne ABSHIRE,87,14,70,3
 Pike,D107,Board of Education,3,,Total Votes,87,14,70,3
 Pike,D107,Board of Education,3,,Under Votes,75,13,56,6
 Pike,D107,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,"YES ",105,17,80,8
-Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,"NO ",43,6,36,1
+Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,YES,105,17,80,8
+Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,NO,43,6,36,1
 Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,148,23,116,9
 Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,13,4,9,0
 Pike,D107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,"YES ",45,8,35,2
-Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,"NO ",110,18,85,7
+Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,YES,45,8,35,2
+Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,NO,110,18,85,7
 Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,155,26,120,9
 Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,7,1,6,0
 Pike,D107,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2349,7 +2349,7 @@ Pike,D108,STRAIGHT PARTY,,,Under Votes,83,6,77,0
 Pike,D108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D108,President,,REP,Donald J. TRUMP / JD VANCE,208,16,189,3
 Pike,D108,President,,DEM,Kamala D. HARRIS / Tim WALZ,24,4,19,1
-Pike,D108,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Pike,D108,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Pike,D108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,D108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D108,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2373,7 +2373,7 @@ Pike,D108,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",193,17,173,3
 Pike,D108,Commonwealth's Attorney,35,,Total Votes,193,17,173,3
 Pike,D108,Commonwealth's Attorney,35,,Under Votes,40,3,35,2
 Pike,D108,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D108,Circuit Clerk,,,"Anna Pinson SPEARS REP ",196,17,176,3
+Pike,D108,Circuit Clerk,,,Anna Pinson SPEARS REP,196,17,176,3
 Pike,D108,Circuit Clerk,,,Total Votes,196,17,176,3
 Pike,D108,Circuit Clerk,,,Under Votes,37,3,32,2
 Pike,D108,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2391,13 +2391,13 @@ Pike,D108,Board of Education,3,,Jimmy Dewayne ABSHIRE,118,10,106,2
 Pike,D108,Board of Education,3,,Total Votes,118,10,106,2
 Pike,D108,Board of Education,3,,Under Votes,115,10,102,3
 Pike,D108,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,"YES ",113,13,97,3
-Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,"NO ",79,4,74,1
+Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,YES,113,13,97,3
+Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,NO,79,4,74,1
 Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,192,17,171,4
 Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,40,3,36,1
 Pike,D108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,"YES ",78,9,66,3
-Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,"NO ",119,9,108,2
+Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,YES,78,9,66,3
+Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,NO,119,9,108,2
 Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,197,18,174,5
 Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,35,2,33,0
 Pike,D108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -2410,7 +2410,7 @@ Pike,D109,STRAIGHT PARTY,,,Under Votes,55,3,49,3
 Pike,D109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D109,President,,REP,Donald J. TRUMP / JD VANCE,91,7,82,2
 Pike,D109,President,,DEM,Kamala D. HARRIS / Tim WALZ,10,0,8,2
-Pike,D109,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D109,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,D109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D109,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2434,7 +2434,7 @@ Pike,D109,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",85,6,76,3
 Pike,D109,Commonwealth's Attorney,35,,Total Votes,85,6,76,3
 Pike,D109,Commonwealth's Attorney,35,,Under Votes,17,1,15,1
 Pike,D109,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D109,Circuit Clerk,,,"Anna Pinson SPEARS REP ",83,6,74,3
+Pike,D109,Circuit Clerk,,,Anna Pinson SPEARS REP,83,6,74,3
 Pike,D109,Circuit Clerk,,,Total Votes,83,6,74,3
 Pike,D109,Circuit Clerk,,,Under Votes,19,1,17,1
 Pike,D109,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2452,13 +2452,13 @@ Pike,D109,Board of Education,3,,Jimmy Dewayne ABSHIRE,53,3,48,2
 Pike,D109,Board of Education,3,,Total Votes,53,3,48,2
 Pike,D109,Board of Education,3,,Under Votes,49,4,43,2
 Pike,D109,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,"YES ",55,5,48,2
-Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,"NO ",37,2,34,1
+Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,YES,55,5,48,2
+Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,NO,37,2,34,1
 Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,92,7,82,3
 Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,10,0,9,1
 Pike,D109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,"YES ",32,2,30,0
-Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,"NO ",59,5,52,2
+Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,YES,32,2,30,0
+Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,NO,59,5,52,2
 Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,91,7,82,2
 Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,0,9,1
 Pike,D109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
@@ -2471,7 +2471,7 @@ Pike,D110,STRAIGHT PARTY,,,Under Votes,142,52,80,10
 Pike,D110,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D110,President,,REP,Donald J. TRUMP / JD VANCE,178,63,111,4
 Pike,D110,President,,DEM,Kamala D. HARRIS / Tim WALZ,38,16,14,8
-Pike,D110,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D110,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D110,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Pike,D110,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Pike,D110,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -2495,7 +2495,7 @@ Pike,D110,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",176,64,102,10
 Pike,D110,Commonwealth's Attorney,35,,Total Votes,176,64,102,10
 Pike,D110,Commonwealth's Attorney,35,,Under Votes,47,18,27,2
 Pike,D110,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D110,Circuit Clerk,,,"Anna Pinson SPEARS REP ",179,62,106,11
+Pike,D110,Circuit Clerk,,,Anna Pinson SPEARS REP,179,62,106,11
 Pike,D110,Circuit Clerk,,,Total Votes,179,62,106,11
 Pike,D110,Circuit Clerk,,,Under Votes,44,20,23,1
 Pike,D110,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2514,10 +2514,10 @@ Pike,D110,Board of Education,Pikeville Independent School District,,Bill STAGGS,
 Pike,D110,Board of Education,Pikeville Independent School District,,Total Votes,109,37,61,11
 Pike,D110,Board of Education,Pikeville Independent School District,,Under Votes,87,35,51,1
 Pike,D110,Board of Education,Pikeville Independent School District,,Over Votes,0,0,0,0
-Pike,D110,CITY COMMISSIONERS City of Pikeville,,,"Steve HARTSOCK ",58,22,32,4
-Pike,D110,CITY COMMISSIONERS City of Pikeville,,,"Allison POWERS ",56,22,29,5
-Pike,D110,CITY COMMISSIONERS City of Pikeville,,,"Bob SHURTLEFF ",59,23,31,5
-Pike,D110,CITY COMMISSIONERS City of Pikeville,,,"Patrick G. McNAMEE ",45,16,25,4
+Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Steve HARTSOCK,58,22,32,4
+Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Allison POWERS,56,22,29,5
+Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Bob SHURTLEFF,59,23,31,5
+Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Patrick G. McNAMEE,45,16,25,4
 Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Total Votes,218,83,117,18
 Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Under Votes,270,97,163,10
 Pike,D110,CITY COMMISSIONERS City of Pikeville,,,Over Votes,0,0,0,0
@@ -2540,7 +2540,7 @@ Pike,D111,STRAIGHT PARTY,,,Under Votes,252,17,209,26
 Pike,D111,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,D111,President,,REP,Donald J. TRUMP / JD VANCE,450,44,382,24
 Pike,D111,President,,DEM,Kamala D. HARRIS / Tim WALZ,130,5,100,25
-Pike,D111,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,D111,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,D111,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,D111,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,D111,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2564,7 +2564,7 @@ Pike,D111,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",438,42,370,26
 Pike,D111,Commonwealth's Attorney,35,,Total Votes,438,42,370,26
 Pike,D111,Commonwealth's Attorney,35,,Under Votes,147,7,117,23
 Pike,D111,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,D111,Circuit Clerk,,,"Anna Pinson SPEARS REP ",445,42,375,28
+Pike,D111,Circuit Clerk,,,Anna Pinson SPEARS REP,445,42,375,28
 Pike,D111,Circuit Clerk,,,Total Votes,445,42,375,28
 Pike,D111,Circuit Clerk,,,Under Votes,140,7,112,21
 Pike,D111,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2582,13 +2582,13 @@ Pike,D111,Board of Education,3,,Jimmy Dewayne ABSHIRE,302,20,260,22
 Pike,D111,Board of Education,3,,Total Votes,302,20,260,22
 Pike,D111,Board of Education,3,,Under Votes,283,29,227,27
 Pike,D111,Board of Education,3,,Over Votes,0,0,0,0
-Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,"YES ",328,33,274,21
-Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,"NO ",191,10,157,24
+Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,YES,328,33,274,21
+Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,NO,191,10,157,24
 Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,519,43,431,45
 Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,63,6,53,4
 Pike,D111,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,"YES ",167,20,128,19
-Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,"NO ",386,25,332,29
+Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,YES,167,20,128,19
+Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,NO,386,25,332,29
 Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,553,45,460,48
 Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,4,27,1
 Pike,D111,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2601,7 +2601,7 @@ Pike,E101,STRAIGHT PARTY,,,Under Votes,253,18,220,15
 Pike,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E101,President,,REP,Donald J. TRUMP / JD VANCE,376,34,326,16
 Pike,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,3,37,10
-Pike,E101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,E101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Pike,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2625,7 +2625,7 @@ Pike,E101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",288,30,246,12
 Pike,E101,Commonwealth's Attorney,35,,Total Votes,288,30,246,12
 Pike,E101,Commonwealth's Attorney,35,,Under Votes,150,8,128,14
 Pike,E101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",305,32,258,15
+Pike,E101,Circuit Clerk,,,Anna Pinson SPEARS REP,305,32,258,15
 Pike,E101,Circuit Clerk,,,Total Votes,305,32,258,15
 Pike,E101,Circuit Clerk,,,Under Votes,133,6,116,11
 Pike,E101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2643,13 +2643,13 @@ Pike,E101,Board of Education,5,,Shane HURLEY,280,26,242,12
 Pike,E101,Board of Education,5,,Total Votes,280,26,242,12
 Pike,E101,Board of Education,5,,Under Votes,158,12,132,14
 Pike,E101,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",192,27,159,6
-Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",153,9,125,19
+Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,192,27,159,6
+Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,153,9,125,19
 Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,345,36,284,25
 Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,90,2,87,1
 Pike,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",117,16,96,5
-Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",257,20,217,20
+Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,117,16,96,5
+Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,257,20,217,20
 Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,374,36,313,25
 Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,64,2,61,1
 Pike,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2662,7 +2662,7 @@ Pike,E102,STRAIGHT PARTY,,,Under Votes,190,33,148,9
 Pike,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E102,President,,REP,Donald J. TRUMP / JD VANCE,322,72,240,10
 Pike,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,34,4,23,7
-Pike,E102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,E102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -2686,7 +2686,7 @@ Pike,E102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",285,62,210,13
 Pike,E102,Commonwealth's Attorney,35,,Total Votes,285,62,210,13
 Pike,E102,Commonwealth's Attorney,35,,Under Votes,73,15,54,4
 Pike,E102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",285,61,214,10
+Pike,E102,Circuit Clerk,,,Anna Pinson SPEARS REP,285,61,214,10
 Pike,E102,Circuit Clerk,,,Total Votes,285,61,214,10
 Pike,E102,Circuit Clerk,,,Under Votes,73,16,50,7
 Pike,E102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2704,13 +2704,13 @@ Pike,E102,Board of Education,5,,Shane HURLEY,194,42,143,9
 Pike,E102,Board of Education,5,,Total Votes,194,42,143,9
 Pike,E102,Board of Education,5,,Under Votes,164,35,121,8
 Pike,E102,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",205,53,147,5
-Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",121,14,96,11
+Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,YES,205,53,147,5
+Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,NO,121,14,96,11
 Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,326,67,243,16
 Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,10,21,1
 Pike,E102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",100,26,71,3
-Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",227,42,171,14
+Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,YES,100,26,71,3
+Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,NO,227,42,171,14
 Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,327,68,242,17
 Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,31,9,22,0
 Pike,E102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2723,7 +2723,7 @@ Pike,E103,STRAIGHT PARTY,,,Under Votes,504,45,430,29
 Pike,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E103,President,,REP,Donald J. TRUMP / JD VANCE,644,70,550,24
 Pike,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,99,18,69,12
-Pike,E103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,E103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Pike,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2747,7 +2747,7 @@ Pike,E103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",542,60,459,23
 Pike,E103,Commonwealth's Attorney,35,,Total Votes,542,60,459,23
 Pike,E103,Commonwealth's Attorney,35,,Under Votes,220,30,177,13
 Pike,E103,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",581,63,495,23
+Pike,E103,Circuit Clerk,,,Anna Pinson SPEARS REP,581,63,495,23
 Pike,E103,Circuit Clerk,,,Total Votes,581,63,495,23
 Pike,E103,Circuit Clerk,,,Under Votes,181,27,141,13
 Pike,E103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2765,13 +2765,13 @@ Pike,E103,Board of Education,3,,Jimmy Dewayne ABSHIRE,523,54,442,27
 Pike,E103,Board of Education,3,,Total Votes,523,54,442,27
 Pike,E103,Board of Education,3,,Under Votes,239,36,194,9
 Pike,E103,Board of Education,3,,Over Votes,0,0,0,0
-Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",429,51,361,17
-Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",264,32,216,16
+Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,YES,429,51,361,17
+Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,NO,264,32,216,16
 Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,693,83,577,33
 Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,66,7,56,3
 Pike,E103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",173,18,145,10
-Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",545,69,452,24
+Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,YES,173,18,145,10
+Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,NO,545,69,452,24
 Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,718,87,597,34
 Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,3,39,2
 Pike,E103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2784,7 +2784,7 @@ Pike,E104,STRAIGHT PARTY,,,Under Votes,164,21,138,5
 Pike,E104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E104,President,,REP,Donald J. TRUMP / JD VANCE,267,30,223,14
 Pike,E104,President,,DEM,Kamala D. HARRIS / Tim WALZ,19,2,8,9
-Pike,E104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,E104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,E104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,E104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2808,7 +2808,7 @@ Pike,E104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",190,18,159,13
 Pike,E104,Commonwealth's Attorney,35,,Total Votes,190,18,159,13
 Pike,E104,Commonwealth's Attorney,35,,Under Votes,100,14,75,11
 Pike,E104,Commonwealth's Attorney,35,,Over Votes,1,0,1,0
-Pike,E104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",213,23,175,15
+Pike,E104,Circuit Clerk,,,Anna Pinson SPEARS REP,213,23,175,15
 Pike,E104,Circuit Clerk,,,Total Votes,213,23,175,15
 Pike,E104,Circuit Clerk,,,Under Votes,78,9,60,9
 Pike,E104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2826,13 +2826,13 @@ Pike,E104,Board of Education,5,,Shane HURLEY,182,19,149,14
 Pike,E104,Board of Education,5,,Total Votes,182,19,149,14
 Pike,E104,Board of Education,5,,Under Votes,109,13,86,10
 Pike,E104,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",136,15,113,8
-Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",85,14,63,8
+Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,YES,136,15,113,8
+Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,NO,85,14,63,8
 Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,221,29,176,16
 Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,67,3,58,6
 Pike,E104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,1,2
-Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",68,4,57,7
-Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",159,24,125,10
+Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,YES,68,4,57,7
+Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,NO,159,24,125,10
 Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,227,28,182,17
 Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,64,4,53,7
 Pike,E104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -2845,7 +2845,7 @@ Pike,E105,STRAIGHT PARTY,,,Under Votes,212,13,188,11
 Pike,E105,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Pike,E105,President,,REP,Donald J. TRUMP / JD VANCE,349,13,315,21
 Pike,E105,President,,DEM,Kamala D. HARRIS / Tim WALZ,77,5,63,9
-Pike,E105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,E105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,E105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
 Pike,E105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2869,7 +2869,7 @@ Pike,E105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",271,9,239,23
 Pike,E105,Commonwealth's Attorney,35,,Total Votes,271,9,239,23
 Pike,E105,Commonwealth's Attorney,35,,Under Votes,159,11,141,7
 Pike,E105,Commonwealth's Attorney,35,,Over Votes,1,0,1,0
-Pike,E105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",285,9,252,24
+Pike,E105,Circuit Clerk,,,Anna Pinson SPEARS REP,285,9,252,24
 Pike,E105,Circuit Clerk,,,Total Votes,285,9,252,24
 Pike,E105,Circuit Clerk,,,Under Votes,146,11,129,6
 Pike,E105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2887,13 +2887,13 @@ Pike,E105,Board of Education,5,,Shane HURLEY,255,9,230,16
 Pike,E105,Board of Education,5,,Total Votes,255,9,230,16
 Pike,E105,Board of Education,5,,Under Votes,176,11,151,14
 Pike,E105,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",148,6,133,9
-Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",175,9,153,13
+Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,YES,148,6,133,9
+Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,NO,175,9,153,13
 Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,323,15,286,22
 Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,105,5,92,8
 Pike,E105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",111,5,97,9
-Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",257,14,226,17
+Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,YES,111,5,97,9
+Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,NO,257,14,226,17
 Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,368,19,323,26
 Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,61,0,57,4
 Pike,E105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,1,1,0
@@ -2906,7 +2906,7 @@ Pike,E106,STRAIGHT PARTY,,,Under Votes,145,6,128,11
 Pike,E106,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Pike,E106,President,,REP,Donald J. TRUMP / JD VANCE,255,8,224,23
 Pike,E106,President,,DEM,Kamala D. HARRIS / Tim WALZ,46,3,37,6
-Pike,E106,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Pike,E106,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Pike,E106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,E106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -2930,7 +2930,7 @@ Pike,E106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",227,7,196,24
 Pike,E106,Commonwealth's Attorney,35,,Total Votes,227,7,196,24
 Pike,E106,Commonwealth's Attorney,35,,Under Votes,79,4,68,7
 Pike,E106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",236,7,203,26
+Pike,E106,Circuit Clerk,,,Anna Pinson SPEARS REP,236,7,203,26
 Pike,E106,Circuit Clerk,,,Total Votes,236,7,203,26
 Pike,E106,Circuit Clerk,,,Under Votes,70,4,61,5
 Pike,E106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -2948,13 +2948,13 @@ Pike,E106,Board of Education,5,,Shane HURLEY,213,7,180,26
 Pike,E106,Board of Education,5,,Total Votes,213,7,180,26
 Pike,E106,Board of Education,5,,Under Votes,93,4,84,5
 Pike,E106,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",163,6,133,24
-Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",88,3,78,7
+Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,YES,163,6,133,24
+Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,NO,88,3,78,7
 Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,251,9,211,31
 Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,2,52,0
 Pike,E106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,"YES ",107,1,84,22
-Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,"NO ",159,10,142,7
+Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,YES,107,1,84,22
+Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,NO,159,10,142,7
 Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,266,11,226,29
 Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,39,0,38,1
 Pike,E106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,0,1
@@ -2967,7 +2967,7 @@ Pike,E107,STRAIGHT PARTY,,,Under Votes,409,86,287,36
 Pike,E107,STRAIGHT PARTY,,,Over Votes,2,0,1,1
 Pike,E107,President,,REP,Donald J. TRUMP / JD VANCE,515,108,375,32
 Pike,E107,President,,DEM,Kamala D. HARRIS / Tim WALZ,101,32,51,18
-Pike,E107,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Pike,E107,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Pike,E107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Pike,E107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E107,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -2991,7 +2991,7 @@ Pike,E107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",470,114,320,3
 Pike,E107,Commonwealth's Attorney,35,,Total Votes,470,114,320,36
 Pike,E107,Commonwealth's Attorney,35,,Under Votes,156,27,114,15
 Pike,E107,Commonwealth's Attorney,35,,Over Votes,1,0,0,1
-Pike,E107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",491,113,343,35
+Pike,E107,Circuit Clerk,,,Anna Pinson SPEARS REP,491,113,343,35
 Pike,E107,Circuit Clerk,,,Total Votes,491,113,343,35
 Pike,E107,Circuit Clerk,,,Under Votes,136,28,91,17
 Pike,E107,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3010,13 +3010,13 @@ Pike,E107,Board of Education,2,,Stephany Patrick LOWE,334,75,232,27
 Pike,E107,Board of Education,2,,Total Votes,538,119,377,42
 Pike,E107,Board of Education,2,,Under Votes,89,22,57,10
 Pike,E107,Board of Education,2,,Over Votes,0,0,0,0
-Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,"YES ",361,87,245,29
-Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,"NO ",216,50,148,18
+Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,YES,361,87,245,29
+Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,NO,216,50,148,18
 Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,577,137,393,47
 Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,49,4,40,5
 Pike,E107,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,"YES ",169,50,108,11
-Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,"NO ",416,87,293,36
+Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,YES,169,50,108,11
+Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,NO,416,87,293,36
 Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,585,137,401,47
 Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,40,4,32,4
 Pike,E107,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,1,1
@@ -3029,7 +3029,7 @@ Pike,E108,STRAIGHT PARTY,,,Under Votes,99,33,56,10
 Pike,E108,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E108,President,,REP,Donald J. TRUMP / JD VANCE,165,55,98,12
 Pike,E108,President,,DEM,Kamala D. HARRIS / Tim WALZ,24,11,8,5
-Pike,E108,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,E108,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,E108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,E108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E108,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -3053,7 +3053,7 @@ Pike,E108,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",164,56,93,15
 Pike,E108,Commonwealth's Attorney,35,,Total Votes,164,56,93,15
 Pike,E108,Commonwealth's Attorney,35,,Under Votes,27,10,15,2
 Pike,E108,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E108,Circuit Clerk,,,"Anna Pinson SPEARS REP ",168,58,95,15
+Pike,E108,Circuit Clerk,,,Anna Pinson SPEARS REP,168,58,95,15
 Pike,E108,Circuit Clerk,,,Total Votes,168,58,95,15
 Pike,E108,Circuit Clerk,,,Under Votes,23,8,13,2
 Pike,E108,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3072,13 +3072,13 @@ Pike,E108,Board of Education,2,,Stephany Patrick LOWE,100,29,64,7
 Pike,E108,Board of Education,2,,Total Votes,164,54,93,17
 Pike,E108,Board of Education,2,,Under Votes,27,12,15,0
 Pike,E108,Board of Education,2,,Over Votes,0,0,0,0
-Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,"YES ",101,37,54,10
-Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,"NO ",75,22,47,6
+Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,YES,101,37,54,10
+Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,NO,75,22,47,6
 Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,176,59,101,16
 Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,14,7,7,0
 Pike,E108,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
-Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,"YES ",58,26,31,1
-Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,"NO ",125,37,72,16
+Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,YES,58,26,31,1
+Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,NO,125,37,72,16
 Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,183,63,103,17
 Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,3,5,0
 Pike,E108,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -3091,7 +3091,7 @@ Pike,E109,STRAIGHT PARTY,,,Under Votes,113,11,94,8
 Pike,E109,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,E109,President,,REP,Donald J. TRUMP / JD VANCE,192,22,161,9
 Pike,E109,President,,DEM,Kamala D. HARRIS / Tim WALZ,38,6,29,3
-Pike,E109,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,E109,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,E109,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,E109,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,E109,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -3115,7 +3115,7 @@ Pike,E109,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",166,18,141,7
 Pike,E109,Commonwealth's Attorney,35,,Total Votes,166,18,141,7
 Pike,E109,Commonwealth's Attorney,35,,Under Votes,67,10,52,5
 Pike,E109,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,E109,Circuit Clerk,,,"Anna Pinson SPEARS REP ",174,20,147,7
+Pike,E109,Circuit Clerk,,,Anna Pinson SPEARS REP,174,20,147,7
 Pike,E109,Circuit Clerk,,,Total Votes,174,20,147,7
 Pike,E109,Circuit Clerk,,,Under Votes,59,8,46,5
 Pike,E109,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3133,13 +3133,13 @@ Pike,E109,Board of Education,5,,Shane HURLEY,125,13,105,7
 Pike,E109,Board of Education,5,,Total Votes,125,13,105,7
 Pike,E109,Board of Education,5,,Under Votes,108,15,88,5
 Pike,E109,Board of Education,5,,Over Votes,0,0,0,0
-Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,"YES ",134,15,110,9
-Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,"NO ",81,10,69,2
+Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,YES,134,15,110,9
+Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,NO,81,10,69,2
 Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,215,25,179,11
 Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,18,3,14,1
 Pike,E109,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,"YES ",79,7,66,6
-Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,"NO ",141,19,116,6
+Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,YES,79,7,66,6
+Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,NO,141,19,116,6
 Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,220,26,182,12
 Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,2,11,0
 Pike,E109,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -3152,7 +3152,7 @@ Pike,F101,STRAIGHT PARTY,,,Under Votes,129,54,65,10
 Pike,F101,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Pike,F101,President,,REP,Donald J. TRUMP / JD VANCE,212,103,94,15
 Pike,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,36,17,14,5
-Pike,F101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,F101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Pike,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -3176,7 +3176,7 @@ Pike,F101,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",213,108,94,11
 Pike,F101,Commonwealth's Attorney,35,,Total Votes,213,108,94,11
 Pike,F101,Commonwealth's Attorney,35,,Under Votes,40,13,18,9
 Pike,F101,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F101,Circuit Clerk,,,"Anna Pinson SPEARS REP ",214,109,94,11
+Pike,F101,Circuit Clerk,,,Anna Pinson SPEARS REP,214,109,94,11
 Pike,F101,Circuit Clerk,,,Total Votes,214,109,94,11
 Pike,F101,Circuit Clerk,,,Under Votes,39,12,18,9
 Pike,F101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3209,7 +3209,7 @@ Pike,F102,STRAIGHT PARTY,,,Under Votes,140,28,108,4
 Pike,F102,STRAIGHT PARTY,,,Over Votes,1,0,0,1
 Pike,F102,President,,REP,Donald J. TRUMP / JD VANCE,272,35,228,9
 Pike,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,45,17,24,4
-Pike,F102,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Pike,F102,President,,KY,Jill STEIN / Samson KPADENOU,1,1,0,0
 Pike,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Pike,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -3233,7 +3233,7 @@ Pike,F102,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",268,38,219,11
 Pike,F102,Commonwealth's Attorney,35,,Total Votes,268,38,219,11
 Pike,F102,Commonwealth's Attorney,35,,Under Votes,55,16,36,3
 Pike,F102,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F102,Circuit Clerk,,,"Anna Pinson SPEARS REP ",270,38,221,11
+Pike,F102,Circuit Clerk,,,Anna Pinson SPEARS REP,270,38,221,11
 Pike,F102,Circuit Clerk,,,Total Votes,270,38,221,11
 Pike,F102,Circuit Clerk,,,Under Votes,52,16,33,3
 Pike,F102,Circuit Clerk,,,Over Votes,1,0,1,0
@@ -3266,7 +3266,7 @@ Pike,F103,STRAIGHT PARTY,,,Under Votes,164,48,107,9
 Pike,F103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,F103,President,,REP,Donald J. TRUMP / JD VANCE,298,84,198,16
 Pike,F103,President,,DEM,Kamala D. HARRIS / Tim WALZ,69,14,44,11
-Pike,F103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,F103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,F103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Pike,F103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -3290,7 +3290,7 @@ Pike,F103,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",306,78,208,20
 Pike,F103,Commonwealth's Attorney,35,,Total Votes,306,78,208,20
 Pike,F103,Commonwealth's Attorney,35,,Under Votes,65,19,39,7
 Pike,F103,Commonwealth's Attorney,35,,Over Votes,1,1,0,0
-Pike,F103,Circuit Clerk,,,"Anna Pinson SPEARS REP ",311,83,208,20
+Pike,F103,Circuit Clerk,,,Anna Pinson SPEARS REP,311,83,208,20
 Pike,F103,Circuit Clerk,,,Total Votes,311,83,208,20
 Pike,F103,Circuit Clerk,,,Under Votes,61,15,39,7
 Pike,F103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3323,7 +3323,7 @@ Pike,F104,STRAIGHT PARTY,,,Under Votes,503,95,385,23
 Pike,F104,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Pike,F104,President,,REP,Donald J. TRUMP / JD VANCE,702,138,535,29
 Pike,F104,President,,DEM,Kamala D. HARRIS / Tim WALZ,115,25,76,14
-Pike,F104,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Pike,F104,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Pike,F104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,5,1
 Pike,F104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -3347,7 +3347,7 @@ Pike,F104,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",672,135,505,3
 Pike,F104,Commonwealth's Attorney,35,,Total Votes,672,135,505,32
 Pike,F104,Commonwealth's Attorney,35,,Under Votes,161,28,120,13
 Pike,F104,Commonwealth's Attorney,35,,Over Votes,1,1,0,0
-Pike,F104,Circuit Clerk,,,"Anna Pinson SPEARS REP ",699,142,524,33
+Pike,F104,Circuit Clerk,,,Anna Pinson SPEARS REP,699,142,524,33
 Pike,F104,Circuit Clerk,,,Total Votes,699,142,524,33
 Pike,F104,Circuit Clerk,,,Under Votes,135,22,101,12
 Pike,F104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3380,7 +3380,7 @@ Pike,F105,STRAIGHT PARTY,,,Under Votes,220,62,144,14
 Pike,F105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,F105,President,,REP,Donald J. TRUMP / JD VANCE,377,113,245,19
 Pike,F105,President,,DEM,Kamala D. HARRIS / Tim WALZ,58,14,39,5
-Pike,F105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,F105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,F105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Pike,F105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -3404,7 +3404,7 @@ Pike,F105,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",361,107,235,1
 Pike,F105,Commonwealth's Attorney,35,,Total Votes,361,107,235,19
 Pike,F105,Commonwealth's Attorney,35,,Under Votes,84,23,55,6
 Pike,F105,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F105,Circuit Clerk,,,"Anna Pinson SPEARS REP ",374,108,247,19
+Pike,F105,Circuit Clerk,,,Anna Pinson SPEARS REP,374,108,247,19
 Pike,F105,Circuit Clerk,,,Total Votes,374,108,247,19
 Pike,F105,Circuit Clerk,,,Under Votes,71,22,43,6
 Pike,F105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3437,7 +3437,7 @@ Pike,F106,STRAIGHT PARTY,,,Under Votes,170,45,116,9
 Pike,F106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Pike,F106,President,,REP,Donald J. TRUMP / JD VANCE,304,86,200,18
 Pike,F106,President,,DEM,Kamala D. HARRIS / Tim WALZ,57,20,32,5
-Pike,F106,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Pike,F106,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Pike,F106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Pike,F106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -3461,7 +3461,7 @@ Pike,F106,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",298,86,196,16
 Pike,F106,Commonwealth's Attorney,35,,Total Votes,298,86,196,16
 Pike,F106,Commonwealth's Attorney,35,,Under Votes,70,22,41,7
 Pike,F106,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F106,Circuit Clerk,,,"Anna Pinson SPEARS REP ",304,88,200,16
+Pike,F106,Circuit Clerk,,,Anna Pinson SPEARS REP,304,88,200,16
 Pike,F106,Circuit Clerk,,,Total Votes,304,88,200,16
 Pike,F106,Circuit Clerk,,,Under Votes,64,20,37,7
 Pike,F106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3494,7 +3494,7 @@ Pike,F107,STRAIGHT PARTY,,,Under Votes,177,55,97,25
 Pike,F107,STRAIGHT PARTY,,,Over Votes,4,1,3,0
 Pike,F107,President,,REP,Donald J. TRUMP / JD VANCE,275,100,155,20
 Pike,F107,President,,DEM,Kamala D. HARRIS / Tim WALZ,42,12,20,10
-Pike,F107,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,F107,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,F107,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Pike,F107,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Pike,F107,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -3518,7 +3518,7 @@ Pike,F107,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",275,95,157,23
 Pike,F107,Commonwealth's Attorney,35,,Total Votes,275,95,157,23
 Pike,F107,Commonwealth's Attorney,35,,Under Votes,54,20,24,10
 Pike,F107,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F107,Circuit Clerk,,,"Anna Pinson SPEARS REP ",288,99,167,22
+Pike,F107,Circuit Clerk,,,Anna Pinson SPEARS REP,288,99,167,22
 Pike,F107,Circuit Clerk,,,Total Votes,288,99,167,22
 Pike,F107,Circuit Clerk,,,Under Votes,41,16,14,11
 Pike,F107,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -3551,7 +3551,7 @@ Pike,F108,STRAIGHT PARTY,,,Under Votes,412,132,251,29
 Pike,F108,STRAIGHT PARTY,,,Over Votes,3,1,2,0
 Pike,F108,President,,REP,Donald J. TRUMP / JD VANCE,671,208,424,39
 Pike,F108,President,,DEM,Kamala D. HARRIS / Tim WALZ,122,40,66,16
-Pike,F108,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Pike,F108,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Pike,F108,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,4,5,0
 Pike,F108,President,,IND,Shiva AYYADURAI / Crystal ELLIS,3,0,3,0
 Pike,F108,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -3575,7 +3575,7 @@ Pike,F108,Commonwealth's Attorney,35,REP,"Billy G. ""Bill"" SLONE",657,196,417,4
 Pike,F108,Commonwealth's Attorney,35,,Total Votes,657,196,417,44
 Pike,F108,Commonwealth's Attorney,35,,Under Votes,167,62,92,13
 Pike,F108,Commonwealth's Attorney,35,,Over Votes,0,0,0,0
-Pike,F108,Circuit Clerk,,,"Anna Pinson SPEARS REP ",671,200,429,42
+Pike,F108,Circuit Clerk,,,Anna Pinson SPEARS REP,671,200,429,42
 Pike,F108,Circuit Clerk,,,Total Votes,671,200,429,42
 Pike,F108,Circuit Clerk,,,Under Votes,153,58,80,15
 Pike,F108,Circuit Clerk,,,Over Votes,0,0,0,0

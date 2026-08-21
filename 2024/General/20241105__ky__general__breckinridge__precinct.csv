@@ -5,7 +5,7 @@ Breckinridge,A101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
 Breckinridge,A101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,A101,President,,REP,Donald J. TRUMP / JD VANCE,689,247,404,38
 Breckinridge,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,285,114,132,39
-Breckinridge,A101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Breckinridge,A101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Breckinridge,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,4,6,1
 Breckinridge,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Breckinridge,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -18,7 +18,7 @@ Breckinridge,A101,U.S. House,2,DEM,Hank LINDERMAN,253,98,123,32
 Breckinridge,A101,U.S. House,2,,Total Votes,981,364,541,76
 Breckinridge,A101,U.S. House,2,,Under Votes,16,7,7,2
 Breckinridge,A101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,A101,State Senate,5,REP,"Stephen MEREDITH ",688,249,397,42
+Breckinridge,A101,State Senate,5,REP,Stephen MEREDITH,688,249,397,42
 Breckinridge,A101,State Senate,5,DEM,Jamie SKUDLAREK,275,108,135,32
 Breckinridge,A101,State Senate,5,,Total Votes,963,357,532,74
 Breckinridge,A101,State Senate,5,,Under Votes,34,14,16,4
@@ -40,18 +40,18 @@ Breckinridge,A101,Board of Education,1,,Rick TAYLOR,661,230,385,46
 Breckinridge,A101,Board of Education,1,,Total Votes,661,230,385,46
 Breckinridge,A101,Board of Education,1,,Under Votes,336,141,163,32
 Breckinridge,A101,Board of Education,1,,Over Votes,0,0,0,0
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Ruth Ann SKILLMAN ",376,156,189,31
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Nettie PARKER ",560,217,292,51
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Morris L. CARMAN ",335,145,162,28
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Jerry R. MARTIN JR. ",333,135,166,32
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Susan P. SHELMAN ",389,175,176,38
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Quentin BROWN ",458,191,231,36
-Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,"Jerry DUBREE ",443,179,221,43
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Ruth Ann SKILLMAN,376,156,189,31
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Nettie PARKER,560,217,292,51
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Morris L. CARMAN,335,145,162,28
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Jerry R. MARTIN JR.,333,135,166,32
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Susan P. SHELMAN,389,175,176,38
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Quentin BROWN,458,191,231,36
+Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Jerry DUBREE,443,179,221,43
 Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Total Votes,2894,1198,1437,259
 Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Under Votes,2482,866,1437,179
 Breckinridge,A101,CITY COUNCIL City of Hardinsburg,,,Over Votes,4,0,4,0
-Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",549,193,324,32
-Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",355,137,191,27
+Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,549,193,324,32
+Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,355,137,191,27
 Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,904,330,515,59
 Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,91,40,32,19
 Breckinridge,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -66,7 +66,7 @@ Breckinridge,A102,STRAIGHT PARTY,,KY,Kentucky Party,4,2,2,0
 Breckinridge,A102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,A102,President,,REP,Donald J. TRUMP / JD VANCE,402,163,205,34
 Breckinridge,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,146,81,44,21
-Breckinridge,A102,President,,KY,Jill  STEIN / Samson KPADENOU,3,2,1,0
+Breckinridge,A102,President,,KY,Jill STEIN / Samson KPADENOU,3,2,1,0
 Breckinridge,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Breckinridge,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -79,7 +79,7 @@ Breckinridge,A102,U.S. House,2,DEM,Hank LINDERMAN,128,69,45,14
 Breckinridge,A102,U.S. House,2,,Total Votes,552,245,250,57
 Breckinridge,A102,U.S. House,2,,Under Votes,9,3,5,1
 Breckinridge,A102,U.S. House,2,,Over Votes,1,0,1,0
-Breckinridge,A102,State Senate,5,REP,"Stephen MEREDITH ",409,166,202,41
+Breckinridge,A102,State Senate,5,REP,Stephen MEREDITH,409,166,202,41
 Breckinridge,A102,State Senate,5,DEM,Jamie SKUDLAREK,138,77,45,16
 Breckinridge,A102,State Senate,5,,Total Votes,547,243,247,57
 Breckinridge,A102,State Senate,5,,Under Votes,14,5,8,1
@@ -101,18 +101,18 @@ Breckinridge,A102,Board of Education,1,,Rick TAYLOR,363,147,185,31
 Breckinridge,A102,Board of Education,1,,Total Votes,363,147,185,31
 Breckinridge,A102,Board of Education,1,,Under Votes,199,101,71,27
 Breckinridge,A102,Board of Education,1,,Over Votes,0,0,0,0
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Ruth Ann SKILLMAN ",96,39,42,15
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Nettie PARKER ",130,52,58,20
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Morris L. CARMAN ",90,41,34,15
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Jerry R. MARTIN JR. ",84,36,40,8
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Susan P. SHELMAN ",97,41,43,13
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Quentin BROWN ",105,40,50,15
-Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,"Jerry DUBREE ",113,47,51,15
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Ruth Ann SKILLMAN,96,39,42,15
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Nettie PARKER,130,52,58,20
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Morris L. CARMAN,90,41,34,15
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Jerry R. MARTIN JR.,84,36,40,8
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Susan P. SHELMAN,97,41,43,13
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Quentin BROWN,105,40,50,15
+Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Jerry DUBREE,113,47,51,15
 Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Total Votes,715,296,318,101
 Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Under Votes,611,232,342,37
 Breckinridge,A102,CITY COUNCIL City of Hardinsburg,,,Over Votes,1,0,1,0
-Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",336,147,155,34
-Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",188,84,89,15
+Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,336,147,155,34
+Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,188,84,89,15
 Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,524,231,244,49
 Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,17,12,9
 Breckinridge,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -127,7 +127,7 @@ Breckinridge,B101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
 Breckinridge,B101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,B101,President,,REP,Donald J. TRUMP / JD VANCE,434,96,320,18
 Breckinridge,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,147,55,77,15
-Breckinridge,B101,President,,KY,Jill  STEIN / Samson KPADENOU,4,2,2,0
+Breckinridge,B101,President,,KY,Jill STEIN / Samson KPADENOU,4,2,2,0
 Breckinridge,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Breckinridge,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -140,7 +140,7 @@ Breckinridge,B101,U.S. House,2,DEM,Hank LINDERMAN,142,54,75,13
 Breckinridge,B101,U.S. House,2,,Total Votes,583,153,397,33
 Breckinridge,B101,U.S. House,2,,Under Votes,10,1,9,0
 Breckinridge,B101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,B101,State Senate,5,REP,"Stephen MEREDITH ",439,96,323,20
+Breckinridge,B101,State Senate,5,REP,Stephen MEREDITH,439,96,323,20
 Breckinridge,B101,State Senate,5,DEM,Jamie SKUDLAREK,137,53,71,13
 Breckinridge,B101,State Senate,5,,Total Votes,576,149,394,33
 Breckinridge,B101,State Senate,5,,Under Votes,17,5,12,0
@@ -168,16 +168,16 @@ Breckinridge,B101,Board of Education,Cloverport Independent School District,,Lau
 Breckinridge,B101,Board of Education,Cloverport Independent School District,,Total Votes,407,73,309,25
 Breckinridge,B101,Board of Education,Cloverport Independent School District,,Under Votes,214,59,150,5
 Breckinridge,B101,Board of Education,Cloverport Independent School District,,Over Votes,0,0,0,0
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Danny SMILEY ",71,19,48,4
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Derek HENDERSON ",48,7,38,3
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Ethan LAMAR ",75,17,53,5
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Jenny Bradley GRIFFIN ",73,16,50,7
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Jeffery N. PIERRARD ",24,7,17,0
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Jason EASLEY ",30,6,23,1
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Hal JENNINGS JR. ",46,9,35,2
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Michael WOODWARD SR. ",54,12,39,3
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Timothy Lane WHITE ",68,13,50,5
-Breckinridge,B101,CITY COUNCIL City of Cloverport,,,"Jennifer Goatley AMMONS ",71,14,50,7
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Danny SMILEY,71,19,48,4
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Derek HENDERSON,48,7,38,3
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Ethan LAMAR,75,17,53,5
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Jenny Bradley GRIFFIN,73,16,50,7
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Jeffery N. PIERRARD,24,7,17,0
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Jason EASLEY,30,6,23,1
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Hal JENNINGS JR.,46,9,35,2
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Michael WOODWARD SR.,54,12,39,3
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Timothy Lane WHITE,68,13,50,5
+Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Jennifer Goatley AMMONS,71,14,50,7
 Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Total Votes,560,120,403,37
 Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Under Votes,250,60,173,17
 Breckinridge,B101,CITY COUNCIL City of Cloverport,,,Over Votes,0,0,0,0
@@ -197,7 +197,7 @@ Breckinridge,B102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
 Breckinridge,B102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,B102,President,,REP,Donald J. TRUMP / JD VANCE,441,52,369,20
 Breckinridge,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,98,14,76,8
-Breckinridge,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Breckinridge,B102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Breckinridge,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,0,7,0
 Breckinridge,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -210,7 +210,7 @@ Breckinridge,B102,U.S. House,2,DEM,Hank LINDERMAN,104,14,84,6
 Breckinridge,B102,U.S. House,2,,Total Votes,537,63,448,26
 Breckinridge,B102,U.S. House,2,,Under Votes,16,3,12,1
 Breckinridge,B102,U.S. House,2,,Over Votes,1,0,0,1
-Breckinridge,B102,State Senate,5,REP,"Stephen MEREDITH ",416,50,347,19
+Breckinridge,B102,State Senate,5,REP,Stephen MEREDITH,416,50,347,19
 Breckinridge,B102,State Senate,5,DEM,Jamie SKUDLAREK,111,13,92,6
 Breckinridge,B102,State Senate,5,,Total Votes,527,63,439,25
 Breckinridge,B102,State Senate,5,,Under Votes,27,3,21,3
@@ -238,16 +238,16 @@ Breckinridge,B102,Board of Education,Cloverport Independent School District,,Lau
 Breckinridge,B102,Board of Education,Cloverport Independent School District,,Total Votes,802,73,694,35
 Breckinridge,B102,Board of Education,Cloverport Independent School District,,Under Votes,353,44,299,10
 Breckinridge,B102,Board of Education,Cloverport Independent School District,,Over Votes,0,0,0,0
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Danny SMILEY ",160,11,143,6
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Derek HENDERSON ",132,11,118,3
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Ethan LAMAR ",176,11,161,4
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Jenny Bradley GRIFFIN ",170,15,151,4
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Jeffery N. PIERRARD ",65,8,54,3
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Jason EASLEY ",64,5,57,2
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Hal JENNINGS JR. ",107,7,98,2
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Michael WOODWARD SR. ",121,10,110,1
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Timothy Lane WHITE ",166,12,151,3
-Breckinridge,B102,CITY COUNCIL City of Cloverport,,,"Jennifer Goatley AMMONS ",187,13,168,6
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Danny SMILEY,160,11,143,6
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Derek HENDERSON,132,11,118,3
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Ethan LAMAR,176,11,161,4
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Jenny Bradley GRIFFIN,170,15,151,4
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Jeffery N. PIERRARD,65,8,54,3
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Jason EASLEY,64,5,57,2
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Hal JENNINGS JR.,107,7,98,2
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Michael WOODWARD SR.,121,10,110,1
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Timothy Lane WHITE,166,12,151,3
+Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Jennifer Goatley AMMONS,187,13,168,6
 Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Total Votes,1348,103,1211,34
 Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Under Votes,470,71,367,32
 Breckinridge,B102,CITY COUNCIL City of Cloverport,,,Over Votes,1,0,0,1
@@ -267,7 +267,7 @@ Breckinridge,B103,STRAIGHT PARTY,,KY,Kentucky Party,3,0,3,0
 Breckinridge,B103,STRAIGHT PARTY,,LIB,Libertarian Party,4,1,3,0
 Breckinridge,B103,President,,REP,Donald J. TRUMP / JD VANCE,479,98,350,31
 Breckinridge,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,91,23,63,5
-Breckinridge,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Breckinridge,B103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Breckinridge,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Breckinridge,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -280,7 +280,7 @@ Breckinridge,B103,U.S. House,2,DEM,Hank LINDERMAN,85,21,60,4
 Breckinridge,B103,U.S. House,2,,Total Votes,563,123,406,34
 Breckinridge,B103,U.S. House,2,,Under Votes,18,2,14,2
 Breckinridge,B103,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,B103,State Senate,5,REP,"Stephen MEREDITH ",479,103,346,30
+Breckinridge,B103,State Senate,5,REP,Stephen MEREDITH,479,103,346,30
 Breckinridge,B103,State Senate,5,DEM,Jamie SKUDLAREK,85,20,61,4
 Breckinridge,B103,State Senate,5,,Total Votes,564,123,407,34
 Breckinridge,B103,State Senate,5,,Under Votes,17,2,13,2
@@ -318,7 +318,7 @@ Breckinridge,C101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
 Breckinridge,C101,STRAIGHT PARTY,,LIB,Libertarian Party,2,1,1,0
 Breckinridge,C101,President,,REP,Donald J. TRUMP / JD VANCE,612,109,471,32
 Breckinridge,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,137,24,96,17
-Breckinridge,C101,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Breckinridge,C101,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Breckinridge,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,3,6,0
 Breckinridge,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -331,7 +331,7 @@ Breckinridge,C101,U.S. House,2,DEM,Hank LINDERMAN,133,22,95,16
 Breckinridge,C101,U.S. House,2,,Total Votes,751,134,567,50
 Breckinridge,C101,U.S. House,2,,Under Votes,20,3,17,0
 Breckinridge,C101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,C101,State Senate,5,REP,"Stephen MEREDITH ",615,113,470,32
+Breckinridge,C101,State Senate,5,REP,Stephen MEREDITH,615,113,470,32
 Breckinridge,C101,State Senate,5,DEM,Jamie SKUDLAREK,131,20,93,18
 Breckinridge,C101,State Senate,5,,Total Votes,746,133,563,50
 Breckinridge,C101,State Senate,5,,Under Votes,25,4,21,0
@@ -369,7 +369,7 @@ Breckinridge,C102,STRAIGHT PARTY,,KY,Kentucky Party,7,1,5,1
 Breckinridge,C102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,C102,President,,REP,Donald J. TRUMP / JD VANCE,717,205,475,37
 Breckinridge,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,161,50,92,19
-Breckinridge,C102,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,4,0
+Breckinridge,C102,President,,KY,Jill STEIN / Samson KPADENOU,5,1,4,0
 Breckinridge,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Breckinridge,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -382,7 +382,7 @@ Breckinridge,C102,U.S. House,2,DEM,Hank LINDERMAN,146,42,90,14
 Breckinridge,C102,U.S. House,2,,Total Votes,871,250,567,54
 Breckinridge,C102,U.S. House,2,,Under Votes,26,9,15,2
 Breckinridge,C102,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,C102,State Senate,5,REP,"Stephen MEREDITH ",726,210,477,39
+Breckinridge,C102,State Senate,5,REP,Stephen MEREDITH,726,210,477,39
 Breckinridge,C102,State Senate,5,DEM,Jamie SKUDLAREK,141,39,88,14
 Breckinridge,C102,State Senate,5,,Total Votes,867,249,565,53
 Breckinridge,C102,State Senate,5,,Under Votes,30,10,17,3
@@ -420,7 +420,7 @@ Breckinridge,D101,STRAIGHT PARTY,,KY,Kentucky Party,4,0,4,0
 Breckinridge,D101,STRAIGHT PARTY,,LIB,Libertarian Party,3,0,3,0
 Breckinridge,D101,President,,REP,Donald J. TRUMP / JD VANCE,450,96,333,21
 Breckinridge,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,141,29,100,12
-Breckinridge,D101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Breckinridge,D101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Breckinridge,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,0,8,0
 Breckinridge,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -433,7 +433,7 @@ Breckinridge,D101,U.S. House,2,DEM,Hank LINDERMAN,145,25,112,8
 Breckinridge,D101,U.S. House,2,,Total Votes,591,122,436,33
 Breckinridge,D101,U.S. House,2,,Under Votes,15,3,12,0
 Breckinridge,D101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,D101,State Senate,5,REP,"Stephen MEREDITH ",442,95,322,25
+Breckinridge,D101,State Senate,5,REP,Stephen MEREDITH,442,95,322,25
 Breckinridge,D101,State Senate,5,DEM,Jamie SKUDLAREK,143,25,110,8
 Breckinridge,D101,State Senate,5,,Total Votes,585,120,432,33
 Breckinridge,D101,State Senate,5,,Under Votes,21,5,16,0
@@ -455,16 +455,16 @@ Breckinridge,D101,CONSTABLE,4,REP,Ricky LUCAS,487,102,361,24
 Breckinridge,D101,CONSTABLE,4,,Total Votes,487,102,361,24
 Breckinridge,D101,CONSTABLE,4,,Under Votes,119,23,87,9
 Breckinridge,D101,CONSTABLE,4,,Over Votes,0,0,0,0
-Breckinridge,D101,CITY COUNCIL City of Irvington,,,"William ""Billy"" SNYDER ",120,26,86,8
-Breckinridge,D101,CITY COUNCIL City of Irvington,,,"Robert Daniel YOUNG III. ",110,24,80,6
-Breckinridge,D101,CITY COUNCIL City of Irvington,,,"Jonathan Cody MATTINGLY ",99,19,74,6
-Breckinridge,D101,CITY COUNCIL City of Irvington,,,"Rhea BALLMAN ",84,18,59,7
+Breckinridge,D101,CITY COUNCIL City of Irvington,,,"William ""Billy"" SNYDER",120,26,86,8
+Breckinridge,D101,CITY COUNCIL City of Irvington,,,Robert Daniel YOUNG III.,110,24,80,6
+Breckinridge,D101,CITY COUNCIL City of Irvington,,,Jonathan Cody MATTINGLY,99,19,74,6
+Breckinridge,D101,CITY COUNCIL City of Irvington,,,Rhea BALLMAN,84,18,59,7
 Breckinridge,D101,CITY COUNCIL City of Irvington,,,Write In Total,45,0,45,0
 Breckinridge,D101,CITY COUNCIL City of Irvington,,,Total Votes,458,87,344,27
 Breckinridge,D101,CITY COUNCIL City of Irvington,,,Under Votes,1030,177,790,63
 Breckinridge,D101,CITY COUNCIL City of Irvington,,,Over Votes,0,0,0,0
-Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",361,80,266,15
-Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",207,37,159,11
+Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,361,80,266,15
+Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,207,37,159,11
 Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,568,117,425,26
 Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,37,8,23,6
 Breckinridge,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
@@ -479,7 +479,7 @@ Breckinridge,D102,STRAIGHT PARTY,,KY,Kentucky Party,2,0,2,0
 Breckinridge,D102,STRAIGHT PARTY,,LIB,Libertarian Party,1,1,0,0
 Breckinridge,D102,President,,REP,Donald J. TRUMP / JD VANCE,385,77,289,19
 Breckinridge,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,155,31,111,13
-Breckinridge,D102,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Breckinridge,D102,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Breckinridge,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,5,0
 Breckinridge,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -492,7 +492,7 @@ Breckinridge,D102,U.S. House,2,DEM,Hank LINDERMAN,143,27,103,13
 Breckinridge,D102,U.S. House,2,,Total Votes,543,110,401,32
 Breckinridge,D102,U.S. House,2,,Under Votes,10,1,9,0
 Breckinridge,D102,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,D102,State Senate,5,REP,"Stephen MEREDITH ",386,81,288,17
+Breckinridge,D102,State Senate,5,REP,Stephen MEREDITH,386,81,288,17
 Breckinridge,D102,State Senate,5,DEM,Jamie SKUDLAREK,147,28,106,13
 Breckinridge,D102,State Senate,5,,Total Votes,533,109,394,30
 Breckinridge,D102,State Senate,5,,Under Votes,20,2,16,2
@@ -514,16 +514,16 @@ Breckinridge,D102,CONSTABLE,4,REP,Ricky LUCAS,415,90,302,23
 Breckinridge,D102,CONSTABLE,4,,Total Votes,415,90,302,23
 Breckinridge,D102,CONSTABLE,4,,Under Votes,138,21,108,9
 Breckinridge,D102,CONSTABLE,4,,Over Votes,0,0,0,0
-Breckinridge,D102,CITY COUNCIL City of Irvington,,,"William ""Billy"" SNYDER ",112,25,83,4
-Breckinridge,D102,CITY COUNCIL City of Irvington,,,"Robert Daniel YOUNG III. ",130,25,100,5
-Breckinridge,D102,CITY COUNCIL City of Irvington,,,"Jonathan Cody MATTINGLY ",96,21,72,3
-Breckinridge,D102,CITY COUNCIL City of Irvington,,,"Rhea BALLMAN ",116,20,88,8
+Breckinridge,D102,CITY COUNCIL City of Irvington,,,"William ""Billy"" SNYDER",112,25,83,4
+Breckinridge,D102,CITY COUNCIL City of Irvington,,,Robert Daniel YOUNG III.,130,25,100,5
+Breckinridge,D102,CITY COUNCIL City of Irvington,,,Jonathan Cody MATTINGLY,96,21,72,3
+Breckinridge,D102,CITY COUNCIL City of Irvington,,,Rhea BALLMAN,116,20,88,8
 Breckinridge,D102,CITY COUNCIL City of Irvington,,,Write In Total,111,5,106,0
 Breckinridge,D102,CITY COUNCIL City of Irvington,,,Total Votes,565,96,449,20
 Breckinridge,D102,CITY COUNCIL City of Irvington,,,Under Votes,1037,186,787,64
 Breckinridge,D102,CITY COUNCIL City of Irvington,,,Over Votes,0,0,0,0
-Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",318,70,232,16
-Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",199,38,147,14
+Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,318,70,232,16
+Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,199,38,147,14
 Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,517,108,379,30
 Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,3,30,2
 Breckinridge,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
@@ -538,7 +538,7 @@ Breckinridge,D103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
 Breckinridge,D103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
 Breckinridge,D103,President,,REP,Donald J. TRUMP / JD VANCE,286,65,198,23
 Breckinridge,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,52,14,27,11
-Breckinridge,D103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Breckinridge,D103,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Breckinridge,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Breckinridge,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -551,7 +551,7 @@ Breckinridge,D103,U.S. House,2,DEM,Hank LINDERMAN,47,13,26,8
 Breckinridge,D103,U.S. House,2,,Total Votes,335,79,223,33
 Breckinridge,D103,U.S. House,2,,Under Votes,6,0,4,2
 Breckinridge,D103,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,D103,State Senate,5,REP,"Stephen MEREDITH ",283,64,195,24
+Breckinridge,D103,State Senate,5,REP,Stephen MEREDITH,283,64,195,24
 Breckinridge,D103,State Senate,5,DEM,Jamie SKUDLAREK,52,15,27,10
 Breckinridge,D103,State Senate,5,,Total Votes,335,79,222,34
 Breckinridge,D103,State Senate,5,,Under Votes,6,0,5,1
@@ -589,7 +589,7 @@ Breckinridge,E101,STRAIGHT PARTY,,KY,Kentucky Party,1,0,1,0
 Breckinridge,E101,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
 Breckinridge,E101,President,,REP,Donald J. TRUMP / JD VANCE,423,43,361,19
 Breckinridge,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,51,6,39,6
-Breckinridge,E101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Breckinridge,E101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Breckinridge,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Breckinridge,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -602,7 +602,7 @@ Breckinridge,E101,U.S. House,2,DEM,Hank LINDERMAN,53,6,42,5
 Breckinridge,E101,U.S. House,2,,Total Votes,466,48,393,25
 Breckinridge,E101,U.S. House,2,,Under Votes,12,2,10,0
 Breckinridge,E101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,E101,State Senate,5,REP,"Stephen MEREDITH ",413,43,351,19
+Breckinridge,E101,State Senate,5,REP,Stephen MEREDITH,413,43,351,19
 Breckinridge,E101,State Senate,5,DEM,Jamie SKUDLAREK,51,5,41,5
 Breckinridge,E101,State Senate,5,,Total Votes,464,48,392,24
 Breckinridge,E101,State Senate,5,,Under Votes,14,2,11,1
@@ -640,7 +640,7 @@ Breckinridge,E102,STRAIGHT PARTY,,KY,Kentucky Party,2,1,1,0
 Breckinridge,E102,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,E102,President,,REP,Donald J. TRUMP / JD VANCE,618,128,451,39
 Breckinridge,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,118,30,77,11
-Breckinridge,E102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Breckinridge,E102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Breckinridge,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Breckinridge,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -653,7 +653,7 @@ Breckinridge,E102,U.S. House,2,DEM,Hank LINDERMAN,108,30,67,11
 Breckinridge,E102,U.S. House,2,,Total Votes,726,156,521,49
 Breckinridge,E102,U.S. House,2,,Under Votes,20,4,15,1
 Breckinridge,E102,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,E102,State Senate,5,REP,"Stephen MEREDITH ",613,126,450,37
+Breckinridge,E102,State Senate,5,REP,Stephen MEREDITH,613,126,450,37
 Breckinridge,E102,State Senate,5,DEM,Jamie SKUDLAREK,109,30,68,11
 Breckinridge,E102,State Senate,5,,Total Votes,722,156,518,48
 Breckinridge,E102,State Senate,5,,Under Votes,24,4,18,2
@@ -691,7 +691,7 @@ Breckinridge,E103,STRAIGHT PARTY,,KY,Kentucky Party,2,0,1,1
 Breckinridge,E103,STRAIGHT PARTY,,LIB,Libertarian Party,0,0,0,0
 Breckinridge,E103,President,,REP,Donald J. TRUMP / JD VANCE,355,101,241,13
 Breckinridge,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,64,24,30,10
-Breckinridge,E103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Breckinridge,E103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Breckinridge,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Breckinridge,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -704,7 +704,7 @@ Breckinridge,E103,U.S. House,2,DEM,Hank LINDERMAN,60,20,32,8
 Breckinridge,E103,U.S. House,2,,Total Votes,418,122,272,24
 Breckinridge,E103,U.S. House,2,,Under Votes,9,4,5,0
 Breckinridge,E103,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,E103,State Senate,5,REP,"Stephen MEREDITH ",337,98,225,14
+Breckinridge,E103,State Senate,5,REP,Stephen MEREDITH,337,98,225,14
 Breckinridge,E103,State Senate,5,DEM,Jamie SKUDLAREK,73,22,42,9
 Breckinridge,E103,State Senate,5,,Total Votes,410,120,267,23
 Breckinridge,E103,State Senate,5,,Under Votes,16,6,9,1
@@ -742,7 +742,7 @@ Breckinridge,F101,STRAIGHT PARTY,,KY,Kentucky Party,12,1,10,1
 Breckinridge,F101,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,F101,President,,REP,Donald J. TRUMP / JD VANCE,1166,202,905,59
 Breckinridge,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,312,64,210,38
-Breckinridge,F101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Breckinridge,F101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Breckinridge,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,0,6,1
 Breckinridge,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,2,1
@@ -755,7 +755,7 @@ Breckinridge,F101,U.S. House,2,DEM,Hank LINDERMAN,281,56,189,36
 Breckinridge,F101,U.S. House,2,,Total Votes,1469,261,1110,98
 Breckinridge,F101,U.S. House,2,,Under Votes,29,5,23,1
 Breckinridge,F101,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,F101,State Senate,5,REP,"Stephen MEREDITH ",1161,201,901,59
+Breckinridge,F101,State Senate,5,REP,Stephen MEREDITH,1161,201,901,59
 Breckinridge,F101,State Senate,5,DEM,Jamie SKUDLAREK,291,58,193,40
 Breckinridge,F101,State Senate,5,,Total Votes,1452,259,1094,99
 Breckinridge,F101,State Senate,5,,Under Votes,46,7,39,0
@@ -793,7 +793,7 @@ Breckinridge,F103,STRAIGHT PARTY,,KY,Kentucky Party,1,0,0,1
 Breckinridge,F103,STRAIGHT PARTY,,LIB,Libertarian Party,1,0,1,0
 Breckinridge,F103,President,,REP,Donald J. TRUMP / JD VANCE,425,121,287,17
 Breckinridge,F103,President,,DEM,Kamala D. HARRIS / Tim WALZ,80,26,50,4
-Breckinridge,F103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Breckinridge,F103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Breckinridge,F103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,4,8,0
 Breckinridge,F103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Breckinridge,F103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -806,7 +806,7 @@ Breckinridge,F103,U.S. House,2,DEM,Hank LINDERMAN,78,26,47,5
 Breckinridge,F103,U.S. House,2,,Total Votes,509,151,338,20
 Breckinridge,F103,U.S. House,2,,Under Votes,16,4,11,1
 Breckinridge,F103,U.S. House,2,,Over Votes,0,0,0,0
-Breckinridge,F103,State Senate,5,REP,"Stephen MEREDITH ",417,120,280,17
+Breckinridge,F103,State Senate,5,REP,Stephen MEREDITH,417,120,280,17
 Breckinridge,F103,State Senate,5,DEM,Jamie SKUDLAREK,90,28,58,4
 Breckinridge,F103,State Senate,5,,Total Votes,507,148,338,21
 Breckinridge,F103,State Senate,5,,Under Votes,18,7,11,0

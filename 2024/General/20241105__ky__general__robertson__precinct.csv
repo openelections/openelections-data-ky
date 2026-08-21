@@ -8,7 +8,7 @@ Robertson,A101,STRAIGHT PARTY,,,Under Votes,110,22,81,7
 Robertson,A101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Robertson,A101,President,,REP,Donald J. TRUMP / JD VANCE,144,29,113,2
 Robertson,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,56,23,25,8
-Robertson,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Robertson,A101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Robertson,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Robertson,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Robertson,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -50,9 +50,9 @@ Robertson,A101,Board of Education,1,,John T. BURNS,125,33,84,8
 Robertson,A101,Board of Education,1,,Total Votes,125,33,84,8
 Robertson,A101,Board of Education,1,,Under Votes,79,19,58,2
 Robertson,A101,Board of Education,1,,Over Votes,0,0,0,0
-Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,"Kenny WHALEN ",58,18,37,3
-Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,"Stanley E. HENDERSON ",41,10,25,6
-Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,"Marcheeta EUBANKS ",38,10,24,4
+Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Kenny WHALEN,58,18,37,3
+Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Stanley E. HENDERSON,41,10,25,6
+Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Marcheeta EUBANKS,38,10,24,4
 Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Write In Total,41,12,22,7
 Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Total Votes,178,50,108,20
 Robertson,A101,CITY COUNCIL City of Mt. Olivet,,,Under Votes,458,136,288,34
@@ -81,7 +81,7 @@ Robertson,B101,STRAIGHT PARTY,,,Under Votes,108,19,81,8
 Robertson,B101,STRAIGHT PARTY,,,Over Votes,1,0,0,1
 Robertson,B101,President,,REP,Donald J. TRUMP / JD VANCE,188,38,137,13
 Robertson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,31,8,21,2
-Robertson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Robertson,B101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Robertson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Robertson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Robertson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -143,7 +143,7 @@ Robertson,C101,STRAIGHT PARTY,,,Under Votes,124,24,89,11
 Robertson,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Robertson,C101,President,,REP,Donald J. TRUMP / JD VANCE,166,26,131,9
 Robertson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,47,13,26,8
-Robertson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Robertson,C101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Robertson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,3,1,0
 Robertson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Robertson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -205,7 +205,7 @@ Robertson,D101,STRAIGHT PARTY,,,Under Votes,132,31,92,9
 Robertson,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Robertson,D101,President,,REP,Donald J. TRUMP / JD VANCE,188,45,134,9
 Robertson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,50,16,27,7
-Robertson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Robertson,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Robertson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
 Robertson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Robertson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -247,13 +247,13 @@ Robertson,D101,Board of Education,4,,Brandyn J. SUTTON,121,24,89,8
 Robertson,D101,Board of Education,4,,Total Votes,121,24,89,8
 Robertson,D101,Board of Education,4,,Under Votes,121,40,73,8
 Robertson,D101,Board of Education,4,,Over Votes,0,0,0,0
-Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",125,30,90,5
-Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",99,30,63,6
+Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,125,30,90,5
+Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,99,30,63,6
 Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,224,60,153,11
 Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,17,4,8,5
 Robertson,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",50,13,34,3
-Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",178,48,121,9
+Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,50,13,34,3
+Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,178,48,121,9
 Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,228,61,155,12
 Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,3,6,4
 Robertson,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -271,7 +271,7 @@ Robertson,E101,STRAIGHT PARTY,,,Under Votes,133,32,96,5
 Robertson,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Robertson,E101,President,,REP,Donald J. TRUMP / JD VANCE,229,59,166,4
 Robertson,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,31,13,11,7
-Robertson,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Robertson,E101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Robertson,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Robertson,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Robertson,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -313,13 +313,13 @@ Robertson,E101,Board of Education,5,,Darlene H. GIFFORD,161,43,115,3
 Robertson,E101,Board of Education,5,,Total Votes,161,43,115,3
 Robertson,E101,Board of Education,5,,Under Votes,98,28,62,8
 Robertson,E101,Board of Education,5,,Over Votes,1,1,0,0
-Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",143,38,100,5
-Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",88,22,61,5
+Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,143,38,100,5
+Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,88,22,61,5
 Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,231,60,161,10
 Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,12,15,0
 Robertson,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,1,1
-Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",64,14,48,2
-Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",181,52,120,9
+Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,64,14,48,2
+Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,181,52,120,9
 Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,245,66,168,11
 Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,15,6,9,0
 Robertson,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0

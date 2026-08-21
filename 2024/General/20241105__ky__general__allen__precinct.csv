@@ -8,7 +8,7 @@ Allen,A101,STRAIGHT PARTY,,,Under Votes,330,110,195,25
 Allen,A101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Allen,A101,President,,REP,Donald J. TRUMP / JD VANCE,503,144,331,28
 Allen,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,126,48,62,16
-Allen,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Allen,A101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Allen,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Allen,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -46,14 +46,14 @@ Allen,A101,Board of Education,4,,Billy E. TURNER,334,97,215,22
 Allen,A101,Board of Education,4,,Total Votes,334,97,215,22
 Allen,A101,Board of Education,4,,Under Votes,217,75,123,19
 Allen,A101,Board of Education,4,,Over Votes,0,0,0,0
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Beverly Tracy ANDERSON ",330,104,200,26
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Mark HUNTSMAN ",292,95,176,21
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Rogerlyn Buchanon BRIDDON ",246,80,139,27
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Michael WILSON ",266,88,157,21
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Christopher STRICKLIN ",108,31,65,12
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Heather PATRICK-GATEWOOD ",331,89,220,22
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Franklin L. FOSTER ",263,86,154,23
-Allen,A101,CITY COUNCIL City of Scottsville,,,"Shane BLANKENSHIP ",283,89,177,17
+Allen,A101,CITY COUNCIL City of Scottsville,,,Beverly Tracy ANDERSON,330,104,200,26
+Allen,A101,CITY COUNCIL City of Scottsville,,,Mark HUNTSMAN,292,95,176,21
+Allen,A101,CITY COUNCIL City of Scottsville,,,Rogerlyn Buchanon BRIDDON,246,80,139,27
+Allen,A101,CITY COUNCIL City of Scottsville,,,Michael WILSON,266,88,157,21
+Allen,A101,CITY COUNCIL City of Scottsville,,,Christopher STRICKLIN,108,31,65,12
+Allen,A101,CITY COUNCIL City of Scottsville,,,Heather PATRICK-GATEWOOD,331,89,220,22
+Allen,A101,CITY COUNCIL City of Scottsville,,,Franklin L. FOSTER,263,86,154,23
+Allen,A101,CITY COUNCIL City of Scottsville,,,Shane BLANKENSHIP,283,89,177,17
 Allen,A101,CITY COUNCIL City of Scottsville,,,Total Votes,2119,662,1288,169
 Allen,A101,CITY COUNCIL City of Scottsville,,,Under Votes,1709,502,1112,95
 Allen,A101,CITY COUNCIL City of Scottsville,,,Over Votes,1,1,0,0
@@ -76,7 +76,7 @@ Allen,A102,STRAIGHT PARTY,,,Under Votes,345,99,227,19
 Allen,A102,STRAIGHT PARTY,,,Over Votes,2,1,1,0
 Allen,A102,President,,REP,Donald J. TRUMP / JD VANCE,658,195,436,27
 Allen,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,114,44,54,16
-Allen,A102,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Allen,A102,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Allen,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Allen,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -105,8 +105,8 @@ Allen,A102,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,A102,COUNTY SURVEYOR,,,Under Votes,778,241,494,43
 Allen,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",524,172,336,16
-Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",191,54,120,17
+Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,524,172,336,16
+Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,191,54,120,17
 Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,715,226,456,33
 Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,60,15,35,10
 Allen,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
@@ -124,7 +124,7 @@ Allen,B101,STRAIGHT PARTY,,,Under Votes,337,121,209,7
 Allen,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,B101,President,,REP,Donald J. TRUMP / JD VANCE,637,216,401,20
 Allen,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,106,40,63,3
-Allen,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Allen,B101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Allen,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Allen,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -153,8 +153,8 @@ Allen,B101,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,B101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,B101,COUNTY SURVEYOR,,,Under Votes,750,257,470,23
 Allen,B101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",497,183,297,17
-Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",191,50,136,5
+Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,497,183,297,17
+Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,191,50,136,5
 Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,688,233,433,22
 Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,59,22,36,1
 Allen,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
@@ -172,7 +172,7 @@ Allen,B102,STRAIGHT PARTY,,,Under Votes,311,77,214,20
 Allen,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,B102,President,,REP,Donald J. TRUMP / JD VANCE,615,162,426,27
 Allen,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,76,19,55,2
-Allen,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Allen,B102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Allen,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,4,1
 Allen,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -201,8 +201,8 @@ Allen,B102,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,B102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,B102,COUNTY SURVEYOR,,,Under Votes,699,181,488,30
 Allen,B102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",479,131,331,17
-Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",160,29,121,10
+Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,479,131,331,17
+Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,160,29,121,10
 Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,639,160,452,27
 Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,54,17,34,3
 Allen,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,4,2,0
@@ -220,7 +220,7 @@ Allen,B103,STRAIGHT PARTY,,,Under Votes,166,40,119,7
 Allen,B103,STRAIGHT PARTY,,,Over Votes,3,0,3,0
 Allen,B103,President,,REP,Donald J. TRUMP / JD VANCE,288,60,219,9
 Allen,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,52,17,32,3
-Allen,B103,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Allen,B103,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Allen,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Allen,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -249,8 +249,8 @@ Allen,B103,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,B103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,B103,COUNTY SURVEYOR,,,Under Votes,345,78,255,12
 Allen,B103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",225,54,163,8
-Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",89,21,66,2
+Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,225,54,163,8
+Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,89,21,66,2
 Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,314,75,229,10
 Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,27,2,23,2
 Allen,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,1,3,0
@@ -268,7 +268,7 @@ Allen,C101,STRAIGHT PARTY,,,Under Votes,469,154,276,39
 Allen,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,C101,President,,REP,Donald J. TRUMP / JD VANCE,710,227,430,53
 Allen,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,180,66,88,26
-Allen,C101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Allen,C101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Allen,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Allen,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,1,1
@@ -301,19 +301,19 @@ Allen,C101,Board of Education,4,,Billy E. TURNER,548,158,346,44
 Allen,C101,Board of Education,4,,Total Votes,548,158,346,44
 Allen,C101,Board of Education,4,,Under Votes,351,136,179,36
 Allen,C101,Board of Education,4,,Over Votes,0,0,0,0
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Beverly Tracy ANDERSON ",472,159,261,52
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Mark HUNTSMAN ",461,158,254,49
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Rogerlyn Buchanon BRIDDON ",382,155,183,44
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Michael WILSON ",436,146,254,36
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Christopher STRICKLIN ",121,31,82,8
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Heather PATRICK-GATEWOOD ",377,125,222,30
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Franklin L. FOSTER ",444,154,247,43
-Allen,C101,CITY COUNCIL City of Scottsville,,,"Shane BLANKENSHIP ",465,150,275,40
+Allen,C101,CITY COUNCIL City of Scottsville,,,Beverly Tracy ANDERSON,472,159,261,52
+Allen,C101,CITY COUNCIL City of Scottsville,,,Mark HUNTSMAN,461,158,254,49
+Allen,C101,CITY COUNCIL City of Scottsville,,,Rogerlyn Buchanon BRIDDON,382,155,183,44
+Allen,C101,CITY COUNCIL City of Scottsville,,,Michael WILSON,436,146,254,36
+Allen,C101,CITY COUNCIL City of Scottsville,,,Christopher STRICKLIN,121,31,82,8
+Allen,C101,CITY COUNCIL City of Scottsville,,,Heather PATRICK-GATEWOOD,377,125,222,30
+Allen,C101,CITY COUNCIL City of Scottsville,,,Franklin L. FOSTER,444,154,247,43
+Allen,C101,CITY COUNCIL City of Scottsville,,,Shane BLANKENSHIP,465,150,275,40
 Allen,C101,CITY COUNCIL City of Scottsville,,,Total Votes,3158,1078,1778,302
 Allen,C101,CITY COUNCIL City of Scottsville,,,Under Votes,2212,668,1372,172
 Allen,C101,CITY COUNCIL City of Scottsville,,,Over Votes,4,3,0,1
-Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",546,193,322,31
-Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",274,79,166,29
+Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,546,193,322,31
+Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,274,79,166,29
 Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,820,272,488,60
 Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,74,19,37,18
 Allen,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,3,0,2
@@ -331,7 +331,7 @@ Allen,C102,STRAIGHT PARTY,,,Under Votes,590,214,346,30
 Allen,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,C102,President,,REP,Donald J. TRUMP / JD VANCE,925,326,571,28
 Allen,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,205,69,111,25
-Allen,C102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Allen,C102,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Allen,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,3,4,1
 Allen,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -383,7 +383,7 @@ Allen,D101,STRAIGHT PARTY,,,Under Votes,615,170,410,35
 Allen,D101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Allen,D101,President,,REP,Donald J. TRUMP / JD VANCE,945,239,664,42
 Allen,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,205,70,106,29
-Allen,D101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Allen,D101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Allen,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,3,8,0
 Allen,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -436,7 +436,7 @@ Allen,D102,STRAIGHT PARTY,,,Under Votes,265,89,156,20
 Allen,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,D102,President,,REP,Donald J. TRUMP / JD VANCE,389,141,232,16
 Allen,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,22,40,16
-Allen,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Allen,D102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Allen,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Allen,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -489,7 +489,7 @@ Allen,D103,STRAIGHT PARTY,,,Under Votes,400,86,298,16
 Allen,D103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Allen,D103,President,,REP,Donald J. TRUMP / JD VANCE,705,138,542,25
 Allen,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,141,36,91,14
-Allen,D103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Allen,D103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Allen,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,3,8,0
 Allen,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -518,8 +518,8 @@ Allen,D103,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,D103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,D103,COUNTY SURVEYOR,,,Under Votes,863,177,646,40
 Allen,D103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",575,119,435,21
-Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",224,45,162,17
+Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,575,119,435,21
+Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,224,45,162,17
 Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,799,164,597,38
 Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,62,13,47,2
 Allen,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
@@ -537,7 +537,7 @@ Allen,E101,STRAIGHT PARTY,,,Under Votes,129,23,98,8
 Allen,E101,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Allen,E101,President,,REP,Donald J. TRUMP / JD VANCE,242,42,194,6
 Allen,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,20,3,12,5
-Allen,E101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Allen,E101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Allen,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Allen,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -566,8 +566,8 @@ Allen,E101,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,E101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,E101,COUNTY SURVEYOR,,,Under Votes,267,45,210,12
 Allen,E101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",192,31,153,8
-Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",55,9,42,4
+Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,192,31,153,8
+Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,55,9,42,4
 Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,247,40,195,12
 Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,5,15,0
 Allen,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -585,7 +585,7 @@ Allen,E102,STRAIGHT PARTY,,,Under Votes,210,49,158,3
 Allen,E102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Allen,E102,President,,REP,Donald J. TRUMP / JD VANCE,503,99,386,18
 Allen,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,74,15,56,3
-Allen,E102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Allen,E102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Allen,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Allen,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
 Allen,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,1,0
@@ -637,7 +637,7 @@ Allen,E103,STRAIGHT PARTY,,,Under Votes,326,135,176,15
 Allen,E103,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Allen,E103,President,,REP,Donald J. TRUMP / JD VANCE,551,219,313,19
 Allen,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,99,39,53,7
-Allen,E103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Allen,E103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Allen,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
 Allen,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,2,0
@@ -690,7 +690,7 @@ Allen,E104,STRAIGHT PARTY,,,Under Votes,79,15,60,4
 Allen,E104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Allen,E104,President,,REP,Donald J. TRUMP / JD VANCE,153,29,117,7
 Allen,E104,President,,DEM,Kamala D. HARRIS / Tim WALZ,29,8,20,1
-Allen,E104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Allen,E104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Allen,E104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Allen,E104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Allen,E104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -719,8 +719,8 @@ Allen,E104,COUNTY SURVEYOR,,,,0,0,0,0
 Allen,E104,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Allen,E104,COUNTY SURVEYOR,,,Under Votes,184,37,139,8
 Allen,E104,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",127,22,98,7
-Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",48,15,32,1
+Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,YES,127,22,98,7
+Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,NO,48,15,32,1
 Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,175,37,130,8
 Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,9,0,9,0
 Allen,E104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0

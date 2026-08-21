@@ -8,7 +8,7 @@ Henry,A101,STRAIGHT PARTY,,,Under Votes,519,147,348,24
 Henry,A101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Henry,A101,President,,REP,Donald J. TRUMP / JD VANCE,753,214,512,27
 Henry,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,304,80,192,32
-Henry,A101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Henry,A101,President,,KY,Jill STEIN / Samson KPADENOU,3,1,2,0
 Henry,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,0,8,1
 Henry,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -50,14 +50,14 @@ Henry,A101,Board of Education,Eminence Independent School District,,Danny M. FIS
 Henry,A101,Board of Education,Eminence Independent School District,,Total Votes,1487,423,981,83
 Henry,A101,Board of Education,Eminence Independent School District,,Under Votes,661,167,457,37
 Henry,A101,Board of Education,Eminence Independent School District,,Over Votes,3,2,0,1
-Henry,A101,CITY COUNCIL City of Eminence,,,"Phillip SMITH ",402,114,263,25
-Henry,A101,CITY COUNCIL City of Eminence,,,"Karen PARIS ",395,116,255,24
-Henry,A101,CITY COUNCIL City of Eminence,,,"Missy Ayers SHARPE ",258,65,180,13
-Henry,A101,CITY COUNCIL City of Eminence,,,"Connie NATION ",421,115,283,23
-Henry,A101,CITY COUNCIL City of Eminence,,,"Bobbi Jo SIMON-FRAZIER ",313,84,213,16
-Henry,A101,CITY COUNCIL City of Eminence,,,"Justin WAYMAN ",288,70,199,19
-Henry,A101,CITY COUNCIL City of Eminence,,,"John ADCOCK ",274,86,171,17
-Henry,A101,CITY COUNCIL City of Eminence,,,"E. Lee Ann ARMSTRONG ",466,131,305,30
+Henry,A101,CITY COUNCIL City of Eminence,,,Phillip SMITH,402,114,263,25
+Henry,A101,CITY COUNCIL City of Eminence,,,Karen PARIS,395,116,255,24
+Henry,A101,CITY COUNCIL City of Eminence,,,Missy Ayers SHARPE,258,65,180,13
+Henry,A101,CITY COUNCIL City of Eminence,,,Connie NATION,421,115,283,23
+Henry,A101,CITY COUNCIL City of Eminence,,,Bobbi Jo SIMON-FRAZIER,313,84,213,16
+Henry,A101,CITY COUNCIL City of Eminence,,,Justin WAYMAN,288,70,199,19
+Henry,A101,CITY COUNCIL City of Eminence,,,John ADCOCK,274,86,171,17
+Henry,A101,CITY COUNCIL City of Eminence,,,E. Lee Ann ARMSTRONG,466,131,305,30
 Henry,A101,CITY COUNCIL City of Eminence,,,Total Votes,2817,781,1869,167
 Henry,A101,CITY COUNCIL City of Eminence,,,Under Votes,2985,737,2091,157
 Henry,A101,CITY COUNCIL City of Eminence,,,Over Votes,1,1,0,0
@@ -90,7 +90,7 @@ Henry,A102,STRAIGHT PARTY,,,Under Votes,146,53,85,8
 Henry,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,A102,President,,REP,Donald J. TRUMP / JD VANCE,207,69,129,9
 Henry,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,66,31,27,8
-Henry,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,A102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Henry,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -129,15 +129,15 @@ Henry,A102,Board of Education,1,,Anthony WHALEY,173,66,98,9
 Henry,A102,Board of Education,1,,Total Votes,173,66,98,9
 Henry,A102,Board of Education,1,,Under Votes,105,35,62,8
 Henry,A102,Board of Education,1,,Over Votes,0,0,0,0
-Henry,A102,CITY COMMISSIONERS City of Smithfield,,,"Penny ADAMS ",25,7,18,0
-Henry,A102,CITY COMMISSIONERS City of Smithfield,,,"Deborah ""Kay"" HART ",33,12,21,0
-Henry,A102,CITY COMMISSIONERS City of Smithfield,,,"Caleb Morgan POTTS ",35,9,26,0
-Henry,A102,CITY COMMISSIONERS City of Smithfield,,,"Jasmin LOPEZ ",27,8,19,0
+Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Penny ADAMS,25,7,18,0
+Henry,A102,CITY COMMISSIONERS City of Smithfield,,,"Deborah ""Kay"" HART",33,12,21,0
+Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Caleb Morgan POTTS,35,9,26,0
+Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Jasmin LOPEZ,27,8,19,0
 Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Total Votes,120,36,84,0
 Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Under Votes,108,40,64,4
 Henry,A102,CITY COMMISSIONERS City of Smithfield,,,Over Votes,0,0,0,0
-Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",173,58,98,17
-Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",85,31,54,0
+Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,173,58,98,17
+Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,85,31,54,0
 Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,258,89,152,17
 Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,12,8,0
 Henry,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -160,7 +160,7 @@ Henry,B101,STRAIGHT PARTY,,,Under Votes,329,98,221,10
 Henry,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,B101,President,,REP,Donald J. TRUMP / JD VANCE,589,170,394,25
 Henry,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,157,55,91,11
-Henry,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,B101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,1,8,0
 Henry,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,2,0
@@ -199,13 +199,13 @@ Henry,B101,Board of Education,1,,Anthony WHALEY,370,97,261,12
 Henry,B101,Board of Education,1,,Total Votes,370,97,261,12
 Henry,B101,Board of Education,1,,Under Votes,394,132,238,24
 Henry,B101,Board of Education,1,,Over Votes,0,0,0,0
-Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",472,136,321,15
-Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",257,85,156,16
+Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,472,136,321,15
+Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,257,85,156,16
 Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,729,221,477,31
 Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,7,22,5
 Henry,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
-Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",335,103,217,15
-Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",410,123,269,18
+Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,335,103,217,15
+Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,410,123,269,18
 Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,745,226,486,33
 Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,3,13,3
 Henry,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -223,7 +223,7 @@ Henry,B102,STRAIGHT PARTY,,,Under Votes,384,106,265,13
 Henry,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,B102,President,,REP,Donald J. TRUMP / JD VANCE,704,176,500,28
 Henry,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,195,42,132,21
-Henry,B102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,B102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,0,12,0
 Henry,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -282,7 +282,7 @@ Henry,C101,STRAIGHT PARTY,,,Under Votes,516,116,380,20
 Henry,C101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Henry,C101,President,,REP,Donald J. TRUMP / JD VANCE,737,159,553,25
 Henry,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,249,67,166,16
-Henry,C101,President,,KY,Jill  STEIN / Samson KPADENOU,7,0,7,0
+Henry,C101,President,,KY,Jill STEIN / Samson KPADENOU,7,0,7,0
 Henry,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,14,1,13,0
 Henry,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,7,0,6,1
@@ -317,21 +317,21 @@ Henry,C101,COUNTY SURVEYOR,,,,0,0,0,0
 Henry,C101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Henry,C101,COUNTY SURVEYOR,,,Under Votes,1024,227,754,43
 Henry,C101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Kevin COLLINS ",117,23,89,5
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Toni JACKSON ",92,18,70,4
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"John E. SUTER ",151,32,113,6
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"David WINBURN ",89,15,72,2
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Larry INGABRAND ",85,13,71,1
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Mike OCHSNER ",79,17,58,4
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Garold PRICE ",137,20,114,3
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Jessica Mayse BANTA ",111,23,87,1
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Ashley GRAY ",139,26,109,4
-Henry,C101,CITY COUNCIL City of Campbellsburg,,,"Gina DABNEY ",90,20,68,2
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Kevin COLLINS,117,23,89,5
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Toni JACKSON,92,18,70,4
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,John E. SUTER,151,32,113,6
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,David WINBURN,89,15,72,2
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Larry INGABRAND,85,13,71,1
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Mike OCHSNER,79,17,58,4
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Garold PRICE,137,20,114,3
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Jessica Mayse BANTA,111,23,87,1
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Ashley GRAY,139,26,109,4
+Henry,C101,CITY COUNCIL City of Campbellsburg,,,Gina DABNEY,90,20,68,2
 Henry,C101,CITY COUNCIL City of Campbellsburg,,,Total Votes,1090,207,851,32
 Henry,C101,CITY COUNCIL City of Campbellsburg,,,Under Votes,1100,207,859,34
 Henry,C101,CITY COUNCIL City of Campbellsburg,,,Over Votes,0,0,0,0
-Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",658,127,502,29
-Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",306,90,202,14
+Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,658,127,502,29
+Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,306,90,202,14
 Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,964,217,704,43
 Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,57,10,47,0
 Henry,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
@@ -354,7 +354,7 @@ Henry,C102,STRAIGHT PARTY,,,Under Votes,151,23,122,6
 Henry,C102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Henry,C102,President,,REP,Donald J. TRUMP / JD VANCE,202,41,156,5
 Henry,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,64,9,53,2
-Henry,C102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Henry,C102,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Henry,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Henry,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -393,13 +393,13 @@ Henry,C102,Board of Education,4,,Stephen L. DENT,189,34,150,5
 Henry,C102,Board of Education,4,,Total Votes,189,34,150,5
 Henry,C102,Board of Education,4,,Under Votes,91,17,72,2
 Henry,C102,Board of Education,4,,Over Votes,0,0,0,0
-Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",154,37,113,4
-Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",105,12,90,3
+Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,154,37,113,4
+Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,105,12,90,3
 Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,259,49,203,7
 Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,20,2,18,0
 Henry,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",97,23,72,2
-Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",174,26,143,5
+Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,YES,97,23,72,2
+Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,NO,174,26,143,5
 Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,271,49,215,7
 Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,2,7,0
 Henry,C102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -417,7 +417,7 @@ Henry,D101,STRAIGHT PARTY,,,Under Votes,386,160,212,14
 Henry,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,D101,President,,REP,Donald J. TRUMP / JD VANCE,640,235,378,27
 Henry,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,144,49,87,8
-Henry,D101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Henry,D101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Henry,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,2,1
 Henry,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,0,1
@@ -456,13 +456,13 @@ Henry,D101,Board of Education,1,,Anthony WHALEY,498,183,296,19
 Henry,D101,Board of Education,1,,Total Votes,498,183,296,19
 Henry,D101,Board of Education,1,,Under Votes,299,108,173,18
 Henry,D101,Board of Education,1,,Over Votes,0,0,0,0
-Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",479,178,278,23
-Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",269,87,169,13
+Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,479,178,278,23
+Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,269,87,169,13
 Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,748,265,447,36
 Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,47,24,22,1
 Henry,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,2,0,0
-Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",291,105,172,14
-Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",478,171,286,21
+Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,291,105,172,14
+Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,478,171,286,21
 Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,769,276,458,35
 Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,28,15,11,2
 Henry,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -480,7 +480,7 @@ Henry,D102,STRAIGHT PARTY,,,Under Votes,297,130,149,18
 Henry,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,D102,President,,REP,Donald J. TRUMP / JD VANCE,418,153,239,26
 Henry,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,159,68,73,18
-Henry,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Henry,D102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Henry,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,2,3,1
 Henry,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -519,15 +519,15 @@ Henry,D102,Board of Education,4,,Stephen L. DENT,414,149,230,35
 Henry,D102,Board of Education,4,,Total Votes,414,149,230,35
 Henry,D102,Board of Education,4,,Under Votes,172,74,87,11
 Henry,D102,Board of Education,4,,Over Votes,0,0,0,0
-Henry,D102,CITY COMMISSIONERS City of New Castle,,,"Jennifer DELLING ",199,70,103,26
-Henry,D102,CITY COMMISSIONERS City of New Castle,,,"Charles SEVIER ",183,67,93,23
-Henry,D102,CITY COMMISSIONERS City of New Castle,,,"Tony KURTZ ",197,78,99,20
-Henry,D102,CITY COMMISSIONERS City of New Castle,,,"Cheryl BENNETT-HAY ",186,80,86,20
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Jennifer DELLING,199,70,103,26
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Charles SEVIER,183,67,93,23
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Tony KURTZ,197,78,99,20
+Henry,D102,CITY COMMISSIONERS City of New Castle,,,Cheryl BENNETT-HAY,186,80,86,20
 Henry,D102,CITY COMMISSIONERS City of New Castle,,,Total Votes,765,295,381,89
 Henry,D102,CITY COMMISSIONERS City of New Castle,,,Under Votes,751,253,455,43
 Henry,D102,CITY COMMISSIONERS City of New Castle,,,Over Votes,1,0,1,0
-Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",344,124,195,25
-Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",204,80,106,18
+Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,344,124,195,25
+Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,204,80,106,18
 Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,548,204,301,43
 Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,19,16,3
 Henry,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -550,7 +550,7 @@ Henry,E101,STRAIGHT PARTY,,,Under Votes,163,31,122,10
 Henry,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,E101,President,,REP,Donald J. TRUMP / JD VANCE,249,59,182,8
 Henry,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,58,16,32,10
-Henry,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,E101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Henry,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -589,13 +589,13 @@ Henry,E101,Board of Education,3,,Danney CHISHOLM,193,31,149,13
 Henry,E101,Board of Education,3,,Total Votes,193,31,149,13
 Henry,E101,Board of Education,3,,Under Votes,121,45,71,5
 Henry,E101,Board of Education,3,,Over Votes,0,0,0,0
-Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",177,49,116,12
-Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",109,23,83,3
+Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,177,49,116,12
+Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,109,23,83,3
 Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,286,72,199,15
 Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,25,4,18,3
 Henry,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",87,30,52,5
-Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",210,42,157,11
+Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,YES,87,30,52,5
+Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,NO,210,42,157,11
 Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,297,72,209,16
 Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,4,11,2
 Henry,E101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -613,7 +613,7 @@ Henry,E102,STRAIGHT PARTY,,,Under Votes,169,34,131,4
 Henry,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,E102,President,,REP,Donald J. TRUMP / JD VANCE,249,52,191,6
 Henry,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,8,64,6
-Henry,E102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Henry,E102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Henry,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Henry,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -652,13 +652,13 @@ Henry,E102,Board of Education,4,,Stephen L. DENT,231,36,189,6
 Henry,E102,Board of Education,4,,Total Votes,231,36,189,6
 Henry,E102,Board of Education,4,,Under Votes,102,25,71,6
 Henry,E102,Board of Education,4,,Over Votes,0,0,0,0
-Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",183,41,139,3
-Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",131,19,103,9
+Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,YES,183,41,139,3
+Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,NO,131,19,103,9
 Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,314,60,242,12
 Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,16,1,15,0
 Henry,E102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",94,21,69,4
-Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",233,40,185,8
+Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,YES,94,21,69,4
+Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,NO,233,40,185,8
 Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,327,61,254,12
 Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,5,0,5,0
 Henry,E102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -676,7 +676,7 @@ Henry,E103,STRAIGHT PARTY,,,Under Votes,154,43,106,5
 Henry,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,E103,President,,REP,Donald J. TRUMP / JD VANCE,242,64,175,3
 Henry,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,76,19,53,4
-Henry,E103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,E103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Henry,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
@@ -735,7 +735,7 @@ Henry,E104,STRAIGHT PARTY,,,Under Votes,96,32,60,4
 Henry,E104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,E104,President,,REP,Donald J. TRUMP / JD VANCE,161,53,103,5
 Henry,E104,President,,DEM,Kamala D. HARRIS / Tim WALZ,33,9,18,6
-Henry,E104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,E104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,E104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Henry,E104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,E104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -774,13 +774,13 @@ Henry,E104,Board of Education,3,,Danney CHISHOLM,120,40,74,6
 Henry,E104,Board of Education,3,,Total Votes,120,40,74,6
 Henry,E104,Board of Education,3,,Under Votes,75,22,48,5
 Henry,E104,Board of Education,3,,Over Votes,0,0,0,0
-Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",115,36,73,6
-Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",73,23,45,5
+Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,YES,115,36,73,6
+Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,NO,73,23,45,5
 Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,188,59,118,11
 Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,6,2,4,0
 Henry,E104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
-Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",66,26,37,3
-Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",125,35,82,8
+Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,YES,66,26,37,3
+Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,NO,125,35,82,8
 Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,191,61,119,11
 Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,4,1,3,0
 Henry,E104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -798,7 +798,7 @@ Henry,E105,STRAIGHT PARTY,,,Under Votes,66,31,33,2
 Henry,E105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,E105,President,,REP,Donald J. TRUMP / JD VANCE,77,33,42,2
 Henry,E105,President,,DEM,Kamala D. HARRIS / Tim WALZ,31,14,13,4
-Henry,E105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,E105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,E105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Henry,E105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,E105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -837,13 +837,13 @@ Henry,E105,Board of Education,4,,Stephen L. DENT,62,26,35,1
 Henry,E105,Board of Education,4,,Total Votes,62,26,35,1
 Henry,E105,Board of Education,4,,Under Votes,49,22,22,5
 Henry,E105,Board of Education,4,,Over Votes,0,0,0,0
-Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",55,25,28,2
-Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",50,18,28,4
+Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,YES,55,25,28,2
+Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,NO,50,18,28,4
 Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,105,43,56,6
 Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,6,5,1,0
 Henry,E105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",33,18,14,1
-Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",77,29,43,5
+Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,YES,33,18,14,1
+Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,NO,77,29,43,5
 Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,110,47,57,6
 Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,1,1,0,0
 Henry,E105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -861,7 +861,7 @@ Henry,F101,STRAIGHT PARTY,,,Under Votes,195,74,117,4
 Henry,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,F101,President,,REP,Donald J. TRUMP / JD VANCE,300,107,183,10
 Henry,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,82,31,47,4
-Henry,F101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Henry,F101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Henry,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Henry,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -903,14 +903,14 @@ Henry,F101,Board of Education,Eminence Independent School District,,Danny M. FIS
 Henry,F101,Board of Education,Eminence Independent School District,,Total Votes,539,192,330,17
 Henry,F101,Board of Education,Eminence Independent School District,,Under Votes,233,84,138,11
 Henry,F101,Board of Education,Eminence Independent School District,,Over Votes,2,2,0,0
-Henry,F101,CITY COUNCIL City of Eminence,,,"Phillip SMITH ",73,20,52,1
-Henry,F101,CITY COUNCIL City of Eminence,,,"Karen PARIS ",65,23,42,0
-Henry,F101,CITY COUNCIL City of Eminence,,,"Missy Ayers SHARPE ",64,15,46,3
-Henry,F101,CITY COUNCIL City of Eminence,,,"Connie NATION ",84,24,56,4
-Henry,F101,CITY COUNCIL City of Eminence,,,"Bobbi Jo SIMON-FRAZIER ",72,20,48,4
-Henry,F101,CITY COUNCIL City of Eminence,,,"Justin WAYMAN ",61,13,46,2
-Henry,F101,CITY COUNCIL City of Eminence,,,"John ADCOCK ",56,16,39,1
-Henry,F101,CITY COUNCIL City of Eminence,,,"E. Lee Ann ARMSTRONG ",86,25,58,3
+Henry,F101,CITY COUNCIL City of Eminence,,,Phillip SMITH,73,20,52,1
+Henry,F101,CITY COUNCIL City of Eminence,,,Karen PARIS,65,23,42,0
+Henry,F101,CITY COUNCIL City of Eminence,,,Missy Ayers SHARPE,64,15,46,3
+Henry,F101,CITY COUNCIL City of Eminence,,,Connie NATION,84,24,56,4
+Henry,F101,CITY COUNCIL City of Eminence,,,Bobbi Jo SIMON-FRAZIER,72,20,48,4
+Henry,F101,CITY COUNCIL City of Eminence,,,Justin WAYMAN,61,13,46,2
+Henry,F101,CITY COUNCIL City of Eminence,,,John ADCOCK,56,16,39,1
+Henry,F101,CITY COUNCIL City of Eminence,,,E. Lee Ann ARMSTRONG,86,25,58,3
 Henry,F101,CITY COUNCIL City of Eminence,,,Total Votes,561,156,387,18
 Henry,F101,CITY COUNCIL City of Eminence,,,Under Votes,441,150,267,24
 Henry,F101,CITY COUNCIL City of Eminence,,,Over Votes,0,0,0,0
@@ -943,7 +943,7 @@ Henry,F102,STRAIGHT PARTY,,,Under Votes,77,16,52,9
 Henry,F102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,F102,President,,REP,Donald J. TRUMP / JD VANCE,125,27,91,7
 Henry,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,27,7,14,6
-Henry,F102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Henry,F102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Henry,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Henry,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -982,13 +982,13 @@ Henry,F102,Board of Education,3,,Danney CHISHOLM,98,21,68,9
 Henry,F102,Board of Education,3,,Total Votes,98,21,68,9
 Henry,F102,Board of Education,3,,Under Votes,59,13,42,4
 Henry,F102,Board of Education,3,,Over Votes,0,0,0,0
-Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",92,14,68,10
-Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",52,17,35,0
+Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,YES,92,14,68,10
+Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,NO,52,17,35,0
 Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,144,31,103,10
 Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,13,3,7,3
 Henry,F102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",58,14,39,5
-Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",93,19,66,8
+Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,YES,58,14,39,5
+Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,NO,93,19,66,8
 Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,151,33,105,13
 Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,6,1,5,0
 Henry,F102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1006,7 +1006,7 @@ Henry,F103,STRAIGHT PARTY,,,Under Votes,283,69,201,13
 Henry,F103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Henry,F103,President,,REP,Donald J. TRUMP / JD VANCE,440,106,325,9
 Henry,F103,President,,DEM,Kamala D. HARRIS / Tim WALZ,134,45,79,10
-Henry,F103,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Henry,F103,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Henry,F103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Henry,F103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Henry,F103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1041,15 +1041,15 @@ Henry,F103,COUNTY SURVEYOR,,,,0,0,0,0
 Henry,F103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Henry,F103,COUNTY SURVEYOR,,,Under Votes,585,153,413,19
 Henry,F103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,"Kimberly RIGSBY ",123,28,91,4
-Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,"Tim L. TAYLOR ",124,31,89,4
-Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,"Cindy COOK ",110,25,81,4
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Kimberly RIGSBY,123,28,91,4
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Tim L. TAYLOR,124,31,89,4
+Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Cindy COOK,110,25,81,4
 Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Write In Total,20,2,18,0
 Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Total Votes,377,86,279,12
 Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Under Votes,619,122,481,16
 Henry,F103,CITY COMMISSIONERS City of Pleasureville,,,Over Votes,1,0,1,0
-Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",350,84,254,12
-Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",200,59,134,7
+Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,YES,350,84,254,12
+Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,NO,200,59,134,7
 Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,550,143,388,19
 Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,34,9,25,0
 Henry,F103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0

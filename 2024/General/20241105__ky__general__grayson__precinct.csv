@@ -8,7 +8,7 @@ Grayson,A102,STRAIGHT PARTY,,,Under Votes,167,42,108,17
 Grayson,A102,STRAIGHT PARTY,,,Over Votes,1,0,0,1
 Grayson,A102,President,,REP,Donald J. TRUMP / JD VANCE,289,79,179,31
 Grayson,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,95,19,63,13
-Grayson,A102,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,1,1
+Grayson,A102,President,,KY,Jill STEIN / Samson KPADENOU,2,0,1,1
 Grayson,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Grayson,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -21,7 +21,7 @@ Grayson,A102,U.S. House,2,DEM,Hank LINDERMAN,87,21,54,12
 Grayson,A102,U.S. House,2,,Total Votes,384,99,240,45
 Grayson,A102,U.S. House,2,,Under Votes,6,0,6,0
 Grayson,A102,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,A102,State Senate,5,REP,"Stephen MEREDITH ",288,76,177,35
+Grayson,A102,State Senate,5,REP,Stephen MEREDITH,288,76,177,35
 Grayson,A102,State Senate,5,DEM,Jamie SKUDLAREK,88,17,61,10
 Grayson,A102,State Senate,5,,Total Votes,376,93,238,45
 Grayson,A102,State Senate,5,,Under Votes,14,6,8,0
@@ -42,17 +42,17 @@ Grayson,A102,CORONER,,REP,Kevin W. PHARIS,317,80,205,32
 Grayson,A102,CORONER,,,Total Votes,317,80,205,32
 Grayson,A102,CORONER,,,Under Votes,73,19,41,13
 Grayson,A102,CORONER,,,Over Votes,0,0,0,0
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",159,43,99,17
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"George HACK ",153,42,94,17
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",146,37,91,18
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",145,32,97,16
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",124,31,79,14
-Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",147,35,97,15
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",159,43,99,17
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,George HACK,153,42,94,17
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",146,37,91,18
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,145,32,97,16
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,124,31,79,14
+Grayson,A102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",147,35,97,15
 Grayson,A102,CITY COUNCIL City of Leitchfield,,,Total Votes,874,220,557,97
 Grayson,A102,CITY COUNCIL City of Leitchfield,,,Under Votes,1460,368,919,173
 Grayson,A102,CITY COUNCIL City of Leitchfield,,,Over Votes,1,1,0,0
-Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",200,58,118,24
-Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",147,34,93,20
+Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,200,58,118,24
+Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,147,34,93,20
 Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,347,92,211,44
 Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,43,7,35,1
 Grayson,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -75,7 +75,7 @@ Grayson,A103,STRAIGHT PARTY,,,Under Votes,530,129,376,25
 Grayson,A103,STRAIGHT PARTY,,,Over Votes,3,1,2,0
 Grayson,A103,President,,REP,Donald J. TRUMP / JD VANCE,832,203,594,35
 Grayson,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,173,42,115,16
-Grayson,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Grayson,A103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Grayson,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,6,0
 Grayson,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Grayson,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
@@ -88,7 +88,7 @@ Grayson,A103,U.S. House,2,DEM,Hank LINDERMAN,150,33,105,12
 Grayson,A103,U.S. House,2,,Total Votes,990,241,700,49
 Grayson,A103,U.S. House,2,,Under Votes,31,7,22,2
 Grayson,A103,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,A103,State Senate,5,REP,"Stephen MEREDITH ",832,205,592,35
+Grayson,A103,State Senate,5,REP,Stephen MEREDITH,832,205,592,35
 Grayson,A103,State Senate,5,DEM,Jamie SKUDLAREK,157,34,109,14
 Grayson,A103,State Senate,5,,Total Votes,989,239,701,49
 Grayson,A103,State Senate,5,,Under Votes,32,9,21,2
@@ -115,18 +115,18 @@ Grayson,A103,Board of Education,1,,Amanda Wilson LEWIS,390,81,287,22
 Grayson,A103,Board of Education,1,,Total Votes,864,206,615,43
 Grayson,A103,Board of Education,1,,Under Votes,152,41,103,8
 Grayson,A103,Board of Education,1,,Over Votes,5,1,4,0
-Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,"Michael ANDERSON ",228,40,182,6
+Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,Michael ANDERSON,228,40,182,6
 Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,Write In Total,12,4,8,0
 Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,Total Votes,240,44,190,6
 Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,Under Votes,1160,224,914,22
 Grayson,A103,CITY COMMISSIONERS City of Clarkson,,,Over Votes,0,0,0,0
-Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",579,151,402,26
-Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",341,76,242,23
+Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,579,151,402,26
+Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,341,76,242,23
 Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,920,227,644,49
 Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,96,21,73,2
 Grayson,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,5,0,5,0
-Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",392,99,272,21
-Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",560,137,395,28
+Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,YES,392,99,272,21
+Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,NO,560,137,395,28
 Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,952,236,667,49
 Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,69,12,55,2
 Grayson,A103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -144,7 +144,7 @@ Grayson,A104,STRAIGHT PARTY,,,Under Votes,176,75,96,5
 Grayson,A104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,A104,President,,REP,Donald J. TRUMP / JD VANCE,243,86,154,3
 Grayson,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,58,34,18,6
-Grayson,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,A104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Grayson,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -157,7 +157,7 @@ Grayson,A104,U.S. House,2,DEM,Hank LINDERMAN,55,31,19,5
 Grayson,A104,U.S. House,2,,Total Votes,297,118,170,9
 Grayson,A104,U.S. House,2,,Under Votes,9,3,6,0
 Grayson,A104,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,A104,State Senate,5,REP,"Stephen MEREDITH ",252,94,154,4
+Grayson,A104,State Senate,5,REP,Stephen MEREDITH,252,94,154,4
 Grayson,A104,State Senate,5,DEM,Jamie SKUDLAREK,47,25,17,5
 Grayson,A104,State Senate,5,,Total Votes,299,119,171,9
 Grayson,A104,State Senate,5,,Under Votes,7,2,5,0
@@ -178,17 +178,17 @@ Grayson,A104,CORONER,,REP,Kevin W. PHARIS,238,87,147,4
 Grayson,A104,CORONER,,,Total Votes,238,87,147,4
 Grayson,A104,CORONER,,,Under Votes,68,34,29,5
 Grayson,A104,CORONER,,,Over Votes,0,0,0,0
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",51,26,25,0
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"George HACK ",47,24,23,0
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",68,29,38,1
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",49,21,27,1
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",41,19,22,0
-Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",61,25,35,1
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",51,26,25,0
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,George HACK,47,24,23,0
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",68,29,38,1
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,49,21,27,1
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,41,19,22,0
+Grayson,A104,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",61,25,35,1
 Grayson,A104,CITY COUNCIL City of Leitchfield,,,Total Votes,317,144,170,3
 Grayson,A104,CITY COUNCIL City of Leitchfield,,,Under Votes,649,258,358,33
 Grayson,A104,CITY COUNCIL City of Leitchfield,,,Over Votes,0,0,0,0
-Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",189,71,115,3
-Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",78,34,39,5
+Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,YES,189,71,115,3
+Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,NO,78,34,39,5
 Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,267,105,154,8
 Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,15,22,1
 Grayson,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
@@ -211,7 +211,7 @@ Grayson,B101,STRAIGHT PARTY,,,Under Votes,275,32,236,7
 Grayson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,B101,President,,REP,Donald J. TRUMP / JD VANCE,543,68,461,14
 Grayson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,83,14,64,5
-Grayson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,B101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Grayson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -224,7 +224,7 @@ Grayson,B101,U.S. House,2,DEM,Hank LINDERMAN,74,12,59,3
 Grayson,B101,U.S. House,2,,Total Votes,627,81,527,19
 Grayson,B101,U.S. House,2,,Under Votes,11,1,10,0
 Grayson,B101,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,B101,State Senate,5,REP,"Stephen MEREDITH ",549,67,466,16
+Grayson,B101,State Senate,5,REP,Stephen MEREDITH,549,67,466,16
 Grayson,B101,State Senate,5,DEM,Jamie SKUDLAREK,78,13,62,3
 Grayson,B101,State Senate,5,,Total Votes,627,80,528,19
 Grayson,B101,State Senate,5,,Under Votes,11,2,9,0
@@ -245,10 +245,10 @@ Grayson,B101,CORONER,,REP,Kevin W. PHARIS,557,68,473,16
 Grayson,B101,CORONER,,,Total Votes,557,68,473,16
 Grayson,B101,CORONER,,,Under Votes,81,14,64,3
 Grayson,B101,CORONER,,,Over Votes,0,0,0,0
-Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,"Deborah L. EMBRY ",107,14,89,4
-Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,"David BROWN ",99,10,83,6
-Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,"Scott L. MAJORS ",93,10,79,4
-Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,"Michael GEARY ",101,10,87,4
+Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Deborah L. EMBRY,107,14,89,4
+Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,David BROWN,99,10,83,6
+Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Scott L. MAJORS,93,10,79,4
+Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Michael GEARY,101,10,87,4
 Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Total Votes,400,44,338,18
 Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Under Votes,396,40,346,10
 Grayson,B101,CITY COMMISSIONERS City of Caneyville,,,Over Votes,0,0,0,0
@@ -276,7 +276,7 @@ Grayson,B102,STRAIGHT PARTY,,,Under Votes,89,8,75,6
 Grayson,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,B102,President,,REP,Donald J. TRUMP / JD VANCE,193,20,164,9
 Grayson,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,30,4,23,3
-Grayson,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Grayson,B102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Grayson,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Grayson,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -289,7 +289,7 @@ Grayson,B102,U.S. House,2,DEM,Hank LINDERMAN,27,3,21,3
 Grayson,B102,U.S. House,2,,Total Votes,220,24,184,12
 Grayson,B102,U.S. House,2,,Under Votes,7,0,7,0
 Grayson,B102,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,B102,State Senate,5,REP,"Stephen MEREDITH ",199,20,170,9
+Grayson,B102,State Senate,5,REP,Stephen MEREDITH,199,20,170,9
 Grayson,B102,State Senate,5,DEM,Jamie SKUDLAREK,23,4,16,3
 Grayson,B102,State Senate,5,,Total Votes,222,24,186,12
 Grayson,B102,State Senate,5,,Under Votes,5,0,5,0
@@ -310,8 +310,8 @@ Grayson,B102,CORONER,,REP,Kevin W. PHARIS,204,22,170,12
 Grayson,B102,CORONER,,,Total Votes,204,22,170,12
 Grayson,B102,CORONER,,,Under Votes,23,2,21,0
 Grayson,B102,CORONER,,,Over Votes,0,0,0,0
-Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",128,14,108,6
-Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",77,9,63,5
+Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,YES,128,14,108,6
+Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,NO,77,9,63,5
 Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,205,23,171,11
 Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,22,1,20,1
 Grayson,B102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -334,7 +334,7 @@ Grayson,B103,STRAIGHT PARTY,,,Under Votes,157,18,127,12
 Grayson,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,B103,President,,REP,Donald J. TRUMP / JD VANCE,249,32,208,9
 Grayson,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,6,63,9
-Grayson,B103,President,,KY,Jill  STEIN / Samson KPADENOU,4,0,3,1
+Grayson,B103,President,,KY,Jill STEIN / Samson KPADENOU,4,0,3,1
 Grayson,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
 Grayson,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -347,7 +347,7 @@ Grayson,B103,U.S. House,2,DEM,Hank LINDERMAN,90,6,77,7
 Grayson,B103,U.S. House,2,,Total Votes,334,38,277,19
 Grayson,B103,U.S. House,2,,Under Votes,5,0,4,1
 Grayson,B103,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,B103,State Senate,5,REP,"Stephen MEREDITH ",246,31,205,10
+Grayson,B103,State Senate,5,REP,Stephen MEREDITH,246,31,205,10
 Grayson,B103,State Senate,5,DEM,Jamie SKUDLAREK,82,7,68,7
 Grayson,B103,State Senate,5,,Total Votes,328,38,273,17
 Grayson,B103,State Senate,5,,Under Votes,11,0,8,3
@@ -368,8 +368,8 @@ Grayson,B103,CORONER,,REP,Kevin W. PHARIS,267,35,222,10
 Grayson,B103,CORONER,,,Total Votes,267,35,222,10
 Grayson,B103,CORONER,,,Under Votes,72,3,59,10
 Grayson,B103,CORONER,,,Over Votes,0,0,0,0
-Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",238,28,193,17
-Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",76,7,67,2
+Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,238,28,193,17
+Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,76,7,67,2
 Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,314,35,260,19
 Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,23,2,20,1
 Grayson,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -388,8 +388,8 @@ Grayson,B103,QUESTION-FALLS OF ROUGH WET/DRY,,,NO,64,11,48,5
 Grayson,B103,QUESTION-FALLS OF ROUGH WET/DRY,,,Total Votes,329,38,271,20
 Grayson,B103,QUESTION-FALLS OF ROUGH WET/DRY,,,Under Votes,10,0,10,0
 Grayson,B103,QUESTION-FALLS OF ROUGH WET/DRY,,,Over Votes,0,0,0,0
-Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,"YES ",259,26,218,15
-Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,"NO ",70,12,53,5
+Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,YES,259,26,218,15
+Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,NO,70,12,53,5
 Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,Total Votes,329,38,271,20
 Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,Under Votes,10,0,10,0
 Grayson,B103,QUESTION-FALLS OF ROUGH PRIVATE CLUBS WET/DRY,,,Over Votes,0,0,0,0
@@ -402,7 +402,7 @@ Grayson,B104,STRAIGHT PARTY,,,Under Votes,87,9,77,1
 Grayson,B104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Grayson,B104,President,,REP,Donald J. TRUMP / JD VANCE,144,10,130,4
 Grayson,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,37,12,23,2
-Grayson,B104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,B104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Grayson,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Grayson,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -415,7 +415,7 @@ Grayson,B104,U.S. House,2,DEM,Hank LINDERMAN,36,11,23,2
 Grayson,B104,U.S. House,2,,Total Votes,176,22,148,6
 Grayson,B104,U.S. House,2,,Under Votes,7,0,7,0
 Grayson,B104,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,B104,State Senate,5,REP,"Stephen MEREDITH ",144,12,128,4
+Grayson,B104,State Senate,5,REP,Stephen MEREDITH,144,12,128,4
 Grayson,B104,State Senate,5,DEM,Jamie SKUDLAREK,34,10,22,2
 Grayson,B104,State Senate,5,,Total Votes,178,22,150,6
 Grayson,B104,State Senate,5,,Under Votes,5,0,5,0
@@ -436,8 +436,8 @@ Grayson,B104,CORONER,,REP,Kevin W. PHARIS,142,11,126,5
 Grayson,B104,CORONER,,,Total Votes,142,11,126,5
 Grayson,B104,CORONER,,,Under Votes,41,11,29,1
 Grayson,B104,CORONER,,,Over Votes,0,0,0,0
-Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",109,5,98,6
-Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",58,11,47,0
+Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,YES,109,5,98,6
+Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,NO,58,11,47,0
 Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,167,16,145,6
 Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,16,6,10,0
 Grayson,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -460,7 +460,7 @@ Grayson,B105,STRAIGHT PARTY,,,Under Votes,391,72,305,14
 Grayson,B105,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Grayson,B105,President,,REP,Donald J. TRUMP / JD VANCE,567,100,447,20
 Grayson,B105,President,,DEM,Kamala D. HARRIS / Tim WALZ,162,34,110,18
-Grayson,B105,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Grayson,B105,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Grayson,B105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,2,4,0
 Grayson,B105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,B105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -473,7 +473,7 @@ Grayson,B105,U.S. House,2,DEM,Hank LINDERMAN,143,32,96,15
 Grayson,B105,U.S. House,2,,Total Votes,727,133,557,37
 Grayson,B105,U.S. House,2,,Under Votes,14,4,9,1
 Grayson,B105,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,B105,State Senate,5,REP,"Stephen MEREDITH ",582,100,460,22
+Grayson,B105,State Senate,5,REP,Stephen MEREDITH,582,100,460,22
 Grayson,B105,State Senate,5,DEM,Jamie SKUDLAREK,137,33,89,15
 Grayson,B105,State Senate,5,,Total Votes,719,133,549,37
 Grayson,B105,State Senate,5,,Under Votes,22,4,17,1
@@ -494,8 +494,8 @@ Grayson,B105,CORONER,,REP,Kevin W. PHARIS,611,105,477,29
 Grayson,B105,CORONER,,,Total Votes,611,105,477,29
 Grayson,B105,CORONER,,,Under Votes,130,32,89,9
 Grayson,B105,CORONER,,,Over Votes,0,0,0,0
-Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",461,83,358,20
-Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",226,41,169,16
+Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,YES,461,83,358,20
+Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,NO,226,41,169,16
 Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,687,124,527,36
 Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,53,12,39,2
 Grayson,B105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
@@ -518,7 +518,7 @@ Grayson,C102,STRAIGHT PARTY,,,Under Votes,668,247,389,32
 Grayson,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,C102,President,,REP,Donald J. TRUMP / JD VANCE,895,340,519,36
 Grayson,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,224,91,117,16
-Grayson,C102,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,3,0
+Grayson,C102,President,,KY,Jill STEIN / Samson KPADENOU,4,1,3,0
 Grayson,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,15,3,11,1
 Grayson,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,6,1,5,0
@@ -531,7 +531,7 @@ Grayson,C102,U.S. House,2,DEM,Hank LINDERMAN,177,66,96,15
 Grayson,C102,U.S. House,2,,Total Votes,1127,430,645,52
 Grayson,C102,U.S. House,2,,Under Votes,29,10,17,2
 Grayson,C102,U.S. House,2,,Over Votes,1,0,1,0
-Grayson,C102,State Senate,5,REP,"Stephen MEREDITH ",944,366,538,40
+Grayson,C102,State Senate,5,REP,Stephen MEREDITH,944,366,538,40
 Grayson,C102,State Senate,5,DEM,Jamie SKUDLAREK,187,64,111,12
 Grayson,C102,State Senate,5,,Total Votes,1131,430,649,52
 Grayson,C102,State Senate,5,,Under Votes,26,10,14,2
@@ -558,17 +558,17 @@ Grayson,C102,Board of Education,4,,Marcus WHITLEY,550,214,317,19
 Grayson,C102,Board of Education,4,,Total Votes,981,361,580,40
 Grayson,C102,Board of Education,4,,Under Votes,174,77,83,14
 Grayson,C102,Board of Education,4,,Over Votes,2,2,0,0
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",92,38,45,9
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"George HACK ",85,37,42,6
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",88,34,46,8
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",85,35,41,9
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",69,29,34,6
-Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",92,35,50,7
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",92,38,45,9
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,George HACK,85,37,42,6
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",88,34,46,8
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,85,35,41,9
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,69,29,34,6
+Grayson,C102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",92,35,50,7
 Grayson,C102,CITY COUNCIL City of Leitchfield,,,Total Votes,511,208,258,45
 Grayson,C102,CITY COUNCIL City of Leitchfield,,,Under Votes,773,302,444,27
 Grayson,C102,CITY COUNCIL City of Leitchfield,,,Over Votes,0,0,0,0
-Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",686,260,386,40
-Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",371,144,216,11
+Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,YES,686,260,386,40
+Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,NO,371,144,216,11
 Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1057,404,602,51
 Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,92,33,56,3
 Grayson,C102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,8,3,5,0
@@ -591,7 +591,7 @@ Grayson,C103,STRAIGHT PARTY,,,Under Votes,503,182,299,22
 Grayson,C103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Grayson,C103,President,,REP,Donald J. TRUMP / JD VANCE,689,223,432,34
 Grayson,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,221,97,106,18
-Grayson,C103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Grayson,C103,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Grayson,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,3,2,0
 Grayson,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Grayson,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
@@ -604,7 +604,7 @@ Grayson,C103,U.S. House,2,DEM,Hank LINDERMAN,198,82,102,14
 Grayson,C103,U.S. House,2,,Total Votes,904,317,538,49
 Grayson,C103,U.S. House,2,,Under Votes,26,8,15,3
 Grayson,C103,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,C103,State Senate,5,REP,"Stephen MEREDITH ",685,231,418,36
+Grayson,C103,State Senate,5,REP,Stephen MEREDITH,685,231,418,36
 Grayson,C103,State Senate,5,DEM,Jamie SKUDLAREK,216,84,117,15
 Grayson,C103,State Senate,5,,Total Votes,901,315,535,51
 Grayson,C103,State Senate,5,,Under Votes,28,9,18,1
@@ -625,17 +625,17 @@ Grayson,C103,CORONER,,REP,Kevin W. PHARIS,753,254,459,40
 Grayson,C103,CORONER,,,Total Votes,753,254,459,40
 Grayson,C103,CORONER,,,Under Votes,177,71,94,12
 Grayson,C103,CORONER,,,Over Votes,0,0,0,0
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",429,150,255,24
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"George HACK ",367,129,212,26
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",398,144,227,27
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",391,141,219,31
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",347,127,198,22
-Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",403,140,242,21
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",429,150,255,24
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,George HACK,367,129,212,26
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",398,144,227,27
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,391,141,219,31
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,347,127,198,22
+Grayson,C103,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",403,140,242,21
 Grayson,C103,CITY COUNCIL City of Leitchfield,,,Total Votes,2335,831,1353,151
 Grayson,C103,CITY COUNCIL City of Leitchfield,,,Under Votes,3227,1119,1947,161
 Grayson,C103,CITY COUNCIL City of Leitchfield,,,Over Votes,3,0,3,0
-Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",482,163,298,21
-Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",348,125,199,24
+Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,482,163,298,21
+Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,348,125,199,24
 Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,830,288,497,45
 Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,97,35,55,7
 Grayson,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,2,1,0
@@ -658,7 +658,7 @@ Grayson,D101,STRAIGHT PARTY,,,Under Votes,508,78,417,13
 Grayson,D101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Grayson,D101,President,,REP,Donald J. TRUMP / JD VANCE,831,116,702,13
 Grayson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,210,38,162,10
-Grayson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Grayson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Grayson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
@@ -671,7 +671,7 @@ Grayson,D101,U.S. House,2,DEM,Hank LINDERMAN,196,33,152,11
 Grayson,D101,U.S. House,2,,Total Votes,1029,153,853,23
 Grayson,D101,U.S. House,2,,Under Votes,28,2,26,0
 Grayson,D101,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,D101,State Senate,5,REP,"Stephen MEREDITH ",828,118,698,12
+Grayson,D101,State Senate,5,REP,Stephen MEREDITH,828,118,698,12
 Grayson,D101,State Senate,5,DEM,Jamie SKUDLAREK,197,35,151,11
 Grayson,D101,State Senate,5,,Total Votes,1025,153,849,23
 Grayson,D101,State Senate,5,,Under Votes,32,2,30,0
@@ -722,7 +722,7 @@ Grayson,D102,STRAIGHT PARTY,,,Under Votes,480,175,276,29
 Grayson,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,D102,President,,REP,Donald J. TRUMP / JD VANCE,730,251,443,36
 Grayson,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,157,79,58,20
-Grayson,D102,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Grayson,D102,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Grayson,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
 Grayson,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -735,7 +735,7 @@ Grayson,D102,U.S. House,2,DEM,Hank LINDERMAN,140,65,57,18
 Grayson,D102,U.S. House,2,,Total Votes,877,327,499,51
 Grayson,D102,U.S. House,2,,Under Votes,21,8,8,5
 Grayson,D102,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,D102,State Senate,5,REP,"Stephen MEREDITH ",731,267,431,33
+Grayson,D102,State Senate,5,REP,Stephen MEREDITH,731,267,431,33
 Grayson,D102,State Senate,5,DEM,Jamie SKUDLAREK,140,61,60,19
 Grayson,D102,State Senate,5,,Total Votes,871,328,491,52
 Grayson,D102,State Senate,5,,Under Votes,27,7,16,4
@@ -762,17 +762,17 @@ Grayson,D102,Board of Education,4,,Marcus WHITLEY,324,123,187,14
 Grayson,D102,Board of Education,4,,Total Votes,703,248,414,41
 Grayson,D102,Board of Education,4,,Under Votes,192,86,92,14
 Grayson,D102,Board of Education,4,,Over Votes,3,1,1,1
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",110,41,62,7
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"George HACK ",109,39,62,8
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",116,36,72,8
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",112,43,61,8
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",114,51,54,9
-Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",114,38,67,9
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",110,41,62,7
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,George HACK,109,39,62,8
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",116,36,72,8
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,112,43,61,8
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,114,51,54,9
+Grayson,D102,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",114,38,67,9
 Grayson,D102,CITY COUNCIL City of Leitchfield,,,Total Votes,675,248,378,49
 Grayson,D102,CITY COUNCIL City of Leitchfield,,,Under Votes,975,304,582,89
 Grayson,D102,CITY COUNCIL City of Leitchfield,,,Over Votes,0,0,0,0
-Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",565,208,321,36
-Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",247,91,143,13
+Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,565,208,321,36
+Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,247,91,143,13
 Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,812,299,464,49
 Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,84,35,42,7
 Grayson,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -795,7 +795,7 @@ Grayson,E101,STRAIGHT PARTY,,,Under Votes,263,35,221,7
 Grayson,E101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Grayson,E101,President,,REP,Donald J. TRUMP / JD VANCE,437,51,379,7
 Grayson,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,87,19,59,9
-Grayson,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,E101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Grayson,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -808,7 +808,7 @@ Grayson,E101,U.S. House,2,DEM,Hank LINDERMAN,81,18,55,8
 Grayson,E101,U.S. House,2,,Total Votes,513,67,430,16
 Grayson,E101,U.S. House,2,,Under Votes,17,3,14,0
 Grayson,E101,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,E101,State Senate,5,REP,"Stephen MEREDITH ",435,51,376,8
+Grayson,E101,State Senate,5,REP,Stephen MEREDITH,435,51,376,8
 Grayson,E101,State Senate,5,DEM,Jamie SKUDLAREK,81,17,56,8
 Grayson,E101,State Senate,5,,Total Votes,516,68,432,16
 Grayson,E101,State Senate,5,,Under Votes,14,2,12,0
@@ -829,8 +829,8 @@ Grayson,E101,CORONER,,REP,Kevin W. PHARIS,421,47,364,10
 Grayson,E101,CORONER,,,Total Votes,421,47,364,10
 Grayson,E101,CORONER,,,Under Votes,109,23,80,6
 Grayson,E101,CORONER,,,Over Votes,0,0,0,0
-Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",338,46,284,8
-Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",132,20,105,7
+Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,338,46,284,8
+Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,132,20,105,7
 Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,470,66,389,15
 Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,58,3,54,1
 Grayson,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -853,7 +853,7 @@ Grayson,E102,STRAIGHT PARTY,,,Under Votes,478,160,285,33
 Grayson,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,E102,President,,REP,Donald J. TRUMP / JD VANCE,790,267,486,37
 Grayson,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,206,108,76,22
-Grayson,E102,President,,KY,Jill  STEIN / Samson KPADENOU,5,1,3,1
+Grayson,E102,President,,KY,Jill STEIN / Samson KPADENOU,5,1,3,1
 Grayson,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,1,6,1
 Grayson,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Grayson,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -866,7 +866,7 @@ Grayson,E102,U.S. House,2,DEM,Hank LINDERMAN,188,89,77,22
 Grayson,E102,U.S. House,2,,Total Votes,992,373,558,61
 Grayson,E102,U.S. House,2,,Under Votes,22,6,15,1
 Grayson,E102,U.S. House,2,,Over Votes,1,0,1,0
-Grayson,E102,State Senate,5,REP,"Stephen MEREDITH ",807,284,481,42
+Grayson,E102,State Senate,5,REP,Stephen MEREDITH,807,284,481,42
 Grayson,E102,State Senate,5,DEM,Jamie SKUDLAREK,186,89,77,20
 Grayson,E102,State Senate,5,,Total Votes,993,373,558,62
 Grayson,E102,State Senate,5,,Under Votes,22,6,16,0
@@ -918,7 +918,7 @@ Grayson,E103,STRAIGHT PARTY,,,Under Votes,212,40,169,3
 Grayson,E103,STRAIGHT PARTY,,,Over Votes,2,1,1,0
 Grayson,E103,President,,REP,Donald J. TRUMP / JD VANCE,356,75,277,4
 Grayson,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,54,8,42,4
-Grayson,E103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,E103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Grayson,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -931,7 +931,7 @@ Grayson,E103,U.S. House,2,DEM,Hank LINDERMAN,51,7,40,4
 Grayson,E103,U.S. House,2,,Total Votes,412,84,320,8
 Grayson,E103,U.S. House,2,,Under Votes,11,0,11,0
 Grayson,E103,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,E103,State Senate,5,REP,"Stephen MEREDITH ",360,75,281,4
+Grayson,E103,State Senate,5,REP,Stephen MEREDITH,360,75,281,4
 Grayson,E103,State Senate,5,DEM,Jamie SKUDLAREK,46,8,34,4
 Grayson,E103,State Senate,5,,Total Votes,406,83,315,8
 Grayson,E103,State Senate,5,,Under Votes,17,1,16,0
@@ -982,7 +982,7 @@ Grayson,E104,STRAIGHT PARTY,,,Under Votes,184,63,112,9
 Grayson,E104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,E104,President,,REP,Donald J. TRUMP / JD VANCE,279,89,177,13
 Grayson,E104,President,,DEM,Kamala D. HARRIS / Tim WALZ,61,25,33,3
-Grayson,E104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Grayson,E104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Grayson,E104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Grayson,E104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,E104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -995,7 +995,7 @@ Grayson,E104,U.S. House,2,DEM,Hank LINDERMAN,57,22,33,2
 Grayson,E104,U.S. House,2,,Total Votes,344,114,215,15
 Grayson,E104,U.S. House,2,,Under Votes,4,1,2,1
 Grayson,E104,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,E104,State Senate,5,REP,"Stephen MEREDITH ",286,91,181,14
+Grayson,E104,State Senate,5,REP,Stephen MEREDITH,286,91,181,14
 Grayson,E104,State Senate,5,DEM,Jamie SKUDLAREK,58,22,34,2
 Grayson,E104,State Senate,5,,Total Votes,344,113,215,16
 Grayson,E104,State Senate,5,,Under Votes,4,2,2,0
@@ -1047,7 +1047,7 @@ Grayson,F101,STRAIGHT PARTY,,,Under Votes,181,67,99,15
 Grayson,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,F101,President,,REP,Donald J. TRUMP / JD VANCE,278,107,157,14
 Grayson,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,78,34,35,9
-Grayson,F101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,F101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
 Grayson,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1060,7 +1060,7 @@ Grayson,F101,U.S. House,2,DEM,Hank LINDERMAN,65,31,32,2
 Grayson,F101,U.S. House,2,,Total Votes,352,140,189,23
 Grayson,F101,U.S. House,2,,Under Votes,8,1,6,1
 Grayson,F101,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,F101,State Senate,5,REP,"Stephen MEREDITH ",287,107,159,21
+Grayson,F101,State Senate,5,REP,Stephen MEREDITH,287,107,159,21
 Grayson,F101,State Senate,5,DEM,Jamie SKUDLAREK,65,32,31,2
 Grayson,F101,State Senate,5,,Total Votes,352,139,190,23
 Grayson,F101,State Senate,5,,Under Votes,8,2,5,1
@@ -1111,7 +1111,7 @@ Grayson,F103,STRAIGHT PARTY,,,Under Votes,448,136,298,14
 Grayson,F103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,F103,President,,REP,Donald J. TRUMP / JD VANCE,635,197,425,13
 Grayson,F103,President,,DEM,Kamala D. HARRIS / Tim WALZ,116,40,68,8
-Grayson,F103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,F103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,F103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,4,1
 Grayson,F103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,F103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -1124,7 +1124,7 @@ Grayson,F103,U.S. House,2,DEM,Hank LINDERMAN,92,29,57,6
 Grayson,F103,U.S. House,2,,Total Votes,736,229,482,25
 Grayson,F103,U.S. House,2,,Under Votes,31,10,21,0
 Grayson,F103,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,F103,State Senate,5,REP,"Stephen MEREDITH ",632,201,415,16
+Grayson,F103,State Senate,5,REP,Stephen MEREDITH,632,201,415,16
 Grayson,F103,State Senate,5,DEM,Jamie SKUDLAREK,98,31,60,7
 Grayson,F103,State Senate,5,,Total Votes,730,232,475,23
 Grayson,F103,State Senate,5,,Under Votes,37,7,28,2
@@ -1152,17 +1152,17 @@ Grayson,F103,Board of Education,2,,Alfreda H. WEEDMAN,114,37,67,10
 Grayson,F103,Board of Education,2,,Total Votes,662,208,434,20
 Grayson,F103,Board of Education,2,,Under Votes,104,30,69,5
 Grayson,F103,Board of Education,2,,Over Votes,1,1,0,0
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER ",21,13,7,1
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"George HACK ",27,14,12,1
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS ",26,15,10,1
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Terri HAYCRAFT ",17,10,6,1
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Tim BOCOCK ",19,11,7,1
-Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL ",19,9,9,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,"James ""Clayton"" MILLER",21,13,7,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,George HACK,27,14,12,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Wm. ""Billy"" DALLAS",26,15,10,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,Terri HAYCRAFT,17,10,6,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,Tim BOCOCK,19,11,7,1
+Grayson,F103,CITY COUNCIL City of Leitchfield,,,"Raymond ""Tooty"" COTTRELL",19,9,9,1
 Grayson,F103,CITY COUNCIL City of Leitchfield,,,Total Votes,129,72,51,6
 Grayson,F103,CITY COUNCIL City of Leitchfield,,,Under Votes,135,54,81,0
 Grayson,F103,CITY COUNCIL City of Leitchfield,,,Over Votes,0,0,0,0
-Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",437,141,285,11
-Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",226,68,152,6
+Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,YES,437,141,285,11
+Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,NO,226,68,152,6
 Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,663,209,437,17
 Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,101,29,64,8
 Grayson,F103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,1,2,0
@@ -1185,7 +1185,7 @@ Grayson,F104,STRAIGHT PARTY,,,Under Votes,102,23,74,5
 Grayson,F104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,F104,President,,REP,Donald J. TRUMP / JD VANCE,152,34,109,9
 Grayson,F104,President,,DEM,Kamala D. HARRIS / Tim WALZ,40,13,22,5
-Grayson,F104,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Grayson,F104,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Grayson,F104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Grayson,F104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,F104,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1198,7 +1198,7 @@ Grayson,F104,U.S. House,2,DEM,Hank LINDERMAN,38,15,18,5
 Grayson,F104,U.S. House,2,,Total Votes,195,48,133,14
 Grayson,F104,U.S. House,2,,Under Votes,4,0,4,0
 Grayson,F104,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,F104,State Senate,5,REP,"Stephen MEREDITH ",155,36,111,8
+Grayson,F104,State Senate,5,REP,Stephen MEREDITH,155,36,111,8
 Grayson,F104,State Senate,5,DEM,Jamie SKUDLAREK,40,12,22,6
 Grayson,F104,State Senate,5,,Total Votes,195,48,133,14
 Grayson,F104,State Senate,5,,Under Votes,4,0,4,0
@@ -1250,7 +1250,7 @@ Grayson,F105,STRAIGHT PARTY,,,Under Votes,139,32,102,5
 Grayson,F105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Grayson,F105,President,,REP,Donald J. TRUMP / JD VANCE,227,53,163,11
 Grayson,F105,President,,DEM,Kamala D. HARRIS / Tim WALZ,28,11,15,2
-Grayson,F105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,F105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,F105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Grayson,F105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,F105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1263,7 +1263,7 @@ Grayson,F105,U.S. House,2,DEM,Hank LINDERMAN,32,10,19,3
 Grayson,F105,U.S. House,2,,Total Votes,257,63,181,13
 Grayson,F105,U.S. House,2,,Under Votes,2,1,1,0
 Grayson,F105,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,F105,State Senate,5,REP,"Stephen MEREDITH ",219,54,155,10
+Grayson,F105,State Senate,5,REP,Stephen MEREDITH,219,54,155,10
 Grayson,F105,State Senate,5,DEM,Jamie SKUDLAREK,34,9,23,2
 Grayson,F105,State Senate,5,,Total Votes,253,63,178,12
 Grayson,F105,State Senate,5,,Under Votes,6,1,4,1
@@ -1315,7 +1315,7 @@ Grayson,F106,STRAIGHT PARTY,,,Under Votes,164,19,140,5
 Grayson,F106,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Grayson,F106,President,,REP,Donald J. TRUMP / JD VANCE,351,56,283,12
 Grayson,F106,President,,DEM,Kamala D. HARRIS / Tim WALZ,37,6,27,4
-Grayson,F106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Grayson,F106,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Grayson,F106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Grayson,F106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Grayson,F106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1328,7 +1328,7 @@ Grayson,F106,U.S. House,2,DEM,Hank LINDERMAN,38,7,28,3
 Grayson,F106,U.S. House,2,,Total Votes,388,63,310,15
 Grayson,F106,U.S. House,2,,Under Votes,8,0,7,1
 Grayson,F106,U.S. House,2,,Over Votes,0,0,0,0
-Grayson,F106,State Senate,5,REP,"Stephen MEREDITH ",349,56,283,10
+Grayson,F106,State Senate,5,REP,Stephen MEREDITH,349,56,283,10
 Grayson,F106,State Senate,5,DEM,Jamie SKUDLAREK,37,6,28,3
 Grayson,F106,State Senate,5,,Total Votes,386,62,311,13
 Grayson,F106,State Senate,5,,Under Votes,10,1,6,3
@@ -1349,8 +1349,8 @@ Grayson,F106,CORONER,,REP,Kevin W. PHARIS,352,55,285,12
 Grayson,F106,CORONER,,,Total Votes,352,55,285,12
 Grayson,F106,CORONER,,,Under Votes,44,8,32,4
 Grayson,F106,CORONER,,,Over Votes,0,0,0,0
-Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",266,44,213,9
-Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",96,15,77,4
+Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,YES,266,44,213,9
+Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,NO,96,15,77,4
 Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,362,59,290,13
 Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,4,26,3
 Grayson,F106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0

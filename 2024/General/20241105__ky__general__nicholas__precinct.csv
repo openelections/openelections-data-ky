@@ -8,7 +8,7 @@ Nicholas,A101,STRAIGHT PARTY,,,Under Votes,339,105,206,28
 Nicholas,A101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nicholas,A101,President,,REP,Donald J. TRUMP / JD VANCE,505,142,320,43
 Nicholas,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,144,66,57,21
-Nicholas,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nicholas,A101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nicholas,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,2,3,0
 Nicholas,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Nicholas,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -46,12 +46,12 @@ Nicholas,A101,Board of Education,1,,Brenda MATTOX,421,125,256,40
 Nicholas,A101,Board of Education,1,,Total Votes,421,125,256,40
 Nicholas,A101,Board of Education,1,,Under Votes,240,85,131,24
 Nicholas,A101,Board of Education,1,,Over Votes,2,1,1,0
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Dennis C. ALLISON ",14,4,8,2
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Doug GARRETT ",16,2,12,2
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Robbie BIDDLE ",12,2,10,0
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Erica BUSSELL ",16,3,12,1
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Debby ECTON ",17,2,13,2
-Nicholas,A101,CITY COUNCIL City of Carlisle,,,"Alice Tapp HUGHES ",14,2,11,1
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Dennis C. ALLISON,14,4,8,2
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Doug GARRETT,16,2,12,2
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Robbie BIDDLE,12,2,10,0
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Erica BUSSELL,16,3,12,1
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Debby ECTON,17,2,13,2
+Nicholas,A101,CITY COUNCIL City of Carlisle,,,Alice Tapp HUGHES,14,2,11,1
 Nicholas,A101,CITY COUNCIL City of Carlisle,,,Total Votes,89,15,66,8
 Nicholas,A101,CITY COUNCIL City of Carlisle,,,Under Votes,97,27,66,4
 Nicholas,A101,CITY COUNCIL City of Carlisle,,,Over Votes,0,0,0,0
@@ -74,7 +74,7 @@ Nicholas,B101,STRAIGHT PARTY,,,Under Votes,410,163,226,21
 Nicholas,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nicholas,B101,President,,REP,Donald J. TRUMP / JD VANCE,550,178,352,20
 Nicholas,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,175,74,73,28
-Nicholas,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Nicholas,B101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Nicholas,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,5,3,0
 Nicholas,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nicholas,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,1,0
@@ -104,17 +104,17 @@ Nicholas,B101,Circuit Clerk,,DEM,Sandye WATKINS,507,181,290,36
 Nicholas,B101,Circuit Clerk,,,Total Votes,507,181,290,36
 Nicholas,B101,Circuit Clerk,,,Under Votes,234,80,142,12
 Nicholas,B101,Circuit Clerk,,,Over Votes,0,0,0,0
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Dennis C. ALLISON ",104,45,53,6
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Doug GARRETT ",127,55,62,10
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Robbie BIDDLE ",87,34,49,4
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Erica BUSSELL ",133,57,67,9
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Debby ECTON ",117,53,57,7
-Nicholas,B101,CITY COUNCIL City of Carlisle,,,"Alice Tapp HUGHES ",118,47,61,10
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Dennis C. ALLISON,104,45,53,6
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Doug GARRETT,127,55,62,10
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Robbie BIDDLE,87,34,49,4
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Erica BUSSELL,133,57,67,9
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Debby ECTON,117,53,57,7
+Nicholas,B101,CITY COUNCIL City of Carlisle,,,Alice Tapp HUGHES,118,47,61,10
 Nicholas,B101,CITY COUNCIL City of Carlisle,,,Total Votes,686,291,349,46
 Nicholas,B101,CITY COUNCIL City of Carlisle,,,Under Votes,514,201,275,38
 Nicholas,B101,CITY COUNCIL City of Carlisle,,,Over Votes,0,0,0,0
-Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",448,149,275,24
-Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",237,86,133,18
+Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,448,149,275,24
+Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,237,86,133,18
 Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,685,235,408,42
 Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,55,25,24,6
 Nicholas,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
@@ -132,7 +132,7 @@ Nicholas,C101,STRAIGHT PARTY,,,Under Votes,357,131,192,34
 Nicholas,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nicholas,C101,President,,REP,Donald J. TRUMP / JD VANCE,516,176,305,35
 Nicholas,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,125,44,59,22
-Nicholas,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nicholas,C101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nicholas,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,3,3,0
 Nicholas,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nicholas,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -162,17 +162,17 @@ Nicholas,C101,Circuit Clerk,,DEM,Sandye WATKINS,414,140,232,42
 Nicholas,C101,Circuit Clerk,,,Total Votes,414,140,232,42
 Nicholas,C101,Circuit Clerk,,,Under Votes,235,83,137,15
 Nicholas,C101,Circuit Clerk,,,Over Votes,0,0,0,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Dennis C. ALLISON ",2,2,0,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Doug GARRETT ",2,2,0,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Robbie BIDDLE ",3,2,1,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Erica BUSSELL ",4,3,1,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Debby ECTON ",4,3,1,0
-Nicholas,C101,CITY COUNCIL City of Carlisle,,,"Alice Tapp HUGHES ",3,2,1,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Dennis C. ALLISON,2,2,0,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Doug GARRETT,2,2,0,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Robbie BIDDLE,3,2,1,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Erica BUSSELL,4,3,1,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Debby ECTON,4,3,1,0
+Nicholas,C101,CITY COUNCIL City of Carlisle,,,Alice Tapp HUGHES,3,2,1,0
 Nicholas,C101,CITY COUNCIL City of Carlisle,,,Total Votes,18,14,4,0
 Nicholas,C101,CITY COUNCIL City of Carlisle,,,Under Votes,30,28,2,0
 Nicholas,C101,CITY COUNCIL City of Carlisle,,,Over Votes,0,0,0,0
-Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",390,137,229,24
-Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",181,63,94,24
+Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,390,137,229,24
+Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,181,63,94,24
 Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,571,200,323,48
 Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,78,23,46,9
 Nicholas,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -190,7 +190,7 @@ Nicholas,D101,STRAIGHT PARTY,,,Under Votes,347,132,182,33
 Nicholas,D101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Nicholas,D101,President,,REP,Donald J. TRUMP / JD VANCE,427,165,240,22
 Nicholas,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,224,85,96,43
-Nicholas,D101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Nicholas,D101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Nicholas,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,2,1,0
 Nicholas,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nicholas,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,4,3,1,0
@@ -220,17 +220,17 @@ Nicholas,D101,Circuit Clerk,,DEM,Sandye WATKINS,482,180,249,53
 Nicholas,D101,Circuit Clerk,,,Total Votes,482,180,249,53
 Nicholas,D101,Circuit Clerk,,,Under Votes,179,76,91,12
 Nicholas,D101,Circuit Clerk,,,Over Votes,1,1,0,0
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Dennis C. ALLISON ",228,89,115,24
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Doug GARRETT ",258,104,129,25
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Robbie BIDDLE ",185,79,88,18
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Erica BUSSELL ",271,105,142,24
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Debby ECTON ",257,103,127,27
-Nicholas,D101,CITY COUNCIL City of Carlisle,,,"Alice Tapp HUGHES ",232,86,119,27
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Dennis C. ALLISON,228,89,115,24
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Doug GARRETT,258,104,129,25
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Robbie BIDDLE,185,79,88,18
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Erica BUSSELL,271,105,142,24
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Debby ECTON,257,103,127,27
+Nicholas,D101,CITY COUNCIL City of Carlisle,,,Alice Tapp HUGHES,232,86,119,27
 Nicholas,D101,CITY COUNCIL City of Carlisle,,,Total Votes,1431,566,720,145
 Nicholas,D101,CITY COUNCIL City of Carlisle,,,Under Votes,1305,478,720,107
 Nicholas,D101,CITY COUNCIL City of Carlisle,,,Over Votes,2,2,0,0
-Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",324,106,185,33
-Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",283,121,137,25
+Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,324,106,185,33
+Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,283,121,137,25
 Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,607,227,322,58
 Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,53,29,17,7
 Nicholas,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -248,7 +248,7 @@ Nicholas,E101,STRAIGHT PARTY,,,Under Votes,336,125,186,25
 Nicholas,E101,STRAIGHT PARTY,,,Over Votes,2,1,1,0
 Nicholas,E101,President,,REP,Donald J. TRUMP / JD VANCE,453,154,285,14
 Nicholas,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,156,68,58,30
-Nicholas,E101,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Nicholas,E101,President,,KY,Jill STEIN / Samson KPADENOU,3,1,2,0
 Nicholas,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Nicholas,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nicholas,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -283,17 +283,17 @@ Nicholas,E101,Board of Education,5,,James C. GALBRAITH JR.,203,86,102,15
 Nicholas,E101,Board of Education,5,,Total Votes,478,160,289,29
 Nicholas,E101,Board of Education,5,,Under Votes,140,65,60,15
 Nicholas,E101,Board of Education,5,,Over Votes,0,0,0,0
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Dennis C. ALLISON ",77,27,43,7
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Doug GARRETT ",85,34,43,8
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Robbie BIDDLE ",55,20,30,5
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Erica BUSSELL ",83,31,43,9
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Debby ECTON ",69,28,35,6
-Nicholas,E101,CITY COUNCIL City of Carlisle,,,"Alice Tapp HUGHES ",67,25,36,6
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Dennis C. ALLISON,77,27,43,7
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Doug GARRETT,85,34,43,8
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Robbie BIDDLE,55,20,30,5
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Erica BUSSELL,83,31,43,9
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Debby ECTON,69,28,35,6
+Nicholas,E101,CITY COUNCIL City of Carlisle,,,Alice Tapp HUGHES,67,25,36,6
 Nicholas,E101,CITY COUNCIL City of Carlisle,,,Total Votes,436,165,230,41
 Nicholas,E101,CITY COUNCIL City of Carlisle,,,Under Votes,464,201,244,19
 Nicholas,E101,CITY COUNCIL City of Carlisle,,,Over Votes,0,0,0,0
-Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",359,120,220,19
-Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",221,90,113,18
+Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,359,120,220,19
+Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,221,90,113,18
 Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,580,210,333,37
 Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,38,15,16,7
 Nicholas,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0

@@ -8,7 +8,7 @@ Nelson,A102,STRAIGHT PARTY,,,Under Votes,592,52,517,23
 Nelson,A102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nelson,A102,President,,REP,Donald J. TRUMP / JD VANCE,928,98,797,33
 Nelson,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,248,28,194,26
-Nelson,A102,President,,KY,Jill  STEIN / Samson KPADENOU,4,0,4,0
+Nelson,A102,President,,KY,Jill STEIN / Samson KPADENOU,4,0,4,0
 Nelson,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,1,7,0
 Nelson,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,5,0,5,0
@@ -41,15 +41,15 @@ Nelson,A102,CONSTABLE,,,,0,0,0,0
 Nelson,A102,CONSTABLE,,,Total Votes,0,0,0,0
 Nelson,A102,CONSTABLE,,,Under Votes,1197,128,1010,59
 Nelson,A102,CONSTABLE,,,Over Votes,0,0,0,0
-Nelson,A102,CITY COMMISSIONERS City of New Haven,,,"Frederick A. DeWITT ",179,19,147,13
-Nelson,A102,CITY COMMISSIONERS City of New Haven,,,"Mike MORRIS ",173,18,143,12
-Nelson,A102,CITY COMMISSIONERS City of New Haven,,,"Ruth Wimsett FAULKNER ",173,21,141,11
-Nelson,A102,CITY COMMISSIONERS City of New Haven,,,"Frances E. Lois BOLEY ",135,18,106,11
+Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Frederick A. DeWITT,179,19,147,13
+Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Mike MORRIS,173,18,143,12
+Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Ruth Wimsett FAULKNER,173,21,141,11
+Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Frances E. Lois BOLEY,135,18,106,11
 Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Total Votes,660,76,537,47
 Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Under Votes,560,40,491,29
 Nelson,A102,CITY COMMISSIONERS City of New Haven,,,Over Votes,0,0,0,0
-Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",731,69,632,30
-Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",363,50,296,17
+Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,731,69,632,30
+Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,363,50,296,17
 Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1094,119,928,47
 Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,103,9,82,12
 Nelson,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -72,7 +72,7 @@ Nelson,A103,STRAIGHT PARTY,,,Under Votes,503,109,337,57
 Nelson,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,A103,President,,REP,Donald J. TRUMP / JD VANCE,467,88,332,47
 Nelson,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,416,115,243,58
-Nelson,A103,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,A103,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,2,1
 Nelson,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
 Nelson,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
@@ -110,14 +110,14 @@ Nelson,A103,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,A103,Board of Education,Bardstown Independent School District,,Total Votes,938,204,612,122
 Nelson,A103,Board of Education,Bardstown Independent School District,,Under Votes,860,208,560,92
 Nelson,A103,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",477,113,302,62
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",318,63,211,44
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",393,92,243,58
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",508,121,318,69
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"David C. DONES ",368,83,234,51
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",184,38,122,24
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",417,99,265,53
-Nelson,A103,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",440,94,280,66
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,477,113,302,62
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,318,63,211,44
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,393,92,243,58
+Nelson,A103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",508,121,318,69
+Nelson,A103,CITY COUNCIL City of Bardstown,,,David C. DONES,368,83,234,51
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Matthew COOPER,184,38,122,24
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,417,99,265,53
+Nelson,A103,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,440,94,280,66
 Nelson,A103,CITY COUNCIL City of Bardstown,,,Total Votes,3105,703,1975,427
 Nelson,A103,CITY COUNCIL City of Bardstown,,,Under Votes,2289,533,1541,215
 Nelson,A103,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
@@ -150,7 +150,7 @@ Nelson,A104,STRAIGHT PARTY,,,Under Votes,473,79,373,21
 Nelson,A104,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nelson,A104,President,,REP,Donald J. TRUMP / JD VANCE,737,140,570,27
 Nelson,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,197,39,141,17
-Nelson,A104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,A104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,0,5,0
 Nelson,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Nelson,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -207,7 +207,7 @@ Nelson,A105,STRAIGHT PARTY,,,Under Votes,556,116,391,49
 Nelson,A105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,A105,President,,REP,Donald J. TRUMP / JD VANCE,802,178,586,38
 Nelson,A105,President,,DEM,Kamala D. HARRIS / Tim WALZ,301,83,168,50
-Nelson,A105,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,0,2
+Nelson,A105,President,,KY,Jill STEIN / Samson KPADENOU,2,0,0,2
 Nelson,A105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,4,2
 Nelson,A105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,A105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -245,14 +245,14 @@ Nelson,A105,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,A105,Board of Education,Bardstown Independent School District,,Total Votes,130,33,90,7
 Nelson,A105,Board of Education,Bardstown Independent School District,,Under Votes,140,49,86,5
 Nelson,A105,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",44,9,33,2
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",39,10,27,2
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",33,7,22,4
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",61,16,42,3
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"David C. DONES ",29,7,21,1
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",24,5,17,2
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",34,10,22,2
-Nelson,A105,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",37,9,24,4
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,44,9,33,2
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,39,10,27,2
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,33,7,22,4
+Nelson,A105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",61,16,42,3
+Nelson,A105,CITY COUNCIL City of Bardstown,,,David C. DONES,29,7,21,1
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Matthew COOPER,24,5,17,2
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,34,10,22,2
+Nelson,A105,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,37,9,24,4
 Nelson,A105,CITY COUNCIL City of Bardstown,,,Total Votes,301,73,208,20
 Nelson,A105,CITY COUNCIL City of Bardstown,,,Under Votes,293,89,194,10
 Nelson,A105,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
@@ -285,7 +285,7 @@ Nelson,B101,STRAIGHT PARTY,,,Under Votes,829,153,625,51
 Nelson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,B101,President,,REP,Donald J. TRUMP / JD VANCE,1134,224,847,63
 Nelson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,335,73,234,28
-Nelson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,4,0,3,1
+Nelson,B101,President,,KY,Jill STEIN / Samson KPADENOU,4,0,3,1
 Nelson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,1,11,1
 Nelson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -323,13 +323,13 @@ Nelson,B101,Board of Education,2,,"Joseph ""Joedy"" GILLILAND",884,169,672,43
 Nelson,B101,Board of Education,2,,Total Votes,1182,225,887,70
 Nelson,B101,Board of Education,2,,Under Votes,310,73,214,23
 Nelson,B101,Board of Education,2,,Over Votes,0,0,0,0
-Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",951,168,723,60
-Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",434,106,301,27
+Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,YES,951,168,723,60
+Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,NO,434,106,301,27
 Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1385,274,1024,87
 Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,104,24,76,4
 Nelson,B101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,1,2
-Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",505,114,361,30
-Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",948,177,710,61
+Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,YES,505,114,361,30
+Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,NO,948,177,710,61
 Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1453,291,1071,91
 Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,38,7,29,2
 Nelson,B101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -347,7 +347,7 @@ Nelson,B102,STRAIGHT PARTY,,,Under Votes,330,77,219,34
 Nelson,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,B102,President,,REP,Donald J. TRUMP / JD VANCE,428,94,302,32
 Nelson,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,270,53,187,30
-Nelson,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,B102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,4,0
 Nelson,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
 Nelson,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,0,1
@@ -390,19 +390,19 @@ Nelson,B102,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,B102,Board of Education,Bardstown Independent School District,,Total Votes,570,91,424,55
 Nelson,B102,Board of Education,Bardstown Independent School District,,Under Votes,540,125,378,37
 Nelson,B102,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",272,50,199,23
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",232,49,162,21
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",196,34,135,27
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",317,63,220,34
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"David C. DONES ",173,34,120,19
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",125,26,83,16
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",176,33,123,20
-Nelson,B102,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",285,56,196,33
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,272,50,199,23
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,232,49,162,21
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,196,34,135,27
+Nelson,B102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",317,63,220,34
+Nelson,B102,CITY COUNCIL City of Bardstown,,,David C. DONES,173,34,120,19
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Matthew COOPER,125,26,83,16
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,176,33,123,20
+Nelson,B102,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,285,56,196,33
 Nelson,B102,CITY COUNCIL City of Bardstown,,,Total Votes,1776,345,1238,193
 Nelson,B102,CITY COUNCIL City of Bardstown,,,Under Votes,1554,297,1174,83
 Nelson,B102,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,"YES ",409,66,313,30
-Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,"NO ",118,32,71,15
+Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,YES,409,66,313,30
+Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,NO,118,32,71,15
 Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,527,98,384,45
 Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,28,9,18,1
 Nelson,B102,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -430,7 +430,7 @@ Nelson,B103,STRAIGHT PARTY,,,Under Votes,605,137,425,43
 Nelson,B103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nelson,B103,President,,REP,Donald J. TRUMP / JD VANCE,873,203,603,67
 Nelson,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,338,96,207,35
-Nelson,B103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Nelson,B103,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Nelson,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,0,9,1
 Nelson,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,5,1,4,0
@@ -473,19 +473,19 @@ Nelson,B103,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,B103,Board of Education,Bardstown Independent School District,,Total Votes,4,0,4,0
 Nelson,B103,Board of Education,Bardstown Independent School District,,Under Votes,4,0,4,0
 Nelson,B103,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",161,47,104,10
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",106,31,66,9
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",144,37,97,10
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",162,46,106,10
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"David C. DONES ",125,35,82,8
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",72,18,51,3
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",120,30,79,11
-Nelson,B103,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",134,38,87,9
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,161,47,104,10
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,106,31,66,9
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,144,37,97,10
+Nelson,B103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",162,46,106,10
+Nelson,B103,CITY COUNCIL City of Bardstown,,,David C. DONES,125,35,82,8
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Matthew COOPER,72,18,51,3
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,120,30,79,11
+Nelson,B103,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,134,38,87,9
 Nelson,B103,CITY COUNCIL City of Bardstown,,,Total Votes,1024,282,672,70
 Nelson,B103,CITY COUNCIL City of Bardstown,,,Under Votes,1040,276,648,116
 Nelson,B103,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,"YES ",239,61,155,23
-Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,"NO ",82,26,50,6
+Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,YES,239,61,155,23
+Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,NO,82,26,50,6
 Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,321,87,205,29
 Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,23,6,15,2
 Nelson,B103,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -513,7 +513,7 @@ Nelson,B104,STRAIGHT PARTY,,,Under Votes,661,130,497,34
 Nelson,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,B104,President,,REP,Donald J. TRUMP / JD VANCE,963,247,682,34
 Nelson,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,348,75,227,46
-Nelson,B104,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Nelson,B104,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Nelson,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,0,9,1
 Nelson,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
@@ -551,13 +551,13 @@ Nelson,B104,Board of Education,2,,"Joseph ""Joedy"" GILLILAND",737,157,549,31
 Nelson,B104,Board of Education,2,,Total Votes,1029,234,732,63
 Nelson,B104,Board of Education,2,,Under Votes,303,87,198,18
 Nelson,B104,Board of Education,2,,Over Votes,2,1,1,0
-Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",850,214,579,57
-Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",376,82,274,20
+Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,YES,850,214,579,57
+Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,NO,376,82,274,20
 Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1226,296,853,77
 Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,107,26,77,4
 Nelson,B104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",490,146,318,26
-Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",807,166,586,55
+Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,YES,490,146,318,26
+Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,NO,807,166,586,55
 Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1297,312,904,81
 Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,35,8,27,0
 Nelson,B104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,2,0,0
@@ -575,7 +575,7 @@ Nelson,C101,STRAIGHT PARTY,,,Under Votes,344,69,229,46
 Nelson,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,C101,President,,REP,Donald J. TRUMP / JD VANCE,296,61,210,25
 Nelson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,243,63,139,41
-Nelson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Nelson,C101,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Nelson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Nelson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
@@ -613,14 +613,14 @@ Nelson,C101,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,C101,Board of Education,Bardstown Independent School District,,Total Votes,635,134,425,76
 Nelson,C101,Board of Education,Bardstown Independent School District,,Under Votes,483,122,301,60
 Nelson,C101,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",323,72,215,36
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",144,30,92,22
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",287,60,185,42
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",324,76,207,41
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"David C. DONES ",305,63,205,37
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",104,16,79,9
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",282,60,180,42
-Nelson,C101,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",250,58,161,31
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,323,72,215,36
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,144,30,92,22
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,287,60,185,42
+Nelson,C101,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",324,76,207,41
+Nelson,C101,CITY COUNCIL City of Bardstown,,,David C. DONES,305,63,205,37
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Matthew COOPER,104,16,79,9
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,282,60,180,42
+Nelson,C101,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,250,58,161,31
 Nelson,C101,CITY COUNCIL City of Bardstown,,,Total Votes,2019,435,1324,260
 Nelson,C101,CITY COUNCIL City of Bardstown,,,Under Votes,1329,327,854,148
 Nelson,C101,CITY COUNCIL City of Bardstown,,,Over Votes,1,1,0,0
@@ -653,7 +653,7 @@ Nelson,C102,STRAIGHT PARTY,,,Under Votes,421,98,271,52
 Nelson,C102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nelson,C102,President,,REP,Donald J. TRUMP / JD VANCE,503,111,344,48
 Nelson,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,348,90,197,61
-Nelson,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,C102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,5,1
 Nelson,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Nelson,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,1,1
@@ -691,14 +691,14 @@ Nelson,C102,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,C102,Board of Education,Bardstown Independent School District,,Total Votes,932,195,614,123
 Nelson,C102,Board of Education,Bardstown Independent School District,,Under Votes,824,213,512,99
 Nelson,C102,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",410,95,262,53
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",338,69,238,31
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",353,80,226,47
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",477,106,311,60
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"David C. DONES ",311,78,192,41
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",186,45,126,15
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",360,86,231,43
-Nelson,C102,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",408,97,255,56
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,410,95,262,53
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,338,69,238,31
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,353,80,226,47
+Nelson,C102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",477,106,311,60
+Nelson,C102,CITY COUNCIL City of Bardstown,,,David C. DONES,311,78,192,41
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Matthew COOPER,186,45,126,15
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,360,86,231,43
+Nelson,C102,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,408,97,255,56
 Nelson,C102,CITY COUNCIL City of Bardstown,,,Total Votes,2843,656,1841,346
 Nelson,C102,CITY COUNCIL City of Bardstown,,,Under Votes,2413,562,1531,320
 Nelson,C102,CITY COUNCIL City of Bardstown,,,Over Votes,2,1,1,0
@@ -731,7 +731,7 @@ Nelson,C103,STRAIGHT PARTY,,,Under Votes,490,97,357,36
 Nelson,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,C103,President,,REP,Donald J. TRUMP / JD VANCE,714,151,521,42
 Nelson,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,270,58,177,35
-Nelson,C103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Nelson,C103,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Nelson,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,1,5,0
 Nelson,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -773,19 +773,19 @@ Nelson,C103,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,C103,Board of Education,Bardstown Independent School District,,Total Votes,282,71,189,22
 Nelson,C103,Board of Education,Bardstown Independent School District,,Under Votes,316,73,211,32
 Nelson,C103,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",71,14,50,7
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",40,9,26,5
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",52,12,33,7
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",64,11,48,5
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"David C. DONES ",60,12,42,6
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",29,9,14,6
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",55,16,35,4
-Nelson,C103,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",51,11,39,1
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,71,14,50,7
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,40,9,26,5
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,52,12,33,7
+Nelson,C103,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",64,11,48,5
+Nelson,C103,CITY COUNCIL City of Bardstown,,,David C. DONES,60,12,42,6
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Matthew COOPER,29,9,14,6
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,55,16,35,4
+Nelson,C103,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,51,11,39,1
 Nelson,C103,CITY COUNCIL City of Bardstown,,,Total Votes,422,94,287,41
 Nelson,C103,CITY COUNCIL City of Bardstown,,,Under Votes,436,134,271,31
 Nelson,C103,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,"YES ",103,25,71,7
-Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,"NO ",35,10,20,5
+Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,YES,103,25,71,7
+Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,NO,35,10,20,5
 Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,138,35,91,12
 Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,5,3,2,0
 Nelson,C103,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -813,7 +813,7 @@ Nelson,C104,STRAIGHT PARTY,,,Under Votes,375,104,233,38
 Nelson,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,C104,President,,REP,Donald J. TRUMP / JD VANCE,364,82,254,28
 Nelson,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,288,94,149,45
-Nelson,C104,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,1,1
+Nelson,C104,President,,KY,Jill STEIN / Samson KPADENOU,2,0,1,1
 Nelson,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,6,0
 Nelson,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -851,14 +851,14 @@ Nelson,C104,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,C104,Board of Education,Bardstown Independent School District,,Total Votes,671,183,408,80
 Nelson,C104,Board of Education,Bardstown Independent School District,,Under Votes,659,173,418,68
 Nelson,C104,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",320,85,202,33
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",232,69,129,34
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",324,92,187,45
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",356,98,214,44
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"David C. DONES ",277,85,157,35
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",127,29,79,19
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",286,80,160,46
-Nelson,C104,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",293,84,176,33
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,320,85,202,33
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,232,69,129,34
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,324,92,187,45
+Nelson,C104,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",356,98,214,44
+Nelson,C104,CITY COUNCIL City of Bardstown,,,David C. DONES,277,85,157,35
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Matthew COOPER,127,29,79,19
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,286,80,160,46
+Nelson,C104,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,293,84,176,33
 Nelson,C104,CITY COUNCIL City of Bardstown,,,Total Votes,2215,622,1304,289
 Nelson,C104,CITY COUNCIL City of Bardstown,,,Under Votes,1733,428,1150,155
 Nelson,C104,CITY COUNCIL City of Bardstown,,,Over Votes,1,1,0,0
@@ -891,7 +891,7 @@ Nelson,C105,STRAIGHT PARTY,,,Under Votes,443,46,370,27
 Nelson,C105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,C105,President,,REP,Donald J. TRUMP / JD VANCE,726,82,612,32
 Nelson,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,196,25,156,15
-Nelson,C105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,C105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Nelson,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -928,13 +928,13 @@ Nelson,C105,Board of Education,3,,Tracy BOWLING,385,33,333,19
 Nelson,C105,Board of Education,3,,Total Votes,385,33,333,19
 Nelson,C105,Board of Education,3,,Under Votes,547,75,444,28
 Nelson,C105,Board of Education,3,,Over Votes,0,0,0,0
-Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",608,74,498,36
-Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",232,26,198,8
+Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,YES,608,74,498,36
+Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,NO,232,26,198,8
 Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,840,100,696,44
 Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,92,8,81,3
 Nelson,C105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",337,53,259,25
-Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",538,52,465,21
+Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,YES,337,53,259,25
+Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,NO,538,52,465,21
 Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,875,105,724,46
 Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,57,3,53,1
 Nelson,C105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -952,7 +952,7 @@ Nelson,C106,STRAIGHT PARTY,,,Under Votes,332,95,213,24
 Nelson,C106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,C106,President,,REP,Donald J. TRUMP / JD VANCE,374,92,260,22
 Nelson,C106,President,,DEM,Kamala D. HARRIS / Tim WALZ,174,42,111,21
-Nelson,C106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,C106,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,C106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Nelson,C106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Nelson,C106,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -994,19 +994,19 @@ Nelson,C106,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,C106,Board of Education,Bardstown Independent School District,,Total Votes,434,114,287,33
 Nelson,C106,Board of Education,Bardstown Independent School District,,Under Votes,398,90,277,31
 Nelson,C106,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",118,31,77,10
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",62,20,34,8
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",83,21,55,7
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",126,35,77,14
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"David C. DONES ",89,18,64,7
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",44,8,34,2
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",92,24,60,8
-Nelson,C106,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",104,28,63,13
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,118,31,77,10
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,62,20,34,8
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,83,21,55,7
+Nelson,C106,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",126,35,77,14
+Nelson,C106,CITY COUNCIL City of Bardstown,,,David C. DONES,89,18,64,7
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Matthew COOPER,44,8,34,2
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,92,24,60,8
+Nelson,C106,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,104,28,63,13
 Nelson,C106,CITY COUNCIL City of Bardstown,,,Total Votes,718,185,464,69
 Nelson,C106,CITY COUNCIL City of Bardstown,,,Under Votes,548,133,370,45
 Nelson,C106,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,"YES ",164,38,110,16
-Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,"NO ",37,12,22,3
+Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,YES,164,38,110,16
+Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,NO,37,12,22,3
 Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,201,50,132,19
 Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,10,3,7,0
 Nelson,C106,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -1034,7 +1034,7 @@ Nelson,D101,STRAIGHT PARTY,,,Under Votes,541,141,371,29
 Nelson,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,D101,President,,REP,Donald J. TRUMP / JD VANCE,722,185,501,36
 Nelson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,233,68,144,21
-Nelson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,2,1
+Nelson,D101,President,,KY,Jill STEIN / Samson KPADENOU,4,1,2,1
 Nelson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,1,6,1
 Nelson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -1067,19 +1067,19 @@ Nelson,D101,CONSTABLE,,,,0,0,0,0
 Nelson,D101,CONSTABLE,,,Total Votes,0,0,0,0
 Nelson,D101,CONSTABLE,,,Under Votes,975,256,660,59
 Nelson,D101,CONSTABLE,,,Over Votes,0,0,0,0
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",87,32,48,7
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",62,21,35,6
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",78,26,45,7
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",90,30,53,7
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"David C. DONES ",62,21,36,5
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",41,13,24,4
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",72,27,38,7
-Nelson,D101,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",77,28,43,6
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,87,32,48,7
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,62,21,35,6
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,78,26,45,7
+Nelson,D101,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",90,30,53,7
+Nelson,D101,CITY COUNCIL City of Bardstown,,,David C. DONES,62,21,36,5
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Matthew COOPER,41,13,24,4
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,72,27,38,7
+Nelson,D101,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,77,28,43,6
 Nelson,D101,CITY COUNCIL City of Bardstown,,,Total Votes,569,198,322,49
 Nelson,D101,CITY COUNCIL City of Bardstown,,,Under Votes,661,240,386,35
 Nelson,D101,CITY COUNCIL City of Bardstown,,,Over Votes,1,0,1,0
-Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,"YES ",127,47,73,7
-Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,"NO ",64,21,36,7
+Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,YES,127,47,73,7
+Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,NO,64,21,36,7
 Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,191,68,109,14
 Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,15,5,10,0
 Nelson,D101,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -1107,7 +1107,7 @@ Nelson,D102,STRAIGHT PARTY,,,Under Votes,479,131,322,26
 Nelson,D102,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Nelson,D102,President,,REP,Donald J. TRUMP / JD VANCE,716,213,464,39
 Nelson,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,251,69,150,32
-Nelson,D102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,D102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,6,0
 Nelson,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,1,1,0
 Nelson,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1164,7 +1164,7 @@ Nelson,D103,STRAIGHT PARTY,,,Under Votes,563,107,402,54
 Nelson,D103,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Nelson,D103,President,,REP,Donald J. TRUMP / JD VANCE,803,144,601,58
 Nelson,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,348,84,182,82
-Nelson,D103,President,,KY,Jill  STEIN / Samson KPADENOU,3,3,0,0
+Nelson,D103,President,,KY,Jill STEIN / Samson KPADENOU,3,3,0,0
 Nelson,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,3,2,0
 Nelson,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -1202,13 +1202,13 @@ Nelson,D103,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,D103,Board of Education,Bardstown Independent School District,,Total Votes,25,8,14,3
 Nelson,D103,Board of Education,Bardstown Independent School District,,Under Votes,25,8,16,1
 Nelson,D103,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",772,149,539,84
-Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",322,71,204,47
+Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,772,149,539,84
+Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,322,71,204,47
 Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1094,220,743,131
 Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,76,16,50,10
 Nelson,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",476,102,316,58
-Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",672,130,463,79
+Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,476,102,316,58
+Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,672,130,463,79
 Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1148,232,779,137
 Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,25,4,17,4
 Nelson,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1226,7 +1226,7 @@ Nelson,D104,STRAIGHT PARTY,,,Under Votes,462,69,367,26
 Nelson,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,D104,President,,REP,Donald J. TRUMP / JD VANCE,675,135,510,30
 Nelson,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,225,43,161,21
-Nelson,D104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,D104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,1,8,1
 Nelson,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
@@ -1283,7 +1283,7 @@ Nelson,D105,STRAIGHT PARTY,,,Under Votes,534,147,351,36
 Nelson,D105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,D105,President,,REP,Donald J. TRUMP / JD VANCE,756,187,521,48
 Nelson,D105,President,,DEM,Kamala D. HARRIS / Tim WALZ,301,106,155,40
-Nelson,D105,President,,KY,Jill  STEIN / Samson KPADENOU,4,1,2,1
+Nelson,D105,President,,KY,Jill STEIN / Samson KPADENOU,4,1,2,1
 Nelson,D105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,1,0,0
 Nelson,D105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Nelson,D105,President,,LIB,Chase OLIVER / Mike TER MAAT,4,1,3,0
@@ -1316,19 +1316,19 @@ Nelson,D105,CONSTABLE,,,,0,0,0,0
 Nelson,D105,CONSTABLE,,,Total Votes,0,0,0,0
 Nelson,D105,CONSTABLE,,,Under Votes,1074,297,688,89
 Nelson,D105,CONSTABLE,,,Over Votes,0,0,0,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",17,8,9,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",8,3,4,1
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",9,5,4,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",14,8,6,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"David C. DONES ",8,5,3,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",8,6,2,0
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",8,5,2,1
-Nelson,D105,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",9,5,4,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,17,8,9,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,8,3,4,1
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,9,5,4,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",14,8,6,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,David C. DONES,8,5,3,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Matthew COOPER,8,6,2,0
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,8,5,2,1
+Nelson,D105,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,9,5,4,0
 Nelson,D105,CITY COUNCIL City of Bardstown,,,Total Votes,81,45,34,2
 Nelson,D105,CITY COUNCIL City of Bardstown,,,Under Votes,231,63,140,28
 Nelson,D105,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,"YES ",35,12,18,5
-Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,"NO ",14,6,8,0
+Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,YES,35,12,18,5
+Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,NO,14,6,8,0
 Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,49,18,26,5
 Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,3,0,3,0
 Nelson,D105,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -1356,7 +1356,7 @@ Nelson,E101,STRAIGHT PARTY,,,Under Votes,361,64,279,18
 Nelson,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,E101,President,,REP,Donald J. TRUMP / JD VANCE,461,76,362,23
 Nelson,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,135,30,95,10
-Nelson,E101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,E101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,0,9,2
 Nelson,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -1398,8 +1398,8 @@ Nelson,E101,CITY COMMISSIONERS City of Fairfield,,,Write In Total,3,0,3,0
 Nelson,E101,CITY COMMISSIONERS City of Fairfield,,,Total Votes,3,0,3,0
 Nelson,E101,CITY COMMISSIONERS City of Fairfield,,,Under Votes,233,24,201,8
 Nelson,E101,CITY COMMISSIONERS City of Fairfield,,,Over Votes,0,0,0,0
-Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",380,71,286,23
-Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",175,27,140,8
+Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,YES,380,71,286,23
+Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,NO,175,27,140,8
 Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,555,98,426,31
 Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,53,10,39,4
 Nelson,E101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,4,0,4,0
@@ -1422,7 +1422,7 @@ Nelson,E102,STRAIGHT PARTY,,,Under Votes,638,134,465,39
 Nelson,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,E102,President,,REP,Donald J. TRUMP / JD VANCE,865,192,620,53
 Nelson,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,392,110,255,27
-Nelson,E102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Nelson,E102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Nelson,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,0,8,0
 Nelson,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,3,0,3,0
@@ -1465,19 +1465,19 @@ Nelson,E102,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,E102,Board of Education,Bardstown Independent School District,,Total Votes,97,27,63,7
 Nelson,E102,Board of Education,Bardstown Independent School District,,Under Votes,91,31,51,9
 Nelson,E102,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",48,12,34,2
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",35,10,25,0
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",33,9,24,0
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",57,11,42,4
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"David C. DONES ",24,4,19,1
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",16,5,11,0
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",30,9,20,1
-Nelson,E102,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",41,8,31,2
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,48,12,34,2
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,35,10,25,0
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,33,9,24,0
+Nelson,E102,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",57,11,42,4
+Nelson,E102,CITY COUNCIL City of Bardstown,,,David C. DONES,24,4,19,1
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Matthew COOPER,16,5,11,0
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,30,9,20,1
+Nelson,E102,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,41,8,31,2
 Nelson,E102,CITY COUNCIL City of Bardstown,,,Total Votes,284,68,206,10
 Nelson,E102,CITY COUNCIL City of Bardstown,,,Under Votes,424,100,274,50
 Nelson,E102,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0
-Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,"YES ",94,24,63,7
-Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,"NO ",17,3,13,1
+Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,YES,94,24,63,7
+Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,NO,17,3,13,1
 Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,Total Votes,111,27,76,8
 Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,Under Votes,7,1,4,2
 Nelson,E102,QUESTION-BARDSTOWN CANNABIS,,,Over Votes,0,0,0,0
@@ -1505,7 +1505,7 @@ Nelson,E103,STRAIGHT PARTY,,,Under Votes,499,38,425,36
 Nelson,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,E103,President,,REP,Donald J. TRUMP / JD VANCE,673,52,592,29
 Nelson,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,229,27,177,25
-Nelson,E103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Nelson,E103,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Nelson,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,0,7,0
 Nelson,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Nelson,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
@@ -1543,11 +1543,11 @@ Nelson,E103,Board of Education,5,,Karen LEE,360,35,311,14
 Nelson,E103,Board of Education,5,,Total Votes,791,66,682,43
 Nelson,E103,Board of Education,5,,Under Votes,123,14,100,9
 Nelson,E103,Board of Education,5,,Over Votes,2,0,2,0
-Nelson,E103,CITY COUNCIL City of Bloomfield,,,"Laura BARNETT ",179,16,152,11
-Nelson,E103,CITY COUNCIL City of Bloomfield,,,"Scott STEVENSON ",156,16,129,11
-Nelson,E103,CITY COUNCIL City of Bloomfield,,,"Todd SWEAZY ",169,11,148,10
-Nelson,E103,CITY COUNCIL City of Bloomfield,,,"Tina J. LONG ",181,16,155,10
-Nelson,E103,CITY COUNCIL City of Bloomfield,,,"John Anthony HAMMOND ",153,9,134,10
+Nelson,E103,CITY COUNCIL City of Bloomfield,,,Laura BARNETT,179,16,152,11
+Nelson,E103,CITY COUNCIL City of Bloomfield,,,Scott STEVENSON,156,16,129,11
+Nelson,E103,CITY COUNCIL City of Bloomfield,,,Todd SWEAZY,169,11,148,10
+Nelson,E103,CITY COUNCIL City of Bloomfield,,,Tina J. LONG,181,16,155,10
+Nelson,E103,CITY COUNCIL City of Bloomfield,,,John Anthony HAMMOND,153,9,134,10
 Nelson,E103,CITY COUNCIL City of Bloomfield,,,Write In Total,13,0,13,0
 Nelson,E103,CITY COUNCIL City of Bloomfield,,,Total Votes,851,68,731,52
 Nelson,E103,CITY COUNCIL City of Bloomfield,,,Under Votes,1777,160,1531,86
@@ -1576,7 +1576,7 @@ Nelson,E104,STRAIGHT PARTY,,,Under Votes,372,55,300,17
 Nelson,E104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,E104,President,,REP,Donald J. TRUMP / JD VANCE,698,91,582,25
 Nelson,E104,President,,DEM,Kamala D. HARRIS / Tim WALZ,103,15,78,10
-Nelson,E104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,E104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,E104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Nelson,E104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,E104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -1614,13 +1614,13 @@ Nelson,E104,Board of Education,5,,Karen LEE,267,37,222,8
 Nelson,E104,Board of Education,5,,Total Votes,694,89,579,26
 Nelson,E104,Board of Education,5,,Under Votes,118,18,89,11
 Nelson,E104,Board of Education,5,,Over Votes,0,0,0,0
-Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",505,73,410,22
-Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",214,26,178,10
+Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,YES,505,73,410,22
+Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,NO,214,26,178,10
 Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,719,99,588,32
 Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,90,8,77,5
 Nelson,E104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,3,0,3,0
-Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",343,47,280,16
-Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",423,59,346,18
+Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,YES,343,47,280,16
+Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,NO,423,59,346,18
 Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,766,106,626,34
 Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,44,1,40,3
 Nelson,E104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,2,0,2,0
@@ -1638,7 +1638,7 @@ Nelson,E105,STRAIGHT PARTY,,,Under Votes,275,54,208,13
 Nelson,E105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Nelson,E105,President,,REP,Donald J. TRUMP / JD VANCE,374,72,289,13
 Nelson,E105,President,,DEM,Kamala D. HARRIS / Tim WALZ,326,60,238,28
-Nelson,E105,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Nelson,E105,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Nelson,E105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
 Nelson,E105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Nelson,E105,President,,LIB,Chase OLIVER / Mike TER MAAT,5,0,5,0
@@ -1676,14 +1676,14 @@ Nelson,E105,Board of Education,Bardstown Independent School District,,Lindsay Bl
 Nelson,E105,Board of Education,Bardstown Independent School District,,Total Votes,698,115,536,47
 Nelson,E105,Board of Education,Bardstown Independent School District,,Under Votes,730,151,544,35
 Nelson,E105,Board of Education,Bardstown Independent School District,,Over Votes,0,0,0,0
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Joe BUCKMAN ",265,48,200,17
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Angel L. THOMPSON ",295,55,213,27
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Betty Kelley HART ",199,37,149,13
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS ",381,68,286,27
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"David C. DONES ",141,25,101,15
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Matthew COOPER ",177,43,121,13
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Franklin A. HIBBS IV. ",208,43,144,21
-Nelson,E105,CITY COUNCIL City of Bardstown,,,"Bill SHECKLES ",307,53,224,30
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Joe BUCKMAN,265,48,200,17
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Angel L. THOMPSON,295,55,213,27
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Betty Kelley HART,199,37,149,13
+Nelson,E105,CITY COUNCIL City of Bardstown,,,"R. ""Coach Roe"" WILLIAMS",381,68,286,27
+Nelson,E105,CITY COUNCIL City of Bardstown,,,David C. DONES,141,25,101,15
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Matthew COOPER,177,43,121,13
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Franklin A. HIBBS IV.,208,43,144,21
+Nelson,E105,CITY COUNCIL City of Bardstown,,,Bill SHECKLES,307,53,224,30
 Nelson,E105,CITY COUNCIL City of Bardstown,,,Total Votes,1973,372,1438,163
 Nelson,E105,CITY COUNCIL City of Bardstown,,,Under Votes,2311,426,1802,83
 Nelson,E105,CITY COUNCIL City of Bardstown,,,Over Votes,0,0,0,0

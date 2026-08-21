@@ -8,7 +8,7 @@ Lincoln,A101,STRAIGHT PARTY,,,Under Votes,275,92,123,60
 Lincoln,A101,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Lincoln,A101,President,,REP,Donald J. TRUMP / JD VANCE,459,166,233,60
 Lincoln,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,137,46,48,43
-Lincoln,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,1,1
+Lincoln,A101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,1,1
 Lincoln,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,2,2
 Lincoln,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Lincoln,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -32,7 +32,7 @@ Lincoln,A101,Commonwealth's Attorney,28,REP,David L. DALTON,491,171,248,72
 Lincoln,A101,Commonwealth's Attorney,28,,Total Votes,491,171,248,72
 Lincoln,A101,Commonwealth's Attorney,28,,Under Votes,117,44,38,35
 Lincoln,A101,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,A101,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",504,175,254,75
+Lincoln,A101,Circuit Clerk,,,Angelia Renee DOOLIN REP,504,175,254,75
 Lincoln,A101,Circuit Clerk,,,Total Votes,504,175,254,75
 Lincoln,A101,Circuit Clerk,,,Under Votes,104,40,32,32
 Lincoln,A101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -40,17 +40,17 @@ Lincoln,A101,COUNTY SURVEYOR,,,,0,0,0,0
 Lincoln,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Lincoln,A101,COUNTY SURVEYOR,,,Under Votes,608,215,286,107
 Lincoln,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Jerry G. WILKINSON ",216,65,100,51
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Jason HIGNITE ",168,57,76,35
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Bill MIRACLE ",205,70,90,45
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Eddie CARTER ",186,56,83,47
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Ronnie DEATHERAGE ",195,62,90,43
-Lincoln,A101,CITY COUNCIL City of Stanford,,,"Joe TACKETT ",184,61,86,37
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Jerry G. WILKINSON,216,65,100,51
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Jason HIGNITE,168,57,76,35
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Bill MIRACLE,205,70,90,45
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Eddie CARTER,186,56,83,47
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Ronnie DEATHERAGE,195,62,90,43
+Lincoln,A101,CITY COUNCIL City of Stanford,,,Joe TACKETT,184,61,86,37
 Lincoln,A101,CITY COUNCIL City of Stanford,,,Total Votes,1154,371,525,258
 Lincoln,A101,CITY COUNCIL City of Stanford,,,Under Votes,1360,391,759,210
 Lincoln,A101,CITY COUNCIL City of Stanford,,,Over Votes,3,1,2,0
-Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",367,131,184,52
-Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",204,74,85,45
+Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,367,131,184,52
+Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,204,74,85,45
 Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,571,205,269,97
 Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,35,9,16,10
 Lincoln,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
@@ -68,7 +68,7 @@ Lincoln,A102,STRAIGHT PARTY,,,Under Votes,537,218,233,86
 Lincoln,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,A102,President,,REP,Donald J. TRUMP / JD VANCE,880,325,417,138
 Lincoln,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,268,106,99,63
-Lincoln,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Lincoln,A102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Lincoln,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,3,3,1
 Lincoln,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Lincoln,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -92,7 +92,7 @@ Lincoln,A102,Commonwealth's Attorney,28,REP,David L. DALTON,926,329,444,153
 Lincoln,A102,Commonwealth's Attorney,28,,Total Votes,926,329,444,153
 Lincoln,A102,Commonwealth's Attorney,28,,Under Votes,248,113,80,55
 Lincoln,A102,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,A102,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",958,342,452,164
+Lincoln,A102,Circuit Clerk,,,Angelia Renee DOOLIN REP,958,342,452,164
 Lincoln,A102,Circuit Clerk,,,Total Votes,958,342,452,164
 Lincoln,A102,Circuit Clerk,,,Under Votes,216,100,72,44
 Lincoln,A102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -104,12 +104,12 @@ Lincoln,A102,Board of Education,3,,Jennifer BROADBENT,592,185,323,84
 Lincoln,A102,Board of Education,3,,Total Votes,592,185,323,84
 Lincoln,A102,Board of Education,3,,Under Votes,582,257,201,124
 Lincoln,A102,Board of Education,3,,Over Votes,0,0,0,0
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Jerry G. WILKINSON ",282,110,100,72
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Jason HIGNITE ",207,74,83,50
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Bill MIRACLE ",234,85,91,58
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Eddie CARTER ",238,91,81,66
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Ronnie DEATHERAGE ",252,97,95,60
-Lincoln,A102,CITY COUNCIL City of Stanford,,,"Joe TACKETT ",221,90,78,53
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Jerry G. WILKINSON,282,110,100,72
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Jason HIGNITE,207,74,83,50
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Bill MIRACLE,234,85,91,58
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Eddie CARTER,238,91,81,66
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Ronnie DEATHERAGE,252,97,95,60
+Lincoln,A102,CITY COUNCIL City of Stanford,,,Joe TACKETT,221,90,78,53
 Lincoln,A102,CITY COUNCIL City of Stanford,,,Total Votes,1434,547,528,359
 Lincoln,A102,CITY COUNCIL City of Stanford,,,Under Votes,1572,665,570,337
 Lincoln,A102,CITY COUNCIL City of Stanford,,,Over Votes,0,0,0,0
@@ -132,7 +132,7 @@ Lincoln,A103,STRAIGHT PARTY,,,Under Votes,397,161,178,58
 Lincoln,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,A103,President,,REP,Donald J. TRUMP / JD VANCE,503,170,268,65
 Lincoln,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,199,87,74,38
-Lincoln,A103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Lincoln,A103,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Lincoln,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,0,2
 Lincoln,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -156,7 +156,7 @@ Lincoln,A103,Commonwealth's Attorney,28,REP,David L. DALTON,531,179,284,68
 Lincoln,A103,Commonwealth's Attorney,28,,Total Votes,531,179,284,68
 Lincoln,A103,Commonwealth's Attorney,28,,Under Votes,187,82,65,40
 Lincoln,A103,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,A103,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",561,197,293,71
+Lincoln,A103,Circuit Clerk,,,Angelia Renee DOOLIN REP,561,197,293,71
 Lincoln,A103,Circuit Clerk,,,Total Votes,561,197,293,71
 Lincoln,A103,Circuit Clerk,,,Under Votes,157,64,56,37
 Lincoln,A103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -164,17 +164,17 @@ Lincoln,A103,COUNTY SURVEYOR,,,,0,0,0,0
 Lincoln,A103,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Lincoln,A103,COUNTY SURVEYOR,,,Under Votes,718,261,349,108
 Lincoln,A103,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Jerry G. WILKINSON ",338,131,156,51
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Jason HIGNITE ",263,97,136,30
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Bill MIRACLE ",306,122,141,43
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Eddie CARTER ",285,111,137,37
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Ronnie DEATHERAGE ",327,134,153,40
-Lincoln,A103,CITY COUNCIL City of Stanford,,,"Joe TACKETT ",288,111,144,33
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Jerry G. WILKINSON,338,131,156,51
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Jason HIGNITE,263,97,136,30
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Bill MIRACLE,306,122,141,43
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Eddie CARTER,285,111,137,37
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Ronnie DEATHERAGE,327,134,153,40
+Lincoln,A103,CITY COUNCIL City of Stanford,,,Joe TACKETT,288,111,144,33
 Lincoln,A103,CITY COUNCIL City of Stanford,,,Total Votes,1807,706,867,234
 Lincoln,A103,CITY COUNCIL City of Stanford,,,Under Votes,1967,656,999,312
 Lincoln,A103,CITY COUNCIL City of Stanford,,,Over Votes,3,0,2,1
-Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",403,136,213,54
-Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",259,106,116,37
+Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,YES,403,136,213,54
+Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,NO,259,106,116,37
 Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,662,242,329,91
 Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,55,19,19,17
 Lincoln,A103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
@@ -192,7 +192,7 @@ Lincoln,A104,STRAIGHT PARTY,,,Under Votes,153,51,77,25
 Lincoln,A104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,A104,President,,REP,Donald J. TRUMP / JD VANCE,230,67,133,30
 Lincoln,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,107,33,34,40
-Lincoln,A104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,A104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Lincoln,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -216,7 +216,7 @@ Lincoln,A104,Commonwealth's Attorney,28,REP,David L. DALTON,249,71,141,37
 Lincoln,A104,Commonwealth's Attorney,28,,Total Votes,249,71,141,37
 Lincoln,A104,Commonwealth's Attorney,28,,Under Votes,97,33,30,34
 Lincoln,A104,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,A104,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",275,80,152,43
+Lincoln,A104,Circuit Clerk,,,Angelia Renee DOOLIN REP,275,80,152,43
 Lincoln,A104,Circuit Clerk,,,Total Votes,275,80,152,43
 Lincoln,A104,Circuit Clerk,,,Under Votes,71,24,19,28
 Lincoln,A104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -228,13 +228,13 @@ Lincoln,A104,Board of Education,3,,Jennifer BROADBENT,164,44,99,21
 Lincoln,A104,Board of Education,3,,Total Votes,164,44,99,21
 Lincoln,A104,Board of Education,3,,Under Votes,182,60,72,50
 Lincoln,A104,Board of Education,3,,Over Votes,0,0,0,0
-Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",197,54,110,33
-Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",103,34,45,24
+Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,YES,197,54,110,33
+Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,NO,103,34,45,24
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,300,88,155,57
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,16,16,13
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,0,1
-Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",123,34,70,19
-Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",213,69,96,48
+Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,YES,123,34,70,19
+Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,NO,213,69,96,48
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,336,103,166,67
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,10,1,5,4
 Lincoln,A104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -247,7 +247,7 @@ Lincoln,B101,STRAIGHT PARTY,,,Under Votes,317,70,211,36
 Lincoln,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,B101,President,,REP,Donald J. TRUMP / JD VANCE,552,98,414,40
 Lincoln,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,132,33,69,30
-Lincoln,B101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Lincoln,B101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Lincoln,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,2,6,0
 Lincoln,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -271,7 +271,7 @@ Lincoln,B101,Commonwealth's Attorney,28,REP,David L. DALTON,574,105,424,45
 Lincoln,B101,Commonwealth's Attorney,28,,Total Votes,574,105,424,45
 Lincoln,B101,Commonwealth's Attorney,28,,Under Votes,120,28,67,25
 Lincoln,B101,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,B101,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",578,111,421,46
+Lincoln,B101,Circuit Clerk,,,Angelia Renee DOOLIN REP,578,111,421,46
 Lincoln,B101,Circuit Clerk,,,Total Votes,578,111,421,46
 Lincoln,B101,Circuit Clerk,,,Under Votes,116,22,70,24
 Lincoln,B101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -284,11 +284,11 @@ Lincoln,B101,Board of Education,5,,Etta S. MEEK,179,36,121,22
 Lincoln,B101,Board of Education,5,,Total Votes,560,102,406,52
 Lincoln,B101,Board of Education,5,,Under Votes,134,31,85,18
 Lincoln,B101,Board of Education,5,,Over Votes,0,0,0,0
-Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Anthony ""Tony"" SHELTON ",70,7,56,7
-Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Jerry Lee SHELTON ",57,5,47,5
-Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Kenny MANUEL ",58,8,42,8
-Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Mike ELDRIDGE ",85,8,69,8
-Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Mikael IVES ",40,4,32,4
+Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,"Anthony ""Tony"" SHELTON",70,7,56,7
+Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Jerry Lee SHELTON,57,5,47,5
+Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Kenny MANUEL,58,8,42,8
+Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Mike ELDRIDGE,85,8,69,8
+Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Mikael IVES,40,4,32,4
 Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Write In Total,13,2,10,1
 Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Total Votes,323,34,256,33
 Lincoln,B101,CITY COMMISSIONERS City of Crab Orchard,,,Under Votes,241,26,200,15
@@ -312,7 +312,7 @@ Lincoln,B102,STRAIGHT PARTY,,,Under Votes,246,33,192,21
 Lincoln,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,B102,President,,REP,Donald J. TRUMP / JD VANCE,452,77,332,43
 Lincoln,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,95,18,68,9
-Lincoln,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Lincoln,B102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Lincoln,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Lincoln,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -336,7 +336,7 @@ Lincoln,B102,Commonwealth's Attorney,28,REP,David L. DALTON,453,74,335,44
 Lincoln,B102,Commonwealth's Attorney,28,,Total Votes,453,74,335,44
 Lincoln,B102,Commonwealth's Attorney,28,,Under Votes,102,23,69,10
 Lincoln,B102,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,B102,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",462,78,340,44
+Lincoln,B102,Circuit Clerk,,,Angelia Renee DOOLIN REP,462,78,340,44
 Lincoln,B102,Circuit Clerk,,,Total Votes,462,78,340,44
 Lincoln,B102,Circuit Clerk,,,Under Votes,93,19,64,10
 Lincoln,B102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -349,11 +349,11 @@ Lincoln,B102,Board of Education,5,,Etta S. MEEK,161,27,120,14
 Lincoln,B102,Board of Education,5,,Total Votes,459,81,335,43
 Lincoln,B102,Board of Education,5,,Under Votes,95,16,68,11
 Lincoln,B102,Board of Education,5,,Over Votes,1,0,1,0
-Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Anthony ""Tony"" SHELTON ",102,11,75,16
-Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Jerry Lee SHELTON ",65,6,48,11
-Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Kenny MANUEL ",80,14,61,5
-Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Mike ELDRIDGE ",94,15,69,10
-Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Mikael IVES ",67,8,46,13
+Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,"Anthony ""Tony"" SHELTON",102,11,75,16
+Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Jerry Lee SHELTON,65,6,48,11
+Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Kenny MANUEL,80,14,61,5
+Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Mike ELDRIDGE,94,15,69,10
+Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Mikael IVES,67,8,46,13
 Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Write In Total,31,7,24,0
 Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Total Votes,439,61,323,55
 Lincoln,B102,CITY COMMISSIONERS City of Crab Orchard,,,Under Votes,349,35,273,41
@@ -377,7 +377,7 @@ Lincoln,B103,STRAIGHT PARTY,,,Under Votes,218,27,176,15
 Lincoln,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,B103,President,,REP,Donald J. TRUMP / JD VANCE,395,55,313,27
 Lincoln,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,65,7,57,1
-Lincoln,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,B103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,3,1
 Lincoln,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Lincoln,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,0,1
@@ -401,7 +401,7 @@ Lincoln,B103,Commonwealth's Attorney,28,REP,David L. DALTON,410,57,324,29
 Lincoln,B103,Commonwealth's Attorney,28,,Total Votes,410,57,324,29
 Lincoln,B103,Commonwealth's Attorney,28,,Under Votes,61,7,53,1
 Lincoln,B103,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,B103,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",399,58,314,27
+Lincoln,B103,Circuit Clerk,,,Angelia Renee DOOLIN REP,399,58,314,27
 Lincoln,B103,Circuit Clerk,,,Total Votes,399,58,314,27
 Lincoln,B103,Circuit Clerk,,,Under Votes,72,6,63,3
 Lincoln,B103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -414,13 +414,13 @@ Lincoln,B103,Board of Education,5,,Etta S. MEEK,139,15,118,6
 Lincoln,B103,Board of Education,5,,Total Votes,375,46,305,24
 Lincoln,B103,Board of Education,5,,Under Votes,95,18,71,6
 Lincoln,B103,Board of Education,5,,Over Votes,1,0,1,0
-Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",318,39,257,22
-Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",118,18,92,8
+Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,YES,318,39,257,22
+Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,NO,118,18,92,8
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,436,57,349,30
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,33,7,26,0
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,0,2,0
-Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",188,26,151,11
-Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",264,35,212,17
+Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,YES,188,26,151,11
+Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,NO,264,35,212,17
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,452,61,363,28
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,19,3,14,2
 Lincoln,B103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -433,7 +433,7 @@ Lincoln,B104,STRAIGHT PARTY,,,Under Votes,405,121,217,67
 Lincoln,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,B104,President,,REP,Donald J. TRUMP / JD VANCE,676,218,353,105
 Lincoln,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,178,61,75,42
-Lincoln,B104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,B104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,2,1
 Lincoln,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,3,2,1,0
@@ -457,7 +457,7 @@ Lincoln,B104,Commonwealth's Attorney,28,REP,David L. DALTON,719,232,378,109
 Lincoln,B104,Commonwealth's Attorney,28,,Total Votes,719,232,378,109
 Lincoln,B104,Commonwealth's Attorney,28,,Under Votes,143,50,54,39
 Lincoln,B104,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,B104,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",726,239,380,107
+Lincoln,B104,Circuit Clerk,,,Angelia Renee DOOLIN REP,726,239,380,107
 Lincoln,B104,Circuit Clerk,,,Total Votes,726,239,380,107
 Lincoln,B104,Circuit Clerk,,,Under Votes,136,43,52,41
 Lincoln,B104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -484,7 +484,7 @@ Lincoln,C101,STRAIGHT PARTY,,,Under Votes,320,84,215,21
 Lincoln,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,C101,President,,REP,Donald J. TRUMP / JD VANCE,599,143,405,51
 Lincoln,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,114,33,66,15
-Lincoln,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,C101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,2,7,0
 Lincoln,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -508,7 +508,7 @@ Lincoln,C101,Commonwealth's Attorney,28,REP,David L. DALTON,616,145,420,51
 Lincoln,C101,Commonwealth's Attorney,28,,Total Votes,616,145,420,51
 Lincoln,C101,Commonwealth's Attorney,28,,Under Votes,111,34,62,15
 Lincoln,C101,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,C101,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",621,146,420,55
+Lincoln,C101,Circuit Clerk,,,Angelia Renee DOOLIN REP,621,146,420,55
 Lincoln,C101,Circuit Clerk,,,Total Votes,621,146,420,55
 Lincoln,C101,Circuit Clerk,,,Under Votes,105,33,61,11
 Lincoln,C101,Circuit Clerk,,,Over Votes,1,0,1,0
@@ -521,13 +521,13 @@ Lincoln,C101,Board of Education,4,,Gloria SNEED,298,52,225,21
 Lincoln,C101,Board of Education,4,,Total Votes,526,102,385,39
 Lincoln,C101,Board of Education,4,,Under Votes,201,77,97,27
 Lincoln,C101,Board of Education,4,,Over Votes,0,0,0,0
-Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",508,127,341,40
-Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",174,45,113,16
+Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,508,127,341,40
+Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,174,45,113,16
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,682,172,454,56
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,7,28,10
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",306,89,190,27
-Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",408,88,285,35
+Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,306,89,190,27
+Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,408,88,285,35
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,714,177,475,62
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,2,7,4
 Lincoln,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -540,7 +540,7 @@ Lincoln,C102,STRAIGHT PARTY,,,Under Votes,208,24,164,20
 Lincoln,C102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,C102,President,,REP,Donald J. TRUMP / JD VANCE,384,60,298,26
 Lincoln,C102,President,,DEM,Kamala D. HARRIS / Tim WALZ,49,2,39,8
-Lincoln,C102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Lincoln,C102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Lincoln,C102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,1,2
 Lincoln,C102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,C102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -564,7 +564,7 @@ Lincoln,C102,Commonwealth's Attorney,28,REP,David L. DALTON,390,59,301,30
 Lincoln,C102,Commonwealth's Attorney,28,,Total Votes,390,59,301,30
 Lincoln,C102,Commonwealth's Attorney,28,,Under Votes,52,3,42,7
 Lincoln,C102,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,C102,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",387,57,299,31
+Lincoln,C102,Circuit Clerk,,,Angelia Renee DOOLIN REP,387,57,299,31
 Lincoln,C102,Circuit Clerk,,,Total Votes,387,57,299,31
 Lincoln,C102,Circuit Clerk,,,Under Votes,55,5,44,6
 Lincoln,C102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -577,10 +577,10 @@ Lincoln,C102,Board of Education,4,,Gloria SNEED,187,20,147,20
 Lincoln,C102,Board of Education,4,,Total Votes,330,39,264,27
 Lincoln,C102,Board of Education,4,,Under Votes,112,23,79,10
 Lincoln,C102,Board of Education,4,,Over Votes,0,0,0,0
-Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,"Kenny UPCHURCH ",3,0,3,0
-Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,"Curtis G. TODD ",3,1,2,0
-Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,"David E. SHIVEL ",2,0,2,0
-Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,"Iris TODD ",2,0,2,0
+Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Kenny UPCHURCH,3,0,3,0
+Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Curtis G. TODD,3,1,2,0
+Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,David E. SHIVEL,2,0,2,0
+Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Iris TODD,2,0,2,0
 Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Total Votes,10,1,9,0
 Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Under Votes,6,3,3,0
 Lincoln,C102,CITY COMMISSIONERS City of Eubank,,,Over Votes,0,0,0,0
@@ -603,7 +603,7 @@ Lincoln,C103,STRAIGHT PARTY,,,Under Votes,205,55,139,11
 Lincoln,C103,STRAIGHT PARTY,,,Over Votes,1,0,1,0
 Lincoln,C103,President,,REP,Donald J. TRUMP / JD VANCE,346,100,228,18
 Lincoln,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,90,27,54,9
-Lincoln,C103,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Lincoln,C103,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Lincoln,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Lincoln,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,2,0,2,0
 Lincoln,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -627,7 +627,7 @@ Lincoln,C103,Commonwealth's Attorney,28,REP,David L. DALTON,369,102,250,17
 Lincoln,C103,Commonwealth's Attorney,28,,Total Votes,369,102,250,17
 Lincoln,C103,Commonwealth's Attorney,28,,Under Votes,79,27,41,11
 Lincoln,C103,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,C103,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",371,103,251,17
+Lincoln,C103,Circuit Clerk,,,Angelia Renee DOOLIN REP,371,103,251,17
 Lincoln,C103,Circuit Clerk,,,Total Votes,371,103,251,17
 Lincoln,C103,Circuit Clerk,,,Under Votes,77,26,40,11
 Lincoln,C103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -640,13 +640,13 @@ Lincoln,C103,Board of Education,4,,Gloria SNEED,166,43,117,6
 Lincoln,C103,Board of Education,4,,Total Votes,328,84,232,12
 Lincoln,C103,Board of Education,4,,Under Votes,120,45,59,16
 Lincoln,C103,Board of Education,4,,Over Votes,0,0,0,0
-Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",276,80,184,12
-Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",139,35,96,8
+Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,276,80,184,12
+Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,139,35,96,8
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,415,115,280,20
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,13,11,8
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
-Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",152,48,92,12
-Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",282,77,190,15
+Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,152,48,92,12
+Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,282,77,190,15
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,434,125,282,27
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,4,9,1
 Lincoln,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -659,7 +659,7 @@ Lincoln,C104,STRAIGHT PARTY,,,Under Votes,242,87,141,14
 Lincoln,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,C104,President,,REP,Donald J. TRUMP / JD VANCE,430,122,272,36
 Lincoln,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,75,35,30,10
-Lincoln,C104,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,C104,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Lincoln,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Lincoln,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -683,7 +683,7 @@ Lincoln,C104,Commonwealth's Attorney,28,REP,David L. DALTON,444,131,277,36
 Lincoln,C104,Commonwealth's Attorney,28,,Total Votes,444,131,277,36
 Lincoln,C104,Commonwealth's Attorney,28,,Under Votes,71,30,30,11
 Lincoln,C104,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,C104,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",443,133,274,36
+Lincoln,C104,Circuit Clerk,,,Angelia Renee DOOLIN REP,443,133,274,36
 Lincoln,C104,Circuit Clerk,,,Total Votes,443,133,274,36
 Lincoln,C104,Circuit Clerk,,,Under Votes,72,28,33,11
 Lincoln,C104,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -696,13 +696,13 @@ Lincoln,C104,Board of Education,4,,Gloria SNEED,121,39,76,6
 Lincoln,C104,Board of Education,4,,Total Votes,362,102,236,24
 Lincoln,C104,Board of Education,4,,Under Votes,153,59,71,23
 Lincoln,C104,Board of Education,4,,Over Votes,0,0,0,0
-Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",350,104,214,32
-Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",128,47,71,10
+Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,350,104,214,32
+Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,128,47,71,10
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,478,151,285,42
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,37,10,22,5
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",212,65,127,20
-Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",282,93,165,24
+Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,212,65,127,20
+Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,282,93,165,24
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,494,158,292,44
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,21,3,15,3
 Lincoln,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -715,7 +715,7 @@ Lincoln,C105,STRAIGHT PARTY,,,Under Votes,290,89,179,22
 Lincoln,C105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,C105,President,,REP,Donald J. TRUMP / JD VANCE,538,162,318,58
 Lincoln,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,100,31,62,7
-Lincoln,C105,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,1,1
+Lincoln,C105,President,,KY,Jill STEIN / Samson KPADENOU,3,1,1,1
 Lincoln,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Lincoln,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
@@ -739,7 +739,7 @@ Lincoln,C105,Commonwealth's Attorney,28,REP,David L. DALTON,557,164,335,58
 Lincoln,C105,Commonwealth's Attorney,28,,Total Votes,557,164,335,58
 Lincoln,C105,Commonwealth's Attorney,28,,Under Votes,99,33,55,11
 Lincoln,C105,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,C105,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",569,169,338,62
+Lincoln,C105,Circuit Clerk,,,Angelia Renee DOOLIN REP,569,169,338,62
 Lincoln,C105,Circuit Clerk,,,Total Votes,569,169,338,62
 Lincoln,C105,Circuit Clerk,,,Under Votes,87,28,52,7
 Lincoln,C105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -752,13 +752,13 @@ Lincoln,C105,Board of Education,5,,Etta S. MEEK,280,89,163,28
 Lincoln,C105,Board of Education,5,,Total Votes,523,150,320,53
 Lincoln,C105,Board of Education,5,,Under Votes,133,47,70,16
 Lincoln,C105,Board of Education,5,,Over Votes,0,0,0,0
-Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",468,140,279,49
-Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",152,42,96,14
+Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,YES,468,140,279,49
+Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,NO,152,42,96,14
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,620,182,375,63
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,36,15,15,6
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",284,91,159,34
-Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",363,104,227,32
+Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,YES,284,91,159,34
+Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,NO,363,104,227,32
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,647,195,386,66
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,9,2,4,3
 Lincoln,C105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -771,7 +771,7 @@ Lincoln,D101,STRAIGHT PARTY,,,Under Votes,190,28,140,22
 Lincoln,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,D101,President,,REP,Donald J. TRUMP / JD VANCE,358,48,278,32
 Lincoln,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,86,14,57,15
-Lincoln,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Lincoln,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -795,7 +795,7 @@ Lincoln,D101,Commonwealth's Attorney,28,REP,David L. DALTON,361,50,277,34
 Lincoln,D101,Commonwealth's Attorney,28,,Total Votes,361,50,277,34
 Lincoln,D101,Commonwealth's Attorney,28,,Under Votes,90,12,62,16
 Lincoln,D101,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,D101,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",369,51,283,35
+Lincoln,D101,Circuit Clerk,,,Angelia Renee DOOLIN REP,369,51,283,35
 Lincoln,D101,Circuit Clerk,,,Total Votes,369,51,283,35
 Lincoln,D101,Circuit Clerk,,,Under Votes,82,11,56,15
 Lincoln,D101,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -807,15 +807,15 @@ Lincoln,D101,Board of Education,1,,Tyler McGUFFEY,294,39,227,28
 Lincoln,D101,Board of Education,1,,Total Votes,294,39,227,28
 Lincoln,D101,Board of Education,1,,Under Votes,157,23,112,22
 Lincoln,D101,Board of Education,1,,Over Votes,0,0,0,0
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Kimberly Sue RAY ",45,6,38,1
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Donna L. HENDRICKS ",63,7,51,5
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Jimmy R. EVANS ",70,11,54,5
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Gerald ""Jerry"" NORRIS SR. ",78,6,65,7
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Brent STEWART ",76,9,62,5
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Jessie N. HUME ",36,2,33,1
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Alan SIMS ",84,9,70,5
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Richard W. COOPER ",87,8,73,6
-Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Jimmy LANE ",99,12,82,5
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Kimberly Sue RAY,45,6,38,1
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Donna L. HENDRICKS,63,7,51,5
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Jimmy R. EVANS,70,11,54,5
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,"Gerald ""Jerry"" NORRIS SR.",78,6,65,7
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Brent STEWART,76,9,62,5
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Jessie N. HUME,36,2,33,1
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Alan SIMS,84,9,70,5
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Richard W. COOPER,87,8,73,6
+Lincoln,D101,CITY COUNCIL City of Hustonville,,,Jimmy LANE,99,12,82,5
 Lincoln,D101,CITY COUNCIL City of Hustonville,,,Total Votes,638,70,528,40
 Lincoln,D101,CITY COUNCIL City of Hustonville,,,Under Votes,556,92,408,56
 Lincoln,D101,CITY COUNCIL City of Hustonville,,,Over Votes,0,0,0,0
@@ -838,7 +838,7 @@ Lincoln,D102,STRAIGHT PARTY,,,Under Votes,150,29,113,8
 Lincoln,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,D102,President,,REP,Donald J. TRUMP / JD VANCE,264,53,201,10
 Lincoln,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,56,13,42,1
-Lincoln,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,D102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Lincoln,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -862,7 +862,7 @@ Lincoln,D102,Commonwealth's Attorney,28,REP,David L. DALTON,263,50,205,8
 Lincoln,D102,Commonwealth's Attorney,28,,Total Votes,263,50,205,8
 Lincoln,D102,Commonwealth's Attorney,28,,Under Votes,58,17,38,3
 Lincoln,D102,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,D102,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",271,52,210,9
+Lincoln,D102,Circuit Clerk,,,Angelia Renee DOOLIN REP,271,52,210,9
 Lincoln,D102,Circuit Clerk,,,Total Votes,271,52,210,9
 Lincoln,D102,Circuit Clerk,,,Under Votes,50,15,33,2
 Lincoln,D102,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -874,13 +874,13 @@ Lincoln,D102,Board of Education,3,,Jennifer BROADBENT,203,30,165,8
 Lincoln,D102,Board of Education,3,,Total Votes,203,30,165,8
 Lincoln,D102,Board of Education,3,,Under Votes,118,37,78,3
 Lincoln,D102,Board of Education,3,,Over Votes,0,0,0,0
-Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",198,38,153,7
-Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",94,20,73,1
+Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,198,38,153,7
+Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,94,20,73,1
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,292,58,226,8
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,29,9,17,3
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",136,32,97,7
-Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",174,31,139,4
+Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,136,32,97,7
+Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,174,31,139,4
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,310,63,236,11
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,4,7,0
 Lincoln,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -893,7 +893,7 @@ Lincoln,D103,STRAIGHT PARTY,,,Under Votes,607,124,429,54
 Lincoln,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,D103,President,,REP,Donald J. TRUMP / JD VANCE,1137,206,834,97
 Lincoln,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,210,58,114,38
-Lincoln,D103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Lincoln,D103,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Lincoln,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,5,5,2
 Lincoln,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,5,2,3,0
@@ -917,7 +917,7 @@ Lincoln,D103,Commonwealth's Attorney,28,REP,David L. DALTON,1162,222,840,100
 Lincoln,D103,Commonwealth's Attorney,28,,Total Votes,1162,222,840,100
 Lincoln,D103,Commonwealth's Attorney,28,,Under Votes,212,50,123,39
 Lincoln,D103,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,D103,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",1181,226,852,103
+Lincoln,D103,Circuit Clerk,,,Angelia Renee DOOLIN REP,1181,226,852,103
 Lincoln,D103,Circuit Clerk,,,Total Votes,1181,226,852,103
 Lincoln,D103,Circuit Clerk,,,Under Votes,193,46,111,36
 Lincoln,D103,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -929,13 +929,13 @@ Lincoln,D103,Board of Education,1,,Tyler McGUFFEY,834,150,621,63
 Lincoln,D103,Board of Education,1,,Total Votes,834,150,621,63
 Lincoln,D103,Board of Education,1,,Under Votes,539,122,341,76
 Lincoln,D103,Board of Education,1,,Over Votes,1,0,1,0
-Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",951,185,669,97
-Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",343,75,233,35
+Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,YES,951,185,669,97
+Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,NO,343,75,233,35
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,1294,260,902,132
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,74,11,56,7
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,6,1,5,0
-Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",511,97,363,51
-Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",835,170,583,82
+Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,YES,511,97,363,51
+Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,NO,835,170,583,82
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1346,267,946,133
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,27,5,16,6
 Lincoln,D103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -948,7 +948,7 @@ Lincoln,D105,STRAIGHT PARTY,,,Under Votes,149,34,104,11
 Lincoln,D105,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,D105,President,,REP,Donald J. TRUMP / JD VANCE,285,59,200,26
 Lincoln,D105,President,,DEM,Kamala D. HARRIS / Tim WALZ,77,18,46,13
-Lincoln,D105,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Lincoln,D105,President,,KY,Jill STEIN / Samson KPADENOU,1,1,0,0
 Lincoln,D105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Lincoln,D105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,D105,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -972,7 +972,7 @@ Lincoln,D105,Commonwealth's Attorney,28,REP,David L. DALTON,296,62,207,27
 Lincoln,D105,Commonwealth's Attorney,28,,Total Votes,296,62,207,27
 Lincoln,D105,Commonwealth's Attorney,28,,Under Votes,68,16,40,12
 Lincoln,D105,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,D105,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",301,66,209,26
+Lincoln,D105,Circuit Clerk,,,Angelia Renee DOOLIN REP,301,66,209,26
 Lincoln,D105,Circuit Clerk,,,Total Votes,301,66,209,26
 Lincoln,D105,Circuit Clerk,,,Under Votes,63,12,38,13
 Lincoln,D105,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -984,13 +984,13 @@ Lincoln,D105,Board of Education,1,,Tyler McGUFFEY,216,43,158,15
 Lincoln,D105,Board of Education,1,,Total Votes,216,43,158,15
 Lincoln,D105,Board of Education,1,,Under Votes,148,35,89,24
 Lincoln,D105,Board of Education,1,,Over Votes,0,0,0,0
-Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,"YES ",250,54,169,27
-Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,"NO ",93,21,64,8
+Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,YES,250,54,169,27
+Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,NO,93,21,64,8
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,343,75,233,35
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,19,2,13,4
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
-Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,"YES ",126,38,73,15
-Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,"NO ",233,40,170,23
+Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,YES,126,38,73,15
+Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,NO,233,40,170,23
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,359,78,243,38
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,5,0,4,1
 Lincoln,D105,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1003,7 +1003,7 @@ Lincoln,D106,STRAIGHT PARTY,,,Under Votes,166,35,120,11
 Lincoln,D106,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Lincoln,D106,President,,REP,Donald J. TRUMP / JD VANCE,345,71,252,22
 Lincoln,D106,President,,DEM,Kamala D. HARRIS / Tim WALZ,42,7,27,8
-Lincoln,D106,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Lincoln,D106,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Lincoln,D106,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Lincoln,D106,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Lincoln,D106,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -1027,7 +1027,7 @@ Lincoln,D106,Commonwealth's Attorney,28,REP,David L. DALTON,340,63,253,24
 Lincoln,D106,Commonwealth's Attorney,28,,Total Votes,340,63,253,24
 Lincoln,D106,Commonwealth's Attorney,28,,Under Votes,50,15,29,6
 Lincoln,D106,Commonwealth's Attorney,28,,Over Votes,0,0,0,0
-Lincoln,D106,Circuit Clerk,,,"Angelia Renee DOOLIN REP ",347,66,257,24
+Lincoln,D106,Circuit Clerk,,,Angelia Renee DOOLIN REP,347,66,257,24
 Lincoln,D106,Circuit Clerk,,,Total Votes,347,66,257,24
 Lincoln,D106,Circuit Clerk,,,Under Votes,43,12,25,6
 Lincoln,D106,Circuit Clerk,,,Over Votes,0,0,0,0
@@ -1039,13 +1039,13 @@ Lincoln,D106,Board of Education,3,,Jennifer BROADBENT,233,37,181,15
 Lincoln,D106,Board of Education,3,,Total Votes,233,37,181,15
 Lincoln,D106,Board of Education,3,,Under Votes,157,41,101,15
 Lincoln,D106,Board of Education,3,,Over Votes,0,0,0,0
-Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,"YES ",241,45,179,17
-Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,"NO ",107,25,75,7
+Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,YES,241,45,179,17
+Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,NO,107,25,75,7
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,348,70,254,24
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,42,8,28,6
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,"YES ",187,41,127,19
-Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,"NO ",189,35,145,9
+Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,YES,187,41,127,19
+Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,NO,189,35,145,9
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,376,76,272,28
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,14,2,10,2
 Lincoln,D106,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0

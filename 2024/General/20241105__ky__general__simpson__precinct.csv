@@ -8,7 +8,7 @@ Simpson,A101,STRAIGHT PARTY,,,Under Votes,388,158,211,19
 Simpson,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,A101,President,,REP,Donald J. TRUMP / JD VANCE,702,263,413,26
 Simpson,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,172,77,68,27
-Simpson,A101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Simpson,A101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Simpson,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Simpson,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -37,8 +37,8 @@ Simpson,A101,COUNTY SURVEYOR,,,,0,0,0,0
 Simpson,A101,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Simpson,A101,COUNTY SURVEYOR,,,Under Votes,883,343,487,53
 Simpson,A101,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",584,232,321,31
-Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",254,103,134,17
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,584,232,321,31
+Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,254,103,134,17
 Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,838,335,455,48
 Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,8,32,5
 Simpson,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
@@ -56,7 +56,7 @@ Simpson,A102,STRAIGHT PARTY,,,Under Votes,331,117,194,20
 Simpson,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,A102,President,,REP,Donald J. TRUMP / JD VANCE,615,220,371,24
 Simpson,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,128,60,58,10
-Simpson,A102,President,,KY,Jill  STEIN / Samson KPADENOU,1,1,0,0
+Simpson,A102,President,,KY,Jill STEIN / Samson KPADENOU,1,1,0,0
 Simpson,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Simpson,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Simpson,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -85,8 +85,8 @@ Simpson,A102,COUNTY SURVEYOR,,,,0,0,0,0
 Simpson,A102,COUNTY SURVEYOR,,,Total Votes,0,0,0,0
 Simpson,A102,COUNTY SURVEYOR,,,Under Votes,758,285,439,34
 Simpson,A102,COUNTY SURVEYOR,,,Over Votes,0,0,0,0
-Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",524,198,305,21
-Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",194,75,110,9
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,524,198,305,21
+Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,194,75,110,9
 Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,718,273,415,30
 Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,39,11,24,4
 Simpson,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
@@ -104,7 +104,7 @@ Simpson,A103,STRAIGHT PARTY,,,Under Votes,217,76,135,6
 Simpson,A103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,A103,President,,REP,Donald J. TRUMP / JD VANCE,346,123,209,14
 Simpson,A103,President,,DEM,Kamala D. HARRIS / Tim WALZ,169,58,93,18
-Simpson,A103,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Simpson,A103,President,,KY,Jill STEIN / Samson KPADENOU,3,1,2,0
 Simpson,A103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,2,5,0
 Simpson,A103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,A103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -137,17 +137,17 @@ Simpson,A103,Board of Education,3,,"Gillian ""Jill"" KUMMER",25,11,14,0
 Simpson,A103,Board of Education,3,,Total Votes,25,11,14,0
 Simpson,A103,Board of Education,3,,Under Votes,18,8,10,0
 Simpson,A103,Board of Education,3,,Over Votes,0,0,0,0
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",194,68,113,13
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",200,73,118,9
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",227,79,133,15
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",169,58,97,14
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",215,92,117,6
-Simpson,A103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",195,66,116,13
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,194,68,113,13
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,200,73,118,9
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,227,79,133,15
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,169,58,97,14
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,215,92,117,6
+Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,195,66,116,13
 Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1200,436,694,70
 Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Under Votes,912,300,554,58
 Simpson,A103,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,1,0,0
-Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,"YES ",393,128,237,28
-Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,"NO ",108,45,61,2
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,YES,393,128,237,28
+Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,NO,108,45,61,2
 Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,501,173,298,30
 Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,28,12,14,2
 Simpson,A103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
@@ -170,7 +170,7 @@ Simpson,B101,STRAIGHT PARTY,,,Under Votes,353,145,187,21
 Simpson,B101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,B101,President,,REP,Donald J. TRUMP / JD VANCE,569,242,307,20
 Simpson,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,188,79,91,18
-Simpson,B101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,B101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Simpson,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,3,5,0
 Simpson,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -222,7 +222,7 @@ Simpson,B102,STRAIGHT PARTY,,,Under Votes,126,55,59,12
 Simpson,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,B102,President,,REP,Donald J. TRUMP / JD VANCE,210,97,105,8
 Simpson,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,136,45,70,21
-Simpson,B102,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,1,2
+Simpson,B102,President,,KY,Jill STEIN / Samson KPADENOU,3,0,1,2
 Simpson,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,0,3,1
 Simpson,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -255,17 +255,17 @@ Simpson,B102,Board of Education,3,,"Gillian ""Jill"" KUMMER",216,75,121,20
 Simpson,B102,Board of Education,3,,Total Votes,216,75,121,20
 Simpson,B102,Board of Education,3,,Under Votes,139,68,59,12
 Simpson,B102,Board of Education,3,,Over Votes,0,0,0,0
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",138,58,59,21
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",109,52,47,10
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",155,59,80,16
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",107,43,60,4
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",153,64,76,13
-Simpson,B102,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",143,51,73,19
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,138,58,59,21
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,109,52,47,10
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,155,59,80,16
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,107,43,60,4
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,153,64,76,13
+Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,143,51,73,19
 Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Total Votes,805,327,395,83
 Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Under Votes,615,245,325,45
 Simpson,B102,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
-Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,"YES ",245,96,127,22
-Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,"NO ",96,46,43,7
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,YES,245,96,127,22
+Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,NO,96,46,43,7
 Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Total Votes,341,142,170,29
 Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Under Votes,14,1,10,3
 Simpson,B102,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
@@ -288,7 +288,7 @@ Simpson,B103,STRAIGHT PARTY,,,Under Votes,570,255,287,28
 Simpson,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,B103,President,,REP,Donald J. TRUMP / JD VANCE,737,355,353,29
 Simpson,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,329,169,126,34
-Simpson,B103,President,,KY,Jill  STEIN / Samson KPADENOU,2,1,1,0
+Simpson,B103,President,,KY,Jill STEIN / Samson KPADENOU,2,1,1,0
 Simpson,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,14,4,10,0
 Simpson,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Simpson,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,6,4,2,0
@@ -325,12 +325,12 @@ Simpson,B103,Board of Education,,,,0,0,0,0
 Simpson,B103,Board of Education,,,Total Votes,0,0,0,0
 Simpson,B103,Board of Education,,,Under Votes,754,352,348,54
 Simpson,B103,Board of Education,,,Over Votes,0,0,0,0
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",404,195,182,27
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",502,244,231,27
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",413,192,202,19
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",440,217,197,26
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",450,211,215,24
-Simpson,B103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",445,221,193,31
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,404,195,182,27
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,502,244,231,27
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,413,192,202,19
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,440,217,197,26
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,450,211,215,24
+Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,445,221,193,31
 Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Total Votes,2654,1280,1220,154
 Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Under Votes,1738,852,788,98
 Simpson,B103,CITY COMMISSIONERS City of Franklin,,,Over Votes,3,2,1,0
@@ -358,7 +358,7 @@ Simpson,C101,STRAIGHT PARTY,,,Under Votes,160,61,92,7
 Simpson,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,C101,President,,REP,Donald J. TRUMP / JD VANCE,265,106,152,7
 Simpson,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,86,40,39,7
-Simpson,C101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,C101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Simpson,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,1,3,0
 Simpson,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -391,17 +391,17 @@ Simpson,C101,Board of Education,1,,Write In Total,38,22,15,1
 Simpson,C101,Board of Education,1,,Total Votes,38,22,15,1
 Simpson,C101,Board of Education,1,,Under Votes,320,127,180,13
 Simpson,C101,Board of Education,1,,Over Votes,0,0,0,0
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",135,66,61,8
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",174,83,83,8
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",142,65,69,8
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",142,57,79,6
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",151,51,95,5
-Simpson,C101,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",142,65,68,9
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,135,66,61,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,174,83,83,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,142,65,69,8
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,142,57,79,6
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,151,51,95,5
+Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,142,65,68,9
 Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Total Votes,886,387,455,44
 Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Under Votes,542,209,321,12
 Simpson,C101,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,0,1,0
-Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,"YES ",215,85,122,8
-Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,"NO ",120,52,62,6
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,YES,215,85,122,8
+Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,NO,120,52,62,6
 Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Total Votes,335,137,184,14
 Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Under Votes,23,12,11,0
 Simpson,C101,QUESTION-FRANKLIN CANNABIS,,,Over Votes,0,0,0,0
@@ -424,7 +424,7 @@ Simpson,C103,STRAIGHT PARTY,,,Under Votes,293,144,133,16
 Simpson,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,C103,President,,REP,Donald J. TRUMP / JD VANCE,461,210,238,13
 Simpson,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,203,100,85,18
-Simpson,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,C103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Simpson,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,4,3,0
 Simpson,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,1,0,0
@@ -457,17 +457,17 @@ Simpson,C103,Board of Education,1,,Write In Total,13,8,4,1
 Simpson,C103,Board of Education,1,,Total Votes,13,8,4,1
 Simpson,C103,Board of Education,1,,Under Votes,219,116,90,13
 Simpson,C103,Board of Education,1,,Over Votes,0,0,0,0
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",244,119,113,12
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",294,142,139,13
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",288,127,146,15
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",267,131,120,16
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",309,140,156,13
-Simpson,C103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",271,128,127,16
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,244,119,113,12
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,294,142,139,13
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,288,127,146,15
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,267,131,120,16
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,309,140,156,13
+Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,271,128,127,16
 Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1673,787,801,85
 Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Under Votes,1023,473,511,39
 Simpson,C103,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
-Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,"YES ",420,175,225,20
-Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,"NO ",221,124,86,11
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,YES,420,175,225,20
+Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,NO,221,124,86,11
 Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,641,299,311,31
 Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,31,15,16,0
 Simpson,C103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,2,1,1,0
@@ -490,7 +490,7 @@ Simpson,C104,STRAIGHT PARTY,,,Under Votes,674,261,386,27
 Simpson,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,C104,President,,REP,Donald J. TRUMP / JD VANCE,1069,438,598,33
 Simpson,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,320,126,166,28
-Simpson,C104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Simpson,C104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Simpson,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
 Simpson,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,6,0,6,0
@@ -542,7 +542,7 @@ Simpson,D101,STRAIGHT PARTY,,,Under Votes,158,59,93,6
 Simpson,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,D101,President,,REP,Donald J. TRUMP / JD VANCE,260,111,138,11
 Simpson,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,80,33,47,0
-Simpson,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Simpson,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Simpson,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -594,7 +594,7 @@ Simpson,D102,STRAIGHT PARTY,,,Under Votes,255,119,125,11
 Simpson,D102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,D102,President,,REP,Donald J. TRUMP / JD VANCE,384,184,189,11
 Simpson,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,98,55,33,10
-Simpson,D102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Simpson,D102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Simpson,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,1,1,0
 Simpson,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -646,7 +646,7 @@ Simpson,D103,STRAIGHT PARTY,,,Under Votes,151,76,68,7
 Simpson,D103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,D103,President,,REP,Donald J. TRUMP / JD VANCE,185,78,104,3
 Simpson,D103,President,,DEM,Kamala D. HARRIS / Tim WALZ,265,131,112,22
-Simpson,D103,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Simpson,D103,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Simpson,D103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,2,0,0
 Simpson,D103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Simpson,D103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -679,17 +679,17 @@ Simpson,D103,Board of Education,1,,Write In Total,18,10,7,1
 Simpson,D103,Board of Education,1,,Total Votes,18,10,7,1
 Simpson,D103,Board of Education,1,,Under Votes,440,201,214,25
 Simpson,D103,Board of Education,1,,Over Votes,0,0,0,0
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",231,109,109,13
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",144,64,75,5
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",220,116,91,13
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",161,80,72,9
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",138,62,70,6
-Simpson,D103,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",263,122,124,17
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,231,109,109,13
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,144,64,75,5
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,220,116,91,13
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,161,80,72,9
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,138,62,70,6
+Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,263,122,124,17
 Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Total Votes,1157,553,541,63
 Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Under Votes,675,291,343,41
 Simpson,D103,CITY COMMISSIONERS City of Franklin,,,Over Votes,0,0,0,0
-Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,"YES ",294,128,149,17
-Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,"NO ",115,55,54,6
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,YES,294,128,149,17
+Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,NO,115,55,54,6
 Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Total Votes,409,183,203,23
 Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Under Votes,48,27,18,3
 Simpson,D103,QUESTION-FRANKLIN CANNABIS,,,Over Votes,1,1,0,0
@@ -712,7 +712,7 @@ Simpson,D104,STRAIGHT PARTY,,,Under Votes,276,95,173,8
 Simpson,D104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Simpson,D104,President,,REP,Donald J. TRUMP / JD VANCE,450,139,296,15
 Simpson,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,229,73,140,16
-Simpson,D104,President,,KY,Jill  STEIN / Samson KPADENOU,5,3,2,0
+Simpson,D104,President,,KY,Jill STEIN / Samson KPADENOU,5,3,2,0
 Simpson,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,6,0
 Simpson,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Simpson,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,4,2,2,0
@@ -745,17 +745,17 @@ Simpson,D104,Board of Education,,,,0,0,0,0
 Simpson,D104,Board of Education,,,Total Votes,0,0,0,0
 Simpson,D104,Board of Education,,,Under Votes,700,219,450,31
 Simpson,D104,Board of Education,,,Over Votes,0,0,0,0
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Herbert S. WILLIAMS ",240,70,151,19
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Dale McCREARY ",237,80,146,11
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Jamie POWELL ",281,71,195,15
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Brownie BENNETT ",223,75,137,11
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Kelly BUSH ",298,91,196,11
-Simpson,D104,CITY COMMISSIONERS City of Franklin,,,"Wendell STEWART ",288,82,191,15
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Herbert S. WILLIAMS,240,70,151,19
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Dale McCREARY,237,80,146,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Jamie POWELL,281,71,195,15
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Brownie BENNETT,223,75,137,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Kelly BUSH,298,91,196,11
+Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Wendell STEWART,288,82,191,15
 Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Total Votes,1567,469,1016,82
 Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Under Votes,1229,407,780,42
 Simpson,D104,CITY COMMISSIONERS City of Franklin,,,Over Votes,1,0,1,0
-Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,"YES ",452,141,291,20
-Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,"NO ",198,61,127,10
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,YES,452,141,291,20
+Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,NO,198,61,127,10
 Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Total Votes,650,202,418,30
 Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Under Votes,49,17,31,1
 Simpson,D104,QUESTION-FRANKLIN CANNABIS,,,Over Votes,1,0,1,0

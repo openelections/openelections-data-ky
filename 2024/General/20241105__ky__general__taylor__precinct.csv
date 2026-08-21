@@ -8,7 +8,7 @@ Taylor,A101,STRAIGHT PARTY,,,Under Votes,221,71,137,13
 Taylor,A101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,A101,President,,REP,Donald J. TRUMP / JD VANCE,375,129,235,11
 Taylor,A101,President,,DEM,Kamala D. HARRIS / Tim WALZ,55,13,31,11
-Taylor,A101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,A101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,A101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,1,7,0
 Taylor,A101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,A101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -37,13 +37,13 @@ Taylor,A101,Board of Education,1,,Misty Dawn HAFLEY,252,62,177,13
 Taylor,A101,Board of Education,1,,Total Votes,252,62,177,13
 Taylor,A101,Board of Education,1,,Under Votes,188,82,97,9
 Taylor,A101,Board of Education,1,,Over Votes,0,0,0,0
-Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",294,101,183,10
-Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",109,35,64,10
+Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,YES,294,101,183,10
+Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,NO,109,35,64,10
 Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,403,136,247,20
 Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,36,7,27,2
 Taylor,A101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
-Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",150,50,91,9
-Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",273,86,174,13
+Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,YES,150,50,91,9
+Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,NO,273,86,174,13
 Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,423,136,265,22
 Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,17,8,9,0
 Taylor,A101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -61,7 +61,7 @@ Taylor,A102,STRAIGHT PARTY,,,Under Votes,264,61,191,12
 Taylor,A102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,A102,President,,REP,Donald J. TRUMP / JD VANCE,391,98,281,12
 Taylor,A102,President,,DEM,Kamala D. HARRIS / Tim WALZ,71,20,41,10
-Taylor,A102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,A102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,A102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Taylor,A102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,A102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -90,13 +90,13 @@ Taylor,A102,Board of Education,1,,Misty Dawn HAFLEY,310,78,219,13
 Taylor,A102,Board of Education,1,,Total Votes,310,78,219,13
 Taylor,A102,Board of Education,1,,Under Votes,161,43,108,10
 Taylor,A102,Board of Education,1,,Over Votes,0,0,0,0
-Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",331,79,238,14
-Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",107,33,68,6
+Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,YES,331,79,238,14
+Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,NO,107,33,68,6
 Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,438,112,306,20
 Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,32,8,21,3
 Taylor,A102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,1,0,0
-Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",176,47,124,5
-Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",282,69,197,16
+Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,YES,176,47,124,5
+Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,NO,282,69,197,16
 Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,458,116,321,21
 Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,5,6,2
 Taylor,A102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -114,7 +114,7 @@ Taylor,A104,STRAIGHT PARTY,,,Under Votes,627,226,369,32
 Taylor,A104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,A104,President,,REP,Donald J. TRUMP / JD VANCE,789,278,473,38
 Taylor,A104,President,,DEM,Kamala D. HARRIS / Tim WALZ,294,111,166,17
-Taylor,A104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,A104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,A104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,8,3,5,0
 Taylor,A104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,A104,President,,LIB,Chase OLIVER / Mike TER MAAT,3,1,2,0
@@ -148,23 +148,23 @@ Taylor,A104,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,A104,Board of Education,Campbellsville Independent School District,,Total Votes,294,104,173,17
 Taylor,A104,Board of Education,Campbellsville Independent School District,,Under Votes,226,86,127,13
 Taylor,A104,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",278,106,156,16
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",288,110,157,21
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",365,147,196,22
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",276,90,169,17
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",420,162,235,23
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",201,81,107,13
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",224,81,129,14
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",380,134,223,23
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",353,140,192,21
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",176,60,106,10
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",395,143,228,24
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",211,78,122,11
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",164,63,90,11
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",423,140,257,26
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",264,111,139,14
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",301,102,186,13
-Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",294,115,159,20
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,278,106,156,16
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",288,110,157,21
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,365,147,196,22
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,276,90,169,17
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,James E. EWING,420,162,235,23
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",201,81,107,13
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Kirby COX,224,81,129,14
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,380,134,223,23
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,353,140,192,21
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",176,60,106,10
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,395,143,228,24
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,211,78,122,11
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,164,63,90,11
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Heather WISE,423,140,257,26
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,264,111,139,14
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,301,102,186,13
+Taylor,A104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,294,115,159,20
 Taylor,A104,CITY COUNCIL City of Campbellsville,,,Total Votes,5013,1863,2851,299
 Taylor,A104,CITY COUNCIL City of Campbellsville,,,Under Votes,5427,1977,3185,265
 Taylor,A104,CITY COUNCIL City of Campbellsville,,,Over Votes,3,2,1,0
@@ -192,7 +192,7 @@ Taylor,B101,STRAIGHT PARTY,,,Under Votes,353,94,252,7
 Taylor,B101,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Taylor,B101,President,,REP,Donald J. TRUMP / JD VANCE,611,177,424,10
 Taylor,B101,President,,DEM,Kamala D. HARRIS / Tim WALZ,105,36,63,6
-Taylor,B101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Taylor,B101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Taylor,B101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
 Taylor,B101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,B101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -241,7 +241,7 @@ Taylor,B102,STRAIGHT PARTY,,,Under Votes,429,140,263,26
 Taylor,B102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,B102,President,,REP,Donald J. TRUMP / JD VANCE,617,211,373,33
 Taylor,B102,President,,DEM,Kamala D. HARRIS / Tim WALZ,230,72,135,23
-Taylor,B102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,0,1
+Taylor,B102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,0,1
 Taylor,B102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,6,0,6,0
 Taylor,B102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,B102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -271,23 +271,23 @@ Taylor,B102,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,B102,Board of Education,Campbellsville Independent School District,,Total Votes,214,50,156,8
 Taylor,B102,Board of Education,Campbellsville Independent School District,,Under Votes,120,24,84,12
 Taylor,B102,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",206,60,128,18
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",226,76,135,15
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",261,80,158,23
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",204,62,126,16
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",269,81,167,21
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",139,38,84,17
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",181,64,99,18
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",306,102,180,24
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",220,77,126,17
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",148,43,92,13
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",245,78,151,16
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",151,45,95,11
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",105,32,61,12
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",252,76,159,17
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",200,78,110,12
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",175,56,111,8
-Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",220,79,122,19
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,206,60,128,18
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",226,76,135,15
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,261,80,158,23
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,204,62,126,16
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,James E. EWING,269,81,167,21
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",139,38,84,17
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Kirby COX,181,64,99,18
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,306,102,180,24
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,220,77,126,17
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",148,43,92,13
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,245,78,151,16
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,151,45,95,11
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,105,32,61,12
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Heather WISE,252,76,159,17
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,200,78,110,12
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,175,56,111,8
+Taylor,B102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,220,79,122,19
 Taylor,B102,CITY COUNCIL City of Campbellsville,,,Total Votes,3508,1127,2104,277
 Taylor,B102,CITY COUNCIL City of Campbellsville,,,Under Votes,3536,1045,2228,263
 Taylor,B102,CITY COUNCIL City of Campbellsville,,,Over Votes,5,5,0,0
@@ -315,7 +315,7 @@ Taylor,B103,STRAIGHT PARTY,,,Under Votes,45,16,24,5
 Taylor,B103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,B103,President,,REP,Donald J. TRUMP / JD VANCE,72,28,38,6
 Taylor,B103,President,,DEM,Kamala D. HARRIS / Tim WALZ,57,12,38,7
-Taylor,B103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,B103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,B103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,3,0
 Taylor,B103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,B103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -345,23 +345,23 @@ Taylor,B103,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,B103,Board of Education,Campbellsville Independent School District,,Total Votes,172,54,101,17
 Taylor,B103,Board of Education,Campbellsville Independent School District,,Under Votes,92,26,57,9
 Taylor,B103,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",59,19,36,4
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",51,15,30,6
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",80,23,46,11
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",40,13,21,6
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",56,17,29,10
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",34,3,24,7
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",40,11,27,2
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",65,21,37,7
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",48,17,27,4
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",46,14,26,6
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",39,15,21,3
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",49,16,29,4
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",26,5,17,4
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",54,15,31,8
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",39,10,24,5
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",34,12,18,4
-Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",40,9,22,9
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,59,19,36,4
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",51,15,30,6
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,80,23,46,11
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,40,13,21,6
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,James E. EWING,56,17,29,10
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",34,3,24,7
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Kirby COX,40,11,27,2
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,65,21,37,7
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,48,17,27,4
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",46,14,26,6
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,39,15,21,3
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,49,16,29,4
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,26,5,17,4
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Heather WISE,54,15,31,8
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,39,10,24,5
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,34,12,18,4
+Taylor,B103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,40,9,22,9
 Taylor,B103,CITY COUNCIL City of Campbellsville,,,Total Votes,800,235,465,100
 Taylor,B103,CITY COUNCIL City of Campbellsville,,,Under Votes,784,245,483,56
 Taylor,B103,CITY COUNCIL City of Campbellsville,,,Over Votes,0,0,0,0
@@ -389,7 +389,7 @@ Taylor,B104,STRAIGHT PARTY,,,Under Votes,216,64,133,19
 Taylor,B104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,B104,President,,REP,Donald J. TRUMP / JD VANCE,298,78,200,20
 Taylor,B104,President,,DEM,Kamala D. HARRIS / Tim WALZ,113,37,64,12
-Taylor,B104,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,3,0
+Taylor,B104,President,,KY,Jill STEIN / Samson KPADENOU,3,0,3,0
 Taylor,B104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Taylor,B104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,B104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,0,2
@@ -419,23 +419,23 @@ Taylor,B104,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,B104,Board of Education,Campbellsville Independent School District,,Total Votes,464,109,319,36
 Taylor,B104,Board of Education,Campbellsville Independent School District,,Under Votes,378,123,223,32
 Taylor,B104,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",151,54,84,13
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",136,41,83,12
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",199,56,125,18
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",150,40,97,13
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",202,53,129,20
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",111,32,66,13
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",124,28,86,10
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",188,41,126,21
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",159,49,96,14
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",107,31,72,4
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",169,58,98,13
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",91,25,61,5
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",62,20,33,9
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",201,49,135,17
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",135,45,74,16
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",136,36,91,9
-Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",131,37,77,17
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,151,54,84,13
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",136,41,83,12
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,199,56,125,18
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,150,40,97,13
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,James E. EWING,202,53,129,20
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",111,32,66,13
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Kirby COX,124,28,86,10
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,188,41,126,21
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,159,49,96,14
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",107,31,72,4
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,169,58,98,13
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,91,25,61,5
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,62,20,33,9
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Heather WISE,201,49,135,17
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,135,45,74,16
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,136,36,91,9
+Taylor,B104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,131,37,77,17
 Taylor,B104,CITY COUNCIL City of Campbellsville,,,Total Votes,2452,695,1533,224
 Taylor,B104,CITY COUNCIL City of Campbellsville,,,Under Votes,2588,685,1719,184
 Taylor,B104,CITY COUNCIL City of Campbellsville,,,Over Votes,1,1,0,0
@@ -463,7 +463,7 @@ Taylor,C101,STRAIGHT PARTY,,,Under Votes,96,20,75,1
 Taylor,C101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,C101,President,,REP,Donald J. TRUMP / JD VANCE,184,47,131,6
 Taylor,C101,President,,DEM,Kamala D. HARRIS / Tim WALZ,25,6,19,0
-Taylor,C101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,C101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,C101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,0,0,0,0
 Taylor,C101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,C101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -492,13 +492,13 @@ Taylor,C101,Board of Education,3,,Jason COX,131,28,100,3
 Taylor,C101,Board of Education,3,,Total Votes,131,28,100,3
 Taylor,C101,Board of Education,3,,Under Votes,82,25,54,3
 Taylor,C101,Board of Education,3,,Over Votes,0,0,0,0
-Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",151,36,109,6
-Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",50,13,37,0
+Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,YES,151,36,109,6
+Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,NO,50,13,37,0
 Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,201,49,146,6
 Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,12,4,8,0
 Taylor,C101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",78,20,53,5
-Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",129,31,97,1
+Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,YES,78,20,53,5
+Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,NO,129,31,97,1
 Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,207,51,150,6
 Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,6,2,4,0
 Taylor,C101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -516,7 +516,7 @@ Taylor,C103,STRAIGHT PARTY,,,Under Votes,117,21,94,2
 Taylor,C103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,C103,President,,REP,Donald J. TRUMP / JD VANCE,191,32,151,8
 Taylor,C103,President,,DEM,Kamala D. HARRIS / Tim WALZ,26,3,23,0
-Taylor,C103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,C103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,C103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,1,2,0
 Taylor,C103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,C103,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -545,13 +545,13 @@ Taylor,C103,Board of Education,3,,Jason COX,133,21,108,4
 Taylor,C103,Board of Education,3,,Total Votes,133,21,108,4
 Taylor,C103,Board of Education,3,,Under Votes,90,16,70,4
 Taylor,C103,Board of Education,3,,Over Votes,0,0,0,0
-Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,"YES ",149,22,123,4
-Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,"NO ",52,13,37,2
+Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,YES,149,22,123,4
+Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,NO,52,13,37,2
 Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,201,35,160,6
 Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,22,2,18,2
 Taylor,C103,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,0,0,0,0
-Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,"YES ",92,18,69,5
-Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,"NO ",120,19,100,1
+Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,YES,92,18,69,5
+Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,NO,120,19,100,1
 Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,212,37,169,6
 Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,11,0,9,2
 Taylor,C103,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -569,7 +569,7 @@ Taylor,C104,STRAIGHT PARTY,,,Under Votes,193,34,153,6
 Taylor,C104,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,C104,President,,REP,Donald J. TRUMP / JD VANCE,329,60,266,3
 Taylor,C104,President,,DEM,Kamala D. HARRIS / Tim WALZ,91,23,62,6
-Taylor,C104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,C104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,C104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,3,0,2,1
 Taylor,C104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,C104,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -598,13 +598,13 @@ Taylor,C104,Board of Education,3,,Jason COX,274,51,215,8
 Taylor,C104,Board of Education,3,,Total Votes,274,51,215,8
 Taylor,C104,Board of Education,3,,Under Votes,153,32,119,2
 Taylor,C104,Board of Education,3,,Over Votes,0,0,0,0
-Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,"YES ",271,49,216,6
-Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,"NO ",109,26,79,4
+Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,YES,271,49,216,6
+Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,NO,109,26,79,4
 Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,380,75,295,10
 Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,45,7,38,0
 Taylor,C104,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
-Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,"YES ",182,32,148,2
-Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,"NO ",216,49,160,7
+Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,YES,182,32,148,2
+Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,NO,216,49,160,7
 Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,398,81,308,9
 Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,29,2,26,1
 Taylor,C104,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -622,7 +622,7 @@ Taylor,C105,STRAIGHT PARTY,,,Under Votes,488,174,289,25
 Taylor,C105,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Taylor,C105,President,,REP,Donald J. TRUMP / JD VANCE,769,267,453,49
 Taylor,C105,President,,DEM,Kamala D. HARRIS / Tim WALZ,205,77,116,12
-Taylor,C105,President,,KY,Jill  STEIN / Samson KPADENOU,3,1,2,0
+Taylor,C105,President,,KY,Jill STEIN / Samson KPADENOU,3,1,2,0
 Taylor,C105,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,13,3,10,0
 Taylor,C105,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Taylor,C105,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -656,23 +656,23 @@ Taylor,C105,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,C105,Board of Education,Campbellsville Independent School District,,Total Votes,316,66,235,15
 Taylor,C105,Board of Education,Campbellsville Independent School District,,Under Votes,226,60,151,15
 Taylor,C105,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",94,20,71,3
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",95,20,69,6
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",125,29,90,6
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",107,22,80,5
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",118,27,85,6
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",66,14,50,2
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",95,25,63,7
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",137,26,100,11
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",87,21,61,5
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",85,21,63,1
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",106,25,72,9
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",82,16,63,3
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",45,9,33,3
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",114,25,82,7
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",71,14,54,3
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",85,25,55,5
-Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",99,24,67,8
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,94,20,71,3
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",95,20,69,6
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,125,29,90,6
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,107,22,80,5
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,James E. EWING,118,27,85,6
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",66,14,50,2
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Kirby COX,95,25,63,7
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,137,26,100,11
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,87,21,61,5
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",85,21,63,1
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,106,25,72,9
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,82,16,63,3
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,45,9,33,3
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Heather WISE,114,25,82,7
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,71,14,54,3
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,85,25,55,5
+Taylor,C105,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,99,24,67,8
 Taylor,C105,CITY COUNCIL City of Campbellsville,,,Total Votes,1611,363,1158,90
 Taylor,C105,CITY COUNCIL City of Campbellsville,,,Under Votes,1653,393,1170,90
 Taylor,C105,CITY COUNCIL City of Campbellsville,,,Over Votes,2,2,0,0
@@ -700,7 +700,7 @@ Taylor,D101,STRAIGHT PARTY,,,Under Votes,102,22,76,4
 Taylor,D101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,D101,President,,REP,Donald J. TRUMP / JD VANCE,201,47,147,7
 Taylor,D101,President,,DEM,Kamala D. HARRIS / Tim WALZ,21,7,14,0
-Taylor,D101,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,D101,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,D101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,1,0,1,0
 Taylor,D101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,D101,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -729,13 +729,13 @@ Taylor,D101,Board of Education,4,,"Tommy ""T.J."" RAIKES",115,22,91,2
 Taylor,D101,Board of Education,4,,Total Votes,115,22,91,2
 Taylor,D101,Board of Education,4,,Under Votes,109,32,71,6
 Taylor,D101,Board of Education,4,,Over Votes,0,0,0,0
-Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",164,38,118,8
-Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",46,7,39,0
+Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,YES,164,38,118,8
+Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,NO,46,7,39,0
 Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,210,45,157,8
 Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,13,9,4,0
 Taylor,D101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",95,21,71,3
-Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",120,30,86,4
+Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,YES,95,21,71,3
+Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,NO,120,30,86,4
 Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,215,51,157,7
 Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,8,3,4,1
 Taylor,D101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -753,7 +753,7 @@ Taylor,D102,STRAIGHT PARTY,,,Under Votes,526,124,392,10
 Taylor,D102,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Taylor,D102,President,,REP,Donald J. TRUMP / JD VANCE,866,224,612,30
 Taylor,D102,President,,DEM,Kamala D. HARRIS / Tim WALZ,155,39,107,9
-Taylor,D102,President,,KY,Jill  STEIN / Samson KPADENOU,2,2,0,0
+Taylor,D102,President,,KY,Jill STEIN / Samson KPADENOU,2,2,0,0
 Taylor,D102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,9,1,8,0
 Taylor,D102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,1,0,0
 Taylor,D102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -782,13 +782,13 @@ Taylor,D102,Board of Education,4,,"Tommy ""T.J."" RAIKES",622,147,458,17
 Taylor,D102,Board of Education,4,,Total Votes,622,147,458,17
 Taylor,D102,Board of Education,4,,Under Votes,428,126,280,22
 Taylor,D102,Board of Education,4,,Over Votes,0,0,0,0
-Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,"YES ",701,155,516,30
-Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,"NO ",269,93,170,6
+Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,YES,701,155,516,30
+Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,NO,269,93,170,6
 Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,970,248,686,36
 Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,78,24,51,3
 Taylor,D102,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,2,1,1,0
-Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,"YES ",379,105,259,15
-Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,"NO ",638,160,457,21
+Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,YES,379,105,259,15
+Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,NO,638,160,457,21
 Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,1017,265,716,36
 Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,32,8,21,3
 Taylor,D102,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,1,0,1,0
@@ -806,7 +806,7 @@ Taylor,D104,STRAIGHT PARTY,,,Under Votes,372,95,254,23
 Taylor,D104,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Taylor,D104,President,,REP,Donald J. TRUMP / JD VANCE,589,177,390,22
 Taylor,D104,President,,DEM,Kamala D. HARRIS / Tim WALZ,175,57,101,17
-Taylor,D104,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,D104,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,D104,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,12,3,8,1
 Taylor,D104,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Taylor,D104,President,,LIB,Chase OLIVER / Mike TER MAAT,2,0,2,0
@@ -840,23 +840,23 @@ Taylor,D104,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,D104,Board of Education,Campbellsville Independent School District,,Total Votes,443,99,315,29
 Taylor,D104,Board of Education,Campbellsville Independent School District,,Under Votes,297,89,197,11
 Taylor,D104,Board of Education,Campbellsville Independent School District,,Over Votes,1,0,1,0
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",138,43,89,6
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",119,37,74,8
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",179,54,115,10
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",148,38,101,9
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",158,49,99,10
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",86,22,58,6
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",109,24,77,8
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",188,54,123,11
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",125,35,83,7
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",110,33,71,6
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",126,36,85,5
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",103,32,64,7
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",72,19,52,1
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",166,38,117,11
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",112,29,74,9
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",106,25,75,6
-Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",114,32,73,9
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,138,43,89,6
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",119,37,74,8
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,179,54,115,10
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,148,38,101,9
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,James E. EWING,158,49,99,10
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",86,22,58,6
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Kirby COX,109,24,77,8
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,188,54,123,11
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,125,35,83,7
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",110,33,71,6
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,126,36,85,5
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,103,32,64,7
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,72,19,52,1
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Heather WISE,166,38,117,11
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,112,29,74,9
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,106,25,75,6
+Taylor,D104,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,114,32,73,9
 Taylor,D104,CITY COUNCIL City of Campbellsville,,,Total Votes,2159,600,1430,129
 Taylor,D104,CITY COUNCIL City of Campbellsville,,,Under Votes,2401,648,1630,123
 Taylor,D104,CITY COUNCIL City of Campbellsville,,,Over Votes,3,1,2,0
@@ -884,7 +884,7 @@ Taylor,E101,STRAIGHT PARTY,,,Under Votes,524,211,289,24
 Taylor,E101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,E101,President,,REP,Donald J. TRUMP / JD VANCE,818,344,445,29
 Taylor,E101,President,,DEM,Kamala D. HARRIS / Tim WALZ,211,97,97,17
-Taylor,E101,President,,KY,Jill  STEIN / Samson KPADENOU,2,0,2,0
+Taylor,E101,President,,KY,Jill STEIN / Samson KPADENOU,2,0,2,0
 Taylor,E101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,4,2,2,0
 Taylor,E101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,E101,President,,LIB,Chase OLIVER / Mike TER MAAT,2,1,1,0
@@ -918,23 +918,23 @@ Taylor,E101,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,E101,Board of Education,Campbellsville Independent School District,,Total Votes,7,2,5,0
 Taylor,E101,Board of Education,Campbellsville Independent School District,,Under Votes,3,2,1,0
 Taylor,E101,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",32,14,16,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",30,9,19,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",42,20,18,4
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",35,13,19,3
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",36,14,21,1
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",23,12,9,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",18,10,7,1
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",47,17,27,3
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",32,12,18,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",26,13,13,0
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",30,9,21,0
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",23,9,14,0
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",19,8,11,0
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",40,12,25,3
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",27,11,14,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",25,10,13,2
-Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",30,16,12,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,32,14,16,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",30,9,19,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,42,20,18,4
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,35,13,19,3
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,James E. EWING,36,14,21,1
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",23,12,9,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Kirby COX,18,10,7,1
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,47,17,27,3
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,32,12,18,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",26,13,13,0
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,30,9,21,0
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,23,9,14,0
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,19,8,11,0
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Heather WISE,40,12,25,3
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,27,11,14,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,25,10,13,2
+Taylor,E101,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,30,16,12,2
 Taylor,E101,CITY COUNCIL City of Campbellsville,,,Total Votes,515,209,277,29
 Taylor,E101,CITY COUNCIL City of Campbellsville,,,Under Votes,697,283,395,19
 Taylor,E101,CITY COUNCIL City of Campbellsville,,,Over Votes,1,0,1,0
@@ -962,7 +962,7 @@ Taylor,E102,STRAIGHT PARTY,,,Under Votes,233,69,151,13
 Taylor,E102,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,E102,President,,REP,Donald J. TRUMP / JD VANCE,316,99,200,17
 Taylor,E102,President,,DEM,Kamala D. HARRIS / Tim WALZ,146,44,92,10
-Taylor,E102,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,E102,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,E102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,7,1,4,2
 Taylor,E102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,E102,President,,LIB,Chase OLIVER / Mike TER MAAT,0,0,0,0
@@ -996,23 +996,23 @@ Taylor,E102,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,E102,Board of Education,Campbellsville Independent School District,,Total Votes,389,100,259,30
 Taylor,E102,Board of Education,Campbellsville Independent School District,,Under Votes,247,70,165,12
 Taylor,E102,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",158,57,89,12
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",182,60,103,19
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",223,81,127,15
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",150,48,91,11
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",193,64,112,17
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",103,40,51,12
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",133,38,86,9
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",221,73,129,19
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",160,54,90,16
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",111,34,70,7
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",152,50,90,12
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",136,46,78,12
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",73,24,44,5
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",190,61,116,13
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",149,52,85,12
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",135,48,77,10
-Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",170,56,98,16
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,158,57,89,12
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",182,60,103,19
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,223,81,127,15
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,150,48,91,11
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,James E. EWING,193,64,112,17
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",103,40,51,12
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Kirby COX,133,38,86,9
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,221,73,129,19
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,160,54,90,16
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",111,34,70,7
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,152,50,90,12
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,136,46,78,12
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,73,24,44,5
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Heather WISE,190,61,116,13
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,149,52,85,12
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,135,48,77,10
+Taylor,E102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,170,56,98,16
 Taylor,E102,CITY COUNCIL City of Campbellsville,,,Total Votes,2639,886,1536,217
 Taylor,E102,CITY COUNCIL City of Campbellsville,,,Under Votes,2641,722,1836,83
 Taylor,E102,CITY COUNCIL City of Campbellsville,,,Over Votes,1,0,1,0
@@ -1040,7 +1040,7 @@ Taylor,E103,STRAIGHT PARTY,,,Under Votes,235,84,139,12
 Taylor,E103,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,E103,President,,REP,Donald J. TRUMP / JD VANCE,361,119,223,19
 Taylor,E103,President,,DEM,Kamala D. HARRIS / Tim WALZ,75,34,37,4
-Taylor,E103,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,E103,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,E103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,5,1,4,0
 Taylor,E103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Taylor,E103,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -1074,23 +1074,23 @@ Taylor,E103,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,E103,Board of Education,Campbellsville Independent School District,,Total Votes,117,39,62,16
 Taylor,E103,Board of Education,Campbellsville Independent School District,,Under Votes,75,19,48,8
 Taylor,E103,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",30,10,15,5
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",31,11,17,3
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",48,16,24,8
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",25,7,13,5
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",44,14,22,8
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",21,7,12,2
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",23,5,13,5
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",52,15,29,8
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",36,14,15,7
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",24,5,16,3
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",24,5,15,4
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",22,8,11,3
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",18,6,10,2
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",38,10,19,9
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",20,9,7,4
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",22,7,9,6
-Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",31,11,13,7
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,30,10,15,5
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",31,11,17,3
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,48,16,24,8
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,25,7,13,5
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,James E. EWING,44,14,22,8
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",21,7,12,2
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Kirby COX,23,5,13,5
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,52,15,29,8
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,36,14,15,7
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",24,5,16,3
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,24,5,15,4
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,22,8,11,3
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,18,6,10,2
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Heather WISE,38,10,19,9
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,20,9,7,4
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,22,7,9,6
+Taylor,E103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,31,11,13,7
 Taylor,E103,CITY COUNCIL City of Campbellsville,,,Total Votes,509,160,260,89
 Taylor,E103,CITY COUNCIL City of Campbellsville,,,Under Votes,691,212,424,55
 Taylor,E103,CITY COUNCIL City of Campbellsville,,,Over Votes,2,1,1,0
@@ -1118,7 +1118,7 @@ Taylor,F101,STRAIGHT PARTY,,,Under Votes,307,63,229,15
 Taylor,F101,STRAIGHT PARTY,,,Over Votes,0,0,0,0
 Taylor,F101,President,,REP,Donald J. TRUMP / JD VANCE,390,89,283,18
 Taylor,F101,President,,DEM,Kamala D. HARRIS / Tim WALZ,96,22,70,4
-Taylor,F101,President,,KY,Jill  STEIN / Samson KPADENOU,1,0,1,0
+Taylor,F101,President,,KY,Jill STEIN / Samson KPADENOU,1,0,1,0
 Taylor,F101,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,2,0,2,0
 Taylor,F101,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,F101,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -1147,13 +1147,13 @@ Taylor,F101,Board of Education,1,,Misty Dawn HAFLEY,325,64,244,17
 Taylor,F101,Board of Education,1,,Total Votes,325,64,244,17
 Taylor,F101,Board of Education,1,,Under Votes,168,48,115,5
 Taylor,F101,Board of Education,1,,Over Votes,0,0,0,0
-Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,"YES ",322,80,227,15
-Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,"NO ",149,29,114,6
+Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,YES,322,80,227,15
+Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,NO,149,29,114,6
 Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,Total Votes,471,109,341,21
 Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,Under Votes,21,3,17,1
 Taylor,F101,CONSTITUTIONAL AMENDMENT 1,,,Over Votes,1,0,1,0
-Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,"YES ",161,42,109,10
-Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,"NO ",319,69,239,11
+Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,YES,161,42,109,10
+Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,NO,319,69,239,11
 Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,Total Votes,480,111,348,21
 Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,Under Votes,13,1,11,1
 Taylor,F101,CONSTITUTIONAL AMENDMENT 2,,,Over Votes,0,0,0,0
@@ -1171,7 +1171,7 @@ Taylor,F102,STRAIGHT PARTY,,,Under Votes,594,253,315,26
 Taylor,F102,STRAIGHT PARTY,,,Over Votes,1,1,0,0
 Taylor,F102,President,,REP,Donald J. TRUMP / JD VANCE,837,386,424,27
 Taylor,F102,President,,DEM,Kamala D. HARRIS / Tim WALZ,224,91,114,19
-Taylor,F102,President,,KY,Jill  STEIN / Samson KPADENOU,0,0,0,0
+Taylor,F102,President,,KY,Jill STEIN / Samson KPADENOU,0,0,0,0
 Taylor,F102,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,11,3,8,0
 Taylor,F102,President,,IND,Shiva AYYADURAI / Crystal ELLIS,1,0,1,0
 Taylor,F102,President,,LIB,Chase OLIVER / Mike TER MAAT,1,0,1,0
@@ -1196,23 +1196,23 @@ Taylor,F102,Circuit Clerk,,REP,"M. S. ""Susie"" SKAGGS",931,418,479,34
 Taylor,F102,Circuit Clerk,,,Total Votes,931,418,479,34
 Taylor,F102,Circuit Clerk,,,Under Votes,158,71,75,12
 Taylor,F102,Circuit Clerk,,,Over Votes,1,1,0,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",8,3,4,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",9,4,5,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",9,4,4,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",6,2,4,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",10,3,6,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",8,4,4,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",6,2,4,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",13,5,7,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",15,5,9,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",6,2,3,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",14,4,9,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",11,4,7,0
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",5,2,2,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",16,5,10,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",12,6,5,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",9,1,7,1
-Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",9,2,6,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,8,3,4,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",9,4,5,0
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,9,4,4,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,6,2,4,0
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,James E. EWING,10,3,6,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",8,4,4,0
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Kirby COX,6,2,4,0
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,13,5,7,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,15,5,9,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",6,2,3,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,14,4,9,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,11,4,7,0
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,5,2,2,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Heather WISE,16,5,10,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,12,6,5,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,9,1,7,1
+Taylor,F102,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,9,2,6,1
 Taylor,F102,CITY COUNCIL City of Campbellsville,,,Total Votes,166,58,96,12
 Taylor,F102,CITY COUNCIL City of Campbellsville,,,Under Votes,182,98,84,0
 Taylor,F102,CITY COUNCIL City of Campbellsville,,,Over Votes,0,0,0,0
@@ -1240,7 +1240,7 @@ Taylor,F103,STRAIGHT PARTY,,,Under Votes,391,147,222,22
 Taylor,F103,STRAIGHT PARTY,,,Over Votes,2,0,2,0
 Taylor,F103,President,,REP,Donald J. TRUMP / JD VANCE,519,196,295,28
 Taylor,F103,President,,DEM,Kamala D. HARRIS / Tim WALZ,201,80,106,15
-Taylor,F103,President,,KY,Jill  STEIN / Samson KPADENOU,3,0,2,1
+Taylor,F103,President,,KY,Jill STEIN / Samson KPADENOU,3,0,2,1
 Taylor,F103,President,,IND,Robert F. KENNEDY JR. / Nicole SHANAHAN,10,3,5,2
 Taylor,F103,President,,IND,Shiva AYYADURAI / Crystal ELLIS,0,0,0,0
 Taylor,F103,President,,LIB,Chase OLIVER / Mike TER MAAT,2,2,0,0
@@ -1270,23 +1270,23 @@ Taylor,F103,Board of Education,Campbellsville Independent School District,,Pat H
 Taylor,F103,Board of Education,Campbellsville Independent School District,,Total Votes,671,197,434,40
 Taylor,F103,Board of Education,Campbellsville Independent School District,,Under Votes,489,175,282,32
 Taylor,F103,Board of Education,Campbellsville Independent School District,,Over Votes,0,0,0,0
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Kathy Roots MILBY ",268,105,144,19
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON ",263,115,140,8
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Sharon HOSKINS-SANDERS ",346,130,198,18
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Donnie MUNFORD ",265,95,154,16
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"James E. EWING ",347,133,191,23
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON ",229,85,128,16
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Kirby COX ",226,85,126,15
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Ronnie DOOLEY ",373,145,205,23
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Deanna Kemp COWHERD ",286,101,167,18
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT ",195,83,105,7
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"John R. EASTRIDGE ",315,125,170,20
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Earl D. RODGERS ",186,61,116,9
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Anthony HARRIS ",118,45,68,5
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Heather WISE ",349,131,194,24
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Faye HOWELL ",258,103,133,22
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Jacob CHEWNING ",249,93,146,10
-Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Stan McKINNEY ",294,109,163,22
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Kathy Roots MILBY,268,105,144,19
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Allen ""A.J."" JOHNSON",263,115,140,8
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Sharon HOSKINS-SANDERS,346,130,198,18
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Donnie MUNFORD,265,95,154,16
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,James E. EWING,347,133,191,23
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Randall B. ""Randy"" HERRON",229,85,128,16
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Kirby COX,226,85,126,15
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Ronnie DOOLEY,373,145,205,23
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Deanna Kemp COWHERD,286,101,167,18
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,"Stanley ""Bo"" GRANT",195,83,105,7
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,John R. EASTRIDGE,315,125,170,20
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Earl D. RODGERS,186,61,116,9
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Anthony HARRIS,118,45,68,5
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Heather WISE,349,131,194,24
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Faye HOWELL,258,103,133,22
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Jacob CHEWNING,249,93,146,10
+Taylor,F103,CITY COUNCIL City of Campbellsville,,,Stan McKINNEY,294,109,163,22
 Taylor,F103,CITY COUNCIL City of Campbellsville,,,Total Votes,4567,1744,2548,275
 Taylor,F103,CITY COUNCIL City of Campbellsville,,,Under Votes,4373,1628,2468,277
 Taylor,F103,CITY COUNCIL City of Campbellsville,,,Over Votes,1,0,1,0
