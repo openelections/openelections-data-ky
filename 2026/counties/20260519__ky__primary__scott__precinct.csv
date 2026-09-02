@@ -46,35 +46,35 @@ Scott,A101,U.S. House,6,Democratic,Cherlynn STEVENSON,178,49,116,11,2
 Scott,A101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,6,0,6,0,0
 Scott,A101,U.S. House,6,Democratic,Corey EDWARDS,23,4,17,2,0
 Scott,A101,U.S. House,6,Democratic,Zach DEMBO,235,88,137,9,1
-Scott,A101,State Representative,62,,Randy Jackson SIMPKINS,247,67,166,13,1
+Scott,A101,State Representative,62,Democratic,Randy Jackson SIMPKINS,247,67,166,13,1
 Scott,A101,State Representative,62,,Under Votes,89,36,45,7,1
 Scott,A101,State Representative,62,,Over Votes,0,0,0,0,0
-Scott,A101,Mayor City OF Georgetown,,,Burney JENKINS,29,5,24,0,0
-Scott,A101,Mayor City OF Georgetown,,,Alonzo ALLEN,14,4,9,1,0
-Scott,A101,Mayor City OF Georgetown,,,Dan HOLMAN,5,1,4,0,0
-Scott,A101,Mayor City OF Georgetown,,,Kim MENKE,12,3,9,0,0
-Scott,A101,Mayor City OF Georgetown,,,Under Votes,6,0,6,0,0
-Scott,A101,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,A101,City Council City OF Georgetown,,,Theta VINEGAR,19,5,14,0,0
-Scott,A101,City Council City OF Georgetown,,,Willow HAMBRICK,33,6,27,0,0
-Scott,A101,City Council City OF Georgetown,,,Tony HALL,12,3,9,0,0
-Scott,A101,City Council City OF Georgetown,,,Michael CRISP,20,6,14,0,0
-Scott,A101,City Council City OF Georgetown,,,Sonja Wilkins BRENT,25,7,18,0,0
-Scott,A101,City Council City OF Georgetown,,,Dean STRONG,11,5,6,0,0
-Scott,A101,City Council City OF Georgetown,,,Todd STONE,19,5,14,0,0
-Scott,A101,City Council City OF Georgetown,,,Mark SHOWALTER,16,5,11,0,0
-Scott,A101,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,19,2,17,0,0
-Scott,A101,City Council City OF Georgetown,,,Connie K. TACKETT,23,6,17,0,0
-Scott,A101,City Council City OF Georgetown,,,David J. LUSBY,12,2,10,0,0
-Scott,A101,City Council City OF Georgetown,,,Karen TINGLE SAMES,22,9,13,0,0
-Scott,A101,City Council City OF Georgetown,,,Charles Kevin LONG,11,3,8,0,0
-Scott,A101,City Council City OF Georgetown,,,Donnie BLACK,8,3,5,0,0
-Scott,A101,City Council City OF Georgetown,,,Greg HAMPTON,10,2,8,0,0
-Scott,A101,City Council City OF Georgetown,,,Kevin JOHNSON,11,0,11,0,0
-Scott,A101,City Council City OF Georgetown,,,Michael JAMES,6,0,6,0,0
-Scott,A101,City Council City OF Georgetown,,,Stephen D. PRICE,13,6,7,0,0
-Scott,A101,City Council City OF Georgetown,,,Under Votes,238,29,201,8,0
-Scott,A101,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,A101,Mayor City of Georgetown,,,Burney JENKINS,29,5,24,0,0
+Scott,A101,Mayor City of Georgetown,,,Alonzo ALLEN,14,4,9,1,0
+Scott,A101,Mayor City of Georgetown,,,Dan HOLMAN,5,1,4,0,0
+Scott,A101,Mayor City of Georgetown,,,Kim MENKE,12,3,9,0,0
+Scott,A101,Mayor City of Georgetown,,,Under Votes,6,0,6,0,0
+Scott,A101,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,A101,City Council City of Georgetown,,,Theta VINEGAR,19,5,14,0,0
+Scott,A101,City Council City of Georgetown,,,Willow HAMBRICK,33,6,27,0,0
+Scott,A101,City Council City of Georgetown,,,Tony HALL,12,3,9,0,0
+Scott,A101,City Council City of Georgetown,,,Michael CRISP,20,6,14,0,0
+Scott,A101,City Council City of Georgetown,,,Sonja Wilkins BRENT,25,7,18,0,0
+Scott,A101,City Council City of Georgetown,,,Dean STRONG,11,5,6,0,0
+Scott,A101,City Council City of Georgetown,,,Todd STONE,19,5,14,0,0
+Scott,A101,City Council City of Georgetown,,,Mark SHOWALTER,16,5,11,0,0
+Scott,A101,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,19,2,17,0,0
+Scott,A101,City Council City of Georgetown,,,Connie K. TACKETT,23,6,17,0,0
+Scott,A101,City Council City of Georgetown,,,David J. LUSBY,12,2,10,0,0
+Scott,A101,City Council City of Georgetown,,,Karen TINGLE SAMES,22,9,13,0,0
+Scott,A101,City Council City of Georgetown,,,Charles Kevin LONG,11,3,8,0,0
+Scott,A101,City Council City of Georgetown,,,Donnie BLACK,8,3,5,0,0
+Scott,A101,City Council City of Georgetown,,,Greg HAMPTON,10,2,8,0,0
+Scott,A101,City Council City of Georgetown,,,Kevin JOHNSON,11,0,11,0,0
+Scott,A101,City Council City of Georgetown,,,Michael JAMES,6,0,6,0,0
+Scott,A101,City Council City of Georgetown,,,Stephen D. PRICE,13,6,7,0,0
+Scott,A101,City Council City of Georgetown,,,Under Votes,238,29,201,8,0
+Scott,A101,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,A103,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
 Scott,A103,U.S. Senate,,Republican,Anissa CATLETT,2,0,2,0,0
 Scott,A103,U.S. Senate,,Republican,Daniel CAMERON,47,9,36,2,0
@@ -122,32 +122,32 @@ Scott,A103,U.S. House,6,Democratic,Cherlynn STEVENSON,80,23,54,3,0
 Scott,A103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,1,0,1,0,0
 Scott,A103,U.S. House,6,Democratic,Corey EDWARDS,5,0,5,0,0
 Scott,A103,U.S. House,6,Democratic,Zach DEMBO,47,12,30,4,1
-Scott,A103,Mayor City OF Georgetown,,,Burney JENKINS,122,25,90,6,1
-Scott,A103,Mayor City OF Georgetown,,,Alonzo ALLEN,89,16,73,0,0
-Scott,A103,Mayor City OF Georgetown,,,Dan HOLMAN,53,15,37,1,0
-Scott,A103,Mayor City OF Georgetown,,,Kim MENKE,86,23,60,3,0
-Scott,A103,Mayor City OF Georgetown,,,Under Votes,18,4,11,2,1
-Scott,A103,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,A103,City Council City OF Georgetown,,,Theta VINEGAR,140,24,112,4,0
-Scott,A103,City Council City OF Georgetown,,,Willow HAMBRICK,155,31,117,7,0
-Scott,A103,City Council City OF Georgetown,,,Tony HALL,69,14,51,4,0
-Scott,A103,City Council City OF Georgetown,,,Michael CRISP,131,28,97,6,0
-Scott,A103,City Council City OF Georgetown,,,Sonja Wilkins BRENT,126,28,92,6,0
-Scott,A103,City Council City OF Georgetown,,,Dean STRONG,32,6,26,0,0
-Scott,A103,City Council City OF Georgetown,,,Todd STONE,116,24,87,5,0
-Scott,A103,City Council City OF Georgetown,,,Mark SHOWALTER,113,29,79,5,0
-Scott,A103,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,114,31,79,2,2
-Scott,A103,City Council City OF Georgetown,,,Connie K. TACKETT,89,19,69,1,0
-Scott,A103,City Council City OF Georgetown,,,David J. LUSBY,107,25,80,1,1
-Scott,A103,City Council City OF Georgetown,,,Karen TINGLE SAMES,142,33,103,6,0
-Scott,A103,City Council City OF Georgetown,,,Charles Kevin LONG,26,4,20,2,0
-Scott,A103,City Council City OF Georgetown,,,Donnie BLACK,50,9,38,3,0
-Scott,A103,City Council City OF Georgetown,,,Greg HAMPTON,113,39,68,4,2
-Scott,A103,City Council City OF Georgetown,,,Kevin JOHNSON,55,11,43,1,0
-Scott,A103,City Council City OF Georgetown,,,Michael JAMES,46,13,33,0,0
-Scott,A103,City Council City OF Georgetown,,,Stephen D. PRICE,59,19,40,0,0
-Scott,A103,City Council City OF Georgetown,,,Under Votes,1261,277,934,39,11
-Scott,A103,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,A103,Mayor City of Georgetown,,,Burney JENKINS,122,25,90,6,1
+Scott,A103,Mayor City of Georgetown,,,Alonzo ALLEN,89,16,73,0,0
+Scott,A103,Mayor City of Georgetown,,,Dan HOLMAN,53,15,37,1,0
+Scott,A103,Mayor City of Georgetown,,,Kim MENKE,86,23,60,3,0
+Scott,A103,Mayor City of Georgetown,,,Under Votes,18,4,11,2,1
+Scott,A103,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,A103,City Council City of Georgetown,,,Theta VINEGAR,140,24,112,4,0
+Scott,A103,City Council City of Georgetown,,,Willow HAMBRICK,155,31,117,7,0
+Scott,A103,City Council City of Georgetown,,,Tony HALL,69,14,51,4,0
+Scott,A103,City Council City of Georgetown,,,Michael CRISP,131,28,97,6,0
+Scott,A103,City Council City of Georgetown,,,Sonja Wilkins BRENT,126,28,92,6,0
+Scott,A103,City Council City of Georgetown,,,Dean STRONG,32,6,26,0,0
+Scott,A103,City Council City of Georgetown,,,Todd STONE,116,24,87,5,0
+Scott,A103,City Council City of Georgetown,,,Mark SHOWALTER,113,29,79,5,0
+Scott,A103,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,114,31,79,2,2
+Scott,A103,City Council City of Georgetown,,,Connie K. TACKETT,89,19,69,1,0
+Scott,A103,City Council City of Georgetown,,,David J. LUSBY,107,25,80,1,1
+Scott,A103,City Council City of Georgetown,,,Karen TINGLE SAMES,142,33,103,6,0
+Scott,A103,City Council City of Georgetown,,,Charles Kevin LONG,26,4,20,2,0
+Scott,A103,City Council City of Georgetown,,,Donnie BLACK,50,9,38,3,0
+Scott,A103,City Council City of Georgetown,,,Greg HAMPTON,113,39,68,4,2
+Scott,A103,City Council City of Georgetown,,,Kevin JOHNSON,55,11,43,1,0
+Scott,A103,City Council City of Georgetown,,,Michael JAMES,46,13,33,0,0
+Scott,A103,City Council City of Georgetown,,,Stephen D. PRICE,59,19,40,0,0
+Scott,A103,City Council City of Georgetown,,,Under Votes,1261,277,934,39,11
+Scott,A103,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,B100,U.S. Senate,,Republican,A. Nick SHELLEY,5,1,3,1,0
 Scott,B100,U.S. Senate,,Republican,Anissa CATLETT,10,2,7,1,0
 Scott,B100,U.S. Senate,,Republican,Daniel CAMERON,253,31,217,4,1
@@ -195,35 +195,35 @@ Scott,B100,U.S. House,6,Democratic,Cherlynn STEVENSON,253,53,195,4,1
 Scott,B100,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,12,0,11,1,0
 Scott,B100,U.S. House,6,Democratic,Corey EDWARDS,27,2,24,1,0
 Scott,B100,U.S. House,6,Democratic,Zach DEMBO,278,94,164,20,0
-Scott,B100,State Representative,62,,Randy Jackson SIMPKINS,310,66,225,18,1
+Scott,B100,State Representative,62,Democratic,Randy Jackson SIMPKINS,310,66,225,18,1
 Scott,B100,State Representative,62,,Under Votes,118,35,80,3,0
 Scott,B100,State Representative,62,,Over Votes,0,0,0,0,0
-Scott,B100,Mayor City OF Georgetown,,,Burney JENKINS,50,14,35,1,0
-Scott,B100,Mayor City OF Georgetown,,,Alonzo ALLEN,21,4,16,1,0
-Scott,B100,Mayor City OF Georgetown,,,Dan HOLMAN,38,7,30,1,0
-Scott,B100,Mayor City OF Georgetown,,,Kim MENKE,35,10,24,1,0
-Scott,B100,Mayor City OF Georgetown,,,Under Votes,9,2,7,0,0
-Scott,B100,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,B100,City Council City OF Georgetown,,,Theta VINEGAR,41,11,28,2,0
-Scott,B100,City Council City OF Georgetown,,,Willow HAMBRICK,65,21,41,3,0
-Scott,B100,City Council City OF Georgetown,,,Tony HALL,36,11,22,3,0
-Scott,B100,City Council City OF Georgetown,,,Michael CRISP,66,12,52,2,0
-Scott,B100,City Council City OF Georgetown,,,Sonja Wilkins BRENT,41,12,28,1,0
-Scott,B100,City Council City OF Georgetown,,,Dean STRONG,25,6,18,1,0
-Scott,B100,City Council City OF Georgetown,,,Todd STONE,78,19,57,2,0
-Scott,B100,City Council City OF Georgetown,,,Mark SHOWALTER,47,12,34,1,0
-Scott,B100,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,49,16,31,2,0
-Scott,B100,City Council City OF Georgetown,,,Connie K. TACKETT,42,15,26,1,0
-Scott,B100,City Council City OF Georgetown,,,David J. LUSBY,39,11,27,1,0
-Scott,B100,City Council City OF Georgetown,,,Karen TINGLE SAMES,55,15,38,2,0
-Scott,B100,City Council City OF Georgetown,,,Charles Kevin LONG,17,2,15,0,0
-Scott,B100,City Council City OF Georgetown,,,Donnie BLACK,21,3,18,0,0
-Scott,B100,City Council City OF Georgetown,,,Greg HAMPTON,51,15,36,0,0
-Scott,B100,City Council City OF Georgetown,,,Kevin JOHNSON,27,4,22,1,0
-Scott,B100,City Council City OF Georgetown,,,Michael JAMES,17,1,16,0,0
-Scott,B100,City Council City OF Georgetown,,,Stephen D. PRICE,31,5,24,2,0
-Scott,B100,City Council City OF Georgetown,,,Under Votes,476,105,363,8,0
-Scott,B100,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,B100,Mayor City of Georgetown,,,Burney JENKINS,50,14,35,1,0
+Scott,B100,Mayor City of Georgetown,,,Alonzo ALLEN,21,4,16,1,0
+Scott,B100,Mayor City of Georgetown,,,Dan HOLMAN,38,7,30,1,0
+Scott,B100,Mayor City of Georgetown,,,Kim MENKE,35,10,24,1,0
+Scott,B100,Mayor City of Georgetown,,,Under Votes,9,2,7,0,0
+Scott,B100,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,B100,City Council City of Georgetown,,,Theta VINEGAR,41,11,28,2,0
+Scott,B100,City Council City of Georgetown,,,Willow HAMBRICK,65,21,41,3,0
+Scott,B100,City Council City of Georgetown,,,Tony HALL,36,11,22,3,0
+Scott,B100,City Council City of Georgetown,,,Michael CRISP,66,12,52,2,0
+Scott,B100,City Council City of Georgetown,,,Sonja Wilkins BRENT,41,12,28,1,0
+Scott,B100,City Council City of Georgetown,,,Dean STRONG,25,6,18,1,0
+Scott,B100,City Council City of Georgetown,,,Todd STONE,78,19,57,2,0
+Scott,B100,City Council City of Georgetown,,,Mark SHOWALTER,47,12,34,1,0
+Scott,B100,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,49,16,31,2,0
+Scott,B100,City Council City of Georgetown,,,Connie K. TACKETT,42,15,26,1,0
+Scott,B100,City Council City of Georgetown,,,David J. LUSBY,39,11,27,1,0
+Scott,B100,City Council City of Georgetown,,,Karen TINGLE SAMES,55,15,38,2,0
+Scott,B100,City Council City of Georgetown,,,Charles Kevin LONG,17,2,15,0,0
+Scott,B100,City Council City of Georgetown,,,Donnie BLACK,21,3,18,0,0
+Scott,B100,City Council City of Georgetown,,,Greg HAMPTON,51,15,36,0,0
+Scott,B100,City Council City of Georgetown,,,Kevin JOHNSON,27,4,22,1,0
+Scott,B100,City Council City of Georgetown,,,Michael JAMES,17,1,16,0,0
+Scott,B100,City Council City of Georgetown,,,Stephen D. PRICE,31,5,24,2,0
+Scott,B100,City Council City of Georgetown,,,Under Votes,476,105,363,8,0
+Scott,B100,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,C101,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
 Scott,C101,U.S. Senate,,Republican,Anissa CATLETT,4,1,3,0,0
 Scott,C101,U.S. Senate,,Republican,Daniel CAMERON,133,38,91,3,1
@@ -267,35 +267,35 @@ Scott,C101,U.S. House,6,Democratic,Cherlynn STEVENSON,155,31,118,6,0
 Scott,C101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Scott,C101,U.S. House,6,Democratic,Corey EDWARDS,15,5,10,0,0
 Scott,C101,U.S. House,6,Democratic,Zach DEMBO,203,65,127,9,2
-Scott,C101,State Representative,62,,Randy Jackson SIMPKINS,220,54,162,3,1
+Scott,C101,State Representative,62,Democratic,Randy Jackson SIMPKINS,220,54,162,3,1
 Scott,C101,State Representative,62,,Under Votes,94,31,59,3,1
 Scott,C101,State Representative,62,,Over Votes,4,0,4,0,0
-Scott,C101,Mayor City OF Georgetown,,,Burney JENKINS,57,19,36,2,0
-Scott,C101,Mayor City OF Georgetown,,,Alonzo ALLEN,23,4,19,0,0
-Scott,C101,Mayor City OF Georgetown,,,Dan HOLMAN,48,14,31,3,0
-Scott,C101,Mayor City OF Georgetown,,,Kim MENKE,55,22,30,3,0
-Scott,C101,Mayor City OF Georgetown,,,Under Votes,13,3,6,4,0
-Scott,C101,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,C101,City Council City OF Georgetown,,,Theta VINEGAR,79,25,52,2,0
-Scott,C101,City Council City OF Georgetown,,,Willow HAMBRICK,74,27,45,2,0
-Scott,C101,City Council City OF Georgetown,,,Tony HALL,37,17,20,0,0
-Scott,C101,City Council City OF Georgetown,,,Michael CRISP,66,25,38,3,0
-Scott,C101,City Council City OF Georgetown,,,Sonja Wilkins BRENT,54,13,40,1,0
-Scott,C101,City Council City OF Georgetown,,,Dean STRONG,26,16,9,1,0
-Scott,C101,City Council City OF Georgetown,,,Todd STONE,58,20,35,3,0
-Scott,C101,City Council City OF Georgetown,,,Mark SHOWALTER,52,25,26,1,0
-Scott,C101,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,52,18,32,2,0
-Scott,C101,City Council City OF Georgetown,,,Connie K. TACKETT,47,17,29,1,0
-Scott,C101,City Council City OF Georgetown,,,David J. LUSBY,46,17,28,1,0
-Scott,C101,City Council City OF Georgetown,,,Karen TINGLE SAMES,71,27,38,6,0
-Scott,C101,City Council City OF Georgetown,,,Charles Kevin LONG,29,10,18,1,0
-Scott,C101,City Council City OF Georgetown,,,Donnie BLACK,37,15,22,0,0
-Scott,C101,City Council City OF Georgetown,,,Greg HAMPTON,56,25,31,0,0
-Scott,C101,City Council City OF Georgetown,,,Kevin JOHNSON,42,16,26,0,0
-Scott,C101,City Council City OF Georgetown,,,Michael JAMES,36,13,22,1,0
-Scott,C101,City Council City OF Georgetown,,,Stephen D. PRICE,37,11,25,1,0
-Scott,C101,City Council City OF Georgetown,,,Under Votes,653,159,432,62,0
-Scott,C101,City Council City OF Georgetown,,,Over Votes,2,0,1,1,0
+Scott,C101,Mayor City of Georgetown,,,Burney JENKINS,57,19,36,2,0
+Scott,C101,Mayor City of Georgetown,,,Alonzo ALLEN,23,4,19,0,0
+Scott,C101,Mayor City of Georgetown,,,Dan HOLMAN,48,14,31,3,0
+Scott,C101,Mayor City of Georgetown,,,Kim MENKE,55,22,30,3,0
+Scott,C101,Mayor City of Georgetown,,,Under Votes,13,3,6,4,0
+Scott,C101,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,C101,City Council City of Georgetown,,,Theta VINEGAR,79,25,52,2,0
+Scott,C101,City Council City of Georgetown,,,Willow HAMBRICK,74,27,45,2,0
+Scott,C101,City Council City of Georgetown,,,Tony HALL,37,17,20,0,0
+Scott,C101,City Council City of Georgetown,,,Michael CRISP,66,25,38,3,0
+Scott,C101,City Council City of Georgetown,,,Sonja Wilkins BRENT,54,13,40,1,0
+Scott,C101,City Council City of Georgetown,,,Dean STRONG,26,16,9,1,0
+Scott,C101,City Council City of Georgetown,,,Todd STONE,58,20,35,3,0
+Scott,C101,City Council City of Georgetown,,,Mark SHOWALTER,52,25,26,1,0
+Scott,C101,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,52,18,32,2,0
+Scott,C101,City Council City of Georgetown,,,Connie K. TACKETT,47,17,29,1,0
+Scott,C101,City Council City of Georgetown,,,David J. LUSBY,46,17,28,1,0
+Scott,C101,City Council City of Georgetown,,,Karen TINGLE SAMES,71,27,38,6,0
+Scott,C101,City Council City of Georgetown,,,Charles Kevin LONG,29,10,18,1,0
+Scott,C101,City Council City of Georgetown,,,Donnie BLACK,37,15,22,0,0
+Scott,C101,City Council City of Georgetown,,,Greg HAMPTON,56,25,31,0,0
+Scott,C101,City Council City of Georgetown,,,Kevin JOHNSON,42,16,26,0,0
+Scott,C101,City Council City of Georgetown,,,Michael JAMES,36,13,22,1,0
+Scott,C101,City Council City of Georgetown,,,Stephen D. PRICE,37,11,25,1,0
+Scott,C101,City Council City of Georgetown,,,Under Votes,653,159,432,62,0
+Scott,C101,City Council City of Georgetown,,,Over Votes,2,0,1,1,0
 Scott,C103,U.S. Senate,,Republican,A. Nick SHELLEY,2,0,2,0,0
 Scott,C103,U.S. Senate,,Republican,Anissa CATLETT,8,3,5,0,0
 Scott,C103,U.S. Senate,,Republican,Daniel CAMERON,74,11,62,0,1
@@ -339,32 +339,32 @@ Scott,C103,U.S. House,6,Democratic,Cherlynn STEVENSON,128,32,91,5,0
 Scott,C103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,0,3,0,0
 Scott,C103,U.S. House,6,Democratic,Corey EDWARDS,15,4,11,0,0
 Scott,C103,U.S. House,6,Democratic,Zach DEMBO,60,18,39,2,1
-Scott,C103,Mayor City OF Georgetown,,,Burney JENKINS,200,33,161,5,1
-Scott,C103,Mayor City OF Georgetown,,,Alonzo ALLEN,111,31,77,3,0
-Scott,C103,Mayor City OF Georgetown,,,Dan HOLMAN,113,18,93,2,0
-Scott,C103,Mayor City OF Georgetown,,,Kim MENKE,127,25,98,3,1
-Scott,C103,Mayor City OF Georgetown,,,Under Votes,27,5,22,0,0
-Scott,C103,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,C103,City Council City OF Georgetown,,,Theta VINEGAR,253,53,196,3,1
-Scott,C103,City Council City OF Georgetown,,,Willow HAMBRICK,226,53,167,5,1
-Scott,C103,City Council City OF Georgetown,,,Tony HALL,131,21,105,4,1
-Scott,C103,City Council City OF Georgetown,,,Michael CRISP,202,45,150,5,2
-Scott,C103,City Council City OF Georgetown,,,Sonja Wilkins BRENT,200,46,150,3,1
-Scott,C103,City Council City OF Georgetown,,,Dean STRONG,103,22,77,3,1
-Scott,C103,City Council City OF Georgetown,,,Todd STONE,212,49,154,8,1
-Scott,C103,City Council City OF Georgetown,,,Mark SHOWALTER,179,34,142,3,0
-Scott,C103,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,152,33,111,7,1
-Scott,C103,City Council City OF Georgetown,,,Connie K. TACKETT,176,29,142,5,0
-Scott,C103,City Council City OF Georgetown,,,David J. LUSBY,147,29,116,2,0
-Scott,C103,City Council City OF Georgetown,,,Karen TINGLE SAMES,212,45,160,5,2
-Scott,C103,City Council City OF Georgetown,,,Charles Kevin LONG,76,15,56,4,1
-Scott,C103,City Council City OF Georgetown,,,Donnie BLACK,96,17,76,2,1
-Scott,C103,City Council City OF Georgetown,,,Greg HAMPTON,161,33,122,6,0
-Scott,C103,City Council City OF Georgetown,,,Kevin JOHNSON,104,24,76,3,1
-Scott,C103,City Council City OF Georgetown,,,Michael JAMES,103,24,75,4,0
-Scott,C103,City Council City OF Georgetown,,,Stephen D. PRICE,125,21,98,5,1
-Scott,C103,City Council City OF Georgetown,,,Under Votes,1766,303,1435,27,1
-Scott,C103,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,C103,Mayor City of Georgetown,,,Burney JENKINS,200,33,161,5,1
+Scott,C103,Mayor City of Georgetown,,,Alonzo ALLEN,111,31,77,3,0
+Scott,C103,Mayor City of Georgetown,,,Dan HOLMAN,113,18,93,2,0
+Scott,C103,Mayor City of Georgetown,,,Kim MENKE,127,25,98,3,1
+Scott,C103,Mayor City of Georgetown,,,Under Votes,27,5,22,0,0
+Scott,C103,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,C103,City Council City of Georgetown,,,Theta VINEGAR,253,53,196,3,1
+Scott,C103,City Council City of Georgetown,,,Willow HAMBRICK,226,53,167,5,1
+Scott,C103,City Council City of Georgetown,,,Tony HALL,131,21,105,4,1
+Scott,C103,City Council City of Georgetown,,,Michael CRISP,202,45,150,5,2
+Scott,C103,City Council City of Georgetown,,,Sonja Wilkins BRENT,200,46,150,3,1
+Scott,C103,City Council City of Georgetown,,,Dean STRONG,103,22,77,3,1
+Scott,C103,City Council City of Georgetown,,,Todd STONE,212,49,154,8,1
+Scott,C103,City Council City of Georgetown,,,Mark SHOWALTER,179,34,142,3,0
+Scott,C103,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,152,33,111,7,1
+Scott,C103,City Council City of Georgetown,,,Connie K. TACKETT,176,29,142,5,0
+Scott,C103,City Council City of Georgetown,,,David J. LUSBY,147,29,116,2,0
+Scott,C103,City Council City of Georgetown,,,Karen TINGLE SAMES,212,45,160,5,2
+Scott,C103,City Council City of Georgetown,,,Charles Kevin LONG,76,15,56,4,1
+Scott,C103,City Council City of Georgetown,,,Donnie BLACK,96,17,76,2,1
+Scott,C103,City Council City of Georgetown,,,Greg HAMPTON,161,33,122,6,0
+Scott,C103,City Council City of Georgetown,,,Kevin JOHNSON,104,24,76,3,1
+Scott,C103,City Council City of Georgetown,,,Michael JAMES,103,24,75,4,0
+Scott,C103,City Council City of Georgetown,,,Stephen D. PRICE,125,21,98,5,1
+Scott,C103,City Council City of Georgetown,,,Under Votes,1766,303,1435,27,1
+Scott,C103,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,D100,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,0,1,0
 Scott,D100,U.S. Senate,,Republican,Anissa CATLETT,5,0,5,0,0
 Scott,D100,U.S. Senate,,Republican,Daniel CAMERON,93,26,63,2,2
@@ -412,35 +412,35 @@ Scott,D100,U.S. House,6,Democratic,Cherlynn STEVENSON,115,31,78,6,0
 Scott,D100,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,3,1,1,1,0
 Scott,D100,U.S. House,6,Democratic,Corey EDWARDS,6,3,2,1,0
 Scott,D100,U.S. House,6,Democratic,Zach DEMBO,80,34,42,4,0
-Scott,D100,State Representative,62,,Randy Jackson SIMPKINS,140,38,95,7,0
+Scott,D100,State Representative,62,Democratic,Randy Jackson SIMPKINS,140,38,95,7,0
 Scott,D100,State Representative,62,,Under Votes,66,25,37,4,0
 Scott,D100,State Representative,62,,Over Votes,1,0,1,0,0
-Scott,D100,Mayor City OF Georgetown,,,Burney JENKINS,204,55,134,14,1
-Scott,D100,Mayor City OF Georgetown,,,Alonzo ALLEN,209,58,142,8,1
-Scott,D100,Mayor City OF Georgetown,,,Dan HOLMAN,144,31,109,4,0
-Scott,D100,Mayor City OF Georgetown,,,Kim MENKE,186,68,114,3,1
-Scott,D100,Mayor City OF Georgetown,,,Under Votes,32,9,23,0,0
-Scott,D100,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,D100,City Council City OF Georgetown,,,Theta VINEGAR,225,65,150,8,2
-Scott,D100,City Council City OF Georgetown,,,Willow HAMBRICK,295,86,192,17,0
-Scott,D100,City Council City OF Georgetown,,,Tony HALL,170,42,123,5,0
-Scott,D100,City Council City OF Georgetown,,,Michael CRISP,338,107,217,11,3
-Scott,D100,City Council City OF Georgetown,,,Sonja Wilkins BRENT,182,48,123,11,0
-Scott,D100,City Council City OF Georgetown,,,Dean STRONG,104,25,74,4,1
-Scott,D100,City Council City OF Georgetown,,,Todd STONE,280,78,191,10,1
-Scott,D100,City Council City OF Georgetown,,,Mark SHOWALTER,230,70,152,7,1
-Scott,D100,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,245,79,150,15,1
-Scott,D100,City Council City OF Georgetown,,,Connie K. TACKETT,185,53,124,8,0
-Scott,D100,City Council City OF Georgetown,,,David J. LUSBY,306,99,194,11,2
-Scott,D100,City Council City OF Georgetown,,,Karen TINGLE SAMES,279,82,183,13,1
-Scott,D100,City Council City OF Georgetown,,,Charles Kevin LONG,90,31,57,1,1
-Scott,D100,City Council City OF Georgetown,,,Donnie BLACK,112,30,81,1,0
-Scott,D100,City Council City OF Georgetown,,,Greg HAMPTON,259,73,181,5,0
-Scott,D100,City Council City OF Georgetown,,,Kevin JOHNSON,148,42,99,7,0
-Scott,D100,City Council City OF Georgetown,,,Michael JAMES,101,29,69,3,0
-Scott,D100,City Council City OF Georgetown,,,Stephen D. PRICE,127,31,92,4,0
-Scott,D100,City Council City OF Georgetown,,,Under Votes,2524,698,1724,91,11
-Scott,D100,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,D100,Mayor City of Georgetown,,,Burney JENKINS,204,55,134,14,1
+Scott,D100,Mayor City of Georgetown,,,Alonzo ALLEN,209,58,142,8,1
+Scott,D100,Mayor City of Georgetown,,,Dan HOLMAN,144,31,109,4,0
+Scott,D100,Mayor City of Georgetown,,,Kim MENKE,186,68,114,3,1
+Scott,D100,Mayor City of Georgetown,,,Under Votes,32,9,23,0,0
+Scott,D100,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,D100,City Council City of Georgetown,,,Theta VINEGAR,225,65,150,8,2
+Scott,D100,City Council City of Georgetown,,,Willow HAMBRICK,295,86,192,17,0
+Scott,D100,City Council City of Georgetown,,,Tony HALL,170,42,123,5,0
+Scott,D100,City Council City of Georgetown,,,Michael CRISP,338,107,217,11,3
+Scott,D100,City Council City of Georgetown,,,Sonja Wilkins BRENT,182,48,123,11,0
+Scott,D100,City Council City of Georgetown,,,Dean STRONG,104,25,74,4,1
+Scott,D100,City Council City of Georgetown,,,Todd STONE,280,78,191,10,1
+Scott,D100,City Council City of Georgetown,,,Mark SHOWALTER,230,70,152,7,1
+Scott,D100,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,245,79,150,15,1
+Scott,D100,City Council City of Georgetown,,,Connie K. TACKETT,185,53,124,8,0
+Scott,D100,City Council City of Georgetown,,,David J. LUSBY,306,99,194,11,2
+Scott,D100,City Council City of Georgetown,,,Karen TINGLE SAMES,279,82,183,13,1
+Scott,D100,City Council City of Georgetown,,,Charles Kevin LONG,90,31,57,1,1
+Scott,D100,City Council City of Georgetown,,,Donnie BLACK,112,30,81,1,0
+Scott,D100,City Council City of Georgetown,,,Greg HAMPTON,259,73,181,5,0
+Scott,D100,City Council City of Georgetown,,,Kevin JOHNSON,148,42,99,7,0
+Scott,D100,City Council City of Georgetown,,,Michael JAMES,101,29,69,3,0
+Scott,D100,City Council City of Georgetown,,,Stephen D. PRICE,127,31,92,4,0
+Scott,D100,City Council City of Georgetown,,,Under Votes,2524,698,1724,91,11
+Scott,D100,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,D102,U.S. Senate,,Republican,A. Nick SHELLEY,3,1,2,0,0
 Scott,D102,U.S. Senate,,Republican,Anissa CATLETT,7,1,6,0,0
 Scott,D102,U.S. Senate,,Republican,Daniel CAMERON,108,13,93,1,1
@@ -488,32 +488,32 @@ Scott,D102,U.S. House,6,Democratic,Cherlynn STEVENSON,186,45,132,9,0
 Scott,D102,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,5,1,4,0,0
 Scott,D102,U.S. House,6,Democratic,Corey EDWARDS,15,1,13,1,0
 Scott,D102,U.S. House,6,Democratic,Zach DEMBO,120,36,77,7,0
-Scott,D102,Mayor City OF Georgetown,,,Burney JENKINS,122,16,103,3,0
-Scott,D102,Mayor City OF Georgetown,,,Alonzo ALLEN,66,18,44,4,0
-Scott,D102,Mayor City OF Georgetown,,,Dan HOLMAN,60,15,38,7,0
-Scott,D102,Mayor City OF Georgetown,,,Kim MENKE,91,17,68,6,0
-Scott,D102,Mayor City OF Georgetown,,,Under Votes,19,3,16,0,0
-Scott,D102,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,D102,City Council City OF Georgetown,,,Theta VINEGAR,143,26,108,9,0
-Scott,D102,City Council City OF Georgetown,,,Willow HAMBRICK,166,37,121,8,0
-Scott,D102,City Council City OF Georgetown,,,Tony HALL,85,23,58,4,0
-Scott,D102,City Council City OF Georgetown,,,Michael CRISP,110,21,85,4,0
-Scott,D102,City Council City OF Georgetown,,,Sonja Wilkins BRENT,126,27,94,5,0
-Scott,D102,City Council City OF Georgetown,,,Dean STRONG,52,12,35,5,0
-Scott,D102,City Council City OF Georgetown,,,Todd STONE,124,31,83,10,0
-Scott,D102,City Council City OF Georgetown,,,Mark SHOWALTER,107,23,79,5,0
-Scott,D102,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,108,29,73,6,0
-Scott,D102,City Council City OF Georgetown,,,Connie K. TACKETT,100,18,75,7,0
-Scott,D102,City Council City OF Georgetown,,,David J. LUSBY,82,28,51,3,0
-Scott,D102,City Council City OF Georgetown,,,Karen TINGLE SAMES,137,22,105,10,0
-Scott,D102,City Council City OF Georgetown,,,Charles Kevin LONG,50,10,36,4,0
-Scott,D102,City Council City OF Georgetown,,,Donnie BLACK,53,11,36,6,0
-Scott,D102,City Council City OF Georgetown,,,Greg HAMPTON,109,23,77,9,0
-Scott,D102,City Council City OF Georgetown,,,Kevin JOHNSON,52,7,41,4,0
-Scott,D102,City Council City OF Georgetown,,,Michael JAMES,57,9,42,6,0
-Scott,D102,City Council City OF Georgetown,,,Stephen D. PRICE,86,17,62,7,0
-Scott,D102,City Council City OF Georgetown,,,Under Votes,1117,178,891,48,0
-Scott,D102,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,D102,Mayor City of Georgetown,,,Burney JENKINS,122,16,103,3,0
+Scott,D102,Mayor City of Georgetown,,,Alonzo ALLEN,66,18,44,4,0
+Scott,D102,Mayor City of Georgetown,,,Dan HOLMAN,60,15,38,7,0
+Scott,D102,Mayor City of Georgetown,,,Kim MENKE,91,17,68,6,0
+Scott,D102,Mayor City of Georgetown,,,Under Votes,19,3,16,0,0
+Scott,D102,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,D102,City Council City of Georgetown,,,Theta VINEGAR,143,26,108,9,0
+Scott,D102,City Council City of Georgetown,,,Willow HAMBRICK,166,37,121,8,0
+Scott,D102,City Council City of Georgetown,,,Tony HALL,85,23,58,4,0
+Scott,D102,City Council City of Georgetown,,,Michael CRISP,110,21,85,4,0
+Scott,D102,City Council City of Georgetown,,,Sonja Wilkins BRENT,126,27,94,5,0
+Scott,D102,City Council City of Georgetown,,,Dean STRONG,52,12,35,5,0
+Scott,D102,City Council City of Georgetown,,,Todd STONE,124,31,83,10,0
+Scott,D102,City Council City of Georgetown,,,Mark SHOWALTER,107,23,79,5,0
+Scott,D102,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,108,29,73,6,0
+Scott,D102,City Council City of Georgetown,,,Connie K. TACKETT,100,18,75,7,0
+Scott,D102,City Council City of Georgetown,,,David J. LUSBY,82,28,51,3,0
+Scott,D102,City Council City of Georgetown,,,Karen TINGLE SAMES,137,22,105,10,0
+Scott,D102,City Council City of Georgetown,,,Charles Kevin LONG,50,10,36,4,0
+Scott,D102,City Council City of Georgetown,,,Donnie BLACK,53,11,36,6,0
+Scott,D102,City Council City of Georgetown,,,Greg HAMPTON,109,23,77,9,0
+Scott,D102,City Council City of Georgetown,,,Kevin JOHNSON,52,7,41,4,0
+Scott,D102,City Council City of Georgetown,,,Michael JAMES,57,9,42,6,0
+Scott,D102,City Council City of Georgetown,,,Stephen D. PRICE,86,17,62,7,0
+Scott,D102,City Council City of Georgetown,,,Under Votes,1117,178,891,48,0
+Scott,D102,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,E101,U.S. Senate,,Republican,A. Nick SHELLEY,2,1,1,0,0
 Scott,E101,U.S. Senate,,Republican,Anissa CATLETT,7,1,6,0,0
 Scott,E101,U.S. Senate,,Republican,Daniel CAMERON,51,17,33,1,0
@@ -557,35 +557,35 @@ Scott,E101,U.S. House,6,Democratic,Cherlynn STEVENSON,149,34,107,8,0
 Scott,E101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,6,2,4,0,0
 Scott,E101,U.S. House,6,Democratic,Corey EDWARDS,16,0,16,0,0
 Scott,E101,U.S. House,6,Democratic,Zach DEMBO,129,50,72,7,0
-Scott,E101,State Representative,62,,Randy Jackson SIMPKINS,150,22,123,5,0
+Scott,E101,State Representative,62,Democratic,Randy Jackson SIMPKINS,150,22,123,5,0
 Scott,E101,State Representative,62,,Under Votes,130,42,85,3,0
 Scott,E101,State Representative,62,,Over Votes,1,0,1,0,0
-Scott,E101,Mayor City OF Georgetown,,,Burney JENKINS,270,60,200,10,0
-Scott,E101,Mayor City OF Georgetown,,,Alonzo ALLEN,184,50,131,2,1
-Scott,E101,Mayor City OF Georgetown,,,Dan HOLMAN,136,38,96,2,0
-Scott,E101,Mayor City OF Georgetown,,,Kim MENKE,145,36,100,8,1
-Scott,E101,Mayor City OF Georgetown,,,Under Votes,32,9,22,1,0
-Scott,E101,Mayor City OF Georgetown,,,Over Votes,1,1,0,0,0
-Scott,E101,City Council City OF Georgetown,,,Theta VINEGAR,314,84,220,10,0
-Scott,E101,City Council City OF Georgetown,,,Willow HAMBRICK,324,82,229,12,1
-Scott,E101,City Council City OF Georgetown,,,Tony HALL,182,43,134,4,1
-Scott,E101,City Council City OF Georgetown,,,Michael CRISP,250,66,177,6,1
-Scott,E101,City Council City OF Georgetown,,,Sonja Wilkins BRENT,298,78,207,13,0
-Scott,E101,City Council City OF Georgetown,,,Dean STRONG,101,29,70,2,0
-Scott,E101,City Council City OF Georgetown,,,Todd STONE,360,98,252,9,1
-Scott,E101,City Council City OF Georgetown,,,Mark SHOWALTER,206,67,131,6,2
-Scott,E101,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,195,56,126,12,1
-Scott,E101,City Council City OF Georgetown,,,Connie K. TACKETT,172,32,133,7,0
-Scott,E101,City Council City OF Georgetown,,,David J. LUSBY,216,62,150,3,1
-Scott,E101,City Council City OF Georgetown,,,Karen TINGLE SAMES,285,78,197,9,1
-Scott,E101,City Council City OF Georgetown,,,Charles Kevin LONG,99,27,70,1,1
-Scott,E101,City Council City OF Georgetown,,,Donnie BLACK,118,25,92,1,0
-Scott,E101,City Council City OF Georgetown,,,Greg HAMPTON,231,56,167,6,2
-Scott,E101,City Council City OF Georgetown,,,Kevin JOHNSON,124,32,92,0,0
-Scott,E101,City Council City OF Georgetown,,,Michael JAMES,106,26,80,0,0
-Scott,E101,City Council City OF Georgetown,,,Stephen D. PRICE,185,52,130,3,0
-Scott,E101,City Council City OF Georgetown,,,Under Votes,2370,551,1735,80,4
-Scott,E101,City Council City OF Georgetown,,,Over Votes,1,1,0,0,0
+Scott,E101,Mayor City of Georgetown,,,Burney JENKINS,270,60,200,10,0
+Scott,E101,Mayor City of Georgetown,,,Alonzo ALLEN,184,50,131,2,1
+Scott,E101,Mayor City of Georgetown,,,Dan HOLMAN,136,38,96,2,0
+Scott,E101,Mayor City of Georgetown,,,Kim MENKE,145,36,100,8,1
+Scott,E101,Mayor City of Georgetown,,,Under Votes,32,9,22,1,0
+Scott,E101,Mayor City of Georgetown,,,Over Votes,1,1,0,0,0
+Scott,E101,City Council City of Georgetown,,,Theta VINEGAR,314,84,220,10,0
+Scott,E101,City Council City of Georgetown,,,Willow HAMBRICK,324,82,229,12,1
+Scott,E101,City Council City of Georgetown,,,Tony HALL,182,43,134,4,1
+Scott,E101,City Council City of Georgetown,,,Michael CRISP,250,66,177,6,1
+Scott,E101,City Council City of Georgetown,,,Sonja Wilkins BRENT,298,78,207,13,0
+Scott,E101,City Council City of Georgetown,,,Dean STRONG,101,29,70,2,0
+Scott,E101,City Council City of Georgetown,,,Todd STONE,360,98,252,9,1
+Scott,E101,City Council City of Georgetown,,,Mark SHOWALTER,206,67,131,6,2
+Scott,E101,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,195,56,126,12,1
+Scott,E101,City Council City of Georgetown,,,Connie K. TACKETT,172,32,133,7,0
+Scott,E101,City Council City of Georgetown,,,David J. LUSBY,216,62,150,3,1
+Scott,E101,City Council City of Georgetown,,,Karen TINGLE SAMES,285,78,197,9,1
+Scott,E101,City Council City of Georgetown,,,Charles Kevin LONG,99,27,70,1,1
+Scott,E101,City Council City of Georgetown,,,Donnie BLACK,118,25,92,1,0
+Scott,E101,City Council City of Georgetown,,,Greg HAMPTON,231,56,167,6,2
+Scott,E101,City Council City of Georgetown,,,Kevin JOHNSON,124,32,92,0,0
+Scott,E101,City Council City of Georgetown,,,Michael JAMES,106,26,80,0,0
+Scott,E101,City Council City of Georgetown,,,Stephen D. PRICE,185,52,130,3,0
+Scott,E101,City Council City of Georgetown,,,Under Votes,2370,551,1735,80,4
+Scott,E101,City Council City of Georgetown,,,Over Votes,1,1,0,0,0
 Scott,E103,U.S. Senate,,Republican,A. Nick SHELLEY,1,0,1,0,0
 Scott,E103,U.S. Senate,,Republican,Anissa CATLETT,4,0,3,1,0
 Scott,E103,U.S. Senate,,Republican,Daniel CAMERON,67,16,50,1,0
@@ -629,32 +629,32 @@ Scott,E103,U.S. House,6,Democratic,Cherlynn STEVENSON,128,31,91,5,1
 Scott,E103,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,6,1,5,0,0
 Scott,E103,U.S. House,6,Democratic,Corey EDWARDS,11,0,11,0,0
 Scott,E103,U.S. House,6,Democratic,Zach DEMBO,82,31,48,3,0
-Scott,E103,Mayor City OF Georgetown,,,Burney JENKINS,188,53,130,4,1
-Scott,E103,Mayor City OF Georgetown,,,Alonzo ALLEN,122,23,98,1,0
-Scott,E103,Mayor City OF Georgetown,,,Dan HOLMAN,112,25,81,5,1
-Scott,E103,Mayor City OF Georgetown,,,Kim MENKE,125,34,87,4,0
-Scott,E103,Mayor City OF Georgetown,,,Under Votes,32,4,26,2,0
-Scott,E103,Mayor City OF Georgetown,,,Over Votes,0,0,0,0,0
-Scott,E103,City Council City OF Georgetown,,,Theta VINEGAR,207,45,156,6,0
-Scott,E103,City Council City OF Georgetown,,,Willow HAMBRICK,253,66,177,9,1
-Scott,E103,City Council City OF Georgetown,,,Tony HALL,116,30,81,4,1
-Scott,E103,City Council City OF Georgetown,,,Michael CRISP,183,38,137,7,1
-Scott,E103,City Council City OF Georgetown,,,Sonja Wilkins BRENT,188,40,139,8,1
-Scott,E103,City Council City OF Georgetown,,,Dean STRONG,74,16,52,5,1
-Scott,E103,City Council City OF Georgetown,,,Todd STONE,215,49,158,7,1
-Scott,E103,City Council City OF Georgetown,,,Mark SHOWALTER,184,47,132,4,1
-Scott,E103,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,186,46,133,5,2
-Scott,E103,City Council City OF Georgetown,,,Connie K. TACKETT,186,43,136,6,1
-Scott,E103,City Council City OF Georgetown,,,David J. LUSBY,155,38,115,1,1
-Scott,E103,City Council City OF Georgetown,,,Karen TINGLE SAMES,240,60,169,10,1
-Scott,E103,City Council City OF Georgetown,,,Charles Kevin LONG,70,14,50,5,1
-Scott,E103,City Council City OF Georgetown,,,Donnie BLACK,102,22,79,1,0
-Scott,E103,City Council City OF Georgetown,,,Greg HAMPTON,153,34,114,3,2
-Scott,E103,City Council City OF Georgetown,,,Kevin JOHNSON,111,27,78,5,1
-Scott,E103,City Council City OF Georgetown,,,Michael JAMES,90,25,61,4,0
-Scott,E103,City Council City OF Georgetown,,,Stephen D. PRICE,102,30,70,2,0
-Scott,E103,City Council City OF Georgetown,,,Under Votes,1817,442,1339,36,0
-Scott,E103,City Council City OF Georgetown,,,Over Votes,0,0,0,0,0
+Scott,E103,Mayor City of Georgetown,,,Burney JENKINS,188,53,130,4,1
+Scott,E103,Mayor City of Georgetown,,,Alonzo ALLEN,122,23,98,1,0
+Scott,E103,Mayor City of Georgetown,,,Dan HOLMAN,112,25,81,5,1
+Scott,E103,Mayor City of Georgetown,,,Kim MENKE,125,34,87,4,0
+Scott,E103,Mayor City of Georgetown,,,Under Votes,32,4,26,2,0
+Scott,E103,Mayor City of Georgetown,,,Over Votes,0,0,0,0,0
+Scott,E103,City Council City of Georgetown,,,Theta VINEGAR,207,45,156,6,0
+Scott,E103,City Council City of Georgetown,,,Willow HAMBRICK,253,66,177,9,1
+Scott,E103,City Council City of Georgetown,,,Tony HALL,116,30,81,4,1
+Scott,E103,City Council City of Georgetown,,,Michael CRISP,183,38,137,7,1
+Scott,E103,City Council City of Georgetown,,,Sonja Wilkins BRENT,188,40,139,8,1
+Scott,E103,City Council City of Georgetown,,,Dean STRONG,74,16,52,5,1
+Scott,E103,City Council City of Georgetown,,,Todd STONE,215,49,158,7,1
+Scott,E103,City Council City of Georgetown,,,Mark SHOWALTER,184,47,132,4,1
+Scott,E103,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,186,46,133,5,2
+Scott,E103,City Council City of Georgetown,,,Connie K. TACKETT,186,43,136,6,1
+Scott,E103,City Council City of Georgetown,,,David J. LUSBY,155,38,115,1,1
+Scott,E103,City Council City of Georgetown,,,Karen TINGLE SAMES,240,60,169,10,1
+Scott,E103,City Council City of Georgetown,,,Charles Kevin LONG,70,14,50,5,1
+Scott,E103,City Council City of Georgetown,,,Donnie BLACK,102,22,79,1,0
+Scott,E103,City Council City of Georgetown,,,Greg HAMPTON,153,34,114,3,2
+Scott,E103,City Council City of Georgetown,,,Kevin JOHNSON,111,27,78,5,1
+Scott,E103,City Council City of Georgetown,,,Michael JAMES,90,25,61,4,0
+Scott,E103,City Council City of Georgetown,,,Stephen D. PRICE,102,30,70,2,0
+Scott,E103,City Council City of Georgetown,,,Under Votes,1817,442,1339,36,0
+Scott,E103,City Council City of Georgetown,,,Over Votes,0,0,0,0,0
 Scott,F100,U.S. Senate,,Republican,A. Nick SHELLEY,4,1,3,0,0
 Scott,F100,U.S. Senate,,Republican,Anissa CATLETT,12,4,8,0,0
 Scott,F100,U.S. Senate,,Republican,Daniel CAMERON,198,48,148,2,0
@@ -698,39 +698,39 @@ Scott,F100,U.S. House,6,Democratic,Cherlynn STEVENSON,337,113,208,14,2
 Scott,F100,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,8,2,6,0,0
 Scott,F100,U.S. House,6,Democratic,Corey EDWARDS,16,3,12,1,0
 Scott,F100,U.S. House,6,Democratic,Zach DEMBO,281,107,158,15,1
-Scott,F100,State Representative,62,,Randy Jackson SIMPKINS,323,81,227,14,1
+Scott,F100,State Representative,62,Democratic,Randy Jackson SIMPKINS,323,81,227,14,1
 Scott,F100,State Representative,62,,Under Votes,276,105,159,12,0
 Scott,F100,State Representative,62,,Over Votes,1,0,1,0,0
 Scott,F100,Constable,,,Matthew ELAM,361,113,229,17,2
 Scott,F100,Constable,,,Monte A. RIFFLE,190,47,132,10,1
 Scott,F100,Constable,,,Under Votes,290,112,165,13,0
 Scott,F100,Constable,,,Over Votes,0,0,0,0,0
-Scott,F100,Mayor City OF Georgetown,,,Burney JENKINS,696,201,474,19,2
-Scott,F100,Mayor City OF Georgetown,,,Alonzo ALLEN,281,85,184,11,1
-Scott,F100,Mayor City OF Georgetown,,,Dan HOLMAN,225,63,146,16,0
-Scott,F100,Mayor City OF Georgetown,,,Kim MENKE,546,178,339,23,6
-Scott,F100,Mayor City OF Georgetown,,,Under Votes,76,14,58,4,0
-Scott,F100,Mayor City OF Georgetown,,,Over Votes,4,2,2,0,0
-Scott,F100,City Council City OF Georgetown,,,Theta VINEGAR,712,238,440,30,4
-Scott,F100,City Council City OF Georgetown,,,Willow HAMBRICK,782,262,476,41,3
-Scott,F100,City Council City OF Georgetown,,,Tony HALL,332,91,226,11,4
-Scott,F100,City Council City OF Georgetown,,,Michael CRISP,675,197,450,24,4
-Scott,F100,City Council City OF Georgetown,,,Sonja Wilkins BRENT,547,190,331,24,2
-Scott,F100,City Council City OF Georgetown,,,Dean STRONG,197,65,120,11,1
-Scott,F100,City Council City OF Georgetown,,,Todd STONE,799,238,522,35,4
-Scott,F100,City Council City OF Georgetown,,,Mark SHOWALTER,523,190,311,22,0
-Scott,F100,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,598,227,341,27,3
-Scott,F100,City Council City OF Georgetown,,,Connie K. TACKETT,429,125,283,21,0
-Scott,F100,City Council City OF Georgetown,,,David J. LUSBY,631,203,403,22,3
-Scott,F100,City Council City OF Georgetown,,,Karen TINGLE SAMES,706,219,454,32,1
-Scott,F100,City Council City OF Georgetown,,,Charles Kevin LONG,252,75,163,12,2
-Scott,F100,City Council City OF Georgetown,,,Donnie BLACK,221,83,125,11,2
-Scott,F100,City Council City OF Georgetown,,,Greg HAMPTON,648,210,407,27,4
-Scott,F100,City Council City OF Georgetown,,,Kevin JOHNSON,261,89,164,7,1
-Scott,F100,City Council City OF Georgetown,,,Michael JAMES,253,89,150,11,3
-Scott,F100,City Council City OF Georgetown,,,Stephen D. PRICE,365,90,264,11,0
-Scott,F100,City Council City OF Georgetown,,,Under Votes,5677,1447,3994,205,31
-Scott,F100,City Council City OF Georgetown,,,Over Votes,2,2,0,0,0
+Scott,F100,Mayor City of Georgetown,,,Burney JENKINS,696,201,474,19,2
+Scott,F100,Mayor City of Georgetown,,,Alonzo ALLEN,281,85,184,11,1
+Scott,F100,Mayor City of Georgetown,,,Dan HOLMAN,225,63,146,16,0
+Scott,F100,Mayor City of Georgetown,,,Kim MENKE,546,178,339,23,6
+Scott,F100,Mayor City of Georgetown,,,Under Votes,76,14,58,4,0
+Scott,F100,Mayor City of Georgetown,,,Over Votes,4,2,2,0,0
+Scott,F100,City Council City of Georgetown,,,Theta VINEGAR,712,238,440,30,4
+Scott,F100,City Council City of Georgetown,,,Willow HAMBRICK,782,262,476,41,3
+Scott,F100,City Council City of Georgetown,,,Tony HALL,332,91,226,11,4
+Scott,F100,City Council City of Georgetown,,,Michael CRISP,675,197,450,24,4
+Scott,F100,City Council City of Georgetown,,,Sonja Wilkins BRENT,547,190,331,24,2
+Scott,F100,City Council City of Georgetown,,,Dean STRONG,197,65,120,11,1
+Scott,F100,City Council City of Georgetown,,,Todd STONE,799,238,522,35,4
+Scott,F100,City Council City of Georgetown,,,Mark SHOWALTER,523,190,311,22,0
+Scott,F100,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,598,227,341,27,3
+Scott,F100,City Council City of Georgetown,,,Connie K. TACKETT,429,125,283,21,0
+Scott,F100,City Council City of Georgetown,,,David J. LUSBY,631,203,403,22,3
+Scott,F100,City Council City of Georgetown,,,Karen TINGLE SAMES,706,219,454,32,1
+Scott,F100,City Council City of Georgetown,,,Charles Kevin LONG,252,75,163,12,2
+Scott,F100,City Council City of Georgetown,,,Donnie BLACK,221,83,125,11,2
+Scott,F100,City Council City of Georgetown,,,Greg HAMPTON,648,210,407,27,4
+Scott,F100,City Council City of Georgetown,,,Kevin JOHNSON,261,89,164,7,1
+Scott,F100,City Council City of Georgetown,,,Michael JAMES,253,89,150,11,3
+Scott,F100,City Council City of Georgetown,,,Stephen D. PRICE,365,90,264,11,0
+Scott,F100,City Council City of Georgetown,,,Under Votes,5677,1447,3994,205,31
+Scott,F100,City Council City of Georgetown,,,Over Votes,2,2,0,0,0
 Scott,G101,U.S. Senate,,Republican,A. Nick SHELLEY,5,0,5,0,0
 Scott,G101,U.S. Senate,,Republican,Anissa CATLETT,6,0,6,0,0
 Scott,G101,U.S. Senate,,Republican,Daniel CAMERON,135,33,101,1,0
@@ -774,32 +774,32 @@ Scott,G101,U.S. House,6,Democratic,Cherlynn STEVENSON,214,52,151,11,0
 Scott,G101,U.S. House,6,Democratic,Jimmy Clifton AUSBROOKS,11,4,7,0,0
 Scott,G101,U.S. House,6,Democratic,Corey EDWARDS,30,7,22,1,0
 Scott,G101,U.S. House,6,Democratic,Zach DEMBO,216,78,125,11,2
-Scott,G101,State Representative,62,,Randy Jackson SIMPKINS,273,78,188,7,0
+Scott,G101,State Representative,62,Democratic,Randy Jackson SIMPKINS,273,78,188,7,0
 Scott,G101,State Representative,62,,Under Votes,201,60,132,5,4
 Scott,G101,State Representative,62,,Over Votes,0,0,0,0,0
-Scott,G101,Mayor City OF Georgetown,,,Burney JENKINS,586,170,397,16,3
-Scott,G101,Mayor City OF Georgetown,,,Alonzo ALLEN,242,60,174,6,2
-Scott,G101,Mayor City OF Georgetown,,,Dan HOLMAN,262,59,190,12,1
-Scott,G101,Mayor City OF Georgetown,,,Kim MENKE,267,85,173,7,2
-Scott,G101,Mayor City OF Georgetown,,,Under Votes,54,15,38,1,0
-Scott,G101,Mayor City OF Georgetown,,,Over Votes,1,0,1,0,0
-Scott,G101,City Council City OF Georgetown,,,Theta VINEGAR,617,182,422,12,1
-Scott,G101,City Council City OF Georgetown,,,Willow HAMBRICK,626,180,414,27,5
-Scott,G101,City Council City OF Georgetown,,,Tony HALL,250,60,181,9,0
-Scott,G101,City Council City OF Georgetown,,,Michael CRISP,435,124,300,8,3
-Scott,G101,City Council City OF Georgetown,,,Sonja Wilkins BRENT,469,133,318,18,0
-Scott,G101,City Council City OF Georgetown,,,Dean STRONG,190,48,137,2,3
-Scott,G101,City Council City OF Georgetown,,,Todd STONE,653,183,446,21,3
-Scott,G101,City Council City OF Georgetown,,,Mark SHOWALTER,411,128,268,10,5
-Scott,G101,City Council City OF Georgetown,,,Tammy LUSBY MITCHELL,418,127,270,17,4
-Scott,G101,City Council City OF Georgetown,,,Connie K. TACKETT,320,98,211,11,0
-Scott,G101,City Council City OF Georgetown,,,David J. LUSBY,442,140,282,17,3
-Scott,G101,City Council City OF Georgetown,,,Karen TINGLE SAMES,569,173,372,20,4
-Scott,G101,City Council City OF Georgetown,,,Charles Kevin LONG,237,65,160,12,0
-Scott,G101,City Council City OF Georgetown,,,Donnie BLACK,209,47,158,4,0
-Scott,G101,City Council City OF Georgetown,,,Greg HAMPTON,441,133,296,9,3
-Scott,G101,City Council City OF Georgetown,,,Kevin JOHNSON,233,63,163,6,1
-Scott,G101,City Council City OF Georgetown,,,Michael JAMES,191,49,138,4,0
-Scott,G101,City Council City OF Georgetown,,,Stephen D. PRICE,299,73,218,8,0
-Scott,G101,City Council City OF Georgetown,,,Under Votes,4278,1106,3022,121,29
-Scott,G101,City Council City OF Georgetown,,,Over Votes,1,0,1,0,0
+Scott,G101,Mayor City of Georgetown,,,Burney JENKINS,586,170,397,16,3
+Scott,G101,Mayor City of Georgetown,,,Alonzo ALLEN,242,60,174,6,2
+Scott,G101,Mayor City of Georgetown,,,Dan HOLMAN,262,59,190,12,1
+Scott,G101,Mayor City of Georgetown,,,Kim MENKE,267,85,173,7,2
+Scott,G101,Mayor City of Georgetown,,,Under Votes,54,15,38,1,0
+Scott,G101,Mayor City of Georgetown,,,Over Votes,1,0,1,0,0
+Scott,G101,City Council City of Georgetown,,,Theta VINEGAR,617,182,422,12,1
+Scott,G101,City Council City of Georgetown,,,Willow HAMBRICK,626,180,414,27,5
+Scott,G101,City Council City of Georgetown,,,Tony HALL,250,60,181,9,0
+Scott,G101,City Council City of Georgetown,,,Michael CRISP,435,124,300,8,3
+Scott,G101,City Council City of Georgetown,,,Sonja Wilkins BRENT,469,133,318,18,0
+Scott,G101,City Council City of Georgetown,,,Dean STRONG,190,48,137,2,3
+Scott,G101,City Council City of Georgetown,,,Todd STONE,653,183,446,21,3
+Scott,G101,City Council City of Georgetown,,,Mark SHOWALTER,411,128,268,10,5
+Scott,G101,City Council City of Georgetown,,,Tammy LUSBY MITCHELL,418,127,270,17,4
+Scott,G101,City Council City of Georgetown,,,Connie K. TACKETT,320,98,211,11,0
+Scott,G101,City Council City of Georgetown,,,David J. LUSBY,442,140,282,17,3
+Scott,G101,City Council City of Georgetown,,,Karen TINGLE SAMES,569,173,372,20,4
+Scott,G101,City Council City of Georgetown,,,Charles Kevin LONG,237,65,160,12,0
+Scott,G101,City Council City of Georgetown,,,Donnie BLACK,209,47,158,4,0
+Scott,G101,City Council City of Georgetown,,,Greg HAMPTON,441,133,296,9,3
+Scott,G101,City Council City of Georgetown,,,Kevin JOHNSON,233,63,163,6,1
+Scott,G101,City Council City of Georgetown,,,Michael JAMES,191,49,138,4,0
+Scott,G101,City Council City of Georgetown,,,Stephen D. PRICE,299,73,218,8,0
+Scott,G101,City Council City of Georgetown,,,Under Votes,4278,1106,3022,121,29
+Scott,G101,City Council City of Georgetown,,,Over Votes,1,0,1,0,0
